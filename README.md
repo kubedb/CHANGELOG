@@ -2,27 +2,22 @@
 
 | KubeDB Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
-| [v0.14.0-alpha.0](https://github.com/kubedb/cli/releases/tag/untagged-09c024ef7e9337995bf9) | 0000-12-31 | [User Guide](https://kubedb.com/docs/v0.14.0-alpha.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/untagged-09c024ef7e9337995bf9) | 1.12+ |
-| [v0.13.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.13.0-rc.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/v0.13.0-rc.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/v0.13.0-rc.0) | 1.12+ |
-| [0.12.0](https://github.com/kubedb/cli/releases/tag/0.12.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.12.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.12.0) | 1.12+ |
-| [0.11.0](https://github.com/kubedb/cli/releases/tag/0.11.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.11.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.11.0) | 1.12+ |
-| [0.10.0](https://github.com/kubedb/cli/releases/tag/0.10.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.10.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.10.0) | 1.12+ |
-| [0.9.0](https://github.com/kubedb/cli/releases/tag/0.9.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.9.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0) | 1.12+ |
-| [0.9.0-rc.2](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.2) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.9.0-rc.2) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.2) | 1.12+ |
-| [0.9.0-rc.1](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.1) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.9.0-rc.1) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.1) | 1.12+ |
-| [0.9.0-rc.0](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.9.0-rc.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.0) | 1.12+ |
-| [0.9.0-beta.1](https://github.com/kubedb/cli/releases/tag/0.9.0-beta.1) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.9.0-beta.1) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0-beta.1) | 1.12+ |
-| [0.9.0-beta.0](https://github.com/kubedb/cli/releases/tag/0.9.0-beta.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.9.0-beta.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0-beta.0) | 1.12+ |
-| [0.8.0](https://github.com/kubedb/cli/releases/tag/0.8.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.8.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.8.0) | 1.12+ |
-| [0.8.0-rc.0](https://github.com/kubedb/cli/releases/tag/0.8.0-rc.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.8.0-rc.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.8.0-rc.0) | 1.12+ |
-| [0.8.0-beta.2](https://github.com/kubedb/cli/releases/tag/0.8.0-beta.2) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.8.0-beta.2) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.8.0-beta.2) | 1.12+ |
-| [0.8.0-beta.0](https://github.com/kubedb/cli/releases/tag/0.8.0-beta.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.8.0-beta.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.8.0-beta.0) | 1.12+ |
-| [0.7.1](https://github.com/kubedb/cli/releases/tag/0.7.1) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.7.1) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.7.1) | 1.12+ |
-| [0.7.0](https://github.com/kubedb/cli/releases/tag/0.7.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.7.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.7.0) | 1.12+ |
-| [0.6.0](https://github.com/kubedb/cli/releases/tag/0.6.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.6.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.6.0) | 1.12+ |
-| [0.5.0](https://github.com/kubedb/cli/releases/tag/0.5.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.5.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.5.0) | 1.12+ |
-| [0.4.0](https://github.com/kubedb/cli/releases/tag/0.4.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.4.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.4.0) | 1.12+ |
-| [0.3.1](https://github.com/kubedb/cli/releases/tag/0.3.1) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.3.1) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.3.1) | 1.12+ |
-| [0.3.0](https://github.com/kubedb/cli/releases/tag/0.3.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.3.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.3.0) | 1.12+ |
-| [0.2.0](https://github.com/kubedb/cli/releases/tag/0.2.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.2.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.2.0) | 1.12+ |
-| [0.1.0](https://github.com/kubedb/cli/releases/tag/0.1.0) | 0000-12-31 | [User Guide](https://kubedb.com/docs/0.1.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.1.0) | 1.12+ |
+| [v0.13.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.13.0-rc.0) | 2019-08-22 | [User Guide](https://kubedb.com/docs/v0.13.0-rc.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/v0.13.0-rc.0) |  |
+| [0.12.0](https://github.com/kubedb/cli/releases/tag/0.12.0) | 2019-05-15 | [User Guide](https://kubedb.com/docs/0.12.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.12.0) |  |
+| [0.11.0](https://github.com/kubedb/cli/releases/tag/0.11.0) | 2019-03-23 | [User Guide](https://kubedb.com/docs/0.11.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.11.0) |  |
+| [0.10.0](https://github.com/kubedb/cli/releases/tag/0.10.0) | 2019-02-20 | [User Guide](https://kubedb.com/docs/0.10.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.10.0) |  |
+| [0.9.0](https://github.com/kubedb/cli/releases/tag/0.9.0) | 2018-12-17 | [User Guide](https://kubedb.com/docs/0.9.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0) |  |
+| [0.9.0-rc.2](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.2) | 2018-12-06 | [User Guide](https://kubedb.com/docs/0.9.0-rc.2) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.2) |  |
+| [0.9.0-rc.1](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.1) | 2018-12-04 | [User Guide](https://kubedb.com/docs/0.9.0-rc.1) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.1) |  |
+| [0.9.0-rc.0](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.0) | 2018-10-15 | [User Guide](https://kubedb.com/docs/0.9.0-rc.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.9.0-rc.0) |  |
+| [0.8.0](https://github.com/kubedb/cli/releases/tag/0.8.0) | 2018-06-12 | [User Guide](https://kubedb.com/docs/0.8.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.8.0) |  |
+| [0.8.0-rc.0](https://github.com/kubedb/cli/releases/tag/0.8.0-rc.0) | 2018-05-28 | [User Guide](https://kubedb.com/docs/0.8.0-rc.0) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.8.0-rc.0) |  |
+| [0.7.1](https://github.com/kubedb/cli/releases/tag/0.7.1) | 2017-10-04 | [User Guide](https://github.com/kubedb/docs/tree/0.7.1/docs) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.7.1) |  |
+| [0.7.0](https://github.com/kubedb/cli/releases/tag/0.7.0) | 2017-09-26 | [User Guide](https://github.com/kubedb/docs/tree/0.7.0/docs) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.7.0) |  |
+| [0.6.0](https://github.com/kubedb/cli/releases/tag/0.6.0) | 2017-07-24 | [User Guide](https://github.com/kubedb/docs/tree/0.6.0/docs) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.6.0) |  |
+| [0.5.0](https://github.com/kubedb/cli/releases/tag/0.5.0) | 2017-07-19 | [User Guide](https://github.com/kubedb/docs/tree/0.5.0/docs) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.5.0) |  |
+| [0.4.0](https://github.com/kubedb/cli/releases/tag/0.4.0) | 2017-07-18 | [User Guide](https://github.com/kubedb/docs/tree/0.4.0/docs) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.4.0) |  |
+| [0.3.1](https://github.com/kubedb/cli/releases/tag/0.3.1) | 2017-07-16 | [User Guide](https://github.com/kubedb/docs/tree/0.3.1/docs) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.3.1) |  |
+| [0.3.0](https://github.com/kubedb/cli/releases/tag/0.3.0) | 2017-07-07 | [User Guide](https://github.com/kubedb/docs/tree/0.3.0/docs) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.3.0) |  |
+| [0.2.0](https://github.com/kubedb/cli/releases/tag/0.2.0) | 2017-06-23 | [User Guide](https://github.com/kubedb/docs/tree/0.2.0/docs) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.2.0) |  |
+| [0.1.0](https://github.com/kubedb/cli/releases/tag/0.1.0) | 2017-06-13 | [User Guide](https://github.com/kubedb/docs/tree/0.1.0/docs) | [CHANGELOG](https://github.com/kubedb/cli/releases/tag/0.1.0) |  |

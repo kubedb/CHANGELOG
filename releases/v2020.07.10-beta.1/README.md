@@ -227,6 +227,64 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.7.0-beta.1](https://github.com/kubedb/mysql/releases/tag/v0.7.0-beta.1)
+
+- [19ccc5b8](https://github.com/kubedb/mysql/commit/19ccc5b8) Prepare for release v0.7.0-beta.1 (#201)
+- [e61de0e7](https://github.com/kubedb/mysql/commit/e61de0e7) Update for release Stash@v2020.07.09-beta.0 (#199)
+- [3269df76](https://github.com/kubedb/mysql/commit/3269df76) Allow customizing chart registry (#198)
+- [c487e68e](https://github.com/kubedb/mysql/commit/c487e68e) Update for release Stash@v2020.07.08-beta.0 (#197)
+- [4f288ef0](https://github.com/kubedb/mysql/commit/4f288ef0) Update License (#196)
+- [858a5e03](https://github.com/kubedb/mysql/commit/858a5e03) Update to Kubernetes v1.18.3 (#195)
+- [88dec378](https://github.com/kubedb/mysql/commit/88dec378) Update ci.yml
+- [31ef7c2a](https://github.com/kubedb/mysql/commit/31ef7c2a) Load stash version from .env file for make (#194)
+- [872954a9](https://github.com/kubedb/mysql/commit/872954a9) Update update-release-tracker.sh
+- [771059b9](https://github.com/kubedb/mysql/commit/771059b9) Update update-release-tracker.sh
+- [0e625902](https://github.com/kubedb/mysql/commit/0e625902) Add script to update release tracker on pr merge (#193)
+- [6a204efd](https://github.com/kubedb/mysql/commit/6a204efd) Update .kodiak.toml
+- [de6fc09b](https://github.com/kubedb/mysql/commit/de6fc09b) Various fixes (#192)
+- [86eb3313](https://github.com/kubedb/mysql/commit/86eb3313) Update to Kubernetes v1.18.3 (#191)
+- [937afcc8](https://github.com/kubedb/mysql/commit/937afcc8) Update to Kubernetes v1.18.3
+- [8646a9c8](https://github.com/kubedb/mysql/commit/8646a9c8) Create .kodiak.toml
+- [9f3d2e3c](https://github.com/kubedb/mysql/commit/9f3d2e3c) Use helm --wait in make install command
+- [3d1e9cf3](https://github.com/kubedb/mysql/commit/3d1e9cf3) Use CRD v1 for Kubernetes >= 1.16 (#188)
+- [5df90daa](https://github.com/kubedb/mysql/commit/5df90daa) Merge pull request #187 from kubedb/k-1.18.3
+- [179207de](https://github.com/kubedb/mysql/commit/179207de) Pass context
+- [76c3fc86](https://github.com/kubedb/mysql/commit/76c3fc86) Update to Kubernetes v1.18.3
+- [da9ad307](https://github.com/kubedb/mysql/commit/da9ad307) Fix e2e tests (#186)
+- [d7f2c63d](https://github.com/kubedb/mysql/commit/d7f2c63d) Update stash install commands
+- [cfee601b](https://github.com/kubedb/mysql/commit/cfee601b) Revendor kubedb.dev/apimachinery@master (#185)
+- [741fada4](https://github.com/kubedb/mysql/commit/741fada4) Update crazy-max/ghaction-docker-buildx flag
+- [27291b98](https://github.com/kubedb/mysql/commit/27291b98) Use updated operator labels in e2e tests (#183)
+- [16b00f9d](https://github.com/kubedb/mysql/commit/16b00f9d) Pass annotations from CRD to AppBinding (#184)
+- [b70e0620](https://github.com/kubedb/mysql/commit/b70e0620) Trigger the workflow on push or pull request
+- [6ea308d8](https://github.com/kubedb/mysql/commit/6ea308d8) Update CHANGELOG.md
+- [188c3a91](https://github.com/kubedb/mysql/commit/188c3a91) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#181)
+- [f4a67e95](https://github.com/kubedb/mysql/commit/f4a67e95) Introduce spec.halted and removed dormant and snapshot crd (#178)
+- [8774a90c](https://github.com/kubedb/mysql/commit/8774a90c) Use stash@v0.9.0-rc.4 release (#179)
+- [209653e6](https://github.com/kubedb/mysql/commit/209653e6) Use apache thrift v0.13.0
+- [e89fbe40](https://github.com/kubedb/mysql/commit/e89fbe40) Update github.com/apache/thrift v0.12.0 (#176)
+- [c0d035c9](https://github.com/kubedb/mysql/commit/c0d035c9) Add Pause Feature (#177)
+- [827a92b6](https://github.com/kubedb/mysql/commit/827a92b6) Mount mysql config dir and tmp dir as emptydir (#166)
+- [2a84ed08](https://github.com/kubedb/mysql/commit/2a84ed08) Enable subresource for MySQL crd. (#175)
+- [bc8ec773](https://github.com/kubedb/mysql/commit/bc8ec773) Update kubernetes client-go to 1.16.3 (#174)
+- [014f6b0b](https://github.com/kubedb/mysql/commit/014f6b0b) Matrix tests for github actions (#172)
+- [68f427db](https://github.com/kubedb/mysql/commit/68f427db) Fix default make command
+- [76dc7d7b](https://github.com/kubedb/mysql/commit/76dc7d7b) Use charts to install operator (#173)
+- [5ff41dc1](https://github.com/kubedb/mysql/commit/5ff41dc1) Add add-license make target
+- [132b2a0e](https://github.com/kubedb/mysql/commit/132b2a0e) Add license header to files (#171)
+- [aab6050e](https://github.com/kubedb/mysql/commit/aab6050e) Fix linter errors. (#169)
+- [35043a15](https://github.com/kubedb/mysql/commit/35043a15) Enable make ci (#168)
+- [e452bb4b](https://github.com/kubedb/mysql/commit/e452bb4b) Remove EnableStatusSubresource (#167)
+- [28794570](https://github.com/kubedb/mysql/commit/28794570) Run e2e tests using GitHub actions (#164)
+- [af3b284b](https://github.com/kubedb/mysql/commit/af3b284b) Validate DBVersionSpecs and fixed broken build (#165)
+- [e4963763](https://github.com/kubedb/mysql/commit/e4963763) Update go.yml
+- [a808e508](https://github.com/kubedb/mysql/commit/a808e508) Enable GitHub actions
+- [6fe5dd42](https://github.com/kubedb/mysql/commit/6fe5dd42) Update changelog
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.1](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.1)

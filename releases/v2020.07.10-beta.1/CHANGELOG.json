@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.07.10-beta.1",
-  "release_date": "2020-07-10T07:54:18.100950223Z",
+  "release_date": "2020-07-10T07:54:31.155893753Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.1",
   "kubernetes_version": "1.12+",
@@ -815,6 +815,220 @@
             {
               "SHA": "eecdb2cb",
               "Subject": "Fix E2E tests in github action (#176)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.1",
+          "commits": [
+            {
+              "SHA": "19ccc5b8",
+              "Subject": "Prepare for release v0.7.0-beta.1 (#201)"
+            },
+            {
+              "SHA": "e61de0e7",
+              "Subject": "Update for release Stash@v2020.07.09-beta.0 (#199)"
+            },
+            {
+              "SHA": "3269df76",
+              "Subject": "Allow customizing chart registry (#198)"
+            },
+            {
+              "SHA": "c487e68e",
+              "Subject": "Update for release Stash@v2020.07.08-beta.0 (#197)"
+            },
+            {
+              "SHA": "4f288ef0",
+              "Subject": "Update License (#196)"
+            },
+            {
+              "SHA": "858a5e03",
+              "Subject": "Update to Kubernetes v1.18.3 (#195)"
+            },
+            {
+              "SHA": "88dec378",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "31ef7c2a",
+              "Subject": "Load stash version from .env file for make (#194)"
+            },
+            {
+              "SHA": "872954a9",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "771059b9",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "0e625902",
+              "Subject": "Add script to update release tracker on pr merge (#193)"
+            },
+            {
+              "SHA": "6a204efd",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "de6fc09b",
+              "Subject": "Various fixes (#192)"
+            },
+            {
+              "SHA": "86eb3313",
+              "Subject": "Update to Kubernetes v1.18.3 (#191)"
+            },
+            {
+              "SHA": "937afcc8",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "8646a9c8",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "9f3d2e3c",
+              "Subject": "Use helm --wait in make install command"
+            },
+            {
+              "SHA": "3d1e9cf3",
+              "Subject": "Use CRD v1 for Kubernetes >= 1.16 (#188)"
+            },
+            {
+              "SHA": "5df90daa",
+              "Subject": "Merge pull request #187 from kubedb/k-1.18.3"
+            },
+            {
+              "SHA": "179207de",
+              "Subject": "Pass context"
+            },
+            {
+              "SHA": "76c3fc86",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "da9ad307",
+              "Subject": "Fix e2e tests (#186)"
+            },
+            {
+              "SHA": "d7f2c63d",
+              "Subject": "Update stash install commands"
+            },
+            {
+              "SHA": "cfee601b",
+              "Subject": "Revendor kubedb.dev/apimachinery@master (#185)"
+            },
+            {
+              "SHA": "741fada4",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "27291b98",
+              "Subject": "Use updated operator labels in e2e tests (#183)"
+            },
+            {
+              "SHA": "16b00f9d",
+              "Subject": "Pass annotations from CRD to AppBinding (#184)"
+            },
+            {
+              "SHA": "b70e0620",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "6ea308d8",
+              "Subject": "Update CHANGELOG.md"
+            },
+            {
+              "SHA": "188c3a91",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#181)"
+            },
+            {
+              "SHA": "f4a67e95",
+              "Subject": "Introduce spec.halted and removed dormant and snapshot crd (#178)"
+            },
+            {
+              "SHA": "8774a90c",
+              "Subject": "Use stash@v0.9.0-rc.4 release (#179)"
+            },
+            {
+              "SHA": "209653e6",
+              "Subject": "Use apache thrift v0.13.0"
+            },
+            {
+              "SHA": "e89fbe40",
+              "Subject": "Update github.com/apache/thrift v0.12.0 (#176)"
+            },
+            {
+              "SHA": "c0d035c9",
+              "Subject": "Add Pause Feature (#177)"
+            },
+            {
+              "SHA": "827a92b6",
+              "Subject": "Mount mysql config dir and tmp dir as emptydir (#166)"
+            },
+            {
+              "SHA": "2a84ed08",
+              "Subject": "Enable subresource for MySQL crd. (#175)"
+            },
+            {
+              "SHA": "bc8ec773",
+              "Subject": "Update kubernetes client-go to 1.16.3 (#174)"
+            },
+            {
+              "SHA": "014f6b0b",
+              "Subject": "Matrix tests for github actions (#172)"
+            },
+            {
+              "SHA": "68f427db",
+              "Subject": "Fix default make command"
+            },
+            {
+              "SHA": "76dc7d7b",
+              "Subject": "Use charts to install operator (#173)"
+            },
+            {
+              "SHA": "5ff41dc1",
+              "Subject": "Add add-license make target"
+            },
+            {
+              "SHA": "132b2a0e",
+              "Subject": "Add license header to files (#171)"
+            },
+            {
+              "SHA": "aab6050e",
+              "Subject": "Fix linter errors. (#169)"
+            },
+            {
+              "SHA": "35043a15",
+              "Subject": "Enable make ci (#168)"
+            },
+            {
+              "SHA": "e452bb4b",
+              "Subject": "Remove EnableStatusSubresource (#167)"
+            },
+            {
+              "SHA": "28794570",
+              "Subject": "Run e2e tests using GitHub actions (#164)"
+            },
+            {
+              "SHA": "af3b284b",
+              "Subject": "Validate DBVersionSpecs and fixed broken build (#165)"
+            },
+            {
+              "SHA": "e4963763",
+              "Subject": "Update go.yml"
+            },
+            {
+              "SHA": "a808e508",
+              "Subject": "Enable GitHub actions"
+            },
+            {
+              "SHA": "6fe5dd42",
+              "Subject": "Update changelog"
             }
           ]
         }

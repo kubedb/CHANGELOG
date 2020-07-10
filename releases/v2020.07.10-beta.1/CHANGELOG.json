@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.07.10-beta.1",
-  "release_date": "2020-07-10T08:12:17.671572273Z",
+  "release_date": "2020-07-10T08:13:17.366342281Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.1",
   "kubernetes_version": "1.12+",
@@ -2096,6 +2096,172 @@
         {
           "tag": "v0.2.0-beta.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.1",
+          "commits": [
+            {
+              "SHA": "bbf810c",
+              "Subject": "Prepare for release v0.1.0-beta.1 (#23)"
+            },
+            {
+              "SHA": "5a6e361",
+              "Subject": "include Makefile.env (#22)"
+            },
+            {
+              "SHA": "2d52d66",
+              "Subject": "Update License (#21)"
+            },
+            {
+              "SHA": "33305d5",
+              "Subject": "Update to Kubernetes v1.18.3 (#20)"
+            },
+            {
+              "SHA": "b443a55",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "d3bedc9",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "d9100ec",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "9b86bda",
+              "Subject": "Add script to update release tracker on pr merge (#19)"
+            },
+            {
+              "SHA": "3362cef",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "11ebebd",
+              "Subject": "Use POSTGRES_TAG v0.14.0-alpha.0"
+            },
+            {
+              "SHA": "dbe95b5",
+              "Subject": "Various fixes (#18)"
+            },
+            {
+              "SHA": "c50c65d",
+              "Subject": "Update to Kubernetes v1.18.3 (#17)"
+            },
+            {
+              "SHA": "483fa43",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "c0fa8e4",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "5e33801",
+              "Subject": "Use CRD v1 for Kubernetes >= 1.16 (#16)"
+            },
+            {
+              "SHA": "ef7fe47",
+              "Subject": "Update to Kubernetes v1.18.3 (#15)"
+            },
+            {
+              "SHA": "063339f",
+              "Subject": "Fix e2e tests (#14)"
+            },
+            {
+              "SHA": "7cd92ba",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "e7a47a5",
+              "Subject": "Revendor kubedb.dev/apimachinery@master (#13)"
+            },
+            {
+              "SHA": "9d00916",
+              "Subject": "Use updated operator labels in e2e tests (#12)"
+            },
+            {
+              "SHA": "778924a",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "77be6b9",
+              "Subject": "Update CHANGELOG.md"
+            },
+            {
+              "SHA": "a9decb9",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#11)"
+            },
+            {
+              "SHA": "cd4d272",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "b21b1a1",
+              "Subject": "Revendor and update enterprise sidecar image (#10)"
+            },
+            {
+              "SHA": "463f7bc",
+              "Subject": "Update enterprise operator tag (#9)"
+            },
+            {
+              "SHA": "6e01588",
+              "Subject": "Use kubedb/installer master branch in CI"
+            },
+            {
+              "SHA": "88b98a4",
+              "Subject": "Update pgbouncer controller (#8)"
+            },
+            {
+              "SHA": "a6b71bc",
+              "Subject": "Update variable names"
+            },
+            {
+              "SHA": "1a6794b",
+              "Subject": "Fix plain text secret in exporter container of StatefulSet (#5)"
+            },
+            {
+              "SHA": "ab104a9",
+              "Subject": "Update client-go to kubernetes-1.16.3 (#7)"
+            },
+            {
+              "SHA": "68dbb14",
+              "Subject": "Use charts to install operator (#6)"
+            },
+            {
+              "SHA": "30e3e72",
+              "Subject": "Add add-license make target"
+            },
+            {
+              "SHA": "6c1a78a",
+              "Subject": "Enable e2e tests in GitHub actions (#4)"
+            },
+            {
+              "SHA": "0960f80",
+              "Subject": "Initial implementation (#2)"
+            },
+            {
+              "SHA": "a8a9b1d",
+              "Subject": "Update go.yml"
+            },
+            {
+              "SHA": "bc3b262",
+              "Subject": "Enable GitHub actions"
+            },
+            {
+              "SHA": "2e33db2",
+              "Subject": "Clone kubedb/postgres repo (#1)"
+            },
+            {
+              "SHA": "45a7cac",
+              "Subject": "Merge commit 'f78de886ed657650438f99574c3b002dd3607497' as 'hack/libbuild'"
+            }
+          ]
         }
       ]
     },

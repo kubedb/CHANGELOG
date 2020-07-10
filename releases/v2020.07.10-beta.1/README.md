@@ -565,6 +565,52 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.1.0-beta.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.1.0-beta.1)
+
+- [bbf810c](https://github.com/kubedb/pgbouncer/commit/bbf810c) Prepare for release v0.1.0-beta.1 (#23)
+- [5a6e361](https://github.com/kubedb/pgbouncer/commit/5a6e361) include Makefile.env (#22)
+- [2d52d66](https://github.com/kubedb/pgbouncer/commit/2d52d66) Update License (#21)
+- [33305d5](https://github.com/kubedb/pgbouncer/commit/33305d5) Update to Kubernetes v1.18.3 (#20)
+- [b443a55](https://github.com/kubedb/pgbouncer/commit/b443a55) Update ci.yml
+- [d3bedc9](https://github.com/kubedb/pgbouncer/commit/d3bedc9) Update update-release-tracker.sh
+- [d9100ec](https://github.com/kubedb/pgbouncer/commit/d9100ec) Update update-release-tracker.sh
+- [9b86bda](https://github.com/kubedb/pgbouncer/commit/9b86bda) Add script to update release tracker on pr merge (#19)
+- [3362cef](https://github.com/kubedb/pgbouncer/commit/3362cef) Update .kodiak.toml
+- [11ebebd](https://github.com/kubedb/pgbouncer/commit/11ebebd) Use POSTGRES_TAG v0.14.0-alpha.0
+- [dbe95b5](https://github.com/kubedb/pgbouncer/commit/dbe95b5) Various fixes (#18)
+- [c50c65d](https://github.com/kubedb/pgbouncer/commit/c50c65d) Update to Kubernetes v1.18.3 (#17)
+- [483fa43](https://github.com/kubedb/pgbouncer/commit/483fa43) Update to Kubernetes v1.18.3
+- [c0fa8e4](https://github.com/kubedb/pgbouncer/commit/c0fa8e4) Create .kodiak.toml
+- [5e33801](https://github.com/kubedb/pgbouncer/commit/5e33801) Use CRD v1 for Kubernetes >= 1.16 (#16)
+- [ef7fe47](https://github.com/kubedb/pgbouncer/commit/ef7fe47) Update to Kubernetes v1.18.3 (#15)
+- [063339f](https://github.com/kubedb/pgbouncer/commit/063339f) Fix e2e tests (#14)
+- [7cd92ba](https://github.com/kubedb/pgbouncer/commit/7cd92ba) Update crazy-max/ghaction-docker-buildx flag
+- [e7a47a5](https://github.com/kubedb/pgbouncer/commit/e7a47a5) Revendor kubedb.dev/apimachinery@master (#13)
+- [9d00916](https://github.com/kubedb/pgbouncer/commit/9d00916) Use updated operator labels in e2e tests (#12)
+- [778924a](https://github.com/kubedb/pgbouncer/commit/778924a) Trigger the workflow on push or pull request
+- [77be6b9](https://github.com/kubedb/pgbouncer/commit/77be6b9) Update CHANGELOG.md
+- [a9decb9](https://github.com/kubedb/pgbouncer/commit/a9decb9) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#11)
+- [cd4d272](https://github.com/kubedb/pgbouncer/commit/cd4d272) Fix build
+- [b21b1a1](https://github.com/kubedb/pgbouncer/commit/b21b1a1) Revendor and update enterprise sidecar image (#10)
+- [463f7bc](https://github.com/kubedb/pgbouncer/commit/463f7bc) Update enterprise operator tag (#9)
+- [6e01588](https://github.com/kubedb/pgbouncer/commit/6e01588) Use kubedb/installer master branch in CI
+- [88b98a4](https://github.com/kubedb/pgbouncer/commit/88b98a4) Update pgbouncer controller (#8)
+- [a6b71bc](https://github.com/kubedb/pgbouncer/commit/a6b71bc) Update variable names
+- [1a6794b](https://github.com/kubedb/pgbouncer/commit/1a6794b) Fix plain text secret in exporter container of StatefulSet (#5)
+- [ab104a9](https://github.com/kubedb/pgbouncer/commit/ab104a9) Update client-go to kubernetes-1.16.3 (#7)
+- [68dbb14](https://github.com/kubedb/pgbouncer/commit/68dbb14) Use charts to install operator (#6)
+- [30e3e72](https://github.com/kubedb/pgbouncer/commit/30e3e72) Add add-license make target
+- [6c1a78a](https://github.com/kubedb/pgbouncer/commit/6c1a78a) Enable e2e tests in GitHub actions (#4)
+- [0960f80](https://github.com/kubedb/pgbouncer/commit/0960f80) Initial implementation (#2)
+- [a8a9b1d](https://github.com/kubedb/pgbouncer/commit/a8a9b1d) Update go.yml
+- [bc3b262](https://github.com/kubedb/pgbouncer/commit/bc3b262) Enable GitHub actions
+- [2e33db2](https://github.com/kubedb/pgbouncer/commit/2e33db2) Clone kubedb/postgres repo (#1)
+- [45a7cac](https://github.com/kubedb/pgbouncer/commit/45a7cac) Merge commit 'f78de886ed657650438f99574c3b002dd3607497' as 'hack/libbuild'
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.14.0-beta.1](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.1)

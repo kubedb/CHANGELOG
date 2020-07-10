@@ -34,6 +34,27 @@
 
 
 
+## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
+
+### [v0.1.0-beta.1](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.1)
+
+- [3e62838](https://github.com/kubedb/mysql-replication-mode-detector/commit/3e62838) Prepare for release v0.1.0-beta.1 (#9)
+- [e54c4c0](https://github.com/kubedb/mysql-replication-mode-detector/commit/e54c4c0) Update License (#7)
+- [e071b02](https://github.com/kubedb/mysql-replication-mode-detector/commit/e071b02) Update to Kubernetes v1.18.3 (#6)
+- [8992bcb](https://github.com/kubedb/mysql-replication-mode-detector/commit/8992bcb) Update update-release-tracker.sh
+- [acc1038](https://github.com/kubedb/mysql-replication-mode-detector/commit/acc1038) Add script to update release tracker on pr merge (#5)
+- [706b5b0](https://github.com/kubedb/mysql-replication-mode-detector/commit/706b5b0) Update .kodiak.toml
+- [4e52c03](https://github.com/kubedb/mysql-replication-mode-detector/commit/4e52c03) Update to Kubernetes v1.18.3 (#4)
+- [adb05ae](https://github.com/kubedb/mysql-replication-mode-detector/commit/adb05ae) Merge branch 'master' into gomod-refresher-1591418508
+- [3a99f80](https://github.com/kubedb/mysql-replication-mode-detector/commit/3a99f80) Create .kodiak.toml
+- [6289807](https://github.com/kubedb/mysql-replication-mode-detector/commit/6289807) Update to Kubernetes v1.18.3
+- [1dd24be](https://github.com/kubedb/mysql-replication-mode-detector/commit/1dd24be) Update to Kubernetes v1.18.3 (#3)
+- [6d02366](https://github.com/kubedb/mysql-replication-mode-detector/commit/6d02366) Update Makefile and CI configuration (#2)
+- [fc95884](https://github.com/kubedb/mysql-replication-mode-detector/commit/fc95884) Add primary role labeler controller (#1)
+- [99dfb12](https://github.com/kubedb/mysql-replication-mode-detector/commit/99dfb12) add readme.md
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.1)

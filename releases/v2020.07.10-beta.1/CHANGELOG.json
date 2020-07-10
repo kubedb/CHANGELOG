@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.07.10-beta.1",
-  "release_date": "2020-07-10T01:46:35.264613671Z",
+  "release_date": "2020-07-10T02:07:18.285990508Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.1",
   "kubernetes_version": "1.12+",
@@ -115,6 +115,72 @@
             {
               "SHA": "f38a109c",
               "Subject": "Change `[]ContainerResources` to `core.ResourceRequirements`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.1",
+          "commits": [
+            {
+              "SHA": "3e62838",
+              "Subject": "Prepare for release v0.1.0-beta.1 (#9)"
+            },
+            {
+              "SHA": "e54c4c0",
+              "Subject": "Update License (#7)"
+            },
+            {
+              "SHA": "e071b02",
+              "Subject": "Update to Kubernetes v1.18.3 (#6)"
+            },
+            {
+              "SHA": "8992bcb",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "acc1038",
+              "Subject": "Add script to update release tracker on pr merge (#5)"
+            },
+            {
+              "SHA": "706b5b0",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "4e52c03",
+              "Subject": "Update to Kubernetes v1.18.3 (#4)"
+            },
+            {
+              "SHA": "adb05ae",
+              "Subject": "Merge branch 'master' into gomod-refresher-1591418508"
+            },
+            {
+              "SHA": "3a99f80",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "6289807",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "1dd24be",
+              "Subject": "Update to Kubernetes v1.18.3 (#3)"
+            },
+            {
+              "SHA": "6d02366",
+              "Subject": "Update Makefile and CI configuration (#2)"
+            },
+            {
+              "SHA": "fc95884",
+              "Subject": "Add primary role labeler controller (#1)"
+            },
+            {
+              "SHA": "99dfb12",
+              "Subject": "add readme.md"
             }
           ]
         }

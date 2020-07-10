@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.07.10-beta.1",
-  "release_date": "2020-07-10T07:37:51.934856119Z",
+  "release_date": "2020-07-10T07:53:17.286144579Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.1",
   "kubernetes_version": "1.12+",
@@ -423,6 +423,188 @@
             {
               "SHA": "bab32534",
               "Subject": "Remove EnableStatusSubresource (#135)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.1",
+          "commits": [
+            {
+              "SHA": "b82a8fa7",
+              "Subject": "Prepare for release v0.7.0-beta.1 (#211)"
+            },
+            {
+              "SHA": "a63d53ae",
+              "Subject": "Update for release Stash@v2020.07.09-beta.0 (#209)"
+            },
+            {
+              "SHA": "4e33e978",
+              "Subject": "include Makefile.env"
+            },
+            {
+              "SHA": "1aa81a18",
+              "Subject": "Allow customizing chart registry (#208)"
+            },
+            {
+              "SHA": "05355e75",
+              "Subject": "Update for release Stash@v2020.07.08-beta.0 (#207)"
+            },
+            {
+              "SHA": "4f6be7b4",
+              "Subject": "Update License (#206)"
+            },
+            {
+              "SHA": "cc54f7d3",
+              "Subject": "Update to Kubernetes v1.18.3 (#204)"
+            },
+            {
+              "SHA": "d1a51b8e",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "3a993329",
+              "Subject": "Load stash version from .env file for make (#203)"
+            },
+            {
+              "SHA": "7180a98c",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "745085fd",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "07d83ac0",
+              "Subject": "Add script to update release tracker on pr merge (#202)"
+            },
+            {
+              "SHA": "bbe205bb",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "998e656e",
+              "Subject": "Various fixes (#201)"
+            },
+            {
+              "SHA": "ca03db09",
+              "Subject": "Update to Kubernetes v1.18.3 (#200)"
+            },
+            {
+              "SHA": "975fc700",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "52972dcf",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "39168e53",
+              "Subject": "Use CRD v1 for Kubernetes >= 1.16 (#199)"
+            },
+            {
+              "SHA": "d6d87e16",
+              "Subject": "Update to Kubernetes v1.18.3 (#198)"
+            },
+            {
+              "SHA": "09cd5809",
+              "Subject": "Fix e2e tests (#197)"
+            },
+            {
+              "SHA": "f47c4846",
+              "Subject": "Update stash install commands"
+            },
+            {
+              "SHA": "010d0294",
+              "Subject": "Revendor kubedb.dev/apimachinery@master (#196)"
+            },
+            {
+              "SHA": "31ef2632",
+              "Subject": "Pass annotations from CRD to AppBinding (#195)"
+            },
+            {
+              "SHA": "9594e92f",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "0693d7a0",
+              "Subject": "Use updated operator labels in e2e tests (#193)"
+            },
+            {
+              "SHA": "5aaeeb90",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "2af16e3c",
+              "Subject": "Update CHANGELOG.md"
+            },
+            {
+              "SHA": "288c5d2f",
+              "Subject": "Use SHARD_INDEX constant from apimachinery"
+            },
+            {
+              "SHA": "4482edf3",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#191)"
+            },
+            {
+              "SHA": "0f20ff3a",
+              "Subject": "Manage SSL certificates using cert-manager (#190)"
+            },
+            {
+              "SHA": "6f0c1aef",
+              "Subject": "Use Minio storage for testing (#188)"
+            },
+            {
+              "SHA": "f8c56bac",
+              "Subject": "Support affinity templating in mongodb-shard (#186)"
+            },
+            {
+              "SHA": "71283767",
+              "Subject": "Use stash@v0.9.0-rc.4 release (#185)"
+            },
+            {
+              "SHA": "f480de35",
+              "Subject": "Fix `Pause` Logic (#184)"
+            },
+            {
+              "SHA": "263e1bac",
+              "Subject": "Refactor CI pipeline to build once (#182)"
+            },
+            {
+              "SHA": "e383f271",
+              "Subject": "Add `Pause` Feature (#181)"
+            },
+            {
+              "SHA": "584ecde6",
+              "Subject": "Delete backupconfig before attempting restoresession. (#180)"
+            },
+            {
+              "SHA": "a78bc2a7",
+              "Subject": "Wipeout if custom databaseSecret has been deleted (#179)"
+            },
+            {
+              "SHA": "e90cd386",
+              "Subject": "Matrix test and Moved out mongo docker files (#178)"
+            },
+            {
+              "SHA": "c132db8f",
+              "Subject": "Add add-license makefile target"
+            },
+            {
+              "SHA": "cc545e04",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "7a2eab2c",
+              "Subject": "Add license header to files (#177)"
+            },
+            {
+              "SHA": "eecdb2cb",
+              "Subject": "Fix E2E tests in github action (#176)"
             }
           ]
         }

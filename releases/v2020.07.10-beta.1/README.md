@@ -120,6 +120,56 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.7.0-beta.1](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-beta.1)
+
+- [b82a8fa7](https://github.com/kubedb/mongodb/commit/b82a8fa7) Prepare for release v0.7.0-beta.1 (#211)
+- [a63d53ae](https://github.com/kubedb/mongodb/commit/a63d53ae) Update for release Stash@v2020.07.09-beta.0 (#209)
+- [4e33e978](https://github.com/kubedb/mongodb/commit/4e33e978) include Makefile.env
+- [1aa81a18](https://github.com/kubedb/mongodb/commit/1aa81a18) Allow customizing chart registry (#208)
+- [05355e75](https://github.com/kubedb/mongodb/commit/05355e75) Update for release Stash@v2020.07.08-beta.0 (#207)
+- [4f6be7b4](https://github.com/kubedb/mongodb/commit/4f6be7b4) Update License (#206)
+- [cc54f7d3](https://github.com/kubedb/mongodb/commit/cc54f7d3) Update to Kubernetes v1.18.3 (#204)
+- [d1a51b8e](https://github.com/kubedb/mongodb/commit/d1a51b8e) Update ci.yml
+- [3a993329](https://github.com/kubedb/mongodb/commit/3a993329) Load stash version from .env file for make (#203)
+- [7180a98c](https://github.com/kubedb/mongodb/commit/7180a98c) Update update-release-tracker.sh
+- [745085fd](https://github.com/kubedb/mongodb/commit/745085fd) Update update-release-tracker.sh
+- [07d83ac0](https://github.com/kubedb/mongodb/commit/07d83ac0) Add script to update release tracker on pr merge (#202)
+- [bbe205bb](https://github.com/kubedb/mongodb/commit/bbe205bb) Update .kodiak.toml
+- [998e656e](https://github.com/kubedb/mongodb/commit/998e656e) Various fixes (#201)
+- [ca03db09](https://github.com/kubedb/mongodb/commit/ca03db09) Update to Kubernetes v1.18.3 (#200)
+- [975fc700](https://github.com/kubedb/mongodb/commit/975fc700) Update to Kubernetes v1.18.3
+- [52972dcf](https://github.com/kubedb/mongodb/commit/52972dcf) Create .kodiak.toml
+- [39168e53](https://github.com/kubedb/mongodb/commit/39168e53) Use CRD v1 for Kubernetes >= 1.16 (#199)
+- [d6d87e16](https://github.com/kubedb/mongodb/commit/d6d87e16) Update to Kubernetes v1.18.3 (#198)
+- [09cd5809](https://github.com/kubedb/mongodb/commit/09cd5809) Fix e2e tests (#197)
+- [f47c4846](https://github.com/kubedb/mongodb/commit/f47c4846) Update stash install commands
+- [010d0294](https://github.com/kubedb/mongodb/commit/010d0294) Revendor kubedb.dev/apimachinery@master (#196)
+- [31ef2632](https://github.com/kubedb/mongodb/commit/31ef2632) Pass annotations from CRD to AppBinding (#195)
+- [9594e92f](https://github.com/kubedb/mongodb/commit/9594e92f) Update crazy-max/ghaction-docker-buildx flag
+- [0693d7a0](https://github.com/kubedb/mongodb/commit/0693d7a0) Use updated operator labels in e2e tests (#193)
+- [5aaeeb90](https://github.com/kubedb/mongodb/commit/5aaeeb90) Trigger the workflow on push or pull request
+- [2af16e3c](https://github.com/kubedb/mongodb/commit/2af16e3c) Update CHANGELOG.md
+- [288c5d2f](https://github.com/kubedb/mongodb/commit/288c5d2f) Use SHARD_INDEX constant from apimachinery
+- [4482edf3](https://github.com/kubedb/mongodb/commit/4482edf3) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#191)
+- [0f20ff3a](https://github.com/kubedb/mongodb/commit/0f20ff3a) Manage SSL certificates using cert-manager (#190)
+- [6f0c1aef](https://github.com/kubedb/mongodb/commit/6f0c1aef) Use Minio storage for testing (#188)
+- [f8c56bac](https://github.com/kubedb/mongodb/commit/f8c56bac) Support affinity templating in mongodb-shard (#186)
+- [71283767](https://github.com/kubedb/mongodb/commit/71283767) Use stash@v0.9.0-rc.4 release (#185)
+- [f480de35](https://github.com/kubedb/mongodb/commit/f480de35) Fix `Pause` Logic (#184)
+- [263e1bac](https://github.com/kubedb/mongodb/commit/263e1bac) Refactor CI pipeline to build once (#182)
+- [e383f271](https://github.com/kubedb/mongodb/commit/e383f271) Add `Pause` Feature (#181)
+- [584ecde6](https://github.com/kubedb/mongodb/commit/584ecde6) Delete backupconfig before attempting restoresession. (#180)
+- [a78bc2a7](https://github.com/kubedb/mongodb/commit/a78bc2a7) Wipeout if custom databaseSecret has been deleted (#179)
+- [e90cd386](https://github.com/kubedb/mongodb/commit/e90cd386) Matrix test and Moved out mongo docker files (#178)
+- [c132db8f](https://github.com/kubedb/mongodb/commit/c132db8f) Add add-license makefile target
+- [cc545e04](https://github.com/kubedb/mongodb/commit/cc545e04) Update Makefile
+- [7a2eab2c](https://github.com/kubedb/mongodb/commit/7a2eab2c) Add license header to files (#177)
+- [eecdb2cb](https://github.com/kubedb/mongodb/commit/eecdb2cb) Fix E2E tests in github action (#176)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.1](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.1)

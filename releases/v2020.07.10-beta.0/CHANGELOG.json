@@ -1,0 +1,202 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.07.10-beta.0",
+  "release_date": "2020-07-10T10:16:14.335793727Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.0",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.07.10-beta.0",
+          "commits": [
+            {
+              "SHA": "26e06e5",
+              "Subject": "Prepare for release v2020.07.10-beta.0 (#2)"
+            },
+            {
+              "SHA": "b205d27",
+              "Subject": "Use testing repo for alpha/beta releases"
+            },
+            {
+              "SHA": "f84140a",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "8e3b02c",
+              "Subject": "Tag chart and app version as string for yq"
+            },
+            {
+              "SHA": "b687080",
+              "Subject": "Add commands to update chart version"
+            },
+            {
+              "SHA": "23f5c99",
+              "Subject": "Add KubeDB bundles (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2020.07.10-beta.0",
+          "commits": [
+            {
+              "SHA": "89af102",
+              "Subject": "Prepare for release v2020.07.10-beta.1 (#47)"
+            },
+            {
+              "SHA": "0500aec",
+              "Subject": "Update docs for kubedb/cli@03de8e3f (#46)"
+            },
+            {
+              "SHA": "7e794f7",
+              "Subject": "Update docs for kubedb/cli@3bcfa7ef (#45)"
+            },
+            {
+              "SHA": "1dbfa96",
+              "Subject": "Update docs for kubedb/cli@0aa91f93 (#44)"
+            },
+            {
+              "SHA": "78bd749",
+              "Subject": "Update docs for kubedb/cli@023555ef (#43)"
+            },
+            {
+              "SHA": "fef5574",
+              "Subject": "Update docs for kubedb/operator@c888d7fd (#42)"
+            },
+            {
+              "SHA": "8196fa5",
+              "Subject": "Add script to open pr (#41)"
+            },
+            {
+              "SHA": "19df516",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "52c5ae5",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "102f433",
+              "Subject": "Add script to update release tracker on pr merge (#40)"
+            },
+            {
+              "SHA": "2fe43eb",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "966da10",
+              "Subject": "Use kubedb cli as a kubectl plugin (#39)"
+            },
+            {
+              "SHA": "45ef0fc",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "68101b8",
+              "Subject": "Recommend kind for creating dev cluster instead of minikube (#37)"
+            },
+            {
+              "SHA": "f894314",
+              "Subject": "PerconaXtraDB doc (#35)"
+            },
+            {
+              "SHA": "b9eb333",
+              "Subject": "Pass --version flag to helm search repo command"
+            },
+            {
+              "SHA": "e0a8aee",
+              "Subject": "Fix css class for helm 3 tab"
+            },
+            {
+              "SHA": "4bbc507",
+              "Subject": "Update installation instructions (#36)"
+            },
+            {
+              "SHA": "ec4ab93",
+              "Subject": "fix typo yaml -> yml"
+            },
+            {
+              "SHA": "fb4984f",
+              "Subject": "Always create rbac resources (#33)"
+            },
+            {
+              "SHA": "60c3b7f",
+              "Subject": "ProxySQL docs (#32)"
+            },
+            {
+              "SHA": "1c1185a",
+              "Subject": "Docs for PgBouncer (#20)"
+            },
+            {
+              "SHA": "062d43f",
+              "Subject": "Documentation for xpack in elasticsearch 6.8, 7.2 and 7.3 (#23)"
+            },
+            {
+              "SHA": "302b499",
+              "Subject": "S3 endpoint related fixes (#29)"
+            },
+            {
+              "SHA": "eba626a",
+              "Subject": "Updated Postgres versions in doc (#25)"
+            },
+            {
+              "SHA": "a633e9a",
+              "Subject": "Update redis guide doc (#28)"
+            },
+            {
+              "SHA": "b0c20de",
+              "Subject": "Add Stash integration doc (#24)"
+            },
+            {
+              "SHA": "64ea706",
+              "Subject": "Add Helm 3 instructions (#30)"
+            },
+            {
+              "SHA": "6f53e9c",
+              "Subject": "Update charts path"
+            },
+            {
+              "SHA": "ad660b2",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "4284eb6",
+              "Subject": "Fix few links in documentation (#27)"
+            },
+            {
+              "SHA": "fbce688",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "e645c49",
+              "Subject": "Use forked liche"
+            },
+            {
+              "SHA": "a6b811c",
+              "Subject": "Check for broken links (#26)"
+            },
+            {
+              "SHA": "9008831",
+              "Subject": "Update Redis doc (#19)"
+            },
+            {
+              "SHA": "f585e06",
+              "Subject": "Change default termination policy as Delete (#22)"
+            },
+            {
+              "SHA": "2f6700c",
+              "Subject": "Templatize front matter (#21)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

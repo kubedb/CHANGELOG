@@ -73,6 +73,63 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.14.0-beta.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.1)
+
+- [9aae4782](https://github.com/kubedb/elasticsearch/commit/9aae4782) Prepare for release v0.14.0-beta.1 (#319)
+- [312e5682](https://github.com/kubedb/elasticsearch/commit/312e5682) Update for release Stash@v2020.07.09-beta.0 (#317)
+- [681f3e87](https://github.com/kubedb/elasticsearch/commit/681f3e87) Include Makefile.env
+- [e460af51](https://github.com/kubedb/elasticsearch/commit/e460af51) Allow customizing chart registry (#316)
+- [64e15a33](https://github.com/kubedb/elasticsearch/commit/64e15a33) Update for release Stash@v2020.07.08-beta.0 (#315)
+- [1f2ef7a6](https://github.com/kubedb/elasticsearch/commit/1f2ef7a6) Update License (#314)
+- [16ce6c90](https://github.com/kubedb/elasticsearch/commit/16ce6c90) Update to Kubernetes v1.18.3 (#313)
+- [3357faa3](https://github.com/kubedb/elasticsearch/commit/3357faa3) Update ci.yml
+- [cb44a1eb](https://github.com/kubedb/elasticsearch/commit/cb44a1eb) Load stash version from .env file for make (#312)
+- [cf212019](https://github.com/kubedb/elasticsearch/commit/cf212019) Update update-release-tracker.sh
+- [5127428e](https://github.com/kubedb/elasticsearch/commit/5127428e) Update update-release-tracker.sh
+- [7f790940](https://github.com/kubedb/elasticsearch/commit/7f790940) Add script to update release tracker on pr merge (#311)
+- [340b6112](https://github.com/kubedb/elasticsearch/commit/340b6112) Update .kodiak.toml
+- [e01c4eec](https://github.com/kubedb/elasticsearch/commit/e01c4eec) Various fixes (#310)
+- [11517f71](https://github.com/kubedb/elasticsearch/commit/11517f71) Update to Kubernetes v1.18.3 (#309)
+- [53d7b117](https://github.com/kubedb/elasticsearch/commit/53d7b117) Update to Kubernetes v1.18.3
+- [7eacc7dd](https://github.com/kubedb/elasticsearch/commit/7eacc7dd) Create .kodiak.toml
+- [b91b23d9](https://github.com/kubedb/elasticsearch/commit/b91b23d9) Use CRD v1 for Kubernetes >= 1.16 (#308)
+- [08c1d2a8](https://github.com/kubedb/elasticsearch/commit/08c1d2a8) Update to Kubernetes v1.18.3 (#307)
+- [32cdb8a4](https://github.com/kubedb/elasticsearch/commit/32cdb8a4) Fix e2e tests (#306)
+- [0bca1a04](https://github.com/kubedb/elasticsearch/commit/0bca1a04) Merge pull request #302 from kubedb/multi-region
+- [bf0c26ee](https://github.com/kubedb/elasticsearch/commit/bf0c26ee) Revendor kubedb.dev/apimachinery@v0.14.0-beta.0
+- [7c00c63c](https://github.com/kubedb/elasticsearch/commit/7c00c63c) Add support for multi-regional cluster
+- [363322df](https://github.com/kubedb/elasticsearch/commit/363322df) Update stash install commands
+- [a0138a36](https://github.com/kubedb/elasticsearch/commit/a0138a36) Update crazy-max/ghaction-docker-buildx flag
+- [3076eb46](https://github.com/kubedb/elasticsearch/commit/3076eb46) Use updated operator labels in e2e tests (#304)
+- [d537b91b](https://github.com/kubedb/elasticsearch/commit/d537b91b) Pass annotations from CRD to AppBinding (#305)
+- [48f9399c](https://github.com/kubedb/elasticsearch/commit/48f9399c) Trigger the workflow on push or pull request
+- [7b8d56cb](https://github.com/kubedb/elasticsearch/commit/7b8d56cb) Update CHANGELOG.md
+- [939f6882](https://github.com/kubedb/elasticsearch/commit/939f6882) Update labelSelector for statefulsets (#300)
+- [ed1c0553](https://github.com/kubedb/elasticsearch/commit/ed1c0553) Make master service headless & add rest-port to all db nodes (#299)
+- [b7e7c8d7](https://github.com/kubedb/elasticsearch/commit/b7e7c8d7) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#301)
+- [e51555d5](https://github.com/kubedb/elasticsearch/commit/e51555d5) Introduce spec.halted and removed dormant and snapshot crd (#296)
+- [8255276f](https://github.com/kubedb/elasticsearch/commit/8255276f) Add spec.selector fields to the governing service (#297)
+- [13bc760f](https://github.com/kubedb/elasticsearch/commit/13bc760f) Use stash@v0.9.0-rc.4 release (#298)
+- [6a21fb86](https://github.com/kubedb/elasticsearch/commit/6a21fb86) Add `Pause` feature (#295)
+- [1b25070c](https://github.com/kubedb/elasticsearch/commit/1b25070c) Refactor CI pipeline to build once (#294)
+- [ace3d779](https://github.com/kubedb/elasticsearch/commit/ace3d779) Fix e2e tests on GitHub actions (#292)
+- [7a7eb8d1](https://github.com/kubedb/elasticsearch/commit/7a7eb8d1) fix bug (#293)
+- [0641649e](https://github.com/kubedb/elasticsearch/commit/0641649e) Use Go 1.13 in CI (#291)
+- [97790e1e](https://github.com/kubedb/elasticsearch/commit/97790e1e) Take out elasticsearch docker images and Matrix test (#289)
+- [3a20c1db](https://github.com/kubedb/elasticsearch/commit/3a20c1db) Fix default make command
+- [ece073a2](https://github.com/kubedb/elasticsearch/commit/ece073a2) Update catalog values for make install command
+- [8df4697b](https://github.com/kubedb/elasticsearch/commit/8df4697b) Use charts to install operator (#290)
+- [5cbde391](https://github.com/kubedb/elasticsearch/commit/5cbde391) Add add-license make target
+- [b7012bc5](https://github.com/kubedb/elasticsearch/commit/b7012bc5) Skip libbuild folder from checking license
+- [d56db3a0](https://github.com/kubedb/elasticsearch/commit/d56db3a0) Add license header to files (#288)
+- [1d0c368a](https://github.com/kubedb/elasticsearch/commit/1d0c368a) Enable make ci (#287)
+- [2e835dff](https://github.com/kubedb/elasticsearch/commit/2e835dff) Remove EnableStatusSubresource (#286)
+- [bcd0ebd9](https://github.com/kubedb/elasticsearch/commit/bcd0ebd9) Fix E2E tests in github action (#285)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-beta.1](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.1)

@@ -198,3 +198,59 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.14.0-beta.1](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.1)
+
+- [3848a43e](https://github.com/kubedb/postgres/commit/3848a43e) Prepare for release v0.14.0-beta.1 (#325)
+- [d4ea0ba7](https://github.com/kubedb/postgres/commit/d4ea0ba7) Update for release Stash@v2020.07.09-beta.0 (#323)
+- [6974afda](https://github.com/kubedb/postgres/commit/6974afda) Allow customizing kube namespace for Stash
+- [d7d79ea1](https://github.com/kubedb/postgres/commit/d7d79ea1) Allow customizing chart registry (#322)
+- [ba0423ac](https://github.com/kubedb/postgres/commit/ba0423ac) Update for release Stash@v2020.07.08-beta.0 (#321)
+- [7e855763](https://github.com/kubedb/postgres/commit/7e855763) Update License
+- [7bea404a](https://github.com/kubedb/postgres/commit/7bea404a) Update to Kubernetes v1.18.3 (#320)
+- [eab0e83f](https://github.com/kubedb/postgres/commit/eab0e83f) Update ci.yml
+- [4949f76e](https://github.com/kubedb/postgres/commit/4949f76e) Load stash version from .env file for make (#319)
+- [79e9d8d9](https://github.com/kubedb/postgres/commit/79e9d8d9) Update update-release-tracker.sh
+- [ca966b7b](https://github.com/kubedb/postgres/commit/ca966b7b) Update update-release-tracker.sh
+- [31bbecfe](https://github.com/kubedb/postgres/commit/31bbecfe) Add script to update release tracker on pr merge (#318)
+- [540d977f](https://github.com/kubedb/postgres/commit/540d977f) Update .kodiak.toml
+- [3e7514a7](https://github.com/kubedb/postgres/commit/3e7514a7) Various fixes (#317)
+- [1a5df17c](https://github.com/kubedb/postgres/commit/1a5df17c) Update to Kubernetes v1.18.3 (#315)
+- [717cfb3f](https://github.com/kubedb/postgres/commit/717cfb3f) Update to Kubernetes v1.18.3
+- [95537169](https://github.com/kubedb/postgres/commit/95537169) Create .kodiak.toml
+- [02579005](https://github.com/kubedb/postgres/commit/02579005) Use CRD v1 for Kubernetes >= 1.16 (#314)
+- [6ce6deb1](https://github.com/kubedb/postgres/commit/6ce6deb1) Update to Kubernetes v1.18.3 (#313)
+- [97f25ba0](https://github.com/kubedb/postgres/commit/97f25ba0) Fix e2e tests (#312)
+- [a989c377](https://github.com/kubedb/postgres/commit/a989c377) Update stash install commands
+- [6af12596](https://github.com/kubedb/postgres/commit/6af12596) Revendor kubedb.dev/apimachinery@master (#311)
+- [9969b064](https://github.com/kubedb/postgres/commit/9969b064) Update crazy-max/ghaction-docker-buildx flag
+- [e3360119](https://github.com/kubedb/postgres/commit/e3360119) Use updated operator labels in e2e tests (#309)
+- [c183007c](https://github.com/kubedb/postgres/commit/c183007c) Pass annotations from CRD to AppBinding (#310)
+- [55581f79](https://github.com/kubedb/postgres/commit/55581f79) Trigger the workflow on push or pull request
+- [931b88cf](https://github.com/kubedb/postgres/commit/931b88cf) Update CHANGELOG.md
+- [6f481749](https://github.com/kubedb/postgres/commit/6f481749) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#308)
+- [15f0611d](https://github.com/kubedb/postgres/commit/15f0611d) Fix error msg to reject halt when termination policy is 'DoNotTerminate'
+- [18aba058](https://github.com/kubedb/postgres/commit/18aba058) Change Pause to Halt (#307)
+- [7e9b1c69](https://github.com/kubedb/postgres/commit/7e9b1c69) feat: allow changes to nodeSelector (#298)
+- [a602faa1](https://github.com/kubedb/postgres/commit/a602faa1) Introduce spec.halted and removed dormant and snapshot crd (#305)
+- [cdd384d7](https://github.com/kubedb/postgres/commit/cdd384d7) Moved leader election to kubedb/pg-leader-election (#304)
+- [32c41db6](https://github.com/kubedb/postgres/commit/32c41db6) Use stash@v0.9.0-rc.4 release (#306)
+- [fa55b472](https://github.com/kubedb/postgres/commit/fa55b472) Make e2e tests stable in github actions (#303)
+- [afdc5fda](https://github.com/kubedb/postgres/commit/afdc5fda) Update client-go to kubernetes-1.16.3 (#301)
+- [d28eb55a](https://github.com/kubedb/postgres/commit/d28eb55a) Take out postgres docker images and Matrix test (#297)
+- [13fee32d](https://github.com/kubedb/postgres/commit/13fee32d) Fix default make command
+- [55dfb368](https://github.com/kubedb/postgres/commit/55dfb368) Update catalog values for make install command
+- [25f5b79c](https://github.com/kubedb/postgres/commit/25f5b79c) Use charts to install operator (#302)
+- [c5a4ed77](https://github.com/kubedb/postgres/commit/c5a4ed77) Add add-license make target
+- [aa1d98d0](https://github.com/kubedb/postgres/commit/aa1d98d0) Add license header to files (#296)
+- [fd356006](https://github.com/kubedb/postgres/commit/fd356006) Fix E2E testing for github actions (#295)
+- [6a3443a7](https://github.com/kubedb/postgres/commit/6a3443a7) Minio and S3 compatible storage fixes (#292)
+- [5150cf34](https://github.com/kubedb/postgres/commit/5150cf34) Run e2e tests using GitHub actions (#293)
+- [a4a3785b](https://github.com/kubedb/postgres/commit/a4a3785b) Validate DBVersionSpecs and fixed broken build (#294)
+- [b171a244](https://github.com/kubedb/postgres/commit/b171a244) Update go.yml
+- [1a61bf29](https://github.com/kubedb/postgres/commit/1a61bf29) Enable GitHub actions
+- [6b869b15](https://github.com/kubedb/postgres/commit/6b869b15) Update changelog
+
+
+

@@ -59,7 +59,11 @@
     },
     {
       "github.com/kubedb/operator": {
-        "tag": "v0.14.0-beta.1"
+        "tag": "v0.14.0-beta.1",
+        "chartNames": [
+          "kubedb",
+          "kubedb-catalog"
+        ]
       }
     },
     {

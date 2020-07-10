@@ -73,6 +73,53 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.7.0-beta.1](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.1)
+
+- [3f7c1b90](https://github.com/kubedb/memcached/commit/3f7c1b90) Prepare for release v0.7.0-beta.1 (#160)
+- [1278cd57](https://github.com/kubedb/memcached/commit/1278cd57) include Makefile.env (#158)
+- [676222b7](https://github.com/kubedb/memcached/commit/676222b7) Update License (#157)
+- [216fdcd4](https://github.com/kubedb/memcached/commit/216fdcd4) Update to Kubernetes v1.18.3 (#156)
+- [dc59abf4](https://github.com/kubedb/memcached/commit/dc59abf4) Update ci.yml
+- [071589c5](https://github.com/kubedb/memcached/commit/071589c5) Update update-release-tracker.sh
+- [79bc96d8](https://github.com/kubedb/memcached/commit/79bc96d8) Update update-release-tracker.sh
+- [31f5fca6](https://github.com/kubedb/memcached/commit/31f5fca6) Add script to update release tracker on pr merge (#155)
+- [05d1d6ab](https://github.com/kubedb/memcached/commit/05d1d6ab) Update .kodiak.toml
+- [522b617f](https://github.com/kubedb/memcached/commit/522b617f) Various fixes (#154)
+- [2ed2c3a0](https://github.com/kubedb/memcached/commit/2ed2c3a0) Update to Kubernetes v1.18.3 (#152)
+- [10cea9ad](https://github.com/kubedb/memcached/commit/10cea9ad) Update to Kubernetes v1.18.3
+- [582177b0](https://github.com/kubedb/memcached/commit/582177b0) Create .kodiak.toml
+- [bf1900b6](https://github.com/kubedb/memcached/commit/bf1900b6) Run flaky e2e test (#151)
+- [aa09abfc](https://github.com/kubedb/memcached/commit/aa09abfc) Use CRD v1 for Kubernetes >= 1.16 (#150)
+- [b2586151](https://github.com/kubedb/memcached/commit/b2586151) Merge pull request #146 from pohly/pmem
+- [dbd5b2b0](https://github.com/kubedb/memcached/commit/dbd5b2b0) Fix build
+- [d0722c34](https://github.com/kubedb/memcached/commit/d0722c34) WIP: implement PMEM support
+- [f16b1198](https://github.com/kubedb/memcached/commit/f16b1198) Makefile: adapt to recent installer repo changes
+- [32f71c56](https://github.com/kubedb/memcached/commit/32f71c56) Makefile: support e2e testing with arbitrary KUBECONFIG file
+- [6ed07efc](https://github.com/kubedb/memcached/commit/6ed07efc) Update to Kubernetes v1.18.3 (#149)
+- [ce702669](https://github.com/kubedb/memcached/commit/ce702669) Fix e2e tests (#148)
+- [18917f8d](https://github.com/kubedb/memcached/commit/18917f8d) Revendor kubedb.dev/apimachinery@master (#147)
+- [e51d327c](https://github.com/kubedb/memcached/commit/e51d327c) Update crazy-max/ghaction-docker-buildx flag
+- [1202c059](https://github.com/kubedb/memcached/commit/1202c059) Use updated operator labels in e2e tests (#144)
+- [e02d42a4](https://github.com/kubedb/memcached/commit/e02d42a4) Pass annotations from CRD to AppBinding (#145)
+- [2c91d63b](https://github.com/kubedb/memcached/commit/2c91d63b) Trigger the workflow on push or pull request
+- [67c83a9a](https://github.com/kubedb/memcached/commit/67c83a9a) Update CHANGELOG.md
+- [85e3cf54](https://github.com/kubedb/memcached/commit/85e3cf54) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#143)
+- [e61dd2e6](https://github.com/kubedb/memcached/commit/e61dd2e6) Update error msg to reject halt when termination policy is 'DoNotTerminate'
+- [bc079b7b](https://github.com/kubedb/memcached/commit/bc079b7b) Introduce spec.halted and removed dormant crd (#142)
+- [f31610c3](https://github.com/kubedb/memcached/commit/f31610c3) Refactor CI pipeline to run build once (#141)
+- [f5eec5e4](https://github.com/kubedb/memcached/commit/f5eec5e4) Update kubernetes client-go to 1.16.3 (#140)
+- [f645174a](https://github.com/kubedb/memcached/commit/f645174a) Update catalog values for make install command
+- [2a297c89](https://github.com/kubedb/memcached/commit/2a297c89) Use charts to install operator (#139)
+- [83e2ba17](https://github.com/kubedb/memcached/commit/83e2ba17) Moved out docker files and added matrix github actions ci/cd (#138)
+- [97e3a5bd](https://github.com/kubedb/memcached/commit/97e3a5bd) Add add-license make target
+- [7b79fbfe](https://github.com/kubedb/memcached/commit/7b79fbfe) Add license header to files (#137)
+- [2afa406f](https://github.com/kubedb/memcached/commit/2afa406f) Enable make ci (#136)
+- [bab32534](https://github.com/kubedb/memcached/commit/bab32534) Remove EnableStatusSubresource (#135)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.1](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.1)

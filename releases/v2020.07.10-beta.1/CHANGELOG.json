@@ -1,0 +1,124 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.07.10-beta.1",
+  "release_date": "2020-07-10T01:18:35.743968985Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.1",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.1",
+          "commits": [
+            {
+              "SHA": "157a8724",
+              "Subject": "Update for release Stash@v2020.07.09-beta.0 (#541)"
+            },
+            {
+              "SHA": "0e86bdbd",
+              "Subject": "Update for release Stash@v2020.07.08-beta.0 (#540)"
+            },
+            {
+              "SHA": "f4a22d0c",
+              "Subject": "Update License notice (#539)"
+            },
+            {
+              "SHA": "3c598500",
+              "Subject": "Use Allowlist and Denylist in MySQLVersion (#537)"
+            },
+            {
+              "SHA": "3c58c062",
+              "Subject": "Update to Kubernetes v1.18.3 (#536)"
+            },
+            {
+              "SHA": "e1f3d603",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "0cf4a01f",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "bfbd1f8d",
+              "Subject": "Add script to update release tracker on pr merge (#533)"
+            },
+            {
+              "SHA": "b817d87c",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "772e8d2f",
+              "Subject": "Add Ops Request const (#529)"
+            },
+            {
+              "SHA": "453d67ca",
+              "Subject": "Add constants for mutator & validator group names (#532)"
+            },
+            {
+              "SHA": "69f997b5",
+              "Subject": "Unwrap top level api folder (#531)"
+            },
+            {
+              "SHA": "a8ccec51",
+              "Subject": "Make RedisOpsRequest Namespaced (#530)"
+            },
+            {
+              "SHA": "8a076bfb",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "6a8e51b9",
+              "Subject": "Update to Kubernetes v1.18.3 (#527)"
+            },
+            {
+              "SHA": "2ef41962",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "8e596d4e",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "31f72200",
+              "Subject": "Update comments"
+            },
+            {
+              "SHA": "27bc9265",
+              "Subject": "Use CRD v1 for Kubernetes >= 1.16 (#525)"
+            },
+            {
+              "SHA": "d1be7d1d",
+              "Subject": "Remove defaults from CRD v1beta1"
+            },
+            {
+              "SHA": "5c73d507",
+              "Subject": "Use crd.Interface in Controller (#524)"
+            },
+            {
+              "SHA": "27763544",
+              "Subject": "Generate both v1beta1 and v1 CRD YAML (#523)"
+            },
+            {
+              "SHA": "5a0f0a93",
+              "Subject": "Update to Kubernetes v1.18.3 (#520)"
+            },
+            {
+              "SHA": "25008c1a",
+              "Subject": "Change MySQL `[]ContainerResources` to `core.ResourceRequirements` (#522)"
+            },
+            {
+              "SHA": "abc99620",
+              "Subject": "Merge pull request #521 from kubedb/mongo-vertical"
+            },
+            {
+              "SHA": "f38a109c",
+              "Subject": "Change `[]ContainerResources` to `core.ResourceRequirements`"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

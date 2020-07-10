@@ -1,4 +1,4 @@
-# KubeDB v2020.07.10-beta.1 (2020-07-10)
+# KubeDB v2020.07.10-beta.0 (2020-07-10)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)

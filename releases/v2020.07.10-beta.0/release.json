@@ -1,6 +1,6 @@
 {
   "product_line": "KubeDB",
-  "release": "v2020.07.10-beta.1",
+  "release": "v2020.07.10-beta.0",
   "docs_url_template": "https://kubedb.com/docs/%s",
   "kubernetes_version": "1.12+",
   "projects": [
@@ -90,7 +90,7 @@
     {
       "github.com/kubedb/docs": {
         "key": "kubedb",
-        "tag": "v2020.07.10-beta.1",
+        "tag": "v2020.07.10-beta.0",
         "commands": [
           "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
         ],
@@ -99,7 +99,7 @@
     },
     {
       "github.com/kubedb/website": {
-        "tag": "v2020.07.10-beta.1",
+        "tag": "v2020.07.10-beta.0",
         "commands": [
           "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
           "make docs",
@@ -111,7 +111,7 @@
     },
     {
       "github.com/kubedb/bundles": {
-        "tag": "v2020.07.10-beta.1",
+        "tag": "v2020.07.10-beta.0",
         "commands": [
           "release-automaton update-bundles --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE} --charts-dir=charts"
         ],

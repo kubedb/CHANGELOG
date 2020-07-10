@@ -1,9 +1,9 @@
 {
   "product_line": "KubeDB",
-  "release": "v2020.07.10-beta.1",
+  "release": "v2020.07.10-beta.0",
   "release_date": "2020-07-10T08:43:21.713506745Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
-  "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.1",
+  "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.0",
   "kubernetes_version": "1.12+",
   "projects": [
     {

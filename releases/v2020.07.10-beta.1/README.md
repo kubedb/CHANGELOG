@@ -306,6 +306,52 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.14.0-beta.1](https://github.com/kubedb/operator/releases/tag/v0.14.0-beta.1)
+
+- [a2bba612](https://github.com/kubedb/operator/commit/a2bba612) Prepare for release v0.14.0-beta.1 (#262)
+- [22bc85ec](https://github.com/kubedb/operator/commit/22bc85ec) Allow customizing chart registry (#261)
+- [52cc1dc7](https://github.com/kubedb/operator/commit/52cc1dc7) Update for release Stash@v2020.07.09-beta.0 (#260)
+- [2e8b709f](https://github.com/kubedb/operator/commit/2e8b709f) Update for release Stash@v2020.07.08-beta.0 (#259)
+- [7b58b548](https://github.com/kubedb/operator/commit/7b58b548) Update License (#258)
+- [d4cd1a93](https://github.com/kubedb/operator/commit/d4cd1a93) Update to Kubernetes v1.18.3 (#256)
+- [f6091845](https://github.com/kubedb/operator/commit/f6091845) Update ci.yml
+- [5324d2b6](https://github.com/kubedb/operator/commit/5324d2b6) Update ci.yml
+- [c888d7fd](https://github.com/kubedb/operator/commit/c888d7fd) Add workflow to update docs (#255)
+- [ba843e17](https://github.com/kubedb/operator/commit/ba843e17) Update update-release-tracker.sh
+- [b93c5ab4](https://github.com/kubedb/operator/commit/b93c5ab4) Update update-release-tracker.sh
+- [6b8d2149](https://github.com/kubedb/operator/commit/6b8d2149) Add script to update release tracker on pr merge (#254)
+- [bb1290dc](https://github.com/kubedb/operator/commit/bb1290dc) Update .kodiak.toml
+- [9bb85c3b](https://github.com/kubedb/operator/commit/9bb85c3b) Register validator & mutators for all supported dbs (#253)
+- [1a524d9c](https://github.com/kubedb/operator/commit/1a524d9c) Various fixes (#252)
+- [4860f2a7](https://github.com/kubedb/operator/commit/4860f2a7) Update to Kubernetes v1.18.3 (#251)
+- [1a163c6a](https://github.com/kubedb/operator/commit/1a163c6a) Create .kodiak.toml
+- [1eda36b9](https://github.com/kubedb/operator/commit/1eda36b9) Update to Kubernetes v1.18.3 (#247)
+- [77b8b858](https://github.com/kubedb/operator/commit/77b8b858) Update enterprise operator tag (#246)
+- [96ca876e](https://github.com/kubedb/operator/commit/96ca876e) Revendor kubedb.dev/apimachinery@master (#245)
+- [43a3a7f1](https://github.com/kubedb/operator/commit/43a3a7f1) Use recommended kubernetes app labels
+- [1ae7045f](https://github.com/kubedb/operator/commit/1ae7045f) Update crazy-max/ghaction-docker-buildx flag
+- [f25034ef](https://github.com/kubedb/operator/commit/f25034ef) Trigger the workflow on push or pull request
+- [ba486319](https://github.com/kubedb/operator/commit/ba486319) Update readme (#244)
+- [5f7191f4](https://github.com/kubedb/operator/commit/5f7191f4) Update CHANGELOG.md
+- [5b14af4b](https://github.com/kubedb/operator/commit/5b14af4b) Add license scan report and status (#241)
+- [9848932b](https://github.com/kubedb/operator/commit/9848932b) Pass the topology object to common controller
+- [90d1c873](https://github.com/kubedb/operator/commit/90d1c873) Initialize topology for MonogDB webhooks (#243)
+- [8ecb87c8](https://github.com/kubedb/operator/commit/8ecb87c8) Fix nil pointer exception (#242)
+- [b12c3392](https://github.com/kubedb/operator/commit/b12c3392) Update operator dependencies (#237)
+- [f714bb1b](https://github.com/kubedb/operator/commit/f714bb1b) Always create RBAC resources (#238)
+- [f43a588e](https://github.com/kubedb/operator/commit/f43a588e) Use Go 1.13 in CI
+- [e8ab3580](https://github.com/kubedb/operator/commit/e8ab3580) Update client-go to kubernetes-1.16.3 (#239)
+- [1dc84a67](https://github.com/kubedb/operator/commit/1dc84a67) Update CI badge
+- [d9d1cc0a](https://github.com/kubedb/operator/commit/d9d1cc0a) Bundle PgBouncer operator (#236)
+- [720303c1](https://github.com/kubedb/operator/commit/720303c1) Fix linter errors (#235)
+- [4c53a71f](https://github.com/kubedb/operator/commit/4c53a71f) Update go.yml
+- [e65fc457](https://github.com/kubedb/operator/commit/e65fc457) Enable GitHub actions
+- [2dcb0d6d](https://github.com/kubedb/operator/commit/2dcb0d6d) Update changelog
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.1.0-beta.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.1)

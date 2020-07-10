@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.07.10-beta.1",
-  "release_date": "2020-07-10T08:13:17.366342281Z",
+  "release_date": "2020-07-10T08:24:00.574695631Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.1",
   "kubernetes_version": "1.12+",
@@ -1095,6 +1095,172 @@
             {
               "SHA": "99dfb12",
               "Subject": "add readme.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.1",
+          "commits": [
+            {
+              "SHA": "a2bba612",
+              "Subject": "Prepare for release v0.14.0-beta.1 (#262)"
+            },
+            {
+              "SHA": "22bc85ec",
+              "Subject": "Allow customizing chart registry (#261)"
+            },
+            {
+              "SHA": "52cc1dc7",
+              "Subject": "Update for release Stash@v2020.07.09-beta.0 (#260)"
+            },
+            {
+              "SHA": "2e8b709f",
+              "Subject": "Update for release Stash@v2020.07.08-beta.0 (#259)"
+            },
+            {
+              "SHA": "7b58b548",
+              "Subject": "Update License (#258)"
+            },
+            {
+              "SHA": "d4cd1a93",
+              "Subject": "Update to Kubernetes v1.18.3 (#256)"
+            },
+            {
+              "SHA": "f6091845",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "5324d2b6",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "c888d7fd",
+              "Subject": "Add workflow to update docs (#255)"
+            },
+            {
+              "SHA": "ba843e17",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "b93c5ab4",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "6b8d2149",
+              "Subject": "Add script to update release tracker on pr merge (#254)"
+            },
+            {
+              "SHA": "bb1290dc",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "9bb85c3b",
+              "Subject": "Register validator & mutators for all supported dbs (#253)"
+            },
+            {
+              "SHA": "1a524d9c",
+              "Subject": "Various fixes (#252)"
+            },
+            {
+              "SHA": "4860f2a7",
+              "Subject": "Update to Kubernetes v1.18.3 (#251)"
+            },
+            {
+              "SHA": "1a163c6a",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "1eda36b9",
+              "Subject": "Update to Kubernetes v1.18.3 (#247)"
+            },
+            {
+              "SHA": "77b8b858",
+              "Subject": "Update enterprise operator tag (#246)"
+            },
+            {
+              "SHA": "96ca876e",
+              "Subject": "Revendor kubedb.dev/apimachinery@master (#245)"
+            },
+            {
+              "SHA": "43a3a7f1",
+              "Subject": "Use recommended kubernetes app labels"
+            },
+            {
+              "SHA": "1ae7045f",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "f25034ef",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "ba486319",
+              "Subject": "Update readme (#244)"
+            },
+            {
+              "SHA": "5f7191f4",
+              "Subject": "Update CHANGELOG.md"
+            },
+            {
+              "SHA": "5b14af4b",
+              "Subject": "Add license scan report and status (#241)"
+            },
+            {
+              "SHA": "9848932b",
+              "Subject": "Pass the topology object to common controller"
+            },
+            {
+              "SHA": "90d1c873",
+              "Subject": "Initialize topology for MonogDB webhooks (#243)"
+            },
+            {
+              "SHA": "8ecb87c8",
+              "Subject": "Fix nil pointer exception (#242)"
+            },
+            {
+              "SHA": "b12c3392",
+              "Subject": "Update operator dependencies (#237)"
+            },
+            {
+              "SHA": "f714bb1b",
+              "Subject": "Always create RBAC resources (#238)"
+            },
+            {
+              "SHA": "f43a588e",
+              "Subject": "Use Go 1.13 in CI"
+            },
+            {
+              "SHA": "e8ab3580",
+              "Subject": "Update client-go to kubernetes-1.16.3 (#239)"
+            },
+            {
+              "SHA": "1dc84a67",
+              "Subject": "Update CI badge"
+            },
+            {
+              "SHA": "d9d1cc0a",
+              "Subject": "Bundle PgBouncer operator (#236)"
+            },
+            {
+              "SHA": "720303c1",
+              "Subject": "Fix linter errors (#235)"
+            },
+            {
+              "SHA": "4c53a71f",
+              "Subject": "Update go.yml"
+            },
+            {
+              "SHA": "e65fc457",
+              "Subject": "Enable GitHub actions"
+            },
+            {
+              "SHA": "2dcb0d6d",
+              "Subject": "Update changelog"
             }
           ]
         }

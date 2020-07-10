@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.07.10-beta.1",
-  "release_date": "2020-07-10T02:07:18.285990508Z",
+  "release_date": "2020-07-10T04:02:14.036921578Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.1",
   "kubernetes_version": "1.12+",
@@ -115,6 +115,144 @@
             {
               "SHA": "f38a109c",
               "Subject": "Change `[]ContainerResources` to `core.ResourceRequirements`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.1",
+          "commits": [
+            {
+              "SHA": "80e77588",
+              "Subject": "Prepare for release v0.14.0-beta.1 (#468)"
+            },
+            {
+              "SHA": "6925c726",
+              "Subject": "Update for release Stash@v2020.07.09-beta.0 (#466)"
+            },
+            {
+              "SHA": "6036e14f",
+              "Subject": "Update for release Stash@v2020.07.08-beta.0 (#465)"
+            },
+            {
+              "SHA": "03de8e3f",
+              "Subject": "Disable autogen tags in docs (#464)"
+            },
+            {
+              "SHA": "3bcfa7ef",
+              "Subject": "Update License (#463)"
+            },
+            {
+              "SHA": "0aa91f93",
+              "Subject": "Update to Kubernetes v1.18.3 (#462)"
+            },
+            {
+              "SHA": "023555ef",
+              "Subject": "Add workflow to update docs (#461)"
+            },
+            {
+              "SHA": "abd9d054",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "0a9527d4",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "69c644a2",
+              "Subject": "Add script to update release tracker on pr merge (#460)"
+            },
+            {
+              "SHA": "595679ba",
+              "Subject": "Make release non-draft"
+            },
+            {
+              "SHA": "880d3492",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "a7607798",
+              "Subject": "Update to Kubernetes v1.18.3 (#459)"
+            },
+            {
+              "SHA": "3197b4b7",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "8ed52c84",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "cfda68d4",
+              "Subject": "Update to Kubernetes v1.18.3 (#458)"
+            },
+            {
+              "SHA": "7395c039",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "542e6709",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "972d8119",
+              "Subject": "Revendor kubedb.dev/apimachinery@master"
+            },
+            {
+              "SHA": "540e5a7d",
+              "Subject": "Cleanup cli commands (#454)"
+            },
+            {
+              "SHA": "98649b0a",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "a0dbdab5",
+              "Subject": "Update readme (#457)"
+            },
+            {
+              "SHA": "a52927ed",
+              "Subject": "Create draft GitHub release when tagged (#456)"
+            },
+            {
+              "SHA": "42838aec",
+              "Subject": "Convert kubedb cli into a `kubectl dba` plgin (#455)"
+            },
+            {
+              "SHA": "aec37df2",
+              "Subject": "Revendor dependencies"
+            },
+            {
+              "SHA": "2c120d1a",
+              "Subject": "Update client-go to kubernetes-1.16.3 (#453)"
+            },
+            {
+              "SHA": "ce221024",
+              "Subject": "Add add-license make target"
+            },
+            {
+              "SHA": "84a6a1e8",
+              "Subject": "Add license header to files (#452)"
+            },
+            {
+              "SHA": "1ced65ea",
+              "Subject": "Split imports into 3 parts (#451)"
+            },
+            {
+              "SHA": "8e533f69",
+              "Subject": "Add release workflow script (#450)"
+            },
+            {
+              "SHA": "0735ce0c",
+              "Subject": "Enable GitHub actions"
+            },
+            {
+              "SHA": "8522ec74",
+              "Subject": "Update changelog"
             }
           ]
         }

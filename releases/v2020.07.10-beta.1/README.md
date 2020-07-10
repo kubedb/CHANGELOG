@@ -34,6 +34,45 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.14.0-beta.1](https://github.com/kubedb/cli/releases/tag/v0.14.0-beta.1)
+
+- [80e77588](https://github.com/kubedb/cli/commit/80e77588) Prepare for release v0.14.0-beta.1 (#468)
+- [6925c726](https://github.com/kubedb/cli/commit/6925c726) Update for release Stash@v2020.07.09-beta.0 (#466)
+- [6036e14f](https://github.com/kubedb/cli/commit/6036e14f) Update for release Stash@v2020.07.08-beta.0 (#465)
+- [03de8e3f](https://github.com/kubedb/cli/commit/03de8e3f) Disable autogen tags in docs (#464)
+- [3bcfa7ef](https://github.com/kubedb/cli/commit/3bcfa7ef) Update License (#463)
+- [0aa91f93](https://github.com/kubedb/cli/commit/0aa91f93) Update to Kubernetes v1.18.3 (#462)
+- [023555ef](https://github.com/kubedb/cli/commit/023555ef) Add workflow to update docs (#461)
+- [abd9d054](https://github.com/kubedb/cli/commit/abd9d054) Update update-release-tracker.sh
+- [0a9527d4](https://github.com/kubedb/cli/commit/0a9527d4) Update update-release-tracker.sh
+- [69c644a2](https://github.com/kubedb/cli/commit/69c644a2) Add script to update release tracker on pr merge (#460)
+- [595679ba](https://github.com/kubedb/cli/commit/595679ba) Make release non-draft
+- [880d3492](https://github.com/kubedb/cli/commit/880d3492) Update .kodiak.toml
+- [a7607798](https://github.com/kubedb/cli/commit/a7607798) Update to Kubernetes v1.18.3 (#459)
+- [3197b4b7](https://github.com/kubedb/cli/commit/3197b4b7) Update to Kubernetes v1.18.3
+- [8ed52c84](https://github.com/kubedb/cli/commit/8ed52c84) Create .kodiak.toml
+- [cfda68d4](https://github.com/kubedb/cli/commit/cfda68d4) Update to Kubernetes v1.18.3 (#458)
+- [7395c039](https://github.com/kubedb/cli/commit/7395c039) Update dependencies
+- [542e6709](https://github.com/kubedb/cli/commit/542e6709) Update crazy-max/ghaction-docker-buildx flag
+- [972d8119](https://github.com/kubedb/cli/commit/972d8119) Revendor kubedb.dev/apimachinery@master
+- [540e5a7d](https://github.com/kubedb/cli/commit/540e5a7d) Cleanup cli commands (#454)
+- [98649b0a](https://github.com/kubedb/cli/commit/98649b0a) Trigger the workflow on push or pull request
+- [a0dbdab5](https://github.com/kubedb/cli/commit/a0dbdab5) Update readme (#457)
+- [a52927ed](https://github.com/kubedb/cli/commit/a52927ed) Create draft GitHub release when tagged (#456)
+- [42838aec](https://github.com/kubedb/cli/commit/42838aec) Convert kubedb cli into a `kubectl dba` plgin (#455)
+- [aec37df2](https://github.com/kubedb/cli/commit/aec37df2) Revendor dependencies
+- [2c120d1a](https://github.com/kubedb/cli/commit/2c120d1a) Update client-go to kubernetes-1.16.3 (#453)
+- [ce221024](https://github.com/kubedb/cli/commit/ce221024) Add add-license make target
+- [84a6a1e8](https://github.com/kubedb/cli/commit/84a6a1e8) Add license header to files (#452)
+- [1ced65ea](https://github.com/kubedb/cli/commit/1ced65ea) Split imports into 3 parts (#451)
+- [8e533f69](https://github.com/kubedb/cli/commit/8e533f69) Add release workflow script (#450)
+- [0735ce0c](https://github.com/kubedb/cli/commit/0735ce0c) Enable GitHub actions
+- [8522ec74](https://github.com/kubedb/cli/commit/8522ec74) Update changelog
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.1](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.1)

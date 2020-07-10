@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.07.10-beta.1",
-  "release_date": "2020-07-10T08:24:00.574695631Z",
+  "release_date": "2020-07-10T08:43:21.713506745Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.1",
   "kubernetes_version": "1.12+",
@@ -463,6 +463,472 @@
             {
               "SHA": "bcd0ebd9",
               "Subject": "Fix E2E tests in github action (#285)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.1",
+          "commits": [
+            {
+              "SHA": "a081a36",
+              "Subject": "Prepare for release v0.14.0-beta.1 (#107)"
+            },
+            {
+              "SHA": "9c3fd4a",
+              "Subject": "Make chart registry configurable (#106)"
+            },
+            {
+              "SHA": "a3da9a1",
+              "Subject": "Publish to testing dir for alpha/beta releases"
+            },
+            {
+              "SHA": "33685ee",
+              "Subject": "Update License (#105)"
+            },
+            {
+              "SHA": "f06fa20",
+              "Subject": "Update MySQL version catalog (#104)"
+            },
+            {
+              "SHA": "674d129",
+              "Subject": "Update to Kubernetes v1.18.3 (#101)"
+            },
+            {
+              "SHA": "fc16306",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "f65dd16",
+              "Subject": "Tag chart and app version as string for yq"
+            },
+            {
+              "SHA": "ac21db4",
+              "Subject": "Update links (#100)"
+            },
+            {
+              "SHA": "4a71c15",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "e7f14e9",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "b26d3b8",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "4f4985d",
+              "Subject": "Add script to update release tracker on pr merge (#98)"
+            },
+            {
+              "SHA": "94baab8",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "2ffe241",
+              "Subject": "Rename TEST_NAMESPACE -> KUBE_NAMESPACE"
+            },
+            {
+              "SHA": "34ba017",
+              "Subject": "Change enterprise operator image name to kubedb-enterprise (#97)"
+            },
+            {
+              "SHA": "bc83b11",
+              "Subject": "Add commands to update chart (#96)"
+            },
+            {
+              "SHA": "a0ddc4b",
+              "Subject": "Bring back postgres 9.6 (#95)"
+            },
+            {
+              "SHA": "59c1cee",
+              "Subject": "Fix chart release process (#94)"
+            },
+            {
+              "SHA": "40072c6",
+              "Subject": "Deprecate non-patched versions (#93)"
+            },
+            {
+              "SHA": "16f09ed",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "bb902e3",
+              "Subject": "Release kubedb-enterprise chart to stable charts"
+            },
+            {
+              "SHA": "7c94dfc",
+              "Subject": "Remove default deprecated: false fields (#92)"
+            },
+            {
+              "SHA": "07b162d",
+              "Subject": "Update chart versions (#91)"
+            },
+            {
+              "SHA": "dd156da",
+              "Subject": "Add rbac for configmaps"
+            },
+            {
+              "SHA": "a175cc9",
+              "Subject": "Revise the validator & mutator webhook names (#90)"
+            },
+            {
+              "SHA": "777b636",
+              "Subject": "Add kubedb-enterprise chart (#89)"
+            },
+            {
+              "SHA": "6d4f4d8",
+              "Subject": "Update to Kubernetes v1.18.3 (#84)"
+            },
+            {
+              "SHA": "8065729",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "87052ae",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "8c8c122",
+              "Subject": "Add RBAC permission for generic garbage collector (#82)"
+            },
+            {
+              "SHA": "f391304",
+              "Subject": "Permit configmap list/watch for delegated authentication (#81)"
+            },
+            {
+              "SHA": "96dbad6",
+              "Subject": "Use updated image registry values field"
+            },
+            {
+              "SHA": "a770d06",
+              "Subject": "Generate both v1beta1 and v1 CRD YAML (#80)"
+            },
+            {
+              "SHA": "ee01bf6",
+              "Subject": "Update to Kubernetes v1.18.3 (#79)"
+            },
+            {
+              "SHA": "7e6edc3",
+              "Subject": "Update chart docs"
+            },
+            {
+              "SHA": "71e999d",
+              "Subject": "Remove combined redis catalog template"
+            },
+            {
+              "SHA": "19aa0a1",
+              "Subject": "Merge pull request #77 from kubedb/opsvalidator"
+            },
+            {
+              "SHA": "103ca84",
+              "Subject": "Use enterprise port values"
+            },
+            {
+              "SHA": "5d538b8",
+              "Subject": "Add ops request validator"
+            },
+            {
+              "SHA": "ce37683",
+              "Subject": "Update enterprise operator tag (#78)"
+            },
+            {
+              "SHA": "9a08d70",
+              "Subject": "Merge pull request #76 from kubedb/mysqlnewversion"
+            },
+            {
+              "SHA": "82a2d67",
+              "Subject": "remove unnecessary code and rename standAlone to standalone"
+            },
+            {
+              "SHA": "f3f6d05",
+              "Subject": "Add extra wrap for depricated version"
+            },
+            {
+              "SHA": "7206194",
+              "Subject": "Add mysql new version"
+            },
+            {
+              "SHA": "f4e79c8",
+              "Subject": "Rename api group to ops.kubedb.com (#75)"
+            },
+            {
+              "SHA": "ee49da5",
+              "Subject": "Add skipDeprecated to catalog chart (#74)"
+            },
+            {
+              "SHA": "dd6d4f9",
+              "Subject": "Split db catalog into separate files per version (#73)"
+            },
+            {
+              "SHA": "4ab187b",
+              "Subject": "Merge pull request #71 from kubedb/fix-ci"
+            },
+            {
+              "SHA": "bdbc6b5",
+              "Subject": "Remove PSP for Snapshot"
+            },
+            {
+              "SHA": "b51576b",
+              "Subject": "Use recommended kubernetes app labels"
+            },
+            {
+              "SHA": "6f5a51c",
+              "Subject": "Merge pull request #72 from pohly/memached-1.5.22"
+            },
+            {
+              "SHA": "a89d9bf",
+              "Subject": "memcached: add 1.5.22"
+            },
+            {
+              "SHA": "a6b63d6",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "600eb93",
+              "Subject": "Update chart readme"
+            },
+            {
+              "SHA": "df4bcb2",
+              "Subject": "Auto generate chart readme file"
+            },
+            {
+              "SHA": "00ca986",
+              "Subject": "Use GCR_SERVICE_ACCOUNT_JSON_KEY env in CI"
+            },
+            {
+              "SHA": "c0cdfe0",
+              "Subject": "Configure Docker credential helper"
+            },
+            {
+              "SHA": "06ed3df",
+              "Subject": "Use gcr.io/appscode to host enterprise operator image"
+            },
+            {
+              "SHA": "9d0fbc9",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "e066043",
+              "Subject": "prometheus.io/coreos-operator -> prometheus.io/coreos-operator (#66)"
+            },
+            {
+              "SHA": "91f37ec",
+              "Subject": "Use image.registry in catalog chart (#65)"
+            },
+            {
+              "SHA": "a1ad35c",
+              "Subject": "Move apireg annotation to operator pod (#64)"
+            },
+            {
+              "SHA": "b02b054",
+              "Subject": "Add fuzz tests for CRDs (#63)"
+            },
+            {
+              "SHA": "12c1d4f",
+              "Subject": "Various fixes (#62)"
+            },
+            {
+              "SHA": "9b572fa",
+              "Subject": "Use kubectl v1.17.0 (#61)"
+            },
+            {
+              "SHA": "2825f18",
+              "Subject": "Fix helm install --wait flag (#57)"
+            },
+            {
+              "SHA": "3e205ae",
+              "Subject": "Fix tolerations indentation for deployment (#58)"
+            },
+            {
+              "SHA": "bed096d",
+              "Subject": "Add cluster-role for dba.kubedb.com (#54)"
+            },
+            {
+              "SHA": "a684c02",
+              "Subject": "Update user roles for KubeDB crds (#60)"
+            },
+            {
+              "SHA": "9e4f924",
+              "Subject": "Add release script to upload charts (#55)"
+            },
+            {
+              "SHA": "1a9ba37",
+              "Subject": "Updated Mongodb Init images (#51)"
+            },
+            {
+              "SHA": "1ab4bed",
+              "Subject": "Run checks once in CI pipeline (#53)"
+            },
+            {
+              "SHA": "5265527",
+              "Subject": "Properly mark optional fields (#52)"
+            },
+            {
+              "SHA": "6153622",
+              "Subject": "Add replicationModeDetector image field into MySQLVersion CRD (#50)"
+            },
+            {
+              "SHA": "d546169",
+              "Subject": "Add enterprise operator sidecar (#49)"
+            },
+            {
+              "SHA": "cbc7f03",
+              "Subject": "Add deletocollection verbs to kubedb roles (#44)"
+            },
+            {
+              "SHA": "c598e90",
+              "Subject": "Allow specifying rather than generating certs (#48)"
+            },
+            {
+              "SHA": "b39d710",
+              "Subject": "RBAC for cert manger, issuer watcher, and secret watcher (#43)"
+            },
+            {
+              "SHA": "0276c34",
+              "Subject": "Add missing permissions for PgBouncer operator (#47)"
+            },
+            {
+              "SHA": "b85efed",
+              "Subject": "Update Installer for ProxySQL and PerconaXtraDB (#46)"
+            },
+            {
+              "SHA": "5c8212a",
+              "Subject": "Don't install PSP policy when catalog is disabled. (#45)"
+            },
+            {
+              "SHA": "b8ebcdb",
+              "Subject": "Bring back support for k8s 1.11 (#42)"
+            },
+            {
+              "SHA": "b9453f2",
+              "Subject": "Change minimum k8s req to 1.12 and use helm 3 in chart readme (#41)"
+            },
+            {
+              "SHA": "29b4a96",
+              "Subject": "Add catalog for percona standalone (#40)"
+            },
+            {
+              "SHA": "1ff9a1f",
+              "Subject": "Avoid creating apiservices when webhooks are disabled (#39)"
+            },
+            {
+              "SHA": "b96eeba",
+              "Subject": "Update kubedb-catalog values"
+            },
+            {
+              "SHA": "c6bc91a",
+              "Subject": "Conditionally create validating and mutating webhooks. (#38)"
+            },
+            {
+              "SHA": "e390c04",
+              "Subject": "Delete script based installer (#36)"
+            },
+            {
+              "SHA": "ab0f799",
+              "Subject": "Update installer for ProxySQL (#17)"
+            },
+            {
+              "SHA": "5762cbf",
+              "Subject": "Update installer for PerconaXtraDB (#14)"
+            },
+            {
+              "SHA": "6b5565a",
+              "Subject": "Pass imagePullSecrets as an array to service accounts (#37)"
+            },
+            {
+              "SHA": "3a552a1",
+              "Subject": "Use helmpack/chart-testing:v3.0.0-beta.1 (#35)"
+            },
+            {
+              "SHA": "13fc00b",
+              "Subject": "Fix RBAC permissions for Stash restoresessions (#34)"
+            },
+            {
+              "SHA": "0023d58",
+              "Subject": "Mark optional fields in installer CRD"
+            },
+            {
+              "SHA": "b24b05e",
+              "Subject": "Add installer api CRD (#31)"
+            },
+            {
+              "SHA": "51f80ea",
+              "Subject": "Always create rbac resources (#32)"
+            },
+            {
+              "SHA": "f36f6c8",
+              "Subject": "Use kind v0.6.1 (#30)"
+            },
+            {
+              "SHA": "b13266e",
+              "Subject": "Properly handle empty image pull secret name in installer (#29)"
+            },
+            {
+              "SHA": "0243c9e",
+              "Subject": "Test installers (#27)"
+            },
+            {
+              "SHA": "5aaba63",
+              "Subject": "Fix typo (#28)"
+            },
+            {
+              "SHA": "dd2595d",
+              "Subject": "Use separate docker registry for operator and catalog images (#26)"
+            },
+            {
+              "SHA": "316f340",
+              "Subject": "Use pgbouncer_exporter:v0.1.1"
+            },
+            {
+              "SHA": "29843a0",
+              "Subject": "Support for pgbouncers (#11)"
+            },
+            {
+              "SHA": "2f2f902",
+              "Subject": "Ensure operator service points to its own pod. (#25)"
+            },
+            {
+              "SHA": "d187265",
+              "Subject": "Update postgres versions (#24)"
+            },
+            {
+              "SHA": "167fe46",
+              "Subject": "Remove --enable-status-subresource flag (#23)"
+            },
+            {
+              "SHA": "025afcb",
+              "Subject": "ESVerdion 7.3.2 and 7.3 added (#21)"
+            },
+            {
+              "SHA": "adb433f",
+              "Subject": "Support for xpack in es6.8 and es7.2 (#20)"
+            },
+            {
+              "SHA": "22634fa",
+              "Subject": "Add crd for elasticsearch 7.2.0 (#9)"
+            },
+            {
+              "SHA": "b06b2ea",
+              "Subject": "Add namespace to cleaner Job (#18)"
+            },
+            {
+              "SHA": "ac173e6",
+              "Subject": "Download onessl version v0.13.1 for Kubernetes 1.16 fix (#19)"
+            },
+            {
+              "SHA": "3375df9",
+              "Subject": "Use percona mongodb exporter from 0.13.0 (#16)"
+            },
+            {
+              "SHA": "fdc6105",
+              "Subject": "Add support for Elasticsearch 6.8.0 (#7)"
             }
           ]
         }

@@ -130,6 +130,127 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.14.0-beta.1](https://github.com/kubedb/installer/releases/tag/v0.14.0-beta.1)
+
+- [a081a36](https://github.com/kubedb/installer/commit/a081a36) Prepare for release v0.14.0-beta.1 (#107)
+- [9c3fd4a](https://github.com/kubedb/installer/commit/9c3fd4a) Make chart registry configurable (#106)
+- [a3da9a1](https://github.com/kubedb/installer/commit/a3da9a1) Publish to testing dir for alpha/beta releases
+- [33685ee](https://github.com/kubedb/installer/commit/33685ee) Update License (#105)
+- [f06fa20](https://github.com/kubedb/installer/commit/f06fa20) Update MySQL version catalog (#104)
+- [674d129](https://github.com/kubedb/installer/commit/674d129) Update to Kubernetes v1.18.3 (#101)
+- [fc16306](https://github.com/kubedb/installer/commit/fc16306) Update ci.yml
+- [f65dd16](https://github.com/kubedb/installer/commit/f65dd16) Tag chart and app version as string for yq
+- [ac21db4](https://github.com/kubedb/installer/commit/ac21db4) Update links (#100)
+- [4a71c15](https://github.com/kubedb/installer/commit/4a71c15) Update update-release-tracker.sh
+- [e7f14e9](https://github.com/kubedb/installer/commit/e7f14e9) Update update-release-tracker.sh
+- [b26d3b8](https://github.com/kubedb/installer/commit/b26d3b8) Update release.yml
+- [4f4985d](https://github.com/kubedb/installer/commit/4f4985d) Add script to update release tracker on pr merge (#98)
+- [94baab8](https://github.com/kubedb/installer/commit/94baab8) Update ci.yml
+- [2ffe241](https://github.com/kubedb/installer/commit/2ffe241) Rename TEST_NAMESPACE -> KUBE_NAMESPACE
+- [34ba017](https://github.com/kubedb/installer/commit/34ba017) Change enterprise operator image name to kubedb-enterprise (#97)
+- [bc83b11](https://github.com/kubedb/installer/commit/bc83b11) Add commands to update chart (#96)
+- [a0ddc4b](https://github.com/kubedb/installer/commit/a0ddc4b) Bring back postgres 9.6 (#95)
+- [59c1cee](https://github.com/kubedb/installer/commit/59c1cee) Fix chart release process (#94)
+- [40072c6](https://github.com/kubedb/installer/commit/40072c6) Deprecate non-patched versions (#93)
+- [16f09ed](https://github.com/kubedb/installer/commit/16f09ed) Update .kodiak.toml
+- [bb902e3](https://github.com/kubedb/installer/commit/bb902e3) Release kubedb-enterprise chart to stable charts
+- [7c94dfc](https://github.com/kubedb/installer/commit/7c94dfc) Remove default deprecated: false fields (#92)
+- [07b162d](https://github.com/kubedb/installer/commit/07b162d) Update chart versions (#91)
+- [dd156da](https://github.com/kubedb/installer/commit/dd156da) Add rbac for configmaps
+- [a175cc9](https://github.com/kubedb/installer/commit/a175cc9) Revise the validator & mutator webhook names (#90)
+- [777b636](https://github.com/kubedb/installer/commit/777b636) Add kubedb-enterprise chart (#89)
+- [6d4f4d8](https://github.com/kubedb/installer/commit/6d4f4d8) Update to Kubernetes v1.18.3 (#84)
+- [8065729](https://github.com/kubedb/installer/commit/8065729) Update to Kubernetes v1.18.3
+- [87052ae](https://github.com/kubedb/installer/commit/87052ae) Create .kodiak.toml
+- [8c8c122](https://github.com/kubedb/installer/commit/8c8c122) Add RBAC permission for generic garbage collector (#82)
+- [f391304](https://github.com/kubedb/installer/commit/f391304) Permit configmap list/watch for delegated authentication (#81)
+- [96dbad6](https://github.com/kubedb/installer/commit/96dbad6) Use updated image registry values field
+- [a770d06](https://github.com/kubedb/installer/commit/a770d06) Generate both v1beta1 and v1 CRD YAML (#80)
+- [ee01bf6](https://github.com/kubedb/installer/commit/ee01bf6) Update to Kubernetes v1.18.3 (#79)
+- [7e6edc3](https://github.com/kubedb/installer/commit/7e6edc3) Update chart docs
+- [71e999d](https://github.com/kubedb/installer/commit/71e999d) Remove combined redis catalog template
+- [19aa0a1](https://github.com/kubedb/installer/commit/19aa0a1) Merge pull request #77 from kubedb/opsvalidator
+- [103ca84](https://github.com/kubedb/installer/commit/103ca84) Use enterprise port values
+- [5d538b8](https://github.com/kubedb/installer/commit/5d538b8) Add ops request validator
+- [ce37683](https://github.com/kubedb/installer/commit/ce37683) Update enterprise operator tag (#78)
+- [9a08d70](https://github.com/kubedb/installer/commit/9a08d70) Merge pull request #76 from kubedb/mysqlnewversion
+- [82a2d67](https://github.com/kubedb/installer/commit/82a2d67) remove unnecessary code and rename standAlone to standalone
+- [f3f6d05](https://github.com/kubedb/installer/commit/f3f6d05) Add extra wrap for depricated version
+- [7206194](https://github.com/kubedb/installer/commit/7206194) Add mysql new version
+- [f4e79c8](https://github.com/kubedb/installer/commit/f4e79c8) Rename api group to ops.kubedb.com (#75)
+- [ee49da5](https://github.com/kubedb/installer/commit/ee49da5) Add skipDeprecated to catalog chart (#74)
+- [dd6d4f9](https://github.com/kubedb/installer/commit/dd6d4f9) Split db catalog into separate files per version (#73)
+- [4ab187b](https://github.com/kubedb/installer/commit/4ab187b) Merge pull request #71 from kubedb/fix-ci
+- [bdbc6b5](https://github.com/kubedb/installer/commit/bdbc6b5) Remove PSP for Snapshot
+- [b51576b](https://github.com/kubedb/installer/commit/b51576b) Use recommended kubernetes app labels
+- [6f5a51c](https://github.com/kubedb/installer/commit/6f5a51c) Merge pull request #72 from pohly/memached-1.5.22
+- [a89d9bf](https://github.com/kubedb/installer/commit/a89d9bf) memcached: add 1.5.22
+- [a6b63d6](https://github.com/kubedb/installer/commit/a6b63d6) Trigger the workflow on push or pull request
+- [600eb93](https://github.com/kubedb/installer/commit/600eb93) Update chart readme
+- [df4bcb2](https://github.com/kubedb/installer/commit/df4bcb2) Auto generate chart readme file
+- [00ca986](https://github.com/kubedb/installer/commit/00ca986) Use GCR_SERVICE_ACCOUNT_JSON_KEY env in CI
+- [c0cdfe0](https://github.com/kubedb/installer/commit/c0cdfe0) Configure Docker credential helper
+- [06ed3df](https://github.com/kubedb/installer/commit/06ed3df) Use gcr.io/appscode to host enterprise operator image
+- [9d0fbc9](https://github.com/kubedb/installer/commit/9d0fbc9) Update release.yml
+- [e066043](https://github.com/kubedb/installer/commit/e066043) prometheus.io/coreos-operator -> prometheus.io/coreos-operator (#66)
+- [91f37ec](https://github.com/kubedb/installer/commit/91f37ec) Use image.registry in catalog chart (#65)
+- [a1ad35c](https://github.com/kubedb/installer/commit/a1ad35c) Move apireg annotation to operator pod (#64)
+- [b02b054](https://github.com/kubedb/installer/commit/b02b054) Add fuzz tests for CRDs (#63)
+- [12c1d4f](https://github.com/kubedb/installer/commit/12c1d4f) Various fixes (#62)
+- [9b572fa](https://github.com/kubedb/installer/commit/9b572fa) Use kubectl v1.17.0 (#61)
+- [2825f18](https://github.com/kubedb/installer/commit/2825f18) Fix helm install --wait flag (#57)
+- [3e205ae](https://github.com/kubedb/installer/commit/3e205ae) Fix tolerations indentation for deployment (#58)
+- [bed096d](https://github.com/kubedb/installer/commit/bed096d) Add cluster-role for dba.kubedb.com (#54)
+- [a684c02](https://github.com/kubedb/installer/commit/a684c02) Update user roles for KubeDB crds (#60)
+- [9e4f924](https://github.com/kubedb/installer/commit/9e4f924) Add release script to upload charts (#55)
+- [1a9ba37](https://github.com/kubedb/installer/commit/1a9ba37) Updated Mongodb Init images (#51)
+- [1ab4bed](https://github.com/kubedb/installer/commit/1ab4bed) Run checks once in CI pipeline (#53)
+- [5265527](https://github.com/kubedb/installer/commit/5265527) Properly mark optional fields (#52)
+- [6153622](https://github.com/kubedb/installer/commit/6153622) Add replicationModeDetector image field into MySQLVersion CRD (#50)
+- [d546169](https://github.com/kubedb/installer/commit/d546169) Add enterprise operator sidecar (#49)
+- [cbc7f03](https://github.com/kubedb/installer/commit/cbc7f03) Add deletocollection verbs to kubedb roles (#44)
+- [c598e90](https://github.com/kubedb/installer/commit/c598e90) Allow specifying rather than generating certs (#48)
+- [b39d710](https://github.com/kubedb/installer/commit/b39d710) RBAC for cert manger, issuer watcher, and secret watcher (#43)
+- [0276c34](https://github.com/kubedb/installer/commit/0276c34) Add missing permissions for PgBouncer operator (#47)
+- [b85efed](https://github.com/kubedb/installer/commit/b85efed) Update Installer for ProxySQL and PerconaXtraDB (#46)
+- [5c8212a](https://github.com/kubedb/installer/commit/5c8212a) Don't install PSP policy when catalog is disabled. (#45)
+- [b8ebcdb](https://github.com/kubedb/installer/commit/b8ebcdb) Bring back support for k8s 1.11 (#42)
+- [b9453f2](https://github.com/kubedb/installer/commit/b9453f2) Change minimum k8s req to 1.12 and use helm 3 in chart readme (#41)
+- [29b4a96](https://github.com/kubedb/installer/commit/29b4a96) Add catalog for percona standalone (#40)
+- [1ff9a1f](https://github.com/kubedb/installer/commit/1ff9a1f) Avoid creating apiservices when webhooks are disabled (#39)
+- [b96eeba](https://github.com/kubedb/installer/commit/b96eeba) Update kubedb-catalog values
+- [c6bc91a](https://github.com/kubedb/installer/commit/c6bc91a) Conditionally create validating and mutating webhooks. (#38)
+- [e390c04](https://github.com/kubedb/installer/commit/e390c04) Delete script based installer (#36)
+- [ab0f799](https://github.com/kubedb/installer/commit/ab0f799) Update installer for ProxySQL (#17)
+- [5762cbf](https://github.com/kubedb/installer/commit/5762cbf) Update installer for PerconaXtraDB (#14)
+- [6b5565a](https://github.com/kubedb/installer/commit/6b5565a) Pass imagePullSecrets as an array to service accounts (#37)
+- [3a552a1](https://github.com/kubedb/installer/commit/3a552a1) Use helmpack/chart-testing:v3.0.0-beta.1 (#35)
+- [13fc00b](https://github.com/kubedb/installer/commit/13fc00b) Fix RBAC permissions for Stash restoresessions (#34)
+- [0023d58](https://github.com/kubedb/installer/commit/0023d58) Mark optional fields in installer CRD
+- [b24b05e](https://github.com/kubedb/installer/commit/b24b05e) Add installer api CRD (#31)
+- [51f80ea](https://github.com/kubedb/installer/commit/51f80ea) Always create rbac resources (#32)
+- [f36f6c8](https://github.com/kubedb/installer/commit/f36f6c8) Use kind v0.6.1 (#30)
+- [b13266e](https://github.com/kubedb/installer/commit/b13266e) Properly handle empty image pull secret name in installer (#29)
+- [0243c9e](https://github.com/kubedb/installer/commit/0243c9e) Test installers (#27)
+- [5aaba63](https://github.com/kubedb/installer/commit/5aaba63) Fix typo (#28)
+- [dd2595d](https://github.com/kubedb/installer/commit/dd2595d) Use separate docker registry for operator and catalog images (#26)
+- [316f340](https://github.com/kubedb/installer/commit/316f340) Use pgbouncer_exporter:v0.1.1
+- [29843a0](https://github.com/kubedb/installer/commit/29843a0) Support for pgbouncers (#11)
+- [2f2f902](https://github.com/kubedb/installer/commit/2f2f902) Ensure operator service points to its own pod. (#25)
+- [d187265](https://github.com/kubedb/installer/commit/d187265) Update postgres versions (#24)
+- [167fe46](https://github.com/kubedb/installer/commit/167fe46) Remove --enable-status-subresource flag (#23)
+- [025afcb](https://github.com/kubedb/installer/commit/025afcb) ESVerdion 7.3.2 and 7.3 added (#21)
+- [adb433f](https://github.com/kubedb/installer/commit/adb433f) Support for xpack in es6.8 and es7.2 (#20)
+- [22634fa](https://github.com/kubedb/installer/commit/22634fa) Add crd for elasticsearch 7.2.0 (#9)
+- [b06b2ea](https://github.com/kubedb/installer/commit/b06b2ea) Add namespace to cleaner Job (#18)
+- [ac173e6](https://github.com/kubedb/installer/commit/ac173e6) Download onessl version v0.13.1 for Kubernetes 1.16 fix (#19)
+- [3375df9](https://github.com/kubedb/installer/commit/3375df9) Use percona mongodb exporter from 0.13.0 (#16)
+- [fdc6105](https://github.com/kubedb/installer/commit/fdc6105) Add support for Elasticsearch 6.8.0 (#7)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-beta.1](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.1)

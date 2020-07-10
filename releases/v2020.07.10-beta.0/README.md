@@ -1,6 +1,19 @@
 # KubeDB v2020.07.10-beta.0 (2020-07-10)
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2020.07.10-beta.0](https://github.com/kubedb/bundles/releases/tag/v2020.07.10-beta.0)
+
+- [26e06e5](https://github.com/kubedb/bundles/commit/26e06e5) Prepare for release v2020.07.10-beta.0 (#2)
+- [b205d27](https://github.com/kubedb/bundles/commit/b205d27) Use testing repo for alpha/beta releases
+- [f84140a](https://github.com/kubedb/bundles/commit/f84140a) Update ci.yml
+- [8e3b02c](https://github.com/kubedb/bundles/commit/8e3b02c) Tag chart and app version as string for yq
+- [b687080](https://github.com/kubedb/bundles/commit/b687080) Add commands to update chart version
+- [23f5c99](https://github.com/kubedb/bundles/commit/23f5c99) Add KubeDB bundles (#1)
+
+
+
 ## [kubedb/docs](https://github.com/kubedb/docs)
 
 ### [v2020.07.10-beta.0](https://github.com/kubedb/docs/releases/tag/v2020.07.10-beta.0)

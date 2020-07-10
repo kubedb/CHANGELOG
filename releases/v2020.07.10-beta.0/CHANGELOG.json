@@ -1,11 +1,45 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.07.10-beta.0",
-  "release_date": "2020-07-10T09:45:45.74910565Z",
+  "release_date": "2020-07-10T10:16:14.335793727Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.07.10-beta.0",
   "kubernetes_version": "1.12+",
   "projects": [
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.07.10-beta.0",
+          "commits": [
+            {
+              "SHA": "26e06e5",
+              "Subject": "Prepare for release v2020.07.10-beta.0 (#2)"
+            },
+            {
+              "SHA": "b205d27",
+              "Subject": "Use testing repo for alpha/beta releases"
+            },
+            {
+              "SHA": "f84140a",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "8e3b02c",
+              "Subject": "Tag chart and app version as string for yq"
+            },
+            {
+              "SHA": "b687080",
+              "Subject": "Add commands to update chart version"
+            },
+            {
+              "SHA": "23f5c99",
+              "Subject": "Add KubeDB bundles (#1)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/docs",
       "releases": [

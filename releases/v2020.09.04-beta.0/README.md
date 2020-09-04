@@ -49,6 +49,15 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2020.09.04-beta.0](https://github.com/kubedb/bundles/releases/tag/v2020.09.04-beta.0)
+
+- [300aa2e](https://github.com/kubedb/bundles/commit/300aa2e) Prepare for release v2020.09.04-beta.0 (#3)
+- [718f2e3](https://github.com/kubedb/bundles/commit/718f2e3) Update bundle chart versions
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.14.0-beta.2](https://github.com/kubedb/cli/releases/tag/v0.14.0-beta.2)

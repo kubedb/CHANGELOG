@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.04-beta.0",
-  "release_date": "2020-09-04T03:46:41.894220759Z",
+  "release_date": "2020-09-04T03:53:28.182473177Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
   "kubernetes_version": "1.12+",
@@ -175,6 +175,24 @@
             {
               "SHA": "06158f51",
               "Subject": "Update to Kubernetes v1.18.3 (#542)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.09.04-beta.0",
+          "commits": [
+            {
+              "SHA": "300aa2e",
+              "Subject": "Prepare for release v2020.09.04-beta.0 (#3)"
+            },
+            {
+              "SHA": "718f2e3",
+              "Subject": "Update bundle chart versions"
             }
           ]
         }

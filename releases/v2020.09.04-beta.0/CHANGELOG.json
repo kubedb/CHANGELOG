@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.04-beta.0",
-  "release_date": "2020-09-04T02:39:12.011936703Z",
+  "release_date": "2020-09-04T02:39:23.676886162Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
   "kubernetes_version": "1.12+",
@@ -253,6 +253,84 @@
             {
               "SHA": "9d550ebc",
               "Subject": "Update to Kubernetes v1.18.3 (#469)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.2",
+          "commits": [
+            {
+              "SHA": "3b83c316",
+              "Subject": "Prepare for release v0.14.0-beta.2 (#339)"
+            },
+            {
+              "SHA": "662823ae",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "ada6c2d3",
+              "Subject": "Add support for Open-Distro-for-Elasticsearch (#303)"
+            },
+            {
+              "SHA": "a9c7ba33",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#333)"
+            },
+            {
+              "SHA": "c67b1290",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#332)"
+            },
+            {
+              "SHA": "aa1d64ad",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#331)"
+            },
+            {
+              "SHA": "3d6c3e91",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#330)"
+            },
+            {
+              "SHA": "bb318e74",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#329)"
+            },
+            {
+              "SHA": "6b6b4d2d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#328)"
+            },
+            {
+              "SHA": "06cef782",
+              "Subject": "Remove dependency on enterprise operator (#327)"
+            },
+            {
+              "SHA": "20a2c7d4",
+              "Subject": "Update to cert-manager v0.16.0 (#326)"
+            },
+            {
+              "SHA": "e767c356",
+              "Subject": "Build images in e2e workflow (#325)"
+            },
+            {
+              "SHA": "ae696dbe",
+              "Subject": "Update to Kubernetes v1.18.3 (#324)"
+            },
+            {
+              "SHA": "a511d8d6",
+              "Subject": "Allow configuring k8s & db version in e2e tests (#323)"
+            },
+            {
+              "SHA": "a50b503d",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#322)"
+            },
+            {
+              "SHA": "107faff2",
+              "Subject": "Update to Kubernetes v1.18.3 (#321)"
+            },
+            {
+              "SHA": "60fb6d9b",
+              "Subject": "Update to Kubernetes v1.18.3 (#320)"
             }
           ]
         }

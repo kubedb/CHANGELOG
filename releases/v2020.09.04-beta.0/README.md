@@ -73,6 +73,30 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.14.0-beta.2](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.2)
+
+- [3b83c316](https://github.com/kubedb/elasticsearch/commit/3b83c316) Prepare for release v0.14.0-beta.2 (#339)
+- [662823ae](https://github.com/kubedb/elasticsearch/commit/662823ae) Update release.yml
+- [ada6c2d3](https://github.com/kubedb/elasticsearch/commit/ada6c2d3) Add support for Open-Distro-for-Elasticsearch (#303)
+- [a9c7ba33](https://github.com/kubedb/elasticsearch/commit/a9c7ba33) Update Kubernetes v1.18.3 dependencies (#333)
+- [c67b1290](https://github.com/kubedb/elasticsearch/commit/c67b1290) Update Kubernetes v1.18.3 dependencies (#332)
+- [aa1d64ad](https://github.com/kubedb/elasticsearch/commit/aa1d64ad) Update Kubernetes v1.18.3 dependencies (#331)
+- [3d6c3e91](https://github.com/kubedb/elasticsearch/commit/3d6c3e91) Update Kubernetes v1.18.3 dependencies (#330)
+- [bb318e74](https://github.com/kubedb/elasticsearch/commit/bb318e74) Update Kubernetes v1.18.3 dependencies (#329)
+- [6b6b4d2d](https://github.com/kubedb/elasticsearch/commit/6b6b4d2d) Update Kubernetes v1.18.3 dependencies (#328)
+- [06cef782](https://github.com/kubedb/elasticsearch/commit/06cef782) Remove dependency on enterprise operator (#327)
+- [20a2c7d4](https://github.com/kubedb/elasticsearch/commit/20a2c7d4) Update to cert-manager v0.16.0 (#326)
+- [e767c356](https://github.com/kubedb/elasticsearch/commit/e767c356) Build images in e2e workflow (#325)
+- [ae696dbe](https://github.com/kubedb/elasticsearch/commit/ae696dbe) Update to Kubernetes v1.18.3 (#324)
+- [a511d8d6](https://github.com/kubedb/elasticsearch/commit/a511d8d6) Allow configuring k8s & db version in e2e tests (#323)
+- [a50b503d](https://github.com/kubedb/elasticsearch/commit/a50b503d) Trigger e2e tests on /ok-to-test command (#322)
+- [107faff2](https://github.com/kubedb/elasticsearch/commit/107faff2) Update to Kubernetes v1.18.3 (#321)
+- [60fb6d9b](https://github.com/kubedb/elasticsearch/commit/60fb6d9b) Update to Kubernetes v1.18.3 (#320)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.2)

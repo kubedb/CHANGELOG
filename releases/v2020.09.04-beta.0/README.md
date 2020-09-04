@@ -49,3 +49,22 @@
 
 
 
+## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
+
+### [v0.2.0-beta.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.2)
+
+- [f92f350](https://github.com/kubedb/pg-leader-election/commit/f92f350) Update Kubernetes v1.18.3 dependencies (#17)
+- [65c551f](https://github.com/kubedb/pg-leader-election/commit/65c551f) Update Kubernetes v1.18.3 dependencies (#16)
+- [c7b516d](https://github.com/kubedb/pg-leader-election/commit/c7b516d) Update Kubernetes v1.18.3 dependencies (#15)
+- [8440ee3](https://github.com/kubedb/pg-leader-election/commit/8440ee3) Update Kubernetes v1.18.3 dependencies (#14)
+- [33b175b](https://github.com/kubedb/pg-leader-election/commit/33b175b) Update Kubernetes v1.18.3 dependencies (#13)
+- [102fbfa](https://github.com/kubedb/pg-leader-election/commit/102fbfa) Update Kubernetes v1.18.3 dependencies (#12)
+- [d850da1](https://github.com/kubedb/pg-leader-election/commit/d850da1) Update Kubernetes v1.18.3 dependencies (#11)
+- [0505eaf](https://github.com/kubedb/pg-leader-election/commit/0505eaf) Update Kubernetes v1.18.3 dependencies (#10)
+- [d46e56c](https://github.com/kubedb/pg-leader-election/commit/d46e56c) Use actions/upload-artifact@v2
+- [37fb860](https://github.com/kubedb/pg-leader-election/commit/37fb860) Update to Kubernetes v1.18.3 (#9)
+- [7566bf3](https://github.com/kubedb/pg-leader-election/commit/7566bf3) Update to Kubernetes v1.18.3 (#8)
+- [07c4965](https://github.com/kubedb/pg-leader-election/commit/07c4965) Update to Kubernetes v1.18.3 (#7)
+
+
+

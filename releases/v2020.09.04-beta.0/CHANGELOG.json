@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.04-beta.0",
-  "release_date": "2020-09-04T02:53:13.433199433Z",
+  "release_date": "2020-09-04T02:53:35.554759301Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
   "kubernetes_version": "1.12+",
@@ -787,6 +787,92 @@
             {
               "SHA": "07c4965",
               "Subject": "Update to Kubernetes v1.18.3 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.2",
+          "commits": [
+            {
+              "SHA": "e083d55",
+              "Subject": "Prepare for release v0.1.0-beta.2 (#41)"
+            },
+            {
+              "SHA": "fe84790",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "ddf5a85",
+              "Subject": "Use updated certificate spec (#35)"
+            },
+            {
+              "SHA": "d5cd5bf",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#39)"
+            },
+            {
+              "SHA": "21693c7",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#38)"
+            },
+            {
+              "SHA": "39ad48d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#37)"
+            },
+            {
+              "SHA": "7f1ecc7",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#36)"
+            },
+            {
+              "SHA": "8d9d379",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#34)"
+            },
+            {
+              "SHA": "c9b8300",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#33)"
+            },
+            {
+              "SHA": "66c72a4",
+              "Subject": "Remove dependency on enterprise operator (#32)"
+            },
+            {
+              "SHA": "757dc10",
+              "Subject": "Update to cert-manager v0.16.0 (#30)"
+            },
+            {
+              "SHA": "0a183d1",
+              "Subject": "Build images in e2e workflow (#29)"
+            },
+            {
+              "SHA": "ca61e88",
+              "Subject": "Allow configuring k8s & db version in e2e tests (#28)"
+            },
+            {
+              "SHA": "a87278b",
+              "Subject": "Update to Kubernetes v1.18.3 (#27)"
+            },
+            {
+              "SHA": "5abe86f",
+              "Subject": "Fix formatting"
+            },
+            {
+              "SHA": "845f7a3",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#26)"
+            },
+            {
+              "SHA": "2cc23c0",
+              "Subject": "Fix cert-manager integration for PgBouncer (#25)"
+            },
+            {
+              "SHA": "2a148c2",
+              "Subject": "Update to Kubernetes v1.18.3 (#24)"
+            },
+            {
+              "SHA": "f6eb812",
+              "Subject": "Update Makefile.env"
             }
           ]
         }

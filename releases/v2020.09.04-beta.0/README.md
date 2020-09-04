@@ -238,6 +238,32 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.1.0-beta.2](https://github.com/kubedb/pgbouncer/releases/tag/v0.1.0-beta.2)
+
+- [e083d55](https://github.com/kubedb/pgbouncer/commit/e083d55) Prepare for release v0.1.0-beta.2 (#41)
+- [fe84790](https://github.com/kubedb/pgbouncer/commit/fe84790) Update release.yml
+- [ddf5a85](https://github.com/kubedb/pgbouncer/commit/ddf5a85) Use updated certificate spec (#35)
+- [d5cd5bf](https://github.com/kubedb/pgbouncer/commit/d5cd5bf) Update Kubernetes v1.18.3 dependencies (#39)
+- [21693c7](https://github.com/kubedb/pgbouncer/commit/21693c7) Update Kubernetes v1.18.3 dependencies (#38)
+- [39ad48d](https://github.com/kubedb/pgbouncer/commit/39ad48d) Update Kubernetes v1.18.3 dependencies (#37)
+- [7f1ecc7](https://github.com/kubedb/pgbouncer/commit/7f1ecc7) Update Kubernetes v1.18.3 dependencies (#36)
+- [8d9d379](https://github.com/kubedb/pgbouncer/commit/8d9d379) Update Kubernetes v1.18.3 dependencies (#34)
+- [c9b8300](https://github.com/kubedb/pgbouncer/commit/c9b8300) Update Kubernetes v1.18.3 dependencies (#33)
+- [66c72a4](https://github.com/kubedb/pgbouncer/commit/66c72a4) Remove dependency on enterprise operator (#32)
+- [757dc10](https://github.com/kubedb/pgbouncer/commit/757dc10) Update to cert-manager v0.16.0 (#30)
+- [0a183d1](https://github.com/kubedb/pgbouncer/commit/0a183d1) Build images in e2e workflow (#29)
+- [ca61e88](https://github.com/kubedb/pgbouncer/commit/ca61e88) Allow configuring k8s & db version in e2e tests (#28)
+- [a87278b](https://github.com/kubedb/pgbouncer/commit/a87278b) Update to Kubernetes v1.18.3 (#27)
+- [5abe86f](https://github.com/kubedb/pgbouncer/commit/5abe86f) Fix formatting
+- [845f7a3](https://github.com/kubedb/pgbouncer/commit/845f7a3) Trigger e2e tests on /ok-to-test command (#26)
+- [2cc23c0](https://github.com/kubedb/pgbouncer/commit/2cc23c0) Fix cert-manager integration for PgBouncer (#25)
+- [2a148c2](https://github.com/kubedb/pgbouncer/commit/2a148c2) Update to Kubernetes v1.18.3 (#24)
+- [f6eb812](https://github.com/kubedb/pgbouncer/commit/f6eb812) Update Makefile.env
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.14.0-beta.2](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.2)

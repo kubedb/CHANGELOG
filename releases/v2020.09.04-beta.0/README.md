@@ -73,6 +73,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2020.09.04-beta.0](https://github.com/kubedb/docs/releases/tag/v2020.09.04-beta.0)
+
+- [2289862](https://github.com/kubedb/docs/commit/2289862) Prepare for release v2020.09.04-beta.0 (#53)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.14.0-beta.2](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.2)

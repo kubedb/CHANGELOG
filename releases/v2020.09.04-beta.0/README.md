@@ -97,6 +97,34 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.7.0-beta.2](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-beta.2)
+
+- [8fd389de](https://github.com/kubedb/mongodb/commit/8fd389de) Prepare for release v0.7.0-beta.2 (#234)
+- [3e4981ee](https://github.com/kubedb/mongodb/commit/3e4981ee) Update release.yml
+- [c1d5cdb8](https://github.com/kubedb/mongodb/commit/c1d5cdb8) Always use OnDelete UpdateStrategy (#233)
+- [a135b2c7](https://github.com/kubedb/mongodb/commit/a135b2c7) Fix build (#232)
+- [cfb1788b](https://github.com/kubedb/mongodb/commit/cfb1788b) Use updated certificate spec (#221)
+- [486e820a](https://github.com/kubedb/mongodb/commit/486e820a) Remove `storage` Validation Check (#231)
+- [12e621ed](https://github.com/kubedb/mongodb/commit/12e621ed) Update Kubernetes v1.18.3 dependencies (#225)
+- [0d7ea7d7](https://github.com/kubedb/mongodb/commit/0d7ea7d7) Update Kubernetes v1.18.3 dependencies (#224)
+- [e79d1dfe](https://github.com/kubedb/mongodb/commit/e79d1dfe) Update Kubernetes v1.18.3 dependencies (#223)
+- [d0ff5e1d](https://github.com/kubedb/mongodb/commit/d0ff5e1d) Update Kubernetes v1.18.3 dependencies (#222)
+- [d22ade32](https://github.com/kubedb/mongodb/commit/d22ade32) Add `inMemory` Storage Engine Support for Percona MongoDB Server (#205)
+- [90847996](https://github.com/kubedb/mongodb/commit/90847996) Update Kubernetes v1.18.3 dependencies (#220)
+- [1098974f](https://github.com/kubedb/mongodb/commit/1098974f) Update Kubernetes v1.18.3 dependencies (#219)
+- [e7d1407a](https://github.com/kubedb/mongodb/commit/e7d1407a) Fix install target
+- [a5742d11](https://github.com/kubedb/mongodb/commit/a5742d11) Remove dependency on enterprise operator (#218)
+- [1de4fbee](https://github.com/kubedb/mongodb/commit/1de4fbee) Build images in e2e workflow (#217)
+- [b736c57e](https://github.com/kubedb/mongodb/commit/b736c57e) Update to Kubernetes v1.18.3 (#216)
+- [180ae28d](https://github.com/kubedb/mongodb/commit/180ae28d) Allow configuring k8s & db version in e2e tests (#215)
+- [c2f09a6f](https://github.com/kubedb/mongodb/commit/c2f09a6f) Trigger e2e tests on /ok-to-test command (#214)
+- [c1c7fa39](https://github.com/kubedb/mongodb/commit/c1c7fa39) Update to Kubernetes v1.18.3 (#213)
+- [8fb6cf78](https://github.com/kubedb/mongodb/commit/8fb6cf78) Update to Kubernetes v1.18.3 (#212)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.7.0-beta.2](https://github.com/kubedb/mysql/releases/tag/v0.7.0-beta.2)

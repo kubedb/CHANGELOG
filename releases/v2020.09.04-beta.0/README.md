@@ -238,6 +238,31 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.14.0-beta.2](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.2)
+
+- [6e6fe6fe](https://github.com/kubedb/postgres/commit/6e6fe6fe) Prepare for release v0.14.0-beta.2 (#345)
+- [5ee33bb8](https://github.com/kubedb/postgres/commit/5ee33bb8) Update release.yml
+- [9208f754](https://github.com/kubedb/postgres/commit/9208f754) Always use OnDelete update strategy
+- [74367d01](https://github.com/kubedb/postgres/commit/74367d01) Update Kubernetes v1.18.3 dependencies (#344)
+- [01843533](https://github.com/kubedb/postgres/commit/01843533) Update Kubernetes v1.18.3 dependencies (#343)
+- [34a3a460](https://github.com/kubedb/postgres/commit/34a3a460) Update Kubernetes v1.18.3 dependencies (#338)
+- [455bf56a](https://github.com/kubedb/postgres/commit/455bf56a) Update Kubernetes v1.18.3 dependencies (#337)
+- [960d1efa](https://github.com/kubedb/postgres/commit/960d1efa) Update Kubernetes v1.18.3 dependencies (#336)
+- [9b428745](https://github.com/kubedb/postgres/commit/9b428745) Update Kubernetes v1.18.3 dependencies (#335)
+- [cc95c5f5](https://github.com/kubedb/postgres/commit/cc95c5f5) Update Kubernetes v1.18.3 dependencies (#334)
+- [c0694d83](https://github.com/kubedb/postgres/commit/c0694d83) Update Kubernetes v1.18.3 dependencies (#333)
+- [8d0977d3](https://github.com/kubedb/postgres/commit/8d0977d3) Remove dependency on enterprise operator (#332)
+- [daa5b77c](https://github.com/kubedb/postgres/commit/daa5b77c) Build images in e2e workflow (#331)
+- [197f1b2b](https://github.com/kubedb/postgres/commit/197f1b2b) Update to Kubernetes v1.18.3 (#329)
+- [e732d319](https://github.com/kubedb/postgres/commit/e732d319) Allow configuring k8s & db version in e2e tests (#330)
+- [f37180ec](https://github.com/kubedb/postgres/commit/f37180ec) Trigger e2e tests on /ok-to-test command (#328)
+- [becb3e2c](https://github.com/kubedb/postgres/commit/becb3e2c) Update to Kubernetes v1.18.3 (#327)
+- [91bf7440](https://github.com/kubedb/postgres/commit/91bf7440) Update to Kubernetes v1.18.3 (#326)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.7.0-beta.2](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.2)

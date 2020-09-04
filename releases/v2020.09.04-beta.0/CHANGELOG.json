@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.04-beta.0",
-  "release_date": "2020-09-04T02:40:32.36346696Z",
+  "release_date": "2020-09-04T02:45:08.747258931Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
   "kubernetes_version": "1.12+",
@@ -787,6 +787,88 @@
             {
               "SHA": "07c4965",
               "Subject": "Update to Kubernetes v1.18.3 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.2",
+          "commits": [
+            {
+              "SHA": "6e6fe6fe",
+              "Subject": "Prepare for release v0.14.0-beta.2 (#345)"
+            },
+            {
+              "SHA": "5ee33bb8",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "9208f754",
+              "Subject": "Always use OnDelete update strategy"
+            },
+            {
+              "SHA": "74367d01",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#344)"
+            },
+            {
+              "SHA": "01843533",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#343)"
+            },
+            {
+              "SHA": "34a3a460",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#338)"
+            },
+            {
+              "SHA": "455bf56a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#337)"
+            },
+            {
+              "SHA": "960d1efa",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#336)"
+            },
+            {
+              "SHA": "9b428745",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#335)"
+            },
+            {
+              "SHA": "cc95c5f5",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#334)"
+            },
+            {
+              "SHA": "c0694d83",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#333)"
+            },
+            {
+              "SHA": "8d0977d3",
+              "Subject": "Remove dependency on enterprise operator (#332)"
+            },
+            {
+              "SHA": "daa5b77c",
+              "Subject": "Build images in e2e workflow (#331)"
+            },
+            {
+              "SHA": "197f1b2b",
+              "Subject": "Update to Kubernetes v1.18.3 (#329)"
+            },
+            {
+              "SHA": "e732d319",
+              "Subject": "Allow configuring k8s & db version in e2e tests (#330)"
+            },
+            {
+              "SHA": "f37180ec",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#328)"
+            },
+            {
+              "SHA": "becb3e2c",
+              "Subject": "Update to Kubernetes v1.18.3 (#327)"
+            },
+            {
+              "SHA": "91bf7440",
+              "Subject": "Update to Kubernetes v1.18.3 (#326)"
             }
           ]
         }

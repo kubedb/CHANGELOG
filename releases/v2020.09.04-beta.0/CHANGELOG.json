@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.04-beta.0",
-  "release_date": "2020-09-04T02:40:07.505225342Z",
+  "release_date": "2020-09-04T02:40:19.510817025Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
   "kubernetes_version": "1.12+",
@@ -659,6 +659,76 @@
             {
               "SHA": "32603a2",
               "Subject": "Don't push binary with release"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.2",
+          "commits": [
+            {
+              "SHA": "471b6def",
+              "Subject": "Prepare for release v0.1.0-beta.2 (#60)"
+            },
+            {
+              "SHA": "9423a70f",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "85d1d036",
+              "Subject": "Use updated apis (#59)"
+            },
+            {
+              "SHA": "6811b8dc",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#53)"
+            },
+            {
+              "SHA": "4212d2a0",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#52)"
+            },
+            {
+              "SHA": "659d646c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#51)"
+            },
+            {
+              "SHA": "a868e0c3",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#50)"
+            },
+            {
+              "SHA": "162e6ca4",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            },
+            {
+              "SHA": "a7fa1fbf",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#48)"
+            },
+            {
+              "SHA": "b6a4583f",
+              "Subject": "Remove dependency on enterprise operator (#47)"
+            },
+            {
+              "SHA": "a8909b38",
+              "Subject": "Allow configuring k8s & db version in e2e tests (#46)"
+            },
+            {
+              "SHA": "4d79d26e",
+              "Subject": "Update to Kubernetes v1.18.3 (#45)"
+            },
+            {
+              "SHA": "189f3212",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#44)"
+            },
+            {
+              "SHA": "a037bd03",
+              "Subject": "Update to Kubernetes v1.18.3 (#43)"
+            },
+            {
+              "SHA": "33cabdf3",
+              "Subject": "Update to Kubernetes v1.18.3 (#42)"
             }
           ]
         }

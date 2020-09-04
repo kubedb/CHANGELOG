@@ -197,6 +197,28 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.1.0-beta.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.2)
+
+- [471b6def](https://github.com/kubedb/percona-xtradb/commit/471b6def) Prepare for release v0.1.0-beta.2 (#60)
+- [9423a70f](https://github.com/kubedb/percona-xtradb/commit/9423a70f) Update release.yml
+- [85d1d036](https://github.com/kubedb/percona-xtradb/commit/85d1d036) Use updated apis (#59)
+- [6811b8dc](https://github.com/kubedb/percona-xtradb/commit/6811b8dc) Update Kubernetes v1.18.3 dependencies (#53)
+- [4212d2a0](https://github.com/kubedb/percona-xtradb/commit/4212d2a0) Update Kubernetes v1.18.3 dependencies (#52)
+- [659d646c](https://github.com/kubedb/percona-xtradb/commit/659d646c) Update Kubernetes v1.18.3 dependencies (#51)
+- [a868e0c3](https://github.com/kubedb/percona-xtradb/commit/a868e0c3) Update Kubernetes v1.18.3 dependencies (#50)
+- [162e6ca4](https://github.com/kubedb/percona-xtradb/commit/162e6ca4) Update Kubernetes v1.18.3 dependencies (#49)
+- [a7fa1fbf](https://github.com/kubedb/percona-xtradb/commit/a7fa1fbf) Update Kubernetes v1.18.3 dependencies (#48)
+- [b6a4583f](https://github.com/kubedb/percona-xtradb/commit/b6a4583f) Remove dependency on enterprise operator (#47)
+- [a8909b38](https://github.com/kubedb/percona-xtradb/commit/a8909b38) Allow configuring k8s & db version in e2e tests (#46)
+- [4d79d26e](https://github.com/kubedb/percona-xtradb/commit/4d79d26e) Update to Kubernetes v1.18.3 (#45)
+- [189f3212](https://github.com/kubedb/percona-xtradb/commit/189f3212) Trigger e2e tests on /ok-to-test command (#44)
+- [a037bd03](https://github.com/kubedb/percona-xtradb/commit/a037bd03) Update to Kubernetes v1.18.3 (#43)
+- [33cabdf3](https://github.com/kubedb/percona-xtradb/commit/33cabdf3) Update to Kubernetes v1.18.3 (#42)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.2)

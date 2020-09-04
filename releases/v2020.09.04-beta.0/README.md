@@ -49,6 +49,30 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.14.0-beta.2](https://github.com/kubedb/cli/releases/tag/v0.14.0-beta.2)
+
+- [58b39094](https://github.com/kubedb/cli/commit/58b39094) Prepare for release v0.14.0-beta.2 (#484)
+- [0f8819ce](https://github.com/kubedb/cli/commit/0f8819ce) Update Kubernetes v1.18.3 dependencies (#483)
+- [86a92381](https://github.com/kubedb/cli/commit/86a92381) Update Kubernetes v1.18.3 dependencies (#482)
+- [05e5cef2](https://github.com/kubedb/cli/commit/05e5cef2) Update for release Stash@v2020.08.27 (#481)
+- [b1aa1dc2](https://github.com/kubedb/cli/commit/b1aa1dc2) Update for release Stash@v2020.08.27-rc.0 (#480)
+- [36716efc](https://github.com/kubedb/cli/commit/36716efc) Update for release Stash@v2020.08.26-rc.1 (#479)
+- [a30f21e0](https://github.com/kubedb/cli/commit/a30f21e0) Update for release Stash@v2020.08.26-rc.0 (#478)
+- [836d6227](https://github.com/kubedb/cli/commit/836d6227) Update Kubernetes v1.18.3 dependencies (#477)
+- [8a81d715](https://github.com/kubedb/cli/commit/8a81d715) Update Kubernetes v1.18.3 dependencies (#476)
+- [7ce2101d](https://github.com/kubedb/cli/commit/7ce2101d) Update Kubernetes v1.18.3 dependencies (#475)
+- [3c617e66](https://github.com/kubedb/cli/commit/3c617e66) Update Kubernetes v1.18.3 dependencies (#474)
+- [f70b2ba4](https://github.com/kubedb/cli/commit/f70b2ba4) Update Kubernetes v1.18.3 dependencies (#473)
+- [ba77ba2b](https://github.com/kubedb/cli/commit/ba77ba2b) Update Kubernetes v1.18.3 dependencies (#472)
+- [b296035f](https://github.com/kubedb/cli/commit/b296035f) Use actions/upload-artifact@v2
+- [7bb95619](https://github.com/kubedb/cli/commit/7bb95619) Update to Kubernetes v1.18.3 (#471)
+- [6e5789a2](https://github.com/kubedb/cli/commit/6e5789a2) Update to Kubernetes v1.18.3 (#470)
+- [9d550ebc](https://github.com/kubedb/cli/commit/9d550ebc) Update to Kubernetes v1.18.3 (#469)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.2)

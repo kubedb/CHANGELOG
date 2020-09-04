@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.04-beta.0",
-  "release_date": "2020-09-04T02:40:19.510817025Z",
+  "release_date": "2020-09-04T02:40:32.36346696Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
   "kubernetes_version": "1.12+",
@@ -787,6 +787,84 @@
             {
               "SHA": "07c4965",
               "Subject": "Update to Kubernetes v1.18.3 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.2",
+          "commits": [
+            {
+              "SHA": "73cf267e",
+              "Subject": "Prepare for release v0.7.0-beta.2 (#192)"
+            },
+            {
+              "SHA": "d2911ea9",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "c76ee46e",
+              "Subject": "Update dependencies (#191)"
+            },
+            {
+              "SHA": "0b030534",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "408216ab",
+              "Subject": "Add support for Redis v6.0.6 and TLS (#180)"
+            },
+            {
+              "SHA": "944327df",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#187)"
+            },
+            {
+              "SHA": "40b7cde6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#186)"
+            },
+            {
+              "SHA": "f2bf110d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#184)"
+            },
+            {
+              "SHA": "61485cfa",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#183)"
+            },
+            {
+              "SHA": "184ae35d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#182)"
+            },
+            {
+              "SHA": "bc72b51b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#181)"
+            },
+            {
+              "SHA": "ca540560",
+              "Subject": "Remove dependency on enterprise operator (#179)"
+            },
+            {
+              "SHA": "09bade2e",
+              "Subject": "Allow configuring k8s & db version in e2e tests (#178)"
+            },
+            {
+              "SHA": "2bafb114",
+              "Subject": "Update to Kubernetes v1.18.3 (#177)"
+            },
+            {
+              "SHA": "b2fe59ef",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#176)"
+            },
+            {
+              "SHA": "df5131e1",
+              "Subject": "Update to Kubernetes v1.18.3 (#175)"
+            },
+            {
+              "SHA": "a404ae08",
+              "Subject": "Update to Kubernetes v1.18.3 (#174)"
             }
           ]
         }

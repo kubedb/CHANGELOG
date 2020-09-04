@@ -238,3 +238,27 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.7.0-beta.2](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.2)
+
+- [73cf267e](https://github.com/kubedb/redis/commit/73cf267e) Prepare for release v0.7.0-beta.2 (#192)
+- [d2911ea9](https://github.com/kubedb/redis/commit/d2911ea9) Update release.yml
+- [c76ee46e](https://github.com/kubedb/redis/commit/c76ee46e) Update dependencies (#191)
+- [0b030534](https://github.com/kubedb/redis/commit/0b030534) Fix build
+- [408216ab](https://github.com/kubedb/redis/commit/408216ab) Add support for Redis v6.0.6 and TLS (#180)
+- [944327df](https://github.com/kubedb/redis/commit/944327df) Update Kubernetes v1.18.3 dependencies (#187)
+- [40b7cde6](https://github.com/kubedb/redis/commit/40b7cde6) Update Kubernetes v1.18.3 dependencies (#186)
+- [f2bf110d](https://github.com/kubedb/redis/commit/f2bf110d) Update Kubernetes v1.18.3 dependencies (#184)
+- [61485cfa](https://github.com/kubedb/redis/commit/61485cfa) Update Kubernetes v1.18.3 dependencies (#183)
+- [184ae35d](https://github.com/kubedb/redis/commit/184ae35d) Update Kubernetes v1.18.3 dependencies (#182)
+- [bc72b51b](https://github.com/kubedb/redis/commit/bc72b51b) Update Kubernetes v1.18.3 dependencies (#181)
+- [ca540560](https://github.com/kubedb/redis/commit/ca540560) Remove dependency on enterprise operator (#179)
+- [09bade2e](https://github.com/kubedb/redis/commit/09bade2e) Allow configuring k8s & db version in e2e tests (#178)
+- [2bafb114](https://github.com/kubedb/redis/commit/2bafb114) Update to Kubernetes v1.18.3 (#177)
+- [b2fe59ef](https://github.com/kubedb/redis/commit/b2fe59ef) Trigger e2e tests on /ok-to-test command (#176)
+- [df5131e1](https://github.com/kubedb/redis/commit/df5131e1) Update to Kubernetes v1.18.3 (#175)
+- [a404ae08](https://github.com/kubedb/redis/commit/a404ae08) Update to Kubernetes v1.18.3 (#174)
+
+
+

@@ -97,6 +97,37 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.7.0-beta.2](https://github.com/kubedb/mysql/releases/tag/v0.7.0-beta.2)
+
+- [6010c034](https://github.com/kubedb/mysql/commit/6010c034) Prepare for release v0.7.0-beta.2 (#224)
+- [4b530066](https://github.com/kubedb/mysql/commit/4b530066) Update release.yml
+- [184a6cbc](https://github.com/kubedb/mysql/commit/184a6cbc) Update dependencies (#223)
+- [903b13b6](https://github.com/kubedb/mysql/commit/903b13b6) Always use OnDelete update strategy
+- [1c10224a](https://github.com/kubedb/mysql/commit/1c10224a) Update Kubernetes v1.18.3 dependencies (#222)
+- [4e9e5e44](https://github.com/kubedb/mysql/commit/4e9e5e44) Added TLS/SSL Configuration in MySQL Server (#204)
+- [d08209b8](https://github.com/kubedb/mysql/commit/d08209b8) Use username/password constants from core/v1
+- [87238c42](https://github.com/kubedb/mysql/commit/87238c42) Update MySQL vendor for changes of prometheus coreos operator (#216)
+- [999005ed](https://github.com/kubedb/mysql/commit/999005ed) Update Kubernetes v1.18.3 dependencies (#215)
+- [3eb5086e](https://github.com/kubedb/mysql/commit/3eb5086e) Update Kubernetes v1.18.3 dependencies (#214)
+- [cd58f276](https://github.com/kubedb/mysql/commit/cd58f276) Update Kubernetes v1.18.3 dependencies (#213)
+- [4dcfcd14](https://github.com/kubedb/mysql/commit/4dcfcd14) Update Kubernetes v1.18.3 dependencies (#212)
+- [d41015c9](https://github.com/kubedb/mysql/commit/d41015c9) Update Kubernetes v1.18.3 dependencies (#211)
+- [4350cb79](https://github.com/kubedb/mysql/commit/4350cb79) Update Kubernetes v1.18.3 dependencies (#210)
+- [617af851](https://github.com/kubedb/mysql/commit/617af851) Fix install target
+- [fc308cc3](https://github.com/kubedb/mysql/commit/fc308cc3) Remove dependency on enterprise operator (#209)
+- [1b717aee](https://github.com/kubedb/mysql/commit/1b717aee) Detect primary pod in MySQL group replication (#190)
+- [c3e516f4](https://github.com/kubedb/mysql/commit/c3e516f4) Support MySQL new version for group replication and standalone (#189)
+- [8bedade3](https://github.com/kubedb/mysql/commit/8bedade3) Build images in e2e workflow (#208)
+- [02c9434c](https://github.com/kubedb/mysql/commit/02c9434c) Allow configuring k8s & db version in e2e tests (#207)
+- [ae5d757c](https://github.com/kubedb/mysql/commit/ae5d757c) Update to Kubernetes v1.18.3 (#206)
+- [16bdc23f](https://github.com/kubedb/mysql/commit/16bdc23f) Trigger e2e tests on /ok-to-test command (#205)
+- [7be13878](https://github.com/kubedb/mysql/commit/7be13878) Update to Kubernetes v1.18.3 (#203)
+- [d69fe478](https://github.com/kubedb/mysql/commit/d69fe478) Update to Kubernetes v1.18.3 (#202)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.2)

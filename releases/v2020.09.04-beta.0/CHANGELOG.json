@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.04-beta.0",
-  "release_date": "2020-09-04T02:39:23.676886162Z",
+  "release_date": "2020-09-04T02:39:35.663943929Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
   "kubernetes_version": "1.12+",
@@ -331,6 +331,112 @@
             {
               "SHA": "60fb6d9b",
               "Subject": "Update to Kubernetes v1.18.3 (#320)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.2",
+          "commits": [
+            {
+              "SHA": "6010c034",
+              "Subject": "Prepare for release v0.7.0-beta.2 (#224)"
+            },
+            {
+              "SHA": "4b530066",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "184a6cbc",
+              "Subject": "Update dependencies (#223)"
+            },
+            {
+              "SHA": "903b13b6",
+              "Subject": "Always use OnDelete update strategy"
+            },
+            {
+              "SHA": "1c10224a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#222)"
+            },
+            {
+              "SHA": "4e9e5e44",
+              "Subject": "Added TLS/SSL Configuration in MySQL Server (#204)"
+            },
+            {
+              "SHA": "d08209b8",
+              "Subject": "Use username/password constants from core/v1"
+            },
+            {
+              "SHA": "87238c42",
+              "Subject": "Update MySQL vendor for changes of prometheus coreos operator (#216)"
+            },
+            {
+              "SHA": "999005ed",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#215)"
+            },
+            {
+              "SHA": "3eb5086e",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#214)"
+            },
+            {
+              "SHA": "cd58f276",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#213)"
+            },
+            {
+              "SHA": "4dcfcd14",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#212)"
+            },
+            {
+              "SHA": "d41015c9",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#211)"
+            },
+            {
+              "SHA": "4350cb79",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#210)"
+            },
+            {
+              "SHA": "617af851",
+              "Subject": "Fix install target"
+            },
+            {
+              "SHA": "fc308cc3",
+              "Subject": "Remove dependency on enterprise operator (#209)"
+            },
+            {
+              "SHA": "1b717aee",
+              "Subject": "Detect primary pod in MySQL group replication (#190)"
+            },
+            {
+              "SHA": "c3e516f4",
+              "Subject": "Support MySQL new version for group replication and standalone (#189)"
+            },
+            {
+              "SHA": "8bedade3",
+              "Subject": "Build images in e2e workflow (#208)"
+            },
+            {
+              "SHA": "02c9434c",
+              "Subject": "Allow configuring k8s & db version in e2e tests (#207)"
+            },
+            {
+              "SHA": "ae5d757c",
+              "Subject": "Update to Kubernetes v1.18.3 (#206)"
+            },
+            {
+              "SHA": "16bdc23f",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#205)"
+            },
+            {
+              "SHA": "7be13878",
+              "Subject": "Update to Kubernetes v1.18.3 (#203)"
+            },
+            {
+              "SHA": "d69fe478",
+              "Subject": "Update to Kubernetes v1.18.3 (#202)"
             }
           ]
         }

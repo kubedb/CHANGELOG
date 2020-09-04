@@ -97,6 +97,32 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.7.0-beta.2](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.2)
+
+- [b8fe927b](https://github.com/kubedb/memcached/commit/b8fe927b) Prepare for release v0.7.0-beta.2 (#177)
+- [0f5014d2](https://github.com/kubedb/memcached/commit/0f5014d2) Update release.yml
+- [1b627013](https://github.com/kubedb/memcached/commit/1b627013) Remove updateStrategy field (#176)
+- [66f008d6](https://github.com/kubedb/memcached/commit/66f008d6) Update Kubernetes v1.18.3 dependencies (#175)
+- [09ff8589](https://github.com/kubedb/memcached/commit/09ff8589) Update Kubernetes v1.18.3 dependencies (#174)
+- [92e344d8](https://github.com/kubedb/memcached/commit/92e344d8) Update Kubernetes v1.18.3 dependencies (#173)
+- [51e977f3](https://github.com/kubedb/memcached/commit/51e977f3) Update Kubernetes v1.18.3 dependencies (#172)
+- [f32d7e9c](https://github.com/kubedb/memcached/commit/f32d7e9c) Update Kubernetes v1.18.3 dependencies (#171)
+- [2cdba698](https://github.com/kubedb/memcached/commit/2cdba698) Update Kubernetes v1.18.3 dependencies (#170)
+- [9486876e](https://github.com/kubedb/memcached/commit/9486876e) Update Kubernetes v1.18.3 dependencies (#169)
+- [81648447](https://github.com/kubedb/memcached/commit/81648447) Update Kubernetes v1.18.3 dependencies (#168)
+- [e9c3f98d](https://github.com/kubedb/memcached/commit/e9c3f98d) Fix install target
+- [6dff8f7b](https://github.com/kubedb/memcached/commit/6dff8f7b) Remove dependency on enterprise operator (#167)
+- [707d4d83](https://github.com/kubedb/memcached/commit/707d4d83) Build images in e2e workflow (#166)
+- [ff1b144e](https://github.com/kubedb/memcached/commit/ff1b144e) Allow configuring k8s & db version in e2e tests (#165)
+- [0b1699d8](https://github.com/kubedb/memcached/commit/0b1699d8) Update to Kubernetes v1.18.3 (#164)
+- [b141122a](https://github.com/kubedb/memcached/commit/b141122a) Trigger e2e tests on /ok-to-test command (#163)
+- [36b03266](https://github.com/kubedb/memcached/commit/36b03266) Update to Kubernetes v1.18.3 (#162)
+- [3ede9dcc](https://github.com/kubedb/memcached/commit/3ede9dcc) Update to Kubernetes v1.18.3 (#161)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.7.0-beta.2](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-beta.2)

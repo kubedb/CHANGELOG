@@ -1,0 +1,184 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.09.04-beta.0",
+  "release_date": "2020-09-04T00:47:15.86869279Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.2",
+          "commits": [
+            {
+              "SHA": "76ac9bc0",
+              "Subject": "Remove CertManagerClient client"
+            },
+            {
+              "SHA": "b99048f4",
+              "Subject": "Remove unused constants for ProxySQL"
+            },
+            {
+              "SHA": "152cef57",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#578)"
+            },
+            {
+              "SHA": "24c5e829",
+              "Subject": "Update redis constants (#575)"
+            },
+            {
+              "SHA": "7075b38d",
+              "Subject": "Remove spec.updateStrategy field (#577)"
+            },
+            {
+              "SHA": "dfd11955",
+              "Subject": "Remove description from CRD yamls (#576)"
+            },
+            {
+              "SHA": "2d1b5878",
+              "Subject": "Add autoscaling crds (#554)"
+            },
+            {
+              "SHA": "68ed8127",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "63d18f0d",
+              "Subject": "Rename PgBouncer archiver to client"
+            },
+            {
+              "SHA": "a219c251",
+              "Subject": "Handle shard scenario for MongoDB cert names (#574)"
+            },
+            {
+              "SHA": "d2c80e55",
+              "Subject": "Add MongoDB Custom Config Spec (#562)"
+            },
+            {
+              "SHA": "1e69fb02",
+              "Subject": "Support multiple certificates per DB (#555)"
+            },
+            {
+              "SHA": "9bbed3d1",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#573)"
+            },
+            {
+              "SHA": "7df78c7a",
+              "Subject": "Update CRD yamls"
+            },
+            {
+              "SHA": "406d895d",
+              "Subject": "Implement ServiceMonitorAdditionalLabels method (#572)"
+            },
+            {
+              "SHA": "cfe4374a",
+              "Subject": "Make ServiceMonitor name same as stats service (#563)"
+            },
+            {
+              "SHA": "d2ed6b4a",
+              "Subject": "Update for release Stash@v2020.08.27 (#571)"
+            },
+            {
+              "SHA": "749b9084",
+              "Subject": "Update for release Stash@v2020.08.27-rc.0 (#570)"
+            },
+            {
+              "SHA": "5d8bf42c",
+              "Subject": "Update for release Stash@v2020.08.26-rc.1 (#569)"
+            },
+            {
+              "SHA": "6edc4782",
+              "Subject": "Update for release Stash@v2020.08.26-rc.0 (#568)"
+            },
+            {
+              "SHA": "c451ff3a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#565)"
+            },
+            {
+              "SHA": "fdc6e2d6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#564)"
+            },
+            {
+              "SHA": "2f509c26",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#561)"
+            },
+            {
+              "SHA": "da655afe",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#560)"
+            },
+            {
+              "SHA": "9c2c06a9",
+              "Subject": "Fix MySQL enterprise condition's  constant (#559)"
+            },
+            {
+              "SHA": "81ed2724",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#558)"
+            },
+            {
+              "SHA": "738b7ade",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#557)"
+            },
+            {
+              "SHA": "93f0af4b",
+              "Subject": "Add MySQL Constants (#553)"
+            },
+            {
+              "SHA": "6049554d",
+              "Subject": "Add {Horizontal,Vertical}ScalingSpec for Redis (#534)"
+            },
+            {
+              "SHA": "28552272",
+              "Subject": "Enable TLS for Redis (#546)"
+            },
+            {
+              "SHA": "68e00844",
+              "Subject": "Add Spec for MongoDB Volume Expansion (#548)"
+            },
+            {
+              "SHA": "759a800a",
+              "Subject": "Add Subject spec for Certificate (#552)"
+            },
+            {
+              "SHA": "b1552628",
+              "Subject": "Add email SANs for certificate (#551)"
+            },
+            {
+              "SHA": "fdfad57e",
+              "Subject": "Update to cert-manager@v0.16.0 (#550)"
+            },
+            {
+              "SHA": "3b5e9ece",
+              "Subject": "Update to Kubernetes v1.18.3 (#549)"
+            },
+            {
+              "SHA": "0c5a1e9b",
+              "Subject": "Make ElasticsearchVersion spec.tools optional (#526)"
+            },
+            {
+              "SHA": "01a0b4b3",
+              "Subject": "Add Conditions Constant for MongoDBOpsRequest (#535)"
+            },
+            {
+              "SHA": "34a9ed61",
+              "Subject": "Update to Kubernetes v1.18.3 (#547)"
+            },
+            {
+              "SHA": "6392f19e",
+              "Subject": "Add Storage Engine Support for Percona Server MongoDB (#538)"
+            },
+            {
+              "SHA": "02d205bc",
+              "Subject": "Remove extra - from prefix/suffix (#543)"
+            },
+            {
+              "SHA": "06158f51",
+              "Subject": "Update to Kubernetes v1.18.3 (#542)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

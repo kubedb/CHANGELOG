@@ -197,6 +197,28 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.14.0-beta.2](https://github.com/kubedb/operator/releases/tag/v0.14.0-beta.2)
+
+- [a13ca48b](https://github.com/kubedb/operator/commit/a13ca48b) Prepare for release v0.14.0-beta.2 (#281)
+- [fc6c1e9e](https://github.com/kubedb/operator/commit/fc6c1e9e) Update Kubernetes v1.18.3 dependencies (#280)
+- [cd74716b](https://github.com/kubedb/operator/commit/cd74716b) Update Kubernetes v1.18.3 dependencies (#275)
+- [5b3c76ed](https://github.com/kubedb/operator/commit/5b3c76ed) Update Kubernetes v1.18.3 dependencies (#274)
+- [397a7e60](https://github.com/kubedb/operator/commit/397a7e60) Update Kubernetes v1.18.3 dependencies (#273)
+- [616ea78d](https://github.com/kubedb/operator/commit/616ea78d) Update Kubernetes v1.18.3 dependencies (#272)
+- [b7b0d2b9](https://github.com/kubedb/operator/commit/b7b0d2b9) Update Kubernetes v1.18.3 dependencies (#271)
+- [3afadb7a](https://github.com/kubedb/operator/commit/3afadb7a) Update Kubernetes v1.18.3 dependencies (#270)
+- [60b15632](https://github.com/kubedb/operator/commit/60b15632) Remove dependency on enterprise operator (#269)
+- [b3648cde](https://github.com/kubedb/operator/commit/b3648cde) Build images in e2e workflow (#268)
+- [73dee065](https://github.com/kubedb/operator/commit/73dee065) Update to Kubernetes v1.18.3 (#266)
+- [a8a42ab8](https://github.com/kubedb/operator/commit/a8a42ab8) Allow configuring k8s in e2e tests (#267)
+- [4b7d6ee3](https://github.com/kubedb/operator/commit/4b7d6ee3) Trigger e2e tests on /ok-to-test command (#265)
+- [024fc40a](https://github.com/kubedb/operator/commit/024fc40a) Update to Kubernetes v1.18.3 (#264)
+- [bd1da662](https://github.com/kubedb/operator/commit/bd1da662) Update to Kubernetes v1.18.3 (#263)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.1.0-beta.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.2)

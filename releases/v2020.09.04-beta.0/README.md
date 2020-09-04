@@ -97,6 +97,36 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.14.0-beta.2](https://github.com/kubedb/installer/releases/tag/v0.14.0-beta.2)
+
+- [cb0e278](https://github.com/kubedb/installer/commit/cb0e278) Prepare for release v0.14.0-beta.2 (#128)
+- [b31ccbf](https://github.com/kubedb/installer/commit/b31ccbf) Update Kubernetes v1.18.3 dependencies (#127)
+- [389ce6a](https://github.com/kubedb/installer/commit/389ce6a) Update Kubernetes v1.18.3 dependencies (#126)
+- [db6f1e9](https://github.com/kubedb/installer/commit/db6f1e9) Update chart icons
+- [9f41f2d](https://github.com/kubedb/installer/commit/9f41f2d) Update Kubernetes v1.18.3 dependencies (#124)
+- [004373e](https://github.com/kubedb/installer/commit/004373e) Update Kubernetes v1.18.3 dependencies (#123)
+- [e517626](https://github.com/kubedb/installer/commit/e517626) Prefix catalog files with non-patched versions deprecated- (#119)
+- [2bf8715](https://github.com/kubedb/installer/commit/2bf8715) Update Kubernetes v1.18.3 dependencies (#121)
+- [9a5cc7b](https://github.com/kubedb/installer/commit/9a5cc7b) Update Kubernetes v1.18.3 dependencies (#120)
+- [e2f8ebd](https://github.com/kubedb/installer/commit/e2f8ebd) Add MySQL New catalog (#116)
+- [72ad85e](https://github.com/kubedb/installer/commit/72ad85e) Update Kubernetes v1.18.3 dependencies (#118)
+- [94ebcb2](https://github.com/kubedb/installer/commit/94ebcb2) Update Kubernetes v1.18.3 dependencies (#117)
+- [5dc2808](https://github.com/kubedb/installer/commit/5dc2808) Remove excess permission (#115)
+- [65b4443](https://github.com/kubedb/installer/commit/65b4443) Update redis exporter image tag
+- [7191679](https://github.com/kubedb/installer/commit/7191679) Add support for Redis 6.0.6 (#99)
+- [902f00e](https://github.com/kubedb/installer/commit/902f00e) Add Pod `exec` permission in ClusterRole (#102)
+- [4a83599](https://github.com/kubedb/installer/commit/4a83599) Update to Kubernetes v1.18.3 (#114)
+- [df8412a](https://github.com/kubedb/installer/commit/df8412a) Add Permissions for PVC (#112)
+- [99d6e66](https://github.com/kubedb/installer/commit/99d6e66) Update elasticsearchversion crds (#111)
+- [57561a3](https://github.com/kubedb/installer/commit/57561a3) Use `percona` as Suffix in MongoDBVersion Name (#110)
+- [7706f93](https://github.com/kubedb/installer/commit/7706f93) Update to Kubernetes v1.18.3 (#109)
+- [513db6d](https://github.com/kubedb/installer/commit/513db6d) Add Percona MongoDB Server Catalogs (#103)
+- [2b10a12](https://github.com/kubedb/installer/commit/2b10a12) Update to Kubernetes v1.18.3 (#108)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-beta.2](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.2)

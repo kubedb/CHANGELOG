@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.04-beta.0",
-  "release_date": "2020-09-04T03:02:13.80637854Z",
+  "release_date": "2020-09-04T03:21:01.475349995Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
   "kubernetes_version": "1.12+",
@@ -331,6 +331,108 @@
             {
               "SHA": "60fb6d9b",
               "Subject": "Update to Kubernetes v1.18.3 (#320)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.2",
+          "commits": [
+            {
+              "SHA": "cb0e278",
+              "Subject": "Prepare for release v0.14.0-beta.2 (#128)"
+            },
+            {
+              "SHA": "b31ccbf",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#127)"
+            },
+            {
+              "SHA": "389ce6a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#126)"
+            },
+            {
+              "SHA": "db6f1e9",
+              "Subject": "Update chart icons"
+            },
+            {
+              "SHA": "9f41f2d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#124)"
+            },
+            {
+              "SHA": "004373e",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#123)"
+            },
+            {
+              "SHA": "e517626",
+              "Subject": "Prefix catalog files with non-patched versions deprecated- (#119)"
+            },
+            {
+              "SHA": "2bf8715",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#121)"
+            },
+            {
+              "SHA": "9a5cc7b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#120)"
+            },
+            {
+              "SHA": "e2f8ebd",
+              "Subject": "Add MySQL New catalog (#116)"
+            },
+            {
+              "SHA": "72ad85e",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#118)"
+            },
+            {
+              "SHA": "94ebcb2",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#117)"
+            },
+            {
+              "SHA": "5dc2808",
+              "Subject": "Remove excess permission (#115)"
+            },
+            {
+              "SHA": "65b4443",
+              "Subject": "Update redis exporter image tag"
+            },
+            {
+              "SHA": "7191679",
+              "Subject": "Add support for Redis 6.0.6 (#99)"
+            },
+            {
+              "SHA": "902f00e",
+              "Subject": "Add Pod `exec` permission in ClusterRole (#102)"
+            },
+            {
+              "SHA": "4a83599",
+              "Subject": "Update to Kubernetes v1.18.3 (#114)"
+            },
+            {
+              "SHA": "df8412a",
+              "Subject": "Add Permissions for PVC (#112)"
+            },
+            {
+              "SHA": "99d6e66",
+              "Subject": "Update elasticsearchversion crds (#111)"
+            },
+            {
+              "SHA": "57561a3",
+              "Subject": "Use `percona` as Suffix in MongoDBVersion Name (#110)"
+            },
+            {
+              "SHA": "7706f93",
+              "Subject": "Update to Kubernetes v1.18.3 (#109)"
+            },
+            {
+              "SHA": "513db6d",
+              "Subject": "Add Percona MongoDB Server Catalogs (#103)"
+            },
+            {
+              "SHA": "2b10a12",
+              "Subject": "Update to Kubernetes v1.18.3 (#108)"
             }
           ]
         }

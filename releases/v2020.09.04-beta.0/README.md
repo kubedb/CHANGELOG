@@ -156,6 +156,21 @@
 
 
 
+## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
+
+### [v0.1.0-beta.2](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.2)
+
+- [eb878dc](https://github.com/kubedb/mysql-replication-mode-detector/commit/eb878dc) Prepare for release v0.1.0-beta.2 (#21)
+- [6c214b8](https://github.com/kubedb/mysql-replication-mode-detector/commit/6c214b8) Update Kubernetes v1.18.3 dependencies (#19)
+- [00800e8](https://github.com/kubedb/mysql-replication-mode-detector/commit/00800e8) Update Kubernetes v1.18.3 dependencies (#18)
+- [373ab6d](https://github.com/kubedb/mysql-replication-mode-detector/commit/373ab6d) Update Kubernetes v1.18.3 dependencies (#17)
+- [8b61313](https://github.com/kubedb/mysql-replication-mode-detector/commit/8b61313) Update Kubernetes v1.18.3 dependencies (#16)
+- [f2a68e3](https://github.com/kubedb/mysql-replication-mode-detector/commit/f2a68e3) Update Kubernetes v1.18.3 dependencies (#15)
+- [3bce396](https://github.com/kubedb/mysql-replication-mode-detector/commit/3bce396) Update Kubernetes v1.18.3 dependencies (#14)
+- [32603a2](https://github.com/kubedb/mysql-replication-mode-detector/commit/32603a2) Don't push binary with release
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.2)

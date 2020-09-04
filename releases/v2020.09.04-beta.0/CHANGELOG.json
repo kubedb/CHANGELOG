@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.04-beta.0",
-  "release_date": "2020-09-04T02:39:47.340477098Z",
+  "release_date": "2020-09-04T02:39:55.855536767Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.04-beta.0",
   "kubernetes_version": "1.12+",
@@ -531,6 +531,48 @@
             {
               "SHA": "d69fe478",
               "Subject": "Update to Kubernetes v1.18.3 (#202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.2",
+          "commits": [
+            {
+              "SHA": "eb878dc",
+              "Subject": "Prepare for release v0.1.0-beta.2 (#21)"
+            },
+            {
+              "SHA": "6c214b8",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#19)"
+            },
+            {
+              "SHA": "00800e8",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#18)"
+            },
+            {
+              "SHA": "373ab6d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#17)"
+            },
+            {
+              "SHA": "8b61313",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#16)"
+            },
+            {
+              "SHA": "f2a68e3",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#15)"
+            },
+            {
+              "SHA": "3bce396",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#14)"
+            },
+            {
+              "SHA": "32603a2",
+              "Subject": "Don't push binary with release"
             }
           ]
         }

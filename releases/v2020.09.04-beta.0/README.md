@@ -263,6 +263,33 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.1.0-beta.2](https://github.com/kubedb/proxysql/releases/tag/v0.1.0-beta.2)
+
+- [f86bb6cd](https://github.com/kubedb/proxysql/commit/f86bb6cd) Prepare for release v0.1.0-beta.2 (#46)
+- [e74f3803](https://github.com/kubedb/proxysql/commit/e74f3803) Update release.yml
+- [7f5349cc](https://github.com/kubedb/proxysql/commit/7f5349cc) Use updated apis (#45)
+- [27faefef](https://github.com/kubedb/proxysql/commit/27faefef) Update for release Stash@v2020.08.27 (#43)
+- [65bc5bca](https://github.com/kubedb/proxysql/commit/65bc5bca) Update for release Stash@v2020.08.27-rc.0 (#42)
+- [833ac78b](https://github.com/kubedb/proxysql/commit/833ac78b) Update for release Stash@v2020.08.26-rc.1 (#41)
+- [fe13ce42](https://github.com/kubedb/proxysql/commit/fe13ce42) Update for release Stash@v2020.08.26-rc.0 (#40)
+- [b1a72843](https://github.com/kubedb/proxysql/commit/b1a72843) Update Kubernetes v1.18.3 dependencies (#39)
+- [a9c40618](https://github.com/kubedb/proxysql/commit/a9c40618) Update Kubernetes v1.18.3 dependencies (#38)
+- [664c974a](https://github.com/kubedb/proxysql/commit/664c974a) Update Kubernetes v1.18.3 dependencies (#37)
+- [69ed46d5](https://github.com/kubedb/proxysql/commit/69ed46d5) Update Kubernetes v1.18.3 dependencies (#36)
+- [a93d80d4](https://github.com/kubedb/proxysql/commit/a93d80d4) Update Kubernetes v1.18.3 dependencies (#35)
+- [84fc9e37](https://github.com/kubedb/proxysql/commit/84fc9e37) Update Kubernetes v1.18.3 dependencies (#34)
+- [b09f89d0](https://github.com/kubedb/proxysql/commit/b09f89d0) Remove dependency on enterprise operator (#33)
+- [78ad5a88](https://github.com/kubedb/proxysql/commit/78ad5a88) Build images in e2e workflow (#32)
+- [6644058e](https://github.com/kubedb/proxysql/commit/6644058e) Update to Kubernetes v1.18.3 (#30)
+- [2c03dadd](https://github.com/kubedb/proxysql/commit/2c03dadd) Allow configuring k8s & db version in e2e tests (#31)
+- [2c6e04bc](https://github.com/kubedb/proxysql/commit/2c6e04bc) Trigger e2e tests on /ok-to-test command (#29)
+- [c7830af8](https://github.com/kubedb/proxysql/commit/c7830af8) Update to Kubernetes v1.18.3 (#28)
+- [f2da8746](https://github.com/kubedb/proxysql/commit/f2da8746) Update to Kubernetes v1.18.3 (#27)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.7.0-beta.2](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.2)

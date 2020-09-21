@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.21-beta.3",
-  "release_date": "2020-09-21T15:14:57.904373507Z",
+  "release_date": "2020-09-21T15:15:13.76505686Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
   "kubernetes_version": "1.12+",
@@ -85,6 +85,64 @@
             {
               "SHA": "64410c11",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.3",
+          "commits": [
+            {
+              "SHA": "2867a4ef",
+              "Subject": "Prepare for release v0.7.0-beta.3 (#247)"
+            },
+            {
+              "SHA": "8e6c12e7",
+              "Subject": "Use new `spec.init` section (#246)"
+            },
+            {
+              "SHA": "96aefe31",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#245)"
+            },
+            {
+              "SHA": "59e2a89c",
+              "Subject": "Add license verifier (#244)"
+            },
+            {
+              "SHA": "2824cb71",
+              "Subject": "Update for release Stash@v2020.09.16 (#243)"
+            },
+            {
+              "SHA": "3c626235",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#242)"
+            },
+            {
+              "SHA": "86b205ef",
+              "Subject": "Update Constants (#241)"
+            },
+            {
+              "SHA": "1910e947",
+              "Subject": "Use common constant across MongoDB Community and Enterprise operator (#240)"
+            },
+            {
+              "SHA": "05364676",
+              "Subject": "Run e2e tests from kubedb/tests repo (#238)"
+            },
+            {
+              "SHA": "80a78fe7",
+              "Subject": "Set Delete Propagation Policy to Background (#237)"
+            },
+            {
+              "SHA": "9a9d101c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#236)"
+            },
+            {
+              "SHA": "d596ca68",
+              "Subject": "Use AppsCode Community License (#235)"
             }
           ]
         }

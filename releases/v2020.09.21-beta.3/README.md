@@ -31,6 +31,25 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.7.0-beta.3](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-beta.3)
+
+- [2867a4ef](https://github.com/kubedb/mongodb/commit/2867a4ef) Prepare for release v0.7.0-beta.3 (#247)
+- [8e6c12e7](https://github.com/kubedb/mongodb/commit/8e6c12e7) Use new `spec.init` section (#246)
+- [96aefe31](https://github.com/kubedb/mongodb/commit/96aefe31) Update Kubernetes v1.18.3 dependencies (#245)
+- [59e2a89c](https://github.com/kubedb/mongodb/commit/59e2a89c) Add license verifier (#244)
+- [2824cb71](https://github.com/kubedb/mongodb/commit/2824cb71) Update for release Stash@v2020.09.16 (#243)
+- [3c626235](https://github.com/kubedb/mongodb/commit/3c626235) Update Kubernetes v1.18.3 dependencies (#242)
+- [86b205ef](https://github.com/kubedb/mongodb/commit/86b205ef) Update Constants (#241)
+- [1910e947](https://github.com/kubedb/mongodb/commit/1910e947) Use common constant across MongoDB Community and Enterprise operator (#240)
+- [05364676](https://github.com/kubedb/mongodb/commit/05364676) Run e2e tests from kubedb/tests repo (#238)
+- [80a78fe7](https://github.com/kubedb/mongodb/commit/80a78fe7) Set Delete Propagation Policy to Background (#237)
+- [9a9d101c](https://github.com/kubedb/mongodb/commit/9a9d101c) Update Kubernetes v1.18.3 dependencies (#236)
+- [d596ca68](https://github.com/kubedb/mongodb/commit/d596ca68) Use AppsCode Community License (#235)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.7.0-beta.3](https://github.com/kubedb/mysql/releases/tag/v0.7.0-beta.3)

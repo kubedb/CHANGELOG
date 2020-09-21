@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.21-beta.3",
-  "release_date": "2020-09-21T15:14:45.639782291Z",
+  "release_date": "2020-09-21T15:14:57.904373507Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
   "kubernetes_version": "1.12+",
@@ -85,6 +85,56 @@
             {
               "SHA": "64410c11",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.3",
+          "commits": [
+            {
+              "SHA": "8e85dd18",
+              "Subject": "Prepare for release v0.7.0-beta.3 (#235)"
+            },
+            {
+              "SHA": "bb1f0869",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#234)"
+            },
+            {
+              "SHA": "aa33e58e",
+              "Subject": "Add license verifier (#233)"
+            },
+            {
+              "SHA": "d25054c0",
+              "Subject": "Use new `spec.init` section (#230)"
+            },
+            {
+              "SHA": "3936e5b8",
+              "Subject": "Update for release Stash@v2020.09.16 (#232)"
+            },
+            {
+              "SHA": "5162a530",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#231)"
+            },
+            {
+              "SHA": "db42056e",
+              "Subject": "Use background deletion policy"
+            },
+            {
+              "SHA": "4045a502",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#227)"
+            },
+            {
+              "SHA": "93916a12",
+              "Subject": "Use AppsCode Community License (#226)"
+            },
+            {
+              "SHA": "e3eefff3",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#225)"
             }
           ]
         }

@@ -31,6 +31,23 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.7.0-beta.3](https://github.com/kubedb/mysql/releases/tag/v0.7.0-beta.3)
+
+- [8e85dd18](https://github.com/kubedb/mysql/commit/8e85dd18) Prepare for release v0.7.0-beta.3 (#235)
+- [bb1f0869](https://github.com/kubedb/mysql/commit/bb1f0869) Update Kubernetes v1.18.3 dependencies (#234)
+- [aa33e58e](https://github.com/kubedb/mysql/commit/aa33e58e) Add license verifier (#233)
+- [d25054c0](https://github.com/kubedb/mysql/commit/d25054c0) Use new `spec.init` section (#230)
+- [3936e5b8](https://github.com/kubedb/mysql/commit/3936e5b8) Update for release Stash@v2020.09.16 (#232)
+- [5162a530](https://github.com/kubedb/mysql/commit/5162a530) Update Kubernetes v1.18.3 dependencies (#231)
+- [db42056e](https://github.com/kubedb/mysql/commit/db42056e) Use background deletion policy
+- [4045a502](https://github.com/kubedb/mysql/commit/4045a502) Update Kubernetes v1.18.3 dependencies (#227)
+- [93916a12](https://github.com/kubedb/mysql/commit/93916a12) Use AppsCode Community License (#226)
+- [e3eefff3](https://github.com/kubedb/mysql/commit/e3eefff3) Update Kubernetes v1.18.3 dependencies (#225)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.3](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.3)

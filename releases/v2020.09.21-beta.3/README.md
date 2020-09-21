@@ -16,6 +16,23 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.1.0-beta.3](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.3)
+
+- [0ff583b8](https://github.com/kubedb/percona-xtradb/commit/0ff583b8) Prepare for release v0.1.0-beta.3 (#70)
+- [627bc039](https://github.com/kubedb/percona-xtradb/commit/627bc039) Use new `spec.init` section (#69)
+- [f79e4771](https://github.com/kubedb/percona-xtradb/commit/f79e4771) Update Kubernetes v1.18.3 dependencies (#68)
+- [257954c2](https://github.com/kubedb/percona-xtradb/commit/257954c2) Add license verifier (#67)
+- [e06eec6b](https://github.com/kubedb/percona-xtradb/commit/e06eec6b) Update for release Stash@v2020.09.16 (#66)
+- [29901348](https://github.com/kubedb/percona-xtradb/commit/29901348) Update Kubernetes v1.18.3 dependencies (#65)
+- [02d5bfde](https://github.com/kubedb/percona-xtradb/commit/02d5bfde) Use background deletion policy
+- [6e6d8b5b](https://github.com/kubedb/percona-xtradb/commit/6e6d8b5b) Update Kubernetes v1.18.3 dependencies (#63)
+- [7601a237](https://github.com/kubedb/percona-xtradb/commit/7601a237) Use AppsCode Community License (#62)
+- [4d1a2424](https://github.com/kubedb/percona-xtradb/commit/4d1a2424) Update Kubernetes v1.18.3 dependencies (#61)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.3](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.3)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.21-beta.3",
-  "release_date": "2020-09-21T15:04:08.648458729Z",
+  "release_date": "2020-09-21T15:12:35.138886211Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
   "kubernetes_version": "1.12+",
@@ -43,6 +43,56 @@
             {
               "SHA": "ecd1d17f",
               "Subject": "Add Functions to get Default Probes (#579)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.3",
+          "commits": [
+            {
+              "SHA": "0ff583b8",
+              "Subject": "Prepare for release v0.1.0-beta.3 (#70)"
+            },
+            {
+              "SHA": "627bc039",
+              "Subject": "Use new `spec.init` section (#69)"
+            },
+            {
+              "SHA": "f79e4771",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#68)"
+            },
+            {
+              "SHA": "257954c2",
+              "Subject": "Add license verifier (#67)"
+            },
+            {
+              "SHA": "e06eec6b",
+              "Subject": "Update for release Stash@v2020.09.16 (#66)"
+            },
+            {
+              "SHA": "29901348",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#65)"
+            },
+            {
+              "SHA": "02d5bfde",
+              "Subject": "Use background deletion policy"
+            },
+            {
+              "SHA": "6e6d8b5b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#63)"
+            },
+            {
+              "SHA": "7601a237",
+              "Subject": "Use AppsCode Community License (#62)"
+            },
+            {
+              "SHA": "4d1a2424",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#61)"
             }
           ]
         }

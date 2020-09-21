@@ -138,6 +138,21 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.1.0-beta.3](https://github.com/kubedb/pgbouncer/releases/tag/v0.1.0-beta.3)
+
+- [3a868c6d](https://github.com/kubedb/pgbouncer/commit/3a868c6d) Prepare for release v0.1.0-beta.3 (#50)
+- [72745988](https://github.com/kubedb/pgbouncer/commit/72745988) Add license verifier (#49)
+- [36e16b55](https://github.com/kubedb/pgbouncer/commit/36e16b55) Use AppsCode Trial license (#48)
+- [d3917d72](https://github.com/kubedb/pgbouncer/commit/d3917d72) Update Kubernetes v1.18.3 dependencies (#47)
+- [c5fb3b0e](https://github.com/kubedb/pgbouncer/commit/c5fb3b0e) Update Kubernetes v1.18.3 dependencies (#46)
+- [64f27a21](https://github.com/kubedb/pgbouncer/commit/64f27a21) Update Kubernetes v1.18.3 dependencies (#44)
+- [817891a9](https://github.com/kubedb/pgbouncer/commit/817891a9) Use AppsCode Community License (#43)
+- [11826ae7](https://github.com/kubedb/pgbouncer/commit/11826ae7) Update Kubernetes v1.18.3 dependencies (#42)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.14.0-beta.3](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.3)

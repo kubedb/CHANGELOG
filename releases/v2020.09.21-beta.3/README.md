@@ -125,6 +125,23 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.14.0-beta.3](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.3)
+
+- [0dd8903e](https://github.com/kubedb/postgres/commit/0dd8903e) Prepare for release v0.14.0-beta.3 (#355)
+- [8f59199a](https://github.com/kubedb/postgres/commit/8f59199a) Use new `sepc.init` section (#354)
+- [32305e6d](https://github.com/kubedb/postgres/commit/32305e6d) Update Kubernetes v1.18.3 dependencies (#353)
+- [e65ecdf3](https://github.com/kubedb/postgres/commit/e65ecdf3) Add license verifier (#352)
+- [55b2f61e](https://github.com/kubedb/postgres/commit/55b2f61e) Update for release Stash@v2020.09.16 (#351)
+- [66f45a55](https://github.com/kubedb/postgres/commit/66f45a55) Update Kubernetes v1.18.3 dependencies (#350)
+- [80f3cc3b](https://github.com/kubedb/postgres/commit/80f3cc3b) Use background deletion policy
+- [63119dba](https://github.com/kubedb/postgres/commit/63119dba) Update Kubernetes v1.18.3 dependencies (#348)
+- [ac48cf6a](https://github.com/kubedb/postgres/commit/ac48cf6a) Use AppsCode Community License (#347)
+- [03449359](https://github.com/kubedb/postgres/commit/03449359) Update Kubernetes v1.18.3 dependencies (#346)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.7.0-beta.3](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.3)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.21-beta.3",
-  "release_date": "2020-09-21T15:13:49.529334188Z",
+  "release_date": "2020-09-21T15:14:34.321479425Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
   "kubernetes_version": "1.12+",
@@ -43,6 +43,48 @@
             {
               "SHA": "ecd1d17f",
               "Subject": "Add Functions to get Default Probes (#579)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.3",
+          "commits": [
+            {
+              "SHA": "a9edb56d",
+              "Subject": "Prepare for release v0.7.0-beta.3 (#185)"
+            },
+            {
+              "SHA": "ce99d040",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#184)"
+            },
+            {
+              "SHA": "dd19f634",
+              "Subject": "Add license verifier (#183)"
+            },
+            {
+              "SHA": "fc482bc2",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#182)"
+            },
+            {
+              "SHA": "b85b6742",
+              "Subject": "Use background deletion policy"
+            },
+            {
+              "SHA": "d46f41f9",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#180)"
+            },
+            {
+              "SHA": "d958c241",
+              "Subject": "Use AppsCode Community License (#179)"
+            },
+            {
+              "SHA": "64410c11",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#178)"
             }
           ]
         }

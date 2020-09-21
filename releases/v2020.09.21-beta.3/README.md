@@ -16,6 +16,21 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.7.0-beta.3](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.3)
+
+- [a9edb56d](https://github.com/kubedb/memcached/commit/a9edb56d) Prepare for release v0.7.0-beta.3 (#185)
+- [ce99d040](https://github.com/kubedb/memcached/commit/ce99d040) Update Kubernetes v1.18.3 dependencies (#184)
+- [dd19f634](https://github.com/kubedb/memcached/commit/dd19f634) Add license verifier (#183)
+- [fc482bc2](https://github.com/kubedb/memcached/commit/fc482bc2) Update Kubernetes v1.18.3 dependencies (#182)
+- [b85b6742](https://github.com/kubedb/memcached/commit/b85b6742) Use background deletion policy
+- [d46f41f9](https://github.com/kubedb/memcached/commit/d46f41f9) Update Kubernetes v1.18.3 dependencies (#180)
+- [d958c241](https://github.com/kubedb/memcached/commit/d958c241) Use AppsCode Community License (#179)
+- [64410c11](https://github.com/kubedb/memcached/commit/64410c11) Update Kubernetes v1.18.3 dependencies (#178)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.3](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.3)

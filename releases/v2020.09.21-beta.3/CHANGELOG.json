@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.21-beta.3",
-  "release_date": "2020-09-21T15:16:04.281633078Z",
+  "release_date": "2020-09-21T18:36:02.804885765Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
   "kubernetes_version": "1.12+",
@@ -43,6 +43,40 @@
             {
               "SHA": "ecd1d17f",
               "Subject": "Add Functions to get Default Probes (#579)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.3",
+          "commits": [
+            {
+              "SHA": "58fd85bb",
+              "Subject": "Prepare for release v0.14.0-beta.3 (#490)"
+            },
+            {
+              "SHA": "a6225a64",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#489)"
+            },
+            {
+              "SHA": "4c3afba3",
+              "Subject": "Update for release Stash@v2020.09.16 (#488)"
+            },
+            {
+              "SHA": "df224a1a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#487)"
+            },
+            {
+              "SHA": "dcb30ecf",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#486)"
+            },
+            {
+              "SHA": "faab5e0e",
+              "Subject": "Use AppsCode Community License (#485)"
             }
           ]
         }

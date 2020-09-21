@@ -16,6 +16,19 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.14.0-beta.3](https://github.com/kubedb/cli/releases/tag/v0.14.0-beta.3)
+
+- [58fd85bb](https://github.com/kubedb/cli/commit/58fd85bb) Prepare for release v0.14.0-beta.3 (#490)
+- [a6225a64](https://github.com/kubedb/cli/commit/a6225a64) Update Kubernetes v1.18.3 dependencies (#489)
+- [4c3afba3](https://github.com/kubedb/cli/commit/4c3afba3) Update for release Stash@v2020.09.16 (#488)
+- [df224a1a](https://github.com/kubedb/cli/commit/df224a1a) Update Kubernetes v1.18.3 dependencies (#487)
+- [dcb30ecf](https://github.com/kubedb/cli/commit/dcb30ecf) Update Kubernetes v1.18.3 dependencies (#486)
+- [faab5e0e](https://github.com/kubedb/cli/commit/faab5e0e) Use AppsCode Community License (#485)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.14.0-beta.3](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.3)

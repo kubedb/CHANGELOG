@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.21-beta.3",
-  "release_date": "2020-09-21T15:15:13.76505686Z",
+  "release_date": "2020-09-21T15:15:26.262149723Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
   "kubernetes_version": "1.12+",
@@ -43,6 +43,60 @@
             {
               "SHA": "ecd1d17f",
               "Subject": "Add Functions to get Default Probes (#579)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.3",
+          "commits": [
+            {
+              "SHA": "9fb43795",
+              "Subject": "Prepare for release v0.14.0-beta.3 (#351)"
+            },
+            {
+              "SHA": "a279a60c",
+              "Subject": "Use new `spec.init` section (#350)"
+            },
+            {
+              "SHA": "a1e2e2f6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#349)"
+            },
+            {
+              "SHA": "0aaf4530",
+              "Subject": "Add license verifier (#348)"
+            },
+            {
+              "SHA": "bbacb00b",
+              "Subject": "Update for release Stash@v2020.09.16 (#347)"
+            },
+            {
+              "SHA": "98c1ad83",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#345)"
+            },
+            {
+              "SHA": "1ebf168d",
+              "Subject": "Use background propagation policy"
+            },
+            {
+              "SHA": "9d7997df",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#343)"
+            },
+            {
+              "SHA": "42786958",
+              "Subject": "Use AppsCode Community License (#342)"
+            },
+            {
+              "SHA": "a96b0bd3",
+              "Subject": "Fix unit tests (#341)"
+            },
+            {
+              "SHA": "c9905966",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#340)"
             }
           ]
         }

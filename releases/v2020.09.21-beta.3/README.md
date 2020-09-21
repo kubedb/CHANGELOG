@@ -16,6 +16,24 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.14.0-beta.3](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.3)
+
+- [9fb43795](https://github.com/kubedb/elasticsearch/commit/9fb43795) Prepare for release v0.14.0-beta.3 (#351)
+- [a279a60c](https://github.com/kubedb/elasticsearch/commit/a279a60c) Use new `spec.init` section (#350)
+- [a1e2e2f6](https://github.com/kubedb/elasticsearch/commit/a1e2e2f6) Update Kubernetes v1.18.3 dependencies (#349)
+- [0aaf4530](https://github.com/kubedb/elasticsearch/commit/0aaf4530) Add license verifier (#348)
+- [bbacb00b](https://github.com/kubedb/elasticsearch/commit/bbacb00b) Update for release Stash@v2020.09.16 (#347)
+- [98c1ad83](https://github.com/kubedb/elasticsearch/commit/98c1ad83) Update Kubernetes v1.18.3 dependencies (#345)
+- [1ebf168d](https://github.com/kubedb/elasticsearch/commit/1ebf168d) Use background propagation policy
+- [9d7997df](https://github.com/kubedb/elasticsearch/commit/9d7997df) Update Kubernetes v1.18.3 dependencies (#343)
+- [42786958](https://github.com/kubedb/elasticsearch/commit/42786958) Use AppsCode Community License (#342)
+- [a96b0bd3](https://github.com/kubedb/elasticsearch/commit/a96b0bd3) Fix unit tests (#341)
+- [c9905966](https://github.com/kubedb/elasticsearch/commit/c9905966) Update Kubernetes v1.18.3 dependencies (#340)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-beta.3](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.3)

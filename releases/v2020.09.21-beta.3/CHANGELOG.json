@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.21-beta.3",
-  "release_date": "2020-09-21T15:03:16.525259321Z",
+  "release_date": "2020-09-21T15:04:08.648458729Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
   "kubernetes_version": "1.12+",
@@ -43,6 +43,32 @@
             {
               "SHA": "ecd1d17f",
               "Subject": "Add Functions to get Default Probes (#579)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.2.0-beta.3",
+          "commits": [
+            {
+              "SHA": "4671638",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#21)"
+            },
+            {
+              "SHA": "88ed553",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#20)"
+            },
+            {
+              "SHA": "eeefe7a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#19)"
+            },
+            {
+              "SHA": "effb757",
+              "Subject": "Use AppsCode Community License (#18)"
             }
           ]
         }

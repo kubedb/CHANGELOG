@@ -16,3 +16,14 @@
 
 
 
+## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
+
+### [v0.2.0-beta.3](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.3)
+
+- [4671638](https://github.com/kubedb/pg-leader-election/commit/4671638) Update Kubernetes v1.18.3 dependencies (#21)
+- [88ed553](https://github.com/kubedb/pg-leader-election/commit/88ed553) Update Kubernetes v1.18.3 dependencies (#20)
+- [eeefe7a](https://github.com/kubedb/pg-leader-election/commit/eeefe7a) Update Kubernetes v1.18.3 dependencies (#19)
+- [effb757](https://github.com/kubedb/pg-leader-election/commit/effb757) Use AppsCode Community License (#18)
+
+
+

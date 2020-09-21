@@ -1,0 +1,52 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.09.21-beta.3",
+  "release_date": "2020-09-21T15:03:16.525259321Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.3",
+          "commits": [
+            {
+              "SHA": "ec58309a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#586)"
+            },
+            {
+              "SHA": "38050bae",
+              "Subject": "Initialize db from stash restoresession/restoreBatch (#567)"
+            },
+            {
+              "SHA": "ec3efa91",
+              "Subject": "Update for release Stash@v2020.09.16 (#585)"
+            },
+            {
+              "SHA": "5ddfd53a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#584)"
+            },
+            {
+              "SHA": "24398515",
+              "Subject": "Add some `MongoDB` and `MongoDBOpsRequest` Constants (#582)"
+            },
+            {
+              "SHA": "584a4bf6",
+              "Subject": "Add primary and secondary role constant for MySQL (#581)"
+            },
+            {
+              "SHA": "82299808",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#580)"
+            },
+            {
+              "SHA": "ecd1d17f",
+              "Subject": "Add Functions to get Default Probes (#579)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

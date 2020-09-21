@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.21-beta.3",
-  "release_date": "2020-09-21T15:12:35.138886211Z",
+  "release_date": "2020-09-21T15:13:49.529334188Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
   "kubernetes_version": "1.12+",
@@ -43,6 +43,36 @@
             {
               "SHA": "ecd1d17f",
               "Subject": "Add Functions to get Default Probes (#579)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.3",
+          "commits": [
+            {
+              "SHA": "eedb970",
+              "Subject": "Prepare for release v0.1.0-beta.3 (#27)"
+            },
+            {
+              "SHA": "e4c3962",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#26)"
+            },
+            {
+              "SHA": "9c20bfb",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#25)"
+            },
+            {
+              "SHA": "a1f5dbd",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#23)"
+            },
+            {
+              "SHA": "feedb97",
+              "Subject": "Use AppsCode Community License (#22)"
             }
           ]
         }

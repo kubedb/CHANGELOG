@@ -16,6 +16,18 @@
 
 
 
+## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
+
+### [v0.1.0-beta.3](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.3)
+
+- [eedb970](https://github.com/kubedb/mysql-replication-mode-detector/commit/eedb970) Prepare for release v0.1.0-beta.3 (#27)
+- [e4c3962](https://github.com/kubedb/mysql-replication-mode-detector/commit/e4c3962) Update Kubernetes v1.18.3 dependencies (#26)
+- [9c20bfb](https://github.com/kubedb/mysql-replication-mode-detector/commit/9c20bfb) Update Kubernetes v1.18.3 dependencies (#25)
+- [a1f5dbd](https://github.com/kubedb/mysql-replication-mode-detector/commit/a1f5dbd) Update Kubernetes v1.18.3 dependencies (#23)
+- [feedb97](https://github.com/kubedb/mysql-replication-mode-detector/commit/feedb97) Use AppsCode Community License (#22)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.1.0-beta.3](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.3)

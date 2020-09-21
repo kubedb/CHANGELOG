@@ -170,6 +170,23 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.1.0-beta.3](https://github.com/kubedb/proxysql/releases/tag/v0.1.0-beta.3)
+
+- [8b0af94b](https://github.com/kubedb/proxysql/commit/8b0af94b) Prepare for release v0.1.0-beta.3 (#56)
+- [f2a98806](https://github.com/kubedb/proxysql/commit/f2a98806) Update Makefile
+- [f59b73a1](https://github.com/kubedb/proxysql/commit/f59b73a1) Use AppsCode Trial license (#55)
+- [2ae32d3c](https://github.com/kubedb/proxysql/commit/2ae32d3c) Update Kubernetes v1.18.3 dependencies (#54)
+- [724b9829](https://github.com/kubedb/proxysql/commit/724b9829) Add license verifier (#53)
+- [8a2aafb5](https://github.com/kubedb/proxysql/commit/8a2aafb5) Update for release Stash@v2020.09.16 (#52)
+- [4759525b](https://github.com/kubedb/proxysql/commit/4759525b) Update Kubernetes v1.18.3 dependencies (#51)
+- [f55b1402](https://github.com/kubedb/proxysql/commit/f55b1402) Update Kubernetes v1.18.3 dependencies (#49)
+- [f7036236](https://github.com/kubedb/proxysql/commit/f7036236) Use AppsCode Community License (#48)
+- [d922196f](https://github.com/kubedb/proxysql/commit/d922196f) Update Kubernetes v1.18.3 dependencies (#47)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.7.0-beta.3](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.3)

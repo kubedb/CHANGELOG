@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.09.21-beta.3",
-  "release_date": "2020-09-21T18:44:25.800769022Z",
+  "release_date": "2020-09-21T18:44:56.231859737Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
   "kubernetes_version": "1.12+",
@@ -479,6 +479,56 @@
             {
               "SHA": "03449359",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#346)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.3",
+          "commits": [
+            {
+              "SHA": "8b0af94b",
+              "Subject": "Prepare for release v0.1.0-beta.3 (#56)"
+            },
+            {
+              "SHA": "f2a98806",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "f59b73a1",
+              "Subject": "Use AppsCode Trial license (#55)"
+            },
+            {
+              "SHA": "2ae32d3c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#54)"
+            },
+            {
+              "SHA": "724b9829",
+              "Subject": "Add license verifier (#53)"
+            },
+            {
+              "SHA": "8a2aafb5",
+              "Subject": "Update for release Stash@v2020.09.16 (#52)"
+            },
+            {
+              "SHA": "4759525b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#51)"
+            },
+            {
+              "SHA": "f55b1402",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            },
+            {
+              "SHA": "f7036236",
+              "Subject": "Use AppsCode Community License (#48)"
+            },
+            {
+              "SHA": "d922196f",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#47)"
             }
           ]
         }

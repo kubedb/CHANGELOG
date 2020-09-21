@@ -71,3 +71,18 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.7.0-beta.3](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.3)
+
+- [32dadab6](https://github.com/kubedb/redis/commit/32dadab6) Prepare for release v0.7.0-beta.3 (#201)
+- [e41222a1](https://github.com/kubedb/redis/commit/e41222a1) Update Kubernetes v1.18.3 dependencies (#200)
+- [41172908](https://github.com/kubedb/redis/commit/41172908) Add license verifier (#199)
+- [d46d0dbd](https://github.com/kubedb/redis/commit/d46d0dbd) Update Kubernetes v1.18.3 dependencies (#198)
+- [283c2777](https://github.com/kubedb/redis/commit/283c2777) Use background deletion policy
+- [5ee6470d](https://github.com/kubedb/redis/commit/5ee6470d) Update Kubernetes v1.18.3 dependencies (#195)
+- [e391f0d6](https://github.com/kubedb/redis/commit/e391f0d6) Use AppsCode Community License (#194)
+- [12211e40](https://github.com/kubedb/redis/commit/12211e40) Update Kubernetes v1.18.3 dependencies (#193)
+
+
+

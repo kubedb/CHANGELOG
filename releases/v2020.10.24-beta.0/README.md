@@ -372,3 +372,47 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.7.0-beta.4](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.4)
+
+- [d31b919a](https://github.com/kubedb/redis/commit/d31b919a) Prepare for release v0.7.0-beta.4 (#240)
+- [bfecc0c5](https://github.com/kubedb/redis/commit/bfecc0c5) Update KubeDB api (#239)
+- [307efbef](https://github.com/kubedb/redis/commit/307efbef) Update Kubernetes v1.18.9 dependencies (#238)
+- [34b09d4c](https://github.com/kubedb/redis/commit/34b09d4c) Update KubeDB api (#237)
+- [4aefb939](https://github.com/kubedb/redis/commit/4aefb939) Fix init validator (#236)
+- [4ea47108](https://github.com/kubedb/redis/commit/4ea47108) Update KubeDB api (#235)
+- [8c4c8a54](https://github.com/kubedb/redis/commit/8c4c8a54) Update KubeDB api (#234)
+- [cbee9597](https://github.com/kubedb/redis/commit/cbee9597) Update Kubernetes v1.18.9 dependencies (#233)
+- [9fb1b23c](https://github.com/kubedb/redis/commit/9fb1b23c) Update KubeDB api (#232)
+- [c5fb9a6d](https://github.com/kubedb/redis/commit/c5fb9a6d) Update KubeDB api (#230)
+- [2e2f2d7b](https://github.com/kubedb/redis/commit/2e2f2d7b) Update KubeDB api (#229)
+- [3c8e6c6d](https://github.com/kubedb/redis/commit/3c8e6c6d) Update KubeDB api (#228)
+- [8467464d](https://github.com/kubedb/redis/commit/8467464d) Update Kubernetes v1.18.9 dependencies (#227)
+- [5febd393](https://github.com/kubedb/redis/commit/5febd393) Update KubeDB api (#226)
+- [d8024e4d](https://github.com/kubedb/redis/commit/d8024e4d) Update KubeDB api (#225)
+- [12d112de](https://github.com/kubedb/redis/commit/12d112de) Update KubeDB api (#223)
+- [8a9f5398](https://github.com/kubedb/redis/commit/8a9f5398) Update repository config (#222)
+- [b3b48a91](https://github.com/kubedb/redis/commit/b3b48a91) Update repository config (#221)
+- [2fa45230](https://github.com/kubedb/redis/commit/2fa45230) Update repository config (#220)
+- [552f1f80](https://github.com/kubedb/redis/commit/552f1f80) Initialize statefulset watcher from cmd/server/options.go (#219)
+- [446b4b55](https://github.com/kubedb/redis/commit/446b4b55) Update KubeDB api (#218)
+- [f6203009](https://github.com/kubedb/redis/commit/f6203009) Update Kubernetes v1.18.9 dependencies (#217)
+- [b7172fb8](https://github.com/kubedb/redis/commit/b7172fb8) Publish docker images to ghcr.io (#216)
+- [9897bab9](https://github.com/kubedb/redis/commit/9897bab9) Update KubeDB api (#215)
+- [00f07b4f](https://github.com/kubedb/redis/commit/00f07b4f) Update KubeDB api (#214)
+- [f2133f26](https://github.com/kubedb/redis/commit/f2133f26) Update KubeDB api (#213)
+- [b1f3b76a](https://github.com/kubedb/redis/commit/b1f3b76a) Update KubeDB api (#212)
+- [a3144e30](https://github.com/kubedb/redis/commit/a3144e30) Update repository config (#211)
+- [8472ff88](https://github.com/kubedb/redis/commit/8472ff88) Add support to initialize Redis using Stash (#188)
+- [20ba04a7](https://github.com/kubedb/redis/commit/20ba04a7) Update Kubernetes v1.18.9 dependencies (#210)
+- [457611a1](https://github.com/kubedb/redis/commit/457611a1) Update Kubernetes v1.18.9 dependencies (#209)
+- [2bd8b281](https://github.com/kubedb/redis/commit/2bd8b281) Update Kubernetes v1.18.9 dependencies (#207)
+- [8779c7ea](https://github.com/kubedb/redis/commit/8779c7ea) Update repository config (#206)
+- [db9280b7](https://github.com/kubedb/redis/commit/db9280b7) Update repository config (#205)
+- [ada18bca](https://github.com/kubedb/redis/commit/ada18bca) Update Kubernetes v1.18.9 dependencies (#204)
+- [17a55147](https://github.com/kubedb/redis/commit/17a55147) Use common event recorder (#203)
+- [71a34b6a](https://github.com/kubedb/redis/commit/71a34b6a) Update Kubernetes v1.18.3 dependencies (#202)
+
+
+

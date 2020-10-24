@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T11:05:24.189554789Z",
+  "release_date": "2020-10-24T11:05:42.288674896Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -1341,6 +1341,164 @@
             {
               "SHA": "d1293558",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#356)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.4",
+          "commits": [
+            {
+              "SHA": "d31b919a",
+              "Subject": "Prepare for release v0.7.0-beta.4 (#240)"
+            },
+            {
+              "SHA": "bfecc0c5",
+              "Subject": "Update KubeDB api (#239)"
+            },
+            {
+              "SHA": "307efbef",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#238)"
+            },
+            {
+              "SHA": "34b09d4c",
+              "Subject": "Update KubeDB api (#237)"
+            },
+            {
+              "SHA": "4aefb939",
+              "Subject": "Fix init validator (#236)"
+            },
+            {
+              "SHA": "4ea47108",
+              "Subject": "Update KubeDB api (#235)"
+            },
+            {
+              "SHA": "8c4c8a54",
+              "Subject": "Update KubeDB api (#234)"
+            },
+            {
+              "SHA": "cbee9597",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#233)"
+            },
+            {
+              "SHA": "9fb1b23c",
+              "Subject": "Update KubeDB api (#232)"
+            },
+            {
+              "SHA": "c5fb9a6d",
+              "Subject": "Update KubeDB api (#230)"
+            },
+            {
+              "SHA": "2e2f2d7b",
+              "Subject": "Update KubeDB api (#229)"
+            },
+            {
+              "SHA": "3c8e6c6d",
+              "Subject": "Update KubeDB api (#228)"
+            },
+            {
+              "SHA": "8467464d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#227)"
+            },
+            {
+              "SHA": "5febd393",
+              "Subject": "Update KubeDB api (#226)"
+            },
+            {
+              "SHA": "d8024e4d",
+              "Subject": "Update KubeDB api (#225)"
+            },
+            {
+              "SHA": "12d112de",
+              "Subject": "Update KubeDB api (#223)"
+            },
+            {
+              "SHA": "8a9f5398",
+              "Subject": "Update repository config (#222)"
+            },
+            {
+              "SHA": "b3b48a91",
+              "Subject": "Update repository config (#221)"
+            },
+            {
+              "SHA": "2fa45230",
+              "Subject": "Update repository config (#220)"
+            },
+            {
+              "SHA": "552f1f80",
+              "Subject": "Initialize statefulset watcher from cmd/server/options.go (#219)"
+            },
+            {
+              "SHA": "446b4b55",
+              "Subject": "Update KubeDB api (#218)"
+            },
+            {
+              "SHA": "f6203009",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#217)"
+            },
+            {
+              "SHA": "b7172fb8",
+              "Subject": "Publish docker images to ghcr.io (#216)"
+            },
+            {
+              "SHA": "9897bab9",
+              "Subject": "Update KubeDB api (#215)"
+            },
+            {
+              "SHA": "00f07b4f",
+              "Subject": "Update KubeDB api (#214)"
+            },
+            {
+              "SHA": "f2133f26",
+              "Subject": "Update KubeDB api (#213)"
+            },
+            {
+              "SHA": "b1f3b76a",
+              "Subject": "Update KubeDB api (#212)"
+            },
+            {
+              "SHA": "a3144e30",
+              "Subject": "Update repository config (#211)"
+            },
+            {
+              "SHA": "8472ff88",
+              "Subject": "Add support to initialize Redis using Stash (#188)"
+            },
+            {
+              "SHA": "20ba04a7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#210)"
+            },
+            {
+              "SHA": "457611a1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#209)"
+            },
+            {
+              "SHA": "2bd8b281",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#207)"
+            },
+            {
+              "SHA": "8779c7ea",
+              "Subject": "Update repository config (#206)"
+            },
+            {
+              "SHA": "db9280b7",
+              "Subject": "Update repository config (#205)"
+            },
+            {
+              "SHA": "ada18bca",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#204)"
+            },
+            {
+              "SHA": "17a55147",
+              "Subject": "Use common event recorder (#203)"
+            },
+            {
+              "SHA": "71a34b6a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#202)"
             }
           ]
         }

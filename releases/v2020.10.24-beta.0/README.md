@@ -291,6 +291,50 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.14.0-beta.4](https://github.com/kubedb/operator/releases/tag/v0.14.0-beta.4)
+
+- [2145978d](https://github.com/kubedb/operator/commit/2145978d) Prepare for release v0.14.0-beta.4 (#326)
+- [8fd3b682](https://github.com/kubedb/operator/commit/8fd3b682) Add --readiness-probe-interval flag (#325)
+- [7bf0c3c5](https://github.com/kubedb/operator/commit/7bf0c3c5) Update KubeDB api (#324)
+- [25c7dc21](https://github.com/kubedb/operator/commit/25c7dc21) Update Kubernetes v1.18.9 dependencies (#323)
+- [bb7525d6](https://github.com/kubedb/operator/commit/bb7525d6) Update Kubernetes v1.18.9 dependencies (#321)
+- [6db45b57](https://github.com/kubedb/operator/commit/6db45b57) Update KubeDB api (#320)
+- [fa1438e3](https://github.com/kubedb/operator/commit/fa1438e3) Update KubeDB api (#319)
+- [6be49e7e](https://github.com/kubedb/operator/commit/6be49e7e) Update KubeDB api (#318)
+- [00bf9bec](https://github.com/kubedb/operator/commit/00bf9bec) Update Kubernetes v1.18.9 dependencies (#317)
+- [fd529403](https://github.com/kubedb/operator/commit/fd529403) Update KubeDB api (#316)
+- [f03305e1](https://github.com/kubedb/operator/commit/f03305e1) Update KubeDB api (#315)
+- [fb5e4873](https://github.com/kubedb/operator/commit/fb5e4873) Update KubeDB api (#312)
+- [f3843a05](https://github.com/kubedb/operator/commit/f3843a05) Update repository config (#311)
+- [18f29e73](https://github.com/kubedb/operator/commit/18f29e73) Update repository config (#310)
+- [25405c38](https://github.com/kubedb/operator/commit/25405c38) Update repository config (#309)
+- [e464d336](https://github.com/kubedb/operator/commit/e464d336) Update KubeDB api (#308)
+- [eeccd59e](https://github.com/kubedb/operator/commit/eeccd59e) Update Kubernetes v1.18.9 dependencies (#307)
+- [dd2f176f](https://github.com/kubedb/operator/commit/dd2f176f) Publish docker images to ghcr.io (#306)
+- [d65d299f](https://github.com/kubedb/operator/commit/d65d299f) Update KubeDB api (#305)
+- [3f681cef](https://github.com/kubedb/operator/commit/3f681cef) Update KubeDB api (#304)
+- [bc58d3d7](https://github.com/kubedb/operator/commit/bc58d3d7) Refactor initializer code + Use common event recorder (#292)
+- [952e1b33](https://github.com/kubedb/operator/commit/952e1b33) Update repository config (#301)
+- [66bee9c3](https://github.com/kubedb/operator/commit/66bee9c3) Update Kubernetes v1.18.9 dependencies (#300)
+- [4e508002](https://github.com/kubedb/operator/commit/4e508002) Update for release Stash@v2020.09.29 (#299)
+- [b6a4caa4](https://github.com/kubedb/operator/commit/b6a4caa4) Update Kubernetes v1.18.9 dependencies (#298)
+- [201aed32](https://github.com/kubedb/operator/commit/201aed32) Update Kubernetes v1.18.9 dependencies (#296)
+- [36ed325d](https://github.com/kubedb/operator/commit/36ed325d) Update repository config (#295)
+- [36ec3035](https://github.com/kubedb/operator/commit/36ec3035) Update repository config (#294)
+- [32e61f43](https://github.com/kubedb/operator/commit/32e61f43) Update Kubernetes v1.18.9 dependencies (#293)
+- [078e7062](https://github.com/kubedb/operator/commit/078e7062) Update Kubernetes v1.18.3 dependencies (#291)
+- [900626dd](https://github.com/kubedb/operator/commit/900626dd) Update Kubernetes v1.18.3 dependencies (#290)
+- [7bf1e16e](https://github.com/kubedb/operator/commit/7bf1e16e) Use AppsCode Community license (#289)
+- [ba436a4b](https://github.com/kubedb/operator/commit/ba436a4b) Add license verifier (#288)
+- [0a02a313](https://github.com/kubedb/operator/commit/0a02a313) Update for release Stash@v2020.09.16 (#287)
+- [9ae202e1](https://github.com/kubedb/operator/commit/9ae202e1) Update Kubernetes v1.18.3 dependencies (#286)
+- [5bea03b9](https://github.com/kubedb/operator/commit/5bea03b9) Update Kubernetes v1.18.3 dependencies (#284)
+- [b1375565](https://github.com/kubedb/operator/commit/b1375565) Update Kubernetes v1.18.3 dependencies (#282)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.1.0-beta.4](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.4)

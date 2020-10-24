@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T11:15:11.905318101Z",
+  "release_date": "2020-10-24T11:26:00.008554197Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -1053,6 +1053,164 @@
             {
               "SHA": "8f61ebc",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.4",
+          "commits": [
+            {
+              "SHA": "2145978d",
+              "Subject": "Prepare for release v0.14.0-beta.4 (#326)"
+            },
+            {
+              "SHA": "8fd3b682",
+              "Subject": "Add --readiness-probe-interval flag (#325)"
+            },
+            {
+              "SHA": "7bf0c3c5",
+              "Subject": "Update KubeDB api (#324)"
+            },
+            {
+              "SHA": "25c7dc21",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#323)"
+            },
+            {
+              "SHA": "bb7525d6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#321)"
+            },
+            {
+              "SHA": "6db45b57",
+              "Subject": "Update KubeDB api (#320)"
+            },
+            {
+              "SHA": "fa1438e3",
+              "Subject": "Update KubeDB api (#319)"
+            },
+            {
+              "SHA": "6be49e7e",
+              "Subject": "Update KubeDB api (#318)"
+            },
+            {
+              "SHA": "00bf9bec",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#317)"
+            },
+            {
+              "SHA": "fd529403",
+              "Subject": "Update KubeDB api (#316)"
+            },
+            {
+              "SHA": "f03305e1",
+              "Subject": "Update KubeDB api (#315)"
+            },
+            {
+              "SHA": "fb5e4873",
+              "Subject": "Update KubeDB api (#312)"
+            },
+            {
+              "SHA": "f3843a05",
+              "Subject": "Update repository config (#311)"
+            },
+            {
+              "SHA": "18f29e73",
+              "Subject": "Update repository config (#310)"
+            },
+            {
+              "SHA": "25405c38",
+              "Subject": "Update repository config (#309)"
+            },
+            {
+              "SHA": "e464d336",
+              "Subject": "Update KubeDB api (#308)"
+            },
+            {
+              "SHA": "eeccd59e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#307)"
+            },
+            {
+              "SHA": "dd2f176f",
+              "Subject": "Publish docker images to ghcr.io (#306)"
+            },
+            {
+              "SHA": "d65d299f",
+              "Subject": "Update KubeDB api (#305)"
+            },
+            {
+              "SHA": "3f681cef",
+              "Subject": "Update KubeDB api (#304)"
+            },
+            {
+              "SHA": "bc58d3d7",
+              "Subject": "Refactor initializer code + Use common event recorder (#292)"
+            },
+            {
+              "SHA": "952e1b33",
+              "Subject": "Update repository config (#301)"
+            },
+            {
+              "SHA": "66bee9c3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#300)"
+            },
+            {
+              "SHA": "4e508002",
+              "Subject": "Update for release Stash@v2020.09.29 (#299)"
+            },
+            {
+              "SHA": "b6a4caa4",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#298)"
+            },
+            {
+              "SHA": "201aed32",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#296)"
+            },
+            {
+              "SHA": "36ed325d",
+              "Subject": "Update repository config (#295)"
+            },
+            {
+              "SHA": "36ec3035",
+              "Subject": "Update repository config (#294)"
+            },
+            {
+              "SHA": "32e61f43",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#293)"
+            },
+            {
+              "SHA": "078e7062",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#291)"
+            },
+            {
+              "SHA": "900626dd",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#290)"
+            },
+            {
+              "SHA": "7bf1e16e",
+              "Subject": "Use AppsCode Community license (#289)"
+            },
+            {
+              "SHA": "ba436a4b",
+              "Subject": "Add license verifier (#288)"
+            },
+            {
+              "SHA": "0a02a313",
+              "Subject": "Update for release Stash@v2020.09.16 (#287)"
+            },
+            {
+              "SHA": "9ae202e1",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#286)"
+            },
+            {
+              "SHA": "5bea03b9",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#284)"
+            },
+            {
+              "SHA": "b1375565",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#282)"
             }
           ]
         }

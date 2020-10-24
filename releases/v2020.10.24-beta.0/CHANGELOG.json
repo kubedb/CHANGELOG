@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T15:29:01.916721664Z",
+  "release_date": "2020-10-24T15:51:21.91490873Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -553,6 +553,88 @@
             {
               "SHA": "53b42277",
               "Subject": "Add event recorder in controller struct (#587)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2020.10.24-beta.0",
+          "commits": [
+            {
+              "SHA": "61572eb",
+              "Subject": "Prepare for release v2020.10.24-beta.0 (#63)"
+            },
+            {
+              "SHA": "3e84303",
+              "Subject": "Update repository config (#62)"
+            },
+            {
+              "SHA": "db8452d",
+              "Subject": "Update docs for kubedb/operator@8fd3b682 (#61)"
+            },
+            {
+              "SHA": "057494b",
+              "Subject": "Update docs (#60)"
+            },
+            {
+              "SHA": "1eb5efb",
+              "Subject": "Fix links"
+            },
+            {
+              "SHA": "13dee75",
+              "Subject": "Fix hugo parameters"
+            },
+            {
+              "SHA": "89bff9d",
+              "Subject": "Fix broken links (#59)"
+            },
+            {
+              "SHA": "2705485",
+              "Subject": "Update docs (#57)"
+            },
+            {
+              "SHA": "f70c97d",
+              "Subject": "Update docs for kubedb/operator@f03305e1 (#58)"
+            },
+            {
+              "SHA": "a13c0cf",
+              "Subject": "Switch apiVesion to kubedb.com/v1alpha2 (#56)"
+            },
+            {
+              "SHA": "008ac1d",
+              "Subject": "Update MySQL docs for new release (#52)"
+            },
+            {
+              "SHA": "14030df",
+              "Subject": "Add MySQL Enterprise doc. (#48)"
+            },
+            {
+              "SHA": "257f01d",
+              "Subject": "Update PgBouncer secretRef (#38)"
+            },
+            {
+              "SHA": "9243486",
+              "Subject": "Add Docs for `MongoDBOpsRequest` (#51)"
+            },
+            {
+              "SHA": "5b58aea",
+              "Subject": "Update docs for kubedb/cli@4e46c763 (#55)"
+            },
+            {
+              "SHA": "eb8f232",
+              "Subject": "Use correct file type in backup-and-restore.md (#50)"
+            },
+            {
+              "SHA": "efea35b",
+              "Subject": "Change apiVersion for deployment (#49)"
+            },
+            {
+              "SHA": "031b098",
+              "Subject": "Update docs for kubedb/operator@ba436a4b (#54)"
             }
           ]
         }

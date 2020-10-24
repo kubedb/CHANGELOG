@@ -148,6 +148,31 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2020.10.24-beta.0](https://github.com/kubedb/docs/releases/tag/v2020.10.24-beta.0)
+
+- [61572eb](https://github.com/kubedb/docs/commit/61572eb) Prepare for release v2020.10.24-beta.0 (#63)
+- [3e84303](https://github.com/kubedb/docs/commit/3e84303) Update repository config (#62)
+- [db8452d](https://github.com/kubedb/docs/commit/db8452d) Update docs for kubedb/operator@8fd3b682 (#61)
+- [057494b](https://github.com/kubedb/docs/commit/057494b) Update docs (#60)
+- [1eb5efb](https://github.com/kubedb/docs/commit/1eb5efb) Fix links
+- [13dee75](https://github.com/kubedb/docs/commit/13dee75) Fix hugo parameters
+- [89bff9d](https://github.com/kubedb/docs/commit/89bff9d) Fix broken links (#59)
+- [2705485](https://github.com/kubedb/docs/commit/2705485) Update docs (#57)
+- [f70c97d](https://github.com/kubedb/docs/commit/f70c97d) Update docs for kubedb/operator@f03305e1 (#58)
+- [a13c0cf](https://github.com/kubedb/docs/commit/a13c0cf) Switch apiVesion to kubedb.com/v1alpha2 (#56)
+- [008ac1d](https://github.com/kubedb/docs/commit/008ac1d) Update MySQL docs for new release (#52)
+- [14030df](https://github.com/kubedb/docs/commit/14030df) Add MySQL Enterprise doc. (#48)
+- [257f01d](https://github.com/kubedb/docs/commit/257f01d) Update PgBouncer secretRef (#38)
+- [9243486](https://github.com/kubedb/docs/commit/9243486) Add Docs for `MongoDBOpsRequest` (#51)
+- [5b58aea](https://github.com/kubedb/docs/commit/5b58aea) Update docs for kubedb/cli@4e46c763 (#55)
+- [eb8f232](https://github.com/kubedb/docs/commit/eb8f232) Use correct file type in backup-and-restore.md (#50)
+- [efea35b](https://github.com/kubedb/docs/commit/efea35b) Change apiVersion for deployment (#49)
+- [031b098](https://github.com/kubedb/docs/commit/031b098) Update docs for kubedb/operator@ba436a4b (#54)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.14.0-beta.4](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.4)

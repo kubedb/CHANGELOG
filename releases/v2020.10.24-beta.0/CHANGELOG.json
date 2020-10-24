@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T11:04:33.065696926Z",
+  "release_date": "2020-10-24T11:05:12.561853835Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -733,6 +733,180 @@
             {
               "SHA": "8f61ebc",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.4",
+          "commits": [
+            {
+              "SHA": "14b2f1b2",
+              "Subject": "Prepare for release v0.1.0-beta.4 (#113)"
+            },
+            {
+              "SHA": "eff1d265",
+              "Subject": "Update KubeDB api (#112)"
+            },
+            {
+              "SHA": "a2878d4a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#111)"
+            },
+            {
+              "SHA": "51f0d104",
+              "Subject": "Update KubeDB api (#110)"
+            },
+            {
+              "SHA": "fcf5343b",
+              "Subject": "Update for release Stash@v2020.10.21 (#109)"
+            },
+            {
+              "SHA": "9fe68d43",
+              "Subject": "Fix init validator (#107)"
+            },
+            {
+              "SHA": "1c528cff",
+              "Subject": "Update KubeDB api (#108)"
+            },
+            {
+              "SHA": "99d23f3d",
+              "Subject": "Update KubeDB api (#106)"
+            },
+            {
+              "SHA": "d0807640",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#105)"
+            },
+            {
+              "SHA": "bac7705b",
+              "Subject": "Update KubeDB api (#104)"
+            },
+            {
+              "SHA": "475aabd5",
+              "Subject": "Update KubeDB api (#103)"
+            },
+            {
+              "SHA": "60f7e5a9",
+              "Subject": "Update KubeDB api (#102)"
+            },
+            {
+              "SHA": "84a97ced",
+              "Subject": "Update KubeDB api (#101)"
+            },
+            {
+              "SHA": "d4a7b7c5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#100)"
+            },
+            {
+              "SHA": "b818a4c5",
+              "Subject": "Update KubeDB api (#99)"
+            },
+            {
+              "SHA": "03df7739",
+              "Subject": "Update KubeDB api (#98)"
+            },
+            {
+              "SHA": "2f3ce0e6",
+              "Subject": "Update KubeDB api (#96)"
+            },
+            {
+              "SHA": "94e009e8",
+              "Subject": "Update repository config (#95)"
+            },
+            {
+              "SHA": "fc61d440",
+              "Subject": "Update repository config (#94)"
+            },
+            {
+              "SHA": "35f5b2bb",
+              "Subject": "Update repository config (#93)"
+            },
+            {
+              "SHA": "d01e39dd",
+              "Subject": "Initialize statefulset watcher from cmd/server/options.go (#92)"
+            },
+            {
+              "SHA": "41bf932f",
+              "Subject": "Update KubeDB api (#91)"
+            },
+            {
+              "SHA": "da92a1f3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#90)"
+            },
+            {
+              "SHA": "554beafb",
+              "Subject": "Publish docker images to ghcr.io (#89)"
+            },
+            {
+              "SHA": "4c7031e1",
+              "Subject": "Update KubeDB api (#88)"
+            },
+            {
+              "SHA": "418c767a",
+              "Subject": "Update KubeDB api (#87)"
+            },
+            {
+              "SHA": "94eef91e",
+              "Subject": "Update KubeDB api (#86)"
+            },
+            {
+              "SHA": "f3c2a360",
+              "Subject": "Update KubeDB api (#85)"
+            },
+            {
+              "SHA": "107bb6a6",
+              "Subject": "Update repository config (#84)"
+            },
+            {
+              "SHA": "938e64bc",
+              "Subject": "Cleanup monitoring spec api (#83)"
+            },
+            {
+              "SHA": "deeaad8f",
+              "Subject": "Use conditions to handle database initialization (#80)"
+            },
+            {
+              "SHA": "798c3ddc",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#82)"
+            },
+            {
+              "SHA": "16c72ba6",
+              "Subject": "Updated the exporter port and service (#81)"
+            },
+            {
+              "SHA": "9314faf1",
+              "Subject": "Update for release Stash@v2020.09.29 (#79)"
+            },
+            {
+              "SHA": "6cb53efc",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#78)"
+            },
+            {
+              "SHA": "fd2b8cdd",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#76)"
+            },
+            {
+              "SHA": "9d1038db",
+              "Subject": "Update repository config (#75)"
+            },
+            {
+              "SHA": "41a05a44",
+              "Subject": "Update repository config (#74)"
+            },
+            {
+              "SHA": "eccd2acd",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#73)"
+            },
+            {
+              "SHA": "27635f1c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#72)"
+            },
+            {
+              "SHA": "792326c7",
+              "Subject": "Use common event recorder (#71)"
             }
           ]
         }

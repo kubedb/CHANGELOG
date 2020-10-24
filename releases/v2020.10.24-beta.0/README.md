@@ -148,6 +148,15 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2020.10.24-beta.0](https://github.com/kubedb/bundles/releases/tag/v2020.10.24-beta.0)
+
+- [218229c](https://github.com/kubedb/bundles/commit/218229c) Prepare for release v2020.10.24-beta.0 (#5)
+- [919d2f6](https://github.com/kubedb/bundles/commit/919d2f6) Use AppsCode Community License (#4)
+
+
+
 ## [kubedb/docs](https://github.com/kubedb/docs)
 
 ### [v2020.10.24-beta.0](https://github.com/kubedb/docs/releases/tag/v2020.10.24-beta.0)

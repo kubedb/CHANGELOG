@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T15:51:21.91490873Z",
+  "release_date": "2020-10-24T16:12:35.397202531Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -553,6 +553,24 @@
             {
               "SHA": "53b42277",
               "Subject": "Add event recorder in controller struct (#587)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.10.24-beta.0",
+          "commits": [
+            {
+              "SHA": "218229c",
+              "Subject": "Prepare for release v2020.10.24-beta.0 (#5)"
+            },
+            {
+              "SHA": "919d2f6",
+              "Subject": "Use AppsCode Community License (#4)"
             }
           ]
         }

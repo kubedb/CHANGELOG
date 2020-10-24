@@ -1,0 +1,580 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.09.21-beta.3",
+  "release_date": "2020-09-21T18:44:56.231859737Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.09.21-beta.3",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.3",
+          "commits": [
+            {
+              "SHA": "ec58309a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#586)"
+            },
+            {
+              "SHA": "38050bae",
+              "Subject": "Initialize db from stash restoresession/restoreBatch (#567)"
+            },
+            {
+              "SHA": "ec3efa91",
+              "Subject": "Update for release Stash@v2020.09.16 (#585)"
+            },
+            {
+              "SHA": "5ddfd53a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#584)"
+            },
+            {
+              "SHA": "24398515",
+              "Subject": "Add some `MongoDB` and `MongoDBOpsRequest` Constants (#582)"
+            },
+            {
+              "SHA": "584a4bf6",
+              "Subject": "Add primary and secondary role constant for MySQL (#581)"
+            },
+            {
+              "SHA": "82299808",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#580)"
+            },
+            {
+              "SHA": "ecd1d17f",
+              "Subject": "Add Functions to get Default Probes (#579)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.3",
+          "commits": [
+            {
+              "SHA": "58fd85bb",
+              "Subject": "Prepare for release v0.14.0-beta.3 (#490)"
+            },
+            {
+              "SHA": "a6225a64",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#489)"
+            },
+            {
+              "SHA": "4c3afba3",
+              "Subject": "Update for release Stash@v2020.09.16 (#488)"
+            },
+            {
+              "SHA": "df224a1a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#487)"
+            },
+            {
+              "SHA": "dcb30ecf",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#486)"
+            },
+            {
+              "SHA": "faab5e0e",
+              "Subject": "Use AppsCode Community License (#485)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.3",
+          "commits": [
+            {
+              "SHA": "9fb43795",
+              "Subject": "Prepare for release v0.14.0-beta.3 (#351)"
+            },
+            {
+              "SHA": "a279a60c",
+              "Subject": "Use new `spec.init` section (#350)"
+            },
+            {
+              "SHA": "a1e2e2f6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#349)"
+            },
+            {
+              "SHA": "0aaf4530",
+              "Subject": "Add license verifier (#348)"
+            },
+            {
+              "SHA": "bbacb00b",
+              "Subject": "Update for release Stash@v2020.09.16 (#347)"
+            },
+            {
+              "SHA": "98c1ad83",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#345)"
+            },
+            {
+              "SHA": "1ebf168d",
+              "Subject": "Use background propagation policy"
+            },
+            {
+              "SHA": "9d7997df",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#343)"
+            },
+            {
+              "SHA": "42786958",
+              "Subject": "Use AppsCode Community License (#342)"
+            },
+            {
+              "SHA": "a96b0bd3",
+              "Subject": "Fix unit tests (#341)"
+            },
+            {
+              "SHA": "c9905966",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#340)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.3",
+          "commits": [
+            {
+              "SHA": "a9edb56d",
+              "Subject": "Prepare for release v0.7.0-beta.3 (#185)"
+            },
+            {
+              "SHA": "ce99d040",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#184)"
+            },
+            {
+              "SHA": "dd19f634",
+              "Subject": "Add license verifier (#183)"
+            },
+            {
+              "SHA": "fc482bc2",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#182)"
+            },
+            {
+              "SHA": "b85b6742",
+              "Subject": "Use background deletion policy"
+            },
+            {
+              "SHA": "d46f41f9",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#180)"
+            },
+            {
+              "SHA": "d958c241",
+              "Subject": "Use AppsCode Community License (#179)"
+            },
+            {
+              "SHA": "64410c11",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.3",
+          "commits": [
+            {
+              "SHA": "2867a4ef",
+              "Subject": "Prepare for release v0.7.0-beta.3 (#247)"
+            },
+            {
+              "SHA": "8e6c12e7",
+              "Subject": "Use new `spec.init` section (#246)"
+            },
+            {
+              "SHA": "96aefe31",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#245)"
+            },
+            {
+              "SHA": "59e2a89c",
+              "Subject": "Add license verifier (#244)"
+            },
+            {
+              "SHA": "2824cb71",
+              "Subject": "Update for release Stash@v2020.09.16 (#243)"
+            },
+            {
+              "SHA": "3c626235",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#242)"
+            },
+            {
+              "SHA": "86b205ef",
+              "Subject": "Update Constants (#241)"
+            },
+            {
+              "SHA": "1910e947",
+              "Subject": "Use common constant across MongoDB Community and Enterprise operator (#240)"
+            },
+            {
+              "SHA": "05364676",
+              "Subject": "Run e2e tests from kubedb/tests repo (#238)"
+            },
+            {
+              "SHA": "80a78fe7",
+              "Subject": "Set Delete Propagation Policy to Background (#237)"
+            },
+            {
+              "SHA": "9a9d101c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#236)"
+            },
+            {
+              "SHA": "d596ca68",
+              "Subject": "Use AppsCode Community License (#235)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.3",
+          "commits": [
+            {
+              "SHA": "8e85dd18",
+              "Subject": "Prepare for release v0.7.0-beta.3 (#235)"
+            },
+            {
+              "SHA": "bb1f0869",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#234)"
+            },
+            {
+              "SHA": "aa33e58e",
+              "Subject": "Add license verifier (#233)"
+            },
+            {
+              "SHA": "d25054c0",
+              "Subject": "Use new `spec.init` section (#230)"
+            },
+            {
+              "SHA": "3936e5b8",
+              "Subject": "Update for release Stash@v2020.09.16 (#232)"
+            },
+            {
+              "SHA": "5162a530",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#231)"
+            },
+            {
+              "SHA": "db42056e",
+              "Subject": "Use background deletion policy"
+            },
+            {
+              "SHA": "4045a502",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#227)"
+            },
+            {
+              "SHA": "93916a12",
+              "Subject": "Use AppsCode Community License (#226)"
+            },
+            {
+              "SHA": "e3eefff3",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.3",
+          "commits": [
+            {
+              "SHA": "eedb970",
+              "Subject": "Prepare for release v0.1.0-beta.3 (#27)"
+            },
+            {
+              "SHA": "e4c3962",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#26)"
+            },
+            {
+              "SHA": "9c20bfb",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#25)"
+            },
+            {
+              "SHA": "a1f5dbd",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#23)"
+            },
+            {
+              "SHA": "feedb97",
+              "Subject": "Use AppsCode Community License (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.3",
+          "commits": [
+            {
+              "SHA": "0ff583b8",
+              "Subject": "Prepare for release v0.1.0-beta.3 (#70)"
+            },
+            {
+              "SHA": "627bc039",
+              "Subject": "Use new `spec.init` section (#69)"
+            },
+            {
+              "SHA": "f79e4771",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#68)"
+            },
+            {
+              "SHA": "257954c2",
+              "Subject": "Add license verifier (#67)"
+            },
+            {
+              "SHA": "e06eec6b",
+              "Subject": "Update for release Stash@v2020.09.16 (#66)"
+            },
+            {
+              "SHA": "29901348",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#65)"
+            },
+            {
+              "SHA": "02d5bfde",
+              "Subject": "Use background deletion policy"
+            },
+            {
+              "SHA": "6e6d8b5b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#63)"
+            },
+            {
+              "SHA": "7601a237",
+              "Subject": "Use AppsCode Community License (#62)"
+            },
+            {
+              "SHA": "4d1a2424",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.2.0-beta.3",
+          "commits": [
+            {
+              "SHA": "4671638",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#21)"
+            },
+            {
+              "SHA": "88ed553",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#20)"
+            },
+            {
+              "SHA": "eeefe7a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#19)"
+            },
+            {
+              "SHA": "effb757",
+              "Subject": "Use AppsCode Community License (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.3",
+          "commits": [
+            {
+              "SHA": "3a868c6d",
+              "Subject": "Prepare for release v0.1.0-beta.3 (#50)"
+            },
+            {
+              "SHA": "72745988",
+              "Subject": "Add license verifier (#49)"
+            },
+            {
+              "SHA": "36e16b55",
+              "Subject": "Use AppsCode Trial license (#48)"
+            },
+            {
+              "SHA": "d3917d72",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#47)"
+            },
+            {
+              "SHA": "c5fb3b0e",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#46)"
+            },
+            {
+              "SHA": "64f27a21",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#44)"
+            },
+            {
+              "SHA": "817891a9",
+              "Subject": "Use AppsCode Community License (#43)"
+            },
+            {
+              "SHA": "11826ae7",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.3",
+          "commits": [
+            {
+              "SHA": "0dd8903e",
+              "Subject": "Prepare for release v0.14.0-beta.3 (#355)"
+            },
+            {
+              "SHA": "8f59199a",
+              "Subject": "Use new `sepc.init` section (#354)"
+            },
+            {
+              "SHA": "32305e6d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#353)"
+            },
+            {
+              "SHA": "e65ecdf3",
+              "Subject": "Add license verifier (#352)"
+            },
+            {
+              "SHA": "55b2f61e",
+              "Subject": "Update for release Stash@v2020.09.16 (#351)"
+            },
+            {
+              "SHA": "66f45a55",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#350)"
+            },
+            {
+              "SHA": "80f3cc3b",
+              "Subject": "Use background deletion policy"
+            },
+            {
+              "SHA": "63119dba",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#348)"
+            },
+            {
+              "SHA": "ac48cf6a",
+              "Subject": "Use AppsCode Community License (#347)"
+            },
+            {
+              "SHA": "03449359",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#346)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.3",
+          "commits": [
+            {
+              "SHA": "8b0af94b",
+              "Subject": "Prepare for release v0.1.0-beta.3 (#56)"
+            },
+            {
+              "SHA": "f2a98806",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "f59b73a1",
+              "Subject": "Use AppsCode Trial license (#55)"
+            },
+            {
+              "SHA": "2ae32d3c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#54)"
+            },
+            {
+              "SHA": "724b9829",
+              "Subject": "Add license verifier (#53)"
+            },
+            {
+              "SHA": "8a2aafb5",
+              "Subject": "Update for release Stash@v2020.09.16 (#52)"
+            },
+            {
+              "SHA": "4759525b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#51)"
+            },
+            {
+              "SHA": "f55b1402",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            },
+            {
+              "SHA": "f7036236",
+              "Subject": "Use AppsCode Community License (#48)"
+            },
+            {
+              "SHA": "d922196f",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.3",
+          "commits": [
+            {
+              "SHA": "32dadab6",
+              "Subject": "Prepare for release v0.7.0-beta.3 (#201)"
+            },
+            {
+              "SHA": "e41222a1",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#200)"
+            },
+            {
+              "SHA": "41172908",
+              "Subject": "Add license verifier (#199)"
+            },
+            {
+              "SHA": "d46d0dbd",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#198)"
+            },
+            {
+              "SHA": "283c2777",
+              "Subject": "Use background deletion policy"
+            },
+            {
+              "SHA": "5ee6470d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#195)"
+            },
+            {
+              "SHA": "e391f0d6",
+              "Subject": "Use AppsCode Community License (#194)"
+            },
+            {
+              "SHA": "12211e40",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#193)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

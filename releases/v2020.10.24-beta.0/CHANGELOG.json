@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T11:05:54.980884679Z",
+  "release_date": "2020-10-24T11:14:31.96246053Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -1471,6 +1471,164 @@
             {
               "SHA": "d1293558",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#356)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.4",
+          "commits": [
+            {
+              "SHA": "d344e43f",
+              "Subject": "Prepare for release v0.1.0-beta.4 (#94)"
+            },
+            {
+              "SHA": "15deb4df",
+              "Subject": "Update KubeDB api (#93)"
+            },
+            {
+              "SHA": "dc59184c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#92)"
+            },
+            {
+              "SHA": "b2b11084",
+              "Subject": "Update KubeDB api (#91)"
+            },
+            {
+              "SHA": "535820ff",
+              "Subject": "Update for release Stash@v2020.10.21 (#90)"
+            },
+            {
+              "SHA": "c00f0b6a",
+              "Subject": "Update KubeDB api (#89)"
+            },
+            {
+              "SHA": "af8ab91c",
+              "Subject": "Update KubeDB api (#88)"
+            },
+            {
+              "SHA": "154fff60",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#87)"
+            },
+            {
+              "SHA": "608ca467",
+              "Subject": "Update KubeDB api (#86)"
+            },
+            {
+              "SHA": "c0b1286b",
+              "Subject": "Update KubeDB api (#85)"
+            },
+            {
+              "SHA": "d2f326c7",
+              "Subject": "Update KubeDB api (#84)"
+            },
+            {
+              "SHA": "01ea3c3c",
+              "Subject": "Update KubeDB api (#83)"
+            },
+            {
+              "SHA": "4ae700ed",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#82)"
+            },
+            {
+              "SHA": "d0ad0b70",
+              "Subject": "Update KubeDB api (#81)"
+            },
+            {
+              "SHA": "8f1e0d51",
+              "Subject": "Update KubeDB api (#80)"
+            },
+            {
+              "SHA": "7b02bebb",
+              "Subject": "Update KubeDB api (#79)"
+            },
+            {
+              "SHA": "4f95e854",
+              "Subject": "Update repository config (#78)"
+            },
+            {
+              "SHA": "c229a939",
+              "Subject": "Update repository config (#77)"
+            },
+            {
+              "SHA": "89dbb47f",
+              "Subject": "Update repository config (#76)"
+            },
+            {
+              "SHA": "d28494ab",
+              "Subject": "Update KubeDB api (#75)"
+            },
+            {
+              "SHA": "b25cb7db",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#74)"
+            },
+            {
+              "SHA": "d4b026a4",
+              "Subject": "Publish docker images to ghcr.io (#73)"
+            },
+            {
+              "SHA": "e263f9c3",
+              "Subject": "Update KubeDB api (#72)"
+            },
+            {
+              "SHA": "07ea3acb",
+              "Subject": "Update KubeDB api (#71)"
+            },
+            {
+              "SHA": "946e292b",
+              "Subject": "Update KubeDB api (#70)"
+            },
+            {
+              "SHA": "66eb2156",
+              "Subject": "Update KubeDB api (#69)"
+            },
+            {
+              "SHA": "d3fe09ae",
+              "Subject": "Update repository config (#68)"
+            },
+            {
+              "SHA": "10c7cde0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#67)"
+            },
+            {
+              "SHA": "ed5d24a9",
+              "Subject": "Update KubeDB api (#65)"
+            },
+            {
+              "SHA": "a4f6dd4c",
+              "Subject": "Update KubeDB api (#62)"
+            },
+            {
+              "SHA": "2956b1bd",
+              "Subject": "Update for release Stash@v2020.09.29 (#64)"
+            },
+            {
+              "SHA": "9cbd0244",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#63)"
+            },
+            {
+              "SHA": "4cd9bb02",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#61)"
+            },
+            {
+              "SHA": "a9a9caf0",
+              "Subject": "Update repository config (#60)"
+            },
+            {
+              "SHA": "af3a2a68",
+              "Subject": "Update repository config (#59)"
+            },
+            {
+              "SHA": "25f47ff4",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#58)"
+            },
+            {
+              "SHA": "05e57476",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#57)"
             }
           ]
         }

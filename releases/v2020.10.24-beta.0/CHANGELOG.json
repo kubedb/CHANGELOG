@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T11:05:12.561853835Z",
+  "release_date": "2020-10-24T11:05:24.189554789Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -559,6 +559,196 @@
             {
               "SHA": "2f96b75a",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#250)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.4",
+          "commits": [
+            {
+              "SHA": "da0ee5ac",
+              "Subject": "Prepare for release v0.7.0-beta.4 (#281)"
+            },
+            {
+              "SHA": "dcab13f9",
+              "Subject": "Add conditions to MySQL status (#275)"
+            },
+            {
+              "SHA": "972f4ade",
+              "Subject": "Update KubeDB api (#280)"
+            },
+            {
+              "SHA": "0a16d2f0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#279)"
+            },
+            {
+              "SHA": "7fef1045",
+              "Subject": "Update KubeDB api (#278)"
+            },
+            {
+              "SHA": "489927ab",
+              "Subject": "Update for release Stash@v2020.10.21 (#277)"
+            },
+            {
+              "SHA": "2491868c",
+              "Subject": "Update KubeDB api (#276)"
+            },
+            {
+              "SHA": "5f6a0f6e",
+              "Subject": "Update KubeDB api (#274)"
+            },
+            {
+              "SHA": "08c0720c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#273)"
+            },
+            {
+              "SHA": "22fbdd3f",
+              "Subject": "Update KubeDB api (#272)"
+            },
+            {
+              "SHA": "7f4fb5e4",
+              "Subject": "Update KubeDB api (#271)"
+            },
+            {
+              "SHA": "09d4743d",
+              "Subject": "Update KubeDB api (#270)"
+            },
+            {
+              "SHA": "d055fb11",
+              "Subject": "Add Pod name to mysql replication-mode-detector container envs (#269)"
+            },
+            {
+              "SHA": "4d1eea70",
+              "Subject": "Update KubeDB api (#268)"
+            },
+            {
+              "SHA": "58fd9385",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#267)"
+            },
+            {
+              "SHA": "fb445df6",
+              "Subject": "Update KubeDB api (#266)"
+            },
+            {
+              "SHA": "3717609e",
+              "Subject": "Update KubeDB api (#265)"
+            },
+            {
+              "SHA": "b9ba8cc7",
+              "Subject": "Update KubeDB api (#263)"
+            },
+            {
+              "SHA": "1c2a7704",
+              "Subject": "Update repository config (#262)"
+            },
+            {
+              "SHA": "6cb5d9d0",
+              "Subject": "Update repository config (#261)"
+            },
+            {
+              "SHA": "3eadb17a",
+              "Subject": "Update repository config (#260)"
+            },
+            {
+              "SHA": "03661faa",
+              "Subject": "Initialize statefulset watcher from cmd/server/options.go (#259)"
+            },
+            {
+              "SHA": "e03649bb",
+              "Subject": "Update KubeDB api (#258)"
+            },
+            {
+              "SHA": "91e983b0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#257)"
+            },
+            {
+              "SHA": "a03f4d24",
+              "Subject": "Publish docker images to ghcr.io (#256)"
+            },
+            {
+              "SHA": "252902b5",
+              "Subject": "Update KubeDB api (#255)"
+            },
+            {
+              "SHA": "d490e95c",
+              "Subject": "Update KubeDB api (#254)"
+            },
+            {
+              "SHA": "476de6f3",
+              "Subject": "Update KubeDB api (#253)"
+            },
+            {
+              "SHA": "54a36140",
+              "Subject": "Pass mysql name by flag for replication-mode-detector container (#247)"
+            },
+            {
+              "SHA": "c2836d86",
+              "Subject": "Update KubeDB api (#252)"
+            },
+            {
+              "SHA": "69756664",
+              "Subject": "Update repository config (#251)"
+            },
+            {
+              "SHA": "6d1c0fa8",
+              "Subject": "Cleanup monitoring spec api (#250)"
+            },
+            {
+              "SHA": "c971158c",
+              "Subject": "Use condition to handle database initialization (#243)"
+            },
+            {
+              "SHA": "a839fa52",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#249)"
+            },
+            {
+              "SHA": "1b231f81",
+              "Subject": "Use offshootSelectors to find statefulset (#248)"
+            },
+            {
+              "SHA": "e6c6db76",
+              "Subject": "Update for release Stash@v2020.09.29 (#246)"
+            },
+            {
+              "SHA": "fb577f93",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#245)"
+            },
+            {
+              "SHA": "dfe700ff",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#242)"
+            },
+            {
+              "SHA": "928c15fe",
+              "Subject": "Add separate services for primary and secondary Replicas (#229)"
+            },
+            {
+              "SHA": "ac7161c9",
+              "Subject": "Update repository config (#241)"
+            },
+            {
+              "SHA": "6344c1df",
+              "Subject": "Update repository config (#240)"
+            },
+            {
+              "SHA": "3389dbd8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#239)"
+            },
+            {
+              "SHA": "b22787a7",
+              "Subject": "Remove unused StashClient (#238)"
+            },
+            {
+              "SHA": "c1c1de57",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#237)"
+            },
+            {
+              "SHA": "b2e37ce5",
+              "Subject": "Use common event recorder (#236)"
             }
           ]
         }

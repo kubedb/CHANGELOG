@@ -64,3 +64,25 @@
 
 
 
+## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
+
+### [v0.2.0-beta.4](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.4)
+
+- [46c6bf5](https://github.com/kubedb/pg-leader-election/commit/46c6bf5) Update KubeDB api (#36)
+- [e662de8](https://github.com/kubedb/pg-leader-election/commit/e662de8) Update Kubernetes v1.18.9 dependencies (#35)
+- [f4167b5](https://github.com/kubedb/pg-leader-election/commit/f4167b5) Update KubeDB api (#34)
+- [e1d3199](https://github.com/kubedb/pg-leader-election/commit/e1d3199) Update Kubernetes v1.18.9 dependencies (#33)
+- [933baa7](https://github.com/kubedb/pg-leader-election/commit/933baa7) Update KubeDB api (#32)
+- [3edfc19](https://github.com/kubedb/pg-leader-election/commit/3edfc19) Update KubeDB api (#31)
+- [cef0f38](https://github.com/kubedb/pg-leader-election/commit/cef0f38) Update KubeDB api (#30)
+- [319a452](https://github.com/kubedb/pg-leader-election/commit/319a452) Update Kubernetes v1.18.9 dependencies (#29)
+- [7d82228](https://github.com/kubedb/pg-leader-election/commit/7d82228) Update KubeDB api (#28)
+- [bd6617b](https://github.com/kubedb/pg-leader-election/commit/bd6617b) Update Kubernetes v1.18.9 dependencies (#27)
+- [465c6a9](https://github.com/kubedb/pg-leader-election/commit/465c6a9) Update KubeDB api (#26)
+- [e90b2ba](https://github.com/kubedb/pg-leader-election/commit/e90b2ba) Update Kubernetes v1.18.9 dependencies (#25)
+- [2feb7bc](https://github.com/kubedb/pg-leader-election/commit/2feb7bc) Update repository config (#24)
+- [32ca246](https://github.com/kubedb/pg-leader-election/commit/32ca246) Update Kubernetes v1.18.9 dependencies (#23)
+- [03fe9f9](https://github.com/kubedb/pg-leader-election/commit/03fe9f9) Update Kubernetes v1.18.3 dependencies (#22)
+
+
+

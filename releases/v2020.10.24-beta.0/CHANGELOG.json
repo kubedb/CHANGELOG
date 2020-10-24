@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T10:53:17.196206263Z",
+  "release_date": "2020-10-24T10:54:03.625509771Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -235,6 +235,76 @@
             {
               "SHA": "53b42277",
               "Subject": "Add event recorder in controller struct (#587)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.2.0-beta.4",
+          "commits": [
+            {
+              "SHA": "46c6bf5",
+              "Subject": "Update KubeDB api (#36)"
+            },
+            {
+              "SHA": "e662de8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#35)"
+            },
+            {
+              "SHA": "f4167b5",
+              "Subject": "Update KubeDB api (#34)"
+            },
+            {
+              "SHA": "e1d3199",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#33)"
+            },
+            {
+              "SHA": "933baa7",
+              "Subject": "Update KubeDB api (#32)"
+            },
+            {
+              "SHA": "3edfc19",
+              "Subject": "Update KubeDB api (#31)"
+            },
+            {
+              "SHA": "cef0f38",
+              "Subject": "Update KubeDB api (#30)"
+            },
+            {
+              "SHA": "319a452",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#29)"
+            },
+            {
+              "SHA": "7d82228",
+              "Subject": "Update KubeDB api (#28)"
+            },
+            {
+              "SHA": "bd6617b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#27)"
+            },
+            {
+              "SHA": "465c6a9",
+              "Subject": "Update KubeDB api (#26)"
+            },
+            {
+              "SHA": "e90b2ba",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#25)"
+            },
+            {
+              "SHA": "2feb7bc",
+              "Subject": "Update repository config (#24)"
+            },
+            {
+              "SHA": "32ca246",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#23)"
+            },
+            {
+              "SHA": "03fe9f9",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#22)"
             }
           ]
         }

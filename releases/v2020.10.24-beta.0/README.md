@@ -64,6 +64,43 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.14.0-beta.4](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.4)
+
+- [d6f5ae41](https://github.com/kubedb/elasticsearch/commit/d6f5ae41) Prepare for release v0.14.0-beta.4 (#387)
+- [149314b5](https://github.com/kubedb/elasticsearch/commit/149314b5) Update KubeDB api (#386)
+- [1de4b578](https://github.com/kubedb/elasticsearch/commit/1de4b578) Make database's phase NotReady as soon as the halted is removed (#375)
+- [57704afa](https://github.com/kubedb/elasticsearch/commit/57704afa) Update Kubernetes v1.18.9 dependencies (#385)
+- [16d37657](https://github.com/kubedb/elasticsearch/commit/16d37657) Update Kubernetes v1.18.9 dependencies (#383)
+- [828f8ab8](https://github.com/kubedb/elasticsearch/commit/828f8ab8) Update KubeDB api (#382)
+- [d70e68a8](https://github.com/kubedb/elasticsearch/commit/d70e68a8) Update for release Stash@v2020.10.21 (#381)
+- [05a687bc](https://github.com/kubedb/elasticsearch/commit/05a687bc) Fix init validator (#379)
+- [24d7f2c8](https://github.com/kubedb/elasticsearch/commit/24d7f2c8) Update KubeDB api (#380)
+- [8c981e08](https://github.com/kubedb/elasticsearch/commit/8c981e08) Update KubeDB api (#378)
+- [cf833e49](https://github.com/kubedb/elasticsearch/commit/cf833e49) Update Kubernetes v1.18.9 dependencies (#377)
+- [fb335a43](https://github.com/kubedb/elasticsearch/commit/fb335a43) Update KubeDB api (#376)
+- [e652a7ec](https://github.com/kubedb/elasticsearch/commit/e652a7ec) Update KubeDB api (#374)
+- [c22b7f31](https://github.com/kubedb/elasticsearch/commit/c22b7f31) Update KubeDB api (#373)
+- [a7d8e3b0](https://github.com/kubedb/elasticsearch/commit/a7d8e3b0) Integrate cert-manager and status.conditions (#357)
+- [370f0df1](https://github.com/kubedb/elasticsearch/commit/370f0df1) Update repository config (#372)
+- [78bdc59e](https://github.com/kubedb/elasticsearch/commit/78bdc59e) Update repository config (#371)
+- [b8003d4b](https://github.com/kubedb/elasticsearch/commit/b8003d4b) Update repository config (#370)
+- [d4ff1ac2](https://github.com/kubedb/elasticsearch/commit/d4ff1ac2) Publish docker images to ghcr.io (#369)
+- [5f5ef393](https://github.com/kubedb/elasticsearch/commit/5f5ef393) Update repository config (#363)
+- [e537ae40](https://github.com/kubedb/elasticsearch/commit/e537ae40) Update Kubernetes v1.18.9 dependencies (#362)
+- [a5a5b084](https://github.com/kubedb/elasticsearch/commit/a5a5b084) Update for release Stash@v2020.09.29 (#361)
+- [11eebe39](https://github.com/kubedb/elasticsearch/commit/11eebe39) Update Kubernetes v1.18.9 dependencies (#360)
+- [a5b47b08](https://github.com/kubedb/elasticsearch/commit/a5b47b08) Update Kubernetes v1.18.9 dependencies (#358)
+- [91f1dc00](https://github.com/kubedb/elasticsearch/commit/91f1dc00) Rename client node to ingest node (#346)
+- [318a8b19](https://github.com/kubedb/elasticsearch/commit/318a8b19) Update repository config (#356)
+- [a8773921](https://github.com/kubedb/elasticsearch/commit/a8773921) Update repository config (#355)
+- [55bef891](https://github.com/kubedb/elasticsearch/commit/55bef891) Update Kubernetes v1.18.9 dependencies (#354)
+- [1a3e421a](https://github.com/kubedb/elasticsearch/commit/1a3e421a) Use common event recorder (#353)
+- [4df32f60](https://github.com/kubedb/elasticsearch/commit/4df32f60) Update Kubernetes v1.18.3 dependencies (#352)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-beta.4](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.4)

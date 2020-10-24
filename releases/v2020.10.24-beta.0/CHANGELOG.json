@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T11:05:42.288674896Z",
+  "release_date": "2020-10-24T11:05:54.980884679Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -235,6 +235,136 @@
             {
               "SHA": "53b42277",
               "Subject": "Add event recorder in controller struct (#587)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.4",
+          "commits": [
+            {
+              "SHA": "d6f5ae41",
+              "Subject": "Prepare for release v0.14.0-beta.4 (#387)"
+            },
+            {
+              "SHA": "149314b5",
+              "Subject": "Update KubeDB api (#386)"
+            },
+            {
+              "SHA": "1de4b578",
+              "Subject": "Make database's phase NotReady as soon as the halted is removed (#375)"
+            },
+            {
+              "SHA": "57704afa",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#385)"
+            },
+            {
+              "SHA": "16d37657",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#383)"
+            },
+            {
+              "SHA": "828f8ab8",
+              "Subject": "Update KubeDB api (#382)"
+            },
+            {
+              "SHA": "d70e68a8",
+              "Subject": "Update for release Stash@v2020.10.21 (#381)"
+            },
+            {
+              "SHA": "05a687bc",
+              "Subject": "Fix init validator (#379)"
+            },
+            {
+              "SHA": "24d7f2c8",
+              "Subject": "Update KubeDB api (#380)"
+            },
+            {
+              "SHA": "8c981e08",
+              "Subject": "Update KubeDB api (#378)"
+            },
+            {
+              "SHA": "cf833e49",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#377)"
+            },
+            {
+              "SHA": "fb335a43",
+              "Subject": "Update KubeDB api (#376)"
+            },
+            {
+              "SHA": "e652a7ec",
+              "Subject": "Update KubeDB api (#374)"
+            },
+            {
+              "SHA": "c22b7f31",
+              "Subject": "Update KubeDB api (#373)"
+            },
+            {
+              "SHA": "a7d8e3b0",
+              "Subject": "Integrate cert-manager and status.conditions (#357)"
+            },
+            {
+              "SHA": "370f0df1",
+              "Subject": "Update repository config (#372)"
+            },
+            {
+              "SHA": "78bdc59e",
+              "Subject": "Update repository config (#371)"
+            },
+            {
+              "SHA": "b8003d4b",
+              "Subject": "Update repository config (#370)"
+            },
+            {
+              "SHA": "d4ff1ac2",
+              "Subject": "Publish docker images to ghcr.io (#369)"
+            },
+            {
+              "SHA": "5f5ef393",
+              "Subject": "Update repository config (#363)"
+            },
+            {
+              "SHA": "e537ae40",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#362)"
+            },
+            {
+              "SHA": "a5a5b084",
+              "Subject": "Update for release Stash@v2020.09.29 (#361)"
+            },
+            {
+              "SHA": "11eebe39",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#360)"
+            },
+            {
+              "SHA": "a5b47b08",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#358)"
+            },
+            {
+              "SHA": "91f1dc00",
+              "Subject": "Rename client node to ingest node (#346)"
+            },
+            {
+              "SHA": "318a8b19",
+              "Subject": "Update repository config (#356)"
+            },
+            {
+              "SHA": "a8773921",
+              "Subject": "Update repository config (#355)"
+            },
+            {
+              "SHA": "55bef891",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#354)"
+            },
+            {
+              "SHA": "1a3e421a",
+              "Subject": "Use common event recorder (#353)"
+            },
+            {
+              "SHA": "4df32f60",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#352)"
             }
           ]
         }

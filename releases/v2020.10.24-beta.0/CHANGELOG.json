@@ -1,11 +1,329 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T11:26:00.008554197Z",
+  "release_date": "2020-10-24T14:07:32.213567448Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.4",
+          "commits": [
+            {
+              "SHA": "d045bd2d",
+              "Subject": "Prepare for release v0.1.0-beta.4 (#78)"
+            },
+            {
+              "SHA": "5fbe4b48",
+              "Subject": "Update KubeDB api (#73)"
+            },
+            {
+              "SHA": "00db6203",
+              "Subject": "Replace getConditions with kmapi.NewCondition (#71)"
+            },
+            {
+              "SHA": "aea1f64a",
+              "Subject": "Update License header (#70)"
+            },
+            {
+              "SHA": "1c15c2b8",
+              "Subject": "Add RedisOpsRequest Controller (#28)"
+            },
+            {
+              "SHA": "5cedb8fd",
+              "Subject": "Add MySQL OpsRequest Controller (#14)"
+            },
+            {
+              "SHA": "f0f282c0",
+              "Subject": "Add Reconfigure TLS (#69)"
+            },
+            {
+              "SHA": "cea85618",
+              "Subject": "Add Restart Operation, Readiness Criteria and Remove Configuration (#59)"
+            },
+            {
+              "SHA": "68cd3dcc",
+              "Subject": "Update repository config (#66)"
+            },
+            {
+              "SHA": "feef09ab",
+              "Subject": "Publish docker images to ghcr.io (#65)"
+            },
+            {
+              "SHA": "199d4bd2",
+              "Subject": "Update repository config (#60)"
+            },
+            {
+              "SHA": "2ae29633",
+              "Subject": "Reconfigure MongoDB with Vertical Scaling (#57)"
+            },
+            {
+              "SHA": "9a98fc29",
+              "Subject": "Fix MongoDB Upgrade (#51)"
+            },
+            {
+              "SHA": "9a1a792a",
+              "Subject": "Integrate cert-manager for Elasticsearch (#56)"
+            },
+            {
+              "SHA": "b02cda77",
+              "Subject": "Update repository config (#54)"
+            },
+            {
+              "SHA": "947c33e2",
+              "Subject": "Update repository config (#52)"
+            },
+            {
+              "SHA": "12edf6f1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#49)"
+            },
+            {
+              "SHA": "08f6a4ac",
+              "Subject": "Add license verifier (#50)"
+            },
+            {
+              "SHA": "30ceb1a5",
+              "Subject": "Add MongoDBOpsRequest Controller (#20)"
+            },
+            {
+              "SHA": "164ed838",
+              "Subject": "Use cert-manager v1 api (#47)"
+            },
+            {
+              "SHA": "7612ec19",
+              "Subject": "Update apis (#45)"
+            },
+            {
+              "SHA": "00550fe0",
+              "Subject": "Dynamically Generate Cluster Domain (#43)"
+            },
+            {
+              "SHA": "e1c3193f",
+              "Subject": "Use updated certstore & blobfs (#42)"
+            },
+            {
+              "SHA": "0d5d05bb",
+              "Subject": "Add TLS support for redis (#35)"
+            },
+            {
+              "SHA": "bb53fc86",
+              "Subject": "Various fixes (#41)"
+            },
+            {
+              "SHA": "023c5dfd",
+              "Subject": "Add TLS/SSL configuration using Cert Manager for MySQL (#34)"
+            },
+            {
+              "SHA": "e1795b97",
+              "Subject": "Update certificate spec for MongoDB and PgBouncer (#40)"
+            },
+            {
+              "SHA": "5e82443d",
+              "Subject": "Update new Subject sped for certificates (#38)"
+            },
+            {
+              "SHA": "099abfb8",
+              "Subject": "Update to cert-manager v0.16.0 (#37)"
+            },
+            {
+              "SHA": "b14346d3",
+              "Subject": "Update to Kubernetes v1.18.3 (#36)"
+            },
+            {
+              "SHA": "c569a8eb",
+              "Subject": "Fix cert-manager integration for PgBouncer (#32)"
+            },
+            {
+              "SHA": "28548950",
+              "Subject": "Update to Kubernetes v1.18.3 (#31)"
+            },
+            {
+              "SHA": "1ba9573e",
+              "Subject": "Include Makefile.env (#30)"
+            },
+            {
+              "SHA": "54133b44",
+              "Subject": "Disable e2e tests (#29)"
+            },
+            {
+              "SHA": "3939ece7",
+              "Subject": "Update to Kubernetes v1.18.3 (#27)"
+            },
+            {
+              "SHA": "95c6b535",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "a88032cd",
+              "Subject": "Add script to update release tracker on pr merge (#26)"
+            },
+            {
+              "SHA": "a90f68e7",
+              "Subject": "Rename docker image to kubedb-enterprise"
+            },
+            {
+              "SHA": "ccb9967f",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "fb6222ab",
+              "Subject": "Format CI files"
+            },
+            {
+              "SHA": "93756db8",
+              "Subject": "Fix e2e tests (#25)"
+            },
+            {
+              "SHA": "48ada32b",
+              "Subject": "Fix e2e tests using self-hosted GitHub action runners (#23)"
+            },
+            {
+              "SHA": "12b15d00",
+              "Subject": "Update to kubedb.dev/apimachinery@v0.14.0-alpha.6 (#24)"
+            },
+            {
+              "SHA": "9f32ab11",
+              "Subject": "Update to Kubernetes v1.18.3 (#21)"
+            },
+            {
+              "SHA": "cd3422a7",
+              "Subject": "Use CRD v1 for Kubernetes >= 1.16 (#19)"
+            },
+            {
+              "SHA": "4cc2f714",
+              "Subject": "Update to Kubernetes v1.18.3 (#18)"
+            },
+            {
+              "SHA": "7fb86dfb",
+              "Subject": "Update cert-manager util"
+            },
+            {
+              "SHA": "1c8e1e32",
+              "Subject": "Configure GCR Docker credential helper in release pipeline"
+            },
+            {
+              "SHA": "cd74a0c2",
+              "Subject": "Vendor kubedb.dev/apimachinery@v0.14.0-beta.0"
+            },
+            {
+              "SHA": "5522f7ef",
+              "Subject": "Revendor kubedb.dev/apimachinery@master"
+            },
+            {
+              "SHA": "e52cecfb",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "9ce414ca",
+              "Subject": "Merge pull request #17 from appscode/x7"
+            },
+            {
+              "SHA": "1938de61",
+              "Subject": "Remove existing cluster"
+            },
+            {
+              "SHA": "262dae05",
+              "Subject": "Remove support for k8s 1.11"
+            },
+            {
+              "SHA": "a00f342c",
+              "Subject": "Run e2e tests on GitHub actions"
+            },
+            {
+              "SHA": "b615b1ac",
+              "Subject": "Use GCR_SERVICE_ACCOUNT_JSON_KEY env in CI"
+            },
+            {
+              "SHA": "41668265",
+              "Subject": "Use gcr.io/appscode as docker registry (#16)"
+            },
+            {
+              "SHA": "2e5df236",
+              "Subject": "Run on self-hosted hosts"
+            },
+            {
+              "SHA": "3da6adef",
+              "Subject": "Store enterprise images in `gcr.io/appscode` (#15)"
+            },
+            {
+              "SHA": "bd4a8eb1",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#12)"
+            },
+            {
+              "SHA": "c5436b50",
+              "Subject": "Don't handle deleted objects. (#11)"
+            },
+            {
+              "SHA": "ee5eea66",
+              "Subject": "Fix MongoDB cert-manager integration (#10)"
+            },
+            {
+              "SHA": "105f08b8",
+              "Subject": "Add cert-manager integration for MongoDB (#9)"
+            },
+            {
+              "SHA": "b2a3af53",
+              "Subject": "Refactor PgBouncer controller into its pkg (#8)"
+            },
+            {
+              "SHA": "b0e90f75",
+              "Subject": "Use SecretInformer from apimachinery (#5)"
+            },
+            {
+              "SHA": "8dabbb1b",
+              "Subject": "Use non-deprecated Exporter fields (#4)"
+            },
+            {
+              "SHA": "de22842e",
+              "Subject": "Cert-Manager support for PgBouncer [Client TLS] (#2)"
+            },
+            {
+              "SHA": "1a6794b7",
+              "Subject": "Fix plain text secret in exporter container of StatefulSet (#5)"
+            },
+            {
+              "SHA": "ab104a9f",
+              "Subject": "Update client-go to kubernetes-1.16.3 (#7)"
+            },
+            {
+              "SHA": "68dbb142",
+              "Subject": "Use charts to install operator (#6)"
+            },
+            {
+              "SHA": "30e3e729",
+              "Subject": "Add add-license make target"
+            },
+            {
+              "SHA": "6c1a78a0",
+              "Subject": "Enable e2e tests in GitHub actions (#4)"
+            },
+            {
+              "SHA": "0960f805",
+              "Subject": "Initial implementation (#2)"
+            },
+            {
+              "SHA": "a8a9b1db",
+              "Subject": "Update go.yml"
+            },
+            {
+              "SHA": "bc3b2624",
+              "Subject": "Enable GitHub actions"
+            },
+            {
+              "SHA": "2e33db2b",
+              "Subject": "Clone kubedb/postgres repo (#1)"
+            },
+            {
+              "SHA": "45a7cace",
+              "Subject": "Merge commit 'f78de886ed657650438f99574c3b002dd3607497' as 'hack/libbuild'"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

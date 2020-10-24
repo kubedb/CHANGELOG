@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T14:07:32.213567448Z",
+  "release_date": "2020-10-24T15:29:01.916721664Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -683,6 +683,168 @@
             {
               "SHA": "4df32f60",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#352)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.4",
+          "commits": [
+            {
+              "SHA": "051bc36",
+              "Subject": "Prepare for release v0.14.0-beta.4 (#165)"
+            },
+            {
+              "SHA": "1de504a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#164)"
+            },
+            {
+              "SHA": "d97e36e",
+              "Subject": "Update KubeDB api (#163)"
+            },
+            {
+              "SHA": "f3f0049",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#162)"
+            },
+            {
+              "SHA": "fd73fd3",
+              "Subject": "Remove caFile from ServiceMonitor (#160)"
+            },
+            {
+              "SHA": "2ada956",
+              "Subject": "Update KubeDB api (#159)"
+            },
+            {
+              "SHA": "2709602",
+              "Subject": "Create ServiceMonitor in the same namespace as the operator (#158)"
+            },
+            {
+              "SHA": "3cb27a1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#157)"
+            },
+            {
+              "SHA": "1edeecd",
+              "Subject": "Update KubeDB api (#156)"
+            },
+            {
+              "SHA": "16d3089",
+              "Subject": "Update repository config (#155)"
+            },
+            {
+              "SHA": "307b8cc",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#154)"
+            },
+            {
+              "SHA": "b1b1569",
+              "Subject": "Add StatefulSet watch permission (#153)"
+            },
+            {
+              "SHA": "8c80de8",
+              "Subject": "Add permission to update cert-manager certificates status (#150)"
+            },
+            {
+              "SHA": "f03cec7",
+              "Subject": "Merge branch 'master' into permission"
+            },
+            {
+              "SHA": "54f36d9",
+              "Subject": "Update repository config (#152)"
+            },
+            {
+              "SHA": "150d180",
+              "Subject": "Update KubeDB api (#151)"
+            },
+            {
+              "SHA": "639157f",
+              "Subject": "Add permission to update cert-manager certificates status"
+            },
+            {
+              "SHA": "bcb1116",
+              "Subject": "Update KubeDB api (#149)"
+            },
+            {
+              "SHA": "d6d4875",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#148)"
+            },
+            {
+              "SHA": "7a00b13",
+              "Subject": "Update KubeDB api (#147)"
+            },
+            {
+              "SHA": "a05c122",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#146)"
+            },
+            {
+              "SHA": "9f97ec4",
+              "Subject": "Update KubeDB api (#145)"
+            },
+            {
+              "SHA": "c487f64",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#144)"
+            },
+            {
+              "SHA": "2fff4f4",
+              "Subject": "Update repository config (#143)"
+            },
+            {
+              "SHA": "627c725",
+              "Subject": "Update repository config (#142)"
+            },
+            {
+              "SHA": "c98d8f3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#141)"
+            },
+            {
+              "SHA": "53b5a39",
+              "Subject": "Update elasticsearch-init images (#140)"
+            },
+            {
+              "SHA": "d6f6abd",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#139)"
+            },
+            {
+              "SHA": "d4d55e9",
+              "Subject": "Fix RBAC for Stash (#138)"
+            },
+            {
+              "SHA": "0f96519",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#136)"
+            },
+            {
+              "SHA": "a459cbe",
+              "Subject": "Add license verification (#134)"
+            },
+            {
+              "SHA": "26fa351",
+              "Subject": "Change cluster-role of kubedb for stash/restorebatch (#125)"
+            },
+            {
+              "SHA": "ab75b29",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#133)"
+            },
+            {
+              "SHA": "a38a493",
+              "Subject": "Add support for elasticsearch version 7.9.1-xpack (#132)"
+            },
+            {
+              "SHA": "3a1c525",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#131)"
+            },
+            {
+              "SHA": "55b5040",
+              "Subject": "Mount emptyDir as /tmp for enterprise operator (#130)"
+            },
+            {
+              "SHA": "7c11eea",
+              "Subject": "Use AppsCode Community License (#129)"
+            },
+            {
+              "SHA": "9f08d2f",
+              "Subject": "Update Elasticsearch metrics-exporter image version (#122)"
             }
           ]
         }

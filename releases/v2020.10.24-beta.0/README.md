@@ -185,6 +185,51 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.14.0-beta.4](https://github.com/kubedb/installer/releases/tag/v0.14.0-beta.4)
+
+- [051bc36](https://github.com/kubedb/installer/commit/051bc36) Prepare for release v0.14.0-beta.4 (#165)
+- [1de504a](https://github.com/kubedb/installer/commit/1de504a) Update Kubernetes v1.18.9 dependencies (#164)
+- [d97e36e](https://github.com/kubedb/installer/commit/d97e36e) Update KubeDB api (#163)
+- [f3f0049](https://github.com/kubedb/installer/commit/f3f0049) Update Kubernetes v1.18.9 dependencies (#162)
+- [fd73fd3](https://github.com/kubedb/installer/commit/fd73fd3) Remove caFile from ServiceMonitor (#160)
+- [2ada956](https://github.com/kubedb/installer/commit/2ada956) Update KubeDB api (#159)
+- [2709602](https://github.com/kubedb/installer/commit/2709602) Create ServiceMonitor in the same namespace as the operator (#158)
+- [3cb27a1](https://github.com/kubedb/installer/commit/3cb27a1) Update Kubernetes v1.18.9 dependencies (#157)
+- [1edeecd](https://github.com/kubedb/installer/commit/1edeecd) Update KubeDB api (#156)
+- [16d3089](https://github.com/kubedb/installer/commit/16d3089) Update repository config (#155)
+- [307b8cc](https://github.com/kubedb/installer/commit/307b8cc) Update Kubernetes v1.18.9 dependencies (#154)
+- [b1b1569](https://github.com/kubedb/installer/commit/b1b1569) Add StatefulSet watch permission (#153)
+- [8c80de8](https://github.com/kubedb/installer/commit/8c80de8) Add permission to update cert-manager certificates status (#150)
+- [f03cec7](https://github.com/kubedb/installer/commit/f03cec7) Merge branch 'master' into permission
+- [54f36d9](https://github.com/kubedb/installer/commit/54f36d9) Update repository config (#152)
+- [150d180](https://github.com/kubedb/installer/commit/150d180) Update KubeDB api (#151)
+- [639157f](https://github.com/kubedb/installer/commit/639157f) Add permission to update cert-manager certificates status
+- [bcb1116](https://github.com/kubedb/installer/commit/bcb1116) Update KubeDB api (#149)
+- [d6d4875](https://github.com/kubedb/installer/commit/d6d4875) Update Kubernetes v1.18.9 dependencies (#148)
+- [7a00b13](https://github.com/kubedb/installer/commit/7a00b13) Update KubeDB api (#147)
+- [a05c122](https://github.com/kubedb/installer/commit/a05c122) Update Kubernetes v1.18.9 dependencies (#146)
+- [9f97ec4](https://github.com/kubedb/installer/commit/9f97ec4) Update KubeDB api (#145)
+- [c487f64](https://github.com/kubedb/installer/commit/c487f64) Update Kubernetes v1.18.9 dependencies (#144)
+- [2fff4f4](https://github.com/kubedb/installer/commit/2fff4f4) Update repository config (#143)
+- [627c725](https://github.com/kubedb/installer/commit/627c725) Update repository config (#142)
+- [c98d8f3](https://github.com/kubedb/installer/commit/c98d8f3) Update Kubernetes v1.18.9 dependencies (#141)
+- [53b5a39](https://github.com/kubedb/installer/commit/53b5a39) Update elasticsearch-init images (#140)
+- [d6f6abd](https://github.com/kubedb/installer/commit/d6f6abd) Update Kubernetes v1.18.3 dependencies (#139)
+- [d4d55e9](https://github.com/kubedb/installer/commit/d4d55e9) Fix RBAC for Stash (#138)
+- [0f96519](https://github.com/kubedb/installer/commit/0f96519) Update Kubernetes v1.18.3 dependencies (#136)
+- [a459cbe](https://github.com/kubedb/installer/commit/a459cbe) Add license verification (#134)
+- [26fa351](https://github.com/kubedb/installer/commit/26fa351) Change cluster-role of kubedb for stash/restorebatch (#125)
+- [ab75b29](https://github.com/kubedb/installer/commit/ab75b29) Update Kubernetes v1.18.3 dependencies (#133)
+- [a38a493](https://github.com/kubedb/installer/commit/a38a493) Add support for elasticsearch version 7.9.1-xpack (#132)
+- [3a1c525](https://github.com/kubedb/installer/commit/3a1c525) Update Kubernetes v1.18.3 dependencies (#131)
+- [55b5040](https://github.com/kubedb/installer/commit/55b5040) Mount emptyDir as /tmp for enterprise operator (#130)
+- [7c11eea](https://github.com/kubedb/installer/commit/7c11eea) Use AppsCode Community License (#129)
+- [9f08d2f](https://github.com/kubedb/installer/commit/9f08d2f) Update Elasticsearch metrics-exporter image version (#122)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-beta.4](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.4)

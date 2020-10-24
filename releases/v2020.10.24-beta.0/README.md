@@ -64,6 +64,48 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.7.0-beta.4](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.4)
+
+- [49da218c](https://github.com/kubedb/memcached/commit/49da218c) Prepare for release v0.7.0-beta.4 (#221)
+- [25677a68](https://github.com/kubedb/memcached/commit/25677a68) Update KubeDB api (#220)
+- [b4cd7a06](https://github.com/kubedb/memcached/commit/b4cd7a06) Update Kubernetes v1.18.9 dependencies (#219)
+- [553c98d4](https://github.com/kubedb/memcached/commit/553c98d4) Update KubeDB api (#218)
+- [2e9af5f1](https://github.com/kubedb/memcached/commit/2e9af5f1) Update KubeDB api (#217)
+- [86b20622](https://github.com/kubedb/memcached/commit/86b20622) Update KubeDB api (#216)
+- [8a46e900](https://github.com/kubedb/memcached/commit/8a46e900) Update Kubernetes v1.18.9 dependencies (#215)
+- [366531e0](https://github.com/kubedb/memcached/commit/366531e0) Update KubeDB api (#214)
+- [1a45a5d3](https://github.com/kubedb/memcached/commit/1a45a5d3) Update KubeDB api (#213)
+- [40afd78d](https://github.com/kubedb/memcached/commit/40afd78d) Update KubeDB api (#212)
+- [bee3d626](https://github.com/kubedb/memcached/commit/bee3d626) Update KubeDB api (#211)
+- [3a71917a](https://github.com/kubedb/memcached/commit/3a71917a) Update Kubernetes v1.18.9 dependencies (#210)
+- [efaeb8f1](https://github.com/kubedb/memcached/commit/efaeb8f1) Update KubeDB api (#209)
+- [f8bcc2ac](https://github.com/kubedb/memcached/commit/f8bcc2ac) Update KubeDB api (#208)
+- [de050491](https://github.com/kubedb/memcached/commit/de050491) Update KubeDB api (#207)
+- [f59d7b22](https://github.com/kubedb/memcached/commit/f59d7b22) Update repository config (#206)
+- [ef1b61d7](https://github.com/kubedb/memcached/commit/ef1b61d7) Update repository config (#205)
+- [2401e6a4](https://github.com/kubedb/memcached/commit/2401e6a4) Update repository config (#204)
+- [59b4a20b](https://github.com/kubedb/memcached/commit/59b4a20b) Update KubeDB api (#203)
+- [7ceab937](https://github.com/kubedb/memcached/commit/7ceab937) Update Kubernetes v1.18.9 dependencies (#202)
+- [22ed0d2f](https://github.com/kubedb/memcached/commit/22ed0d2f) Publish docker images to ghcr.io (#201)
+- [059535f1](https://github.com/kubedb/memcached/commit/059535f1) Update KubeDB api (#200)
+- [480c5281](https://github.com/kubedb/memcached/commit/480c5281) Update KubeDB api (#199)
+- [60980557](https://github.com/kubedb/memcached/commit/60980557) Update KubeDB api (#198)
+- [57091fac](https://github.com/kubedb/memcached/commit/57091fac) Update KubeDB api (#197)
+- [4fa3793d](https://github.com/kubedb/memcached/commit/4fa3793d) Update repository config (#196)
+- [9891c8e3](https://github.com/kubedb/memcached/commit/9891c8e3) Update Kubernetes v1.18.9 dependencies (#195)
+- [d4dbb4a6](https://github.com/kubedb/memcached/commit/d4dbb4a6) Update KubeDB api (#192)
+- [8e27b6ef](https://github.com/kubedb/memcached/commit/8e27b6ef) Update Kubernetes v1.18.9 dependencies (#193)
+- [f8fefd18](https://github.com/kubedb/memcached/commit/f8fefd18) Update Kubernetes v1.18.9 dependencies (#191)
+- [0c8250d9](https://github.com/kubedb/memcached/commit/0c8250d9) Update repository config (#190)
+- [08cd9670](https://github.com/kubedb/memcached/commit/08cd9670) Update repository config (#189)
+- [c15513f2](https://github.com/kubedb/memcached/commit/c15513f2) Update Kubernetes v1.18.9 dependencies (#188)
+- [f6115aaa](https://github.com/kubedb/memcached/commit/f6115aaa) Use common event recorder (#187)
+- [bbf717a9](https://github.com/kubedb/memcached/commit/bbf717a9) Update Kubernetes v1.18.3 dependencies (#186)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.4](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.4)

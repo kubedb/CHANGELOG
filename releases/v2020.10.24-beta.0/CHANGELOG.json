@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.24-beta.0",
-  "release_date": "2020-10-24T11:03:08.648484645Z",
+  "release_date": "2020-10-24T11:03:41.58720694Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.24-beta.0",
   "kubernetes_version": "1.12+",
@@ -235,6 +235,156 @@
             {
               "SHA": "53b42277",
               "Subject": "Add event recorder in controller struct (#587)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.4",
+          "commits": [
+            {
+              "SHA": "49da218c",
+              "Subject": "Prepare for release v0.7.0-beta.4 (#221)"
+            },
+            {
+              "SHA": "25677a68",
+              "Subject": "Update KubeDB api (#220)"
+            },
+            {
+              "SHA": "b4cd7a06",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#219)"
+            },
+            {
+              "SHA": "553c98d4",
+              "Subject": "Update KubeDB api (#218)"
+            },
+            {
+              "SHA": "2e9af5f1",
+              "Subject": "Update KubeDB api (#217)"
+            },
+            {
+              "SHA": "86b20622",
+              "Subject": "Update KubeDB api (#216)"
+            },
+            {
+              "SHA": "8a46e900",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#215)"
+            },
+            {
+              "SHA": "366531e0",
+              "Subject": "Update KubeDB api (#214)"
+            },
+            {
+              "SHA": "1a45a5d3",
+              "Subject": "Update KubeDB api (#213)"
+            },
+            {
+              "SHA": "40afd78d",
+              "Subject": "Update KubeDB api (#212)"
+            },
+            {
+              "SHA": "bee3d626",
+              "Subject": "Update KubeDB api (#211)"
+            },
+            {
+              "SHA": "3a71917a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#210)"
+            },
+            {
+              "SHA": "efaeb8f1",
+              "Subject": "Update KubeDB api (#209)"
+            },
+            {
+              "SHA": "f8bcc2ac",
+              "Subject": "Update KubeDB api (#208)"
+            },
+            {
+              "SHA": "de050491",
+              "Subject": "Update KubeDB api (#207)"
+            },
+            {
+              "SHA": "f59d7b22",
+              "Subject": "Update repository config (#206)"
+            },
+            {
+              "SHA": "ef1b61d7",
+              "Subject": "Update repository config (#205)"
+            },
+            {
+              "SHA": "2401e6a4",
+              "Subject": "Update repository config (#204)"
+            },
+            {
+              "SHA": "59b4a20b",
+              "Subject": "Update KubeDB api (#203)"
+            },
+            {
+              "SHA": "7ceab937",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#202)"
+            },
+            {
+              "SHA": "22ed0d2f",
+              "Subject": "Publish docker images to ghcr.io (#201)"
+            },
+            {
+              "SHA": "059535f1",
+              "Subject": "Update KubeDB api (#200)"
+            },
+            {
+              "SHA": "480c5281",
+              "Subject": "Update KubeDB api (#199)"
+            },
+            {
+              "SHA": "60980557",
+              "Subject": "Update KubeDB api (#198)"
+            },
+            {
+              "SHA": "57091fac",
+              "Subject": "Update KubeDB api (#197)"
+            },
+            {
+              "SHA": "4fa3793d",
+              "Subject": "Update repository config (#196)"
+            },
+            {
+              "SHA": "9891c8e3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#195)"
+            },
+            {
+              "SHA": "d4dbb4a6",
+              "Subject": "Update KubeDB api (#192)"
+            },
+            {
+              "SHA": "8e27b6ef",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#193)"
+            },
+            {
+              "SHA": "f8fefd18",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#191)"
+            },
+            {
+              "SHA": "0c8250d9",
+              "Subject": "Update repository config (#190)"
+            },
+            {
+              "SHA": "08cd9670",
+              "Subject": "Update repository config (#189)"
+            },
+            {
+              "SHA": "c15513f2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#188)"
+            },
+            {
+              "SHA": "f6115aaa",
+              "Subject": "Use common event recorder (#187)"
+            },
+            {
+              "SHA": "bbf717a9",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#186)"
             }
           ]
         }

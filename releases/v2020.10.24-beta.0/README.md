@@ -361,6 +361,47 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.1.0-beta.4](https://github.com/kubedb/pgbouncer/releases/tag/v0.1.0-beta.4)
+
+- [4c292933](https://github.com/kubedb/pgbouncer/commit/4c292933) Prepare for release v0.1.0-beta.4 (#85)
+- [c3daaa90](https://github.com/kubedb/pgbouncer/commit/c3daaa90) Update KubeDB api (#84)
+- [19784f7a](https://github.com/kubedb/pgbouncer/commit/19784f7a) Update Kubernetes v1.18.9 dependencies (#83)
+- [a7ea74e4](https://github.com/kubedb/pgbouncer/commit/a7ea74e4) Update KubeDB api (#82)
+- [49391b30](https://github.com/kubedb/pgbouncer/commit/49391b30) Update KubeDB api (#81)
+- [2ad0016d](https://github.com/kubedb/pgbouncer/commit/2ad0016d) Update KubeDB api (#80)
+- [e0169139](https://github.com/kubedb/pgbouncer/commit/e0169139) Update Kubernetes v1.18.9 dependencies (#79)
+- [ade8edf9](https://github.com/kubedb/pgbouncer/commit/ade8edf9) Update KubeDB api (#78)
+- [86387966](https://github.com/kubedb/pgbouncer/commit/86387966) Update KubeDB api (#77)
+- [d5fa2ce7](https://github.com/kubedb/pgbouncer/commit/d5fa2ce7) Update KubeDB api (#76)
+- [938d61f6](https://github.com/kubedb/pgbouncer/commit/938d61f6) Update KubeDB api (#75)
+- [89ceecb1](https://github.com/kubedb/pgbouncer/commit/89ceecb1) Update Kubernetes v1.18.9 dependencies (#74)
+- [3b8fc849](https://github.com/kubedb/pgbouncer/commit/3b8fc849) Update KubeDB api (#73)
+- [89ed5bf0](https://github.com/kubedb/pgbouncer/commit/89ed5bf0) Update KubeDB api (#72)
+- [187eaff5](https://github.com/kubedb/pgbouncer/commit/187eaff5) Update KubeDB api (#71)
+- [1222c935](https://github.com/kubedb/pgbouncer/commit/1222c935) Update repository config (#70)
+- [f9c72f8c](https://github.com/kubedb/pgbouncer/commit/f9c72f8c) Update repository config (#69)
+- [a55e0a9f](https://github.com/kubedb/pgbouncer/commit/a55e0a9f) Update repository config (#68)
+- [20f01c3b](https://github.com/kubedb/pgbouncer/commit/20f01c3b) Update KubeDB api (#67)
+- [ea907c2f](https://github.com/kubedb/pgbouncer/commit/ea907c2f) Update Kubernetes v1.18.9 dependencies (#66)
+- [86f92e64](https://github.com/kubedb/pgbouncer/commit/86f92e64) Publish docker images to ghcr.io (#65)
+- [189ab8b8](https://github.com/kubedb/pgbouncer/commit/189ab8b8) Update KubeDB api (#64)
+- [d30a59c2](https://github.com/kubedb/pgbouncer/commit/d30a59c2) Update KubeDB api (#63)
+- [545ee043](https://github.com/kubedb/pgbouncer/commit/545ee043) Update KubeDB api (#62)
+- [cc01e1ca](https://github.com/kubedb/pgbouncer/commit/cc01e1ca) Update KubeDB api (#61)
+- [40bc916f](https://github.com/kubedb/pgbouncer/commit/40bc916f) Update repository config (#60)
+- [00313b21](https://github.com/kubedb/pgbouncer/commit/00313b21) Update Kubernetes v1.18.9 dependencies (#59)
+- [080b77f3](https://github.com/kubedb/pgbouncer/commit/080b77f3) Update KubeDB api (#56)
+- [fa479841](https://github.com/kubedb/pgbouncer/commit/fa479841) Update Kubernetes v1.18.9 dependencies (#57)
+- [559d7421](https://github.com/kubedb/pgbouncer/commit/559d7421) Update Kubernetes v1.18.9 dependencies (#55)
+- [1bfe4067](https://github.com/kubedb/pgbouncer/commit/1bfe4067) Update repository config (#54)
+- [5ac28f25](https://github.com/kubedb/pgbouncer/commit/5ac28f25) Update repository config (#53)
+- [162034f0](https://github.com/kubedb/pgbouncer/commit/162034f0) Update Kubernetes v1.18.9 dependencies (#52)
+- [71697842](https://github.com/kubedb/pgbouncer/commit/71697842) Update Kubernetes v1.18.3 dependencies (#51)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.14.0-beta.4](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.4)

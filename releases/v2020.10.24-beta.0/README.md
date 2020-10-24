@@ -106,6 +106,54 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.7.0-beta.4](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-beta.4)
+
+- [007e3ccd](https://github.com/kubedb/mongodb/commit/007e3ccd) Prepare for release v0.7.0-beta.4 (#289)
+- [11f6573e](https://github.com/kubedb/mongodb/commit/11f6573e) Update MongoDB Conditions (#280)
+- [a964af9b](https://github.com/kubedb/mongodb/commit/a964af9b) Update KubeDB api (#288)
+- [38fd31b3](https://github.com/kubedb/mongodb/commit/38fd31b3) Update Kubernetes v1.18.9 dependencies (#287)
+- [b0110bea](https://github.com/kubedb/mongodb/commit/b0110bea) Update KubeDB api (#286)
+- [bfad7e48](https://github.com/kubedb/mongodb/commit/bfad7e48) Update for release Stash@v2020.10.21 (#285)
+- [2eebd6eb](https://github.com/kubedb/mongodb/commit/2eebd6eb) Fix init validator (#283)
+- [7912e726](https://github.com/kubedb/mongodb/commit/7912e726) Update KubeDB api (#284)
+- [ebf85b6d](https://github.com/kubedb/mongodb/commit/ebf85b6d) Update KubeDB api (#282)
+- [7fa4958c](https://github.com/kubedb/mongodb/commit/7fa4958c) Update Kubernetes v1.18.9 dependencies (#281)
+- [705843b8](https://github.com/kubedb/mongodb/commit/705843b8) Use MongoDBCustomConfigFile constant
+- [dac6262d](https://github.com/kubedb/mongodb/commit/dac6262d) Update KubeDB api (#279)
+- [7e7a960e](https://github.com/kubedb/mongodb/commit/7e7a960e) Update KubeDB api (#278)
+- [aed9bd49](https://github.com/kubedb/mongodb/commit/aed9bd49) Update KubeDB api (#277)
+- [18ec2e99](https://github.com/kubedb/mongodb/commit/18ec2e99) Update Kubernetes v1.18.9 dependencies (#276)
+- [dbec1f66](https://github.com/kubedb/mongodb/commit/dbec1f66) Update KubeDB api (#275)
+- [ad028b51](https://github.com/kubedb/mongodb/commit/ad028b51) Update KubeDB api (#274)
+- [a21dfd6a](https://github.com/kubedb/mongodb/commit/a21dfd6a) Update KubeDB api (#272)
+- [932ac34b](https://github.com/kubedb/mongodb/commit/932ac34b) Update repository config (#271)
+- [3f52a364](https://github.com/kubedb/mongodb/commit/3f52a364) Update repository config (#270)
+- [d3bf87db](https://github.com/kubedb/mongodb/commit/d3bf87db) Initialize statefulset watcher from cmd/server/options.go (#269)
+- [e3e15b7f](https://github.com/kubedb/mongodb/commit/e3e15b7f) Update KubeDB api (#268)
+- [406ae5a2](https://github.com/kubedb/mongodb/commit/406ae5a2) Update Kubernetes v1.18.9 dependencies (#267)
+- [0339503d](https://github.com/kubedb/mongodb/commit/0339503d) Publish docker images to ghcr.io (#266)
+- [ffccdc3c](https://github.com/kubedb/mongodb/commit/ffccdc3c) Update KubeDB api (#265)
+- [05b7a0bd](https://github.com/kubedb/mongodb/commit/05b7a0bd) Update KubeDB api (#264)
+- [d6447024](https://github.com/kubedb/mongodb/commit/d6447024) Update KubeDB api (#263)
+- [e7c1e3a3](https://github.com/kubedb/mongodb/commit/e7c1e3a3) Update KubeDB api (#262)
+- [5647960a](https://github.com/kubedb/mongodb/commit/5647960a) Update repository config (#261)
+- [e7481d8d](https://github.com/kubedb/mongodb/commit/e7481d8d) Use conditions to handle initialization (#258)
+- [d406586a](https://github.com/kubedb/mongodb/commit/d406586a) Update Kubernetes v1.18.9 dependencies (#260)
+- [93708d02](https://github.com/kubedb/mongodb/commit/93708d02) Remove redundant volume mounts (#259)
+- [bf28af80](https://github.com/kubedb/mongodb/commit/bf28af80) Update for release Stash@v2020.09.29 (#257)
+- [b34e2326](https://github.com/kubedb/mongodb/commit/b34e2326) Update Kubernetes v1.18.9 dependencies (#256)
+- [86e84d48](https://github.com/kubedb/mongodb/commit/86e84d48) Remove bootstrap container (#248)
+- [0b66e225](https://github.com/kubedb/mongodb/commit/0b66e225) Update Kubernetes v1.18.9 dependencies (#254)
+- [1a06f223](https://github.com/kubedb/mongodb/commit/1a06f223) Update repository config (#253)
+- [c199b164](https://github.com/kubedb/mongodb/commit/c199b164) Update repository config (#252)
+- [1268868d](https://github.com/kubedb/mongodb/commit/1268868d) Update Kubernetes v1.18.9 dependencies (#251)
+- [de63158f](https://github.com/kubedb/mongodb/commit/de63158f) Use common event recorder (#249)
+- [2f96b75a](https://github.com/kubedb/mongodb/commit/2f96b75a) Update Kubernetes v1.18.3 dependencies (#250)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.4](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.4)

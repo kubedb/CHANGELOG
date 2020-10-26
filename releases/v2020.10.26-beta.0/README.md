@@ -11,3 +11,10 @@
 
 
 
+## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
+
+### [v0.2.0-beta.5](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.5)
+
+
+
+

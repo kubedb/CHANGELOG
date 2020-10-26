@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-26T23:29:34.696211018Z",
+  "release_date": "2020-10-26T23:30:44.731035974Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -117,6 +117,32 @@
             {
               "SHA": "2a301cd0",
               "Subject": "Don't update krew manifest for pre-releases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.5",
+          "commits": [
+            {
+              "SHA": "f1818bb1",
+              "Subject": "Prepare for release v0.7.0-beta.5 (#292)"
+            },
+            {
+              "SHA": "7d1586f7",
+              "Subject": "Create separate governing service for each database (#291)"
+            },
+            {
+              "SHA": "1e281abb",
+              "Subject": "Update KubeDB api (#290)"
+            },
+            {
+              "SHA": "23d8785f",
+              "Subject": "Update readme"
             }
           ]
         }

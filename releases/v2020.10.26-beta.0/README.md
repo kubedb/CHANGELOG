@@ -39,6 +39,17 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.7.0-beta.5](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-beta.5)
+
+- [f1818bb1](https://github.com/kubedb/mongodb/commit/f1818bb1) Prepare for release v0.7.0-beta.5 (#292)
+- [7d1586f7](https://github.com/kubedb/mongodb/commit/7d1586f7) Create separate governing service for each database (#291)
+- [1e281abb](https://github.com/kubedb/mongodb/commit/1e281abb) Update KubeDB api (#290)
+- [23d8785f](https://github.com/kubedb/mongodb/commit/23d8785f) Update readme
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.5](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.5)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-26T23:32:52.316976594Z",
+  "release_date": "2020-10-26T23:33:06.217855181Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -232,6 +232,40 @@
         {
           "tag": "v0.2.0-beta.5",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "c6e802a7",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#401)"
+            },
+            {
+              "SHA": "4da12584",
+              "Subject": "Simplify port assignment (#400)"
+            },
+            {
+              "SHA": "71420f2b",
+              "Subject": "Create separate governing service for each database (#399)"
+            },
+            {
+              "SHA": "49792ddb",
+              "Subject": "Update KubeDB api (#398)"
+            },
+            {
+              "SHA": "721f5e16",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "c036ee15",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#397)"
+            }
+          ]
         }
       ]
     }

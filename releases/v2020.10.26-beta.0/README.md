@@ -90,3 +90,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.14.0-beta.5](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.5)
+
+- [c6e802a7](https://github.com/kubedb/postgres/commit/c6e802a7) Prepare for release v0.14.0-beta.5 (#401)
+- [4da12584](https://github.com/kubedb/postgres/commit/4da12584) Simplify port assignment (#400)
+- [71420f2b](https://github.com/kubedb/postgres/commit/71420f2b) Create separate governing service for each database (#399)
+- [49792ddb](https://github.com/kubedb/postgres/commit/49792ddb) Update KubeDB api (#398)
+- [721f5e16](https://github.com/kubedb/postgres/commit/721f5e16) Update readme
+- [c036ee15](https://github.com/kubedb/postgres/commit/c036ee15) Update Kubernetes v1.18.9 dependencies (#397)
+
+
+

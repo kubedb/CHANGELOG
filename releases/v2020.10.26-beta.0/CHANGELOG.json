@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-26T23:33:35.290554019Z",
+  "release_date": "2020-10-26T23:34:34.696313839Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -294,6 +294,32 @@
             {
               "SHA": "c036ee15",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#397)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.5",
+          "commits": [
+            {
+              "SHA": "57743070",
+              "Subject": "Prepare for release v0.7.0-beta.5 (#243)"
+            },
+            {
+              "SHA": "5e8f1a25",
+              "Subject": "Create separate governing service for each database (#242)"
+            },
+            {
+              "SHA": "ebeda2c7",
+              "Subject": "Update KubeDB api (#241)"
+            },
+            {
+              "SHA": "b0a39a3c",
+              "Subject": "Update readme"
             }
           ]
         }

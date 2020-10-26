@@ -115,3 +115,14 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.7.0-beta.5](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.5)
+
+- [57743070](https://github.com/kubedb/redis/commit/57743070) Prepare for release v0.7.0-beta.5 (#243)
+- [5e8f1a25](https://github.com/kubedb/redis/commit/5e8f1a25) Create separate governing service for each database (#242)
+- [ebeda2c7](https://github.com/kubedb/redis/commit/ebeda2c7) Update KubeDB api (#241)
+- [b0a39a3c](https://github.com/kubedb/redis/commit/b0a39a3c) Update readme
+
+
+

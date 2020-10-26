@@ -39,6 +39,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.7.0-beta.5](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.5)
+
+- [0fbfc766](https://github.com/kubedb/memcached/commit/0fbfc766) Prepare for release v0.7.0-beta.5 (#224)
+- [7a01e878](https://github.com/kubedb/memcached/commit/7a01e878) Create separate governing service for each database (#223)
+- [6cecdfec](https://github.com/kubedb/memcached/commit/6cecdfec) Update KubeDB api (#222)
+- [5942b1ff](https://github.com/kubedb/memcached/commit/5942b1ff) Update readme
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.7.0-beta.5](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-beta.5)

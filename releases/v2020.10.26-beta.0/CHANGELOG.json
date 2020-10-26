@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-26T23:21:23.343551914Z",
+  "release_date": "2020-10-26T23:29:34.696211018Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -23,6 +23,100 @@
             {
               "SHA": "ecfb5d85",
               "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "a4af36b9",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#529)"
+            },
+            {
+              "SHA": "2f1cb09d",
+              "Subject": "Update KubeDB api (#528)"
+            },
+            {
+              "SHA": "87eb5ad3",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "4dfe0da7",
+              "Subject": "Update KubeDB api (#527)"
+            },
+            {
+              "SHA": "5448e521",
+              "Subject": "Update repository config (#526)"
+            },
+            {
+              "SHA": "e1e9dbe2",
+              "Subject": "Update KubeDB api (#525)"
+            },
+            {
+              "SHA": "e49d303a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#524)"
+            },
+            {
+              "SHA": "9f54a783",
+              "Subject": "Update KubeDB api (#523)"
+            },
+            {
+              "SHA": "ad764956",
+              "Subject": "Update for release Stash@v2020.10.21 (#522)"
+            },
+            {
+              "SHA": "46ae22cd",
+              "Subject": "Update KubeDB api (#521)"
+            },
+            {
+              "SHA": "2914b270",
+              "Subject": "Update KubeDB api (#520)"
+            },
+            {
+              "SHA": "87ce0033",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#519)"
+            },
+            {
+              "SHA": "ab524afe",
+              "Subject": "Update KubeDB api (#518)"
+            },
+            {
+              "SHA": "899e2b21",
+              "Subject": "Update KubeDB api (#517)"
+            },
+            {
+              "SHA": "37a5da4b",
+              "Subject": "Update KubeDB api (#516)"
+            },
+            {
+              "SHA": "5c87d6e8",
+              "Subject": "Update KubeDB api (#515)"
+            },
+            {
+              "SHA": "dfc9e245",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#514)"
+            },
+            {
+              "SHA": "c0650bb7",
+              "Subject": "Update KubeDB api (#513)"
+            },
+            {
+              "SHA": "278dccbe",
+              "Subject": "Update KubeDB api (#512)"
+            },
+            {
+              "SHA": "221be742",
+              "Subject": "Update KubeDB api (#511)"
+            },
+            {
+              "SHA": "2a301cd0",
+              "Subject": "Don't update krew manifest for pre-releases"
             }
           ]
         }

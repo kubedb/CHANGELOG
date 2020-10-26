@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-26T23:33:06.217855181Z",
+  "release_date": "2020-10-26T23:33:35.290554019Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -117,6 +117,36 @@
             {
               "SHA": "2a301cd0",
               "Subject": "Don't update krew manifest for pre-releases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "97f34417",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#391)"
+            },
+            {
+              "SHA": "a3e9a733",
+              "Subject": "Create separate governing service for each database (#390)"
+            },
+            {
+              "SHA": "ce8f80b5",
+              "Subject": "Update KubeDB api (#389)"
+            },
+            {
+              "SHA": "0fe8d617",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "657797fe",
+              "Subject": "Update repository config (#388)"
             }
           ]
         }

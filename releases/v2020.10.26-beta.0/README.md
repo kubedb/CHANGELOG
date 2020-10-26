@@ -39,6 +39,18 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.14.0-beta.5](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.5)
+
+- [97f34417](https://github.com/kubedb/elasticsearch/commit/97f34417) Prepare for release v0.14.0-beta.5 (#391)
+- [a3e9a733](https://github.com/kubedb/elasticsearch/commit/a3e9a733) Create separate governing service for each database (#390)
+- [ce8f80b5](https://github.com/kubedb/elasticsearch/commit/ce8f80b5) Update KubeDB api (#389)
+- [0fe8d617](https://github.com/kubedb/elasticsearch/commit/0fe8d617) Update readme
+- [657797fe](https://github.com/kubedb/elasticsearch/commit/657797fe) Update repository config (#388)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-beta.5](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.5)

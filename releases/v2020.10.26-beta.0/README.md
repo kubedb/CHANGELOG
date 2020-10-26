@@ -61,6 +61,17 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.7.0-beta.5](https://github.com/kubedb/mysql/releases/tag/v0.7.0-beta.5)
+
+- [8dbd64c9](https://github.com/kubedb/mysql/commit/8dbd64c9) Prepare for release v0.7.0-beta.5 (#284)
+- [ee4285c1](https://github.com/kubedb/mysql/commit/ee4285c1) Create separate governing service for each database (#283)
+- [8e2fcbf4](https://github.com/kubedb/mysql/commit/8e2fcbf4) Update KubeDB api (#282)
+- [ae962768](https://github.com/kubedb/mysql/commit/ae962768) Update readme
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.1.0-beta.5](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.5)

@@ -1,0 +1,32 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.10.26-beta.0",
+  "release_date": "2020-10-26T23:20:36.191336189Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "b72968d5",
+              "Subject": "Add port constants (#635)"
+            },
+            {
+              "SHA": "6ce39fbe",
+              "Subject": "Create separate governing service for each database (#634)"
+            },
+            {
+              "SHA": "ecfb5d85",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

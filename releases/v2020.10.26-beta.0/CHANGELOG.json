@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-26T23:31:16.610450837Z",
+  "release_date": "2020-10-26T23:32:40.671752335Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -168,6 +168,32 @@
             },
             {
               "SHA": "23d8785f",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.5",
+          "commits": [
+            {
+              "SHA": "9866a420",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#116)"
+            },
+            {
+              "SHA": "f92081d1",
+              "Subject": "Create separate governing service for each database (#115)"
+            },
+            {
+              "SHA": "6010b189",
+              "Subject": "Update KubeDB api (#114)"
+            },
+            {
+              "SHA": "95b57c72",
               "Subject": "Update readme"
             }
           ]

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-27T03:12:48.740085661Z",
+  "release_date": "2020-10-27T03:24:30.129318802Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -243,6 +243,48 @@
             {
               "SHA": "633ba00",
               "Subject": "Update KubeDB api (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "bcada180",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#331)"
+            },
+            {
+              "SHA": "07d63285",
+              "Subject": "Enable PgBoucner & ProxySQL for enterprise license (#330)"
+            },
+            {
+              "SHA": "35b75a05",
+              "Subject": "Update readme.md"
+            },
+            {
+              "SHA": "14304e05",
+              "Subject": "Update KubeDB api (#329)"
+            },
+            {
+              "SHA": "df61aae3",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "c9882619",
+              "Subject": "Format readme"
+            },
+            {
+              "SHA": "73b725e3",
+              "Subject": "Update readme (#328)"
+            },
+            {
+              "SHA": "541c2460",
+              "Subject": "Update repository config (#327)"
             }
           ]
         }

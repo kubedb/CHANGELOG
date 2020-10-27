@@ -93,6 +93,21 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.14.0-beta.5](https://github.com/kubedb/operator/releases/tag/v0.14.0-beta.5)
+
+- [bcada180](https://github.com/kubedb/operator/commit/bcada180) Prepare for release v0.14.0-beta.5 (#331)
+- [07d63285](https://github.com/kubedb/operator/commit/07d63285) Enable PgBoucner & ProxySQL for enterprise license (#330)
+- [35b75a05](https://github.com/kubedb/operator/commit/35b75a05) Update readme.md
+- [14304e05](https://github.com/kubedb/operator/commit/14304e05) Update KubeDB api (#329)
+- [df61aae3](https://github.com/kubedb/operator/commit/df61aae3) Update readme
+- [c9882619](https://github.com/kubedb/operator/commit/c9882619) Format readme
+- [73b725e3](https://github.com/kubedb/operator/commit/73b725e3) Update readme (#328)
+- [541c2460](https://github.com/kubedb/operator/commit/541c2460) Update repository config (#327)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.1.0-beta.5](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.5)

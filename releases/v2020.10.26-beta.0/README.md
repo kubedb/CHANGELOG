@@ -124,6 +124,18 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.1.0-beta.5](https://github.com/kubedb/proxysql/releases/tag/v0.1.0-beta.5)
+
+- [4269db9c](https://github.com/kubedb/proxysql/commit/4269db9c) Prepare for release v0.1.0-beta.5 (#98)
+- [e48bd006](https://github.com/kubedb/proxysql/commit/e48bd006) Create separate governing service for each database (#97)
+- [23f1c6de](https://github.com/kubedb/proxysql/commit/23f1c6de) Update KubeDB api (#96)
+- [13abe9ff](https://github.com/kubedb/proxysql/commit/13abe9ff) Update readme
+- [78ef0d29](https://github.com/kubedb/proxysql/commit/78ef0d29) Update repository config (#95)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.7.0-beta.5](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.5)

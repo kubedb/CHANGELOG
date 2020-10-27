@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-27T03:02:43.61138011Z",
+  "release_date": "2020-10-27T03:11:37.742605886Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -312,6 +312,36 @@
             {
               "SHA": "c036ee15",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#397)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.5",
+          "commits": [
+            {
+              "SHA": "4269db9c",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#98)"
+            },
+            {
+              "SHA": "e48bd006",
+              "Subject": "Create separate governing service for each database (#97)"
+            },
+            {
+              "SHA": "23f1c6de",
+              "Subject": "Update KubeDB api (#96)"
+            },
+            {
+              "SHA": "13abe9ff",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "78ef0d29",
+              "Subject": "Update repository config (#95)"
             }
           ]
         }

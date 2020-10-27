@@ -48,3 +48,11 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.14.0-rc.2](https://github.com/kubedb/postgres/releases/tag/v0.14.0-rc.2)
+
+- [2ed7a29c](https://github.com/kubedb/postgres/commit/2ed7a29c) Prepare for release v0.14.0-rc.2 (#406)
+
+
+

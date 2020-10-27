@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-27T03:11:37.742605886Z",
+  "release_date": "2020-10-27T03:12:48.740085661Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -280,6 +280,36 @@
         {
           "tag": "v0.2.0-beta.5",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.5",
+          "commits": [
+            {
+              "SHA": "96144773",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#89)"
+            },
+            {
+              "SHA": "bb574108",
+              "Subject": "Create separate governing service for each database (#88)"
+            },
+            {
+              "SHA": "28f29e3c",
+              "Subject": "Update KubeDB api (#87)"
+            },
+            {
+              "SHA": "79a3e3f7",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "f42d28f9",
+              "Subject": "Update repository config (#86)"
+            }
+          ]
         }
       ]
     },

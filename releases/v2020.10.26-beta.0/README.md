@@ -111,6 +111,18 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.1.0-beta.5](https://github.com/kubedb/pgbouncer/releases/tag/v0.1.0-beta.5)
+
+- [96144773](https://github.com/kubedb/pgbouncer/commit/96144773) Prepare for release v0.1.0-beta.5 (#89)
+- [bb574108](https://github.com/kubedb/pgbouncer/commit/bb574108) Create separate governing service for each database (#88)
+- [28f29e3c](https://github.com/kubedb/pgbouncer/commit/28f29e3c) Update KubeDB api (#87)
+- [79a3e3f7](https://github.com/kubedb/pgbouncer/commit/79a3e3f7) Update readme
+- [f42d28f9](https://github.com/kubedb/pgbouncer/commit/f42d28f9) Update repository config (#86)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.14.0-beta.5](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.5)

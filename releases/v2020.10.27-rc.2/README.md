@@ -17,6 +17,14 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.7.0-rc.2](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-rc.2)
+
+- [d87c55bb](https://github.com/kubedb/mongodb/commit/d87c55bb) Prepare for release v0.7.0-rc.2 (#298)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-rc.2](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-rc.2)

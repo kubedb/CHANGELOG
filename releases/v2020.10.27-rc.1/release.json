@@ -1,0 +1,148 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.10.27-rc.1",
+  "docs_url_template": "https://kubedb.com/docs/%s",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "github.com/kubedb/apimachinery": {
+        "tag": "v0.14.0-rc.1"
+      }
+    },
+    {
+      "github.com/kubedb/pg-leader-election": {
+        "tag": "v0.2.0-rc.1"
+      }
+    },
+    {
+      "github.com/kubedb/cli": {
+        "key": "kubedb-cli",
+        "tag": "v0.14.0-rc.1"
+      },
+      "github.com/kubedb/elasticsearch": {
+        "tag": "v0.14.0-rc.1"
+      },
+      "github.com/kubedb/memcached": {
+        "tag": "v0.7.0-rc.1"
+      },
+      "github.com/kubedb/mongodb": {
+        "tag": "v0.7.0-rc.1"
+      },
+      "github.com/kubedb/mysql": {
+        "tag": "v0.7.0-rc.1"
+      },
+      "github.com/kubedb/mysql-replication-mode-detector": {
+        "tag": "v0.1.0-rc.1"
+      },
+      "github.com/kubedb/percona-xtradb": {
+        "tag": "v0.1.0-rc.1"
+      },
+      "github.com/kubedb/postgres": {
+        "tag": "v0.14.0-rc.1"
+      },
+      "github.com/kubedb/redis": {
+        "tag": "v0.7.0-rc.1"
+      }
+    },
+    {
+      "github.com/kubedb/pgbouncer": {
+        "tag": "v0.1.0-rc.1",
+        "commands": [
+          "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=POSTGRES_TAG=${KUBEDB_POSTGRES_TAG} ",
+          "make add-license fmt"
+        ]
+      },
+      "github.com/kubedb/proxysql": {
+        "tag": "v0.1.0-rc.1",
+        "commands": [
+          "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=MYSQL_TAG=${KUBEDB_MYSQL_TAG} --vars=PERCONA_XTRADB_TAG=${KUBEDB_PERCONA_XTRADB_TAG} ",
+          "make add-license fmt"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/operator": {
+        "key": "kubedb-community",
+        "tag": "v0.14.0-rc.1",
+        "chartNames": [
+          "kubedb",
+          "kubedb-catalog"
+        ]
+      }
+    },
+    {
+      "github.com/appscode/kubedb-enterprise": {
+        "key": "kubedb-enterprise",
+        "tag": "v0.1.0-rc.1",
+        "chartNames": [
+          "kubedb-enterprise"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/installer": {
+        "key": "kubedb-installer",
+        "tag": "v0.14.0-rc.1",
+        "commands": [
+          "make chart-kubedb CHART_VERSION=${TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-catalog CHART_VERSION=${TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "find charts/kubedb-catalog/templates/mysql -type f -exec sed -i 's|mysql-replication-mode-detector:.*|mysql-replication-mode-detector:v0.1.0-rc.1\"|g' {} \\;"
+        ]
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/kubedb/installer"
+        ],
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/appscode/static-assets": {
+        "commands": [
+          "release-automaton update-assets --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+        ],
+        "changelog": "StandaloneWebsite"
+      }
+    },
+    {
+      "github.com/kubedb/docs": {
+        "key": "kubedb",
+        "tag": "v2020.10.27-rc.1",
+        "commands": [
+          "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/kubedb/website": {
+        "tag": "v2020.10.27-rc.1",
+        "commands": [
+          "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
+          "make docs"
+        ],
+        "release_branch": "master",
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/kubedb/bundles": {
+        "tag": "v2020.10.27-rc.1",
+        "commands": [
+          "release-automaton update-bundles --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE} --charts-dir=charts"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/bytebuilders/bundle-registry": {
+        "charts": [
+          "github.com/kubedb/bundles"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ]
+}

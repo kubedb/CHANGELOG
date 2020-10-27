@@ -1,0 +1,545 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.10.26-beta.0",
+  "release_date": "2020-10-27T05:41:09.211829595Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.5",
+          "commits": [
+            {
+              "SHA": "c7bf3943",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#81)"
+            },
+            {
+              "SHA": "1bf37b01",
+              "Subject": "Update KubeDB api (#80)"
+            },
+            {
+              "SHA": "a99c4e9f",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "2ad24272",
+              "Subject": "Update repository config (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "b72968d5",
+              "Subject": "Add port constants (#635)"
+            },
+            {
+              "SHA": "6ce39fbe",
+              "Subject": "Create separate governing service for each database (#634)"
+            },
+            {
+              "SHA": "ecfb5d85",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.10.26-beta.0",
+          "commits": [
+            {
+              "SHA": "eae19cf",
+              "Subject": "Prepare for release v2020.10.26-beta.0 (#6)"
+            },
+            {
+              "SHA": "0b82cb8",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "a4af36b9",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#529)"
+            },
+            {
+              "SHA": "2f1cb09d",
+              "Subject": "Update KubeDB api (#528)"
+            },
+            {
+              "SHA": "87eb5ad3",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "4dfe0da7",
+              "Subject": "Update KubeDB api (#527)"
+            },
+            {
+              "SHA": "5448e521",
+              "Subject": "Update repository config (#526)"
+            },
+            {
+              "SHA": "e1e9dbe2",
+              "Subject": "Update KubeDB api (#525)"
+            },
+            {
+              "SHA": "e49d303a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#524)"
+            },
+            {
+              "SHA": "9f54a783",
+              "Subject": "Update KubeDB api (#523)"
+            },
+            {
+              "SHA": "ad764956",
+              "Subject": "Update for release Stash@v2020.10.21 (#522)"
+            },
+            {
+              "SHA": "46ae22cd",
+              "Subject": "Update KubeDB api (#521)"
+            },
+            {
+              "SHA": "2914b270",
+              "Subject": "Update KubeDB api (#520)"
+            },
+            {
+              "SHA": "87ce0033",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#519)"
+            },
+            {
+              "SHA": "ab524afe",
+              "Subject": "Update KubeDB api (#518)"
+            },
+            {
+              "SHA": "899e2b21",
+              "Subject": "Update KubeDB api (#517)"
+            },
+            {
+              "SHA": "37a5da4b",
+              "Subject": "Update KubeDB api (#516)"
+            },
+            {
+              "SHA": "5c87d6e8",
+              "Subject": "Update KubeDB api (#515)"
+            },
+            {
+              "SHA": "dfc9e245",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#514)"
+            },
+            {
+              "SHA": "c0650bb7",
+              "Subject": "Update KubeDB api (#513)"
+            },
+            {
+              "SHA": "278dccbe",
+              "Subject": "Update KubeDB api (#512)"
+            },
+            {
+              "SHA": "221be742",
+              "Subject": "Update KubeDB api (#511)"
+            },
+            {
+              "SHA": "2a301cd0",
+              "Subject": "Don't update krew manifest for pre-releases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2020.10.26-beta.0",
+          "commits": [
+            {
+              "SHA": "c8c9127",
+              "Subject": "Prepare for release v2020.10.26-beta.0 (#67)"
+            },
+            {
+              "SHA": "305776b",
+              "Subject": "Update docs for kubedb/operator@07d63285 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "97f34417",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#391)"
+            },
+            {
+              "SHA": "a3e9a733",
+              "Subject": "Create separate governing service for each database (#390)"
+            },
+            {
+              "SHA": "ce8f80b5",
+              "Subject": "Update KubeDB api (#389)"
+            },
+            {
+              "SHA": "0fe8d617",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "657797fe",
+              "Subject": "Update repository config (#388)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "5ae7fce",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#170)"
+            },
+            {
+              "SHA": "127eda0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#169)"
+            },
+            {
+              "SHA": "984c86f",
+              "Subject": "Update KubeDB api (#168)"
+            },
+            {
+              "SHA": "8956af1",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "a1eea93",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#167)"
+            },
+            {
+              "SHA": "2c7ab1e",
+              "Subject": "Update KubeDB api (#166)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.5",
+          "commits": [
+            {
+              "SHA": "0fbfc766",
+              "Subject": "Prepare for release v0.7.0-beta.5 (#224)"
+            },
+            {
+              "SHA": "7a01e878",
+              "Subject": "Create separate governing service for each database (#223)"
+            },
+            {
+              "SHA": "6cecdfec",
+              "Subject": "Update KubeDB api (#222)"
+            },
+            {
+              "SHA": "5942b1ff",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.5",
+          "commits": [
+            {
+              "SHA": "f1818bb1",
+              "Subject": "Prepare for release v0.7.0-beta.5 (#292)"
+            },
+            {
+              "SHA": "7d1586f7",
+              "Subject": "Create separate governing service for each database (#291)"
+            },
+            {
+              "SHA": "1e281abb",
+              "Subject": "Update KubeDB api (#290)"
+            },
+            {
+              "SHA": "23d8785f",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.5",
+          "commits": [
+            {
+              "SHA": "8dbd64c9",
+              "Subject": "Prepare for release v0.7.0-beta.5 (#284)"
+            },
+            {
+              "SHA": "ee4285c1",
+              "Subject": "Create separate governing service for each database (#283)"
+            },
+            {
+              "SHA": "8e2fcbf4",
+              "Subject": "Update KubeDB api (#282)"
+            },
+            {
+              "SHA": "ae962768",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.5",
+          "commits": [
+            {
+              "SHA": "e251fd6",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#72)"
+            },
+            {
+              "SHA": "633ba00",
+              "Subject": "Update KubeDB api (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "bcada180",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#331)"
+            },
+            {
+              "SHA": "07d63285",
+              "Subject": "Enable PgBoucner & ProxySQL for enterprise license (#330)"
+            },
+            {
+              "SHA": "35b75a05",
+              "Subject": "Update readme.md"
+            },
+            {
+              "SHA": "14304e05",
+              "Subject": "Update KubeDB api (#329)"
+            },
+            {
+              "SHA": "df61aae3",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "c9882619",
+              "Subject": "Format readme"
+            },
+            {
+              "SHA": "73b725e3",
+              "Subject": "Update readme (#328)"
+            },
+            {
+              "SHA": "541c2460",
+              "Subject": "Update repository config (#327)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.5",
+          "commits": [
+            {
+              "SHA": "9866a420",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#116)"
+            },
+            {
+              "SHA": "f92081d1",
+              "Subject": "Create separate governing service for each database (#115)"
+            },
+            {
+              "SHA": "6010b189",
+              "Subject": "Update KubeDB api (#114)"
+            },
+            {
+              "SHA": "95b57c72",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.2.0-beta.5",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.5",
+          "commits": [
+            {
+              "SHA": "96144773",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#89)"
+            },
+            {
+              "SHA": "bb574108",
+              "Subject": "Create separate governing service for each database (#88)"
+            },
+            {
+              "SHA": "28f29e3c",
+              "Subject": "Update KubeDB api (#87)"
+            },
+            {
+              "SHA": "79a3e3f7",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "f42d28f9",
+              "Subject": "Update repository config (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "c6e802a7",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#401)"
+            },
+            {
+              "SHA": "4da12584",
+              "Subject": "Simplify port assignment (#400)"
+            },
+            {
+              "SHA": "71420f2b",
+              "Subject": "Create separate governing service for each database (#399)"
+            },
+            {
+              "SHA": "49792ddb",
+              "Subject": "Update KubeDB api (#398)"
+            },
+            {
+              "SHA": "721f5e16",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "c036ee15",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#397)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.5",
+          "commits": [
+            {
+              "SHA": "4269db9c",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#98)"
+            },
+            {
+              "SHA": "e48bd006",
+              "Subject": "Create separate governing service for each database (#97)"
+            },
+            {
+              "SHA": "23f1c6de",
+              "Subject": "Update KubeDB api (#96)"
+            },
+            {
+              "SHA": "13abe9ff",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "78ef0d29",
+              "Subject": "Update repository config (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.5",
+          "commits": [
+            {
+              "SHA": "57743070",
+              "Subject": "Prepare for release v0.7.0-beta.5 (#243)"
+            },
+            {
+              "SHA": "5e8f1a25",
+              "Subject": "Create separate governing service for each database (#242)"
+            },
+            {
+              "SHA": "ebeda2c7",
+              "Subject": "Update KubeDB api (#241)"
+            },
+            {
+              "SHA": "b0a39a3c",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

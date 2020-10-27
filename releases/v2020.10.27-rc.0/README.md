@@ -18,6 +18,15 @@
 
 
 
+## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
+
+### [v0.1.0-beta.6](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.6)
+
+- [67ec09b](https://github.com/kubedb/mysql-replication-mode-detector/commit/67ec09b) Prepare for release v0.1.0-beta.6 (#74)
+- [724eaa9](https://github.com/kubedb/mysql-replication-mode-detector/commit/724eaa9) Update KubeDB api (#73)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.6](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.6)

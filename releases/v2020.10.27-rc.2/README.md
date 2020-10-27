@@ -17,6 +17,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.7.0-rc.2](https://github.com/kubedb/memcached/releases/tag/v0.7.0-rc.2)
+
+- [a63e015b](https://github.com/kubedb/memcached/commit/a63e015b) Prepare for release v0.7.0-rc.2 (#228)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-rc.2)

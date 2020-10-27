@@ -84,6 +84,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.1.0-beta.6](https://github.com/kubedb/pgbouncer/releases/tag/v0.1.0-beta.6)
+
+- [e82f1017](https://github.com/kubedb/pgbouncer/commit/e82f1017) Prepare for release v0.1.0-beta.6 (#91)
+- [8d2fa953](https://github.com/kubedb/pgbouncer/commit/8d2fa953) Create SRV records for governing service (#90)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.14.0-beta.6](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.6)

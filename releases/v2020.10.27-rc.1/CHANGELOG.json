@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.1",
-  "release_date": "2020-10-27T16:41:13.21796926Z",
+  "release_date": "2020-10-27T16:48:02.115836201Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.1",
   "kubernetes_version": "1.12+",
@@ -1037,6 +1037,20 @@
             {
               "SHA": "ab738acf",
               "Subject": "Set default affinity if not provided for Elasticsearch (#507)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.10.27-rc.1",
+          "commits": [
+            {
+              "SHA": "23399bf",
+              "Subject": "Prepare for release v2020.10.27-rc.1 (#8)"
             }
           ]
         }

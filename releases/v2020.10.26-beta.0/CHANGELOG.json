@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-27T05:23:27.125160786Z",
+  "release_date": "2020-10-27T05:35:22.849409748Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -143,6 +143,24 @@
             {
               "SHA": "2a301cd0",
               "Subject": "Don't update krew manifest for pre-releases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2020.10.26-beta.0",
+          "commits": [
+            {
+              "SHA": "c8c9127",
+              "Subject": "Prepare for release v2020.10.26-beta.0 (#67)"
+            },
+            {
+              "SHA": "305776b",
+              "Subject": "Update docs for kubedb/operator@07d63285 (#66)"
             }
           ]
         }

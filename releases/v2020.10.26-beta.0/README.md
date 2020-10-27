@@ -50,6 +50,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2020.10.26-beta.0](https://github.com/kubedb/docs/releases/tag/v2020.10.26-beta.0)
+
+- [c8c9127](https://github.com/kubedb/docs/commit/c8c9127) Prepare for release v2020.10.26-beta.0 (#67)
+- [305776b](https://github.com/kubedb/docs/commit/305776b) Update docs for kubedb/operator@07d63285 (#66)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.14.0-beta.5](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.5)

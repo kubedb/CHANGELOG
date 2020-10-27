@@ -18,6 +18,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.7.0-beta.6](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.6)
+
+- [704cf9f2](https://github.com/kubedb/memcached/commit/704cf9f2) Prepare for release v0.7.0-beta.6 (#226)
+- [47039c68](https://github.com/kubedb/memcached/commit/47039c68) Create SRV records for governing service (#225)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.6](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.6)

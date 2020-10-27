@@ -375,6 +375,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2020.10.27-rc.1](https://github.com/kubedb/docs/releases/tag/v2020.10.27-rc.1)
+
+- [3b15154](https://github.com/kubedb/docs/commit/3b15154) Prepare for release v2020.10.27-rc.1 (#70)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.14.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-rc.1)

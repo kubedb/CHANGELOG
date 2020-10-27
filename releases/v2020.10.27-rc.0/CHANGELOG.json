@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.0",
-  "release_date": "2020-10-27T13:29:02.076976272Z",
+  "release_date": "2020-10-27T13:37:44.173192604Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.0",
   "kubernetes_version": "1.12+",
@@ -15,6 +15,24 @@
             {
               "SHA": "cd358dda",
               "Subject": "Update MergeServicePort and PatchServicePort apis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.6",
+          "commits": [
+            {
+              "SHA": "39c4d5a0",
+              "Subject": "Prepare for release v0.14.0-beta.6 (#531)"
+            },
+            {
+              "SHA": "a7a8dfc0",
+              "Subject": "Update KubeDB api (#530)"
             }
           ]
         }

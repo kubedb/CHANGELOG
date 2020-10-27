@@ -67,6 +67,16 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.14.0-beta.6](https://github.com/kubedb/operator/releases/tag/v0.14.0-beta.6)
+
+- [7c0e97a2](https://github.com/kubedb/operator/commit/7c0e97a2) Prepare for release v0.14.0-beta.6 (#334)
+- [17b42fd3](https://github.com/kubedb/operator/commit/17b42fd3) Update KubeDB api (#333)
+- [6dbde882](https://github.com/kubedb/operator/commit/6dbde882) Update Kubernetes v1.18.9 dependencies (#332)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.1.0-beta.6](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.6)

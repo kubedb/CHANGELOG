@@ -1113,3 +1113,133 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.7.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.7.0-rc.1)
+
+- [b9e54a66](https://github.com/kubedb/redis/commit/b9e54a66) Prepare for release v0.7.0-rc.1 (#246)
+- [50f709bf](https://github.com/kubedb/redis/commit/50f709bf) Prepare for release v0.7.0-beta.6 (#245)
+- [d4aaaf38](https://github.com/kubedb/redis/commit/d4aaaf38) Create SRV records for governing service (#244)
+- [57743070](https://github.com/kubedb/redis/commit/57743070) Prepare for release v0.7.0-beta.5 (#243)
+- [5e8f1a25](https://github.com/kubedb/redis/commit/5e8f1a25) Create separate governing service for each database (#242)
+- [ebeda2c7](https://github.com/kubedb/redis/commit/ebeda2c7) Update KubeDB api (#241)
+- [b0a39a3c](https://github.com/kubedb/redis/commit/b0a39a3c) Update readme
+- [d31b919a](https://github.com/kubedb/redis/commit/d31b919a) Prepare for release v0.7.0-beta.4 (#240)
+- [bfecc0c5](https://github.com/kubedb/redis/commit/bfecc0c5) Update KubeDB api (#239)
+- [307efbef](https://github.com/kubedb/redis/commit/307efbef) Update Kubernetes v1.18.9 dependencies (#238)
+- [34b09d4c](https://github.com/kubedb/redis/commit/34b09d4c) Update KubeDB api (#237)
+- [4aefb939](https://github.com/kubedb/redis/commit/4aefb939) Fix init validator (#236)
+- [4ea47108](https://github.com/kubedb/redis/commit/4ea47108) Update KubeDB api (#235)
+- [8c4c8a54](https://github.com/kubedb/redis/commit/8c4c8a54) Update KubeDB api (#234)
+- [cbee9597](https://github.com/kubedb/redis/commit/cbee9597) Update Kubernetes v1.18.9 dependencies (#233)
+- [9fb1b23c](https://github.com/kubedb/redis/commit/9fb1b23c) Update KubeDB api (#232)
+- [c5fb9a6d](https://github.com/kubedb/redis/commit/c5fb9a6d) Update KubeDB api (#230)
+- [2e2f2d7b](https://github.com/kubedb/redis/commit/2e2f2d7b) Update KubeDB api (#229)
+- [3c8e6c6d](https://github.com/kubedb/redis/commit/3c8e6c6d) Update KubeDB api (#228)
+- [8467464d](https://github.com/kubedb/redis/commit/8467464d) Update Kubernetes v1.18.9 dependencies (#227)
+- [5febd393](https://github.com/kubedb/redis/commit/5febd393) Update KubeDB api (#226)
+- [d8024e4d](https://github.com/kubedb/redis/commit/d8024e4d) Update KubeDB api (#225)
+- [12d112de](https://github.com/kubedb/redis/commit/12d112de) Update KubeDB api (#223)
+- [8a9f5398](https://github.com/kubedb/redis/commit/8a9f5398) Update repository config (#222)
+- [b3b48a91](https://github.com/kubedb/redis/commit/b3b48a91) Update repository config (#221)
+- [2fa45230](https://github.com/kubedb/redis/commit/2fa45230) Update repository config (#220)
+- [552f1f80](https://github.com/kubedb/redis/commit/552f1f80) Initialize statefulset watcher from cmd/server/options.go (#219)
+- [446b4b55](https://github.com/kubedb/redis/commit/446b4b55) Update KubeDB api (#218)
+- [f6203009](https://github.com/kubedb/redis/commit/f6203009) Update Kubernetes v1.18.9 dependencies (#217)
+- [b7172fb8](https://github.com/kubedb/redis/commit/b7172fb8) Publish docker images to ghcr.io (#216)
+- [9897bab9](https://github.com/kubedb/redis/commit/9897bab9) Update KubeDB api (#215)
+- [00f07b4f](https://github.com/kubedb/redis/commit/00f07b4f) Update KubeDB api (#214)
+- [f2133f26](https://github.com/kubedb/redis/commit/f2133f26) Update KubeDB api (#213)
+- [b1f3b76a](https://github.com/kubedb/redis/commit/b1f3b76a) Update KubeDB api (#212)
+- [a3144e30](https://github.com/kubedb/redis/commit/a3144e30) Update repository config (#211)
+- [8472ff88](https://github.com/kubedb/redis/commit/8472ff88) Add support to initialize Redis using Stash (#188)
+- [20ba04a7](https://github.com/kubedb/redis/commit/20ba04a7) Update Kubernetes v1.18.9 dependencies (#210)
+- [457611a1](https://github.com/kubedb/redis/commit/457611a1) Update Kubernetes v1.18.9 dependencies (#209)
+- [2bd8b281](https://github.com/kubedb/redis/commit/2bd8b281) Update Kubernetes v1.18.9 dependencies (#207)
+- [8779c7ea](https://github.com/kubedb/redis/commit/8779c7ea) Update repository config (#206)
+- [db9280b7](https://github.com/kubedb/redis/commit/db9280b7) Update repository config (#205)
+- [ada18bca](https://github.com/kubedb/redis/commit/ada18bca) Update Kubernetes v1.18.9 dependencies (#204)
+- [17a55147](https://github.com/kubedb/redis/commit/17a55147) Use common event recorder (#203)
+- [71a34b6a](https://github.com/kubedb/redis/commit/71a34b6a) Update Kubernetes v1.18.3 dependencies (#202)
+- [32dadab6](https://github.com/kubedb/redis/commit/32dadab6) Prepare for release v0.7.0-beta.3 (#201)
+- [e41222a1](https://github.com/kubedb/redis/commit/e41222a1) Update Kubernetes v1.18.3 dependencies (#200)
+- [41172908](https://github.com/kubedb/redis/commit/41172908) Add license verifier (#199)
+- [d46d0dbd](https://github.com/kubedb/redis/commit/d46d0dbd) Update Kubernetes v1.18.3 dependencies (#198)
+- [283c2777](https://github.com/kubedb/redis/commit/283c2777) Use background deletion policy
+- [5ee6470d](https://github.com/kubedb/redis/commit/5ee6470d) Update Kubernetes v1.18.3 dependencies (#195)
+- [e391f0d6](https://github.com/kubedb/redis/commit/e391f0d6) Use AppsCode Community License (#194)
+- [12211e40](https://github.com/kubedb/redis/commit/12211e40) Update Kubernetes v1.18.3 dependencies (#193)
+- [73cf267e](https://github.com/kubedb/redis/commit/73cf267e) Prepare for release v0.7.0-beta.2 (#192)
+- [d2911ea9](https://github.com/kubedb/redis/commit/d2911ea9) Update release.yml
+- [c76ee46e](https://github.com/kubedb/redis/commit/c76ee46e) Update dependencies (#191)
+- [0b030534](https://github.com/kubedb/redis/commit/0b030534) Fix build
+- [408216ab](https://github.com/kubedb/redis/commit/408216ab) Add support for Redis v6.0.6 and TLS (#180)
+- [944327df](https://github.com/kubedb/redis/commit/944327df) Update Kubernetes v1.18.3 dependencies (#187)
+- [40b7cde6](https://github.com/kubedb/redis/commit/40b7cde6) Update Kubernetes v1.18.3 dependencies (#186)
+- [f2bf110d](https://github.com/kubedb/redis/commit/f2bf110d) Update Kubernetes v1.18.3 dependencies (#184)
+- [61485cfa](https://github.com/kubedb/redis/commit/61485cfa) Update Kubernetes v1.18.3 dependencies (#183)
+- [184ae35d](https://github.com/kubedb/redis/commit/184ae35d) Update Kubernetes v1.18.3 dependencies (#182)
+- [bc72b51b](https://github.com/kubedb/redis/commit/bc72b51b) Update Kubernetes v1.18.3 dependencies (#181)
+- [ca540560](https://github.com/kubedb/redis/commit/ca540560) Remove dependency on enterprise operator (#179)
+- [09bade2e](https://github.com/kubedb/redis/commit/09bade2e) Allow configuring k8s & db version in e2e tests (#178)
+- [2bafb114](https://github.com/kubedb/redis/commit/2bafb114) Update to Kubernetes v1.18.3 (#177)
+- [b2fe59ef](https://github.com/kubedb/redis/commit/b2fe59ef) Trigger e2e tests on /ok-to-test command (#176)
+- [df5131e1](https://github.com/kubedb/redis/commit/df5131e1) Update to Kubernetes v1.18.3 (#175)
+- [a404ae08](https://github.com/kubedb/redis/commit/a404ae08) Update to Kubernetes v1.18.3 (#174)
+- [768962f4](https://github.com/kubedb/redis/commit/768962f4) Prepare for release v0.7.0-beta.1 (#173)
+- [9efbb8e4](https://github.com/kubedb/redis/commit/9efbb8e4) include Makefile.env (#171)
+- [b343c559](https://github.com/kubedb/redis/commit/b343c559) Update License (#170)
+- [d666ac18](https://github.com/kubedb/redis/commit/d666ac18) Update to Kubernetes v1.18.3 (#169)
+- [602354f6](https://github.com/kubedb/redis/commit/602354f6) Update ci.yml
+- [59f2d238](https://github.com/kubedb/redis/commit/59f2d238) Update update-release-tracker.sh
+- [64c96db5](https://github.com/kubedb/redis/commit/64c96db5) Update update-release-tracker.sh
+- [49cd15a9](https://github.com/kubedb/redis/commit/49cd15a9) Add script to update release tracker on pr merge (#167)
+- [c711be8f](https://github.com/kubedb/redis/commit/c711be8f) chore: replica alert typo (#166)
+- [2d752316](https://github.com/kubedb/redis/commit/2d752316) Update .kodiak.toml
+- [ea3b206d](https://github.com/kubedb/redis/commit/ea3b206d) Various fixes (#165)
+- [e441809c](https://github.com/kubedb/redis/commit/e441809c) Update to Kubernetes v1.18.3 (#164)
+- [1e5ecfb7](https://github.com/kubedb/redis/commit/1e5ecfb7) Update to Kubernetes v1.18.3
+- [742679dd](https://github.com/kubedb/redis/commit/742679dd) Create .kodiak.toml
+- [2eb77b80](https://github.com/kubedb/redis/commit/2eb77b80) Update apis (#163)
+- [7cf9e7d3](https://github.com/kubedb/redis/commit/7cf9e7d3) Use CRD v1 for Kubernetes >= 1.16 (#162)
+- [bf072134](https://github.com/kubedb/redis/commit/bf072134) Update kind command
+- [cb2a748d](https://github.com/kubedb/redis/commit/cb2a748d) Update dependencies
+- [a30cd6eb](https://github.com/kubedb/redis/commit/a30cd6eb) Update to Kubernetes v1.18.3 (#161)
+- [9cdac95f](https://github.com/kubedb/redis/commit/9cdac95f) Fix e2e tests (#160)
+- [429141b4](https://github.com/kubedb/redis/commit/429141b4) Revendor kubedb.dev/apimachinery@master (#159)
+- [664c086b](https://github.com/kubedb/redis/commit/664c086b) Use recommended kubernetes app labels
+- [2e6a2f03](https://github.com/kubedb/redis/commit/2e6a2f03) Update crazy-max/ghaction-docker-buildx flag
+- [88417e86](https://github.com/kubedb/redis/commit/88417e86) Pass annotations from CRD to AppBinding (#158)
+- [84167d7a](https://github.com/kubedb/redis/commit/84167d7a) Trigger the workflow on push or pull request
+- [2f43dd9a](https://github.com/kubedb/redis/commit/2f43dd9a) Use helm --wait
+- [36399173](https://github.com/kubedb/redis/commit/36399173) Use updated operator labels in e2e tests (#156)
+- [c6582491](https://github.com/kubedb/redis/commit/c6582491) Update CHANGELOG.md
+- [197b4973](https://github.com/kubedb/redis/commit/197b4973) Support PodAffinity Templating (#155)
+- [cdfbb77d](https://github.com/kubedb/redis/commit/cdfbb77d) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#154)
+- [c1db4c43](https://github.com/kubedb/redis/commit/c1db4c43) Version update to resolve security issue in github.com/apache/th… (#153)
+- [7acc502b](https://github.com/kubedb/redis/commit/7acc502b) Use rancher/local-path-provisioner@v0.0.12 (#152)
+- [d00f765e](https://github.com/kubedb/redis/commit/d00f765e) Introduce spec.halted and removed dormant crd (#151)
+- [9ed1d97e](https://github.com/kubedb/redis/commit/9ed1d97e) Add `Pause` Feature (#150)
+- [39ed60c4](https://github.com/kubedb/redis/commit/39ed60c4) Refactor CI pipeline to build once (#149)
+- [1707e0c7](https://github.com/kubedb/redis/commit/1707e0c7) Update kubernetes client-go to 1.16.3 (#148)
+- [dcbb4be4](https://github.com/kubedb/redis/commit/dcbb4be4) Update catalog values for make install command
+- [9fa3ef1c](https://github.com/kubedb/redis/commit/9fa3ef1c) Update catalog values for make install command (#147)
+- [44538409](https://github.com/kubedb/redis/commit/44538409) Use charts to install operator (#146)
+- [05e3b95a](https://github.com/kubedb/redis/commit/05e3b95a) Matrix test for github actions (#145)
+- [e76f96f6](https://github.com/kubedb/redis/commit/e76f96f6) Add add-license make target
+- [6ccd651c](https://github.com/kubedb/redis/commit/6ccd651c) Update Makefile
+- [2a56f27f](https://github.com/kubedb/redis/commit/2a56f27f) Add license header to files (#144)
+- [5ce5e5e0](https://github.com/kubedb/redis/commit/5ce5e5e0) Run e2e tests in parallel (#142)
+- [77012ddf](https://github.com/kubedb/redis/commit/77012ddf) Use log.Fatal instead of Must() (#143)
+- [aa7f1673](https://github.com/kubedb/redis/commit/aa7f1673) Enable make ci (#141)
+- [abd6a605](https://github.com/kubedb/redis/commit/abd6a605) Remove EnableStatusSubresource (#140)
+- [08cfe0ca](https://github.com/kubedb/redis/commit/08cfe0ca) Fix tests for github actions (#139)
+- [09e72f63](https://github.com/kubedb/redis/commit/09e72f63) Prepend redis.conf to args list (#136)
+- [101afa35](https://github.com/kubedb/redis/commit/101afa35) Run e2e tests using GitHub actions (#137)
+- [bbf5cb9f](https://github.com/kubedb/redis/commit/bbf5cb9f) Validate DBVersionSpecs and fixed broken build (#138)
+- [26f0c88b](https://github.com/kubedb/redis/commit/26f0c88b) Update go.yml
+- [9dab8c06](https://github.com/kubedb/redis/commit/9dab8c06) Enable GitHub actions
+- [6a722f20](https://github.com/kubedb/redis/commit/6a722f20) Update changelog
+
+
+

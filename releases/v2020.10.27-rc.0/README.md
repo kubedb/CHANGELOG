@@ -17,6 +17,26 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2020.10.27-rc.0](https://github.com/kubedb/bundles/releases/tag/v2020.10.27-rc.0)
+
+- [b393c7d](https://github.com/kubedb/bundles/commit/b393c7d) Prepare for release v2020.10.27-rc.0 (#7)
+- [eae19cf](https://github.com/kubedb/bundles/commit/eae19cf) Prepare for release v2020.10.26-beta.0 (#6)
+- [0b82cb8](https://github.com/kubedb/bundles/commit/0b82cb8) Update readme
+- [218229c](https://github.com/kubedb/bundles/commit/218229c) Prepare for release v2020.10.24-beta.0 (#5)
+- [919d2f6](https://github.com/kubedb/bundles/commit/919d2f6) Use AppsCode Community License (#4)
+- [300aa2e](https://github.com/kubedb/bundles/commit/300aa2e) Prepare for release v2020.09.04-beta.0 (#3)
+- [718f2e3](https://github.com/kubedb/bundles/commit/718f2e3) Update bundle chart versions
+- [26e06e5](https://github.com/kubedb/bundles/commit/26e06e5) Prepare for release v2020.07.10-beta.0 (#2)
+- [b205d27](https://github.com/kubedb/bundles/commit/b205d27) Use testing repo for alpha/beta releases
+- [f84140a](https://github.com/kubedb/bundles/commit/f84140a) Update ci.yml
+- [8e3b02c](https://github.com/kubedb/bundles/commit/8e3b02c) Tag chart and app version as string for yq
+- [b687080](https://github.com/kubedb/bundles/commit/b687080) Add commands to update chart version
+- [23f5c99](https://github.com/kubedb/bundles/commit/23f5c99) Add KubeDB bundles (#1)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.14.0-beta.6](https://github.com/kubedb/cli/releases/tag/v0.14.0-beta.6)

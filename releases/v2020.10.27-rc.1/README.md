@@ -500,6 +500,13 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/installer/releases/tag/v0.14.0-rc.1)
+
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-rc.1)

@@ -33,6 +33,14 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.7.0-rc.2](https://github.com/kubedb/mysql/releases/tag/v0.7.0-rc.2)
+
+- [921327d1](https://github.com/kubedb/mysql/commit/921327d1) Prepare for release v0.7.0-rc.2 (#288)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-rc.2](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-rc.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-27T03:26:46.635622371Z",
+  "release_date": "2020-10-27T05:23:27.125160786Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -173,6 +173,40 @@
             {
               "SHA": "657797fe",
               "Subject": "Update repository config (#388)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.5",
+          "commits": [
+            {
+              "SHA": "5ae7fce",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#170)"
+            },
+            {
+              "SHA": "127eda0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#169)"
+            },
+            {
+              "SHA": "984c86f",
+              "Subject": "Update KubeDB api (#168)"
+            },
+            {
+              "SHA": "8956af1",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "a1eea93",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#167)"
+            },
+            {
+              "SHA": "2c7ab1e",
+              "Subject": "Update KubeDB api (#166)"
             }
           ]
         }

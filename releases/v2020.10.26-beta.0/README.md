@@ -1,6 +1,17 @@
 # KubeDB v2020.10.26-beta.0 (2020-10-27)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.1.0-beta.5](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.1.0-beta.5)
+
+- [c7bf3943](https://github.com/appscode/kubedb-enterprise/commit/c7bf3943) Prepare for release v0.1.0-beta.5 (#81)
+- [1bf37b01](https://github.com/appscode/kubedb-enterprise/commit/1bf37b01) Update KubeDB api (#80)
+- [a99c4e9f](https://github.com/appscode/kubedb-enterprise/commit/a99c4e9f) Update readme
+- [2ad24272](https://github.com/appscode/kubedb-enterprise/commit/2ad24272) Update repository config (#79)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.14.0-beta.5](https://github.com/kubedb/apimachinery/releases/tag/v0.14.0-beta.5)

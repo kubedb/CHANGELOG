@@ -22,6 +22,15 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2020.10.26-beta.0](https://github.com/kubedb/bundles/releases/tag/v2020.10.26-beta.0)
+
+- [eae19cf](https://github.com/kubedb/bundles/commit/eae19cf) Prepare for release v2020.10.26-beta.0 (#6)
+- [0b82cb8](https://github.com/kubedb/bundles/commit/0b82cb8) Update readme
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.14.0-beta.5](https://github.com/kubedb/cli/releases/tag/v0.14.0-beta.5)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.26-beta.0",
-  "release_date": "2020-10-27T05:35:22.849409748Z",
+  "release_date": "2020-10-27T05:41:09.211829595Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.26-beta.0",
   "kubernetes_version": "1.12+",
@@ -48,6 +48,24 @@
             },
             {
               "SHA": "ecfb5d85",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.10.26-beta.0",
+          "commits": [
+            {
+              "SHA": "eae19cf",
+              "Subject": "Prepare for release v2020.10.26-beta.0 (#6)"
+            },
+            {
+              "SHA": "0b82cb8",
               "Subject": "Update readme"
             }
           ]

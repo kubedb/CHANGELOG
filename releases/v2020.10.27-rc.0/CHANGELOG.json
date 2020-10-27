@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.0",
-  "release_date": "2020-10-27T13:51:25.233046531Z",
+  "release_date": "2020-10-27T13:52:31.046125814Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.0",
   "kubernetes_version": "1.12+",
@@ -207,6 +207,24 @@
             {
               "SHA": "8b869c02",
               "Subject": "Create SRV records for governing service (#402)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.6",
+          "commits": [
+            {
+              "SHA": "d01512de",
+              "Subject": "Prepare for release v0.1.0-beta.6 (#100)"
+            },
+            {
+              "SHA": "6a0d52ff",
+              "Subject": "Create SRV records for governing service (#99)"
             }
           ]
         }

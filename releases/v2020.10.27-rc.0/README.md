@@ -102,6 +102,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.1.0-beta.6](https://github.com/kubedb/proxysql/releases/tag/v0.1.0-beta.6)
+
+- [d01512de](https://github.com/kubedb/proxysql/commit/d01512de) Prepare for release v0.1.0-beta.6 (#100)
+- [6a0d52ff](https://github.com/kubedb/proxysql/commit/6a0d52ff) Create SRV records for governing service (#99)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.7.0-beta.6](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.6)

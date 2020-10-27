@@ -179,3 +179,10 @@
 
 
 
+## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-rc.1)
+
+
+
+

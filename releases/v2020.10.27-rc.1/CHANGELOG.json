@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.1",
-  "release_date": "2020-10-27T15:12:14.826867119Z",
+  "release_date": "2020-10-27T15:13:33.317829616Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.1",
   "kubernetes_version": "1.12+",
@@ -697,6 +697,15 @@
               "Subject": "Set default affinity if not provided for Elasticsearch (#507)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.1",
+          "commits": null
         }
       ]
     }

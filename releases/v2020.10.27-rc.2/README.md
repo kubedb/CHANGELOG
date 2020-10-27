@@ -17,6 +17,14 @@
 
 
 
+## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
+
+### [v0.1.0-rc.2](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-rc.2)
+
+- [b49e098](https://github.com/kubedb/mysql-replication-mode-detector/commit/b49e098) Prepare for release v0.1.0-rc.2 (#76)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-rc.2)

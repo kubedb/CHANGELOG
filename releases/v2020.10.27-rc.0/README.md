@@ -73,3 +73,12 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.7.0-beta.6](https://github.com/kubedb/redis/releases/tag/v0.7.0-beta.6)
+
+- [50f709bf](https://github.com/kubedb/redis/commit/50f709bf) Prepare for release v0.7.0-beta.6 (#245)
+- [d4aaaf38](https://github.com/kubedb/redis/commit/d4aaaf38) Create SRV records for governing service (#244)
+
+
+

@@ -285,6 +285,139 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.7.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-rc.1)
+
+- [f428010d](https://github.com/kubedb/mongodb/commit/f428010d) Prepare for release v0.7.0-rc.1 (#297)
+- [0d32b697](https://github.com/kubedb/mongodb/commit/0d32b697) Prepare for release v0.7.0-beta.6 (#296)
+- [1f75de65](https://github.com/kubedb/mongodb/commit/1f75de65) Update MergeServicePort and PatchServicePort apis (#295)
+- [984fd7c2](https://github.com/kubedb/mongodb/commit/984fd7c2) Create SRV records for governing service (#294)
+- [fc973dd0](https://github.com/kubedb/mongodb/commit/fc973dd0) Make database's phase NotReady as soon as the halted is removed (#293)
+- [f1818bb1](https://github.com/kubedb/mongodb/commit/f1818bb1) Prepare for release v0.7.0-beta.5 (#292)
+- [7d1586f7](https://github.com/kubedb/mongodb/commit/7d1586f7) Create separate governing service for each database (#291)
+- [1e281abb](https://github.com/kubedb/mongodb/commit/1e281abb) Update KubeDB api (#290)
+- [23d8785f](https://github.com/kubedb/mongodb/commit/23d8785f) Update readme
+- [007e3ccd](https://github.com/kubedb/mongodb/commit/007e3ccd) Prepare for release v0.7.0-beta.4 (#289)
+- [11f6573e](https://github.com/kubedb/mongodb/commit/11f6573e) Update MongoDB Conditions (#280)
+- [a964af9b](https://github.com/kubedb/mongodb/commit/a964af9b) Update KubeDB api (#288)
+- [38fd31b3](https://github.com/kubedb/mongodb/commit/38fd31b3) Update Kubernetes v1.18.9 dependencies (#287)
+- [b0110bea](https://github.com/kubedb/mongodb/commit/b0110bea) Update KubeDB api (#286)
+- [bfad7e48](https://github.com/kubedb/mongodb/commit/bfad7e48) Update for release Stash@v2020.10.21 (#285)
+- [2eebd6eb](https://github.com/kubedb/mongodb/commit/2eebd6eb) Fix init validator (#283)
+- [7912e726](https://github.com/kubedb/mongodb/commit/7912e726) Update KubeDB api (#284)
+- [ebf85b6d](https://github.com/kubedb/mongodb/commit/ebf85b6d) Update KubeDB api (#282)
+- [7fa4958c](https://github.com/kubedb/mongodb/commit/7fa4958c) Update Kubernetes v1.18.9 dependencies (#281)
+- [705843b8](https://github.com/kubedb/mongodb/commit/705843b8) Use MongoDBCustomConfigFile constant
+- [dac6262d](https://github.com/kubedb/mongodb/commit/dac6262d) Update KubeDB api (#279)
+- [7e7a960e](https://github.com/kubedb/mongodb/commit/7e7a960e) Update KubeDB api (#278)
+- [aed9bd49](https://github.com/kubedb/mongodb/commit/aed9bd49) Update KubeDB api (#277)
+- [18ec2e99](https://github.com/kubedb/mongodb/commit/18ec2e99) Update Kubernetes v1.18.9 dependencies (#276)
+- [dbec1f66](https://github.com/kubedb/mongodb/commit/dbec1f66) Update KubeDB api (#275)
+- [ad028b51](https://github.com/kubedb/mongodb/commit/ad028b51) Update KubeDB api (#274)
+- [a21dfd6a](https://github.com/kubedb/mongodb/commit/a21dfd6a) Update KubeDB api (#272)
+- [932ac34b](https://github.com/kubedb/mongodb/commit/932ac34b) Update repository config (#271)
+- [3f52a364](https://github.com/kubedb/mongodb/commit/3f52a364) Update repository config (#270)
+- [d3bf87db](https://github.com/kubedb/mongodb/commit/d3bf87db) Initialize statefulset watcher from cmd/server/options.go (#269)
+- [e3e15b7f](https://github.com/kubedb/mongodb/commit/e3e15b7f) Update KubeDB api (#268)
+- [406ae5a2](https://github.com/kubedb/mongodb/commit/406ae5a2) Update Kubernetes v1.18.9 dependencies (#267)
+- [0339503d](https://github.com/kubedb/mongodb/commit/0339503d) Publish docker images to ghcr.io (#266)
+- [ffccdc3c](https://github.com/kubedb/mongodb/commit/ffccdc3c) Update KubeDB api (#265)
+- [05b7a0bd](https://github.com/kubedb/mongodb/commit/05b7a0bd) Update KubeDB api (#264)
+- [d6447024](https://github.com/kubedb/mongodb/commit/d6447024) Update KubeDB api (#263)
+- [e7c1e3a3](https://github.com/kubedb/mongodb/commit/e7c1e3a3) Update KubeDB api (#262)
+- [5647960a](https://github.com/kubedb/mongodb/commit/5647960a) Update repository config (#261)
+- [e7481d8d](https://github.com/kubedb/mongodb/commit/e7481d8d) Use conditions to handle initialization (#258)
+- [d406586a](https://github.com/kubedb/mongodb/commit/d406586a) Update Kubernetes v1.18.9 dependencies (#260)
+- [93708d02](https://github.com/kubedb/mongodb/commit/93708d02) Remove redundant volume mounts (#259)
+- [bf28af80](https://github.com/kubedb/mongodb/commit/bf28af80) Update for release Stash@v2020.09.29 (#257)
+- [b34e2326](https://github.com/kubedb/mongodb/commit/b34e2326) Update Kubernetes v1.18.9 dependencies (#256)
+- [86e84d48](https://github.com/kubedb/mongodb/commit/86e84d48) Remove bootstrap container (#248)
+- [0b66e225](https://github.com/kubedb/mongodb/commit/0b66e225) Update Kubernetes v1.18.9 dependencies (#254)
+- [1a06f223](https://github.com/kubedb/mongodb/commit/1a06f223) Update repository config (#253)
+- [c199b164](https://github.com/kubedb/mongodb/commit/c199b164) Update repository config (#252)
+- [1268868d](https://github.com/kubedb/mongodb/commit/1268868d) Update Kubernetes v1.18.9 dependencies (#251)
+- [de63158f](https://github.com/kubedb/mongodb/commit/de63158f) Use common event recorder (#249)
+- [2f96b75a](https://github.com/kubedb/mongodb/commit/2f96b75a) Update Kubernetes v1.18.3 dependencies (#250)
+- [2867a4ef](https://github.com/kubedb/mongodb/commit/2867a4ef) Prepare for release v0.7.0-beta.3 (#247)
+- [8e6c12e7](https://github.com/kubedb/mongodb/commit/8e6c12e7) Use new `spec.init` section (#246)
+- [96aefe31](https://github.com/kubedb/mongodb/commit/96aefe31) Update Kubernetes v1.18.3 dependencies (#245)
+- [59e2a89c](https://github.com/kubedb/mongodb/commit/59e2a89c) Add license verifier (#244)
+- [2824cb71](https://github.com/kubedb/mongodb/commit/2824cb71) Update for release Stash@v2020.09.16 (#243)
+- [3c626235](https://github.com/kubedb/mongodb/commit/3c626235) Update Kubernetes v1.18.3 dependencies (#242)
+- [86b205ef](https://github.com/kubedb/mongodb/commit/86b205ef) Update Constants (#241)
+- [1910e947](https://github.com/kubedb/mongodb/commit/1910e947) Use common constant across MongoDB Community and Enterprise operator (#240)
+- [05364676](https://github.com/kubedb/mongodb/commit/05364676) Run e2e tests from kubedb/tests repo (#238)
+- [80a78fe7](https://github.com/kubedb/mongodb/commit/80a78fe7) Set Delete Propagation Policy to Background (#237)
+- [9a9d101c](https://github.com/kubedb/mongodb/commit/9a9d101c) Update Kubernetes v1.18.3 dependencies (#236)
+- [d596ca68](https://github.com/kubedb/mongodb/commit/d596ca68) Use AppsCode Community License (#235)
+- [8fd389de](https://github.com/kubedb/mongodb/commit/8fd389de) Prepare for release v0.7.0-beta.2 (#234)
+- [3e4981ee](https://github.com/kubedb/mongodb/commit/3e4981ee) Update release.yml
+- [c1d5cdb8](https://github.com/kubedb/mongodb/commit/c1d5cdb8) Always use OnDelete UpdateStrategy (#233)
+- [a135b2c7](https://github.com/kubedb/mongodb/commit/a135b2c7) Fix build (#232)
+- [cfb1788b](https://github.com/kubedb/mongodb/commit/cfb1788b) Use updated certificate spec (#221)
+- [486e820a](https://github.com/kubedb/mongodb/commit/486e820a) Remove `storage` Validation Check (#231)
+- [12e621ed](https://github.com/kubedb/mongodb/commit/12e621ed) Update Kubernetes v1.18.3 dependencies (#225)
+- [0d7ea7d7](https://github.com/kubedb/mongodb/commit/0d7ea7d7) Update Kubernetes v1.18.3 dependencies (#224)
+- [e79d1dfe](https://github.com/kubedb/mongodb/commit/e79d1dfe) Update Kubernetes v1.18.3 dependencies (#223)
+- [d0ff5e1d](https://github.com/kubedb/mongodb/commit/d0ff5e1d) Update Kubernetes v1.18.3 dependencies (#222)
+- [d22ade32](https://github.com/kubedb/mongodb/commit/d22ade32) Add `inMemory` Storage Engine Support for Percona MongoDB Server (#205)
+- [90847996](https://github.com/kubedb/mongodb/commit/90847996) Update Kubernetes v1.18.3 dependencies (#220)
+- [1098974f](https://github.com/kubedb/mongodb/commit/1098974f) Update Kubernetes v1.18.3 dependencies (#219)
+- [e7d1407a](https://github.com/kubedb/mongodb/commit/e7d1407a) Fix install target
+- [a5742d11](https://github.com/kubedb/mongodb/commit/a5742d11) Remove dependency on enterprise operator (#218)
+- [1de4fbee](https://github.com/kubedb/mongodb/commit/1de4fbee) Build images in e2e workflow (#217)
+- [b736c57e](https://github.com/kubedb/mongodb/commit/b736c57e) Update to Kubernetes v1.18.3 (#216)
+- [180ae28d](https://github.com/kubedb/mongodb/commit/180ae28d) Allow configuring k8s & db version in e2e tests (#215)
+- [c2f09a6f](https://github.com/kubedb/mongodb/commit/c2f09a6f) Trigger e2e tests on /ok-to-test command (#214)
+- [c1c7fa39](https://github.com/kubedb/mongodb/commit/c1c7fa39) Update to Kubernetes v1.18.3 (#213)
+- [8fb6cf78](https://github.com/kubedb/mongodb/commit/8fb6cf78) Update to Kubernetes v1.18.3 (#212)
+- [b82a8fa7](https://github.com/kubedb/mongodb/commit/b82a8fa7) Prepare for release v0.7.0-beta.1 (#211)
+- [a63d53ae](https://github.com/kubedb/mongodb/commit/a63d53ae) Update for release Stash@v2020.07.09-beta.0 (#209)
+- [4e33e978](https://github.com/kubedb/mongodb/commit/4e33e978) include Makefile.env
+- [1aa81a18](https://github.com/kubedb/mongodb/commit/1aa81a18) Allow customizing chart registry (#208)
+- [05355e75](https://github.com/kubedb/mongodb/commit/05355e75) Update for release Stash@v2020.07.08-beta.0 (#207)
+- [4f6be7b4](https://github.com/kubedb/mongodb/commit/4f6be7b4) Update License (#206)
+- [cc54f7d3](https://github.com/kubedb/mongodb/commit/cc54f7d3) Update to Kubernetes v1.18.3 (#204)
+- [d1a51b8e](https://github.com/kubedb/mongodb/commit/d1a51b8e) Update ci.yml
+- [3a993329](https://github.com/kubedb/mongodb/commit/3a993329) Load stash version from .env file for make (#203)
+- [7180a98c](https://github.com/kubedb/mongodb/commit/7180a98c) Update update-release-tracker.sh
+- [745085fd](https://github.com/kubedb/mongodb/commit/745085fd) Update update-release-tracker.sh
+- [07d83ac0](https://github.com/kubedb/mongodb/commit/07d83ac0) Add script to update release tracker on pr merge (#202)
+- [bbe205bb](https://github.com/kubedb/mongodb/commit/bbe205bb) Update .kodiak.toml
+- [998e656e](https://github.com/kubedb/mongodb/commit/998e656e) Various fixes (#201)
+- [ca03db09](https://github.com/kubedb/mongodb/commit/ca03db09) Update to Kubernetes v1.18.3 (#200)
+- [975fc700](https://github.com/kubedb/mongodb/commit/975fc700) Update to Kubernetes v1.18.3
+- [52972dcf](https://github.com/kubedb/mongodb/commit/52972dcf) Create .kodiak.toml
+- [39168e53](https://github.com/kubedb/mongodb/commit/39168e53) Use CRD v1 for Kubernetes >= 1.16 (#199)
+- [d6d87e16](https://github.com/kubedb/mongodb/commit/d6d87e16) Update to Kubernetes v1.18.3 (#198)
+- [09cd5809](https://github.com/kubedb/mongodb/commit/09cd5809) Fix e2e tests (#197)
+- [f47c4846](https://github.com/kubedb/mongodb/commit/f47c4846) Update stash install commands
+- [010d0294](https://github.com/kubedb/mongodb/commit/010d0294) Revendor kubedb.dev/apimachinery@master (#196)
+- [31ef2632](https://github.com/kubedb/mongodb/commit/31ef2632) Pass annotations from CRD to AppBinding (#195)
+- [9594e92f](https://github.com/kubedb/mongodb/commit/9594e92f) Update crazy-max/ghaction-docker-buildx flag
+- [0693d7a0](https://github.com/kubedb/mongodb/commit/0693d7a0) Use updated operator labels in e2e tests (#193)
+- [5aaeeb90](https://github.com/kubedb/mongodb/commit/5aaeeb90) Trigger the workflow on push or pull request
+- [2af16e3c](https://github.com/kubedb/mongodb/commit/2af16e3c) Update CHANGELOG.md
+- [288c5d2f](https://github.com/kubedb/mongodb/commit/288c5d2f) Use SHARD_INDEX constant from apimachinery
+- [4482edf3](https://github.com/kubedb/mongodb/commit/4482edf3) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#191)
+- [0f20ff3a](https://github.com/kubedb/mongodb/commit/0f20ff3a) Manage SSL certificates using cert-manager (#190)
+- [6f0c1aef](https://github.com/kubedb/mongodb/commit/6f0c1aef) Use Minio storage for testing (#188)
+- [f8c56bac](https://github.com/kubedb/mongodb/commit/f8c56bac) Support affinity templating in mongodb-shard (#186)
+- [71283767](https://github.com/kubedb/mongodb/commit/71283767) Use stash@v0.9.0-rc.4 release (#185)
+- [f480de35](https://github.com/kubedb/mongodb/commit/f480de35) Fix `Pause` Logic (#184)
+- [263e1bac](https://github.com/kubedb/mongodb/commit/263e1bac) Refactor CI pipeline to build once (#182)
+- [e383f271](https://github.com/kubedb/mongodb/commit/e383f271) Add `Pause` Feature (#181)
+- [584ecde6](https://github.com/kubedb/mongodb/commit/584ecde6) Delete backupconfig before attempting restoresession. (#180)
+- [a78bc2a7](https://github.com/kubedb/mongodb/commit/a78bc2a7) Wipeout if custom databaseSecret has been deleted (#179)
+- [e90cd386](https://github.com/kubedb/mongodb/commit/e90cd386) Matrix test and Moved out mongo docker files (#178)
+- [c132db8f](https://github.com/kubedb/mongodb/commit/c132db8f) Add add-license makefile target
+- [cc545e04](https://github.com/kubedb/mongodb/commit/cc545e04) Update Makefile
+- [7a2eab2c](https://github.com/kubedb/mongodb/commit/7a2eab2c) Add license header to files (#177)
+- [eecdb2cb](https://github.com/kubedb/mongodb/commit/eecdb2cb) Fix E2E tests in github action (#176)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-rc.1)

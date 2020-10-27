@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.1",
-  "release_date": "2020-10-27T15:24:31.827734728Z",
+  "release_date": "2020-10-27T15:24:56.698805931Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.1",
   "kubernetes_version": "1.12+",
@@ -1101,6 +1101,520 @@
             {
               "SHA": "8522ec74",
               "Subject": "Update changelog"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f428010d",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#297)"
+            },
+            {
+              "SHA": "0d32b697",
+              "Subject": "Prepare for release v0.7.0-beta.6 (#296)"
+            },
+            {
+              "SHA": "1f75de65",
+              "Subject": "Update MergeServicePort and PatchServicePort apis (#295)"
+            },
+            {
+              "SHA": "984fd7c2",
+              "Subject": "Create SRV records for governing service (#294)"
+            },
+            {
+              "SHA": "fc973dd0",
+              "Subject": "Make database's phase NotReady as soon as the halted is removed (#293)"
+            },
+            {
+              "SHA": "f1818bb1",
+              "Subject": "Prepare for release v0.7.0-beta.5 (#292)"
+            },
+            {
+              "SHA": "7d1586f7",
+              "Subject": "Create separate governing service for each database (#291)"
+            },
+            {
+              "SHA": "1e281abb",
+              "Subject": "Update KubeDB api (#290)"
+            },
+            {
+              "SHA": "23d8785f",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "007e3ccd",
+              "Subject": "Prepare for release v0.7.0-beta.4 (#289)"
+            },
+            {
+              "SHA": "11f6573e",
+              "Subject": "Update MongoDB Conditions (#280)"
+            },
+            {
+              "SHA": "a964af9b",
+              "Subject": "Update KubeDB api (#288)"
+            },
+            {
+              "SHA": "38fd31b3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#287)"
+            },
+            {
+              "SHA": "b0110bea",
+              "Subject": "Update KubeDB api (#286)"
+            },
+            {
+              "SHA": "bfad7e48",
+              "Subject": "Update for release Stash@v2020.10.21 (#285)"
+            },
+            {
+              "SHA": "2eebd6eb",
+              "Subject": "Fix init validator (#283)"
+            },
+            {
+              "SHA": "7912e726",
+              "Subject": "Update KubeDB api (#284)"
+            },
+            {
+              "SHA": "ebf85b6d",
+              "Subject": "Update KubeDB api (#282)"
+            },
+            {
+              "SHA": "7fa4958c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#281)"
+            },
+            {
+              "SHA": "705843b8",
+              "Subject": "Use MongoDBCustomConfigFile constant"
+            },
+            {
+              "SHA": "dac6262d",
+              "Subject": "Update KubeDB api (#279)"
+            },
+            {
+              "SHA": "7e7a960e",
+              "Subject": "Update KubeDB api (#278)"
+            },
+            {
+              "SHA": "aed9bd49",
+              "Subject": "Update KubeDB api (#277)"
+            },
+            {
+              "SHA": "18ec2e99",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#276)"
+            },
+            {
+              "SHA": "dbec1f66",
+              "Subject": "Update KubeDB api (#275)"
+            },
+            {
+              "SHA": "ad028b51",
+              "Subject": "Update KubeDB api (#274)"
+            },
+            {
+              "SHA": "a21dfd6a",
+              "Subject": "Update KubeDB api (#272)"
+            },
+            {
+              "SHA": "932ac34b",
+              "Subject": "Update repository config (#271)"
+            },
+            {
+              "SHA": "3f52a364",
+              "Subject": "Update repository config (#270)"
+            },
+            {
+              "SHA": "d3bf87db",
+              "Subject": "Initialize statefulset watcher from cmd/server/options.go (#269)"
+            },
+            {
+              "SHA": "e3e15b7f",
+              "Subject": "Update KubeDB api (#268)"
+            },
+            {
+              "SHA": "406ae5a2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#267)"
+            },
+            {
+              "SHA": "0339503d",
+              "Subject": "Publish docker images to ghcr.io (#266)"
+            },
+            {
+              "SHA": "ffccdc3c",
+              "Subject": "Update KubeDB api (#265)"
+            },
+            {
+              "SHA": "05b7a0bd",
+              "Subject": "Update KubeDB api (#264)"
+            },
+            {
+              "SHA": "d6447024",
+              "Subject": "Update KubeDB api (#263)"
+            },
+            {
+              "SHA": "e7c1e3a3",
+              "Subject": "Update KubeDB api (#262)"
+            },
+            {
+              "SHA": "5647960a",
+              "Subject": "Update repository config (#261)"
+            },
+            {
+              "SHA": "e7481d8d",
+              "Subject": "Use conditions to handle initialization (#258)"
+            },
+            {
+              "SHA": "d406586a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#260)"
+            },
+            {
+              "SHA": "93708d02",
+              "Subject": "Remove redundant volume mounts (#259)"
+            },
+            {
+              "SHA": "bf28af80",
+              "Subject": "Update for release Stash@v2020.09.29 (#257)"
+            },
+            {
+              "SHA": "b34e2326",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#256)"
+            },
+            {
+              "SHA": "86e84d48",
+              "Subject": "Remove bootstrap container (#248)"
+            },
+            {
+              "SHA": "0b66e225",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#254)"
+            },
+            {
+              "SHA": "1a06f223",
+              "Subject": "Update repository config (#253)"
+            },
+            {
+              "SHA": "c199b164",
+              "Subject": "Update repository config (#252)"
+            },
+            {
+              "SHA": "1268868d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#251)"
+            },
+            {
+              "SHA": "de63158f",
+              "Subject": "Use common event recorder (#249)"
+            },
+            {
+              "SHA": "2f96b75a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#250)"
+            },
+            {
+              "SHA": "2867a4ef",
+              "Subject": "Prepare for release v0.7.0-beta.3 (#247)"
+            },
+            {
+              "SHA": "8e6c12e7",
+              "Subject": "Use new `spec.init` section (#246)"
+            },
+            {
+              "SHA": "96aefe31",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#245)"
+            },
+            {
+              "SHA": "59e2a89c",
+              "Subject": "Add license verifier (#244)"
+            },
+            {
+              "SHA": "2824cb71",
+              "Subject": "Update for release Stash@v2020.09.16 (#243)"
+            },
+            {
+              "SHA": "3c626235",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#242)"
+            },
+            {
+              "SHA": "86b205ef",
+              "Subject": "Update Constants (#241)"
+            },
+            {
+              "SHA": "1910e947",
+              "Subject": "Use common constant across MongoDB Community and Enterprise operator (#240)"
+            },
+            {
+              "SHA": "05364676",
+              "Subject": "Run e2e tests from kubedb/tests repo (#238)"
+            },
+            {
+              "SHA": "80a78fe7",
+              "Subject": "Set Delete Propagation Policy to Background (#237)"
+            },
+            {
+              "SHA": "9a9d101c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#236)"
+            },
+            {
+              "SHA": "d596ca68",
+              "Subject": "Use AppsCode Community License (#235)"
+            },
+            {
+              "SHA": "8fd389de",
+              "Subject": "Prepare for release v0.7.0-beta.2 (#234)"
+            },
+            {
+              "SHA": "3e4981ee",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "c1d5cdb8",
+              "Subject": "Always use OnDelete UpdateStrategy (#233)"
+            },
+            {
+              "SHA": "a135b2c7",
+              "Subject": "Fix build (#232)"
+            },
+            {
+              "SHA": "cfb1788b",
+              "Subject": "Use updated certificate spec (#221)"
+            },
+            {
+              "SHA": "486e820a",
+              "Subject": "Remove `storage` Validation Check (#231)"
+            },
+            {
+              "SHA": "12e621ed",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#225)"
+            },
+            {
+              "SHA": "0d7ea7d7",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#224)"
+            },
+            {
+              "SHA": "e79d1dfe",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#223)"
+            },
+            {
+              "SHA": "d0ff5e1d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#222)"
+            },
+            {
+              "SHA": "d22ade32",
+              "Subject": "Add `inMemory` Storage Engine Support for Percona MongoDB Server (#205)"
+            },
+            {
+              "SHA": "90847996",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#220)"
+            },
+            {
+              "SHA": "1098974f",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#219)"
+            },
+            {
+              "SHA": "e7d1407a",
+              "Subject": "Fix install target"
+            },
+            {
+              "SHA": "a5742d11",
+              "Subject": "Remove dependency on enterprise operator (#218)"
+            },
+            {
+              "SHA": "1de4fbee",
+              "Subject": "Build images in e2e workflow (#217)"
+            },
+            {
+              "SHA": "b736c57e",
+              "Subject": "Update to Kubernetes v1.18.3 (#216)"
+            },
+            {
+              "SHA": "180ae28d",
+              "Subject": "Allow configuring k8s & db version in e2e tests (#215)"
+            },
+            {
+              "SHA": "c2f09a6f",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#214)"
+            },
+            {
+              "SHA": "c1c7fa39",
+              "Subject": "Update to Kubernetes v1.18.3 (#213)"
+            },
+            {
+              "SHA": "8fb6cf78",
+              "Subject": "Update to Kubernetes v1.18.3 (#212)"
+            },
+            {
+              "SHA": "b82a8fa7",
+              "Subject": "Prepare for release v0.7.0-beta.1 (#211)"
+            },
+            {
+              "SHA": "a63d53ae",
+              "Subject": "Update for release Stash@v2020.07.09-beta.0 (#209)"
+            },
+            {
+              "SHA": "4e33e978",
+              "Subject": "include Makefile.env"
+            },
+            {
+              "SHA": "1aa81a18",
+              "Subject": "Allow customizing chart registry (#208)"
+            },
+            {
+              "SHA": "05355e75",
+              "Subject": "Update for release Stash@v2020.07.08-beta.0 (#207)"
+            },
+            {
+              "SHA": "4f6be7b4",
+              "Subject": "Update License (#206)"
+            },
+            {
+              "SHA": "cc54f7d3",
+              "Subject": "Update to Kubernetes v1.18.3 (#204)"
+            },
+            {
+              "SHA": "d1a51b8e",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "3a993329",
+              "Subject": "Load stash version from .env file for make (#203)"
+            },
+            {
+              "SHA": "7180a98c",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "745085fd",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "07d83ac0",
+              "Subject": "Add script to update release tracker on pr merge (#202)"
+            },
+            {
+              "SHA": "bbe205bb",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "998e656e",
+              "Subject": "Various fixes (#201)"
+            },
+            {
+              "SHA": "ca03db09",
+              "Subject": "Update to Kubernetes v1.18.3 (#200)"
+            },
+            {
+              "SHA": "975fc700",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "52972dcf",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "39168e53",
+              "Subject": "Use CRD v1 for Kubernetes >= 1.16 (#199)"
+            },
+            {
+              "SHA": "d6d87e16",
+              "Subject": "Update to Kubernetes v1.18.3 (#198)"
+            },
+            {
+              "SHA": "09cd5809",
+              "Subject": "Fix e2e tests (#197)"
+            },
+            {
+              "SHA": "f47c4846",
+              "Subject": "Update stash install commands"
+            },
+            {
+              "SHA": "010d0294",
+              "Subject": "Revendor kubedb.dev/apimachinery@master (#196)"
+            },
+            {
+              "SHA": "31ef2632",
+              "Subject": "Pass annotations from CRD to AppBinding (#195)"
+            },
+            {
+              "SHA": "9594e92f",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "0693d7a0",
+              "Subject": "Use updated operator labels in e2e tests (#193)"
+            },
+            {
+              "SHA": "5aaeeb90",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "2af16e3c",
+              "Subject": "Update CHANGELOG.md"
+            },
+            {
+              "SHA": "288c5d2f",
+              "Subject": "Use SHARD_INDEX constant from apimachinery"
+            },
+            {
+              "SHA": "4482edf3",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#191)"
+            },
+            {
+              "SHA": "0f20ff3a",
+              "Subject": "Manage SSL certificates using cert-manager (#190)"
+            },
+            {
+              "SHA": "6f0c1aef",
+              "Subject": "Use Minio storage for testing (#188)"
+            },
+            {
+              "SHA": "f8c56bac",
+              "Subject": "Support affinity templating in mongodb-shard (#186)"
+            },
+            {
+              "SHA": "71283767",
+              "Subject": "Use stash@v0.9.0-rc.4 release (#185)"
+            },
+            {
+              "SHA": "f480de35",
+              "Subject": "Fix `Pause` Logic (#184)"
+            },
+            {
+              "SHA": "263e1bac",
+              "Subject": "Refactor CI pipeline to build once (#182)"
+            },
+            {
+              "SHA": "e383f271",
+              "Subject": "Add `Pause` Feature (#181)"
+            },
+            {
+              "SHA": "584ecde6",
+              "Subject": "Delete backupconfig before attempting restoresession. (#180)"
+            },
+            {
+              "SHA": "a78bc2a7",
+              "Subject": "Wipeout if custom databaseSecret has been deleted (#179)"
+            },
+            {
+              "SHA": "e90cd386",
+              "Subject": "Matrix test and Moved out mongo docker files (#178)"
+            },
+            {
+              "SHA": "c132db8f",
+              "Subject": "Add add-license makefile target"
+            },
+            {
+              "SHA": "cc545e04",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "7a2eab2c",
+              "Subject": "Add license header to files (#177)"
+            },
+            {
+              "SHA": "eecdb2cb",
+              "Subject": "Fix E2E tests in github action (#176)"
             }
           ]
         }

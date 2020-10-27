@@ -27,6 +27,17 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.7.0-beta.6](https://github.com/kubedb/mongodb/releases/tag/v0.7.0-beta.6)
+
+- [0d32b697](https://github.com/kubedb/mongodb/commit/0d32b697) Prepare for release v0.7.0-beta.6 (#296)
+- [1f75de65](https://github.com/kubedb/mongodb/commit/1f75de65) Update MergeServicePort and PatchServicePort apis (#295)
+- [984fd7c2](https://github.com/kubedb/mongodb/commit/984fd7c2) Create SRV records for governing service (#294)
+- [fc973dd0](https://github.com/kubedb/mongodb/commit/fc973dd0) Make database's phase NotReady as soon as the halted is removed (#293)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.6](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.6)

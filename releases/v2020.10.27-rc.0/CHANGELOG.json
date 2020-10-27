@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.0",
-  "release_date": "2020-10-27T13:39:45.95483352Z",
+  "release_date": "2020-10-27T13:39:57.994382231Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.0",
   "kubernetes_version": "1.12+",
@@ -51,6 +51,32 @@
             {
               "SHA": "47039c68",
               "Subject": "Create SRV records for governing service (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.6",
+          "commits": [
+            {
+              "SHA": "0d32b697",
+              "Subject": "Prepare for release v0.7.0-beta.6 (#296)"
+            },
+            {
+              "SHA": "1f75de65",
+              "Subject": "Update MergeServicePort and PatchServicePort apis (#295)"
+            },
+            {
+              "SHA": "984fd7c2",
+              "Subject": "Create SRV records for governing service (#294)"
+            },
+            {
+              "SHA": "fc973dd0",
+              "Subject": "Make database's phase NotReady as soon as the halted is removed (#293)"
             }
           ]
         }

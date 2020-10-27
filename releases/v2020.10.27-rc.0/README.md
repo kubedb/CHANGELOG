@@ -37,6 +37,18 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.14.0-beta.6](https://github.com/kubedb/installer/releases/tag/v0.14.0-beta.6)
+
+- [0ac5eb3](https://github.com/kubedb/installer/commit/0ac5eb3) Prepare for release v0.14.0-beta.6 (#174)
+- [f6407c7](https://github.com/kubedb/installer/commit/f6407c7) Update KubeDB api (#173)
+- [d3e28a7](https://github.com/kubedb/installer/commit/d3e28a7) Use kubedb-community release name for community chart
+- [98553cb](https://github.com/kubedb/installer/commit/98553cb) Update Kubernetes v1.18.9 dependencies (#172)
+- [1b35dfb](https://github.com/kubedb/installer/commit/1b35dfb) Update KubeDB api (#171)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-beta.6](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.6)

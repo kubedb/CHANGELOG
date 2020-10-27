@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.0",
-  "release_date": "2020-10-27T14:08:58.12740967Z",
+  "release_date": "2020-10-27T14:27:38.210629235Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.0",
   "kubernetes_version": "1.12+",
@@ -73,6 +73,36 @@
             {
               "SHA": "0f408cbf",
               "Subject": "Create SRV records for governing service (#392)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.6",
+          "commits": [
+            {
+              "SHA": "0ac5eb3",
+              "Subject": "Prepare for release v0.14.0-beta.6 (#174)"
+            },
+            {
+              "SHA": "f6407c7",
+              "Subject": "Update KubeDB api (#173)"
+            },
+            {
+              "SHA": "d3e28a7",
+              "Subject": "Use kubedb-community release name for community chart"
+            },
+            {
+              "SHA": "98553cb",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#172)"
+            },
+            {
+              "SHA": "1b35dfb",
+              "Subject": "Update KubeDB api (#171)"
             }
           ]
         }

@@ -702,3 +702,137 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.14.0-rc.1)
+
+- [c1ea472a](https://github.com/kubedb/postgres/commit/c1ea472a) Prepare for release v0.14.0-rc.1 (#405)
+- [9e1a642e](https://github.com/kubedb/postgres/commit/9e1a642e) Prepare for release v0.14.0-beta.6 (#404)
+- [8b869c02](https://github.com/kubedb/postgres/commit/8b869c02) Create SRV records for governing service (#402)
+- [c6e802a7](https://github.com/kubedb/postgres/commit/c6e802a7) Prepare for release v0.14.0-beta.5 (#401)
+- [4da12584](https://github.com/kubedb/postgres/commit/4da12584) Simplify port assignment (#400)
+- [71420f2b](https://github.com/kubedb/postgres/commit/71420f2b) Create separate governing service for each database (#399)
+- [49792ddb](https://github.com/kubedb/postgres/commit/49792ddb) Update KubeDB api (#398)
+- [721f5e16](https://github.com/kubedb/postgres/commit/721f5e16) Update readme
+- [c036ee15](https://github.com/kubedb/postgres/commit/c036ee15) Update Kubernetes v1.18.9 dependencies (#397)
+- [ed9a22ac](https://github.com/kubedb/postgres/commit/ed9a22ac) Prepare for release v0.14.0-beta.4 (#396)
+- [e6b37365](https://github.com/kubedb/postgres/commit/e6b37365) Update KubeDB api (#395)
+- [825f55c3](https://github.com/kubedb/postgres/commit/825f55c3) Update Kubernetes v1.18.9 dependencies (#394)
+- [c879e7e8](https://github.com/kubedb/postgres/commit/c879e7e8) Update KubeDB api (#393)
+- [c90ad84e](https://github.com/kubedb/postgres/commit/c90ad84e) Update for release Stash@v2020.10.21 (#392)
+- [9db225c0](https://github.com/kubedb/postgres/commit/9db225c0) Fix init validator (#390)
+- [e56e5ae6](https://github.com/kubedb/postgres/commit/e56e5ae6) Update KubeDB api (#391)
+- [5da16a5c](https://github.com/kubedb/postgres/commit/5da16a5c) Update KubeDB api (#389)
+- [221eb7cf](https://github.com/kubedb/postgres/commit/221eb7cf) Update Kubernetes v1.18.9 dependencies (#388)
+- [261aaaf3](https://github.com/kubedb/postgres/commit/261aaaf3) Update KubeDB api (#387)
+- [6d8efe23](https://github.com/kubedb/postgres/commit/6d8efe23) Update KubeDB api (#386)
+- [0df8a375](https://github.com/kubedb/postgres/commit/0df8a375) Update KubeDB api (#385)
+- [b0b4f7e7](https://github.com/kubedb/postgres/commit/b0b4f7e7) Update KubeDB api (#384)
+- [c10ff311](https://github.com/kubedb/postgres/commit/c10ff311) Update Kubernetes v1.18.9 dependencies (#383)
+- [4f237fc0](https://github.com/kubedb/postgres/commit/4f237fc0) Update KubeDB api (#382)
+- [b31defb8](https://github.com/kubedb/postgres/commit/b31defb8) Update KubeDB api (#381)
+- [667a4ec8](https://github.com/kubedb/postgres/commit/667a4ec8) Update KubeDB api (#379)
+- [da86f8d7](https://github.com/kubedb/postgres/commit/da86f8d7) Update repository config (#378)
+- [1da3afb9](https://github.com/kubedb/postgres/commit/1da3afb9) Update repository config (#377)
+- [29b8a231](https://github.com/kubedb/postgres/commit/29b8a231) Update repository config (#376)
+- [22612534](https://github.com/kubedb/postgres/commit/22612534) Initialize statefulset watcher from cmd/server/options.go (#375)
+- [bfd6eae7](https://github.com/kubedb/postgres/commit/bfd6eae7) Update KubeDB api (#374)
+- [10566771](https://github.com/kubedb/postgres/commit/10566771) Update Kubernetes v1.18.9 dependencies (#373)
+- [1eb7c29b](https://github.com/kubedb/postgres/commit/1eb7c29b) Publish docker images to ghcr.io (#372)
+- [49dd7946](https://github.com/kubedb/postgres/commit/49dd7946) Only keep username/password keys in Postgres secret
+- [f1131a2c](https://github.com/kubedb/postgres/commit/f1131a2c) Update KubeDB api (#371)
+- [ccadf274](https://github.com/kubedb/postgres/commit/ccadf274) Update KubeDB api (#370)
+- [bddd6692](https://github.com/kubedb/postgres/commit/bddd6692) Update KubeDB api (#369)
+- [d76bbe3d](https://github.com/kubedb/postgres/commit/d76bbe3d) Don't add secretTransformation in AppBinding section by default (#316)
+- [ae29ba5e](https://github.com/kubedb/postgres/commit/ae29ba5e) Update KubeDB api (#368)
+- [4bb1c171](https://github.com/kubedb/postgres/commit/4bb1c171) Update repository config (#367)
+- [a7b1138f](https://github.com/kubedb/postgres/commit/a7b1138f) Use conditions to handle initialization (#365)
+- [126e20f1](https://github.com/kubedb/postgres/commit/126e20f1) Update Kubernetes v1.18.9 dependencies (#366)
+- [29a99b8d](https://github.com/kubedb/postgres/commit/29a99b8d) Update for release Stash@v2020.09.29 (#364)
+- [b097b330](https://github.com/kubedb/postgres/commit/b097b330) Update Kubernetes v1.18.9 dependencies (#363)
+- [26e2f90c](https://github.com/kubedb/postgres/commit/26e2f90c) Update Kubernetes v1.18.9 dependencies (#361)
+- [67c6d618](https://github.com/kubedb/postgres/commit/67c6d618) Update repository config (#360)
+- [6fc5fbce](https://github.com/kubedb/postgres/commit/6fc5fbce) Update repository config (#359)
+- [4e566391](https://github.com/kubedb/postgres/commit/4e566391) Update Kubernetes v1.18.9 dependencies (#358)
+- [7236b6e1](https://github.com/kubedb/postgres/commit/7236b6e1) Use common event recorder (#357)
+- [d1293558](https://github.com/kubedb/postgres/commit/d1293558) Update Kubernetes v1.18.3 dependencies (#356)
+- [0dd8903e](https://github.com/kubedb/postgres/commit/0dd8903e) Prepare for release v0.14.0-beta.3 (#355)
+- [8f59199a](https://github.com/kubedb/postgres/commit/8f59199a) Use new `sepc.init` section (#354)
+- [32305e6d](https://github.com/kubedb/postgres/commit/32305e6d) Update Kubernetes v1.18.3 dependencies (#353)
+- [e65ecdf3](https://github.com/kubedb/postgres/commit/e65ecdf3) Add license verifier (#352)
+- [55b2f61e](https://github.com/kubedb/postgres/commit/55b2f61e) Update for release Stash@v2020.09.16 (#351)
+- [66f45a55](https://github.com/kubedb/postgres/commit/66f45a55) Update Kubernetes v1.18.3 dependencies (#350)
+- [80f3cc3b](https://github.com/kubedb/postgres/commit/80f3cc3b) Use background deletion policy
+- [63119dba](https://github.com/kubedb/postgres/commit/63119dba) Update Kubernetes v1.18.3 dependencies (#348)
+- [ac48cf6a](https://github.com/kubedb/postgres/commit/ac48cf6a) Use AppsCode Community License (#347)
+- [03449359](https://github.com/kubedb/postgres/commit/03449359) Update Kubernetes v1.18.3 dependencies (#346)
+- [6e6fe6fe](https://github.com/kubedb/postgres/commit/6e6fe6fe) Prepare for release v0.14.0-beta.2 (#345)
+- [5ee33bb8](https://github.com/kubedb/postgres/commit/5ee33bb8) Update release.yml
+- [9208f754](https://github.com/kubedb/postgres/commit/9208f754) Always use OnDelete update strategy
+- [74367d01](https://github.com/kubedb/postgres/commit/74367d01) Update Kubernetes v1.18.3 dependencies (#344)
+- [01843533](https://github.com/kubedb/postgres/commit/01843533) Update Kubernetes v1.18.3 dependencies (#343)
+- [34a3a460](https://github.com/kubedb/postgres/commit/34a3a460) Update Kubernetes v1.18.3 dependencies (#338)
+- [455bf56a](https://github.com/kubedb/postgres/commit/455bf56a) Update Kubernetes v1.18.3 dependencies (#337)
+- [960d1efa](https://github.com/kubedb/postgres/commit/960d1efa) Update Kubernetes v1.18.3 dependencies (#336)
+- [9b428745](https://github.com/kubedb/postgres/commit/9b428745) Update Kubernetes v1.18.3 dependencies (#335)
+- [cc95c5f5](https://github.com/kubedb/postgres/commit/cc95c5f5) Update Kubernetes v1.18.3 dependencies (#334)
+- [c0694d83](https://github.com/kubedb/postgres/commit/c0694d83) Update Kubernetes v1.18.3 dependencies (#333)
+- [8d0977d3](https://github.com/kubedb/postgres/commit/8d0977d3) Remove dependency on enterprise operator (#332)
+- [daa5b77c](https://github.com/kubedb/postgres/commit/daa5b77c) Build images in e2e workflow (#331)
+- [197f1b2b](https://github.com/kubedb/postgres/commit/197f1b2b) Update to Kubernetes v1.18.3 (#329)
+- [e732d319](https://github.com/kubedb/postgres/commit/e732d319) Allow configuring k8s & db version in e2e tests (#330)
+- [f37180ec](https://github.com/kubedb/postgres/commit/f37180ec) Trigger e2e tests on /ok-to-test command (#328)
+- [becb3e2c](https://github.com/kubedb/postgres/commit/becb3e2c) Update to Kubernetes v1.18.3 (#327)
+- [91bf7440](https://github.com/kubedb/postgres/commit/91bf7440) Update to Kubernetes v1.18.3 (#326)
+- [3848a43e](https://github.com/kubedb/postgres/commit/3848a43e) Prepare for release v0.14.0-beta.1 (#325)
+- [d4ea0ba7](https://github.com/kubedb/postgres/commit/d4ea0ba7) Update for release Stash@v2020.07.09-beta.0 (#323)
+- [6974afda](https://github.com/kubedb/postgres/commit/6974afda) Allow customizing kube namespace for Stash
+- [d7d79ea1](https://github.com/kubedb/postgres/commit/d7d79ea1) Allow customizing chart registry (#322)
+- [ba0423ac](https://github.com/kubedb/postgres/commit/ba0423ac) Update for release Stash@v2020.07.08-beta.0 (#321)
+- [7e855763](https://github.com/kubedb/postgres/commit/7e855763) Update License
+- [7bea404a](https://github.com/kubedb/postgres/commit/7bea404a) Update to Kubernetes v1.18.3 (#320)
+- [eab0e83f](https://github.com/kubedb/postgres/commit/eab0e83f) Update ci.yml
+- [4949f76e](https://github.com/kubedb/postgres/commit/4949f76e) Load stash version from .env file for make (#319)
+- [79e9d8d9](https://github.com/kubedb/postgres/commit/79e9d8d9) Update update-release-tracker.sh
+- [ca966b7b](https://github.com/kubedb/postgres/commit/ca966b7b) Update update-release-tracker.sh
+- [31bbecfe](https://github.com/kubedb/postgres/commit/31bbecfe) Add script to update release tracker on pr merge (#318)
+- [540d977f](https://github.com/kubedb/postgres/commit/540d977f) Update .kodiak.toml
+- [3e7514a7](https://github.com/kubedb/postgres/commit/3e7514a7) Various fixes (#317)
+- [1a5df17c](https://github.com/kubedb/postgres/commit/1a5df17c) Update to Kubernetes v1.18.3 (#315)
+- [717cfb3f](https://github.com/kubedb/postgres/commit/717cfb3f) Update to Kubernetes v1.18.3
+- [95537169](https://github.com/kubedb/postgres/commit/95537169) Create .kodiak.toml
+- [02579005](https://github.com/kubedb/postgres/commit/02579005) Use CRD v1 for Kubernetes >= 1.16 (#314)
+- [6ce6deb1](https://github.com/kubedb/postgres/commit/6ce6deb1) Update to Kubernetes v1.18.3 (#313)
+- [97f25ba0](https://github.com/kubedb/postgres/commit/97f25ba0) Fix e2e tests (#312)
+- [a989c377](https://github.com/kubedb/postgres/commit/a989c377) Update stash install commands
+- [6af12596](https://github.com/kubedb/postgres/commit/6af12596) Revendor kubedb.dev/apimachinery@master (#311)
+- [9969b064](https://github.com/kubedb/postgres/commit/9969b064) Update crazy-max/ghaction-docker-buildx flag
+- [e3360119](https://github.com/kubedb/postgres/commit/e3360119) Use updated operator labels in e2e tests (#309)
+- [c183007c](https://github.com/kubedb/postgres/commit/c183007c) Pass annotations from CRD to AppBinding (#310)
+- [55581f79](https://github.com/kubedb/postgres/commit/55581f79) Trigger the workflow on push or pull request
+- [931b88cf](https://github.com/kubedb/postgres/commit/931b88cf) Update CHANGELOG.md
+- [6f481749](https://github.com/kubedb/postgres/commit/6f481749) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#308)
+- [15f0611d](https://github.com/kubedb/postgres/commit/15f0611d) Fix error msg to reject halt when termination policy is 'DoNotTerminate'
+- [18aba058](https://github.com/kubedb/postgres/commit/18aba058) Change Pause to Halt (#307)
+- [7e9b1c69](https://github.com/kubedb/postgres/commit/7e9b1c69) feat: allow changes to nodeSelector (#298)
+- [a602faa1](https://github.com/kubedb/postgres/commit/a602faa1) Introduce spec.halted and removed dormant and snapshot crd (#305)
+- [cdd384d7](https://github.com/kubedb/postgres/commit/cdd384d7) Moved leader election to kubedb/pg-leader-election (#304)
+- [32c41db6](https://github.com/kubedb/postgres/commit/32c41db6) Use stash@v0.9.0-rc.4 release (#306)
+- [fa55b472](https://github.com/kubedb/postgres/commit/fa55b472) Make e2e tests stable in github actions (#303)
+- [afdc5fda](https://github.com/kubedb/postgres/commit/afdc5fda) Update client-go to kubernetes-1.16.3 (#301)
+- [d28eb55a](https://github.com/kubedb/postgres/commit/d28eb55a) Take out postgres docker images and Matrix test (#297)
+- [13fee32d](https://github.com/kubedb/postgres/commit/13fee32d) Fix default make command
+- [55dfb368](https://github.com/kubedb/postgres/commit/55dfb368) Update catalog values for make install command
+- [25f5b79c](https://github.com/kubedb/postgres/commit/25f5b79c) Use charts to install operator (#302)
+- [c5a4ed77](https://github.com/kubedb/postgres/commit/c5a4ed77) Add add-license make target
+- [aa1d98d0](https://github.com/kubedb/postgres/commit/aa1d98d0) Add license header to files (#296)
+- [fd356006](https://github.com/kubedb/postgres/commit/fd356006) Fix E2E testing for github actions (#295)
+- [6a3443a7](https://github.com/kubedb/postgres/commit/6a3443a7) Minio and S3 compatible storage fixes (#292)
+- [5150cf34](https://github.com/kubedb/postgres/commit/5150cf34) Run e2e tests using GitHub actions (#293)
+- [a4a3785b](https://github.com/kubedb/postgres/commit/a4a3785b) Validate DBVersionSpecs and fixed broken build (#294)
+- [b171a244](https://github.com/kubedb/postgres/commit/b171a244) Update go.yml
+- [1a61bf29](https://github.com/kubedb/postgres/commit/1a61bf29) Enable GitHub actions
+- [6b869b15](https://github.com/kubedb/postgres/commit/6b869b15) Update changelog
+
+
+

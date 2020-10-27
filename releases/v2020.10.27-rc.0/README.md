@@ -56,6 +56,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.1.0-beta.6](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-beta.6)
+
+- [397607a3](https://github.com/kubedb/percona-xtradb/commit/397607a3) Prepare for release v0.1.0-beta.6 (#118)
+- [a3b7642d](https://github.com/kubedb/percona-xtradb/commit/a3b7642d) Create SRV records for governing service (#117)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-beta.6](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-beta.6)

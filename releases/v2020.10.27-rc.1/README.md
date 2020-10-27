@@ -370,6 +370,331 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0-rc.1)
+
+- [4ac07f08](https://github.com/kubedb/percona-xtradb/commit/4ac07f08) Prepare for release v0.1.0-rc.1 (#119)
+- [397607a3](https://github.com/kubedb/percona-xtradb/commit/397607a3) Prepare for release v0.1.0-beta.6 (#118)
+- [a3b7642d](https://github.com/kubedb/percona-xtradb/commit/a3b7642d) Create SRV records for governing service (#117)
+- [9866a420](https://github.com/kubedb/percona-xtradb/commit/9866a420) Prepare for release v0.1.0-beta.5 (#116)
+- [f92081d1](https://github.com/kubedb/percona-xtradb/commit/f92081d1) Create separate governing service for each database (#115)
+- [6010b189](https://github.com/kubedb/percona-xtradb/commit/6010b189) Update KubeDB api (#114)
+- [95b57c72](https://github.com/kubedb/percona-xtradb/commit/95b57c72) Update readme
+- [14b2f1b2](https://github.com/kubedb/percona-xtradb/commit/14b2f1b2) Prepare for release v0.1.0-beta.4 (#113)
+- [eff1d265](https://github.com/kubedb/percona-xtradb/commit/eff1d265) Update KubeDB api (#112)
+- [a2878d4a](https://github.com/kubedb/percona-xtradb/commit/a2878d4a) Update Kubernetes v1.18.9 dependencies (#111)
+- [51f0d104](https://github.com/kubedb/percona-xtradb/commit/51f0d104) Update KubeDB api (#110)
+- [fcf5343b](https://github.com/kubedb/percona-xtradb/commit/fcf5343b) Update for release Stash@v2020.10.21 (#109)
+- [9fe68d43](https://github.com/kubedb/percona-xtradb/commit/9fe68d43) Fix init validator (#107)
+- [1c528cff](https://github.com/kubedb/percona-xtradb/commit/1c528cff) Update KubeDB api (#108)
+- [99d23f3d](https://github.com/kubedb/percona-xtradb/commit/99d23f3d) Update KubeDB api (#106)
+- [d0807640](https://github.com/kubedb/percona-xtradb/commit/d0807640) Update Kubernetes v1.18.9 dependencies (#105)
+- [bac7705b](https://github.com/kubedb/percona-xtradb/commit/bac7705b) Update KubeDB api (#104)
+- [475aabd5](https://github.com/kubedb/percona-xtradb/commit/475aabd5) Update KubeDB api (#103)
+- [60f7e5a9](https://github.com/kubedb/percona-xtradb/commit/60f7e5a9) Update KubeDB api (#102)
+- [84a97ced](https://github.com/kubedb/percona-xtradb/commit/84a97ced) Update KubeDB api (#101)
+- [d4a7b7c5](https://github.com/kubedb/percona-xtradb/commit/d4a7b7c5) Update Kubernetes v1.18.9 dependencies (#100)
+- [b818a4c5](https://github.com/kubedb/percona-xtradb/commit/b818a4c5) Update KubeDB api (#99)
+- [03df7739](https://github.com/kubedb/percona-xtradb/commit/03df7739) Update KubeDB api (#98)
+- [2f3ce0e6](https://github.com/kubedb/percona-xtradb/commit/2f3ce0e6) Update KubeDB api (#96)
+- [94e009e8](https://github.com/kubedb/percona-xtradb/commit/94e009e8) Update repository config (#95)
+- [fc61d440](https://github.com/kubedb/percona-xtradb/commit/fc61d440) Update repository config (#94)
+- [35f5b2bb](https://github.com/kubedb/percona-xtradb/commit/35f5b2bb) Update repository config (#93)
+- [d01e39dd](https://github.com/kubedb/percona-xtradb/commit/d01e39dd) Initialize statefulset watcher from cmd/server/options.go (#92)
+- [41bf932f](https://github.com/kubedb/percona-xtradb/commit/41bf932f) Update KubeDB api (#91)
+- [da92a1f3](https://github.com/kubedb/percona-xtradb/commit/da92a1f3) Update Kubernetes v1.18.9 dependencies (#90)
+- [554beafb](https://github.com/kubedb/percona-xtradb/commit/554beafb) Publish docker images to ghcr.io (#89)
+- [4c7031e1](https://github.com/kubedb/percona-xtradb/commit/4c7031e1) Update KubeDB api (#88)
+- [418c767a](https://github.com/kubedb/percona-xtradb/commit/418c767a) Update KubeDB api (#87)
+- [94eef91e](https://github.com/kubedb/percona-xtradb/commit/94eef91e) Update KubeDB api (#86)
+- [f3c2a360](https://github.com/kubedb/percona-xtradb/commit/f3c2a360) Update KubeDB api (#85)
+- [107bb6a6](https://github.com/kubedb/percona-xtradb/commit/107bb6a6) Update repository config (#84)
+- [938e64bc](https://github.com/kubedb/percona-xtradb/commit/938e64bc) Cleanup monitoring spec api (#83)
+- [deeaad8f](https://github.com/kubedb/percona-xtradb/commit/deeaad8f) Use conditions to handle database initialization (#80)
+- [798c3ddc](https://github.com/kubedb/percona-xtradb/commit/798c3ddc) Update Kubernetes v1.18.9 dependencies (#82)
+- [16c72ba6](https://github.com/kubedb/percona-xtradb/commit/16c72ba6) Updated the exporter port and service (#81)
+- [9314faf1](https://github.com/kubedb/percona-xtradb/commit/9314faf1) Update for release Stash@v2020.09.29 (#79)
+- [6cb53efc](https://github.com/kubedb/percona-xtradb/commit/6cb53efc) Update Kubernetes v1.18.9 dependencies (#78)
+- [fd2b8cdd](https://github.com/kubedb/percona-xtradb/commit/fd2b8cdd) Update Kubernetes v1.18.9 dependencies (#76)
+- [9d1038db](https://github.com/kubedb/percona-xtradb/commit/9d1038db) Update repository config (#75)
+- [41a05a44](https://github.com/kubedb/percona-xtradb/commit/41a05a44) Update repository config (#74)
+- [eccd2acd](https://github.com/kubedb/percona-xtradb/commit/eccd2acd) Update Kubernetes v1.18.9 dependencies (#73)
+- [27635f1c](https://github.com/kubedb/percona-xtradb/commit/27635f1c) Update Kubernetes v1.18.3 dependencies (#72)
+- [792326c7](https://github.com/kubedb/percona-xtradb/commit/792326c7) Use common event recorder (#71)
+- [0ff583b8](https://github.com/kubedb/percona-xtradb/commit/0ff583b8) Prepare for release v0.1.0-beta.3 (#70)
+- [627bc039](https://github.com/kubedb/percona-xtradb/commit/627bc039) Use new `spec.init` section (#69)
+- [f79e4771](https://github.com/kubedb/percona-xtradb/commit/f79e4771) Update Kubernetes v1.18.3 dependencies (#68)
+- [257954c2](https://github.com/kubedb/percona-xtradb/commit/257954c2) Add license verifier (#67)
+- [e06eec6b](https://github.com/kubedb/percona-xtradb/commit/e06eec6b) Update for release Stash@v2020.09.16 (#66)
+- [29901348](https://github.com/kubedb/percona-xtradb/commit/29901348) Update Kubernetes v1.18.3 dependencies (#65)
+- [02d5bfde](https://github.com/kubedb/percona-xtradb/commit/02d5bfde) Use background deletion policy
+- [6e6d8b5b](https://github.com/kubedb/percona-xtradb/commit/6e6d8b5b) Update Kubernetes v1.18.3 dependencies (#63)
+- [7601a237](https://github.com/kubedb/percona-xtradb/commit/7601a237) Use AppsCode Community License (#62)
+- [4d1a2424](https://github.com/kubedb/percona-xtradb/commit/4d1a2424) Update Kubernetes v1.18.3 dependencies (#61)
+- [471b6def](https://github.com/kubedb/percona-xtradb/commit/471b6def) Prepare for release v0.1.0-beta.2 (#60)
+- [9423a70f](https://github.com/kubedb/percona-xtradb/commit/9423a70f) Update release.yml
+- [85d1d036](https://github.com/kubedb/percona-xtradb/commit/85d1d036) Use updated apis (#59)
+- [6811b8dc](https://github.com/kubedb/percona-xtradb/commit/6811b8dc) Update Kubernetes v1.18.3 dependencies (#53)
+- [4212d2a0](https://github.com/kubedb/percona-xtradb/commit/4212d2a0) Update Kubernetes v1.18.3 dependencies (#52)
+- [659d646c](https://github.com/kubedb/percona-xtradb/commit/659d646c) Update Kubernetes v1.18.3 dependencies (#51)
+- [a868e0c3](https://github.com/kubedb/percona-xtradb/commit/a868e0c3) Update Kubernetes v1.18.3 dependencies (#50)
+- [162e6ca4](https://github.com/kubedb/percona-xtradb/commit/162e6ca4) Update Kubernetes v1.18.3 dependencies (#49)
+- [a7fa1fbf](https://github.com/kubedb/percona-xtradb/commit/a7fa1fbf) Update Kubernetes v1.18.3 dependencies (#48)
+- [b6a4583f](https://github.com/kubedb/percona-xtradb/commit/b6a4583f) Remove dependency on enterprise operator (#47)
+- [a8909b38](https://github.com/kubedb/percona-xtradb/commit/a8909b38) Allow configuring k8s & db version in e2e tests (#46)
+- [4d79d26e](https://github.com/kubedb/percona-xtradb/commit/4d79d26e) Update to Kubernetes v1.18.3 (#45)
+- [189f3212](https://github.com/kubedb/percona-xtradb/commit/189f3212) Trigger e2e tests on /ok-to-test command (#44)
+- [a037bd03](https://github.com/kubedb/percona-xtradb/commit/a037bd03) Update to Kubernetes v1.18.3 (#43)
+- [33cabdf3](https://github.com/kubedb/percona-xtradb/commit/33cabdf3) Update to Kubernetes v1.18.3 (#42)
+- [28b9fc0f](https://github.com/kubedb/percona-xtradb/commit/28b9fc0f) Prepare for release v0.1.0-beta.1 (#41)
+- [fb4f5444](https://github.com/kubedb/percona-xtradb/commit/fb4f5444) Update for release Stash@v2020.07.09-beta.0 (#39)
+- [ad221aa2](https://github.com/kubedb/percona-xtradb/commit/ad221aa2) include Makefile.env
+- [841ec855](https://github.com/kubedb/percona-xtradb/commit/841ec855) Allow customizing chart registry (#38)
+- [bb608980](https://github.com/kubedb/percona-xtradb/commit/bb608980) Update License (#37)
+- [cf8cd2fa](https://github.com/kubedb/percona-xtradb/commit/cf8cd2fa) Update for release Stash@v2020.07.08-beta.0 (#36)
+- [7b28c4b9](https://github.com/kubedb/percona-xtradb/commit/7b28c4b9) Update to Kubernetes v1.18.3 (#35)
+- [848ff94a](https://github.com/kubedb/percona-xtradb/commit/848ff94a) Update ci.yml
+- [d124dd6a](https://github.com/kubedb/percona-xtradb/commit/d124dd6a) Load stash version from .env file for make (#34)
+- [1de40e1d](https://github.com/kubedb/percona-xtradb/commit/1de40e1d) Update update-release-tracker.sh
+- [7a4503be](https://github.com/kubedb/percona-xtradb/commit/7a4503be) Update update-release-tracker.sh
+- [ad0dfaf8](https://github.com/kubedb/percona-xtradb/commit/ad0dfaf8) Add script to update release tracker on pr merge (#33)
+- [aaca6bd9](https://github.com/kubedb/percona-xtradb/commit/aaca6bd9) Update .kodiak.toml
+- [9a495724](https://github.com/kubedb/percona-xtradb/commit/9a495724) Various fixes (#32)
+- [9b6c9a53](https://github.com/kubedb/percona-xtradb/commit/9b6c9a53) Update to Kubernetes v1.18.3 (#31)
+- [67912547](https://github.com/kubedb/percona-xtradb/commit/67912547) Update to Kubernetes v1.18.3
+- [fc8ce4cc](https://github.com/kubedb/percona-xtradb/commit/fc8ce4cc) Create .kodiak.toml
+- [8aba5ef2](https://github.com/kubedb/percona-xtradb/commit/8aba5ef2) Use CRD v1 for Kubernetes >= 1.16 (#30)
+- [e81d2b4c](https://github.com/kubedb/percona-xtradb/commit/e81d2b4c) Update to Kubernetes v1.18.3 (#29)
+- [2a32730a](https://github.com/kubedb/percona-xtradb/commit/2a32730a) Fix e2e tests (#28)
+- [a79626d9](https://github.com/kubedb/percona-xtradb/commit/a79626d9) Update stash install commands
+- [52fc2059](https://github.com/kubedb/percona-xtradb/commit/52fc2059) Use recommended kubernetes app labels (#27)
+- [93dc10ec](https://github.com/kubedb/percona-xtradb/commit/93dc10ec) Update crazy-max/ghaction-docker-buildx flag
+- [ce5717e2](https://github.com/kubedb/percona-xtradb/commit/ce5717e2) Revendor kubedb.dev/apimachinery@master (#26)
+- [c1ca649d](https://github.com/kubedb/percona-xtradb/commit/c1ca649d) Pass annotations from CRD to AppBinding (#25)
+- [f327cc01](https://github.com/kubedb/percona-xtradb/commit/f327cc01) Trigger the workflow on push or pull request
+- [02432393](https://github.com/kubedb/percona-xtradb/commit/02432393) Update CHANGELOG.md
+- [a89dbc55](https://github.com/kubedb/percona-xtradb/commit/a89dbc55) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#24)
+- [e69742de](https://github.com/kubedb/percona-xtradb/commit/e69742de) Update for percona-xtradb standalone restoresession (#23)
+- [958877a1](https://github.com/kubedb/percona-xtradb/commit/958877a1) Various fixes (#21)
+- [fb0d7a35](https://github.com/kubedb/percona-xtradb/commit/fb0d7a35) Update kubernetes client-go to 1.16.3 (#20)
+- [293fe9a4](https://github.com/kubedb/percona-xtradb/commit/293fe9a4) Fix default make command
+- [39358e3b](https://github.com/kubedb/percona-xtradb/commit/39358e3b) Use charts to install operator (#19)
+- [6c5b3395](https://github.com/kubedb/percona-xtradb/commit/6c5b3395) Several fixes and update tests (#18)
+- [84ff139f](https://github.com/kubedb/percona-xtradb/commit/84ff139f) Various Makefile improvements (#16)
+- [e2737f65](https://github.com/kubedb/percona-xtradb/commit/e2737f65) Remove EnableStatusSubresource (#17)
+- [fb886b07](https://github.com/kubedb/percona-xtradb/commit/fb886b07) Run e2e tests using GitHub actions (#12)
+- [35b155d9](https://github.com/kubedb/percona-xtradb/commit/35b155d9) Validate DBVersionSpecs and fixed broken build (#15)
+- [67794bd9](https://github.com/kubedb/percona-xtradb/commit/67794bd9) Update go.yml
+- [f7666354](https://github.com/kubedb/percona-xtradb/commit/f7666354) Various changes for Percona XtraDB (#13)
+- [ceb7ba67](https://github.com/kubedb/percona-xtradb/commit/ceb7ba67) Enable GitHub actions
+- [f5a112af](https://github.com/kubedb/percona-xtradb/commit/f5a112af) Refactor for ProxySQL Integration (#11)
+- [26602049](https://github.com/kubedb/percona-xtradb/commit/26602049) Revendor
+- [71957d40](https://github.com/kubedb/percona-xtradb/commit/71957d40) Rename from perconaxtradb to percona-xtradb (#10)
+- [b526ccd8](https://github.com/kubedb/percona-xtradb/commit/b526ccd8) Set database version in AppBinding (#7)
+- [336e7203](https://github.com/kubedb/percona-xtradb/commit/336e7203) Percona XtraDB Cluster support (#9)
+- [71a42f7a](https://github.com/kubedb/percona-xtradb/commit/71a42f7a) Don't set annotation to AppBinding (#8)
+- [282298cb](https://github.com/kubedb/percona-xtradb/commit/282298cb) Fix UpsertDatabaseAnnotation() function (#4)
+- [2ab9dddf](https://github.com/kubedb/percona-xtradb/commit/2ab9dddf) Add license header to Makefiles (#6)
+- [df135c08](https://github.com/kubedb/percona-xtradb/commit/df135c08) Add install, uninstall and purge command in Makefile (#3)
+- [73d3a845](https://github.com/kubedb/percona-xtradb/commit/73d3a845) Update .gitignore
+- [59a4e754](https://github.com/kubedb/percona-xtradb/commit/59a4e754) Add Makefile (#2)
+- [f3551ddc](https://github.com/kubedb/percona-xtradb/commit/f3551ddc) Rename package path (#1)
+- [56a241d6](https://github.com/kubedb/percona-xtradb/commit/56a241d6) Use explicit IP whitelist instead of automatic IP whitelist (#151)
+- [9f0b5ca3](https://github.com/kubedb/percona-xtradb/commit/9f0b5ca3) Update to k8s 1.14.0 client libraries using go.mod (#147)
+- [73ad7c30](https://github.com/kubedb/percona-xtradb/commit/73ad7c30) Update changelog
+- [ccc36b5c](https://github.com/kubedb/percona-xtradb/commit/ccc36b5c) Update README.md
+- [9769e8e1](https://github.com/kubedb/percona-xtradb/commit/9769e8e1) Start next dev cycle
+- [a3fa468a](https://github.com/kubedb/percona-xtradb/commit/a3fa468a) Prepare release 0.5.0
+- [6d8862de](https://github.com/kubedb/percona-xtradb/commit/6d8862de) Mysql Group Replication tests (#146)
+- [49544e55](https://github.com/kubedb/percona-xtradb/commit/49544e55) Mysql Group Replication (#144)
+- [a85d4b44](https://github.com/kubedb/percona-xtradb/commit/a85d4b44) Revendor dependencies
+- [9c538460](https://github.com/kubedb/percona-xtradb/commit/9c538460) Changed Role to exclude psp without name (#143)
+- [6cace93b](https://github.com/kubedb/percona-xtradb/commit/6cace93b) Modify mutator validator names (#142)
+- [da0c19b9](https://github.com/kubedb/percona-xtradb/commit/da0c19b9) Update changelog
+- [b79c80d6](https://github.com/kubedb/percona-xtradb/commit/b79c80d6) Start next dev cycle
+- [838d9459](https://github.com/kubedb/percona-xtradb/commit/838d9459) Prepare release 0.4.0
+- [bf0f2c14](https://github.com/kubedb/percona-xtradb/commit/bf0f2c14) Added PSP names and init container image in testing framework (#141)
+- [3d227570](https://github.com/kubedb/percona-xtradb/commit/3d227570) Added PSP support for mySQL (#137)
+- [7b766657](https://github.com/kubedb/percona-xtradb/commit/7b766657) Don't inherit app.kubernetes.io labels from CRD into offshoots (#140)
+- [29e23470](https://github.com/kubedb/percona-xtradb/commit/29e23470) Support for init container (#139)
+- [3e1556f6](https://github.com/kubedb/percona-xtradb/commit/3e1556f6) Add role label to stats service (#138)
+- [ee078af9](https://github.com/kubedb/percona-xtradb/commit/ee078af9) Update changelog
+- [978f1139](https://github.com/kubedb/percona-xtradb/commit/978f1139) Update Kubernetes client libraries to 1.13.0 release (#136)
+- [821f23d1](https://github.com/kubedb/percona-xtradb/commit/821f23d1) Start next dev cycle
+- [678b26aa](https://github.com/kubedb/percona-xtradb/commit/678b26aa) Prepare release 0.3.0
+- [40ad7a23](https://github.com/kubedb/percona-xtradb/commit/40ad7a23) Initial RBAC support: create and use K8s service account for MySQL (#134)
+- [98f03387](https://github.com/kubedb/percona-xtradb/commit/98f03387) Revendor dependencies (#135)
+- [dfe92615](https://github.com/kubedb/percona-xtradb/commit/dfe92615) Revendor dependencies : Retry Failed Scheduler Snapshot (#133)
+- [71f8a350](https://github.com/kubedb/percona-xtradb/commit/71f8a350) Added ephemeral StorageType support (#132)
+- [0a6b6e46](https://github.com/kubedb/percona-xtradb/commit/0a6b6e46) Added support of MySQL 8.0.14 (#131)
+- [99e57a9e](https://github.com/kubedb/percona-xtradb/commit/99e57a9e) Use PVC spec from snapshot if provided (#130)
+- [61497be6](https://github.com/kubedb/percona-xtradb/commit/61497be6) Revendored and updated tests for 'Prevent prefix matching of multiple snapshots' (#129)
+- [7eafe088](https://github.com/kubedb/percona-xtradb/commit/7eafe088) Add certificate health checker (#128)
+- [973ec416](https://github.com/kubedb/percona-xtradb/commit/973ec416) Update E2E test: Env update is not restricted anymore (#127)
+- [339975ff](https://github.com/kubedb/percona-xtradb/commit/339975ff) Fix AppBinding (#126)
+- [62050a72](https://github.com/kubedb/percona-xtradb/commit/62050a72) Update changelog
+- [2d454043](https://github.com/kubedb/percona-xtradb/commit/2d454043) Prepare release 0.2.0
+- [6941ea59](https://github.com/kubedb/percona-xtradb/commit/6941ea59) Reuse event recorder (#125)
+- [b77e66c4](https://github.com/kubedb/percona-xtradb/commit/b77e66c4) OSM binary upgraded in mysql-tools (#123)
+- [c9228086](https://github.com/kubedb/percona-xtradb/commit/c9228086) Revendor dependencies (#124)
+- [97837120](https://github.com/kubedb/percona-xtradb/commit/97837120) Test for faulty snapshot (#122)
+- [c3e995b6](https://github.com/kubedb/percona-xtradb/commit/c3e995b6) Start next dev cycle
+- [8a4f3b13](https://github.com/kubedb/percona-xtradb/commit/8a4f3b13) Prepare release 0.2.0-rc.2
+- [79942191](https://github.com/kubedb/percona-xtradb/commit/79942191) Upgrade database secret keys (#121)
+- [1747fdf5](https://github.com/kubedb/percona-xtradb/commit/1747fdf5) Ignore mutation of fields to default values during update (#120)
+- [d902d588](https://github.com/kubedb/percona-xtradb/commit/d902d588) Support configuration options for exporter sidecar (#119)
+- [dd7c3f44](https://github.com/kubedb/percona-xtradb/commit/dd7c3f44) Use flags.DumpAll (#118)
+- [bc1ef05b](https://github.com/kubedb/percona-xtradb/commit/bc1ef05b) Start next dev cycle
+- [9d33c1a0](https://github.com/kubedb/percona-xtradb/commit/9d33c1a0) Prepare release 0.2.0-rc.1
+- [b076e141](https://github.com/kubedb/percona-xtradb/commit/b076e141) Apply cleanup (#117)
+- [7dc5641f](https://github.com/kubedb/percona-xtradb/commit/7dc5641f) Set periodic analytics (#116)
+- [90ea6acc](https://github.com/kubedb/percona-xtradb/commit/90ea6acc) Introduce AppBinding support (#115)
+- [a882d76a](https://github.com/kubedb/percona-xtradb/commit/a882d76a) Fix Analytics (#114)
+- [0961009c](https://github.com/kubedb/percona-xtradb/commit/0961009c) Error out from cron job for deprecated dbversion (#113)
+- [da1f4e27](https://github.com/kubedb/percona-xtradb/commit/da1f4e27) Add CRDs without observation when operator starts (#112)
+- [0a754d2f](https://github.com/kubedb/percona-xtradb/commit/0a754d2f) Update changelog
+- [b09bc6e1](https://github.com/kubedb/percona-xtradb/commit/b09bc6e1) Start next dev cycle
+- [0d467ccb](https://github.com/kubedb/percona-xtradb/commit/0d467ccb) Prepare release 0.2.0-rc.0
+- [c757007a](https://github.com/kubedb/percona-xtradb/commit/c757007a) Merge commit 'cc6607a3589a79a5e61bb198d370ea0ae30b9d09'
+- [ddfe4be1](https://github.com/kubedb/percona-xtradb/commit/ddfe4be1) Support custom user passowrd for backup (#111)
+- [8c84ba20](https://github.com/kubedb/percona-xtradb/commit/8c84ba20) Support providing resources for monitoring container (#110)
+- [7bcfbc48](https://github.com/kubedb/percona-xtradb/commit/7bcfbc48) Update kubernetes client libraries to 1.12.0 (#109)
+- [145bba2b](https://github.com/kubedb/percona-xtradb/commit/145bba2b) Add validation webhook xray (#108)
+- [6da1887f](https://github.com/kubedb/percona-xtradb/commit/6da1887f) Various Fixes (#107)
+- [111519e9](https://github.com/kubedb/percona-xtradb/commit/111519e9) Merge ports from service template (#105)
+- [38147ef1](https://github.com/kubedb/percona-xtradb/commit/38147ef1) Replace doNotPause with TerminationPolicy = DoNotTerminate (#104)
+- [e28ebc47](https://github.com/kubedb/percona-xtradb/commit/e28ebc47) Pass resources to NamespaceValidator (#103)
+- [aed12bf5](https://github.com/kubedb/percona-xtradb/commit/aed12bf5) Various fixes (#102)
+- [3d372ef6](https://github.com/kubedb/percona-xtradb/commit/3d372ef6) Support Livecycle hook and container probes (#101)
+- [b6ef6887](https://github.com/kubedb/percona-xtradb/commit/b6ef6887) Check if Kubernetes version is supported before running operator (#100)
+- [d89e7783](https://github.com/kubedb/percona-xtradb/commit/d89e7783) Update package alias (#99)
+- [f0b44b3a](https://github.com/kubedb/percona-xtradb/commit/f0b44b3a) Start next dev cycle
+- [a79ff03b](https://github.com/kubedb/percona-xtradb/commit/a79ff03b) Prepare release 0.2.0-beta.1
+- [0d8d3cca](https://github.com/kubedb/percona-xtradb/commit/0d8d3cca) Revendor api (#98)
+- [2f850243](https://github.com/kubedb/percona-xtradb/commit/2f850243) Fix tests (#97)
+- [4ced0bfe](https://github.com/kubedb/percona-xtradb/commit/4ced0bfe) Revendor api for catalog apigroup (#96)
+- [e7695400](https://github.com/kubedb/percona-xtradb/commit/e7695400) Update chanelog
+- [8e358aea](https://github.com/kubedb/percona-xtradb/commit/8e358aea) Use --pull flag with docker build (#20) (#95)
+- [d2a97d90](https://github.com/kubedb/percona-xtradb/commit/d2a97d90) Merge commit '16c769ee4686576f172a6b79a10d25bfd79ca4a4'
+- [d1fe8a8a](https://github.com/kubedb/percona-xtradb/commit/d1fe8a8a) Start next dev cycle
+- [04eb9bb5](https://github.com/kubedb/percona-xtradb/commit/04eb9bb5) Prepare release 0.2.0-beta.0
+- [9dfea960](https://github.com/kubedb/percona-xtradb/commit/9dfea960) Pass extra args to tools.sh (#93)
+- [47dd3cad](https://github.com/kubedb/percona-xtradb/commit/47dd3cad) Don't try to wipe out Snapshot data for Local backend (#92)
+- [9c4d485b](https://github.com/kubedb/percona-xtradb/commit/9c4d485b) Add missing alt-tag docker folder mysql-tools images (#91)
+- [be72f784](https://github.com/kubedb/percona-xtradb/commit/be72f784) Use suffix for updated DBImage & Stop working for deprecated *Versions (#90)
+- [05c8f14d](https://github.com/kubedb/percona-xtradb/commit/05c8f14d) Search used secrets within same namespace of DB object (#89)
+- [0d94c946](https://github.com/kubedb/percona-xtradb/commit/0d94c946) Support Termination Policy (#88)
+- [8775ddf7](https://github.com/kubedb/percona-xtradb/commit/8775ddf7) Update builddeps.sh
+- [796c93da](https://github.com/kubedb/percona-xtradb/commit/796c93da) Revendor k8s.io/apiserver (#87)
+- [5a1e3f57](https://github.com/kubedb/percona-xtradb/commit/5a1e3f57) Revendor kubernetes-1.11.3 (#86)
+- [809a3c49](https://github.com/kubedb/percona-xtradb/commit/809a3c49) Support UpdateStrategy (#84)
+- [372c52ef](https://github.com/kubedb/percona-xtradb/commit/372c52ef) Add TerminationPolicy for databases (#83)
+- [c01b55e8](https://github.com/kubedb/percona-xtradb/commit/c01b55e8) Revendor api (#82)
+- [5e196b95](https://github.com/kubedb/percona-xtradb/commit/5e196b95) Use IntHash as status.observedGeneration (#81)
+- [2da3bb1b](https://github.com/kubedb/percona-xtradb/commit/2da3bb1b) fix github status (#80)
+- [121d0a98](https://github.com/kubedb/percona-xtradb/commit/121d0a98) Update pipeline (#79)
+- [532e3137](https://github.com/kubedb/percona-xtradb/commit/532e3137) Fix E2E test for minikube (#78)
+- [0f107815](https://github.com/kubedb/percona-xtradb/commit/0f107815) Update pipeline (#77)
+- [851679e2](https://github.com/kubedb/percona-xtradb/commit/851679e2) Migrate MySQL (#75)
+- [0b997855](https://github.com/kubedb/percona-xtradb/commit/0b997855) Use official exporter image (#74)
+- [702d5736](https://github.com/kubedb/percona-xtradb/commit/702d5736) Fix uninstall for concourse (#70)
+- [9ee88bd2](https://github.com/kubedb/percona-xtradb/commit/9ee88bd2) Update status.ObservedGeneration for failure phase (#73)
+- [559cdb6a](https://github.com/kubedb/percona-xtradb/commit/559cdb6a) Keep track of ObservedGenerationHash (#72)
+- [61c8b898](https://github.com/kubedb/percona-xtradb/commit/61c8b898) Use NewObservableHandler (#71)
+- [421274dc](https://github.com/kubedb/percona-xtradb/commit/421274dc) Merge commit '887037c7e36289e3135dda99346fccc7e2ce303b'
+- [6a41d9bc](https://github.com/kubedb/percona-xtradb/commit/6a41d9bc) Fix uninstall for concourse (#69)
+- [f1af09db](https://github.com/kubedb/percona-xtradb/commit/f1af09db) Update README.md
+- [bf3f1823](https://github.com/kubedb/percona-xtradb/commit/bf3f1823) Revise immutable spec fields (#68)
+- [26adec3b](https://github.com/kubedb/percona-xtradb/commit/26adec3b) Merge commit '5f83049fc01dc1d0709ac0014d6f3a0f74a39417'
+- [31a97820](https://github.com/kubedb/percona-xtradb/commit/31a97820) Support passing args via PodTemplate (#67)
+- [60f4ee23](https://github.com/kubedb/percona-xtradb/commit/60f4ee23) Introduce storageType : ephemeral (#66)
+- [bfd3fcd6](https://github.com/kubedb/percona-xtradb/commit/bfd3fcd6) Add support for running tests on cncf cluster (#63)
+- [fba47b19](https://github.com/kubedb/percona-xtradb/commit/fba47b19) Merge commit 'e010cbb302c8d59d4cf69dd77085b046ff423b78'
+- [6be96ce0](https://github.com/kubedb/percona-xtradb/commit/6be96ce0) Revendor api (#65)
+- [0f629ab3](https://github.com/kubedb/percona-xtradb/commit/0f629ab3) Keep track of observedGeneration in status (#64)
+- [c9a9596f](https://github.com/kubedb/percona-xtradb/commit/c9a9596f) Separate StatsService for monitoring (#62)
+- [62854641](https://github.com/kubedb/percona-xtradb/commit/62854641) Use MySQLVersion for MySQL images (#61)
+- [3c170c56](https://github.com/kubedb/percona-xtradb/commit/3c170c56) Use updated crd spec (#60)
+- [873c285e](https://github.com/kubedb/percona-xtradb/commit/873c285e) Rename OffshootLabels to OffshootSelectors (#59)
+- [2fd02169](https://github.com/kubedb/percona-xtradb/commit/2fd02169) Revendor api (#58)
+- [a127d6cd](https://github.com/kubedb/percona-xtradb/commit/a127d6cd) Use kmodules monitoring and objectstore api (#57)
+- [2f79a038](https://github.com/kubedb/percona-xtradb/commit/2f79a038) Support custom configuration (#52)
+- [49c67f00](https://github.com/kubedb/percona-xtradb/commit/49c67f00) Merge commit '44e6d4985d93556e39ddcc4677ada5437fc5be64'
+- [fb28bc6c](https://github.com/kubedb/percona-xtradb/commit/fb28bc6c) Refactor concourse scripts (#56)
+- [4de4ced1](https://github.com/kubedb/percona-xtradb/commit/4de4ced1) Fix command `./hack/make.py test e2e` (#55)
+- [3082123e](https://github.com/kubedb/percona-xtradb/commit/3082123e) Set generated binary name to my-operator (#54)
+- [5698f314](https://github.com/kubedb/percona-xtradb/commit/5698f314) Don't add admission/v1beta1 group as a prioritized version (#53)
+- [696135d5](https://github.com/kubedb/percona-xtradb/commit/696135d5) Fix travis build (#48)
+- [c519ef89](https://github.com/kubedb/percona-xtradb/commit/c519ef89) Format shell script (#51)
+- [c93e2f40](https://github.com/kubedb/percona-xtradb/commit/c93e2f40) Enable status subresource for crds (#50)
+- [edd951ca](https://github.com/kubedb/percona-xtradb/commit/edd951ca) Update client-go to v8.0.0 (#49)
+- [520597a6](https://github.com/kubedb/percona-xtradb/commit/520597a6) Merge commit '71850e2c90cda8fc588b7dedb340edf3d316baea'
+- [f1549e95](https://github.com/kubedb/percona-xtradb/commit/f1549e95) Support ENV variables in CRDs (#46)
+- [67f37780](https://github.com/kubedb/percona-xtradb/commit/67f37780) Updated osm version to 0.7.1 (#47)
+- [10e309c0](https://github.com/kubedb/percona-xtradb/commit/10e309c0) Prepare release 0.1.0
+- [62a8fbbd](https://github.com/kubedb/percona-xtradb/commit/62a8fbbd) Fixed missing error return (#45)
+- [8c05bb83](https://github.com/kubedb/percona-xtradb/commit/8c05bb83) Revendor dependencies (#44)
+- [ca811a2e](https://github.com/kubedb/percona-xtradb/commit/ca811a2e) Fix release script (#43)
+- [b79541f6](https://github.com/kubedb/percona-xtradb/commit/b79541f6) Add changelog (#42)
+- [a2d13c82](https://github.com/kubedb/percona-xtradb/commit/a2d13c82) Concourse (#41)
+- [95b2186e](https://github.com/kubedb/percona-xtradb/commit/95b2186e) Fixed kubeconfig plugin for Cloud Providers && Storage is required for MySQL (#40)
+- [37762093](https://github.com/kubedb/percona-xtradb/commit/37762093) Refactored E2E testing to support E2E testing with admission webhook in cloud (#38)
+- [b6fe72ca](https://github.com/kubedb/percona-xtradb/commit/b6fe72ca) Remove lost+found directory before initializing mysql (#39)
+- [18ebb959](https://github.com/kubedb/percona-xtradb/commit/18ebb959) Skip delete requests for empty resources (#37)
+- [eeb7add0](https://github.com/kubedb/percona-xtradb/commit/eeb7add0) Don't panic if admission options is nil (#36)
+- [ccb59db0](https://github.com/kubedb/percona-xtradb/commit/ccb59db0) Disable admission controllers for webhook server (#35)
+- [b1c6c149](https://github.com/kubedb/percona-xtradb/commit/b1c6c149) Separate ApiGroup for Mutating and Validating webhook && upgraded osm to 0.7.0 (#34)
+- [b1890f7c](https://github.com/kubedb/percona-xtradb/commit/b1890f7c) Update client-go to 7.0.0 (#33)
+- [08c81726](https://github.com/kubedb/percona-xtradb/commit/08c81726) Added update script for mysql-tools:8 (#32)
+- [4bbe6c9f](https://github.com/kubedb/percona-xtradb/commit/4bbe6c9f) Added support of mysql:5.7 (#31)
+- [e657f512](https://github.com/kubedb/percona-xtradb/commit/e657f512) Add support for one informer and N-eventHandler for snapshot, dromantDB and Job (#30)
+- [bbcd48d6](https://github.com/kubedb/percona-xtradb/commit/bbcd48d6) Use metrics from kube apiserver (#29)
+- [1687e197](https://github.com/kubedb/percona-xtradb/commit/1687e197) Bundle webhook server and Use SharedInformerFactory (#28)
+- [cd0efc00](https://github.com/kubedb/percona-xtradb/commit/cd0efc00) Move MySQL AdmissionWebhook packages into MySQL repository (#27)
+- [46065e18](https://github.com/kubedb/percona-xtradb/commit/46065e18) Use mysql:8.0.3 image as mysql:8.0 (#26)
+- [1b73529f](https://github.com/kubedb/percona-xtradb/commit/1b73529f) Update README.md
+- [62eaa397](https://github.com/kubedb/percona-xtradb/commit/62eaa397) Update README.md
+- [c53704c7](https://github.com/kubedb/percona-xtradb/commit/c53704c7) Remove Docker pull count
+- [b9ec877e](https://github.com/kubedb/percona-xtradb/commit/b9ec877e) Add travis yaml (#25)
+- [ade3571c](https://github.com/kubedb/percona-xtradb/commit/ade3571c) Start next dev cycle
+- [b4b749df](https://github.com/kubedb/percona-xtradb/commit/b4b749df) Prepare release 0.1.0-beta.2
+- [4d46d95d](https://github.com/kubedb/percona-xtradb/commit/4d46d95d) Migrating to apps/v1 (#23)
+- [5ee1ac8c](https://github.com/kubedb/percona-xtradb/commit/5ee1ac8c) Update validation (#22)
+- [dd023c50](https://github.com/kubedb/percona-xtradb/commit/dd023c50)  Fix dormantDB matching: pass same type to Equal method (#21)
+- [37a1e4fd](https://github.com/kubedb/percona-xtradb/commit/37a1e4fd) Use official code generator scripts (#20)
+- [485d3d7c](https://github.com/kubedb/percona-xtradb/commit/485d3d7c) Fixed dormantdb matching & Raised throttling time & Fixed MySQL version Checking (#19)
+- [6db2ae8d](https://github.com/kubedb/percona-xtradb/commit/6db2ae8d) Prepare release 0.1.0-beta.1
+- [ebbfec2f](https://github.com/kubedb/percona-xtradb/commit/ebbfec2f) converted to k8s 1.9 & Improved InitSpec in DormantDB & Added support for Job watcher & Improved Tests (#17)
+- [a484e0e5](https://github.com/kubedb/percona-xtradb/commit/a484e0e5) Fixed logger, analytics and removed rbac stuff (#16)
+- [7aa2d1d2](https://github.com/kubedb/percona-xtradb/commit/7aa2d1d2) Add rbac stuffs for mysql-exporter (#15)
+- [078098c8](https://github.com/kubedb/percona-xtradb/commit/078098c8)  Review Mysql docker images and Fixed monitring (#14)
+- [6877108a](https://github.com/kubedb/percona-xtradb/commit/6877108a) Update README.md
+- [1f84a5da](https://github.com/kubedb/percona-xtradb/commit/1f84a5da) Start next dev cycle
+- [2f1e4b7d](https://github.com/kubedb/percona-xtradb/commit/2f1e4b7d) Prepare release 0.1.0-beta.0
+- [dce1e88e](https://github.com/kubedb/percona-xtradb/commit/dce1e88e) Add release script
+- [60ed55cb](https://github.com/kubedb/percona-xtradb/commit/60ed55cb) Rename ms-operator to my-operator (#13)
+- [5451d166](https://github.com/kubedb/percona-xtradb/commit/5451d166) Fix Analytics and pass client-id as ENV to Snapshot Job (#12)
+- [788ae178](https://github.com/kubedb/percona-xtradb/commit/788ae178) update docker image validation (#11)
+- [c966efd5](https://github.com/kubedb/percona-xtradb/commit/c966efd5) Add docker-registry and WorkQueue  (#10)
+- [be340103](https://github.com/kubedb/percona-xtradb/commit/be340103) Set client id for analytics (#9)
+- [ca11f683](https://github.com/kubedb/percona-xtradb/commit/ca11f683) Fix CRD Registration (#8)
+- [2f95c13d](https://github.com/kubedb/percona-xtradb/commit/2f95c13d) Update issue repo link
+- [6fffa713](https://github.com/kubedb/percona-xtradb/commit/6fffa713) Update pkg paths to kubedb org (#7)
+- [2d4d5c44](https://github.com/kubedb/percona-xtradb/commit/2d4d5c44) Assign default Prometheus Monitoring Port (#6)
+- [a7595613](https://github.com/kubedb/percona-xtradb/commit/a7595613) Add Snapshot Backup, Restore and Backup-Scheduler (#4)
+- [17a782c6](https://github.com/kubedb/percona-xtradb/commit/17a782c6) Update Dockerfile
+- [e92bfec9](https://github.com/kubedb/percona-xtradb/commit/e92bfec9) Add mysql-util docker image (#5)
+- [2a4b25ac](https://github.com/kubedb/percona-xtradb/commit/2a4b25ac) Mysql db - Inititalizing  (#2)
+- [cbfbc878](https://github.com/kubedb/percona-xtradb/commit/cbfbc878) Update README.md
+- [01cab651](https://github.com/kubedb/percona-xtradb/commit/01cab651) Update README.md
+- [0aa81cdf](https://github.com/kubedb/percona-xtradb/commit/0aa81cdf) Use client-go 5.x
+- [3de10d7f](https://github.com/kubedb/percona-xtradb/commit/3de10d7f) Update ./hack folder (#3)
+- [46f05b1f](https://github.com/kubedb/percona-xtradb/commit/46f05b1f) Add skeleton for mysql (#1)
+- [73147dba](https://github.com/kubedb/percona-xtradb/commit/73147dba) Merge commit 'be70502b4993171bbad79d2ff89a9844f1c24caa' as 'hack/libbuild'
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-rc.1)

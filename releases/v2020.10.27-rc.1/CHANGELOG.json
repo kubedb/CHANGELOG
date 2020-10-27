@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.1",
-  "release_date": "2020-10-27T15:22:25.090353573Z",
+  "release_date": "2020-10-27T15:23:58.610120226Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.1",
   "kubernetes_version": "1.12+",
@@ -1423,6 +1423,1288 @@
             {
               "SHA": "99dfb12",
               "Subject": "add readme.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4ac07f08",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#119)"
+            },
+            {
+              "SHA": "397607a3",
+              "Subject": "Prepare for release v0.1.0-beta.6 (#118)"
+            },
+            {
+              "SHA": "a3b7642d",
+              "Subject": "Create SRV records for governing service (#117)"
+            },
+            {
+              "SHA": "9866a420",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#116)"
+            },
+            {
+              "SHA": "f92081d1",
+              "Subject": "Create separate governing service for each database (#115)"
+            },
+            {
+              "SHA": "6010b189",
+              "Subject": "Update KubeDB api (#114)"
+            },
+            {
+              "SHA": "95b57c72",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "14b2f1b2",
+              "Subject": "Prepare for release v0.1.0-beta.4 (#113)"
+            },
+            {
+              "SHA": "eff1d265",
+              "Subject": "Update KubeDB api (#112)"
+            },
+            {
+              "SHA": "a2878d4a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#111)"
+            },
+            {
+              "SHA": "51f0d104",
+              "Subject": "Update KubeDB api (#110)"
+            },
+            {
+              "SHA": "fcf5343b",
+              "Subject": "Update for release Stash@v2020.10.21 (#109)"
+            },
+            {
+              "SHA": "9fe68d43",
+              "Subject": "Fix init validator (#107)"
+            },
+            {
+              "SHA": "1c528cff",
+              "Subject": "Update KubeDB api (#108)"
+            },
+            {
+              "SHA": "99d23f3d",
+              "Subject": "Update KubeDB api (#106)"
+            },
+            {
+              "SHA": "d0807640",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#105)"
+            },
+            {
+              "SHA": "bac7705b",
+              "Subject": "Update KubeDB api (#104)"
+            },
+            {
+              "SHA": "475aabd5",
+              "Subject": "Update KubeDB api (#103)"
+            },
+            {
+              "SHA": "60f7e5a9",
+              "Subject": "Update KubeDB api (#102)"
+            },
+            {
+              "SHA": "84a97ced",
+              "Subject": "Update KubeDB api (#101)"
+            },
+            {
+              "SHA": "d4a7b7c5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#100)"
+            },
+            {
+              "SHA": "b818a4c5",
+              "Subject": "Update KubeDB api (#99)"
+            },
+            {
+              "SHA": "03df7739",
+              "Subject": "Update KubeDB api (#98)"
+            },
+            {
+              "SHA": "2f3ce0e6",
+              "Subject": "Update KubeDB api (#96)"
+            },
+            {
+              "SHA": "94e009e8",
+              "Subject": "Update repository config (#95)"
+            },
+            {
+              "SHA": "fc61d440",
+              "Subject": "Update repository config (#94)"
+            },
+            {
+              "SHA": "35f5b2bb",
+              "Subject": "Update repository config (#93)"
+            },
+            {
+              "SHA": "d01e39dd",
+              "Subject": "Initialize statefulset watcher from cmd/server/options.go (#92)"
+            },
+            {
+              "SHA": "41bf932f",
+              "Subject": "Update KubeDB api (#91)"
+            },
+            {
+              "SHA": "da92a1f3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#90)"
+            },
+            {
+              "SHA": "554beafb",
+              "Subject": "Publish docker images to ghcr.io (#89)"
+            },
+            {
+              "SHA": "4c7031e1",
+              "Subject": "Update KubeDB api (#88)"
+            },
+            {
+              "SHA": "418c767a",
+              "Subject": "Update KubeDB api (#87)"
+            },
+            {
+              "SHA": "94eef91e",
+              "Subject": "Update KubeDB api (#86)"
+            },
+            {
+              "SHA": "f3c2a360",
+              "Subject": "Update KubeDB api (#85)"
+            },
+            {
+              "SHA": "107bb6a6",
+              "Subject": "Update repository config (#84)"
+            },
+            {
+              "SHA": "938e64bc",
+              "Subject": "Cleanup monitoring spec api (#83)"
+            },
+            {
+              "SHA": "deeaad8f",
+              "Subject": "Use conditions to handle database initialization (#80)"
+            },
+            {
+              "SHA": "798c3ddc",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#82)"
+            },
+            {
+              "SHA": "16c72ba6",
+              "Subject": "Updated the exporter port and service (#81)"
+            },
+            {
+              "SHA": "9314faf1",
+              "Subject": "Update for release Stash@v2020.09.29 (#79)"
+            },
+            {
+              "SHA": "6cb53efc",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#78)"
+            },
+            {
+              "SHA": "fd2b8cdd",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#76)"
+            },
+            {
+              "SHA": "9d1038db",
+              "Subject": "Update repository config (#75)"
+            },
+            {
+              "SHA": "41a05a44",
+              "Subject": "Update repository config (#74)"
+            },
+            {
+              "SHA": "eccd2acd",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#73)"
+            },
+            {
+              "SHA": "27635f1c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#72)"
+            },
+            {
+              "SHA": "792326c7",
+              "Subject": "Use common event recorder (#71)"
+            },
+            {
+              "SHA": "0ff583b8",
+              "Subject": "Prepare for release v0.1.0-beta.3 (#70)"
+            },
+            {
+              "SHA": "627bc039",
+              "Subject": "Use new `spec.init` section (#69)"
+            },
+            {
+              "SHA": "f79e4771",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#68)"
+            },
+            {
+              "SHA": "257954c2",
+              "Subject": "Add license verifier (#67)"
+            },
+            {
+              "SHA": "e06eec6b",
+              "Subject": "Update for release Stash@v2020.09.16 (#66)"
+            },
+            {
+              "SHA": "29901348",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#65)"
+            },
+            {
+              "SHA": "02d5bfde",
+              "Subject": "Use background deletion policy"
+            },
+            {
+              "SHA": "6e6d8b5b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#63)"
+            },
+            {
+              "SHA": "7601a237",
+              "Subject": "Use AppsCode Community License (#62)"
+            },
+            {
+              "SHA": "4d1a2424",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#61)"
+            },
+            {
+              "SHA": "471b6def",
+              "Subject": "Prepare for release v0.1.0-beta.2 (#60)"
+            },
+            {
+              "SHA": "9423a70f",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "85d1d036",
+              "Subject": "Use updated apis (#59)"
+            },
+            {
+              "SHA": "6811b8dc",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#53)"
+            },
+            {
+              "SHA": "4212d2a0",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#52)"
+            },
+            {
+              "SHA": "659d646c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#51)"
+            },
+            {
+              "SHA": "a868e0c3",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#50)"
+            },
+            {
+              "SHA": "162e6ca4",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            },
+            {
+              "SHA": "a7fa1fbf",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#48)"
+            },
+            {
+              "SHA": "b6a4583f",
+              "Subject": "Remove dependency on enterprise operator (#47)"
+            },
+            {
+              "SHA": "a8909b38",
+              "Subject": "Allow configuring k8s & db version in e2e tests (#46)"
+            },
+            {
+              "SHA": "4d79d26e",
+              "Subject": "Update to Kubernetes v1.18.3 (#45)"
+            },
+            {
+              "SHA": "189f3212",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#44)"
+            },
+            {
+              "SHA": "a037bd03",
+              "Subject": "Update to Kubernetes v1.18.3 (#43)"
+            },
+            {
+              "SHA": "33cabdf3",
+              "Subject": "Update to Kubernetes v1.18.3 (#42)"
+            },
+            {
+              "SHA": "28b9fc0f",
+              "Subject": "Prepare for release v0.1.0-beta.1 (#41)"
+            },
+            {
+              "SHA": "fb4f5444",
+              "Subject": "Update for release Stash@v2020.07.09-beta.0 (#39)"
+            },
+            {
+              "SHA": "ad221aa2",
+              "Subject": "include Makefile.env"
+            },
+            {
+              "SHA": "841ec855",
+              "Subject": "Allow customizing chart registry (#38)"
+            },
+            {
+              "SHA": "bb608980",
+              "Subject": "Update License (#37)"
+            },
+            {
+              "SHA": "cf8cd2fa",
+              "Subject": "Update for release Stash@v2020.07.08-beta.0 (#36)"
+            },
+            {
+              "SHA": "7b28c4b9",
+              "Subject": "Update to Kubernetes v1.18.3 (#35)"
+            },
+            {
+              "SHA": "848ff94a",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "d124dd6a",
+              "Subject": "Load stash version from .env file for make (#34)"
+            },
+            {
+              "SHA": "1de40e1d",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "7a4503be",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "ad0dfaf8",
+              "Subject": "Add script to update release tracker on pr merge (#33)"
+            },
+            {
+              "SHA": "aaca6bd9",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "9a495724",
+              "Subject": "Various fixes (#32)"
+            },
+            {
+              "SHA": "9b6c9a53",
+              "Subject": "Update to Kubernetes v1.18.3 (#31)"
+            },
+            {
+              "SHA": "67912547",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "fc8ce4cc",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "8aba5ef2",
+              "Subject": "Use CRD v1 for Kubernetes >= 1.16 (#30)"
+            },
+            {
+              "SHA": "e81d2b4c",
+              "Subject": "Update to Kubernetes v1.18.3 (#29)"
+            },
+            {
+              "SHA": "2a32730a",
+              "Subject": "Fix e2e tests (#28)"
+            },
+            {
+              "SHA": "a79626d9",
+              "Subject": "Update stash install commands"
+            },
+            {
+              "SHA": "52fc2059",
+              "Subject": "Use recommended kubernetes app labels (#27)"
+            },
+            {
+              "SHA": "93dc10ec",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "ce5717e2",
+              "Subject": "Revendor kubedb.dev/apimachinery@master (#26)"
+            },
+            {
+              "SHA": "c1ca649d",
+              "Subject": "Pass annotations from CRD to AppBinding (#25)"
+            },
+            {
+              "SHA": "f327cc01",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "02432393",
+              "Subject": "Update CHANGELOG.md"
+            },
+            {
+              "SHA": "a89dbc55",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#24)"
+            },
+            {
+              "SHA": "e69742de",
+              "Subject": "Update for percona-xtradb standalone restoresession (#23)"
+            },
+            {
+              "SHA": "958877a1",
+              "Subject": "Various fixes (#21)"
+            },
+            {
+              "SHA": "fb0d7a35",
+              "Subject": "Update kubernetes client-go to 1.16.3 (#20)"
+            },
+            {
+              "SHA": "293fe9a4",
+              "Subject": "Fix default make command"
+            },
+            {
+              "SHA": "39358e3b",
+              "Subject": "Use charts to install operator (#19)"
+            },
+            {
+              "SHA": "6c5b3395",
+              "Subject": "Several fixes and update tests (#18)"
+            },
+            {
+              "SHA": "84ff139f",
+              "Subject": "Various Makefile improvements (#16)"
+            },
+            {
+              "SHA": "e2737f65",
+              "Subject": "Remove EnableStatusSubresource (#17)"
+            },
+            {
+              "SHA": "fb886b07",
+              "Subject": "Run e2e tests using GitHub actions (#12)"
+            },
+            {
+              "SHA": "35b155d9",
+              "Subject": "Validate DBVersionSpecs and fixed broken build (#15)"
+            },
+            {
+              "SHA": "67794bd9",
+              "Subject": "Update go.yml"
+            },
+            {
+              "SHA": "f7666354",
+              "Subject": "Various changes for Percona XtraDB (#13)"
+            },
+            {
+              "SHA": "ceb7ba67",
+              "Subject": "Enable GitHub actions"
+            },
+            {
+              "SHA": "f5a112af",
+              "Subject": "Refactor for ProxySQL Integration (#11)"
+            },
+            {
+              "SHA": "26602049",
+              "Subject": "Revendor"
+            },
+            {
+              "SHA": "71957d40",
+              "Subject": "Rename from perconaxtradb to percona-xtradb (#10)"
+            },
+            {
+              "SHA": "b526ccd8",
+              "Subject": "Set database version in AppBinding (#7)"
+            },
+            {
+              "SHA": "336e7203",
+              "Subject": "Percona XtraDB Cluster support (#9)"
+            },
+            {
+              "SHA": "71a42f7a",
+              "Subject": "Don't set annotation to AppBinding (#8)"
+            },
+            {
+              "SHA": "282298cb",
+              "Subject": "Fix UpsertDatabaseAnnotation() function (#4)"
+            },
+            {
+              "SHA": "2ab9dddf",
+              "Subject": "Add license header to Makefiles (#6)"
+            },
+            {
+              "SHA": "df135c08",
+              "Subject": "Add install, uninstall and purge command in Makefile (#3)"
+            },
+            {
+              "SHA": "73d3a845",
+              "Subject": "Update .gitignore"
+            },
+            {
+              "SHA": "59a4e754",
+              "Subject": "Add Makefile (#2)"
+            },
+            {
+              "SHA": "f3551ddc",
+              "Subject": "Rename package path (#1)"
+            },
+            {
+              "SHA": "56a241d6",
+              "Subject": "Use explicit IP whitelist instead of automatic IP whitelist (#151)"
+            },
+            {
+              "SHA": "9f0b5ca3",
+              "Subject": "Update to k8s 1.14.0 client libraries using go.mod (#147)"
+            },
+            {
+              "SHA": "73ad7c30",
+              "Subject": "Update changelog"
+            },
+            {
+              "SHA": "ccc36b5c",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "9769e8e1",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "a3fa468a",
+              "Subject": "Prepare release 0.5.0"
+            },
+            {
+              "SHA": "6d8862de",
+              "Subject": "Mysql Group Replication tests (#146)"
+            },
+            {
+              "SHA": "49544e55",
+              "Subject": "Mysql Group Replication (#144)"
+            },
+            {
+              "SHA": "a85d4b44",
+              "Subject": "Revendor dependencies"
+            },
+            {
+              "SHA": "9c538460",
+              "Subject": "Changed Role to exclude psp without name (#143)"
+            },
+            {
+              "SHA": "6cace93b",
+              "Subject": "Modify mutator validator names (#142)"
+            },
+            {
+              "SHA": "da0c19b9",
+              "Subject": "Update changelog"
+            },
+            {
+              "SHA": "b79c80d6",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "838d9459",
+              "Subject": "Prepare release 0.4.0"
+            },
+            {
+              "SHA": "bf0f2c14",
+              "Subject": "Added PSP names and init container image in testing framework (#141)"
+            },
+            {
+              "SHA": "3d227570",
+              "Subject": "Added PSP support for mySQL (#137)"
+            },
+            {
+              "SHA": "7b766657",
+              "Subject": "Don't inherit app.kubernetes.io labels from CRD into offshoots (#140)"
+            },
+            {
+              "SHA": "29e23470",
+              "Subject": "Support for init container (#139)"
+            },
+            {
+              "SHA": "3e1556f6",
+              "Subject": "Add role label to stats service (#138)"
+            },
+            {
+              "SHA": "ee078af9",
+              "Subject": "Update changelog"
+            },
+            {
+              "SHA": "978f1139",
+              "Subject": "Update Kubernetes client libraries to 1.13.0 release (#136)"
+            },
+            {
+              "SHA": "821f23d1",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "678b26aa",
+              "Subject": "Prepare release 0.3.0"
+            },
+            {
+              "SHA": "40ad7a23",
+              "Subject": "Initial RBAC support: create and use K8s service account for MySQL (#134)"
+            },
+            {
+              "SHA": "98f03387",
+              "Subject": "Revendor dependencies (#135)"
+            },
+            {
+              "SHA": "dfe92615",
+              "Subject": "Revendor dependencies : Retry Failed Scheduler Snapshot (#133)"
+            },
+            {
+              "SHA": "71f8a350",
+              "Subject": "Added ephemeral StorageType support (#132)"
+            },
+            {
+              "SHA": "0a6b6e46",
+              "Subject": "Added support of MySQL 8.0.14 (#131)"
+            },
+            {
+              "SHA": "99e57a9e",
+              "Subject": "Use PVC spec from snapshot if provided (#130)"
+            },
+            {
+              "SHA": "61497be6",
+              "Subject": "Revendored and updated tests for 'Prevent prefix matching of multiple snapshots' (#129)"
+            },
+            {
+              "SHA": "7eafe088",
+              "Subject": "Add certificate health checker (#128)"
+            },
+            {
+              "SHA": "973ec416",
+              "Subject": "Update E2E test: Env update is not restricted anymore (#127)"
+            },
+            {
+              "SHA": "339975ff",
+              "Subject": "Fix AppBinding (#126)"
+            },
+            {
+              "SHA": "62050a72",
+              "Subject": "Update changelog"
+            },
+            {
+              "SHA": "2d454043",
+              "Subject": "Prepare release 0.2.0"
+            },
+            {
+              "SHA": "6941ea59",
+              "Subject": "Reuse event recorder (#125)"
+            },
+            {
+              "SHA": "b77e66c4",
+              "Subject": "OSM binary upgraded in mysql-tools (#123)"
+            },
+            {
+              "SHA": "c9228086",
+              "Subject": "Revendor dependencies (#124)"
+            },
+            {
+              "SHA": "97837120",
+              "Subject": "Test for faulty snapshot (#122)"
+            },
+            {
+              "SHA": "c3e995b6",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "8a4f3b13",
+              "Subject": "Prepare release 0.2.0-rc.2"
+            },
+            {
+              "SHA": "79942191",
+              "Subject": "Upgrade database secret keys (#121)"
+            },
+            {
+              "SHA": "1747fdf5",
+              "Subject": "Ignore mutation of fields to default values during update (#120)"
+            },
+            {
+              "SHA": "d902d588",
+              "Subject": "Support configuration options for exporter sidecar (#119)"
+            },
+            {
+              "SHA": "dd7c3f44",
+              "Subject": "Use flags.DumpAll (#118)"
+            },
+            {
+              "SHA": "bc1ef05b",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "9d33c1a0",
+              "Subject": "Prepare release 0.2.0-rc.1"
+            },
+            {
+              "SHA": "b076e141",
+              "Subject": "Apply cleanup (#117)"
+            },
+            {
+              "SHA": "7dc5641f",
+              "Subject": "Set periodic analytics (#116)"
+            },
+            {
+              "SHA": "90ea6acc",
+              "Subject": "Introduce AppBinding support (#115)"
+            },
+            {
+              "SHA": "a882d76a",
+              "Subject": "Fix Analytics (#114)"
+            },
+            {
+              "SHA": "0961009c",
+              "Subject": "Error out from cron job for deprecated dbversion (#113)"
+            },
+            {
+              "SHA": "da1f4e27",
+              "Subject": "Add CRDs without observation when operator starts (#112)"
+            },
+            {
+              "SHA": "0a754d2f",
+              "Subject": "Update changelog"
+            },
+            {
+              "SHA": "b09bc6e1",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "0d467ccb",
+              "Subject": "Prepare release 0.2.0-rc.0"
+            },
+            {
+              "SHA": "c757007a",
+              "Subject": "Merge commit 'cc6607a3589a79a5e61bb198d370ea0ae30b9d09'"
+            },
+            {
+              "SHA": "ddfe4be1",
+              "Subject": "Support custom user passowrd for backup (#111)"
+            },
+            {
+              "SHA": "8c84ba20",
+              "Subject": "Support providing resources for monitoring container (#110)"
+            },
+            {
+              "SHA": "7bcfbc48",
+              "Subject": "Update kubernetes client libraries to 1.12.0 (#109)"
+            },
+            {
+              "SHA": "145bba2b",
+              "Subject": "Add validation webhook xray (#108)"
+            },
+            {
+              "SHA": "6da1887f",
+              "Subject": "Various Fixes (#107)"
+            },
+            {
+              "SHA": "111519e9",
+              "Subject": "Merge ports from service template (#105)"
+            },
+            {
+              "SHA": "38147ef1",
+              "Subject": "Replace doNotPause with TerminationPolicy = DoNotTerminate (#104)"
+            },
+            {
+              "SHA": "e28ebc47",
+              "Subject": "Pass resources to NamespaceValidator (#103)"
+            },
+            {
+              "SHA": "aed12bf5",
+              "Subject": "Various fixes (#102)"
+            },
+            {
+              "SHA": "3d372ef6",
+              "Subject": "Support Livecycle hook and container probes (#101)"
+            },
+            {
+              "SHA": "b6ef6887",
+              "Subject": "Check if Kubernetes version is supported before running operator (#100)"
+            },
+            {
+              "SHA": "d89e7783",
+              "Subject": "Update package alias (#99)"
+            },
+            {
+              "SHA": "f0b44b3a",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "a79ff03b",
+              "Subject": "Prepare release 0.2.0-beta.1"
+            },
+            {
+              "SHA": "0d8d3cca",
+              "Subject": "Revendor api (#98)"
+            },
+            {
+              "SHA": "2f850243",
+              "Subject": "Fix tests (#97)"
+            },
+            {
+              "SHA": "4ced0bfe",
+              "Subject": "Revendor api for catalog apigroup (#96)"
+            },
+            {
+              "SHA": "e7695400",
+              "Subject": "Update chanelog"
+            },
+            {
+              "SHA": "8e358aea",
+              "Subject": "Use --pull flag with docker build (#20) (#95)"
+            },
+            {
+              "SHA": "d2a97d90",
+              "Subject": "Merge commit '16c769ee4686576f172a6b79a10d25bfd79ca4a4'"
+            },
+            {
+              "SHA": "d1fe8a8a",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "04eb9bb5",
+              "Subject": "Prepare release 0.2.0-beta.0"
+            },
+            {
+              "SHA": "9dfea960",
+              "Subject": "Pass extra args to tools.sh (#93)"
+            },
+            {
+              "SHA": "47dd3cad",
+              "Subject": "Don't try to wipe out Snapshot data for Local backend (#92)"
+            },
+            {
+              "SHA": "9c4d485b",
+              "Subject": "Add missing alt-tag docker folder mysql-tools images (#91)"
+            },
+            {
+              "SHA": "be72f784",
+              "Subject": "Use suffix for updated DBImage & Stop working for deprecated *Versions (#90)"
+            },
+            {
+              "SHA": "05c8f14d",
+              "Subject": "Search used secrets within same namespace of DB object (#89)"
+            },
+            {
+              "SHA": "0d94c946",
+              "Subject": "Support Termination Policy (#88)"
+            },
+            {
+              "SHA": "8775ddf7",
+              "Subject": "Update builddeps.sh"
+            },
+            {
+              "SHA": "796c93da",
+              "Subject": "Revendor k8s.io/apiserver (#87)"
+            },
+            {
+              "SHA": "5a1e3f57",
+              "Subject": "Revendor kubernetes-1.11.3 (#86)"
+            },
+            {
+              "SHA": "809a3c49",
+              "Subject": "Support UpdateStrategy (#84)"
+            },
+            {
+              "SHA": "372c52ef",
+              "Subject": "Add TerminationPolicy for databases (#83)"
+            },
+            {
+              "SHA": "c01b55e8",
+              "Subject": "Revendor api (#82)"
+            },
+            {
+              "SHA": "5e196b95",
+              "Subject": "Use IntHash as status.observedGeneration (#81)"
+            },
+            {
+              "SHA": "2da3bb1b",
+              "Subject": "fix github status (#80)"
+            },
+            {
+              "SHA": "121d0a98",
+              "Subject": "Update pipeline (#79)"
+            },
+            {
+              "SHA": "532e3137",
+              "Subject": "Fix E2E test for minikube (#78)"
+            },
+            {
+              "SHA": "0f107815",
+              "Subject": "Update pipeline (#77)"
+            },
+            {
+              "SHA": "851679e2",
+              "Subject": "Migrate MySQL (#75)"
+            },
+            {
+              "SHA": "0b997855",
+              "Subject": "Use official exporter image (#74)"
+            },
+            {
+              "SHA": "702d5736",
+              "Subject": "Fix uninstall for concourse (#70)"
+            },
+            {
+              "SHA": "9ee88bd2",
+              "Subject": "Update status.ObservedGeneration for failure phase (#73)"
+            },
+            {
+              "SHA": "559cdb6a",
+              "Subject": "Keep track of ObservedGenerationHash (#72)"
+            },
+            {
+              "SHA": "61c8b898",
+              "Subject": "Use NewObservableHandler (#71)"
+            },
+            {
+              "SHA": "421274dc",
+              "Subject": "Merge commit '887037c7e36289e3135dda99346fccc7e2ce303b'"
+            },
+            {
+              "SHA": "6a41d9bc",
+              "Subject": "Fix uninstall for concourse (#69)"
+            },
+            {
+              "SHA": "f1af09db",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "bf3f1823",
+              "Subject": "Revise immutable spec fields (#68)"
+            },
+            {
+              "SHA": "26adec3b",
+              "Subject": "Merge commit '5f83049fc01dc1d0709ac0014d6f3a0f74a39417'"
+            },
+            {
+              "SHA": "31a97820",
+              "Subject": "Support passing args via PodTemplate (#67)"
+            },
+            {
+              "SHA": "60f4ee23",
+              "Subject": "Introduce storageType : ephemeral (#66)"
+            },
+            {
+              "SHA": "bfd3fcd6",
+              "Subject": "Add support for running tests on cncf cluster (#63)"
+            },
+            {
+              "SHA": "fba47b19",
+              "Subject": "Merge commit 'e010cbb302c8d59d4cf69dd77085b046ff423b78'"
+            },
+            {
+              "SHA": "6be96ce0",
+              "Subject": "Revendor api (#65)"
+            },
+            {
+              "SHA": "0f629ab3",
+              "Subject": "Keep track of observedGeneration in status (#64)"
+            },
+            {
+              "SHA": "c9a9596f",
+              "Subject": "Separate StatsService for monitoring (#62)"
+            },
+            {
+              "SHA": "62854641",
+              "Subject": "Use MySQLVersion for MySQL images (#61)"
+            },
+            {
+              "SHA": "3c170c56",
+              "Subject": "Use updated crd spec (#60)"
+            },
+            {
+              "SHA": "873c285e",
+              "Subject": "Rename OffshootLabels to OffshootSelectors (#59)"
+            },
+            {
+              "SHA": "2fd02169",
+              "Subject": "Revendor api (#58)"
+            },
+            {
+              "SHA": "a127d6cd",
+              "Subject": "Use kmodules monitoring and objectstore api (#57)"
+            },
+            {
+              "SHA": "2f79a038",
+              "Subject": "Support custom configuration (#52)"
+            },
+            {
+              "SHA": "49c67f00",
+              "Subject": "Merge commit '44e6d4985d93556e39ddcc4677ada5437fc5be64'"
+            },
+            {
+              "SHA": "fb28bc6c",
+              "Subject": "Refactor concourse scripts (#56)"
+            },
+            {
+              "SHA": "4de4ced1",
+              "Subject": "Fix command `./hack/make.py test e2e` (#55)"
+            },
+            {
+              "SHA": "3082123e",
+              "Subject": "Set generated binary name to my-operator (#54)"
+            },
+            {
+              "SHA": "5698f314",
+              "Subject": "Don't add admission/v1beta1 group as a prioritized version (#53)"
+            },
+            {
+              "SHA": "696135d5",
+              "Subject": "Fix travis build (#48)"
+            },
+            {
+              "SHA": "c519ef89",
+              "Subject": "Format shell script (#51)"
+            },
+            {
+              "SHA": "c93e2f40",
+              "Subject": "Enable status subresource for crds (#50)"
+            },
+            {
+              "SHA": "edd951ca",
+              "Subject": "Update client-go to v8.0.0 (#49)"
+            },
+            {
+              "SHA": "520597a6",
+              "Subject": "Merge commit '71850e2c90cda8fc588b7dedb340edf3d316baea'"
+            },
+            {
+              "SHA": "f1549e95",
+              "Subject": "Support ENV variables in CRDs (#46)"
+            },
+            {
+              "SHA": "67f37780",
+              "Subject": "Updated osm version to 0.7.1 (#47)"
+            },
+            {
+              "SHA": "10e309c0",
+              "Subject": "Prepare release 0.1.0"
+            },
+            {
+              "SHA": "62a8fbbd",
+              "Subject": "Fixed missing error return (#45)"
+            },
+            {
+              "SHA": "8c05bb83",
+              "Subject": "Revendor dependencies (#44)"
+            },
+            {
+              "SHA": "ca811a2e",
+              "Subject": "Fix release script (#43)"
+            },
+            {
+              "SHA": "b79541f6",
+              "Subject": "Add changelog (#42)"
+            },
+            {
+              "SHA": "a2d13c82",
+              "Subject": "Concourse (#41)"
+            },
+            {
+              "SHA": "95b2186e",
+              "Subject": "Fixed kubeconfig plugin for Cloud Providers && Storage is required for MySQL (#40)"
+            },
+            {
+              "SHA": "37762093",
+              "Subject": "Refactored E2E testing to support E2E testing with admission webhook in cloud (#38)"
+            },
+            {
+              "SHA": "b6fe72ca",
+              "Subject": "Remove lost+found directory before initializing mysql (#39)"
+            },
+            {
+              "SHA": "18ebb959",
+              "Subject": "Skip delete requests for empty resources (#37)"
+            },
+            {
+              "SHA": "eeb7add0",
+              "Subject": "Don't panic if admission options is nil (#36)"
+            },
+            {
+              "SHA": "ccb59db0",
+              "Subject": "Disable admission controllers for webhook server (#35)"
+            },
+            {
+              "SHA": "b1c6c149",
+              "Subject": "Separate ApiGroup for Mutating and Validating webhook && upgraded osm to 0.7.0 (#34)"
+            },
+            {
+              "SHA": "b1890f7c",
+              "Subject": "Update client-go to 7.0.0 (#33)"
+            },
+            {
+              "SHA": "08c81726",
+              "Subject": "Added update script for mysql-tools:8 (#32)"
+            },
+            {
+              "SHA": "4bbe6c9f",
+              "Subject": "Added support of mysql:5.7 (#31)"
+            },
+            {
+              "SHA": "e657f512",
+              "Subject": "Add support for one informer and N-eventHandler for snapshot, dromantDB and Job (#30)"
+            },
+            {
+              "SHA": "bbcd48d6",
+              "Subject": "Use metrics from kube apiserver (#29)"
+            },
+            {
+              "SHA": "1687e197",
+              "Subject": "Bundle webhook server and Use SharedInformerFactory (#28)"
+            },
+            {
+              "SHA": "cd0efc00",
+              "Subject": "Move MySQL AdmissionWebhook packages into MySQL repository (#27)"
+            },
+            {
+              "SHA": "46065e18",
+              "Subject": "Use mysql:8.0.3 image as mysql:8.0 (#26)"
+            },
+            {
+              "SHA": "1b73529f",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "62eaa397",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "c53704c7",
+              "Subject": "Remove Docker pull count"
+            },
+            {
+              "SHA": "b9ec877e",
+              "Subject": "Add travis yaml (#25)"
+            },
+            {
+              "SHA": "ade3571c",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "b4b749df",
+              "Subject": "Prepare release 0.1.0-beta.2"
+            },
+            {
+              "SHA": "4d46d95d",
+              "Subject": "Migrating to apps/v1 (#23)"
+            },
+            {
+              "SHA": "5ee1ac8c",
+              "Subject": "Update validation (#22)"
+            },
+            {
+              "SHA": "dd023c50",
+              "Subject": " Fix dormantDB matching: pass same type to Equal method (#21)"
+            },
+            {
+              "SHA": "37a1e4fd",
+              "Subject": "Use official code generator scripts (#20)"
+            },
+            {
+              "SHA": "485d3d7c",
+              "Subject": "Fixed dormantdb matching & Raised throttling time & Fixed MySQL version Checking (#19)"
+            },
+            {
+              "SHA": "6db2ae8d",
+              "Subject": "Prepare release 0.1.0-beta.1"
+            },
+            {
+              "SHA": "ebbfec2f",
+              "Subject": "converted to k8s 1.9 & Improved InitSpec in DormantDB & Added support for Job watcher & Improved Tests (#17)"
+            },
+            {
+              "SHA": "a484e0e5",
+              "Subject": "Fixed logger, analytics and removed rbac stuff (#16)"
+            },
+            {
+              "SHA": "7aa2d1d2",
+              "Subject": "Add rbac stuffs for mysql-exporter (#15)"
+            },
+            {
+              "SHA": "078098c8",
+              "Subject": " Review Mysql docker images and Fixed monitring (#14)"
+            },
+            {
+              "SHA": "6877108a",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "1f84a5da",
+              "Subject": "Start next dev cycle"
+            },
+            {
+              "SHA": "2f1e4b7d",
+              "Subject": "Prepare release 0.1.0-beta.0"
+            },
+            {
+              "SHA": "dce1e88e",
+              "Subject": "Add release script"
+            },
+            {
+              "SHA": "60ed55cb",
+              "Subject": "Rename ms-operator to my-operator (#13)"
+            },
+            {
+              "SHA": "5451d166",
+              "Subject": "Fix Analytics and pass client-id as ENV to Snapshot Job (#12)"
+            },
+            {
+              "SHA": "788ae178",
+              "Subject": "update docker image validation (#11)"
+            },
+            {
+              "SHA": "c966efd5",
+              "Subject": "Add docker-registry and WorkQueue  (#10)"
+            },
+            {
+              "SHA": "be340103",
+              "Subject": "Set client id for analytics (#9)"
+            },
+            {
+              "SHA": "ca11f683",
+              "Subject": "Fix CRD Registration (#8)"
+            },
+            {
+              "SHA": "2f95c13d",
+              "Subject": "Update issue repo link"
+            },
+            {
+              "SHA": "6fffa713",
+              "Subject": "Update pkg paths to kubedb org (#7)"
+            },
+            {
+              "SHA": "2d4d5c44",
+              "Subject": "Assign default Prometheus Monitoring Port (#6)"
+            },
+            {
+              "SHA": "a7595613",
+              "Subject": "Add Snapshot Backup, Restore and Backup-Scheduler (#4)"
+            },
+            {
+              "SHA": "17a782c6",
+              "Subject": "Update Dockerfile"
+            },
+            {
+              "SHA": "e92bfec9",
+              "Subject": "Add mysql-util docker image (#5)"
+            },
+            {
+              "SHA": "2a4b25ac",
+              "Subject": "Mysql db - Inititalizing  (#2)"
+            },
+            {
+              "SHA": "cbfbc878",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "01cab651",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "0aa81cdf",
+              "Subject": "Use client-go 5.x"
+            },
+            {
+              "SHA": "3de10d7f",
+              "Subject": "Update ./hack folder (#3)"
+            },
+            {
+              "SHA": "46f05b1f",
+              "Subject": "Add skeleton for mysql (#1)"
+            },
+            {
+              "SHA": "73147dba",
+              "Subject": "Merge commit 'be70502b4993171bbad79d2ff89a9844f1c24caa' as 'hack/libbuild'"
             }
           ]
         }

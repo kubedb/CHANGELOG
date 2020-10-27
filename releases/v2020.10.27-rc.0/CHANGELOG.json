@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.0",
-  "release_date": "2020-10-27T13:39:57.994382231Z",
+  "release_date": "2020-10-27T13:40:36.231213575Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.0",
   "kubernetes_version": "1.12+",
@@ -77,6 +77,24 @@
             {
               "SHA": "fc973dd0",
               "Subject": "Make database's phase NotReady as soon as the halted is removed (#293)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.7.0-beta.6",
+          "commits": [
+            {
+              "SHA": "680da825",
+              "Subject": "Prepare for release v0.7.0-beta.6 (#286)"
+            },
+            {
+              "SHA": "a5066552",
+              "Subject": "Create SRV records for governing service (#285)"
             }
           ]
         }

@@ -38,6 +38,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.7.0-beta.6](https://github.com/kubedb/mysql/releases/tag/v0.7.0-beta.6)
+
+- [680da825](https://github.com/kubedb/mysql/commit/680da825) Prepare for release v0.7.0-beta.6 (#286)
+- [a5066552](https://github.com/kubedb/mysql/commit/a5066552) Create SRV records for governing service (#285)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0-beta.6](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.6)

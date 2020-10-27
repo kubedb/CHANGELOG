@@ -18,6 +18,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.14.0-beta.6](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0-beta.6)
+
+- [58dac2ba](https://github.com/kubedb/elasticsearch/commit/58dac2ba) Prepare for release v0.14.0-beta.6 (#394)
+- [5d4ad40c](https://github.com/kubedb/elasticsearch/commit/5d4ad40c) Update MergeServicePort and PatchServicePort apis (#393)
+- [992edb90](https://github.com/kubedb/elasticsearch/commit/992edb90) Always set protocol for service ports
+- [0f408cbf](https://github.com/kubedb/elasticsearch/commit/0f408cbf) Create SRV records for governing service (#392)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-beta.6](https://github.com/kubedb/memcached/releases/tag/v0.7.0-beta.6)

@@ -72,3 +72,11 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.7.0-rc.2](https://github.com/kubedb/redis/releases/tag/v0.7.0-rc.2)
+
+- [ac0d5b08](https://github.com/kubedb/redis/commit/ac0d5b08) Prepare for release v0.7.0-rc.2 (#247)
+
+
+

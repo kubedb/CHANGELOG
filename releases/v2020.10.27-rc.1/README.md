@@ -179,6 +179,112 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.14.0-rc.1)
+
+- [77d036ff](https://github.com/kubedb/cli/commit/77d036ff) Prepare for release v0.14.0-rc.1 (#532)
+- [39c4d5a0](https://github.com/kubedb/cli/commit/39c4d5a0) Prepare for release v0.14.0-beta.6 (#531)
+- [a7a8dfc0](https://github.com/kubedb/cli/commit/a7a8dfc0) Update KubeDB api (#530)
+- [a4af36b9](https://github.com/kubedb/cli/commit/a4af36b9) Prepare for release v0.14.0-beta.5 (#529)
+- [2f1cb09d](https://github.com/kubedb/cli/commit/2f1cb09d) Update KubeDB api (#528)
+- [87eb5ad3](https://github.com/kubedb/cli/commit/87eb5ad3) Update readme
+- [4dfe0da7](https://github.com/kubedb/cli/commit/4dfe0da7) Update KubeDB api (#527)
+- [5448e521](https://github.com/kubedb/cli/commit/5448e521) Update repository config (#526)
+- [e1e9dbe2](https://github.com/kubedb/cli/commit/e1e9dbe2) Update KubeDB api (#525)
+- [e49d303a](https://github.com/kubedb/cli/commit/e49d303a) Update Kubernetes v1.18.9 dependencies (#524)
+- [9f54a783](https://github.com/kubedb/cli/commit/9f54a783) Update KubeDB api (#523)
+- [ad764956](https://github.com/kubedb/cli/commit/ad764956) Update for release Stash@v2020.10.21 (#522)
+- [46ae22cd](https://github.com/kubedb/cli/commit/46ae22cd) Update KubeDB api (#521)
+- [2914b270](https://github.com/kubedb/cli/commit/2914b270) Update KubeDB api (#520)
+- [87ce0033](https://github.com/kubedb/cli/commit/87ce0033) Update Kubernetes v1.18.9 dependencies (#519)
+- [ab524afe](https://github.com/kubedb/cli/commit/ab524afe) Update KubeDB api (#518)
+- [899e2b21](https://github.com/kubedb/cli/commit/899e2b21) Update KubeDB api (#517)
+- [37a5da4b](https://github.com/kubedb/cli/commit/37a5da4b) Update KubeDB api (#516)
+- [5c87d6e8](https://github.com/kubedb/cli/commit/5c87d6e8) Update KubeDB api (#515)
+- [dfc9e245](https://github.com/kubedb/cli/commit/dfc9e245) Update Kubernetes v1.18.9 dependencies (#514)
+- [c0650bb7](https://github.com/kubedb/cli/commit/c0650bb7) Update KubeDB api (#513)
+- [278dccbe](https://github.com/kubedb/cli/commit/278dccbe) Update KubeDB api (#512)
+- [221be742](https://github.com/kubedb/cli/commit/221be742) Update KubeDB api (#511)
+- [2a301cd0](https://github.com/kubedb/cli/commit/2a301cd0) Don't update krew manifest for pre-releases
+- [14d23b77](https://github.com/kubedb/cli/commit/14d23b77) Publish to krew index (#510)
+- [d486fa21](https://github.com/kubedb/cli/commit/d486fa21) Update KubeDB api (#509)
+- [0432d8a8](https://github.com/kubedb/cli/commit/0432d8a8) Update Kubernetes v1.18.9 dependencies (#508)
+- [4e46c763](https://github.com/kubedb/cli/commit/4e46c763) Add completion command (#507)
+- [a9262fd5](https://github.com/kubedb/cli/commit/a9262fd5) Update KubeDB api (#506)
+- [0af538be](https://github.com/kubedb/cli/commit/0af538be) Update KubeDB api (#505)
+- [08c1a5b2](https://github.com/kubedb/cli/commit/08c1a5b2) Update KubeDB api (#504)
+- [9f2a907d](https://github.com/kubedb/cli/commit/9f2a907d) Update KubeDB api (#503)
+- [463f94e9](https://github.com/kubedb/cli/commit/463f94e9) Update Kubernetes v1.18.9 dependencies (#502)
+- [dee2d9d9](https://github.com/kubedb/cli/commit/dee2d9d9) Update KubeDB api (#500)
+- [05334cb5](https://github.com/kubedb/cli/commit/05334cb5) Update KubeDB api (#499)
+- [db82a5f6](https://github.com/kubedb/cli/commit/db82a5f6) Update KubeDB api (#498)
+- [cbfcaaac](https://github.com/kubedb/cli/commit/cbfcaaac) Update for release Stash@v2020.09.29 (#497)
+- [f0c19a83](https://github.com/kubedb/cli/commit/f0c19a83) Update Kubernetes v1.18.9 dependencies (#496)
+- [63902e98](https://github.com/kubedb/cli/commit/63902e98) Update KubeDB api (#495)
+- [270e305f](https://github.com/kubedb/cli/commit/270e305f) Update Kubernetes v1.18.9 dependencies (#494)
+- [db8e67a5](https://github.com/kubedb/cli/commit/db8e67a5) Update repository config (#493)
+- [9fc2c143](https://github.com/kubedb/cli/commit/9fc2c143) Update Kubernetes v1.18.9 dependencies (#492)
+- [97fcc3cd](https://github.com/kubedb/cli/commit/97fcc3cd) Update Kubernetes v1.18.3 dependencies (#491)
+- [58fd85bb](https://github.com/kubedb/cli/commit/58fd85bb) Prepare for release v0.14.0-beta.3 (#490)
+- [a6225a64](https://github.com/kubedb/cli/commit/a6225a64) Update Kubernetes v1.18.3 dependencies (#489)
+- [4c3afba3](https://github.com/kubedb/cli/commit/4c3afba3) Update for release Stash@v2020.09.16 (#488)
+- [df224a1a](https://github.com/kubedb/cli/commit/df224a1a) Update Kubernetes v1.18.3 dependencies (#487)
+- [dcb30ecf](https://github.com/kubedb/cli/commit/dcb30ecf) Update Kubernetes v1.18.3 dependencies (#486)
+- [faab5e0e](https://github.com/kubedb/cli/commit/faab5e0e) Use AppsCode Community License (#485)
+- [58b39094](https://github.com/kubedb/cli/commit/58b39094) Prepare for release v0.14.0-beta.2 (#484)
+- [0f8819ce](https://github.com/kubedb/cli/commit/0f8819ce) Update Kubernetes v1.18.3 dependencies (#483)
+- [86a92381](https://github.com/kubedb/cli/commit/86a92381) Update Kubernetes v1.18.3 dependencies (#482)
+- [05e5cef2](https://github.com/kubedb/cli/commit/05e5cef2) Update for release Stash@v2020.08.27 (#481)
+- [b1aa1dc2](https://github.com/kubedb/cli/commit/b1aa1dc2) Update for release Stash@v2020.08.27-rc.0 (#480)
+- [36716efc](https://github.com/kubedb/cli/commit/36716efc) Update for release Stash@v2020.08.26-rc.1 (#479)
+- [a30f21e0](https://github.com/kubedb/cli/commit/a30f21e0) Update for release Stash@v2020.08.26-rc.0 (#478)
+- [836d6227](https://github.com/kubedb/cli/commit/836d6227) Update Kubernetes v1.18.3 dependencies (#477)
+- [8a81d715](https://github.com/kubedb/cli/commit/8a81d715) Update Kubernetes v1.18.3 dependencies (#476)
+- [7ce2101d](https://github.com/kubedb/cli/commit/7ce2101d) Update Kubernetes v1.18.3 dependencies (#475)
+- [3c617e66](https://github.com/kubedb/cli/commit/3c617e66) Update Kubernetes v1.18.3 dependencies (#474)
+- [f70b2ba4](https://github.com/kubedb/cli/commit/f70b2ba4) Update Kubernetes v1.18.3 dependencies (#473)
+- [ba77ba2b](https://github.com/kubedb/cli/commit/ba77ba2b) Update Kubernetes v1.18.3 dependencies (#472)
+- [b296035f](https://github.com/kubedb/cli/commit/b296035f) Use actions/upload-artifact@v2
+- [7bb95619](https://github.com/kubedb/cli/commit/7bb95619) Update to Kubernetes v1.18.3 (#471)
+- [6e5789a2](https://github.com/kubedb/cli/commit/6e5789a2) Update to Kubernetes v1.18.3 (#470)
+- [9d550ebc](https://github.com/kubedb/cli/commit/9d550ebc) Update to Kubernetes v1.18.3 (#469)
+- [dd09f8e9](https://github.com/kubedb/cli/commit/dd09f8e9) Fix binary build path
+- [80e77588](https://github.com/kubedb/cli/commit/80e77588) Prepare for release v0.14.0-beta.1 (#468)
+- [6925c726](https://github.com/kubedb/cli/commit/6925c726) Update for release Stash@v2020.07.09-beta.0 (#466)
+- [6036e14f](https://github.com/kubedb/cli/commit/6036e14f) Update for release Stash@v2020.07.08-beta.0 (#465)
+- [03de8e3f](https://github.com/kubedb/cli/commit/03de8e3f) Disable autogen tags in docs (#464)
+- [3bcfa7ef](https://github.com/kubedb/cli/commit/3bcfa7ef) Update License (#463)
+- [0aa91f93](https://github.com/kubedb/cli/commit/0aa91f93) Update to Kubernetes v1.18.3 (#462)
+- [023555ef](https://github.com/kubedb/cli/commit/023555ef) Add workflow to update docs (#461)
+- [abd9d054](https://github.com/kubedb/cli/commit/abd9d054) Update update-release-tracker.sh
+- [0a9527d4](https://github.com/kubedb/cli/commit/0a9527d4) Update update-release-tracker.sh
+- [69c644a2](https://github.com/kubedb/cli/commit/69c644a2) Add script to update release tracker on pr merge (#460)
+- [595679ba](https://github.com/kubedb/cli/commit/595679ba) Make release non-draft
+- [880d3492](https://github.com/kubedb/cli/commit/880d3492) Update .kodiak.toml
+- [a7607798](https://github.com/kubedb/cli/commit/a7607798) Update to Kubernetes v1.18.3 (#459)
+- [3197b4b7](https://github.com/kubedb/cli/commit/3197b4b7) Update to Kubernetes v1.18.3
+- [8ed52c84](https://github.com/kubedb/cli/commit/8ed52c84) Create .kodiak.toml
+- [cfda68d4](https://github.com/kubedb/cli/commit/cfda68d4) Update to Kubernetes v1.18.3 (#458)
+- [7395c039](https://github.com/kubedb/cli/commit/7395c039) Update dependencies
+- [542e6709](https://github.com/kubedb/cli/commit/542e6709) Update crazy-max/ghaction-docker-buildx flag
+- [972d8119](https://github.com/kubedb/cli/commit/972d8119) Revendor kubedb.dev/apimachinery@master
+- [540e5a7d](https://github.com/kubedb/cli/commit/540e5a7d) Cleanup cli commands (#454)
+- [98649b0a](https://github.com/kubedb/cli/commit/98649b0a) Trigger the workflow on push or pull request
+- [a0dbdab5](https://github.com/kubedb/cli/commit/a0dbdab5) Update readme (#457)
+- [a52927ed](https://github.com/kubedb/cli/commit/a52927ed) Create draft GitHub release when tagged (#456)
+- [42838aec](https://github.com/kubedb/cli/commit/42838aec) Convert kubedb cli into a `kubectl dba` plgin (#455)
+- [aec37df2](https://github.com/kubedb/cli/commit/aec37df2) Revendor dependencies
+- [2c120d1a](https://github.com/kubedb/cli/commit/2c120d1a) Update client-go to kubernetes-1.16.3 (#453)
+- [ce221024](https://github.com/kubedb/cli/commit/ce221024) Add add-license make target
+- [84a6a1e8](https://github.com/kubedb/cli/commit/84a6a1e8) Add license header to files (#452)
+- [1ced65ea](https://github.com/kubedb/cli/commit/1ced65ea) Split imports into 3 parts (#451)
+- [8e533f69](https://github.com/kubedb/cli/commit/8e533f69) Add release workflow script (#450)
+- [0735ce0c](https://github.com/kubedb/cli/commit/0735ce0c) Enable GitHub actions
+- [8522ec74](https://github.com/kubedb/cli/commit/8522ec74) Update changelog
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0-rc.1)

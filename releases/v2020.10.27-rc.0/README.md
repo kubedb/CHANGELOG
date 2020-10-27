@@ -26,3 +26,12 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.14.0-beta.6](https://github.com/kubedb/postgres/releases/tag/v0.14.0-beta.6)
+
+- [9e1a642e](https://github.com/kubedb/postgres/commit/9e1a642e) Prepare for release v0.14.0-beta.6 (#404)
+- [8b869c02](https://github.com/kubedb/postgres/commit/8b869c02) Create SRV records for governing service (#402)
+
+
+

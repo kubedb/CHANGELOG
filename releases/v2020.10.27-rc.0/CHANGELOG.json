@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.0",
-  "release_date": "2020-10-27T13:37:44.173192604Z",
+  "release_date": "2020-10-27T13:38:35.595253529Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.0",
   "kubernetes_version": "1.12+",
@@ -47,6 +47,24 @@
             {
               "SHA": "4635eab",
               "Subject": "Update KubeDB api (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.14.0-beta.6",
+          "commits": [
+            {
+              "SHA": "9e1a642e",
+              "Subject": "Prepare for release v0.14.0-beta.6 (#404)"
+            },
+            {
+              "SHA": "8b869c02",
+              "Subject": "Create SRV records for governing service (#402)"
             }
           ]
         }

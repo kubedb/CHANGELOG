@@ -1,0 +1,181 @@
+# KubeDB v2020.10.27-rc.1 (2020-10-27)
+
+
+## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/apimachinery/releases/tag/v0.14.0-rc.1)
+
+- [57468b4d](https://github.com/kubedb/apimachinery/commit/57468b4d) Add docker badge
+- [cd358dda](https://github.com/kubedb/apimachinery/commit/cd358dda) Update MergeServicePort and PatchServicePort apis
+- [b72968d5](https://github.com/kubedb/apimachinery/commit/b72968d5) Add port constants (#635)
+- [6ce39fbe](https://github.com/kubedb/apimachinery/commit/6ce39fbe) Create separate governing service for each database (#634)
+- [ecfb5d85](https://github.com/kubedb/apimachinery/commit/ecfb5d85) Update readme
+- [61b26532](https://github.com/kubedb/apimachinery/commit/61b26532) Add MySQL constants (#633)
+- [42888647](https://github.com/kubedb/apimachinery/commit/42888647) Update Kubernetes v1.18.9 dependencies (#632)
+- [a57a7df5](https://github.com/kubedb/apimachinery/commit/a57a7df5) Set prx as ProxySQL short code (#631)
+- [282992ea](https://github.com/kubedb/apimachinery/commit/282992ea) Update for release Stash@v2020.10.21 (#630)
+- [5f17e1b4](https://github.com/kubedb/apimachinery/commit/5f17e1b4) Set default CA secret name even if the SSL is disabled. (#624)
+- [c3710b61](https://github.com/kubedb/apimachinery/commit/c3710b61) Add host functions for different components of MongoDB (#625)
+- [028d939d](https://github.com/kubedb/apimachinery/commit/028d939d) Refine api (#629)
+- [4f4cfb3b](https://github.com/kubedb/apimachinery/commit/4f4cfb3b) Update Kubernetes v1.18.9 dependencies (#626)
+- [47eaa486](https://github.com/kubedb/apimachinery/commit/47eaa486) Add MongoDBCustomConfigFile constant
+- [5201c39b](https://github.com/kubedb/apimachinery/commit/5201c39b) Update MySQL ops request custom config api (#623)
+- [06c2076f](https://github.com/kubedb/apimachinery/commit/06c2076f) Rename redis ConfigMapName to ConfigSecretName
+- [0d4040b4](https://github.com/kubedb/apimachinery/commit/0d4040b4) API refinement (#622)
+- [2eabe4c2](https://github.com/kubedb/apimachinery/commit/2eabe4c2) Update Kubernetes v1.18.9 dependencies (#621)
+- [ac3ff1a6](https://github.com/kubedb/apimachinery/commit/ac3ff1a6) Handle halted condition (#620)
+- [8ed26973](https://github.com/kubedb/apimachinery/commit/8ed26973) Update constants for Elasticsearch conditions (#618)
+- [97c32f71](https://github.com/kubedb/apimachinery/commit/97c32f71) Use core/v1 ConditionStatus (#619)
+- [304c48b8](https://github.com/kubedb/apimachinery/commit/304c48b8) Update Kubernetes v1.18.9 dependencies (#617)
+- [a841401e](https://github.com/kubedb/apimachinery/commit/a841401e) Fix StatefulSet controller (#616)
+- [517285ea](https://github.com/kubedb/apimachinery/commit/517285ea) Add spec.init.initialized field (#615)
+- [057d3aef](https://github.com/kubedb/apimachinery/commit/057d3aef) Implement ReplicasAreReady (#614)
+- [32105113](https://github.com/kubedb/apimachinery/commit/32105113) Update appcatalog dependency
+- [34bf142e](https://github.com/kubedb/apimachinery/commit/34bf142e) Update swagger.json
+- [7d9095af](https://github.com/kubedb/apimachinery/commit/7d9095af) Fix build (#613)
+- [ad7988a8](https://github.com/kubedb/apimachinery/commit/ad7988a8) Fix build
+- [0cf6469d](https://github.com/kubedb/apimachinery/commit/0cf6469d) Switch kubedb apiVersion to v1alpha2 (#612)
+- [fd3131cd](https://github.com/kubedb/apimachinery/commit/fd3131cd) Add Volume Expansion and Configuration for MySQL OpsRequest (#607)
+- [fd285012](https://github.com/kubedb/apimachinery/commit/fd285012) Add `alias` in the name of MongoDB server certificates (#611)
+- [e562def9](https://github.com/kubedb/apimachinery/commit/e562def9) Remove GetMonitoringVendor method
+- [a71f9b7e](https://github.com/kubedb/apimachinery/commit/a71f9b7e) Fix build
+- [c97abe0d](https://github.com/kubedb/apimachinery/commit/c97abe0d) Update monitoring api dependency (#610)
+- [d6070fc7](https://github.com/kubedb/apimachinery/commit/d6070fc7) Remove deprecated fields for monitoring (#609)
+- [8d2f606a](https://github.com/kubedb/apimachinery/commit/8d2f606a) Add framework support for conditions (#608)
+- [a74ea7a4](https://github.com/kubedb/apimachinery/commit/a74ea7a4) Bring back mysql ops spec StatefulSetOrdinal field
+- [bda2d85a](https://github.com/kubedb/apimachinery/commit/bda2d85a) Add VerticalAutoscaler type (#606)
+- [b9b22a35](https://github.com/kubedb/apimachinery/commit/b9b22a35) Add MySQL constant (#604)
+- [2b887957](https://github.com/kubedb/apimachinery/commit/2b887957) Fix typo
+- [c31cd2fd](https://github.com/kubedb/apimachinery/commit/c31cd2fd) Update ops request enumerations
+- [41083a9d](https://github.com/kubedb/apimachinery/commit/41083a9d) Revise ops request apis (#603)
+- [acfb1564](https://github.com/kubedb/apimachinery/commit/acfb1564) Revise api conditions (#602)
+- [5c12de3a](https://github.com/kubedb/apimachinery/commit/5c12de3a) Update DB condition types and phases (#598)
+- [f27cb720](https://github.com/kubedb/apimachinery/commit/f27cb720) Write data restore completion event using dynamic client (#601)
+- [60ada14c](https://github.com/kubedb/apimachinery/commit/60ada14c) Update Kubernetes v1.18.9 dependencies (#600)
+- [5779a5d7](https://github.com/kubedb/apimachinery/commit/5779a5d7) Update for release Stash@v2020.09.29 (#599)
+- [86121dad](https://github.com/kubedb/apimachinery/commit/86121dad) Update Kubernetes v1.18.9 dependencies (#597)
+- [da9fbe59](https://github.com/kubedb/apimachinery/commit/da9fbe59) Add DB conditions
+- [7399d13f](https://github.com/kubedb/apimachinery/commit/7399d13f) Rename ES root-cert to ca-cert (#594)
+- [1cd75609](https://github.com/kubedb/apimachinery/commit/1cd75609) Remove spec.paused & deprecated fields DB crds (#596)
+- [9c85f9f1](https://github.com/kubedb/apimachinery/commit/9c85f9f1) Use `status.conditions` to handle database initialization (#593)
+- [87e8e58b](https://github.com/kubedb/apimachinery/commit/87e8e58b) Update Kubernetes v1.18.9 dependencies (#595)
+- [32206db2](https://github.com/kubedb/apimachinery/commit/32206db2) Add helper methods for MySQL (#592)
+- [10aca81a](https://github.com/kubedb/apimachinery/commit/10aca81a) Rename client node to ingest node (#583)
+- [d8bbd5ec](https://github.com/kubedb/apimachinery/commit/d8bbd5ec) Update repository config (#591)
+- [4d51a066](https://github.com/kubedb/apimachinery/commit/4d51a066) Update repository config (#590)
+- [5905c2cb](https://github.com/kubedb/apimachinery/commit/5905c2cb) Update Kubernetes v1.18.9 dependencies (#589)
+- [3dc3d970](https://github.com/kubedb/apimachinery/commit/3dc3d970) Update Kubernetes v1.18.3 dependencies (#588)
+- [53b42277](https://github.com/kubedb/apimachinery/commit/53b42277) Add event recorder in controller struct (#587)
+- [ec58309a](https://github.com/kubedb/apimachinery/commit/ec58309a) Update Kubernetes v1.18.3 dependencies (#586)
+- [38050bae](https://github.com/kubedb/apimachinery/commit/38050bae) Initialize db from stash restoresession/restoreBatch (#567)
+- [ec3efa91](https://github.com/kubedb/apimachinery/commit/ec3efa91) Update for release Stash@v2020.09.16 (#585)
+- [5ddfd53a](https://github.com/kubedb/apimachinery/commit/5ddfd53a) Update Kubernetes v1.18.3 dependencies (#584)
+- [24398515](https://github.com/kubedb/apimachinery/commit/24398515) Add some `MongoDB` and `MongoDBOpsRequest` Constants (#582)
+- [584a4bf6](https://github.com/kubedb/apimachinery/commit/584a4bf6) Add primary and secondary role constant for MySQL (#581)
+- [82299808](https://github.com/kubedb/apimachinery/commit/82299808) Update Kubernetes v1.18.3 dependencies (#580)
+- [ecd1d17f](https://github.com/kubedb/apimachinery/commit/ecd1d17f) Add Functions to get Default Probes (#579)
+- [76ac9bc0](https://github.com/kubedb/apimachinery/commit/76ac9bc0) Remove CertManagerClient client
+- [b99048f4](https://github.com/kubedb/apimachinery/commit/b99048f4) Remove unused constants for ProxySQL
+- [152cef57](https://github.com/kubedb/apimachinery/commit/152cef57) Update Kubernetes v1.18.3 dependencies (#578)
+- [24c5e829](https://github.com/kubedb/apimachinery/commit/24c5e829) Update redis constants (#575)
+- [7075b38d](https://github.com/kubedb/apimachinery/commit/7075b38d) Remove spec.updateStrategy field (#577)
+- [dfd11955](https://github.com/kubedb/apimachinery/commit/dfd11955) Remove description from CRD yamls (#576)
+- [2d1b5878](https://github.com/kubedb/apimachinery/commit/2d1b5878) Add autoscaling crds (#554)
+- [68ed8127](https://github.com/kubedb/apimachinery/commit/68ed8127) Fix build
+- [63d18f0d](https://github.com/kubedb/apimachinery/commit/63d18f0d) Rename PgBouncer archiver to client
+- [a219c251](https://github.com/kubedb/apimachinery/commit/a219c251) Handle shard scenario for MongoDB cert names (#574)
+- [d2c80e55](https://github.com/kubedb/apimachinery/commit/d2c80e55) Add MongoDB Custom Config Spec (#562)
+- [1e69fb02](https://github.com/kubedb/apimachinery/commit/1e69fb02) Support multiple certificates per DB (#555)
+- [9bbed3d1](https://github.com/kubedb/apimachinery/commit/9bbed3d1) Update Kubernetes v1.18.3 dependencies (#573)
+- [7df78c7a](https://github.com/kubedb/apimachinery/commit/7df78c7a) Update CRD yamls
+- [406d895d](https://github.com/kubedb/apimachinery/commit/406d895d) Implement ServiceMonitorAdditionalLabels method (#572)
+- [cfe4374a](https://github.com/kubedb/apimachinery/commit/cfe4374a) Make ServiceMonitor name same as stats service (#563)
+- [d2ed6b4a](https://github.com/kubedb/apimachinery/commit/d2ed6b4a) Update for release Stash@v2020.08.27 (#571)
+- [749b9084](https://github.com/kubedb/apimachinery/commit/749b9084) Update for release Stash@v2020.08.27-rc.0 (#570)
+- [5d8bf42c](https://github.com/kubedb/apimachinery/commit/5d8bf42c) Update for release Stash@v2020.08.26-rc.1 (#569)
+- [6edc4782](https://github.com/kubedb/apimachinery/commit/6edc4782) Update for release Stash@v2020.08.26-rc.0 (#568)
+- [c451ff3a](https://github.com/kubedb/apimachinery/commit/c451ff3a) Update Kubernetes v1.18.3 dependencies (#565)
+- [fdc6e2d6](https://github.com/kubedb/apimachinery/commit/fdc6e2d6) Update Kubernetes v1.18.3 dependencies (#564)
+- [2f509c26](https://github.com/kubedb/apimachinery/commit/2f509c26) Update Kubernetes v1.18.3 dependencies (#561)
+- [da655afe](https://github.com/kubedb/apimachinery/commit/da655afe) Update Kubernetes v1.18.3 dependencies (#560)
+- [9c2c06a9](https://github.com/kubedb/apimachinery/commit/9c2c06a9) Fix MySQL enterprise condition's  constant (#559)
+- [81ed2724](https://github.com/kubedb/apimachinery/commit/81ed2724) Update Kubernetes v1.18.3 dependencies (#558)
+- [738b7ade](https://github.com/kubedb/apimachinery/commit/738b7ade) Update Kubernetes v1.18.3 dependencies (#557)
+- [93f0af4b](https://github.com/kubedb/apimachinery/commit/93f0af4b) Add MySQL Constants (#553)
+- [6049554d](https://github.com/kubedb/apimachinery/commit/6049554d) Add {Horizontal,Vertical}ScalingSpec for Redis (#534)
+- [28552272](https://github.com/kubedb/apimachinery/commit/28552272) Enable TLS for Redis (#546)
+- [68e00844](https://github.com/kubedb/apimachinery/commit/68e00844) Add Spec for MongoDB Volume Expansion (#548)
+- [759a800a](https://github.com/kubedb/apimachinery/commit/759a800a) Add Subject spec for Certificate (#552)
+- [b1552628](https://github.com/kubedb/apimachinery/commit/b1552628) Add email SANs for certificate (#551)
+- [fdfad57e](https://github.com/kubedb/apimachinery/commit/fdfad57e) Update to cert-manager@v0.16.0 (#550)
+- [3b5e9ece](https://github.com/kubedb/apimachinery/commit/3b5e9ece) Update to Kubernetes v1.18.3 (#549)
+- [0c5a1e9b](https://github.com/kubedb/apimachinery/commit/0c5a1e9b) Make ElasticsearchVersion spec.tools optional (#526)
+- [01a0b4b3](https://github.com/kubedb/apimachinery/commit/01a0b4b3) Add Conditions Constant for MongoDBOpsRequest (#535)
+- [34a9ed61](https://github.com/kubedb/apimachinery/commit/34a9ed61) Update to Kubernetes v1.18.3 (#547)
+- [6392f19e](https://github.com/kubedb/apimachinery/commit/6392f19e) Add Storage Engine Support for Percona Server MongoDB (#538)
+- [02d205bc](https://github.com/kubedb/apimachinery/commit/02d205bc) Remove extra - from prefix/suffix (#543)
+- [06158f51](https://github.com/kubedb/apimachinery/commit/06158f51) Update to Kubernetes v1.18.3 (#542)
+- [157a8724](https://github.com/kubedb/apimachinery/commit/157a8724) Update for release Stash@v2020.07.09-beta.0 (#541)
+- [0e86bdbd](https://github.com/kubedb/apimachinery/commit/0e86bdbd) Update for release Stash@v2020.07.08-beta.0 (#540)
+- [f4a22d0c](https://github.com/kubedb/apimachinery/commit/f4a22d0c) Update License notice (#539)
+- [3c598500](https://github.com/kubedb/apimachinery/commit/3c598500) Use Allowlist and Denylist in MySQLVersion (#537)
+- [3c58c062](https://github.com/kubedb/apimachinery/commit/3c58c062) Update to Kubernetes v1.18.3 (#536)
+- [e1f3d603](https://github.com/kubedb/apimachinery/commit/e1f3d603) Update update-release-tracker.sh
+- [0cf4a01f](https://github.com/kubedb/apimachinery/commit/0cf4a01f) Update update-release-tracker.sh
+- [bfbd1f8d](https://github.com/kubedb/apimachinery/commit/bfbd1f8d) Add script to update release tracker on pr merge (#533)
+- [b817d87c](https://github.com/kubedb/apimachinery/commit/b817d87c) Update .kodiak.toml
+- [772e8d2f](https://github.com/kubedb/apimachinery/commit/772e8d2f) Add Ops Request const (#529)
+- [453d67ca](https://github.com/kubedb/apimachinery/commit/453d67ca) Add constants for mutator & validator group names (#532)
+- [69f997b5](https://github.com/kubedb/apimachinery/commit/69f997b5) Unwrap top level api folder (#531)
+- [a8ccec51](https://github.com/kubedb/apimachinery/commit/a8ccec51) Make RedisOpsRequest Namespaced (#530)
+- [8a076bfb](https://github.com/kubedb/apimachinery/commit/8a076bfb) Update .kodiak.toml
+- [6a8e51b9](https://github.com/kubedb/apimachinery/commit/6a8e51b9) Update to Kubernetes v1.18.3 (#527)
+- [2ef41962](https://github.com/kubedb/apimachinery/commit/2ef41962) Create .kodiak.toml
+- [8e596d4e](https://github.com/kubedb/apimachinery/commit/8e596d4e) Update to Kubernetes v1.18.3
+- [31f72200](https://github.com/kubedb/apimachinery/commit/31f72200) Update comments
+- [27bc9265](https://github.com/kubedb/apimachinery/commit/27bc9265) Use CRD v1 for Kubernetes >= 1.16 (#525)
+- [d1be7d1d](https://github.com/kubedb/apimachinery/commit/d1be7d1d) Remove defaults from CRD v1beta1
+- [5c73d507](https://github.com/kubedb/apimachinery/commit/5c73d507) Use crd.Interface in Controller (#524)
+- [27763544](https://github.com/kubedb/apimachinery/commit/27763544) Generate both v1beta1 and v1 CRD YAML (#523)
+- [5a0f0a93](https://github.com/kubedb/apimachinery/commit/5a0f0a93) Update to Kubernetes v1.18.3 (#520)
+- [25008c1a](https://github.com/kubedb/apimachinery/commit/25008c1a) Change MySQL `[]ContainerResources` to `core.ResourceRequirements` (#522)
+- [abc99620](https://github.com/kubedb/apimachinery/commit/abc99620) Merge pull request #521 from kubedb/mongo-vertical
+- [f38a109c](https://github.com/kubedb/apimachinery/commit/f38a109c) Change `[]ContainerResources` to `core.ResourceRequirements`
+- [e3058f85](https://github.com/kubedb/apimachinery/commit/e3058f85) Update `modification request` to `ops request` (#519)
+- [bd3c7d01](https://github.com/kubedb/apimachinery/commit/bd3c7d01) Fix linter warnings
+- [d70848d7](https://github.com/kubedb/apimachinery/commit/d70848d7) Rename api group to ops.kubedb.com (#518)
+- [745f2438](https://github.com/kubedb/apimachinery/commit/745f2438) Merge pull request #511 from pohly/memcached-pmem
+- [75c949aa](https://github.com/kubedb/apimachinery/commit/75c949aa) memcached: add dataVolume
+- [3e5cdc03](https://github.com/kubedb/apimachinery/commit/3e5cdc03) Merge pull request #517 from kubedb/mg-scaling
+- [0c9e2b4f](https://github.com/kubedb/apimachinery/commit/0c9e2b4f) Flatten api structure
+- [9c98fbc1](https://github.com/kubedb/apimachinery/commit/9c98fbc1) Add MongoDBModificationRequest Scaling Spec
+- [22b199b6](https://github.com/kubedb/apimachinery/commit/22b199b6) Update comment for UpgradeSpec
+- [c66fda4b](https://github.com/kubedb/apimachinery/commit/c66fda4b) Review DBA crds (#516)
+- [bc1e13f7](https://github.com/kubedb/apimachinery/commit/bc1e13f7) Merge pull request #509 from kubedb/mysql-upgrade
+- [2c9ae147](https://github.com/kubedb/apimachinery/commit/2c9ae147) Fix type names and definition
+- [4c7c5074](https://github.com/kubedb/apimachinery/commit/4c7c5074) Update MySQLModificationRequest CRD
+- [4096642c](https://github.com/kubedb/apimachinery/commit/4096642c) Merge pull request #501 from kubedb/redis-modification
+- [3d683e58](https://github.com/kubedb/apimachinery/commit/3d683e58) Use standard condition from kmodules
+- [7be4a3dd](https://github.com/kubedb/apimachinery/commit/7be4a3dd) Update RedisModificationRequest CRD
+- [a594bdb9](https://github.com/kubedb/apimachinery/commit/a594bdb9) Merge pull request #503 from kubedb/elastic-upgrade
+- [ee0eada4](https://github.com/kubedb/apimachinery/commit/ee0eada4) Use standard conditions from kmodules
+- [22cb24f6](https://github.com/kubedb/apimachinery/commit/22cb24f6) Update dba api for elasticsearchModificationRequest
+- [a2768752](https://github.com/kubedb/apimachinery/commit/a2768752) Merge pull request #499 from kubedb/mongodb-modification
+- [be5dde87](https://github.com/kubedb/apimachinery/commit/be5dde87) Use standard conditions from kmodules
+- [9bf2c80e](https://github.com/kubedb/apimachinery/commit/9bf2c80e) Add MongoDBModificationRequest Spec
+- [9ee80efd](https://github.com/kubedb/apimachinery/commit/9ee80efd) Fix Update***Status helpers (#515)
+- [2c75e77d](https://github.com/kubedb/apimachinery/commit/2c75e77d) Merge pull request #512 from kubedb/prestop-mongos
+- [e13d73c5](https://github.com/kubedb/apimachinery/commit/e13d73c5) Use recommended kubernetes app labels (#514)
+- [50856267](https://github.com/kubedb/apimachinery/commit/50856267) Add Enum markers to api types
+- [95e00c8e](https://github.com/kubedb/apimachinery/commit/95e00c8e) Add Default PreStop Hook for Mongos
+- [d99a1001](https://github.com/kubedb/apimachinery/commit/d99a1001) Trigger the workflow on push or pull request
+- [b8047fc0](https://github.com/kubedb/apimachinery/commit/b8047fc0) Regenerate api types
+- [83c8e40a](https://github.com/kubedb/apimachinery/commit/83c8e40a) Update CHANGELOG.md
+- [ddb1f266](https://github.com/kubedb/apimachinery/commit/ddb1f266) Add requireSSL field to MySQL crd (#506)
+- [c0c293bd](https://github.com/kubedb/apimachinery/commit/c0c293bd) Rename Elasticsearch NODE_ROLE constant
+- [9bfe7f2c](https://github.com/kubedb/apimachinery/commit/9bfe7f2c) Rename Mongo SHARD_INDEX constant
+- [e6f72c37](https://github.com/kubedb/apimachinery/commit/e6f72c37) Add default affinity rules for Redis (#508)
+- [ab738acf](https://github.com/kubedb/apimachinery/commit/ab738acf) Set default affinity if not provided for Elasticsearch (#507)
+
+
+

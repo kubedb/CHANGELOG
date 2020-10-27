@@ -1,4 +1,4 @@
-# KubeDB v2020.10.26-beta.0 (2020-10-26)
+# KubeDB v2020.10.26-beta.0 (2020-10-27)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -81,6 +81,15 @@
 - [ee4285c1](https://github.com/kubedb/mysql/commit/ee4285c1) Create separate governing service for each database (#283)
 - [8e2fcbf4](https://github.com/kubedb/mysql/commit/8e2fcbf4) Update KubeDB api (#282)
 - [ae962768](https://github.com/kubedb/mysql/commit/ae962768) Update readme
+
+
+
+## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
+
+### [v0.1.0-beta.5](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0-beta.5)
+
+- [e251fd6](https://github.com/kubedb/mysql-replication-mode-detector/commit/e251fd6) Prepare for release v0.1.0-beta.5 (#72)
+- [633ba00](https://github.com/kubedb/mysql-replication-mode-detector/commit/633ba00) Update KubeDB api (#71)
 
 
 

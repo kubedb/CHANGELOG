@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.2",
-  "release_date": "2020-10-28T03:41:45.865791897Z",
+  "release_date": "2020-10-28T03:47:37.039654844Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.2",
   "kubernetes_version": "1.12+",
@@ -29,6 +29,20 @@
             {
               "SHA": "dbc93cda",
               "Subject": "Add dnsConfig and dnsPolicy to podTemplate (#636)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.10.27-rc.2",
+          "commits": [
+            {
+              "SHA": "f789b44",
+              "Subject": "Prepare for release v2020.10.27-rc.2 (#9)"
             }
           ]
         }

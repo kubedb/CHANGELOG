@@ -17,6 +17,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2020.10.27-rc.2](https://github.com/kubedb/bundles/releases/tag/v2020.10.27-rc.2)
+
+- [f789b44](https://github.com/kubedb/bundles/commit/f789b44) Prepare for release v2020.10.27-rc.2 (#9)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.14.0-rc.2](https://github.com/kubedb/cli/releases/tag/v0.14.0-rc.2)

@@ -84,9 +84,9 @@
         "key": "kubedb-installer",
         "tag": "v0.14.0-rc.2",
         "commands": [
-          "make chart-kubedb CHART_VERSION=${KUBEDB_OPERATOR} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
-          "make chart-kubedb-catalog CHART_VERSION=${KUBEDB_OPERATOR} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
-          "make chart-kubedb-enterprise CHART_VERSION=${APPSCODE_KUBEDB_ENTERPRISE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb CHART_VERSION=${KUBEDB_OPERATOR_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-catalog CHART_VERSION=${KUBEDB_OPERATOR_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-enterprise CHART_VERSION=${APPSCODE_KUBEDB_ENTERPRISE_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
           "find charts/kubedb-catalog/templates/mysql -type f -exec sed -i 's|mysql-replication-mode-detector:.*|mysql-replication-mode-detector:${KUBEDB_MYSQL_REPLICATION_MODE_DETECTOR_TAG}\"|g' {} \\;"
         ]
       }

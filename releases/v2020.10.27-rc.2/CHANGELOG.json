@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.27-rc.2",
-  "release_date": "2020-10-28T03:30:22.371866697Z",
+  "release_date": "2020-10-28T03:41:45.865791897Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.27-rc.2",
   "kubernetes_version": "1.12+",
@@ -43,6 +43,20 @@
             {
               "SHA": "b00a2123",
               "Subject": "Prepare for release v0.14.0-rc.2 (#533)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2020.10.27-rc.2",
+          "commits": [
+            {
+              "SHA": "4816c68",
+              "Subject": "Prepare for release v2020.10.27-rc.2 (#71)"
             }
           ]
         }

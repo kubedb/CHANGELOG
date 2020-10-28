@@ -33,6 +33,14 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.14.0-rc.2](https://github.com/kubedb/installer/releases/tag/v0.14.0-rc.2)
+
+- [262439e](https://github.com/kubedb/installer/commit/262439e) Prepare for release v0.14.0-rc.2 (#176)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/memcached/releases/tag/v0.7.0-rc.2)

@@ -1,4 +1,12 @@
-# KubeDB v2020.10.27-rc.2 (2020-10-27)
+# KubeDB v2020.10.27-rc.2 (2020-10-28)
+
+
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.1.0-rc.2](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.1.0-rc.2)
+
+- [c2e95f74](https://github.com/appscode/kubedb-enterprise/commit/c2e95f74) Prepare for release v0.1.0-rc.2 (#84)
+
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)

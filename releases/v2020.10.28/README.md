@@ -1,6 +1,99 @@
 # KubeDB v2020.10.28 (2020-10-29)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.1.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.1.0)
+
+- [3c20bdae](https://github.com/appscode/kubedb-enterprise/commit/3c20bdae) Prepare for release v0.1.0 (#88)
+- [9bd093fc](https://github.com/appscode/kubedb-enterprise/commit/9bd093fc) Change selector to podNames (#86)
+- [c2e95f74](https://github.com/appscode/kubedb-enterprise/commit/c2e95f74) Prepare for release v0.1.0-rc.2 (#84)
+- [095e631c](https://github.com/appscode/kubedb-enterprise/commit/095e631c) Prepare for release v0.1.0-rc.1 (#83)
+- [5df3d1e9](https://github.com/appscode/kubedb-enterprise/commit/5df3d1e9) Prepare for release v0.1.0-beta.6 (#82)
+- [c7bf3943](https://github.com/appscode/kubedb-enterprise/commit/c7bf3943) Prepare for release v0.1.0-beta.5 (#81)
+- [1bf37b01](https://github.com/appscode/kubedb-enterprise/commit/1bf37b01) Update KubeDB api (#80)
+- [a99c4e9f](https://github.com/appscode/kubedb-enterprise/commit/a99c4e9f) Update readme
+- [2ad24272](https://github.com/appscode/kubedb-enterprise/commit/2ad24272) Update repository config (#79)
+- [d045bd2d](https://github.com/appscode/kubedb-enterprise/commit/d045bd2d) Prepare for release v0.1.0-beta.4 (#78)
+- [5fbe4b48](https://github.com/appscode/kubedb-enterprise/commit/5fbe4b48) Update KubeDB api (#73)
+- [00db6203](https://github.com/appscode/kubedb-enterprise/commit/00db6203) Replace getConditions with kmapi.NewCondition (#71)
+- [aea1f64a](https://github.com/appscode/kubedb-enterprise/commit/aea1f64a) Update License header (#70)
+- [1c15c2b8](https://github.com/appscode/kubedb-enterprise/commit/1c15c2b8) Add RedisOpsRequest Controller (#28)
+- [5cedb8fd](https://github.com/appscode/kubedb-enterprise/commit/5cedb8fd) Add MySQL OpsRequest Controller (#14)
+- [f0f282c0](https://github.com/appscode/kubedb-enterprise/commit/f0f282c0) Add Reconfigure TLS (#69)
+- [cea85618](https://github.com/appscode/kubedb-enterprise/commit/cea85618) Add Restart Operation, Readiness Criteria and Remove Configuration (#59)
+- [68cd3dcc](https://github.com/appscode/kubedb-enterprise/commit/68cd3dcc) Update repository config (#66)
+- [feef09ab](https://github.com/appscode/kubedb-enterprise/commit/feef09ab) Publish docker images to ghcr.io (#65)
+- [199d4bd2](https://github.com/appscode/kubedb-enterprise/commit/199d4bd2) Update repository config (#60)
+- [2ae29633](https://github.com/appscode/kubedb-enterprise/commit/2ae29633) Reconfigure MongoDB with Vertical Scaling (#57)
+- [9a98fc29](https://github.com/appscode/kubedb-enterprise/commit/9a98fc29) Fix MongoDB Upgrade (#51)
+- [9a1a792a](https://github.com/appscode/kubedb-enterprise/commit/9a1a792a) Integrate cert-manager for Elasticsearch (#56)
+- [b02cda77](https://github.com/appscode/kubedb-enterprise/commit/b02cda77) Update repository config (#54)
+- [947c33e2](https://github.com/appscode/kubedb-enterprise/commit/947c33e2) Update repository config (#52)
+- [12edf6f1](https://github.com/appscode/kubedb-enterprise/commit/12edf6f1) Update Kubernetes v1.18.9 dependencies (#49)
+- [08f6a4ac](https://github.com/appscode/kubedb-enterprise/commit/08f6a4ac) Add license verifier (#50)
+- [30ceb1a5](https://github.com/appscode/kubedb-enterprise/commit/30ceb1a5) Add MongoDBOpsRequest Controller (#20)
+- [164ed838](https://github.com/appscode/kubedb-enterprise/commit/164ed838) Use cert-manager v1 api (#47)
+- [7612ec19](https://github.com/appscode/kubedb-enterprise/commit/7612ec19) Update apis (#45)
+- [00550fe0](https://github.com/appscode/kubedb-enterprise/commit/00550fe0) Dynamically Generate Cluster Domain (#43)
+- [e1c3193f](https://github.com/appscode/kubedb-enterprise/commit/e1c3193f) Use updated certstore & blobfs (#42)
+- [0d5d05bb](https://github.com/appscode/kubedb-enterprise/commit/0d5d05bb) Add TLS support for redis (#35)
+- [bb53fc86](https://github.com/appscode/kubedb-enterprise/commit/bb53fc86) Various fixes (#41)
+- [023c5dfd](https://github.com/appscode/kubedb-enterprise/commit/023c5dfd) Add TLS/SSL configuration using Cert Manager for MySQL (#34)
+- [e1795b97](https://github.com/appscode/kubedb-enterprise/commit/e1795b97) Update certificate spec for MongoDB and PgBouncer (#40)
+- [5e82443d](https://github.com/appscode/kubedb-enterprise/commit/5e82443d) Update new Subject sped for certificates (#38)
+- [099abfb8](https://github.com/appscode/kubedb-enterprise/commit/099abfb8) Update to cert-manager v0.16.0 (#37)
+- [b14346d3](https://github.com/appscode/kubedb-enterprise/commit/b14346d3) Update to Kubernetes v1.18.3 (#36)
+- [c569a8eb](https://github.com/appscode/kubedb-enterprise/commit/c569a8eb) Fix cert-manager integration for PgBouncer (#32)
+- [28548950](https://github.com/appscode/kubedb-enterprise/commit/28548950) Update to Kubernetes v1.18.3 (#31)
+- [1ba9573e](https://github.com/appscode/kubedb-enterprise/commit/1ba9573e) Include Makefile.env (#30)
+- [54133b44](https://github.com/appscode/kubedb-enterprise/commit/54133b44) Disable e2e tests (#29)
+- [3939ece7](https://github.com/appscode/kubedb-enterprise/commit/3939ece7) Update to Kubernetes v1.18.3 (#27)
+- [95c6b535](https://github.com/appscode/kubedb-enterprise/commit/95c6b535) Update .kodiak.toml
+- [a88032cd](https://github.com/appscode/kubedb-enterprise/commit/a88032cd) Add script to update release tracker on pr merge (#26)
+- [a90f68e7](https://github.com/appscode/kubedb-enterprise/commit/a90f68e7) Rename docker image to kubedb-enterprise
+- [ccb9967f](https://github.com/appscode/kubedb-enterprise/commit/ccb9967f) Create .kodiak.toml
+- [fb6222ab](https://github.com/appscode/kubedb-enterprise/commit/fb6222ab) Format CI files
+- [93756db8](https://github.com/appscode/kubedb-enterprise/commit/93756db8) Fix e2e tests (#25)
+- [48ada32b](https://github.com/appscode/kubedb-enterprise/commit/48ada32b) Fix e2e tests using self-hosted GitHub action runners (#23)
+- [12b15d00](https://github.com/appscode/kubedb-enterprise/commit/12b15d00) Update to kubedb.dev/apimachinery@v0.14.0-alpha.6 (#24)
+- [9f32ab11](https://github.com/appscode/kubedb-enterprise/commit/9f32ab11) Update to Kubernetes v1.18.3 (#21)
+- [cd3422a7](https://github.com/appscode/kubedb-enterprise/commit/cd3422a7) Use CRD v1 for Kubernetes >= 1.16 (#19)
+- [4cc2f714](https://github.com/appscode/kubedb-enterprise/commit/4cc2f714) Update to Kubernetes v1.18.3 (#18)
+- [7fb86dfb](https://github.com/appscode/kubedb-enterprise/commit/7fb86dfb) Update cert-manager util
+- [1c8e1e32](https://github.com/appscode/kubedb-enterprise/commit/1c8e1e32) Configure GCR Docker credential helper in release pipeline
+- [cd74a0c2](https://github.com/appscode/kubedb-enterprise/commit/cd74a0c2) Vendor kubedb.dev/apimachinery@v0.14.0-beta.0
+- [5522f7ef](https://github.com/appscode/kubedb-enterprise/commit/5522f7ef) Revendor kubedb.dev/apimachinery@master
+- [e52cecfb](https://github.com/appscode/kubedb-enterprise/commit/e52cecfb) Update crazy-max/ghaction-docker-buildx flag
+- [9ce414ca](https://github.com/appscode/kubedb-enterprise/commit/9ce414ca) Merge pull request #17 from appscode/x7
+- [1938de61](https://github.com/appscode/kubedb-enterprise/commit/1938de61) Remove existing cluster
+- [262dae05](https://github.com/appscode/kubedb-enterprise/commit/262dae05) Remove support for k8s 1.11
+- [a00f342c](https://github.com/appscode/kubedb-enterprise/commit/a00f342c) Run e2e tests on GitHub actions
+- [b615b1ac](https://github.com/appscode/kubedb-enterprise/commit/b615b1ac) Use GCR_SERVICE_ACCOUNT_JSON_KEY env in CI
+- [41668265](https://github.com/appscode/kubedb-enterprise/commit/41668265) Use gcr.io/appscode as docker registry (#16)
+- [2e5df236](https://github.com/appscode/kubedb-enterprise/commit/2e5df236) Run on self-hosted hosts
+- [3da6adef](https://github.com/appscode/kubedb-enterprise/commit/3da6adef) Store enterprise images in `gcr.io/appscode` (#15)
+- [bd4a8eb1](https://github.com/appscode/kubedb-enterprise/commit/bd4a8eb1) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#12)
+- [c5436b50](https://github.com/appscode/kubedb-enterprise/commit/c5436b50) Don't handle deleted objects. (#11)
+- [ee5eea66](https://github.com/appscode/kubedb-enterprise/commit/ee5eea66) Fix MongoDB cert-manager integration (#10)
+- [105f08b8](https://github.com/appscode/kubedb-enterprise/commit/105f08b8) Add cert-manager integration for MongoDB (#9)
+- [b2a3af53](https://github.com/appscode/kubedb-enterprise/commit/b2a3af53) Refactor PgBouncer controller into its pkg (#8)
+- [b0e90f75](https://github.com/appscode/kubedb-enterprise/commit/b0e90f75) Use SecretInformer from apimachinery (#5)
+- [8dabbb1b](https://github.com/appscode/kubedb-enterprise/commit/8dabbb1b) Use non-deprecated Exporter fields (#4)
+- [de22842e](https://github.com/appscode/kubedb-enterprise/commit/de22842e) Cert-Manager support for PgBouncer [Client TLS] (#2)
+- [1a6794b7](https://github.com/appscode/kubedb-enterprise/commit/1a6794b7) Fix plain text secret in exporter container of StatefulSet (#5)
+- [ab104a9f](https://github.com/appscode/kubedb-enterprise/commit/ab104a9f) Update client-go to kubernetes-1.16.3 (#7)
+- [68dbb142](https://github.com/appscode/kubedb-enterprise/commit/68dbb142) Use charts to install operator (#6)
+- [30e3e729](https://github.com/appscode/kubedb-enterprise/commit/30e3e729) Add add-license make target
+- [6c1a78a0](https://github.com/appscode/kubedb-enterprise/commit/6c1a78a0) Enable e2e tests in GitHub actions (#4)
+- [0960f805](https://github.com/appscode/kubedb-enterprise/commit/0960f805) Initial implementation (#2)
+- [a8a9b1db](https://github.com/appscode/kubedb-enterprise/commit/a8a9b1db) Update go.yml
+- [bc3b2624](https://github.com/appscode/kubedb-enterprise/commit/bc3b2624) Enable GitHub actions
+- [2e33db2b](https://github.com/appscode/kubedb-enterprise/commit/2e33db2b) Clone kubedb/postgres repo (#1)
+- [45a7cace](https://github.com/appscode/kubedb-enterprise/commit/45a7cace) Merge commit 'f78de886ed657650438f99574c3b002dd3607497' as 'hack/libbuild'
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.14.0](https://github.com/kubedb/apimachinery/releases/tag/v0.14.0)

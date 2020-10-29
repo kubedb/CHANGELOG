@@ -401,6 +401,13 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2020.10.28](https://github.com/kubedb/docs/releases/tag/v2020.10.28)
+
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.14.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0)

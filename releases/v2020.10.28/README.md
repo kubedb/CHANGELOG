@@ -308,6 +308,148 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.7.0](https://github.com/kubedb/memcached/releases/tag/v0.7.0)
+
+- [e98bc3a2](https://github.com/kubedb/memcached/commit/e98bc3a2) Prepare for release v0.7.0 (#229)
+- [a63e015b](https://github.com/kubedb/memcached/commit/a63e015b) Prepare for release v0.7.0-rc.2 (#228)
+- [85527a82](https://github.com/kubedb/memcached/commit/85527a82) Prepare for release v0.7.0-rc.1 (#227)
+- [704cf9f2](https://github.com/kubedb/memcached/commit/704cf9f2) Prepare for release v0.7.0-beta.6 (#226)
+- [47039c68](https://github.com/kubedb/memcached/commit/47039c68) Create SRV records for governing service (#225)
+- [0fbfc766](https://github.com/kubedb/memcached/commit/0fbfc766) Prepare for release v0.7.0-beta.5 (#224)
+- [7a01e878](https://github.com/kubedb/memcached/commit/7a01e878) Create separate governing service for each database (#223)
+- [6cecdfec](https://github.com/kubedb/memcached/commit/6cecdfec) Update KubeDB api (#222)
+- [5942b1ff](https://github.com/kubedb/memcached/commit/5942b1ff) Update readme
+- [49da218c](https://github.com/kubedb/memcached/commit/49da218c) Prepare for release v0.7.0-beta.4 (#221)
+- [25677a68](https://github.com/kubedb/memcached/commit/25677a68) Update KubeDB api (#220)
+- [b4cd7a06](https://github.com/kubedb/memcached/commit/b4cd7a06) Update Kubernetes v1.18.9 dependencies (#219)
+- [553c98d4](https://github.com/kubedb/memcached/commit/553c98d4) Update KubeDB api (#218)
+- [2e9af5f1](https://github.com/kubedb/memcached/commit/2e9af5f1) Update KubeDB api (#217)
+- [86b20622](https://github.com/kubedb/memcached/commit/86b20622) Update KubeDB api (#216)
+- [8a46e900](https://github.com/kubedb/memcached/commit/8a46e900) Update Kubernetes v1.18.9 dependencies (#215)
+- [366531e0](https://github.com/kubedb/memcached/commit/366531e0) Update KubeDB api (#214)
+- [1a45a5d3](https://github.com/kubedb/memcached/commit/1a45a5d3) Update KubeDB api (#213)
+- [40afd78d](https://github.com/kubedb/memcached/commit/40afd78d) Update KubeDB api (#212)
+- [bee3d626](https://github.com/kubedb/memcached/commit/bee3d626) Update KubeDB api (#211)
+- [3a71917a](https://github.com/kubedb/memcached/commit/3a71917a) Update Kubernetes v1.18.9 dependencies (#210)
+- [efaeb8f1](https://github.com/kubedb/memcached/commit/efaeb8f1) Update KubeDB api (#209)
+- [f8bcc2ac](https://github.com/kubedb/memcached/commit/f8bcc2ac) Update KubeDB api (#208)
+- [de050491](https://github.com/kubedb/memcached/commit/de050491) Update KubeDB api (#207)
+- [f59d7b22](https://github.com/kubedb/memcached/commit/f59d7b22) Update repository config (#206)
+- [ef1b61d7](https://github.com/kubedb/memcached/commit/ef1b61d7) Update repository config (#205)
+- [2401e6a4](https://github.com/kubedb/memcached/commit/2401e6a4) Update repository config (#204)
+- [59b4a20b](https://github.com/kubedb/memcached/commit/59b4a20b) Update KubeDB api (#203)
+- [7ceab937](https://github.com/kubedb/memcached/commit/7ceab937) Update Kubernetes v1.18.9 dependencies (#202)
+- [22ed0d2f](https://github.com/kubedb/memcached/commit/22ed0d2f) Publish docker images to ghcr.io (#201)
+- [059535f1](https://github.com/kubedb/memcached/commit/059535f1) Update KubeDB api (#200)
+- [480c5281](https://github.com/kubedb/memcached/commit/480c5281) Update KubeDB api (#199)
+- [60980557](https://github.com/kubedb/memcached/commit/60980557) Update KubeDB api (#198)
+- [57091fac](https://github.com/kubedb/memcached/commit/57091fac) Update KubeDB api (#197)
+- [4fa3793d](https://github.com/kubedb/memcached/commit/4fa3793d) Update repository config (#196)
+- [9891c8e3](https://github.com/kubedb/memcached/commit/9891c8e3) Update Kubernetes v1.18.9 dependencies (#195)
+- [d4dbb4a6](https://github.com/kubedb/memcached/commit/d4dbb4a6) Update KubeDB api (#192)
+- [8e27b6ef](https://github.com/kubedb/memcached/commit/8e27b6ef) Update Kubernetes v1.18.9 dependencies (#193)
+- [f8fefd18](https://github.com/kubedb/memcached/commit/f8fefd18) Update Kubernetes v1.18.9 dependencies (#191)
+- [0c8250d9](https://github.com/kubedb/memcached/commit/0c8250d9) Update repository config (#190)
+- [08cd9670](https://github.com/kubedb/memcached/commit/08cd9670) Update repository config (#189)
+- [c15513f2](https://github.com/kubedb/memcached/commit/c15513f2) Update Kubernetes v1.18.9 dependencies (#188)
+- [f6115aaa](https://github.com/kubedb/memcached/commit/f6115aaa) Use common event recorder (#187)
+- [bbf717a9](https://github.com/kubedb/memcached/commit/bbf717a9) Update Kubernetes v1.18.3 dependencies (#186)
+- [a9edb56d](https://github.com/kubedb/memcached/commit/a9edb56d) Prepare for release v0.7.0-beta.3 (#185)
+- [ce99d040](https://github.com/kubedb/memcached/commit/ce99d040) Update Kubernetes v1.18.3 dependencies (#184)
+- [dd19f634](https://github.com/kubedb/memcached/commit/dd19f634) Add license verifier (#183)
+- [fc482bc2](https://github.com/kubedb/memcached/commit/fc482bc2) Update Kubernetes v1.18.3 dependencies (#182)
+- [b85b6742](https://github.com/kubedb/memcached/commit/b85b6742) Use background deletion policy
+- [d46f41f9](https://github.com/kubedb/memcached/commit/d46f41f9) Update Kubernetes v1.18.3 dependencies (#180)
+- [d958c241](https://github.com/kubedb/memcached/commit/d958c241) Use AppsCode Community License (#179)
+- [64410c11](https://github.com/kubedb/memcached/commit/64410c11) Update Kubernetes v1.18.3 dependencies (#178)
+- [b8fe927b](https://github.com/kubedb/memcached/commit/b8fe927b) Prepare for release v0.7.0-beta.2 (#177)
+- [0f5014d2](https://github.com/kubedb/memcached/commit/0f5014d2) Update release.yml
+- [1b627013](https://github.com/kubedb/memcached/commit/1b627013) Remove updateStrategy field (#176)
+- [66f008d6](https://github.com/kubedb/memcached/commit/66f008d6) Update Kubernetes v1.18.3 dependencies (#175)
+- [09ff8589](https://github.com/kubedb/memcached/commit/09ff8589) Update Kubernetes v1.18.3 dependencies (#174)
+- [92e344d8](https://github.com/kubedb/memcached/commit/92e344d8) Update Kubernetes v1.18.3 dependencies (#173)
+- [51e977f3](https://github.com/kubedb/memcached/commit/51e977f3) Update Kubernetes v1.18.3 dependencies (#172)
+- [f32d7e9c](https://github.com/kubedb/memcached/commit/f32d7e9c) Update Kubernetes v1.18.3 dependencies (#171)
+- [2cdba698](https://github.com/kubedb/memcached/commit/2cdba698) Update Kubernetes v1.18.3 dependencies (#170)
+- [9486876e](https://github.com/kubedb/memcached/commit/9486876e) Update Kubernetes v1.18.3 dependencies (#169)
+- [81648447](https://github.com/kubedb/memcached/commit/81648447) Update Kubernetes v1.18.3 dependencies (#168)
+- [e9c3f98d](https://github.com/kubedb/memcached/commit/e9c3f98d) Fix install target
+- [6dff8f7b](https://github.com/kubedb/memcached/commit/6dff8f7b) Remove dependency on enterprise operator (#167)
+- [707d4d83](https://github.com/kubedb/memcached/commit/707d4d83) Build images in e2e workflow (#166)
+- [ff1b144e](https://github.com/kubedb/memcached/commit/ff1b144e) Allow configuring k8s & db version in e2e tests (#165)
+- [0b1699d8](https://github.com/kubedb/memcached/commit/0b1699d8) Update to Kubernetes v1.18.3 (#164)
+- [b141122a](https://github.com/kubedb/memcached/commit/b141122a) Trigger e2e tests on /ok-to-test command (#163)
+- [36b03266](https://github.com/kubedb/memcached/commit/36b03266) Update to Kubernetes v1.18.3 (#162)
+- [3ede9dcc](https://github.com/kubedb/memcached/commit/3ede9dcc) Update to Kubernetes v1.18.3 (#161)
+- [3f7c1b90](https://github.com/kubedb/memcached/commit/3f7c1b90) Prepare for release v0.7.0-beta.1 (#160)
+- [1278cd57](https://github.com/kubedb/memcached/commit/1278cd57) include Makefile.env (#158)
+- [676222b7](https://github.com/kubedb/memcached/commit/676222b7) Update License (#157)
+- [216fdcd4](https://github.com/kubedb/memcached/commit/216fdcd4) Update to Kubernetes v1.18.3 (#156)
+- [dc59abf4](https://github.com/kubedb/memcached/commit/dc59abf4) Update ci.yml
+- [071589c5](https://github.com/kubedb/memcached/commit/071589c5) Update update-release-tracker.sh
+- [79bc96d8](https://github.com/kubedb/memcached/commit/79bc96d8) Update update-release-tracker.sh
+- [31f5fca6](https://github.com/kubedb/memcached/commit/31f5fca6) Add script to update release tracker on pr merge (#155)
+- [05d1d6ab](https://github.com/kubedb/memcached/commit/05d1d6ab) Update .kodiak.toml
+- [522b617f](https://github.com/kubedb/memcached/commit/522b617f) Various fixes (#154)
+- [2ed2c3a0](https://github.com/kubedb/memcached/commit/2ed2c3a0) Update to Kubernetes v1.18.3 (#152)
+- [10cea9ad](https://github.com/kubedb/memcached/commit/10cea9ad) Update to Kubernetes v1.18.3
+- [582177b0](https://github.com/kubedb/memcached/commit/582177b0) Create .kodiak.toml
+- [bf1900b6](https://github.com/kubedb/memcached/commit/bf1900b6) Run flaky e2e test (#151)
+- [aa09abfc](https://github.com/kubedb/memcached/commit/aa09abfc) Use CRD v1 for Kubernetes >= 1.16 (#150)
+- [b2586151](https://github.com/kubedb/memcached/commit/b2586151) Merge pull request #146 from pohly/pmem
+- [dbd5b2b0](https://github.com/kubedb/memcached/commit/dbd5b2b0) Fix build
+- [d0722c34](https://github.com/kubedb/memcached/commit/d0722c34) WIP: implement PMEM support
+- [f16b1198](https://github.com/kubedb/memcached/commit/f16b1198) Makefile: adapt to recent installer repo changes
+- [32f71c56](https://github.com/kubedb/memcached/commit/32f71c56) Makefile: support e2e testing with arbitrary KUBECONFIG file
+- [6ed07efc](https://github.com/kubedb/memcached/commit/6ed07efc) Update to Kubernetes v1.18.3 (#149)
+- [ce702669](https://github.com/kubedb/memcached/commit/ce702669) Fix e2e tests (#148)
+- [18917f8d](https://github.com/kubedb/memcached/commit/18917f8d) Revendor kubedb.dev/apimachinery@master (#147)
+- [e51d327c](https://github.com/kubedb/memcached/commit/e51d327c) Update crazy-max/ghaction-docker-buildx flag
+- [1202c059](https://github.com/kubedb/memcached/commit/1202c059) Use updated operator labels in e2e tests (#144)
+- [e02d42a4](https://github.com/kubedb/memcached/commit/e02d42a4) Pass annotations from CRD to AppBinding (#145)
+- [2c91d63b](https://github.com/kubedb/memcached/commit/2c91d63b) Trigger the workflow on push or pull request
+- [67c83a9a](https://github.com/kubedb/memcached/commit/67c83a9a) Update CHANGELOG.md
+- [85e3cf54](https://github.com/kubedb/memcached/commit/85e3cf54) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#143)
+- [e61dd2e6](https://github.com/kubedb/memcached/commit/e61dd2e6) Update error msg to reject halt when termination policy is 'DoNotTerminate'
+- [bc079b7b](https://github.com/kubedb/memcached/commit/bc079b7b) Introduce spec.halted and removed dormant crd (#142)
+- [f31610c3](https://github.com/kubedb/memcached/commit/f31610c3) Refactor CI pipeline to run build once (#141)
+- [f5eec5e4](https://github.com/kubedb/memcached/commit/f5eec5e4) Update kubernetes client-go to 1.16.3 (#140)
+- [f645174a](https://github.com/kubedb/memcached/commit/f645174a) Update catalog values for make install command
+- [2a297c89](https://github.com/kubedb/memcached/commit/2a297c89) Use charts to install operator (#139)
+- [83e2ba17](https://github.com/kubedb/memcached/commit/83e2ba17) Moved out docker files and added matrix github actions ci/cd (#138)
+- [97e3a5bd](https://github.com/kubedb/memcached/commit/97e3a5bd) Add add-license make target
+- [7b79fbfe](https://github.com/kubedb/memcached/commit/7b79fbfe) Add license header to files (#137)
+- [2afa406f](https://github.com/kubedb/memcached/commit/2afa406f) Enable make ci (#136)
+- [bab32534](https://github.com/kubedb/memcached/commit/bab32534) Remove EnableStatusSubresource (#135)
+- [b28d4b1e](https://github.com/kubedb/memcached/commit/b28d4b1e) Prepare v0.6.0-rc.1 release (#134)
+- [c7aad4dd](https://github.com/kubedb/memcached/commit/c7aad4dd) Run e2e tests using GitHub actions (#132)
+- [66efb2de](https://github.com/kubedb/memcached/commit/66efb2de) Validate DBVersionSpecs and fixed broken build (#133)
+- [c16091ba](https://github.com/kubedb/memcached/commit/c16091ba) Update go.yml
+- [69b2dc70](https://github.com/kubedb/memcached/commit/69b2dc70) Enable GitHub actions
+- [93edca95](https://github.com/kubedb/memcached/commit/93edca95) Update changelog
+- [d46cda1f](https://github.com/kubedb/memcached/commit/d46cda1f) Remove linux/arm support
+- [378ad5e1](https://github.com/kubedb/memcached/commit/378ad5e1) Revendor
+- [85f05095](https://github.com/kubedb/memcached/commit/85f05095) Improve test: Use installed memcachedversions (#131)
+- [47444708](https://github.com/kubedb/memcached/commit/47444708) Use docker buildx to build docker image xref: https://community.arm.com/developer/tools-software/tools/b/tools-software-ides-blog/posts/getting-started-with-docker-for-arm-on-linux
+- [ee1082b4](https://github.com/kubedb/memcached/commit/ee1082b4) Update dependencies (#130)
+- [ac9391b5](https://github.com/kubedb/memcached/commit/ac9391b5) Don't set annotation to AppBinding (#129)
+- [4a2f42a1](https://github.com/kubedb/memcached/commit/4a2f42a1) Set database version in AppBinding (#128)
+- [dab1a2fc](https://github.com/kubedb/memcached/commit/dab1a2fc) Change package path to kubedb.dev/memcached (#127)
+- [3e92762f](https://github.com/kubedb/memcached/commit/3e92762f) Add license header to Makefiles (#126)
+- [50491fd3](https://github.com/kubedb/memcached/commit/50491fd3) Update Makefile
+- [66e955a2](https://github.com/kubedb/memcached/commit/66e955a2) Add install, uninstall and purge command in Makefile (#125)
+- [9f4b0865](https://github.com/kubedb/memcached/commit/9f4b0865) Update .gitignore
+- [9a760f7c](https://github.com/kubedb/memcached/commit/9a760f7c) Pod Disruption Budget for Memcached (#123)
+- [ced8e75c](https://github.com/kubedb/memcached/commit/ced8e75c) Handling resource ownership (#122)
+- [0a01c5ea](https://github.com/kubedb/memcached/commit/0a01c5ea) Add Makefile (#124)
+- [4a80b9af](https://github.com/kubedb/memcached/commit/4a80b9af) Update to k8s 1.14.0 client libraries using go.mod (#121)
+- [a7bbcf54](https://github.com/kubedb/memcached/commit/a7bbcf54) Update README.md
+- [44ddb0d6](https://github.com/kubedb/memcached/commit/44ddb0d6) Start next dev cycle
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0)

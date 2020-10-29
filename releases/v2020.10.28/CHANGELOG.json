@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.28",
-  "release_date": "2020-10-29T05:22:24.524217337Z",
+  "release_date": "2020-10-29T05:23:07.121575712Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.28",
   "kubernetes_version": "1.14+",
@@ -1194,6 +1194,636 @@
         {
           "tag": "v0.14.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "14cb3a98",
+              "Subject": "Prepare for release v0.14.0 (#397)"
+            },
+            {
+              "SHA": "846ea8ee",
+              "Subject": "Prepare for release v0.14.0-rc.2 (#396)"
+            },
+            {
+              "SHA": "709ba7d2",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#395)"
+            },
+            {
+              "SHA": "58dac2ba",
+              "Subject": "Prepare for release v0.14.0-beta.6 (#394)"
+            },
+            {
+              "SHA": "5d4ad40c",
+              "Subject": "Update MergeServicePort and PatchServicePort apis (#393)"
+            },
+            {
+              "SHA": "992edb90",
+              "Subject": "Always set protocol for service ports"
+            },
+            {
+              "SHA": "0f408cbf",
+              "Subject": "Create SRV records for governing service (#392)"
+            },
+            {
+              "SHA": "97f34417",
+              "Subject": "Prepare for release v0.14.0-beta.5 (#391)"
+            },
+            {
+              "SHA": "a3e9a733",
+              "Subject": "Create separate governing service for each database (#390)"
+            },
+            {
+              "SHA": "ce8f80b5",
+              "Subject": "Update KubeDB api (#389)"
+            },
+            {
+              "SHA": "0fe8d617",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "657797fe",
+              "Subject": "Update repository config (#388)"
+            },
+            {
+              "SHA": "d6f5ae41",
+              "Subject": "Prepare for release v0.14.0-beta.4 (#387)"
+            },
+            {
+              "SHA": "149314b5",
+              "Subject": "Update KubeDB api (#386)"
+            },
+            {
+              "SHA": "1de4b578",
+              "Subject": "Make database's phase NotReady as soon as the halted is removed (#375)"
+            },
+            {
+              "SHA": "57704afa",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#385)"
+            },
+            {
+              "SHA": "16d37657",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#383)"
+            },
+            {
+              "SHA": "828f8ab8",
+              "Subject": "Update KubeDB api (#382)"
+            },
+            {
+              "SHA": "d70e68a8",
+              "Subject": "Update for release Stash@v2020.10.21 (#381)"
+            },
+            {
+              "SHA": "05a687bc",
+              "Subject": "Fix init validator (#379)"
+            },
+            {
+              "SHA": "24d7f2c8",
+              "Subject": "Update KubeDB api (#380)"
+            },
+            {
+              "SHA": "8c981e08",
+              "Subject": "Update KubeDB api (#378)"
+            },
+            {
+              "SHA": "cf833e49",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#377)"
+            },
+            {
+              "SHA": "fb335a43",
+              "Subject": "Update KubeDB api (#376)"
+            },
+            {
+              "SHA": "e652a7ec",
+              "Subject": "Update KubeDB api (#374)"
+            },
+            {
+              "SHA": "c22b7f31",
+              "Subject": "Update KubeDB api (#373)"
+            },
+            {
+              "SHA": "a7d8e3b0",
+              "Subject": "Integrate cert-manager and status.conditions (#357)"
+            },
+            {
+              "SHA": "370f0df1",
+              "Subject": "Update repository config (#372)"
+            },
+            {
+              "SHA": "78bdc59e",
+              "Subject": "Update repository config (#371)"
+            },
+            {
+              "SHA": "b8003d4b",
+              "Subject": "Update repository config (#370)"
+            },
+            {
+              "SHA": "d4ff1ac2",
+              "Subject": "Publish docker images to ghcr.io (#369)"
+            },
+            {
+              "SHA": "5f5ef393",
+              "Subject": "Update repository config (#363)"
+            },
+            {
+              "SHA": "e537ae40",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#362)"
+            },
+            {
+              "SHA": "a5a5b084",
+              "Subject": "Update for release Stash@v2020.09.29 (#361)"
+            },
+            {
+              "SHA": "11eebe39",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#360)"
+            },
+            {
+              "SHA": "a5b47b08",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#358)"
+            },
+            {
+              "SHA": "91f1dc00",
+              "Subject": "Rename client node to ingest node (#346)"
+            },
+            {
+              "SHA": "318a8b19",
+              "Subject": "Update repository config (#356)"
+            },
+            {
+              "SHA": "a8773921",
+              "Subject": "Update repository config (#355)"
+            },
+            {
+              "SHA": "55bef891",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#354)"
+            },
+            {
+              "SHA": "1a3e421a",
+              "Subject": "Use common event recorder (#353)"
+            },
+            {
+              "SHA": "4df32f60",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#352)"
+            },
+            {
+              "SHA": "9fb43795",
+              "Subject": "Prepare for release v0.14.0-beta.3 (#351)"
+            },
+            {
+              "SHA": "a279a60c",
+              "Subject": "Use new `spec.init` section (#350)"
+            },
+            {
+              "SHA": "a1e2e2f6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#349)"
+            },
+            {
+              "SHA": "0aaf4530",
+              "Subject": "Add license verifier (#348)"
+            },
+            {
+              "SHA": "bbacb00b",
+              "Subject": "Update for release Stash@v2020.09.16 (#347)"
+            },
+            {
+              "SHA": "98c1ad83",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#345)"
+            },
+            {
+              "SHA": "1ebf168d",
+              "Subject": "Use background propagation policy"
+            },
+            {
+              "SHA": "9d7997df",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#343)"
+            },
+            {
+              "SHA": "42786958",
+              "Subject": "Use AppsCode Community License (#342)"
+            },
+            {
+              "SHA": "a96b0bd3",
+              "Subject": "Fix unit tests (#341)"
+            },
+            {
+              "SHA": "c9905966",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#340)"
+            },
+            {
+              "SHA": "3b83c316",
+              "Subject": "Prepare for release v0.14.0-beta.2 (#339)"
+            },
+            {
+              "SHA": "662823ae",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "ada6c2d3",
+              "Subject": "Add support for Open-Distro-for-Elasticsearch (#303)"
+            },
+            {
+              "SHA": "a9c7ba33",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#333)"
+            },
+            {
+              "SHA": "c67b1290",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#332)"
+            },
+            {
+              "SHA": "aa1d64ad",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#331)"
+            },
+            {
+              "SHA": "3d6c3e91",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#330)"
+            },
+            {
+              "SHA": "bb318e74",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#329)"
+            },
+            {
+              "SHA": "6b6b4d2d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#328)"
+            },
+            {
+              "SHA": "06cef782",
+              "Subject": "Remove dependency on enterprise operator (#327)"
+            },
+            {
+              "SHA": "20a2c7d4",
+              "Subject": "Update to cert-manager v0.16.0 (#326)"
+            },
+            {
+              "SHA": "e767c356",
+              "Subject": "Build images in e2e workflow (#325)"
+            },
+            {
+              "SHA": "ae696dbe",
+              "Subject": "Update to Kubernetes v1.18.3 (#324)"
+            },
+            {
+              "SHA": "a511d8d6",
+              "Subject": "Allow configuring k8s & db version in e2e tests (#323)"
+            },
+            {
+              "SHA": "a50b503d",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#322)"
+            },
+            {
+              "SHA": "107faff2",
+              "Subject": "Update to Kubernetes v1.18.3 (#321)"
+            },
+            {
+              "SHA": "60fb6d9b",
+              "Subject": "Update to Kubernetes v1.18.3 (#320)"
+            },
+            {
+              "SHA": "9aae4782",
+              "Subject": "Prepare for release v0.14.0-beta.1 (#319)"
+            },
+            {
+              "SHA": "312e5682",
+              "Subject": "Update for release Stash@v2020.07.09-beta.0 (#317)"
+            },
+            {
+              "SHA": "681f3e87",
+              "Subject": "Include Makefile.env"
+            },
+            {
+              "SHA": "e460af51",
+              "Subject": "Allow customizing chart registry (#316)"
+            },
+            {
+              "SHA": "64e15a33",
+              "Subject": "Update for release Stash@v2020.07.08-beta.0 (#315)"
+            },
+            {
+              "SHA": "1f2ef7a6",
+              "Subject": "Update License (#314)"
+            },
+            {
+              "SHA": "16ce6c90",
+              "Subject": "Update to Kubernetes v1.18.3 (#313)"
+            },
+            {
+              "SHA": "3357faa3",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "cb44a1eb",
+              "Subject": "Load stash version from .env file for make (#312)"
+            },
+            {
+              "SHA": "cf212019",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "5127428e",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "7f790940",
+              "Subject": "Add script to update release tracker on pr merge (#311)"
+            },
+            {
+              "SHA": "340b6112",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "e01c4eec",
+              "Subject": "Various fixes (#310)"
+            },
+            {
+              "SHA": "11517f71",
+              "Subject": "Update to Kubernetes v1.18.3 (#309)"
+            },
+            {
+              "SHA": "53d7b117",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "7eacc7dd",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "b91b23d9",
+              "Subject": "Use CRD v1 for Kubernetes >= 1.16 (#308)"
+            },
+            {
+              "SHA": "08c1d2a8",
+              "Subject": "Update to Kubernetes v1.18.3 (#307)"
+            },
+            {
+              "SHA": "32cdb8a4",
+              "Subject": "Fix e2e tests (#306)"
+            },
+            {
+              "SHA": "0bca1a04",
+              "Subject": "Merge pull request #302 from kubedb/multi-region"
+            },
+            {
+              "SHA": "bf0c26ee",
+              "Subject": "Revendor kubedb.dev/apimachinery@v0.14.0-beta.0"
+            },
+            {
+              "SHA": "7c00c63c",
+              "Subject": "Add support for multi-regional cluster"
+            },
+            {
+              "SHA": "363322df",
+              "Subject": "Update stash install commands"
+            },
+            {
+              "SHA": "a0138a36",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "3076eb46",
+              "Subject": "Use updated operator labels in e2e tests (#304)"
+            },
+            {
+              "SHA": "d537b91b",
+              "Subject": "Pass annotations from CRD to AppBinding (#305)"
+            },
+            {
+              "SHA": "48f9399c",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "7b8d56cb",
+              "Subject": "Update CHANGELOG.md"
+            },
+            {
+              "SHA": "939f6882",
+              "Subject": "Update labelSelector for statefulsets (#300)"
+            },
+            {
+              "SHA": "ed1c0553",
+              "Subject": "Make master service headless & add rest-port to all db nodes (#299)"
+            },
+            {
+              "SHA": "b7e7c8d7",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#301)"
+            },
+            {
+              "SHA": "e51555d5",
+              "Subject": "Introduce spec.halted and removed dormant and snapshot crd (#296)"
+            },
+            {
+              "SHA": "8255276f",
+              "Subject": "Add spec.selector fields to the governing service (#297)"
+            },
+            {
+              "SHA": "13bc760f",
+              "Subject": "Use stash@v0.9.0-rc.4 release (#298)"
+            },
+            {
+              "SHA": "6a21fb86",
+              "Subject": "Add `Pause` feature (#295)"
+            },
+            {
+              "SHA": "1b25070c",
+              "Subject": "Refactor CI pipeline to build once (#294)"
+            },
+            {
+              "SHA": "ace3d779",
+              "Subject": "Fix e2e tests on GitHub actions (#292)"
+            },
+            {
+              "SHA": "7a7eb8d1",
+              "Subject": "fix bug (#293)"
+            },
+            {
+              "SHA": "0641649e",
+              "Subject": "Use Go 1.13 in CI (#291)"
+            },
+            {
+              "SHA": "97790e1e",
+              "Subject": "Take out elasticsearch docker images and Matrix test (#289)"
+            },
+            {
+              "SHA": "3a20c1db",
+              "Subject": "Fix default make command"
+            },
+            {
+              "SHA": "ece073a2",
+              "Subject": "Update catalog values for make install command"
+            },
+            {
+              "SHA": "8df4697b",
+              "Subject": "Use charts to install operator (#290)"
+            },
+            {
+              "SHA": "5cbde391",
+              "Subject": "Add add-license make target"
+            },
+            {
+              "SHA": "b7012bc5",
+              "Subject": "Skip libbuild folder from checking license"
+            },
+            {
+              "SHA": "d56db3a0",
+              "Subject": "Add license header to files (#288)"
+            },
+            {
+              "SHA": "1d0c368a",
+              "Subject": "Enable make ci (#287)"
+            },
+            {
+              "SHA": "2e835dff",
+              "Subject": "Remove EnableStatusSubresource (#286)"
+            },
+            {
+              "SHA": "bcd0ebd9",
+              "Subject": "Fix E2E tests in github action (#285)"
+            },
+            {
+              "SHA": "865dc774",
+              "Subject": "Prepare v0.13.0-rc.1 release (#284)"
+            },
+            {
+              "SHA": "9348ba60",
+              "Subject": "Run e2e tests using GitHub actions (#283)"
+            },
+            {
+              "SHA": "aea27214",
+              "Subject": "Validate DBVersionSpecs and fixed broken build (#282)"
+            },
+            {
+              "SHA": "cb48734f",
+              "Subject": "Update elasticdump version for es7.3, 7.2 and 6.8 (#281)"
+            },
+            {
+              "SHA": "7bd05be9",
+              "Subject": "Added Es7.3 (#280)"
+            },
+            {
+              "SHA": "ca0cc981",
+              "Subject": "Added support for Xpack in es6.8 and es7.2 (#278)"
+            },
+            {
+              "SHA": "c5f54840",
+              "Subject": "Add support for 7.2.0 (#268)"
+            },
+            {
+              "SHA": "0531464e",
+              "Subject": "Run e2e tests using GitHub actions (#279)"
+            },
+            {
+              "SHA": "67965e99",
+              "Subject": "Update go.yml"
+            },
+            {
+              "SHA": "a5d848ca",
+              "Subject": "Enable GitHub actions"
+            },
+            {
+              "SHA": "723383c6",
+              "Subject": " Fixed snapshot for 6.8.0 (#276)"
+            },
+            {
+              "SHA": "c5421e61",
+              "Subject": "Add support for Elasticsearch 6.8.0 (#265)"
+            },
+            {
+              "SHA": "4b665fbb",
+              "Subject": "Support configuration options for exporter sidecar (#275)"
+            },
+            {
+              "SHA": "04ac9729",
+              "Subject": "Update changelog"
+            },
+            {
+              "SHA": "d4b41b55",
+              "Subject": "Remove linux/arm support"
+            },
+            {
+              "SHA": "f99f7e8f",
+              "Subject": "Revendor"
+            },
+            {
+              "SHA": "61e89f4b",
+              "Subject": "Add e2e test commands to Makefile (#274)"
+            },
+            {
+              "SHA": "7e56a7c0",
+              "Subject": "Use docker buildx to build docker image"
+            },
+            {
+              "SHA": "3dd46b3f",
+              "Subject": "Update dependencies (#273)"
+            },
+            {
+              "SHA": "73edeb82",
+              "Subject": "Don't set annotation to AppBinding (#272)"
+            },
+            {
+              "SHA": "699d41ce",
+              "Subject": "Set database version in AppBinding (#271)"
+            },
+            {
+              "SHA": "cf3522a5",
+              "Subject": "Fix travis yaml"
+            },
+            {
+              "SHA": "a410aed9",
+              "Subject": "Change package path to kubedb.dev/elasticsearch (#270)"
+            },
+            {
+              "SHA": "2cebf0eb",
+              "Subject": "Support initializing from stash restoresession. (#267)"
+            },
+            {
+              "SHA": "c363bf68",
+              "Subject": "Pod Disruption Budget for Elasticsearch (#262)"
+            },
+            {
+              "SHA": "27a27b04",
+              "Subject": "Fix UpsertDatabaseAnnotation() function (#266)"
+            },
+            {
+              "SHA": "780837b3",
+              "Subject": "Add license header to Makefiles (#269)"
+            },
+            {
+              "SHA": "35e5b873",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "00328da8",
+              "Subject": "Add install, uninstall and purge command in makefile (#264)"
+            },
+            {
+              "SHA": "7445850e",
+              "Subject": "Update .gitignore"
+            },
+            {
+              "SHA": "ba0f0140",
+              "Subject": "Handling resource ownership (#261)"
+            },
+            {
+              "SHA": "59328b8d",
+              "Subject": "Add Makefile (#263)"
+            },
+            {
+              "SHA": "e8fbea4b",
+              "Subject": "Update to k8s 1.14.0 client libraries using go.mod (#260)"
+            },
+            {
+              "SHA": "8adbe567",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "3ca67679",
+              "Subject": "Start next dev cycle"
+            }
+          ]
         }
       ]
     },

@@ -308,6 +308,168 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.14.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.0)
+
+- [14cb3a98](https://github.com/kubedb/elasticsearch/commit/14cb3a98) Prepare for release v0.14.0 (#397)
+- [846ea8ee](https://github.com/kubedb/elasticsearch/commit/846ea8ee) Prepare for release v0.14.0-rc.2 (#396)
+- [709ba7d2](https://github.com/kubedb/elasticsearch/commit/709ba7d2) Prepare for release v0.14.0-rc.1 (#395)
+- [58dac2ba](https://github.com/kubedb/elasticsearch/commit/58dac2ba) Prepare for release v0.14.0-beta.6 (#394)
+- [5d4ad40c](https://github.com/kubedb/elasticsearch/commit/5d4ad40c) Update MergeServicePort and PatchServicePort apis (#393)
+- [992edb90](https://github.com/kubedb/elasticsearch/commit/992edb90) Always set protocol for service ports
+- [0f408cbf](https://github.com/kubedb/elasticsearch/commit/0f408cbf) Create SRV records for governing service (#392)
+- [97f34417](https://github.com/kubedb/elasticsearch/commit/97f34417) Prepare for release v0.14.0-beta.5 (#391)
+- [a3e9a733](https://github.com/kubedb/elasticsearch/commit/a3e9a733) Create separate governing service for each database (#390)
+- [ce8f80b5](https://github.com/kubedb/elasticsearch/commit/ce8f80b5) Update KubeDB api (#389)
+- [0fe8d617](https://github.com/kubedb/elasticsearch/commit/0fe8d617) Update readme
+- [657797fe](https://github.com/kubedb/elasticsearch/commit/657797fe) Update repository config (#388)
+- [d6f5ae41](https://github.com/kubedb/elasticsearch/commit/d6f5ae41) Prepare for release v0.14.0-beta.4 (#387)
+- [149314b5](https://github.com/kubedb/elasticsearch/commit/149314b5) Update KubeDB api (#386)
+- [1de4b578](https://github.com/kubedb/elasticsearch/commit/1de4b578) Make database's phase NotReady as soon as the halted is removed (#375)
+- [57704afa](https://github.com/kubedb/elasticsearch/commit/57704afa) Update Kubernetes v1.18.9 dependencies (#385)
+- [16d37657](https://github.com/kubedb/elasticsearch/commit/16d37657) Update Kubernetes v1.18.9 dependencies (#383)
+- [828f8ab8](https://github.com/kubedb/elasticsearch/commit/828f8ab8) Update KubeDB api (#382)
+- [d70e68a8](https://github.com/kubedb/elasticsearch/commit/d70e68a8) Update for release Stash@v2020.10.21 (#381)
+- [05a687bc](https://github.com/kubedb/elasticsearch/commit/05a687bc) Fix init validator (#379)
+- [24d7f2c8](https://github.com/kubedb/elasticsearch/commit/24d7f2c8) Update KubeDB api (#380)
+- [8c981e08](https://github.com/kubedb/elasticsearch/commit/8c981e08) Update KubeDB api (#378)
+- [cf833e49](https://github.com/kubedb/elasticsearch/commit/cf833e49) Update Kubernetes v1.18.9 dependencies (#377)
+- [fb335a43](https://github.com/kubedb/elasticsearch/commit/fb335a43) Update KubeDB api (#376)
+- [e652a7ec](https://github.com/kubedb/elasticsearch/commit/e652a7ec) Update KubeDB api (#374)
+- [c22b7f31](https://github.com/kubedb/elasticsearch/commit/c22b7f31) Update KubeDB api (#373)
+- [a7d8e3b0](https://github.com/kubedb/elasticsearch/commit/a7d8e3b0) Integrate cert-manager and status.conditions (#357)
+- [370f0df1](https://github.com/kubedb/elasticsearch/commit/370f0df1) Update repository config (#372)
+- [78bdc59e](https://github.com/kubedb/elasticsearch/commit/78bdc59e) Update repository config (#371)
+- [b8003d4b](https://github.com/kubedb/elasticsearch/commit/b8003d4b) Update repository config (#370)
+- [d4ff1ac2](https://github.com/kubedb/elasticsearch/commit/d4ff1ac2) Publish docker images to ghcr.io (#369)
+- [5f5ef393](https://github.com/kubedb/elasticsearch/commit/5f5ef393) Update repository config (#363)
+- [e537ae40](https://github.com/kubedb/elasticsearch/commit/e537ae40) Update Kubernetes v1.18.9 dependencies (#362)
+- [a5a5b084](https://github.com/kubedb/elasticsearch/commit/a5a5b084) Update for release Stash@v2020.09.29 (#361)
+- [11eebe39](https://github.com/kubedb/elasticsearch/commit/11eebe39) Update Kubernetes v1.18.9 dependencies (#360)
+- [a5b47b08](https://github.com/kubedb/elasticsearch/commit/a5b47b08) Update Kubernetes v1.18.9 dependencies (#358)
+- [91f1dc00](https://github.com/kubedb/elasticsearch/commit/91f1dc00) Rename client node to ingest node (#346)
+- [318a8b19](https://github.com/kubedb/elasticsearch/commit/318a8b19) Update repository config (#356)
+- [a8773921](https://github.com/kubedb/elasticsearch/commit/a8773921) Update repository config (#355)
+- [55bef891](https://github.com/kubedb/elasticsearch/commit/55bef891) Update Kubernetes v1.18.9 dependencies (#354)
+- [1a3e421a](https://github.com/kubedb/elasticsearch/commit/1a3e421a) Use common event recorder (#353)
+- [4df32f60](https://github.com/kubedb/elasticsearch/commit/4df32f60) Update Kubernetes v1.18.3 dependencies (#352)
+- [9fb43795](https://github.com/kubedb/elasticsearch/commit/9fb43795) Prepare for release v0.14.0-beta.3 (#351)
+- [a279a60c](https://github.com/kubedb/elasticsearch/commit/a279a60c) Use new `spec.init` section (#350)
+- [a1e2e2f6](https://github.com/kubedb/elasticsearch/commit/a1e2e2f6) Update Kubernetes v1.18.3 dependencies (#349)
+- [0aaf4530](https://github.com/kubedb/elasticsearch/commit/0aaf4530) Add license verifier (#348)
+- [bbacb00b](https://github.com/kubedb/elasticsearch/commit/bbacb00b) Update for release Stash@v2020.09.16 (#347)
+- [98c1ad83](https://github.com/kubedb/elasticsearch/commit/98c1ad83) Update Kubernetes v1.18.3 dependencies (#345)
+- [1ebf168d](https://github.com/kubedb/elasticsearch/commit/1ebf168d) Use background propagation policy
+- [9d7997df](https://github.com/kubedb/elasticsearch/commit/9d7997df) Update Kubernetes v1.18.3 dependencies (#343)
+- [42786958](https://github.com/kubedb/elasticsearch/commit/42786958) Use AppsCode Community License (#342)
+- [a96b0bd3](https://github.com/kubedb/elasticsearch/commit/a96b0bd3) Fix unit tests (#341)
+- [c9905966](https://github.com/kubedb/elasticsearch/commit/c9905966) Update Kubernetes v1.18.3 dependencies (#340)
+- [3b83c316](https://github.com/kubedb/elasticsearch/commit/3b83c316) Prepare for release v0.14.0-beta.2 (#339)
+- [662823ae](https://github.com/kubedb/elasticsearch/commit/662823ae) Update release.yml
+- [ada6c2d3](https://github.com/kubedb/elasticsearch/commit/ada6c2d3) Add support for Open-Distro-for-Elasticsearch (#303)
+- [a9c7ba33](https://github.com/kubedb/elasticsearch/commit/a9c7ba33) Update Kubernetes v1.18.3 dependencies (#333)
+- [c67b1290](https://github.com/kubedb/elasticsearch/commit/c67b1290) Update Kubernetes v1.18.3 dependencies (#332)
+- [aa1d64ad](https://github.com/kubedb/elasticsearch/commit/aa1d64ad) Update Kubernetes v1.18.3 dependencies (#331)
+- [3d6c3e91](https://github.com/kubedb/elasticsearch/commit/3d6c3e91) Update Kubernetes v1.18.3 dependencies (#330)
+- [bb318e74](https://github.com/kubedb/elasticsearch/commit/bb318e74) Update Kubernetes v1.18.3 dependencies (#329)
+- [6b6b4d2d](https://github.com/kubedb/elasticsearch/commit/6b6b4d2d) Update Kubernetes v1.18.3 dependencies (#328)
+- [06cef782](https://github.com/kubedb/elasticsearch/commit/06cef782) Remove dependency on enterprise operator (#327)
+- [20a2c7d4](https://github.com/kubedb/elasticsearch/commit/20a2c7d4) Update to cert-manager v0.16.0 (#326)
+- [e767c356](https://github.com/kubedb/elasticsearch/commit/e767c356) Build images in e2e workflow (#325)
+- [ae696dbe](https://github.com/kubedb/elasticsearch/commit/ae696dbe) Update to Kubernetes v1.18.3 (#324)
+- [a511d8d6](https://github.com/kubedb/elasticsearch/commit/a511d8d6) Allow configuring k8s & db version in e2e tests (#323)
+- [a50b503d](https://github.com/kubedb/elasticsearch/commit/a50b503d) Trigger e2e tests on /ok-to-test command (#322)
+- [107faff2](https://github.com/kubedb/elasticsearch/commit/107faff2) Update to Kubernetes v1.18.3 (#321)
+- [60fb6d9b](https://github.com/kubedb/elasticsearch/commit/60fb6d9b) Update to Kubernetes v1.18.3 (#320)
+- [9aae4782](https://github.com/kubedb/elasticsearch/commit/9aae4782) Prepare for release v0.14.0-beta.1 (#319)
+- [312e5682](https://github.com/kubedb/elasticsearch/commit/312e5682) Update for release Stash@v2020.07.09-beta.0 (#317)
+- [681f3e87](https://github.com/kubedb/elasticsearch/commit/681f3e87) Include Makefile.env
+- [e460af51](https://github.com/kubedb/elasticsearch/commit/e460af51) Allow customizing chart registry (#316)
+- [64e15a33](https://github.com/kubedb/elasticsearch/commit/64e15a33) Update for release Stash@v2020.07.08-beta.0 (#315)
+- [1f2ef7a6](https://github.com/kubedb/elasticsearch/commit/1f2ef7a6) Update License (#314)
+- [16ce6c90](https://github.com/kubedb/elasticsearch/commit/16ce6c90) Update to Kubernetes v1.18.3 (#313)
+- [3357faa3](https://github.com/kubedb/elasticsearch/commit/3357faa3) Update ci.yml
+- [cb44a1eb](https://github.com/kubedb/elasticsearch/commit/cb44a1eb) Load stash version from .env file for make (#312)
+- [cf212019](https://github.com/kubedb/elasticsearch/commit/cf212019) Update update-release-tracker.sh
+- [5127428e](https://github.com/kubedb/elasticsearch/commit/5127428e) Update update-release-tracker.sh
+- [7f790940](https://github.com/kubedb/elasticsearch/commit/7f790940) Add script to update release tracker on pr merge (#311)
+- [340b6112](https://github.com/kubedb/elasticsearch/commit/340b6112) Update .kodiak.toml
+- [e01c4eec](https://github.com/kubedb/elasticsearch/commit/e01c4eec) Various fixes (#310)
+- [11517f71](https://github.com/kubedb/elasticsearch/commit/11517f71) Update to Kubernetes v1.18.3 (#309)
+- [53d7b117](https://github.com/kubedb/elasticsearch/commit/53d7b117) Update to Kubernetes v1.18.3
+- [7eacc7dd](https://github.com/kubedb/elasticsearch/commit/7eacc7dd) Create .kodiak.toml
+- [b91b23d9](https://github.com/kubedb/elasticsearch/commit/b91b23d9) Use CRD v1 for Kubernetes >= 1.16 (#308)
+- [08c1d2a8](https://github.com/kubedb/elasticsearch/commit/08c1d2a8) Update to Kubernetes v1.18.3 (#307)
+- [32cdb8a4](https://github.com/kubedb/elasticsearch/commit/32cdb8a4) Fix e2e tests (#306)
+- [0bca1a04](https://github.com/kubedb/elasticsearch/commit/0bca1a04) Merge pull request #302 from kubedb/multi-region
+- [bf0c26ee](https://github.com/kubedb/elasticsearch/commit/bf0c26ee) Revendor kubedb.dev/apimachinery@v0.14.0-beta.0
+- [7c00c63c](https://github.com/kubedb/elasticsearch/commit/7c00c63c) Add support for multi-regional cluster
+- [363322df](https://github.com/kubedb/elasticsearch/commit/363322df) Update stash install commands
+- [a0138a36](https://github.com/kubedb/elasticsearch/commit/a0138a36) Update crazy-max/ghaction-docker-buildx flag
+- [3076eb46](https://github.com/kubedb/elasticsearch/commit/3076eb46) Use updated operator labels in e2e tests (#304)
+- [d537b91b](https://github.com/kubedb/elasticsearch/commit/d537b91b) Pass annotations from CRD to AppBinding (#305)
+- [48f9399c](https://github.com/kubedb/elasticsearch/commit/48f9399c) Trigger the workflow on push or pull request
+- [7b8d56cb](https://github.com/kubedb/elasticsearch/commit/7b8d56cb) Update CHANGELOG.md
+- [939f6882](https://github.com/kubedb/elasticsearch/commit/939f6882) Update labelSelector for statefulsets (#300)
+- [ed1c0553](https://github.com/kubedb/elasticsearch/commit/ed1c0553) Make master service headless & add rest-port to all db nodes (#299)
+- [b7e7c8d7](https://github.com/kubedb/elasticsearch/commit/b7e7c8d7) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#301)
+- [e51555d5](https://github.com/kubedb/elasticsearch/commit/e51555d5) Introduce spec.halted and removed dormant and snapshot crd (#296)
+- [8255276f](https://github.com/kubedb/elasticsearch/commit/8255276f) Add spec.selector fields to the governing service (#297)
+- [13bc760f](https://github.com/kubedb/elasticsearch/commit/13bc760f) Use stash@v0.9.0-rc.4 release (#298)
+- [6a21fb86](https://github.com/kubedb/elasticsearch/commit/6a21fb86) Add `Pause` feature (#295)
+- [1b25070c](https://github.com/kubedb/elasticsearch/commit/1b25070c) Refactor CI pipeline to build once (#294)
+- [ace3d779](https://github.com/kubedb/elasticsearch/commit/ace3d779) Fix e2e tests on GitHub actions (#292)
+- [7a7eb8d1](https://github.com/kubedb/elasticsearch/commit/7a7eb8d1) fix bug (#293)
+- [0641649e](https://github.com/kubedb/elasticsearch/commit/0641649e) Use Go 1.13 in CI (#291)
+- [97790e1e](https://github.com/kubedb/elasticsearch/commit/97790e1e) Take out elasticsearch docker images and Matrix test (#289)
+- [3a20c1db](https://github.com/kubedb/elasticsearch/commit/3a20c1db) Fix default make command
+- [ece073a2](https://github.com/kubedb/elasticsearch/commit/ece073a2) Update catalog values for make install command
+- [8df4697b](https://github.com/kubedb/elasticsearch/commit/8df4697b) Use charts to install operator (#290)
+- [5cbde391](https://github.com/kubedb/elasticsearch/commit/5cbde391) Add add-license make target
+- [b7012bc5](https://github.com/kubedb/elasticsearch/commit/b7012bc5) Skip libbuild folder from checking license
+- [d56db3a0](https://github.com/kubedb/elasticsearch/commit/d56db3a0) Add license header to files (#288)
+- [1d0c368a](https://github.com/kubedb/elasticsearch/commit/1d0c368a) Enable make ci (#287)
+- [2e835dff](https://github.com/kubedb/elasticsearch/commit/2e835dff) Remove EnableStatusSubresource (#286)
+- [bcd0ebd9](https://github.com/kubedb/elasticsearch/commit/bcd0ebd9) Fix E2E tests in github action (#285)
+- [865dc774](https://github.com/kubedb/elasticsearch/commit/865dc774) Prepare v0.13.0-rc.1 release (#284)
+- [9348ba60](https://github.com/kubedb/elasticsearch/commit/9348ba60) Run e2e tests using GitHub actions (#283)
+- [aea27214](https://github.com/kubedb/elasticsearch/commit/aea27214) Validate DBVersionSpecs and fixed broken build (#282)
+- [cb48734f](https://github.com/kubedb/elasticsearch/commit/cb48734f) Update elasticdump version for es7.3, 7.2 and 6.8 (#281)
+- [7bd05be9](https://github.com/kubedb/elasticsearch/commit/7bd05be9) Added Es7.3 (#280)
+- [ca0cc981](https://github.com/kubedb/elasticsearch/commit/ca0cc981) Added support for Xpack in es6.8 and es7.2 (#278)
+- [c5f54840](https://github.com/kubedb/elasticsearch/commit/c5f54840) Add support for 7.2.0 (#268)
+- [0531464e](https://github.com/kubedb/elasticsearch/commit/0531464e) Run e2e tests using GitHub actions (#279)
+- [67965e99](https://github.com/kubedb/elasticsearch/commit/67965e99) Update go.yml
+- [a5d848ca](https://github.com/kubedb/elasticsearch/commit/a5d848ca) Enable GitHub actions
+- [723383c6](https://github.com/kubedb/elasticsearch/commit/723383c6)  Fixed snapshot for 6.8.0 (#276)
+- [c5421e61](https://github.com/kubedb/elasticsearch/commit/c5421e61) Add support for Elasticsearch 6.8.0 (#265)
+- [4b665fbb](https://github.com/kubedb/elasticsearch/commit/4b665fbb) Support configuration options for exporter sidecar (#275)
+- [04ac9729](https://github.com/kubedb/elasticsearch/commit/04ac9729) Update changelog
+- [d4b41b55](https://github.com/kubedb/elasticsearch/commit/d4b41b55) Remove linux/arm support
+- [f99f7e8f](https://github.com/kubedb/elasticsearch/commit/f99f7e8f) Revendor
+- [61e89f4b](https://github.com/kubedb/elasticsearch/commit/61e89f4b) Add e2e test commands to Makefile (#274)
+- [7e56a7c0](https://github.com/kubedb/elasticsearch/commit/7e56a7c0) Use docker buildx to build docker image
+- [3dd46b3f](https://github.com/kubedb/elasticsearch/commit/3dd46b3f) Update dependencies (#273)
+- [73edeb82](https://github.com/kubedb/elasticsearch/commit/73edeb82) Don't set annotation to AppBinding (#272)
+- [699d41ce](https://github.com/kubedb/elasticsearch/commit/699d41ce) Set database version in AppBinding (#271)
+- [cf3522a5](https://github.com/kubedb/elasticsearch/commit/cf3522a5) Fix travis yaml
+- [a410aed9](https://github.com/kubedb/elasticsearch/commit/a410aed9) Change package path to kubedb.dev/elasticsearch (#270)
+- [2cebf0eb](https://github.com/kubedb/elasticsearch/commit/2cebf0eb) Support initializing from stash restoresession. (#267)
+- [c363bf68](https://github.com/kubedb/elasticsearch/commit/c363bf68) Pod Disruption Budget for Elasticsearch (#262)
+- [27a27b04](https://github.com/kubedb/elasticsearch/commit/27a27b04) Fix UpsertDatabaseAnnotation() function (#266)
+- [780837b3](https://github.com/kubedb/elasticsearch/commit/780837b3) Add license header to Makefiles (#269)
+- [35e5b873](https://github.com/kubedb/elasticsearch/commit/35e5b873) Update Makefile
+- [00328da8](https://github.com/kubedb/elasticsearch/commit/00328da8) Add install, uninstall and purge command in makefile (#264)
+- [7445850e](https://github.com/kubedb/elasticsearch/commit/7445850e) Update .gitignore
+- [ba0f0140](https://github.com/kubedb/elasticsearch/commit/ba0f0140) Handling resource ownership (#261)
+- [59328b8d](https://github.com/kubedb/elasticsearch/commit/59328b8d) Add Makefile (#263)
+- [e8fbea4b](https://github.com/kubedb/elasticsearch/commit/e8fbea4b) Update to k8s 1.14.0 client libraries using go.mod (#260)
+- [8adbe567](https://github.com/kubedb/elasticsearch/commit/8adbe567) Update README.md
+- [3ca67679](https://github.com/kubedb/elasticsearch/commit/3ca67679) Start next dev cycle
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0](https://github.com/kubedb/memcached/releases/tag/v0.7.0)

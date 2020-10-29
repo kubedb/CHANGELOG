@@ -1207,6 +1207,123 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.1.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.1.0)
+
+- [464cc54a](https://github.com/kubedb/pgbouncer/commit/464cc54a) Prepare for release v0.1.0 (#94)
+- [c4083972](https://github.com/kubedb/pgbouncer/commit/c4083972) Prepare for release v0.1.0-rc.2 (#93)
+- [b77fa7c8](https://github.com/kubedb/pgbouncer/commit/b77fa7c8) Prepare for release v0.1.0-rc.1 (#92)
+- [e82f1017](https://github.com/kubedb/pgbouncer/commit/e82f1017) Prepare for release v0.1.0-beta.6 (#91)
+- [8d2fa953](https://github.com/kubedb/pgbouncer/commit/8d2fa953) Create SRV records for governing service (#90)
+- [96144773](https://github.com/kubedb/pgbouncer/commit/96144773) Prepare for release v0.1.0-beta.5 (#89)
+- [bb574108](https://github.com/kubedb/pgbouncer/commit/bb574108) Create separate governing service for each database (#88)
+- [28f29e3c](https://github.com/kubedb/pgbouncer/commit/28f29e3c) Update KubeDB api (#87)
+- [79a3e3f7](https://github.com/kubedb/pgbouncer/commit/79a3e3f7) Update readme
+- [f42d28f9](https://github.com/kubedb/pgbouncer/commit/f42d28f9) Update repository config (#86)
+- [4c292933](https://github.com/kubedb/pgbouncer/commit/4c292933) Prepare for release v0.1.0-beta.4 (#85)
+- [c3daaa90](https://github.com/kubedb/pgbouncer/commit/c3daaa90) Update KubeDB api (#84)
+- [19784f7a](https://github.com/kubedb/pgbouncer/commit/19784f7a) Update Kubernetes v1.18.9 dependencies (#83)
+- [a7ea74e4](https://github.com/kubedb/pgbouncer/commit/a7ea74e4) Update KubeDB api (#82)
+- [49391b30](https://github.com/kubedb/pgbouncer/commit/49391b30) Update KubeDB api (#81)
+- [2ad0016d](https://github.com/kubedb/pgbouncer/commit/2ad0016d) Update KubeDB api (#80)
+- [e0169139](https://github.com/kubedb/pgbouncer/commit/e0169139) Update Kubernetes v1.18.9 dependencies (#79)
+- [ade8edf9](https://github.com/kubedb/pgbouncer/commit/ade8edf9) Update KubeDB api (#78)
+- [86387966](https://github.com/kubedb/pgbouncer/commit/86387966) Update KubeDB api (#77)
+- [d5fa2ce7](https://github.com/kubedb/pgbouncer/commit/d5fa2ce7) Update KubeDB api (#76)
+- [938d61f6](https://github.com/kubedb/pgbouncer/commit/938d61f6) Update KubeDB api (#75)
+- [89ceecb1](https://github.com/kubedb/pgbouncer/commit/89ceecb1) Update Kubernetes v1.18.9 dependencies (#74)
+- [3b8fc849](https://github.com/kubedb/pgbouncer/commit/3b8fc849) Update KubeDB api (#73)
+- [89ed5bf0](https://github.com/kubedb/pgbouncer/commit/89ed5bf0) Update KubeDB api (#72)
+- [187eaff5](https://github.com/kubedb/pgbouncer/commit/187eaff5) Update KubeDB api (#71)
+- [1222c935](https://github.com/kubedb/pgbouncer/commit/1222c935) Update repository config (#70)
+- [f9c72f8c](https://github.com/kubedb/pgbouncer/commit/f9c72f8c) Update repository config (#69)
+- [a55e0a9f](https://github.com/kubedb/pgbouncer/commit/a55e0a9f) Update repository config (#68)
+- [20f01c3b](https://github.com/kubedb/pgbouncer/commit/20f01c3b) Update KubeDB api (#67)
+- [ea907c2f](https://github.com/kubedb/pgbouncer/commit/ea907c2f) Update Kubernetes v1.18.9 dependencies (#66)
+- [86f92e64](https://github.com/kubedb/pgbouncer/commit/86f92e64) Publish docker images to ghcr.io (#65)
+- [189ab8b8](https://github.com/kubedb/pgbouncer/commit/189ab8b8) Update KubeDB api (#64)
+- [d30a59c2](https://github.com/kubedb/pgbouncer/commit/d30a59c2) Update KubeDB api (#63)
+- [545ee043](https://github.com/kubedb/pgbouncer/commit/545ee043) Update KubeDB api (#62)
+- [cc01e1ca](https://github.com/kubedb/pgbouncer/commit/cc01e1ca) Update KubeDB api (#61)
+- [40bc916f](https://github.com/kubedb/pgbouncer/commit/40bc916f) Update repository config (#60)
+- [00313b21](https://github.com/kubedb/pgbouncer/commit/00313b21) Update Kubernetes v1.18.9 dependencies (#59)
+- [080b77f3](https://github.com/kubedb/pgbouncer/commit/080b77f3) Update KubeDB api (#56)
+- [fa479841](https://github.com/kubedb/pgbouncer/commit/fa479841) Update Kubernetes v1.18.9 dependencies (#57)
+- [559d7421](https://github.com/kubedb/pgbouncer/commit/559d7421) Update Kubernetes v1.18.9 dependencies (#55)
+- [1bfe4067](https://github.com/kubedb/pgbouncer/commit/1bfe4067) Update repository config (#54)
+- [5ac28f25](https://github.com/kubedb/pgbouncer/commit/5ac28f25) Update repository config (#53)
+- [162034f0](https://github.com/kubedb/pgbouncer/commit/162034f0) Update Kubernetes v1.18.9 dependencies (#52)
+- [71697842](https://github.com/kubedb/pgbouncer/commit/71697842) Update Kubernetes v1.18.3 dependencies (#51)
+- [3a868c6d](https://github.com/kubedb/pgbouncer/commit/3a868c6d) Prepare for release v0.1.0-beta.3 (#50)
+- [72745988](https://github.com/kubedb/pgbouncer/commit/72745988) Add license verifier (#49)
+- [36e16b55](https://github.com/kubedb/pgbouncer/commit/36e16b55) Use AppsCode Trial license (#48)
+- [d3917d72](https://github.com/kubedb/pgbouncer/commit/d3917d72) Update Kubernetes v1.18.3 dependencies (#47)
+- [c5fb3b0e](https://github.com/kubedb/pgbouncer/commit/c5fb3b0e) Update Kubernetes v1.18.3 dependencies (#46)
+- [64f27a21](https://github.com/kubedb/pgbouncer/commit/64f27a21) Update Kubernetes v1.18.3 dependencies (#44)
+- [817891a9](https://github.com/kubedb/pgbouncer/commit/817891a9) Use AppsCode Community License (#43)
+- [11826ae7](https://github.com/kubedb/pgbouncer/commit/11826ae7) Update Kubernetes v1.18.3 dependencies (#42)
+- [e083d550](https://github.com/kubedb/pgbouncer/commit/e083d550) Prepare for release v0.1.0-beta.2 (#41)
+- [fe847905](https://github.com/kubedb/pgbouncer/commit/fe847905) Update release.yml
+- [ddf5a857](https://github.com/kubedb/pgbouncer/commit/ddf5a857) Use updated certificate spec (#35)
+- [d5cd5bfd](https://github.com/kubedb/pgbouncer/commit/d5cd5bfd) Update Kubernetes v1.18.3 dependencies (#39)
+- [21693c76](https://github.com/kubedb/pgbouncer/commit/21693c76) Update Kubernetes v1.18.3 dependencies (#38)
+- [39ad48db](https://github.com/kubedb/pgbouncer/commit/39ad48db) Update Kubernetes v1.18.3 dependencies (#37)
+- [7f1ecc77](https://github.com/kubedb/pgbouncer/commit/7f1ecc77) Update Kubernetes v1.18.3 dependencies (#36)
+- [8d9d379a](https://github.com/kubedb/pgbouncer/commit/8d9d379a) Update Kubernetes v1.18.3 dependencies (#34)
+- [c9b8300c](https://github.com/kubedb/pgbouncer/commit/c9b8300c) Update Kubernetes v1.18.3 dependencies (#33)
+- [66c72a40](https://github.com/kubedb/pgbouncer/commit/66c72a40) Remove dependency on enterprise operator (#32)
+- [757dc104](https://github.com/kubedb/pgbouncer/commit/757dc104) Update to cert-manager v0.16.0 (#30)
+- [0a183d15](https://github.com/kubedb/pgbouncer/commit/0a183d15) Build images in e2e workflow (#29)
+- [ca61e88c](https://github.com/kubedb/pgbouncer/commit/ca61e88c) Allow configuring k8s & db version in e2e tests (#28)
+- [a87278b1](https://github.com/kubedb/pgbouncer/commit/a87278b1) Update to Kubernetes v1.18.3 (#27)
+- [5abe86f3](https://github.com/kubedb/pgbouncer/commit/5abe86f3) Fix formatting
+- [845f7a35](https://github.com/kubedb/pgbouncer/commit/845f7a35) Trigger e2e tests on /ok-to-test command (#26)
+- [2cc23c03](https://github.com/kubedb/pgbouncer/commit/2cc23c03) Fix cert-manager integration for PgBouncer (#25)
+- [2a148c26](https://github.com/kubedb/pgbouncer/commit/2a148c26) Update to Kubernetes v1.18.3 (#24)
+- [f6eb8120](https://github.com/kubedb/pgbouncer/commit/f6eb8120) Update Makefile.env
+- [bbf810c5](https://github.com/kubedb/pgbouncer/commit/bbf810c5) Prepare for release v0.1.0-beta.1 (#23)
+- [5a6e361a](https://github.com/kubedb/pgbouncer/commit/5a6e361a) include Makefile.env (#22)
+- [2d52d66e](https://github.com/kubedb/pgbouncer/commit/2d52d66e) Update License (#21)
+- [33305d5f](https://github.com/kubedb/pgbouncer/commit/33305d5f) Update to Kubernetes v1.18.3 (#20)
+- [b443a550](https://github.com/kubedb/pgbouncer/commit/b443a550) Update ci.yml
+- [d3bedc9b](https://github.com/kubedb/pgbouncer/commit/d3bedc9b) Update update-release-tracker.sh
+- [d9100ecc](https://github.com/kubedb/pgbouncer/commit/d9100ecc) Update update-release-tracker.sh
+- [9b86bdaa](https://github.com/kubedb/pgbouncer/commit/9b86bdaa) Add script to update release tracker on pr merge (#19)
+- [3362cef7](https://github.com/kubedb/pgbouncer/commit/3362cef7) Update .kodiak.toml
+- [11ebebda](https://github.com/kubedb/pgbouncer/commit/11ebebda) Use POSTGRES_TAG v0.14.0-alpha.0
+- [dbe95b54](https://github.com/kubedb/pgbouncer/commit/dbe95b54) Various fixes (#18)
+- [c50c65de](https://github.com/kubedb/pgbouncer/commit/c50c65de) Update to Kubernetes v1.18.3 (#17)
+- [483fa438](https://github.com/kubedb/pgbouncer/commit/483fa438) Update to Kubernetes v1.18.3
+- [c0fa8e49](https://github.com/kubedb/pgbouncer/commit/c0fa8e49) Create .kodiak.toml
+- [5e338016](https://github.com/kubedb/pgbouncer/commit/5e338016) Use CRD v1 for Kubernetes >= 1.16 (#16)
+- [ef7fe475](https://github.com/kubedb/pgbouncer/commit/ef7fe475) Update to Kubernetes v1.18.3 (#15)
+- [063339fc](https://github.com/kubedb/pgbouncer/commit/063339fc) Fix e2e tests (#14)
+- [7cd92ba4](https://github.com/kubedb/pgbouncer/commit/7cd92ba4) Update crazy-max/ghaction-docker-buildx flag
+- [e7a47a50](https://github.com/kubedb/pgbouncer/commit/e7a47a50) Revendor kubedb.dev/apimachinery@master (#13)
+- [9d009160](https://github.com/kubedb/pgbouncer/commit/9d009160) Use updated operator labels in e2e tests (#12)
+- [778924af](https://github.com/kubedb/pgbouncer/commit/778924af) Trigger the workflow on push or pull request
+- [77be6b9e](https://github.com/kubedb/pgbouncer/commit/77be6b9e) Update CHANGELOG.md
+- [a9decb98](https://github.com/kubedb/pgbouncer/commit/a9decb98) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#11)
+- [cd4d2721](https://github.com/kubedb/pgbouncer/commit/cd4d2721) Fix build
+- [b21b1a11](https://github.com/kubedb/pgbouncer/commit/b21b1a11) Revendor and update enterprise sidecar image (#10)
+- [463f7bc0](https://github.com/kubedb/pgbouncer/commit/463f7bc0) Update enterprise operator tag (#9)
+- [6e015884](https://github.com/kubedb/pgbouncer/commit/6e015884) Use kubedb/installer master branch in CI
+- [88b98a49](https://github.com/kubedb/pgbouncer/commit/88b98a49) Update pgbouncer controller (#8)
+- [a6b71bc3](https://github.com/kubedb/pgbouncer/commit/a6b71bc3) Update variable names
+- [1a6794b7](https://github.com/kubedb/pgbouncer/commit/1a6794b7) Fix plain text secret in exporter container of StatefulSet (#5)
+- [ab104a9f](https://github.com/kubedb/pgbouncer/commit/ab104a9f) Update client-go to kubernetes-1.16.3 (#7)
+- [68dbb142](https://github.com/kubedb/pgbouncer/commit/68dbb142) Use charts to install operator (#6)
+- [30e3e729](https://github.com/kubedb/pgbouncer/commit/30e3e729) Add add-license make target
+- [6c1a78a0](https://github.com/kubedb/pgbouncer/commit/6c1a78a0) Enable e2e tests in GitHub actions (#4)
+- [0960f805](https://github.com/kubedb/pgbouncer/commit/0960f805) Initial implementation (#2)
+- [a8a9b1db](https://github.com/kubedb/pgbouncer/commit/a8a9b1db) Update go.yml
+- [bc3b2624](https://github.com/kubedb/pgbouncer/commit/bc3b2624) Enable GitHub actions
+- [2e33db2b](https://github.com/kubedb/pgbouncer/commit/2e33db2b) Clone kubedb/postgres repo (#1)
+- [45a7cace](https://github.com/kubedb/pgbouncer/commit/45a7cace) Merge commit 'f78de886ed657650438f99574c3b002dd3607497' as 'hack/libbuild'
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.14.0](https://github.com/kubedb/postgres/releases/tag/v0.14.0)

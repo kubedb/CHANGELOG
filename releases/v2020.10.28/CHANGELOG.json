@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.28",
-  "release_date": "2020-10-29T05:19:20.245228895Z",
+  "release_date": "2020-10-29T05:19:53.297884187Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.28",
   "kubernetes_version": "1.14+",
@@ -1742,6 +1742,336 @@
             {
               "SHA": "44ddb0d6",
               "Subject": "Start next dev cycle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "4ee489b",
+              "Subject": "Prepare for release v0.1.0 (#77)"
+            },
+            {
+              "SHA": "b49e098",
+              "Subject": "Prepare for release v0.1.0-rc.2 (#76)"
+            },
+            {
+              "SHA": "7c0b82f",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#75)"
+            },
+            {
+              "SHA": "67ec09b",
+              "Subject": "Prepare for release v0.1.0-beta.6 (#74)"
+            },
+            {
+              "SHA": "724eaa9",
+              "Subject": "Update KubeDB api (#73)"
+            },
+            {
+              "SHA": "a82a26e",
+              "Subject": "Fix sql query to find primary host for different version of MySQL (#66)"
+            },
+            {
+              "SHA": "e251fd6",
+              "Subject": "Prepare for release v0.1.0-beta.5 (#72)"
+            },
+            {
+              "SHA": "633ba00",
+              "Subject": "Update KubeDB api (#71)"
+            },
+            {
+              "SHA": "557e8f7",
+              "Subject": "Prepare for release v0.1.0-beta.4 (#70)"
+            },
+            {
+              "SHA": "4dd885a",
+              "Subject": "Update KubeDB api (#69)"
+            },
+            {
+              "SHA": "dc0ed39",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#68)"
+            },
+            {
+              "SHA": "f49a1d1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#65)"
+            },
+            {
+              "SHA": "306235a",
+              "Subject": "Update KubeDB api (#64)"
+            },
+            {
+              "SHA": "3c9e99a",
+              "Subject": "Update KubeDB api (#63)"
+            },
+            {
+              "SHA": "974a940",
+              "Subject": "Update KubeDB api (#62)"
+            },
+            {
+              "SHA": "8521462",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#61)"
+            },
+            {
+              "SHA": "38f7a4c",
+              "Subject": "Update KubeDB api (#60)"
+            },
+            {
+              "SHA": "a7b7c87",
+              "Subject": "Update KubeDB api (#59)"
+            },
+            {
+              "SHA": "daa02dd",
+              "Subject": "Update KubeDB api (#58)"
+            },
+            {
+              "SHA": "341b6b6",
+              "Subject": "Add tls config (#40)"
+            },
+            {
+              "SHA": "04161c8",
+              "Subject": "Update KubeDB api (#57)"
+            },
+            {
+              "SHA": "fdd705d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#56)"
+            },
+            {
+              "SHA": "22cb410",
+              "Subject": "Update KubeDB api (#55)"
+            },
+            {
+              "SHA": "11b1758",
+              "Subject": "Update KubeDB api (#54)"
+            },
+            {
+              "SHA": "9df3045",
+              "Subject": "Update KubeDB api (#53)"
+            },
+            {
+              "SHA": "6557f92",
+              "Subject": "Update KubeDB api (#52)"
+            },
+            {
+              "SHA": "43c3694",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#51)"
+            },
+            {
+              "SHA": "511e974",
+              "Subject": "Publish docker images to ghcr.io (#50)"
+            },
+            {
+              "SHA": "093a995",
+              "Subject": "Update KubeDB api (#49)"
+            },
+            {
+              "SHA": "49c07e9",
+              "Subject": "Update KubeDB api (#48)"
+            },
+            {
+              "SHA": "91ead1c",
+              "Subject": "Update KubeDB api (#47)"
+            },
+            {
+              "SHA": "45956b4",
+              "Subject": "Update KubeDB api (#46)"
+            },
+            {
+              "SHA": "a6c57a7",
+              "Subject": "Update KubeDB api (#45)"
+            },
+            {
+              "SHA": "8a2fd20",
+              "Subject": "Update KubeDB api (#44)"
+            },
+            {
+              "SHA": "be63987",
+              "Subject": "Update KubeDB api (#43)"
+            },
+            {
+              "SHA": "f33220a",
+              "Subject": "Update KubeDB api (#42)"
+            },
+            {
+              "SHA": "46b7d44",
+              "Subject": "Update KubeDB api (#41)"
+            },
+            {
+              "SHA": "c151070",
+              "Subject": "Update KubeDB api (#38)"
+            },
+            {
+              "SHA": "7a04763",
+              "Subject": "Update KubeDB api (#37)"
+            },
+            {
+              "SHA": "4367ef5",
+              "Subject": "Update KubeDB api (#36)"
+            },
+            {
+              "SHA": "6bc4f1c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#35)"
+            },
+            {
+              "SHA": "fdaff01",
+              "Subject": "Update KubeDB api (#34)"
+            },
+            {
+              "SHA": "087170a",
+              "Subject": "Update KubeDB api (#33)"
+            },
+            {
+              "SHA": "127efe7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#32)"
+            },
+            {
+              "SHA": "1df3573",
+              "Subject": "Move constant to apimachinery repo (#24)"
+            },
+            {
+              "SHA": "74b41b0",
+              "Subject": "Update repository config (#31)"
+            },
+            {
+              "SHA": "b0932a7",
+              "Subject": "Update repository config (#30)"
+            },
+            {
+              "SHA": "8e9c235",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#29)"
+            },
+            {
+              "SHA": "8f61ebc",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#28)"
+            },
+            {
+              "SHA": "eedb970",
+              "Subject": "Prepare for release v0.1.0-beta.3 (#27)"
+            },
+            {
+              "SHA": "e4c3962",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#26)"
+            },
+            {
+              "SHA": "9c20bfb",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#25)"
+            },
+            {
+              "SHA": "a1f5dbd",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#23)"
+            },
+            {
+              "SHA": "feedb97",
+              "Subject": "Use AppsCode Community License (#22)"
+            },
+            {
+              "SHA": "eb878dc",
+              "Subject": "Prepare for release v0.1.0-beta.2 (#21)"
+            },
+            {
+              "SHA": "6c214b8",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#19)"
+            },
+            {
+              "SHA": "00800e8",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#18)"
+            },
+            {
+              "SHA": "373ab6d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#17)"
+            },
+            {
+              "SHA": "8b61313",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#16)"
+            },
+            {
+              "SHA": "f2a68e3",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#15)"
+            },
+            {
+              "SHA": "3bce396",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#14)"
+            },
+            {
+              "SHA": "32603a2",
+              "Subject": "Don't push binary with release"
+            },
+            {
+              "SHA": "bb47e58",
+              "Subject": "Remove port-forwarding and Refactor Code (#13)"
+            },
+            {
+              "SHA": "df73419",
+              "Subject": "Update to Kubernetes v1.18.3 (#12)"
+            },
+            {
+              "SHA": "61fe2ea",
+              "Subject": "Update to Kubernetes v1.18.3 (#11)"
+            },
+            {
+              "SHA": "b7ccc85",
+              "Subject": "Update to Kubernetes v1.18.3 (#10)"
+            },
+            {
+              "SHA": "3e62838",
+              "Subject": "Prepare for release v0.1.0-beta.1 (#9)"
+            },
+            {
+              "SHA": "e54c4c0",
+              "Subject": "Update License (#7)"
+            },
+            {
+              "SHA": "e071b02",
+              "Subject": "Update to Kubernetes v1.18.3 (#6)"
+            },
+            {
+              "SHA": "8992bcb",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "acc1038",
+              "Subject": "Add script to update release tracker on pr merge (#5)"
+            },
+            {
+              "SHA": "706b5b0",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "4e52c03",
+              "Subject": "Update to Kubernetes v1.18.3 (#4)"
+            },
+            {
+              "SHA": "adb05ae",
+              "Subject": "Merge branch 'master' into gomod-refresher-1591418508"
+            },
+            {
+              "SHA": "3a99f80",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "6289807",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "1dd24be",
+              "Subject": "Update to Kubernetes v1.18.3 (#3)"
+            },
+            {
+              "SHA": "6d02366",
+              "Subject": "Update Makefile and CI configuration (#2)"
+            },
+            {
+              "SHA": "fc95884",
+              "Subject": "Add primary role labeler controller (#1)"
+            },
+            {
+              "SHA": "99dfb12",
+              "Subject": "add readme.md"
             }
           ]
         }

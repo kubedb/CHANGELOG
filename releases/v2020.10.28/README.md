@@ -1484,6 +1484,327 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.1.0](https://github.com/kubedb/proxysql/releases/tag/v0.1.0)
+
+- [ee27f53b](https://github.com/kubedb/proxysql/commit/ee27f53b) Prepare for release v0.1.0 (#103)
+- [8a5443d9](https://github.com/kubedb/proxysql/commit/8a5443d9) Prepare for release v0.1.0-rc.2 (#102)
+- [e3f4999c](https://github.com/kubedb/proxysql/commit/e3f4999c) Prepare for release v0.1.0-rc.1 (#101)
+- [d01512de](https://github.com/kubedb/proxysql/commit/d01512de) Prepare for release v0.1.0-beta.6 (#100)
+- [6a0d52ff](https://github.com/kubedb/proxysql/commit/6a0d52ff) Create SRV records for governing service (#99)
+- [4269db9c](https://github.com/kubedb/proxysql/commit/4269db9c) Prepare for release v0.1.0-beta.5 (#98)
+- [e48bd006](https://github.com/kubedb/proxysql/commit/e48bd006) Create separate governing service for each database (#97)
+- [23f1c6de](https://github.com/kubedb/proxysql/commit/23f1c6de) Update KubeDB api (#96)
+- [13abe9ff](https://github.com/kubedb/proxysql/commit/13abe9ff) Update readme
+- [78ef0d29](https://github.com/kubedb/proxysql/commit/78ef0d29) Update repository config (#95)
+- [d344e43f](https://github.com/kubedb/proxysql/commit/d344e43f) Prepare for release v0.1.0-beta.4 (#94)
+- [15deb4df](https://github.com/kubedb/proxysql/commit/15deb4df) Update KubeDB api (#93)
+- [dc59184c](https://github.com/kubedb/proxysql/commit/dc59184c) Update Kubernetes v1.18.9 dependencies (#92)
+- [b2b11084](https://github.com/kubedb/proxysql/commit/b2b11084) Update KubeDB api (#91)
+- [535820ff](https://github.com/kubedb/proxysql/commit/535820ff) Update for release Stash@v2020.10.21 (#90)
+- [c00f0b6a](https://github.com/kubedb/proxysql/commit/c00f0b6a) Update KubeDB api (#89)
+- [af8ab91c](https://github.com/kubedb/proxysql/commit/af8ab91c) Update KubeDB api (#88)
+- [154fff60](https://github.com/kubedb/proxysql/commit/154fff60) Update Kubernetes v1.18.9 dependencies (#87)
+- [608ca467](https://github.com/kubedb/proxysql/commit/608ca467) Update KubeDB api (#86)
+- [c0b1286b](https://github.com/kubedb/proxysql/commit/c0b1286b) Update KubeDB api (#85)
+- [d2f326c7](https://github.com/kubedb/proxysql/commit/d2f326c7) Update KubeDB api (#84)
+- [01ea3c3c](https://github.com/kubedb/proxysql/commit/01ea3c3c) Update KubeDB api (#83)
+- [4ae700ed](https://github.com/kubedb/proxysql/commit/4ae700ed) Update Kubernetes v1.18.9 dependencies (#82)
+- [d0ad0b70](https://github.com/kubedb/proxysql/commit/d0ad0b70) Update KubeDB api (#81)
+- [8f1e0d51](https://github.com/kubedb/proxysql/commit/8f1e0d51) Update KubeDB api (#80)
+- [7b02bebb](https://github.com/kubedb/proxysql/commit/7b02bebb) Update KubeDB api (#79)
+- [4f95e854](https://github.com/kubedb/proxysql/commit/4f95e854) Update repository config (#78)
+- [c229a939](https://github.com/kubedb/proxysql/commit/c229a939) Update repository config (#77)
+- [89dbb47f](https://github.com/kubedb/proxysql/commit/89dbb47f) Update repository config (#76)
+- [d28494ab](https://github.com/kubedb/proxysql/commit/d28494ab) Update KubeDB api (#75)
+- [b25cb7db](https://github.com/kubedb/proxysql/commit/b25cb7db) Update Kubernetes v1.18.9 dependencies (#74)
+- [d4b026a4](https://github.com/kubedb/proxysql/commit/d4b026a4) Publish docker images to ghcr.io (#73)
+- [e263f9c3](https://github.com/kubedb/proxysql/commit/e263f9c3) Update KubeDB api (#72)
+- [07ea3acb](https://github.com/kubedb/proxysql/commit/07ea3acb) Update KubeDB api (#71)
+- [946e292b](https://github.com/kubedb/proxysql/commit/946e292b) Update KubeDB api (#70)
+- [66eb2156](https://github.com/kubedb/proxysql/commit/66eb2156) Update KubeDB api (#69)
+- [d3fe09ae](https://github.com/kubedb/proxysql/commit/d3fe09ae) Update repository config (#68)
+- [10c7cde0](https://github.com/kubedb/proxysql/commit/10c7cde0) Update Kubernetes v1.18.9 dependencies (#67)
+- [ed5d24a9](https://github.com/kubedb/proxysql/commit/ed5d24a9) Update KubeDB api (#65)
+- [a4f6dd4c](https://github.com/kubedb/proxysql/commit/a4f6dd4c) Update KubeDB api (#62)
+- [2956b1bd](https://github.com/kubedb/proxysql/commit/2956b1bd) Update for release Stash@v2020.09.29 (#64)
+- [9cbd0244](https://github.com/kubedb/proxysql/commit/9cbd0244) Update Kubernetes v1.18.9 dependencies (#63)
+- [4cd9bb02](https://github.com/kubedb/proxysql/commit/4cd9bb02) Update Kubernetes v1.18.9 dependencies (#61)
+- [a9a9caf0](https://github.com/kubedb/proxysql/commit/a9a9caf0) Update repository config (#60)
+- [af3a2a68](https://github.com/kubedb/proxysql/commit/af3a2a68) Update repository config (#59)
+- [25f47ff4](https://github.com/kubedb/proxysql/commit/25f47ff4) Update Kubernetes v1.18.9 dependencies (#58)
+- [05e57476](https://github.com/kubedb/proxysql/commit/05e57476) Update Kubernetes v1.18.3 dependencies (#57)
+- [8b0af94b](https://github.com/kubedb/proxysql/commit/8b0af94b) Prepare for release v0.1.0-beta.3 (#56)
+- [f2a98806](https://github.com/kubedb/proxysql/commit/f2a98806) Update Makefile
+- [f59b73a1](https://github.com/kubedb/proxysql/commit/f59b73a1) Use AppsCode Trial license (#55)
+- [2ae32d3c](https://github.com/kubedb/proxysql/commit/2ae32d3c) Update Kubernetes v1.18.3 dependencies (#54)
+- [724b9829](https://github.com/kubedb/proxysql/commit/724b9829) Add license verifier (#53)
+- [8a2aafb5](https://github.com/kubedb/proxysql/commit/8a2aafb5) Update for release Stash@v2020.09.16 (#52)
+- [4759525b](https://github.com/kubedb/proxysql/commit/4759525b) Update Kubernetes v1.18.3 dependencies (#51)
+- [f55b1402](https://github.com/kubedb/proxysql/commit/f55b1402) Update Kubernetes v1.18.3 dependencies (#49)
+- [f7036236](https://github.com/kubedb/proxysql/commit/f7036236) Use AppsCode Community License (#48)
+- [d922196f](https://github.com/kubedb/proxysql/commit/d922196f) Update Kubernetes v1.18.3 dependencies (#47)
+- [f86bb6cd](https://github.com/kubedb/proxysql/commit/f86bb6cd) Prepare for release v0.1.0-beta.2 (#46)
+- [e74f3803](https://github.com/kubedb/proxysql/commit/e74f3803) Update release.yml
+- [7f5349cc](https://github.com/kubedb/proxysql/commit/7f5349cc) Use updated apis (#45)
+- [27faefef](https://github.com/kubedb/proxysql/commit/27faefef) Update for release Stash@v2020.08.27 (#43)
+- [65bc5bca](https://github.com/kubedb/proxysql/commit/65bc5bca) Update for release Stash@v2020.08.27-rc.0 (#42)
+- [833ac78b](https://github.com/kubedb/proxysql/commit/833ac78b) Update for release Stash@v2020.08.26-rc.1 (#41)
+- [fe13ce42](https://github.com/kubedb/proxysql/commit/fe13ce42) Update for release Stash@v2020.08.26-rc.0 (#40)
+- [b1a72843](https://github.com/kubedb/proxysql/commit/b1a72843) Update Kubernetes v1.18.3 dependencies (#39)
+- [a9c40618](https://github.com/kubedb/proxysql/commit/a9c40618) Update Kubernetes v1.18.3 dependencies (#38)
+- [664c974a](https://github.com/kubedb/proxysql/commit/664c974a) Update Kubernetes v1.18.3 dependencies (#37)
+- [69ed46d5](https://github.com/kubedb/proxysql/commit/69ed46d5) Update Kubernetes v1.18.3 dependencies (#36)
+- [a93d80d4](https://github.com/kubedb/proxysql/commit/a93d80d4) Update Kubernetes v1.18.3 dependencies (#35)
+- [84fc9e37](https://github.com/kubedb/proxysql/commit/84fc9e37) Update Kubernetes v1.18.3 dependencies (#34)
+- [b09f89d0](https://github.com/kubedb/proxysql/commit/b09f89d0) Remove dependency on enterprise operator (#33)
+- [78ad5a88](https://github.com/kubedb/proxysql/commit/78ad5a88) Build images in e2e workflow (#32)
+- [6644058e](https://github.com/kubedb/proxysql/commit/6644058e) Update to Kubernetes v1.18.3 (#30)
+- [2c03dadd](https://github.com/kubedb/proxysql/commit/2c03dadd) Allow configuring k8s & db version in e2e tests (#31)
+- [2c6e04bc](https://github.com/kubedb/proxysql/commit/2c6e04bc) Trigger e2e tests on /ok-to-test command (#29)
+- [c7830af8](https://github.com/kubedb/proxysql/commit/c7830af8) Update to Kubernetes v1.18.3 (#28)
+- [f2da8746](https://github.com/kubedb/proxysql/commit/f2da8746) Update to Kubernetes v1.18.3 (#27)
+- [2ed7d0e8](https://github.com/kubedb/proxysql/commit/2ed7d0e8) Prepare for release v0.1.0-beta.1 (#26)
+- [3b5ee481](https://github.com/kubedb/proxysql/commit/3b5ee481) Update for release Stash@v2020.07.09-beta.0 (#25)
+- [92b04b33](https://github.com/kubedb/proxysql/commit/92b04b33) include Makefile.env (#24)
+- [eace7e26](https://github.com/kubedb/proxysql/commit/eace7e26) Update for release Stash@v2020.07.08-beta.0 (#23)
+- [0c647c01](https://github.com/kubedb/proxysql/commit/0c647c01) Update License (#22)
+- [3c1b41be](https://github.com/kubedb/proxysql/commit/3c1b41be) Update to Kubernetes v1.18.3 (#21)
+- [dfa95bb8](https://github.com/kubedb/proxysql/commit/dfa95bb8) Update ci.yml
+- [87390932](https://github.com/kubedb/proxysql/commit/87390932) Update update-release-tracker.sh
+- [772a0c6a](https://github.com/kubedb/proxysql/commit/772a0c6a) Update update-release-tracker.sh
+- [a3b2ae92](https://github.com/kubedb/proxysql/commit/a3b2ae92) Add script to update release tracker on pr merge (#20)
+- [7578cae3](https://github.com/kubedb/proxysql/commit/7578cae3) Update .kodiak.toml
+- [4ba876bc](https://github.com/kubedb/proxysql/commit/4ba876bc) Update operator tags
+- [399aa60b](https://github.com/kubedb/proxysql/commit/399aa60b) Various fixes (#19)
+- [7235b0c5](https://github.com/kubedb/proxysql/commit/7235b0c5) Update to Kubernetes v1.18.3 (#18)
+- [427c1f21](https://github.com/kubedb/proxysql/commit/427c1f21) Update to Kubernetes v1.18.3
+- [1ac8da55](https://github.com/kubedb/proxysql/commit/1ac8da55) Create .kodiak.toml
+- [3243d446](https://github.com/kubedb/proxysql/commit/3243d446) Use CRD v1 for Kubernetes >= 1.16 (#17)
+- [4f5bea8d](https://github.com/kubedb/proxysql/commit/4f5bea8d) Update to Kubernetes v1.18.3 (#16)
+- [a0d2611a](https://github.com/kubedb/proxysql/commit/a0d2611a) Fix e2e tests (#15)
+- [987fbf60](https://github.com/kubedb/proxysql/commit/987fbf60) Update crazy-max/ghaction-docker-buildx flag
+- [c2fad78e](https://github.com/kubedb/proxysql/commit/c2fad78e) Use updated operator labels in e2e tests (#14)
+- [c5a01db8](https://github.com/kubedb/proxysql/commit/c5a01db8) Revendor kubedb.dev/apimachinery@master (#13)
+- [756c8f8f](https://github.com/kubedb/proxysql/commit/756c8f8f) Trigger the workflow on push or pull request
+- [fdf84e27](https://github.com/kubedb/proxysql/commit/fdf84e27) Update CHANGELOG.md
+- [9075b453](https://github.com/kubedb/proxysql/commit/9075b453) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6 (#12)
+- [f4d1c024](https://github.com/kubedb/proxysql/commit/f4d1c024) Matrix Tests on Github Actions (#11)
+- [4e021072](https://github.com/kubedb/proxysql/commit/4e021072) Update mount path for custom config (#8)
+- [b0922173](https://github.com/kubedb/proxysql/commit/b0922173) Enable ProxySQL monitoring (#6)
+- [70be4e67](https://github.com/kubedb/proxysql/commit/70be4e67) ProxySQL test for MySQL (#4)
+- [0a444b9e](https://github.com/kubedb/proxysql/commit/0a444b9e) Use charts to install operator (#7)
+- [a51fbb51](https://github.com/kubedb/proxysql/commit/a51fbb51) ProxySQL operator for MySQL databases (#2)
+- [883fa437](https://github.com/kubedb/proxysql/commit/883fa437) Update go.yml
+- [2c0cf51c](https://github.com/kubedb/proxysql/commit/2c0cf51c) Enable GitHub actions
+- [52e15cd2](https://github.com/kubedb/proxysql/commit/52e15cd2) percona-xtradb -> proxysql (#1)
+- [dc71bffe](https://github.com/kubedb/proxysql/commit/dc71bffe) Revendor
+- [71957d40](https://github.com/kubedb/proxysql/commit/71957d40) Rename from perconaxtradb to percona-xtradb (#10)
+- [b526ccd8](https://github.com/kubedb/proxysql/commit/b526ccd8) Set database version in AppBinding (#7)
+- [336e7203](https://github.com/kubedb/proxysql/commit/336e7203) Percona XtraDB Cluster support (#9)
+- [71a42f7a](https://github.com/kubedb/proxysql/commit/71a42f7a) Don't set annotation to AppBinding (#8)
+- [282298cb](https://github.com/kubedb/proxysql/commit/282298cb) Fix UpsertDatabaseAnnotation() function (#4)
+- [2ab9dddf](https://github.com/kubedb/proxysql/commit/2ab9dddf) Add license header to Makefiles (#6)
+- [df135c08](https://github.com/kubedb/proxysql/commit/df135c08) Add install, uninstall and purge command in Makefile (#3)
+- [73d3a845](https://github.com/kubedb/proxysql/commit/73d3a845) Update .gitignore
+- [59a4e754](https://github.com/kubedb/proxysql/commit/59a4e754) Add Makefile (#2)
+- [f3551ddc](https://github.com/kubedb/proxysql/commit/f3551ddc) Rename package path (#1)
+- [56a241d6](https://github.com/kubedb/proxysql/commit/56a241d6) Use explicit IP whitelist instead of automatic IP whitelist (#151)
+- [9f0b5ca3](https://github.com/kubedb/proxysql/commit/9f0b5ca3) Update to k8s 1.14.0 client libraries using go.mod (#147)
+- [73ad7c30](https://github.com/kubedb/proxysql/commit/73ad7c30) Update changelog
+- [ccc36b5c](https://github.com/kubedb/proxysql/commit/ccc36b5c) Update README.md
+- [9769e8e1](https://github.com/kubedb/proxysql/commit/9769e8e1) Start next dev cycle
+- [a3fa468a](https://github.com/kubedb/proxysql/commit/a3fa468a) Prepare release 0.5.0
+- [6d8862de](https://github.com/kubedb/proxysql/commit/6d8862de) Mysql Group Replication tests (#146)
+- [49544e55](https://github.com/kubedb/proxysql/commit/49544e55) Mysql Group Replication (#144)
+- [a85d4b44](https://github.com/kubedb/proxysql/commit/a85d4b44) Revendor dependencies
+- [9c538460](https://github.com/kubedb/proxysql/commit/9c538460) Changed Role to exclude psp without name (#143)
+- [6cace93b](https://github.com/kubedb/proxysql/commit/6cace93b) Modify mutator validator names (#142)
+- [da0c19b9](https://github.com/kubedb/proxysql/commit/da0c19b9) Update changelog
+- [b79c80d6](https://github.com/kubedb/proxysql/commit/b79c80d6) Start next dev cycle
+- [838d9459](https://github.com/kubedb/proxysql/commit/838d9459) Prepare release 0.4.0
+- [bf0f2c14](https://github.com/kubedb/proxysql/commit/bf0f2c14) Added PSP names and init container image in testing framework (#141)
+- [3d227570](https://github.com/kubedb/proxysql/commit/3d227570) Added PSP support for mySQL (#137)
+- [7b766657](https://github.com/kubedb/proxysql/commit/7b766657) Don't inherit app.kubernetes.io labels from CRD into offshoots (#140)
+- [29e23470](https://github.com/kubedb/proxysql/commit/29e23470) Support for init container (#139)
+- [3e1556f6](https://github.com/kubedb/proxysql/commit/3e1556f6) Add role label to stats service (#138)
+- [ee078af9](https://github.com/kubedb/proxysql/commit/ee078af9) Update changelog
+- [978f1139](https://github.com/kubedb/proxysql/commit/978f1139) Update Kubernetes client libraries to 1.13.0 release (#136)
+- [821f23d1](https://github.com/kubedb/proxysql/commit/821f23d1) Start next dev cycle
+- [678b26aa](https://github.com/kubedb/proxysql/commit/678b26aa) Prepare release 0.3.0
+- [40ad7a23](https://github.com/kubedb/proxysql/commit/40ad7a23) Initial RBAC support: create and use K8s service account for MySQL (#134)
+- [98f03387](https://github.com/kubedb/proxysql/commit/98f03387) Revendor dependencies (#135)
+- [dfe92615](https://github.com/kubedb/proxysql/commit/dfe92615) Revendor dependencies : Retry Failed Scheduler Snapshot (#133)
+- [71f8a350](https://github.com/kubedb/proxysql/commit/71f8a350) Added ephemeral StorageType support (#132)
+- [0a6b6e46](https://github.com/kubedb/proxysql/commit/0a6b6e46) Added support of MySQL 8.0.14 (#131)
+- [99e57a9e](https://github.com/kubedb/proxysql/commit/99e57a9e) Use PVC spec from snapshot if provided (#130)
+- [61497be6](https://github.com/kubedb/proxysql/commit/61497be6) Revendored and updated tests for 'Prevent prefix matching of multiple snapshots' (#129)
+- [7eafe088](https://github.com/kubedb/proxysql/commit/7eafe088) Add certificate health checker (#128)
+- [973ec416](https://github.com/kubedb/proxysql/commit/973ec416) Update E2E test: Env update is not restricted anymore (#127)
+- [339975ff](https://github.com/kubedb/proxysql/commit/339975ff) Fix AppBinding (#126)
+- [62050a72](https://github.com/kubedb/proxysql/commit/62050a72) Update changelog
+- [2d454043](https://github.com/kubedb/proxysql/commit/2d454043) Prepare release 0.2.0
+- [6941ea59](https://github.com/kubedb/proxysql/commit/6941ea59) Reuse event recorder (#125)
+- [b77e66c4](https://github.com/kubedb/proxysql/commit/b77e66c4) OSM binary upgraded in mysql-tools (#123)
+- [c9228086](https://github.com/kubedb/proxysql/commit/c9228086) Revendor dependencies (#124)
+- [97837120](https://github.com/kubedb/proxysql/commit/97837120) Test for faulty snapshot (#122)
+- [c3e995b6](https://github.com/kubedb/proxysql/commit/c3e995b6) Start next dev cycle
+- [8a4f3b13](https://github.com/kubedb/proxysql/commit/8a4f3b13) Prepare release 0.2.0-rc.2
+- [79942191](https://github.com/kubedb/proxysql/commit/79942191) Upgrade database secret keys (#121)
+- [1747fdf5](https://github.com/kubedb/proxysql/commit/1747fdf5) Ignore mutation of fields to default values during update (#120)
+- [d902d588](https://github.com/kubedb/proxysql/commit/d902d588) Support configuration options for exporter sidecar (#119)
+- [dd7c3f44](https://github.com/kubedb/proxysql/commit/dd7c3f44) Use flags.DumpAll (#118)
+- [bc1ef05b](https://github.com/kubedb/proxysql/commit/bc1ef05b) Start next dev cycle
+- [9d33c1a0](https://github.com/kubedb/proxysql/commit/9d33c1a0) Prepare release 0.2.0-rc.1
+- [b076e141](https://github.com/kubedb/proxysql/commit/b076e141) Apply cleanup (#117)
+- [7dc5641f](https://github.com/kubedb/proxysql/commit/7dc5641f) Set periodic analytics (#116)
+- [90ea6acc](https://github.com/kubedb/proxysql/commit/90ea6acc) Introduce AppBinding support (#115)
+- [a882d76a](https://github.com/kubedb/proxysql/commit/a882d76a) Fix Analytics (#114)
+- [0961009c](https://github.com/kubedb/proxysql/commit/0961009c) Error out from cron job for deprecated dbversion (#113)
+- [da1f4e27](https://github.com/kubedb/proxysql/commit/da1f4e27) Add CRDs without observation when operator starts (#112)
+- [0a754d2f](https://github.com/kubedb/proxysql/commit/0a754d2f) Update changelog
+- [b09bc6e1](https://github.com/kubedb/proxysql/commit/b09bc6e1) Start next dev cycle
+- [0d467ccb](https://github.com/kubedb/proxysql/commit/0d467ccb) Prepare release 0.2.0-rc.0
+- [c757007a](https://github.com/kubedb/proxysql/commit/c757007a) Merge commit 'cc6607a3589a79a5e61bb198d370ea0ae30b9d09'
+- [ddfe4be1](https://github.com/kubedb/proxysql/commit/ddfe4be1) Support custom user passowrd for backup (#111)
+- [8c84ba20](https://github.com/kubedb/proxysql/commit/8c84ba20) Support providing resources for monitoring container (#110)
+- [7bcfbc48](https://github.com/kubedb/proxysql/commit/7bcfbc48) Update kubernetes client libraries to 1.12.0 (#109)
+- [145bba2b](https://github.com/kubedb/proxysql/commit/145bba2b) Add validation webhook xray (#108)
+- [6da1887f](https://github.com/kubedb/proxysql/commit/6da1887f) Various Fixes (#107)
+- [111519e9](https://github.com/kubedb/proxysql/commit/111519e9) Merge ports from service template (#105)
+- [38147ef1](https://github.com/kubedb/proxysql/commit/38147ef1) Replace doNotPause with TerminationPolicy = DoNotTerminate (#104)
+- [e28ebc47](https://github.com/kubedb/proxysql/commit/e28ebc47) Pass resources to NamespaceValidator (#103)
+- [aed12bf5](https://github.com/kubedb/proxysql/commit/aed12bf5) Various fixes (#102)
+- [3d372ef6](https://github.com/kubedb/proxysql/commit/3d372ef6) Support Livecycle hook and container probes (#101)
+- [b6ef6887](https://github.com/kubedb/proxysql/commit/b6ef6887) Check if Kubernetes version is supported before running operator (#100)
+- [d89e7783](https://github.com/kubedb/proxysql/commit/d89e7783) Update package alias (#99)
+- [f0b44b3a](https://github.com/kubedb/proxysql/commit/f0b44b3a) Start next dev cycle
+- [a79ff03b](https://github.com/kubedb/proxysql/commit/a79ff03b) Prepare release 0.2.0-beta.1
+- [0d8d3cca](https://github.com/kubedb/proxysql/commit/0d8d3cca) Revendor api (#98)
+- [2f850243](https://github.com/kubedb/proxysql/commit/2f850243) Fix tests (#97)
+- [4ced0bfe](https://github.com/kubedb/proxysql/commit/4ced0bfe) Revendor api for catalog apigroup (#96)
+- [e7695400](https://github.com/kubedb/proxysql/commit/e7695400) Update chanelog
+- [8e358aea](https://github.com/kubedb/proxysql/commit/8e358aea) Use --pull flag with docker build (#20) (#95)
+- [d2a97d90](https://github.com/kubedb/proxysql/commit/d2a97d90) Merge commit '16c769ee4686576f172a6b79a10d25bfd79ca4a4'
+- [d1fe8a8a](https://github.com/kubedb/proxysql/commit/d1fe8a8a) Start next dev cycle
+- [04eb9bb5](https://github.com/kubedb/proxysql/commit/04eb9bb5) Prepare release 0.2.0-beta.0
+- [9dfea960](https://github.com/kubedb/proxysql/commit/9dfea960) Pass extra args to tools.sh (#93)
+- [47dd3cad](https://github.com/kubedb/proxysql/commit/47dd3cad) Don't try to wipe out Snapshot data for Local backend (#92)
+- [9c4d485b](https://github.com/kubedb/proxysql/commit/9c4d485b) Add missing alt-tag docker folder mysql-tools images (#91)
+- [be72f784](https://github.com/kubedb/proxysql/commit/be72f784) Use suffix for updated DBImage & Stop working for deprecated *Versions (#90)
+- [05c8f14d](https://github.com/kubedb/proxysql/commit/05c8f14d) Search used secrets within same namespace of DB object (#89)
+- [0d94c946](https://github.com/kubedb/proxysql/commit/0d94c946) Support Termination Policy (#88)
+- [8775ddf7](https://github.com/kubedb/proxysql/commit/8775ddf7) Update builddeps.sh
+- [796c93da](https://github.com/kubedb/proxysql/commit/796c93da) Revendor k8s.io/apiserver (#87)
+- [5a1e3f57](https://github.com/kubedb/proxysql/commit/5a1e3f57) Revendor kubernetes-1.11.3 (#86)
+- [809a3c49](https://github.com/kubedb/proxysql/commit/809a3c49) Support UpdateStrategy (#84)
+- [372c52ef](https://github.com/kubedb/proxysql/commit/372c52ef) Add TerminationPolicy for databases (#83)
+- [c01b55e8](https://github.com/kubedb/proxysql/commit/c01b55e8) Revendor api (#82)
+- [5e196b95](https://github.com/kubedb/proxysql/commit/5e196b95) Use IntHash as status.observedGeneration (#81)
+- [2da3bb1b](https://github.com/kubedb/proxysql/commit/2da3bb1b) fix github status (#80)
+- [121d0a98](https://github.com/kubedb/proxysql/commit/121d0a98) Update pipeline (#79)
+- [532e3137](https://github.com/kubedb/proxysql/commit/532e3137) Fix E2E test for minikube (#78)
+- [0f107815](https://github.com/kubedb/proxysql/commit/0f107815) Update pipeline (#77)
+- [851679e2](https://github.com/kubedb/proxysql/commit/851679e2) Migrate MySQL (#75)
+- [0b997855](https://github.com/kubedb/proxysql/commit/0b997855) Use official exporter image (#74)
+- [702d5736](https://github.com/kubedb/proxysql/commit/702d5736) Fix uninstall for concourse (#70)
+- [9ee88bd2](https://github.com/kubedb/proxysql/commit/9ee88bd2) Update status.ObservedGeneration for failure phase (#73)
+- [559cdb6a](https://github.com/kubedb/proxysql/commit/559cdb6a) Keep track of ObservedGenerationHash (#72)
+- [61c8b898](https://github.com/kubedb/proxysql/commit/61c8b898) Use NewObservableHandler (#71)
+- [421274dc](https://github.com/kubedb/proxysql/commit/421274dc) Merge commit '887037c7e36289e3135dda99346fccc7e2ce303b'
+- [6a41d9bc](https://github.com/kubedb/proxysql/commit/6a41d9bc) Fix uninstall for concourse (#69)
+- [f1af09db](https://github.com/kubedb/proxysql/commit/f1af09db) Update README.md
+- [bf3f1823](https://github.com/kubedb/proxysql/commit/bf3f1823) Revise immutable spec fields (#68)
+- [26adec3b](https://github.com/kubedb/proxysql/commit/26adec3b) Merge commit '5f83049fc01dc1d0709ac0014d6f3a0f74a39417'
+- [31a97820](https://github.com/kubedb/proxysql/commit/31a97820) Support passing args via PodTemplate (#67)
+- [60f4ee23](https://github.com/kubedb/proxysql/commit/60f4ee23) Introduce storageType : ephemeral (#66)
+- [bfd3fcd6](https://github.com/kubedb/proxysql/commit/bfd3fcd6) Add support for running tests on cncf cluster (#63)
+- [fba47b19](https://github.com/kubedb/proxysql/commit/fba47b19) Merge commit 'e010cbb302c8d59d4cf69dd77085b046ff423b78'
+- [6be96ce0](https://github.com/kubedb/proxysql/commit/6be96ce0) Revendor api (#65)
+- [0f629ab3](https://github.com/kubedb/proxysql/commit/0f629ab3) Keep track of observedGeneration in status (#64)
+- [c9a9596f](https://github.com/kubedb/proxysql/commit/c9a9596f) Separate StatsService for monitoring (#62)
+- [62854641](https://github.com/kubedb/proxysql/commit/62854641) Use MySQLVersion for MySQL images (#61)
+- [3c170c56](https://github.com/kubedb/proxysql/commit/3c170c56) Use updated crd spec (#60)
+- [873c285e](https://github.com/kubedb/proxysql/commit/873c285e) Rename OffshootLabels to OffshootSelectors (#59)
+- [2fd02169](https://github.com/kubedb/proxysql/commit/2fd02169) Revendor api (#58)
+- [a127d6cd](https://github.com/kubedb/proxysql/commit/a127d6cd) Use kmodules monitoring and objectstore api (#57)
+- [2f79a038](https://github.com/kubedb/proxysql/commit/2f79a038) Support custom configuration (#52)
+- [49c67f00](https://github.com/kubedb/proxysql/commit/49c67f00) Merge commit '44e6d4985d93556e39ddcc4677ada5437fc5be64'
+- [fb28bc6c](https://github.com/kubedb/proxysql/commit/fb28bc6c) Refactor concourse scripts (#56)
+- [4de4ced1](https://github.com/kubedb/proxysql/commit/4de4ced1) Fix command `./hack/make.py test e2e` (#55)
+- [3082123e](https://github.com/kubedb/proxysql/commit/3082123e) Set generated binary name to my-operator (#54)
+- [5698f314](https://github.com/kubedb/proxysql/commit/5698f314) Don't add admission/v1beta1 group as a prioritized version (#53)
+- [696135d5](https://github.com/kubedb/proxysql/commit/696135d5) Fix travis build (#48)
+- [c519ef89](https://github.com/kubedb/proxysql/commit/c519ef89) Format shell script (#51)
+- [c93e2f40](https://github.com/kubedb/proxysql/commit/c93e2f40) Enable status subresource for crds (#50)
+- [edd951ca](https://github.com/kubedb/proxysql/commit/edd951ca) Update client-go to v8.0.0 (#49)
+- [520597a6](https://github.com/kubedb/proxysql/commit/520597a6) Merge commit '71850e2c90cda8fc588b7dedb340edf3d316baea'
+- [f1549e95](https://github.com/kubedb/proxysql/commit/f1549e95) Support ENV variables in CRDs (#46)
+- [67f37780](https://github.com/kubedb/proxysql/commit/67f37780) Updated osm version to 0.7.1 (#47)
+- [10e309c0](https://github.com/kubedb/proxysql/commit/10e309c0) Prepare release 0.1.0
+- [62a8fbbd](https://github.com/kubedb/proxysql/commit/62a8fbbd) Fixed missing error return (#45)
+- [8c05bb83](https://github.com/kubedb/proxysql/commit/8c05bb83) Revendor dependencies (#44)
+- [ca811a2e](https://github.com/kubedb/proxysql/commit/ca811a2e) Fix release script (#43)
+- [b79541f6](https://github.com/kubedb/proxysql/commit/b79541f6) Add changelog (#42)
+- [a2d13c82](https://github.com/kubedb/proxysql/commit/a2d13c82) Concourse (#41)
+- [95b2186e](https://github.com/kubedb/proxysql/commit/95b2186e) Fixed kubeconfig plugin for Cloud Providers && Storage is required for MySQL (#40)
+- [37762093](https://github.com/kubedb/proxysql/commit/37762093) Refactored E2E testing to support E2E testing with admission webhook in cloud (#38)
+- [b6fe72ca](https://github.com/kubedb/proxysql/commit/b6fe72ca) Remove lost+found directory before initializing mysql (#39)
+- [18ebb959](https://github.com/kubedb/proxysql/commit/18ebb959) Skip delete requests for empty resources (#37)
+- [eeb7add0](https://github.com/kubedb/proxysql/commit/eeb7add0) Don't panic if admission options is nil (#36)
+- [ccb59db0](https://github.com/kubedb/proxysql/commit/ccb59db0) Disable admission controllers for webhook server (#35)
+- [b1c6c149](https://github.com/kubedb/proxysql/commit/b1c6c149) Separate ApiGroup for Mutating and Validating webhook && upgraded osm to 0.7.0 (#34)
+- [b1890f7c](https://github.com/kubedb/proxysql/commit/b1890f7c) Update client-go to 7.0.0 (#33)
+- [08c81726](https://github.com/kubedb/proxysql/commit/08c81726) Added update script for mysql-tools:8 (#32)
+- [4bbe6c9f](https://github.com/kubedb/proxysql/commit/4bbe6c9f) Added support of mysql:5.7 (#31)
+- [e657f512](https://github.com/kubedb/proxysql/commit/e657f512) Add support for one informer and N-eventHandler for snapshot, dromantDB and Job (#30)
+- [bbcd48d6](https://github.com/kubedb/proxysql/commit/bbcd48d6) Use metrics from kube apiserver (#29)
+- [1687e197](https://github.com/kubedb/proxysql/commit/1687e197) Bundle webhook server and Use SharedInformerFactory (#28)
+- [cd0efc00](https://github.com/kubedb/proxysql/commit/cd0efc00) Move MySQL AdmissionWebhook packages into MySQL repository (#27)
+- [46065e18](https://github.com/kubedb/proxysql/commit/46065e18) Use mysql:8.0.3 image as mysql:8.0 (#26)
+- [1b73529f](https://github.com/kubedb/proxysql/commit/1b73529f) Update README.md
+- [62eaa397](https://github.com/kubedb/proxysql/commit/62eaa397) Update README.md
+- [c53704c7](https://github.com/kubedb/proxysql/commit/c53704c7) Remove Docker pull count
+- [b9ec877e](https://github.com/kubedb/proxysql/commit/b9ec877e) Add travis yaml (#25)
+- [ade3571c](https://github.com/kubedb/proxysql/commit/ade3571c) Start next dev cycle
+- [b4b749df](https://github.com/kubedb/proxysql/commit/b4b749df) Prepare release 0.1.0-beta.2
+- [4d46d95d](https://github.com/kubedb/proxysql/commit/4d46d95d) Migrating to apps/v1 (#23)
+- [5ee1ac8c](https://github.com/kubedb/proxysql/commit/5ee1ac8c) Update validation (#22)
+- [dd023c50](https://github.com/kubedb/proxysql/commit/dd023c50)  Fix dormantDB matching: pass same type to Equal method (#21)
+- [37a1e4fd](https://github.com/kubedb/proxysql/commit/37a1e4fd) Use official code generator scripts (#20)
+- [485d3d7c](https://github.com/kubedb/proxysql/commit/485d3d7c) Fixed dormantdb matching & Raised throttling time & Fixed MySQL version Checking (#19)
+- [6db2ae8d](https://github.com/kubedb/proxysql/commit/6db2ae8d) Prepare release 0.1.0-beta.1
+- [ebbfec2f](https://github.com/kubedb/proxysql/commit/ebbfec2f) converted to k8s 1.9 & Improved InitSpec in DormantDB & Added support for Job watcher & Improved Tests (#17)
+- [a484e0e5](https://github.com/kubedb/proxysql/commit/a484e0e5) Fixed logger, analytics and removed rbac stuff (#16)
+- [7aa2d1d2](https://github.com/kubedb/proxysql/commit/7aa2d1d2) Add rbac stuffs for mysql-exporter (#15)
+- [078098c8](https://github.com/kubedb/proxysql/commit/078098c8)  Review Mysql docker images and Fixed monitring (#14)
+- [6877108a](https://github.com/kubedb/proxysql/commit/6877108a) Update README.md
+- [1f84a5da](https://github.com/kubedb/proxysql/commit/1f84a5da) Start next dev cycle
+- [2f1e4b7d](https://github.com/kubedb/proxysql/commit/2f1e4b7d) Prepare release 0.1.0-beta.0
+- [dce1e88e](https://github.com/kubedb/proxysql/commit/dce1e88e) Add release script
+- [60ed55cb](https://github.com/kubedb/proxysql/commit/60ed55cb) Rename ms-operator to my-operator (#13)
+- [5451d166](https://github.com/kubedb/proxysql/commit/5451d166) Fix Analytics and pass client-id as ENV to Snapshot Job (#12)
+- [788ae178](https://github.com/kubedb/proxysql/commit/788ae178) update docker image validation (#11)
+- [c966efd5](https://github.com/kubedb/proxysql/commit/c966efd5) Add docker-registry and WorkQueue  (#10)
+- [be340103](https://github.com/kubedb/proxysql/commit/be340103) Set client id for analytics (#9)
+- [ca11f683](https://github.com/kubedb/proxysql/commit/ca11f683) Fix CRD Registration (#8)
+- [2f95c13d](https://github.com/kubedb/proxysql/commit/2f95c13d) Update issue repo link
+- [6fffa713](https://github.com/kubedb/proxysql/commit/6fffa713) Update pkg paths to kubedb org (#7)
+- [2d4d5c44](https://github.com/kubedb/proxysql/commit/2d4d5c44) Assign default Prometheus Monitoring Port (#6)
+- [a7595613](https://github.com/kubedb/proxysql/commit/a7595613) Add Snapshot Backup, Restore and Backup-Scheduler (#4)
+- [17a782c6](https://github.com/kubedb/proxysql/commit/17a782c6) Update Dockerfile
+- [e92bfec9](https://github.com/kubedb/proxysql/commit/e92bfec9) Add mysql-util docker image (#5)
+- [2a4b25ac](https://github.com/kubedb/proxysql/commit/2a4b25ac) Mysql db - Inititalizing  (#2)
+- [cbfbc878](https://github.com/kubedb/proxysql/commit/cbfbc878) Update README.md
+- [01cab651](https://github.com/kubedb/proxysql/commit/01cab651) Update README.md
+- [0aa81cdf](https://github.com/kubedb/proxysql/commit/0aa81cdf) Use client-go 5.x
+- [3de10d7f](https://github.com/kubedb/proxysql/commit/3de10d7f) Update ./hack folder (#3)
+- [46f05b1f](https://github.com/kubedb/proxysql/commit/46f05b1f) Add skeleton for mysql (#1)
+- [73147dba](https://github.com/kubedb/proxysql/commit/73147dba) Merge commit 'be70502b4993171bbad79d2ff89a9844f1c24caa' as 'hack/libbuild'
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.7.0](https://github.com/kubedb/redis/releases/tag/v0.7.0)

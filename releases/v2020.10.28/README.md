@@ -450,6 +450,13 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.7.0](https://github.com/kubedb/mysql/releases/tag/v0.7.0)
+
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.0](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.0)

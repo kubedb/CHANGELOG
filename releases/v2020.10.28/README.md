@@ -301,6 +301,13 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.14.0](https://github.com/kubedb/cli/releases/tag/v0.14.0)
+
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.0)

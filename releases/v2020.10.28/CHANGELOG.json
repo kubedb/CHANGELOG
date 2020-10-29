@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.10.28",
-  "release_date": "2020-10-29T06:11:48.664696705Z",
+  "release_date": "2020-10-29T06:30:09.746052574Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.10.28",
   "kubernetes_version": "1.14+",
@@ -2178,6 +2178,15 @@
               "Subject": "Start next dev cycle"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": null
         }
       ]
     },

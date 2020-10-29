@@ -563,6 +563,13 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.14.0](https://github.com/kubedb/installer/releases/tag/v0.14.0)
+
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.0](https://github.com/kubedb/memcached/releases/tag/v0.7.0)

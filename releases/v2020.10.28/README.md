@@ -873,6 +873,134 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.14.0](https://github.com/kubedb/operator/releases/tag/v0.14.0)
+
+- [22ee7d88](https://github.com/kubedb/operator/commit/22ee7d88) Prepare for release v0.14.0 (#337)
+- [cd4b5292](https://github.com/kubedb/operator/commit/cd4b5292) Update README.md
+- [a06c98d1](https://github.com/kubedb/operator/commit/a06c98d1) Prepare for release v0.14.0-rc.2 (#336)
+- [7a74c49c](https://github.com/kubedb/operator/commit/7a74c49c) Prepare for release v0.14.0-rc.1 (#335)
+- [7c0e97a2](https://github.com/kubedb/operator/commit/7c0e97a2) Prepare for release v0.14.0-beta.6 (#334)
+- [17b42fd3](https://github.com/kubedb/operator/commit/17b42fd3) Update KubeDB api (#333)
+- [6dbde882](https://github.com/kubedb/operator/commit/6dbde882) Update Kubernetes v1.18.9 dependencies (#332)
+- [ce62c61a](https://github.com/kubedb/operator/commit/ce62c61a) Use go.bytebuilders.dev/license-verifier v0.4.0
+- [bcada180](https://github.com/kubedb/operator/commit/bcada180) Prepare for release v0.14.0-beta.5 (#331)
+- [07d63285](https://github.com/kubedb/operator/commit/07d63285) Enable PgBoucner & ProxySQL for enterprise license (#330)
+- [35b75a05](https://github.com/kubedb/operator/commit/35b75a05) Update readme.md
+- [14304e05](https://github.com/kubedb/operator/commit/14304e05) Update KubeDB api (#329)
+- [df61aae3](https://github.com/kubedb/operator/commit/df61aae3) Update readme
+- [c9882619](https://github.com/kubedb/operator/commit/c9882619) Format readme
+- [73b725e3](https://github.com/kubedb/operator/commit/73b725e3) Update readme (#328)
+- [541c2460](https://github.com/kubedb/operator/commit/541c2460) Update repository config (#327)
+- [2145978d](https://github.com/kubedb/operator/commit/2145978d) Prepare for release v0.14.0-beta.4 (#326)
+- [8fd3b682](https://github.com/kubedb/operator/commit/8fd3b682) Add --readiness-probe-interval flag (#325)
+- [7bf0c3c5](https://github.com/kubedb/operator/commit/7bf0c3c5) Update KubeDB api (#324)
+- [25c7dc21](https://github.com/kubedb/operator/commit/25c7dc21) Update Kubernetes v1.18.9 dependencies (#323)
+- [bb7525d6](https://github.com/kubedb/operator/commit/bb7525d6) Update Kubernetes v1.18.9 dependencies (#321)
+- [6db45b57](https://github.com/kubedb/operator/commit/6db45b57) Update KubeDB api (#320)
+- [fa1438e3](https://github.com/kubedb/operator/commit/fa1438e3) Update KubeDB api (#319)
+- [6be49e7e](https://github.com/kubedb/operator/commit/6be49e7e) Update KubeDB api (#318)
+- [00bf9bec](https://github.com/kubedb/operator/commit/00bf9bec) Update Kubernetes v1.18.9 dependencies (#317)
+- [fd529403](https://github.com/kubedb/operator/commit/fd529403) Update KubeDB api (#316)
+- [f03305e1](https://github.com/kubedb/operator/commit/f03305e1) Update KubeDB api (#315)
+- [fb5e4873](https://github.com/kubedb/operator/commit/fb5e4873) Update KubeDB api (#312)
+- [f3843a05](https://github.com/kubedb/operator/commit/f3843a05) Update repository config (#311)
+- [18f29e73](https://github.com/kubedb/operator/commit/18f29e73) Update repository config (#310)
+- [25405c38](https://github.com/kubedb/operator/commit/25405c38) Update repository config (#309)
+- [e464d336](https://github.com/kubedb/operator/commit/e464d336) Update KubeDB api (#308)
+- [eeccd59e](https://github.com/kubedb/operator/commit/eeccd59e) Update Kubernetes v1.18.9 dependencies (#307)
+- [dd2f176f](https://github.com/kubedb/operator/commit/dd2f176f) Publish docker images to ghcr.io (#306)
+- [d65d299f](https://github.com/kubedb/operator/commit/d65d299f) Update KubeDB api (#305)
+- [3f681cef](https://github.com/kubedb/operator/commit/3f681cef) Update KubeDB api (#304)
+- [bc58d3d7](https://github.com/kubedb/operator/commit/bc58d3d7) Refactor initializer code + Use common event recorder (#292)
+- [952e1b33](https://github.com/kubedb/operator/commit/952e1b33) Update repository config (#301)
+- [66bee9c3](https://github.com/kubedb/operator/commit/66bee9c3) Update Kubernetes v1.18.9 dependencies (#300)
+- [4e508002](https://github.com/kubedb/operator/commit/4e508002) Update for release Stash@v2020.09.29 (#299)
+- [b6a4caa4](https://github.com/kubedb/operator/commit/b6a4caa4) Update Kubernetes v1.18.9 dependencies (#298)
+- [201aed32](https://github.com/kubedb/operator/commit/201aed32) Update Kubernetes v1.18.9 dependencies (#296)
+- [36ed325d](https://github.com/kubedb/operator/commit/36ed325d) Update repository config (#295)
+- [36ec3035](https://github.com/kubedb/operator/commit/36ec3035) Update repository config (#294)
+- [32e61f43](https://github.com/kubedb/operator/commit/32e61f43) Update Kubernetes v1.18.9 dependencies (#293)
+- [078e7062](https://github.com/kubedb/operator/commit/078e7062) Update Kubernetes v1.18.3 dependencies (#291)
+- [900626dd](https://github.com/kubedb/operator/commit/900626dd) Update Kubernetes v1.18.3 dependencies (#290)
+- [7bf1e16e](https://github.com/kubedb/operator/commit/7bf1e16e) Use AppsCode Community license (#289)
+- [ba436a4b](https://github.com/kubedb/operator/commit/ba436a4b) Add license verifier (#288)
+- [0a02a313](https://github.com/kubedb/operator/commit/0a02a313) Update for release Stash@v2020.09.16 (#287)
+- [9ae202e1](https://github.com/kubedb/operator/commit/9ae202e1) Update Kubernetes v1.18.3 dependencies (#286)
+- [5bea03b9](https://github.com/kubedb/operator/commit/5bea03b9) Update Kubernetes v1.18.3 dependencies (#284)
+- [b1375565](https://github.com/kubedb/operator/commit/b1375565) Update Kubernetes v1.18.3 dependencies (#282)
+- [a13ca48b](https://github.com/kubedb/operator/commit/a13ca48b) Prepare for release v0.14.0-beta.2 (#281)
+- [fc6c1e9e](https://github.com/kubedb/operator/commit/fc6c1e9e) Update Kubernetes v1.18.3 dependencies (#280)
+- [cd74716b](https://github.com/kubedb/operator/commit/cd74716b) Update Kubernetes v1.18.3 dependencies (#275)
+- [5b3c76ed](https://github.com/kubedb/operator/commit/5b3c76ed) Update Kubernetes v1.18.3 dependencies (#274)
+- [397a7e60](https://github.com/kubedb/operator/commit/397a7e60) Update Kubernetes v1.18.3 dependencies (#273)
+- [616ea78d](https://github.com/kubedb/operator/commit/616ea78d) Update Kubernetes v1.18.3 dependencies (#272)
+- [b7b0d2b9](https://github.com/kubedb/operator/commit/b7b0d2b9) Update Kubernetes v1.18.3 dependencies (#271)
+- [3afadb7a](https://github.com/kubedb/operator/commit/3afadb7a) Update Kubernetes v1.18.3 dependencies (#270)
+- [60b15632](https://github.com/kubedb/operator/commit/60b15632) Remove dependency on enterprise operator (#269)
+- [b3648cde](https://github.com/kubedb/operator/commit/b3648cde) Build images in e2e workflow (#268)
+- [73dee065](https://github.com/kubedb/operator/commit/73dee065) Update to Kubernetes v1.18.3 (#266)
+- [a8a42ab8](https://github.com/kubedb/operator/commit/a8a42ab8) Allow configuring k8s in e2e tests (#267)
+- [4b7d6ee3](https://github.com/kubedb/operator/commit/4b7d6ee3) Trigger e2e tests on /ok-to-test command (#265)
+- [024fc40a](https://github.com/kubedb/operator/commit/024fc40a) Update to Kubernetes v1.18.3 (#264)
+- [bd1da662](https://github.com/kubedb/operator/commit/bd1da662) Update to Kubernetes v1.18.3 (#263)
+- [a2bba612](https://github.com/kubedb/operator/commit/a2bba612) Prepare for release v0.14.0-beta.1 (#262)
+- [22bc85ec](https://github.com/kubedb/operator/commit/22bc85ec) Allow customizing chart registry (#261)
+- [52cc1dc7](https://github.com/kubedb/operator/commit/52cc1dc7) Update for release Stash@v2020.07.09-beta.0 (#260)
+- [2e8b709f](https://github.com/kubedb/operator/commit/2e8b709f) Update for release Stash@v2020.07.08-beta.0 (#259)
+- [7b58b548](https://github.com/kubedb/operator/commit/7b58b548) Update License (#258)
+- [d4cd1a93](https://github.com/kubedb/operator/commit/d4cd1a93) Update to Kubernetes v1.18.3 (#256)
+- [f6091845](https://github.com/kubedb/operator/commit/f6091845) Update ci.yml
+- [5324d2b6](https://github.com/kubedb/operator/commit/5324d2b6) Update ci.yml
+- [c888d7fd](https://github.com/kubedb/operator/commit/c888d7fd) Add workflow to update docs (#255)
+- [ba843e17](https://github.com/kubedb/operator/commit/ba843e17) Update update-release-tracker.sh
+- [b93c5ab4](https://github.com/kubedb/operator/commit/b93c5ab4) Update update-release-tracker.sh
+- [6b8d2149](https://github.com/kubedb/operator/commit/6b8d2149) Add script to update release tracker on pr merge (#254)
+- [bb1290dc](https://github.com/kubedb/operator/commit/bb1290dc) Update .kodiak.toml
+- [9bb85c3b](https://github.com/kubedb/operator/commit/9bb85c3b) Register validator & mutators for all supported dbs (#253)
+- [1a524d9c](https://github.com/kubedb/operator/commit/1a524d9c) Various fixes (#252)
+- [4860f2a7](https://github.com/kubedb/operator/commit/4860f2a7) Update to Kubernetes v1.18.3 (#251)
+- [1a163c6a](https://github.com/kubedb/operator/commit/1a163c6a) Create .kodiak.toml
+- [1eda36b9](https://github.com/kubedb/operator/commit/1eda36b9) Update to Kubernetes v1.18.3 (#247)
+- [77b8b858](https://github.com/kubedb/operator/commit/77b8b858) Update enterprise operator tag (#246)
+- [96ca876e](https://github.com/kubedb/operator/commit/96ca876e) Revendor kubedb.dev/apimachinery@master (#245)
+- [43a3a7f1](https://github.com/kubedb/operator/commit/43a3a7f1) Use recommended kubernetes app labels
+- [1ae7045f](https://github.com/kubedb/operator/commit/1ae7045f) Update crazy-max/ghaction-docker-buildx flag
+- [f25034ef](https://github.com/kubedb/operator/commit/f25034ef) Trigger the workflow on push or pull request
+- [ba486319](https://github.com/kubedb/operator/commit/ba486319) Update readme (#244)
+- [5f7191f4](https://github.com/kubedb/operator/commit/5f7191f4) Update CHANGELOG.md
+- [5b14af4b](https://github.com/kubedb/operator/commit/5b14af4b) Add license scan report and status (#241)
+- [9848932b](https://github.com/kubedb/operator/commit/9848932b) Pass the topology object to common controller
+- [90d1c873](https://github.com/kubedb/operator/commit/90d1c873) Initialize topology for MonogDB webhooks (#243)
+- [8ecb87c8](https://github.com/kubedb/operator/commit/8ecb87c8) Fix nil pointer exception (#242)
+- [b12c3392](https://github.com/kubedb/operator/commit/b12c3392) Update operator dependencies (#237)
+- [f714bb1b](https://github.com/kubedb/operator/commit/f714bb1b) Always create RBAC resources (#238)
+- [f43a588e](https://github.com/kubedb/operator/commit/f43a588e) Use Go 1.13 in CI
+- [e8ab3580](https://github.com/kubedb/operator/commit/e8ab3580) Update client-go to kubernetes-1.16.3 (#239)
+- [1dc84a67](https://github.com/kubedb/operator/commit/1dc84a67) Update CI badge
+- [d9d1cc0a](https://github.com/kubedb/operator/commit/d9d1cc0a) Bundle PgBouncer operator (#236)
+- [720303c1](https://github.com/kubedb/operator/commit/720303c1) Fix linter errors (#235)
+- [4c53a71f](https://github.com/kubedb/operator/commit/4c53a71f) Update go.yml
+- [e65fc457](https://github.com/kubedb/operator/commit/e65fc457) Enable GitHub actions
+- [2dcb0d6d](https://github.com/kubedb/operator/commit/2dcb0d6d) Update changelog
+- [1e407192](https://github.com/kubedb/operator/commit/1e407192) Remove linux/arm support
+- [b97a2028](https://github.com/kubedb/operator/commit/b97a2028) RestoreSession watcher added (#233)
+- [2cfbbb15](https://github.com/kubedb/operator/commit/2cfbbb15) Fix dev deployment script for operator (part-2) (#231)
+- [b673c6cc](https://github.com/kubedb/operator/commit/b673c6cc) Fix dev deployment script for operator (#228)
+- [ed7e2eb1](https://github.com/kubedb/operator/commit/ed7e2eb1) Fix build (#230)
+- [83123ce6](https://github.com/kubedb/operator/commit/83123ce6) Fix travis build
+- [cd2fb26c](https://github.com/kubedb/operator/commit/cd2fb26c) Change package path to kubedb.dev/operator (#229)
+- [375c1f2b](https://github.com/kubedb/operator/commit/375c1f2b) Fix #596 validating and mutating yaml file missing when run oper… (#227)
+- [c833a4f5](https://github.com/kubedb/operator/commit/c833a4f5) Update .gitignore
+- [b0de0a8f](https://github.com/kubedb/operator/commit/b0de0a8f) Fix calling `deploy/kubedb.sh` (#226)
+- [e528ace1](https://github.com/kubedb/operator/commit/e528ace1) Add make install, uninstall, purge commands (#225)
+- [1ce21404](https://github.com/kubedb/operator/commit/1ce21404) Add Makefile (#224)
+- [872801c0](https://github.com/kubedb/operator/commit/872801c0) Update to k8s 1.14.0 client libraries using go.mod (#223)
+- [95c8d2ee](https://github.com/kubedb/operator/commit/95c8d2ee) Start next dev cycle
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.1.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.1.0)

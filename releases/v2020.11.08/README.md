@@ -1,6 +1,20 @@
 # KubeDB v2020.11.08 (2020-11-09)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.1.1](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.1.1)
+
+- [99f6b7cf](https://github.com/appscode/kubedb-enterprise/commit/99f6b7cf) Prepare for release v0.1.1 (#94)
+- [ef26ef08](https://github.com/appscode/kubedb-enterprise/commit/ef26ef08) Fix elasticsearch cert-manager integration (#87)
+- [775a4b1c](https://github.com/appscode/kubedb-enterprise/commit/775a4b1c) Update license
+- [424dcade](https://github.com/appscode/kubedb-enterprise/commit/424dcade) Update Kubernetes v1.18.9 dependencies (#93)
+- [4b3a348b](https://github.com/appscode/kubedb-enterprise/commit/4b3a348b) Update Kubernetes v1.18.9 dependencies (#92)
+- [ec81a2c9](https://github.com/appscode/kubedb-enterprise/commit/ec81a2c9) Update Kubernetes v1.18.9 dependencies (#85)
+- [fcdf8afe](https://github.com/appscode/kubedb-enterprise/commit/fcdf8afe) Update KubeDB api (#89)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.14.1](https://github.com/kubedb/apimachinery/releases/tag/v0.14.1)

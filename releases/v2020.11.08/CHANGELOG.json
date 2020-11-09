@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T08:01:56.554886204Z",
+  "release_date": "2020-11-09T08:02:08.707602252Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
@@ -247,6 +247,64 @@
             {
               "SHA": "72c4b51",
               "Subject": "Update KubeDB api (#78)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.1.1",
+          "commits": [
+            {
+              "SHA": "aa216cf5",
+              "Subject": "Prepare for release v0.1.1 (#134)"
+            },
+            {
+              "SHA": "d43b87a3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#133)"
+            },
+            {
+              "SHA": "1a354dba",
+              "Subject": "Update KubeDB api (#132)"
+            },
+            {
+              "SHA": "808366cc",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#131)"
+            },
+            {
+              "SHA": "adb44379",
+              "Subject": "Update KubeDB api (#130)"
+            },
+            {
+              "SHA": "6d6188de",
+              "Subject": "Update for release Stash@v2020.11.06 (#129)"
+            },
+            {
+              "SHA": "8d3eaa37",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#128)"
+            },
+            {
+              "SHA": "5f7253b6",
+              "Subject": "Update KubeDB api (#126)"
+            },
+            {
+              "SHA": "43f10d83",
+              "Subject": "Update KubeDB api (#125)"
+            },
+            {
+              "SHA": "91940395",
+              "Subject": "Update for release Stash@v2020.10.30 (#124)"
+            },
+            {
+              "SHA": "eba69286",
+              "Subject": "Update KubeDB api (#123)"
+            },
+            {
+              "SHA": "a4dd87ba",
+              "Subject": "Update for release Stash@v2020.10.29 (#122)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T07:50:10.215363894Z",
+  "release_date": "2020-11-09T07:57:43.354318592Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
@@ -35,6 +35,64 @@
             {
               "SHA": "a0cc0f91",
               "Subject": "Update for release Stash@v2020.10.29 (#637)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "bfd7e528",
+              "Subject": "Prepare for release v0.14.1 (#545)"
+            },
+            {
+              "SHA": "594d1972",
+              "Subject": "Update KubeDB api (#544)"
+            },
+            {
+              "SHA": "feece297",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#543)"
+            },
+            {
+              "SHA": "ce8bfd0d",
+              "Subject": "Update KubeDB api (#542)"
+            },
+            {
+              "SHA": "3b9ee772",
+              "Subject": "Update for release Stash@v2020.11.06 (#541)"
+            },
+            {
+              "SHA": "8b2623a6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#540)"
+            },
+            {
+              "SHA": "4d348dbd",
+              "Subject": "Replace appscode/go with gomodules.xyz/x"
+            },
+            {
+              "SHA": "aeaa8c4f",
+              "Subject": "Update KubeDB api (#539)"
+            },
+            {
+              "SHA": "1b4beb54",
+              "Subject": "Update KubeDB api (#538)"
+            },
+            {
+              "SHA": "5f42fa04",
+              "Subject": "Update for release Stash@v2020.10.30 (#537)"
+            },
+            {
+              "SHA": "af3f537d",
+              "Subject": "Update KubeDB api (#536)"
+            },
+            {
+              "SHA": "ca9941f5",
+              "Subject": "Update for release Stash@v2020.10.29 (#535)"
             }
           ]
         }

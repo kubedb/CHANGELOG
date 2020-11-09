@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T09:39:24.269786431Z",
+  "release_date": "2020-11-09T09:58:34.229388689Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
@@ -189,6 +189,100 @@
             {
               "SHA": "7214b539",
               "Subject": "Update for release Stash@v2020.10.29 (#398)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "0554b96",
+              "Subject": "Prepare for release v0.14.1 (#200)"
+            },
+            {
+              "SHA": "abb9984",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#199)"
+            },
+            {
+              "SHA": "cd8a787",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#198)"
+            },
+            {
+              "SHA": "06394de",
+              "Subject": "Replace appscode/go with gomodules.xyz/x (#197)"
+            },
+            {
+              "SHA": "94aef68",
+              "Subject": "Update KubeDB api (#196)"
+            },
+            {
+              "SHA": "881688a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#195)"
+            },
+            {
+              "SHA": "933af3d",
+              "Subject": "Update KubeDB api (#194)"
+            },
+            {
+              "SHA": "377d367",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#193)"
+            },
+            {
+              "SHA": "a8f33f4",
+              "Subject": "Update KubeDB api (#192)"
+            },
+            {
+              "SHA": "3120c97",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#191)"
+            },
+            {
+              "SHA": "abd119e",
+              "Subject": "Update KubeDB api (#190)"
+            },
+            {
+              "SHA": "a63008c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#189)"
+            },
+            {
+              "SHA": "ae97c7e",
+              "Subject": "Update KubeDB api (#188)"
+            },
+            {
+              "SHA": "e698985",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#187)"
+            },
+            {
+              "SHA": "42b8da0",
+              "Subject": "Update KubeDB api (#186)"
+            },
+            {
+              "SHA": "51b229c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#185)"
+            },
+            {
+              "SHA": "0bf41c1",
+              "Subject": "Update KubeDB api (#184)"
+            },
+            {
+              "SHA": "cd8e61e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#183)"
+            },
+            {
+              "SHA": "57da8dc",
+              "Subject": "Update KubeDB api (#182)"
+            },
+            {
+              "SHA": "c087bab",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#181)"
+            },
+            {
+              "SHA": "209a567",
+              "Subject": "Update KubeDB api (#180)"
             }
           ]
         }

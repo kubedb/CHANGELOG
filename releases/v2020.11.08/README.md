@@ -66,6 +66,34 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.14.1](https://github.com/kubedb/installer/releases/tag/v0.14.1)
+
+- [0554b96](https://github.com/kubedb/installer/commit/0554b96) Prepare for release v0.14.1 (#200)
+- [abb9984](https://github.com/kubedb/installer/commit/abb9984) Update Kubernetes v1.18.9 dependencies (#199)
+- [cd8a787](https://github.com/kubedb/installer/commit/cd8a787) Update Kubernetes v1.18.9 dependencies (#198)
+- [06394de](https://github.com/kubedb/installer/commit/06394de) Replace appscode/go with gomodules.xyz/x (#197)
+- [94aef68](https://github.com/kubedb/installer/commit/94aef68) Update KubeDB api (#196)
+- [881688a](https://github.com/kubedb/installer/commit/881688a) Update Kubernetes v1.18.9 dependencies (#195)
+- [933af3d](https://github.com/kubedb/installer/commit/933af3d) Update KubeDB api (#194)
+- [377d367](https://github.com/kubedb/installer/commit/377d367) Update Kubernetes v1.18.9 dependencies (#193)
+- [a8f33f4](https://github.com/kubedb/installer/commit/a8f33f4) Update KubeDB api (#192)
+- [3120c97](https://github.com/kubedb/installer/commit/3120c97) Update Kubernetes v1.18.9 dependencies (#191)
+- [abd119e](https://github.com/kubedb/installer/commit/abd119e) Update KubeDB api (#190)
+- [a63008c](https://github.com/kubedb/installer/commit/a63008c) Update Kubernetes v1.18.9 dependencies (#189)
+- [ae97c7e](https://github.com/kubedb/installer/commit/ae97c7e) Update KubeDB api (#188)
+- [e698985](https://github.com/kubedb/installer/commit/e698985) Update Kubernetes v1.18.9 dependencies (#187)
+- [42b8da0](https://github.com/kubedb/installer/commit/42b8da0) Update KubeDB api (#186)
+- [51b229c](https://github.com/kubedb/installer/commit/51b229c) Update Kubernetes v1.18.9 dependencies (#185)
+- [0bf41c1](https://github.com/kubedb/installer/commit/0bf41c1) Update KubeDB api (#184)
+- [cd8e61e](https://github.com/kubedb/installer/commit/cd8e61e) Update Kubernetes v1.18.9 dependencies (#183)
+- [57da8dc](https://github.com/kubedb/installer/commit/57da8dc) Update KubeDB api (#182)
+- [c087bab](https://github.com/kubedb/installer/commit/c087bab) Update Kubernetes v1.18.9 dependencies (#181)
+- [209a567](https://github.com/kubedb/installer/commit/209a567) Update KubeDB api (#180)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.1](https://github.com/kubedb/memcached/releases/tag/v0.7.1)

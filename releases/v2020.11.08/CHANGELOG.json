@@ -1,0 +1,44 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.11.08",
+  "release_date": "2020-11-09T07:48:45.429478746Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.11.08",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "52b04a20",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#643)"
+            },
+            {
+              "SHA": "1c8d3ff8",
+              "Subject": "Update for release Stash@v2020.11.06 (#642)"
+            },
+            {
+              "SHA": "750e5762",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#641)"
+            },
+            {
+              "SHA": "f74effb9",
+              "Subject": "Use modified UpdateStatus & Invoker utils (#640)"
+            },
+            {
+              "SHA": "92af33bd",
+              "Subject": "Update for release Stash@v2020.10.30 (#638)"
+            },
+            {
+              "SHA": "a0cc0f91",
+              "Subject": "Update for release Stash@v2020.10.29 (#637)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

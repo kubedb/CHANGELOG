@@ -171,6 +171,25 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.1.1](https://github.com/kubedb/proxysql/releases/tag/v0.1.1)
+
+- [a196a5bf](https://github.com/kubedb/proxysql/commit/a196a5bf) Prepare for release v0.1.1 (#116)
+- [eaba8cd8](https://github.com/kubedb/proxysql/commit/eaba8cd8) Update Kubernetes v1.18.9 dependencies (#115)
+- [c6042baf](https://github.com/kubedb/proxysql/commit/c6042baf) Update KubeDB api (#114)
+- [4ad769e3](https://github.com/kubedb/proxysql/commit/4ad769e3) Update Kubernetes v1.18.9 dependencies (#113)
+- [f57b4971](https://github.com/kubedb/proxysql/commit/f57b4971) Update KubeDB api (#112)
+- [b44e67be](https://github.com/kubedb/proxysql/commit/b44e67be) Update for release Stash@v2020.11.06 (#111)
+- [f3f33efa](https://github.com/kubedb/proxysql/commit/f3f33efa) Update Kubernetes v1.18.9 dependencies (#110)
+- [dff77ecf](https://github.com/kubedb/proxysql/commit/dff77ecf) Update KubeDB api (#108)
+- [7cbcfeee](https://github.com/kubedb/proxysql/commit/7cbcfeee) Update KubeDB api (#107)
+- [49099b45](https://github.com/kubedb/proxysql/commit/49099b45) Update for release Stash@v2020.10.30 (#106)
+- [4b337417](https://github.com/kubedb/proxysql/commit/4b337417) Update KubeDB api (#105)
+- [cebf6eee](https://github.com/kubedb/proxysql/commit/cebf6eee) Update for release Stash@v2020.10.29 (#104)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.7.1](https://github.com/kubedb/redis/releases/tag/v0.7.1)

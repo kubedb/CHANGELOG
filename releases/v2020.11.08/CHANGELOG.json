@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T08:02:50.371896176Z",
+  "release_date": "2020-11-09T08:03:23.186735601Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
@@ -93,6 +93,64 @@
             {
               "SHA": "ca9941f5",
               "Subject": "Update for release Stash@v2020.10.29 (#535)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "833f9a84",
+              "Subject": "Prepare for release v0.14.1 (#410)"
+            },
+            {
+              "SHA": "3451691f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#409)"
+            },
+            {
+              "SHA": "0106be92",
+              "Subject": "Update KubeDB api (#408)"
+            },
+            {
+              "SHA": "04047c59",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#407)"
+            },
+            {
+              "SHA": "237b74b8",
+              "Subject": "Update KubeDB api (#406)"
+            },
+            {
+              "SHA": "a607ca4f",
+              "Subject": "Update for release Stash@v2020.11.06 (#405)"
+            },
+            {
+              "SHA": "8a34c770",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#404)"
+            },
+            {
+              "SHA": "6cad9476",
+              "Subject": "Update KubeDB api (#403)"
+            },
+            {
+              "SHA": "a8694072",
+              "Subject": "Update KubeDB api (#401)"
+            },
+            {
+              "SHA": "5d89e4e4",
+              "Subject": "Update for release Stash@v2020.10.30 (#400)"
+            },
+            {
+              "SHA": "389007fa",
+              "Subject": "Update KubeDB api (#399)"
+            },
+            {
+              "SHA": "7214b539",
+              "Subject": "Update for release Stash@v2020.10.29 (#398)"
             }
           ]
         }

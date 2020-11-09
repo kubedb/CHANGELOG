@@ -33,6 +33,22 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.7.1](https://github.com/kubedb/memcached/releases/tag/v0.7.1)
+
+- [f54d5d75](https://github.com/kubedb/memcached/commit/f54d5d75) Prepare for release v0.7.1 (#239)
+- [75a22c4b](https://github.com/kubedb/memcached/commit/75a22c4b) Update Kubernetes v1.18.9 dependencies (#238)
+- [8b891213](https://github.com/kubedb/memcached/commit/8b891213) Update KubeDB api (#237)
+- [6f712c71](https://github.com/kubedb/memcached/commit/6f712c71) Update Kubernetes v1.18.9 dependencies (#236)
+- [78dfd6e4](https://github.com/kubedb/memcached/commit/78dfd6e4) Update KubeDB api (#235)
+- [07c3ef2c](https://github.com/kubedb/memcached/commit/07c3ef2c) Update Kubernetes v1.18.9 dependencies (#234)
+- [d9093f08](https://github.com/kubedb/memcached/commit/d9093f08) Update KubeDB api (#232)
+- [7ba3816d](https://github.com/kubedb/memcached/commit/7ba3816d) Update KubeDB api (#231)
+- [bdd430ea](https://github.com/kubedb/memcached/commit/bdd430ea) Update KubeDB api (#230)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.1](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.1)

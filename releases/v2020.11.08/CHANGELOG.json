@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T08:01:32.027607816Z",
+  "release_date": "2020-11-09T08:01:45.471122731Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
@@ -93,6 +93,52 @@
             {
               "SHA": "ca9941f5",
               "Subject": "Update for release Stash@v2020.10.29 (#535)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.7.1",
+          "commits": [
+            {
+              "SHA": "f54d5d75",
+              "Subject": "Prepare for release v0.7.1 (#239)"
+            },
+            {
+              "SHA": "75a22c4b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#238)"
+            },
+            {
+              "SHA": "8b891213",
+              "Subject": "Update KubeDB api (#237)"
+            },
+            {
+              "SHA": "6f712c71",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#236)"
+            },
+            {
+              "SHA": "78dfd6e4",
+              "Subject": "Update KubeDB api (#235)"
+            },
+            {
+              "SHA": "07c3ef2c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#234)"
+            },
+            {
+              "SHA": "d9093f08",
+              "Subject": "Update KubeDB api (#232)"
+            },
+            {
+              "SHA": "7ba3816d",
+              "Subject": "Update KubeDB api (#231)"
+            },
+            {
+              "SHA": "bdd430ea",
+              "Subject": "Update KubeDB api (#230)"
             }
           ]
         }

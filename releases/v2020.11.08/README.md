@@ -14,6 +14,25 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.14.1](https://github.com/kubedb/cli/releases/tag/v0.14.1)
+
+- [bfd7e528](https://github.com/kubedb/cli/commit/bfd7e528) Prepare for release v0.14.1 (#545)
+- [594d1972](https://github.com/kubedb/cli/commit/594d1972) Update KubeDB api (#544)
+- [feece297](https://github.com/kubedb/cli/commit/feece297) Update Kubernetes v1.18.9 dependencies (#543)
+- [ce8bfd0d](https://github.com/kubedb/cli/commit/ce8bfd0d) Update KubeDB api (#542)
+- [3b9ee772](https://github.com/kubedb/cli/commit/3b9ee772) Update for release Stash@v2020.11.06 (#541)
+- [8b2623a6](https://github.com/kubedb/cli/commit/8b2623a6) Update Kubernetes v1.18.9 dependencies (#540)
+- [4d348dbd](https://github.com/kubedb/cli/commit/4d348dbd) Replace appscode/go with gomodules.xyz/x
+- [aeaa8c4f](https://github.com/kubedb/cli/commit/aeaa8c4f) Update KubeDB api (#539)
+- [1b4beb54](https://github.com/kubedb/cli/commit/1b4beb54) Update KubeDB api (#538)
+- [5f42fa04](https://github.com/kubedb/cli/commit/5f42fa04) Update for release Stash@v2020.10.30 (#537)
+- [af3f537d](https://github.com/kubedb/cli/commit/af3f537d) Update KubeDB api (#536)
+- [ca9941f5](https://github.com/kubedb/cli/commit/ca9941f5) Update for release Stash@v2020.10.29 (#535)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.1)

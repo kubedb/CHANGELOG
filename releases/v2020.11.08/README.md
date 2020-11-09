@@ -33,6 +33,23 @@
 
 
 
+## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
+
+### [v0.1.1](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.1)
+
+- [deb9723](https://github.com/kubedb/mysql-replication-mode-detector/commit/deb9723) Prepare for release v0.1.1 (#87)
+- [b3d2d53](https://github.com/kubedb/mysql-replication-mode-detector/commit/b3d2d53) Replace appscode/go with gomodules.xyz/x (#82)
+- [4ae0f5e](https://github.com/kubedb/mysql-replication-mode-detector/commit/4ae0f5e) Update KubeDB api (#86)
+- [e65fdbf](https://github.com/kubedb/mysql-replication-mode-detector/commit/e65fdbf) Update Kubernetes v1.18.9 dependencies (#85)
+- [21db0b0](https://github.com/kubedb/mysql-replication-mode-detector/commit/21db0b0) Update KubeDB api (#84)
+- [ca326c2](https://github.com/kubedb/mysql-replication-mode-detector/commit/ca326c2) Update Kubernetes v1.18.9 dependencies (#83)
+- [1387bd2](https://github.com/kubedb/mysql-replication-mode-detector/commit/1387bd2) Update KubeDB api (#81)
+- [4fd3dc6](https://github.com/kubedb/mysql-replication-mode-detector/commit/4fd3dc6) Remove primary role from previous master pod and update query  (#80)
+- [552b9b9](https://github.com/kubedb/mysql-replication-mode-detector/commit/552b9b9) Update KubeDB api (#79)
+- [72c4b51](https://github.com/kubedb/mysql-replication-mode-detector/commit/72c4b51) Update KubeDB api (#78)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.2.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.2.1)

@@ -33,6 +33,25 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.14.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.1)
+
+- [833f9a84](https://github.com/kubedb/elasticsearch/commit/833f9a84) Prepare for release v0.14.1 (#410)
+- [3451691f](https://github.com/kubedb/elasticsearch/commit/3451691f) Update Kubernetes v1.18.9 dependencies (#409)
+- [0106be92](https://github.com/kubedb/elasticsearch/commit/0106be92) Update KubeDB api (#408)
+- [04047c59](https://github.com/kubedb/elasticsearch/commit/04047c59) Update Kubernetes v1.18.9 dependencies (#407)
+- [237b74b8](https://github.com/kubedb/elasticsearch/commit/237b74b8) Update KubeDB api (#406)
+- [a607ca4f](https://github.com/kubedb/elasticsearch/commit/a607ca4f) Update for release Stash@v2020.11.06 (#405)
+- [8a34c770](https://github.com/kubedb/elasticsearch/commit/8a34c770) Update Kubernetes v1.18.9 dependencies (#404)
+- [6cad9476](https://github.com/kubedb/elasticsearch/commit/6cad9476) Update KubeDB api (#403)
+- [a8694072](https://github.com/kubedb/elasticsearch/commit/a8694072) Update KubeDB api (#401)
+- [5d89e4e4](https://github.com/kubedb/elasticsearch/commit/5d89e4e4) Update for release Stash@v2020.10.30 (#400)
+- [389007fa](https://github.com/kubedb/elasticsearch/commit/389007fa) Update KubeDB api (#399)
+- [7214b539](https://github.com/kubedb/elasticsearch/commit/7214b539) Update for release Stash@v2020.10.29 (#398)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.7.1](https://github.com/kubedb/memcached/releases/tag/v0.7.1)

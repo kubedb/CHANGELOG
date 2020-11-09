@@ -152,6 +152,22 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.1.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.1.1)
+
+- [1b646d91](https://github.com/kubedb/pgbouncer/commit/1b646d91) Prepare for release v0.1.1 (#104)
+- [3c48a58e](https://github.com/kubedb/pgbouncer/commit/3c48a58e) Update Kubernetes v1.18.9 dependencies (#103)
+- [906649e4](https://github.com/kubedb/pgbouncer/commit/906649e4) Update KubeDB api (#102)
+- [5b245f73](https://github.com/kubedb/pgbouncer/commit/5b245f73) Update Kubernetes v1.18.9 dependencies (#101)
+- [41f6c693](https://github.com/kubedb/pgbouncer/commit/41f6c693) Update KubeDB api (#100)
+- [63cbbc07](https://github.com/kubedb/pgbouncer/commit/63cbbc07) Update Kubernetes v1.18.9 dependencies (#99)
+- [36a100b6](https://github.com/kubedb/pgbouncer/commit/36a100b6) Update KubeDB api (#97)
+- [dd9beb65](https://github.com/kubedb/pgbouncer/commit/dd9beb65) Update KubeDB api (#96)
+- [2e24a612](https://github.com/kubedb/pgbouncer/commit/2e24a612) Update KubeDB api (#95)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.14.1](https://github.com/kubedb/postgres/releases/tag/v0.14.1)

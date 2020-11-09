@@ -49,6 +49,25 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.7.1](https://github.com/kubedb/mongodb/releases/tag/v0.7.1)
+
+- [0ab674f8](https://github.com/kubedb/mongodb/commit/0ab674f8) Prepare for release v0.7.1 (#313)
+- [9ef6fd1f](https://github.com/kubedb/mongodb/commit/9ef6fd1f) Update Kubernetes v1.18.9 dependencies (#312)
+- [6a943688](https://github.com/kubedb/mongodb/commit/6a943688) Update KubeDB api (#311)
+- [15cbc825](https://github.com/kubedb/mongodb/commit/15cbc825) Update Kubernetes v1.18.9 dependencies (#310)
+- [92b6f366](https://github.com/kubedb/mongodb/commit/92b6f366) Update KubeDB api (#309)
+- [218a9ff5](https://github.com/kubedb/mongodb/commit/218a9ff5) Update for release Stash@v2020.11.06 (#308)
+- [9f4bade4](https://github.com/kubedb/mongodb/commit/9f4bade4) Update Kubernetes v1.18.9 dependencies (#307)
+- [4e088452](https://github.com/kubedb/mongodb/commit/4e088452) Update KubeDB api (#306)
+- [f06df599](https://github.com/kubedb/mongodb/commit/f06df599) Update KubeDB api (#303)
+- [3b402637](https://github.com/kubedb/mongodb/commit/3b402637) Update for release Stash@v2020.10.30 (#302)
+- [29fb006f](https://github.com/kubedb/mongodb/commit/29fb006f) Update KubeDB api (#301)
+- [dcbd397b](https://github.com/kubedb/mongodb/commit/dcbd397b) Update for release Stash@v2020.10.29 (#300)
+
+
+
 ## [kubedb/mysql-replication-mode-detector](https://github.com/kubedb/mysql-replication-mode-detector)
 
 ### [v0.1.1](https://github.com/kubedb/mysql-replication-mode-detector/releases/tag/v0.1.1)

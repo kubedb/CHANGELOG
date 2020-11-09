@@ -60,3 +60,22 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.14.1](https://github.com/kubedb/postgres/releases/tag/v0.14.1)
+
+- [0482db11](https://github.com/kubedb/postgres/commit/0482db11) Prepare for release v0.14.1 (#420)
+- [ac8eeb4b](https://github.com/kubedb/postgres/commit/ac8eeb4b) Update Kubernetes v1.18.9 dependencies (#419)
+- [9fdb427e](https://github.com/kubedb/postgres/commit/9fdb427e) Update KubeDB api (#418)
+- [fbed9716](https://github.com/kubedb/postgres/commit/fbed9716) Update Kubernetes v1.18.9 dependencies (#417)
+- [a0a639c0](https://github.com/kubedb/postgres/commit/a0a639c0) Update KubeDB api (#416)
+- [c6a6416a](https://github.com/kubedb/postgres/commit/c6a6416a) Update for release Stash@v2020.11.06 (#415)
+- [0f5ad475](https://github.com/kubedb/postgres/commit/0f5ad475) Update Kubernetes v1.18.9 dependencies (#414)
+- [7db04cdd](https://github.com/kubedb/postgres/commit/7db04cdd) Update KubeDB api (#412)
+- [3ce64913](https://github.com/kubedb/postgres/commit/3ce64913) Update KubeDB api (#411)
+- [12cf4b77](https://github.com/kubedb/postgres/commit/12cf4b77) Update for release Stash@v2020.10.30 (#410)
+- [f319590f](https://github.com/kubedb/postgres/commit/f319590f) Update KubeDB api (#409)
+- [6bd61adf](https://github.com/kubedb/postgres/commit/6bd61adf) Update for release Stash@v2020.10.29 (#408)
+
+
+

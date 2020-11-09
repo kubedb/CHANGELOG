@@ -47,6 +47,17 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2020.11.08](https://github.com/kubedb/docs/releases/tag/v2020.11.08)
+
+- [604627d](https://github.com/kubedb/docs/commit/604627d) Prepare for release v2020.11.08 (#77)
+- [70a2b15](https://github.com/kubedb/docs/commit/70a2b15) Update docs for kubedb/operator@9e12a91f (#76)
+- [e4521c9](https://github.com/kubedb/docs/commit/e4521c9) Update docs for kubedb/cli@aeaa8c4f (#74)
+- [788c939](https://github.com/kubedb/docs/commit/788c939) Update docs for kubedb/cli@4d348dbd (#75)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.14.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.14.1)

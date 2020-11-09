@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T09:58:34.229388689Z",
+  "release_date": "2020-11-09T10:11:19.666208239Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
@@ -131,6 +131,32 @@
             {
               "SHA": "ca9941f5",
               "Subject": "Update for release Stash@v2020.10.29 (#535)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2020.11.08",
+          "commits": [
+            {
+              "SHA": "604627d",
+              "Subject": "Prepare for release v2020.11.08 (#77)"
+            },
+            {
+              "SHA": "70a2b15",
+              "Subject": "Update docs for kubedb/operator@9e12a91f (#76)"
+            },
+            {
+              "SHA": "e4521c9",
+              "Subject": "Update docs for kubedb/cli@aeaa8c4f (#74)"
+            },
+            {
+              "SHA": "788c939",
+              "Subject": "Update docs for kubedb/cli@4d348dbd (#75)"
             }
           ]
         }

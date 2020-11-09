@@ -1,11 +1,49 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T08:25:24.204839352Z",
+  "release_date": "2020-11-09T09:39:24.269786431Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.1.1",
+          "commits": [
+            {
+              "SHA": "99f6b7cf",
+              "Subject": "Prepare for release v0.1.1 (#94)"
+            },
+            {
+              "SHA": "ef26ef08",
+              "Subject": "Fix elasticsearch cert-manager integration (#87)"
+            },
+            {
+              "SHA": "775a4b1c",
+              "Subject": "Update license"
+            },
+            {
+              "SHA": "424dcade",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#93)"
+            },
+            {
+              "SHA": "4b3a348b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#92)"
+            },
+            {
+              "SHA": "ec81a2c9",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#85)"
+            },
+            {
+              "SHA": "fcdf8afe",
+              "Subject": "Update KubeDB api (#89)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

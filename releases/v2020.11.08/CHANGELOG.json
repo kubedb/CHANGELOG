@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T08:02:08.707602252Z",
+  "release_date": "2020-11-09T08:02:50.371896176Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
@@ -197,6 +197,64 @@
             {
               "SHA": "dcbd397b",
               "Subject": "Update for release Stash@v2020.10.29 (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.7.1",
+          "commits": [
+            {
+              "SHA": "e7cd0f88",
+              "Subject": "Prepare for release v0.7.1 (#302)"
+            },
+            {
+              "SHA": "9eac462f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#301)"
+            },
+            {
+              "SHA": "b2e6ecf0",
+              "Subject": "Update KubeDB api (#300)"
+            },
+            {
+              "SHA": "79fd9699",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#299)"
+            },
+            {
+              "SHA": "b5973719",
+              "Subject": "Update KubeDB api (#298)"
+            },
+            {
+              "SHA": "499082d5",
+              "Subject": "Update for release Stash@v2020.11.06 (#297)"
+            },
+            {
+              "SHA": "7528f7a5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#296)"
+            },
+            {
+              "SHA": "99beba22",
+              "Subject": "Update KubeDB api (#294)"
+            },
+            {
+              "SHA": "ec714efd",
+              "Subject": "Update KubeDB api (#293)"
+            },
+            {
+              "SHA": "4c0b30a3",
+              "Subject": "Update for release Stash@v2020.10.30 (#292)"
+            },
+            {
+              "SHA": "e307ecb3",
+              "Subject": "Update KubeDB api (#291)"
+            },
+            {
+              "SHA": "05c64bd6",
+              "Subject": "Update for release Stash@v2020.10.29 (#290)"
             }
           ]
         }

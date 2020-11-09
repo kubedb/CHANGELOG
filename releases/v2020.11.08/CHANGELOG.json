@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T07:48:45.429478746Z",
+  "release_date": "2020-11-09T07:50:10.215363894Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
@@ -35,6 +35,28 @@
             {
               "SHA": "a0cc0f91",
               "Subject": "Update for release Stash@v2020.10.29 (#637)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.2.1",
+          "commits": [
+            {
+              "SHA": "bb6b5d6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#40)"
+            },
+            {
+              "SHA": "1291b2f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#39)"
+            },
+            {
+              "SHA": "41dc2c9",
+              "Subject": "Update KubeDB api (#38)"
             }
           ]
         }

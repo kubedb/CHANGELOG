@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.08",
-  "release_date": "2020-11-09T08:14:55.564141792Z",
+  "release_date": "2020-11-09T08:25:24.204839352Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.08",
   "kubernetes_version": "1.14+",
@@ -363,6 +363,52 @@
             {
               "SHA": "72c4b51",
               "Subject": "Update KubeDB api (#78)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "fb31bcf3",
+              "Subject": "Prepare for release v0.14.1 (#347)"
+            },
+            {
+              "SHA": "f9e6e5eb",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#346)"
+            },
+            {
+              "SHA": "0cd46325",
+              "Subject": "Update KubeDB api (#345)"
+            },
+            {
+              "SHA": "782c00c6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#344)"
+            },
+            {
+              "SHA": "33765457",
+              "Subject": "Update KubeDB api (#343)"
+            },
+            {
+              "SHA": "ff815850",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#342)"
+            },
+            {
+              "SHA": "9e12a91f",
+              "Subject": "Update KubeDB api (#340)"
+            },
+            {
+              "SHA": "729298df",
+              "Subject": "Update KubeDB api (#339)"
+            },
+            {
+              "SHA": "ccc55504",
+              "Subject": "Update KubeDB api (#338)"
             }
           ]
         }

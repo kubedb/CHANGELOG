@@ -171,3 +171,19 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.7.1](https://github.com/kubedb/redis/releases/tag/v0.7.1)
+
+- [5827be9a](https://github.com/kubedb/redis/commit/5827be9a) Prepare for release v0.7.1 (#258)
+- [893f4573](https://github.com/kubedb/redis/commit/893f4573) Update Kubernetes v1.18.9 dependencies (#257)
+- [1f3ba044](https://github.com/kubedb/redis/commit/1f3ba044) Update KubeDB api (#256)
+- [b824d122](https://github.com/kubedb/redis/commit/b824d122) Update Kubernetes v1.18.9 dependencies (#255)
+- [5783c135](https://github.com/kubedb/redis/commit/5783c135) Update KubeDB api (#254)
+- [dc7e3986](https://github.com/kubedb/redis/commit/dc7e3986) Update Kubernetes v1.18.9 dependencies (#253)
+- [83acb92a](https://github.com/kubedb/redis/commit/83acb92a) Update KubeDB api (#252)
+- [ee967c20](https://github.com/kubedb/redis/commit/ee967c20) Update KubeDB api (#251)
+- [9706ea8e](https://github.com/kubedb/redis/commit/9706ea8e) Update KubeDB api (#249)
+
+
+

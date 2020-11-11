@@ -28,6 +28,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.15.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.15.0)
+
+- [bffb46a0](https://github.com/kubedb/elasticsearch/commit/bffb46a0) Prepare for release v0.15.0 (#414)
+- [8915b7b5](https://github.com/kubedb/elasticsearch/commit/8915b7b5) Update KubeDB api (#413)
+- [6a95dbf1](https://github.com/kubedb/elasticsearch/commit/6a95dbf1) Allow stats service patching
+- [93b8501c](https://github.com/kubedb/elasticsearch/commit/93b8501c) Use separate ServiceTemplate for each service (#412)
+- [87ba4941](https://github.com/kubedb/elasticsearch/commit/87ba4941) Use container name as constant (#402)
+- [a1b6343a](https://github.com/kubedb/elasticsearch/commit/a1b6343a) Update KubeDB api (#411)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.8.0](https://github.com/kubedb/memcached/releases/tag/v0.8.0)

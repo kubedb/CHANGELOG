@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.11",
-  "release_date": "2020-11-11T19:35:33.793328548Z",
+  "release_date": "2020-11-11T19:36:15.569702658Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.11",
   "kubernetes_version": "1.14+",
@@ -73,6 +73,40 @@
             {
               "SHA": "56429d25",
               "Subject": "Update KubeDB api (#546)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "bffb46a0",
+              "Subject": "Prepare for release v0.15.0 (#414)"
+            },
+            {
+              "SHA": "8915b7b5",
+              "Subject": "Update KubeDB api (#413)"
+            },
+            {
+              "SHA": "6a95dbf1",
+              "Subject": "Allow stats service patching"
+            },
+            {
+              "SHA": "93b8501c",
+              "Subject": "Use separate ServiceTemplate for each service (#412)"
+            },
+            {
+              "SHA": "87ba4941",
+              "Subject": "Use container name as constant (#402)"
+            },
+            {
+              "SHA": "a1b6343a",
+              "Subject": "Update KubeDB api (#411)"
             }
           ]
         }

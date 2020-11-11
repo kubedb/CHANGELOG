@@ -28,6 +28,20 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.8.0](https://github.com/kubedb/mongodb/releases/tag/v0.8.0)
+
+- [3b0f1d08](https://github.com/kubedb/mongodb/commit/3b0f1d08) Prepare for release v0.8.0 (#318)
+- [b3685ab8](https://github.com/kubedb/mongodb/commit/b3685ab8) Update KubeDB api (#317)
+- [bf9d872c](https://github.com/kubedb/mongodb/commit/bf9d872c) Allow stats service patching
+- [183f1ac3](https://github.com/kubedb/mongodb/commit/183f1ac3) Use separate ServiceTemplate for each service (#315)
+- [3d105d2a](https://github.com/kubedb/mongodb/commit/3d105d2a) Fix Health Check (#305)
+- [98fe156b](https://github.com/kubedb/mongodb/commit/98fe156b) Add `ReplicationModeDetector` (#316)
+- [539337b0](https://github.com/kubedb/mongodb/commit/539337b0) Update KubeDB api (#314)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.3.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.3.0)

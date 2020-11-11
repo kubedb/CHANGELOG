@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.11",
-  "release_date": "2020-11-11T19:30:20.732367491Z",
+  "release_date": "2020-11-11T19:32:37.289040198Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.11",
   "kubernetes_version": "1.14+",
@@ -73,6 +73,44 @@
             {
               "SHA": "56429d25",
               "Subject": "Update KubeDB api (#546)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "3b0f1d08",
+              "Subject": "Prepare for release v0.8.0 (#318)"
+            },
+            {
+              "SHA": "b3685ab8",
+              "Subject": "Update KubeDB api (#317)"
+            },
+            {
+              "SHA": "bf9d872c",
+              "Subject": "Allow stats service patching"
+            },
+            {
+              "SHA": "183f1ac3",
+              "Subject": "Use separate ServiceTemplate for each service (#315)"
+            },
+            {
+              "SHA": "3d105d2a",
+              "Subject": "Fix Health Check (#305)"
+            },
+            {
+              "SHA": "98fe156b",
+              "Subject": "Add `ReplicationModeDetector` (#316)"
+            },
+            {
+              "SHA": "539337b0",
+              "Subject": "Update KubeDB api (#314)"
             }
           ]
         }

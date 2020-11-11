@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.11",
-  "release_date": "2020-11-11T22:07:40.002704785Z",
+  "release_date": "2020-11-11T22:14:49.643714827Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.11",
   "kubernetes_version": "1.14+",
@@ -61,6 +61,20 @@
             {
               "SHA": "1387ac1f",
               "Subject": "Remove version label from database labels (#644)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.11.11",
+          "commits": [
+            {
+              "SHA": "5e78178",
+              "Subject": "Prepare for release v2020.11.11 (#12)"
             }
           ]
         }

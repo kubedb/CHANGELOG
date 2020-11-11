@@ -28,6 +28,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.8.0](https://github.com/kubedb/memcached/releases/tag/v0.8.0)
+
+- [aff58c9e](https://github.com/kubedb/memcached/commit/aff58c9e) Prepare for release v0.8.0 (#243)
+- [3dbf5486](https://github.com/kubedb/memcached/commit/3dbf5486) Update KubeDB api (#242)
+- [d1821f03](https://github.com/kubedb/memcached/commit/d1821f03) Use separate ServiceTemplate for each service (#241)
+- [44ea6d2b](https://github.com/kubedb/memcached/commit/44ea6d2b) Update KubeDB api (#240)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.8.0](https://github.com/kubedb/mongodb/releases/tag/v0.8.0)

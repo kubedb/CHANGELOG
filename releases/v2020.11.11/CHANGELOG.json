@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.11",
-  "release_date": "2020-11-11T19:23:10.964400083Z",
+  "release_date": "2020-11-11T19:30:20.732367491Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.11",
   "kubernetes_version": "1.14+",
@@ -47,6 +47,32 @@
             {
               "SHA": "1387ac1f",
               "Subject": "Remove version label from database labels (#644)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "df75044a",
+              "Subject": "Prepare for release v0.15.0 (#549)"
+            },
+            {
+              "SHA": "08bce120",
+              "Subject": "Update KubeDB api (#548)"
+            },
+            {
+              "SHA": "3f4e0fd5",
+              "Subject": "Update KubeDB api (#547)"
+            },
+            {
+              "SHA": "56429d25",
+              "Subject": "Update KubeDB api (#546)"
             }
           ]
         }

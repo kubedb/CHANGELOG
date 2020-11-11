@@ -42,6 +42,18 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.8.0](https://github.com/kubedb/mysql/releases/tag/v0.8.0)
+
+- [b83e2323](https://github.com/kubedb/mysql/commit/b83e2323) Prepare for release v0.8.0 (#305)
+- [1916fb3d](https://github.com/kubedb/mysql/commit/1916fb3d) Update KubeDB api (#304)
+- [2e2dd9b0](https://github.com/kubedb/mysql/commit/2e2dd9b0) Allow stats service patching
+- [18cbe558](https://github.com/kubedb/mysql/commit/18cbe558) Use separate ServiceTemplate for each service (#303)
+- [741c9718](https://github.com/kubedb/mysql/commit/741c9718) Fix MySQL args (#295)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.3.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.3.0)

@@ -49,6 +49,16 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.15.0](https://github.com/kubedb/installer/releases/tag/v0.15.0)
+
+- [a8c5b9c](https://github.com/kubedb/installer/commit/a8c5b9c) Prepare for release v0.15.0 (#204)
+- [f17451e](https://github.com/kubedb/installer/commit/f17451e) Add `ReplicationModeDetector` Image for MongoDB (#202)
+- [8dc9941](https://github.com/kubedb/installer/commit/8dc9941) Add permissions to evict pods (#201)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.8.0](https://github.com/kubedb/memcached/releases/tag/v0.8.0)

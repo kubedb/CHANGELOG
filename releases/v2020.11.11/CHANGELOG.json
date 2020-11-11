@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.11",
-  "release_date": "2020-11-11T19:34:35.278674132Z",
+  "release_date": "2020-11-11T19:35:17.974359896Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.11",
   "kubernetes_version": "1.14+",
@@ -204,6 +204,32 @@
         {
           "tag": "v0.3.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "a2fe5b3b",
+              "Subject": "Prepare for release v0.8.0 (#262)"
+            },
+            {
+              "SHA": "9de30e41",
+              "Subject": "Update KubeDB api (#261)"
+            },
+            {
+              "SHA": "5c8281d2",
+              "Subject": "Use separate ServiceTemplate for each service (#260)"
+            },
+            {
+              "SHA": "3a269916",
+              "Subject": "Update KubeDB api (#259)"
+            }
+          ]
         }
       ]
     },

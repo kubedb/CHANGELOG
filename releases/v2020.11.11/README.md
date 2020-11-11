@@ -83,6 +83,17 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.8.0](https://github.com/kubedb/redis/releases/tag/v0.8.0)
+
+- [a2fe5b3b](https://github.com/kubedb/redis/commit/a2fe5b3b) Prepare for release v0.8.0 (#262)
+- [9de30e41](https://github.com/kubedb/redis/commit/9de30e41) Update KubeDB api (#261)
+- [5c8281d2](https://github.com/kubedb/redis/commit/5c8281d2) Use separate ServiceTemplate for each service (#260)
+- [3a269916](https://github.com/kubedb/redis/commit/3a269916) Update KubeDB api (#259)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.2.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.2.0)

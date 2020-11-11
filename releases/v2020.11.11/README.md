@@ -36,6 +36,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2020.11.11](https://github.com/kubedb/docs/releases/tag/v2020.11.11)
+
+- [edb2df1](https://github.com/kubedb/docs/commit/edb2df1) Prepare for release v2020.11.11 (#78)
+- [99f6610](https://github.com/kubedb/docs/commit/99f6610) Update community.md
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.15.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.15.0)

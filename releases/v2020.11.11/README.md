@@ -108,6 +108,17 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.2.0](https://github.com/kubedb/proxysql/releases/tag/v0.2.0)
+
+- [71444683](https://github.com/kubedb/proxysql/commit/71444683) Prepare for release v0.2.0 (#120)
+- [ce811abf](https://github.com/kubedb/proxysql/commit/ce811abf) Update KubeDB api (#119)
+- [4ed10ea2](https://github.com/kubedb/proxysql/commit/4ed10ea2) Use separate ServiceTemplate for each service (#118)
+- [d43e7359](https://github.com/kubedb/proxysql/commit/d43e7359) Update KubeDB api (#117)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.8.0](https://github.com/kubedb/redis/releases/tag/v0.8.0)

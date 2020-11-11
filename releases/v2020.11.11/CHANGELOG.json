@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.11",
-  "release_date": "2020-11-11T19:36:15.569702658Z",
+  "release_date": "2020-11-11T19:45:59.205249686Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.11",
   "kubernetes_version": "1.14+",
@@ -266,6 +266,32 @@
             {
               "SHA": "111fddfa",
               "Subject": "Update KubeDB api (#421)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "71444683",
+              "Subject": "Prepare for release v0.2.0 (#120)"
+            },
+            {
+              "SHA": "ce811abf",
+              "Subject": "Update KubeDB api (#119)"
+            },
+            {
+              "SHA": "4ed10ea2",
+              "Subject": "Use separate ServiceTemplate for each service (#118)"
+            },
+            {
+              "SHA": "d43e7359",
+              "Subject": "Update KubeDB api (#117)"
             }
           ]
         }

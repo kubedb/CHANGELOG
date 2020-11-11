@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.11",
-  "release_date": "2020-11-11T19:33:50.453892203Z",
+  "release_date": "2020-11-11T19:34:35.278674132Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.11",
   "kubernetes_version": "1.14+",
@@ -167,6 +167,32 @@
             {
               "SHA": "741c9718",
               "Subject": "Fix MySQL args (#295)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "13b6c2d7",
+              "Subject": "Prepare for release v0.2.0 (#138)"
+            },
+            {
+              "SHA": "6e4a4449",
+              "Subject": "Update KubeDB api (#137)"
+            },
+            {
+              "SHA": "717fca92",
+              "Subject": "Use separate ServiceTemplate for each service (#136)"
+            },
+            {
+              "SHA": "3386c10e",
+              "Subject": "Update KubeDB api (#135)"
             }
           ]
         }

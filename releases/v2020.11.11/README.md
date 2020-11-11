@@ -65,6 +65,17 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.2.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.2.0)
+
+- [13b6c2d7](https://github.com/kubedb/percona-xtradb/commit/13b6c2d7) Prepare for release v0.2.0 (#138)
+- [6e4a4449](https://github.com/kubedb/percona-xtradb/commit/6e4a4449) Update KubeDB api (#137)
+- [717fca92](https://github.com/kubedb/percona-xtradb/commit/717fca92) Use separate ServiceTemplate for each service (#136)
+- [3386c10e](https://github.com/kubedb/percona-xtradb/commit/3386c10e) Update KubeDB api (#135)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.3.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.3.0)

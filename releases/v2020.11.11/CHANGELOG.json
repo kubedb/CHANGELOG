@@ -1,0 +1,461 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.11.11",
+  "release_date": "2020-11-11T22:14:49.643714827Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.11.11",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "b96f1b56",
+              "Subject": "Prepare for release v0.2.0 (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "592d5b47",
+              "Subject": "Add default resource limit (#650)"
+            },
+            {
+              "SHA": "b5fa4a10",
+              "Subject": "Rename MasterServiceName to MasterDiscoveryServiceName"
+            },
+            {
+              "SHA": "849e6c06",
+              "Subject": "Remove ElasticsearchMetricsPortName"
+            },
+            {
+              "SHA": "421d760b",
+              "Subject": "Add HasServiceTemplate & GetServiceTemplate helpers (#649)"
+            },
+            {
+              "SHA": "25e0e4af",
+              "Subject": "Enable separate serviceTemplate for each service (#648)"
+            },
+            {
+              "SHA": "f325af77",
+              "Subject": "Remove replicaServiceTemplate from Postgres CRD (#646)"
+            },
+            {
+              "SHA": "31286270",
+              "Subject": "Add `ReplicationModeDetector` Image for MongoDB (#645)"
+            },
+            {
+              "SHA": "df5ada37",
+              "Subject": "Update Elasticsearch constants  (#639)"
+            },
+            {
+              "SHA": "1387ac1f",
+              "Subject": "Remove version label from database labels (#644)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.11.11",
+          "commits": [
+            {
+              "SHA": "5e78178",
+              "Subject": "Prepare for release v2020.11.11 (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "df75044a",
+              "Subject": "Prepare for release v0.15.0 (#549)"
+            },
+            {
+              "SHA": "08bce120",
+              "Subject": "Update KubeDB api (#548)"
+            },
+            {
+              "SHA": "3f4e0fd5",
+              "Subject": "Update KubeDB api (#547)"
+            },
+            {
+              "SHA": "56429d25",
+              "Subject": "Update KubeDB api (#546)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2020.11.11",
+          "commits": [
+            {
+              "SHA": "edb2df1",
+              "Subject": "Prepare for release v2020.11.11 (#78)"
+            },
+            {
+              "SHA": "99f6610",
+              "Subject": "Update community.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "bffb46a0",
+              "Subject": "Prepare for release v0.15.0 (#414)"
+            },
+            {
+              "SHA": "8915b7b5",
+              "Subject": "Update KubeDB api (#413)"
+            },
+            {
+              "SHA": "6a95dbf1",
+              "Subject": "Allow stats service patching"
+            },
+            {
+              "SHA": "93b8501c",
+              "Subject": "Use separate ServiceTemplate for each service (#412)"
+            },
+            {
+              "SHA": "87ba4941",
+              "Subject": "Use container name as constant (#402)"
+            },
+            {
+              "SHA": "a1b6343a",
+              "Subject": "Update KubeDB api (#411)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "a8c5b9c",
+              "Subject": "Prepare for release v0.15.0 (#204)"
+            },
+            {
+              "SHA": "f17451e",
+              "Subject": "Add `ReplicationModeDetector` Image for MongoDB (#202)"
+            },
+            {
+              "SHA": "8dc9941",
+              "Subject": "Add permissions to evict pods (#201)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "aff58c9e",
+              "Subject": "Prepare for release v0.8.0 (#243)"
+            },
+            {
+              "SHA": "3dbf5486",
+              "Subject": "Update KubeDB api (#242)"
+            },
+            {
+              "SHA": "d1821f03",
+              "Subject": "Use separate ServiceTemplate for each service (#241)"
+            },
+            {
+              "SHA": "44ea6d2b",
+              "Subject": "Update KubeDB api (#240)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "3b0f1d08",
+              "Subject": "Prepare for release v0.8.0 (#318)"
+            },
+            {
+              "SHA": "b3685ab8",
+              "Subject": "Update KubeDB api (#317)"
+            },
+            {
+              "SHA": "bf9d872c",
+              "Subject": "Allow stats service patching"
+            },
+            {
+              "SHA": "183f1ac3",
+              "Subject": "Use separate ServiceTemplate for each service (#315)"
+            },
+            {
+              "SHA": "3d105d2a",
+              "Subject": "Fix Health Check (#305)"
+            },
+            {
+              "SHA": "98fe156b",
+              "Subject": "Add `ReplicationModeDetector` (#316)"
+            },
+            {
+              "SHA": "539337b0",
+              "Subject": "Update KubeDB api (#314)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "b83e2323",
+              "Subject": "Prepare for release v0.8.0 (#305)"
+            },
+            {
+              "SHA": "1916fb3d",
+              "Subject": "Update KubeDB api (#304)"
+            },
+            {
+              "SHA": "2e2dd9b0",
+              "Subject": "Allow stats service patching"
+            },
+            {
+              "SHA": "18cbe558",
+              "Subject": "Use separate ServiceTemplate for each service (#303)"
+            },
+            {
+              "SHA": "741c9718",
+              "Subject": "Fix MySQL args (#295)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "c9c540f0",
+              "Subject": "Prepare for release v0.15.0 (#349)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "13b6c2d7",
+              "Subject": "Prepare for release v0.2.0 (#138)"
+            },
+            {
+              "SHA": "6e4a4449",
+              "Subject": "Update KubeDB api (#137)"
+            },
+            {
+              "SHA": "717fca92",
+              "Subject": "Use separate ServiceTemplate for each service (#136)"
+            },
+            {
+              "SHA": "3386c10e",
+              "Subject": "Update KubeDB api (#135)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "a9c88518",
+              "Subject": "Prepare for release v0.2.0 (#108)"
+            },
+            {
+              "SHA": "56132158",
+              "Subject": "Update KubeDB api (#107)"
+            },
+            {
+              "SHA": "2d9e4490",
+              "Subject": "Use separate ServiceTemplate for each service (#106)"
+            },
+            {
+              "SHA": "9cfb2ae2",
+              "Subject": "Update KubeDB api (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "929217b2",
+              "Subject": "Prepare for release v0.15.0 (#424)"
+            },
+            {
+              "SHA": "7782f03d",
+              "Subject": "Update KubeDB api (#423)"
+            },
+            {
+              "SHA": "0216423d",
+              "Subject": "Allow stats service patching"
+            },
+            {
+              "SHA": "6f5e3b57",
+              "Subject": "Use separate ServiceTemplate for each service (#422)"
+            },
+            {
+              "SHA": "111fddfa",
+              "Subject": "Update KubeDB api (#421)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "71444683",
+              "Subject": "Prepare for release v0.2.0 (#120)"
+            },
+            {
+              "SHA": "ce811abf",
+              "Subject": "Update KubeDB api (#119)"
+            },
+            {
+              "SHA": "4ed10ea2",
+              "Subject": "Use separate ServiceTemplate for each service (#118)"
+            },
+            {
+              "SHA": "d43e7359",
+              "Subject": "Update KubeDB api (#117)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "a2fe5b3b",
+              "Subject": "Prepare for release v0.8.0 (#262)"
+            },
+            {
+              "SHA": "9de30e41",
+              "Subject": "Update KubeDB api (#261)"
+            },
+            {
+              "SHA": "5c8281d2",
+              "Subject": "Use separate ServiceTemplate for each service (#260)"
+            },
+            {
+              "SHA": "3a269916",
+              "Subject": "Update KubeDB api (#259)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "70416f7",
+              "Subject": "Prepare for release v0.2.0 (#92)"
+            },
+            {
+              "SHA": "d75f103",
+              "Subject": "Update KubeDB api (#91)"
+            },
+            {
+              "SHA": "5f03577",
+              "Subject": "Add MongoDB `ReplicationModeDetector` (#90)"
+            },
+            {
+              "SHA": "8456fdc",
+              "Subject": "Drop mysql from repo name (#89)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

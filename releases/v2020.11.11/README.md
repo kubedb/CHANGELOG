@@ -96,6 +96,17 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.2.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.2.0)
+
+- [a9c88518](https://github.com/kubedb/pgbouncer/commit/a9c88518) Prepare for release v0.2.0 (#108)
+- [56132158](https://github.com/kubedb/pgbouncer/commit/56132158) Update KubeDB api (#107)
+- [2d9e4490](https://github.com/kubedb/pgbouncer/commit/2d9e4490) Use separate ServiceTemplate for each service (#106)
+- [9cfb2ae2](https://github.com/kubedb/pgbouncer/commit/9cfb2ae2) Update KubeDB api (#105)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.15.0](https://github.com/kubedb/postgres/releases/tag/v0.15.0)

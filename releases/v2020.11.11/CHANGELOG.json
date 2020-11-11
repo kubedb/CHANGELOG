@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.11",
-  "release_date": "2020-11-11T19:45:59.205249686Z",
+  "release_date": "2020-11-11T19:46:23.005922242Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.11",
   "kubernetes_version": "1.14+",
@@ -238,6 +238,32 @@
         {
           "tag": "v0.3.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "a9c88518",
+              "Subject": "Prepare for release v0.2.0 (#108)"
+            },
+            {
+              "SHA": "56132158",
+              "Subject": "Update KubeDB api (#107)"
+            },
+            {
+              "SHA": "2d9e4490",
+              "Subject": "Use separate ServiceTemplate for each service (#106)"
+            },
+            {
+              "SHA": "9cfb2ae2",
+              "Subject": "Update KubeDB api (#105)"
+            }
+          ]
         }
       ]
     },

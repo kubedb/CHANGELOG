@@ -1,0 +1,56 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.11.11",
+  "release_date": "2020-11-11T19:21:59.92968716Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.11.11",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "592d5b47",
+              "Subject": "Add default resource limit (#650)"
+            },
+            {
+              "SHA": "b5fa4a10",
+              "Subject": "Rename MasterServiceName to MasterDiscoveryServiceName"
+            },
+            {
+              "SHA": "849e6c06",
+              "Subject": "Remove ElasticsearchMetricsPortName"
+            },
+            {
+              "SHA": "421d760b",
+              "Subject": "Add HasServiceTemplate & GetServiceTemplate helpers (#649)"
+            },
+            {
+              "SHA": "25e0e4af",
+              "Subject": "Enable separate serviceTemplate for each service (#648)"
+            },
+            {
+              "SHA": "f325af77",
+              "Subject": "Remove replicaServiceTemplate from Postgres CRD (#646)"
+            },
+            {
+              "SHA": "31286270",
+              "Subject": "Add `ReplicationModeDetector` Image for MongoDB (#645)"
+            },
+            {
+              "SHA": "df5ada37",
+              "Subject": "Update Elasticsearch constants  (#639)"
+            },
+            {
+              "SHA": "1387ac1f",
+              "Subject": "Remove version label from database labels (#644)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

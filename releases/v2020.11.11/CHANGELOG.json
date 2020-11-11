@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.11",
-  "release_date": "2020-11-11T19:35:17.974359896Z",
+  "release_date": "2020-11-11T19:35:33.793328548Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.11",
   "kubernetes_version": "1.14+",
@@ -204,6 +204,36 @@
         {
           "tag": "v0.3.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "929217b2",
+              "Subject": "Prepare for release v0.15.0 (#424)"
+            },
+            {
+              "SHA": "7782f03d",
+              "Subject": "Update KubeDB api (#423)"
+            },
+            {
+              "SHA": "0216423d",
+              "Subject": "Allow stats service patching"
+            },
+            {
+              "SHA": "6f5e3b57",
+              "Subject": "Use separate ServiceTemplate for each service (#422)"
+            },
+            {
+              "SHA": "111fddfa",
+              "Subject": "Update KubeDB api (#421)"
+            }
+          ]
         }
       ]
     },

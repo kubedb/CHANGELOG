@@ -83,6 +83,18 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.15.0](https://github.com/kubedb/postgres/releases/tag/v0.15.0)
+
+- [929217b2](https://github.com/kubedb/postgres/commit/929217b2) Prepare for release v0.15.0 (#424)
+- [7782f03d](https://github.com/kubedb/postgres/commit/7782f03d) Update KubeDB api (#423)
+- [0216423d](https://github.com/kubedb/postgres/commit/0216423d) Allow stats service patching
+- [6f5e3b57](https://github.com/kubedb/postgres/commit/6f5e3b57) Use separate ServiceTemplate for each service (#422)
+- [111fddfa](https://github.com/kubedb/postgres/commit/111fddfa) Update KubeDB api (#421)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.8.0](https://github.com/kubedb/redis/releases/tag/v0.8.0)

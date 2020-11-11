@@ -49,3 +49,14 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.2.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.2.0)
+
+- [70416f7](https://github.com/kubedb/replication-mode-detector/commit/70416f7) Prepare for release v0.2.0 (#92)
+- [d75f103](https://github.com/kubedb/replication-mode-detector/commit/d75f103) Update KubeDB api (#91)
+- [5f03577](https://github.com/kubedb/replication-mode-detector/commit/5f03577) Add MongoDB `ReplicationModeDetector` (#90)
+- [8456fdc](https://github.com/kubedb/replication-mode-detector/commit/8456fdc) Drop mysql from repo name (#89)
+
+
+

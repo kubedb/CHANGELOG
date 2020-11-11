@@ -111,7 +111,7 @@
     {
       "github.com/kubedb/docs": {
         "key": "kubedb",
-        "tag": "v2020.11.08",
+        "tag": "v2020.11.11",
         "commands": [
           "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
         ],
@@ -120,7 +120,7 @@
     },
     {
       "github.com/kubedb/website": {
-        "tag": "v2020.11.08",
+        "tag": "v2020.11.11",
         "commands": [
           "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
           "make docs",
@@ -132,7 +132,7 @@
     },
     {
       "github.com/kubedb/bundles": {
-        "tag": "v2020.11.08",
+        "tag": "v2020.11.11",
         "commands": [
           "release-automaton update-bundles --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE} --charts-dir=charts"
         ],

@@ -38,6 +38,15 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.15.1](https://github.com/kubedb/installer/releases/tag/v0.15.1)
+
+- [4129755](https://github.com/kubedb/installer/commit/4129755) Prepare for release v0.15.1 (#205)
+- [26dbe8e](https://github.com/kubedb/installer/commit/26dbe8e) Update NOTE.txt with helm 3 command (#203)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.8.1](https://github.com/kubedb/memcached/releases/tag/v0.8.1)

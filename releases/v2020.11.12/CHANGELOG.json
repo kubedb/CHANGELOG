@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.12",
-  "release_date": "2020-11-12T08:49:37.933488714Z",
+  "release_date": "2020-11-12T09:09:26.768772629Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.12",
   "kubernetes_version": "1.14+",
@@ -77,6 +77,24 @@
             {
               "SHA": "f23b33ee",
               "Subject": "Update KubeDB api (#415)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.15.1",
+          "commits": [
+            {
+              "SHA": "4129755",
+              "Subject": "Prepare for release v0.15.1 (#205)"
+            },
+            {
+              "SHA": "26dbe8e",
+              "Subject": "Update NOTE.txt with helm 3 command (#203)"
             }
           ]
         }

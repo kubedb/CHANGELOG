@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.12",
-  "release_date": "2020-11-12T08:35:57.86928003Z",
+  "release_date": "2020-11-12T08:46:03.695640388Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.12",
   "kubernetes_version": "1.14+",
@@ -117,6 +117,24 @@
             {
               "SHA": "e224e887",
               "Subject": "Update KubeDB api (#306)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.15.1",
+          "commits": [
+            {
+              "SHA": "bed5f88c",
+              "Subject": "Prepare for release v0.15.1 (#351)"
+            },
+            {
+              "SHA": "4ee7d2fb",
+              "Subject": "Update KubeDB api (#350)"
             }
           ]
         }

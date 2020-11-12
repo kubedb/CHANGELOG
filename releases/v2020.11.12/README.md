@@ -57,6 +57,15 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.15.1](https://github.com/kubedb/operator/releases/tag/v0.15.1)
+
+- [bed5f88c](https://github.com/kubedb/operator/commit/bed5f88c) Prepare for release v0.15.1 (#351)
+- [4ee7d2fb](https://github.com/kubedb/operator/commit/4ee7d2fb) Update KubeDB api (#350)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.2.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.2.1)

@@ -20,6 +20,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2020.11.12](https://github.com/kubedb/bundles/releases/tag/v2020.11.12)
+
+- [cb6f19c](https://github.com/kubedb/bundles/commit/cb6f19c) Prepare for release v2020.11.12 (#13)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.15.1](https://github.com/kubedb/cli/releases/tag/v0.15.1)

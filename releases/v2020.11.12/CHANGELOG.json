@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.12",
-  "release_date": "2020-11-12T08:23:56.606617999Z",
+  "release_date": "2020-11-12T08:24:15.933107872Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.12",
   "kubernetes_version": "1.14+",
@@ -131,6 +131,24 @@
             {
               "SHA": "2bc569c",
               "Subject": "Update README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.15.1",
+          "commits": [
+            {
+              "SHA": "c83549ae",
+              "Subject": "Prepare for release v0.15.1 (#426)"
+            },
+            {
+              "SHA": "cbb19a1c",
+              "Subject": "Update KubeDB api (#425)"
             }
           ]
         }

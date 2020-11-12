@@ -65,3 +65,12 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.15.1](https://github.com/kubedb/postgres/releases/tag/v0.15.1)
+
+- [c83549ae](https://github.com/kubedb/postgres/commit/c83549ae) Prepare for release v0.15.1 (#426)
+- [cbb19a1c](https://github.com/kubedb/postgres/commit/cbb19a1c) Update KubeDB api (#425)
+
+
+

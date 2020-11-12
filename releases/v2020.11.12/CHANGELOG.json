@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.12",
-  "release_date": "2020-11-12T08:20:19.689026507Z",
+  "release_date": "2020-11-12T08:22:31.890165694Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.12",
   "kubernetes_version": "1.14+",
@@ -45,6 +45,24 @@
             {
               "SHA": "7152cf5d",
               "Subject": "Update KubeDB api (#550)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.8.1",
+          "commits": [
+            {
+              "SHA": "00eda07f",
+              "Subject": "Prepare for release v0.8.1 (#245)"
+            },
+            {
+              "SHA": "a32f158d",
+              "Subject": "Update KubeDB api (#244)"
             }
           ]
         }

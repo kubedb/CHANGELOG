@@ -21,6 +21,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.8.1](https://github.com/kubedb/memcached/releases/tag/v0.8.1)
+
+- [00eda07f](https://github.com/kubedb/memcached/commit/00eda07f) Prepare for release v0.8.1 (#245)
+- [a32f158d](https://github.com/kubedb/memcached/commit/a32f158d) Update KubeDB api (#244)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.3.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.3.1)

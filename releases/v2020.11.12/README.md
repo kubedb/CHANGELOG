@@ -29,6 +29,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2020.11.12](https://github.com/kubedb/docs/releases/tag/v2020.11.12)
+
+- [eb85e04](https://github.com/kubedb/docs/commit/eb85e04) Prepare for release v2020.11.12 (#79)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.15.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.15.1)

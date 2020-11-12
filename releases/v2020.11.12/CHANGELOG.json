@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.12",
-  "release_date": "2020-11-12T08:25:03.82056488Z",
+  "release_date": "2020-11-12T08:25:26.8120707Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.12",
   "kubernetes_version": "1.14+",
@@ -45,6 +45,24 @@
             {
               "SHA": "7152cf5d",
               "Subject": "Update KubeDB api (#550)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.15.1",
+          "commits": [
+            {
+              "SHA": "27111d23",
+              "Subject": "Prepare for release v0.15.1 (#416)"
+            },
+            {
+              "SHA": "f23b33ee",
+              "Subject": "Update KubeDB api (#415)"
             }
           ]
         }

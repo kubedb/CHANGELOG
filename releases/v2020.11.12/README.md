@@ -21,6 +21,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.15.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.15.1)
+
+- [27111d23](https://github.com/kubedb/elasticsearch/commit/27111d23) Prepare for release v0.15.1 (#416)
+- [f23b33ee](https://github.com/kubedb/elasticsearch/commit/f23b33ee) Update KubeDB api (#415)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.8.1](https://github.com/kubedb/memcached/releases/tag/v0.8.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.12",
-  "release_date": "2020-11-12T07:55:31.663210097Z",
+  "release_date": "2020-11-12T08:12:42.216171121Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.12",
   "kubernetes_version": "1.14+",
@@ -27,6 +27,20 @@
             {
               "SHA": "cb21bb09",
               "Subject": "Add MariaDB constants (#651)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.3.1",
+          "commits": [
+            {
+              "SHA": "2bc569c",
+              "Subject": "Update README.md"
             }
           ]
         }

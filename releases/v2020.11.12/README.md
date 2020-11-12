@@ -74,6 +74,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.8.1](https://github.com/kubedb/redis/releases/tag/v0.8.1)
+
+- [5d378ec3](https://github.com/kubedb/redis/commit/5d378ec3) Prepare for release v0.8.1 (#264)
+- [b7cf4380](https://github.com/kubedb/redis/commit/b7cf4380) Update KubeDB api (#263)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.2.1](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.2.1)

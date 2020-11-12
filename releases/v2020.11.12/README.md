@@ -30,6 +30,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.8.1](https://github.com/kubedb/mongodb/releases/tag/v0.8.1)
+
+- [19f17fb9](https://github.com/kubedb/mongodb/commit/19f17fb9) Prepare for release v0.8.1 (#320)
+- [bee38ded](https://github.com/kubedb/mongodb/commit/bee38ded) Update KubeDB api (#319)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.8.1](https://github.com/kubedb/mysql/releases/tag/v0.8.1)

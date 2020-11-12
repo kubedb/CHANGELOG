@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.12",
-  "release_date": "2020-11-12T08:23:20.682174271Z",
+  "release_date": "2020-11-12T08:23:56.606617999Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.12",
   "kubernetes_version": "1.14+",
@@ -63,6 +63,24 @@
             {
               "SHA": "a32f158d",
               "Subject": "Update KubeDB api (#244)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.8.1",
+          "commits": [
+            {
+              "SHA": "19f17fb9",
+              "Subject": "Prepare for release v0.8.1 (#320)"
+            },
+            {
+              "SHA": "bee38ded",
+              "Subject": "Update KubeDB api (#319)"
             }
           ]
         }

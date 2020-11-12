@@ -74,3 +74,12 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.2.1](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.2.1)
+
+- [8c0e92f](https://github.com/kubedb/replication-mode-detector/commit/8c0e92f) Prepare for release v0.2.1 (#94)
+- [b0bf4e9](https://github.com/kubedb/replication-mode-detector/commit/b0bf4e9) Update KubeDB api (#93)
+
+
+

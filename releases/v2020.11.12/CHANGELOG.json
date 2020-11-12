@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.12",
-  "release_date": "2020-11-12T08:24:15.933107872Z",
+  "release_date": "2020-11-12T08:24:29.396186089Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.12",
   "kubernetes_version": "1.14+",
@@ -149,6 +149,24 @@
             {
               "SHA": "cbb19a1c",
               "Subject": "Update KubeDB api (#425)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.2.1",
+          "commits": [
+            {
+              "SHA": "8c0e92f",
+              "Subject": "Prepare for release v0.2.1 (#94)"
+            },
+            {
+              "SHA": "b0bf4e9",
+              "Subject": "Update KubeDB api (#93)"
             }
           ]
         }

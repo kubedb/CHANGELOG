@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.11.12",
+  "release_date": "2020-11-12T07:55:31.663210097Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.11.12",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.15.1",
+          "commits": [
+            {
+              "SHA": "ea20944b",
+              "Subject": "Set default resource requests = 1/2 * limits (#653)"
+            },
+            {
+              "SHA": "fb8a454c",
+              "Subject": "Fix serviceTemplate inline json (#652)"
+            },
+            {
+              "SHA": "44d1f43b",
+              "Subject": "Add MariaDB patch util"
+            },
+            {
+              "SHA": "cb21bb09",
+              "Subject": "Add MariaDB constants (#651)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -83,6 +83,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.2.1](https://github.com/kubedb/proxysql/releases/tag/v0.2.1)
+
+- [2c20cd82](https://github.com/kubedb/proxysql/commit/2c20cd82) Prepare for release v0.2.1 (#122)
+- [6b268324](https://github.com/kubedb/proxysql/commit/6b268324) Update KubeDB api (#121)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.8.1](https://github.com/kubedb/redis/releases/tag/v0.8.1)

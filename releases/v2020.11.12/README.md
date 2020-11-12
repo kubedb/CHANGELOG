@@ -30,6 +30,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.2.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.2.1)
+
+- [6e13a0a0](https://github.com/kubedb/percona-xtradb/commit/6e13a0a0) Prepare for release v0.2.1 (#140)
+- [7afb8aee](https://github.com/kubedb/percona-xtradb/commit/7afb8aee) Update KubeDB api (#139)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.3.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.3.1)

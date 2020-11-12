@@ -1,6 +1,14 @@
 # KubeDB v2020.11.12 (2020-11-12)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.2.1](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.2.1)
+
+- [9aa1860e](https://github.com/appscode/kubedb-enterprise/commit/9aa1860e) Prepare for release v0.2.1 (#97)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.15.1](https://github.com/kubedb/apimachinery/releases/tag/v0.15.1)

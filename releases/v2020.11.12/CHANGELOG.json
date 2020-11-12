@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.11.12",
-  "release_date": "2020-11-12T08:22:43.062083012Z",
+  "release_date": "2020-11-12T08:23:20.682174271Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.11.12",
   "kubernetes_version": "1.14+",
@@ -63,6 +63,24 @@
             {
               "SHA": "a32f158d",
               "Subject": "Update KubeDB api (#244)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.8.1",
+          "commits": [
+            {
+              "SHA": "8a41db5d",
+              "Subject": "Prepare for release v0.8.1 (#307)"
+            },
+            {
+              "SHA": "e224e887",
+              "Subject": "Update KubeDB api (#306)"
             }
           ]
         }

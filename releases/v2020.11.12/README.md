@@ -30,6 +30,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.8.1](https://github.com/kubedb/mysql/releases/tag/v0.8.1)
+
+- [8a41db5d](https://github.com/kubedb/mysql/commit/8a41db5d) Prepare for release v0.8.1 (#307)
+- [e224e887](https://github.com/kubedb/mysql/commit/e224e887) Update KubeDB api (#306)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.2.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.2.1)

@@ -12,6 +12,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.15.1](https://github.com/kubedb/cli/releases/tag/v0.15.1)
+
+- [81e8fb7a](https://github.com/kubedb/cli/commit/81e8fb7a) Prepare for release v0.15.1 (#551)
+- [7152cf5d](https://github.com/kubedb/cli/commit/7152cf5d) Update KubeDB api (#550)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.3.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.3.1)

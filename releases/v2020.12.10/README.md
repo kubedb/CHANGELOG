@@ -127,6 +127,26 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.15.2](https://github.com/kubedb/operator/releases/tag/v0.15.2)
+
+- [06945cc9](https://github.com/kubedb/operator/commit/06945cc9) Prepare for release v0.15.2 (#365)
+- [6a3dacd4](https://github.com/kubedb/operator/commit/6a3dacd4) Update KubeDB api (#364)
+- [6a0626b1](https://github.com/kubedb/operator/commit/6a0626b1) Update Kubernetes v1.18.9 dependencies (#363)
+- [e72fbf89](https://github.com/kubedb/operator/commit/e72fbf89) Update KubeDB api (#362)
+- [a27078cd](https://github.com/kubedb/operator/commit/a27078cd) Update KubeDB api (#361)
+- [5547a0bd](https://github.com/kubedb/operator/commit/5547a0bd) Update KubeDB api (#360)
+- [53225795](https://github.com/kubedb/operator/commit/53225795) Update Kubernetes v1.18.9 dependencies (#359)
+- [d9ba1ba9](https://github.com/kubedb/operator/commit/d9ba1ba9) Update e2e workflow (#358)
+- [68171e01](https://github.com/kubedb/operator/commit/68171e01) Update KubeDB api (#357)
+- [6411ccdb](https://github.com/kubedb/operator/commit/6411ccdb) Format shell scripts (#356)
+- [b666a8d2](https://github.com/kubedb/operator/commit/b666a8d2) Update KubeDB api (#355)
+- [5b280e2b](https://github.com/kubedb/operator/commit/5b280e2b) Update KubeDB api (#354)
+- [3732fe26](https://github.com/kubedb/operator/commit/3732fe26) Update repository config (#353)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.2.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.2.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.12.10",
-  "release_date": "2020-12-10T12:01:09.279183372Z",
+  "release_date": "2020-12-10T12:12:38.197133997Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.12.10",
   "kubernetes_version": "1.14+",
@@ -397,6 +397,68 @@
             {
               "SHA": "8b9b7009",
               "Subject": "Update repository config (#308)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.15.2",
+          "commits": [
+            {
+              "SHA": "06945cc9",
+              "Subject": "Prepare for release v0.15.2 (#365)"
+            },
+            {
+              "SHA": "6a3dacd4",
+              "Subject": "Update KubeDB api (#364)"
+            },
+            {
+              "SHA": "6a0626b1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#363)"
+            },
+            {
+              "SHA": "e72fbf89",
+              "Subject": "Update KubeDB api (#362)"
+            },
+            {
+              "SHA": "a27078cd",
+              "Subject": "Update KubeDB api (#361)"
+            },
+            {
+              "SHA": "5547a0bd",
+              "Subject": "Update KubeDB api (#360)"
+            },
+            {
+              "SHA": "53225795",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#359)"
+            },
+            {
+              "SHA": "d9ba1ba9",
+              "Subject": "Update e2e workflow (#358)"
+            },
+            {
+              "SHA": "68171e01",
+              "Subject": "Update KubeDB api (#357)"
+            },
+            {
+              "SHA": "6411ccdb",
+              "Subject": "Format shell scripts (#356)"
+            },
+            {
+              "SHA": "b666a8d2",
+              "Subject": "Update KubeDB api (#355)"
+            },
+            {
+              "SHA": "5b280e2b",
+              "Subject": "Update KubeDB api (#354)"
+            },
+            {
+              "SHA": "3732fe26",
+              "Subject": "Update repository config (#353)"
             }
           ]
         }

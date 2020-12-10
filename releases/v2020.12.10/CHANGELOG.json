@@ -1,0 +1,56 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2020.12.10",
+  "release_date": "2020-12-10T11:35:56.853903887Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2020.12.10",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.15.2",
+          "commits": [
+            {
+              "SHA": "e0b8f4fa",
+              "Subject": "Use same request and limits for databases (#668)"
+            },
+            {
+              "SHA": "429b2e10",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#667)"
+            },
+            {
+              "SHA": "0e4574eb",
+              "Subject": "Add Elasticsearch helper methods for StatefulSet names (#665)"
+            },
+            {
+              "SHA": "5917f095",
+              "Subject": "Update default resource limits and requests for MySQL (#664)"
+            },
+            {
+              "SHA": "89b09825",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#661)"
+            },
+            {
+              "SHA": "a022a502",
+              "Subject": "Format shell scripts (#660)"
+            },
+            {
+              "SHA": "03a5a9a7",
+              "Subject": "Update for release Stash@v2020.11.17 (#656)"
+            },
+            {
+              "SHA": "94392a27",
+              "Subject": "Set default resource limits for Elasticsearch (#655)"
+            },
+            {
+              "SHA": "b2fb44c8",
+              "Subject": "Add requireSSL field to MySQLOpsRequest (#654)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

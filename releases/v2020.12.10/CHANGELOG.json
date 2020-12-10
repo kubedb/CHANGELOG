@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.12.10",
-  "release_date": "2020-12-10T12:24:38.250329638Z",
+  "release_date": "2020-12-10T13:33:25.483785224Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.12.10",
   "kubernetes_version": "1.14+",
@@ -209,6 +209,36 @@
             {
               "SHA": "73d6618c",
               "Subject": "Update repository config (#418)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.15.2",
+          "commits": [
+            {
+              "SHA": "2da95dc",
+              "Subject": "Prepare for release v0.15.2 (#211)"
+            },
+            {
+              "SHA": "b6b0d98",
+              "Subject": "Update repository config (#210)"
+            },
+            {
+              "SHA": "d560f29",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#209)"
+            },
+            {
+              "SHA": "8e061ed",
+              "Subject": "Use apiregistration.k8s.io/v1 (#207)"
+            },
+            {
+              "SHA": "842e577",
+              "Subject": "Update repository config (#206)"
             }
           ]
         }

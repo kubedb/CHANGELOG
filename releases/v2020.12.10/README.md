@@ -71,6 +71,18 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.15.2](https://github.com/kubedb/installer/releases/tag/v0.15.2)
+
+- [2da95dc](https://github.com/kubedb/installer/commit/2da95dc) Prepare for release v0.15.2 (#211)
+- [b6b0d98](https://github.com/kubedb/installer/commit/b6b0d98) Update repository config (#210)
+- [d560f29](https://github.com/kubedb/installer/commit/d560f29) Update Kubernetes v1.18.9 dependencies (#209)
+- [8e061ed](https://github.com/kubedb/installer/commit/8e061ed) Use apiregistration.k8s.io/v1 (#207)
+- [842e577](https://github.com/kubedb/installer/commit/842e577) Update repository config (#206)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.8.2](https://github.com/kubedb/memcached/releases/tag/v0.8.2)

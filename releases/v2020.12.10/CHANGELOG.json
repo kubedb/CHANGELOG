@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.12.10",
-  "release_date": "2020-12-10T11:47:56.67559771Z",
+  "release_date": "2020-12-10T11:48:18.087673066Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.12.10",
   "kubernetes_version": "1.14+",
@@ -407,6 +407,56 @@
             {
               "SHA": "5971da91",
               "Subject": "Update repository config (#427)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.2.2",
+          "commits": [
+            {
+              "SHA": "e2cb2bf",
+              "Subject": "Prepare for release v0.2.2 (#104)"
+            },
+            {
+              "SHA": "973442a",
+              "Subject": "Update KubeDB api (#103)"
+            },
+            {
+              "SHA": "8758ccf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#102)"
+            },
+            {
+              "SHA": "21be65b",
+              "Subject": "Update KubeDB api (#101)"
+            },
+            {
+              "SHA": "3c87bcb",
+              "Subject": "Update KubeDB api (#100)"
+            },
+            {
+              "SHA": "a6bbd6b",
+              "Subject": "Update KubeDB api (#99)"
+            },
+            {
+              "SHA": "dedab95",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#98)"
+            },
+            {
+              "SHA": "3c884d7",
+              "Subject": "Update KubeDB api (#97)"
+            },
+            {
+              "SHA": "5c96baa",
+              "Subject": "Update KubeDB api (#96)"
+            },
+            {
+              "SHA": "aef3623",
+              "Subject": "Update KubeDB api (#95)"
             }
           ]
         }

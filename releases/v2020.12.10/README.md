@@ -134,3 +134,20 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.2.2](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.2.2)
+
+- [e2cb2bf](https://github.com/kubedb/replication-mode-detector/commit/e2cb2bf) Prepare for release v0.2.2 (#104)
+- [973442a](https://github.com/kubedb/replication-mode-detector/commit/973442a) Update KubeDB api (#103)
+- [8758ccf](https://github.com/kubedb/replication-mode-detector/commit/8758ccf) Update Kubernetes v1.18.9 dependencies (#102)
+- [21be65b](https://github.com/kubedb/replication-mode-detector/commit/21be65b) Update KubeDB api (#101)
+- [3c87bcb](https://github.com/kubedb/replication-mode-detector/commit/3c87bcb) Update KubeDB api (#100)
+- [a6bbd6b](https://github.com/kubedb/replication-mode-detector/commit/a6bbd6b) Update KubeDB api (#99)
+- [dedab95](https://github.com/kubedb/replication-mode-detector/commit/dedab95) Update Kubernetes v1.18.9 dependencies (#98)
+- [3c884d7](https://github.com/kubedb/replication-mode-detector/commit/3c884d7) Update KubeDB api (#97)
+- [5c96baa](https://github.com/kubedb/replication-mode-detector/commit/5c96baa) Update KubeDB api (#96)
+- [aef3623](https://github.com/kubedb/replication-mode-detector/commit/aef3623) Update KubeDB api (#95)
+
+
+

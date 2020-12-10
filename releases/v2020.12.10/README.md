@@ -37,6 +37,27 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.8.2](https://github.com/kubedb/mysql/releases/tag/v0.8.2)
+
+- [d3b3f9c3](https://github.com/kubedb/mysql/commit/d3b3f9c3) Prepare for release v0.8.2 (#321)
+- [a6564cc1](https://github.com/kubedb/mysql/commit/a6564cc1) Update KubeDB api (#320)
+- [2e0fe5f9](https://github.com/kubedb/mysql/commit/2e0fe5f9) Update Kubernetes v1.18.9 dependencies (#319)
+- [a6731a86](https://github.com/kubedb/mysql/commit/a6731a86) Update KubeDB api (#318)
+- [2fb04f16](https://github.com/kubedb/mysql/commit/2fb04f16) Update KubeDB api (#317)
+- [3432a00a](https://github.com/kubedb/mysql/commit/3432a00a) Update KubeDB api (#316)
+- [5f51a466](https://github.com/kubedb/mysql/commit/5f51a466) Update Kubernetes v1.18.9 dependencies (#315)
+- [b0dbbac4](https://github.com/kubedb/mysql/commit/b0dbbac4) Update e2e workflow (#314)
+- [a0864e5d](https://github.com/kubedb/mysql/commit/a0864e5d) Update KubeDB api (#313)
+- [cc80a56f](https://github.com/kubedb/mysql/commit/cc80a56f) Format shell scripts (#312)
+- [3ac83778](https://github.com/kubedb/mysql/commit/3ac83778) Update KubeDB api (#311)
+- [d87bc74a](https://github.com/kubedb/mysql/commit/d87bc74a) Update for release Stash@v2020.11.17 (#310)
+- [353d6795](https://github.com/kubedb/mysql/commit/353d6795) Update KubeDB api (#309)
+- [8b9b7009](https://github.com/kubedb/mysql/commit/8b9b7009) Update repository config (#308)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.3.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.3.2)

@@ -83,6 +83,27 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.2.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.2.2)
+
+- [354ec7a7](https://github.com/kubedb/percona-xtradb/commit/354ec7a7) Prepare for release v0.2.2 (#154)
+- [927cb07d](https://github.com/kubedb/percona-xtradb/commit/927cb07d) Update KubeDB api (#153)
+- [28463a62](https://github.com/kubedb/percona-xtradb/commit/28463a62) Update Kubernetes v1.18.9 dependencies (#152)
+- [a7e8e78a](https://github.com/kubedb/percona-xtradb/commit/a7e8e78a) Update KubeDB api (#151)
+- [fdcb3a74](https://github.com/kubedb/percona-xtradb/commit/fdcb3a74) Update KubeDB api (#150)
+- [18b128e1](https://github.com/kubedb/percona-xtradb/commit/18b128e1) Update KubeDB api (#149)
+- [15d0c5e3](https://github.com/kubedb/percona-xtradb/commit/15d0c5e3) Update Kubernetes v1.18.9 dependencies (#148)
+- [e953b6c1](https://github.com/kubedb/percona-xtradb/commit/e953b6c1) Update e2e workflow (#147)
+- [85d96fe5](https://github.com/kubedb/percona-xtradb/commit/85d96fe5) Update KubeDB api (#146)
+- [1f02228b](https://github.com/kubedb/percona-xtradb/commit/1f02228b) Format shell scripts (#145)
+- [a832a4c1](https://github.com/kubedb/percona-xtradb/commit/a832a4c1) Update KubeDB api (#144)
+- [ec085e9a](https://github.com/kubedb/percona-xtradb/commit/ec085e9a) Update for release Stash@v2020.11.17 (#143)
+- [4b22cc6c](https://github.com/kubedb/percona-xtradb/commit/4b22cc6c) Update KubeDB api (#142)
+- [70a0c092](https://github.com/kubedb/percona-xtradb/commit/70a0c092) Update repository config (#141)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.3.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.3.2)

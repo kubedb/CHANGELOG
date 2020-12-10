@@ -1,11 +1,33 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.12.10",
-  "release_date": "2020-12-10T12:12:38.197133997Z",
+  "release_date": "2020-12-10T12:24:38.250329638Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.12.10",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.2.2",
+          "commits": [
+            {
+              "SHA": "ade073c7",
+              "Subject": "Prepare for release v0.2.2 (#103)"
+            },
+            {
+              "SHA": "ed4b88de",
+              "Subject": "Format shell scripts (#99)"
+            },
+            {
+              "SHA": "c792b1aa",
+              "Subject": "Update CI"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

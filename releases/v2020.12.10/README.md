@@ -1,6 +1,16 @@
 # KubeDB v2020.12.10 (2020-12-10)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.2.2](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.2.2)
+
+- [ade073c7](https://github.com/appscode/kubedb-enterprise/commit/ade073c7) Prepare for release v0.2.2 (#103)
+- [ed4b88de](https://github.com/appscode/kubedb-enterprise/commit/ed4b88de) Format shell scripts (#99)
+- [c792b1aa](https://github.com/appscode/kubedb-enterprise/commit/c792b1aa) Update CI
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.15.2](https://github.com/kubedb/apimachinery/releases/tag/v0.15.2)

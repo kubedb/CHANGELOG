@@ -113,3 +113,24 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.15.2](https://github.com/kubedb/postgres/releases/tag/v0.15.2)
+
+- [4dbc020f](https://github.com/kubedb/postgres/commit/4dbc020f) Prepare for release v0.15.2 (#440)
+- [2e498528](https://github.com/kubedb/postgres/commit/2e498528) Update KubeDB api (#439)
+- [d1a36ba5](https://github.com/kubedb/postgres/commit/d1a36ba5) Update Kubernetes v1.18.9 dependencies (#438)
+- [5e992258](https://github.com/kubedb/postgres/commit/5e992258) Update KubeDB api (#437)
+- [3e690087](https://github.com/kubedb/postgres/commit/3e690087) Update KubeDB api (#436)
+- [c6b5cdea](https://github.com/kubedb/postgres/commit/c6b5cdea) Update KubeDB api (#435)
+- [a580560c](https://github.com/kubedb/postgres/commit/a580560c) Update Kubernetes v1.18.9 dependencies (#434)
+- [baba93f2](https://github.com/kubedb/postgres/commit/baba93f2) Update e2e workflow (#433)
+- [87ccb1df](https://github.com/kubedb/postgres/commit/87ccb1df) Update KubeDB api (#432)
+- [56cd9e3a](https://github.com/kubedb/postgres/commit/56cd9e3a) Format shell scripts (#431)
+- [9f042958](https://github.com/kubedb/postgres/commit/9f042958) Update KubeDB api (#430)
+- [a922ba6f](https://github.com/kubedb/postgres/commit/a922ba6f) Update for release Stash@v2020.11.17 (#429)
+- [8de84f76](https://github.com/kubedb/postgres/commit/8de84f76) Update KubeDB api (#428)
+- [5971da91](https://github.com/kubedb/postgres/commit/5971da91) Update repository config (#427)
+
+
+

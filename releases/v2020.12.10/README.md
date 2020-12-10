@@ -37,6 +37,30 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.15.2](https://github.com/kubedb/elasticsearch/releases/tag/v0.15.2)
+
+- [12af2fe4](https://github.com/kubedb/elasticsearch/commit/12af2fe4) Prepare for release v0.15.2 (#434)
+- [ade7c7e3](https://github.com/kubedb/elasticsearch/commit/ade7c7e3) Update KubeDB api (#433)
+- [f9290a40](https://github.com/kubedb/elasticsearch/commit/f9290a40) Update Kubernetes v1.18.9 dependencies (#432)
+- [3fe4723d](https://github.com/kubedb/elasticsearch/commit/3fe4723d) Update KubeDB api (#431)
+- [07a09623](https://github.com/kubedb/elasticsearch/commit/07a09623) Add validation for minimum memory request (heap size) (#429)
+- [0132b8cd](https://github.com/kubedb/elasticsearch/commit/0132b8cd) Remove resource allocation from init container (#427)
+- [9fdef46d](https://github.com/kubedb/elasticsearch/commit/9fdef46d) Update KubeDB api (#428)
+- [166cbc51](https://github.com/kubedb/elasticsearch/commit/166cbc51) Update KubeDB api (#426)
+- [3a4f29b8](https://github.com/kubedb/elasticsearch/commit/3a4f29b8) Update Kubernetes v1.18.9 dependencies (#425)
+- [9ed6e723](https://github.com/kubedb/elasticsearch/commit/9ed6e723) Fix health checker (#417)
+- [28314536](https://github.com/kubedb/elasticsearch/commit/28314536) Update e2e workflow (#424)
+- [bd961e58](https://github.com/kubedb/elasticsearch/commit/bd961e58) Update KubeDB api (#423)
+- [450df760](https://github.com/kubedb/elasticsearch/commit/450df760) Format shell scripts (#422)
+- [ad67a75e](https://github.com/kubedb/elasticsearch/commit/ad67a75e) Update KubeDB api (#421)
+- [353f2031](https://github.com/kubedb/elasticsearch/commit/353f2031) Update for release Stash@v2020.11.17 (#420)
+- [999b1e0d](https://github.com/kubedb/elasticsearch/commit/999b1e0d) Update KubeDB api (#419)
+- [73d6618c](https://github.com/kubedb/elasticsearch/commit/73d6618c) Update repository config (#418)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.8.2](https://github.com/kubedb/memcached/releases/tag/v0.8.2)

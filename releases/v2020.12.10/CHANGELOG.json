@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.12.10",
-  "release_date": "2020-12-10T11:50:20.412607584Z",
+  "release_date": "2020-12-10T11:51:02.632868765Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.12.10",
   "kubernetes_version": "1.14+",
@@ -109,6 +109,84 @@
             {
               "SHA": "2e8667da",
               "Subject": "Update KubeDB api (#552)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.15.2",
+          "commits": [
+            {
+              "SHA": "12af2fe4",
+              "Subject": "Prepare for release v0.15.2 (#434)"
+            },
+            {
+              "SHA": "ade7c7e3",
+              "Subject": "Update KubeDB api (#433)"
+            },
+            {
+              "SHA": "f9290a40",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#432)"
+            },
+            {
+              "SHA": "3fe4723d",
+              "Subject": "Update KubeDB api (#431)"
+            },
+            {
+              "SHA": "07a09623",
+              "Subject": "Add validation for minimum memory request (heap size) (#429)"
+            },
+            {
+              "SHA": "0132b8cd",
+              "Subject": "Remove resource allocation from init container (#427)"
+            },
+            {
+              "SHA": "9fdef46d",
+              "Subject": "Update KubeDB api (#428)"
+            },
+            {
+              "SHA": "166cbc51",
+              "Subject": "Update KubeDB api (#426)"
+            },
+            {
+              "SHA": "3a4f29b8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#425)"
+            },
+            {
+              "SHA": "9ed6e723",
+              "Subject": "Fix health checker (#417)"
+            },
+            {
+              "SHA": "28314536",
+              "Subject": "Update e2e workflow (#424)"
+            },
+            {
+              "SHA": "bd961e58",
+              "Subject": "Update KubeDB api (#423)"
+            },
+            {
+              "SHA": "450df760",
+              "Subject": "Format shell scripts (#422)"
+            },
+            {
+              "SHA": "ad67a75e",
+              "Subject": "Update KubeDB api (#421)"
+            },
+            {
+              "SHA": "353f2031",
+              "Subject": "Update for release Stash@v2020.11.17 (#420)"
+            },
+            {
+              "SHA": "999b1e0d",
+              "Subject": "Update KubeDB api (#419)"
+            },
+            {
+              "SHA": "73d6618c",
+              "Subject": "Update repository config (#418)"
             }
           ]
         }

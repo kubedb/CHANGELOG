@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.12.10",
-  "release_date": "2020-12-10T11:51:02.632868765Z",
+  "release_date": "2020-12-10T12:00:29.530324445Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.12.10",
   "kubernetes_version": "1.14+",
@@ -547,6 +547,72 @@
             {
               "SHA": "5971da91",
               "Subject": "Update repository config (#427)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.2.2",
+          "commits": [
+            {
+              "SHA": "f0491c46",
+              "Subject": "Prepare for release v0.2.2 (#136)"
+            },
+            {
+              "SHA": "cf45d773",
+              "Subject": "Update KubeDB api (#135)"
+            },
+            {
+              "SHA": "fdf01a09",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#134)"
+            },
+            {
+              "SHA": "e47042b6",
+              "Subject": "Update KubeDB api (#133)"
+            },
+            {
+              "SHA": "29fde3f7",
+              "Subject": "Update KubeDB api (#132)"
+            },
+            {
+              "SHA": "af7aba87",
+              "Subject": "Update KubeDB api (#131)"
+            },
+            {
+              "SHA": "f9f8dcd3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#130)"
+            },
+            {
+              "SHA": "6e7b1226",
+              "Subject": "Update e2e workflow (#129)"
+            },
+            {
+              "SHA": "00839667",
+              "Subject": "Update KubeDB api (#128)"
+            },
+            {
+              "SHA": "f05cfd4b",
+              "Subject": "Format shell scripts (#127)"
+            },
+            {
+              "SHA": "5b349d7e",
+              "Subject": "Update KubeDB api (#126)"
+            },
+            {
+              "SHA": "6ae465b8",
+              "Subject": "Update for release Stash@v2020.11.17 (#125)"
+            },
+            {
+              "SHA": "d0b8b205",
+              "Subject": "Update KubeDB api (#124)"
+            },
+            {
+              "SHA": "9230e1f6",
+              "Subject": "Update repository config (#123)"
             }
           ]
         }

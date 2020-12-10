@@ -27,6 +27,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2020.12.10](https://github.com/kubedb/bundles/releases/tag/v2020.12.10)
+
+- [5d1f101](https://github.com/kubedb/bundles/commit/5d1f101) Prepare for release v2020.12.10 (#14)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.15.2](https://github.com/kubedb/cli/releases/tag/v0.15.2)

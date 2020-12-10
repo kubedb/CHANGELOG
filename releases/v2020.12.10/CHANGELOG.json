@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.12.10",
-  "release_date": "2020-12-10T13:46:39.979067315Z",
+  "release_date": "2020-12-10T13:55:07.560204779Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.12.10",
   "kubernetes_version": "1.14+",
@@ -69,6 +69,20 @@
             {
               "SHA": "b2fb44c8",
               "Subject": "Add requireSSL field to MySQLOpsRequest (#654)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2020.12.10",
+          "commits": [
+            {
+              "SHA": "5d1f101",
+              "Subject": "Prepare for release v2020.12.10 (#14)"
             }
           ]
         }

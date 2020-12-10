@@ -37,6 +37,26 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.8.2](https://github.com/kubedb/memcached/releases/tag/v0.8.2)
+
+- [2f458585](https://github.com/kubedb/memcached/commit/2f458585) Prepare for release v0.8.2 (#258)
+- [0c16e3fa](https://github.com/kubedb/memcached/commit/0c16e3fa) Update KubeDB api (#257)
+- [2601e91b](https://github.com/kubedb/memcached/commit/2601e91b) Update Kubernetes v1.18.9 dependencies (#256)
+- [fa1b08b7](https://github.com/kubedb/memcached/commit/fa1b08b7) Update KubeDB api (#255)
+- [61395e02](https://github.com/kubedb/memcached/commit/61395e02) Update KubeDB api (#254)
+- [7ea6ec8e](https://github.com/kubedb/memcached/commit/7ea6ec8e) Update KubeDB api (#253)
+- [005f33c1](https://github.com/kubedb/memcached/commit/005f33c1) Update Kubernetes v1.18.9 dependencies (#252)
+- [a4bc28bd](https://github.com/kubedb/memcached/commit/a4bc28bd) Update e2e workflow (#251)
+- [11286227](https://github.com/kubedb/memcached/commit/11286227) Update KubeDB api (#250)
+- [c6a704fe](https://github.com/kubedb/memcached/commit/c6a704fe) Format shell scripts (#249)
+- [c88fd651](https://github.com/kubedb/memcached/commit/c88fd651) Update KubeDB api (#248)
+- [df511335](https://github.com/kubedb/memcached/commit/df511335) Update KubeDB api (#247)
+- [991933af](https://github.com/kubedb/memcached/commit/991933af) Update repository config (#246)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.8.2](https://github.com/kubedb/mongodb/releases/tag/v0.8.2)

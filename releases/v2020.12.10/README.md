@@ -157,6 +157,26 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.2.2](https://github.com/kubedb/pgbouncer/releases/tag/v0.2.2)
+
+- [390e35d5](https://github.com/kubedb/pgbouncer/commit/390e35d5) Prepare for release v0.2.2 (#123)
+- [0629a632](https://github.com/kubedb/pgbouncer/commit/0629a632) Update KubeDB api (#122)
+- [452bbff4](https://github.com/kubedb/pgbouncer/commit/452bbff4) Update Kubernetes v1.18.9 dependencies (#121)
+- [8f9f8691](https://github.com/kubedb/pgbouncer/commit/8f9f8691) Update KubeDB api (#120)
+- [10016a15](https://github.com/kubedb/pgbouncer/commit/10016a15) Update KubeDB api (#119)
+- [301da718](https://github.com/kubedb/pgbouncer/commit/301da718) Update KubeDB api (#118)
+- [cfdcb3ae](https://github.com/kubedb/pgbouncer/commit/cfdcb3ae) Update Kubernetes v1.18.9 dependencies (#117)
+- [ba4f9abf](https://github.com/kubedb/pgbouncer/commit/ba4f9abf) Update e2e workflow (#116)
+- [6b6fa1ce](https://github.com/kubedb/pgbouncer/commit/6b6fa1ce) Update KubeDB api (#115)
+- [644264ce](https://github.com/kubedb/pgbouncer/commit/644264ce) Format shell scripts (#114)
+- [300b8885](https://github.com/kubedb/pgbouncer/commit/300b8885) Update KubeDB api (#113)
+- [74f43dd6](https://github.com/kubedb/pgbouncer/commit/74f43dd6) Update KubeDB api (#112)
+- [762c0c39](https://github.com/kubedb/pgbouncer/commit/762c0c39) Update repository config (#111)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.15.2](https://github.com/kubedb/postgres/releases/tag/v0.15.2)

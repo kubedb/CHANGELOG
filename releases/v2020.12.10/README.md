@@ -37,6 +37,31 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.8.2](https://github.com/kubedb/mongodb/releases/tag/v0.8.2)
+
+- [63ec5d5f](https://github.com/kubedb/mongodb/commit/63ec5d5f) Prepare for release v0.8.2 (#334)
+- [b26e3b38](https://github.com/kubedb/mongodb/commit/b26e3b38) Update KubeDB api (#333)
+- [e7b60f5d](https://github.com/kubedb/mongodb/commit/e7b60f5d) Update Kubernetes v1.18.9 dependencies (#332)
+- [c492a1e6](https://github.com/kubedb/mongodb/commit/c492a1e6) Update KubeDB api (#331)
+- [4ca053a1](https://github.com/kubedb/mongodb/commit/4ca053a1) Update KubeDB api (#330)
+- [40224cad](https://github.com/kubedb/mongodb/commit/40224cad) Update KubeDB api (#329)
+- [a54933b8](https://github.com/kubedb/mongodb/commit/a54933b8) Update Kubernetes v1.18.9 dependencies (#328)
+- [ab77019b](https://github.com/kubedb/mongodb/commit/ab77019b) Wait until crd names are accepted
+- [9cc7c869](https://github.com/kubedb/mongodb/commit/9cc7c869) Prevent a specific failing matrix job from failing a workflow run
+- [fb8491d7](https://github.com/kubedb/mongodb/commit/fb8491d7) Update e2e workflow (#325)
+- [abf1ae72](https://github.com/kubedb/mongodb/commit/abf1ae72) Update KubeDB api (#327)
+- [b138bc3d](https://github.com/kubedb/mongodb/commit/b138bc3d) Format shell scripts (#326)
+- [f1c913c6](https://github.com/kubedb/mongodb/commit/f1c913c6) Update e2e CI
+- [3b5d2e5c](https://github.com/kubedb/mongodb/commit/3b5d2e5c) Update github actions for e2e tests (#304)
+- [c49e535a](https://github.com/kubedb/mongodb/commit/c49e535a) Update KubeDB api (#324)
+- [f3c138e1](https://github.com/kubedb/mongodb/commit/f3c138e1) Update for release Stash@v2020.11.17 (#323)
+- [d4e18d81](https://github.com/kubedb/mongodb/commit/d4e18d81) Update KubeDB api (#322)
+- [9e8fc523](https://github.com/kubedb/mongodb/commit/9e8fc523) Update repository config (#321)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.8.2](https://github.com/kubedb/mysql/releases/tag/v0.8.2)

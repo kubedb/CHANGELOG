@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.12.10",
-  "release_date": "2020-12-10T11:46:38.130886779Z",
+  "release_date": "2020-12-10T11:47:00.680418723Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.12.10",
   "kubernetes_version": "1.14+",
@@ -109,6 +109,88 @@
             {
               "SHA": "2e8667da",
               "Subject": "Update KubeDB api (#552)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.8.2",
+          "commits": [
+            {
+              "SHA": "63ec5d5f",
+              "Subject": "Prepare for release v0.8.2 (#334)"
+            },
+            {
+              "SHA": "b26e3b38",
+              "Subject": "Update KubeDB api (#333)"
+            },
+            {
+              "SHA": "e7b60f5d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#332)"
+            },
+            {
+              "SHA": "c492a1e6",
+              "Subject": "Update KubeDB api (#331)"
+            },
+            {
+              "SHA": "4ca053a1",
+              "Subject": "Update KubeDB api (#330)"
+            },
+            {
+              "SHA": "40224cad",
+              "Subject": "Update KubeDB api (#329)"
+            },
+            {
+              "SHA": "a54933b8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#328)"
+            },
+            {
+              "SHA": "ab77019b",
+              "Subject": "Wait until crd names are accepted"
+            },
+            {
+              "SHA": "9cc7c869",
+              "Subject": "Prevent a specific failing matrix job from failing a workflow run"
+            },
+            {
+              "SHA": "fb8491d7",
+              "Subject": "Update e2e workflow (#325)"
+            },
+            {
+              "SHA": "abf1ae72",
+              "Subject": "Update KubeDB api (#327)"
+            },
+            {
+              "SHA": "b138bc3d",
+              "Subject": "Format shell scripts (#326)"
+            },
+            {
+              "SHA": "f1c913c6",
+              "Subject": "Update e2e CI"
+            },
+            {
+              "SHA": "3b5d2e5c",
+              "Subject": "Update github actions for e2e tests (#304)"
+            },
+            {
+              "SHA": "c49e535a",
+              "Subject": "Update KubeDB api (#324)"
+            },
+            {
+              "SHA": "f3c138e1",
+              "Subject": "Update for release Stash@v2020.11.17 (#323)"
+            },
+            {
+              "SHA": "d4e18d81",
+              "Subject": "Update KubeDB api (#322)"
+            },
+            {
+              "SHA": "9e8fc523",
+              "Subject": "Update repository config (#321)"
             }
           ]
         }

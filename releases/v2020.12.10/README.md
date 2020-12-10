@@ -154,6 +154,26 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.8.2](https://github.com/kubedb/redis/releases/tag/v0.8.2)
+
+- [fdf40740](https://github.com/kubedb/redis/commit/fdf40740) Prepare for release v0.8.2 (#277)
+- [0aa17291](https://github.com/kubedb/redis/commit/0aa17291) Update KubeDB api (#276)
+- [35a9ba9b](https://github.com/kubedb/redis/commit/35a9ba9b) Update Kubernetes v1.18.9 dependencies (#275)
+- [effea60f](https://github.com/kubedb/redis/commit/effea60f) Update KubeDB api (#274)
+- [fd043549](https://github.com/kubedb/redis/commit/fd043549) Update KubeDB api (#273)
+- [2406649f](https://github.com/kubedb/redis/commit/2406649f) Update KubeDB api (#272)
+- [33185a6a](https://github.com/kubedb/redis/commit/33185a6a) Update Kubernetes v1.18.9 dependencies (#271)
+- [0472eb34](https://github.com/kubedb/redis/commit/0472eb34) Update e2e workflow (#270)
+- [42799a81](https://github.com/kubedb/redis/commit/42799a81) Update KubeDB api (#269)
+- [46fdd08f](https://github.com/kubedb/redis/commit/46fdd08f) Format shell scripts (#268)
+- [da81ecdf](https://github.com/kubedb/redis/commit/da81ecdf) Update KubeDB api (#267)
+- [dd157e35](https://github.com/kubedb/redis/commit/dd157e35) Update KubeDB api (#266)
+- [effd3fc2](https://github.com/kubedb/redis/commit/effd3fc2) Update repository config (#265)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.2.2](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.2.2)

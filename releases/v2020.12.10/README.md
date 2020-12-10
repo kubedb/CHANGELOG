@@ -17,3 +17,12 @@
 
 
 
+## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
+
+### [v0.3.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.3.2)
+
+- [e5413e4](https://github.com/kubedb/pg-leader-election/commit/e5413e4) Update Kubernetes v1.18.9 dependencies (#42)
+- [aff7ccb](https://github.com/kubedb/pg-leader-election/commit/aff7ccb) Update Kubernetes v1.18.9 dependencies (#41)
+
+
+

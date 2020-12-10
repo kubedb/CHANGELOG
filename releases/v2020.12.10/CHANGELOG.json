@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2020.12.10",
-  "release_date": "2020-12-10T11:35:56.853903887Z",
+  "release_date": "2020-12-10T11:37:14.502797658Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2020.12.10",
   "kubernetes_version": "1.14+",
@@ -47,6 +47,24 @@
             {
               "SHA": "b2fb44c8",
               "Subject": "Add requireSSL field to MySQLOpsRequest (#654)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.3.2",
+          "commits": [
+            {
+              "SHA": "e5413e4",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#42)"
+            },
+            {
+              "SHA": "aff7ccb",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#41)"
             }
           ]
         }

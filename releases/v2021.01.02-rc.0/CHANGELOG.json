@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.02-rc.0",
-  "release_date": "2021-01-03T10:02:39.847575364Z",
+  "release_date": "2021-01-03T11:33:18.840872157Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.02-rc.0",
   "kubernetes_version": "1.14+",
@@ -299,6 +299,44 @@
             {
               "SHA": "1da53ab9",
               "Subject": "Update KubeDB api (#436)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "feb4a3f",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#218)"
+            },
+            {
+              "SHA": "7e17d4d",
+              "Subject": "Add kubedb-autoscaler chart (#137)"
+            },
+            {
+              "SHA": "fe87336",
+              "Subject": "Rename gerbage-collector-rbac.yaml to garbage-collector-rbac.yaml"
+            },
+            {
+              "SHA": "5630a5e",
+              "Subject": "Use kmodules.xyz/schema-checker to validate values schema (#217)"
+            },
+            {
+              "SHA": "e22e67e",
+              "Subject": "Update repository config (#215)"
+            },
+            {
+              "SHA": "3ded17a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#214)"
+            },
+            {
+              "SHA": "cb9a295",
+              "Subject": "Add enforceTerminationPolicy (#212)"
             }
           ]
         }

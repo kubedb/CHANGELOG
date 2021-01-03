@@ -57,6 +57,17 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2021.01.02-rc.0](https://github.com/kubedb/bundles/releases/tag/v2021.01.02-rc.0)
+
+- [5c60980](https://github.com/kubedb/bundles/commit/5c60980) Prepare for release v2021.01.02-rc.0 (#17)
+- [326d3a6](https://github.com/kubedb/bundles/commit/326d3a6) Add autoscaler chart as optional package for enterprise bundle
+- [b30346a](https://github.com/kubedb/bundles/commit/b30346a) Update repository config (#16)
+- [2983345](https://github.com/kubedb/bundles/commit/2983345) Update repository config (#15)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.16.0-rc.0)

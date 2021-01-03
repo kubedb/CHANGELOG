@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.02-rc.0",
-  "release_date": "2021-01-03T07:59:21.151147033Z",
+  "release_date": "2021-01-03T08:36:19.856052756Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.02-rc.0",
   "kubernetes_version": "1.14+",
@@ -469,6 +469,48 @@
             {
               "SHA": "dc786b7",
               "Subject": "Update KubeDB api (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "51c8fee2",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#132)"
+            },
+            {
+              "SHA": "fded227a",
+              "Subject": "Update KubeDB api (#130)"
+            },
+            {
+              "SHA": "7702e10a",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#128)"
+            },
+            {
+              "SHA": "2ba5284c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#129)"
+            },
+            {
+              "SHA": "3507a96c",
+              "Subject": "Update KubeDB api (#127)"
+            },
+            {
+              "SHA": "fc8330e4",
+              "Subject": "Update KubeDB api (#126)"
+            },
+            {
+              "SHA": "3e9b4e77",
+              "Subject": "Update KubeDB api (#125)"
+            },
+            {
+              "SHA": "6c85ca6a",
+              "Subject": "Update KubeDB api (#124)"
             }
           ]
         }

@@ -60,6 +60,27 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.9.0-rc.0)
+
+- [ee410983](https://github.com/kubedb/mongodb/commit/ee410983) Prepare for release v0.9.0-rc.0 (#348)
+- [b39b664b](https://github.com/kubedb/mongodb/commit/b39b664b) Update KubeDB api (#347)
+- [84e007fe](https://github.com/kubedb/mongodb/commit/84e007fe) Update KubeDB api (#346)
+- [e8aa1f8a](https://github.com/kubedb/mongodb/commit/e8aa1f8a) Close connections when operation completes (#338)
+- [1ec2a2c7](https://github.com/kubedb/mongodb/commit/1ec2a2c7) Update Kubernetes v1.18.9 dependencies (#345)
+- [7306fb26](https://github.com/kubedb/mongodb/commit/7306fb26) Update KubeDB api (#344)
+- [efa62a85](https://github.com/kubedb/mongodb/commit/efa62a85) Fix annotations passing to AppBinding (#342)
+- [9d88e69e](https://github.com/kubedb/mongodb/commit/9d88e69e) Remove `inMemory` setting from Config Server (#343)
+- [32b96d12](https://github.com/kubedb/mongodb/commit/32b96d12) Change offshoot selector labels to standard k8s app labels (#341)
+- [67fcdbf4](https://github.com/kubedb/mongodb/commit/67fcdbf4) Update KubeDB api (#340)
+- [cf2c0778](https://github.com/kubedb/mongodb/commit/cf2c0778) Update KubeDB api (#339)
+- [232a4a00](https://github.com/kubedb/mongodb/commit/232a4a00) Update KubeDB api (#337)
+- [0a1307e7](https://github.com/kubedb/mongodb/commit/0a1307e7) Update for release Stash@v2020.12.17 (#336)
+- [89b4e4fc](https://github.com/kubedb/mongodb/commit/89b4e4fc) Update KubeDB api (#335)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.9.0-rc.0)

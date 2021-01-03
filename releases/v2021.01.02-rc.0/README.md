@@ -23,3 +23,12 @@
 
 
 
+## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.0-rc.0)
+
+- [31050c1](https://github.com/kubedb/pg-leader-election/commit/31050c1) Update KubeDB api (#44)
+- [dc786b7](https://github.com/kubedb/pg-leader-election/commit/dc786b7) Update KubeDB api (#43)
+
+
+

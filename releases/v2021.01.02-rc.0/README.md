@@ -127,6 +127,23 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/operator/releases/tag/v0.16.0-rc.0)
+
+- [3ee052dc](https://github.com/kubedb/operator/commit/3ee052dc) Prepare for release v0.16.0-rc.0 (#376)
+- [dbb5195b](https://github.com/kubedb/operator/commit/dbb5195b) Update KubeDB api (#375)
+- [4b162e08](https://github.com/kubedb/operator/commit/4b162e08) Update KubeDB api (#374)
+- [39762b0f](https://github.com/kubedb/operator/commit/39762b0f) Update KubeDB api (#373)
+- [d6a2cf27](https://github.com/kubedb/operator/commit/d6a2cf27) Change offshoot selector labels to standard k8s app labels (#372)
+- [36a8ab6f](https://github.com/kubedb/operator/commit/36a8ab6f) Update Kubernetes v1.18.9 dependencies (#371)
+- [554638e0](https://github.com/kubedb/operator/commit/554638e0) Update KubeDB api (#369)
+- [8c7ef91d](https://github.com/kubedb/operator/commit/8c7ef91d) Update KubeDB api (#368)
+- [dd96574e](https://github.com/kubedb/operator/commit/dd96574e) Update KubeDB api (#367)
+- [eef04de1](https://github.com/kubedb/operator/commit/eef04de1) Update KubeDB api (#366)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.3.0-rc.0)

@@ -69,6 +69,25 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.16.0-rc.0)
+
+- [c7b618f5](https://github.com/kubedb/postgres/commit/c7b618f5) Prepare for release v0.16.0-rc.0 (#452)
+- [be060733](https://github.com/kubedb/postgres/commit/be060733) Update KubeDB api (#451)
+- [d2d2f32c](https://github.com/kubedb/postgres/commit/d2d2f32c) Update KubeDB api (#450)
+- [ed375b2b](https://github.com/kubedb/postgres/commit/ed375b2b) Update KubeDB api (#449)
+- [a3940790](https://github.com/kubedb/postgres/commit/a3940790) Fix annotations passing to AppBinding (#448)
+- [f0b5a9dd](https://github.com/kubedb/postgres/commit/f0b5a9dd) Change offshoot selector labels to standard k8s app labels (#447)
+- [eb4f80ab](https://github.com/kubedb/postgres/commit/eb4f80ab) Update KubeDB api (#446)
+- [c9075b5a](https://github.com/kubedb/postgres/commit/c9075b5a) Update KubeDB api (#445)
+- [a04891e1](https://github.com/kubedb/postgres/commit/a04891e1) Use basic-auth secret type for auth secret (#444)
+- [e7503eec](https://github.com/kubedb/postgres/commit/e7503eec) Update KubeDB api (#443)
+- [0eb3a1b9](https://github.com/kubedb/postgres/commit/0eb3a1b9) Update for release Stash@v2020.12.17 (#442)
+- [c3ea786d](https://github.com/kubedb/postgres/commit/c3ea786d) Update KubeDB api (#441)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.3.0-rc.0)

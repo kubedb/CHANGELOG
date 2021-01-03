@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.02-rc.0",
-  "release_date": "2021-01-03T06:48:45.70077253Z",
+  "release_date": "2021-01-03T06:49:05.980087973Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.02-rc.0",
   "kubernetes_version": "1.14+",
@@ -201,6 +201,64 @@
             {
               "SHA": "dc786b7",
               "Subject": "Update KubeDB api (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c7b618f5",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#452)"
+            },
+            {
+              "SHA": "be060733",
+              "Subject": "Update KubeDB api (#451)"
+            },
+            {
+              "SHA": "d2d2f32c",
+              "Subject": "Update KubeDB api (#450)"
+            },
+            {
+              "SHA": "ed375b2b",
+              "Subject": "Update KubeDB api (#449)"
+            },
+            {
+              "SHA": "a3940790",
+              "Subject": "Fix annotations passing to AppBinding (#448)"
+            },
+            {
+              "SHA": "f0b5a9dd",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#447)"
+            },
+            {
+              "SHA": "eb4f80ab",
+              "Subject": "Update KubeDB api (#446)"
+            },
+            {
+              "SHA": "c9075b5a",
+              "Subject": "Update KubeDB api (#445)"
+            },
+            {
+              "SHA": "a04891e1",
+              "Subject": "Use basic-auth secret type for auth secret (#444)"
+            },
+            {
+              "SHA": "e7503eec",
+              "Subject": "Update KubeDB api (#443)"
+            },
+            {
+              "SHA": "0eb3a1b9",
+              "Subject": "Update for release Stash@v2020.12.17 (#442)"
+            },
+            {
+              "SHA": "c3ea786d",
+              "Subject": "Update KubeDB api (#441)"
             }
           ]
         }

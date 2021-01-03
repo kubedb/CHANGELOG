@@ -69,3 +69,21 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.3.0-rc.0)
+
+- [179e153](https://github.com/kubedb/replication-mode-detector/commit/179e153) Prepare for release v0.3.0-rc.0 (#115)
+- [d47023b](https://github.com/kubedb/replication-mode-detector/commit/d47023b) Update KubeDB api (#114)
+- [3e5db31](https://github.com/kubedb/replication-mode-detector/commit/3e5db31) Update KubeDB api (#113)
+- [987f068](https://github.com/kubedb/replication-mode-detector/commit/987f068) Change offshoot selector labels to standard k8s app labels (#110)
+- [21fc76f](https://github.com/kubedb/replication-mode-detector/commit/21fc76f) Update Kubernetes v1.18.9 dependencies (#112)
+- [db85cbd](https://github.com/kubedb/replication-mode-detector/commit/db85cbd) Close database connection when operation completes (#107)
+- [740d1d8](https://github.com/kubedb/replication-mode-detector/commit/740d1d8) Update Kubernetes v1.18.9 dependencies (#111)
+- [6f228a5](https://github.com/kubedb/replication-mode-detector/commit/6f228a5) Update KubeDB api (#109)
+- [256ea7a](https://github.com/kubedb/replication-mode-detector/commit/256ea7a) Update KubeDB api (#108)
+- [7a9acc0](https://github.com/kubedb/replication-mode-detector/commit/7a9acc0) Update KubeDB api (#106)
+- [21a18c2](https://github.com/kubedb/replication-mode-detector/commit/21a18c2) Update KubeDB api (#105)
+
+
+

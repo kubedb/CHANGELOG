@@ -60,6 +60,29 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.9.0-rc.0)
+
+- [ad9d9879](https://github.com/kubedb/mysql/commit/ad9d9879) Prepare for release v0.9.0-rc.0 (#337)
+- [a9e9d1f7](https://github.com/kubedb/mysql/commit/a9e9d1f7) Fix args for TLS (#336)
+- [9dd89572](https://github.com/kubedb/mysql/commit/9dd89572) Update KubeDB api (#335)
+- [29ff2c57](https://github.com/kubedb/mysql/commit/29ff2c57) Fixes DB Health Checker and StatefulSet Patch (#322)
+- [47470895](https://github.com/kubedb/mysql/commit/47470895) Remove unnecessary StatefulSet waitloop (#331)
+- [3aec8f59](https://github.com/kubedb/mysql/commit/3aec8f59) Update Kubernetes v1.18.9 dependencies (#334)
+- [c1ca980d](https://github.com/kubedb/mysql/commit/c1ca980d) Update KubeDB api (#333)
+- [96f4b59c](https://github.com/kubedb/mysql/commit/96f4b59c) Fix annotations passing to AppBinding (#332)
+- [76f371a2](https://github.com/kubedb/mysql/commit/76f371a2) Change offshoot selector labels to standard k8s app labels (#329)
+- [aa3d6b6f](https://github.com/kubedb/mysql/commit/aa3d6b6f) Delete tests moved to tests repo (#330)
+- [6c544d2c](https://github.com/kubedb/mysql/commit/6c544d2c) Update KubeDB api (#328)
+- [fe03a36c](https://github.com/kubedb/mysql/commit/fe03a36c) Update KubeDB api (#327)
+- [29fd7474](https://github.com/kubedb/mysql/commit/29fd7474) Use basic-auth secret type for auth secret (#326)
+- [90457549](https://github.com/kubedb/mysql/commit/90457549) Update KubeDB api (#325)
+- [1487f15e](https://github.com/kubedb/mysql/commit/1487f15e) Update for release Stash@v2020.12.17 (#324)
+- [2d7fa549](https://github.com/kubedb/mysql/commit/2d7fa549) Update KubeDB api (#323)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.0-rc.0)

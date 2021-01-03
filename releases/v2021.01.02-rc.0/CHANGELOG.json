@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.02-rc.0",
-  "release_date": "2021-01-03T06:49:05.980087973Z",
+  "release_date": "2021-01-03T06:49:32.107715968Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.02-rc.0",
   "kubernetes_version": "1.14+",
@@ -183,6 +183,80 @@
             {
               "SHA": "5cc2cf17",
               "Subject": "Update KubeDB api (#259)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ad9d9879",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#337)"
+            },
+            {
+              "SHA": "a9e9d1f7",
+              "Subject": "Fix args for TLS (#336)"
+            },
+            {
+              "SHA": "9dd89572",
+              "Subject": "Update KubeDB api (#335)"
+            },
+            {
+              "SHA": "29ff2c57",
+              "Subject": "Fixes DB Health Checker and StatefulSet Patch (#322)"
+            },
+            {
+              "SHA": "47470895",
+              "Subject": "Remove unnecessary StatefulSet waitloop (#331)"
+            },
+            {
+              "SHA": "3aec8f59",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#334)"
+            },
+            {
+              "SHA": "c1ca980d",
+              "Subject": "Update KubeDB api (#333)"
+            },
+            {
+              "SHA": "96f4b59c",
+              "Subject": "Fix annotations passing to AppBinding (#332)"
+            },
+            {
+              "SHA": "76f371a2",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#329)"
+            },
+            {
+              "SHA": "aa3d6b6f",
+              "Subject": "Delete tests moved to tests repo (#330)"
+            },
+            {
+              "SHA": "6c544d2c",
+              "Subject": "Update KubeDB api (#328)"
+            },
+            {
+              "SHA": "fe03a36c",
+              "Subject": "Update KubeDB api (#327)"
+            },
+            {
+              "SHA": "29fd7474",
+              "Subject": "Use basic-auth secret type for auth secret (#326)"
+            },
+            {
+              "SHA": "90457549",
+              "Subject": "Update KubeDB api (#325)"
+            },
+            {
+              "SHA": "1487f15e",
+              "Subject": "Update for release Stash@v2020.12.17 (#324)"
+            },
+            {
+              "SHA": "2d7fa549",
+              "Subject": "Update KubeDB api (#323)"
             }
           ]
         }

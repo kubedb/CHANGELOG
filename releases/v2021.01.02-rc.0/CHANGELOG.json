@@ -1,11 +1,33 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.02-rc.0",
-  "release_date": "2021-01-03T08:48:54.458070649Z",
+  "release_date": "2021-01-03T09:01:16.471742819Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.02-rc.0",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a9ed2e6a",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#109)"
+            },
+            {
+              "SHA": "d62bdf40",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#96)"
+            },
+            {
+              "SHA": "137b1d11",
+              "Subject": "Add evict pods in MongoDB (#106)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

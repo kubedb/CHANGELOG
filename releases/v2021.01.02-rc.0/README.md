@@ -1,6 +1,16 @@
 # KubeDB v2021.01.02-rc.0 (2021-01-03)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.3.0-rc.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.3.0-rc.0)
+
+- [a9ed2e6a](https://github.com/appscode/kubedb-enterprise/commit/a9ed2e6a) Prepare for release v0.3.0-rc.0 (#109)
+- [d62bdf40](https://github.com/appscode/kubedb-enterprise/commit/d62bdf40) Change offshoot selector labels to standard k8s app labels (#96)
+- [137b1d11](https://github.com/appscode/kubedb-enterprise/commit/137b1d11) Add evict pods in MongoDB (#106)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/apimachinery/releases/tag/v0.16.0-rc.0)

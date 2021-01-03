@@ -127,6 +127,24 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.3.0-rc.0)
+
+- [f545beb4](https://github.com/kubedb/percona-xtradb/commit/f545beb4) Prepare for release v0.3.0-rc.0 (#166)
+- [c5d0c826](https://github.com/kubedb/percona-xtradb/commit/c5d0c826) Update KubeDB api (#164)
+- [b3da5757](https://github.com/kubedb/percona-xtradb/commit/b3da5757) Fix annotations passing to AppBinding (#163)
+- [7aeaee74](https://github.com/kubedb/percona-xtradb/commit/7aeaee74) Change offshoot selector labels to standard k8s app labels (#161)
+- [a36ffa87](https://github.com/kubedb/percona-xtradb/commit/a36ffa87) Update Kubernetes v1.18.9 dependencies (#162)
+- [fa3a2a9d](https://github.com/kubedb/percona-xtradb/commit/fa3a2a9d) Update KubeDB api (#160)
+- [a1db6821](https://github.com/kubedb/percona-xtradb/commit/a1db6821) Update KubeDB api (#159)
+- [4357b18a](https://github.com/kubedb/percona-xtradb/commit/4357b18a) Use basic-auth secret type for auth secret (#158)
+- [f9ccfc4e](https://github.com/kubedb/percona-xtradb/commit/f9ccfc4e) Update KubeDB api (#157)
+- [11739165](https://github.com/kubedb/percona-xtradb/commit/11739165) Update for release Stash@v2020.12.17 (#156)
+- [80bf041c](https://github.com/kubedb/percona-xtradb/commit/80bf041c) Update KubeDB api (#155)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.0-rc.0)

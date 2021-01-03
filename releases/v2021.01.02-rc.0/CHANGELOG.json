@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.02-rc.0",
-  "release_date": "2021-01-03T06:49:42.703701646Z",
+  "release_date": "2021-01-03T06:49:53.279713619Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.02-rc.0",
   "kubernetes_version": "1.14+",
@@ -399,6 +399,68 @@
             {
               "SHA": "c3ea786d",
               "Subject": "Update KubeDB api (#441)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b416a016",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#290)"
+            },
+            {
+              "SHA": "751b8f6b",
+              "Subject": "Update KubeDB api (#289)"
+            },
+            {
+              "SHA": "0affafe9",
+              "Subject": "Update KubeDB api (#287)"
+            },
+            {
+              "SHA": "665d6b4f",
+              "Subject": "Remove tests moved to kubedb/tests (#288)"
+            },
+            {
+              "SHA": "6c254e3b",
+              "Subject": "Update KubeDB api (#286)"
+            },
+            {
+              "SHA": "1b73def3",
+              "Subject": "Fix annotations passing to AppBinding (#285)"
+            },
+            {
+              "SHA": "dc349058",
+              "Subject": "Update KubeDB api (#283)"
+            },
+            {
+              "SHA": "7d47e506",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#282)"
+            },
+            {
+              "SHA": "f8f7570f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#284)"
+            },
+            {
+              "SHA": "63cb769d",
+              "Subject": "Update KubeDB api (#281)"
+            },
+            {
+              "SHA": "19ec4460",
+              "Subject": "Update KubeDB api (#280)"
+            },
+            {
+              "SHA": "af67e190",
+              "Subject": "Update KubeDB api (#279)"
+            },
+            {
+              "SHA": "4b89034c",
+              "Subject": "Update KubeDB api (#278)"
             }
           ]
         }

@@ -132,6 +132,26 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.9.0-rc.0)
+
+- [b416a016](https://github.com/kubedb/redis/commit/b416a016) Prepare for release v0.9.0-rc.0 (#290)
+- [751b8f6b](https://github.com/kubedb/redis/commit/751b8f6b) Update KubeDB api (#289)
+- [0affafe9](https://github.com/kubedb/redis/commit/0affafe9) Update KubeDB api (#287)
+- [665d6b4f](https://github.com/kubedb/redis/commit/665d6b4f) Remove tests moved to kubedb/tests (#288)
+- [6c254e3b](https://github.com/kubedb/redis/commit/6c254e3b) Update KubeDB api (#286)
+- [1b73def3](https://github.com/kubedb/redis/commit/1b73def3) Fix annotations passing to AppBinding (#285)
+- [dc349058](https://github.com/kubedb/redis/commit/dc349058) Update KubeDB api (#283)
+- [7d47e506](https://github.com/kubedb/redis/commit/7d47e506) Change offshoot selector labels to standard k8s app labels (#282)
+- [f8f7570f](https://github.com/kubedb/redis/commit/f8f7570f) Update Kubernetes v1.18.9 dependencies (#284)
+- [63cb769d](https://github.com/kubedb/redis/commit/63cb769d) Update KubeDB api (#281)
+- [19ec4460](https://github.com/kubedb/redis/commit/19ec4460) Update KubeDB api (#280)
+- [af67e190](https://github.com/kubedb/redis/commit/af67e190) Update KubeDB api (#279)
+- [4b89034c](https://github.com/kubedb/redis/commit/4b89034c) Update KubeDB api (#278)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.3.0-rc.0)

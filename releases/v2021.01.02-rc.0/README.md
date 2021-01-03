@@ -41,6 +41,25 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.9.0-rc.0)
+
+- [33752041](https://github.com/kubedb/memcached/commit/33752041) Prepare for release v0.9.0-rc.0 (#269)
+- [9cf96e13](https://github.com/kubedb/memcached/commit/9cf96e13) Update KubeDB api (#268)
+- [0bfe24df](https://github.com/kubedb/memcached/commit/0bfe24df) Update KubeDB api (#267)
+- [29fc8f33](https://github.com/kubedb/memcached/commit/29fc8f33) Update Kubernetes v1.18.9 dependencies (#266)
+- [c9dfe14c](https://github.com/kubedb/memcached/commit/c9dfe14c) Update KubeDB api (#265)
+- [f75073c9](https://github.com/kubedb/memcached/commit/f75073c9) Fix annotations passing to AppBinding (#264)
+- [28cdfdfd](https://github.com/kubedb/memcached/commit/28cdfdfd) Initialize mapper
+- [6a9243ab](https://github.com/kubedb/memcached/commit/6a9243ab) Change offshoot selector labels to standard k8s app labels (#263)
+- [e838aec4](https://github.com/kubedb/memcached/commit/e838aec4) Update KubeDB api (#262)
+- [88654cdd](https://github.com/kubedb/memcached/commit/88654cdd) Update KubeDB api (#261)
+- [c2fb7c2f](https://github.com/kubedb/memcached/commit/c2fb7c2f) Update KubeDB api (#260)
+- [5cc2cf17](https://github.com/kubedb/memcached/commit/5cc2cf17) Update KubeDB api (#259)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.0-rc.0)

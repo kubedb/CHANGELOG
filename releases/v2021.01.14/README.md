@@ -128,6 +128,26 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.16.0](https://github.com/kubedb/installer/releases/tag/v0.16.0)
+
+- [27d1591](https://github.com/kubedb/installer/commit/27d1591) Prepare for release v0.16.0 (#224)
+- [c4b063d](https://github.com/kubedb/installer/commit/c4b063d) Add permissions for updating pod status (#223)
+- [724b8a6](https://github.com/kubedb/installer/commit/724b8a6) Add permission to update pod status (#222)
+- [b7e69f3](https://github.com/kubedb/installer/commit/b7e69f3) Add permission to delete PVC for enterprise operator (#221)
+- [3064204](https://github.com/kubedb/installer/commit/3064204) Use original underlying Elasticsearch version in openDistro version crds (#220)
+- [5d8d3db](https://github.com/kubedb/installer/commit/5d8d3db) Update Percona MongoDB Server Images (#219)
+- [feb4a3f](https://github.com/kubedb/installer/commit/feb4a3f) Prepare for release v0.16.0-rc.0 (#218)
+- [7e17d4d](https://github.com/kubedb/installer/commit/7e17d4d) Add kubedb-autoscaler chart (#137)
+- [fe87336](https://github.com/kubedb/installer/commit/fe87336) Rename gerbage-collector-rbac.yaml to garbage-collector-rbac.yaml
+- [5630a5e](https://github.com/kubedb/installer/commit/5630a5e) Use kmodules.xyz/schema-checker to validate values schema (#217)
+- [e22e67e](https://github.com/kubedb/installer/commit/e22e67e) Update repository config (#215)
+- [3ded17a](https://github.com/kubedb/installer/commit/3ded17a) Update Kubernetes v1.18.9 dependencies (#214)
+- [cb9a295](https://github.com/kubedb/installer/commit/cb9a295) Add enforceTerminationPolicy (#212)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.9.0](https://github.com/kubedb/memcached/releases/tag/v0.9.0)

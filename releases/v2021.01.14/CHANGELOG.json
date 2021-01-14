@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:33:02.938132556Z",
+  "release_date": "2021-01-14T10:42:17.303105625Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
@@ -683,6 +683,60 @@
             {
               "SHA": "c3ea786d",
               "Subject": "Update KubeDB api (#441)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "fdd650cb",
+              "Subject": "Prepare for release v0.3.0 (#148)"
+            },
+            {
+              "SHA": "1ae8aed1",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#147)"
+            },
+            {
+              "SHA": "0e60bddf",
+              "Subject": "Update KubeDB api (#145)"
+            },
+            {
+              "SHA": "df11880c",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#143)"
+            },
+            {
+              "SHA": "540bdea2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#144)"
+            },
+            {
+              "SHA": "52907cb4",
+              "Subject": "Update KubeDB api (#142)"
+            },
+            {
+              "SHA": "d1686708",
+              "Subject": "Update KubeDB api (#141)"
+            },
+            {
+              "SHA": "e5e2a798",
+              "Subject": "Use basic-auth secret type for auth secret (#140)"
+            },
+            {
+              "SHA": "8cf2a9e4",
+              "Subject": "Update KubeDB api (#139)"
+            },
+            {
+              "SHA": "7b0cdb0f",
+              "Subject": "Update for release Stash@v2020.12.17 (#138)"
+            },
+            {
+              "SHA": "ce7136a1",
+              "Subject": "Update KubeDB api (#137)"
             }
           ]
         }

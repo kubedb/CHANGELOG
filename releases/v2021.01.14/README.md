@@ -212,6 +212,24 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.3.0](https://github.com/kubedb/proxysql/releases/tag/v0.3.0)
+
+- [fdd650cb](https://github.com/kubedb/proxysql/commit/fdd650cb) Prepare for release v0.3.0 (#148)
+- [1ae8aed1](https://github.com/kubedb/proxysql/commit/1ae8aed1) Prepare for release v0.3.0-rc.0 (#147)
+- [0e60bddf](https://github.com/kubedb/proxysql/commit/0e60bddf) Update KubeDB api (#145)
+- [df11880c](https://github.com/kubedb/proxysql/commit/df11880c) Change offshoot selector labels to standard k8s app labels (#143)
+- [540bdea2](https://github.com/kubedb/proxysql/commit/540bdea2) Update Kubernetes v1.18.9 dependencies (#144)
+- [52907cb4](https://github.com/kubedb/proxysql/commit/52907cb4) Update KubeDB api (#142)
+- [d1686708](https://github.com/kubedb/proxysql/commit/d1686708) Update KubeDB api (#141)
+- [e5e2a798](https://github.com/kubedb/proxysql/commit/e5e2a798) Use basic-auth secret type for auth secret (#140)
+- [8cf2a9e4](https://github.com/kubedb/proxysql/commit/8cf2a9e4) Update KubeDB api (#139)
+- [7b0cdb0f](https://github.com/kubedb/proxysql/commit/7b0cdb0f) Update for release Stash@v2020.12.17 (#138)
+- [ce7136a1](https://github.com/kubedb/proxysql/commit/ce7136a1) Update KubeDB api (#137)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.9.0](https://github.com/kubedb/redis/releases/tag/v0.9.0)

@@ -1,0 +1,116 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.01.14",
+  "release_date": "2021-01-14T10:01:07.099211437Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.01.14",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "d516b399",
+              "Subject": "Keep resource request & limit is in sync  (#685)"
+            },
+            {
+              "SHA": "8766c8b9",
+              "Subject": "Remove readiness and liveness prove from MySQL helper (#686)"
+            },
+            {
+              "SHA": "06de1945",
+              "Subject": "Use suffix instead of prefix for ES pods (#684)"
+            },
+            {
+              "SHA": "a76dc4cc",
+              "Subject": "Move all MongoDB constants (#683)"
+            },
+            {
+              "SHA": "7a3dd5ee",
+              "Subject": "Set default affinity rules for MySQL and Postgres (#680)"
+            },
+            {
+              "SHA": "45768d13",
+              "Subject": "Make sysctl initContainer optional (#682)"
+            },
+            {
+              "SHA": "91826678",
+              "Subject": "Use kubedb.com prefix for ES node roles (#678)"
+            },
+            {
+              "SHA": "31ec37c3",
+              "Subject": "Add MySQL OpsRequest constants (#681)"
+            },
+            {
+              "SHA": "2bfc35e9",
+              "Subject": "Add Hosts helper for MySQL (#679)"
+            },
+            {
+              "SHA": "e4cb7ef9",
+              "Subject": "MySQL primary service dns helper (#677)"
+            },
+            {
+              "SHA": "2469f17e",
+              "Subject": "Add constants for Elasticsearch TLS reconfiguration (#672)"
+            },
+            {
+              "SHA": "2c61fb41",
+              "Subject": "Add MongoDB constants (#676)"
+            },
+            {
+              "SHA": "31584e58",
+              "Subject": "Add DB constants and tls-reconfigure checker func (#657)"
+            },
+            {
+              "SHA": "4d67bea1",
+              "Subject": "Add MongoDB & Elasticsearch Autoscaler CRDs (#659)"
+            },
+            {
+              "SHA": "fb88afcf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#675)"
+            },
+            {
+              "SHA": "56a61c7f",
+              "Subject": "Change default resource limits to 1Gi ram and 500m cpu (#674)"
+            },
+            {
+              "SHA": "a36050ca",
+              "Subject": "Invoke update handler on labels or annotations change"
+            },
+            {
+              "SHA": "37c68bd0",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#673)"
+            },
+            {
+              "SHA": "83fb66c2",
+              "Subject": "Add redis constants and an address function (#663)"
+            },
+            {
+              "SHA": "2c0e6319",
+              "Subject": "Add support for Elasticsearch volume expansion (#666)"
+            },
+            {
+              "SHA": "d16f40aa",
+              "Subject": "Add changes to Elasticsearch vertical scaling spec (#662)"
+            },
+            {
+              "SHA": "938147c4",
+              "Subject": "Add Elasticsearch scaling constants (#658)"
+            },
+            {
+              "SHA": "b1641bdf",
+              "Subject": "Update for release Stash@v2020.12.17 (#671)"
+            },
+            {
+              "SHA": "d37718a2",
+              "Subject": "Remove doNotPause logic from namespace validator (#669)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

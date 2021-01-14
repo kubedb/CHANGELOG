@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:12:46.549226837Z",
+  "release_date": "2021-01-14T10:13:17.899772281Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
@@ -173,6 +173,76 @@
             {
               "SHA": "07fa4a7e",
               "Subject": "Update KubeDB api (#565)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "bdbf3281",
+              "Subject": "Prepare for release v0.9.0 (#272)"
+            },
+            {
+              "SHA": "b67eb377",
+              "Subject": "Update KubeDB api (#271)"
+            },
+            {
+              "SHA": "c1104043",
+              "Subject": "Update KubeDB api (#270)"
+            },
+            {
+              "SHA": "33752041",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#269)"
+            },
+            {
+              "SHA": "9cf96e13",
+              "Subject": "Update KubeDB api (#268)"
+            },
+            {
+              "SHA": "0bfe24df",
+              "Subject": "Update KubeDB api (#267)"
+            },
+            {
+              "SHA": "29fc8f33",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#266)"
+            },
+            {
+              "SHA": "c9dfe14c",
+              "Subject": "Update KubeDB api (#265)"
+            },
+            {
+              "SHA": "f75073c9",
+              "Subject": "Fix annotations passing to AppBinding (#264)"
+            },
+            {
+              "SHA": "28cdfdfd",
+              "Subject": "Initialize mapper"
+            },
+            {
+              "SHA": "6a9243ab",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#263)"
+            },
+            {
+              "SHA": "e838aec4",
+              "Subject": "Update KubeDB api (#262)"
+            },
+            {
+              "SHA": "88654cdd",
+              "Subject": "Update KubeDB api (#261)"
+            },
+            {
+              "SHA": "c2fb7c2f",
+              "Subject": "Update KubeDB api (#260)"
+            },
+            {
+              "SHA": "5cc2cf17",
+              "Subject": "Update KubeDB api (#259)"
             }
           ]
         }

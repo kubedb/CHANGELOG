@@ -189,6 +189,22 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.3.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.3.0)
+
+- [693e3cee](https://github.com/kubedb/pgbouncer/commit/693e3cee) Prepare for release v0.3.0 (#133)
+- [51c8fee2](https://github.com/kubedb/pgbouncer/commit/51c8fee2) Prepare for release v0.3.0-rc.0 (#132)
+- [fded227a](https://github.com/kubedb/pgbouncer/commit/fded227a) Update KubeDB api (#130)
+- [7702e10a](https://github.com/kubedb/pgbouncer/commit/7702e10a) Change offshoot selector labels to standard k8s app labels (#128)
+- [2ba5284c](https://github.com/kubedb/pgbouncer/commit/2ba5284c) Update Kubernetes v1.18.9 dependencies (#129)
+- [3507a96c](https://github.com/kubedb/pgbouncer/commit/3507a96c) Update KubeDB api (#127)
+- [fc8330e4](https://github.com/kubedb/pgbouncer/commit/fc8330e4) Update KubeDB api (#126)
+- [3e9b4e77](https://github.com/kubedb/pgbouncer/commit/3e9b4e77) Update KubeDB api (#125)
+- [6c85ca6a](https://github.com/kubedb/pgbouncer/commit/6c85ca6a) Update KubeDB api (#124)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.16.0](https://github.com/kubedb/postgres/releases/tag/v0.16.0)

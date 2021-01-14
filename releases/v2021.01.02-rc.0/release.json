@@ -81,7 +81,7 @@
     },
     {
       "github.com/appscode/kubedb-autoscaler": {
-        "key": "kubedb-autocaler",
+        "key": "kubedb-autoscaler",
         "tag": "v0.1.0-rc.0",
         "chartNames": [
           "kubedb-autoscaler"

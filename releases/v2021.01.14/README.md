@@ -1,6 +1,26 @@
 # KubeDB v2021.01.14 (2021-01-14)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.3.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.3.0)
+
+- [50a3e6b9](https://github.com/appscode/kubedb-enterprise/commit/50a3e6b9) Prepare for release v0.3.0 (#119)
+- [b8195907](https://github.com/appscode/kubedb-enterprise/commit/b8195907) Fix reconfigure TLS condition (#118)
+- [62fc25ce](https://github.com/appscode/kubedb-enterprise/commit/62fc25ce) Add ServiceName into certificate DNS list (#113)
+- [7684481a](https://github.com/appscode/kubedb-enterprise/commit/7684481a) Delete PVC in MongoDB while scaling down horizontally (#116)
+- [729d44c1](https://github.com/appscode/kubedb-enterprise/commit/729d44c1) Add Elasticsearch ops requests support (#115)
+- [bfb5f0f5](https://github.com/appscode/kubedb-enterprise/commit/bfb5f0f5) use evict pod instead of delete (#111)
+- [93edad9b](https://github.com/appscode/kubedb-enterprise/commit/93edad9b) Update Reconfigure (#105)
+- [fc5fac23](https://github.com/appscode/kubedb-enterprise/commit/fc5fac23) Fix vertical scaling resources (#107)
+- [332c22c8](https://github.com/appscode/kubedb-enterprise/commit/332c22c8) Update Volume Expansion (#112)
+- [c003adef](https://github.com/appscode/kubedb-enterprise/commit/c003adef) Add MySQL VolumeExpansion and Reconfiguration (#76)
+- [a9ed2e6a](https://github.com/appscode/kubedb-enterprise/commit/a9ed2e6a) Prepare for release v0.3.0-rc.0 (#109)
+- [d62bdf40](https://github.com/appscode/kubedb-enterprise/commit/d62bdf40) Change offshoot selector labels to standard k8s app labels (#96)
+- [137b1d11](https://github.com/appscode/kubedb-enterprise/commit/137b1d11) Add evict pods in MongoDB (#106)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.16.0](https://github.com/kubedb/apimachinery/releases/tag/v0.16.0)

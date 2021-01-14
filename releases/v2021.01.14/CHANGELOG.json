@@ -1,11 +1,73 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:53:06.381935884Z",
+  "release_date": "2021-01-14T11:00:02.945907596Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "50a3e6b9",
+              "Subject": "Prepare for release v0.3.0 (#119)"
+            },
+            {
+              "SHA": "b8195907",
+              "Subject": "Fix reconfigure TLS condition (#118)"
+            },
+            {
+              "SHA": "62fc25ce",
+              "Subject": "Add ServiceName into certificate DNS list (#113)"
+            },
+            {
+              "SHA": "7684481a",
+              "Subject": "Delete PVC in MongoDB while scaling down horizontally (#116)"
+            },
+            {
+              "SHA": "729d44c1",
+              "Subject": "Add Elasticsearch ops requests support (#115)"
+            },
+            {
+              "SHA": "bfb5f0f5",
+              "Subject": "use evict pod instead of delete (#111)"
+            },
+            {
+              "SHA": "93edad9b",
+              "Subject": "Update Reconfigure (#105)"
+            },
+            {
+              "SHA": "fc5fac23",
+              "Subject": "Fix vertical scaling resources (#107)"
+            },
+            {
+              "SHA": "332c22c8",
+              "Subject": "Update Volume Expansion (#112)"
+            },
+            {
+              "SHA": "c003adef",
+              "Subject": "Add MySQL VolumeExpansion and Reconfiguration (#76)"
+            },
+            {
+              "SHA": "a9ed2e6a",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#109)"
+            },
+            {
+              "SHA": "d62bdf40",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#96)"
+            },
+            {
+              "SHA": "137b1d11",
+              "Subject": "Add evict pods in MongoDB (#106)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

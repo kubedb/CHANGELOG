@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:14:27.135068244Z",
+  "release_date": "2021-01-14T10:14:47.34662192Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
@@ -533,6 +533,64 @@
             {
               "SHA": "2d7fa549",
               "Subject": "Update KubeDB api (#323)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "bb9f2320",
+              "Subject": "Prepare for release v0.3.0 (#167)"
+            },
+            {
+              "SHA": "f545beb4",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#166)"
+            },
+            {
+              "SHA": "c5d0c826",
+              "Subject": "Update KubeDB api (#164)"
+            },
+            {
+              "SHA": "b3da5757",
+              "Subject": "Fix annotations passing to AppBinding (#163)"
+            },
+            {
+              "SHA": "7aeaee74",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#161)"
+            },
+            {
+              "SHA": "a36ffa87",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#162)"
+            },
+            {
+              "SHA": "fa3a2a9d",
+              "Subject": "Update KubeDB api (#160)"
+            },
+            {
+              "SHA": "a1db6821",
+              "Subject": "Update KubeDB api (#159)"
+            },
+            {
+              "SHA": "4357b18a",
+              "Subject": "Use basic-auth secret type for auth secret (#158)"
+            },
+            {
+              "SHA": "f9ccfc4e",
+              "Subject": "Update KubeDB api (#157)"
+            },
+            {
+              "SHA": "11739165",
+              "Subject": "Update for release Stash@v2020.12.17 (#156)"
+            },
+            {
+              "SHA": "80bf041c",
+              "Subject": "Update KubeDB api (#155)"
             }
           ]
         }

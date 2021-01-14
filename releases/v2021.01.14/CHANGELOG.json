@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:01:55.308708466Z",
+  "release_date": "2021-01-14T10:09:04.346638915Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
@@ -107,6 +107,72 @@
             {
               "SHA": "d37718a2",
               "Subject": "Remove doNotPause logic from namespace validator (#669)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "82be6c3c",
+              "Subject": "Prepare for release v0.16.0 (#578)"
+            },
+            {
+              "SHA": "4e216d5b",
+              "Subject": "Update KubeDB api (#577)"
+            },
+            {
+              "SHA": "d49954d2",
+              "Subject": "Update KubeDB api (#576)"
+            },
+            {
+              "SHA": "2a3bc5a8",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#575)"
+            },
+            {
+              "SHA": "500b142a",
+              "Subject": "Update KubeDB api (#574)"
+            },
+            {
+              "SHA": "8208fcf1",
+              "Subject": "Update KubeDB api (#573)"
+            },
+            {
+              "SHA": "59ac94e7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#572)"
+            },
+            {
+              "SHA": "1ebd0633",
+              "Subject": "Update KubeDB api (#571)"
+            },
+            {
+              "SHA": "0ccba4d1",
+              "Subject": "Update KubeDB api (#570)"
+            },
+            {
+              "SHA": "770f94be",
+              "Subject": "Update KubeDB api (#569)"
+            },
+            {
+              "SHA": "fbdcce08",
+              "Subject": "Update KubeDB api (#568)"
+            },
+            {
+              "SHA": "93b038e9",
+              "Subject": "Update KubeDB api (#567)"
+            },
+            {
+              "SHA": "ef758783",
+              "Subject": "Update for release Stash@v2020.12.17 (#566)"
+            },
+            {
+              "SHA": "07fa4a7e",
+              "Subject": "Update KubeDB api (#565)"
             }
           ]
         }

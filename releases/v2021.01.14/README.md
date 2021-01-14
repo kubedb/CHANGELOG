@@ -32,6 +32,27 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.16.0](https://github.com/kubedb/cli/releases/tag/v0.16.0)
+
+- [82be6c3c](https://github.com/kubedb/cli/commit/82be6c3c) Prepare for release v0.16.0 (#578)
+- [4e216d5b](https://github.com/kubedb/cli/commit/4e216d5b) Update KubeDB api (#577)
+- [d49954d2](https://github.com/kubedb/cli/commit/d49954d2) Update KubeDB api (#576)
+- [2a3bc5a8](https://github.com/kubedb/cli/commit/2a3bc5a8) Prepare for release v0.16.0-rc.0 (#575)
+- [500b142a](https://github.com/kubedb/cli/commit/500b142a) Update KubeDB api (#574)
+- [8208fcf1](https://github.com/kubedb/cli/commit/8208fcf1) Update KubeDB api (#573)
+- [59ac94e7](https://github.com/kubedb/cli/commit/59ac94e7) Update Kubernetes v1.18.9 dependencies (#572)
+- [1ebd0633](https://github.com/kubedb/cli/commit/1ebd0633) Update KubeDB api (#571)
+- [0ccba4d1](https://github.com/kubedb/cli/commit/0ccba4d1) Update KubeDB api (#570)
+- [770f94be](https://github.com/kubedb/cli/commit/770f94be) Update KubeDB api (#569)
+- [fbdcce08](https://github.com/kubedb/cli/commit/fbdcce08) Update KubeDB api (#568)
+- [93b038e9](https://github.com/kubedb/cli/commit/93b038e9) Update KubeDB api (#567)
+- [ef758783](https://github.com/kubedb/cli/commit/ef758783) Update for release Stash@v2020.12.17 (#566)
+- [07fa4a7e](https://github.com/kubedb/cli/commit/07fa4a7e) Update KubeDB api (#565)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.4.0](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.0)

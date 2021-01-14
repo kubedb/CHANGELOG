@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:43:16.807626922Z",
+  "release_date": "2021-01-14T10:53:06.381935884Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
@@ -533,6 +533,76 @@
             {
               "SHA": "2d7fa549",
               "Subject": "Update KubeDB api (#323)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "58a5bfd9",
+              "Subject": "Prepare for release v0.16.0 (#380)"
+            },
+            {
+              "SHA": "4ce94dce",
+              "Subject": "Update KubeDB api (#378)"
+            },
+            {
+              "SHA": "24006027",
+              "Subject": "Add affinity rules to MySQL and Postgres (#379)"
+            },
+            {
+              "SHA": "a5eb51e0",
+              "Subject": "Update KubeDB api (#377)"
+            },
+            {
+              "SHA": "f8c92379",
+              "Subject": "MySQL: Pass --db-kind to replication mode detector"
+            },
+            {
+              "SHA": "3ee052dc",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#376)"
+            },
+            {
+              "SHA": "dbb5195b",
+              "Subject": "Update KubeDB api (#375)"
+            },
+            {
+              "SHA": "4b162e08",
+              "Subject": "Update KubeDB api (#374)"
+            },
+            {
+              "SHA": "39762b0f",
+              "Subject": "Update KubeDB api (#373)"
+            },
+            {
+              "SHA": "d6a2cf27",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#372)"
+            },
+            {
+              "SHA": "36a8ab6f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#371)"
+            },
+            {
+              "SHA": "554638e0",
+              "Subject": "Update KubeDB api (#369)"
+            },
+            {
+              "SHA": "8c7ef91d",
+              "Subject": "Update KubeDB api (#368)"
+            },
+            {
+              "SHA": "dd96574e",
+              "Subject": "Update KubeDB api (#367)"
+            },
+            {
+              "SHA": "eef04de1",
+              "Subject": "Update KubeDB api (#366)"
             }
           ]
         }

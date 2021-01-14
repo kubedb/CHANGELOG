@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:13:17.899772281Z",
+  "release_date": "2021-01-14T10:13:30.108924498Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
@@ -173,6 +173,108 @@
             {
               "SHA": "07fa4a7e",
               "Subject": "Update KubeDB api (#565)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "e7304c07",
+              "Subject": "Prepare for release v0.16.0 (#456)"
+            },
+            {
+              "SHA": "e0cf49e0",
+              "Subject": "Use suffix instead of prefix for ES pods (#455)"
+            },
+            {
+              "SHA": "8c26a131",
+              "Subject": "Use version from version object and delete olivere go-client (#454)"
+            },
+            {
+              "SHA": "c3964ec7",
+              "Subject": "Use original Elasticsearch version for opendistro version crd (#453)"
+            },
+            {
+              "SHA": "f60129fc",
+              "Subject": "Add various fixes (#439)"
+            },
+            {
+              "SHA": "07b2810e",
+              "Subject": "Make sysctl initContainer optional (#452)"
+            },
+            {
+              "SHA": "694e922c",
+              "Subject": "Update KubeDB api (#451)"
+            },
+            {
+              "SHA": "9961f623",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#450)"
+            },
+            {
+              "SHA": "e7d84a5f",
+              "Subject": "Update KubeDB api (#449)"
+            },
+            {
+              "SHA": "7a40f5a5",
+              "Subject": "Update KubeDB api (#448)"
+            },
+            {
+              "SHA": "c680498d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#447)"
+            },
+            {
+              "SHA": "e28277d8",
+              "Subject": "Update KubeDB api (#446)"
+            },
+            {
+              "SHA": "21f98151",
+              "Subject": "Fix annotations passing to AppBinding (#445)"
+            },
+            {
+              "SHA": "6c7ff056",
+              "Subject": "Use StatefulSet naming methods (#430)"
+            },
+            {
+              "SHA": "23a53309",
+              "Subject": "Update KubeDB api (#444)"
+            },
+            {
+              "SHA": "a4217edf",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#442)"
+            },
+            {
+              "SHA": "6535adff",
+              "Subject": "Delete tests moved to tests repo (#443)"
+            },
+            {
+              "SHA": "ca2b5be5",
+              "Subject": "Update KubeDB api (#441)"
+            },
+            {
+              "SHA": "ce19a83e",
+              "Subject": "Update KubeDB api (#440)"
+            },
+            {
+              "SHA": "662902a9",
+              "Subject": "Update immutable field list (#435)"
+            },
+            {
+              "SHA": "efe804c9",
+              "Subject": "Update KubeDB api (#438)"
+            },
+            {
+              "SHA": "6ac3eb02",
+              "Subject": "Update for release Stash@v2020.12.17 (#437)"
+            },
+            {
+              "SHA": "1da53ab9",
+              "Subject": "Update KubeDB api (#436)"
             }
           ]
         }

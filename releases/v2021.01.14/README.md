@@ -53,6 +53,36 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.16.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.16.0)
+
+- [e7304c07](https://github.com/kubedb/elasticsearch/commit/e7304c07) Prepare for release v0.16.0 (#456)
+- [e0cf49e0](https://github.com/kubedb/elasticsearch/commit/e0cf49e0) Use suffix instead of prefix for ES pods (#455)
+- [8c26a131](https://github.com/kubedb/elasticsearch/commit/8c26a131) Use version from version object and delete olivere go-client (#454)
+- [c3964ec7](https://github.com/kubedb/elasticsearch/commit/c3964ec7) Use original Elasticsearch version for opendistro version crd (#453)
+- [f60129fc](https://github.com/kubedb/elasticsearch/commit/f60129fc) Add various fixes (#439)
+- [07b2810e](https://github.com/kubedb/elasticsearch/commit/07b2810e) Make sysctl initContainer optional (#452)
+- [694e922c](https://github.com/kubedb/elasticsearch/commit/694e922c) Update KubeDB api (#451)
+- [9961f623](https://github.com/kubedb/elasticsearch/commit/9961f623) Prepare for release v0.16.0-rc.0 (#450)
+- [e7d84a5f](https://github.com/kubedb/elasticsearch/commit/e7d84a5f) Update KubeDB api (#449)
+- [7a40f5a5](https://github.com/kubedb/elasticsearch/commit/7a40f5a5) Update KubeDB api (#448)
+- [c680498d](https://github.com/kubedb/elasticsearch/commit/c680498d) Update Kubernetes v1.18.9 dependencies (#447)
+- [e28277d8](https://github.com/kubedb/elasticsearch/commit/e28277d8) Update KubeDB api (#446)
+- [21f98151](https://github.com/kubedb/elasticsearch/commit/21f98151) Fix annotations passing to AppBinding (#445)
+- [6c7ff056](https://github.com/kubedb/elasticsearch/commit/6c7ff056) Use StatefulSet naming methods (#430)
+- [23a53309](https://github.com/kubedb/elasticsearch/commit/23a53309) Update KubeDB api (#444)
+- [a4217edf](https://github.com/kubedb/elasticsearch/commit/a4217edf) Change offshoot selector labels to standard k8s app labels (#442)
+- [6535adff](https://github.com/kubedb/elasticsearch/commit/6535adff) Delete tests moved to tests repo (#443)
+- [ca2b5be5](https://github.com/kubedb/elasticsearch/commit/ca2b5be5) Update KubeDB api (#441)
+- [ce19a83e](https://github.com/kubedb/elasticsearch/commit/ce19a83e) Update KubeDB api (#440)
+- [662902a9](https://github.com/kubedb/elasticsearch/commit/662902a9) Update immutable field list (#435)
+- [efe804c9](https://github.com/kubedb/elasticsearch/commit/efe804c9) Update KubeDB api (#438)
+- [6ac3eb02](https://github.com/kubedb/elasticsearch/commit/6ac3eb02) Update for release Stash@v2020.12.17 (#437)
+- [1da53ab9](https://github.com/kubedb/elasticsearch/commit/1da53ab9) Update KubeDB api (#436)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.9.0](https://github.com/kubedb/memcached/releases/tag/v0.9.0)

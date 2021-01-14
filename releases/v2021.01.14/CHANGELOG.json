@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:09:04.346638915Z",
+  "release_date": "2021-01-14T10:10:52.963324364Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
@@ -173,6 +173,104 @@
             {
               "SHA": "07fa4a7e",
               "Subject": "Update KubeDB api (#565)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "e5e3a121",
+              "Subject": "Prepare for release v0.9.0 (#343)"
+            },
+            {
+              "SHA": "192c6b83",
+              "Subject": "Update health checker for cluster readiness check (#342)"
+            },
+            {
+              "SHA": "2948601f",
+              "Subject": "Fix unit test failed for adding affinity rules to DB (#341)"
+            },
+            {
+              "SHA": "de8198ce",
+              "Subject": "Add Affinity rules to DB (#340)"
+            },
+            {
+              "SHA": "1877e10f",
+              "Subject": "Update KubeDB api (#339)"
+            },
+            {
+              "SHA": "c7a40574",
+              "Subject": "Pass --db-kind to replication mode detector (#338)"
+            },
+            {
+              "SHA": "ad9d9879",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#337)"
+            },
+            {
+              "SHA": "a9e9d1f7",
+              "Subject": "Fix args for TLS (#336)"
+            },
+            {
+              "SHA": "9dd89572",
+              "Subject": "Update KubeDB api (#335)"
+            },
+            {
+              "SHA": "29ff2c57",
+              "Subject": "Fixes DB Health Checker and StatefulSet Patch (#322)"
+            },
+            {
+              "SHA": "47470895",
+              "Subject": "Remove unnecessary StatefulSet waitloop (#331)"
+            },
+            {
+              "SHA": "3aec8f59",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#334)"
+            },
+            {
+              "SHA": "c1ca980d",
+              "Subject": "Update KubeDB api (#333)"
+            },
+            {
+              "SHA": "96f4b59c",
+              "Subject": "Fix annotations passing to AppBinding (#332)"
+            },
+            {
+              "SHA": "76f371a2",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#329)"
+            },
+            {
+              "SHA": "aa3d6b6f",
+              "Subject": "Delete tests moved to tests repo (#330)"
+            },
+            {
+              "SHA": "6c544d2c",
+              "Subject": "Update KubeDB api (#328)"
+            },
+            {
+              "SHA": "fe03a36c",
+              "Subject": "Update KubeDB api (#327)"
+            },
+            {
+              "SHA": "29fd7474",
+              "Subject": "Use basic-auth secret type for auth secret (#326)"
+            },
+            {
+              "SHA": "90457549",
+              "Subject": "Update KubeDB api (#325)"
+            },
+            {
+              "SHA": "1487f15e",
+              "Subject": "Update for release Stash@v2020.12.17 (#324)"
+            },
+            {
+              "SHA": "2d7fa549",
+              "Subject": "Update KubeDB api (#323)"
             }
           ]
         }

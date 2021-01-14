@@ -1,11 +1,93 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T11:00:02.945907596Z",
+  "release_date": "2021-01-14T11:04:54.13594256Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "1eb7c3b",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "f346d5e",
+              "Subject": "Prepare for release v0.0.1-rc.0 (#5)"
+            },
+            {
+              "SHA": "bd5dbd9",
+              "Subject": "Remove extra informers (#4)"
+            },
+            {
+              "SHA": "9b461a5",
+              "Subject": "Enable GitHub Actions (#6)"
+            },
+            {
+              "SHA": "de39ed0",
+              "Subject": "Update license header (#7)"
+            },
+            {
+              "SHA": "5518680",
+              "Subject": "Remove validators and enable ES autoscaler (#3)"
+            },
+            {
+              "SHA": "c0d65f4",
+              "Subject": "Add `inMemory` configuration in vertical scaling (#2)"
+            },
+            {
+              "SHA": "088777c",
+              "Subject": "Add Elasticsearch Autoscaler Controller (#1)"
+            },
+            {
+              "SHA": "779a2d2",
+              "Subject": "Add Conditions"
+            },
+            {
+              "SHA": "cce0828",
+              "Subject": "Update Makefile for install and uninstall"
+            },
+            {
+              "SHA": "04c9f28",
+              "Subject": "Remove some prometheus flags"
+            },
+            {
+              "SHA": "118284a",
+              "Subject": "Refactor some common code"
+            },
+            {
+              "SHA": "bdf8d89",
+              "Subject": "Fix Webhook"
+            },
+            {
+              "SHA": "2934025",
+              "Subject": "Handle empty prometheus vector"
+            },
+            {
+              "SHA": "c718118",
+              "Subject": "Fix Trigger"
+            },
+            {
+              "SHA": "b795a24",
+              "Subject": "Update Prometheus Client"
+            },
+            {
+              "SHA": "20c69c1",
+              "Subject": "Add MongoDBAutoscaler CRD"
+            },
+            {
+              "SHA": "6c2c2be",
+              "Subject": "Add Storage Auto Scaler"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode/kubedb-enterprise",
       "releases": [

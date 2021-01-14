@@ -1,6 +1,31 @@
 # KubeDB v2021.01.14 (2021-01-14)
 
 
+## [appscode/kubedb-autoscaler](https://github.com/appscode/kubedb-autoscaler)
+
+### [v0.1.0](https://github.com/appscode/kubedb-autoscaler/releases/tag/v0.1.0)
+
+- [1eb7c3b](https://github.com/appscode/kubedb-autoscaler/commit/1eb7c3b) Prepare for release v0.1.0 (#8)
+- [f346d5e](https://github.com/appscode/kubedb-autoscaler/commit/f346d5e) Prepare for release v0.0.1-rc.0 (#5)
+- [bd5dbd9](https://github.com/appscode/kubedb-autoscaler/commit/bd5dbd9) Remove extra informers (#4)
+- [9b461a5](https://github.com/appscode/kubedb-autoscaler/commit/9b461a5) Enable GitHub Actions (#6)
+- [de39ed0](https://github.com/appscode/kubedb-autoscaler/commit/de39ed0) Update license header (#7)
+- [5518680](https://github.com/appscode/kubedb-autoscaler/commit/5518680) Remove validators and enable ES autoscaler (#3)
+- [c0d65f4](https://github.com/appscode/kubedb-autoscaler/commit/c0d65f4) Add `inMemory` configuration in vertical scaling (#2)
+- [088777c](https://github.com/appscode/kubedb-autoscaler/commit/088777c) Add Elasticsearch Autoscaler Controller (#1)
+- [779a2d2](https://github.com/appscode/kubedb-autoscaler/commit/779a2d2) Add Conditions
+- [cce0828](https://github.com/appscode/kubedb-autoscaler/commit/cce0828) Update Makefile for install and uninstall
+- [04c9f28](https://github.com/appscode/kubedb-autoscaler/commit/04c9f28) Remove some prometheus flags
+- [118284a](https://github.com/appscode/kubedb-autoscaler/commit/118284a) Refactor some common code
+- [bdf8d89](https://github.com/appscode/kubedb-autoscaler/commit/bdf8d89) Fix Webhook
+- [2934025](https://github.com/appscode/kubedb-autoscaler/commit/2934025) Handle empty prometheus vector
+- [c718118](https://github.com/appscode/kubedb-autoscaler/commit/c718118) Fix Trigger
+- [b795a24](https://github.com/appscode/kubedb-autoscaler/commit/b795a24) Update Prometheus Client
+- [20c69c1](https://github.com/appscode/kubedb-autoscaler/commit/20c69c1) Add MongoDBAutoscaler CRD
+- [6c2c2be](https://github.com/appscode/kubedb-autoscaler/commit/6c2c2be) Add Storage Auto Scaler
+
+
+
 ## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
 
 ### [v0.3.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.3.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:11:29.926498142Z",
+  "release_date": "2021-01-14T10:12:46.549226837Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
@@ -173,6 +173,96 @@
             {
               "SHA": "07fa4a7e",
               "Subject": "Update KubeDB api (#565)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "59e808c4",
+              "Subject": "Prepare for release v0.9.0 (#354)"
+            },
+            {
+              "SHA": "2d5c1629",
+              "Subject": "Use constants from apimachinery (#352)"
+            },
+            {
+              "SHA": "55ef5143",
+              "Subject": "Add inMemory Validator (#353)"
+            },
+            {
+              "SHA": "3fb3258a",
+              "Subject": "Update condition to not panic on invalid TLS configuration (#351)"
+            },
+            {
+              "SHA": "1e9bb613",
+              "Subject": "Update KubeDB api (#350)"
+            },
+            {
+              "SHA": "f23949c6",
+              "Subject": "Update KubeDB api (#349)"
+            },
+            {
+              "SHA": "ee410983",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#348)"
+            },
+            {
+              "SHA": "b39b664b",
+              "Subject": "Update KubeDB api (#347)"
+            },
+            {
+              "SHA": "84e007fe",
+              "Subject": "Update KubeDB api (#346)"
+            },
+            {
+              "SHA": "e8aa1f8a",
+              "Subject": "Close connections when operation completes (#338)"
+            },
+            {
+              "SHA": "1ec2a2c7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#345)"
+            },
+            {
+              "SHA": "7306fb26",
+              "Subject": "Update KubeDB api (#344)"
+            },
+            {
+              "SHA": "efa62a85",
+              "Subject": "Fix annotations passing to AppBinding (#342)"
+            },
+            {
+              "SHA": "9d88e69e",
+              "Subject": "Remove `inMemory` setting from Config Server (#343)"
+            },
+            {
+              "SHA": "32b96d12",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#341)"
+            },
+            {
+              "SHA": "67fcdbf4",
+              "Subject": "Update KubeDB api (#340)"
+            },
+            {
+              "SHA": "cf2c0778",
+              "Subject": "Update KubeDB api (#339)"
+            },
+            {
+              "SHA": "232a4a00",
+              "Subject": "Update KubeDB api (#337)"
+            },
+            {
+              "SHA": "0a1307e7",
+              "Subject": "Update for release Stash@v2020.12.17 (#336)"
+            },
+            {
+              "SHA": "89b4e4fc",
+              "Subject": "Update KubeDB api (#335)"
             }
           ]
         }

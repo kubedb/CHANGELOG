@@ -1,0 +1,1618 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.01.14",
+  "release_date": "2021-01-14T11:50:54.015225756Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.01.14",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "1eb7c3b",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "f346d5e",
+              "Subject": "Prepare for release v0.0.1-rc.0 (#5)"
+            },
+            {
+              "SHA": "bd5dbd9",
+              "Subject": "Remove extra informers (#4)"
+            },
+            {
+              "SHA": "9b461a5",
+              "Subject": "Enable GitHub Actions (#6)"
+            },
+            {
+              "SHA": "de39ed0",
+              "Subject": "Update license header (#7)"
+            },
+            {
+              "SHA": "5518680",
+              "Subject": "Remove validators and enable ES autoscaler (#3)"
+            },
+            {
+              "SHA": "c0d65f4",
+              "Subject": "Add `inMemory` configuration in vertical scaling (#2)"
+            },
+            {
+              "SHA": "088777c",
+              "Subject": "Add Elasticsearch Autoscaler Controller (#1)"
+            },
+            {
+              "SHA": "779a2d2",
+              "Subject": "Add Conditions"
+            },
+            {
+              "SHA": "cce0828",
+              "Subject": "Update Makefile for install and uninstall"
+            },
+            {
+              "SHA": "04c9f28",
+              "Subject": "Remove some prometheus flags"
+            },
+            {
+              "SHA": "118284a",
+              "Subject": "Refactor some common code"
+            },
+            {
+              "SHA": "bdf8d89",
+              "Subject": "Fix Webhook"
+            },
+            {
+              "SHA": "2934025",
+              "Subject": "Handle empty prometheus vector"
+            },
+            {
+              "SHA": "c718118",
+              "Subject": "Fix Trigger"
+            },
+            {
+              "SHA": "b795a24",
+              "Subject": "Update Prometheus Client"
+            },
+            {
+              "SHA": "20c69c1",
+              "Subject": "Add MongoDBAutoscaler CRD"
+            },
+            {
+              "SHA": "6c2c2be",
+              "Subject": "Add Storage Auto Scaler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "50a3e6b9",
+              "Subject": "Prepare for release v0.3.0 (#119)"
+            },
+            {
+              "SHA": "b8195907",
+              "Subject": "Fix reconfigure TLS condition (#118)"
+            },
+            {
+              "SHA": "62fc25ce",
+              "Subject": "Add ServiceName into certificate DNS list (#113)"
+            },
+            {
+              "SHA": "7684481a",
+              "Subject": "Delete PVC in MongoDB while scaling down horizontally (#116)"
+            },
+            {
+              "SHA": "729d44c1",
+              "Subject": "Add Elasticsearch ops requests support (#115)"
+            },
+            {
+              "SHA": "bfb5f0f5",
+              "Subject": "use evict pod instead of delete (#111)"
+            },
+            {
+              "SHA": "93edad9b",
+              "Subject": "Update Reconfigure (#105)"
+            },
+            {
+              "SHA": "fc5fac23",
+              "Subject": "Fix vertical scaling resources (#107)"
+            },
+            {
+              "SHA": "332c22c8",
+              "Subject": "Update Volume Expansion (#112)"
+            },
+            {
+              "SHA": "c003adef",
+              "Subject": "Add MySQL VolumeExpansion and Reconfiguration (#76)"
+            },
+            {
+              "SHA": "a9ed2e6a",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#109)"
+            },
+            {
+              "SHA": "d62bdf40",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#96)"
+            },
+            {
+              "SHA": "137b1d11",
+              "Subject": "Add evict pods in MongoDB (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "d516b399",
+              "Subject": "Keep resource request & limit is in sync  (#685)"
+            },
+            {
+              "SHA": "8766c8b9",
+              "Subject": "Remove readiness and liveness prove from MySQL helper (#686)"
+            },
+            {
+              "SHA": "06de1945",
+              "Subject": "Use suffix instead of prefix for ES pods (#684)"
+            },
+            {
+              "SHA": "a76dc4cc",
+              "Subject": "Move all MongoDB constants (#683)"
+            },
+            {
+              "SHA": "7a3dd5ee",
+              "Subject": "Set default affinity rules for MySQL and Postgres (#680)"
+            },
+            {
+              "SHA": "45768d13",
+              "Subject": "Make sysctl initContainer optional (#682)"
+            },
+            {
+              "SHA": "91826678",
+              "Subject": "Use kubedb.com prefix for ES node roles (#678)"
+            },
+            {
+              "SHA": "31ec37c3",
+              "Subject": "Add MySQL OpsRequest constants (#681)"
+            },
+            {
+              "SHA": "2bfc35e9",
+              "Subject": "Add Hosts helper for MySQL (#679)"
+            },
+            {
+              "SHA": "e4cb7ef9",
+              "Subject": "MySQL primary service dns helper (#677)"
+            },
+            {
+              "SHA": "2469f17e",
+              "Subject": "Add constants for Elasticsearch TLS reconfiguration (#672)"
+            },
+            {
+              "SHA": "2c61fb41",
+              "Subject": "Add MongoDB constants (#676)"
+            },
+            {
+              "SHA": "31584e58",
+              "Subject": "Add DB constants and tls-reconfigure checker func (#657)"
+            },
+            {
+              "SHA": "4d67bea1",
+              "Subject": "Add MongoDB & Elasticsearch Autoscaler CRDs (#659)"
+            },
+            {
+              "SHA": "fb88afcf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#675)"
+            },
+            {
+              "SHA": "56a61c7f",
+              "Subject": "Change default resource limits to 1Gi ram and 500m cpu (#674)"
+            },
+            {
+              "SHA": "a36050ca",
+              "Subject": "Invoke update handler on labels or annotations change"
+            },
+            {
+              "SHA": "37c68bd0",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#673)"
+            },
+            {
+              "SHA": "83fb66c2",
+              "Subject": "Add redis constants and an address function (#663)"
+            },
+            {
+              "SHA": "2c0e6319",
+              "Subject": "Add support for Elasticsearch volume expansion (#666)"
+            },
+            {
+              "SHA": "d16f40aa",
+              "Subject": "Add changes to Elasticsearch vertical scaling spec (#662)"
+            },
+            {
+              "SHA": "938147c4",
+              "Subject": "Add Elasticsearch scaling constants (#658)"
+            },
+            {
+              "SHA": "b1641bdf",
+              "Subject": "Update for release Stash@v2020.12.17 (#671)"
+            },
+            {
+              "SHA": "d37718a2",
+              "Subject": "Remove doNotPause logic from namespace validator (#669)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.01.14",
+          "commits": [
+            {
+              "SHA": "28c24f2",
+              "Subject": "Prepare for release v2021.01.14 (#18)"
+            },
+            {
+              "SHA": "5c60980",
+              "Subject": "Prepare for release v2021.01.02-rc.0 (#17)"
+            },
+            {
+              "SHA": "326d3a6",
+              "Subject": "Add autoscaler chart as optional package for enterprise bundle"
+            },
+            {
+              "SHA": "b30346a",
+              "Subject": "Update repository config (#16)"
+            },
+            {
+              "SHA": "2983345",
+              "Subject": "Update repository config (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "82be6c3c",
+              "Subject": "Prepare for release v0.16.0 (#578)"
+            },
+            {
+              "SHA": "4e216d5b",
+              "Subject": "Update KubeDB api (#577)"
+            },
+            {
+              "SHA": "d49954d2",
+              "Subject": "Update KubeDB api (#576)"
+            },
+            {
+              "SHA": "2a3bc5a8",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#575)"
+            },
+            {
+              "SHA": "500b142a",
+              "Subject": "Update KubeDB api (#574)"
+            },
+            {
+              "SHA": "8208fcf1",
+              "Subject": "Update KubeDB api (#573)"
+            },
+            {
+              "SHA": "59ac94e7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#572)"
+            },
+            {
+              "SHA": "1ebd0633",
+              "Subject": "Update KubeDB api (#571)"
+            },
+            {
+              "SHA": "0ccba4d1",
+              "Subject": "Update KubeDB api (#570)"
+            },
+            {
+              "SHA": "770f94be",
+              "Subject": "Update KubeDB api (#569)"
+            },
+            {
+              "SHA": "fbdcce08",
+              "Subject": "Update KubeDB api (#568)"
+            },
+            {
+              "SHA": "93b038e9",
+              "Subject": "Update KubeDB api (#567)"
+            },
+            {
+              "SHA": "ef758783",
+              "Subject": "Update for release Stash@v2020.12.17 (#566)"
+            },
+            {
+              "SHA": "07fa4a7e",
+              "Subject": "Update KubeDB api (#565)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.01.14",
+          "commits": [
+            {
+              "SHA": "f81af71",
+              "Subject": "Prepare for release v2021.01.14 (#91)"
+            },
+            {
+              "SHA": "9e53e62",
+              "Subject": "Change the prefix to suffix  for Elasticsearch (#90)"
+            },
+            {
+              "SHA": "6bfd6ba",
+              "Subject": "Fix labels for monitoring (#89)"
+            },
+            {
+              "SHA": "1f0fa1f",
+              "Subject": "Add autoscaler installation instructions (#88)"
+            },
+            {
+              "SHA": "a8162bf",
+              "Subject": "Prepare for release v2021.01.02-rc.0 (#87)"
+            },
+            {
+              "SHA": "e394d48",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#86)"
+            },
+            {
+              "SHA": "09c23cf",
+              "Subject": "Update init.script field documentation (#80)"
+            },
+            {
+              "SHA": "ba183c4",
+              "Subject": "Use updated crd label app.kubernetes.io/name=kubedb (#85)"
+            },
+            {
+              "SHA": "32fbe99",
+              "Subject": "Remove RollingUpdate strategy (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "e7304c07",
+              "Subject": "Prepare for release v0.16.0 (#456)"
+            },
+            {
+              "SHA": "e0cf49e0",
+              "Subject": "Use suffix instead of prefix for ES pods (#455)"
+            },
+            {
+              "SHA": "8c26a131",
+              "Subject": "Use version from version object and delete olivere go-client (#454)"
+            },
+            {
+              "SHA": "c3964ec7",
+              "Subject": "Use original Elasticsearch version for opendistro version crd (#453)"
+            },
+            {
+              "SHA": "f60129fc",
+              "Subject": "Add various fixes (#439)"
+            },
+            {
+              "SHA": "07b2810e",
+              "Subject": "Make sysctl initContainer optional (#452)"
+            },
+            {
+              "SHA": "694e922c",
+              "Subject": "Update KubeDB api (#451)"
+            },
+            {
+              "SHA": "9961f623",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#450)"
+            },
+            {
+              "SHA": "e7d84a5f",
+              "Subject": "Update KubeDB api (#449)"
+            },
+            {
+              "SHA": "7a40f5a5",
+              "Subject": "Update KubeDB api (#448)"
+            },
+            {
+              "SHA": "c680498d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#447)"
+            },
+            {
+              "SHA": "e28277d8",
+              "Subject": "Update KubeDB api (#446)"
+            },
+            {
+              "SHA": "21f98151",
+              "Subject": "Fix annotations passing to AppBinding (#445)"
+            },
+            {
+              "SHA": "6c7ff056",
+              "Subject": "Use StatefulSet naming methods (#430)"
+            },
+            {
+              "SHA": "23a53309",
+              "Subject": "Update KubeDB api (#444)"
+            },
+            {
+              "SHA": "a4217edf",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#442)"
+            },
+            {
+              "SHA": "6535adff",
+              "Subject": "Delete tests moved to tests repo (#443)"
+            },
+            {
+              "SHA": "ca2b5be5",
+              "Subject": "Update KubeDB api (#441)"
+            },
+            {
+              "SHA": "ce19a83e",
+              "Subject": "Update KubeDB api (#440)"
+            },
+            {
+              "SHA": "662902a9",
+              "Subject": "Update immutable field list (#435)"
+            },
+            {
+              "SHA": "efe804c9",
+              "Subject": "Update KubeDB api (#438)"
+            },
+            {
+              "SHA": "6ac3eb02",
+              "Subject": "Update for release Stash@v2020.12.17 (#437)"
+            },
+            {
+              "SHA": "1da53ab9",
+              "Subject": "Update KubeDB api (#436)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "27d1591",
+              "Subject": "Prepare for release v0.16.0 (#224)"
+            },
+            {
+              "SHA": "c4b063d",
+              "Subject": "Add permissions for updating pod status (#223)"
+            },
+            {
+              "SHA": "724b8a6",
+              "Subject": "Add permission to update pod status (#222)"
+            },
+            {
+              "SHA": "b7e69f3",
+              "Subject": "Add permission to delete PVC for enterprise operator (#221)"
+            },
+            {
+              "SHA": "3064204",
+              "Subject": "Use original underlying Elasticsearch version in openDistro version crds (#220)"
+            },
+            {
+              "SHA": "5d8d3db",
+              "Subject": "Update Percona MongoDB Server Images (#219)"
+            },
+            {
+              "SHA": "feb4a3f",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#218)"
+            },
+            {
+              "SHA": "7e17d4d",
+              "Subject": "Add kubedb-autoscaler chart (#137)"
+            },
+            {
+              "SHA": "fe87336",
+              "Subject": "Rename gerbage-collector-rbac.yaml to garbage-collector-rbac.yaml"
+            },
+            {
+              "SHA": "5630a5e",
+              "Subject": "Use kmodules.xyz/schema-checker to validate values schema (#217)"
+            },
+            {
+              "SHA": "e22e67e",
+              "Subject": "Update repository config (#215)"
+            },
+            {
+              "SHA": "3ded17a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#214)"
+            },
+            {
+              "SHA": "cb9a295",
+              "Subject": "Add enforceTerminationPolicy (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "bdbf3281",
+              "Subject": "Prepare for release v0.9.0 (#272)"
+            },
+            {
+              "SHA": "b67eb377",
+              "Subject": "Update KubeDB api (#271)"
+            },
+            {
+              "SHA": "c1104043",
+              "Subject": "Update KubeDB api (#270)"
+            },
+            {
+              "SHA": "33752041",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#269)"
+            },
+            {
+              "SHA": "9cf96e13",
+              "Subject": "Update KubeDB api (#268)"
+            },
+            {
+              "SHA": "0bfe24df",
+              "Subject": "Update KubeDB api (#267)"
+            },
+            {
+              "SHA": "29fc8f33",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#266)"
+            },
+            {
+              "SHA": "c9dfe14c",
+              "Subject": "Update KubeDB api (#265)"
+            },
+            {
+              "SHA": "f75073c9",
+              "Subject": "Fix annotations passing to AppBinding (#264)"
+            },
+            {
+              "SHA": "28cdfdfd",
+              "Subject": "Initialize mapper"
+            },
+            {
+              "SHA": "6a9243ab",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#263)"
+            },
+            {
+              "SHA": "e838aec4",
+              "Subject": "Update KubeDB api (#262)"
+            },
+            {
+              "SHA": "88654cdd",
+              "Subject": "Update KubeDB api (#261)"
+            },
+            {
+              "SHA": "c2fb7c2f",
+              "Subject": "Update KubeDB api (#260)"
+            },
+            {
+              "SHA": "5cc2cf17",
+              "Subject": "Update KubeDB api (#259)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "59e808c4",
+              "Subject": "Prepare for release v0.9.0 (#354)"
+            },
+            {
+              "SHA": "2d5c1629",
+              "Subject": "Use constants from apimachinery (#352)"
+            },
+            {
+              "SHA": "55ef5143",
+              "Subject": "Add inMemory Validator (#353)"
+            },
+            {
+              "SHA": "3fb3258a",
+              "Subject": "Update condition to not panic on invalid TLS configuration (#351)"
+            },
+            {
+              "SHA": "1e9bb613",
+              "Subject": "Update KubeDB api (#350)"
+            },
+            {
+              "SHA": "f23949c6",
+              "Subject": "Update KubeDB api (#349)"
+            },
+            {
+              "SHA": "ee410983",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#348)"
+            },
+            {
+              "SHA": "b39b664b",
+              "Subject": "Update KubeDB api (#347)"
+            },
+            {
+              "SHA": "84e007fe",
+              "Subject": "Update KubeDB api (#346)"
+            },
+            {
+              "SHA": "e8aa1f8a",
+              "Subject": "Close connections when operation completes (#338)"
+            },
+            {
+              "SHA": "1ec2a2c7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#345)"
+            },
+            {
+              "SHA": "7306fb26",
+              "Subject": "Update KubeDB api (#344)"
+            },
+            {
+              "SHA": "efa62a85",
+              "Subject": "Fix annotations passing to AppBinding (#342)"
+            },
+            {
+              "SHA": "9d88e69e",
+              "Subject": "Remove `inMemory` setting from Config Server (#343)"
+            },
+            {
+              "SHA": "32b96d12",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#341)"
+            },
+            {
+              "SHA": "67fcdbf4",
+              "Subject": "Update KubeDB api (#340)"
+            },
+            {
+              "SHA": "cf2c0778",
+              "Subject": "Update KubeDB api (#339)"
+            },
+            {
+              "SHA": "232a4a00",
+              "Subject": "Update KubeDB api (#337)"
+            },
+            {
+              "SHA": "0a1307e7",
+              "Subject": "Update for release Stash@v2020.12.17 (#336)"
+            },
+            {
+              "SHA": "89b4e4fc",
+              "Subject": "Update KubeDB api (#335)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "e5e3a121",
+              "Subject": "Prepare for release v0.9.0 (#343)"
+            },
+            {
+              "SHA": "192c6b83",
+              "Subject": "Update health checker for cluster readiness check (#342)"
+            },
+            {
+              "SHA": "2948601f",
+              "Subject": "Fix unit test failed for adding affinity rules to DB (#341)"
+            },
+            {
+              "SHA": "de8198ce",
+              "Subject": "Add Affinity rules to DB (#340)"
+            },
+            {
+              "SHA": "1877e10f",
+              "Subject": "Update KubeDB api (#339)"
+            },
+            {
+              "SHA": "c7a40574",
+              "Subject": "Pass --db-kind to replication mode detector (#338)"
+            },
+            {
+              "SHA": "ad9d9879",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#337)"
+            },
+            {
+              "SHA": "a9e9d1f7",
+              "Subject": "Fix args for TLS (#336)"
+            },
+            {
+              "SHA": "9dd89572",
+              "Subject": "Update KubeDB api (#335)"
+            },
+            {
+              "SHA": "29ff2c57",
+              "Subject": "Fixes DB Health Checker and StatefulSet Patch (#322)"
+            },
+            {
+              "SHA": "47470895",
+              "Subject": "Remove unnecessary StatefulSet waitloop (#331)"
+            },
+            {
+              "SHA": "3aec8f59",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#334)"
+            },
+            {
+              "SHA": "c1ca980d",
+              "Subject": "Update KubeDB api (#333)"
+            },
+            {
+              "SHA": "96f4b59c",
+              "Subject": "Fix annotations passing to AppBinding (#332)"
+            },
+            {
+              "SHA": "76f371a2",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#329)"
+            },
+            {
+              "SHA": "aa3d6b6f",
+              "Subject": "Delete tests moved to tests repo (#330)"
+            },
+            {
+              "SHA": "6c544d2c",
+              "Subject": "Update KubeDB api (#328)"
+            },
+            {
+              "SHA": "fe03a36c",
+              "Subject": "Update KubeDB api (#327)"
+            },
+            {
+              "SHA": "29fd7474",
+              "Subject": "Use basic-auth secret type for auth secret (#326)"
+            },
+            {
+              "SHA": "90457549",
+              "Subject": "Update KubeDB api (#325)"
+            },
+            {
+              "SHA": "1487f15e",
+              "Subject": "Update for release Stash@v2020.12.17 (#324)"
+            },
+            {
+              "SHA": "2d7fa549",
+              "Subject": "Update KubeDB api (#323)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "58a5bfd9",
+              "Subject": "Prepare for release v0.16.0 (#380)"
+            },
+            {
+              "SHA": "4ce94dce",
+              "Subject": "Update KubeDB api (#378)"
+            },
+            {
+              "SHA": "24006027",
+              "Subject": "Add affinity rules to MySQL and Postgres (#379)"
+            },
+            {
+              "SHA": "a5eb51e0",
+              "Subject": "Update KubeDB api (#377)"
+            },
+            {
+              "SHA": "f8c92379",
+              "Subject": "MySQL: Pass --db-kind to replication mode detector"
+            },
+            {
+              "SHA": "3ee052dc",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#376)"
+            },
+            {
+              "SHA": "dbb5195b",
+              "Subject": "Update KubeDB api (#375)"
+            },
+            {
+              "SHA": "4b162e08",
+              "Subject": "Update KubeDB api (#374)"
+            },
+            {
+              "SHA": "39762b0f",
+              "Subject": "Update KubeDB api (#373)"
+            },
+            {
+              "SHA": "d6a2cf27",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#372)"
+            },
+            {
+              "SHA": "36a8ab6f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#371)"
+            },
+            {
+              "SHA": "554638e0",
+              "Subject": "Update KubeDB api (#369)"
+            },
+            {
+              "SHA": "8c7ef91d",
+              "Subject": "Update KubeDB api (#368)"
+            },
+            {
+              "SHA": "dd96574e",
+              "Subject": "Update KubeDB api (#367)"
+            },
+            {
+              "SHA": "eef04de1",
+              "Subject": "Update KubeDB api (#366)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "bb9f2320",
+              "Subject": "Prepare for release v0.3.0 (#167)"
+            },
+            {
+              "SHA": "f545beb4",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#166)"
+            },
+            {
+              "SHA": "c5d0c826",
+              "Subject": "Update KubeDB api (#164)"
+            },
+            {
+              "SHA": "b3da5757",
+              "Subject": "Fix annotations passing to AppBinding (#163)"
+            },
+            {
+              "SHA": "7aeaee74",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#161)"
+            },
+            {
+              "SHA": "a36ffa87",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#162)"
+            },
+            {
+              "SHA": "fa3a2a9d",
+              "Subject": "Update KubeDB api (#160)"
+            },
+            {
+              "SHA": "a1db6821",
+              "Subject": "Update KubeDB api (#159)"
+            },
+            {
+              "SHA": "4357b18a",
+              "Subject": "Use basic-auth secret type for auth secret (#158)"
+            },
+            {
+              "SHA": "f9ccfc4e",
+              "Subject": "Update KubeDB api (#157)"
+            },
+            {
+              "SHA": "11739165",
+              "Subject": "Update for release Stash@v2020.12.17 (#156)"
+            },
+            {
+              "SHA": "80bf041c",
+              "Subject": "Update KubeDB api (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "31050c1",
+              "Subject": "Update KubeDB api (#44)"
+            },
+            {
+              "SHA": "dc786b7",
+              "Subject": "Update KubeDB api (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "693e3cee",
+              "Subject": "Prepare for release v0.3.0 (#133)"
+            },
+            {
+              "SHA": "51c8fee2",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#132)"
+            },
+            {
+              "SHA": "fded227a",
+              "Subject": "Update KubeDB api (#130)"
+            },
+            {
+              "SHA": "7702e10a",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#128)"
+            },
+            {
+              "SHA": "2ba5284c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#129)"
+            },
+            {
+              "SHA": "3507a96c",
+              "Subject": "Update KubeDB api (#127)"
+            },
+            {
+              "SHA": "fc8330e4",
+              "Subject": "Update KubeDB api (#126)"
+            },
+            {
+              "SHA": "3e9b4e77",
+              "Subject": "Update KubeDB api (#125)"
+            },
+            {
+              "SHA": "6c85ca6a",
+              "Subject": "Update KubeDB api (#124)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "a53c9c67",
+              "Subject": "Prepare for release v0.16.0 (#456)"
+            },
+            {
+              "SHA": "7787991e",
+              "Subject": "Update KubeDB api (#454)"
+            },
+            {
+              "SHA": "0e3d4c53",
+              "Subject": "Add pod affinity rules to DB (#455)"
+            },
+            {
+              "SHA": "c5b1d2ac",
+              "Subject": "Update KubeDB api (#453)"
+            },
+            {
+              "SHA": "c7b618f5",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#452)"
+            },
+            {
+              "SHA": "be060733",
+              "Subject": "Update KubeDB api (#451)"
+            },
+            {
+              "SHA": "d2d2f32c",
+              "Subject": "Update KubeDB api (#450)"
+            },
+            {
+              "SHA": "ed375b2b",
+              "Subject": "Update KubeDB api (#449)"
+            },
+            {
+              "SHA": "a3940790",
+              "Subject": "Fix annotations passing to AppBinding (#448)"
+            },
+            {
+              "SHA": "f0b5a9dd",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#447)"
+            },
+            {
+              "SHA": "eb4f80ab",
+              "Subject": "Update KubeDB api (#446)"
+            },
+            {
+              "SHA": "c9075b5a",
+              "Subject": "Update KubeDB api (#445)"
+            },
+            {
+              "SHA": "a04891e1",
+              "Subject": "Use basic-auth secret type for auth secret (#444)"
+            },
+            {
+              "SHA": "e7503eec",
+              "Subject": "Update KubeDB api (#443)"
+            },
+            {
+              "SHA": "0eb3a1b9",
+              "Subject": "Update for release Stash@v2020.12.17 (#442)"
+            },
+            {
+              "SHA": "c3ea786d",
+              "Subject": "Update KubeDB api (#441)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "fdd650cb",
+              "Subject": "Prepare for release v0.3.0 (#148)"
+            },
+            {
+              "SHA": "1ae8aed1",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#147)"
+            },
+            {
+              "SHA": "0e60bddf",
+              "Subject": "Update KubeDB api (#145)"
+            },
+            {
+              "SHA": "df11880c",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#143)"
+            },
+            {
+              "SHA": "540bdea2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#144)"
+            },
+            {
+              "SHA": "52907cb4",
+              "Subject": "Update KubeDB api (#142)"
+            },
+            {
+              "SHA": "d1686708",
+              "Subject": "Update KubeDB api (#141)"
+            },
+            {
+              "SHA": "e5e2a798",
+              "Subject": "Use basic-auth secret type for auth secret (#140)"
+            },
+            {
+              "SHA": "8cf2a9e4",
+              "Subject": "Update KubeDB api (#139)"
+            },
+            {
+              "SHA": "7b0cdb0f",
+              "Subject": "Update for release Stash@v2020.12.17 (#138)"
+            },
+            {
+              "SHA": "ce7136a1",
+              "Subject": "Update KubeDB api (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "b7d20a3e",
+              "Subject": "Prepare for release v0.9.0 (#294)"
+            },
+            {
+              "SHA": "d6b6c733",
+              "Subject": "Update KubeDB api (#293)"
+            },
+            {
+              "SHA": "bba72c0a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#292)"
+            },
+            {
+              "SHA": "d34eff66",
+              "Subject": "Update KubeDB api (#291)"
+            },
+            {
+              "SHA": "b416a016",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#290)"
+            },
+            {
+              "SHA": "751b8f6b",
+              "Subject": "Update KubeDB api (#289)"
+            },
+            {
+              "SHA": "0affafe9",
+              "Subject": "Update KubeDB api (#287)"
+            },
+            {
+              "SHA": "665d6b4f",
+              "Subject": "Remove tests moved to kubedb/tests (#288)"
+            },
+            {
+              "SHA": "6c254e3b",
+              "Subject": "Update KubeDB api (#286)"
+            },
+            {
+              "SHA": "1b73def3",
+              "Subject": "Fix annotations passing to AppBinding (#285)"
+            },
+            {
+              "SHA": "dc349058",
+              "Subject": "Update KubeDB api (#283)"
+            },
+            {
+              "SHA": "7d47e506",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#282)"
+            },
+            {
+              "SHA": "f8f7570f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#284)"
+            },
+            {
+              "SHA": "63cb769d",
+              "Subject": "Update KubeDB api (#281)"
+            },
+            {
+              "SHA": "19ec4460",
+              "Subject": "Update KubeDB api (#280)"
+            },
+            {
+              "SHA": "af67e190",
+              "Subject": "Update KubeDB api (#279)"
+            },
+            {
+              "SHA": "4b89034c",
+              "Subject": "Update KubeDB api (#278)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "f7b0e81",
+              "Subject": "Prepare for release v0.3.0 (#118)"
+            },
+            {
+              "SHA": "26111c6",
+              "Subject": "Update KubeDB api (#117)"
+            },
+            {
+              "SHA": "f5825e2",
+              "Subject": "Update KubeDB api (#116)"
+            },
+            {
+              "SHA": "179e153",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#115)"
+            },
+            {
+              "SHA": "d47023b",
+              "Subject": "Update KubeDB api (#114)"
+            },
+            {
+              "SHA": "3e5db31",
+              "Subject": "Update KubeDB api (#113)"
+            },
+            {
+              "SHA": "987f068",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#110)"
+            },
+            {
+              "SHA": "21fc76f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#112)"
+            },
+            {
+              "SHA": "db85cbd",
+              "Subject": "Close database connection when operation completes (#107)"
+            },
+            {
+              "SHA": "740d1d8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#111)"
+            },
+            {
+              "SHA": "6f228a5",
+              "Subject": "Update KubeDB api (#109)"
+            },
+            {
+              "SHA": "256ea7a",
+              "Subject": "Update KubeDB api (#108)"
+            },
+            {
+              "SHA": "7a9acc0",
+              "Subject": "Update KubeDB api (#106)"
+            },
+            {
+              "SHA": "21a18c2",
+              "Subject": "Update KubeDB api (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "53972ee",
+              "Subject": "Add release tracker script and workflow"
+            },
+            {
+              "SHA": "0bba0a5",
+              "Subject": "Prepare for release v0.1.0 (#88)"
+            },
+            {
+              "SHA": "8f14ee4",
+              "Subject": "Add e2e-test for Elasticsearch (#68)"
+            },
+            {
+              "SHA": "67e0e55",
+              "Subject": "Fix Stash backup tests for MongoDB Percona variant (#85)"
+            },
+            {
+              "SHA": "093955e",
+              "Subject": "Update MongoDB test with DBType check (#84)"
+            },
+            {
+              "SHA": "fc8017a",
+              "Subject": "Add MongoDB Autoscaling test (#80)"
+            },
+            {
+              "SHA": "edb2ecc",
+              "Subject": "Update MongoDB backup tests (#71)"
+            },
+            {
+              "SHA": "efa6b30",
+              "Subject": "Add inmemory test for MongoDB enterprise (#83)"
+            },
+            {
+              "SHA": "201bcda",
+              "Subject": "Update KubeDB api (#82)"
+            },
+            {
+              "SHA": "f5698eb",
+              "Subject": "Update KubeDB api (#81)"
+            },
+            {
+              "SHA": "cf37be5",
+              "Subject": "Update KubeDB api (#79)"
+            },
+            {
+              "SHA": "a3ea727",
+              "Subject": "Update KubeDB api (#78)"
+            },
+            {
+              "SHA": "411b4fd",
+              "Subject": "Update KubeDB api (#77)"
+            },
+            {
+              "SHA": "5d1747a",
+              "Subject": "Change offshoot selector labels to standard k8s app labels (#74)"
+            },
+            {
+              "SHA": "dee523d",
+              "Subject": "Use Service for connecting with DB (where possible) (#76)"
+            },
+            {
+              "SHA": "69a9cb3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#75)"
+            },
+            {
+              "SHA": "f0ac7ed",
+              "Subject": "Update KubeDB api (#73)"
+            },
+            {
+              "SHA": "42d8169",
+              "Subject": "Update KubeDB api (#72)"
+            },
+            {
+              "SHA": "75003e7",
+              "Subject": "Update KubeDB api (#70)"
+            },
+            {
+              "SHA": "af976e3",
+              "Subject": "Update KubeDB api (#69)"
+            },
+            {
+              "SHA": "c1dd8f4",
+              "Subject": "Update KubeDB api (#67)"
+            },
+            {
+              "SHA": "44b4191",
+              "Subject": "Update KubeDB api (#66)"
+            },
+            {
+              "SHA": "1e77bed",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#65)"
+            },
+            {
+              "SHA": "1309e15",
+              "Subject": "Update KubeDB api (#64)"
+            },
+            {
+              "SHA": "c6b9039",
+              "Subject": "Update KubeDB api (#61)"
+            },
+            {
+              "SHA": "e770d66",
+              "Subject": "Update KubeDB api (#60)"
+            },
+            {
+              "SHA": "afa5dcc",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#59)"
+            },
+            {
+              "SHA": "0dd91f9",
+              "Subject": "Update KubeDB api (#57)"
+            },
+            {
+              "SHA": "3cf15c0",
+              "Subject": "Update KubeDB api (#56)"
+            },
+            {
+              "SHA": "3736166",
+              "Subject": "Update KubeDB api (#55)"
+            },
+            {
+              "SHA": "b905769",
+              "Subject": "Update KubeDB api (#54)"
+            },
+            {
+              "SHA": "5d710ab",
+              "Subject": "Update KubeDB api (#53)"
+            },
+            {
+              "SHA": "d49f0bb",
+              "Subject": "Update KubeDB api (#52)"
+            },
+            {
+              "SHA": "fbac2a9",
+              "Subject": "Update KubeDB api (#51)"
+            },
+            {
+              "SHA": "049851b",
+              "Subject": "Update KubeDB api (#50)"
+            },
+            {
+              "SHA": "9bdedb4",
+              "Subject": "Update KubeDB api (#48)"
+            },
+            {
+              "SHA": "175e009",
+              "Subject": "Update KubeDB api (#47)"
+            },
+            {
+              "SHA": "f7dda0e",
+              "Subject": "Update KubeDB api (#46)"
+            },
+            {
+              "SHA": "6175a77",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#45)"
+            },
+            {
+              "SHA": "26f2b54",
+              "Subject": "Add Elasticsearch tests (#28)"
+            },
+            {
+              "SHA": "4531ec0",
+              "Subject": "Update KubeDB api (#44)"
+            },
+            {
+              "SHA": "dfe1655",
+              "Subject": "Update KubeDB api (#42)"
+            },
+            {
+              "SHA": "cfbeb36",
+              "Subject": "Update KubeDB api (#41)"
+            },
+            {
+              "SHA": "98ca152",
+              "Subject": "Update KubeDB api (#40)"
+            },
+            {
+              "SHA": "dcfb4d0",
+              "Subject": "Update KubeDB api (#39)"
+            },
+            {
+              "SHA": "8fbc3d5",
+              "Subject": "Update KubeDB api (#38)"
+            },
+            {
+              "SHA": "eda5b69",
+              "Subject": "Update KubeDB api (#37)"
+            },
+            {
+              "SHA": "ffa46c7",
+              "Subject": "Update KubeDB api (#36)"
+            },
+            {
+              "SHA": "9b2ceea",
+              "Subject": "Update KubeDB api (#35)"
+            },
+            {
+              "SHA": "7849334",
+              "Subject": "Update KubeDB api (#34)"
+            },
+            {
+              "SHA": "b08c1b8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#33)"
+            },
+            {
+              "SHA": "4faa8f6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#31)"
+            },
+            {
+              "SHA": "0ebd642",
+              "Subject": "Update KubeDB api (#30)"
+            },
+            {
+              "SHA": "5e945c0",
+              "Subject": "Update KubeDB api (#29)"
+            },
+            {
+              "SHA": "a921cf2",
+              "Subject": "Update KubeDB api (#27)"
+            },
+            {
+              "SHA": "9614f68",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#26)"
+            },
+            {
+              "SHA": "c706d27",
+              "Subject": "Update KubeDB api (#25)"
+            },
+            {
+              "SHA": "ad2b73d",
+              "Subject": "Add test for redis (#9)"
+            },
+            {
+              "SHA": "ac55856",
+              "Subject": "MySQL Tests (#8)"
+            },
+            {
+              "SHA": "bc99f28",
+              "Subject": "Update KubeDB api (#24)"
+            },
+            {
+              "SHA": "9070708",
+              "Subject": "Update KubeDB api (#23)"
+            },
+            {
+              "SHA": "c9e4212",
+              "Subject": "Update KubeDB api (#22)"
+            },
+            {
+              "SHA": "00a72b0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#21)"
+            },
+            {
+              "SHA": "9f40719",
+              "Subject": "Update KubeDB api (#20)"
+            },
+            {
+              "SHA": "7c94608",
+              "Subject": "Update KubeDB api (#19)"
+            },
+            {
+              "SHA": "6eb0f46",
+              "Subject": "Update KubeDB api (#18)"
+            },
+            {
+              "SHA": "f0c04cf",
+              "Subject": "Update KubeDB api (#17)"
+            },
+            {
+              "SHA": "0477ed8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#16)"
+            },
+            {
+              "SHA": "405b00a",
+              "Subject": "Update KubeDB api (#15)"
+            },
+            {
+              "SHA": "3464ffb",
+              "Subject": "Update KubeDB api (#14)"
+            },
+            {
+              "SHA": "08a4059",
+              "Subject": "Update KubeDB api (#13)"
+            },
+            {
+              "SHA": "0adf9dd",
+              "Subject": "Update KubeDB api (#12)"
+            },
+            {
+              "SHA": "af6712c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#11)"
+            },
+            {
+              "SHA": "6e54f80",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#6)"
+            },
+            {
+              "SHA": "be9860e",
+              "Subject": "Update repository config (#4)"
+            },
+            {
+              "SHA": "a1cd2f0",
+              "Subject": "Add Test for Vertical Scaling MongoDB Database with Reconfiguration (#3)"
+            },
+            {
+              "SHA": "3d6903c",
+              "Subject": "Parameterize Tests (#2)"
+            },
+            {
+              "SHA": "224fb77",
+              "Subject": "Add Makefile and github action (#1)"
+            },
+            {
+              "SHA": "07912c2",
+              "Subject": "Change module name to \"kubedb.dev/tests\""
+            },
+            {
+              "SHA": "b15fe6d",
+              "Subject": "Merge e2e test of MongoDB Community and Enterprise in a single Repo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

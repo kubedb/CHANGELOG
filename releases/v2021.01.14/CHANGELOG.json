@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.14",
-  "release_date": "2021-01-14T10:01:07.099211437Z",
+  "release_date": "2021-01-14T10:01:55.308708466Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.14",
   "kubernetes_version": "1.14+",
@@ -107,6 +107,24 @@
             {
               "SHA": "d37718a2",
               "Subject": "Remove doNotPause logic from namespace validator (#669)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "31050c1",
+              "Subject": "Update KubeDB api (#44)"
+            },
+            {
+              "SHA": "dc786b7",
+              "Subject": "Update KubeDB api (#43)"
             }
           ]
         }

@@ -98,6 +98,22 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.01.14](https://github.com/kubedb/docs/releases/tag/v2021.01.14)
+
+- [f81af71](https://github.com/kubedb/docs/commit/f81af71) Prepare for release v2021.01.14 (#91)
+- [9e53e62](https://github.com/kubedb/docs/commit/9e53e62) Change the prefix to suffix  for Elasticsearch (#90)
+- [6bfd6ba](https://github.com/kubedb/docs/commit/6bfd6ba) Fix labels for monitoring (#89)
+- [1f0fa1f](https://github.com/kubedb/docs/commit/1f0fa1f) Add autoscaler installation instructions (#88)
+- [a8162bf](https://github.com/kubedb/docs/commit/a8162bf) Prepare for release v2021.01.02-rc.0 (#87)
+- [e394d48](https://github.com/kubedb/docs/commit/e394d48) Change offshoot selector labels to standard k8s app labels (#86)
+- [09c23cf](https://github.com/kubedb/docs/commit/09c23cf) Update init.script field documentation (#80)
+- [ba183c4](https://github.com/kubedb/docs/commit/ba183c4) Use updated crd label app.kubernetes.io/name=kubedb (#85)
+- [32fbe99](https://github.com/kubedb/docs/commit/32fbe99) Remove RollingUpdate strategy (#84)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.16.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.16.0)

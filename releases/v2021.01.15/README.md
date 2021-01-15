@@ -17,6 +17,14 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.16.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.16.1)
+
+- [90ef17eb](https://github.com/kubedb/elasticsearch/commit/90ef17eb) Prepare for release v0.16.1 (#457)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.9.1](https://github.com/kubedb/memcached/releases/tag/v0.9.1)

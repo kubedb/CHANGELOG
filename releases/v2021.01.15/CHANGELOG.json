@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.15",
-  "release_date": "2021-01-15T10:51:03.757750777Z",
+  "release_date": "2021-01-15T11:04:56.526100577Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.15",
   "kubernetes_version": "1.14+",
@@ -79,6 +79,20 @@
             {
               "SHA": "90ef17eb",
               "Subject": "Prepare for release v0.16.1 (#457)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.16.1",
+          "commits": [
+            {
+              "SHA": "f870039",
+              "Subject": "Prepare for release v0.16.1 (#225)"
             }
           ]
         }

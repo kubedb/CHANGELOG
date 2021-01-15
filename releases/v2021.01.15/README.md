@@ -43,6 +43,14 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.16.1](https://github.com/kubedb/installer/releases/tag/v0.16.1)
+
+- [f870039](https://github.com/kubedb/installer/commit/f870039) Prepare for release v0.16.1 (#225)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.9.1](https://github.com/kubedb/memcached/releases/tag/v0.9.1)

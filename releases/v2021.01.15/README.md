@@ -17,6 +17,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.9.1](https://github.com/kubedb/memcached/releases/tag/v0.9.1)
+
+- [f066d0f3](https://github.com/kubedb/memcached/commit/f066d0f3) Prepare for release v0.9.1 (#273)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.3.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.3.1)

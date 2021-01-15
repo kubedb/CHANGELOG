@@ -33,3 +33,11 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.16.1](https://github.com/kubedb/postgres/releases/tag/v0.16.1)
+
+- [6802d07e](https://github.com/kubedb/postgres/commit/6802d07e) Prepare for release v0.16.1 (#457)
+
+
+

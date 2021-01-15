@@ -1,11 +1,33 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.15",
-  "release_date": "2021-01-15T10:37:46.469980009Z",
+  "release_date": "2021-01-15T10:43:27.631519657Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.15",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.3.1",
+          "commits": [
+            {
+              "SHA": "48e08e31",
+              "Subject": "Prepare for release v0.3.1 (#122)"
+            },
+            {
+              "SHA": "be921811",
+              "Subject": "Update Elasticsearch Vertical Scaling (#120)"
+            },
+            {
+              "SHA": "85ad0e77",
+              "Subject": "Fix mongodb config directory name constants (#121)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

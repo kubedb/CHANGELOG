@@ -1,6 +1,16 @@
 # KubeDB v2021.01.15 (2021-01-15)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.3.1](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.3.1)
+
+- [48e08e31](https://github.com/appscode/kubedb-enterprise/commit/48e08e31) Prepare for release v0.3.1 (#122)
+- [be921811](https://github.com/appscode/kubedb-enterprise/commit/be921811) Update Elasticsearch Vertical Scaling (#120)
+- [85ad0e77](https://github.com/appscode/kubedb-enterprise/commit/85ad0e77) Fix mongodb config directory name constants (#121)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.16.1](https://github.com/kubedb/apimachinery/releases/tag/v0.16.1)

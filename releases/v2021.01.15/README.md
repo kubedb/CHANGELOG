@@ -41,3 +41,11 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.1.1](https://github.com/kubedb/tests/releases/tag/v0.1.1)
+
+- [4b8b17a](https://github.com/kubedb/tests/commit/4b8b17a) Prepare for release v0.1.1 (#89)
+
+
+

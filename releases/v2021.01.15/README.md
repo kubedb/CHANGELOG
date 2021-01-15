@@ -35,6 +35,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.01.15](https://github.com/kubedb/docs/releases/tag/v2021.01.15)
+
+- [d3d35a8](https://github.com/kubedb/docs/commit/d3d35a8) Prepare for release v2021.01.15 (#92)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.16.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.16.1)

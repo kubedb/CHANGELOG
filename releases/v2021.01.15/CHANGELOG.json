@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.15",
-  "release_date": "2021-01-15T10:13:18.850118186Z",
+  "release_date": "2021-01-15T10:13:49.459275672Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.15",
   "kubernetes_version": "1.14+",
@@ -43,6 +43,24 @@
             {
               "SHA": "f066d0f3",
               "Subject": "Prepare for release v0.9.1 (#273)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.9.1",
+          "commits": [
+            {
+              "SHA": "fd7b45bd",
+              "Subject": "Prepare for release v0.9.1 (#356)"
+            },
+            {
+              "SHA": "c805f612",
+              "Subject": "Fix mongodb config directory name constants (#355)"
             }
           ]
         }

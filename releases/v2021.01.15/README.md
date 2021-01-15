@@ -25,6 +25,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.9.1](https://github.com/kubedb/mongodb/releases/tag/v0.9.1)
+
+- [fd7b45bd](https://github.com/kubedb/mongodb/commit/fd7b45bd) Prepare for release v0.9.1 (#356)
+- [c805f612](https://github.com/kubedb/mongodb/commit/c805f612) Fix mongodb config directory name constants (#355)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.3.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.3.1)

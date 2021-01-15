@@ -9,6 +9,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.16.1](https://github.com/kubedb/cli/releases/tag/v0.16.1)
+
+- [8576b8cf](https://github.com/kubedb/cli/commit/8576b8cf) Prepare for release v0.16.1 (#579)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.4.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.1)

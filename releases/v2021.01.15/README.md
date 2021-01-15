@@ -9,3 +9,11 @@
 
 
 
+## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
+
+### [v0.4.1](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.1)
+
+- [42d7aef](https://github.com/kubedb/pg-leader-election/commit/42d7aef) Update readme
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.15",
-  "release_date": "2021-01-15T09:48:07.991731071Z",
+  "release_date": "2021-01-15T10:02:20.831281474Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.15",
   "kubernetes_version": "1.14+",
@@ -15,6 +15,20 @@
             {
               "SHA": "ef0b4ef2",
               "Subject": "Fix mongodb config directory name constants (#687)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.4.1",
+          "commits": [
+            {
+              "SHA": "42d7aef",
+              "Subject": "Update readme"
             }
           ]
         }

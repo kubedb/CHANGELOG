@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:13:34.394015539Z",
+  "release_date": "2021-01-26T11:16:04.034817911Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
@@ -83,6 +83,32 @@
             {
               "SHA": "6f29932",
               "Subject": "Update repository config (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.3.2",
+          "commits": [
+            {
+              "SHA": "a2e3ff5",
+              "Subject": "Prepare for release v0.3.2 (#123)"
+            },
+            {
+              "SHA": "1b43ee1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#122)"
+            },
+            {
+              "SHA": "a0e0fc0",
+              "Subject": "Update repository config (#121)"
+            },
+            {
+              "SHA": "84155f6",
+              "Subject": "Update repository config (#120)"
             }
           ]
         }

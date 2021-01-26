@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:03:54.474340118Z",
+  "release_date": "2021-01-26T11:05:21.845707246Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
@@ -31,6 +31,28 @@
             {
               "SHA": "459684a5",
               "Subject": "Update repository config (#688)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.4.2",
+          "commits": [
+            {
+              "SHA": "4162fc7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#47)"
+            },
+            {
+              "SHA": "5f1ec75",
+              "Subject": "Update repository config (#46)"
+            },
+            {
+              "SHA": "6f29932",
+              "Subject": "Update repository config (#45)"
             }
           ]
         }

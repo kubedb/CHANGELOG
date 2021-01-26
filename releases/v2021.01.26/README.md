@@ -43,6 +43,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2021.01.26](https://github.com/kubedb/bundles/releases/tag/v2021.01.26)
+
+- [70b2ca3](https://github.com/kubedb/bundles/commit/70b2ca3) Prepare for release v2021.01.26 (#20)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.16.2](https://github.com/kubedb/cli/releases/tag/v0.16.2)

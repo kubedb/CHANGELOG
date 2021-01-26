@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T12:07:43.324228955Z",
+  "release_date": "2021-01-26T12:20:33.634182843Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
@@ -145,6 +145,20 @@
             {
               "SHA": "2ddea9f5",
               "Subject": "Update repository config (#580)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.01.26",
+          "commits": [
+            {
+              "SHA": "60c6f47",
+              "Subject": "Prepare for release v2021.01.26 (#94)"
             }
           ]
         }

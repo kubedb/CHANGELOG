@@ -55,6 +55,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.01.26](https://github.com/kubedb/docs/releases/tag/v2021.01.26)
+
+- [60c6f47](https://github.com/kubedb/docs/commit/60c6f47) Prepare for release v2021.01.26 (#94)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.16.2](https://github.com/kubedb/elasticsearch/releases/tag/v0.16.2)

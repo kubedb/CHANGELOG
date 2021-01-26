@@ -1,0 +1,578 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.01.26",
+  "release_date": "2021-01-26T12:28:52.045228848Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.01.26",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.1.2",
+          "commits": [
+            {
+              "SHA": "8a42374",
+              "Subject": "Prepare for release v0.1.2 (#15)"
+            },
+            {
+              "SHA": "75e0b0e",
+              "Subject": "Update repository config (#13)"
+            },
+            {
+              "SHA": "bf1487e",
+              "Subject": "Fix Elasticsearch storage autoscaler (#12)"
+            },
+            {
+              "SHA": "b23280c",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "d320045",
+              "Subject": "Fix Elasticsearch Autoscaler (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.3.2",
+          "commits": [
+            {
+              "SHA": "d235a3ec",
+              "Subject": "Prepare for release v0.3.2 (#132)"
+            },
+            {
+              "SHA": "98ac77be",
+              "Subject": "Delete operator generated owned certificate secrets before creating new ones (#131)"
+            },
+            {
+              "SHA": "a8e699f9",
+              "Subject": "Ingore paused DB events from enterprise operator too (#130)"
+            },
+            {
+              "SHA": "fcaf1b8b",
+              "Subject": "Fix scale up and scale down (#124)"
+            },
+            {
+              "SHA": "7d37df14",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#114)"
+            },
+            {
+              "SHA": "ff12ad3c",
+              "Subject": "Update reconfigureTLS for Elasticsearch (#125)"
+            },
+            {
+              "SHA": "0e9e15c6",
+              "Subject": "Use `NewSpecStatusChangeHandler` for Ops Requests (#129)"
+            },
+            {
+              "SHA": "00c41590",
+              "Subject": "Change `DBSizeDiffPercentage` to `ObjectsCountDiffPercentage` (#128)"
+            },
+            {
+              "SHA": "4bfcacad",
+              "Subject": "Update repository config (#127)"
+            },
+            {
+              "SHA": "f0570d8b",
+              "Subject": "Update repository config (#126)"
+            },
+            {
+              "SHA": "ddf7ca41",
+              "Subject": "Check readiness gates for IsPodReady (#123)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "7eb1fdda",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#692)"
+            },
+            {
+              "SHA": "ed484da9",
+              "Subject": "Don't add default subject to certificate if already exists (#689)"
+            },
+            {
+              "SHA": "d3b5b50e",
+              "Subject": "Change `DBSizeDiffPercentage` to `ObjectsCountDiffPercentage` (#690)"
+            },
+            {
+              "SHA": "63e27a25",
+              "Subject": "Update for release Stash@v2021.01.21 (#691)"
+            },
+            {
+              "SHA": "459684a5",
+              "Subject": "Update repository config (#688)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.01.26",
+          "commits": [
+            {
+              "SHA": "70b2ca3",
+              "Subject": "Prepare for release v2021.01.26 (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "ada47bf8",
+              "Subject": "Prepare for release v0.16.2 (#584)"
+            },
+            {
+              "SHA": "ff1a7aac",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#583)"
+            },
+            {
+              "SHA": "664f1b1c",
+              "Subject": "Update for release Stash@v2021.01.21 (#582)"
+            },
+            {
+              "SHA": "7a07edfd",
+              "Subject": "Update repository config (#581)"
+            },
+            {
+              "SHA": "2ddea9f5",
+              "Subject": "Update repository config (#580)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.01.26",
+          "commits": [
+            {
+              "SHA": "60c6f47",
+              "Subject": "Prepare for release v2021.01.26 (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "7787d2a6",
+              "Subject": "Prepare for release v0.16.2 (#463)"
+            },
+            {
+              "SHA": "29e4198a",
+              "Subject": "Add nodeDNs to configuration even when enableSSL is false (#458)"
+            },
+            {
+              "SHA": "4a76db12",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#462)"
+            },
+            {
+              "SHA": "42680118",
+              "Subject": "Update for release Stash@v2021.01.21 (#461)"
+            },
+            {
+              "SHA": "27525afb",
+              "Subject": "Update repository config (#460)"
+            },
+            {
+              "SHA": "02d0fb3f",
+              "Subject": "Update repository config (#459)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "61bbb19",
+              "Subject": "Prepare for release v0.16.2 (#227)"
+            },
+            {
+              "SHA": "091665f",
+              "Subject": "Revert \"Update Percona MongoDB Server Images (#219)\""
+            },
+            {
+              "SHA": "9736ad8",
+              "Subject": "Add permission to add finalizers on custom resoures (#226)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.9.2",
+          "commits": [
+            {
+              "SHA": "2a1e2e7c",
+              "Subject": "Prepare for release v0.9.2 (#277)"
+            },
+            {
+              "SHA": "dd5f19d6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#276)"
+            },
+            {
+              "SHA": "2dfc00ee",
+              "Subject": "Update repository config (#275)"
+            },
+            {
+              "SHA": "a4278122",
+              "Subject": "Update repository config (#274)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.9.2",
+          "commits": [
+            {
+              "SHA": "9ecb8b3f",
+              "Subject": "Prepare for release v0.9.2 (#362)"
+            },
+            {
+              "SHA": "6ff0b2ab",
+              "Subject": "Return error when catalog doesn't exist (#361)"
+            },
+            {
+              "SHA": "70559218",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#360)"
+            },
+            {
+              "SHA": "e46daaf7",
+              "Subject": "Update for release Stash@v2021.01.21 (#359)"
+            },
+            {
+              "SHA": "dd4c2fcf",
+              "Subject": "Update repository config (#358)"
+            },
+            {
+              "SHA": "f8ab57cb",
+              "Subject": "Update repository config (#357)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.9.2",
+          "commits": [
+            {
+              "SHA": "5f7dfd8c",
+              "Subject": "Prepare for release v0.9.2 (#351)"
+            },
+            {
+              "SHA": "26ef56cb",
+              "Subject": "Configure innodb buffer pool and group repl cache size (#350)"
+            },
+            {
+              "SHA": "6562cf8e",
+              "Subject": "Fix Health-checker for standalone (#345)"
+            },
+            {
+              "SHA": "f20f5763",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#349)"
+            },
+            {
+              "SHA": "e11bea0b",
+              "Subject": "Update for release Stash@v2021.01.21 (#348)"
+            },
+            {
+              "SHA": "5cdc3424",
+              "Subject": "Update repository config (#347)"
+            },
+            {
+              "SHA": "0438f075",
+              "Subject": "Update repository config (#346)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "92baf160",
+              "Subject": "Prepare for release v0.16.2 (#385)"
+            },
+            {
+              "SHA": "aa818921",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#384)"
+            },
+            {
+              "SHA": "8344e056",
+              "Subject": "Update repository config (#383)"
+            },
+            {
+              "SHA": "242bae58",
+              "Subject": "Update repository config (#382)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.3.2",
+          "commits": [
+            {
+              "SHA": "875dbcfb",
+              "Subject": "Prepare for release v0.3.2 (#173)"
+            },
+            {
+              "SHA": "afcb2e37",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#172)"
+            },
+            {
+              "SHA": "48aa03cc",
+              "Subject": "Update for release Stash@v2021.01.21 (#171)"
+            },
+            {
+              "SHA": "2bd07624",
+              "Subject": "Update repository config (#170)"
+            },
+            {
+              "SHA": "d10fccc5",
+              "Subject": "Update repository config (#169)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-leader-election",
+      "releases": [
+        {
+          "tag": "v0.4.2",
+          "commits": [
+            {
+              "SHA": "4162fc7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#47)"
+            },
+            {
+              "SHA": "5f1ec75",
+              "Subject": "Update repository config (#46)"
+            },
+            {
+              "SHA": "6f29932",
+              "Subject": "Update repository config (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.3.2",
+          "commits": [
+            {
+              "SHA": "1c1f20bf",
+              "Subject": "Prepare for release v0.3.2 (#138)"
+            },
+            {
+              "SHA": "7dc88cc4",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#137)"
+            },
+            {
+              "SHA": "c2574a34",
+              "Subject": "Update repository config (#136)"
+            },
+            {
+              "SHA": "d5baad1f",
+              "Subject": "Update repository config (#135)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "a5e81da7",
+              "Subject": "Prepare for release v0.16.2 (#462)"
+            },
+            {
+              "SHA": "f5bcfb66",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#461)"
+            },
+            {
+              "SHA": "c8e4da8b",
+              "Subject": "Update for release Stash@v2021.01.21 (#460)"
+            },
+            {
+              "SHA": "d0d9c090",
+              "Subject": "Update repository config (#459)"
+            },
+            {
+              "SHA": "9323c043",
+              "Subject": "Update repository config (#458)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.3.2",
+          "commits": [
+            {
+              "SHA": "928bac65",
+              "Subject": "Prepare for release v0.3.2 (#154)"
+            },
+            {
+              "SHA": "49a9a9f6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#153)"
+            },
+            {
+              "SHA": "830eb7c6",
+              "Subject": "Update for release Stash@v2021.01.21 (#152)"
+            },
+            {
+              "SHA": "aa856424",
+              "Subject": "Update repository config (#151)"
+            },
+            {
+              "SHA": "6b16f30c",
+              "Subject": "Update repository config (#150)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.9.2",
+          "commits": [
+            {
+              "SHA": "a94faf53",
+              "Subject": "Prepare for release v0.9.2 (#299)"
+            },
+            {
+              "SHA": "cfcbb855",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#298)"
+            },
+            {
+              "SHA": "76b9b70c",
+              "Subject": "Update repository config (#297)"
+            },
+            {
+              "SHA": "0cb62a27",
+              "Subject": "Update repository config (#296)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.3.2",
+          "commits": [
+            {
+              "SHA": "a2e3ff5",
+              "Subject": "Prepare for release v0.3.2 (#123)"
+            },
+            {
+              "SHA": "1b43ee1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#122)"
+            },
+            {
+              "SHA": "a0e0fc0",
+              "Subject": "Update repository config (#121)"
+            },
+            {
+              "SHA": "84155f6",
+              "Subject": "Update repository config (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.1.2",
+          "commits": [
+            {
+              "SHA": "6b6c030",
+              "Subject": "Prepare for release v0.1.2 (#95)"
+            },
+            {
+              "SHA": "3456495",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#92)"
+            },
+            {
+              "SHA": "e335294",
+              "Subject": "Update repository config (#91)"
+            },
+            {
+              "SHA": "9d82b07",
+              "Subject": "Update repository config (#90)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

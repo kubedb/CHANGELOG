@@ -1,11 +1,41 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:47:55.440925301Z",
+  "release_date": "2021-01-26T11:52:44.255483741Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.1.2",
+          "commits": [
+            {
+              "SHA": "8a42374",
+              "Subject": "Prepare for release v0.1.2 (#15)"
+            },
+            {
+              "SHA": "75e0b0e",
+              "Subject": "Update repository config (#13)"
+            },
+            {
+              "SHA": "bf1487e",
+              "Subject": "Fix Elasticsearch storage autoscaler (#12)"
+            },
+            {
+              "SHA": "b23280c",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "d320045",
+              "Subject": "Fix Elasticsearch Autoscaler (#11)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode/kubedb-enterprise",
       "releases": [

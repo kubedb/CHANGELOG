@@ -1,6 +1,18 @@
 # KubeDB v2021.01.26 (2021-01-26)
 
 
+## [appscode/kubedb-autoscaler](https://github.com/appscode/kubedb-autoscaler)
+
+### [v0.1.2](https://github.com/appscode/kubedb-autoscaler/releases/tag/v0.1.2)
+
+- [8a42374](https://github.com/appscode/kubedb-autoscaler/commit/8a42374) Prepare for release v0.1.2 (#15)
+- [75e0b0e](https://github.com/appscode/kubedb-autoscaler/commit/75e0b0e) Update repository config (#13)
+- [bf1487e](https://github.com/appscode/kubedb-autoscaler/commit/bf1487e) Fix Elasticsearch storage autoscaler (#12)
+- [b23280c](https://github.com/appscode/kubedb-autoscaler/commit/b23280c) Update readme
+- [d320045](https://github.com/appscode/kubedb-autoscaler/commit/d320045) Fix Elasticsearch Autoscaler (#11)
+
+
+
 ## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
 
 ### [v0.3.2](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.3.2)

@@ -46,3 +46,14 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.1.2](https://github.com/kubedb/tests/releases/tag/v0.1.2)
+
+- [6b6c030](https://github.com/kubedb/tests/commit/6b6c030) Prepare for release v0.1.2 (#95)
+- [3456495](https://github.com/kubedb/tests/commit/3456495) Update Kubernetes v1.18.9 dependencies (#92)
+- [e335294](https://github.com/kubedb/tests/commit/e335294) Update repository config (#91)
+- [9d82b07](https://github.com/kubedb/tests/commit/9d82b07) Update repository config (#90)
+
+
+

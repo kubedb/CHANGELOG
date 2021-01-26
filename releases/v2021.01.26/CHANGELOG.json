@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:19:20.987612709Z",
+  "release_date": "2021-01-26T11:28:36.680925724Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
@@ -275,6 +275,36 @@
             {
               "SHA": "9323c043",
               "Subject": "Update repository config (#458)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.3.2",
+          "commits": [
+            {
+              "SHA": "928bac65",
+              "Subject": "Prepare for release v0.3.2 (#154)"
+            },
+            {
+              "SHA": "49a9a9f6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#153)"
+            },
+            {
+              "SHA": "830eb7c6",
+              "Subject": "Update for release Stash@v2021.01.21 (#152)"
+            },
+            {
+              "SHA": "aa856424",
+              "Subject": "Update repository config (#151)"
+            },
+            {
+              "SHA": "6b16f30c",
+              "Subject": "Update repository config (#150)"
             }
           ]
         }

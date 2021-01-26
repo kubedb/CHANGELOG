@@ -110,6 +110,18 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.3.2](https://github.com/kubedb/proxysql/releases/tag/v0.3.2)
+
+- [928bac65](https://github.com/kubedb/proxysql/commit/928bac65) Prepare for release v0.3.2 (#154)
+- [49a9a9f6](https://github.com/kubedb/proxysql/commit/49a9a9f6) Update Kubernetes v1.18.9 dependencies (#153)
+- [830eb7c6](https://github.com/kubedb/proxysql/commit/830eb7c6) Update for release Stash@v2021.01.21 (#152)
+- [aa856424](https://github.com/kubedb/proxysql/commit/aa856424) Update repository config (#151)
+- [6b16f30c](https://github.com/kubedb/proxysql/commit/6b16f30c) Update repository config (#150)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.9.2](https://github.com/kubedb/redis/releases/tag/v0.9.2)

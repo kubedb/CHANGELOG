@@ -63,6 +63,18 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.3.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.3.2)
+
+- [875dbcfb](https://github.com/kubedb/percona-xtradb/commit/875dbcfb) Prepare for release v0.3.2 (#173)
+- [afcb2e37](https://github.com/kubedb/percona-xtradb/commit/afcb2e37) Update Kubernetes v1.18.9 dependencies (#172)
+- [48aa03cc](https://github.com/kubedb/percona-xtradb/commit/48aa03cc) Update for release Stash@v2021.01.21 (#171)
+- [2bd07624](https://github.com/kubedb/percona-xtradb/commit/2bd07624) Update repository config (#170)
+- [d10fccc5](https://github.com/kubedb/percona-xtradb/commit/d10fccc5) Update repository config (#169)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.4.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.2)

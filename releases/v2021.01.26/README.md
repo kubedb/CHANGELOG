@@ -76,6 +76,17 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.16.2](https://github.com/kubedb/operator/releases/tag/v0.16.2)
+
+- [92baf160](https://github.com/kubedb/operator/commit/92baf160) Prepare for release v0.16.2 (#385)
+- [aa818921](https://github.com/kubedb/operator/commit/aa818921) Update Kubernetes v1.18.9 dependencies (#384)
+- [8344e056](https://github.com/kubedb/operator/commit/8344e056) Update repository config (#383)
+- [242bae58](https://github.com/kubedb/operator/commit/242bae58) Update repository config (#382)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.3.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.3.2)

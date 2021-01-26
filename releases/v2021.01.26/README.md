@@ -49,6 +49,19 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.9.2](https://github.com/kubedb/mongodb/releases/tag/v0.9.2)
+
+- [9ecb8b3f](https://github.com/kubedb/mongodb/commit/9ecb8b3f) Prepare for release v0.9.2 (#362)
+- [6ff0b2ab](https://github.com/kubedb/mongodb/commit/6ff0b2ab) Return error when catalog doesn't exist (#361)
+- [70559218](https://github.com/kubedb/mongodb/commit/70559218) Update Kubernetes v1.18.9 dependencies (#360)
+- [e46daaf7](https://github.com/kubedb/mongodb/commit/e46daaf7) Update for release Stash@v2021.01.21 (#359)
+- [dd4c2fcf](https://github.com/kubedb/mongodb/commit/dd4c2fcf) Update repository config (#358)
+- [f8ab57cb](https://github.com/kubedb/mongodb/commit/f8ab57cb) Update repository config (#357)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.9.2](https://github.com/kubedb/mysql/releases/tag/v0.9.2)

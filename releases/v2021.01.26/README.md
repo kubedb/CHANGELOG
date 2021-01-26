@@ -73,6 +73,18 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.16.2](https://github.com/kubedb/postgres/releases/tag/v0.16.2)
+
+- [a5e81da7](https://github.com/kubedb/postgres/commit/a5e81da7) Prepare for release v0.16.2 (#462)
+- [f5bcfb66](https://github.com/kubedb/postgres/commit/f5bcfb66) Update Kubernetes v1.18.9 dependencies (#461)
+- [c8e4da8b](https://github.com/kubedb/postgres/commit/c8e4da8b) Update for release Stash@v2021.01.21 (#460)
+- [d0d9c090](https://github.com/kubedb/postgres/commit/d0d9c090) Update repository config (#459)
+- [9323c043](https://github.com/kubedb/postgres/commit/9323c043) Update repository config (#458)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.9.2](https://github.com/kubedb/redis/releases/tag/v0.9.2)

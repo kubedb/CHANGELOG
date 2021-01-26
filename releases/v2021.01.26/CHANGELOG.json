@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:17:53.213193448Z",
+  "release_date": "2021-01-26T11:18:09.127293096Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
@@ -181,6 +181,36 @@
             {
               "SHA": "6f29932",
               "Subject": "Update repository config (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "a5e81da7",
+              "Subject": "Prepare for release v0.16.2 (#462)"
+            },
+            {
+              "SHA": "f5bcfb66",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#461)"
+            },
+            {
+              "SHA": "c8e4da8b",
+              "Subject": "Update for release Stash@v2021.01.21 (#460)"
+            },
+            {
+              "SHA": "d0d9c090",
+              "Subject": "Update repository config (#459)"
+            },
+            {
+              "SHA": "9323c043",
+              "Subject": "Update repository config (#458)"
             }
           ]
         }

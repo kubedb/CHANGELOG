@@ -59,6 +59,17 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.9.2](https://github.com/kubedb/redis/releases/tag/v0.9.2)
+
+- [a94faf53](https://github.com/kubedb/redis/commit/a94faf53) Prepare for release v0.9.2 (#299)
+- [cfcbb855](https://github.com/kubedb/redis/commit/cfcbb855) Update Kubernetes v1.18.9 dependencies (#298)
+- [76b9b70c](https://github.com/kubedb/redis/commit/76b9b70c) Update repository config (#297)
+- [0cb62a27](https://github.com/kubedb/redis/commit/0cb62a27) Update repository config (#296)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.3.2](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.3.2)

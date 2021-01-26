@@ -98,6 +98,17 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.3.2](https://github.com/kubedb/pgbouncer/releases/tag/v0.3.2)
+
+- [1c1f20bf](https://github.com/kubedb/pgbouncer/commit/1c1f20bf) Prepare for release v0.3.2 (#138)
+- [7dc88cc4](https://github.com/kubedb/pgbouncer/commit/7dc88cc4) Update Kubernetes v1.18.9 dependencies (#137)
+- [c2574a34](https://github.com/kubedb/pgbouncer/commit/c2574a34) Update repository config (#136)
+- [d5baad1f](https://github.com/kubedb/pgbouncer/commit/d5baad1f) Update repository config (#135)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.16.2](https://github.com/kubedb/postgres/releases/tag/v0.16.2)

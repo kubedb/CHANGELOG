@@ -49,6 +49,20 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.9.2](https://github.com/kubedb/mysql/releases/tag/v0.9.2)
+
+- [5f7dfd8c](https://github.com/kubedb/mysql/commit/5f7dfd8c) Prepare for release v0.9.2 (#351)
+- [26ef56cb](https://github.com/kubedb/mysql/commit/26ef56cb) Configure innodb buffer pool and group repl cache size (#350)
+- [6562cf8e](https://github.com/kubedb/mysql/commit/6562cf8e) Fix Health-checker for standalone (#345)
+- [f20f5763](https://github.com/kubedb/mysql/commit/f20f5763) Update Kubernetes v1.18.9 dependencies (#349)
+- [e11bea0b](https://github.com/kubedb/mysql/commit/e11bea0b) Update for release Stash@v2021.01.21 (#348)
+- [5cdc3424](https://github.com/kubedb/mysql/commit/5cdc3424) Update repository config (#347)
+- [0438f075](https://github.com/kubedb/mysql/commit/0438f075) Update repository config (#346)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.4.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:52:44.255483741Z",
+  "release_date": "2021-01-26T12:07:43.324228955Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
@@ -179,6 +179,28 @@
             {
               "SHA": "02d0fb3f",
               "Subject": "Update repository config (#459)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "61bbb19",
+              "Subject": "Prepare for release v0.16.2 (#227)"
+            },
+            {
+              "SHA": "091665f",
+              "Subject": "Revert \"Update Percona MongoDB Server Images (#219)\""
+            },
+            {
+              "SHA": "9736ad8",
+              "Subject": "Add permission to add finalizers on custom resoures (#226)"
             }
           ]
         }

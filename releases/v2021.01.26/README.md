@@ -68,6 +68,16 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.16.2](https://github.com/kubedb/installer/releases/tag/v0.16.2)
+
+- [61bbb19](https://github.com/kubedb/installer/commit/61bbb19) Prepare for release v0.16.2 (#227)
+- [091665f](https://github.com/kubedb/installer/commit/091665f) Revert "Update Percona MongoDB Server Images (#219)"
+- [9736ad8](https://github.com/kubedb/installer/commit/9736ad8) Add permission to add finalizers on custom resoures (#226)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.9.2](https://github.com/kubedb/memcached/releases/tag/v0.9.2)

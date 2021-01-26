@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:05:21.845707246Z",
+  "release_date": "2021-01-26T11:13:34.394015539Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
@@ -31,6 +31,36 @@
             {
               "SHA": "459684a5",
               "Subject": "Update repository config (#688)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "ada47bf8",
+              "Subject": "Prepare for release v0.16.2 (#584)"
+            },
+            {
+              "SHA": "ff1a7aac",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#583)"
+            },
+            {
+              "SHA": "664f1b1c",
+              "Subject": "Update for release Stash@v2021.01.21 (#582)"
+            },
+            {
+              "SHA": "7a07edfd",
+              "Subject": "Update repository config (#581)"
+            },
+            {
+              "SHA": "2ddea9f5",
+              "Subject": "Update repository config (#580)"
             }
           ]
         }

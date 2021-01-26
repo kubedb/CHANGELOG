@@ -13,6 +13,18 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.16.2](https://github.com/kubedb/cli/releases/tag/v0.16.2)
+
+- [ada47bf8](https://github.com/kubedb/cli/commit/ada47bf8) Prepare for release v0.16.2 (#584)
+- [ff1a7aac](https://github.com/kubedb/cli/commit/ff1a7aac) Update Kubernetes v1.18.9 dependencies (#583)
+- [664f1b1c](https://github.com/kubedb/cli/commit/664f1b1c) Update for release Stash@v2021.01.21 (#582)
+- [7a07edfd](https://github.com/kubedb/cli/commit/7a07edfd) Update repository config (#581)
+- [2ddea9f5](https://github.com/kubedb/cli/commit/2ddea9f5) Update repository config (#580)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.4.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.2)

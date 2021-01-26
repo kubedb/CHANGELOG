@@ -1,0 +1,15 @@
+# KubeDB v2021.01.26 (2021-01-26)
+
+
+## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+
+### [v0.16.2](https://github.com/kubedb/apimachinery/releases/tag/v0.16.2)
+
+- [7eb1fdda](https://github.com/kubedb/apimachinery/commit/7eb1fdda) Update Kubernetes v1.18.9 dependencies (#692)
+- [ed484da9](https://github.com/kubedb/apimachinery/commit/ed484da9) Don't add default subject to certificate if already exists (#689)
+- [d3b5b50e](https://github.com/kubedb/apimachinery/commit/d3b5b50e) Change `DBSizeDiffPercentage` to `ObjectsCountDiffPercentage` (#690)
+- [63e27a25](https://github.com/kubedb/apimachinery/commit/63e27a25) Update for release Stash@v2021.01.21 (#691)
+- [459684a5](https://github.com/kubedb/apimachinery/commit/459684a5) Update repository config (#688)
+
+
+

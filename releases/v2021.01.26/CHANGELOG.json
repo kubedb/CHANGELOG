@@ -1,0 +1,40 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.01.26",
+  "release_date": "2021-01-26T11:03:54.474340118Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.01.26",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "7eb1fdda",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#692)"
+            },
+            {
+              "SHA": "ed484da9",
+              "Subject": "Don't add default subject to certificate if already exists (#689)"
+            },
+            {
+              "SHA": "d3b5b50e",
+              "Subject": "Change `DBSizeDiffPercentage` to `ObjectsCountDiffPercentage` (#690)"
+            },
+            {
+              "SHA": "63e27a25",
+              "Subject": "Update for release Stash@v2021.01.21 (#691)"
+            },
+            {
+              "SHA": "459684a5",
+              "Subject": "Update repository config (#688)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

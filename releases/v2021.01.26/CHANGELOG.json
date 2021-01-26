@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:16:53.060507001Z",
+  "release_date": "2021-01-26T11:17:09.62186768Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
@@ -61,6 +61,40 @@
             {
               "SHA": "2ddea9f5",
               "Subject": "Update repository config (#580)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.16.2",
+          "commits": [
+            {
+              "SHA": "7787d2a6",
+              "Subject": "Prepare for release v0.16.2 (#463)"
+            },
+            {
+              "SHA": "29e4198a",
+              "Subject": "Add nodeDNs to configuration even when enableSSL is false (#458)"
+            },
+            {
+              "SHA": "4a76db12",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#462)"
+            },
+            {
+              "SHA": "42680118",
+              "Subject": "Update for release Stash@v2021.01.21 (#461)"
+            },
+            {
+              "SHA": "27525afb",
+              "Subject": "Update repository config (#460)"
+            },
+            {
+              "SHA": "02d0fb3f",
+              "Subject": "Update repository config (#459)"
             }
           ]
         }

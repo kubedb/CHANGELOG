@@ -25,6 +25,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.16.2](https://github.com/kubedb/elasticsearch/releases/tag/v0.16.2)
+
+- [7787d2a6](https://github.com/kubedb/elasticsearch/commit/7787d2a6) Prepare for release v0.16.2 (#463)
+- [29e4198a](https://github.com/kubedb/elasticsearch/commit/29e4198a) Add nodeDNs to configuration even when enableSSL is false (#458)
+- [4a76db12](https://github.com/kubedb/elasticsearch/commit/4a76db12) Update Kubernetes v1.18.9 dependencies (#462)
+- [42680118](https://github.com/kubedb/elasticsearch/commit/42680118) Update for release Stash@v2021.01.21 (#461)
+- [27525afb](https://github.com/kubedb/elasticsearch/commit/27525afb) Update repository config (#460)
+- [02d0fb3f](https://github.com/kubedb/elasticsearch/commit/02d0fb3f) Update repository config (#459)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.9.2](https://github.com/kubedb/memcached/releases/tag/v0.9.2)

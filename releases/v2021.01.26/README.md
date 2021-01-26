@@ -1,6 +1,24 @@
 # KubeDB v2021.01.26 (2021-01-26)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.3.2](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.3.2)
+
+- [d235a3ec](https://github.com/appscode/kubedb-enterprise/commit/d235a3ec) Prepare for release v0.3.2 (#132)
+- [98ac77be](https://github.com/appscode/kubedb-enterprise/commit/98ac77be) Delete operator generated owned certificate secrets before creating new ones (#131)
+- [a8e699f9](https://github.com/appscode/kubedb-enterprise/commit/a8e699f9) Ingore paused DB events from enterprise operator too (#130)
+- [fcaf1b8b](https://github.com/appscode/kubedb-enterprise/commit/fcaf1b8b) Fix scale up and scale down (#124)
+- [7d37df14](https://github.com/appscode/kubedb-enterprise/commit/7d37df14) Update Kubernetes v1.18.9 dependencies (#114)
+- [ff12ad3c](https://github.com/appscode/kubedb-enterprise/commit/ff12ad3c) Update reconfigureTLS for Elasticsearch (#125)
+- [0e9e15c6](https://github.com/appscode/kubedb-enterprise/commit/0e9e15c6) Use `NewSpecStatusChangeHandler` for Ops Requests (#129)
+- [00c41590](https://github.com/appscode/kubedb-enterprise/commit/00c41590) Change `DBSizeDiffPercentage` to `ObjectsCountDiffPercentage` (#128)
+- [4bfcacad](https://github.com/appscode/kubedb-enterprise/commit/4bfcacad) Update repository config (#127)
+- [f0570d8b](https://github.com/appscode/kubedb-enterprise/commit/f0570d8b) Update repository config (#126)
+- [ddf7ca41](https://github.com/appscode/kubedb-enterprise/commit/ddf7ca41) Check readiness gates for IsPodReady (#123)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.16.2](https://github.com/kubedb/apimachinery/releases/tag/v0.16.2)

@@ -1,11 +1,65 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:40:35.220390887Z",
+  "release_date": "2021-01-26T11:47:55.440925301Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.3.2",
+          "commits": [
+            {
+              "SHA": "d235a3ec",
+              "Subject": "Prepare for release v0.3.2 (#132)"
+            },
+            {
+              "SHA": "98ac77be",
+              "Subject": "Delete operator generated owned certificate secrets before creating new ones (#131)"
+            },
+            {
+              "SHA": "a8e699f9",
+              "Subject": "Ingore paused DB events from enterprise operator too (#130)"
+            },
+            {
+              "SHA": "fcaf1b8b",
+              "Subject": "Fix scale up and scale down (#124)"
+            },
+            {
+              "SHA": "7d37df14",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#114)"
+            },
+            {
+              "SHA": "ff12ad3c",
+              "Subject": "Update reconfigureTLS for Elasticsearch (#125)"
+            },
+            {
+              "SHA": "0e9e15c6",
+              "Subject": "Use `NewSpecStatusChangeHandler` for Ops Requests (#129)"
+            },
+            {
+              "SHA": "00c41590",
+              "Subject": "Change `DBSizeDiffPercentage` to `ObjectsCountDiffPercentage` (#128)"
+            },
+            {
+              "SHA": "4bfcacad",
+              "Subject": "Update repository config (#127)"
+            },
+            {
+              "SHA": "f0570d8b",
+              "Subject": "Update repository config (#126)"
+            },
+            {
+              "SHA": "ddf7ca41",
+              "Subject": "Check readiness gates for IsPodReady (#123)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.01.26",
-  "release_date": "2021-01-26T11:16:27.726046986Z",
+  "release_date": "2021-01-26T11:16:53.060507001Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.01.26",
   "kubernetes_version": "1.14+",
@@ -61,6 +61,32 @@
             {
               "SHA": "2ddea9f5",
               "Subject": "Update repository config (#580)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.9.2",
+          "commits": [
+            {
+              "SHA": "2a1e2e7c",
+              "Subject": "Prepare for release v0.9.2 (#277)"
+            },
+            {
+              "SHA": "dd5f19d6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#276)"
+            },
+            {
+              "SHA": "2dfc00ee",
+              "Subject": "Update repository config (#275)"
+            },
+            {
+              "SHA": "a4278122",
+              "Subject": "Update repository config (#274)"
             }
           ]
         }

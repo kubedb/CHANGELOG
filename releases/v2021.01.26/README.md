@@ -25,6 +25,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.9.2](https://github.com/kubedb/memcached/releases/tag/v0.9.2)
+
+- [2a1e2e7c](https://github.com/kubedb/memcached/commit/2a1e2e7c) Prepare for release v0.9.2 (#277)
+- [dd5f19d6](https://github.com/kubedb/memcached/commit/dd5f19d6) Update Kubernetes v1.18.9 dependencies (#276)
+- [2dfc00ee](https://github.com/kubedb/memcached/commit/2dfc00ee) Update repository config (#275)
+- [a4278122](https://github.com/kubedb/memcached/commit/a4278122) Update repository config (#274)
+
+
+
 ## [kubedb/pg-leader-election](https://github.com/kubedb/pg-leader-election)
 
 ### [v0.4.2](https://github.com/kubedb/pg-leader-election/releases/tag/v0.4.2)

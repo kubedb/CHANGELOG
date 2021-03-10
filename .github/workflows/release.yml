@@ -38,7 +38,7 @@ jobs:
 
       - name: Install render-gotpl
         run: |
-          curl -fsSL -o render-gotpl https://github.com/appscodelabs/render-gotpl/releases/download/v0.1.4/render-gotpl-linux-amd64
+          curl -fsSL -o render-gotpl https://github.com/appscodelabs/render-gotpl/releases/download/v0.1.5/render-gotpl-linux-amd64
           chmod +x render-gotpl
           sudo mv render-gotpl /usr/local/bin/render-gotpl
 
@@ -46,6 +46,10 @@ jobs:
         run: |
           curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
           sudo mv bin/hub /usr/local/bin
+
+      - name: Install Helm 3
+        run: |
+          curl https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
 
       - name: Prepare git
         env:

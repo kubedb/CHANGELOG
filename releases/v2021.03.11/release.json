@@ -20,6 +20,9 @@
       "github.com/kubedb/elasticsearch": {
         "tag": "v0.17.0"
       },
+      "github.com/kubedb/mariadb": {
+        "tag": "v0.1.0"
+      },
       "github.com/kubedb/memcached": {
         "tag": "v0.10.0"
       },
@@ -32,6 +35,9 @@
       "github.com/kubedb/percona-xtradb": {
         "tag": "v0.4.0"
       },
+      "github.com/kubedb/pg-coordinator": {
+        "tag": "v0.1.0"
+      },
       "github.com/kubedb/postgres": {
         "tag": "v0.17.0"
       },
@@ -43,9 +49,6 @@
       },
       "github.com/kubedb/tests": {
         "tag": "v0.2.0"
-      },
-      "github.com/kubedb/pg-coordinator": {
-        "tag": "v0.1.0"
       }
     },
     {

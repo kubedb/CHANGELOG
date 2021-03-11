@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T10:46:13.647203916Z",
+  "release_date": "2021-03-11T10:46:25.122410003Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -177,6 +177,92 @@
             {
               "SHA": "10e2d9b2",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#585)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "6df700d8",
+              "Subject": "Prepare for release v0.17.0 (#483)"
+            },
+            {
+              "SHA": "58eb52eb",
+              "Subject": "Update for release Stash@v2021.03.08 (#482)"
+            },
+            {
+              "SHA": "11504552",
+              "Subject": "Update KubeDB api (#481)"
+            },
+            {
+              "SHA": "d31d0364",
+              "Subject": "Update db container security context (#480)"
+            },
+            {
+              "SHA": "e097ef82",
+              "Subject": "Update KubeDB api (#479)"
+            },
+            {
+              "SHA": "03b16ef0",
+              "Subject": "Use helper method for initial master nodes (#478)"
+            },
+            {
+              "SHA": "b9785e29",
+              "Subject": "Fix appbinding type meta (#477)"
+            },
+            {
+              "SHA": "fb6a25a8",
+              "Subject": "Fix install command in Makefile (#476)"
+            },
+            {
+              "SHA": "8de7f729",
+              "Subject": "Update repository config (#475)"
+            },
+            {
+              "SHA": "99a594c7",
+              "Subject": "Pass stash addon info to AppBinding (#474)"
+            },
+            {
+              "SHA": "fe7603bb",
+              "Subject": "Mount custom config files to Elasticsearch config directory (#466)"
+            },
+            {
+              "SHA": "8e39688e",
+              "Subject": "Update repository config (#472)"
+            },
+            {
+              "SHA": "1915aa8f",
+              "Subject": "Update repository config (#471)"
+            },
+            {
+              "SHA": "a0c0a92a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#470)"
+            },
+            {
+              "SHA": "5579736d",
+              "Subject": "Update repository config (#469)"
+            },
+            {
+              "SHA": "ff140030",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#468)"
+            },
+            {
+              "SHA": "95d848b5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#467)"
+            },
+            {
+              "SHA": "15ec7161",
+              "Subject": "Update repository config (#465)"
+            },
+            {
+              "SHA": "005a8cc5",
+              "Subject": "Update repository config (#464)"
             }
           ]
         }

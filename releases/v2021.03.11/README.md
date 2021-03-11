@@ -54,6 +54,32 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.17.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.17.0)
+
+- [6df700d8](https://github.com/kubedb/elasticsearch/commit/6df700d8) Prepare for release v0.17.0 (#483)
+- [58eb52eb](https://github.com/kubedb/elasticsearch/commit/58eb52eb) Update for release Stash@v2021.03.08 (#482)
+- [11504552](https://github.com/kubedb/elasticsearch/commit/11504552) Update KubeDB api (#481)
+- [d31d0364](https://github.com/kubedb/elasticsearch/commit/d31d0364) Update db container security context (#480)
+- [e097ef82](https://github.com/kubedb/elasticsearch/commit/e097ef82) Update KubeDB api (#479)
+- [03b16ef0](https://github.com/kubedb/elasticsearch/commit/03b16ef0) Use helper method for initial master nodes (#478)
+- [b9785e29](https://github.com/kubedb/elasticsearch/commit/b9785e29) Fix appbinding type meta (#477)
+- [fb6a25a8](https://github.com/kubedb/elasticsearch/commit/fb6a25a8) Fix install command in Makefile (#476)
+- [8de7f729](https://github.com/kubedb/elasticsearch/commit/8de7f729) Update repository config (#475)
+- [99a594c7](https://github.com/kubedb/elasticsearch/commit/99a594c7) Pass stash addon info to AppBinding (#474)
+- [fe7603bb](https://github.com/kubedb/elasticsearch/commit/fe7603bb) Mount custom config files to Elasticsearch config directory (#466)
+- [8e39688e](https://github.com/kubedb/elasticsearch/commit/8e39688e) Update repository config (#472)
+- [1915aa8f](https://github.com/kubedb/elasticsearch/commit/1915aa8f) Update repository config (#471)
+- [a0c0a92a](https://github.com/kubedb/elasticsearch/commit/a0c0a92a) Update Kubernetes v1.18.9 dependencies (#470)
+- [5579736d](https://github.com/kubedb/elasticsearch/commit/5579736d) Update repository config (#469)
+- [ff140030](https://github.com/kubedb/elasticsearch/commit/ff140030) Update Kubernetes v1.18.9 dependencies (#468)
+- [95d848b5](https://github.com/kubedb/elasticsearch/commit/95d848b5) Update Kubernetes v1.18.9 dependencies (#467)
+- [15ec7161](https://github.com/kubedb/elasticsearch/commit/15ec7161) Update repository config (#465)
+- [005a8cc5](https://github.com/kubedb/elasticsearch/commit/005a8cc5) Update repository config (#464)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.10.0](https://github.com/kubedb/memcached/releases/tag/v0.10.0)

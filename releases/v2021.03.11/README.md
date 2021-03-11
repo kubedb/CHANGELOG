@@ -104,6 +104,29 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.10.0](https://github.com/kubedb/redis/releases/tag/v0.10.0)
+
+- [fbb31240](https://github.com/kubedb/redis/commit/fbb31240) Prepare for release v0.10.0 (#314)
+- [7ed160b4](https://github.com/kubedb/redis/commit/7ed160b4) Update KubeDB api (#313)
+- [232d206e](https://github.com/kubedb/redis/commit/232d206e) Update db container security context (#312)
+- [09084d0c](https://github.com/kubedb/redis/commit/09084d0c) Update KubeDB api (#311)
+- [62f3cef7](https://github.com/kubedb/redis/commit/62f3cef7) Fix appbinding type meta (#310)
+- [bed4e87d](https://github.com/kubedb/redis/commit/bed4e87d) Change redis config structure (#231)
+- [3eb9a5b5](https://github.com/kubedb/redis/commit/3eb9a5b5) Update Redis Conditions (#250)
+- [df65bfe8](https://github.com/kubedb/redis/commit/df65bfe8) Pass stash addon info to AppBinding (#308)
+- [1a4b3fe2](https://github.com/kubedb/redis/commit/1a4b3fe2) Update repository config (#307)
+- [fcab4120](https://github.com/kubedb/redis/commit/fcab4120) Update repository config (#306)
+- [ffa4a9ba](https://github.com/kubedb/redis/commit/ffa4a9ba) Update Kubernetes v1.18.9 dependencies (#305)
+- [5afb498e](https://github.com/kubedb/redis/commit/5afb498e) Update repository config (#304)
+- [38e93cb9](https://github.com/kubedb/redis/commit/38e93cb9) Update Kubernetes v1.18.9 dependencies (#303)
+- [f3083d8c](https://github.com/kubedb/redis/commit/f3083d8c) Update Kubernetes v1.18.9 dependencies (#302)
+- [878b4f7e](https://github.com/kubedb/redis/commit/878b4f7e) Update repository config (#301)
+- [d3a2e333](https://github.com/kubedb/redis/commit/d3a2e333) Update repository config (#300)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.4.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.4.0)

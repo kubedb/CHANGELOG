@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T11:03:26.143427195Z",
+  "release_date": "2021-03-11T11:04:53.121758361Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -749,6 +749,76 @@
             {
               "SHA": "93d466be",
               "Subject": "Update repository config (#463)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "6e8fb4a1",
+              "Subject": "Prepare for release v0.4.0 (#169)"
+            },
+            {
+              "SHA": "77bafd23",
+              "Subject": "Update for release Stash@v2021.03.08 (#168)"
+            },
+            {
+              "SHA": "7bff702a",
+              "Subject": "Update KubeDB api (#167)"
+            },
+            {
+              "SHA": "7fa81242",
+              "Subject": "Update db container security context (#166)"
+            },
+            {
+              "SHA": "c218aa7e",
+              "Subject": "Update KubeDB api (#165)"
+            },
+            {
+              "SHA": "2705c4e0",
+              "Subject": "Fix make install (#164)"
+            },
+            {
+              "SHA": "8498b254",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#163)"
+            },
+            {
+              "SHA": "fa003df3",
+              "Subject": "Update repository config (#162)"
+            },
+            {
+              "SHA": "eff1530f",
+              "Subject": "Update repository config (#161)"
+            },
+            {
+              "SHA": "863abf38",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#160)"
+            },
+            {
+              "SHA": "70f8d51d",
+              "Subject": "Update repository config (#159)"
+            },
+            {
+              "SHA": "0641bc35",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#158)"
+            },
+            {
+              "SHA": "a95d45e3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#157)"
+            },
+            {
+              "SHA": "2229b43f",
+              "Subject": "Update repository config (#156)"
+            },
+            {
+              "SHA": "a36856a6",
+              "Subject": "Update repository config (#155)"
             }
           ]
         }

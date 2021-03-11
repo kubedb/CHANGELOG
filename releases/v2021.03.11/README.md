@@ -104,6 +104,31 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.17.0](https://github.com/kubedb/postgres/releases/tag/v0.17.0)
+
+- [b47e7f4b](https://github.com/kubedb/postgres/commit/b47e7f4b) Prepare for release v0.17.0 (#481)
+- [a73ac849](https://github.com/kubedb/postgres/commit/a73ac849) Pass stash addon info to AppBinding (#480)
+- [d47d78ea](https://github.com/kubedb/postgres/commit/d47d78ea) Added supoort for TimescaleDB (#479)
+- [6ac94ae6](https://github.com/kubedb/postgres/commit/6ac94ae6) Added support for Official Postgres Images (#478)
+- [0506cb76](https://github.com/kubedb/postgres/commit/0506cb76) Update for release Stash@v2021.03.08 (#477)
+- [5d004ff4](https://github.com/kubedb/postgres/commit/5d004ff4) Update Makefile
+- [eb84fc88](https://github.com/kubedb/postgres/commit/eb84fc88) TLS support for postgres & Status condition update (#474)
+- [a6a365dd](https://github.com/kubedb/postgres/commit/a6a365dd) Fix install command (#473)
+- [004b2b8c](https://github.com/kubedb/postgres/commit/004b2b8c) Fix install command in Makefile (#472)
+- [6c714c92](https://github.com/kubedb/postgres/commit/6c714c92) Fix install command
+- [33eb6d74](https://github.com/kubedb/postgres/commit/33eb6d74) Update repository config (#470)
+- [90f48417](https://github.com/kubedb/postgres/commit/90f48417) Update repository config (#469)
+- [aa0f0760](https://github.com/kubedb/postgres/commit/aa0f0760) Update Kubernetes v1.18.9 dependencies (#468)
+- [43f953d9](https://github.com/kubedb/postgres/commit/43f953d9) Update repository config (#467)
+- [8247bcb6](https://github.com/kubedb/postgres/commit/8247bcb6) Update Kubernetes v1.18.9 dependencies (#466)
+- [619c8903](https://github.com/kubedb/postgres/commit/619c8903) Update Kubernetes v1.18.9 dependencies (#465)
+- [f2998147](https://github.com/kubedb/postgres/commit/f2998147) Update repository config (#464)
+- [93d466be](https://github.com/kubedb/postgres/commit/93d466be) Update repository config (#463)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.10.0](https://github.com/kubedb/redis/releases/tag/v0.10.0)

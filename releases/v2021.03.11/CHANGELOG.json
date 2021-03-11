@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T10:53:09.70090792Z",
+  "release_date": "2021-03-11T11:03:26.143427195Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -605,6 +605,68 @@
             {
               "SHA": "ebb5c70",
               "Subject": "Prepare for release v0.1.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "b68b46c7",
+              "Subject": "Prepare for release v0.4.0 (#152)"
+            },
+            {
+              "SHA": "efd337fe",
+              "Subject": "Update KubeDB api (#151)"
+            },
+            {
+              "SHA": "c649bc9b",
+              "Subject": "Update db container security context (#150)"
+            },
+            {
+              "SHA": "6c7da627",
+              "Subject": "Update KubeDB api (#149)"
+            },
+            {
+              "SHA": "a6254d15",
+              "Subject": "Fix make install (#148)"
+            },
+            {
+              "SHA": "fcdcbe00",
+              "Subject": "Update repository config (#146)"
+            },
+            {
+              "SHA": "7e1f30ef",
+              "Subject": "Update repository config (#145)"
+            },
+            {
+              "SHA": "eed4411c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#144)"
+            },
+            {
+              "SHA": "2f3d4363",
+              "Subject": "Update repository config (#143)"
+            },
+            {
+              "SHA": "951bb00e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#142)"
+            },
+            {
+              "SHA": "13f63fe3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#141)"
+            },
+            {
+              "SHA": "b80a350c",
+              "Subject": "Update repository config (#140)"
+            },
+            {
+              "SHA": "1ae2b26c",
+              "Subject": "Update repository config (#139)"
             }
           ]
         }

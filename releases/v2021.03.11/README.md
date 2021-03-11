@@ -188,6 +188,26 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.4.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.4.0)
+
+- [b68b46c7](https://github.com/kubedb/pgbouncer/commit/b68b46c7) Prepare for release v0.4.0 (#152)
+- [efd337fe](https://github.com/kubedb/pgbouncer/commit/efd337fe) Update KubeDB api (#151)
+- [c649bc9b](https://github.com/kubedb/pgbouncer/commit/c649bc9b) Update db container security context (#150)
+- [6c7da627](https://github.com/kubedb/pgbouncer/commit/6c7da627) Update KubeDB api (#149)
+- [a6254d15](https://github.com/kubedb/pgbouncer/commit/a6254d15) Fix make install (#148)
+- [fcdcbe00](https://github.com/kubedb/pgbouncer/commit/fcdcbe00) Update repository config (#146)
+- [7e1f30ef](https://github.com/kubedb/pgbouncer/commit/7e1f30ef) Update repository config (#145)
+- [eed4411c](https://github.com/kubedb/pgbouncer/commit/eed4411c) Update Kubernetes v1.18.9 dependencies (#144)
+- [2f3d4363](https://github.com/kubedb/pgbouncer/commit/2f3d4363) Update repository config (#143)
+- [951bb00e](https://github.com/kubedb/pgbouncer/commit/951bb00e) Update Kubernetes v1.18.9 dependencies (#142)
+- [13f63fe3](https://github.com/kubedb/pgbouncer/commit/13f63fe3) Update Kubernetes v1.18.9 dependencies (#141)
+- [b80a350c](https://github.com/kubedb/pgbouncer/commit/b80a350c) Update repository config (#140)
+- [1ae2b26c](https://github.com/kubedb/pgbouncer/commit/1ae2b26c) Update repository config (#139)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.17.0](https://github.com/kubedb/postgres/releases/tag/v0.17.0)

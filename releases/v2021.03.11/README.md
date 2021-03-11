@@ -93,6 +93,24 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.03.11](https://github.com/kubedb/docs/releases/tag/v2021.03.11)
+
+- [9b33728](https://github.com/kubedb/docs/commit/9b33728) Prepare for release v2021.03.11 (#104)
+- [988e590](https://github.com/kubedb/docs/commit/988e590) Fix build (#105)
+- [a933fcd](https://github.com/kubedb/docs/commit/a933fcd) Update setup docs (#101)
+- [ce8da49](https://github.com/kubedb/docs/commit/ce8da49) Update ElasticsearchVersion resource names (#102)
+- [dd87890](https://github.com/kubedb/docs/commit/dd87890) Update Elasticsearch documentations (#96)
+- [6ab4e29](https://github.com/kubedb/docs/commit/6ab4e29) Update MongoDB docs (#98)
+- [7d76bec](https://github.com/kubedb/docs/commit/7d76bec) MariaDB QuickStart Doc (#99)
+- [232d696](https://github.com/kubedb/docs/commit/232d696) Add enterprise doc and update existing ones (#82)
+- [4a16cba](https://github.com/kubedb/docs/commit/4a16cba) Increase trial period to 30 days
+- [16fca59](https://github.com/kubedb/docs/commit/16fca59) Check codespan schema (#97)
+- [7117f87](https://github.com/kubedb/docs/commit/7117f87) Update YAML install instructions (#95)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.17.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.17.0)

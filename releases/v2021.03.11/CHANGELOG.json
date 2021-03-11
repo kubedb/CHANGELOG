@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T15:55:04.719392044Z",
+  "release_date": "2021-03-11T19:43:11.670557122Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -297,6 +297,60 @@
             {
               "SHA": "10e2d9b2",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#585)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.03.11",
+          "commits": [
+            {
+              "SHA": "9b33728",
+              "Subject": "Prepare for release v2021.03.11 (#104)"
+            },
+            {
+              "SHA": "988e590",
+              "Subject": "Fix build (#105)"
+            },
+            {
+              "SHA": "a933fcd",
+              "Subject": "Update setup docs (#101)"
+            },
+            {
+              "SHA": "ce8da49",
+              "Subject": "Update ElasticsearchVersion resource names (#102)"
+            },
+            {
+              "SHA": "dd87890",
+              "Subject": "Update Elasticsearch documentations (#96)"
+            },
+            {
+              "SHA": "6ab4e29",
+              "Subject": "Update MongoDB docs (#98)"
+            },
+            {
+              "SHA": "7d76bec",
+              "Subject": "MariaDB QuickStart Doc (#99)"
+            },
+            {
+              "SHA": "232d696",
+              "Subject": "Add enterprise doc and update existing ones (#82)"
+            },
+            {
+              "SHA": "4a16cba",
+              "Subject": "Increase trial period to 30 days"
+            },
+            {
+              "SHA": "16fca59",
+              "Subject": "Check codespan schema (#97)"
+            },
+            {
+              "SHA": "7117f87",
+              "Subject": "Update YAML install instructions (#95)"
             }
           ]
         }

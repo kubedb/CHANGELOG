@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T11:36:25.102530159Z",
+  "release_date": "2021-03-11T11:49:33.06608144Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -2059,6 +2059,60 @@
             {
               "SHA": "78af88a4",
               "Subject": "Update repository config (#353)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "fa0cb596",
+              "Subject": "Prepare for release v0.17.0 (#399)"
+            },
+            {
+              "SHA": "46576385",
+              "Subject": "Update KubeDB api (#397)"
+            },
+            {
+              "SHA": "6f0c1887",
+              "Subject": "Add MariaDB support to kubedb/operator (#396)"
+            },
+            {
+              "SHA": "970e29d7",
+              "Subject": "Update repository config (#393)"
+            },
+            {
+              "SHA": "728b320e",
+              "Subject": "Update repository config (#392)"
+            },
+            {
+              "SHA": "b0f2a1c3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#391)"
+            },
+            {
+              "SHA": "8f31d09c",
+              "Subject": "Update repository config (#390)"
+            },
+            {
+              "SHA": "12dbdb2d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#389)"
+            },
+            {
+              "SHA": "e3a7e911",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#388)"
+            },
+            {
+              "SHA": "ebff29a4",
+              "Subject": "Update repository config (#387)"
+            },
+            {
+              "SHA": "65c6529f",
+              "Subject": "Update repository config (#386)"
             }
           ]
         }

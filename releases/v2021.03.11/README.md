@@ -547,6 +547,24 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.17.0](https://github.com/kubedb/operator/releases/tag/v0.17.0)
+
+- [fa0cb596](https://github.com/kubedb/operator/commit/fa0cb596) Prepare for release v0.17.0 (#399)
+- [46576385](https://github.com/kubedb/operator/commit/46576385) Update KubeDB api (#397)
+- [6f0c1887](https://github.com/kubedb/operator/commit/6f0c1887) Add MariaDB support to kubedb/operator (#396)
+- [970e29d7](https://github.com/kubedb/operator/commit/970e29d7) Update repository config (#393)
+- [728b320e](https://github.com/kubedb/operator/commit/728b320e) Update repository config (#392)
+- [b0f2a1c3](https://github.com/kubedb/operator/commit/b0f2a1c3) Update Kubernetes v1.18.9 dependencies (#391)
+- [8f31d09c](https://github.com/kubedb/operator/commit/8f31d09c) Update repository config (#390)
+- [12dbdb2d](https://github.com/kubedb/operator/commit/12dbdb2d) Update Kubernetes v1.18.9 dependencies (#389)
+- [e3a7e911](https://github.com/kubedb/operator/commit/e3a7e911) Update Kubernetes v1.18.9 dependencies (#388)
+- [ebff29a4](https://github.com/kubedb/operator/commit/ebff29a4) Update repository config (#387)
+- [65c6529f](https://github.com/kubedb/operator/commit/65c6529f) Update repository config (#386)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.4.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.4.0)

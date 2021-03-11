@@ -39,6 +39,21 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.17.0](https://github.com/kubedb/cli/releases/tag/v0.17.0)
+
+- [818df7f7](https://github.com/kubedb/cli/commit/818df7f7) Prepare for release v0.17.0 (#594)
+- [235e88a0](https://github.com/kubedb/cli/commit/235e88a0) Update for release Stash@v2021.03.08 (#593)
+- [755754a2](https://github.com/kubedb/cli/commit/755754a2) Update KubeDB api (#592)
+- [2c13bea2](https://github.com/kubedb/cli/commit/2c13bea2) Update postgres cli (#591)
+- [34b62534](https://github.com/kubedb/cli/commit/34b62534) Update repository config (#588)
+- [1cda66c1](https://github.com/kubedb/cli/commit/1cda66c1) Update repository config (#587)
+- [65b5d097](https://github.com/kubedb/cli/commit/65b5d097) Update Kubernetes v1.18.9 dependencies (#586)
+- [10e2d9b2](https://github.com/kubedb/cli/commit/10e2d9b2) Update Kubernetes v1.18.9 dependencies (#585)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.4.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.4.0)

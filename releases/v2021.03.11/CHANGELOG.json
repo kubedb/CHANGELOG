@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T10:44:30.927771571Z",
+  "release_date": "2021-03-11T10:44:40.8123015Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -135,6 +135,48 @@
             {
               "SHA": "7a221977",
               "Subject": "Add Mariadb support (#670)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "818df7f7",
+              "Subject": "Prepare for release v0.17.0 (#594)"
+            },
+            {
+              "SHA": "235e88a0",
+              "Subject": "Update for release Stash@v2021.03.08 (#593)"
+            },
+            {
+              "SHA": "755754a2",
+              "Subject": "Update KubeDB api (#592)"
+            },
+            {
+              "SHA": "2c13bea2",
+              "Subject": "Update postgres cli (#591)"
+            },
+            {
+              "SHA": "34b62534",
+              "Subject": "Update repository config (#588)"
+            },
+            {
+              "SHA": "1cda66c1",
+              "Subject": "Update repository config (#587)"
+            },
+            {
+              "SHA": "65b5d097",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#586)"
+            },
+            {
+              "SHA": "10e2d9b2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#585)"
             }
           ]
         }

@@ -1,6 +1,33 @@
 # KubeDB v2021.03.11 (2021-03-11)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.4.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.4.0)
+
+- [6bcddad8](https://github.com/appscode/kubedb-enterprise/commit/6bcddad8) Prepare for release v0.4.0 (#154)
+- [0785c36e](https://github.com/appscode/kubedb-enterprise/commit/0785c36e) Fix ConfigServer Horizontal Scaling Up (#153)
+- [0784a195](https://github.com/appscode/kubedb-enterprise/commit/0784a195) Fix MySQL DB version patch (#152)
+- [958b2390](https://github.com/appscode/kubedb-enterprise/commit/958b2390) Register CRD for MariaDB (#150)
+- [32caa479](https://github.com/appscode/kubedb-enterprise/commit/32caa479) TLS support for PostgreSQL and pg-coordinator (#148)
+- [03201b02](https://github.com/appscode/kubedb-enterprise/commit/03201b02) Add MariaDB TLS support (#110)
+- [1ad3e7df](https://github.com/appscode/kubedb-enterprise/commit/1ad3e7df) Add redis & tls reconfigure, restart support (#98)
+- [dad9c4cc](https://github.com/appscode/kubedb-enterprise/commit/dad9c4cc) Fix MongoDB Reconfigure TLS (#143)
+- [f62fc9f4](https://github.com/appscode/kubedb-enterprise/commit/f62fc9f4) Update KubeDB api (#149)
+- [c86c8d0c](https://github.com/appscode/kubedb-enterprise/commit/c86c8d0c) Update old env with the new one while upgrading ES version 6 to 7 (#147)
+- [48af0d99](https://github.com/appscode/kubedb-enterprise/commit/48af0d99) Use Elasticsearch version from version CRD while creating client (#135)
+- [70048682](https://github.com/appscode/kubedb-enterprise/commit/70048682) Fix MySQL Reconfigure TLS (#144)
+- [7a45302b](https://github.com/appscode/kubedb-enterprise/commit/7a45302b) Fix MySQL major version upgrading (#134)
+- [a5f76ab0](https://github.com/appscode/kubedb-enterprise/commit/a5f76ab0) Fix install command in Makefile (#145)
+- [34ae3519](https://github.com/appscode/kubedb-enterprise/commit/34ae3519) Update repository config (#141)
+- [f02f0007](https://github.com/appscode/kubedb-enterprise/commit/f02f0007) Update repository config (#139)
+- [b1ea4c2e](https://github.com/appscode/kubedb-enterprise/commit/b1ea4c2e) Update Kubernetes v1.18.9 dependencies (#138)
+- [341d79ae](https://github.com/appscode/kubedb-enterprise/commit/341d79ae) Update Kubernetes v1.18.9 dependencies (#137)
+- [7b26337b](https://github.com/appscode/kubedb-enterprise/commit/7b26337b) Update Kubernetes v1.18.9 dependencies (#136)
+- [e4455e82](https://github.com/appscode/kubedb-enterprise/commit/e4455e82) Update repository config (#133)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.17.0](https://github.com/kubedb/apimachinery/releases/tag/v0.17.0)

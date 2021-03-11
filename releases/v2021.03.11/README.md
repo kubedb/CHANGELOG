@@ -54,6 +54,36 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.10.0](https://github.com/kubedb/mysql/releases/tag/v0.10.0)
+
+- [3c97ea11](https://github.com/kubedb/mysql/commit/3c97ea11) Prepare for release v0.10.0 (#375)
+- [a7c9b3dc](https://github.com/kubedb/mysql/commit/a7c9b3dc) Inject "--set-gtid-purged=OFF" in backup Task params for clustered MySQL (#374)
+- [4d1eba85](https://github.com/kubedb/mysql/commit/4d1eba85) Update for release Stash@v2021.03.08 (#373)
+- [36d53c97](https://github.com/kubedb/mysql/commit/36d53c97) Fix default set binary log expire (#372)
+- [9118c66e](https://github.com/kubedb/mysql/commit/9118c66e) Update KubeDB api (#371)
+- [d323daae](https://github.com/kubedb/mysql/commit/d323daae) Update variable name
+- [6fad227c](https://github.com/kubedb/mysql/commit/6fad227c) Update db container security context (#370)
+- [9a570f2e](https://github.com/kubedb/mysql/commit/9a570f2e) Update KubeDB api (#369)
+- [80e4b857](https://github.com/kubedb/mysql/commit/80e4b857) Fix appbinding type meta (#368)
+- [6bc063b7](https://github.com/kubedb/mysql/commit/6bc063b7) Fix install command in Makefile (#367)
+- [3400d8c0](https://github.com/kubedb/mysql/commit/3400d8c0) Pass stash addon info to AppBinding (#364)
+- [2ddc20c4](https://github.com/kubedb/mysql/commit/2ddc20c4) Add ca bundle to AppBinding (#362)
+- [fb55f0e4](https://github.com/kubedb/mysql/commit/fb55f0e4) Purge executed binary log after 3 days by default (#352)
+- [92cd744c](https://github.com/kubedb/mysql/commit/92cd744c) Remove `baseServerID` from mysql cr (#356)
+- [e99b4e51](https://github.com/kubedb/mysql/commit/e99b4e51) Fix updating mysql status condition when db is not online (#355)
+- [d5527967](https://github.com/kubedb/mysql/commit/d5527967) Update repository config (#363)
+- [970db7e8](https://github.com/kubedb/mysql/commit/970db7e8) Update repository config (#361)
+- [077a4b44](https://github.com/kubedb/mysql/commit/077a4b44) Update Kubernetes v1.18.9 dependencies (#360)
+- [7c577664](https://github.com/kubedb/mysql/commit/7c577664) Update repository config (#359)
+- [1039210c](https://github.com/kubedb/mysql/commit/1039210c) Update Kubernetes v1.18.9 dependencies (#358)
+- [27a7fab8](https://github.com/kubedb/mysql/commit/27a7fab8) Update Kubernetes v1.18.9 dependencies (#357)
+- [b94283e9](https://github.com/kubedb/mysql/commit/b94283e9) Update repository config (#354)
+- [78af88a4](https://github.com/kubedb/mysql/commit/78af88a4) Update repository config (#353)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.4.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.4.0)

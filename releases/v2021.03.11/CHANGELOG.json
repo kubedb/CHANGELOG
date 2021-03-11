@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T10:44:40.8123015Z",
+  "release_date": "2021-03-11T10:44:51.453926557Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -177,6 +177,108 @@
             {
               "SHA": "10e2d9b2",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#585)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "3c97ea11",
+              "Subject": "Prepare for release v0.10.0 (#375)"
+            },
+            {
+              "SHA": "a7c9b3dc",
+              "Subject": "Inject \"--set-gtid-purged=OFF\" in backup Task params for clustered MySQL (#374)"
+            },
+            {
+              "SHA": "4d1eba85",
+              "Subject": "Update for release Stash@v2021.03.08 (#373)"
+            },
+            {
+              "SHA": "36d53c97",
+              "Subject": "Fix default set binary log expire (#372)"
+            },
+            {
+              "SHA": "9118c66e",
+              "Subject": "Update KubeDB api (#371)"
+            },
+            {
+              "SHA": "d323daae",
+              "Subject": "Update variable name"
+            },
+            {
+              "SHA": "6fad227c",
+              "Subject": "Update db container security context (#370)"
+            },
+            {
+              "SHA": "9a570f2e",
+              "Subject": "Update KubeDB api (#369)"
+            },
+            {
+              "SHA": "80e4b857",
+              "Subject": "Fix appbinding type meta (#368)"
+            },
+            {
+              "SHA": "6bc063b7",
+              "Subject": "Fix install command in Makefile (#367)"
+            },
+            {
+              "SHA": "3400d8c0",
+              "Subject": "Pass stash addon info to AppBinding (#364)"
+            },
+            {
+              "SHA": "2ddc20c4",
+              "Subject": "Add ca bundle to AppBinding (#362)"
+            },
+            {
+              "SHA": "fb55f0e4",
+              "Subject": "Purge executed binary log after 3 days by default (#352)"
+            },
+            {
+              "SHA": "92cd744c",
+              "Subject": "Remove `baseServerID` from mysql cr (#356)"
+            },
+            {
+              "SHA": "e99b4e51",
+              "Subject": "Fix updating mysql status condition when db is not online (#355)"
+            },
+            {
+              "SHA": "d5527967",
+              "Subject": "Update repository config (#363)"
+            },
+            {
+              "SHA": "970db7e8",
+              "Subject": "Update repository config (#361)"
+            },
+            {
+              "SHA": "077a4b44",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#360)"
+            },
+            {
+              "SHA": "7c577664",
+              "Subject": "Update repository config (#359)"
+            },
+            {
+              "SHA": "1039210c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#358)"
+            },
+            {
+              "SHA": "27a7fab8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#357)"
+            },
+            {
+              "SHA": "b94283e9",
+              "Subject": "Update repository config (#354)"
+            },
+            {
+              "SHA": "78af88a4",
+              "Subject": "Update repository config (#353)"
             }
           ]
         }

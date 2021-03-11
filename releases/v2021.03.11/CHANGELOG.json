@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T13:10:07.927477065Z",
+  "release_date": "2021-03-11T15:55:04.719392044Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -383,6 +383,220 @@
             {
               "SHA": "005a8cc5",
               "Subject": "Update repository config (#464)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "c1770ad",
+              "Subject": "Prepare for release v0.17.0 (#279)"
+            },
+            {
+              "SHA": "3ed3ee8",
+              "Subject": "Add global skipCleaner values field (#277)"
+            },
+            {
+              "SHA": "0a14985",
+              "Subject": "Update combined chart dependency (#276)"
+            },
+            {
+              "SHA": "d4d9f3a",
+              "Subject": "Add open source images for TimescaleDB (#275)"
+            },
+            {
+              "SHA": "d325aff",
+              "Subject": "Use distro aware version sorting"
+            },
+            {
+              "SHA": "c99847a",
+              "Subject": "Add TimescaleDB in Postgres catalog (#274)"
+            },
+            {
+              "SHA": "0cf8ceb",
+              "Subject": "Fail fmt command if formatting fails"
+            },
+            {
+              "SHA": "605fa5a",
+              "Subject": "Update percona MongoDBVersion name (#273)"
+            },
+            {
+              "SHA": "d9adea3",
+              "Subject": "Change Elasticsearch catalog naming format (#272)"
+            },
+            {
+              "SHA": "98ce374",
+              "Subject": "Handle non-semver db version names (#271)"
+            },
+            {
+              "SHA": "291fca7",
+              "Subject": "Auto download api repo to update crds (#270)"
+            },
+            {
+              "SHA": "ca1b813",
+              "Subject": "Update MongoDB init container image (#268)"
+            },
+            {
+              "SHA": "dad5f24",
+              "Subject": "Added official image for postgres (#269)"
+            },
+            {
+              "SHA": "0724348",
+              "Subject": "Update for release Stash@v2021.03.08 (#267)"
+            },
+            {
+              "SHA": "6ee56d9",
+              "Subject": "Don't fail deleting namespace when license expires (#266)"
+            },
+            {
+              "SHA": "833135b",
+              "Subject": "Add temporary volume for storing temporary certificates (#265)"
+            },
+            {
+              "SHA": "1a52a95",
+              "Subject": "Added new postgres versions in kubedb-catalog (#259)"
+            },
+            {
+              "SHA": "b8a0d0c",
+              "Subject": "Update MariaDB Image (#264)"
+            },
+            {
+              "SHA": "2270ede",
+              "Subject": "Fix Stash Addon params for ES SearchGuard & OpenDistro variant (#262)"
+            },
+            {
+              "SHA": "7d361cb",
+              "Subject": "Fix build (#261)"
+            },
+            {
+              "SHA": "6863b5a",
+              "Subject": "Create combined kubedb chart (#257)"
+            },
+            {
+              "SHA": "a566b56",
+              "Subject": "Format catalog chart with make fmt"
+            },
+            {
+              "SHA": "fd67c67",
+              "Subject": "Add raw catalog yamls (#254)"
+            },
+            {
+              "SHA": "6b283b4",
+              "Subject": "Add import-crds.sh script (#255)"
+            },
+            {
+              "SHA": "9897427",
+              "Subject": "Update crds for kubedb/apimachinery@5e28f585 (#253)"
+            },
+            {
+              "SHA": "f3ccbd9",
+              "Subject": ".Values.catalog.mongo -> .Values.catalog.mongodb (#252)"
+            },
+            {
+              "SHA": "20538d3",
+              "Subject": "Remove spec.tools from catalog (#250)"
+            },
+            {
+              "SHA": "8bae1ac",
+              "Subject": "Update crds for kubedb/apimachinery@169675bb (#251)"
+            },
+            {
+              "SHA": "f5661b5",
+              "Subject": "Update crds for kubedb/apimachinery@f4aa5bcc (#249)"
+            },
+            {
+              "SHA": "30e1a11",
+              "Subject": "Disable verify modules"
+            },
+            {
+              "SHA": "6280dff",
+              "Subject": "Add Stash addon info in MongoDB catalogs (#247)"
+            },
+            {
+              "SHA": "af0b011",
+              "Subject": "Update crds for kubedb/apimachinery@201456e8 (#248)"
+            },
+            {
+              "SHA": "23f31da",
+              "Subject": "Update crds for kubedb/apimachinery@1b8ec75a (#245)"
+            },
+            {
+              "SHA": "a950d29",
+              "Subject": "make ct (#242)"
+            },
+            {
+              "SHA": "95176b0",
+              "Subject": "Update repository config (#243)"
+            },
+            {
+              "SHA": "9a63b89",
+              "Subject": "Remove unused template from chart"
+            },
+            {
+              "SHA": "0da3eb1",
+              "Subject": "Update repository config (#241)"
+            },
+            {
+              "SHA": "cb559d8",
+              "Subject": "Update crds for kubedb/apimachinery@612f7384 (#240)"
+            },
+            {
+              "SHA": "bbbd753",
+              "Subject": "Update crds for kubedb/apimachinery@5b44aa8c (#239)"
+            },
+            {
+              "SHA": "25988b0",
+              "Subject": "Add combined kubedb chart (#238)"
+            },
+            {
+              "SHA": "d3bdf52",
+              "Subject": "Rename kubedb chart to kubedb-community (#237)"
+            },
+            {
+              "SHA": "154d542",
+              "Subject": "Add MariaDB Catalogs  (#208)"
+            },
+            {
+              "SHA": "8682f3a",
+              "Subject": "Update MySQL catalogs (#235)"
+            },
+            {
+              "SHA": "a32f766",
+              "Subject": "Update Elasticsearch versions (#234)"
+            },
+            {
+              "SHA": "435fc07",
+              "Subject": "Update chart description"
+            },
+            {
+              "SHA": "f7bebec",
+              "Subject": "Add kubedb-crds chart (#236)"
+            },
+            {
+              "SHA": "26397fc",
+              "Subject": "Skip generating YAMLs not needed for install command (#233)"
+            },
+            {
+              "SHA": "5788701",
+              "Subject": "Update repository config (#232)"
+            },
+            {
+              "SHA": "89b21eb",
+              "Subject": "Add statefulsets/finalizers to ClusterRole (#230)"
+            },
+            {
+              "SHA": "d282443",
+              "Subject": "Cleanup CI workflow (#231)"
+            },
+            {
+              "SHA": "cf01dd6",
+              "Subject": "Update repository config (#229)"
             }
           ]
         }

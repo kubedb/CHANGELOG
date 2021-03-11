@@ -119,6 +119,64 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.17.0](https://github.com/kubedb/installer/releases/tag/v0.17.0)
+
+- [c1770ad](https://github.com/kubedb/installer/commit/c1770ad) Prepare for release v0.17.0 (#279)
+- [3ed3ee8](https://github.com/kubedb/installer/commit/3ed3ee8) Add global skipCleaner values field (#277)
+- [0a14985](https://github.com/kubedb/installer/commit/0a14985) Update combined chart dependency (#276)
+- [d4d9f3a](https://github.com/kubedb/installer/commit/d4d9f3a) Add open source images for TimescaleDB (#275)
+- [d325aff](https://github.com/kubedb/installer/commit/d325aff) Use distro aware version sorting
+- [c99847a](https://github.com/kubedb/installer/commit/c99847a) Add TimescaleDB in Postgres catalog (#274)
+- [0cf8ceb](https://github.com/kubedb/installer/commit/0cf8ceb) Fail fmt command if formatting fails
+- [605fa5a](https://github.com/kubedb/installer/commit/605fa5a) Update percona MongoDBVersion name (#273)
+- [d9adea3](https://github.com/kubedb/installer/commit/d9adea3) Change Elasticsearch catalog naming format (#272)
+- [98ce374](https://github.com/kubedb/installer/commit/98ce374) Handle non-semver db version names (#271)
+- [291fca7](https://github.com/kubedb/installer/commit/291fca7) Auto download api repo to update crds (#270)
+- [ca1b813](https://github.com/kubedb/installer/commit/ca1b813) Update MongoDB init container image (#268)
+- [dad5f24](https://github.com/kubedb/installer/commit/dad5f24) Added official image for postgres (#269)
+- [0724348](https://github.com/kubedb/installer/commit/0724348) Update for release Stash@v2021.03.08 (#267)
+- [6ee56d9](https://github.com/kubedb/installer/commit/6ee56d9) Don't fail deleting namespace when license expires (#266)
+- [833135b](https://github.com/kubedb/installer/commit/833135b) Add temporary volume for storing temporary certificates (#265)
+- [1a52a95](https://github.com/kubedb/installer/commit/1a52a95) Added new postgres versions in kubedb-catalog (#259)
+- [b8a0d0c](https://github.com/kubedb/installer/commit/b8a0d0c) Update MariaDB Image (#264)
+- [2270ede](https://github.com/kubedb/installer/commit/2270ede) Fix Stash Addon params for ES SearchGuard & OpenDistro variant (#262)
+- [7d361cb](https://github.com/kubedb/installer/commit/7d361cb) Fix build (#261)
+- [6863b5a](https://github.com/kubedb/installer/commit/6863b5a) Create combined kubedb chart (#257)
+- [a566b56](https://github.com/kubedb/installer/commit/a566b56) Format catalog chart with make fmt
+- [fd67c67](https://github.com/kubedb/installer/commit/fd67c67) Add raw catalog yamls (#254)
+- [6b283b4](https://github.com/kubedb/installer/commit/6b283b4) Add import-crds.sh script (#255)
+- [9897427](https://github.com/kubedb/installer/commit/9897427) Update crds for kubedb/apimachinery@5e28f585 (#253)
+- [f3ccbd9](https://github.com/kubedb/installer/commit/f3ccbd9) .Values.catalog.mongo -> .Values.catalog.mongodb (#252)
+- [20538d3](https://github.com/kubedb/installer/commit/20538d3) Remove spec.tools from catalog (#250)
+- [8bae1ac](https://github.com/kubedb/installer/commit/8bae1ac) Update crds for kubedb/apimachinery@169675bb (#251)
+- [f5661b5](https://github.com/kubedb/installer/commit/f5661b5) Update crds for kubedb/apimachinery@f4aa5bcc (#249)
+- [30e1a11](https://github.com/kubedb/installer/commit/30e1a11) Disable verify modules
+- [6280dff](https://github.com/kubedb/installer/commit/6280dff) Add Stash addon info in MongoDB catalogs (#247)
+- [af0b011](https://github.com/kubedb/installer/commit/af0b011) Update crds for kubedb/apimachinery@201456e8 (#248)
+- [23f31da](https://github.com/kubedb/installer/commit/23f31da) Update crds for kubedb/apimachinery@1b8ec75a (#245)
+- [a950d29](https://github.com/kubedb/installer/commit/a950d29) make ct (#242)
+- [95176b0](https://github.com/kubedb/installer/commit/95176b0) Update repository config (#243)
+- [9a63b89](https://github.com/kubedb/installer/commit/9a63b89) Remove unused template from chart
+- [0da3eb1](https://github.com/kubedb/installer/commit/0da3eb1) Update repository config (#241)
+- [cb559d8](https://github.com/kubedb/installer/commit/cb559d8) Update crds for kubedb/apimachinery@612f7384 (#240)
+- [bbbd753](https://github.com/kubedb/installer/commit/bbbd753) Update crds for kubedb/apimachinery@5b44aa8c (#239)
+- [25988b0](https://github.com/kubedb/installer/commit/25988b0) Add combined kubedb chart (#238)
+- [d3bdf52](https://github.com/kubedb/installer/commit/d3bdf52) Rename kubedb chart to kubedb-community (#237)
+- [154d542](https://github.com/kubedb/installer/commit/154d542) Add MariaDB Catalogs  (#208)
+- [8682f3a](https://github.com/kubedb/installer/commit/8682f3a) Update MySQL catalogs (#235)
+- [a32f766](https://github.com/kubedb/installer/commit/a32f766) Update Elasticsearch versions (#234)
+- [435fc07](https://github.com/kubedb/installer/commit/435fc07) Update chart description
+- [f7bebec](https://github.com/kubedb/installer/commit/f7bebec) Add kubedb-crds chart (#236)
+- [26397fc](https://github.com/kubedb/installer/commit/26397fc) Skip generating YAMLs not needed for install command (#233)
+- [5788701](https://github.com/kubedb/installer/commit/5788701) Update repository config (#232)
+- [89b21eb](https://github.com/kubedb/installer/commit/89b21eb) Add statefulsets/finalizers to ClusterRole (#230)
+- [d282443](https://github.com/kubedb/installer/commit/d282443) Cleanup CI workflow (#231)
+- [cf01dd6](https://github.com/kubedb/installer/commit/cf01dd6) Update repository config (#229)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.1.0](https://github.com/kubedb/mariadb/releases/tag/v0.1.0)

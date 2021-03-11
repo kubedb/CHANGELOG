@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T19:43:11.670557122Z",
+  "release_date": "2021-03-11T19:51:58.504126823Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -255,6 +255,36 @@
             {
               "SHA": "7a221977",
               "Subject": "Add Mariadb support (#670)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.03.11",
+          "commits": [
+            {
+              "SHA": "b5e2cfc",
+              "Subject": "Prepare for release v2021.03.11 (#24)"
+            },
+            {
+              "SHA": "015a565",
+              "Subject": "Update chart"
+            },
+            {
+              "SHA": "d523cc2",
+              "Subject": "Update repository config (#23)"
+            },
+            {
+              "SHA": "eb49d9e",
+              "Subject": "Update repository config (#22)"
+            },
+            {
+              "SHA": "75dedbd",
+              "Subject": "Update repository config (#21)"
             }
           ]
         }

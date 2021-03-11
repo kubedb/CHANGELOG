@@ -78,6 +78,18 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2021.03.11](https://github.com/kubedb/bundles/releases/tag/v2021.03.11)
+
+- [b5e2cfc](https://github.com/kubedb/bundles/commit/b5e2cfc) Prepare for release v2021.03.11 (#24)
+- [015a565](https://github.com/kubedb/bundles/commit/015a565) Update chart
+- [d523cc2](https://github.com/kubedb/bundles/commit/d523cc2) Update repository config (#23)
+- [eb49d9e](https://github.com/kubedb/bundles/commit/eb49d9e) Update repository config (#22)
+- [75dedbd](https://github.com/kubedb/bundles/commit/75dedbd) Update repository config (#21)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.17.0](https://github.com/kubedb/cli/releases/tag/v0.17.0)

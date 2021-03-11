@@ -54,6 +54,26 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.10.0](https://github.com/kubedb/memcached/releases/tag/v0.10.0)
+
+- [58cdf64a](https://github.com/kubedb/memcached/commit/58cdf64a) Prepare for release v0.10.0 (#291)
+- [13e5a1fb](https://github.com/kubedb/memcached/commit/13e5a1fb) Update KubeDB api (#290)
+- [390739ad](https://github.com/kubedb/memcached/commit/390739ad) Update db container security context (#289)
+- [7bf492f1](https://github.com/kubedb/memcached/commit/7bf492f1) Update KubeDB api (#288)
+- [d074bf23](https://github.com/kubedb/memcached/commit/d074bf23) Fix make install (#287)
+- [ee747948](https://github.com/kubedb/memcached/commit/ee747948) Update repository config (#285)
+- [e19e53fe](https://github.com/kubedb/memcached/commit/e19e53fe) Update repository config (#284)
+- [e7764dcf](https://github.com/kubedb/memcached/commit/e7764dcf) Update Kubernetes v1.18.9 dependencies (#283)
+- [b491d1d9](https://github.com/kubedb/memcached/commit/b491d1d9) Update repository config (#282)
+- [beaa42b1](https://github.com/kubedb/memcached/commit/beaa42b1) Update Kubernetes v1.18.9 dependencies (#281)
+- [25e0c0a5](https://github.com/kubedb/memcached/commit/25e0c0a5) Update Kubernetes v1.18.9 dependencies (#280)
+- [a4a6b2b8](https://github.com/kubedb/memcached/commit/a4a6b2b8) Update repository config (#279)
+- [c3b1154b](https://github.com/kubedb/memcached/commit/c3b1154b) Update repository config (#278)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.10.0](https://github.com/kubedb/mysql/releases/tag/v0.10.0)

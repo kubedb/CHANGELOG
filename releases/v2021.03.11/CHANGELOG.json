@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T10:44:51.453926557Z",
+  "release_date": "2021-03-11T10:45:40.407424994Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -177,6 +177,68 @@
             {
               "SHA": "10e2d9b2",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#585)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "58cdf64a",
+              "Subject": "Prepare for release v0.10.0 (#291)"
+            },
+            {
+              "SHA": "13e5a1fb",
+              "Subject": "Update KubeDB api (#290)"
+            },
+            {
+              "SHA": "390739ad",
+              "Subject": "Update db container security context (#289)"
+            },
+            {
+              "SHA": "7bf492f1",
+              "Subject": "Update KubeDB api (#288)"
+            },
+            {
+              "SHA": "d074bf23",
+              "Subject": "Fix make install (#287)"
+            },
+            {
+              "SHA": "ee747948",
+              "Subject": "Update repository config (#285)"
+            },
+            {
+              "SHA": "e19e53fe",
+              "Subject": "Update repository config (#284)"
+            },
+            {
+              "SHA": "e7764dcf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#283)"
+            },
+            {
+              "SHA": "b491d1d9",
+              "Subject": "Update repository config (#282)"
+            },
+            {
+              "SHA": "beaa42b1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#281)"
+            },
+            {
+              "SHA": "25e0c0a5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#280)"
+            },
+            {
+              "SHA": "a4a6b2b8",
+              "Subject": "Update repository config (#279)"
+            },
+            {
+              "SHA": "c3b1154b",
+              "Subject": "Update repository config (#278)"
             }
           ]
         }

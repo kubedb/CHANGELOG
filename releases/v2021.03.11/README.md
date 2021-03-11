@@ -100,6 +100,33 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.10.0](https://github.com/kubedb/mongodb/releases/tag/v0.10.0)
+
+- [e14d90b3](https://github.com/kubedb/mongodb/commit/e14d90b3) Prepare for release v0.10.0 (#382)
+- [48e752f3](https://github.com/kubedb/mongodb/commit/48e752f3) Update for release Stash@v2021.03.08 (#381)
+- [03c8ccb4](https://github.com/kubedb/mongodb/commit/03c8ccb4) Update KubeDB api (#380)
+- [bda470f8](https://github.com/kubedb/mongodb/commit/bda470f8) Update db container security context (#379)
+- [86bc54a8](https://github.com/kubedb/mongodb/commit/86bc54a8) Update KubeDB api (#378)
+- [a406dfca](https://github.com/kubedb/mongodb/commit/a406dfca) Fix make install command (#377)
+- [17121476](https://github.com/kubedb/mongodb/commit/17121476) Update install command (#376)
+- [05fd7b77](https://github.com/kubedb/mongodb/commit/05fd7b77) Pass stash addon info to AppBinding (#374)
+- [787861a3](https://github.com/kubedb/mongodb/commit/787861a3) Create TLS user in `$external` database (#366)
+- [dc9cef47](https://github.com/kubedb/mongodb/commit/dc9cef47) Update Kubernetes v1.18.9 dependencies (#375)
+- [e8081471](https://github.com/kubedb/mongodb/commit/e8081471) Update Kubernetes v1.18.9 dependencies (#373)
+- [612f7350](https://github.com/kubedb/mongodb/commit/612f7350) Update repository config (#372)
+- [94410f92](https://github.com/kubedb/mongodb/commit/94410f92) Update repository config (#371)
+- [d10b9b03](https://github.com/kubedb/mongodb/commit/d10b9b03) Update Kubernetes v1.18.9 dependencies (#370)
+- [132172b4](https://github.com/kubedb/mongodb/commit/132172b4) Update repository config (#369)
+- [94fa1536](https://github.com/kubedb/mongodb/commit/94fa1536) #818 MongoDB IPv6 support (#365)
+- [9614d777](https://github.com/kubedb/mongodb/commit/9614d777) Update Kubernetes v1.18.9 dependencies (#368)
+- [054c7312](https://github.com/kubedb/mongodb/commit/054c7312) Update Kubernetes v1.18.9 dependencies (#367)
+- [02bed305](https://github.com/kubedb/mongodb/commit/02bed305) Update repository config (#364)
+- [ac0e9a51](https://github.com/kubedb/mongodb/commit/ac0e9a51) Update repository config (#363)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.10.0](https://github.com/kubedb/mysql/releases/tag/v0.10.0)

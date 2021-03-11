@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T10:50:39.024703126Z",
+  "release_date": "2021-03-11T10:52:26.39205131Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -325,6 +325,96 @@
             {
               "SHA": "c3b1154b",
               "Subject": "Update repository config (#278)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "e14d90b3",
+              "Subject": "Prepare for release v0.10.0 (#382)"
+            },
+            {
+              "SHA": "48e752f3",
+              "Subject": "Update for release Stash@v2021.03.08 (#381)"
+            },
+            {
+              "SHA": "03c8ccb4",
+              "Subject": "Update KubeDB api (#380)"
+            },
+            {
+              "SHA": "bda470f8",
+              "Subject": "Update db container security context (#379)"
+            },
+            {
+              "SHA": "86bc54a8",
+              "Subject": "Update KubeDB api (#378)"
+            },
+            {
+              "SHA": "a406dfca",
+              "Subject": "Fix make install command (#377)"
+            },
+            {
+              "SHA": "17121476",
+              "Subject": "Update install command (#376)"
+            },
+            {
+              "SHA": "05fd7b77",
+              "Subject": "Pass stash addon info to AppBinding (#374)"
+            },
+            {
+              "SHA": "787861a3",
+              "Subject": "Create TLS user in `$external` database (#366)"
+            },
+            {
+              "SHA": "dc9cef47",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#375)"
+            },
+            {
+              "SHA": "e8081471",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#373)"
+            },
+            {
+              "SHA": "612f7350",
+              "Subject": "Update repository config (#372)"
+            },
+            {
+              "SHA": "94410f92",
+              "Subject": "Update repository config (#371)"
+            },
+            {
+              "SHA": "d10b9b03",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#370)"
+            },
+            {
+              "SHA": "132172b4",
+              "Subject": "Update repository config (#369)"
+            },
+            {
+              "SHA": "94fa1536",
+              "Subject": "#818 MongoDB IPv6 support (#365)"
+            },
+            {
+              "SHA": "9614d777",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#368)"
+            },
+            {
+              "SHA": "054c7312",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#367)"
+            },
+            {
+              "SHA": "02bed305",
+              "Subject": "Update repository config (#364)"
+            },
+            {
+              "SHA": "ac0e9a51",
+              "Subject": "Update repository config (#363)"
             }
           ]
         }

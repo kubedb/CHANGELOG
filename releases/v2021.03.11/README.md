@@ -249,3 +249,28 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.2.0](https://github.com/kubedb/tests/releases/tag/v0.2.0)
+
+- [d515b35](https://github.com/kubedb/tests/commit/d515b35) Prepare for release v0.2.0 (#109)
+- [8af80df](https://github.com/kubedb/tests/commit/8af80df) Remove parameters in clustered MySQL backup tests (#108)
+- [34d9ed0](https://github.com/kubedb/tests/commit/34d9ed0) Add Stash backup tests for Elasticsearch (#86)
+- [0ae044b](https://github.com/kubedb/tests/commit/0ae044b) Add e2e-tests for Elasticsearch Reconfigure TLS (#98)
+- [0ecf747](https://github.com/kubedb/tests/commit/0ecf747) Add test for redis reconfiguration (#43)
+- [051e74f](https://github.com/kubedb/tests/commit/051e74f) MariaDB Test with Backup Recovery (#96)
+- [84f93a2](https://github.com/kubedb/tests/commit/84f93a2) Update KubeDB api (#107)
+- [341b130](https://github.com/kubedb/tests/commit/341b130) Add `ElasticsearchAutoscaler` e2e test (#93)
+- [b09219c](https://github.com/kubedb/tests/commit/b09219c) Add Stash Backup & Restore test for MySQL (#102)
+- [d094303](https://github.com/kubedb/tests/commit/d094303) Test for MySQL Reconfigure, TLS-Reconfigure and VolumeExpansion (#62)
+- [049cfb6](https://github.com/kubedb/tests/commit/049cfb6) Fix failed test for MySQL (#103)
+- [f84b277](https://github.com/kubedb/tests/commit/f84b277) Update Kubernetes v1.18.9 dependencies (#105)
+- [32e88cf](https://github.com/kubedb/tests/commit/32e88cf) Update repository config (#104)
+- [b20b2d9](https://github.com/kubedb/tests/commit/b20b2d9) Update repository config (#101)
+- [e720f80](https://github.com/kubedb/tests/commit/e720f80) Update Kubernetes v1.18.9 dependencies (#100)
+- [25a6cdd](https://github.com/kubedb/tests/commit/25a6cdd) Add MongoDB ReconfigureTLS Test (#97)
+- [1814c42](https://github.com/kubedb/tests/commit/1814c42) Update Elasticsearch go-client (#94)
+- [9849e81](https://github.com/kubedb/tests/commit/9849e81) Update Kubernetes v1.18.9 dependencies (#99)
+
+
+

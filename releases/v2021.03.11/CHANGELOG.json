@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T10:52:26.39205131Z",
+  "release_date": "2021-03-11T10:53:09.70090792Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -795,6 +795,88 @@
             {
               "SHA": "ae0857b",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "d515b35",
+              "Subject": "Prepare for release v0.2.0 (#109)"
+            },
+            {
+              "SHA": "8af80df",
+              "Subject": "Remove parameters in clustered MySQL backup tests (#108)"
+            },
+            {
+              "SHA": "34d9ed0",
+              "Subject": "Add Stash backup tests for Elasticsearch (#86)"
+            },
+            {
+              "SHA": "0ae044b",
+              "Subject": "Add e2e-tests for Elasticsearch Reconfigure TLS (#98)"
+            },
+            {
+              "SHA": "0ecf747",
+              "Subject": "Add test for redis reconfiguration (#43)"
+            },
+            {
+              "SHA": "051e74f",
+              "Subject": "MariaDB Test with Backup Recovery (#96)"
+            },
+            {
+              "SHA": "84f93a2",
+              "Subject": "Update KubeDB api (#107)"
+            },
+            {
+              "SHA": "341b130",
+              "Subject": "Add `ElasticsearchAutoscaler` e2e test (#93)"
+            },
+            {
+              "SHA": "b09219c",
+              "Subject": "Add Stash Backup & Restore test for MySQL (#102)"
+            },
+            {
+              "SHA": "d094303",
+              "Subject": "Test for MySQL Reconfigure, TLS-Reconfigure and VolumeExpansion (#62)"
+            },
+            {
+              "SHA": "049cfb6",
+              "Subject": "Fix failed test for MySQL (#103)"
+            },
+            {
+              "SHA": "f84b277",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#105)"
+            },
+            {
+              "SHA": "32e88cf",
+              "Subject": "Update repository config (#104)"
+            },
+            {
+              "SHA": "b20b2d9",
+              "Subject": "Update repository config (#101)"
+            },
+            {
+              "SHA": "e720f80",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#100)"
+            },
+            {
+              "SHA": "25a6cdd",
+              "Subject": "Add MongoDB ReconfigureTLS Test (#97)"
+            },
+            {
+              "SHA": "1814c42",
+              "Subject": "Update Elasticsearch go-client (#94)"
+            },
+            {
+              "SHA": "9849e81",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#99)"
             }
           ]
         }

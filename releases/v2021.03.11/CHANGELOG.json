@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T10:46:04.343675435Z",
+  "release_date": "2021-03-11T10:46:13.647203916Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -341,6 +341,80 @@
             {
               "SHA": "78af88a4",
               "Subject": "Update repository config (#353)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "2fcad9f8",
+              "Subject": "Prepare for release v0.4.0 (#190)"
+            },
+            {
+              "SHA": "5e925447",
+              "Subject": "Update for release Stash@v2021.03.08 (#189)"
+            },
+            {
+              "SHA": "43546c4a",
+              "Subject": "Update KubeDB api (#188)"
+            },
+            {
+              "SHA": "86cd32ae",
+              "Subject": "Update db container security context (#187)"
+            },
+            {
+              "SHA": "efe459a3",
+              "Subject": "Update KubeDB api (#186)"
+            },
+            {
+              "SHA": "4cd31b92",
+              "Subject": "Fix make install (#185)"
+            },
+            {
+              "SHA": "105b4ca5",
+              "Subject": "Fix install command in Makefile (#184)"
+            },
+            {
+              "SHA": "be699bcb",
+              "Subject": "Pass stash addon info to AppBinding (#182)"
+            },
+            {
+              "SHA": "431bfad8",
+              "Subject": "Update repository config (#181)"
+            },
+            {
+              "SHA": "37953474",
+              "Subject": "Update repository config (#180)"
+            },
+            {
+              "SHA": "387795d2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#179)"
+            },
+            {
+              "SHA": "ccf8ee25",
+              "Subject": "Update repository config (#178)"
+            },
+            {
+              "SHA": "9f61328a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#177)"
+            },
+            {
+              "SHA": "9241cd63",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#176)"
+            },
+            {
+              "SHA": "3687b603",
+              "Subject": "Update repository config (#175)"
+            },
+            {
+              "SHA": "a8a83f93",
+              "Subject": "Update repository config (#174)"
             }
           ]
         }

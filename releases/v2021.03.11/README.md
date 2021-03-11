@@ -104,6 +104,29 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.4.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.4.0)
+
+- [2fcad9f8](https://github.com/kubedb/percona-xtradb/commit/2fcad9f8) Prepare for release v0.4.0 (#190)
+- [5e925447](https://github.com/kubedb/percona-xtradb/commit/5e925447) Update for release Stash@v2021.03.08 (#189)
+- [43546c4a](https://github.com/kubedb/percona-xtradb/commit/43546c4a) Update KubeDB api (#188)
+- [86cd32ae](https://github.com/kubedb/percona-xtradb/commit/86cd32ae) Update db container security context (#187)
+- [efe459a3](https://github.com/kubedb/percona-xtradb/commit/efe459a3) Update KubeDB api (#186)
+- [4cd31b92](https://github.com/kubedb/percona-xtradb/commit/4cd31b92) Fix make install (#185)
+- [105b4ca5](https://github.com/kubedb/percona-xtradb/commit/105b4ca5) Fix install command in Makefile (#184)
+- [be699bcb](https://github.com/kubedb/percona-xtradb/commit/be699bcb) Pass stash addon info to AppBinding (#182)
+- [431bfad8](https://github.com/kubedb/percona-xtradb/commit/431bfad8) Update repository config (#181)
+- [37953474](https://github.com/kubedb/percona-xtradb/commit/37953474) Update repository config (#180)
+- [387795d2](https://github.com/kubedb/percona-xtradb/commit/387795d2) Update Kubernetes v1.18.9 dependencies (#179)
+- [ccf8ee25](https://github.com/kubedb/percona-xtradb/commit/ccf8ee25) Update repository config (#178)
+- [9f61328a](https://github.com/kubedb/percona-xtradb/commit/9f61328a) Update Kubernetes v1.18.9 dependencies (#177)
+- [9241cd63](https://github.com/kubedb/percona-xtradb/commit/9241cd63) Update Kubernetes v1.18.9 dependencies (#176)
+- [3687b603](https://github.com/kubedb/percona-xtradb/commit/3687b603) Update repository config (#175)
+- [a8a83f93](https://github.com/kubedb/percona-xtradb/commit/a8a83f93) Update repository config (#174)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.17.0](https://github.com/kubedb/postgres/releases/tag/v0.17.0)

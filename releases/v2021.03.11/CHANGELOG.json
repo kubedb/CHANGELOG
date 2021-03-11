@@ -1,0 +1,144 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.03.11",
+  "release_date": "2021-03-11T10:31:10.291730741Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.03.11",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "a550d467",
+              "Subject": "Removed constant MariaDBClusterRecommendedVersion (#722)"
+            },
+            {
+              "SHA": "1029fc48",
+              "Subject": "Add default monitoring configuration (#721)"
+            },
+            {
+              "SHA": "6d0a8316",
+              "Subject": "Always run PostgreSQL container as 70 (#720)"
+            },
+            {
+              "SHA": "0922b1ab",
+              "Subject": "Update for release Stash@v2021.03.08 (#719)"
+            },
+            {
+              "SHA": "3cdca509",
+              "Subject": "Merge ContainerTemplate into PodTemplate spec (#718)"
+            },
+            {
+              "SHA": "8dedb762",
+              "Subject": "Set default affinity rules for MariaDB (#717)"
+            },
+            {
+              "SHA": "2bf1490e",
+              "Subject": "Default db container security context (#716)"
+            },
+            {
+              "SHA": "8df88aaa",
+              "Subject": "Update container template (#715)"
+            },
+            {
+              "SHA": "74561e0d",
+              "Subject": "Use etcd ports for for pg coordinator (#714)"
+            },
+            {
+              "SHA": "c2cd1993",
+              "Subject": "Update constant fields for pg-coordinator (#713)"
+            },
+            {
+              "SHA": "77c4bd69",
+              "Subject": "Add Elasticsearch helper method for initial master nodes (#712)"
+            },
+            {
+              "SHA": "5cc3309e",
+              "Subject": "Add distribution support to Postgres (#711)"
+            },
+            {
+              "SHA": "5de49ea6",
+              "Subject": "Use import-crds.sh script (#710)"
+            },
+            {
+              "SHA": "5e28f585",
+              "Subject": "Use Es distro as ElasticStack"
+            },
+            {
+              "SHA": "169675bb",
+              "Subject": "Remove spec.tools from EtcdVersion (#709)"
+            },
+            {
+              "SHA": "f4aa5bcc",
+              "Subject": "Remove memberWeight from MySQLOpsRequest (#708)"
+            },
+            {
+              "SHA": "201456e8",
+              "Subject": "Postgres : updated leader elector [ElectionTick,HeartbeatTick] (#700)"
+            },
+            {
+              "SHA": "4cb3f571",
+              "Subject": "Add distribution support in catalog (#707)"
+            },
+            {
+              "SHA": "eb98592d",
+              "Subject": "MongoDB: Remove `OrganizationalUnit` and default `Organization` (#704)"
+            },
+            {
+              "SHA": "14ba7e04",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "3075facf",
+              "Subject": "Update config types with stash addon config"
+            },
+            {
+              "SHA": "1b8ec75a",
+              "Subject": "Update catalog stash addon (#703)"
+            },
+            {
+              "SHA": "4b451feb",
+              "Subject": "Update repository config (#701)"
+            },
+            {
+              "SHA": "6503a31c",
+              "Subject": "Update repository config (#698)"
+            },
+            {
+              "SHA": "612f7384",
+              "Subject": "Add Stash task refs to Catalog crds (#696)"
+            },
+            {
+              "SHA": "bcb978c0",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#697)"
+            },
+            {
+              "SHA": "5b44aa8c",
+              "Subject": "Remove server-id from MySQL CR (#693)"
+            },
+            {
+              "SHA": "4ab0a496",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#694)"
+            },
+            {
+              "SHA": "8591d95d",
+              "Subject": "Update crds via GitHub actions (#695)"
+            },
+            {
+              "SHA": "5fc7c521",
+              "Subject": "Remove deprecated crd yamls"
+            },
+            {
+              "SHA": "7a221977",
+              "Subject": "Add Mariadb support (#670)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

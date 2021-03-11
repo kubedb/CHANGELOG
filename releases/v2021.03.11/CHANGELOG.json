@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.11",
-  "release_date": "2021-03-11T10:46:25.122410003Z",
+  "release_date": "2021-03-11T10:50:39.024703126Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
@@ -501,6 +501,20 @@
             {
               "SHA": "a8a83f93",
               "Subject": "Update repository config (#174)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "ebb5c70",
+              "Subject": "Prepare for release v0.1.0 (#13)"
             }
           ]
         }

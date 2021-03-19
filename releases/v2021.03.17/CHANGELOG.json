@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.17",
-  "release_date": "2021-03-19T12:18:37.290494221Z",
+  "release_date": "2021-03-19T12:18:47.691414093Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.17",
   "kubernetes_version": "1.14+",
@@ -45,6 +45,28 @@
             {
               "SHA": "ace78977",
               "Subject": "Update for release Stash@v2021.03.11 (#595)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "ed002c9d",
+              "Subject": "Prepare for release v0.17.1 (#486)"
+            },
+            {
+              "SHA": "4a1978ff",
+              "Subject": "Use user provided secret for Elasticsearch internal users (#485)"
+            },
+            {
+              "SHA": "821d5b65",
+              "Subject": "Update for release Stash@v2021.03.11 (#484)"
             }
           ]
         }

@@ -21,6 +21,16 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.17.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.17.1)
+
+- [ed002c9d](https://github.com/kubedb/elasticsearch/commit/ed002c9d) Prepare for release v0.17.1 (#486)
+- [4a1978ff](https://github.com/kubedb/elasticsearch/commit/4a1978ff) Use user provided secret for Elasticsearch internal users (#485)
+- [821d5b65](https://github.com/kubedb/elasticsearch/commit/821d5b65) Update for release Stash@v2021.03.11 (#484)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.1.1](https://github.com/kubedb/mariadb/releases/tag/v0.1.1)

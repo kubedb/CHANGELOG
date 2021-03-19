@@ -56,6 +56,14 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.10.1](https://github.com/kubedb/redis/releases/tag/v0.10.1)
+
+- [baef9fd9](https://github.com/kubedb/redis/commit/baef9fd9) Prepare for release v0.10.1 (#315)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.2.1](https://github.com/kubedb/tests/releases/tag/v0.2.1)

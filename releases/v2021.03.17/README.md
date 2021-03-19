@@ -21,6 +21,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.10.1](https://github.com/kubedb/mongodb/releases/tag/v0.10.1)
+
+- [21486cc6](https://github.com/kubedb/mongodb/commit/21486cc6) Prepare for release v0.10.1 (#385)
+- [afdf4296](https://github.com/kubedb/mongodb/commit/afdf4296) Update for release Stash@v2021.03.11 (#383)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.2.1](https://github.com/kubedb/tests/releases/tag/v0.2.1)

@@ -1,6 +1,14 @@
 # KubeDB v2021.03.17 (2021-03-19)
 
 
+## [appscode/kubedb-autoscaler](https://github.com/appscode/kubedb-autoscaler)
+
+### [v0.2.1](https://github.com/appscode/kubedb-autoscaler/releases/tag/v0.2.1)
+
+- [731b46c](https://github.com/appscode/kubedb-autoscaler/commit/731b46c) Prepare for release v0.2.1 (#19)
+
+
+
 ## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
 
 ### [v0.4.1](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.4.1)

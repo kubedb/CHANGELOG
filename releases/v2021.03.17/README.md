@@ -21,3 +21,12 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.2.1](https://github.com/kubedb/tests/releases/tag/v0.2.1)
+
+- [eca46b5](https://github.com/kubedb/tests/commit/eca46b5) Prepare for release v0.2.1 (#111)
+- [a58b54f](https://github.com/kubedb/tests/commit/a58b54f) Don't explicitly set RestoreSession labels (#110)
+
+
+

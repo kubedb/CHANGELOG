@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.03.17",
+  "release_date": "2021-03-19T12:03:44.389858296Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.03.17",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "12d0f980",
+              "Subject": "Add secretName to Elasticsearch userSpec (#725)"
+            },
+            {
+              "SHA": "b2345eb8",
+              "Subject": "Add printable Distribution field for DB Versions (#723)"
+            },
+            {
+              "SHA": "3fc568ac",
+              "Subject": "Add default organizational unit (#726)"
+            },
+            {
+              "SHA": "e96fc066",
+              "Subject": "Update for release Stash@v2021.03.11 (#724)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

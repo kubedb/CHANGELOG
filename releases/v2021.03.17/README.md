@@ -21,6 +21,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.10.1](https://github.com/kubedb/memcached/releases/tag/v0.10.1)
+
+- [72ae2ba4](https://github.com/kubedb/memcached/commit/72ae2ba4) Prepare for release v0.10.1 (#292)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.10.1](https://github.com/kubedb/mongodb/releases/tag/v0.10.1)

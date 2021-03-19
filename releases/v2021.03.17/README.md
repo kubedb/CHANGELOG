@@ -47,6 +47,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.17.1](https://github.com/kubedb/postgres/releases/tag/v0.17.1)
+
+- [24d9e117](https://github.com/kubedb/postgres/commit/24d9e117) Prepare for release v0.17.1 (#483)
+- [6d1b8b6b](https://github.com/kubedb/postgres/commit/6d1b8b6b) Update for release Stash@v2021.03.11 (#482)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.2.1](https://github.com/kubedb/tests/releases/tag/v0.2.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.17",
-  "release_date": "2021-03-19T12:17:05.325550413Z",
+  "release_date": "2021-03-19T12:17:17.257811914Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.17",
   "kubernetes_version": "1.14+",
@@ -95,6 +95,24 @@
             {
               "SHA": "afdf4296",
               "Subject": "Update for release Stash@v2021.03.11 (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "24d9e117",
+              "Subject": "Prepare for release v0.17.1 (#483)"
+            },
+            {
+              "SHA": "6d1b8b6b",
+              "Subject": "Update for release Stash@v2021.03.11 (#482)"
             }
           ]
         }

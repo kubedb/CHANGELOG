@@ -57,6 +57,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.10.1](https://github.com/kubedb/mysql/releases/tag/v0.10.1)
+
+- [4f487d21](https://github.com/kubedb/mysql/commit/4f487d21) Prepare for release v0.10.1 (#378)
+- [9c5a24d8](https://github.com/kubedb/mysql/commit/9c5a24d8) Update for release Stash@v2021.03.11 (#376)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.4.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.4.1)

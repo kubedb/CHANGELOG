@@ -1,6 +1,16 @@
 # KubeDB v2021.03.17 (2021-03-19)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.4.1](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.4.1)
+
+- [2665db85](https://github.com/appscode/kubedb-enterprise/commit/2665db85) Prepare for release v0.4.1 (#158)
+- [a3d8a50d](https://github.com/appscode/kubedb-enterprise/commit/a3d8a50d) Fix Various Issues (#156)
+- [19896fdf](https://github.com/appscode/kubedb-enterprise/commit/19896fdf) Add individual certificate issuer (#155)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.17.1](https://github.com/kubedb/apimachinery/releases/tag/v0.17.1)

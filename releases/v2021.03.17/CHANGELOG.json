@@ -1,11 +1,33 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.17",
-  "release_date": "2021-03-19T13:03:51.279584532Z",
+  "release_date": "2021-03-19T13:10:29.031215405Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.17",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.4.1",
+          "commits": [
+            {
+              "SHA": "2665db85",
+              "Subject": "Prepare for release v0.4.1 (#158)"
+            },
+            {
+              "SHA": "a3d8a50d",
+              "Subject": "Fix Various Issues (#156)"
+            },
+            {
+              "SHA": "19896fdf",
+              "Subject": "Add individual certificate issuer (#155)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

@@ -57,6 +57,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.4.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.4.1)
+
+- [7208b811](https://github.com/kubedb/percona-xtradb/commit/7208b811) Prepare for release v0.4.1 (#192)
+- [7d3513b2](https://github.com/kubedb/percona-xtradb/commit/7d3513b2) Update for release Stash@v2021.03.11 (#191)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.17.1](https://github.com/kubedb/postgres/releases/tag/v0.17.1)

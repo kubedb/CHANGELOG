@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.17",
-  "release_date": "2021-03-19T12:18:47.691414093Z",
+  "release_date": "2021-03-19T12:18:57.808408092Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.17",
   "kubernetes_version": "1.14+",
@@ -117,6 +117,24 @@
             {
               "SHA": "afdf4296",
               "Subject": "Update for release Stash@v2021.03.11 (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.4.1",
+          "commits": [
+            {
+              "SHA": "7208b811",
+              "Subject": "Prepare for release v0.4.1 (#192)"
+            },
+            {
+              "SHA": "7d3513b2",
+              "Subject": "Update for release Stash@v2021.03.11 (#191)"
             }
           ]
         }

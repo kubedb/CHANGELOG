@@ -49,6 +49,24 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v0.17.1](https://github.com/kubedb/installer/releases/tag/v0.17.1)
+
+- [4a1edf0](https://github.com/kubedb/installer/commit/4a1edf0) Prepare for release v0.17.1 (#289)
+- [602be5c](https://github.com/kubedb/installer/commit/602be5c) Default enable mutating webhook for KubeDB Enterprise (#288)
+- [26b5379](https://github.com/kubedb/installer/commit/26b5379) Add Elasticsearch and Redis OpsRequest Validator (#287)
+- [18344ee](https://github.com/kubedb/installer/commit/18344ee) Update perconaxtradb task names
+- [599831f](https://github.com/kubedb/installer/commit/599831f) Add MongoDBOpsRequest Validator (#286)
+- [5bb89cd](https://github.com/kubedb/installer/commit/5bb89cd) Update kubedb chart values (#285)
+- [ad07333](https://github.com/kubedb/installer/commit/ad07333) Allow overriding official registry in catalog (#284)
+- [b1da884](https://github.com/kubedb/installer/commit/b1da884) Update stash task names (#282)
+- [30a168b](https://github.com/kubedb/installer/commit/30a168b) Pass registry parameter from unified chart (#283)
+- [322d15e](https://github.com/kubedb/installer/commit/322d15e) Use stash catalog from installer repo (#281)
+- [818f50f](https://github.com/kubedb/installer/commit/818f50f) Remove namespace from db version crs (#280)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.1.1](https://github.com/kubedb/mariadb/releases/tag/v0.1.1)

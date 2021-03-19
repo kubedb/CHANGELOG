@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.17",
-  "release_date": "2021-03-19T13:20:39.224915748Z",
+  "release_date": "2021-03-19T13:33:38.264670573Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.17",
   "kubernetes_version": "1.14+",
@@ -103,6 +103,60 @@
             {
               "SHA": "821d5b65",
               "Subject": "Update for release Stash@v2021.03.11 (#484)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "4a1edf0",
+              "Subject": "Prepare for release v0.17.1 (#289)"
+            },
+            {
+              "SHA": "602be5c",
+              "Subject": "Default enable mutating webhook for KubeDB Enterprise (#288)"
+            },
+            {
+              "SHA": "26b5379",
+              "Subject": "Add Elasticsearch and Redis OpsRequest Validator (#287)"
+            },
+            {
+              "SHA": "18344ee",
+              "Subject": "Update perconaxtradb task names"
+            },
+            {
+              "SHA": "599831f",
+              "Subject": "Add MongoDBOpsRequest Validator (#286)"
+            },
+            {
+              "SHA": "5bb89cd",
+              "Subject": "Update kubedb chart values (#285)"
+            },
+            {
+              "SHA": "ad07333",
+              "Subject": "Allow overriding official registry in catalog (#284)"
+            },
+            {
+              "SHA": "b1da884",
+              "Subject": "Update stash task names (#282)"
+            },
+            {
+              "SHA": "30a168b",
+              "Subject": "Pass registry parameter from unified chart (#283)"
+            },
+            {
+              "SHA": "322d15e",
+              "Subject": "Use stash catalog from installer repo (#281)"
+            },
+            {
+              "SHA": "818f50f",
+              "Subject": "Remove namespace from db version crs (#280)"
             }
           ]
         }

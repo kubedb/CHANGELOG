@@ -1,0 +1,428 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.03.17",
+  "release_date": "2021-03-19T13:59:11.820957164Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.03.17",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.2.1",
+          "commits": [
+            {
+              "SHA": "731b46c",
+              "Subject": "Prepare for release v0.2.1 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.4.1",
+          "commits": [
+            {
+              "SHA": "2665db85",
+              "Subject": "Prepare for release v0.4.1 (#158)"
+            },
+            {
+              "SHA": "a3d8a50d",
+              "Subject": "Fix Various Issues (#156)"
+            },
+            {
+              "SHA": "19896fdf",
+              "Subject": "Add individual certificate issuer (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "12d0f980",
+              "Subject": "Add secretName to Elasticsearch userSpec (#725)"
+            },
+            {
+              "SHA": "b2345eb8",
+              "Subject": "Add printable Distribution field for DB Versions (#723)"
+            },
+            {
+              "SHA": "3fc568ac",
+              "Subject": "Add default organizational unit (#726)"
+            },
+            {
+              "SHA": "e96fc066",
+              "Subject": "Update for release Stash@v2021.03.11 (#724)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.03.17",
+          "commits": [
+            {
+              "SHA": "ddb10f3",
+              "Subject": "Prepare for release v2021.03.17 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "6b41bfb1",
+              "Subject": "Prepare for release v0.17.1 (#596)"
+            },
+            {
+              "SHA": "ace78977",
+              "Subject": "Update for release Stash@v2021.03.11 (#595)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.03.17",
+          "commits": [
+            {
+              "SHA": "5d9919b",
+              "Subject": "Prepare for release v2021.03.17 (#112)"
+            },
+            {
+              "SHA": "ccb5429",
+              "Subject": "MariaDB Docs (#111)"
+            },
+            {
+              "SHA": "ec9e484",
+              "Subject": "MariaDB Docs (#109)"
+            },
+            {
+              "SHA": "5242d94",
+              "Subject": "Restructure and Update MySQL docs (#103)"
+            },
+            {
+              "SHA": "73bcda4",
+              "Subject": "Add MongoDB Reconfigure TLS docs (#108)"
+            },
+            {
+              "SHA": "cfa143a",
+              "Subject": "Fix Stash addons name + Remove addon installation requirements (#110)"
+            },
+            {
+              "SHA": "e1ee4ac",
+              "Subject": "Add backup/recovery docs from Stash (#107)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "ed002c9d",
+              "Subject": "Prepare for release v0.17.1 (#486)"
+            },
+            {
+              "SHA": "4a1978ff",
+              "Subject": "Use user provided secret for Elasticsearch internal users (#485)"
+            },
+            {
+              "SHA": "821d5b65",
+              "Subject": "Update for release Stash@v2021.03.11 (#484)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "4a1edf0",
+              "Subject": "Prepare for release v0.17.1 (#289)"
+            },
+            {
+              "SHA": "602be5c",
+              "Subject": "Default enable mutating webhook for KubeDB Enterprise (#288)"
+            },
+            {
+              "SHA": "26b5379",
+              "Subject": "Add Elasticsearch and Redis OpsRequest Validator (#287)"
+            },
+            {
+              "SHA": "18344ee",
+              "Subject": "Update perconaxtradb task names"
+            },
+            {
+              "SHA": "599831f",
+              "Subject": "Add MongoDBOpsRequest Validator (#286)"
+            },
+            {
+              "SHA": "5bb89cd",
+              "Subject": "Update kubedb chart values (#285)"
+            },
+            {
+              "SHA": "ad07333",
+              "Subject": "Allow overriding official registry in catalog (#284)"
+            },
+            {
+              "SHA": "b1da884",
+              "Subject": "Update stash task names (#282)"
+            },
+            {
+              "SHA": "30a168b",
+              "Subject": "Pass registry parameter from unified chart (#283)"
+            },
+            {
+              "SHA": "322d15e",
+              "Subject": "Use stash catalog from installer repo (#281)"
+            },
+            {
+              "SHA": "818f50f",
+              "Subject": "Remove namespace from db version crs (#280)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.1.1",
+          "commits": [
+            {
+              "SHA": "0dc99818",
+              "Subject": "Prepare for release v0.1.1 (#58)"
+            },
+            {
+              "SHA": "f09dda5a",
+              "Subject": "Update for release Stash@v2021.03.11 (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.10.1",
+          "commits": [
+            {
+              "SHA": "72ae2ba4",
+              "Subject": "Prepare for release v0.10.1 (#292)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.10.1",
+          "commits": [
+            {
+              "SHA": "21486cc6",
+              "Subject": "Prepare for release v0.10.1 (#385)"
+            },
+            {
+              "SHA": "afdf4296",
+              "Subject": "Update for release Stash@v2021.03.11 (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.10.1",
+          "commits": [
+            {
+              "SHA": "4f487d21",
+              "Subject": "Prepare for release v0.10.1 (#378)"
+            },
+            {
+              "SHA": "9c5a24d8",
+              "Subject": "Update for release Stash@v2021.03.11 (#376)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "5f73f990",
+              "Subject": "Prepare for release v0.17.1 (#400)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.4.1",
+          "commits": [
+            {
+              "SHA": "7208b811",
+              "Subject": "Prepare for release v0.4.1 (#192)"
+            },
+            {
+              "SHA": "7d3513b2",
+              "Subject": "Update for release Stash@v2021.03.11 (#191)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.1",
+          "commits": [
+            {
+              "SHA": "aa770b0",
+              "Subject": "Prepare for release v0.1.1 (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.4.1",
+          "commits": [
+            {
+              "SHA": "babd54a8",
+              "Subject": "Prepare for release v0.4.1 (#153)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "24d9e117",
+              "Subject": "Prepare for release v0.17.1 (#483)"
+            },
+            {
+              "SHA": "6d1b8b6b",
+              "Subject": "Update for release Stash@v2021.03.11 (#482)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.4.1",
+          "commits": [
+            {
+              "SHA": "8ba592d2",
+              "Subject": "Prepare for release v0.4.1 (#171)"
+            },
+            {
+              "SHA": "a3db83e3",
+              "Subject": "Update for release Stash@v2021.03.11 (#170)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.10.1",
+          "commits": [
+            {
+              "SHA": "baef9fd9",
+              "Subject": "Prepare for release v0.10.1 (#315)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.4.1",
+          "commits": [
+            {
+              "SHA": "b115b51",
+              "Subject": "Prepare for release v0.4.1 (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.2.1",
+          "commits": [
+            {
+              "SHA": "eca46b5",
+              "Subject": "Prepare for release v0.2.1 (#111)"
+            },
+            {
+              "SHA": "a58b54f",
+              "Subject": "Don't explicitly set RestoreSession labels (#110)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

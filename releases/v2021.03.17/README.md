@@ -21,6 +21,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.1.1](https://github.com/kubedb/mariadb/releases/tag/v0.1.1)
+
+- [0dc99818](https://github.com/kubedb/mariadb/commit/0dc99818) Prepare for release v0.1.1 (#58)
+- [f09dda5a](https://github.com/kubedb/mariadb/commit/f09dda5a) Update for release Stash@v2021.03.11 (#57)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.10.1](https://github.com/kubedb/memcached/releases/tag/v0.10.1)

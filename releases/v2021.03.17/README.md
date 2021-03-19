@@ -75,6 +75,14 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.1.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.1.1)
+
+- [aa770b0](https://github.com/kubedb/pg-coordinator/commit/aa770b0) Prepare for release v0.1.1 (#14)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.17.1](https://github.com/kubedb/postgres/releases/tag/v0.17.1)

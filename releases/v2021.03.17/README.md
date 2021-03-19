@@ -12,3 +12,12 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.17.1](https://github.com/kubedb/cli/releases/tag/v0.17.1)
+
+- [6b41bfb1](https://github.com/kubedb/cli/commit/6b41bfb1) Prepare for release v0.17.1 (#596)
+- [ace78977](https://github.com/kubedb/cli/commit/ace78977) Update for release Stash@v2021.03.11 (#595)
+
+
+

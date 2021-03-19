@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.17",
-  "release_date": "2021-03-19T13:33:38.264670573Z",
+  "release_date": "2021-03-19T13:51:04.221927863Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.17",
   "kubernetes_version": "1.14+",
@@ -81,6 +81,44 @@
             {
               "SHA": "ace78977",
               "Subject": "Update for release Stash@v2021.03.11 (#595)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.03.17",
+          "commits": [
+            {
+              "SHA": "5d9919b",
+              "Subject": "Prepare for release v2021.03.17 (#112)"
+            },
+            {
+              "SHA": "ccb5429",
+              "Subject": "MariaDB Docs (#111)"
+            },
+            {
+              "SHA": "ec9e484",
+              "Subject": "MariaDB Docs (#109)"
+            },
+            {
+              "SHA": "5242d94",
+              "Subject": "Restructure and Update MySQL docs (#103)"
+            },
+            {
+              "SHA": "73bcda4",
+              "Subject": "Add MongoDB Reconfigure TLS docs (#108)"
+            },
+            {
+              "SHA": "cfa143a",
+              "Subject": "Fix Stash addons name + Remove addon installation requirements (#110)"
+            },
+            {
+              "SHA": "e1ee4ac",
+              "Subject": "Add backup/recovery docs from Stash (#107)"
             }
           ]
         }

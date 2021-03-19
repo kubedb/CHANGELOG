@@ -39,6 +39,20 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.03.17](https://github.com/kubedb/docs/releases/tag/v2021.03.17)
+
+- [5d9919b](https://github.com/kubedb/docs/commit/5d9919b) Prepare for release v2021.03.17 (#112)
+- [ccb5429](https://github.com/kubedb/docs/commit/ccb5429) MariaDB Docs (#111)
+- [ec9e484](https://github.com/kubedb/docs/commit/ec9e484) MariaDB Docs (#109)
+- [5242d94](https://github.com/kubedb/docs/commit/5242d94) Restructure and Update MySQL docs (#103)
+- [73bcda4](https://github.com/kubedb/docs/commit/73bcda4) Add MongoDB Reconfigure TLS docs (#108)
+- [cfa143a](https://github.com/kubedb/docs/commit/cfa143a) Fix Stash addons name + Remove addon installation requirements (#110)
+- [e1ee4ac](https://github.com/kubedb/docs/commit/e1ee4ac) Add backup/recovery docs from Stash (#107)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.17.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.17.1)

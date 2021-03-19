@@ -30,6 +30,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2021.03.17](https://github.com/kubedb/bundles/releases/tag/v2021.03.17)
+
+- [ddb10f3](https://github.com/kubedb/bundles/commit/ddb10f3) Prepare for release v2021.03.17 (#25)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.17.1](https://github.com/kubedb/cli/releases/tag/v0.17.1)

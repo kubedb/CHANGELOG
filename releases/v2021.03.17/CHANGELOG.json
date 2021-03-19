@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.03.17",
-  "release_date": "2021-03-19T13:51:04.221927863Z",
+  "release_date": "2021-03-19T13:59:11.820957164Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.03.17",
   "kubernetes_version": "1.14+",
@@ -63,6 +63,20 @@
             {
               "SHA": "e96fc066",
               "Subject": "Update for release Stash@v2021.03.11 (#724)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.03.17",
+          "commits": [
+            {
+              "SHA": "ddb10f3",
+              "Subject": "Prepare for release v2021.03.17 (#25)"
             }
           ]
         }

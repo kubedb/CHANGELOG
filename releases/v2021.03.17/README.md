@@ -66,6 +66,14 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.17.1](https://github.com/kubedb/operator/releases/tag/v0.17.1)
+
+- [5f73f990](https://github.com/kubedb/operator/commit/5f73f990) Prepare for release v0.17.1 (#400)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.4.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.4.1)

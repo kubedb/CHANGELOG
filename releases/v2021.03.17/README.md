@@ -64,6 +64,14 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.4.1](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.4.1)
+
+- [b115b51](https://github.com/kubedb/replication-mode-detector/commit/b115b51) Prepare for release v0.4.1 (#133)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.2.1](https://github.com/kubedb/tests/releases/tag/v0.2.1)

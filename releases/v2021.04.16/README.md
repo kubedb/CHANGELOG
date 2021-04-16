@@ -33,6 +33,21 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.18.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.18.0)
+
+- [2da042ce](https://github.com/kubedb/elasticsearch/commit/2da042ce) Prepare for release v0.18.0 (#490)
+- [e398bd53](https://github.com/kubedb/elasticsearch/commit/e398bd53) Add statefulSet reconciler (#488)
+- [2944f5e5](https://github.com/kubedb/elasticsearch/commit/2944f5e5) Use license-verifier v0.8.1
+- [8d7177ab](https://github.com/kubedb/elasticsearch/commit/8d7177ab) Add support for custom UID for Elasticsearch (#489)
+- [71d1fac3](https://github.com/kubedb/elasticsearch/commit/71d1fac3) Use license verifier v0.8.0
+- [fb5ee170](https://github.com/kubedb/elasticsearch/commit/fb5ee170) Update license verifier
+- [f166bf3a](https://github.com/kubedb/elasticsearch/commit/f166bf3a) Update stash make targets (#487)
+- [39d5be0f](https://github.com/kubedb/elasticsearch/commit/39d5be0f) Fix spelling
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.2.0](https://github.com/kubedb/mariadb/releases/tag/v0.2.0)

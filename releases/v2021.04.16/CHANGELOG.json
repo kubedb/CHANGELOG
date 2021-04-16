@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:16:58.026564654Z",
+  "release_date": "2021-04-16T10:17:09.2355654Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -92,6 +92,48 @@
             },
             {
               "SHA": "c8bec973",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "2da042ce",
+              "Subject": "Prepare for release v0.18.0 (#490)"
+            },
+            {
+              "SHA": "e398bd53",
+              "Subject": "Add statefulSet reconciler (#488)"
+            },
+            {
+              "SHA": "2944f5e5",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "8d7177ab",
+              "Subject": "Add support for custom UID for Elasticsearch (#489)"
+            },
+            {
+              "SHA": "71d1fac3",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "fb5ee170",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "f166bf3a",
+              "Subject": "Update stash make targets (#487)"
+            },
+            {
+              "SHA": "39d5be0f",
               "Subject": "Fix spelling"
             }
           ]

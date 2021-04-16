@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:14:32.018382466Z",
+  "release_date": "2021-04-16T10:14:43.775533509Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -122,6 +122,56 @@
             },
             {
               "SHA": "4a6fea4d",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "e0b70d83",
+              "Subject": "Prepare for release v0.18.0 (#489)"
+            },
+            {
+              "SHA": "a3ffea16",
+              "Subject": "remove panic from postgres (#488)"
+            },
+            {
+              "SHA": "09adb390",
+              "Subject": "Remove wait-group from postgres operator (#487)"
+            },
+            {
+              "SHA": "ae8b87da",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "77f220b8",
+              "Subject": "Update KubeDB api (#486)"
+            },
+            {
+              "SHA": "b0234c4b",
+              "Subject": "Add Custom-UID Support for Debian Images (#485)"
+            },
+            {
+              "SHA": "fdf4d2df",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "dd59f9b1",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "43fd0c33",
+              "Subject": "Update stash make targets (#484)"
+            },
+            {
+              "SHA": "8632e4c5",
               "Subject": "Fix spelling"
             }
           ]

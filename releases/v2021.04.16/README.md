@@ -45,6 +45,23 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.18.0](https://github.com/kubedb/postgres/releases/tag/v0.18.0)
+
+- [e0b70d83](https://github.com/kubedb/postgres/commit/e0b70d83) Prepare for release v0.18.0 (#489)
+- [a3ffea16](https://github.com/kubedb/postgres/commit/a3ffea16) remove panic from postgres (#488)
+- [09adb390](https://github.com/kubedb/postgres/commit/09adb390) Remove wait-group from postgres operator (#487)
+- [ae8b87da](https://github.com/kubedb/postgres/commit/ae8b87da) Use license-verifier v0.8.1
+- [77f220b8](https://github.com/kubedb/postgres/commit/77f220b8) Update KubeDB api (#486)
+- [b0234c4b](https://github.com/kubedb/postgres/commit/b0234c4b) Add Custom-UID Support for Debian Images (#485)
+- [fdf4d2df](https://github.com/kubedb/postgres/commit/fdf4d2df) Use license verifier v0.8.0
+- [dd59f9b1](https://github.com/kubedb/postgres/commit/dd59f9b1) Update license verifier
+- [43fd0c33](https://github.com/kubedb/postgres/commit/43fd0c33) Update stash make targets (#484)
+- [8632e4c5](https://github.com/kubedb/postgres/commit/8632e4c5) Fix spelling
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.3.0](https://github.com/kubedb/tests/releases/tag/v0.3.0)

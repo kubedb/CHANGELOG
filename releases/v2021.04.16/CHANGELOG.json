@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:15:19.090539805Z",
+  "release_date": "2021-04-16T10:16:44.88830271Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -172,6 +172,52 @@
             },
             {
               "SHA": "4a6fea4d",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "d7e33a0c",
+              "Subject": "Prepare for release v0.11.0 (#382)"
+            },
+            {
+              "SHA": "782b3613",
+              "Subject": "Add podIP to pod env (#381)"
+            },
+            {
+              "SHA": "f0166dbe",
+              "Subject": "Always pass -address-type to peer-finder (#380)"
+            },
+            {
+              "SHA": "df770ff2",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "d610fddc",
+              "Subject": "Add support for using official mysql image (#377)"
+            },
+            {
+              "SHA": "a99510f2",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "100dd336",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "1bdbe4ed",
+              "Subject": "Update stash make targets (#379)"
+            },
+            {
+              "SHA": "40f9a2f2",
               "Subject": "Fix spelling"
             }
           ]

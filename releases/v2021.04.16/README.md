@@ -62,6 +62,22 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.11.0](https://github.com/kubedb/mysql/releases/tag/v0.11.0)
+
+- [d7e33a0c](https://github.com/kubedb/mysql/commit/d7e33a0c) Prepare for release v0.11.0 (#382)
+- [782b3613](https://github.com/kubedb/mysql/commit/782b3613) Add podIP to pod env (#381)
+- [f0166dbe](https://github.com/kubedb/mysql/commit/f0166dbe) Always pass -address-type to peer-finder (#380)
+- [df770ff2](https://github.com/kubedb/mysql/commit/df770ff2) Use license-verifier v0.8.1
+- [d610fddc](https://github.com/kubedb/mysql/commit/d610fddc) Add support for using official mysql image (#377)
+- [a99510f2](https://github.com/kubedb/mysql/commit/a99510f2) Use license verifier v0.8.0
+- [100dd336](https://github.com/kubedb/mysql/commit/100dd336) Update license verifier
+- [1bdbe4ed](https://github.com/kubedb/mysql/commit/1bdbe4ed) Update stash make targets (#379)
+- [40f9a2f2](https://github.com/kubedb/mysql/commit/40f9a2f2) Fix spelling
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.18.0](https://github.com/kubedb/postgres/releases/tag/v0.18.0)

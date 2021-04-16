@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T12:36:28.102194158Z",
+  "release_date": "2021-04-16T12:53:03.449619548Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -201,6 +201,32 @@
             {
               "SHA": "c8bec973",
               "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.04.16",
+          "commits": [
+            {
+              "SHA": "cafdf9d",
+              "Subject": "Prepare for release v2021.04.16 (#119)"
+            },
+            {
+              "SHA": "07e9a09",
+              "Subject": "Add phpmyadmin image version (#116)"
+            },
+            {
+              "SHA": "cc4c2d2",
+              "Subject": "Fix Typo (#117)"
+            },
+            {
+              "SHA": "3bd3ac2",
+              "Subject": "Update index.md (#118)"
             }
           ]
         }

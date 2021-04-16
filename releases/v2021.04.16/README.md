@@ -69,6 +69,17 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.04.16](https://github.com/kubedb/docs/releases/tag/v2021.04.16)
+
+- [cafdf9d](https://github.com/kubedb/docs/commit/cafdf9d) Prepare for release v2021.04.16 (#119)
+- [07e9a09](https://github.com/kubedb/docs/commit/07e9a09) Add phpmyadmin image version (#116)
+- [cc4c2d2](https://github.com/kubedb/docs/commit/cc4c2d2) Fix Typo (#117)
+- [3bd3ac2](https://github.com/kubedb/docs/commit/3bd3ac2) Update index.md (#118)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.18.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.18.0)

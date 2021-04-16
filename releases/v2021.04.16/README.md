@@ -133,6 +133,18 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.5.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.5.0)
+
+- [1b32fbbb](https://github.com/kubedb/pgbouncer/commit/1b32fbbb) Prepare for release v0.5.0 (#154)
+- [d5102b66](https://github.com/kubedb/pgbouncer/commit/d5102b66) Use license-verifier v0.8.1
+- [30e3e2f9](https://github.com/kubedb/pgbouncer/commit/30e3e2f9) Use license verifier v0.8.0
+- [3c2833db](https://github.com/kubedb/pgbouncer/commit/3c2833db) Update license verifier
+- [06463c97](https://github.com/kubedb/pgbouncer/commit/06463c97) Fix spelling
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.18.0](https://github.com/kubedb/postgres/releases/tag/v0.18.0)

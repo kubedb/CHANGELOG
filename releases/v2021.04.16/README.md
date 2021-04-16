@@ -162,6 +162,18 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.5.0](https://github.com/kubedb/proxysql/releases/tag/v0.5.0)
+
+- [8cd69666](https://github.com/kubedb/proxysql/commit/8cd69666) Prepare for release v0.5.0 (#172)
+- [7cc0781a](https://github.com/kubedb/proxysql/commit/7cc0781a) Use license-verifier v0.8.1
+- [296e14f0](https://github.com/kubedb/proxysql/commit/296e14f0) Use license verifier v0.8.0
+- [2fd9f4e5](https://github.com/kubedb/proxysql/commit/2fd9f4e5) Update license verifier
+- [7fb0a67f](https://github.com/kubedb/proxysql/commit/7fb0a67f) Fix spelling
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.11.0](https://github.com/kubedb/redis/releases/tag/v0.11.0)

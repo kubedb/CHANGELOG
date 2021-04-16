@@ -152,6 +152,16 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.5.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.5.0)
+
+- [ee224f1](https://github.com/kubedb/replication-mode-detector/commit/ee224f1) Prepare for release v0.5.0 (#135)
+- [8293c27](https://github.com/kubedb/replication-mode-detector/commit/8293c27) Add comparing host with podIP or DNS for MySQL (#134)
+- [f608626](https://github.com/kubedb/replication-mode-detector/commit/f608626) Fix mysql query for getting primary member "ONLINE" (#124)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.3.0](https://github.com/kubedb/tests/releases/tag/v0.3.0)

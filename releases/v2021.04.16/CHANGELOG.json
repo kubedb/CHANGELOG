@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:17:51.824328064Z",
+  "release_date": "2021-04-16T10:29:10.443487967Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -425,6 +425,28 @@
             {
               "SHA": "5ba20810",
               "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "ee224f1",
+              "Subject": "Prepare for release v0.5.0 (#135)"
+            },
+            {
+              "SHA": "8293c27",
+              "Subject": "Add comparing host with podIP or DNS for MySQL (#134)"
+            },
+            {
+              "SHA": "f608626",
+              "Subject": "Fix mysql query for getting primary member \"ONLINE\" (#124)"
             }
           ]
         }

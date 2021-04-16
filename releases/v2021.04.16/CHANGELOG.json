@@ -1,11 +1,89 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T11:36:07.991180611Z",
+  "release_date": "2021-04-16T12:08:29.427795198Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "a6eccd35",
+              "Subject": "Prepare for release v0.5.0 (#175)"
+            },
+            {
+              "SHA": "a4af7e22",
+              "Subject": "Fix wait for backup logic (#172)"
+            },
+            {
+              "SHA": "5ef4fd8c",
+              "Subject": "Fix nil pointer exception while updating MongoDB configSecret (#173)"
+            },
+            {
+              "SHA": "b9ee5297",
+              "Subject": "Pause `BackupConfiguration` and Wait for `BackupSession` & `RestoreSession` to complete (#168)"
+            },
+            {
+              "SHA": "7064e346",
+              "Subject": "Fix various issues for MongoDBOpsRequest (#169)"
+            },
+            {
+              "SHA": "adf174e7",
+              "Subject": "Add Ops Request Phase `Pending` (#166)"
+            },
+            {
+              "SHA": "355d1b1e",
+              "Subject": "Fix panic for MongoDB (#167)"
+            },
+            {
+              "SHA": "df672de0",
+              "Subject": "Add HostNetwork and DNSPolicy to new StatefulSet (#171)"
+            },
+            {
+              "SHA": "7a279d7b",
+              "Subject": "Add Elsticsearch statefulSet reconciler (#161)"
+            },
+            {
+              "SHA": "0fbd67b6",
+              "Subject": "Updated MustCertSecretName to GetCertSecretName (#162)"
+            },
+            {
+              "SHA": "7e6a0d78",
+              "Subject": "Remove panic from Postgres (#170)"
+            },
+            {
+              "SHA": "ae7f27bb",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "e3ff9160",
+              "Subject": "Elasticsearch: Return default certificate secret name if missing (#165)"
+            },
+            {
+              "SHA": "824a2d80",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "40ec97e9",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "c2757fb3",
+              "Subject": "Fix spelling"
+            },
+            {
+              "SHA": "4c41bc1e",
+              "Subject": "Don't activate namespace validator"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

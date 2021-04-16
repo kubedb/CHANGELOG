@@ -1,6 +1,30 @@
 # KubeDB v2021.04.16 (2021-04-16)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.5.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.5.0)
+
+- [a6eccd35](https://github.com/appscode/kubedb-enterprise/commit/a6eccd35) Prepare for release v0.5.0 (#175)
+- [a4af7e22](https://github.com/appscode/kubedb-enterprise/commit/a4af7e22) Fix wait for backup logic (#172)
+- [5ef4fd8c](https://github.com/appscode/kubedb-enterprise/commit/5ef4fd8c) Fix nil pointer exception while updating MongoDB configSecret (#173)
+- [b9ee5297](https://github.com/appscode/kubedb-enterprise/commit/b9ee5297) Pause `BackupConfiguration` and Wait for `BackupSession` & `RestoreSession` to complete (#168)
+- [7064e346](https://github.com/appscode/kubedb-enterprise/commit/7064e346) Fix various issues for MongoDBOpsRequest (#169)
+- [adf174e7](https://github.com/appscode/kubedb-enterprise/commit/adf174e7) Add Ops Request Phase `Pending` (#166)
+- [355d1b1e](https://github.com/appscode/kubedb-enterprise/commit/355d1b1e) Fix panic for MongoDB (#167)
+- [df672de0](https://github.com/appscode/kubedb-enterprise/commit/df672de0) Add HostNetwork and DNSPolicy to new StatefulSet (#171)
+- [7a279d7b](https://github.com/appscode/kubedb-enterprise/commit/7a279d7b) Add Elsticsearch statefulSet reconciler (#161)
+- [0fbd67b6](https://github.com/appscode/kubedb-enterprise/commit/0fbd67b6) Updated MustCertSecretName to GetCertSecretName (#162)
+- [7e6a0d78](https://github.com/appscode/kubedb-enterprise/commit/7e6a0d78) Remove panic from Postgres (#170)
+- [ae7f27bb](https://github.com/appscode/kubedb-enterprise/commit/ae7f27bb) Use license-verifier v0.8.1
+- [e3ff9160](https://github.com/appscode/kubedb-enterprise/commit/e3ff9160) Elasticsearch: Return default certificate secret name if missing (#165)
+- [824a2d80](https://github.com/appscode/kubedb-enterprise/commit/824a2d80) Use license verifier v0.8.0
+- [40ec97e9](https://github.com/appscode/kubedb-enterprise/commit/40ec97e9) Update license verifier
+- [c2757fb3](https://github.com/appscode/kubedb-enterprise/commit/c2757fb3) Fix spelling
+- [4c41bc1e](https://github.com/appscode/kubedb-enterprise/commit/4c41bc1e) Don't activate namespace validator
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.18.0](https://github.com/kubedb/apimachinery/releases/tag/v0.18.0)

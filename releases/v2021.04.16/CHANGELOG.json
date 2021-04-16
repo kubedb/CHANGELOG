@@ -1,11 +1,41 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T12:08:29.427795198Z",
+  "release_date": "2021-04-16T12:24:12.635464247Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "335c87a",
+              "Subject": "Prepare for release v0.3.0 (#20)"
+            },
+            {
+              "SHA": "e90c615",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "432ea8d",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "e6293b0",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "573e940",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode/kubedb-enterprise",
       "releases": [

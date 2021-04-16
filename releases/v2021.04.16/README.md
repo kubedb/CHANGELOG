@@ -1,6 +1,18 @@
 # KubeDB v2021.04.16 (2021-04-16)
 
 
+## [appscode/kubedb-autoscaler](https://github.com/appscode/kubedb-autoscaler)
+
+### [v0.3.0](https://github.com/appscode/kubedb-autoscaler/releases/tag/v0.3.0)
+
+- [335c87a](https://github.com/appscode/kubedb-autoscaler/commit/335c87a) Prepare for release v0.3.0 (#20)
+- [e90c615](https://github.com/appscode/kubedb-autoscaler/commit/e90c615) Use license-verifier v0.8.1
+- [432ea8d](https://github.com/appscode/kubedb-autoscaler/commit/432ea8d) Use license verifier v0.8.0
+- [e6293b0](https://github.com/appscode/kubedb-autoscaler/commit/e6293b0) Update license verifier
+- [573e940](https://github.com/appscode/kubedb-autoscaler/commit/573e940) Fix spelling
+
+
+
 ## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
 
 ### [v0.5.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.5.0)

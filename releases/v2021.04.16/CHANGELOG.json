@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:14:43.775533509Z",
+  "release_date": "2021-04-16T10:15:19.090539805Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -92,6 +92,56 @@
             },
             {
               "SHA": "c8bec973",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "db6efa46",
+              "Subject": "Prepare for release v0.2.0 (#65)"
+            },
+            {
+              "SHA": "01575e35",
+              "Subject": "Updated validator for requireSSL field. (#61)"
+            },
+            {
+              "SHA": "585f1873",
+              "Subject": "Introduced MariaDB init-container (#62)"
+            },
+            {
+              "SHA": "821c3688",
+              "Subject": "Updated MustCertSecretName to GetCertSecretName (#64)"
+            },
+            {
+              "SHA": "5d41c58a",
+              "Subject": "Add POD_IP env variable (#63)"
+            },
+            {
+              "SHA": "11e56c19",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "f7d6c516",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "3cfc4979",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "60e8e7a3",
+              "Subject": "Update stash make targets (#60)"
+            },
+            {
+              "SHA": "9424f4be",
               "Subject": "Fix spelling"
             }
           ]

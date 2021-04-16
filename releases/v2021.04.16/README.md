@@ -33,6 +33,23 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.2.0](https://github.com/kubedb/mariadb/releases/tag/v0.2.0)
+
+- [db6efa46](https://github.com/kubedb/mariadb/commit/db6efa46) Prepare for release v0.2.0 (#65)
+- [01575e35](https://github.com/kubedb/mariadb/commit/01575e35) Updated validator for requireSSL field. (#61)
+- [585f1873](https://github.com/kubedb/mariadb/commit/585f1873) Introduced MariaDB init-container (#62)
+- [821c3688](https://github.com/kubedb/mariadb/commit/821c3688) Updated MustCertSecretName to GetCertSecretName (#64)
+- [5d41c58a](https://github.com/kubedb/mariadb/commit/5d41c58a) Add POD_IP env variable (#63)
+- [11e56c19](https://github.com/kubedb/mariadb/commit/11e56c19) Use license-verifier v0.8.1
+- [f7d6c516](https://github.com/kubedb/mariadb/commit/f7d6c516) Use license verifier v0.8.0
+- [3cfc4979](https://github.com/kubedb/mariadb/commit/3cfc4979) Update license verifier
+- [60e8e7a3](https://github.com/kubedb/mariadb/commit/60e8e7a3) Update stash make targets (#60)
+- [9424f4be](https://github.com/kubedb/mariadb/commit/9424f4be) Fix spelling
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.11.0](https://github.com/kubedb/memcached/releases/tag/v0.11.0)

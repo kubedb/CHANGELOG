@@ -60,6 +60,15 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2021.04.16](https://github.com/kubedb/bundles/releases/tag/v2021.04.16)
+
+- [4682a4c](https://github.com/kubedb/bundles/commit/4682a4c) Prepare for release v2021.04.16 (#26)
+- [8c0f1aa](https://github.com/kubedb/bundles/commit/8c0f1aa) Fix spelling
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.18.0](https://github.com/kubedb/cli/releases/tag/v0.18.0)

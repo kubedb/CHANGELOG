@@ -33,3 +33,12 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.3.0](https://github.com/kubedb/tests/releases/tag/v0.3.0)
+
+- [1d230e5](https://github.com/kubedb/tests/commit/1d230e5) Prepare for release v0.3.0 (#115)
+- [a2148b0](https://github.com/kubedb/tests/commit/a2148b0) Rename `MustCertSecretName` to `GetCertSecretName` (#113)
+
+
+

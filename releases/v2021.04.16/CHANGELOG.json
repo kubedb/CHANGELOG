@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:11:12.012198064Z",
+  "release_date": "2021-04-16T10:12:14.560071331Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -93,6 +93,24 @@
             {
               "SHA": "c8bec973",
               "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "1d230e5",
+              "Subject": "Prepare for release v0.3.0 (#115)"
+            },
+            {
+              "SHA": "a2148b0",
+              "Subject": "Rename `MustCertSecretName` to `GetCertSecretName` (#113)"
             }
           ]
         }

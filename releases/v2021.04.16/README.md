@@ -140,6 +140,18 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.11.0](https://github.com/kubedb/redis/releases/tag/v0.11.0)
+
+- [f08b8987](https://github.com/kubedb/redis/commit/f08b8987) Prepare for release v0.11.0 (#316)
+- [02347918](https://github.com/kubedb/redis/commit/02347918) Use license-verifier v0.8.1
+- [fc33c657](https://github.com/kubedb/redis/commit/fc33c657) Use license verifier v0.8.0
+- [1cd12234](https://github.com/kubedb/redis/commit/1cd12234) Update license verifier
+- [5ba20810](https://github.com/kubedb/redis/commit/5ba20810) Fix spelling
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.3.0](https://github.com/kubedb/tests/releases/tag/v0.3.0)

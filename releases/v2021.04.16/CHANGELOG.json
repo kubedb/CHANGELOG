@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T12:24:12.635464247Z",
+  "release_date": "2021-04-16T12:36:28.102194158Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -242,6 +242,56 @@
             },
             {
               "SHA": "39d5be0f",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.04.16",
+          "commits": [
+            {
+              "SHA": "a5f3c63",
+              "Subject": "Prepare for release v2021.04.16 (#299)"
+            },
+            {
+              "SHA": "6aa0d8b",
+              "Subject": "Update MongoDB init container image (#298)"
+            },
+            {
+              "SHA": "7407a80",
+              "Subject": "Add `poddisruptionbudgets` and backup permissions for KubeDB Enterprise (#297)"
+            },
+            {
+              "SHA": "c12845b",
+              "Subject": "Add mariadb-init-docker Image (#296)"
+            },
+            {
+              "SHA": "39c7a94",
+              "Subject": "Add MySQL init container images to catalog (#291)"
+            },
+            {
+              "SHA": "2272f27",
+              "Subject": "Add support for Elasticsearch v7.12.0 (#295)"
+            },
+            {
+              "SHA": "eebcbac",
+              "Subject": "Update installer schema"
+            },
+            {
+              "SHA": "8619834",
+              "Subject": "Allow passing registry fqdn (#294)"
+            },
+            {
+              "SHA": "4435651",
+              "Subject": "Custom UID for Postgres (#293)"
+            },
+            {
+              "SHA": "1658fb2",
               "Subject": "Fix spelling"
             }
           ]

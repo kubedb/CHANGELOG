@@ -84,6 +84,23 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2021.04.16](https://github.com/kubedb/installer/releases/tag/v2021.04.16)
+
+- [a5f3c63](https://github.com/kubedb/installer/commit/a5f3c63) Prepare for release v2021.04.16 (#299)
+- [6aa0d8b](https://github.com/kubedb/installer/commit/6aa0d8b) Update MongoDB init container image (#298)
+- [7407a80](https://github.com/kubedb/installer/commit/7407a80) Add `poddisruptionbudgets` and backup permissions for KubeDB Enterprise (#297)
+- [c12845b](https://github.com/kubedb/installer/commit/c12845b) Add mariadb-init-docker Image (#296)
+- [39c7a94](https://github.com/kubedb/installer/commit/39c7a94) Add MySQL init container images to catalog (#291)
+- [2272f27](https://github.com/kubedb/installer/commit/2272f27) Add support for Elasticsearch v7.12.0 (#295)
+- [eebcbac](https://github.com/kubedb/installer/commit/eebcbac) Update installer schema
+- [8619834](https://github.com/kubedb/installer/commit/8619834) Allow passing registry fqdn (#294)
+- [4435651](https://github.com/kubedb/installer/commit/4435651) Custom UID for Postgres (#293)
+- [1658fb2](https://github.com/kubedb/installer/commit/1658fb2) Fix spelling
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.2.0](https://github.com/kubedb/mariadb/releases/tag/v0.2.0)

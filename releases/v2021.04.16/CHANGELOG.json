@@ -1,0 +1,776 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.04.16",
+  "release_date": "2021-04-16T13:01:13.749533885Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.04.16",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "335c87a",
+              "Subject": "Prepare for release v0.3.0 (#20)"
+            },
+            {
+              "SHA": "e90c615",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "432ea8d",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "e6293b0",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "573e940",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "a6eccd35",
+              "Subject": "Prepare for release v0.5.0 (#175)"
+            },
+            {
+              "SHA": "a4af7e22",
+              "Subject": "Fix wait for backup logic (#172)"
+            },
+            {
+              "SHA": "5ef4fd8c",
+              "Subject": "Fix nil pointer exception while updating MongoDB configSecret (#173)"
+            },
+            {
+              "SHA": "b9ee5297",
+              "Subject": "Pause `BackupConfiguration` and Wait for `BackupSession` & `RestoreSession` to complete (#168)"
+            },
+            {
+              "SHA": "7064e346",
+              "Subject": "Fix various issues for MongoDBOpsRequest (#169)"
+            },
+            {
+              "SHA": "adf174e7",
+              "Subject": "Add Ops Request Phase `Pending` (#166)"
+            },
+            {
+              "SHA": "355d1b1e",
+              "Subject": "Fix panic for MongoDB (#167)"
+            },
+            {
+              "SHA": "df672de0",
+              "Subject": "Add HostNetwork and DNSPolicy to new StatefulSet (#171)"
+            },
+            {
+              "SHA": "7a279d7b",
+              "Subject": "Add Elsticsearch statefulSet reconciler (#161)"
+            },
+            {
+              "SHA": "0fbd67b6",
+              "Subject": "Updated MustCertSecretName to GetCertSecretName (#162)"
+            },
+            {
+              "SHA": "7e6a0d78",
+              "Subject": "Remove panic from Postgres (#170)"
+            },
+            {
+              "SHA": "ae7f27bb",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "e3ff9160",
+              "Subject": "Elasticsearch: Return default certificate secret name if missing (#165)"
+            },
+            {
+              "SHA": "824a2d80",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "40ec97e9",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "c2757fb3",
+              "Subject": "Fix spelling"
+            },
+            {
+              "SHA": "4c41bc1e",
+              "Subject": "Don't activate namespace validator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "fdf2681b",
+              "Subject": "Remove some panics from MongoDB (#734)"
+            },
+            {
+              "SHA": "4bc52e52",
+              "Subject": "Add Ops Request Phase `Pending` (#736)"
+            },
+            {
+              "SHA": "62e6b324",
+              "Subject": "Add timeout for MongoDBOpsrequest (#738)"
+            },
+            {
+              "SHA": "15a029cc",
+              "Subject": "Check for all Stash CRDs before starting Start controller (#740)"
+            },
+            {
+              "SHA": "b9da5117",
+              "Subject": "Add backup condition constants for ops requests (#737)"
+            },
+            {
+              "SHA": "989d8200",
+              "Subject": "Remove Panic from MariaDB (#731)"
+            },
+            {
+              "SHA": "b7b2a28c",
+              "Subject": "Remove panic from Postgres (#739)"
+            },
+            {
+              "SHA": "264c0872",
+              "Subject": "Add IsIP helper"
+            },
+            {
+              "SHA": "feebf1d8",
+              "Subject": "Add pod identity for cluster configuration (#729)"
+            },
+            {
+              "SHA": "1b58e82b",
+              "Subject": "Add SecurityContext to ElasticsearchVersion CRD (#733)"
+            },
+            {
+              "SHA": "b3c20afc",
+              "Subject": "Update for release Stash@v2021.04.07 (#735)"
+            },
+            {
+              "SHA": "ced2341f",
+              "Subject": "Return default cert-secret name if missing (#730)"
+            },
+            {
+              "SHA": "ecf77001",
+              "Subject": "Rename Features to SecurityContext in Postgres Version Spec (#732)"
+            },
+            {
+              "SHA": "e5917a15",
+              "Subject": "Rename RunAsAny to RunAsAnyNonRoot in PostgresVersion"
+            },
+            {
+              "SHA": "5060058c",
+              "Subject": "Add Custom UID Options for Postgres (#728)"
+            },
+            {
+              "SHA": "ed221fe1",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.04.16",
+          "commits": [
+            {
+              "SHA": "4682a4c",
+              "Subject": "Prepare for release v2021.04.16 (#26)"
+            },
+            {
+              "SHA": "8c0f1aa",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "a1a424ba",
+              "Subject": "Prepare for release v0.18.0 (#598)"
+            },
+            {
+              "SHA": "c8bec973",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.04.16",
+          "commits": [
+            {
+              "SHA": "cafdf9d",
+              "Subject": "Prepare for release v2021.04.16 (#119)"
+            },
+            {
+              "SHA": "07e9a09",
+              "Subject": "Add phpmyadmin image version (#116)"
+            },
+            {
+              "SHA": "cc4c2d2",
+              "Subject": "Fix Typo (#117)"
+            },
+            {
+              "SHA": "3bd3ac2",
+              "Subject": "Update index.md (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "2da042ce",
+              "Subject": "Prepare for release v0.18.0 (#490)"
+            },
+            {
+              "SHA": "e398bd53",
+              "Subject": "Add statefulSet reconciler (#488)"
+            },
+            {
+              "SHA": "2944f5e5",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "8d7177ab",
+              "Subject": "Add support for custom UID for Elasticsearch (#489)"
+            },
+            {
+              "SHA": "71d1fac3",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "fb5ee170",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "f166bf3a",
+              "Subject": "Update stash make targets (#487)"
+            },
+            {
+              "SHA": "39d5be0f",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.04.16",
+          "commits": [
+            {
+              "SHA": "a5f3c63",
+              "Subject": "Prepare for release v2021.04.16 (#299)"
+            },
+            {
+              "SHA": "6aa0d8b",
+              "Subject": "Update MongoDB init container image (#298)"
+            },
+            {
+              "SHA": "7407a80",
+              "Subject": "Add `poddisruptionbudgets` and backup permissions for KubeDB Enterprise (#297)"
+            },
+            {
+              "SHA": "c12845b",
+              "Subject": "Add mariadb-init-docker Image (#296)"
+            },
+            {
+              "SHA": "39c7a94",
+              "Subject": "Add MySQL init container images to catalog (#291)"
+            },
+            {
+              "SHA": "2272f27",
+              "Subject": "Add support for Elasticsearch v7.12.0 (#295)"
+            },
+            {
+              "SHA": "eebcbac",
+              "Subject": "Update installer schema"
+            },
+            {
+              "SHA": "8619834",
+              "Subject": "Allow passing registry fqdn (#294)"
+            },
+            {
+              "SHA": "4435651",
+              "Subject": "Custom UID for Postgres (#293)"
+            },
+            {
+              "SHA": "1658fb2",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "db6efa46",
+              "Subject": "Prepare for release v0.2.0 (#65)"
+            },
+            {
+              "SHA": "01575e35",
+              "Subject": "Updated validator for requireSSL field. (#61)"
+            },
+            {
+              "SHA": "585f1873",
+              "Subject": "Introduced MariaDB init-container (#62)"
+            },
+            {
+              "SHA": "821c3688",
+              "Subject": "Updated MustCertSecretName to GetCertSecretName (#64)"
+            },
+            {
+              "SHA": "5d41c58a",
+              "Subject": "Add POD_IP env variable (#63)"
+            },
+            {
+              "SHA": "11e56c19",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "f7d6c516",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "3cfc4979",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "60e8e7a3",
+              "Subject": "Update stash make targets (#60)"
+            },
+            {
+              "SHA": "9424f4be",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "4f391d75",
+              "Subject": "Prepare for release v0.11.0 (#293)"
+            },
+            {
+              "SHA": "294fb730",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "717a5c06",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "37f7bba6",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "4a6fea4d",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "c4d7444c",
+              "Subject": "Prepare for release v0.11.0 (#390)"
+            },
+            {
+              "SHA": "26fbc21b",
+              "Subject": "Use `IPv6EnabledInKernel` (#389)"
+            },
+            {
+              "SHA": "0221339a",
+              "Subject": "Selectively enable binding IPv6 address (#388)"
+            },
+            {
+              "SHA": "7a53a0bc",
+              "Subject": "Remove panic (#387)"
+            },
+            {
+              "SHA": "87623d58",
+              "Subject": "Introduce NodeReconciler (#384)"
+            },
+            {
+              "SHA": "891aac47",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "0722ad6d",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "f8522304",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "dab6babc",
+              "Subject": "Update stash make targets (#386)"
+            },
+            {
+              "SHA": "b18cbac5",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "d7e33a0c",
+              "Subject": "Prepare for release v0.11.0 (#382)"
+            },
+            {
+              "SHA": "782b3613",
+              "Subject": "Add podIP to pod env (#381)"
+            },
+            {
+              "SHA": "f0166dbe",
+              "Subject": "Always pass -address-type to peer-finder (#380)"
+            },
+            {
+              "SHA": "df770ff2",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "d610fddc",
+              "Subject": "Add support for using official mysql image (#377)"
+            },
+            {
+              "SHA": "a99510f2",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "100dd336",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "1bdbe4ed",
+              "Subject": "Update stash make targets (#379)"
+            },
+            {
+              "SHA": "40f9a2f2",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "5c2cb8b2",
+              "Subject": "Prepare for release v0.18.0 (#402)"
+            },
+            {
+              "SHA": "5ca8913b",
+              "Subject": "Use license-verifier v0.8.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "06e1c3fb",
+              "Subject": "Prepare for release v0.5.0 (#194)"
+            },
+            {
+              "SHA": "ecba4c64",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "9d59d002",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "6f924248",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "e1055e9b",
+              "Subject": "Update stash make targets (#193)"
+            },
+            {
+              "SHA": "febdf8de",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "b5311e9",
+              "Subject": "Prepare for release v0.2.0 (#16)"
+            },
+            {
+              "SHA": "db687a1",
+              "Subject": "Add Support for Custom UID (#15)"
+            },
+            {
+              "SHA": "1f923a4",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "1b32fbbb",
+              "Subject": "Prepare for release v0.5.0 (#154)"
+            },
+            {
+              "SHA": "d5102b66",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "30e3e2f9",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "3c2833db",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "06463c97",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "e0b70d83",
+              "Subject": "Prepare for release v0.18.0 (#489)"
+            },
+            {
+              "SHA": "a3ffea16",
+              "Subject": "remove panic from postgres (#488)"
+            },
+            {
+              "SHA": "09adb390",
+              "Subject": "Remove wait-group from postgres operator (#487)"
+            },
+            {
+              "SHA": "ae8b87da",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "77f220b8",
+              "Subject": "Update KubeDB api (#486)"
+            },
+            {
+              "SHA": "b0234c4b",
+              "Subject": "Add Custom-UID Support for Debian Images (#485)"
+            },
+            {
+              "SHA": "fdf4d2df",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "dd59f9b1",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "43fd0c33",
+              "Subject": "Update stash make targets (#484)"
+            },
+            {
+              "SHA": "8632e4c5",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "8cd69666",
+              "Subject": "Prepare for release v0.5.0 (#172)"
+            },
+            {
+              "SHA": "7cc0781a",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "296e14f0",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "2fd9f4e5",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "7fb0a67f",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "f08b8987",
+              "Subject": "Prepare for release v0.11.0 (#316)"
+            },
+            {
+              "SHA": "02347918",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "fc33c657",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "1cd12234",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "5ba20810",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "ee224f1",
+              "Subject": "Prepare for release v0.5.0 (#135)"
+            },
+            {
+              "SHA": "8293c27",
+              "Subject": "Add comparing host with podIP or DNS for MySQL (#134)"
+            },
+            {
+              "SHA": "f608626",
+              "Subject": "Fix mysql query for getting primary member \"ONLINE\" (#124)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "1d230e5",
+              "Subject": "Prepare for release v0.3.0 (#115)"
+            },
+            {
+              "SHA": "a2148b0",
+              "Subject": "Rename `MustCertSecretName` to `GetCertSecretName` (#113)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

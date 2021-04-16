@@ -78,6 +78,19 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.5.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.5.0)
+
+- [06e1c3fb](https://github.com/kubedb/percona-xtradb/commit/06e1c3fb) Prepare for release v0.5.0 (#194)
+- [ecba4c64](https://github.com/kubedb/percona-xtradb/commit/ecba4c64) Use license-verifier v0.8.1
+- [9d59d002](https://github.com/kubedb/percona-xtradb/commit/9d59d002) Use license verifier v0.8.0
+- [6f924248](https://github.com/kubedb/percona-xtradb/commit/6f924248) Update license verifier
+- [e1055e9b](https://github.com/kubedb/percona-xtradb/commit/e1055e9b) Update stash make targets (#193)
+- [febdf8de](https://github.com/kubedb/percona-xtradb/commit/febdf8de) Fix spelling
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.18.0](https://github.com/kubedb/postgres/releases/tag/v0.18.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:16:44.88830271Z",
+  "release_date": "2021-04-16T10:16:58.026564654Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -218,6 +218,40 @@
             },
             {
               "SHA": "40f9a2f2",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "06e1c3fb",
+              "Subject": "Prepare for release v0.5.0 (#194)"
+            },
+            {
+              "SHA": "ecba4c64",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "9d59d002",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "6f924248",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "e1055e9b",
+              "Subject": "Update stash make targets (#193)"
+            },
+            {
+              "SHA": "febdf8de",
               "Subject": "Fix spelling"
             }
           ]

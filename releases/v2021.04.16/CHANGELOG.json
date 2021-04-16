@@ -1,0 +1,84 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.04.16",
+  "release_date": "2021-04-16T10:03:16.56070959Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.04.16",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "fdf2681b",
+              "Subject": "Remove some panics from MongoDB (#734)"
+            },
+            {
+              "SHA": "4bc52e52",
+              "Subject": "Add Ops Request Phase `Pending` (#736)"
+            },
+            {
+              "SHA": "62e6b324",
+              "Subject": "Add timeout for MongoDBOpsrequest (#738)"
+            },
+            {
+              "SHA": "15a029cc",
+              "Subject": "Check for all Stash CRDs before starting Start controller (#740)"
+            },
+            {
+              "SHA": "b9da5117",
+              "Subject": "Add backup condition constants for ops requests (#737)"
+            },
+            {
+              "SHA": "989d8200",
+              "Subject": "Remove Panic from MariaDB (#731)"
+            },
+            {
+              "SHA": "b7b2a28c",
+              "Subject": "Remove panic from Postgres (#739)"
+            },
+            {
+              "SHA": "264c0872",
+              "Subject": "Add IsIP helper"
+            },
+            {
+              "SHA": "feebf1d8",
+              "Subject": "Add pod identity for cluster configuration (#729)"
+            },
+            {
+              "SHA": "1b58e82b",
+              "Subject": "Add SecurityContext to ElasticsearchVersion CRD (#733)"
+            },
+            {
+              "SHA": "b3c20afc",
+              "Subject": "Update for release Stash@v2021.04.07 (#735)"
+            },
+            {
+              "SHA": "ced2341f",
+              "Subject": "Return default cert-secret name if missing (#730)"
+            },
+            {
+              "SHA": "ecf77001",
+              "Subject": "Rename Features to SecurityContext in Postgres Version Spec (#732)"
+            },
+            {
+              "SHA": "e5917a15",
+              "Subject": "Rename RunAsAny to RunAsAnyNonRoot in PostgresVersion"
+            },
+            {
+              "SHA": "5060058c",
+              "Subject": "Add Custom UID Options for Postgres (#728)"
+            },
+            {
+              "SHA": "ed221fe1",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

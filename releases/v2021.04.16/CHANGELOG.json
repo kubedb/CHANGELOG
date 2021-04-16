@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:03:16.56070959Z",
+  "release_date": "2021-04-16T10:11:12.012198064Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -74,6 +74,24 @@
             },
             {
               "SHA": "ed221fe1",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "a1a424ba",
+              "Subject": "Prepare for release v0.18.0 (#598)"
+            },
+            {
+              "SHA": "c8bec973",
               "Subject": "Fix spelling"
             }
           ]

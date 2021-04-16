@@ -24,3 +24,12 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.18.0](https://github.com/kubedb/cli/releases/tag/v0.18.0)
+
+- [a1a424ba](https://github.com/kubedb/cli/commit/a1a424ba) Prepare for release v0.18.0 (#598)
+- [c8bec973](https://github.com/kubedb/cli/commit/c8bec973) Fix spelling
+
+
+

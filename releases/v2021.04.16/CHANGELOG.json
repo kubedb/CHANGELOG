@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:12:14.560071331Z",
+  "release_date": "2021-04-16T10:14:32.018382466Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -92,6 +92,36 @@
             },
             {
               "SHA": "c8bec973",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "4f391d75",
+              "Subject": "Prepare for release v0.11.0 (#293)"
+            },
+            {
+              "SHA": "294fb730",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "717a5c06",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "37f7bba6",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "4a6fea4d",
               "Subject": "Fix spelling"
             }
           ]

@@ -33,6 +33,18 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.11.0](https://github.com/kubedb/memcached/releases/tag/v0.11.0)
+
+- [4f391d75](https://github.com/kubedb/memcached/commit/4f391d75) Prepare for release v0.11.0 (#293)
+- [294fb730](https://github.com/kubedb/memcached/commit/294fb730) Use license-verifier v0.8.1
+- [717a5c06](https://github.com/kubedb/memcached/commit/717a5c06) Use license verifier v0.8.0
+- [37f7bba6](https://github.com/kubedb/memcached/commit/37f7bba6) Update license verifier
+- [4a6fea4d](https://github.com/kubedb/memcached/commit/4a6fea4d) Fix spelling
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.3.0](https://github.com/kubedb/tests/releases/tag/v0.3.0)

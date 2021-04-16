@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:17:09.2355654Z",
+  "release_date": "2021-04-16T10:17:19.142722517Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -214,6 +214,56 @@
             },
             {
               "SHA": "4a6fea4d",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "c4d7444c",
+              "Subject": "Prepare for release v0.11.0 (#390)"
+            },
+            {
+              "SHA": "26fbc21b",
+              "Subject": "Use `IPv6EnabledInKernel` (#389)"
+            },
+            {
+              "SHA": "0221339a",
+              "Subject": "Selectively enable binding IPv6 address (#388)"
+            },
+            {
+              "SHA": "7a53a0bc",
+              "Subject": "Remove panic (#387)"
+            },
+            {
+              "SHA": "87623d58",
+              "Subject": "Introduce NodeReconciler (#384)"
+            },
+            {
+              "SHA": "891aac47",
+              "Subject": "Use license-verifier v0.8.1"
+            },
+            {
+              "SHA": "0722ad6d",
+              "Subject": "Use license verifier v0.8.0"
+            },
+            {
+              "SHA": "f8522304",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "dab6babc",
+              "Subject": "Update stash make targets (#386)"
+            },
+            {
+              "SHA": "b18cbac5",
               "Subject": "Fix spelling"
             }
           ]

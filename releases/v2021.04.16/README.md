@@ -77,6 +77,23 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.11.0](https://github.com/kubedb/mongodb/releases/tag/v0.11.0)
+
+- [c4d7444c](https://github.com/kubedb/mongodb/commit/c4d7444c) Prepare for release v0.11.0 (#390)
+- [26fbc21b](https://github.com/kubedb/mongodb/commit/26fbc21b) Use `IPv6EnabledInKernel` (#389)
+- [0221339a](https://github.com/kubedb/mongodb/commit/0221339a) Selectively enable binding IPv6 address (#388)
+- [7a53a0bc](https://github.com/kubedb/mongodb/commit/7a53a0bc) Remove panic (#387)
+- [87623d58](https://github.com/kubedb/mongodb/commit/87623d58) Introduce NodeReconciler (#384)
+- [891aac47](https://github.com/kubedb/mongodb/commit/891aac47) Use license-verifier v0.8.1
+- [0722ad6d](https://github.com/kubedb/mongodb/commit/0722ad6d) Use license verifier v0.8.0
+- [f8522304](https://github.com/kubedb/mongodb/commit/f8522304) Update license verifier
+- [dab6babc](https://github.com/kubedb/mongodb/commit/dab6babc) Update stash make targets (#386)
+- [b18cbac5](https://github.com/kubedb/mongodb/commit/b18cbac5) Fix spelling
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.11.0](https://github.com/kubedb/mysql/releases/tag/v0.11.0)

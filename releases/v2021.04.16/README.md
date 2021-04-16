@@ -123,6 +123,16 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.2.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.2.0)
+
+- [b5311e9](https://github.com/kubedb/pg-coordinator/commit/b5311e9) Prepare for release v0.2.0 (#16)
+- [db687a1](https://github.com/kubedb/pg-coordinator/commit/db687a1) Add Support for Custom UID (#15)
+- [1f923a4](https://github.com/kubedb/pg-coordinator/commit/1f923a4) Fix spelling
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.18.0](https://github.com/kubedb/postgres/releases/tag/v0.18.0)

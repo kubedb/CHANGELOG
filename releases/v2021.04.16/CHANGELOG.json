@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T10:29:10.443487967Z",
+  "release_date": "2021-04-16T11:13:32.498638654Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -344,6 +344,28 @@
             },
             {
               "SHA": "febdf8de",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "b5311e9",
+              "Subject": "Prepare for release v0.2.0 (#16)"
+            },
+            {
+              "SHA": "db687a1",
+              "Subject": "Add Support for Custom UID (#15)"
+            },
+            {
+              "SHA": "1f923a4",
               "Subject": "Fix spelling"
             }
           ]

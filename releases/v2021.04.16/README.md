@@ -110,6 +110,15 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.18.0](https://github.com/kubedb/operator/releases/tag/v0.18.0)
+
+- [5c2cb8b2](https://github.com/kubedb/operator/commit/5c2cb8b2) Prepare for release v0.18.0 (#402)
+- [5ca8913b](https://github.com/kubedb/operator/commit/5ca8913b) Use license-verifier v0.8.1
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.5.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.5.0)

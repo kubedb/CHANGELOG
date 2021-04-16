@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.04.16",
-  "release_date": "2021-04-16T11:24:35.571431768Z",
+  "release_date": "2021-04-16T11:36:07.991180611Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.04.16",
   "kubernetes_version": "1.14+",
@@ -311,6 +311,24 @@
             {
               "SHA": "40f9a2f2",
               "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "5c2cb8b2",
+              "Subject": "Prepare for release v0.18.0 (#402)"
+            },
+            {
+              "SHA": "5ca8913b",
+              "Subject": "Use license-verifier v0.8.1"
             }
           ]
         }

@@ -157,6 +157,25 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.19.0-rc.0)
+
+- [06fcab6e](https://github.com/kubedb/postgres/commit/06fcab6e) Prepare for release v0.19.0-rc.0 (#508)
+- [5c0e0fa2](https://github.com/kubedb/postgres/commit/5c0e0fa2) Run All DB Pod's Container with Custom-UID (#507)
+- [9496dadf](https://github.com/kubedb/postgres/commit/9496dadf) Update audit lib (#506)
+- [d51cdfdd](https://github.com/kubedb/postgres/commit/d51cdfdd) Limit Health Check for Postgres (#504)
+- [24851ba8](https://github.com/kubedb/postgres/commit/24851ba8) Send audit events if analytics enabled (#505)
+- [faecf01d](https://github.com/kubedb/postgres/commit/faecf01d) Create auditor if license file is provided (#503)
+- [8d4bf26b](https://github.com/kubedb/postgres/commit/8d4bf26b) Stop using gomodules.xyz/version (#501)
+- [906c678e](https://github.com/kubedb/postgres/commit/906c678e) Publish audit events (#500)
+- [c6afe209](https://github.com/kubedb/postgres/commit/c6afe209) Fix: Log Level Issue with klog (#496)
+- [2a910034](https://github.com/kubedb/postgres/commit/2a910034) Use kglog helper
+- [a4e685d6](https://github.com/kubedb/postgres/commit/a4e685d6) Use klog/v2
+- [ee9a9d15](https://github.com/kubedb/postgres/commit/ee9a9d15) Update Kubernetes toolchain to v1.21.0 (#492)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.12.0-rc.0)

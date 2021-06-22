@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.21-rc.0",
-  "release_date": "2021-06-22T09:34:51.428501341Z",
+  "release_date": "2021-06-22T09:35:02.845593932Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
   "kubernetes_version": "1.14+",
@@ -169,6 +169,48 @@
             {
               "SHA": "c009905e",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "870e08df",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#201)"
+            },
+            {
+              "SHA": "f163f637",
+              "Subject": "Update audit lib (#200)"
+            },
+            {
+              "SHA": "c42c3401",
+              "Subject": "Send audit events if analytics enabled (#199)"
+            },
+            {
+              "SHA": "e2ce3664",
+              "Subject": "Create auditor if license file is provided (#198)"
+            },
+            {
+              "SHA": "3e85edb2",
+              "Subject": "Publish audit events (#197)"
+            },
+            {
+              "SHA": "6f23031c",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "cc0e270a",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "a44e3347",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#195)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.21-rc.0",
-  "release_date": "2021-06-22T09:36:37.195600911Z",
+  "release_date": "2021-06-22T09:36:46.710604198Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
   "kubernetes_version": "1.14+",
@@ -619,6 +619,60 @@
             {
               "SHA": "4900a564",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#317)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b6b4be3",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#124)"
+            },
+            {
+              "SHA": "62e6b50",
+              "Subject": "Fix locking in ResourceMapper (#123)"
+            },
+            {
+              "SHA": "a855fab",
+              "Subject": "Update dependencies (#122)"
+            },
+            {
+              "SHA": "7d5b1a4",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "a08eee4",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "ed1afd4",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#120)"
+            },
+            {
+              "SHA": "ccb54f1",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#119)"
+            },
+            {
+              "SHA": "2a6f06d",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#118)"
+            },
+            {
+              "SHA": "7fb99f7",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#117)"
+            },
+            {
+              "SHA": "aaa0647",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#116)"
+            },
+            {
+              "SHA": "79d815d",
+              "Subject": "Fix Elasticsearch status check while creating the client (#114)"
             }
           ]
         }

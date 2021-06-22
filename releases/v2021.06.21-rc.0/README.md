@@ -86,6 +86,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.06.21-rc.0](https://github.com/kubedb/docs/releases/tag/v2021.06.21-rc.0)
+
+- [8a6114f](https://github.com/kubedb/docs/commit/8a6114f) Prepare for release v2021.06.21-rc.0 (#139)
+- [64c912c](https://github.com/kubedb/docs/commit/64c912c) Fix command to get restored  mongodb credentials (#134)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.19.0-rc.0)

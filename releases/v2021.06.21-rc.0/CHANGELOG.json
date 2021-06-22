@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.21-rc.0",
-  "release_date": "2021-06-22T09:36:55.906406699Z",
+  "release_date": "2021-06-22T09:47:03.768395889Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
   "kubernetes_version": "1.14+",
@@ -511,6 +511,48 @@
             {
               "SHA": "a9b3f16",
               "Subject": "Use klog/v2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cbba6969",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "bc6428cd",
+              "Subject": "Update audit lib (#160)"
+            },
+            {
+              "SHA": "442f0635",
+              "Subject": "Send audit events if analytics enabled (#159)"
+            },
+            {
+              "SHA": "2ebaf4bb",
+              "Subject": "Create auditor if license file is provided (#158)"
+            },
+            {
+              "SHA": "4e3f115d",
+              "Subject": "Publish audit events (#157)"
+            },
+            {
+              "SHA": "1ed2f883",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "870cf108",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "11c2ac03",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#155)"
             }
           ]
         }

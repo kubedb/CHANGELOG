@@ -169,6 +169,21 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.6.0-rc.0)
+
+- [cbba6969](https://github.com/kubedb/pgbouncer/commit/cbba6969) Prepare for release v0.6.0-rc.0 (#161)
+- [bc6428cd](https://github.com/kubedb/pgbouncer/commit/bc6428cd) Update audit lib (#160)
+- [442f0635](https://github.com/kubedb/pgbouncer/commit/442f0635) Send audit events if analytics enabled (#159)
+- [2ebaf4bb](https://github.com/kubedb/pgbouncer/commit/2ebaf4bb) Create auditor if license file is provided (#158)
+- [4e3f115d](https://github.com/kubedb/pgbouncer/commit/4e3f115d) Publish audit events (#157)
+- [1ed2f883](https://github.com/kubedb/pgbouncer/commit/1ed2f883) Use kglog helper
+- [870cf108](https://github.com/kubedb/pgbouncer/commit/870cf108) Use klog/v2
+- [11c2ac03](https://github.com/kubedb/pgbouncer/commit/11c2ac03) Update Kubernetes toolchain to v1.21.0 (#155)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.19.0-rc.0)

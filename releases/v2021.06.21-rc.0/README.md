@@ -33,6 +33,24 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.19.0-rc.0)
+
+- [b367d2a5](https://github.com/kubedb/cli/commit/b367d2a5) Prepare for release v0.19.0-rc.0 (#609)
+- [b9214d6a](https://github.com/kubedb/cli/commit/b9214d6a) Use Kubernetes 1.21.1 toolchain (#608)
+- [36866cf5](https://github.com/kubedb/cli/commit/36866cf5) Use kglog helper
+- [e4ee9973](https://github.com/kubedb/cli/commit/e4ee9973) Cleanup dependencies (#607)
+- [07999fc2](https://github.com/kubedb/cli/commit/07999fc2) Use Kubernetes v1.21.0 toolchain (#606)
+- [05e3b7e5](https://github.com/kubedb/cli/commit/05e3b7e5) Use Kubernetes v1.21.0 toolchain (#605)
+- [44f4188e](https://github.com/kubedb/cli/commit/44f4188e) Use Kubernetes v1.21.0 toolchain (#604)
+- [82cd8399](https://github.com/kubedb/cli/commit/82cd8399) Use Kubernetes v1.21.0 toolchain (#603)
+- [998506cd](https://github.com/kubedb/cli/commit/998506cd) Use Kubernetes v1.21.0 toolchain (#602)
+- [4ff64f94](https://github.com/kubedb/cli/commit/4ff64f94) Use Kubernetes v1.21.0 toolchain (#601)
+- [19b257f1](https://github.com/kubedb/cli/commit/19b257f1) Update Kubernetes toolchain to v1.21.0 (#600)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.19.0-rc.0)

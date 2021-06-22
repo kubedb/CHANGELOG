@@ -1,0 +1,120 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.06.21-rc.0",
+  "release_date": "2021-06-22T08:24:02.494622309Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c885fc2d",
+              "Subject": "Postgres DB Container's RunAsGroup As FSGroup (#769)"
+            },
+            {
+              "SHA": "29cb0260",
+              "Subject": "Add fixes to helper method (#768)"
+            },
+            {
+              "SHA": "b20b40c2",
+              "Subject": "Use Stash v2021.06.23"
+            },
+            {
+              "SHA": "e98fb31f",
+              "Subject": "Update audit event publisher (#767)"
+            },
+            {
+              "SHA": "81e26637",
+              "Subject": "Add MariaDB Constants (#766)"
+            },
+            {
+              "SHA": "532b6982",
+              "Subject": "Update Elasticsearch API to support various node roles including hot-warm-cold (#764)"
+            },
+            {
+              "SHA": "a9979e15",
+              "Subject": "Update for release Stash@v2021.6.18 (#765)"
+            },
+            {
+              "SHA": "d20c46a2",
+              "Subject": "Fix locking in ResourceMapper"
+            },
+            {
+              "SHA": "3a597982",
+              "Subject": "Send audit events if analytics enabled"
+            },
+            {
+              "SHA": "27cc118e",
+              "Subject": "Add auditor to shared Controller (#761)"
+            },
+            {
+              "SHA": "eb13a94f",
+              "Subject": "Rename TimeoutSeconds to Timeout in MongoDBOpsRequest (#759)"
+            },
+            {
+              "SHA": "29627ec6",
+              "Subject": "Add timeout for each step of ES ops request (#742)"
+            },
+            {
+              "SHA": "cc6b9690",
+              "Subject": "Add MariaDB OpsRequest Types (#743)"
+            },
+            {
+              "SHA": "6fb2646e",
+              "Subject": "Update default resource limits for databases (#755)"
+            },
+            {
+              "SHA": "161b3fe3",
+              "Subject": "Add UpdateMariaDBOpsRequestStatus function (#727)"
+            },
+            {
+              "SHA": "98cd75f0",
+              "Subject": "Add Fields, Constant, Func  For Ops Request Postgres (#758)"
+            },
+            {
+              "SHA": "722656b7",
+              "Subject": "Add Innodb Group Replication Mode (#750)"
+            },
+            {
+              "SHA": "eb8e5883",
+              "Subject": "Replace go-bindata with //go:embed (#753)"
+            },
+            {
+              "SHA": "df570f7b",
+              "Subject": "Add HealthCheckInterval constant (#752)"
+            },
+            {
+              "SHA": "e982e590",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "e725873d",
+              "Subject": "Fix tests (#749)"
+            },
+            {
+              "SHA": "11d1c306",
+              "Subject": "Cleanup dependencies"
+            },
+            {
+              "SHA": "7030bd8f",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "766fa11f",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#746)"
+            },
+            {
+              "SHA": "12014667",
+              "Subject": "Add Elasticsearch vertical scaling constants (#741)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

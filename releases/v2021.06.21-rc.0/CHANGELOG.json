@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.21-rc.0",
-  "release_date": "2021-06-22T09:34:39.834766341Z",
+  "release_date": "2021-06-22T09:34:51.428501341Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
   "kubernetes_version": "1.14+",
@@ -169,6 +169,56 @@
             {
               "SHA": "c009905e",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0c15054c",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#324)"
+            },
+            {
+              "SHA": "5a5ec318",
+              "Subject": "Update audit lib (#323)"
+            },
+            {
+              "SHA": "6673f940",
+              "Subject": "Limit Health Check go-routine Redis (#321)"
+            },
+            {
+              "SHA": "e945029e",
+              "Subject": "Send audit events if analytics enabled (#322)"
+            },
+            {
+              "SHA": "3715ff10",
+              "Subject": "Create auditor if license file is provided (#320)"
+            },
+            {
+              "SHA": "9d5d90a9",
+              "Subject": "Add auditor handler"
+            },
+            {
+              "SHA": "5004f56c",
+              "Subject": "Publish audit events (#319)"
+            },
+            {
+              "SHA": "146b3863",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "71d8ced8",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "4900a564",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#317)"
             }
           ]
         }

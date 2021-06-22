@@ -52,3 +52,20 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.12.0-rc.0)
+
+- [0c15054c](https://github.com/kubedb/redis/commit/0c15054c) Prepare for release v0.12.0-rc.0 (#324)
+- [5a5ec318](https://github.com/kubedb/redis/commit/5a5ec318) Update audit lib (#323)
+- [6673f940](https://github.com/kubedb/redis/commit/6673f940) Limit Health Check go-routine Redis (#321)
+- [e945029e](https://github.com/kubedb/redis/commit/e945029e) Send audit events if analytics enabled (#322)
+- [3715ff10](https://github.com/kubedb/redis/commit/3715ff10) Create auditor if license file is provided (#320)
+- [9d5d90a9](https://github.com/kubedb/redis/commit/9d5d90a9) Add auditor handler
+- [5004f56c](https://github.com/kubedb/redis/commit/5004f56c) Publish audit events (#319)
+- [146b3863](https://github.com/kubedb/redis/commit/146b3863) Use kglog helper
+- [71d8ced8](https://github.com/kubedb/redis/commit/71d8ced8) Use klog/v2
+- [4900a564](https://github.com/kubedb/redis/commit/4900a564) Update Kubernetes toolchain to v1.21.0 (#317)
+
+
+

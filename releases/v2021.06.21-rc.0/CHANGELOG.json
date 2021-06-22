@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.21-rc.0",
-  "release_date": "2021-06-22T09:36:46.710604198Z",
+  "release_date": "2021-06-22T09:36:55.906406699Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
   "kubernetes_version": "1.14+",
@@ -619,6 +619,56 @@
             {
               "SHA": "4900a564",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#317)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1382382",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#143)"
+            },
+            {
+              "SHA": "feba070",
+              "Subject": "Remove glog dependency"
+            },
+            {
+              "SHA": "fd757b4",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "8ba20a3",
+              "Subject": "Update repository config (#142)"
+            },
+            {
+              "SHA": "eece885",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "e30c050",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#140)"
+            },
+            {
+              "SHA": "8e7b7c2",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#139)"
+            },
+            {
+              "SHA": "6bceb2f",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#138)"
+            },
+            {
+              "SHA": "0fe720e",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#137)"
+            },
+            {
+              "SHA": "8c54b2a",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#136)"
             }
           ]
         }

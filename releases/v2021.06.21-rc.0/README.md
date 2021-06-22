@@ -88,6 +88,24 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.12.0-rc.0)
+
+- [9533c528](https://github.com/kubedb/mysql/commit/9533c528) Prepare for release v0.12.0-rc.0 (#392)
+- [f0313b17](https://github.com/kubedb/mysql/commit/f0313b17) Limit Health Checker goroutines (#385)
+- [ab601a28](https://github.com/kubedb/mysql/commit/ab601a28) Use gomodules.xyz/password-generator v0.2.7
+- [782362db](https://github.com/kubedb/mysql/commit/782362db) Update audit library (#390)
+- [1d36bacb](https://github.com/kubedb/mysql/commit/1d36bacb) Send audit events if analytics enabled (#389)
+- [55a903a3](https://github.com/kubedb/mysql/commit/55a903a3) Create auditor if license file is provided (#388)
+- [dc6f6ea5](https://github.com/kubedb/mysql/commit/dc6f6ea5) Publish audit events (#387)
+- [75bd1a1c](https://github.com/kubedb/mysql/commit/75bd1a1c) Fix log level issue with klog for mysql (#386)
+- [1014a393](https://github.com/kubedb/mysql/commit/1014a393) Use kglog helper
+- [728fa299](https://github.com/kubedb/mysql/commit/728fa299) Use klog/v2
+- [80581df4](https://github.com/kubedb/mysql/commit/80581df4) Update Kubernetes toolchain to v1.21.0 (#383)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.6.0-rc.0)

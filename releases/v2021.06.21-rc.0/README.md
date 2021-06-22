@@ -108,6 +108,25 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2021.06.21-rc.0](https://github.com/kubedb/installer/releases/tag/v2021.06.21-rc.0)
+
+- [823feb3](https://github.com/kubedb/installer/commit/823feb3) Prepare for release v2021.06.21-rc.0 (#315)
+- [946dc13](https://github.com/kubedb/installer/commit/946dc13) Use Stash v2021.06.23
+- [77a54a1](https://github.com/kubedb/installer/commit/77a54a1) Use Kubernetes 1.21.1 toolchain (#314)
+- [2b15157](https://github.com/kubedb/installer/commit/2b15157) Add support for Elasticsearch v7.13.2 (#313)
+- [a11d7d0](https://github.com/kubedb/installer/commit/a11d7d0) Support MongoDB Version 4.4.6 (#312)
+- [4c79e1a](https://github.com/kubedb/installer/commit/4c79e1a) Update Elasticsearch versions to support various node roles (#308)
+- [8e52114](https://github.com/kubedb/installer/commit/8e52114) Update for release Stash@v2021.6.18 (#311)
+- [95aa010](https://github.com/kubedb/installer/commit/95aa010) Update to MariaDB init docker version 0.2.0 (#310)
+- [1659b91](https://github.com/kubedb/installer/commit/1659b91) Fix: Update Ops Request yaml for Reconfigure TLS in Postgres (#307)
+- [b2a806b](https://github.com/kubedb/installer/commit/b2a806b) Use mongodb-exporter v0.20.4 (#305)
+- [12e720a](https://github.com/kubedb/installer/commit/12e720a) Update Kubernetes toolchain to v1.21.0 (#302)
+- [3ff3bc3](https://github.com/kubedb/installer/commit/3ff3bc3) Add monitoring values to global chart (#301)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.3.0-rc.0)

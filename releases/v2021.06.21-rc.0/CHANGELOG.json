@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.21-rc.0",
-  "release_date": "2021-06-22T10:15:11.851480275Z",
+  "release_date": "2021-06-22T10:26:26.046718278Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
   "kubernetes_version": "1.14+",
@@ -339,6 +339,64 @@
             {
               "SHA": "69fdfde7",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#492)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.06.21-rc.0",
+          "commits": [
+            {
+              "SHA": "823feb3",
+              "Subject": "Prepare for release v2021.06.21-rc.0 (#315)"
+            },
+            {
+              "SHA": "946dc13",
+              "Subject": "Use Stash v2021.06.23"
+            },
+            {
+              "SHA": "77a54a1",
+              "Subject": "Use Kubernetes 1.21.1 toolchain (#314)"
+            },
+            {
+              "SHA": "2b15157",
+              "Subject": "Add support for Elasticsearch v7.13.2 (#313)"
+            },
+            {
+              "SHA": "a11d7d0",
+              "Subject": "Support MongoDB Version 4.4.6 (#312)"
+            },
+            {
+              "SHA": "4c79e1a",
+              "Subject": "Update Elasticsearch versions to support various node roles (#308)"
+            },
+            {
+              "SHA": "8e52114",
+              "Subject": "Update for release Stash@v2021.6.18 (#311)"
+            },
+            {
+              "SHA": "95aa010",
+              "Subject": "Update to MariaDB init docker version 0.2.0 (#310)"
+            },
+            {
+              "SHA": "1659b91",
+              "Subject": "Fix: Update Ops Request yaml for Reconfigure TLS in Postgres (#307)"
+            },
+            {
+              "SHA": "b2a806b",
+              "Subject": "Use mongodb-exporter v0.20.4 (#305)"
+            },
+            {
+              "SHA": "12e720a",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#302)"
+            },
+            {
+              "SHA": "3ff3bc3",
+              "Subject": "Add monitoring values to global chart (#301)"
             }
           ]
         }

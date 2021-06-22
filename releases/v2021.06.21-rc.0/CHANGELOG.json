@@ -1,0 +1,1048 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.06.21-rc.0",
+  "release_date": "2021-06-22T11:12:25.562077621Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "fe37e94",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#25)"
+            },
+            {
+              "SHA": "f81237c",
+              "Subject": "Update audit lib (#24)"
+            },
+            {
+              "SHA": "ed8c87b",
+              "Subject": "Send audit events if analytics enabled"
+            },
+            {
+              "SHA": "c0a03d5",
+              "Subject": "Create auditor if license file is provided (#23)"
+            },
+            {
+              "SHA": "2775227",
+              "Subject": "Publish audit events (#22)"
+            },
+            {
+              "SHA": "636d3a7",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "6a64bb1",
+              "Subject": "Use k8s 1.21.0 toolchain (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "97749287",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#199)"
+            },
+            {
+              "SHA": "401cfc86",
+              "Subject": "Update audit lib (#197)"
+            },
+            {
+              "SHA": "4378d35a",
+              "Subject": "Add MariaDB OpsReq [Restart, Upgrade, Scaling, Volume Expansion, Reconfigure Custom Config] (#179)"
+            },
+            {
+              "SHA": "f879e934",
+              "Subject": "Postgres Ops Req (Upgrade, Horizontal, Vertical, Volume Expansion, Reconfigure, Reconfigure TLS, Restart) (#193)"
+            },
+            {
+              "SHA": "79b51d25",
+              "Subject": "Skip stash checks if stash CRD doesn't exist (#196)"
+            },
+            {
+              "SHA": "3efc4ee8",
+              "Subject": "Refactor MongoDB Scale Down Shard (#189)"
+            },
+            {
+              "SHA": "64962f36",
+              "Subject": "Add timeout for Elasticsearch ops request (#183)"
+            },
+            {
+              "SHA": "4ed736b8",
+              "Subject": "Send audit events if analytics enabled"
+            },
+            {
+              "SHA": "498ef67b",
+              "Subject": "Create auditor if license file is provided (#195)"
+            },
+            {
+              "SHA": "a61965cc",
+              "Subject": "Publish audit events (#194)"
+            },
+            {
+              "SHA": "cdc0ee37",
+              "Subject": "Fix log level issue with klog (#187)"
+            },
+            {
+              "SHA": "356c6965",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "d7248cfd",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#181)"
+            },
+            {
+              "SHA": "b8493083",
+              "Subject": "Only restart the changed pods while VerticalScaling Elasticsearch (#174)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c885fc2d",
+              "Subject": "Postgres DB Container's RunAsGroup As FSGroup (#769)"
+            },
+            {
+              "SHA": "29cb0260",
+              "Subject": "Add fixes to helper method (#768)"
+            },
+            {
+              "SHA": "b20b40c2",
+              "Subject": "Use Stash v2021.06.23"
+            },
+            {
+              "SHA": "e98fb31f",
+              "Subject": "Update audit event publisher (#767)"
+            },
+            {
+              "SHA": "81e26637",
+              "Subject": "Add MariaDB Constants (#766)"
+            },
+            {
+              "SHA": "532b6982",
+              "Subject": "Update Elasticsearch API to support various node roles including hot-warm-cold (#764)"
+            },
+            {
+              "SHA": "a9979e15",
+              "Subject": "Update for release Stash@v2021.6.18 (#765)"
+            },
+            {
+              "SHA": "d20c46a2",
+              "Subject": "Fix locking in ResourceMapper"
+            },
+            {
+              "SHA": "3a597982",
+              "Subject": "Send audit events if analytics enabled"
+            },
+            {
+              "SHA": "27cc118e",
+              "Subject": "Add auditor to shared Controller (#761)"
+            },
+            {
+              "SHA": "eb13a94f",
+              "Subject": "Rename TimeoutSeconds to Timeout in MongoDBOpsRequest (#759)"
+            },
+            {
+              "SHA": "29627ec6",
+              "Subject": "Add timeout for each step of ES ops request (#742)"
+            },
+            {
+              "SHA": "cc6b9690",
+              "Subject": "Add MariaDB OpsRequest Types (#743)"
+            },
+            {
+              "SHA": "6fb2646e",
+              "Subject": "Update default resource limits for databases (#755)"
+            },
+            {
+              "SHA": "161b3fe3",
+              "Subject": "Add UpdateMariaDBOpsRequestStatus function (#727)"
+            },
+            {
+              "SHA": "98cd75f0",
+              "Subject": "Add Fields, Constant, Func  For Ops Request Postgres (#758)"
+            },
+            {
+              "SHA": "722656b7",
+              "Subject": "Add Innodb Group Replication Mode (#750)"
+            },
+            {
+              "SHA": "eb8e5883",
+              "Subject": "Replace go-bindata with //go:embed (#753)"
+            },
+            {
+              "SHA": "df570f7b",
+              "Subject": "Add HealthCheckInterval constant (#752)"
+            },
+            {
+              "SHA": "e982e590",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "e725873d",
+              "Subject": "Fix tests (#749)"
+            },
+            {
+              "SHA": "11d1c306",
+              "Subject": "Cleanup dependencies"
+            },
+            {
+              "SHA": "7030bd8f",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "766fa11f",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#746)"
+            },
+            {
+              "SHA": "12014667",
+              "Subject": "Add Elasticsearch vertical scaling constants (#741)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.06.21-rc.0",
+          "commits": [
+            {
+              "SHA": "58f36ee",
+              "Subject": "Prepare for release v2021.06.21-rc.0 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b367d2a5",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#609)"
+            },
+            {
+              "SHA": "b9214d6a",
+              "Subject": "Use Kubernetes 1.21.1 toolchain (#608)"
+            },
+            {
+              "SHA": "36866cf5",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "e4ee9973",
+              "Subject": "Cleanup dependencies (#607)"
+            },
+            {
+              "SHA": "07999fc2",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#606)"
+            },
+            {
+              "SHA": "05e3b7e5",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#605)"
+            },
+            {
+              "SHA": "44f4188e",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#604)"
+            },
+            {
+              "SHA": "82cd8399",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#603)"
+            },
+            {
+              "SHA": "998506cd",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#602)"
+            },
+            {
+              "SHA": "4ff64f94",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#601)"
+            },
+            {
+              "SHA": "19b257f1",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#600)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.06.21-rc.0",
+          "commits": [
+            {
+              "SHA": "8a6114f",
+              "Subject": "Prepare for release v2021.06.21-rc.0 (#139)"
+            },
+            {
+              "SHA": "64c912c",
+              "Subject": "Fix command to get restored  mongodb credentials (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "aed0fcb4",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#502)"
+            },
+            {
+              "SHA": "630d6940",
+              "Subject": "Update audit lib (#501)"
+            },
+            {
+              "SHA": "df4c9a0d",
+              "Subject": "Do not create user credentials when security is disabled (#500)"
+            },
+            {
+              "SHA": "3b656b57",
+              "Subject": "Add support for various node roles for ElasticStack (#499)"
+            },
+            {
+              "SHA": "64133cb6",
+              "Subject": "Send audit events if analytics enabled"
+            },
+            {
+              "SHA": "21caa38f",
+              "Subject": "Create auditor if license file is provided (#498)"
+            },
+            {
+              "SHA": "8319ba70",
+              "Subject": "Publish audit events (#497)"
+            },
+            {
+              "SHA": "5f08d1b2",
+              "Subject": "Skip health check for halted DB (#494)"
+            },
+            {
+              "SHA": "6a23d464",
+              "Subject": "Disable flow control if api is not enabled (#495)"
+            },
+            {
+              "SHA": "a23c5481",
+              "Subject": "Fix log level issue with klog (#496)"
+            },
+            {
+              "SHA": "38dbddda",
+              "Subject": "Limit health checker go-routine for specific DB object (#491)"
+            },
+            {
+              "SHA": "0aefd5f7",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "03255078",
+              "Subject": "Cleanup glog dependency"
+            },
+            {
+              "SHA": "57bb1bf1",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "69fdfde7",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#492)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.06.21-rc.0",
+          "commits": [
+            {
+              "SHA": "823feb3",
+              "Subject": "Prepare for release v2021.06.21-rc.0 (#315)"
+            },
+            {
+              "SHA": "946dc13",
+              "Subject": "Use Stash v2021.06.23"
+            },
+            {
+              "SHA": "77a54a1",
+              "Subject": "Use Kubernetes 1.21.1 toolchain (#314)"
+            },
+            {
+              "SHA": "2b15157",
+              "Subject": "Add support for Elasticsearch v7.13.2 (#313)"
+            },
+            {
+              "SHA": "a11d7d0",
+              "Subject": "Support MongoDB Version 4.4.6 (#312)"
+            },
+            {
+              "SHA": "4c79e1a",
+              "Subject": "Update Elasticsearch versions to support various node roles (#308)"
+            },
+            {
+              "SHA": "8e52114",
+              "Subject": "Update for release Stash@v2021.6.18 (#311)"
+            },
+            {
+              "SHA": "95aa010",
+              "Subject": "Update to MariaDB init docker version 0.2.0 (#310)"
+            },
+            {
+              "SHA": "1659b91",
+              "Subject": "Fix: Update Ops Request yaml for Reconfigure TLS in Postgres (#307)"
+            },
+            {
+              "SHA": "b2a806b",
+              "Subject": "Use mongodb-exporter v0.20.4 (#305)"
+            },
+            {
+              "SHA": "12e720a",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#302)"
+            },
+            {
+              "SHA": "3ff3bc3",
+              "Subject": "Add monitoring values to global chart (#301)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9b982f74",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#77)"
+            },
+            {
+              "SHA": "0ad0022c",
+              "Subject": "Update audit lib (#75)"
+            },
+            {
+              "SHA": "501a2e61",
+              "Subject": "Update custom config mount path for MariaDB Cluster (#59)"
+            },
+            {
+              "SHA": "d00cf65b",
+              "Subject": "Separate Reconcile functionality in a new function ReconcileNode (#68)"
+            },
+            {
+              "SHA": "e9239d4f",
+              "Subject": "Limit Go routines in Health Checker (#73)"
+            },
+            {
+              "SHA": "d695adf1",
+              "Subject": "Send audit events if analytics enabled (#74)"
+            },
+            {
+              "SHA": "070a0f79",
+              "Subject": "Create auditor if license file is provided (#72)"
+            },
+            {
+              "SHA": "fc9046c3",
+              "Subject": "Publish audit events (#71)"
+            },
+            {
+              "SHA": "3a1f08a9",
+              "Subject": "Fix log level issue with klog for MariaDB (#70)"
+            },
+            {
+              "SHA": "b6075e5d",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "f510e375",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "c009905e",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "99ab26b5",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#299)"
+            },
+            {
+              "SHA": "213807d5",
+              "Subject": "Update audit lib (#298)"
+            },
+            {
+              "SHA": "29054b5b",
+              "Subject": "Send audit events if analytics enabled (#297)"
+            },
+            {
+              "SHA": "a4888446",
+              "Subject": "Publish audit events (#296)"
+            },
+            {
+              "SHA": "236d6108",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "7ffe5c73",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "fb34645b",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#294)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "11eb6ee8",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#400)"
+            },
+            {
+              "SHA": "dbf5cd16",
+              "Subject": "Update audit lib (#399)"
+            },
+            {
+              "SHA": "a55bf1d5",
+              "Subject": "Limit go routine in health check (#394)"
+            },
+            {
+              "SHA": "0a61c733",
+              "Subject": "Update TLS args for Exporter (#395)"
+            },
+            {
+              "SHA": "80d3fec2",
+              "Subject": "Send audit events if analytics enabled (#398)"
+            },
+            {
+              "SHA": "8ac51d7e",
+              "Subject": "Create auditor if license file is provided (#397)"
+            },
+            {
+              "SHA": "c6c4b380",
+              "Subject": "Publish audit events (#396)"
+            },
+            {
+              "SHA": "e261937a",
+              "Subject": "Fix log level issue with klog (#393)"
+            },
+            {
+              "SHA": "426afbfc",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "24b7976c",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "0ace005d",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#391)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9533c528",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#392)"
+            },
+            {
+              "SHA": "f0313b17",
+              "Subject": "Limit Health Checker goroutines (#385)"
+            },
+            {
+              "SHA": "ab601a28",
+              "Subject": "Use gomodules.xyz/password-generator v0.2.7"
+            },
+            {
+              "SHA": "782362db",
+              "Subject": "Update audit library (#390)"
+            },
+            {
+              "SHA": "1d36bacb",
+              "Subject": "Send audit events if analytics enabled (#389)"
+            },
+            {
+              "SHA": "55a903a3",
+              "Subject": "Create auditor if license file is provided (#388)"
+            },
+            {
+              "SHA": "dc6f6ea5",
+              "Subject": "Publish audit events (#387)"
+            },
+            {
+              "SHA": "75bd1a1c",
+              "Subject": "Fix log level issue with klog for mysql (#386)"
+            },
+            {
+              "SHA": "1014a393",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "728fa299",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "80581df4",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "08daa22a",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#407)"
+            },
+            {
+              "SHA": "203ffa38",
+              "Subject": "Update audit lib (#406)"
+            },
+            {
+              "SHA": "704a774f",
+              "Subject": "Send audit events if analytics enabled (#405)"
+            },
+            {
+              "SHA": "7e8f1be0",
+              "Subject": "Stop using gomodules.xyz/version"
+            },
+            {
+              "SHA": "49d7d7f2",
+              "Subject": "Publish audit events (#404)"
+            },
+            {
+              "SHA": "820d7372",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "396ae75f",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#403)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "870e08df",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#201)"
+            },
+            {
+              "SHA": "f163f637",
+              "Subject": "Update audit lib (#200)"
+            },
+            {
+              "SHA": "c42c3401",
+              "Subject": "Send audit events if analytics enabled (#199)"
+            },
+            {
+              "SHA": "e2ce3664",
+              "Subject": "Create auditor if license file is provided (#198)"
+            },
+            {
+              "SHA": "3e85edb2",
+              "Subject": "Publish audit events (#197)"
+            },
+            {
+              "SHA": "6f23031c",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "cc0e270a",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "a44e3347",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3ca5f67",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#25)"
+            },
+            {
+              "SHA": "4ef7d95",
+              "Subject": "Update Client TLS Path for Postgres (#24)"
+            },
+            {
+              "SHA": "7208199",
+              "Subject": "Raft Version Update And Ops Request Fix (#23)"
+            },
+            {
+              "SHA": "5adb304",
+              "Subject": "Use klog/v2 (#19)"
+            },
+            {
+              "SHA": "a9b3f16",
+              "Subject": "Use klog/v2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cbba6969",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "bc6428cd",
+              "Subject": "Update audit lib (#160)"
+            },
+            {
+              "SHA": "442f0635",
+              "Subject": "Send audit events if analytics enabled (#159)"
+            },
+            {
+              "SHA": "2ebaf4bb",
+              "Subject": "Create auditor if license file is provided (#158)"
+            },
+            {
+              "SHA": "4e3f115d",
+              "Subject": "Publish audit events (#157)"
+            },
+            {
+              "SHA": "1ed2f883",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "870cf108",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "11c2ac03",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "06fcab6e",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#508)"
+            },
+            {
+              "SHA": "5c0e0fa2",
+              "Subject": "Run All DB Pod's Container with Custom-UID (#507)"
+            },
+            {
+              "SHA": "9496dadf",
+              "Subject": "Update audit lib (#506)"
+            },
+            {
+              "SHA": "d51cdfdd",
+              "Subject": "Limit Health Check for Postgres (#504)"
+            },
+            {
+              "SHA": "24851ba8",
+              "Subject": "Send audit events if analytics enabled (#505)"
+            },
+            {
+              "SHA": "faecf01d",
+              "Subject": "Create auditor if license file is provided (#503)"
+            },
+            {
+              "SHA": "8d4bf26b",
+              "Subject": "Stop using gomodules.xyz/version (#501)"
+            },
+            {
+              "SHA": "906c678e",
+              "Subject": "Publish audit events (#500)"
+            },
+            {
+              "SHA": "c6afe209",
+              "Subject": "Fix: Log Level Issue with klog (#496)"
+            },
+            {
+              "SHA": "2a910034",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "a4e685d6",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "ee9a9d15",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#492)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ba5ec48b",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#179)"
+            },
+            {
+              "SHA": "9770fa0d",
+              "Subject": "Update audit lib (#178)"
+            },
+            {
+              "SHA": "3e307411",
+              "Subject": "Send audit events if analytics enabled (#177)"
+            },
+            {
+              "SHA": "790b57ed",
+              "Subject": "Create auditor if license file is provided (#176)"
+            },
+            {
+              "SHA": "6e6c9ba1",
+              "Subject": "Publish audit events (#175)"
+            },
+            {
+              "SHA": "df2937ed",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "2ca12e48",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "3796f730",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0c15054c",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#324)"
+            },
+            {
+              "SHA": "5a5ec318",
+              "Subject": "Update audit lib (#323)"
+            },
+            {
+              "SHA": "6673f940",
+              "Subject": "Limit Health Check go-routine Redis (#321)"
+            },
+            {
+              "SHA": "e945029e",
+              "Subject": "Send audit events if analytics enabled (#322)"
+            },
+            {
+              "SHA": "3715ff10",
+              "Subject": "Create auditor if license file is provided (#320)"
+            },
+            {
+              "SHA": "9d5d90a9",
+              "Subject": "Add auditor handler"
+            },
+            {
+              "SHA": "5004f56c",
+              "Subject": "Publish audit events (#319)"
+            },
+            {
+              "SHA": "146b3863",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "71d8ced8",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "4900a564",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#317)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1382382",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#143)"
+            },
+            {
+              "SHA": "feba070",
+              "Subject": "Remove glog dependency"
+            },
+            {
+              "SHA": "fd757b4",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "8ba20a3",
+              "Subject": "Update repository config (#142)"
+            },
+            {
+              "SHA": "eece885",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "e30c050",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#140)"
+            },
+            {
+              "SHA": "8e7b7c2",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#139)"
+            },
+            {
+              "SHA": "6bceb2f",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#138)"
+            },
+            {
+              "SHA": "0fe720e",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#137)"
+            },
+            {
+              "SHA": "8c54b2a",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b6b4be3",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#124)"
+            },
+            {
+              "SHA": "62e6b50",
+              "Subject": "Fix locking in ResourceMapper (#123)"
+            },
+            {
+              "SHA": "a855fab",
+              "Subject": "Update dependencies (#122)"
+            },
+            {
+              "SHA": "7d5b1a4",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "a08eee4",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "ed1afd4",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#120)"
+            },
+            {
+              "SHA": "ccb54f1",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#119)"
+            },
+            {
+              "SHA": "2a6f06d",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#118)"
+            },
+            {
+              "SHA": "7fb99f7",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#117)"
+            },
+            {
+              "SHA": "aaa0647",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#116)"
+            },
+            {
+              "SHA": "79d815d",
+              "Subject": "Fix Elasticsearch status check while creating the client (#114)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

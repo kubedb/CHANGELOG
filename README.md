@@ -2,6 +2,7 @@
 
 | KubeDB Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2021.06.21-rc.0](https:/github.com/kubedb/CHANGELOG/releases/tag/v2021.06.21-rc.0) | 2021-06-22 | [User Guide](https://kubedb.com/docs/v2021.06.21-rc.0) | [CHANGELOG](/releases/v2021.06.21-rc.0/README.md) | 1.14+ |
 | [v2021.04.16](https:/github.com/kubedb/CHANGELOG/releases/tag/v2021.04.16) | 2021-04-16 | [User Guide](https://kubedb.com/docs/v2021.04.16) | [CHANGELOG](/releases/v2021.04.16/README.md) | 1.14+ |
 | [v2021.03.17](https:/github.com/kubedb/CHANGELOG/releases/tag/v2021.03.17) | 2021-03-19 | [User Guide](https://kubedb.com/docs/v2021.03.17) | [CHANGELOG](/releases/v2021.03.17/README.md) | 1.14+ |
 | [v2021.03.11](https:/github.com/kubedb/CHANGELOG/releases/tag/v2021.03.11) | 2021-03-11 | [User Guide](https://kubedb.com/docs/v2021.03.11) | [CHANGELOG](/releases/v2021.03.11/README.md) | 1.14+ |

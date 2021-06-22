@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.21-rc.0",
-  "release_date": "2021-06-22T11:03:44.988035331Z",
+  "release_date": "2021-06-22T11:12:25.562077621Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
   "kubernetes_version": "1.14+",
@@ -215,6 +215,20 @@
             {
               "SHA": "12014667",
               "Subject": "Add Elasticsearch vertical scaling constants (#741)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.06.21-rc.0",
+          "commits": [
+            {
+              "SHA": "58f36ee",
+              "Subject": "Prepare for release v2021.06.21-rc.0 (#27)"
             }
           ]
         }

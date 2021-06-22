@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.21-rc.0",
-  "release_date": "2021-06-22T09:36:13.124763752Z",
+  "release_date": "2021-06-22T09:36:37.195600911Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.21-rc.0",
   "kubernetes_version": "1.14+",
@@ -481,6 +481,36 @@
             {
               "SHA": "a44e3347",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3ca5f67",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#25)"
+            },
+            {
+              "SHA": "4ef7d95",
+              "Subject": "Update Client TLS Path for Postgres (#24)"
+            },
+            {
+              "SHA": "7208199",
+              "Subject": "Raft Version Update And Ops Request Fix (#23)"
+            },
+            {
+              "SHA": "5adb304",
+              "Subject": "Use klog/v2 (#19)"
+            },
+            {
+              "SHA": "a9b3f16",
+              "Subject": "Use klog/v2"
             }
           ]
         }

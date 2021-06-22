@@ -203,6 +203,21 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.6.0-rc.0)
+
+- [ba5ec48b](https://github.com/kubedb/proxysql/commit/ba5ec48b) Prepare for release v0.6.0-rc.0 (#179)
+- [9770fa0d](https://github.com/kubedb/proxysql/commit/9770fa0d) Update audit lib (#178)
+- [3e307411](https://github.com/kubedb/proxysql/commit/3e307411) Send audit events if analytics enabled (#177)
+- [790b57ed](https://github.com/kubedb/proxysql/commit/790b57ed) Create auditor if license file is provided (#176)
+- [6e6c9ba1](https://github.com/kubedb/proxysql/commit/6e6c9ba1) Publish audit events (#175)
+- [df2937ed](https://github.com/kubedb/proxysql/commit/df2937ed) Use kglog helper
+- [2ca12e48](https://github.com/kubedb/proxysql/commit/2ca12e48) Use klog/v2
+- [3796f730](https://github.com/kubedb/proxysql/commit/3796f730) Update Kubernetes toolchain to v1.21.0 (#173)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.12.0-rc.0)

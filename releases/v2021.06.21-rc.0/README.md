@@ -1,6 +1,27 @@
 # KubeDB v2021.06.21-rc.0 (2021-06-22)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.6.0-rc.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.6.0-rc.0)
+
+- [97749287](https://github.com/appscode/kubedb-enterprise/commit/97749287) Prepare for release v0.6.0-rc.0 (#199)
+- [401cfc86](https://github.com/appscode/kubedb-enterprise/commit/401cfc86) Update audit lib (#197)
+- [4378d35a](https://github.com/appscode/kubedb-enterprise/commit/4378d35a) Add MariaDB OpsReq [Restart, Upgrade, Scaling, Volume Expansion, Reconfigure Custom Config] (#179)
+- [f879e934](https://github.com/appscode/kubedb-enterprise/commit/f879e934) Postgres Ops Req (Upgrade, Horizontal, Vertical, Volume Expansion, Reconfigure, Reconfigure TLS, Restart) (#193)
+- [79b51d25](https://github.com/appscode/kubedb-enterprise/commit/79b51d25) Skip stash checks if stash CRD doesn't exist (#196)
+- [3efc4ee8](https://github.com/appscode/kubedb-enterprise/commit/3efc4ee8) Refactor MongoDB Scale Down Shard (#189)
+- [64962f36](https://github.com/appscode/kubedb-enterprise/commit/64962f36) Add timeout for Elasticsearch ops request (#183)
+- [4ed736b8](https://github.com/appscode/kubedb-enterprise/commit/4ed736b8) Send audit events if analytics enabled
+- [498ef67b](https://github.com/appscode/kubedb-enterprise/commit/498ef67b) Create auditor if license file is provided (#195)
+- [a61965cc](https://github.com/appscode/kubedb-enterprise/commit/a61965cc) Publish audit events (#194)
+- [cdc0ee37](https://github.com/appscode/kubedb-enterprise/commit/cdc0ee37) Fix log level issue with klog (#187)
+- [356c6965](https://github.com/appscode/kubedb-enterprise/commit/356c6965) Use kglog helper
+- [d7248cfd](https://github.com/appscode/kubedb-enterprise/commit/d7248cfd) Update Kubernetes toolchain to v1.21.0 (#181)
+- [b8493083](https://github.com/appscode/kubedb-enterprise/commit/b8493083) Only restart the changed pods while VerticalScaling Elasticsearch (#174)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/apimachinery/releases/tag/v0.19.0-rc.0)

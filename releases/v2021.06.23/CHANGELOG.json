@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.23",
-  "release_date": "2021-06-23T09:10:30.801435449Z",
+  "release_date": "2021-06-23T09:21:20.1192145Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
@@ -621,6 +621,56 @@
             {
               "SHA": "ee9a9d15",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#492)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "08e892e2",
+              "Subject": "Prepare for release v0.6.0 (#181)"
+            },
+            {
+              "SHA": "ecd32aea",
+              "Subject": "Disable api priority and fairness feature for webhook server (#180)"
+            },
+            {
+              "SHA": "ba5ec48b",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#179)"
+            },
+            {
+              "SHA": "9770fa0d",
+              "Subject": "Update audit lib (#178)"
+            },
+            {
+              "SHA": "3e307411",
+              "Subject": "Send audit events if analytics enabled (#177)"
+            },
+            {
+              "SHA": "790b57ed",
+              "Subject": "Create auditor if license file is provided (#176)"
+            },
+            {
+              "SHA": "6e6c9ba1",
+              "Subject": "Publish audit events (#175)"
+            },
+            {
+              "SHA": "df2937ed",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "2ca12e48",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "3796f730",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#173)"
             }
           ]
         }

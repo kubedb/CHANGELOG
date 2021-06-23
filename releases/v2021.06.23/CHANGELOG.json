@@ -1,11 +1,89 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.23",
-  "release_date": "2021-06-23T09:34:23.370870659Z",
+  "release_date": "2021-06-23T10:30:13.238230948Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "4b2195b7",
+              "Subject": "Prepare for release v0.6.0 (#202)"
+            },
+            {
+              "SHA": "cde1a54c",
+              "Subject": "Improve Elasticsearch version upgrade with reconciler (#201)"
+            },
+            {
+              "SHA": "c4c2d3c9",
+              "Subject": "Use NSS_Wrapper for Pg_Upgrade Command (#200)"
+            },
+            {
+              "SHA": "97749287",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#199)"
+            },
+            {
+              "SHA": "401cfc86",
+              "Subject": "Update audit lib (#197)"
+            },
+            {
+              "SHA": "4378d35a",
+              "Subject": "Add MariaDB OpsReq [Restart, Upgrade, Scaling, Volume Expansion, Reconfigure Custom Config] (#179)"
+            },
+            {
+              "SHA": "f879e934",
+              "Subject": "Postgres Ops Req (Upgrade, Horizontal, Vertical, Volume Expansion, Reconfigure, Reconfigure TLS, Restart) (#193)"
+            },
+            {
+              "SHA": "79b51d25",
+              "Subject": "Skip stash checks if stash CRD doesn't exist (#196)"
+            },
+            {
+              "SHA": "3efc4ee8",
+              "Subject": "Refactor MongoDB Scale Down Shard (#189)"
+            },
+            {
+              "SHA": "64962f36",
+              "Subject": "Add timeout for Elasticsearch ops request (#183)"
+            },
+            {
+              "SHA": "4ed736b8",
+              "Subject": "Send audit events if analytics enabled"
+            },
+            {
+              "SHA": "498ef67b",
+              "Subject": "Create auditor if license file is provided (#195)"
+            },
+            {
+              "SHA": "a61965cc",
+              "Subject": "Publish audit events (#194)"
+            },
+            {
+              "SHA": "cdc0ee37",
+              "Subject": "Fix log level issue with klog (#187)"
+            },
+            {
+              "SHA": "356c6965",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "d7248cfd",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#181)"
+            },
+            {
+              "SHA": "b8493083",
+              "Subject": "Only restart the changed pods while VerticalScaling Elasticsearch (#174)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

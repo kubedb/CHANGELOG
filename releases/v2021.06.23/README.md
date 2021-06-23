@@ -93,6 +93,18 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.06.23](https://github.com/kubedb/docs/releases/tag/v2021.06.23)
+
+- [9443692](https://github.com/kubedb/docs/commit/9443692) Prepare for release v2021.06.23 (#142)
+- [98f0d7a](https://github.com/kubedb/docs/commit/98f0d7a) Update docs for kubedb/cli@2b394bba (#141)
+- [1e929ae](https://github.com/kubedb/docs/commit/1e929ae) Update docs for kubedb/operator@e48d8929 (#140)
+- [8a6114f](https://github.com/kubedb/docs/commit/8a6114f) Prepare for release v2021.06.21-rc.0 (#139)
+- [64c912c](https://github.com/kubedb/docs/commit/64c912c) Fix command to get restored  mongodb credentials (#134)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.19.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.19.0)

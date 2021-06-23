@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.23",
-  "release_date": "2021-06-23T08:35:48.293413625Z",
+  "release_date": "2021-06-23T08:38:54.078210318Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
@@ -417,6 +417,64 @@
             {
               "SHA": "0ace005d",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#391)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "5fb0bf79",
+              "Subject": "Prepare for release v0.12.0 (#393)"
+            },
+            {
+              "SHA": "9533c528",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#392)"
+            },
+            {
+              "SHA": "f0313b17",
+              "Subject": "Limit Health Checker goroutines (#385)"
+            },
+            {
+              "SHA": "ab601a28",
+              "Subject": "Use gomodules.xyz/password-generator v0.2.7"
+            },
+            {
+              "SHA": "782362db",
+              "Subject": "Update audit library (#390)"
+            },
+            {
+              "SHA": "1d36bacb",
+              "Subject": "Send audit events if analytics enabled (#389)"
+            },
+            {
+              "SHA": "55a903a3",
+              "Subject": "Create auditor if license file is provided (#388)"
+            },
+            {
+              "SHA": "dc6f6ea5",
+              "Subject": "Publish audit events (#387)"
+            },
+            {
+              "SHA": "75bd1a1c",
+              "Subject": "Fix log level issue with klog for mysql (#386)"
+            },
+            {
+              "SHA": "1014a393",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "728fa299",
+              "Subject": "Use klog/v2"
+            },
+            {
+              "SHA": "80581df4",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#383)"
             }
           ]
         }

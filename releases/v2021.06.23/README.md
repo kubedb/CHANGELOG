@@ -53,3 +53,22 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.4.0](https://github.com/kubedb/tests/releases/tag/v0.4.0)
+
+- [c6f1adc](https://github.com/kubedb/tests/commit/c6f1adc) Prepare for release v0.4.0 (#125)
+- [b6b4be3](https://github.com/kubedb/tests/commit/b6b4be3) Prepare for release v0.4.0-rc.0 (#124)
+- [62e6b50](https://github.com/kubedb/tests/commit/62e6b50) Fix locking in ResourceMapper (#123)
+- [a855fab](https://github.com/kubedb/tests/commit/a855fab) Update dependencies (#122)
+- [7d5b1a4](https://github.com/kubedb/tests/commit/7d5b1a4) Use kglog helper
+- [a08eee4](https://github.com/kubedb/tests/commit/a08eee4) Use klog/v2
+- [ed1afd4](https://github.com/kubedb/tests/commit/ed1afd4) Use Kubernetes v1.21.0 toolchain (#120)
+- [ccb54f1](https://github.com/kubedb/tests/commit/ccb54f1) Use Kubernetes v1.21.0 toolchain (#119)
+- [2a6f06d](https://github.com/kubedb/tests/commit/2a6f06d) Use Kubernetes v1.21.0 toolchain (#118)
+- [7fb99f7](https://github.com/kubedb/tests/commit/7fb99f7) Use Kubernetes v1.21.0 toolchain (#117)
+- [aaa0647](https://github.com/kubedb/tests/commit/aaa0647) Update Kubernetes toolchain to v1.21.0 (#116)
+- [79d815d](https://github.com/kubedb/tests/commit/79d815d) Fix Elasticsearch status check while creating the client (#114)
+
+
+

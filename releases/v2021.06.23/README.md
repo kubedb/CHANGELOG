@@ -168,6 +168,19 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.3.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.3.0)
+
+- [d0c24fa](https://github.com/kubedb/pg-coordinator/commit/d0c24fa) Prepare for release v0.3.0 (#26)
+- [3ca5f67](https://github.com/kubedb/pg-coordinator/commit/3ca5f67) Prepare for release v0.3.0-rc.0 (#25)
+- [4ef7d95](https://github.com/kubedb/pg-coordinator/commit/4ef7d95) Update Client TLS Path for Postgres (#24)
+- [7208199](https://github.com/kubedb/pg-coordinator/commit/7208199) Raft Version Update And Ops Request Fix (#23)
+- [5adb304](https://github.com/kubedb/pg-coordinator/commit/5adb304) Use klog/v2 (#19)
+- [a9b3f16](https://github.com/kubedb/pg-coordinator/commit/a9b3f16) Use klog/v2
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.19.0](https://github.com/kubedb/postgres/releases/tag/v0.19.0)

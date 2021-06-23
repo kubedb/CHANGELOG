@@ -1,11 +1,57 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.23",
-  "release_date": "2021-06-23T10:30:13.238230948Z",
+  "release_date": "2021-06-23T10:35:06.804130417Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "93e27c4",
+              "Subject": "Prepare for release v0.4.0 (#27)"
+            },
+            {
+              "SHA": "e7e6c98",
+              "Subject": "Disable api priority and fairness feature for webhook server (#26)"
+            },
+            {
+              "SHA": "fe37e94",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#25)"
+            },
+            {
+              "SHA": "f81237c",
+              "Subject": "Update audit lib (#24)"
+            },
+            {
+              "SHA": "ed8c87b",
+              "Subject": "Send audit events if analytics enabled"
+            },
+            {
+              "SHA": "c0a03d5",
+              "Subject": "Create auditor if license file is provided (#23)"
+            },
+            {
+              "SHA": "2775227",
+              "Subject": "Publish audit events (#22)"
+            },
+            {
+              "SHA": "636d3a7",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "6a64bb1",
+              "Subject": "Use k8s 1.21.0 toolchain (#21)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode/kubedb-enterprise",
       "releases": [

@@ -1,6 +1,22 @@
 # KubeDB v2021.06.23 (2021-06-23)
 
 
+## [appscode/kubedb-autoscaler](https://github.com/appscode/kubedb-autoscaler)
+
+### [v0.4.0](https://github.com/appscode/kubedb-autoscaler/releases/tag/v0.4.0)
+
+- [93e27c4](https://github.com/appscode/kubedb-autoscaler/commit/93e27c4) Prepare for release v0.4.0 (#27)
+- [e7e6c98](https://github.com/appscode/kubedb-autoscaler/commit/e7e6c98) Disable api priority and fairness feature for webhook server (#26)
+- [fe37e94](https://github.com/appscode/kubedb-autoscaler/commit/fe37e94) Prepare for release v0.4.0-rc.0 (#25)
+- [f81237c](https://github.com/appscode/kubedb-autoscaler/commit/f81237c) Update audit lib (#24)
+- [ed8c87b](https://github.com/appscode/kubedb-autoscaler/commit/ed8c87b) Send audit events if analytics enabled
+- [c0a03d5](https://github.com/appscode/kubedb-autoscaler/commit/c0a03d5) Create auditor if license file is provided (#23)
+- [2775227](https://github.com/appscode/kubedb-autoscaler/commit/2775227) Publish audit events (#22)
+- [636d3a7](https://github.com/appscode/kubedb-autoscaler/commit/636d3a7) Use kglog helper
+- [6a64bb1](https://github.com/appscode/kubedb-autoscaler/commit/6a64bb1) Use k8s 1.21.0 toolchain (#21)
+
+
+
 ## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
 
 ### [v0.6.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.6.0)

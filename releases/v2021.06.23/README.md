@@ -93,6 +93,24 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.6.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.6.0)
+
+- [c1af00f](https://github.com/kubedb/replication-mode-detector/commit/c1af00f) Prepare for release v0.6.0 (#144)
+- [1382382](https://github.com/kubedb/replication-mode-detector/commit/1382382) Prepare for release v0.6.0-rc.0 (#143)
+- [feba070](https://github.com/kubedb/replication-mode-detector/commit/feba070) Remove glog dependency
+- [fd757b4](https://github.com/kubedb/replication-mode-detector/commit/fd757b4) Use kglog helper
+- [8ba20a3](https://github.com/kubedb/replication-mode-detector/commit/8ba20a3) Update repository config (#142)
+- [eece885](https://github.com/kubedb/replication-mode-detector/commit/eece885) Use klog/v2
+- [e30c050](https://github.com/kubedb/replication-mode-detector/commit/e30c050) Use Kubernetes v1.21.0 toolchain (#140)
+- [8e7b7c2](https://github.com/kubedb/replication-mode-detector/commit/8e7b7c2) Use Kubernetes v1.21.0 toolchain (#139)
+- [6bceb2f](https://github.com/kubedb/replication-mode-detector/commit/6bceb2f) Use Kubernetes v1.21.0 toolchain (#138)
+- [0fe720e](https://github.com/kubedb/replication-mode-detector/commit/0fe720e) Use Kubernetes v1.21.0 toolchain (#137)
+- [8c54b2a](https://github.com/kubedb/replication-mode-detector/commit/8c54b2a) Update Kubernetes toolchain to v1.21.0 (#136)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.4.0](https://github.com/kubedb/tests/releases/tag/v0.4.0)

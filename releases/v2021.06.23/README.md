@@ -53,6 +53,26 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.3.0](https://github.com/kubedb/mariadb/releases/tag/v0.3.0)
+
+- [189cc352](https://github.com/kubedb/mariadb/commit/189cc352) Prepare for release v0.3.0 (#78)
+- [9b982f74](https://github.com/kubedb/mariadb/commit/9b982f74) Prepare for release v0.3.0-rc.0 (#77)
+- [0ad0022c](https://github.com/kubedb/mariadb/commit/0ad0022c) Update audit lib (#75)
+- [501a2e61](https://github.com/kubedb/mariadb/commit/501a2e61) Update custom config mount path for MariaDB Cluster (#59)
+- [d00cf65b](https://github.com/kubedb/mariadb/commit/d00cf65b) Separate Reconcile functionality in a new function ReconcileNode (#68)
+- [e9239d4f](https://github.com/kubedb/mariadb/commit/e9239d4f) Limit Go routines in Health Checker (#73)
+- [d695adf1](https://github.com/kubedb/mariadb/commit/d695adf1) Send audit events if analytics enabled (#74)
+- [070a0f79](https://github.com/kubedb/mariadb/commit/070a0f79) Create auditor if license file is provided (#72)
+- [fc9046c3](https://github.com/kubedb/mariadb/commit/fc9046c3) Publish audit events (#71)
+- [3a1f08a9](https://github.com/kubedb/mariadb/commit/3a1f08a9) Fix log level issue with klog for MariaDB (#70)
+- [b6075e5d](https://github.com/kubedb/mariadb/commit/b6075e5d) Use kglog helper
+- [f510e375](https://github.com/kubedb/mariadb/commit/f510e375) Use klog/v2
+- [c009905e](https://github.com/kubedb/mariadb/commit/c009905e) Update Kubernetes toolchain to v1.21.0 (#66)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.4.0](https://github.com/kubedb/tests/releases/tag/v0.4.0)

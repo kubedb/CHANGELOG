@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.23",
-  "release_date": "2021-06-23T09:22:06.074254393Z",
+  "release_date": "2021-06-23T09:34:23.370870659Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
@@ -475,6 +475,52 @@
             {
               "SHA": "80581df4",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "cd2b14ca",
+              "Subject": "Prepare for release v0.19.0 (#409)"
+            },
+            {
+              "SHA": "e48d8929",
+              "Subject": "Disable api priority and fairness feature for webhook server (#408)"
+            },
+            {
+              "SHA": "08daa22a",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#407)"
+            },
+            {
+              "SHA": "203ffa38",
+              "Subject": "Update audit lib (#406)"
+            },
+            {
+              "SHA": "704a774f",
+              "Subject": "Send audit events if analytics enabled (#405)"
+            },
+            {
+              "SHA": "7e8f1be0",
+              "Subject": "Stop using gomodules.xyz/version"
+            },
+            {
+              "SHA": "49d7d7f2",
+              "Subject": "Publish audit events (#404)"
+            },
+            {
+              "SHA": "820d7372",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "396ae75f",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#403)"
             }
           ]
         }

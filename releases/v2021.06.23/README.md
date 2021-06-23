@@ -151,6 +151,22 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.19.0](https://github.com/kubedb/operator/releases/tag/v0.19.0)
+
+- [cd2b14ca](https://github.com/kubedb/operator/commit/cd2b14ca) Prepare for release v0.19.0 (#409)
+- [e48d8929](https://github.com/kubedb/operator/commit/e48d8929) Disable api priority and fairness feature for webhook server (#408)
+- [08daa22a](https://github.com/kubedb/operator/commit/08daa22a) Prepare for release v0.19.0-rc.0 (#407)
+- [203ffa38](https://github.com/kubedb/operator/commit/203ffa38) Update audit lib (#406)
+- [704a774f](https://github.com/kubedb/operator/commit/704a774f) Send audit events if analytics enabled (#405)
+- [7e8f1be0](https://github.com/kubedb/operator/commit/7e8f1be0) Stop using gomodules.xyz/version
+- [49d7d7f2](https://github.com/kubedb/operator/commit/49d7d7f2) Publish audit events (#404)
+- [820d7372](https://github.com/kubedb/operator/commit/820d7372) Use kglog helper
+- [396ae75f](https://github.com/kubedb/operator/commit/396ae75f) Update Kubernetes toolchain to v1.21.0 (#403)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.6.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.6.0)

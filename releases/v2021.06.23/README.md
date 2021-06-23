@@ -132,6 +132,23 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.6.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.6.0)
+
+- [318d259d](https://github.com/kubedb/percona-xtradb/commit/318d259d) Prepare for release v0.6.0 (#203)
+- [181a7d71](https://github.com/kubedb/percona-xtradb/commit/181a7d71) Disable api priority and fairness feature for webhook server (#202)
+- [870e08df](https://github.com/kubedb/percona-xtradb/commit/870e08df) Prepare for release v0.6.0-rc.0 (#201)
+- [f163f637](https://github.com/kubedb/percona-xtradb/commit/f163f637) Update audit lib (#200)
+- [c42c3401](https://github.com/kubedb/percona-xtradb/commit/c42c3401) Send audit events if analytics enabled (#199)
+- [e2ce3664](https://github.com/kubedb/percona-xtradb/commit/e2ce3664) Create auditor if license file is provided (#198)
+- [3e85edb2](https://github.com/kubedb/percona-xtradb/commit/3e85edb2) Publish audit events (#197)
+- [6f23031c](https://github.com/kubedb/percona-xtradb/commit/6f23031c) Use kglog helper
+- [cc0e270a](https://github.com/kubedb/percona-xtradb/commit/cc0e270a) Use klog/v2
+- [a44e3347](https://github.com/kubedb/percona-xtradb/commit/a44e3347) Update Kubernetes toolchain to v1.21.0 (#195)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.19.0](https://github.com/kubedb/postgres/releases/tag/v0.19.0)

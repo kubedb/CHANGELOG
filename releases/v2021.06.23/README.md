@@ -73,6 +73,26 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.12.0](https://github.com/kubedb/mongodb/releases/tag/v0.12.0)
+
+- [06b04a8c](https://github.com/kubedb/mongodb/commit/06b04a8c) Prepare for release v0.12.0 (#402)
+- [ae4e0cd1](https://github.com/kubedb/mongodb/commit/ae4e0cd1) Fix mongodb exporter error (#401)
+- [11eb6ee8](https://github.com/kubedb/mongodb/commit/11eb6ee8) Prepare for release v0.12.0-rc.0 (#400)
+- [dbf5cd16](https://github.com/kubedb/mongodb/commit/dbf5cd16) Update audit lib (#399)
+- [a55bf1d5](https://github.com/kubedb/mongodb/commit/a55bf1d5) Limit go routine in health check (#394)
+- [0a61c733](https://github.com/kubedb/mongodb/commit/0a61c733) Update TLS args for Exporter (#395)
+- [80d3fec2](https://github.com/kubedb/mongodb/commit/80d3fec2) Send audit events if analytics enabled (#398)
+- [8ac51d7e](https://github.com/kubedb/mongodb/commit/8ac51d7e) Create auditor if license file is provided (#397)
+- [c6c4b380](https://github.com/kubedb/mongodb/commit/c6c4b380) Publish audit events (#396)
+- [e261937a](https://github.com/kubedb/mongodb/commit/e261937a) Fix log level issue with klog (#393)
+- [426afbfc](https://github.com/kubedb/mongodb/commit/426afbfc) Use kglog helper
+- [24b7976c](https://github.com/kubedb/mongodb/commit/24b7976c) Use klog/v2
+- [0ace005d](https://github.com/kubedb/mongodb/commit/0ace005d) Update Kubernetes toolchain to v1.21.0 (#391)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.4.0](https://github.com/kubedb/tests/releases/tag/v0.4.0)

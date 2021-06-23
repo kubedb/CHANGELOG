@@ -73,6 +73,22 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.12.0](https://github.com/kubedb/memcached/releases/tag/v0.12.0)
+
+- [9c2c58d7](https://github.com/kubedb/memcached/commit/9c2c58d7) Prepare for release v0.12.0 (#301)
+- [604d95db](https://github.com/kubedb/memcached/commit/604d95db) Disable api priority and fairness feature for webhook server (#300)
+- [99ab26b5](https://github.com/kubedb/memcached/commit/99ab26b5) Prepare for release v0.12.0-rc.0 (#299)
+- [213807d5](https://github.com/kubedb/memcached/commit/213807d5) Update audit lib (#298)
+- [29054b5b](https://github.com/kubedb/memcached/commit/29054b5b) Send audit events if analytics enabled (#297)
+- [a4888446](https://github.com/kubedb/memcached/commit/a4888446) Publish audit events (#296)
+- [236d6108](https://github.com/kubedb/memcached/commit/236d6108) Use kglog helper
+- [7ffe5c73](https://github.com/kubedb/memcached/commit/7ffe5c73) Use klog/v2
+- [fb34645b](https://github.com/kubedb/memcached/commit/fb34645b) Update Kubernetes toolchain to v1.21.0 (#294)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.12.0](https://github.com/kubedb/mongodb/releases/tag/v0.12.0)

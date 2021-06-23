@@ -53,6 +53,29 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.19.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.19.0)
+
+- [a38490f9](https://github.com/kubedb/elasticsearch/commit/a38490f9) Prepare for release v0.19.0 (#503)
+- [aed0fcb4](https://github.com/kubedb/elasticsearch/commit/aed0fcb4) Prepare for release v0.19.0-rc.0 (#502)
+- [630d6940](https://github.com/kubedb/elasticsearch/commit/630d6940) Update audit lib (#501)
+- [df4c9a0d](https://github.com/kubedb/elasticsearch/commit/df4c9a0d) Do not create user credentials when security is disabled (#500)
+- [3b656b57](https://github.com/kubedb/elasticsearch/commit/3b656b57) Add support for various node roles for ElasticStack (#499)
+- [64133cb6](https://github.com/kubedb/elasticsearch/commit/64133cb6) Send audit events if analytics enabled
+- [21caa38f](https://github.com/kubedb/elasticsearch/commit/21caa38f) Create auditor if license file is provided (#498)
+- [8319ba70](https://github.com/kubedb/elasticsearch/commit/8319ba70) Publish audit events (#497)
+- [5f08d1b2](https://github.com/kubedb/elasticsearch/commit/5f08d1b2) Skip health check for halted DB (#494)
+- [6a23d464](https://github.com/kubedb/elasticsearch/commit/6a23d464) Disable flow control if api is not enabled (#495)
+- [a23c5481](https://github.com/kubedb/elasticsearch/commit/a23c5481) Fix log level issue with klog (#496)
+- [38dbddda](https://github.com/kubedb/elasticsearch/commit/38dbddda) Limit health checker go-routine for specific DB object (#491)
+- [0aefd5f7](https://github.com/kubedb/elasticsearch/commit/0aefd5f7) Use kglog helper
+- [03255078](https://github.com/kubedb/elasticsearch/commit/03255078) Cleanup glog dependency
+- [57bb1bf1](https://github.com/kubedb/elasticsearch/commit/57bb1bf1) Update dependencies
+- [69fdfde7](https://github.com/kubedb/elasticsearch/commit/69fdfde7) Update Kubernetes toolchain to v1.21.0 (#492)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.3.0](https://github.com/kubedb/mariadb/releases/tag/v0.3.0)

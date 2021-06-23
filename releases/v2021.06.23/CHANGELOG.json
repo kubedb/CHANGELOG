@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.06.23",
-  "release_date": "2021-06-23T08:33:53.068924872Z",
+  "release_date": "2021-06-23T08:34:23.373095648Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
@@ -173,6 +173,80 @@
             {
               "SHA": "19b257f1",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#600)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "a38490f9",
+              "Subject": "Prepare for release v0.19.0 (#503)"
+            },
+            {
+              "SHA": "aed0fcb4",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#502)"
+            },
+            {
+              "SHA": "630d6940",
+              "Subject": "Update audit lib (#501)"
+            },
+            {
+              "SHA": "df4c9a0d",
+              "Subject": "Do not create user credentials when security is disabled (#500)"
+            },
+            {
+              "SHA": "3b656b57",
+              "Subject": "Add support for various node roles for ElasticStack (#499)"
+            },
+            {
+              "SHA": "64133cb6",
+              "Subject": "Send audit events if analytics enabled"
+            },
+            {
+              "SHA": "21caa38f",
+              "Subject": "Create auditor if license file is provided (#498)"
+            },
+            {
+              "SHA": "8319ba70",
+              "Subject": "Publish audit events (#497)"
+            },
+            {
+              "SHA": "5f08d1b2",
+              "Subject": "Skip health check for halted DB (#494)"
+            },
+            {
+              "SHA": "6a23d464",
+              "Subject": "Disable flow control if api is not enabled (#495)"
+            },
+            {
+              "SHA": "a23c5481",
+              "Subject": "Fix log level issue with klog (#496)"
+            },
+            {
+              "SHA": "38dbddda",
+              "Subject": "Limit health checker go-routine for specific DB object (#491)"
+            },
+            {
+              "SHA": "0aefd5f7",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "03255078",
+              "Subject": "Cleanup glog dependency"
+            },
+            {
+              "SHA": "57bb1bf1",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "69fdfde7",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#492)"
             }
           ]
         }

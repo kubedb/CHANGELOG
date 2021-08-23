@@ -83,6 +83,20 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.20.0](https://github.com/kubedb/postgres/releases/tag/v0.20.0)
+
+- [d3eec559](https://github.com/kubedb/postgres/commit/d3eec559) Prepare for release v0.20.0 (#515)
+- [ea11e98d](https://github.com/kubedb/postgres/commit/ea11e98d) Restrict Community Edition to demo namespace (#514)
+- [d3d17bfc](https://github.com/kubedb/postgres/commit/d3d17bfc) Update repository config (#513)
+- [698c72b5](https://github.com/kubedb/postgres/commit/698c72b5) Update repository config (#512)
+- [4bd33547](https://github.com/kubedb/postgres/commit/4bd33547) Update dependencies (#511)
+- [39f294df](https://github.com/kubedb/postgres/commit/39f294df) Stop using api versions deprecated in k8s 1.22
+- [6cb08c0f](https://github.com/kubedb/postgres/commit/6cb08c0f) Fix Continuous Statefulset Patching (#510)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.7.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.7.0)

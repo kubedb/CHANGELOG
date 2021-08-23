@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T10:42:11.331071282Z",
+  "release_date": "2021-08-23T10:42:53.163706075Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -239,6 +239,44 @@
             {
               "SHA": "1a0aa385",
               "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "d3eec559",
+              "Subject": "Prepare for release v0.20.0 (#515)"
+            },
+            {
+              "SHA": "ea11e98d",
+              "Subject": "Restrict Community Edition to demo namespace (#514)"
+            },
+            {
+              "SHA": "d3d17bfc",
+              "Subject": "Update repository config (#513)"
+            },
+            {
+              "SHA": "698c72b5",
+              "Subject": "Update repository config (#512)"
+            },
+            {
+              "SHA": "4bd33547",
+              "Subject": "Update dependencies (#511)"
+            },
+            {
+              "SHA": "39f294df",
+              "Subject": "Stop using api versions deprecated in k8s 1.22"
+            },
+            {
+              "SHA": "6cb08c0f",
+              "Subject": "Fix Continuous Statefulset Patching (#510)"
             }
           ]
         }

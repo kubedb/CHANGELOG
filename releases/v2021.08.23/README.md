@@ -43,3 +43,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.7.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.7.0)
+
+- [0bcb7e8c](https://github.com/kubedb/percona-xtradb/commit/0bcb7e8c) Prepare for release v0.7.0 (#208)
+- [5c94a9b0](https://github.com/kubedb/percona-xtradb/commit/5c94a9b0) Restrict Community Edition to demo namespace (#207)
+- [bd6740df](https://github.com/kubedb/percona-xtradb/commit/bd6740df) Update repository config (#206)
+- [67fcc570](https://github.com/kubedb/percona-xtradb/commit/67fcc570) Update repository config (#205)
+- [2dfcfd3f](https://github.com/kubedb/percona-xtradb/commit/2dfcfd3f) Update dependencies (#204)
+- [1a0aa385](https://github.com/kubedb/percona-xtradb/commit/1a0aa385) Stop using api versions removed in k8s 1.22
+
+
+

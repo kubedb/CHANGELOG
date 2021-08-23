@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T10:38:54.892545173Z",
+  "release_date": "2021-08-23T10:40:45.194539633Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -133,6 +133,40 @@
             {
               "SHA": "2fcf8e6d",
               "Subject": "Stop using deprecated api kinds in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "0bcb7e8c",
+              "Subject": "Prepare for release v0.7.0 (#208)"
+            },
+            {
+              "SHA": "5c94a9b0",
+              "Subject": "Restrict Community Edition to demo namespace (#207)"
+            },
+            {
+              "SHA": "bd6740df",
+              "Subject": "Update repository config (#206)"
+            },
+            {
+              "SHA": "67fcc570",
+              "Subject": "Update repository config (#205)"
+            },
+            {
+              "SHA": "2dfcfd3f",
+              "Subject": "Update dependencies (#204)"
+            },
+            {
+              "SHA": "1a0aa385",
+              "Subject": "Stop using api versions removed in k8s 1.22"
             }
           ]
         }

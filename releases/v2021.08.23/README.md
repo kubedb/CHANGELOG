@@ -114,6 +114,22 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.20.0](https://github.com/kubedb/operator/releases/tag/v0.20.0)
+
+- [c24b636e](https://github.com/kubedb/operator/commit/c24b636e) Prepare for release v0.20.0 (#416)
+- [7f8b0526](https://github.com/kubedb/operator/commit/7f8b0526) Restrict Community Edition to demo namespace (#415)
+- [a6759d58](https://github.com/kubedb/operator/commit/a6759d58) Remove FOSSA link
+- [cc01486f](https://github.com/kubedb/operator/commit/cc01486f) Update repository config (#414)
+- [042f8feb](https://github.com/kubedb/operator/commit/042f8feb) Update repository config (#413)
+- [2a803113](https://github.com/kubedb/operator/commit/2a803113) Update dependencies (#412)
+- [bf047c47](https://github.com/kubedb/operator/commit/bf047c47) Remove dependency on github.com/satori/go.uuid (#411)
+- [614b930a](https://github.com/kubedb/operator/commit/614b930a) Remove repetitive 403 errors from validator and mutators
+- [03d053e7](https://github.com/kubedb/operator/commit/03d053e7) Stop using api versions removed in k8s 1.22
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.7.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.7.0)

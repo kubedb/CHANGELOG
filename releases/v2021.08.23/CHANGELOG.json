@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T11:02:16.320214573Z",
+  "release_date": "2021-08-23T11:16:39.0013796Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -327,6 +327,52 @@
             {
               "SHA": "99bcc275",
               "Subject": "Stop using api kinds removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "c24b636e",
+              "Subject": "Prepare for release v0.20.0 (#416)"
+            },
+            {
+              "SHA": "7f8b0526",
+              "Subject": "Restrict Community Edition to demo namespace (#415)"
+            },
+            {
+              "SHA": "a6759d58",
+              "Subject": "Remove FOSSA link"
+            },
+            {
+              "SHA": "cc01486f",
+              "Subject": "Update repository config (#414)"
+            },
+            {
+              "SHA": "042f8feb",
+              "Subject": "Update repository config (#413)"
+            },
+            {
+              "SHA": "2a803113",
+              "Subject": "Update dependencies (#412)"
+            },
+            {
+              "SHA": "bf047c47",
+              "Subject": "Remove dependency on github.com/satori/go.uuid (#411)"
+            },
+            {
+              "SHA": "614b930a",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "03d053e7",
+              "Subject": "Stop using api versions removed in k8s 1.22"
             }
           ]
         }

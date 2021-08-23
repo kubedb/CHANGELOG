@@ -167,6 +167,20 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.7.0](https://github.com/kubedb/proxysql/releases/tag/v0.7.0)
+
+- [8e3d6afb](https://github.com/kubedb/proxysql/commit/8e3d6afb) Prepare for release v0.7.0 (#187)
+- [8c569877](https://github.com/kubedb/proxysql/commit/8c569877) Restrict Community Edition to demo namespace (#186)
+- [4510a5e2](https://github.com/kubedb/proxysql/commit/4510a5e2) Restrict Community Edition to demo namespace (#185)
+- [967480a1](https://github.com/kubedb/proxysql/commit/967480a1) Update repository config (#184)
+- [9fd454dc](https://github.com/kubedb/proxysql/commit/9fd454dc) Update repository config (#183)
+- [2c2dbba7](https://github.com/kubedb/proxysql/commit/2c2dbba7) Update dependencies (#182)
+- [44f352d0](https://github.com/kubedb/proxysql/commit/44f352d0) Stop using api versions removed in k8s 1.22
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.13.0](https://github.com/kubedb/redis/releases/tag/v0.13.0)

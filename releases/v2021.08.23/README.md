@@ -72,6 +72,24 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.08.23](https://github.com/kubedb/docs/releases/tag/v2021.08.23)
+
+- [46a5d62](https://github.com/kubedb/docs/commit/46a5d62) Prepare for release v2021.08.23 (#153)
+- [7a7f70b](https://github.com/kubedb/docs/commit/7a7f70b) Fix docs
+- [36815e3](https://github.com/kubedb/docs/commit/36815e3) Add example for configuring Elasticsearch jvm.options (#143)
+- [c78b691](https://github.com/kubedb/docs/commit/c78b691) Update repository config (#148)
+- [3c4815e](https://github.com/kubedb/docs/commit/3c4815e) Use demo namespace for examples (#147)
+- [2f094a3](https://github.com/kubedb/docs/commit/2f094a3) Make upgrade instructions dynamic
+- [4e92ac5](https://github.com/kubedb/docs/commit/4e92ac5) Remove helm 2 instructions
+- [bf92ee2](https://github.com/kubedb/docs/commit/bf92ee2) Preselect kubedb version in license issuer site (#146)
+- [2c05c7c](https://github.com/kubedb/docs/commit/2c05c7c) Update preview-website.yml
+- [cf03499](https://github.com/kubedb/docs/commit/cf03499) Fix preview (#145)
+- [6a1b405](https://github.com/kubedb/docs/commit/6a1b405) Update repository config (#144)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.20.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.20.0)

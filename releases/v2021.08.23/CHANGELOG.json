@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T11:56:23.99151968Z",
+  "release_date": "2021-08-23T12:14:30.858202377Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -213,6 +213,60 @@
             {
               "SHA": "2fcf8e6d",
               "Subject": "Stop using deprecated api kinds in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.08.23",
+          "commits": [
+            {
+              "SHA": "46a5d62",
+              "Subject": "Prepare for release v2021.08.23 (#153)"
+            },
+            {
+              "SHA": "7a7f70b",
+              "Subject": "Fix docs"
+            },
+            {
+              "SHA": "36815e3",
+              "Subject": "Add example for configuring Elasticsearch jvm.options (#143)"
+            },
+            {
+              "SHA": "c78b691",
+              "Subject": "Update repository config (#148)"
+            },
+            {
+              "SHA": "3c4815e",
+              "Subject": "Use demo namespace for examples (#147)"
+            },
+            {
+              "SHA": "2f094a3",
+              "Subject": "Make upgrade instructions dynamic"
+            },
+            {
+              "SHA": "4e92ac5",
+              "Subject": "Remove helm 2 instructions"
+            },
+            {
+              "SHA": "bf92ee2",
+              "Subject": "Preselect kubedb version in license issuer site (#146)"
+            },
+            {
+              "SHA": "2c05c7c",
+              "Subject": "Update preview-website.yml"
+            },
+            {
+              "SHA": "cf03499",
+              "Subject": "Fix preview (#145)"
+            },
+            {
+              "SHA": "6a1b405",
+              "Subject": "Update repository config (#144)"
             }
           ]
         }

@@ -43,6 +43,22 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.20.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.20.0)
+
+- [0568ed61](https://github.com/kubedb/elasticsearch/commit/0568ed61) Prepare for release v0.20.0 (#511)
+- [da28bf06](https://github.com/kubedb/elasticsearch/commit/da28bf06) Add support for Hot-Warm Clustering for OpenDistro of Elasticsearch (#506)
+- [5859b723](https://github.com/kubedb/elasticsearch/commit/5859b723) Add support for secure settings (#509)
+- [e9478903](https://github.com/kubedb/elasticsearch/commit/e9478903) Restrict Community Edition to demo namespace (#510)
+- [7e8d91c5](https://github.com/kubedb/elasticsearch/commit/7e8d91c5) Update repository config (#508)
+- [dc5d7fed](https://github.com/kubedb/elasticsearch/commit/dc5d7fed) Update dependencies (#507)
+- [f472c1ea](https://github.com/kubedb/elasticsearch/commit/f472c1ea) Stop using deprecated api kinds in k8s 1.22
+- [ee479fa6](https://github.com/kubedb/elasticsearch/commit/ee479fa6) Only points to the ingest nodes from stats service (#505)
+- [6b576eb9](https://github.com/kubedb/elasticsearch/commit/6b576eb9) Fix repetitive patch-ing (#504)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.4.0](https://github.com/kubedb/mariadb/releases/tag/v0.4.0)

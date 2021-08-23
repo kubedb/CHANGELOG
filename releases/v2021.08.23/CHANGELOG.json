@@ -1,11 +1,57 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T11:16:39.0013796Z",
+  "release_date": "2021-08-23T11:33:33.105203625Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "fdb9dbbd",
+              "Subject": "Prepare for release v0.7.0 (#211)"
+            },
+            {
+              "SHA": "6d6bcdba",
+              "Subject": "Fix MongoDB log verbosity (#208)"
+            },
+            {
+              "SHA": "b9924447",
+              "Subject": "Add Auth Secret support in Redis (#210)"
+            },
+            {
+              "SHA": "28876f9e",
+              "Subject": "Restrict Community Edition to demo namespace (#209)"
+            },
+            {
+              "SHA": "ccdca5bb",
+              "Subject": "Update repository config (#206)"
+            },
+            {
+              "SHA": "bea1f2b4",
+              "Subject": "Update dependencies (#205)"
+            },
+            {
+              "SHA": "f1dc4980",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "e6e56cf4",
+              "Subject": "Remove Panic for Redis (#204)"
+            },
+            {
+              "SHA": "2b0fd429",
+              "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

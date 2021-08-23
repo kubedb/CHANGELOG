@@ -1,6 +1,22 @@
 # KubeDB v2021.08.23 (2021-08-23)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.7.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.7.0)
+
+- [fdb9dbbd](https://github.com/appscode/kubedb-enterprise/commit/fdb9dbbd) Prepare for release v0.7.0 (#211)
+- [6d6bcdba](https://github.com/appscode/kubedb-enterprise/commit/6d6bcdba) Fix MongoDB log verbosity (#208)
+- [b9924447](https://github.com/appscode/kubedb-enterprise/commit/b9924447) Add Auth Secret support in Redis (#210)
+- [28876f9e](https://github.com/appscode/kubedb-enterprise/commit/28876f9e) Restrict Community Edition to demo namespace (#209)
+- [ccdca5bb](https://github.com/appscode/kubedb-enterprise/commit/ccdca5bb) Update repository config (#206)
+- [bea1f2b4](https://github.com/appscode/kubedb-enterprise/commit/bea1f2b4) Update dependencies (#205)
+- [f1dc4980](https://github.com/appscode/kubedb-enterprise/commit/f1dc4980) Remove repetitive 403 errors from validator and mutators
+- [e6e56cf4](https://github.com/appscode/kubedb-enterprise/commit/e6e56cf4) Remove Panic for Redis (#204)
+- [2b0fd429](https://github.com/appscode/kubedb-enterprise/commit/2b0fd429) Stop using api versions removed in k8s 1.22
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.20.0](https://github.com/kubedb/apimachinery/releases/tag/v0.20.0)

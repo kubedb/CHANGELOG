@@ -43,6 +43,20 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.4.0](https://github.com/kubedb/mariadb/releases/tag/v0.4.0)
+
+- [55924eb9](https://github.com/kubedb/mariadb/commit/55924eb9) Prepare for release v0.4.0 (#85)
+- [355da6ee](https://github.com/kubedb/mariadb/commit/355da6ee) Restrict Community Edition to demo namespace (#84)
+- [b284cde6](https://github.com/kubedb/mariadb/commit/b284cde6) Update repository config (#83)
+- [8d25306b](https://github.com/kubedb/mariadb/commit/8d25306b) Update repository config (#82)
+- [c7c999a0](https://github.com/kubedb/mariadb/commit/c7c999a0) Update dependencies (#81)
+- [7ac44469](https://github.com/kubedb/mariadb/commit/7ac44469) Fix repetitive patch issue in MariaDB (#79)
+- [24fe8f76](https://github.com/kubedb/mariadb/commit/24fe8f76) Stop using deprecated api kinds in k8s 1.22
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.13.0](https://github.com/kubedb/memcached/releases/tag/v0.13.0)

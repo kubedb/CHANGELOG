@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T10:50:26.310252961Z",
+  "release_date": "2021-08-23T11:01:51.615269069Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -395,6 +395,40 @@
             {
               "SHA": "71cfe14",
               "Subject": "Update dependencies (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "94075616",
+              "Subject": "Prepare for release v0.7.0 (#168)"
+            },
+            {
+              "SHA": "38e7bbef",
+              "Subject": "Restrict Community Edition to demo namespace (#167)"
+            },
+            {
+              "SHA": "5ba4e255",
+              "Subject": "Update repository config (#166)"
+            },
+            {
+              "SHA": "f73bf32e",
+              "Subject": "Update repository config (#165)"
+            },
+            {
+              "SHA": "70b6363b",
+              "Subject": "Update dependencies (#164)"
+            },
+            {
+              "SHA": "e452aef3",
+              "Subject": "Stop using api versions removed in k8s 1.22"
             }
           ]
         }

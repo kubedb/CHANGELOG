@@ -140,6 +140,19 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.7.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.7.0)
+
+- [94075616](https://github.com/kubedb/pgbouncer/commit/94075616) Prepare for release v0.7.0 (#168)
+- [38e7bbef](https://github.com/kubedb/pgbouncer/commit/38e7bbef) Restrict Community Edition to demo namespace (#167)
+- [5ba4e255](https://github.com/kubedb/pgbouncer/commit/5ba4e255) Update repository config (#166)
+- [f73bf32e](https://github.com/kubedb/pgbouncer/commit/f73bf32e) Update repository config (#165)
+- [70b6363b](https://github.com/kubedb/pgbouncer/commit/70b6363b) Update dependencies (#164)
+- [e452aef3](https://github.com/kubedb/pgbouncer/commit/e452aef3) Stop using api versions removed in k8s 1.22
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.20.0](https://github.com/kubedb/postgres/releases/tag/v0.20.0)

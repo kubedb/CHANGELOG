@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T11:45:34.057627573Z",
+  "release_date": "2021-08-23T11:56:23.99151968Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -259,6 +259,140 @@
             {
               "SHA": "6b576eb9",
               "Subject": "Fix repetitive patch-ing (#504)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.08.23",
+          "commits": [
+            {
+              "SHA": "2a48613",
+              "Subject": "Prepare for release v2021.08.23 (#345)"
+            },
+            {
+              "SHA": "e2feb7c",
+              "Subject": "Add support for Elasticsearch v7.14.0 and pre-build images with snapshot plugins (#344)"
+            },
+            {
+              "SHA": "e62be83",
+              "Subject": "Use mongodb official images (#343)"
+            },
+            {
+              "SHA": "aaf9f13",
+              "Subject": "Update dependencies (#341)"
+            },
+            {
+              "SHA": "f852ebc",
+              "Subject": "Update dependencies (#340)"
+            },
+            {
+              "SHA": "799620d",
+              "Subject": "Fix metrics for resource calculation (#338)"
+            },
+            {
+              "SHA": "2aa7aba",
+              "Subject": "Move metrics to its own chart (#337)"
+            },
+            {
+              "SHA": "62e359d",
+              "Subject": "Update MongoDB resource metrics (#336)"
+            },
+            {
+              "SHA": "575332d",
+              "Subject": "Add redis cluster metrics (#333)"
+            },
+            {
+              "SHA": "d339405",
+              "Subject": "Update repository config (#335)"
+            },
+            {
+              "SHA": "13a4438",
+              "Subject": "Update repository config (#334)"
+            },
+            {
+              "SHA": "4b25281",
+              "Subject": "Update repository config (#332)"
+            },
+            {
+              "SHA": "2225d30",
+              "Subject": "Update dependencies (#331)"
+            },
+            {
+              "SHA": "5aaf750",
+              "Subject": "Update function names in metrics configuration"
+            },
+            {
+              "SHA": "d64a4e4",
+              "Subject": "Add metrics config for redis (#326)"
+            },
+            {
+              "SHA": "9268c0f",
+              "Subject": "Rename functions in metrics configuration (#330)"
+            },
+            {
+              "SHA": "c4be2d2",
+              "Subject": "Add elasticsearch metrics configurations (#322)"
+            },
+            {
+              "SHA": "c313657",
+              "Subject": "Add MongoDB metrics configurations (#321)"
+            },
+            {
+              "SHA": "c8aa742",
+              "Subject": "Add metrics config for mysql (#325)"
+            },
+            {
+              "SHA": "2354cab",
+              "Subject": "Add MariaDB metrics configurations (#324)"
+            },
+            {
+              "SHA": "8e42490",
+              "Subject": "Add postgres metrics configurations (#323)"
+            },
+            {
+              "SHA": "fd2deb8",
+              "Subject": "Remove etcd from catalog (#329)"
+            },
+            {
+              "SHA": "344f45a",
+              "Subject": "Update Elasticsearch exporter images (#320)"
+            },
+            {
+              "SHA": "bc18aed",
+              "Subject": "Update chart docs"
+            },
+            {
+              "SHA": "d43e394",
+              "Subject": "Update kubedb chart dependencies via Makefile (#328)"
+            },
+            {
+              "SHA": "574fc22",
+              "Subject": "Stop using deprecated api kinds in 1.22 (#327)"
+            },
+            {
+              "SHA": "d957f4d",
+              "Subject": "Sort crd yamls by GK"
+            },
+            {
+              "SHA": "930bacf",
+              "Subject": "Merge metrics chart into crds"
+            },
+            {
+              "SHA": "c4b8659",
+              "Subject": "Pass image pull secrets to cleaner images (#319)"
+            },
+            {
+              "SHA": "5f391d8",
+              "Subject": "Rename user-roles.yaml to metrics-user-roles.yaml"
+            },
+            {
+              "SHA": "892e6da",
+              "Subject": "Add kubedb-metrics chart (#318)"
             }
           ]
         }

@@ -88,6 +88,44 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2021.08.23](https://github.com/kubedb/installer/releases/tag/v2021.08.23)
+
+- [2a48613](https://github.com/kubedb/installer/commit/2a48613) Prepare for release v2021.08.23 (#345)
+- [e2feb7c](https://github.com/kubedb/installer/commit/e2feb7c) Add support for Elasticsearch v7.14.0 and pre-build images with snapshot plugins (#344)
+- [e62be83](https://github.com/kubedb/installer/commit/e62be83) Use mongodb official images (#343)
+- [aaf9f13](https://github.com/kubedb/installer/commit/aaf9f13) Update dependencies (#341)
+- [f852ebc](https://github.com/kubedb/installer/commit/f852ebc) Update dependencies (#340)
+- [799620d](https://github.com/kubedb/installer/commit/799620d) Fix metrics for resource calculation (#338)
+- [2aa7aba](https://github.com/kubedb/installer/commit/2aa7aba) Move metrics to its own chart (#337)
+- [62e359d](https://github.com/kubedb/installer/commit/62e359d) Update MongoDB resource metrics (#336)
+- [575332d](https://github.com/kubedb/installer/commit/575332d) Add redis cluster metrics (#333)
+- [d339405](https://github.com/kubedb/installer/commit/d339405) Update repository config (#335)
+- [13a4438](https://github.com/kubedb/installer/commit/13a4438) Update repository config (#334)
+- [4b25281](https://github.com/kubedb/installer/commit/4b25281) Update repository config (#332)
+- [2225d30](https://github.com/kubedb/installer/commit/2225d30) Update dependencies (#331)
+- [5aaf750](https://github.com/kubedb/installer/commit/5aaf750) Update function names in metrics configuration
+- [d64a4e4](https://github.com/kubedb/installer/commit/d64a4e4) Add metrics config for redis (#326)
+- [9268c0f](https://github.com/kubedb/installer/commit/9268c0f) Rename functions in metrics configuration (#330)
+- [c4be2d2](https://github.com/kubedb/installer/commit/c4be2d2) Add elasticsearch metrics configurations (#322)
+- [c313657](https://github.com/kubedb/installer/commit/c313657) Add MongoDB metrics configurations (#321)
+- [c8aa742](https://github.com/kubedb/installer/commit/c8aa742) Add metrics config for mysql (#325)
+- [2354cab](https://github.com/kubedb/installer/commit/2354cab) Add MariaDB metrics configurations (#324)
+- [8e42490](https://github.com/kubedb/installer/commit/8e42490) Add postgres metrics configurations (#323)
+- [fd2deb8](https://github.com/kubedb/installer/commit/fd2deb8) Remove etcd from catalog (#329)
+- [344f45a](https://github.com/kubedb/installer/commit/344f45a) Update Elasticsearch exporter images (#320)
+- [bc18aed](https://github.com/kubedb/installer/commit/bc18aed) Update chart docs
+- [d43e394](https://github.com/kubedb/installer/commit/d43e394) Update kubedb chart dependencies via Makefile (#328)
+- [574fc22](https://github.com/kubedb/installer/commit/574fc22) Stop using deprecated api kinds in 1.22 (#327)
+- [d957f4d](https://github.com/kubedb/installer/commit/d957f4d) Sort crd yamls by GK
+- [930bacf](https://github.com/kubedb/installer/commit/930bacf) Merge metrics chart into crds
+- [c4b8659](https://github.com/kubedb/installer/commit/c4b8659) Pass image pull secrets to cleaner images (#319)
+- [5f391d8](https://github.com/kubedb/installer/commit/5f391d8) Rename user-roles.yaml to metrics-user-roles.yaml
+- [892e6da](https://github.com/kubedb/installer/commit/892e6da) Add kubedb-metrics chart (#318)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.4.0](https://github.com/kubedb/mariadb/releases/tag/v0.4.0)

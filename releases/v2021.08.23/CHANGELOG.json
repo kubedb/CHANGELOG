@@ -1,0 +1,984 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.08.23",
+  "release_date": "2021-08-23T12:23:56.596544574Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.08.23",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "7cc44de",
+              "Subject": "Prepare for release v0.5.0 (#31)"
+            },
+            {
+              "SHA": "4df9212",
+              "Subject": "Restrict Community Edition to demo namespace (#30)"
+            },
+            {
+              "SHA": "02afaf3",
+              "Subject": "Update repository config (#29)"
+            },
+            {
+              "SHA": "9cdb19f",
+              "Subject": "Update dependencies (#28)"
+            },
+            {
+              "SHA": "faa4b65",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "17f9798",
+              "Subject": "Stop using deprecated api kind in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "fdb9dbbd",
+              "Subject": "Prepare for release v0.7.0 (#211)"
+            },
+            {
+              "SHA": "6d6bcdba",
+              "Subject": "Fix MongoDB log verbosity (#208)"
+            },
+            {
+              "SHA": "b9924447",
+              "Subject": "Add Auth Secret support in Redis (#210)"
+            },
+            {
+              "SHA": "28876f9e",
+              "Subject": "Restrict Community Edition to demo namespace (#209)"
+            },
+            {
+              "SHA": "ccdca5bb",
+              "Subject": "Update repository config (#206)"
+            },
+            {
+              "SHA": "bea1f2b4",
+              "Subject": "Update dependencies (#205)"
+            },
+            {
+              "SHA": "f1dc4980",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "e6e56cf4",
+              "Subject": "Remove Panic for Redis (#204)"
+            },
+            {
+              "SHA": "2b0fd429",
+              "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "c8377128",
+              "Subject": "Add constant for Redis (#783)"
+            },
+            {
+              "SHA": "86bf3060",
+              "Subject": "Remove Auth secret after Deletion of Redis (#781)"
+            },
+            {
+              "SHA": "a982c412",
+              "Subject": "Add KubeDB distribution for Elasticsearch images (#782)"
+            },
+            {
+              "SHA": "a8eb885c",
+              "Subject": "Revert back to old structure"
+            },
+            {
+              "SHA": "a3581bc6",
+              "Subject": "Move secret and statefulset informer to Controller (#780)"
+            },
+            {
+              "SHA": "3327d4c1",
+              "Subject": "Remove WatchNamespace from Config"
+            },
+            {
+              "SHA": "5465bfd4",
+              "Subject": "Restrict watchers to a namespace (#779)"
+            },
+            {
+              "SHA": "d5e158ef",
+              "Subject": "Add support for Elasticsearch secure settings (#777)"
+            },
+            {
+              "SHA": "e6ff1fd6",
+              "Subject": "Update documentation for enableSSL field (#778)"
+            },
+            {
+              "SHA": "f011f893",
+              "Subject": "Update repository config (#776)"
+            },
+            {
+              "SHA": "ba3edad2",
+              "Subject": "Update repository config (#775)"
+            },
+            {
+              "SHA": "2c8e7ea7",
+              "Subject": "Test crds (#774)"
+            },
+            {
+              "SHA": "89c85a98",
+              "Subject": "Remove panic for Redis (#773)"
+            },
+            {
+              "SHA": "24bc990a",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "7fe9731b",
+              "Subject": "Only generate crd v1 yamls (#772)"
+            },
+            {
+              "SHA": "1ce46330",
+              "Subject": "Rename Opendistro for Elasticsearch performance analyzer port name (#770)"
+            },
+            {
+              "SHA": "1c1e6ef0",
+              "Subject": "Allow customizing resource settings for pg coordinator container (#771)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.08.23",
+          "commits": [
+            {
+              "SHA": "279520c",
+              "Subject": "Prepare for release v2021.08.23 (#32)"
+            },
+            {
+              "SHA": "a9fbefa",
+              "Subject": "Update repository config (#31)"
+            },
+            {
+              "SHA": "e4cc785",
+              "Subject": "Update repository config (#30)"
+            },
+            {
+              "SHA": "0f2a757",
+              "Subject": "Update repository config (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "d5f1dbd4",
+              "Subject": "Prepare for release v0.20.0 (#619)"
+            },
+            {
+              "SHA": "2e84e662",
+              "Subject": "Add `show-credentials` commands (#618)"
+            },
+            {
+              "SHA": "79ccacd2",
+              "Subject": "Add pause/resume support (#597)"
+            },
+            {
+              "SHA": "e1d6e1ef",
+              "Subject": "Add `restart` command (#599)"
+            },
+            {
+              "SHA": "3fa6c894",
+              "Subject": "Update dependencies (#617)"
+            },
+            {
+              "SHA": "998ec275",
+              "Subject": "Update dependencies (#616)"
+            },
+            {
+              "SHA": "231371de",
+              "Subject": "Update dependencies (#615)"
+            },
+            {
+              "SHA": "654dd914",
+              "Subject": "Update dependencies (#614)"
+            },
+            {
+              "SHA": "3e1f519a",
+              "Subject": "Update dependencies (#613)"
+            },
+            {
+              "SHA": "1a7cdbc7",
+              "Subject": "Update dependencies (#611)"
+            },
+            {
+              "SHA": "2fcf8e6d",
+              "Subject": "Stop using deprecated api kinds in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.08.23",
+          "commits": [
+            {
+              "SHA": "46a5d62",
+              "Subject": "Prepare for release v2021.08.23 (#153)"
+            },
+            {
+              "SHA": "7a7f70b",
+              "Subject": "Fix docs"
+            },
+            {
+              "SHA": "36815e3",
+              "Subject": "Add example for configuring Elasticsearch jvm.options (#143)"
+            },
+            {
+              "SHA": "c78b691",
+              "Subject": "Update repository config (#148)"
+            },
+            {
+              "SHA": "3c4815e",
+              "Subject": "Use demo namespace for examples (#147)"
+            },
+            {
+              "SHA": "2f094a3",
+              "Subject": "Make upgrade instructions dynamic"
+            },
+            {
+              "SHA": "4e92ac5",
+              "Subject": "Remove helm 2 instructions"
+            },
+            {
+              "SHA": "bf92ee2",
+              "Subject": "Preselect kubedb version in license issuer site (#146)"
+            },
+            {
+              "SHA": "2c05c7c",
+              "Subject": "Update preview-website.yml"
+            },
+            {
+              "SHA": "cf03499",
+              "Subject": "Fix preview (#145)"
+            },
+            {
+              "SHA": "6a1b405",
+              "Subject": "Update repository config (#144)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "0568ed61",
+              "Subject": "Prepare for release v0.20.0 (#511)"
+            },
+            {
+              "SHA": "da28bf06",
+              "Subject": "Add support for Hot-Warm Clustering for OpenDistro of Elasticsearch (#506)"
+            },
+            {
+              "SHA": "5859b723",
+              "Subject": "Add support for secure settings (#509)"
+            },
+            {
+              "SHA": "e9478903",
+              "Subject": "Restrict Community Edition to demo namespace (#510)"
+            },
+            {
+              "SHA": "7e8d91c5",
+              "Subject": "Update repository config (#508)"
+            },
+            {
+              "SHA": "dc5d7fed",
+              "Subject": "Update dependencies (#507)"
+            },
+            {
+              "SHA": "f472c1ea",
+              "Subject": "Stop using deprecated api kinds in k8s 1.22"
+            },
+            {
+              "SHA": "ee479fa6",
+              "Subject": "Only points to the ingest nodes from stats service (#505)"
+            },
+            {
+              "SHA": "6b576eb9",
+              "Subject": "Fix repetitive patch-ing (#504)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.08.23",
+          "commits": [
+            {
+              "SHA": "2a48613",
+              "Subject": "Prepare for release v2021.08.23 (#345)"
+            },
+            {
+              "SHA": "e2feb7c",
+              "Subject": "Add support for Elasticsearch v7.14.0 and pre-build images with snapshot plugins (#344)"
+            },
+            {
+              "SHA": "e62be83",
+              "Subject": "Use mongodb official images (#343)"
+            },
+            {
+              "SHA": "aaf9f13",
+              "Subject": "Update dependencies (#341)"
+            },
+            {
+              "SHA": "f852ebc",
+              "Subject": "Update dependencies (#340)"
+            },
+            {
+              "SHA": "799620d",
+              "Subject": "Fix metrics for resource calculation (#338)"
+            },
+            {
+              "SHA": "2aa7aba",
+              "Subject": "Move metrics to its own chart (#337)"
+            },
+            {
+              "SHA": "62e359d",
+              "Subject": "Update MongoDB resource metrics (#336)"
+            },
+            {
+              "SHA": "575332d",
+              "Subject": "Add redis cluster metrics (#333)"
+            },
+            {
+              "SHA": "d339405",
+              "Subject": "Update repository config (#335)"
+            },
+            {
+              "SHA": "13a4438",
+              "Subject": "Update repository config (#334)"
+            },
+            {
+              "SHA": "4b25281",
+              "Subject": "Update repository config (#332)"
+            },
+            {
+              "SHA": "2225d30",
+              "Subject": "Update dependencies (#331)"
+            },
+            {
+              "SHA": "5aaf750",
+              "Subject": "Update function names in metrics configuration"
+            },
+            {
+              "SHA": "d64a4e4",
+              "Subject": "Add metrics config for redis (#326)"
+            },
+            {
+              "SHA": "9268c0f",
+              "Subject": "Rename functions in metrics configuration (#330)"
+            },
+            {
+              "SHA": "c4be2d2",
+              "Subject": "Add elasticsearch metrics configurations (#322)"
+            },
+            {
+              "SHA": "c313657",
+              "Subject": "Add MongoDB metrics configurations (#321)"
+            },
+            {
+              "SHA": "c8aa742",
+              "Subject": "Add metrics config for mysql (#325)"
+            },
+            {
+              "SHA": "2354cab",
+              "Subject": "Add MariaDB metrics configurations (#324)"
+            },
+            {
+              "SHA": "8e42490",
+              "Subject": "Add postgres metrics configurations (#323)"
+            },
+            {
+              "SHA": "fd2deb8",
+              "Subject": "Remove etcd from catalog (#329)"
+            },
+            {
+              "SHA": "344f45a",
+              "Subject": "Update Elasticsearch exporter images (#320)"
+            },
+            {
+              "SHA": "bc18aed",
+              "Subject": "Update chart docs"
+            },
+            {
+              "SHA": "d43e394",
+              "Subject": "Update kubedb chart dependencies via Makefile (#328)"
+            },
+            {
+              "SHA": "574fc22",
+              "Subject": "Stop using deprecated api kinds in 1.22 (#327)"
+            },
+            {
+              "SHA": "d957f4d",
+              "Subject": "Sort crd yamls by GK"
+            },
+            {
+              "SHA": "930bacf",
+              "Subject": "Merge metrics chart into crds"
+            },
+            {
+              "SHA": "c4b8659",
+              "Subject": "Pass image pull secrets to cleaner images (#319)"
+            },
+            {
+              "SHA": "5f391d8",
+              "Subject": "Rename user-roles.yaml to metrics-user-roles.yaml"
+            },
+            {
+              "SHA": "892e6da",
+              "Subject": "Add kubedb-metrics chart (#318)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "55924eb9",
+              "Subject": "Prepare for release v0.4.0 (#85)"
+            },
+            {
+              "SHA": "355da6ee",
+              "Subject": "Restrict Community Edition to demo namespace (#84)"
+            },
+            {
+              "SHA": "b284cde6",
+              "Subject": "Update repository config (#83)"
+            },
+            {
+              "SHA": "8d25306b",
+              "Subject": "Update repository config (#82)"
+            },
+            {
+              "SHA": "c7c999a0",
+              "Subject": "Update dependencies (#81)"
+            },
+            {
+              "SHA": "7ac44469",
+              "Subject": "Fix repetitive patch issue in MariaDB (#79)"
+            },
+            {
+              "SHA": "24fe8f76",
+              "Subject": "Stop using deprecated api kinds in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "98287a7b",
+              "Subject": "Prepare for release v0.13.0 (#306)"
+            },
+            {
+              "SHA": "5ab5673d",
+              "Subject": "Restrict Community Edition to demo namespace (#305)"
+            },
+            {
+              "SHA": "399bc04e",
+              "Subject": "Update repository config (#304)"
+            },
+            {
+              "SHA": "95694c2f",
+              "Subject": "Update repository config (#303)"
+            },
+            {
+              "SHA": "6fb5b271",
+              "Subject": "Update dependencies (#302)"
+            },
+            {
+              "SHA": "2d3550fc",
+              "Subject": "Stop using api kinds deprecated in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "34999e07",
+              "Subject": "Prepare for release v0.13.0 (#409)"
+            },
+            {
+              "SHA": "9dadff03",
+              "Subject": "Restrict Community Edition to demo namespace (#408)"
+            },
+            {
+              "SHA": "20e8d6d7",
+              "Subject": "Update repository config (#407)"
+            },
+            {
+              "SHA": "410dc379",
+              "Subject": "Update repository config (#406)"
+            },
+            {
+              "SHA": "ba8ea791",
+              "Subject": "Update dependencies (#404)"
+            },
+            {
+              "SHA": "fb5f5257",
+              "Subject": "Stop using api kinds deprecated in k8s 1.22"
+            },
+            {
+              "SHA": "e38b4aa5",
+              "Subject": "Fix repetitive patch-ing (#403)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "2700a224",
+              "Subject": "Prepare for release v0.13.0 (#399)"
+            },
+            {
+              "SHA": "83b1b7e9",
+              "Subject": "Restrict Community Edition to demo namespace (#398)"
+            },
+            {
+              "SHA": "1a0dcd47",
+              "Subject": "Update repository config (#397)"
+            },
+            {
+              "SHA": "d59061fd",
+              "Subject": "Update repository config (#396)"
+            },
+            {
+              "SHA": "3066cd54",
+              "Subject": "Update dependencies (#395)"
+            },
+            {
+              "SHA": "ef8b78d1",
+              "Subject": "Fix Repetitive Patch Issue MySQL (#394)"
+            },
+            {
+              "SHA": "99bcc275",
+              "Subject": "Stop using api kinds removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "c24b636e",
+              "Subject": "Prepare for release v0.20.0 (#416)"
+            },
+            {
+              "SHA": "7f8b0526",
+              "Subject": "Restrict Community Edition to demo namespace (#415)"
+            },
+            {
+              "SHA": "a6759d58",
+              "Subject": "Remove FOSSA link"
+            },
+            {
+              "SHA": "cc01486f",
+              "Subject": "Update repository config (#414)"
+            },
+            {
+              "SHA": "042f8feb",
+              "Subject": "Update repository config (#413)"
+            },
+            {
+              "SHA": "2a803113",
+              "Subject": "Update dependencies (#412)"
+            },
+            {
+              "SHA": "bf047c47",
+              "Subject": "Remove dependency on github.com/satori/go.uuid (#411)"
+            },
+            {
+              "SHA": "614b930a",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "03d053e7",
+              "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "0bcb7e8c",
+              "Subject": "Prepare for release v0.7.0 (#208)"
+            },
+            {
+              "SHA": "5c94a9b0",
+              "Subject": "Restrict Community Edition to demo namespace (#207)"
+            },
+            {
+              "SHA": "bd6740df",
+              "Subject": "Update repository config (#206)"
+            },
+            {
+              "SHA": "67fcc570",
+              "Subject": "Update repository config (#205)"
+            },
+            {
+              "SHA": "2dfcfd3f",
+              "Subject": "Update dependencies (#204)"
+            },
+            {
+              "SHA": "1a0aa385",
+              "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "d5509cd",
+              "Subject": "Prepare for release v0.4.0 (#32)"
+            },
+            {
+              "SHA": "d2361d3",
+              "Subject": "Update dependencies (#31)"
+            },
+            {
+              "SHA": "7d74cb5",
+              "Subject": "Update dependencies (#30)"
+            },
+            {
+              "SHA": "6d88615",
+              "Subject": "Update repository config (#29)"
+            },
+            {
+              "SHA": "2c6007f",
+              "Subject": "Update repository config (#28)"
+            },
+            {
+              "SHA": "71cfe14",
+              "Subject": "Update dependencies (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "94075616",
+              "Subject": "Prepare for release v0.7.0 (#168)"
+            },
+            {
+              "SHA": "38e7bbef",
+              "Subject": "Restrict Community Edition to demo namespace (#167)"
+            },
+            {
+              "SHA": "5ba4e255",
+              "Subject": "Update repository config (#166)"
+            },
+            {
+              "SHA": "f73bf32e",
+              "Subject": "Update repository config (#165)"
+            },
+            {
+              "SHA": "70b6363b",
+              "Subject": "Update dependencies (#164)"
+            },
+            {
+              "SHA": "e452aef3",
+              "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "d3eec559",
+              "Subject": "Prepare for release v0.20.0 (#515)"
+            },
+            {
+              "SHA": "ea11e98d",
+              "Subject": "Restrict Community Edition to demo namespace (#514)"
+            },
+            {
+              "SHA": "d3d17bfc",
+              "Subject": "Update repository config (#513)"
+            },
+            {
+              "SHA": "698c72b5",
+              "Subject": "Update repository config (#512)"
+            },
+            {
+              "SHA": "4bd33547",
+              "Subject": "Update dependencies (#511)"
+            },
+            {
+              "SHA": "39f294df",
+              "Subject": "Stop using api versions deprecated in k8s 1.22"
+            },
+            {
+              "SHA": "6cb08c0f",
+              "Subject": "Fix Continuous Statefulset Patching (#510)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "8e3d6afb",
+              "Subject": "Prepare for release v0.7.0 (#187)"
+            },
+            {
+              "SHA": "8c569877",
+              "Subject": "Restrict Community Edition to demo namespace (#186)"
+            },
+            {
+              "SHA": "4510a5e2",
+              "Subject": "Restrict Community Edition to demo namespace (#185)"
+            },
+            {
+              "SHA": "967480a1",
+              "Subject": "Update repository config (#184)"
+            },
+            {
+              "SHA": "9fd454dc",
+              "Subject": "Update repository config (#183)"
+            },
+            {
+              "SHA": "2c2dbba7",
+              "Subject": "Update dependencies (#182)"
+            },
+            {
+              "SHA": "44f352d0",
+              "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "4e331b2c",
+              "Subject": "Prepare for release v0.13.0 (#334)"
+            },
+            {
+              "SHA": "cefba860",
+              "Subject": "Add Auth Secret in Redis (#333)"
+            },
+            {
+              "SHA": "b412a862",
+              "Subject": "Restrict Community Edition to demo namespace (#332)"
+            },
+            {
+              "SHA": "765c767c",
+              "Subject": "Restrict Community Edition to demo namespace (#331)"
+            },
+            {
+              "SHA": "f5b0af55",
+              "Subject": "Update repository config (#330)"
+            },
+            {
+              "SHA": "7004f37f",
+              "Subject": "Update repository config (#329)"
+            },
+            {
+              "SHA": "bbe8a4fe",
+              "Subject": "Update dependencies (#328)"
+            },
+            {
+              "SHA": "4bd2a852",
+              "Subject": "Remove panic And Fix Repetitive Statefulset patch  (#327)"
+            },
+            {
+              "SHA": "d941d122",
+              "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "5acb289",
+              "Subject": "Prepare for release v0.7.0 (#153)"
+            },
+            {
+              "SHA": "779ca5f",
+              "Subject": "Update dependencies (#152)"
+            },
+            {
+              "SHA": "07e8917",
+              "Subject": "Update dependencies (#151)"
+            },
+            {
+              "SHA": "7184fc6",
+              "Subject": "Update dependencies (#150)"
+            },
+            {
+              "SHA": "fe3d8e3",
+              "Subject": "Update dependencies (#149)"
+            },
+            {
+              "SHA": "cc1b4e9",
+              "Subject": "Update dependencies (#148)"
+            },
+            {
+              "SHA": "e80918a",
+              "Subject": "Update repository config (#147)"
+            },
+            {
+              "SHA": "b17c5e4",
+              "Subject": "Update dependencies (#145)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "8526856",
+              "Subject": "Prepare for release v0.5.0 (#133)"
+            },
+            {
+              "SHA": "9d517da",
+              "Subject": "Update dependencies (#132)"
+            },
+            {
+              "SHA": "66c9042",
+              "Subject": "Update dependencies (#131)"
+            },
+            {
+              "SHA": "712e2e3",
+              "Subject": "Update dependencies (#130)"
+            },
+            {
+              "SHA": "b92a730",
+              "Subject": "Update dependencies (#129)"
+            },
+            {
+              "SHA": "2c4bd02",
+              "Subject": "Update dependencies (#128)"
+            },
+            {
+              "SHA": "f8bb956",
+              "Subject": "Update repository config (#127)"
+            },
+            {
+              "SHA": "0d2e0d6",
+              "Subject": "Update dependencies (#126)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

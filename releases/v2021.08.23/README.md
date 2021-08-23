@@ -84,6 +84,20 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.13.0](https://github.com/kubedb/mysql/releases/tag/v0.13.0)
+
+- [2700a224](https://github.com/kubedb/mysql/commit/2700a224) Prepare for release v0.13.0 (#399)
+- [83b1b7e9](https://github.com/kubedb/mysql/commit/83b1b7e9) Restrict Community Edition to demo namespace (#398)
+- [1a0dcd47](https://github.com/kubedb/mysql/commit/1a0dcd47) Update repository config (#397)
+- [d59061fd](https://github.com/kubedb/mysql/commit/d59061fd) Update repository config (#396)
+- [3066cd54](https://github.com/kubedb/mysql/commit/3066cd54) Update dependencies (#395)
+- [ef8b78d1](https://github.com/kubedb/mysql/commit/ef8b78d1) Fix Repetitive Patch Issue MySQL (#394)
+- [99bcc275](https://github.com/kubedb/mysql/commit/99bcc275) Stop using api kinds removed in k8s 1.22
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.7.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.7.0)

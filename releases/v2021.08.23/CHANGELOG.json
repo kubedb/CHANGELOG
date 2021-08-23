@@ -1,0 +1,88 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.08.23",
+  "release_date": "2021-08-23T10:28:27.33100239Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.08.23",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "c8377128",
+              "Subject": "Add constant for Redis (#783)"
+            },
+            {
+              "SHA": "86bf3060",
+              "Subject": "Remove Auth secret after Deletion of Redis (#781)"
+            },
+            {
+              "SHA": "a982c412",
+              "Subject": "Add KubeDB distribution for Elasticsearch images (#782)"
+            },
+            {
+              "SHA": "a8eb885c",
+              "Subject": "Revert back to old structure"
+            },
+            {
+              "SHA": "a3581bc6",
+              "Subject": "Move secret and statefulset informer to Controller (#780)"
+            },
+            {
+              "SHA": "3327d4c1",
+              "Subject": "Remove WatchNamespace from Config"
+            },
+            {
+              "SHA": "5465bfd4",
+              "Subject": "Restrict watchers to a namespace (#779)"
+            },
+            {
+              "SHA": "d5e158ef",
+              "Subject": "Add support for Elasticsearch secure settings (#777)"
+            },
+            {
+              "SHA": "e6ff1fd6",
+              "Subject": "Update documentation for enableSSL field (#778)"
+            },
+            {
+              "SHA": "f011f893",
+              "Subject": "Update repository config (#776)"
+            },
+            {
+              "SHA": "ba3edad2",
+              "Subject": "Update repository config (#775)"
+            },
+            {
+              "SHA": "2c8e7ea7",
+              "Subject": "Test crds (#774)"
+            },
+            {
+              "SHA": "89c85a98",
+              "Subject": "Remove panic for Redis (#773)"
+            },
+            {
+              "SHA": "24bc990a",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "7fe9731b",
+              "Subject": "Only generate crd v1 yamls (#772)"
+            },
+            {
+              "SHA": "1ce46330",
+              "Subject": "Rename Opendistro for Elasticsearch performance analyzer port name (#770)"
+            },
+            {
+              "SHA": "1c1e6ef0",
+              "Subject": "Allow customizing resource settings for pg coordinator container (#771)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

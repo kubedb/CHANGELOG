@@ -43,6 +43,20 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.13.0](https://github.com/kubedb/mongodb/releases/tag/v0.13.0)
+
+- [34999e07](https://github.com/kubedb/mongodb/commit/34999e07) Prepare for release v0.13.0 (#409)
+- [9dadff03](https://github.com/kubedb/mongodb/commit/9dadff03) Restrict Community Edition to demo namespace (#408)
+- [20e8d6d7](https://github.com/kubedb/mongodb/commit/20e8d6d7) Update repository config (#407)
+- [410dc379](https://github.com/kubedb/mongodb/commit/410dc379) Update repository config (#406)
+- [ba8ea791](https://github.com/kubedb/mongodb/commit/ba8ea791) Update dependencies (#404)
+- [fb5f5257](https://github.com/kubedb/mongodb/commit/fb5f5257) Stop using api kinds deprecated in k8s 1.22
+- [e38b4aa5](https://github.com/kubedb/mongodb/commit/e38b4aa5) Fix repetitive patch-ing (#403)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.7.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.7.0)

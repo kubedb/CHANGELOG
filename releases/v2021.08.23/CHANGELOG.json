@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T10:40:45.194539633Z",
+  "release_date": "2021-08-23T10:41:11.804857891Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -133,6 +133,44 @@
             {
               "SHA": "2fcf8e6d",
               "Subject": "Stop using deprecated api kinds in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "34999e07",
+              "Subject": "Prepare for release v0.13.0 (#409)"
+            },
+            {
+              "SHA": "9dadff03",
+              "Subject": "Restrict Community Edition to demo namespace (#408)"
+            },
+            {
+              "SHA": "20e8d6d7",
+              "Subject": "Update repository config (#407)"
+            },
+            {
+              "SHA": "410dc379",
+              "Subject": "Update repository config (#406)"
+            },
+            {
+              "SHA": "ba8ea791",
+              "Subject": "Update dependencies (#404)"
+            },
+            {
+              "SHA": "fb5f5257",
+              "Subject": "Stop using api kinds deprecated in k8s 1.22"
+            },
+            {
+              "SHA": "e38b4aa5",
+              "Subject": "Fix repetitive patch-ing (#403)"
             }
           ]
         }

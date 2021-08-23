@@ -111,6 +111,22 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.13.0](https://github.com/kubedb/redis/releases/tag/v0.13.0)
+
+- [4e331b2c](https://github.com/kubedb/redis/commit/4e331b2c) Prepare for release v0.13.0 (#334)
+- [cefba860](https://github.com/kubedb/redis/commit/cefba860) Add Auth Secret in Redis (#333)
+- [b412a862](https://github.com/kubedb/redis/commit/b412a862) Restrict Community Edition to demo namespace (#332)
+- [765c767c](https://github.com/kubedb/redis/commit/765c767c) Restrict Community Edition to demo namespace (#331)
+- [f5b0af55](https://github.com/kubedb/redis/commit/f5b0af55) Update repository config (#330)
+- [7004f37f](https://github.com/kubedb/redis/commit/7004f37f) Update repository config (#329)
+- [bbe8a4fe](https://github.com/kubedb/redis/commit/bbe8a4fe) Update dependencies (#328)
+- [4bd2a852](https://github.com/kubedb/redis/commit/4bd2a852) Remove panic And Fix Repetitive Statefulset patch  (#327)
+- [d941d122](https://github.com/kubedb/redis/commit/d941d122) Stop using api versions removed in k8s 1.22
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.7.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.7.0)

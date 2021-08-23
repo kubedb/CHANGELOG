@@ -98,3 +98,18 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.5.0](https://github.com/kubedb/tests/releases/tag/v0.5.0)
+
+- [8526856](https://github.com/kubedb/tests/commit/8526856) Prepare for release v0.5.0 (#133)
+- [9d517da](https://github.com/kubedb/tests/commit/9d517da) Update dependencies (#132)
+- [66c9042](https://github.com/kubedb/tests/commit/66c9042) Update dependencies (#131)
+- [712e2e3](https://github.com/kubedb/tests/commit/712e2e3) Update dependencies (#130)
+- [b92a730](https://github.com/kubedb/tests/commit/b92a730) Update dependencies (#129)
+- [2c4bd02](https://github.com/kubedb/tests/commit/2c4bd02) Update dependencies (#128)
+- [f8bb956](https://github.com/kubedb/tests/commit/f8bb956) Update repository config (#127)
+- [0d2e0d6](https://github.com/kubedb/tests/commit/0d2e0d6) Update dependencies (#126)
+
+
+

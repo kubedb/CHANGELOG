@@ -1,6 +1,19 @@
 # KubeDB v2021.08.23 (2021-08-23)
 
 
+## [appscode/kubedb-autoscaler](https://github.com/appscode/kubedb-autoscaler)
+
+### [v0.5.0](https://github.com/appscode/kubedb-autoscaler/releases/tag/v0.5.0)
+
+- [7cc44de](https://github.com/appscode/kubedb-autoscaler/commit/7cc44de) Prepare for release v0.5.0 (#31)
+- [4df9212](https://github.com/appscode/kubedb-autoscaler/commit/4df9212) Restrict Community Edition to demo namespace (#30)
+- [02afaf3](https://github.com/appscode/kubedb-autoscaler/commit/02afaf3) Update repository config (#29)
+- [9cdb19f](https://github.com/appscode/kubedb-autoscaler/commit/9cdb19f) Update dependencies (#28)
+- [faa4b65](https://github.com/appscode/kubedb-autoscaler/commit/faa4b65) Remove repetitive 403 errors from validator and mutators
+- [17f9798](https://github.com/appscode/kubedb-autoscaler/commit/17f9798) Stop using deprecated api kind in k8s 1.22
+
+
+
 ## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
 
 ### [v0.7.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.7.0)

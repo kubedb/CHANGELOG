@@ -1,11 +1,45 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T11:33:33.105203625Z",
+  "release_date": "2021-08-23T11:45:34.057627573Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "7cc44de",
+              "Subject": "Prepare for release v0.5.0 (#31)"
+            },
+            {
+              "SHA": "4df9212",
+              "Subject": "Restrict Community Edition to demo namespace (#30)"
+            },
+            {
+              "SHA": "02afaf3",
+              "Subject": "Update repository config (#29)"
+            },
+            {
+              "SHA": "9cdb19f",
+              "Subject": "Update dependencies (#28)"
+            },
+            {
+              "SHA": "faa4b65",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "17f9798",
+              "Subject": "Stop using deprecated api kind in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode/kubedb-enterprise",
       "releases": [

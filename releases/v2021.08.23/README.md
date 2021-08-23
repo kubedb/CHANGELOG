@@ -43,6 +43,19 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.13.0](https://github.com/kubedb/memcached/releases/tag/v0.13.0)
+
+- [98287a7b](https://github.com/kubedb/memcached/commit/98287a7b) Prepare for release v0.13.0 (#306)
+- [5ab5673d](https://github.com/kubedb/memcached/commit/5ab5673d) Restrict Community Edition to demo namespace (#305)
+- [399bc04e](https://github.com/kubedb/memcached/commit/399bc04e) Update repository config (#304)
+- [95694c2f](https://github.com/kubedb/memcached/commit/95694c2f) Update repository config (#303)
+- [6fb5b271](https://github.com/kubedb/memcached/commit/6fb5b271) Update dependencies (#302)
+- [2d3550fc](https://github.com/kubedb/memcached/commit/2d3550fc) Stop using api kinds deprecated in k8s 1.22
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.13.0](https://github.com/kubedb/mongodb/releases/tag/v0.13.0)

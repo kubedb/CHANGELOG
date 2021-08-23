@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T10:44:50.254847442Z",
+  "release_date": "2021-08-23T10:50:26.310252961Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -361,6 +361,40 @@
             {
               "SHA": "1a0aa385",
               "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "d5509cd",
+              "Subject": "Prepare for release v0.4.0 (#32)"
+            },
+            {
+              "SHA": "d2361d3",
+              "Subject": "Update dependencies (#31)"
+            },
+            {
+              "SHA": "7d74cb5",
+              "Subject": "Update dependencies (#30)"
+            },
+            {
+              "SHA": "6d88615",
+              "Subject": "Update repository config (#29)"
+            },
+            {
+              "SHA": "2c6007f",
+              "Subject": "Update repository config (#28)"
+            },
+            {
+              "SHA": "71cfe14",
+              "Subject": "Update dependencies (#27)"
             }
           ]
         }

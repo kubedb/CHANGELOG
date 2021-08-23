@@ -127,6 +127,19 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.4.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.4.0)
+
+- [d5509cd](https://github.com/kubedb/pg-coordinator/commit/d5509cd) Prepare for release v0.4.0 (#32)
+- [d2361d3](https://github.com/kubedb/pg-coordinator/commit/d2361d3) Update dependencies (#31)
+- [7d74cb5](https://github.com/kubedb/pg-coordinator/commit/7d74cb5) Update dependencies (#30)
+- [6d88615](https://github.com/kubedb/pg-coordinator/commit/6d88615) Update repository config (#29)
+- [2c6007f](https://github.com/kubedb/pg-coordinator/commit/2c6007f) Update repository config (#28)
+- [71cfe14](https://github.com/kubedb/pg-coordinator/commit/71cfe14) Update dependencies (#27)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.20.0](https://github.com/kubedb/postgres/releases/tag/v0.20.0)

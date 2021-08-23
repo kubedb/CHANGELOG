@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T10:41:11.804857891Z",
+  "release_date": "2021-08-23T10:41:22.939985095Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -205,6 +205,48 @@
             {
               "SHA": "1a0aa385",
               "Subject": "Stop using api versions removed in k8s 1.22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "5acb289",
+              "Subject": "Prepare for release v0.7.0 (#153)"
+            },
+            {
+              "SHA": "779ca5f",
+              "Subject": "Update dependencies (#152)"
+            },
+            {
+              "SHA": "07e8917",
+              "Subject": "Update dependencies (#151)"
+            },
+            {
+              "SHA": "7184fc6",
+              "Subject": "Update dependencies (#150)"
+            },
+            {
+              "SHA": "fe3d8e3",
+              "Subject": "Update dependencies (#149)"
+            },
+            {
+              "SHA": "cc1b4e9",
+              "Subject": "Update dependencies (#148)"
+            },
+            {
+              "SHA": "e80918a",
+              "Subject": "Update repository config (#147)"
+            },
+            {
+              "SHA": "b17c5e4",
+              "Subject": "Update dependencies (#145)"
             }
           ]
         }

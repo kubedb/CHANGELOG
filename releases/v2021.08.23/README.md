@@ -25,3 +25,21 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.20.0](https://github.com/kubedb/cli/releases/tag/v0.20.0)
+
+- [d5f1dbd4](https://github.com/kubedb/cli/commit/d5f1dbd4) Prepare for release v0.20.0 (#619)
+- [2e84e662](https://github.com/kubedb/cli/commit/2e84e662) Add `show-credentials` commands (#618)
+- [79ccacd2](https://github.com/kubedb/cli/commit/79ccacd2) Add pause/resume support (#597)
+- [e1d6e1ef](https://github.com/kubedb/cli/commit/e1d6e1ef) Add `restart` command (#599)
+- [3fa6c894](https://github.com/kubedb/cli/commit/3fa6c894) Update dependencies (#617)
+- [998ec275](https://github.com/kubedb/cli/commit/998ec275) Update dependencies (#616)
+- [231371de](https://github.com/kubedb/cli/commit/231371de) Update dependencies (#615)
+- [654dd914](https://github.com/kubedb/cli/commit/654dd914) Update dependencies (#614)
+- [3e1f519a](https://github.com/kubedb/cli/commit/3e1f519a) Update dependencies (#613)
+- [1a7cdbc7](https://github.com/kubedb/cli/commit/1a7cdbc7) Update dependencies (#611)
+- [2fcf8e6d](https://github.com/kubedb/cli/commit/2fcf8e6d) Stop using deprecated api kinds in k8s 1.22
+
+
+

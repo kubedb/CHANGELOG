@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.08.23",
-  "release_date": "2021-08-23T10:28:27.33100239Z",
+  "release_date": "2021-08-23T10:38:54.892545173Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.08.23",
   "kubernetes_version": "1.16+",
@@ -79,6 +79,60 @@
             {
               "SHA": "1c1e6ef0",
               "Subject": "Allow customizing resource settings for pg coordinator container (#771)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "d5f1dbd4",
+              "Subject": "Prepare for release v0.20.0 (#619)"
+            },
+            {
+              "SHA": "2e84e662",
+              "Subject": "Add `show-credentials` commands (#618)"
+            },
+            {
+              "SHA": "79ccacd2",
+              "Subject": "Add pause/resume support (#597)"
+            },
+            {
+              "SHA": "e1d6e1ef",
+              "Subject": "Add `restart` command (#599)"
+            },
+            {
+              "SHA": "3fa6c894",
+              "Subject": "Update dependencies (#617)"
+            },
+            {
+              "SHA": "998ec275",
+              "Subject": "Update dependencies (#616)"
+            },
+            {
+              "SHA": "231371de",
+              "Subject": "Update dependencies (#615)"
+            },
+            {
+              "SHA": "654dd914",
+              "Subject": "Update dependencies (#614)"
+            },
+            {
+              "SHA": "3e1f519a",
+              "Subject": "Update dependencies (#613)"
+            },
+            {
+              "SHA": "1a7cdbc7",
+              "Subject": "Update dependencies (#611)"
+            },
+            {
+              "SHA": "2fcf8e6d",
+              "Subject": "Stop using deprecated api kinds in k8s 1.22"
             }
           ]
         }

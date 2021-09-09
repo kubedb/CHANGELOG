@@ -131,6 +131,17 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.8.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.8.0)
+
+- [0ace6b51](https://github.com/kubedb/pgbouncer/commit/0ace6b51) Prepare for release v0.8.0 (#172)
+- [a68ff554](https://github.com/kubedb/pgbouncer/commit/a68ff554) Update dependencies (#171)
+- [007f90dc](https://github.com/kubedb/pgbouncer/commit/007f90dc) Update repository config (#170)
+- [7efab716](https://github.com/kubedb/pgbouncer/commit/7efab716) Fix panic for unknown monitoring agent type (#169)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.21.0](https://github.com/kubedb/postgres/releases/tag/v0.21.0)

@@ -1,6 +1,23 @@
 # KubeDB v2021.09.09 (2021-09-09)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.8.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.8.0)
+
+- [4495e7a6](https://github.com/appscode/kubedb-enterprise/commit/4495e7a6) Prepare for release v0.8.0 (#222)
+- [74a74d0c](https://github.com/appscode/kubedb-enterprise/commit/74a74d0c) Update dependencies (#221)
+- [784a2d3a](https://github.com/appscode/kubedb-enterprise/commit/784a2d3a) Fix: Ensure replica running before starting OpsReq Postgres (#203)
+- [2993ba08](https://github.com/appscode/kubedb-enterprise/commit/2993ba08) MongoDB Add feature compatibility version (#218)
+- [ba21d8a4](https://github.com/appscode/kubedb-enterprise/commit/ba21d8a4) Use reconciler in mongodb upgrade (#219)
+- [4c07fb13](https://github.com/appscode/kubedb-enterprise/commit/4c07fb13) Always stop the ticker channel in run parallel function (#212)
+- [af99f555](https://github.com/appscode/kubedb-enterprise/commit/af99f555) Update dependencies (#216)
+- [19d3b43e](https://github.com/appscode/kubedb-enterprise/commit/19d3b43e) Update dependencies (#215)
+- [d3e07d34](https://github.com/appscode/kubedb-enterprise/commit/d3e07d34) Update repository config (#214)
+- [9ce72e12](https://github.com/appscode/kubedb-enterprise/commit/9ce72e12) Update dependencies (#213)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.21.0](https://github.com/kubedb/apimachinery/releases/tag/v0.21.0)

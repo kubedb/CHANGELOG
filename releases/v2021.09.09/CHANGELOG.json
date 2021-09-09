@@ -1,11 +1,61 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T18:17:35.043422073Z",
+  "release_date": "2021-09-09T19:01:49.183192235Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "4495e7a6",
+              "Subject": "Prepare for release v0.8.0 (#222)"
+            },
+            {
+              "SHA": "74a74d0c",
+              "Subject": "Update dependencies (#221)"
+            },
+            {
+              "SHA": "784a2d3a",
+              "Subject": "Fix: Ensure replica running before starting OpsReq Postgres (#203)"
+            },
+            {
+              "SHA": "2993ba08",
+              "Subject": "MongoDB Add feature compatibility version (#218)"
+            },
+            {
+              "SHA": "ba21d8a4",
+              "Subject": "Use reconciler in mongodb upgrade (#219)"
+            },
+            {
+              "SHA": "4c07fb13",
+              "Subject": "Always stop the ticker channel in run parallel function (#212)"
+            },
+            {
+              "SHA": "af99f555",
+              "Subject": "Update dependencies (#216)"
+            },
+            {
+              "SHA": "19d3b43e",
+              "Subject": "Update dependencies (#215)"
+            },
+            {
+              "SHA": "d3e07d34",
+              "Subject": "Update repository config (#214)"
+            },
+            {
+              "SHA": "9ce72e12",
+              "Subject": "Update dependencies (#213)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

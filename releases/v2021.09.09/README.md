@@ -39,6 +39,18 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.5.0](https://github.com/kubedb/mariadb/releases/tag/v0.5.0)
+
+- [7650716e](https://github.com/kubedb/mariadb/commit/7650716e) Prepare for release v0.5.0 (#90)
+- [ce261d96](https://github.com/kubedb/mariadb/commit/ce261d96) Add mariadb coordinator (#80)
+- [f33bf030](https://github.com/kubedb/mariadb/commit/f33bf030) Update dependencies (#89)
+- [5e487ff1](https://github.com/kubedb/mariadb/commit/5e487ff1) Update repository config (#88)
+- [69d22af2](https://github.com/kubedb/mariadb/commit/69d22af2) Fix panic for unknown monitoring agent type (#87)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.14.0](https://github.com/kubedb/mysql/releases/tag/v0.14.0)

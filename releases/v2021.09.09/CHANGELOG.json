@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T17:35:52.684937822Z",
+  "release_date": "2021-09-09T17:36:30.496869654Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
@@ -229,6 +229,40 @@
             {
               "SHA": "02251943",
               "Subject": "Fix panic for unknown monitoring agent type (#336)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "414ecab",
+              "Subject": "Prepare for release v0.8.0 (#159)"
+            },
+            {
+              "SHA": "73dd783",
+              "Subject": "Update dependencies (#158)"
+            },
+            {
+              "SHA": "79dd52e",
+              "Subject": "Update repository config (#157)"
+            },
+            {
+              "SHA": "0d5c498",
+              "Subject": "Update dependencies (#156)"
+            },
+            {
+              "SHA": "1a2da83",
+              "Subject": "Update dependencies (#155)"
+            },
+            {
+              "SHA": "789087d",
+              "Subject": "Update dependencies (#154)"
             }
           ]
         }

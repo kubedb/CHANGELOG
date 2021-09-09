@@ -85,6 +85,19 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.8.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.8.0)
+
+- [414ecab](https://github.com/kubedb/replication-mode-detector/commit/414ecab) Prepare for release v0.8.0 (#159)
+- [73dd783](https://github.com/kubedb/replication-mode-detector/commit/73dd783) Update dependencies (#158)
+- [79dd52e](https://github.com/kubedb/replication-mode-detector/commit/79dd52e) Update repository config (#157)
+- [0d5c498](https://github.com/kubedb/replication-mode-detector/commit/0d5c498) Update dependencies (#156)
+- [1a2da83](https://github.com/kubedb/replication-mode-detector/commit/1a2da83) Update dependencies (#155)
+- [789087d](https://github.com/kubedb/replication-mode-detector/commit/789087d) Update dependencies (#154)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.6.0](https://github.com/kubedb/tests/releases/tag/v0.6.0)

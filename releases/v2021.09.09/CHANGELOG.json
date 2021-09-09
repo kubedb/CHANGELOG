@@ -1,0 +1,730 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.09.09",
+  "release_date": "2021-09-09T19:48:50.964457517Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.09.09",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "8ab6437",
+              "Subject": "Prepare for release v0.6.0 (#35)"
+            },
+            {
+              "SHA": "b517f2f",
+              "Subject": "Update dependencies (#34)"
+            },
+            {
+              "SHA": "0bc78a1",
+              "Subject": "Update repository config (#33)"
+            },
+            {
+              "SHA": "8cd4758",
+              "Subject": "Update dependencies (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "4495e7a6",
+              "Subject": "Prepare for release v0.8.0 (#222)"
+            },
+            {
+              "SHA": "74a74d0c",
+              "Subject": "Update dependencies (#221)"
+            },
+            {
+              "SHA": "784a2d3a",
+              "Subject": "Fix: Ensure replica running before starting OpsReq Postgres (#203)"
+            },
+            {
+              "SHA": "2993ba08",
+              "Subject": "MongoDB Add feature compatibility version (#218)"
+            },
+            {
+              "SHA": "ba21d8a4",
+              "Subject": "Use reconciler in mongodb upgrade (#219)"
+            },
+            {
+              "SHA": "4c07fb13",
+              "Subject": "Always stop the ticker channel in run parallel function (#212)"
+            },
+            {
+              "SHA": "af99f555",
+              "Subject": "Update dependencies (#216)"
+            },
+            {
+              "SHA": "19d3b43e",
+              "Subject": "Update dependencies (#215)"
+            },
+            {
+              "SHA": "d3e07d34",
+              "Subject": "Update repository config (#214)"
+            },
+            {
+              "SHA": "9ce72e12",
+              "Subject": "Update dependencies (#213)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "83d57466",
+              "Subject": "Add CoordinatorDefaultResources variable"
+            },
+            {
+              "SHA": "9ae6c818",
+              "Subject": "Remove resources from Postgres leader election config (#798)"
+            },
+            {
+              "SHA": "76460f61",
+              "Subject": "Add Constants for Volumes (#796)"
+            },
+            {
+              "SHA": "51ccad08",
+              "Subject": "Add Coordinator to spec (#797)"
+            },
+            {
+              "SHA": "1f545e61",
+              "Subject": "Add MariaDBVersionCoordinator field in MariaDBVersions (#763)"
+            },
+            {
+              "SHA": "ca19310d",
+              "Subject": "Update constants for Postgres (#792)"
+            },
+            {
+              "SHA": "992070f1",
+              "Subject": "Update the default pg-coordinator params (#791)"
+            },
+            {
+              "SHA": "9d9bc758",
+              "Subject": "Fix conversion v1alpha1 <-> v1alpha2 (#790)"
+            },
+            {
+              "SHA": "2a901017",
+              "Subject": "Fix v1alpha1 <-> v1alpha2 conversion (#789)"
+            },
+            {
+              "SHA": "e6708c20",
+              "Subject": "Add conversion code for v1alpha1 to v1alph2 api (#788)"
+            },
+            {
+              "SHA": "92ccb751",
+              "Subject": "Update repository config (#787)"
+            },
+            {
+              "SHA": "f6c82136",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "356e942f",
+              "Subject": "Validate monitoring agent type (#786)"
+            },
+            {
+              "SHA": "32f03647",
+              "Subject": "Use formatted logs (#785)"
+            },
+            {
+              "SHA": "a1617830",
+              "Subject": "Enable ES volume expansion ops request for all node roles"
+            },
+            {
+              "SHA": "c8889bb7",
+              "Subject": "Enable ES ops request for every node role type (#784)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.09.09",
+          "commits": [
+            {
+              "SHA": "463f29f",
+              "Subject": "Prepare for release v2021.09.09 (#34)"
+            },
+            {
+              "SHA": "434c737",
+              "Subject": "Update repository config (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "79ac24b5",
+              "Subject": "Prepare for release v0.21.0 (#627)"
+            },
+            {
+              "SHA": "0d5c3c4d",
+              "Subject": "Update dependencies (#626)"
+            },
+            {
+              "SHA": "c1d8053d",
+              "Subject": "Don't show error in pause/resume when stash is not installed (#625)"
+            },
+            {
+              "SHA": "91e53231",
+              "Subject": "Fix --namespace flag parsing (#624)"
+            },
+            {
+              "SHA": "5f18ef12",
+              "Subject": "Update repository config (#623)"
+            },
+            {
+              "SHA": "34e61e39",
+              "Subject": "Update dependencies (#622)"
+            },
+            {
+              "SHA": "e29f8aca",
+              "Subject": "Update dependencies (#621)"
+            },
+            {
+              "SHA": "cee7dfb9",
+              "Subject": "Update dependencies (#620)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.09.09",
+          "commits": [
+            {
+              "SHA": "3704786",
+              "Subject": "Prepare for release v2021.09.09 (#159)"
+            },
+            {
+              "SHA": "803dcd3",
+              "Subject": "Update docs for kubedb/cli@91e53231 (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "c6927525",
+              "Subject": "Prepare for release v0.21.0 (#518)"
+            },
+            {
+              "SHA": "7505e9f6",
+              "Subject": "Update dependencies (#517)"
+            },
+            {
+              "SHA": "22bc1e6b",
+              "Subject": "Use CreateJSONMergePatch (#515)"
+            },
+            {
+              "SHA": "039f67e1",
+              "Subject": "Update repository config (#514)"
+            },
+            {
+              "SHA": "b670f85e",
+              "Subject": "Fix panic for unknown monitoring agent type (#513)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.09.09",
+          "commits": [
+            {
+              "SHA": "4e4e872",
+              "Subject": "Prepare for release v2021.09.09 (#356)"
+            },
+            {
+              "SHA": "ffc283d",
+              "Subject": "Update spec for a given api kind (#355)"
+            },
+            {
+              "SHA": "3cd6181",
+              "Subject": "Update dependencies (#354)"
+            },
+            {
+              "SHA": "dfbe558",
+              "Subject": "Add MariaDB Coordinator | Add MariaDB Version 10.6.4 (#342)"
+            },
+            {
+              "SHA": "711dcab",
+              "Subject": "Add MongoDB 5.0.2 (#353)"
+            },
+            {
+              "SHA": "0b2b3de",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "5b64c67",
+              "Subject": "Check metrics configuration (#351)"
+            },
+            {
+              "SHA": "67ace3d",
+              "Subject": "Add permission to set finalizers on services (#350)"
+            },
+            {
+              "SHA": "bf1d4bc",
+              "Subject": "Update repository config (#349)"
+            },
+            {
+              "SHA": "01d9f50",
+              "Subject": "Test schema validity for deprecated catalog versions (#348)"
+            },
+            {
+              "SHA": "8641529",
+              "Subject": "Add redis:6.2.5 (#347)"
+            },
+            {
+              "SHA": "0c819fb",
+              "Subject": "Update dependencies (#346)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "7650716e",
+              "Subject": "Prepare for release v0.5.0 (#90)"
+            },
+            {
+              "SHA": "ce261d96",
+              "Subject": "Add mariadb coordinator (#80)"
+            },
+            {
+              "SHA": "f33bf030",
+              "Subject": "Update dependencies (#89)"
+            },
+            {
+              "SHA": "5e487ff1",
+              "Subject": "Update repository config (#88)"
+            },
+            {
+              "SHA": "69d22af2",
+              "Subject": "Fix panic for unknown monitoring agent type (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "ad75278",
+              "Subject": "Prepare for release v0.1.0 (#9)"
+            },
+            {
+              "SHA": "140c663",
+              "Subject": "Update dependencies (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "794b7e50",
+              "Subject": "Prepare for release v0.14.0 (#310)"
+            },
+            {
+              "SHA": "6988937d",
+              "Subject": "Update dependencies (#309)"
+            },
+            {
+              "SHA": "a86e09c2",
+              "Subject": "Update repository config (#308)"
+            },
+            {
+              "SHA": "f3d4edb9",
+              "Subject": "Fix panic for unknown monitoring agent type (#307)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "7bceef7f",
+              "Subject": "Prepare for release v0.14.0 (#415)"
+            },
+            {
+              "SHA": "2d8ee793",
+              "Subject": "Apply coordinator resources (#414)"
+            },
+            {
+              "SHA": "d13347fe",
+              "Subject": "Update dependencies (#413)"
+            },
+            {
+              "SHA": "fab26227",
+              "Subject": "Update repository config (#412)"
+            },
+            {
+              "SHA": "f9caff04",
+              "Subject": "Fix panic for unknown monitoring agent type (#411)"
+            },
+            {
+              "SHA": "9c875e8e",
+              "Subject": "Fix `mongos` pods running before `shard` and `configserver` pods (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "2d7cd78c",
+              "Subject": "Prepare for release v0.14.0 (#405)"
+            },
+            {
+              "SHA": "a172908d",
+              "Subject": "Apply coordinator resources (#404)"
+            },
+            {
+              "SHA": "66cc6c27",
+              "Subject": "Update dependencies (#403)"
+            },
+            {
+              "SHA": "09c235d6",
+              "Subject": "Update repository config (#401)"
+            },
+            {
+              "SHA": "8cfc97e0",
+              "Subject": "Fix panic for unknown monitoring agent type (#400)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "dcd23db0",
+              "Subject": "Prepare for release v0.21.0 (#421)"
+            },
+            {
+              "SHA": "6deaba7d",
+              "Subject": "Update dependencies (#420)"
+            },
+            {
+              "SHA": "61b4ca63",
+              "Subject": "Update repository config (#418)"
+            },
+            {
+              "SHA": "7be4f87b",
+              "Subject": "Fix panic for unknown monitoring agent type (#417)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "0dbbece3",
+              "Subject": "Prepare for release v0.8.0 (#212)"
+            },
+            {
+              "SHA": "7c460aec",
+              "Subject": "Update dependencies (#211)"
+            },
+            {
+              "SHA": "6c9c5722",
+              "Subject": "Update repository config (#210)"
+            },
+            {
+              "SHA": "df6b7a92",
+              "Subject": "Fix panic for unknown monitoring agent type (#209)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "394fe7d",
+              "Subject": "Prepare for release v0.5.0 (#37)"
+            },
+            {
+              "SHA": "21ab0a0",
+              "Subject": "Update dependencies (#36)"
+            },
+            {
+              "SHA": "c879536",
+              "Subject": "Fix Rewind And Memory leak Issues (#35)"
+            },
+            {
+              "SHA": "9b88399",
+              "Subject": "Update repository config (#34)"
+            },
+            {
+              "SHA": "267936b",
+              "Subject": "Update dependencies (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "0ace6b51",
+              "Subject": "Prepare for release v0.8.0 (#172)"
+            },
+            {
+              "SHA": "a68ff554",
+              "Subject": "Update dependencies (#171)"
+            },
+            {
+              "SHA": "007f90dc",
+              "Subject": "Update repository config (#170)"
+            },
+            {
+              "SHA": "7efab716",
+              "Subject": "Fix panic for unknown monitoring agent type (#169)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "57bfcc31",
+              "Subject": "Prepare for release v0.21.0 (#521)"
+            },
+            {
+              "SHA": "f4c77294",
+              "Subject": "Use coordinator resources (#520)"
+            },
+            {
+              "SHA": "4e2c73e9",
+              "Subject": "Update dependencies (#519)"
+            },
+            {
+              "SHA": "1dbb66c0",
+              "Subject": "Add Constants for ENV variables (#518)"
+            },
+            {
+              "SHA": "48814901",
+              "Subject": "Update repository config (#517)"
+            },
+            {
+              "SHA": "9ea604b8",
+              "Subject": "Fix panic for unknown monitoring agent type (#516)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "30c8a53a",
+              "Subject": "Prepare for release v0.8.0 (#191)"
+            },
+            {
+              "SHA": "ff88f431",
+              "Subject": "Update dependencies (#190)"
+            },
+            {
+              "SHA": "f995a4d7",
+              "Subject": "Update repository config (#189)"
+            },
+            {
+              "SHA": "87f33dde",
+              "Subject": "Fix panic for unknown monitoring agent type (#188)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "052e1175",
+              "Subject": "Prepare for release v0.14.0 (#339)"
+            },
+            {
+              "SHA": "5909586e",
+              "Subject": "Update dependencies (#338)"
+            },
+            {
+              "SHA": "316e713f",
+              "Subject": "Update repository config (#337)"
+            },
+            {
+              "SHA": "02251943",
+              "Subject": "Fix panic for unknown monitoring agent type (#336)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "414ecab",
+              "Subject": "Prepare for release v0.8.0 (#159)"
+            },
+            {
+              "SHA": "73dd783",
+              "Subject": "Update dependencies (#158)"
+            },
+            {
+              "SHA": "79dd52e",
+              "Subject": "Update repository config (#157)"
+            },
+            {
+              "SHA": "0d5c498",
+              "Subject": "Update dependencies (#156)"
+            },
+            {
+              "SHA": "1a2da83",
+              "Subject": "Update dependencies (#155)"
+            },
+            {
+              "SHA": "789087d",
+              "Subject": "Update dependencies (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "282a366",
+              "Subject": "Prepare for release v0.6.0 (#140)"
+            },
+            {
+              "SHA": "058265a",
+              "Subject": "Update dependencies (#139)"
+            },
+            {
+              "SHA": "230e72e",
+              "Subject": "Update repository config (#138)"
+            },
+            {
+              "SHA": "fd27e56",
+              "Subject": "Update dependencies (#137)"
+            },
+            {
+              "SHA": "4314462",
+              "Subject": "Update dependencies (#136)"
+            },
+            {
+              "SHA": "35f80a5",
+              "Subject": "Update dependencies (#135)"
+            },
+            {
+              "SHA": "cb1e72f",
+              "Subject": "Update dependencies (#134)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

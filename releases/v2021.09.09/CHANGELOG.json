@@ -1,11 +1,37 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T19:01:49.183192235Z",
+  "release_date": "2021-09-09T19:07:47.320477916Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "8ab6437",
+              "Subject": "Prepare for release v0.6.0 (#35)"
+            },
+            {
+              "SHA": "b517f2f",
+              "Subject": "Update dependencies (#34)"
+            },
+            {
+              "SHA": "0bc78a1",
+              "Subject": "Update repository config (#33)"
+            },
+            {
+              "SHA": "8cd4758",
+              "Subject": "Update dependencies (#32)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode/kubedb-enterprise",
       "releases": [

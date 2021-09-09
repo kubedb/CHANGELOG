@@ -110,6 +110,18 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.5.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.5.0)
+
+- [394fe7d](https://github.com/kubedb/pg-coordinator/commit/394fe7d) Prepare for release v0.5.0 (#37)
+- [21ab0a0](https://github.com/kubedb/pg-coordinator/commit/21ab0a0) Update dependencies (#36)
+- [c879536](https://github.com/kubedb/pg-coordinator/commit/c879536) Fix Rewind And Memory leak Issues (#35)
+- [9b88399](https://github.com/kubedb/pg-coordinator/commit/9b88399) Update repository config (#34)
+- [267936b](https://github.com/kubedb/pg-coordinator/commit/267936b) Update dependencies (#33)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.21.0](https://github.com/kubedb/postgres/releases/tag/v0.21.0)

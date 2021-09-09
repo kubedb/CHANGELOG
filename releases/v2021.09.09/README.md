@@ -74,6 +74,17 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.14.0](https://github.com/kubedb/redis/releases/tag/v0.14.0)
+
+- [052e1175](https://github.com/kubedb/redis/commit/052e1175) Prepare for release v0.14.0 (#339)
+- [5909586e](https://github.com/kubedb/redis/commit/5909586e) Update dependencies (#338)
+- [316e713f](https://github.com/kubedb/redis/commit/316e713f) Update repository config (#337)
+- [02251943](https://github.com/kubedb/redis/commit/02251943) Fix panic for unknown monitoring agent type (#336)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.6.0](https://github.com/kubedb/tests/releases/tag/v0.6.0)

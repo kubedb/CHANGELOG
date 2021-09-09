@@ -108,6 +108,17 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.21.0](https://github.com/kubedb/operator/releases/tag/v0.21.0)
+
+- [dcd23db0](https://github.com/kubedb/operator/commit/dcd23db0) Prepare for release v0.21.0 (#421)
+- [6deaba7d](https://github.com/kubedb/operator/commit/6deaba7d) Update dependencies (#420)
+- [61b4ca63](https://github.com/kubedb/operator/commit/61b4ca63) Update repository config (#418)
+- [7be4f87b](https://github.com/kubedb/operator/commit/7be4f87b) Fix panic for unknown monitoring agent type (#417)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.8.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.8.0)

@@ -79,6 +79,25 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2021.09.09](https://github.com/kubedb/installer/releases/tag/v2021.09.09)
+
+- [4e4e872](https://github.com/kubedb/installer/commit/4e4e872) Prepare for release v2021.09.09 (#356)
+- [ffc283d](https://github.com/kubedb/installer/commit/ffc283d) Update spec for a given api kind (#355)
+- [3cd6181](https://github.com/kubedb/installer/commit/3cd6181) Update dependencies (#354)
+- [dfbe558](https://github.com/kubedb/installer/commit/dfbe558) Add MariaDB Coordinator | Add MariaDB Version 10.6.4 (#342)
+- [711dcab](https://github.com/kubedb/installer/commit/711dcab) Add MongoDB 5.0.2 (#353)
+- [0b2b3de](https://github.com/kubedb/installer/commit/0b2b3de) Update dependencies
+- [5b64c67](https://github.com/kubedb/installer/commit/5b64c67) Check metrics configuration (#351)
+- [67ace3d](https://github.com/kubedb/installer/commit/67ace3d) Add permission to set finalizers on services (#350)
+- [bf1d4bc](https://github.com/kubedb/installer/commit/bf1d4bc) Update repository config (#349)
+- [01d9f50](https://github.com/kubedb/installer/commit/01d9f50) Test schema validity for deprecated catalog versions (#348)
+- [8641529](https://github.com/kubedb/installer/commit/8641529) Add redis:6.2.5 (#347)
+- [0c819fb](https://github.com/kubedb/installer/commit/0c819fb) Update dependencies (#346)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.5.0](https://github.com/kubedb/mariadb/releases/tag/v0.5.0)

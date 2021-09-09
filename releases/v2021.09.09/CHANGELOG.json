@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T19:07:47.320477916Z",
+  "release_date": "2021-09-09T19:19:15.726816494Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
@@ -223,6 +223,64 @@
             {
               "SHA": "b670f85e",
               "Subject": "Fix panic for unknown monitoring agent type (#513)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.09.09",
+          "commits": [
+            {
+              "SHA": "4e4e872",
+              "Subject": "Prepare for release v2021.09.09 (#356)"
+            },
+            {
+              "SHA": "ffc283d",
+              "Subject": "Update spec for a given api kind (#355)"
+            },
+            {
+              "SHA": "3cd6181",
+              "Subject": "Update dependencies (#354)"
+            },
+            {
+              "SHA": "dfbe558",
+              "Subject": "Add MariaDB Coordinator | Add MariaDB Version 10.6.4 (#342)"
+            },
+            {
+              "SHA": "711dcab",
+              "Subject": "Add MongoDB 5.0.2 (#353)"
+            },
+            {
+              "SHA": "0b2b3de",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "5b64c67",
+              "Subject": "Check metrics configuration (#351)"
+            },
+            {
+              "SHA": "67ace3d",
+              "Subject": "Add permission to set finalizers on services (#350)"
+            },
+            {
+              "SHA": "bf1d4bc",
+              "Subject": "Update repository config (#349)"
+            },
+            {
+              "SHA": "01d9f50",
+              "Subject": "Test schema validity for deprecated catalog versions (#348)"
+            },
+            {
+              "SHA": "8641529",
+              "Subject": "Add redis:6.2.5 (#347)"
+            },
+            {
+              "SHA": "0c819fb",
+              "Subject": "Update dependencies (#346)"
             }
           ]
         }

@@ -39,6 +39,18 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.21.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.21.0)
+
+- [c6927525](https://github.com/kubedb/elasticsearch/commit/c6927525) Prepare for release v0.21.0 (#518)
+- [7505e9f6](https://github.com/kubedb/elasticsearch/commit/7505e9f6) Update dependencies (#517)
+- [22bc1e6b](https://github.com/kubedb/elasticsearch/commit/22bc1e6b) Use CreateJSONMergePatch (#515)
+- [039f67e1](https://github.com/kubedb/elasticsearch/commit/039f67e1) Update repository config (#514)
+- [b670f85e](https://github.com/kubedb/elasticsearch/commit/b670f85e) Fix panic for unknown monitoring agent type (#513)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.5.0](https://github.com/kubedb/mariadb/releases/tag/v0.5.0)

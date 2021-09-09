@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T17:36:30.496869654Z",
+  "release_date": "2021-09-09T17:37:07.46158428Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
@@ -117,6 +117,36 @@
             {
               "SHA": "cee7dfb9",
               "Subject": "Update dependencies (#620)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "c6927525",
+              "Subject": "Prepare for release v0.21.0 (#518)"
+            },
+            {
+              "SHA": "7505e9f6",
+              "Subject": "Update dependencies (#517)"
+            },
+            {
+              "SHA": "22bc1e6b",
+              "Subject": "Use CreateJSONMergePatch (#515)"
+            },
+            {
+              "SHA": "039f67e1",
+              "Subject": "Update repository config (#514)"
+            },
+            {
+              "SHA": "b670f85e",
+              "Subject": "Fix panic for unknown monitoring agent type (#513)"
             }
           ]
         }

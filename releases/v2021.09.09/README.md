@@ -63,6 +63,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.1.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.1.0)
+
+- [ad75278](https://github.com/kubedb/mariadb-coordinator/commit/ad75278) Prepare for release v0.1.0 (#9)
+- [140c663](https://github.com/kubedb/mariadb-coordinator/commit/140c663) Update dependencies (#8)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.14.0](https://github.com/kubedb/memcached/releases/tag/v0.14.0)

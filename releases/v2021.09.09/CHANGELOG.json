@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T17:51:15.236940064Z",
+  "release_date": "2021-09-09T17:51:41.521044239Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
@@ -177,6 +177,24 @@
             {
               "SHA": "69d22af2",
               "Subject": "Fix panic for unknown monitoring agent type (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "ad75278",
+              "Subject": "Prepare for release v0.1.0 (#9)"
+            },
+            {
+              "SHA": "140c663",
+              "Subject": "Update dependencies (#8)"
             }
           ]
         }

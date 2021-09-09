@@ -52,6 +52,15 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2021.09.09](https://github.com/kubedb/bundles/releases/tag/v2021.09.09)
+
+- [463f29f](https://github.com/kubedb/bundles/commit/463f29f) Prepare for release v2021.09.09 (#34)
+- [434c737](https://github.com/kubedb/bundles/commit/434c737) Update repository config (#33)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.21.0](https://github.com/kubedb/cli/releases/tag/v0.21.0)

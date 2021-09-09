@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T17:37:31.712564607Z",
+  "release_date": "2021-09-09T17:38:40.987755486Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
@@ -293,6 +293,40 @@
             {
               "SHA": "df6b7a92",
               "Subject": "Fix panic for unknown monitoring agent type (#209)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "57bfcc31",
+              "Subject": "Prepare for release v0.21.0 (#521)"
+            },
+            {
+              "SHA": "f4c77294",
+              "Subject": "Use coordinator resources (#520)"
+            },
+            {
+              "SHA": "4e2c73e9",
+              "Subject": "Update dependencies (#519)"
+            },
+            {
+              "SHA": "1dbb66c0",
+              "Subject": "Add Constants for ENV variables (#518)"
+            },
+            {
+              "SHA": "48814901",
+              "Subject": "Update repository config (#517)"
+            },
+            {
+              "SHA": "9ea604b8",
+              "Subject": "Fix panic for unknown monitoring agent type (#516)"
             }
           ]
         }

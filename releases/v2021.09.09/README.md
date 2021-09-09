@@ -110,6 +110,19 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.21.0](https://github.com/kubedb/postgres/releases/tag/v0.21.0)
+
+- [57bfcc31](https://github.com/kubedb/postgres/commit/57bfcc31) Prepare for release v0.21.0 (#521)
+- [f4c77294](https://github.com/kubedb/postgres/commit/f4c77294) Use coordinator resources (#520)
+- [4e2c73e9](https://github.com/kubedb/postgres/commit/4e2c73e9) Update dependencies (#519)
+- [1dbb66c0](https://github.com/kubedb/postgres/commit/1dbb66c0) Add Constants for ENV variables (#518)
+- [48814901](https://github.com/kubedb/postgres/commit/48814901) Update repository config (#517)
+- [9ea604b8](https://github.com/kubedb/postgres/commit/9ea604b8) Fix panic for unknown monitoring agent type (#516)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.14.0](https://github.com/kubedb/redis/releases/tag/v0.14.0)

@@ -63,6 +63,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.14.0](https://github.com/kubedb/memcached/releases/tag/v0.14.0)
+
+- [794b7e50](https://github.com/kubedb/memcached/commit/794b7e50) Prepare for release v0.14.0 (#310)
+- [6988937d](https://github.com/kubedb/memcached/commit/6988937d) Update dependencies (#309)
+- [a86e09c2](https://github.com/kubedb/memcached/commit/a86e09c2) Update repository config (#308)
+- [f3d4edb9](https://github.com/kubedb/memcached/commit/f3d4edb9) Fix panic for unknown monitoring agent type (#307)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.14.0](https://github.com/kubedb/mysql/releases/tag/v0.14.0)

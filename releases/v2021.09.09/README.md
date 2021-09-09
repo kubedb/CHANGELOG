@@ -63,6 +63,17 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.8.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.8.0)
+
+- [0dbbece3](https://github.com/kubedb/percona-xtradb/commit/0dbbece3) Prepare for release v0.8.0 (#212)
+- [7c460aec](https://github.com/kubedb/percona-xtradb/commit/7c460aec) Update dependencies (#211)
+- [6c9c5722](https://github.com/kubedb/percona-xtradb/commit/6c9c5722) Update repository config (#210)
+- [df6b7a92](https://github.com/kubedb/percona-xtradb/commit/df6b7a92) Fix panic for unknown monitoring agent type (#209)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.6.0](https://github.com/kubedb/tests/releases/tag/v0.6.0)

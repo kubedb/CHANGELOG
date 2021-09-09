@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T17:22:43.950469003Z",
+  "release_date": "2021-09-09T17:31:23.670092139Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
@@ -75,6 +75,48 @@
             {
               "SHA": "c8889bb7",
               "Subject": "Enable ES ops request for every node role type (#784)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "79ac24b5",
+              "Subject": "Prepare for release v0.21.0 (#627)"
+            },
+            {
+              "SHA": "0d5c3c4d",
+              "Subject": "Update dependencies (#626)"
+            },
+            {
+              "SHA": "c1d8053d",
+              "Subject": "Don't show error in pause/resume when stash is not installed (#625)"
+            },
+            {
+              "SHA": "91e53231",
+              "Subject": "Fix --namespace flag parsing (#624)"
+            },
+            {
+              "SHA": "5f18ef12",
+              "Subject": "Update repository config (#623)"
+            },
+            {
+              "SHA": "34e61e39",
+              "Subject": "Update dependencies (#622)"
+            },
+            {
+              "SHA": "e29f8aca",
+              "Subject": "Update dependencies (#621)"
+            },
+            {
+              "SHA": "cee7dfb9",
+              "Subject": "Update dependencies (#620)"
             }
           ]
         }

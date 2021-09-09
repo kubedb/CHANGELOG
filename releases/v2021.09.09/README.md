@@ -24,3 +24,18 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.21.0](https://github.com/kubedb/cli/releases/tag/v0.21.0)
+
+- [79ac24b5](https://github.com/kubedb/cli/commit/79ac24b5) Prepare for release v0.21.0 (#627)
+- [0d5c3c4d](https://github.com/kubedb/cli/commit/0d5c3c4d) Update dependencies (#626)
+- [c1d8053d](https://github.com/kubedb/cli/commit/c1d8053d) Don't show error in pause/resume when stash is not installed (#625)
+- [91e53231](https://github.com/kubedb/cli/commit/91e53231) Fix --namespace flag parsing (#624)
+- [5f18ef12](https://github.com/kubedb/cli/commit/5f18ef12) Update repository config (#623)
+- [34e61e39](https://github.com/kubedb/cli/commit/34e61e39) Update dependencies (#622)
+- [e29f8aca](https://github.com/kubedb/cli/commit/e29f8aca) Update dependencies (#621)
+- [cee7dfb9](https://github.com/kubedb/cli/commit/cee7dfb9) Update dependencies (#620)
+
+
+

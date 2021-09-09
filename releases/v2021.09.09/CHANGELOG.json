@@ -1,0 +1,84 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.09.09",
+  "release_date": "2021-09-09T17:22:43.950469003Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.09.09",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "83d57466",
+              "Subject": "Add CoordinatorDefaultResources variable"
+            },
+            {
+              "SHA": "9ae6c818",
+              "Subject": "Remove resources from Postgres leader election config (#798)"
+            },
+            {
+              "SHA": "76460f61",
+              "Subject": "Add Constants for Volumes (#796)"
+            },
+            {
+              "SHA": "51ccad08",
+              "Subject": "Add Coordinator to spec (#797)"
+            },
+            {
+              "SHA": "1f545e61",
+              "Subject": "Add MariaDBVersionCoordinator field in MariaDBVersions (#763)"
+            },
+            {
+              "SHA": "ca19310d",
+              "Subject": "Update constants for Postgres (#792)"
+            },
+            {
+              "SHA": "992070f1",
+              "Subject": "Update the default pg-coordinator params (#791)"
+            },
+            {
+              "SHA": "9d9bc758",
+              "Subject": "Fix conversion v1alpha1 <-> v1alpha2 (#790)"
+            },
+            {
+              "SHA": "2a901017",
+              "Subject": "Fix v1alpha1 <-> v1alpha2 conversion (#789)"
+            },
+            {
+              "SHA": "e6708c20",
+              "Subject": "Add conversion code for v1alpha1 to v1alph2 api (#788)"
+            },
+            {
+              "SHA": "92ccb751",
+              "Subject": "Update repository config (#787)"
+            },
+            {
+              "SHA": "f6c82136",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "356e942f",
+              "Subject": "Validate monitoring agent type (#786)"
+            },
+            {
+              "SHA": "32f03647",
+              "Subject": "Use formatted logs (#785)"
+            },
+            {
+              "SHA": "a1617830",
+              "Subject": "Enable ES volume expansion ops request for all node roles"
+            },
+            {
+              "SHA": "c8889bb7",
+              "Subject": "Enable ES ops request for every node role type (#784)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

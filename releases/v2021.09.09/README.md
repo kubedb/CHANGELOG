@@ -39,6 +39,18 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.14.0](https://github.com/kubedb/mysql/releases/tag/v0.14.0)
+
+- [2d7cd78c](https://github.com/kubedb/mysql/commit/2d7cd78c) Prepare for release v0.14.0 (#405)
+- [a172908d](https://github.com/kubedb/mysql/commit/a172908d) Apply coordinator resources (#404)
+- [66cc6c27](https://github.com/kubedb/mysql/commit/66cc6c27) Update dependencies (#403)
+- [09c235d6](https://github.com/kubedb/mysql/commit/09c235d6) Update repository config (#401)
+- [8cfc97e0](https://github.com/kubedb/mysql/commit/8cfc97e0) Fix panic for unknown monitoring agent type (#400)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.6.0](https://github.com/kubedb/tests/releases/tag/v0.6.0)

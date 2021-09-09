@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T19:19:15.726816494Z",
+  "release_date": "2021-09-09T19:38:52.897403041Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
@@ -193,6 +193,24 @@
             {
               "SHA": "cee7dfb9",
               "Subject": "Update dependencies (#620)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.09.09",
+          "commits": [
+            {
+              "SHA": "3704786",
+              "Subject": "Prepare for release v2021.09.09 (#159)"
+            },
+            {
+              "SHA": "803dcd3",
+              "Subject": "Update docs for kubedb/cli@91e53231 (#158)"
             }
           ]
         }

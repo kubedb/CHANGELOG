@@ -67,6 +67,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.09.09](https://github.com/kubedb/docs/releases/tag/v2021.09.09)
+
+- [3704786](https://github.com/kubedb/docs/commit/3704786) Prepare for release v2021.09.09 (#159)
+- [803dcd3](https://github.com/kubedb/docs/commit/803dcd3) Update docs for kubedb/cli@91e53231 (#158)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.21.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.21.0)

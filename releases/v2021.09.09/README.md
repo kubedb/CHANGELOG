@@ -74,6 +74,19 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.14.0](https://github.com/kubedb/mongodb/releases/tag/v0.14.0)
+
+- [7bceef7f](https://github.com/kubedb/mongodb/commit/7bceef7f) Prepare for release v0.14.0 (#415)
+- [2d8ee793](https://github.com/kubedb/mongodb/commit/2d8ee793) Apply coordinator resources (#414)
+- [d13347fe](https://github.com/kubedb/mongodb/commit/d13347fe) Update dependencies (#413)
+- [fab26227](https://github.com/kubedb/mongodb/commit/fab26227) Update repository config (#412)
+- [f9caff04](https://github.com/kubedb/mongodb/commit/f9caff04) Fix panic for unknown monitoring agent type (#411)
+- [9c875e8e](https://github.com/kubedb/mongodb/commit/9c875e8e) Fix `mongos` pods running before `shard` and `configserver` pods (#410)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.14.0](https://github.com/kubedb/mysql/releases/tag/v0.14.0)

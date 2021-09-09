@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T17:37:17.024372421Z",
+  "release_date": "2021-09-09T17:37:31.712564607Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
@@ -203,6 +203,40 @@
             {
               "SHA": "f3d4edb9",
               "Subject": "Fix panic for unknown monitoring agent type (#307)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "7bceef7f",
+              "Subject": "Prepare for release v0.14.0 (#415)"
+            },
+            {
+              "SHA": "2d8ee793",
+              "Subject": "Apply coordinator resources (#414)"
+            },
+            {
+              "SHA": "d13347fe",
+              "Subject": "Update dependencies (#413)"
+            },
+            {
+              "SHA": "fab26227",
+              "Subject": "Update repository config (#412)"
+            },
+            {
+              "SHA": "f9caff04",
+              "Subject": "Fix panic for unknown monitoring agent type (#411)"
+            },
+            {
+              "SHA": "9c875e8e",
+              "Subject": "Fix `mongos` pods running before `shard` and `configserver` pods (#410)"
             }
           ]
         }

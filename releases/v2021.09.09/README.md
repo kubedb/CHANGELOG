@@ -39,3 +39,17 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.6.0](https://github.com/kubedb/tests/releases/tag/v0.6.0)
+
+- [282a366](https://github.com/kubedb/tests/commit/282a366) Prepare for release v0.6.0 (#140)
+- [058265a](https://github.com/kubedb/tests/commit/058265a) Update dependencies (#139)
+- [230e72e](https://github.com/kubedb/tests/commit/230e72e) Update repository config (#138)
+- [fd27e56](https://github.com/kubedb/tests/commit/fd27e56) Update dependencies (#137)
+- [4314462](https://github.com/kubedb/tests/commit/4314462) Update dependencies (#136)
+- [35f80a5](https://github.com/kubedb/tests/commit/35f80a5) Update dependencies (#135)
+- [cb1e72f](https://github.com/kubedb/tests/commit/cb1e72f) Update dependencies (#134)
+
+
+

@@ -155,6 +155,17 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.8.0](https://github.com/kubedb/proxysql/releases/tag/v0.8.0)
+
+- [30c8a53a](https://github.com/kubedb/proxysql/commit/30c8a53a) Prepare for release v0.8.0 (#191)
+- [ff88f431](https://github.com/kubedb/proxysql/commit/ff88f431) Update dependencies (#190)
+- [f995a4d7](https://github.com/kubedb/proxysql/commit/f995a4d7) Update repository config (#189)
+- [87f33dde](https://github.com/kubedb/proxysql/commit/87f33dde) Fix panic for unknown monitoring agent type (#188)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.14.0](https://github.com/kubedb/redis/releases/tag/v0.14.0)

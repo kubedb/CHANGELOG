@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.09",
-  "release_date": "2021-09-09T18:02:20.137285342Z",
+  "release_date": "2021-09-09T18:03:06.06745036Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.09",
   "kubernetes_version": "1.16+",
@@ -401,6 +401,32 @@
             {
               "SHA": "9ea604b8",
               "Subject": "Fix panic for unknown monitoring agent type (#516)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "30c8a53a",
+              "Subject": "Prepare for release v0.8.0 (#191)"
+            },
+            {
+              "SHA": "ff88f431",
+              "Subject": "Update dependencies (#190)"
+            },
+            {
+              "SHA": "f995a4d7",
+              "Subject": "Update repository config (#189)"
+            },
+            {
+              "SHA": "87f33dde",
+              "Subject": "Fix panic for unknown monitoring agent type (#188)"
             }
           ]
         }

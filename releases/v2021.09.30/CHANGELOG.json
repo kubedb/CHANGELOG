@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.30",
-  "release_date": "2021-09-25T18:09:34.84050124Z",
+  "release_date": "2021-09-25T18:09:38.679384771Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.30",
   "kubernetes_version": "1.16+",
@@ -241,6 +241,24 @@
             {
               "SHA": "31eb43fb",
               "Subject": "Log warning if Community License is used with non-demo namespace (#340)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "7c4149e",
+              "Subject": "Prepare for release v0.1.0 (#2)"
+            },
+            {
+              "SHA": "86e0464",
+              "Subject": "Update Sentinel client (#1)"
             }
           ]
         }

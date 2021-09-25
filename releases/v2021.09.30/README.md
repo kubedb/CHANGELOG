@@ -115,6 +115,15 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.1.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.1.0)
+
+- [7c4149e](https://github.com/kubedb/redis-coordinator/commit/7c4149e) Prepare for release v0.1.0 (#2)
+- [86e0464](https://github.com/kubedb/redis-coordinator/commit/86e0464) Update Sentinel client (#1)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.9.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.9.0)

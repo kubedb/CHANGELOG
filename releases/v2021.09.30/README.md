@@ -51,6 +51,18 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2021.09.30](https://github.com/kubedb/installer/releases/tag/v2021.09.30)
+
+- [b578c69](https://github.com/kubedb/installer/commit/b578c69) Prepare for release v2021.09.30 (#360)
+- [3861233](https://github.com/kubedb/installer/commit/3861233) Use kubedb/mariadb-init:0.4.0 (#359)
+- [dc6a9e6](https://github.com/kubedb/installer/commit/dc6a9e6) Add support for Redis Sentinel (#352)
+- [f74874a](https://github.com/kubedb/installer/commit/f74874a) Log warning if Community License is used with non-demo namespace (#358)
+- [2d4da88](https://github.com/kubedb/installer/commit/2d4da88) MySQL 5.7.35 and 8.0.26 (#357)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.6.0](https://github.com/kubedb/mariadb/releases/tag/v0.6.0)

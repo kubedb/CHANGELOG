@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.30",
-  "release_date": "2021-09-25T18:50:13.445300988Z",
+  "release_date": "2021-09-25T19:01:31.111221397Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.30",
   "kubernetes_version": "1.16+",
@@ -111,6 +111,36 @@
             {
               "SHA": "31719087",
               "Subject": "Log warning if Community License is used with non-demo namespace (#519)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.09.30",
+          "commits": [
+            {
+              "SHA": "b578c69",
+              "Subject": "Prepare for release v2021.09.30 (#360)"
+            },
+            {
+              "SHA": "3861233",
+              "Subject": "Use kubedb/mariadb-init:0.4.0 (#359)"
+            },
+            {
+              "SHA": "dc6a9e6",
+              "Subject": "Add support for Redis Sentinel (#352)"
+            },
+            {
+              "SHA": "f74874a",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#358)"
+            },
+            {
+              "SHA": "2d4da88",
+              "Subject": "MySQL 5.7.35 and 8.0.26 (#357)"
             }
           ]
         }

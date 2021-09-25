@@ -21,3 +21,12 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.15.0](https://github.com/kubedb/memcached/releases/tag/v0.15.0)
+
+- [d97a6ae2](https://github.com/kubedb/memcached/commit/d97a6ae2) Prepare for release v0.15.0 (#312)
+- [5851a2b7](https://github.com/kubedb/memcached/commit/5851a2b7) Log warning if Community License is used with non-demo namespace (#311)
+
+
+

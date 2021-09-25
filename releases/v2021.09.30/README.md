@@ -12,3 +12,12 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.22.0](https://github.com/kubedb/cli/releases/tag/v0.22.0)
+
+- [c9c04dae](https://github.com/kubedb/cli/commit/c9c04dae) Prepare for release v0.22.0 (#629)
+- [08a16994](https://github.com/kubedb/cli/commit/08a16994) Log warning if Community License is used with non-demo namespace (#628)
+
+
+

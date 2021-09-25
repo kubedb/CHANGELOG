@@ -1,0 +1,464 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.09.30",
+  "release_date": "2021-09-25T19:30:12.024235928Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.09.30",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "af632ae",
+              "Subject": "Prepare for release v0.7.0 (#37)"
+            },
+            {
+              "SHA": "45418c3",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/appscode/kubedb-enterprise",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "19e4ac7b",
+              "Subject": "Prepare for release v0.9.0 (#227)"
+            },
+            {
+              "SHA": "59c76bb4",
+              "Subject": "Add MongoDB Offline Volume Expansion (#224)"
+            },
+            {
+              "SHA": "064b2294",
+              "Subject": "Fix MariaDB Reconfigure TLS OpsReq early Successful status (#225)"
+            },
+            {
+              "SHA": "51a832d0",
+              "Subject": "Add TLS support for Redis Sentinel (#223)"
+            },
+            {
+              "SHA": "b0717568",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#226)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "e85fa1ff",
+              "Subject": "Add `VolumeExpansionMode` in mongodb ops request (#800)"
+            },
+            {
+              "SHA": "61d61e39",
+              "Subject": "Add reconfigure TLS constants (#801)"
+            },
+            {
+              "SHA": "84659c4a",
+              "Subject": "Add RedisConfiguration struct for redis AppBinding (#799)"
+            },
+            {
+              "SHA": "67978809",
+              "Subject": "Add Redis Sentinel CRD resources (#794)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.09.30",
+          "commits": [
+            {
+              "SHA": "1e73509",
+              "Subject": "Prepare for release v2021.09.30 (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "c9c04dae",
+              "Subject": "Prepare for release v0.22.0 (#629)"
+            },
+            {
+              "SHA": "08a16994",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#628)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.09.30",
+          "commits": [
+            {
+              "SHA": "71d1713",
+              "Subject": "Prepare for release v2021.09.30 (#160)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "7c8e13f0",
+              "Subject": "Prepare for release v0.22.0 (#520)"
+            },
+            {
+              "SHA": "31719087",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#519)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.09.30",
+          "commits": [
+            {
+              "SHA": "b578c69",
+              "Subject": "Prepare for release v2021.09.30 (#360)"
+            },
+            {
+              "SHA": "3861233",
+              "Subject": "Use kubedb/mariadb-init:0.4.0 (#359)"
+            },
+            {
+              "SHA": "dc6a9e6",
+              "Subject": "Add support for Redis Sentinel (#352)"
+            },
+            {
+              "SHA": "f74874a",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#358)"
+            },
+            {
+              "SHA": "2d4da88",
+              "Subject": "MySQL 5.7.35 and 8.0.26 (#357)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "088b0250",
+              "Subject": "Prepare for release v0.6.0 (#94)"
+            },
+            {
+              "SHA": "303ceb70",
+              "Subject": "Fixed security context and governing service patch issue. (#92)"
+            },
+            {
+              "SHA": "6b1b2d59",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#93)"
+            },
+            {
+              "SHA": "1dc9b573",
+              "Subject": "Fix coordinator run (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "8f1b7df",
+              "Subject": "Prepare for release v0.2.0 (#12)"
+            },
+            {
+              "SHA": "dff9b13",
+              "Subject": "Restart mysqld Process if missing (#10)"
+            },
+            {
+              "SHA": "3e0e0de",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "d97a6ae2",
+              "Subject": "Prepare for release v0.15.0 (#312)"
+            },
+            {
+              "SHA": "5851a2b7",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#311)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "19550583",
+              "Subject": "Prepare for release v0.15.0 (#417)"
+            },
+            {
+              "SHA": "c52519d9",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#416)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "883b3e77",
+              "Subject": "Prepare for release v0.15.0 (#408)"
+            },
+            {
+              "SHA": "4f44fc94",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#407)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "ae6b5279",
+              "Subject": "Prepare for release v0.22.0 (#423)"
+            },
+            {
+              "SHA": "0ec444fe",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#422)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "2d6cbda4",
+              "Subject": "Prepare for release v0.9.0 (#214)"
+            },
+            {
+              "SHA": "db098256",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#213)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "41b6632",
+              "Subject": "Prepare for release v0.6.0 (#39)"
+            },
+            {
+              "SHA": "6399040",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "af21e1a9",
+              "Subject": "Prepare for release v0.9.0 (#174)"
+            },
+            {
+              "SHA": "6e6fac64",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "94a3e32f",
+              "Subject": "Prepare for release v0.22.0 (#523)"
+            },
+            {
+              "SHA": "d578389f",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#522)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "e5535aa0",
+              "Subject": "Prepare for release v0.9.0 (#193)"
+            },
+            {
+              "SHA": "80d1fc3c",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "264f2548",
+              "Subject": "Prepare for release v0.15.0 (#341)"
+            },
+            {
+              "SHA": "ad483730",
+              "Subject": "Add support for Redis Sentinel mode (#335)"
+            },
+            {
+              "SHA": "31eb43fb",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#340)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "7c4149e",
+              "Subject": "Prepare for release v0.1.0 (#2)"
+            },
+            {
+              "SHA": "86e0464",
+              "Subject": "Update Sentinel client (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "498053f",
+              "Subject": "Prepare for release v0.9.0 (#161)"
+            },
+            {
+              "SHA": "6cd3bd4",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#160)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "bb86cc7",
+              "Subject": "Prepare for release v0.7.0 (#142)"
+            },
+            {
+              "SHA": "5ff6dff",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#141)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

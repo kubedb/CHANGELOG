@@ -39,6 +39,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.15.0](https://github.com/kubedb/redis/releases/tag/v0.15.0)
+
+- [264f2548](https://github.com/kubedb/redis/commit/264f2548) Prepare for release v0.15.0 (#341)
+- [ad483730](https://github.com/kubedb/redis/commit/ad483730) Add support for Redis Sentinel mode (#335)
+- [31eb43fb](https://github.com/kubedb/redis/commit/31eb43fb) Log warning if Community License is used with non-demo namespace (#340)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.9.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.9.0)

@@ -21,6 +21,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.22.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.22.0)
+
+- [7c8e13f0](https://github.com/kubedb/elasticsearch/commit/7c8e13f0) Prepare for release v0.22.0 (#520)
+- [31719087](https://github.com/kubedb/elasticsearch/commit/31719087) Log warning if Community License is used with non-demo namespace (#519)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.6.0](https://github.com/kubedb/mariadb/releases/tag/v0.6.0)

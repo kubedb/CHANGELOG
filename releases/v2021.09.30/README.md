@@ -50,6 +50,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.15.0](https://github.com/kubedb/mysql/releases/tag/v0.15.0)
+
+- [883b3e77](https://github.com/kubedb/mysql/commit/883b3e77) Prepare for release v0.15.0 (#408)
+- [4f44fc94](https://github.com/kubedb/mysql/commit/4f44fc94) Log warning if Community License is used with non-demo namespace (#407)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.9.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.9.0)

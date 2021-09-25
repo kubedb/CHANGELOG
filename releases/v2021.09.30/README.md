@@ -58,3 +58,12 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.7.0](https://github.com/kubedb/tests/releases/tag/v0.7.0)
+
+- [bb86cc7](https://github.com/kubedb/tests/commit/bb86cc7) Prepare for release v0.7.0 (#142)
+- [5ff6dff](https://github.com/kubedb/tests/commit/5ff6dff) Log warning if Community License is used with non-demo namespace (#141)
+
+
+

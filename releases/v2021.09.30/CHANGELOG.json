@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.30",
-  "release_date": "2021-09-25T17:59:59.201406922Z",
+  "release_date": "2021-09-25T18:00:36.420988499Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.30",
   "kubernetes_version": "1.16+",
@@ -121,6 +121,24 @@
             {
               "SHA": "6cd3bd4",
               "Subject": "Log warning if Community License is used with non-demo namespace (#160)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "bb86cc7",
+              "Subject": "Prepare for release v0.7.0 (#142)"
+            },
+            {
+              "SHA": "5ff6dff",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#141)"
             }
           ]
         }

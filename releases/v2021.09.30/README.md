@@ -21,6 +21,17 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.6.0](https://github.com/kubedb/mariadb/releases/tag/v0.6.0)
+
+- [088b0250](https://github.com/kubedb/mariadb/commit/088b0250) Prepare for release v0.6.0 (#94)
+- [303ceb70](https://github.com/kubedb/mariadb/commit/303ceb70) Fixed security context and governing service patch issue. (#92)
+- [6b1b2d59](https://github.com/kubedb/mariadb/commit/6b1b2d59) Log warning if Community License is used with non-demo namespace (#93)
+- [1dc9b573](https://github.com/kubedb/mariadb/commit/1dc9b573) Fix coordinator run (#91)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.15.0](https://github.com/kubedb/memcached/releases/tag/v0.15.0)

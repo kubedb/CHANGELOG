@@ -30,3 +30,12 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.9.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.9.0)
+
+- [498053f](https://github.com/kubedb/replication-mode-detector/commit/498053f) Prepare for release v0.9.0 (#161)
+- [6cd3bd4](https://github.com/kubedb/replication-mode-detector/commit/6cd3bd4) Log warning if Community License is used with non-demo namespace (#160)
+
+
+

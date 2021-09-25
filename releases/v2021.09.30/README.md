@@ -105,6 +105,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.9.0](https://github.com/kubedb/proxysql/releases/tag/v0.9.0)
+
+- [e5535aa0](https://github.com/kubedb/proxysql/commit/e5535aa0) Prepare for release v0.9.0 (#193)
+- [80d1fc3c](https://github.com/kubedb/proxysql/commit/80d1fc3c) Log warning if Community License is used with non-demo namespace (#192)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.15.0](https://github.com/kubedb/redis/releases/tag/v0.15.0)

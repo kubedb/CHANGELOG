@@ -96,6 +96,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.9.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.9.0)
+
+- [af21e1a9](https://github.com/kubedb/pgbouncer/commit/af21e1a9) Prepare for release v0.9.0 (#174)
+- [6e6fac64](https://github.com/kubedb/pgbouncer/commit/6e6fac64) Log warning if Community License is used with non-demo namespace (#173)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.22.0](https://github.com/kubedb/postgres/releases/tag/v0.22.0)

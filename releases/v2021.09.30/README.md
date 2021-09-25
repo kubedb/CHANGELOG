@@ -39,6 +39,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.22.0](https://github.com/kubedb/postgres/releases/tag/v0.22.0)
+
+- [94a3e32f](https://github.com/kubedb/postgres/commit/94a3e32f) Prepare for release v0.22.0 (#523)
+- [d578389f](https://github.com/kubedb/postgres/commit/d578389f) Log warning if Community License is used with non-demo namespace (#522)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.15.0](https://github.com/kubedb/redis/releases/tag/v0.15.0)

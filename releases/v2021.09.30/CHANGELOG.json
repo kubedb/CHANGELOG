@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.30",
-  "release_date": "2021-09-25T19:21:28.994004518Z",
+  "release_date": "2021-09-25T19:30:12.024235928Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.30",
   "kubernetes_version": "1.16+",
@@ -75,6 +75,20 @@
             {
               "SHA": "67978809",
               "Subject": "Add Redis Sentinel CRD resources (#794)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.09.30",
+          "commits": [
+            {
+              "SHA": "1e73509",
+              "Subject": "Prepare for release v2021.09.30 (#35)"
             }
           ]
         }

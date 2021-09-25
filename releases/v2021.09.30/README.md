@@ -41,6 +41,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.2.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.2.0)
+
+- [8f1b7df](https://github.com/kubedb/mariadb-coordinator/commit/8f1b7df) Prepare for release v0.2.0 (#12)
+- [dff9b13](https://github.com/kubedb/mariadb-coordinator/commit/dff9b13) Restart mysqld Process if missing (#10)
+- [3e0e0de](https://github.com/kubedb/mariadb-coordinator/commit/3e0e0de) Log warning if Community License is used with non-demo namespace (#11)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.15.0](https://github.com/kubedb/memcached/releases/tag/v0.15.0)

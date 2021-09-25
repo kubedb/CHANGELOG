@@ -87,6 +87,15 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.6.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.6.0)
+
+- [41b6632](https://github.com/kubedb/pg-coordinator/commit/41b6632) Prepare for release v0.6.0 (#39)
+- [6399040](https://github.com/kubedb/pg-coordinator/commit/6399040) Log warning if Community License is used with non-demo namespace (#38)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.22.0](https://github.com/kubedb/postgres/releases/tag/v0.22.0)

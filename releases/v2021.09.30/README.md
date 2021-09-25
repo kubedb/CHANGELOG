@@ -30,6 +30,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.15.0](https://github.com/kubedb/mongodb/releases/tag/v0.15.0)
+
+- [19550583](https://github.com/kubedb/mongodb/commit/19550583) Prepare for release v0.15.0 (#417)
+- [c52519d9](https://github.com/kubedb/mongodb/commit/c52519d9) Log warning if Community License is used with non-demo namespace (#416)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.9.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.9.0)

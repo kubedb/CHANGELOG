@@ -30,6 +30,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.9.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.9.0)
+
+- [2d6cbda4](https://github.com/kubedb/percona-xtradb/commit/2d6cbda4) Prepare for release v0.9.0 (#214)
+- [db098256](https://github.com/kubedb/percona-xtradb/commit/db098256) Log warning if Community License is used with non-demo namespace (#213)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.9.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.9.0)

@@ -1,6 +1,18 @@
 # KubeDB v2021.09.30 (2021-09-25)
 
 
+## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
+
+### [v0.9.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.9.0)
+
+- [19e4ac7b](https://github.com/appscode/kubedb-enterprise/commit/19e4ac7b) Prepare for release v0.9.0 (#227)
+- [59c76bb4](https://github.com/appscode/kubedb-enterprise/commit/59c76bb4) Add MongoDB Offline Volume Expansion (#224)
+- [064b2294](https://github.com/appscode/kubedb-enterprise/commit/064b2294) Fix MariaDB Reconfigure TLS OpsReq early Successful status (#225)
+- [51a832d0](https://github.com/appscode/kubedb-enterprise/commit/51a832d0) Add TLS support for Redis Sentinel (#223)
+- [b0717568](https://github.com/appscode/kubedb-enterprise/commit/b0717568) Log warning if Community License is used with non-demo namespace (#226)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.22.0](https://github.com/kubedb/apimachinery/releases/tag/v0.22.0)

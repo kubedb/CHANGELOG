@@ -1,6 +1,15 @@
 # KubeDB v2021.09.30 (2021-09-25)
 
 
+## [appscode/kubedb-autoscaler](https://github.com/appscode/kubedb-autoscaler)
+
+### [v0.7.0](https://github.com/appscode/kubedb-autoscaler/releases/tag/v0.7.0)
+
+- [af632ae](https://github.com/appscode/kubedb-autoscaler/commit/af632ae) Prepare for release v0.7.0 (#37)
+- [45418c3](https://github.com/appscode/kubedb-autoscaler/commit/45418c3) Log warning if Community License is used with non-demo namespace (#36)
+
+
+
 ## [appscode/kubedb-enterprise](https://github.com/appscode/kubedb-enterprise)
 
 ### [v0.9.0](https://github.com/appscode/kubedb-enterprise/releases/tag/v0.9.0)

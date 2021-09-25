@@ -1,11 +1,29 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.09.30",
-  "release_date": "2021-09-25T18:42:49.837471745Z",
+  "release_date": "2021-09-25T18:50:13.445300988Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.09.30",
   "kubernetes_version": "1.16+",
   "projects": [
+    {
+      "url": "github.com/appscode/kubedb-autoscaler",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "af632ae",
+              "Subject": "Prepare for release v0.7.0 (#37)"
+            },
+            {
+              "SHA": "45418c3",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#36)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/appscode/kubedb-enterprise",
       "releases": [

@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.09.30",
+  "release_date": "2021-09-25T17:46:30.233156276Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.09.30",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "e85fa1ff",
+              "Subject": "Add `VolumeExpansionMode` in mongodb ops request (#800)"
+            },
+            {
+              "SHA": "61d61e39",
+              "Subject": "Add reconfigure TLS constants (#801)"
+            },
+            {
+              "SHA": "84659c4a",
+              "Subject": "Add RedisConfiguration struct for redis AppBinding (#799)"
+            },
+            {
+              "SHA": "67978809",
+              "Subject": "Add Redis Sentinel CRD resources (#794)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

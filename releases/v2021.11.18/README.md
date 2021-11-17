@@ -27,6 +27,28 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.8.0](https://github.com/kubedb/autoscaler/releases/tag/v0.8.0)
+
+- [85440f50](https://github.com/kubedb/autoscaler/commit/85440f50) Prepare for release v0.8.0 (#52)
+- [5f59bb99](https://github.com/kubedb/autoscaler/commit/5f59bb99) Update kmodules.xyz/monitoring-agent-api (#51)
+- [dcaa9d9d](https://github.com/kubedb/autoscaler/commit/dcaa9d9d) Update repository config (#50)
+- [a9c755f1](https://github.com/kubedb/autoscaler/commit/a9c755f1) Use DisableAnalytics flag from license (#49)
+- [a97521e7](https://github.com/kubedb/autoscaler/commit/a97521e7) Update license-verifier (#48)
+- [7cda0e3b](https://github.com/kubedb/autoscaler/commit/7cda0e3b) Support custom pod and controller labels (#47)
+- [99b2710c](https://github.com/kubedb/autoscaler/commit/99b2710c) Fix mongodb shard autoscaling issue (#46)
+- [3302e496](https://github.com/kubedb/autoscaler/commit/3302e496) Merge recommended resource with current resource (#45)
+- [7f6e3994](https://github.com/kubedb/autoscaler/commit/7f6e3994) Update dependencies (#44)
+- [0ab54377](https://github.com/kubedb/autoscaler/commit/0ab54377) Fix satori/go.uuid security vulnerability (#43)
+- [898e4497](https://github.com/kubedb/autoscaler/commit/898e4497) Fix jwt-go security vulnerability (#42)
+- [39e647ff](https://github.com/kubedb/autoscaler/commit/39e647ff) Fix jwt-go security vulnerability (#41)
+- [e898b195](https://github.com/kubedb/autoscaler/commit/e898b195) Use nats.go v1.13.0 (#39)
+- [dc0b7b32](https://github.com/kubedb/autoscaler/commit/dc0b7b32) Setup SiteInfo publisher (#40)
+- [de10d221](https://github.com/kubedb/autoscaler/commit/de10d221) Update dependencies to publish SiteInfo (#38)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.23.0](https://github.com/kubedb/cli/releases/tag/v0.23.0)

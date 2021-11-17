@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T11:17:51.36618913Z",
+  "release_date": "2021-11-17T11:31:23.627525096Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -87,6 +87,76 @@
             {
               "SHA": "d1f74f0b",
               "Subject": "Update repository config (#804)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "85440f50",
+              "Subject": "Prepare for release v0.8.0 (#52)"
+            },
+            {
+              "SHA": "5f59bb99",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#51)"
+            },
+            {
+              "SHA": "dcaa9d9d",
+              "Subject": "Update repository config (#50)"
+            },
+            {
+              "SHA": "a9c755f1",
+              "Subject": "Use DisableAnalytics flag from license (#49)"
+            },
+            {
+              "SHA": "a97521e7",
+              "Subject": "Update license-verifier (#48)"
+            },
+            {
+              "SHA": "7cda0e3b",
+              "Subject": "Support custom pod and controller labels (#47)"
+            },
+            {
+              "SHA": "99b2710c",
+              "Subject": "Fix mongodb shard autoscaling issue (#46)"
+            },
+            {
+              "SHA": "3302e496",
+              "Subject": "Merge recommended resource with current resource (#45)"
+            },
+            {
+              "SHA": "7f6e3994",
+              "Subject": "Update dependencies (#44)"
+            },
+            {
+              "SHA": "0ab54377",
+              "Subject": "Fix satori/go.uuid security vulnerability (#43)"
+            },
+            {
+              "SHA": "898e4497",
+              "Subject": "Fix jwt-go security vulnerability (#42)"
+            },
+            {
+              "SHA": "39e647ff",
+              "Subject": "Fix jwt-go security vulnerability (#41)"
+            },
+            {
+              "SHA": "e898b195",
+              "Subject": "Use nats.go v1.13.0 (#39)"
+            },
+            {
+              "SHA": "dc0b7b32",
+              "Subject": "Setup SiteInfo publisher (#40)"
+            },
+            {
+              "SHA": "de10d221",
+              "Subject": "Update dependencies to publish SiteInfo (#38)"
             }
           ]
         }

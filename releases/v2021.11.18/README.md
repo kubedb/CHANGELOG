@@ -73,6 +73,38 @@
 
 
 
+## [kubedb/enterprise](https://github.com/kubedb/enterprise)
+
+### [v0.10.0](https://github.com/kubedb/enterprise/releases/tag/v0.10.0)
+
+- [3214618e](https://github.com/kubedb/enterprise/commit/3214618e) Prepare for release v0.10.0 (#251)
+- [41c5b619](https://github.com/kubedb/enterprise/commit/41c5b619) Update kmodules.xyz/monitoring-agent-api (#250)
+- [64252ddb](https://github.com/kubedb/enterprise/commit/64252ddb) Remove global variable for preconditions (#249)
+- [aa368d82](https://github.com/kubedb/enterprise/commit/aa368d82) Update repository config (#248)
+- [9bcfee5a](https://github.com/kubedb/enterprise/commit/9bcfee5a) Fix semver checking. (#247)
+- [91ea48f1](https://github.com/kubedb/enterprise/commit/91ea48f1) Update docs
+- [34560f43](https://github.com/kubedb/enterprise/commit/34560f43) Use DisableAnalytics flag from license (#246)
+- [fac8c82b](https://github.com/kubedb/enterprise/commit/fac8c82b) Update license-verifier (#245)
+- [2d3839af](https://github.com/kubedb/enterprise/commit/2d3839af) Support custom pod and controller labels (#244)
+- [83488e1c](https://github.com/kubedb/enterprise/commit/83488e1c) Add backup permission for mysql replication user (#243)
+- [0dd46f8f](https://github.com/kubedb/enterprise/commit/0dd46f8f) Add support for reconfigure Elasticsearch (#220)
+- [2a980832](https://github.com/kubedb/enterprise/commit/2a980832) Use `kubedb.dev/db-client-go` for mongodb (#241)
+- [69d59b2c](https://github.com/kubedb/enterprise/commit/69d59b2c) Update mongodb vertical scaling logic (#240)
+- [e9b227b7](https://github.com/kubedb/enterprise/commit/e9b227b7) Update Redis Reconfigure Ops Request (#236)
+- [9342c052](https://github.com/kubedb/enterprise/commit/9342c052) Add support for mongodb reconfigure replicaSet config (#235)
+- [330c3be1](https://github.com/kubedb/enterprise/commit/330c3be1) Fix upgrade opsrequest for mysql coordinator (#229)
+- [f64f7d29](https://github.com/kubedb/enterprise/commit/f64f7d29) Update dependencies (#239)
+- [60b2d128](https://github.com/kubedb/enterprise/commit/60b2d128) Update xorm dependency (#238)
+- [fdcd91d3](https://github.com/kubedb/enterprise/commit/fdcd91d3) Fix satori/go.uuid security vulnerability (#237)
+- [62cb9918](https://github.com/kubedb/enterprise/commit/62cb9918) Fix jwt-go security vulnerability (#234)
+- [6af2b5a5](https://github.com/kubedb/enterprise/commit/6af2b5a5) Fix jwt-go security vulnerability (#233)
+- [527eb0e4](https://github.com/kubedb/enterprise/commit/527eb0e4) Fix: major and minor Upgrade issue for Postgres Debian images (#232)
+- [e8b5d6ae](https://github.com/kubedb/enterprise/commit/e8b5d6ae) Use nats.go v1.13.0 (#231)
+- [80c6c4ec](https://github.com/kubedb/enterprise/commit/80c6c4ec) Setup SiteInfo publisher (#230)
+- [b9d9d37f](https://github.com/kubedb/enterprise/commit/b9d9d37f) Update dependencies to publish SiteInfo (#228)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.7.0](https://github.com/kubedb/mariadb/releases/tag/v0.7.0)

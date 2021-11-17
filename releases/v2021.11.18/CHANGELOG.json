@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T11:11:53.241623406Z",
+  "release_date": "2021-11-17T11:17:51.36618913Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -235,6 +235,116 @@
             {
               "SHA": "7e3c63fd",
               "Subject": "Collect metrics from all type of Elasticsearch nodes (#521)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/enterprise",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "3214618e",
+              "Subject": "Prepare for release v0.10.0 (#251)"
+            },
+            {
+              "SHA": "41c5b619",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#250)"
+            },
+            {
+              "SHA": "64252ddb",
+              "Subject": "Remove global variable for preconditions (#249)"
+            },
+            {
+              "SHA": "aa368d82",
+              "Subject": "Update repository config (#248)"
+            },
+            {
+              "SHA": "9bcfee5a",
+              "Subject": "Fix semver checking. (#247)"
+            },
+            {
+              "SHA": "91ea48f1",
+              "Subject": "Update docs"
+            },
+            {
+              "SHA": "34560f43",
+              "Subject": "Use DisableAnalytics flag from license (#246)"
+            },
+            {
+              "SHA": "fac8c82b",
+              "Subject": "Update license-verifier (#245)"
+            },
+            {
+              "SHA": "2d3839af",
+              "Subject": "Support custom pod and controller labels (#244)"
+            },
+            {
+              "SHA": "83488e1c",
+              "Subject": "Add backup permission for mysql replication user (#243)"
+            },
+            {
+              "SHA": "0dd46f8f",
+              "Subject": "Add support for reconfigure Elasticsearch (#220)"
+            },
+            {
+              "SHA": "2a980832",
+              "Subject": "Use `kubedb.dev/db-client-go` for mongodb (#241)"
+            },
+            {
+              "SHA": "69d59b2c",
+              "Subject": "Update mongodb vertical scaling logic (#240)"
+            },
+            {
+              "SHA": "e9b227b7",
+              "Subject": "Update Redis Reconfigure Ops Request (#236)"
+            },
+            {
+              "SHA": "9342c052",
+              "Subject": "Add support for mongodb reconfigure replicaSet config (#235)"
+            },
+            {
+              "SHA": "330c3be1",
+              "Subject": "Fix upgrade opsrequest for mysql coordinator (#229)"
+            },
+            {
+              "SHA": "f64f7d29",
+              "Subject": "Update dependencies (#239)"
+            },
+            {
+              "SHA": "60b2d128",
+              "Subject": "Update xorm dependency (#238)"
+            },
+            {
+              "SHA": "fdcd91d3",
+              "Subject": "Fix satori/go.uuid security vulnerability (#237)"
+            },
+            {
+              "SHA": "62cb9918",
+              "Subject": "Fix jwt-go security vulnerability (#234)"
+            },
+            {
+              "SHA": "6af2b5a5",
+              "Subject": "Fix jwt-go security vulnerability (#233)"
+            },
+            {
+              "SHA": "527eb0e4",
+              "Subject": "Fix: major and minor Upgrade issue for Postgres Debian images (#232)"
+            },
+            {
+              "SHA": "e8b5d6ae",
+              "Subject": "Use nats.go v1.13.0 (#231)"
+            },
+            {
+              "SHA": "80c6c4ec",
+              "Subject": "Setup SiteInfo publisher (#230)"
+            },
+            {
+              "SHA": "b9d9d37f",
+              "Subject": "Update dependencies to publish SiteInfo (#228)"
             }
           ]
         }

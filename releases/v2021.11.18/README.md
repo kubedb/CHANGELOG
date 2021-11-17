@@ -54,6 +54,30 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.10.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.10.0)
+
+- [99ac8dca](https://github.com/kubedb/percona-xtradb/commit/99ac8dca) Prepare for release v0.10.0 (#230)
+- [5b90ae92](https://github.com/kubedb/percona-xtradb/commit/5b90ae92) Update kmodules.xyz/monitoring-agent-api (#229)
+- [13edd56c](https://github.com/kubedb/percona-xtradb/commit/13edd56c) Remove global variable for preconditions (#228)
+- [29b4a103](https://github.com/kubedb/percona-xtradb/commit/29b4a103) Update repository config (#227)
+- [56b7d005](https://github.com/kubedb/percona-xtradb/commit/56b7d005) Remove docs
+- [87f94bb7](https://github.com/kubedb/percona-xtradb/commit/87f94bb7) Use DisableAnalytics flag from license (#226)
+- [2f92a7d0](https://github.com/kubedb/percona-xtradb/commit/2f92a7d0) Update license-verifier (#225)
+- [11db9761](https://github.com/kubedb/percona-xtradb/commit/11db9761) Update audit and license-verifier version (#223)
+- [4026e363](https://github.com/kubedb/percona-xtradb/commit/4026e363) Add pod, statefulSet and service labels support (#224)
+- [eb09a518](https://github.com/kubedb/percona-xtradb/commit/eb09a518) Fix satori/go.uuid security vulnerability (#222)
+- [0b6063c4](https://github.com/kubedb/percona-xtradb/commit/0b6063c4) Fix jwt-go security vulnerability (#221)
+- [ba344a97](https://github.com/kubedb/percona-xtradb/commit/ba344a97) Fix jwt-go security vulnerability (#220)
+- [9d3c6e65](https://github.com/kubedb/percona-xtradb/commit/9d3c6e65) Use nats.go v1.13.0 (#219)
+- [7dbb955f](https://github.com/kubedb/percona-xtradb/commit/7dbb955f) Setup SiteInfo publisher (#218)
+- [eab16c22](https://github.com/kubedb/percona-xtradb/commit/eab16c22) Update dependencies to publish SiteInfo (#217)
+- [31e773dd](https://github.com/kubedb/percona-xtradb/commit/31e773dd) Update dependencies to publish SiteInfo (#216)
+- [5a2ff511](https://github.com/kubedb/percona-xtradb/commit/5a2ff511) Update repository config (#215)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.7.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.7.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:44:10.89641818Z",
+  "release_date": "2021-11-17T10:44:22.039013317Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -551,6 +551,104 @@
             {
               "SHA": "41f3ccd9",
               "Subject": "Update repository config (#418)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "0680eeb3",
+              "Subject": "Prepare for release v0.16.0 (#429)"
+            },
+            {
+              "SHA": "375760f3",
+              "Subject": "Export Group Replication stats in Exporter Container (#425)"
+            },
+            {
+              "SHA": "2b5af248",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#428)"
+            },
+            {
+              "SHA": "57f7cf60",
+              "Subject": "Remove global variable for preconditions (#427)"
+            },
+            {
+              "SHA": "d47d0e39",
+              "Subject": "Update repository config (#426)"
+            },
+            {
+              "SHA": "8847d166",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "646da2c8",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "eca0cfd5",
+              "Subject": "Use DisableAnalytics flag from license (#424)"
+            },
+            {
+              "SHA": "86d7a80d",
+              "Subject": "Update license-verifier (#423)"
+            },
+            {
+              "SHA": "de8696fc",
+              "Subject": "Add support for custom pod, service, and controller(sts) labels (#420)"
+            },
+            {
+              "SHA": "87e3ea31",
+              "Subject": "Update entry point command for mysql router. (#422)"
+            },
+            {
+              "SHA": "73178faa",
+              "Subject": "Add support for MySQL Coordinator (#406)"
+            },
+            {
+              "SHA": "0075cf98",
+              "Subject": "Update dependencies (#418)"
+            },
+            {
+              "SHA": "4188a194",
+              "Subject": "Fix satori/go.uuid security vulnerability (#417)"
+            },
+            {
+              "SHA": "569e220f",
+              "Subject": "Fix jwt-go security vulnerability (#416)"
+            },
+            {
+              "SHA": "be5be397",
+              "Subject": "Restrict group replicas for size 2 in Validator (#402)"
+            },
+            {
+              "SHA": "4dbb18f3",
+              "Subject": "Fix jwt-go security vulnerability (#414)"
+            },
+            {
+              "SHA": "f4b0bb43",
+              "Subject": "Use nats.go v1.13.0 (#413)"
+            },
+            {
+              "SHA": "c5eefa7e",
+              "Subject": "Setup SiteInfo publisher (#412)"
+            },
+            {
+              "SHA": "8157ec8f",
+              "Subject": "Update dependencies to publish SiteInfo (#411)"
+            },
+            {
+              "SHA": "808dbd85",
+              "Subject": "Update dependencies to publish SiteInfo (#410)"
+            },
+            {
+              "SHA": "a949af00",
+              "Subject": "Update repository config (#409)"
             }
           ]
         }

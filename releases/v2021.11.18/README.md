@@ -170,6 +170,35 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.16.0](https://github.com/kubedb/mysql/releases/tag/v0.16.0)
+
+- [0680eeb3](https://github.com/kubedb/mysql/commit/0680eeb3) Prepare for release v0.16.0 (#429)
+- [375760f3](https://github.com/kubedb/mysql/commit/375760f3) Export Group Replication stats in Exporter Container (#425)
+- [2b5af248](https://github.com/kubedb/mysql/commit/2b5af248) Update kmodules.xyz/monitoring-agent-api (#428)
+- [57f7cf60](https://github.com/kubedb/mysql/commit/57f7cf60) Remove global variable for preconditions (#427)
+- [d47d0e39](https://github.com/kubedb/mysql/commit/d47d0e39) Update repository config (#426)
+- [8847d166](https://github.com/kubedb/mysql/commit/8847d166) Update dependencies
+- [646da2c8](https://github.com/kubedb/mysql/commit/646da2c8) Remove docs
+- [eca0cfd5](https://github.com/kubedb/mysql/commit/eca0cfd5) Use DisableAnalytics flag from license (#424)
+- [86d7a80d](https://github.com/kubedb/mysql/commit/86d7a80d) Update license-verifier (#423)
+- [de8696fc](https://github.com/kubedb/mysql/commit/de8696fc) Add support for custom pod, service, and controller(sts) labels (#420)
+- [87e3ea31](https://github.com/kubedb/mysql/commit/87e3ea31) Update entry point command for mysql router. (#422)
+- [73178faa](https://github.com/kubedb/mysql/commit/73178faa) Add support for MySQL Coordinator (#406)
+- [0075cf98](https://github.com/kubedb/mysql/commit/0075cf98) Update dependencies (#418)
+- [4188a194](https://github.com/kubedb/mysql/commit/4188a194) Fix satori/go.uuid security vulnerability (#417)
+- [569e220f](https://github.com/kubedb/mysql/commit/569e220f) Fix jwt-go security vulnerability (#416)
+- [be5be397](https://github.com/kubedb/mysql/commit/be5be397) Restrict group replicas for size 2 in Validator (#402)
+- [4dbb18f3](https://github.com/kubedb/mysql/commit/4dbb18f3) Fix jwt-go security vulnerability (#414)
+- [f4b0bb43](https://github.com/kubedb/mysql/commit/f4b0bb43) Use nats.go v1.13.0 (#413)
+- [c5eefa7e](https://github.com/kubedb/mysql/commit/c5eefa7e) Setup SiteInfo publisher (#412)
+- [8157ec8f](https://github.com/kubedb/mysql/commit/8157ec8f) Update dependencies to publish SiteInfo (#411)
+- [808dbd85](https://github.com/kubedb/mysql/commit/808dbd85) Update dependencies to publish SiteInfo (#410)
+- [a949af00](https://github.com/kubedb/mysql/commit/a949af00) Update repository config (#409)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.1.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.1.0)

@@ -127,6 +127,46 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2021.11.18](https://github.com/kubedb/installer/releases/tag/v2021.11.18)
+
+- [3fe4c869](https://github.com/kubedb/installer/commit/3fe4c869) Prepare for release v2021.11.18 (#395)
+- [b7321269](https://github.com/kubedb/installer/commit/b7321269) Use mysqld Exporter Image with custom query support (#390)
+- [5372ab67](https://github.com/kubedb/installer/commit/5372ab67) Add new Postgres versions in catalog (#394)
+- [09621a10](https://github.com/kubedb/installer/commit/09621a10) Update kmodules.xyz/monitoring-agent-api (#393)
+- [23f4d5c1](https://github.com/kubedb/installer/commit/23f4d5c1) Update repository config (#392)
+- [3fa119af](https://github.com/kubedb/installer/commit/3fa119af) Add labels to license related rolebindings & secrets (#391)
+- [9e18ab72](https://github.com/kubedb/installer/commit/9e18ab72) Add MySQL 5.7.36, 8.0.17 8.0.27 (#378)
+- [5c8d2854](https://github.com/kubedb/installer/commit/5c8d2854) Remove --enable-analytics flag (#389)
+- [589c93f8](https://github.com/kubedb/installer/commit/589c93f8) Update license-verifier (#388)
+- [f1f19f47](https://github.com/kubedb/installer/commit/f1f19f47) Fix regression in #386 (#387)
+- [ddd3e9f3](https://github.com/kubedb/installer/commit/ddd3e9f3) Change installer namespace to kubedb (#386)
+- [64e95827](https://github.com/kubedb/installer/commit/64e95827) Support OpenSearch 1.1.0 and update elasticsearch-exporter image to 1.3.0 (#384)
+- [6cf27bc1](https://github.com/kubedb/installer/commit/6cf27bc1) Update Postgres-init Image Version to v0.4.0 (#382)
+- [d5db17f8](https://github.com/kubedb/installer/commit/d5db17f8) Update crds
+- [0dbc20cb](https://github.com/kubedb/installer/commit/0dbc20cb) Update crds
+- [c11c29f6](https://github.com/kubedb/installer/commit/c11c29f6) Update dependencies (#381)
+- [1ef34de3](https://github.com/kubedb/installer/commit/1ef34de3) Update Redis Init Image version for Custom Config fixes (#380)
+- [cb48c46b](https://github.com/kubedb/installer/commit/cb48c46b) Fix satori/go.uuid security vulnerability (#379)
+- [f39255c3](https://github.com/kubedb/installer/commit/f39255c3) Add innodb and coordiantor support (#371)
+- [53ab0b1b](https://github.com/kubedb/installer/commit/53ab0b1b) Fix jwt-go security vulnerability (#377)
+- [01ae1087](https://github.com/kubedb/installer/commit/01ae1087) Fix jwt-go security vulnerability (#376)
+- [b17e22a0](https://github.com/kubedb/installer/commit/b17e22a0) Add fields to MySQL Metrics (#375)
+- [b4e4d317](https://github.com/kubedb/installer/commit/b4e4d317) Add New Postgres versions (#374)
+- [19094b7a](https://github.com/kubedb/installer/commit/19094b7a) Update crds
+- [85e02d5b](https://github.com/kubedb/installer/commit/85e02d5b) Add mongodb `5.0.3` (#372)
+- [e055d79a](https://github.com/kubedb/installer/commit/e055d79a) Mark versions using Official docker images as Official Distro (#373)
+- [3e45fb54](https://github.com/kubedb/installer/commit/3e45fb54) Add SiteInfo publisher permission
+- [df913373](https://github.com/kubedb/installer/commit/df913373) Update dependencies to publish SiteInfo (#369)
+- [a1cc057f](https://github.com/kubedb/installer/commit/a1cc057f) Add fields to redis-metrics (#366)
+- [bf243169](https://github.com/kubedb/installer/commit/bf243169) Add fields to MariaDB Metrics (#370)
+- [b53d5cc3](https://github.com/kubedb/installer/commit/b53d5cc3) Add v14.0 in Postgres catalog (#368)
+- [e3ec7f67](https://github.com/kubedb/installer/commit/e3ec7f67) Add redis sentinel metrics configuration (#367)
+- [1881967c](https://github.com/kubedb/installer/commit/1881967c) Update various kubedb metrics and metric labels (#364)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.7.0](https://github.com/kubedb/mariadb/releases/tag/v0.7.0)

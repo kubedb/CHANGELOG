@@ -27,6 +27,33 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.23.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.23.0)
+
+- [d653718f](https://github.com/kubedb/elasticsearch/commit/d653718f) Prepare for release v0.23.0 (#540)
+- [a15c804d](https://github.com/kubedb/elasticsearch/commit/a15c804d) Update kmodules.xyz/monitoring-agent-api (#539)
+- [0778ff4f](https://github.com/kubedb/elasticsearch/commit/0778ff4f) Remove global variable for preconditions (#538)
+- [bd084ade](https://github.com/kubedb/elasticsearch/commit/bd084ade) Update repository config (#537)
+- [180f2c47](https://github.com/kubedb/elasticsearch/commit/180f2c47) Remove docs folder
+- [a97b7131](https://github.com/kubedb/elasticsearch/commit/a97b7131) Update docs
+- [16895e92](https://github.com/kubedb/elasticsearch/commit/16895e92) Use DisableAnalytics flag from license (#536)
+- [62c2d28f](https://github.com/kubedb/elasticsearch/commit/62c2d28f) Update license-verifier (#535)
+- [c70caee3](https://github.com/kubedb/elasticsearch/commit/c70caee3) Add pod, services and workload-controller(sts) label support (#532)
+- [0e5aeb59](https://github.com/kubedb/elasticsearch/commit/0e5aeb59) Add support for OpenSearch (#529)
+- [fd527ccb](https://github.com/kubedb/elasticsearch/commit/fd527ccb) Update dependencies (#531)
+- [b2cf3e9f](https://github.com/kubedb/elasticsearch/commit/b2cf3e9f) Always create admin certs if the cluster security is enabled (#516)
+- [aae6bc29](https://github.com/kubedb/elasticsearch/commit/aae6bc29) Fix satori/go.uuid security vulnerability (#530)
+- [50aa1c9e](https://github.com/kubedb/elasticsearch/commit/50aa1c9e) Fix jwt-go security vulnerability (#528)
+- [4b6ebc0c](https://github.com/kubedb/elasticsearch/commit/4b6ebc0c) Fix jwt-go security vulnerability (#527)
+- [9d87c0a7](https://github.com/kubedb/elasticsearch/commit/9d87c0a7) Use nats.go v1.13.0 (#526)
+- [cc4811ef](https://github.com/kubedb/elasticsearch/commit/cc4811ef) Setup SiteInfo publisher (#525)
+- [00feb65a](https://github.com/kubedb/elasticsearch/commit/00feb65a) Update dependencies to publish SiteInfo (#524)
+- [a7f4137f](https://github.com/kubedb/elasticsearch/commit/a7f4137f) Update dependencies to publish SiteInfo (#523)
+- [7e3c63fd](https://github.com/kubedb/elasticsearch/commit/7e3c63fd) Collect metrics from all type of Elasticsearch nodes (#521)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.7.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.7.0)

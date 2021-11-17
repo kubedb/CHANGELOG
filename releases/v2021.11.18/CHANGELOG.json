@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:42:27.369016551Z",
+  "release_date": "2021-11-17T10:42:37.519441132Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -87,6 +87,96 @@
             {
               "SHA": "d1f74f0b",
               "Subject": "Update repository config (#804)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "d653718f",
+              "Subject": "Prepare for release v0.23.0 (#540)"
+            },
+            {
+              "SHA": "a15c804d",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#539)"
+            },
+            {
+              "SHA": "0778ff4f",
+              "Subject": "Remove global variable for preconditions (#538)"
+            },
+            {
+              "SHA": "bd084ade",
+              "Subject": "Update repository config (#537)"
+            },
+            {
+              "SHA": "180f2c47",
+              "Subject": "Remove docs folder"
+            },
+            {
+              "SHA": "a97b7131",
+              "Subject": "Update docs"
+            },
+            {
+              "SHA": "16895e92",
+              "Subject": "Use DisableAnalytics flag from license (#536)"
+            },
+            {
+              "SHA": "62c2d28f",
+              "Subject": "Update license-verifier (#535)"
+            },
+            {
+              "SHA": "c70caee3",
+              "Subject": "Add pod, services and workload-controller(sts) label support (#532)"
+            },
+            {
+              "SHA": "0e5aeb59",
+              "Subject": "Add support for OpenSearch (#529)"
+            },
+            {
+              "SHA": "fd527ccb",
+              "Subject": "Update dependencies (#531)"
+            },
+            {
+              "SHA": "b2cf3e9f",
+              "Subject": "Always create admin certs if the cluster security is enabled (#516)"
+            },
+            {
+              "SHA": "aae6bc29",
+              "Subject": "Fix satori/go.uuid security vulnerability (#530)"
+            },
+            {
+              "SHA": "50aa1c9e",
+              "Subject": "Fix jwt-go security vulnerability (#528)"
+            },
+            {
+              "SHA": "4b6ebc0c",
+              "Subject": "Fix jwt-go security vulnerability (#527)"
+            },
+            {
+              "SHA": "9d87c0a7",
+              "Subject": "Use nats.go v1.13.0 (#526)"
+            },
+            {
+              "SHA": "cc4811ef",
+              "Subject": "Setup SiteInfo publisher (#525)"
+            },
+            {
+              "SHA": "00feb65a",
+              "Subject": "Update dependencies to publish SiteInfo (#524)"
+            },
+            {
+              "SHA": "a7f4137f",
+              "Subject": "Update dependencies to publish SiteInfo (#523)"
+            },
+            {
+              "SHA": "7e3c63fd",
+              "Subject": "Collect metrics from all type of Elasticsearch nodes (#521)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:44:22.039013317Z",
+  "release_date": "2021-11-17T10:45:08.969522076Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -707,6 +707,44 @@
             {
               "SHA": "50fdeee",
               "Subject": "Fix jwt-go security vulnerability (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "e16b07e",
+              "Subject": "Update repository config (#13)"
+            },
+            {
+              "SHA": "1d14631",
+              "Subject": "Monitor mysql router process id  and restart it if closed. (#11)"
+            },
+            {
+              "SHA": "e36615e",
+              "Subject": "Support custom pod and controller labels (#12)"
+            },
+            {
+              "SHA": "48829ef",
+              "Subject": "Fix satori/go.uuid security vulnerability (#10)"
+            },
+            {
+              "SHA": "5f363e8",
+              "Subject": "Fix jwt-go security vulnerability (#9)"
+            },
+            {
+              "SHA": "41b0fb7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "51fc22e",
+              "Subject": "Fix jwt-go security vulnerability (#8)"
             }
           ]
         }

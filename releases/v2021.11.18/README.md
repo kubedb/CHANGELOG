@@ -218,6 +218,20 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.1.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.1.0)
+
+- [e16b07e](https://github.com/kubedb/mysql-router-init/commit/e16b07e) Update repository config (#13)
+- [1d14631](https://github.com/kubedb/mysql-router-init/commit/1d14631) Monitor mysql router process id  and restart it if closed. (#11)
+- [e36615e](https://github.com/kubedb/mysql-router-init/commit/e36615e) Support custom pod and controller labels (#12)
+- [48829ef](https://github.com/kubedb/mysql-router-init/commit/48829ef) Fix satori/go.uuid security vulnerability (#10)
+- [5f363e8](https://github.com/kubedb/mysql-router-init/commit/5f363e8) Fix jwt-go security vulnerability (#9)
+- [41b0fb7](https://github.com/kubedb/mysql-router-init/commit/41b0fb7) Update deps
+- [51fc22e](https://github.com/kubedb/mysql-router-init/commit/51fc22e) Fix jwt-go security vulnerability (#8)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.10.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.10.0)

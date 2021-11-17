@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:57:25.905054513Z",
+  "release_date": "2021-11-17T11:11:53.241623406Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -747,6 +747,15 @@
               "Subject": "Fix jwt-go security vulnerability (#8)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": null
         }
       ]
     },

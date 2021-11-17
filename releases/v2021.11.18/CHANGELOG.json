@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:43:31.875265814Z",
+  "release_date": "2021-11-17T10:43:40.614314458Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -235,6 +235,92 @@
             {
               "SHA": "7e3c63fd",
               "Subject": "Collect metrics from all type of Elasticsearch nodes (#521)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "05707163",
+              "Subject": "Prepare for release v0.7.0 (#112)"
+            },
+            {
+              "SHA": "2818eb2b",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#111)"
+            },
+            {
+              "SHA": "4580ebd5",
+              "Subject": "Remove global variable for preconditions (#110)"
+            },
+            {
+              "SHA": "8223c352",
+              "Subject": "Update repository config (#109)"
+            },
+            {
+              "SHA": "8be974a6",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "0279fa08",
+              "Subject": "Update docs"
+            },
+            {
+              "SHA": "45cbdb9e",
+              "Subject": "Use DisableAnalytics flag from license (#108)"
+            },
+            {
+              "SHA": "0d4ae537",
+              "Subject": "Update license-verifier (#107)"
+            },
+            {
+              "SHA": "92626beb",
+              "Subject": "Support custom pod, service, and controller(sts) labels (#105)"
+            },
+            {
+              "SHA": "afd25e04",
+              "Subject": "Update dependencies (#104)"
+            },
+            {
+              "SHA": "297c7cdb",
+              "Subject": "Update xorm dependency (#103)"
+            },
+            {
+              "SHA": "fc99578b",
+              "Subject": "Fix satori/go.uuid security vulnerability (#102)"
+            },
+            {
+              "SHA": "43236638",
+              "Subject": "Fix jwt-go security vulnerability (#101)"
+            },
+            {
+              "SHA": "247e1413",
+              "Subject": "Fix jwt-go security vulnerability (#100)"
+            },
+            {
+              "SHA": "1ef0690d",
+              "Subject": "Use nats.go v1.13.0 (#99)"
+            },
+            {
+              "SHA": "2a067c0b",
+              "Subject": "Setup SiteInfo publisher (#98)"
+            },
+            {
+              "SHA": "72c93bb2",
+              "Subject": "Update dependencies to publish SiteInfo (#97)"
+            },
+            {
+              "SHA": "2e17fbb6",
+              "Subject": "Update dependencies to publish SiteInfo (#96)"
+            },
+            {
+              "SHA": "8b091ae3",
+              "Subject": "Update repository config (#95)"
             }
           ]
         }

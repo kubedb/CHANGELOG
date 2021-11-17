@@ -73,6 +73,32 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.7.0](https://github.com/kubedb/mariadb/releases/tag/v0.7.0)
+
+- [05707163](https://github.com/kubedb/mariadb/commit/05707163) Prepare for release v0.7.0 (#112)
+- [2818eb2b](https://github.com/kubedb/mariadb/commit/2818eb2b) Update kmodules.xyz/monitoring-agent-api (#111)
+- [4580ebd5](https://github.com/kubedb/mariadb/commit/4580ebd5) Remove global variable for preconditions (#110)
+- [8223c352](https://github.com/kubedb/mariadb/commit/8223c352) Update repository config (#109)
+- [8be974a6](https://github.com/kubedb/mariadb/commit/8be974a6) Remove docs
+- [0279fa08](https://github.com/kubedb/mariadb/commit/0279fa08) Update docs
+- [45cbdb9e](https://github.com/kubedb/mariadb/commit/45cbdb9e) Use DisableAnalytics flag from license (#108)
+- [0d4ae537](https://github.com/kubedb/mariadb/commit/0d4ae537) Update license-verifier (#107)
+- [92626beb](https://github.com/kubedb/mariadb/commit/92626beb) Support custom pod, service, and controller(sts) labels (#105)
+- [afd25e04](https://github.com/kubedb/mariadb/commit/afd25e04) Update dependencies (#104)
+- [297c7cdb](https://github.com/kubedb/mariadb/commit/297c7cdb) Update xorm dependency (#103)
+- [fc99578b](https://github.com/kubedb/mariadb/commit/fc99578b) Fix satori/go.uuid security vulnerability (#102)
+- [43236638](https://github.com/kubedb/mariadb/commit/43236638) Fix jwt-go security vulnerability (#101)
+- [247e1413](https://github.com/kubedb/mariadb/commit/247e1413) Fix jwt-go security vulnerability (#100)
+- [1ef0690d](https://github.com/kubedb/mariadb/commit/1ef0690d) Use nats.go v1.13.0 (#99)
+- [2a067c0b](https://github.com/kubedb/mariadb/commit/2a067c0b) Setup SiteInfo publisher (#98)
+- [72c93bb2](https://github.com/kubedb/mariadb/commit/72c93bb2) Update dependencies to publish SiteInfo (#97)
+- [2e17fbb6](https://github.com/kubedb/mariadb/commit/2e17fbb6) Update dependencies to publish SiteInfo (#96)
+- [8b091ae3](https://github.com/kubedb/mariadb/commit/8b091ae3) Update repository config (#95)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.3.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.3.0)

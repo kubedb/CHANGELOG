@@ -49,6 +49,16 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2021.11.18](https://github.com/kubedb/bundles/releases/tag/v2021.11.18)
+
+- [4862543](https://github.com/kubedb/bundles/commit/4862543) Prepare for release v2021.11.18 (#38)
+- [f5ce1aa](https://github.com/kubedb/bundles/commit/f5ce1aa) Update repository config (#37)
+- [a6953b6](https://github.com/kubedb/bundles/commit/a6953b6) Update repository config (#36)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.23.0](https://github.com/kubedb/cli/releases/tag/v0.23.0)

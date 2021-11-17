@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T12:02:57.294066884Z",
+  "release_date": "2021-11-17T12:11:59.399269616Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -157,6 +157,28 @@
             {
               "SHA": "de10d221",
               "Subject": "Update dependencies to publish SiteInfo (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.11.18",
+          "commits": [
+            {
+              "SHA": "4862543",
+              "Subject": "Prepare for release v2021.11.18 (#38)"
+            },
+            {
+              "SHA": "f5ce1aa",
+              "Subject": "Update repository config (#37)"
+            },
+            {
+              "SHA": "a6953b6",
+              "Subject": "Update repository config (#36)"
             }
           ]
         }

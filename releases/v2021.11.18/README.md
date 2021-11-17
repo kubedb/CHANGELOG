@@ -118,6 +118,30 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.16.0](https://github.com/kubedb/memcached/releases/tag/v0.16.0)
+
+- [f1131b24](https://github.com/kubedb/memcached/commit/f1131b24) Prepare for release v0.16.0 (#327)
+- [9a48dfb4](https://github.com/kubedb/memcached/commit/9a48dfb4) Update kmodules.xyz/monitoring-agent-api (#326)
+- [eedff52b](https://github.com/kubedb/memcached/commit/eedff52b) Remove global variable for preconditions (#325)
+- [7e9aa7cb](https://github.com/kubedb/memcached/commit/7e9aa7cb) Update repository config (#324)
+- [83d8990b](https://github.com/kubedb/memcached/commit/83d8990b) Remove docs
+- [75c6aaae](https://github.com/kubedb/memcached/commit/75c6aaae) Update docs
+- [d44def4b](https://github.com/kubedb/memcached/commit/d44def4b) Use DisableAnalytics flag from license (#323)
+- [f1ac7471](https://github.com/kubedb/memcached/commit/f1ac7471) Update license-verifier (#322)
+- [7c395019](https://github.com/kubedb/memcached/commit/7c395019) Support custom pod, service, and controller labels (#321)
+- [b138b898](https://github.com/kubedb/memcached/commit/b138b898) Update dependencies (#320)
+- [789dd6f7](https://github.com/kubedb/memcached/commit/789dd6f7) Fix satori/go.uuid security vulnerability (#319)
+- [37d03918](https://github.com/kubedb/memcached/commit/37d03918) Fix jwt-go security vulnerability (#318)
+- [27e097a3](https://github.com/kubedb/memcached/commit/27e097a3) Fix jwt-go security vulnerability (#317)
+- [8fe76024](https://github.com/kubedb/memcached/commit/8fe76024) Use nats.go v1.13.0 (#316)
+- [1e1443e0](https://github.com/kubedb/memcached/commit/1e1443e0) Update dependencies to publish SiteInfo (#315)
+- [5c4569d2](https://github.com/kubedb/memcached/commit/5c4569d2) Update dependencies to publish SiteInfo (#314)
+- [912ec127](https://github.com/kubedb/memcached/commit/912ec127) Update repository config (#313)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.1.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.1.0)

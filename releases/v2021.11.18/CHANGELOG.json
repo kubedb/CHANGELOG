@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:43:40.614314458Z",
+  "release_date": "2021-11-17T10:43:49.963426622Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -379,6 +379,84 @@
             {
               "SHA": "dbac458",
               "Subject": "Use nats.go v1.13.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "f1131b24",
+              "Subject": "Prepare for release v0.16.0 (#327)"
+            },
+            {
+              "SHA": "9a48dfb4",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#326)"
+            },
+            {
+              "SHA": "eedff52b",
+              "Subject": "Remove global variable for preconditions (#325)"
+            },
+            {
+              "SHA": "7e9aa7cb",
+              "Subject": "Update repository config (#324)"
+            },
+            {
+              "SHA": "83d8990b",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "75c6aaae",
+              "Subject": "Update docs"
+            },
+            {
+              "SHA": "d44def4b",
+              "Subject": "Use DisableAnalytics flag from license (#323)"
+            },
+            {
+              "SHA": "f1ac7471",
+              "Subject": "Update license-verifier (#322)"
+            },
+            {
+              "SHA": "7c395019",
+              "Subject": "Support custom pod, service, and controller labels (#321)"
+            },
+            {
+              "SHA": "b138b898",
+              "Subject": "Update dependencies (#320)"
+            },
+            {
+              "SHA": "789dd6f7",
+              "Subject": "Fix satori/go.uuid security vulnerability (#319)"
+            },
+            {
+              "SHA": "37d03918",
+              "Subject": "Fix jwt-go security vulnerability (#318)"
+            },
+            {
+              "SHA": "27e097a3",
+              "Subject": "Fix jwt-go security vulnerability (#317)"
+            },
+            {
+              "SHA": "8fe76024",
+              "Subject": "Use nats.go v1.13.0 (#316)"
+            },
+            {
+              "SHA": "1e1443e0",
+              "Subject": "Update dependencies to publish SiteInfo (#315)"
+            },
+            {
+              "SHA": "5c4569d2",
+              "Subject": "Update dependencies to publish SiteInfo (#314)"
+            },
+            {
+              "SHA": "912ec127",
+              "Subject": "Update repository config (#313)"
             }
           ]
         }

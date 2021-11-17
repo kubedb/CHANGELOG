@@ -120,6 +120,31 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.23.0](https://github.com/kubedb/postgres/releases/tag/v0.23.0)
+
+- [b9b2521a](https://github.com/kubedb/postgres/commit/b9b2521a) Prepare for release v0.23.0 (#540)
+- [6f98f884](https://github.com/kubedb/postgres/commit/6f98f884) Update kmodules.xyz/monitoring-agent-api (#539)
+- [015dd315](https://github.com/kubedb/postgres/commit/015dd315) Update repository config (#537)
+- [1ce33dd4](https://github.com/kubedb/postgres/commit/1ce33dd4) Remove global variable for preconditions (#538)
+- [967b1bd5](https://github.com/kubedb/postgres/commit/967b1bd5) Remove docs
+- [63585d4d](https://github.com/kubedb/postgres/commit/63585d4d) Use DisableAnalytics flag from license (#536)
+- [8030b449](https://github.com/kubedb/postgres/commit/8030b449) Update license-verifier (#535)
+- [30407273](https://github.com/kubedb/postgres/commit/30407273) Add pod, services, and pod-controller(sts) labels support (#533)
+- [55c626a2](https://github.com/kubedb/postgres/commit/55c626a2) Add Raft client Port In Primary Service (#530)
+- [a1a4bdb3](https://github.com/kubedb/postgres/commit/a1a4bdb3) Stop using beta api
+- [e0e2a3e4](https://github.com/kubedb/postgres/commit/e0e2a3e4) Update xorm.io/xorm dependency (#532)
+- [e6aacd05](https://github.com/kubedb/postgres/commit/e6aacd05) Fix satori/go.uuid security vulnerability (#531)
+- [140226f7](https://github.com/kubedb/postgres/commit/140226f7) Fix jwt-go security vulnerability (#529)
+- [31e9df33](https://github.com/kubedb/postgres/commit/31e9df33) Fix jwt-go security vulnerability (#528)
+- [70fb383a](https://github.com/kubedb/postgres/commit/70fb383a) Use nats.go v1.13.0 (#527)
+- [77d43f95](https://github.com/kubedb/postgres/commit/77d43f95) Setup SiteInfo publisher (#526)
+- [8755bde2](https://github.com/kubedb/postgres/commit/8755bde2) Update dependencies to publish SiteInfo (#525)
+- [feb81410](https://github.com/kubedb/postgres/commit/feb81410) Update repository config (#524)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.2.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.2.0)

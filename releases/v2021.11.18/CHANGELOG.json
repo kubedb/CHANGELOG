@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:42:56.970966308Z",
+  "release_date": "2021-11-17T10:43:08.47429217Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -387,6 +387,88 @@
             {
               "SHA": "06ee14c",
               "Subject": "Add support for Postgres version v14.0 (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "b9b2521a",
+              "Subject": "Prepare for release v0.23.0 (#540)"
+            },
+            {
+              "SHA": "6f98f884",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#539)"
+            },
+            {
+              "SHA": "015dd315",
+              "Subject": "Update repository config (#537)"
+            },
+            {
+              "SHA": "1ce33dd4",
+              "Subject": "Remove global variable for preconditions (#538)"
+            },
+            {
+              "SHA": "967b1bd5",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "63585d4d",
+              "Subject": "Use DisableAnalytics flag from license (#536)"
+            },
+            {
+              "SHA": "8030b449",
+              "Subject": "Update license-verifier (#535)"
+            },
+            {
+              "SHA": "30407273",
+              "Subject": "Add pod, services, and pod-controller(sts) labels support (#533)"
+            },
+            {
+              "SHA": "55c626a2",
+              "Subject": "Add Raft client Port In Primary Service (#530)"
+            },
+            {
+              "SHA": "a1a4bdb3",
+              "Subject": "Stop using beta api"
+            },
+            {
+              "SHA": "e0e2a3e4",
+              "Subject": "Update xorm.io/xorm dependency (#532)"
+            },
+            {
+              "SHA": "e6aacd05",
+              "Subject": "Fix satori/go.uuid security vulnerability (#531)"
+            },
+            {
+              "SHA": "140226f7",
+              "Subject": "Fix jwt-go security vulnerability (#529)"
+            },
+            {
+              "SHA": "31e9df33",
+              "Subject": "Fix jwt-go security vulnerability (#528)"
+            },
+            {
+              "SHA": "70fb383a",
+              "Subject": "Use nats.go v1.13.0 (#527)"
+            },
+            {
+              "SHA": "77d43f95",
+              "Subject": "Setup SiteInfo publisher (#526)"
+            },
+            {
+              "SHA": "8755bde2",
+              "Subject": "Update dependencies to publish SiteInfo (#525)"
+            },
+            {
+              "SHA": "feb81410",
+              "Subject": "Update repository config (#524)"
             }
           ]
         }

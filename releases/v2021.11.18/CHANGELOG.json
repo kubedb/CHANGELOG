@@ -1,0 +1,96 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.11.18",
+  "release_date": "2021-11-17T10:06:03.473804848Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.11.18",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "ff3a4175",
+              "Subject": "Update repository config (#819)"
+            },
+            {
+              "SHA": "1969d04c",
+              "Subject": "Remove EnableAnalytics (#818)"
+            },
+            {
+              "SHA": "1222a1d6",
+              "Subject": "Add pod and workload controller label support (#817)"
+            },
+            {
+              "SHA": "1cef6837",
+              "Subject": "Allow vertical scaling Coordinator (#816)"
+            },
+            {
+              "SHA": "90d46474",
+              "Subject": "Add distribution tags for KubeDB (#815)"
+            },
+            {
+              "SHA": "24d44217",
+              "Subject": "Update default resource for pg-coordinator (#813)"
+            },
+            {
+              "SHA": "807280ce",
+              "Subject": "Add `applyConfig` in MongoDBOpsRequest for custom configuration (#811)"
+            },
+            {
+              "SHA": "6f31cb6a",
+              "Subject": "Add support for OpenSearch (#810)"
+            },
+            {
+              "SHA": "b9f7eadd",
+              "Subject": "Stop using storage.k8s.io/v1beta1 deprecated in k8s 1.22 (#814)"
+            },
+            {
+              "SHA": "73f09b6b",
+              "Subject": "Add support for reconfigure Elasticsearch (#793)"
+            },
+            {
+              "SHA": "997836d3",
+              "Subject": "Add Redis Constants for Config files (#812)"
+            },
+            {
+              "SHA": "d0176524",
+              "Subject": "Remove statefulSetOrdinal from MySQL ops reuqest (#809)"
+            },
+            {
+              "SHA": "ad8c1f78",
+              "Subject": "Update MySQLClusterMode constants (#808)"
+            },
+            {
+              "SHA": "8ce33b18",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d8ea50ce",
+              "Subject": "Update for release Stash@v2021.10.11 (#807)"
+            },
+            {
+              "SHA": "4937544e",
+              "Subject": "Add MySQL Router constant (#805)"
+            },
+            {
+              "SHA": "ee093b4d",
+              "Subject": "Add new distribution values (#806)"
+            },
+            {
+              "SHA": "47b42be0",
+              "Subject": "Add support for MySQL coordinator (#803)"
+            },
+            {
+              "SHA": "d1f74f0b",
+              "Subject": "Update repository config (#804)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

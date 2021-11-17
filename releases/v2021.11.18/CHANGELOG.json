@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:43:18.626162516Z",
+  "release_date": "2021-11-17T10:43:26.422255045Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -581,6 +581,72 @@
             {
               "SHA": "8f1418e",
               "Subject": "Use nats.go v1.13.0 (#3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "bde31cc8",
+              "Subject": "Prepare for release v0.10.0 (#175)"
+            },
+            {
+              "SHA": "93abeed6",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#174)"
+            },
+            {
+              "SHA": "78bff385",
+              "Subject": "Update repository config (#173)"
+            },
+            {
+              "SHA": "6578cc86",
+              "Subject": "Use DisableAnalytics flag from license (#172)"
+            },
+            {
+              "SHA": "b99f779b",
+              "Subject": "Update license-verifier (#171)"
+            },
+            {
+              "SHA": "a62adbd0",
+              "Subject": "Support custom pod and controller labels (#170)"
+            },
+            {
+              "SHA": "afb2bfd9",
+              "Subject": "Update dependencies (#169)"
+            },
+            {
+              "SHA": "9b65b2c5",
+              "Subject": "Update xorm dependency (#168)"
+            },
+            {
+              "SHA": "a2427a67",
+              "Subject": "Fix satori/go.uuid security vulnerability (#167)"
+            },
+            {
+              "SHA": "0a0163ca",
+              "Subject": "Fix jwt-go security vulnerability (#166)"
+            },
+            {
+              "SHA": "4f69c8c3",
+              "Subject": "Fix jwt-go security vulnerability (#165)"
+            },
+            {
+              "SHA": "1005f1a2",
+              "Subject": "Update dependencies to publish SiteInfo (#164)"
+            },
+            {
+              "SHA": "9ac9d09e",
+              "Subject": "Update dependencies to publish SiteInfo (#163)"
+            },
+            {
+              "SHA": "c55ae055",
+              "Subject": "Update repository config (#162)"
             }
           ]
         }

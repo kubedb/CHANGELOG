@@ -182,6 +182,27 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.10.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.10.0)
+
+- [bde31cc8](https://github.com/kubedb/replication-mode-detector/commit/bde31cc8) Prepare for release v0.10.0 (#175)
+- [93abeed6](https://github.com/kubedb/replication-mode-detector/commit/93abeed6) Update kmodules.xyz/monitoring-agent-api (#174)
+- [78bff385](https://github.com/kubedb/replication-mode-detector/commit/78bff385) Update repository config (#173)
+- [6578cc86](https://github.com/kubedb/replication-mode-detector/commit/6578cc86) Use DisableAnalytics flag from license (#172)
+- [b99f779b](https://github.com/kubedb/replication-mode-detector/commit/b99f779b) Update license-verifier (#171)
+- [a62adbd0](https://github.com/kubedb/replication-mode-detector/commit/a62adbd0) Support custom pod and controller labels (#170)
+- [afb2bfd9](https://github.com/kubedb/replication-mode-detector/commit/afb2bfd9) Update dependencies (#169)
+- [9b65b2c5](https://github.com/kubedb/replication-mode-detector/commit/9b65b2c5) Update xorm dependency (#168)
+- [a2427a67](https://github.com/kubedb/replication-mode-detector/commit/a2427a67) Fix satori/go.uuid security vulnerability (#167)
+- [0a0163ca](https://github.com/kubedb/replication-mode-detector/commit/0a0163ca) Fix jwt-go security vulnerability (#166)
+- [4f69c8c3](https://github.com/kubedb/replication-mode-detector/commit/4f69c8c3) Fix jwt-go security vulnerability (#165)
+- [1005f1a2](https://github.com/kubedb/replication-mode-detector/commit/1005f1a2) Update dependencies to publish SiteInfo (#164)
+- [9ac9d09e](https://github.com/kubedb/replication-mode-detector/commit/9ac9d09e) Update dependencies to publish SiteInfo (#163)
+- [c55ae055](https://github.com/kubedb/replication-mode-detector/commit/c55ae055) Update repository config (#162)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.8.0](https://github.com/kubedb/tests/releases/tag/v0.8.0)

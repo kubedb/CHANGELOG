@@ -101,6 +101,24 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.2.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.2.0)
+
+- [8b9d7eb](https://github.com/kubedb/redis-coordinator/commit/8b9d7eb) Prepare for release v0.2.0 (#13)
+- [3399280](https://github.com/kubedb/redis-coordinator/commit/3399280) Update kmodules.xyz/monitoring-agent-api (#12)
+- [eb51783](https://github.com/kubedb/redis-coordinator/commit/eb51783) Update repository config (#11)
+- [fff31b5](https://github.com/kubedb/redis-coordinator/commit/fff31b5) Use DisableAnalytics flag from license (#10)
+- [f2b347c](https://github.com/kubedb/redis-coordinator/commit/f2b347c) Update license-verifier (#9)
+- [361e3f7](https://github.com/kubedb/redis-coordinator/commit/361e3f7) Support custom pod and controller labels (#8)
+- [ad486b9](https://github.com/kubedb/redis-coordinator/commit/ad486b9) Update dependencies (#7)
+- [560e04d](https://github.com/kubedb/redis-coordinator/commit/560e04d) Fix satori/go.uuid security vulnerability (#6)
+- [a0bd03b](https://github.com/kubedb/redis-coordinator/commit/a0bd03b) Fix jwt-go security vulnerability (#5)
+- [6a1f913](https://github.com/kubedb/redis-coordinator/commit/6a1f913) Fix jwt-go security vulnerability (#4)
+- [8f1418e](https://github.com/kubedb/redis-coordinator/commit/8f1418e) Use nats.go v1.13.0 (#3)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.8.0](https://github.com/kubedb/tests/releases/tag/v0.8.0)

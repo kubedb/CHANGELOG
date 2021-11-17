@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:42:47.723404109Z",
+  "release_date": "2021-11-17T10:42:52.374690789Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -329,6 +329,60 @@
             {
               "SHA": "06ee14c",
               "Subject": "Add support for Postgres version v14.0 (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "8b9d7eb",
+              "Subject": "Prepare for release v0.2.0 (#13)"
+            },
+            {
+              "SHA": "3399280",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#12)"
+            },
+            {
+              "SHA": "eb51783",
+              "Subject": "Update repository config (#11)"
+            },
+            {
+              "SHA": "fff31b5",
+              "Subject": "Use DisableAnalytics flag from license (#10)"
+            },
+            {
+              "SHA": "f2b347c",
+              "Subject": "Update license-verifier (#9)"
+            },
+            {
+              "SHA": "361e3f7",
+              "Subject": "Support custom pod and controller labels (#8)"
+            },
+            {
+              "SHA": "ad486b9",
+              "Subject": "Update dependencies (#7)"
+            },
+            {
+              "SHA": "560e04d",
+              "Subject": "Fix satori/go.uuid security vulnerability (#6)"
+            },
+            {
+              "SHA": "a0bd03b",
+              "Subject": "Fix jwt-go security vulnerability (#5)"
+            },
+            {
+              "SHA": "6a1f913",
+              "Subject": "Fix jwt-go security vulnerability (#4)"
+            },
+            {
+              "SHA": "8f1418e",
+              "Subject": "Use nats.go v1.13.0 (#3)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:43:08.47429217Z",
+  "release_date": "2021-11-17T10:43:18.626162516Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -87,6 +87,64 @@
             {
               "SHA": "d1f74f0b",
               "Subject": "Update repository config (#804)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "176feb8f",
+              "Subject": "Prepare for release v0.23.0 (#641)"
+            },
+            {
+              "SHA": "c10cf297",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#640)"
+            },
+            {
+              "SHA": "6e5e3e57",
+              "Subject": "Use DisableAnalytics flag from license (#639)"
+            },
+            {
+              "SHA": "3ca8fbf6",
+              "Subject": "Update license-verifier (#638)"
+            },
+            {
+              "SHA": "9ba88756",
+              "Subject": "Support custom pod and controller labels (#637)"
+            },
+            {
+              "SHA": "67ae9ed4",
+              "Subject": "Update dependencies (#636)"
+            },
+            {
+              "SHA": "58159a19",
+              "Subject": "Fix satori/go.uuid security vulnerability (#635)"
+            },
+            {
+              "SHA": "1350b7f4",
+              "Subject": "Fix jwt-go security vulnerability (#634)"
+            },
+            {
+              "SHA": "1e783e44",
+              "Subject": "Fix jwt-go security vulnerability (#633)"
+            },
+            {
+              "SHA": "fe1a9aeb",
+              "Subject": "Fix jwt-go security vulnerability (#632)"
+            },
+            {
+              "SHA": "a79d2705",
+              "Subject": "Update dependencies to publish SiteInfo (#631)"
+            },
+            {
+              "SHA": "6e9be4c3",
+              "Subject": "Update dependencies to publish SiteInfo (#630)"
             }
           ]
         }

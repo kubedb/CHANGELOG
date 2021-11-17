@@ -27,6 +27,25 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.23.0](https://github.com/kubedb/cli/releases/tag/v0.23.0)
+
+- [176feb8f](https://github.com/kubedb/cli/commit/176feb8f) Prepare for release v0.23.0 (#641)
+- [c10cf297](https://github.com/kubedb/cli/commit/c10cf297) Update kmodules.xyz/monitoring-agent-api (#640)
+- [6e5e3e57](https://github.com/kubedb/cli/commit/6e5e3e57) Use DisableAnalytics flag from license (#639)
+- [3ca8fbf6](https://github.com/kubedb/cli/commit/3ca8fbf6) Update license-verifier (#638)
+- [9ba88756](https://github.com/kubedb/cli/commit/9ba88756) Support custom pod and controller labels (#637)
+- [67ae9ed4](https://github.com/kubedb/cli/commit/67ae9ed4) Update dependencies (#636)
+- [58159a19](https://github.com/kubedb/cli/commit/58159a19) Fix satori/go.uuid security vulnerability (#635)
+- [1350b7f4](https://github.com/kubedb/cli/commit/1350b7f4) Fix jwt-go security vulnerability (#634)
+- [1e783e44](https://github.com/kubedb/cli/commit/1e783e44) Fix jwt-go security vulnerability (#633)
+- [fe1a9aeb](https://github.com/kubedb/cli/commit/fe1a9aeb) Fix jwt-go security vulnerability (#632)
+- [a79d2705](https://github.com/kubedb/cli/commit/a79d2705) Update dependencies to publish SiteInfo (#631)
+- [6e9be4c3](https://github.com/kubedb/cli/commit/6e9be4c3) Update dependencies to publish SiteInfo (#630)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.23.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.23.0)

@@ -73,6 +73,25 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.3.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.3.0)
+
+- [d229ad1](https://github.com/kubedb/mariadb-coordinator/commit/d229ad1) Prepare for release v0.3.0 (#24)
+- [04ac158](https://github.com/kubedb/mariadb-coordinator/commit/04ac158) Update kmodules.xyz/monitoring-agent-api (#23)
+- [b1836cd](https://github.com/kubedb/mariadb-coordinator/commit/b1836cd) Update repository config (#22)
+- [670cce7](https://github.com/kubedb/mariadb-coordinator/commit/670cce7) Use DisableAnalytics flag from license (#21)
+- [b2149b3](https://github.com/kubedb/mariadb-coordinator/commit/b2149b3) Update license-verifier (#20)
+- [43e2907](https://github.com/kubedb/mariadb-coordinator/commit/43e2907) Support custom pod and controller labels (#19)
+- [054ad28](https://github.com/kubedb/mariadb-coordinator/commit/054ad28) Update dependencies (#18)
+- [73b094a](https://github.com/kubedb/mariadb-coordinator/commit/73b094a) Update xorm dependency (#17)
+- [d401ce6](https://github.com/kubedb/mariadb-coordinator/commit/d401ce6) Fix satori/go.uuid security vulnerability (#16)
+- [fbbec4b](https://github.com/kubedb/mariadb-coordinator/commit/fbbec4b) Fix jwt-go security vulnerability (#15)
+- [bf9222c](https://github.com/kubedb/mariadb-coordinator/commit/bf9222c) Fix jwt-go security vulnerability (#14)
+- [dbac458](https://github.com/kubedb/mariadb-coordinator/commit/dbac458) Use nats.go v1.13.0 (#13)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.1.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.1.0)

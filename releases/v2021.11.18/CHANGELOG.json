@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:43:26.422255045Z",
+  "release_date": "2021-11-17T10:43:31.875265814Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -235,6 +235,64 @@
             {
               "SHA": "7e3c63fd",
               "Subject": "Collect metrics from all type of Elasticsearch nodes (#521)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "d229ad1",
+              "Subject": "Prepare for release v0.3.0 (#24)"
+            },
+            {
+              "SHA": "04ac158",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#23)"
+            },
+            {
+              "SHA": "b1836cd",
+              "Subject": "Update repository config (#22)"
+            },
+            {
+              "SHA": "670cce7",
+              "Subject": "Use DisableAnalytics flag from license (#21)"
+            },
+            {
+              "SHA": "b2149b3",
+              "Subject": "Update license-verifier (#20)"
+            },
+            {
+              "SHA": "43e2907",
+              "Subject": "Support custom pod and controller labels (#19)"
+            },
+            {
+              "SHA": "054ad28",
+              "Subject": "Update dependencies (#18)"
+            },
+            {
+              "SHA": "73b094a",
+              "Subject": "Update xorm dependency (#17)"
+            },
+            {
+              "SHA": "d401ce6",
+              "Subject": "Fix satori/go.uuid security vulnerability (#16)"
+            },
+            {
+              "SHA": "fbbec4b",
+              "Subject": "Fix jwt-go security vulnerability (#15)"
+            },
+            {
+              "SHA": "bf9222c",
+              "Subject": "Fix jwt-go security vulnerability (#14)"
+            },
+            {
+              "SHA": "dbac458",
+              "Subject": "Use nats.go v1.13.0 (#13)"
             }
           ]
         }

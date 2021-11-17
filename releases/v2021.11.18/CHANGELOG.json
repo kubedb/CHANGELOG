@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T11:42:35.904185344Z",
+  "release_date": "2021-11-17T12:02:57.294066884Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -215,6 +215,24 @@
             {
               "SHA": "6e9be4c3",
               "Subject": "Update dependencies to publish SiteInfo (#630)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.11.18",
+          "commits": [
+            {
+              "SHA": "4958152",
+              "Subject": "Prepare for release v2021.11.18 (#165)"
+            },
+            {
+              "SHA": "bc86954",
+              "Subject": "Update docs for kubedb/operator@232d7a9d (#164)"
             }
           ]
         }

@@ -68,6 +68,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.11.18](https://github.com/kubedb/docs/releases/tag/v2021.11.18)
+
+- [4958152](https://github.com/kubedb/docs/commit/4958152) Prepare for release v2021.11.18 (#165)
+- [bc86954](https://github.com/kubedb/docs/commit/bc86954) Update docs for kubedb/operator@232d7a9d (#164)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.23.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.23.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:43:49.963426622Z",
+  "release_date": "2021-11-17T10:44:01.219774118Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -749,6 +749,104 @@
             {
               "SHA": "feb81410",
               "Subject": "Update repository config (#524)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "c3986f47",
+              "Subject": "Prepare for release v0.16.0 (#362)"
+            },
+            {
+              "SHA": "158af05f",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#361)"
+            },
+            {
+              "SHA": "4cc13143",
+              "Subject": "Remove global variable for preconditions (#360)"
+            },
+            {
+              "SHA": "16011733",
+              "Subject": "Update repository config (#359)"
+            },
+            {
+              "SHA": "eea15b8a",
+              "Subject": "Fix: Sentinel and Redis In Different Namespaces (#358)"
+            },
+            {
+              "SHA": "38b28c4e",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "32b2565a",
+              "Subject": "Use DisableAnalytics flag from license (#357)"
+            },
+            {
+              "SHA": "27d7f428",
+              "Subject": "Update license-verifier (#356)"
+            },
+            {
+              "SHA": "c00f72bf",
+              "Subject": "Update audit and license-verifier version (#354)"
+            },
+            {
+              "SHA": "7aebec13",
+              "Subject": "Add pod, statefulSet and service labels support (#355)"
+            },
+            {
+              "SHA": "2f09ae66",
+              "Subject": "Fix: resolve panic issue when sentinelRef is Null or empty (#353)"
+            },
+            {
+              "SHA": "016fc0ff",
+              "Subject": "Redis Custom Config issue (#351)"
+            },
+            {
+              "SHA": "09d750ac",
+              "Subject": "Update dependencies (#352)"
+            },
+            {
+              "SHA": "4ac3e812",
+              "Subject": "Fix jwt-go security vulnerability (#350)"
+            },
+            {
+              "SHA": "4f7fd873",
+              "Subject": "Fix jwt-go security vulnerability (#349)"
+            },
+            {
+              "SHA": "f86d4fb1",
+              "Subject": "Fix: Redis Panic issue for sentinel (#348)"
+            },
+            {
+              "SHA": "7b1c53a6",
+              "Subject": "Use nats.go v1.13.0 (#347)"
+            },
+            {
+              "SHA": "7d9017e8",
+              "Subject": "Setup SiteInfo publisher (#346)"
+            },
+            {
+              "SHA": "34c98fc3",
+              "Subject": "Update dependencies to publish SiteInfo (#345)"
+            },
+            {
+              "SHA": "1831c5b7",
+              "Subject": "Update dependencies to publish SiteInfo (#344)"
+            },
+            {
+              "SHA": "4798de2d",
+              "Subject": "Update repository config (#343)"
+            },
+            {
+              "SHA": "a14cd630",
+              "Subject": "Fix: Redis monitoring port (#342)"
             }
           ]
         }

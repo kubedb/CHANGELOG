@@ -233,6 +233,35 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.16.0](https://github.com/kubedb/redis/releases/tag/v0.16.0)
+
+- [c3986f47](https://github.com/kubedb/redis/commit/c3986f47) Prepare for release v0.16.0 (#362)
+- [158af05f](https://github.com/kubedb/redis/commit/158af05f) Update kmodules.xyz/monitoring-agent-api (#361)
+- [4cc13143](https://github.com/kubedb/redis/commit/4cc13143) Remove global variable for preconditions (#360)
+- [16011733](https://github.com/kubedb/redis/commit/16011733) Update repository config (#359)
+- [eea15b8a](https://github.com/kubedb/redis/commit/eea15b8a) Fix: Sentinel and Redis In Different Namespaces (#358)
+- [38b28c4e](https://github.com/kubedb/redis/commit/38b28c4e) Remove docs
+- [32b2565a](https://github.com/kubedb/redis/commit/32b2565a) Use DisableAnalytics flag from license (#357)
+- [27d7f428](https://github.com/kubedb/redis/commit/27d7f428) Update license-verifier (#356)
+- [c00f72bf](https://github.com/kubedb/redis/commit/c00f72bf) Update audit and license-verifier version (#354)
+- [7aebec13](https://github.com/kubedb/redis/commit/7aebec13) Add pod, statefulSet and service labels support (#355)
+- [2f09ae66](https://github.com/kubedb/redis/commit/2f09ae66) Fix: resolve panic issue when sentinelRef is Null or empty (#353)
+- [016fc0ff](https://github.com/kubedb/redis/commit/016fc0ff) Redis Custom Config issue (#351)
+- [09d750ac](https://github.com/kubedb/redis/commit/09d750ac) Update dependencies (#352)
+- [4ac3e812](https://github.com/kubedb/redis/commit/4ac3e812) Fix jwt-go security vulnerability (#350)
+- [4f7fd873](https://github.com/kubedb/redis/commit/4f7fd873) Fix jwt-go security vulnerability (#349)
+- [f86d4fb1](https://github.com/kubedb/redis/commit/f86d4fb1) Fix: Redis Panic issue for sentinel (#348)
+- [7b1c53a6](https://github.com/kubedb/redis/commit/7b1c53a6) Use nats.go v1.13.0 (#347)
+- [7d9017e8](https://github.com/kubedb/redis/commit/7d9017e8) Setup SiteInfo publisher (#346)
+- [34c98fc3](https://github.com/kubedb/redis/commit/34c98fc3) Update dependencies to publish SiteInfo (#345)
+- [1831c5b7](https://github.com/kubedb/redis/commit/1831c5b7) Update dependencies to publish SiteInfo (#344)
+- [4798de2d](https://github.com/kubedb/redis/commit/4798de2d) Update repository config (#343)
+- [a14cd630](https://github.com/kubedb/redis/commit/a14cd630) Fix: Redis monitoring port (#342)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.2.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.2.0)

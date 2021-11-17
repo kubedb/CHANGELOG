@@ -304,6 +304,28 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.10.0](https://github.com/kubedb/proxysql/releases/tag/v0.10.0)
+
+- [88940863](https://github.com/kubedb/proxysql/commit/88940863) Prepare for release v0.10.0 (#207)
+- [66ce0801](https://github.com/kubedb/proxysql/commit/66ce0801) Update kmodules.xyz/monitoring-agent-api (#206)
+- [21b59886](https://github.com/kubedb/proxysql/commit/21b59886) Remove global variable for preconditions (#205)
+- [884e3915](https://github.com/kubedb/proxysql/commit/884e3915) Update repository config (#204)
+- [81c11592](https://github.com/kubedb/proxysql/commit/81c11592) Remove docs
+- [271bc5af](https://github.com/kubedb/proxysql/commit/271bc5af) Use DisableAnalytics flag from license (#203)
+- [4710a672](https://github.com/kubedb/proxysql/commit/4710a672) Update license-verifier (#202)
+- [229ba8c7](https://github.com/kubedb/proxysql/commit/229ba8c7) Support custom pod, service and controller(sts) labels (#201)
+- [3c915f61](https://github.com/kubedb/proxysql/commit/3c915f61) Update dependencies (#200)
+- [7ce88a70](https://github.com/kubedb/proxysql/commit/7ce88a70) Fix jwt-go security vulnerability (#199)
+- [bb2c78e8](https://github.com/kubedb/proxysql/commit/bb2c78e8) Fix jwt-go security vulnerability (#198)
+- [2764f4c7](https://github.com/kubedb/proxysql/commit/2764f4c7) Use nats.go v1.13.0 (#197)
+- [b06f614b](https://github.com/kubedb/proxysql/commit/b06f614b) Update dependencies to publish SiteInfo (#196)
+- [6a067416](https://github.com/kubedb/proxysql/commit/6a067416) Update dependencies to publish SiteInfo (#195)
+- [5f1ce0f2](https://github.com/kubedb/proxysql/commit/5f1ce0f2) Update repository config (#194)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.16.0](https://github.com/kubedb/redis/releases/tag/v0.16.0)

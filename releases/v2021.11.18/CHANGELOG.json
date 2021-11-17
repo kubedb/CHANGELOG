@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:45:08.969522076Z",
+  "release_date": "2021-11-17T10:55:32.678213117Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -979,6 +979,76 @@
             {
               "SHA": "feb81410",
               "Subject": "Update repository config (#524)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "88940863",
+              "Subject": "Prepare for release v0.10.0 (#207)"
+            },
+            {
+              "SHA": "66ce0801",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#206)"
+            },
+            {
+              "SHA": "21b59886",
+              "Subject": "Remove global variable for preconditions (#205)"
+            },
+            {
+              "SHA": "884e3915",
+              "Subject": "Update repository config (#204)"
+            },
+            {
+              "SHA": "81c11592",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "271bc5af",
+              "Subject": "Use DisableAnalytics flag from license (#203)"
+            },
+            {
+              "SHA": "4710a672",
+              "Subject": "Update license-verifier (#202)"
+            },
+            {
+              "SHA": "229ba8c7",
+              "Subject": "Support custom pod, service and controller(sts) labels (#201)"
+            },
+            {
+              "SHA": "3c915f61",
+              "Subject": "Update dependencies (#200)"
+            },
+            {
+              "SHA": "7ce88a70",
+              "Subject": "Fix jwt-go security vulnerability (#199)"
+            },
+            {
+              "SHA": "bb2c78e8",
+              "Subject": "Fix jwt-go security vulnerability (#198)"
+            },
+            {
+              "SHA": "2764f4c7",
+              "Subject": "Use nats.go v1.13.0 (#197)"
+            },
+            {
+              "SHA": "b06f614b",
+              "Subject": "Update dependencies to publish SiteInfo (#196)"
+            },
+            {
+              "SHA": "6a067416",
+              "Subject": "Update dependencies to publish SiteInfo (#195)"
+            },
+            {
+              "SHA": "5f1ce0f2",
+              "Subject": "Update repository config (#194)"
             }
           ]
         }

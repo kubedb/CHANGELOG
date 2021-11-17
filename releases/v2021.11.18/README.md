@@ -50,3 +50,24 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.8.0](https://github.com/kubedb/tests/releases/tag/v0.8.0)
+
+- [50f414a9](https://github.com/kubedb/tests/commit/50f414a9) Prepare for release v0.8.0 (#156)
+- [25e5c5b6](https://github.com/kubedb/tests/commit/25e5c5b6) Update kmodules.xyz/monitoring-agent-api (#155)
+- [951d17ca](https://github.com/kubedb/tests/commit/951d17ca) Update repository config (#154)
+- [d0988abf](https://github.com/kubedb/tests/commit/d0988abf) Use DisableAnalytics flag from license (#153)
+- [7aea8907](https://github.com/kubedb/tests/commit/7aea8907) Update license-verifier (#152)
+- [637ae1a0](https://github.com/kubedb/tests/commit/637ae1a0) Support custom pod and controller labels (#151)
+- [45223290](https://github.com/kubedb/tests/commit/45223290) Update dependencies (#150)
+- [fcef9222](https://github.com/kubedb/tests/commit/fcef9222) Fix satori/go.uuid security vulnerability (#149)
+- [1d308fc7](https://github.com/kubedb/tests/commit/1d308fc7) Fix jwt-go security vulnerability (#148)
+- [9c764d48](https://github.com/kubedb/tests/commit/9c764d48) Fix jwt-go security vulnerability (#147)
+- [cef34499](https://github.com/kubedb/tests/commit/cef34499) Fix jwt-go security vulnerability (#146)
+- [2c1d6094](https://github.com/kubedb/tests/commit/2c1d6094) Update dependencies to publish SiteInfo (#145)
+- [443c8390](https://github.com/kubedb/tests/commit/443c8390) Update dependencies to publish SiteInfo (#144)
+- [5f71478f](https://github.com/kubedb/tests/commit/5f71478f) Update repository config (#143)
+
+
+

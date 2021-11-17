@@ -54,6 +54,25 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.1.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.1.0)
+
+- [51cf61d](https://github.com/kubedb/mysql-coordinator/commit/51cf61d) Prepare for release v0.1.0 (#18)
+- [104431b](https://github.com/kubedb/mysql-coordinator/commit/104431b) Prepare for release v0.1.0 (#17)
+- [1cd379d](https://github.com/kubedb/mysql-coordinator/commit/1cd379d) Update kmodules.xyz/monitoring-agent-api (#16)
+- [e85255b](https://github.com/kubedb/mysql-coordinator/commit/e85255b) Update repository config (#15)
+- [d7f6193](https://github.com/kubedb/mysql-coordinator/commit/d7f6193) Use DisableAnalytics flag from license (#14)
+- [c0a51bb](https://github.com/kubedb/mysql-coordinator/commit/c0a51bb) Update license-verifier (#13)
+- [d624835](https://github.com/kubedb/mysql-coordinator/commit/d624835) Support custom pod and controller labels (#12)
+- [d3bc5ba](https://github.com/kubedb/mysql-coordinator/commit/d3bc5ba) Add sleep for now to avoid the joining problem (#11)
+- [e44f9d1](https://github.com/kubedb/mysql-coordinator/commit/e44f9d1) Update dependencies (#10)
+- [653e357](https://github.com/kubedb/mysql-coordinator/commit/653e357) Update xorm.io dependency (#9)
+- [772ebbd](https://github.com/kubedb/mysql-coordinator/commit/772ebbd) Fix satori/go.uuid security vulnerability (#8)
+- [50fdeee](https://github.com/kubedb/mysql-coordinator/commit/50fdeee) Fix jwt-go security vulnerability (#7)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.10.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.10.0)

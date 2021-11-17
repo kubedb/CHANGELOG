@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:42:52.374690789Z",
+  "release_date": "2021-11-17T10:42:56.970966308Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -177,6 +177,64 @@
             {
               "SHA": "7e3c63fd",
               "Subject": "Collect metrics from all type of Elasticsearch nodes (#521)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "51cf61d",
+              "Subject": "Prepare for release v0.1.0 (#18)"
+            },
+            {
+              "SHA": "104431b",
+              "Subject": "Prepare for release v0.1.0 (#17)"
+            },
+            {
+              "SHA": "1cd379d",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#16)"
+            },
+            {
+              "SHA": "e85255b",
+              "Subject": "Update repository config (#15)"
+            },
+            {
+              "SHA": "d7f6193",
+              "Subject": "Use DisableAnalytics flag from license (#14)"
+            },
+            {
+              "SHA": "c0a51bb",
+              "Subject": "Update license-verifier (#13)"
+            },
+            {
+              "SHA": "d624835",
+              "Subject": "Support custom pod and controller labels (#12)"
+            },
+            {
+              "SHA": "d3bc5ba",
+              "Subject": "Add sleep for now to avoid the joining problem (#11)"
+            },
+            {
+              "SHA": "e44f9d1",
+              "Subject": "Update dependencies (#10)"
+            },
+            {
+              "SHA": "653e357",
+              "Subject": "Update xorm.io dependency (#9)"
+            },
+            {
+              "SHA": "772ebbd",
+              "Subject": "Fix satori/go.uuid security vulnerability (#8)"
+            },
+            {
+              "SHA": "50fdeee",
+              "Subject": "Fix jwt-go security vulnerability (#7)"
             }
           ]
         }

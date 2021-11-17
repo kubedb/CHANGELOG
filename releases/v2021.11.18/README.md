@@ -27,3 +27,26 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.7.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.7.0)
+
+- [e81fa81](https://github.com/kubedb/pg-coordinator/commit/e81fa81) Prepare for release v0.7.0 (#54)
+- [7c49a84](https://github.com/kubedb/pg-coordinator/commit/7c49a84) Update kmodules.xyz/monitoring-agent-api (#53)
+- [aed68ec](https://github.com/kubedb/pg-coordinator/commit/aed68ec) Update repository config (#52)
+- [b052255](https://github.com/kubedb/pg-coordinator/commit/b052255) Fix: Raft log corrupted issue (#51)
+- [9413347](https://github.com/kubedb/pg-coordinator/commit/9413347) Use DisableAnalytics flag from license (#50)
+- [2fe1bfc](https://github.com/kubedb/pg-coordinator/commit/2fe1bfc) Update license-verifier (#49)
+- [d6f9afd](https://github.com/kubedb/pg-coordinator/commit/d6f9afd) Support custom pod and controller labels (#48)
+- [fb2b48c](https://github.com/kubedb/pg-coordinator/commit/fb2b48c) Postgres Server Restart If Sig-Killed (#44)
+- [ab85e39](https://github.com/kubedb/pg-coordinator/commit/ab85e39) Print logs at Debug level
+- [9b65232](https://github.com/kubedb/pg-coordinator/commit/9b65232) Log timestamp from zap logger used in raft (#47)
+- [6d3eb77](https://github.com/kubedb/pg-coordinator/commit/6d3eb77) Update xorm dependency (#46)
+- [b77df43](https://github.com/kubedb/pg-coordinator/commit/b77df43) Fix satori/go.uuid security vulnerability (#45)
+- [3cd9cc4](https://github.com/kubedb/pg-coordinator/commit/3cd9cc4) Fix jwt-go security vulnerability (#43)
+- [bd2356d](https://github.com/kubedb/pg-coordinator/commit/bd2356d) Fix: Postgres server single user mode start for bullseye image (#42)
+- [0c8c18d](https://github.com/kubedb/pg-coordinator/commit/0c8c18d) Update dependencies to publish SiteInfo (#40)
+- [06ee14c](https://github.com/kubedb/pg-coordinator/commit/06ee14c) Add support for Postgres version v14.0 (#41)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:06:03.473804848Z",
+  "release_date": "2021-11-17T10:42:19.835946826Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -87,6 +87,80 @@
             {
               "SHA": "d1f74f0b",
               "Subject": "Update repository config (#804)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "e81fa81",
+              "Subject": "Prepare for release v0.7.0 (#54)"
+            },
+            {
+              "SHA": "7c49a84",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#53)"
+            },
+            {
+              "SHA": "aed68ec",
+              "Subject": "Update repository config (#52)"
+            },
+            {
+              "SHA": "b052255",
+              "Subject": "Fix: Raft log corrupted issue (#51)"
+            },
+            {
+              "SHA": "9413347",
+              "Subject": "Use DisableAnalytics flag from license (#50)"
+            },
+            {
+              "SHA": "2fe1bfc",
+              "Subject": "Update license-verifier (#49)"
+            },
+            {
+              "SHA": "d6f9afd",
+              "Subject": "Support custom pod and controller labels (#48)"
+            },
+            {
+              "SHA": "fb2b48c",
+              "Subject": "Postgres Server Restart If Sig-Killed (#44)"
+            },
+            {
+              "SHA": "ab85e39",
+              "Subject": "Print logs at Debug level"
+            },
+            {
+              "SHA": "9b65232",
+              "Subject": "Log timestamp from zap logger used in raft (#47)"
+            },
+            {
+              "SHA": "6d3eb77",
+              "Subject": "Update xorm dependency (#46)"
+            },
+            {
+              "SHA": "b77df43",
+              "Subject": "Fix satori/go.uuid security vulnerability (#45)"
+            },
+            {
+              "SHA": "3cd9cc4",
+              "Subject": "Fix jwt-go security vulnerability (#43)"
+            },
+            {
+              "SHA": "bd2356d",
+              "Subject": "Fix: Postgres server single user mode start for bullseye image (#42)"
+            },
+            {
+              "SHA": "0c8c18d",
+              "Subject": "Update dependencies to publish SiteInfo (#40)"
+            },
+            {
+              "SHA": "06ee14c",
+              "Subject": "Add support for Postgres version v14.0 (#41)"
             }
           ]
         }

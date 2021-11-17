@@ -1,0 +1,1791 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.11.18",
+  "release_date": "2021-11-17T12:11:59.399269616Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.11.18",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "ff3a4175",
+              "Subject": "Update repository config (#819)"
+            },
+            {
+              "SHA": "1969d04c",
+              "Subject": "Remove EnableAnalytics (#818)"
+            },
+            {
+              "SHA": "1222a1d6",
+              "Subject": "Add pod and workload controller label support (#817)"
+            },
+            {
+              "SHA": "1cef6837",
+              "Subject": "Allow vertical scaling Coordinator (#816)"
+            },
+            {
+              "SHA": "90d46474",
+              "Subject": "Add distribution tags for KubeDB (#815)"
+            },
+            {
+              "SHA": "24d44217",
+              "Subject": "Update default resource for pg-coordinator (#813)"
+            },
+            {
+              "SHA": "807280ce",
+              "Subject": "Add `applyConfig` in MongoDBOpsRequest for custom configuration (#811)"
+            },
+            {
+              "SHA": "6f31cb6a",
+              "Subject": "Add support for OpenSearch (#810)"
+            },
+            {
+              "SHA": "b9f7eadd",
+              "Subject": "Stop using storage.k8s.io/v1beta1 deprecated in k8s 1.22 (#814)"
+            },
+            {
+              "SHA": "73f09b6b",
+              "Subject": "Add support for reconfigure Elasticsearch (#793)"
+            },
+            {
+              "SHA": "997836d3",
+              "Subject": "Add Redis Constants for Config files (#812)"
+            },
+            {
+              "SHA": "d0176524",
+              "Subject": "Remove statefulSetOrdinal from MySQL ops reuqest (#809)"
+            },
+            {
+              "SHA": "ad8c1f78",
+              "Subject": "Update MySQLClusterMode constants (#808)"
+            },
+            {
+              "SHA": "8ce33b18",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d8ea50ce",
+              "Subject": "Update for release Stash@v2021.10.11 (#807)"
+            },
+            {
+              "SHA": "4937544e",
+              "Subject": "Add MySQL Router constant (#805)"
+            },
+            {
+              "SHA": "ee093b4d",
+              "Subject": "Add new distribution values (#806)"
+            },
+            {
+              "SHA": "47b42be0",
+              "Subject": "Add support for MySQL coordinator (#803)"
+            },
+            {
+              "SHA": "d1f74f0b",
+              "Subject": "Update repository config (#804)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "85440f50",
+              "Subject": "Prepare for release v0.8.0 (#52)"
+            },
+            {
+              "SHA": "5f59bb99",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#51)"
+            },
+            {
+              "SHA": "dcaa9d9d",
+              "Subject": "Update repository config (#50)"
+            },
+            {
+              "SHA": "a9c755f1",
+              "Subject": "Use DisableAnalytics flag from license (#49)"
+            },
+            {
+              "SHA": "a97521e7",
+              "Subject": "Update license-verifier (#48)"
+            },
+            {
+              "SHA": "7cda0e3b",
+              "Subject": "Support custom pod and controller labels (#47)"
+            },
+            {
+              "SHA": "99b2710c",
+              "Subject": "Fix mongodb shard autoscaling issue (#46)"
+            },
+            {
+              "SHA": "3302e496",
+              "Subject": "Merge recommended resource with current resource (#45)"
+            },
+            {
+              "SHA": "7f6e3994",
+              "Subject": "Update dependencies (#44)"
+            },
+            {
+              "SHA": "0ab54377",
+              "Subject": "Fix satori/go.uuid security vulnerability (#43)"
+            },
+            {
+              "SHA": "898e4497",
+              "Subject": "Fix jwt-go security vulnerability (#42)"
+            },
+            {
+              "SHA": "39e647ff",
+              "Subject": "Fix jwt-go security vulnerability (#41)"
+            },
+            {
+              "SHA": "e898b195",
+              "Subject": "Use nats.go v1.13.0 (#39)"
+            },
+            {
+              "SHA": "dc0b7b32",
+              "Subject": "Setup SiteInfo publisher (#40)"
+            },
+            {
+              "SHA": "de10d221",
+              "Subject": "Update dependencies to publish SiteInfo (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.11.18",
+          "commits": [
+            {
+              "SHA": "4862543",
+              "Subject": "Prepare for release v2021.11.18 (#38)"
+            },
+            {
+              "SHA": "f5ce1aa",
+              "Subject": "Update repository config (#37)"
+            },
+            {
+              "SHA": "a6953b6",
+              "Subject": "Update repository config (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "176feb8f",
+              "Subject": "Prepare for release v0.23.0 (#641)"
+            },
+            {
+              "SHA": "c10cf297",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#640)"
+            },
+            {
+              "SHA": "6e5e3e57",
+              "Subject": "Use DisableAnalytics flag from license (#639)"
+            },
+            {
+              "SHA": "3ca8fbf6",
+              "Subject": "Update license-verifier (#638)"
+            },
+            {
+              "SHA": "9ba88756",
+              "Subject": "Support custom pod and controller labels (#637)"
+            },
+            {
+              "SHA": "67ae9ed4",
+              "Subject": "Update dependencies (#636)"
+            },
+            {
+              "SHA": "58159a19",
+              "Subject": "Fix satori/go.uuid security vulnerability (#635)"
+            },
+            {
+              "SHA": "1350b7f4",
+              "Subject": "Fix jwt-go security vulnerability (#634)"
+            },
+            {
+              "SHA": "1e783e44",
+              "Subject": "Fix jwt-go security vulnerability (#633)"
+            },
+            {
+              "SHA": "fe1a9aeb",
+              "Subject": "Fix jwt-go security vulnerability (#632)"
+            },
+            {
+              "SHA": "a79d2705",
+              "Subject": "Update dependencies to publish SiteInfo (#631)"
+            },
+            {
+              "SHA": "6e9be4c3",
+              "Subject": "Update dependencies to publish SiteInfo (#630)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.11.18",
+          "commits": [
+            {
+              "SHA": "4958152",
+              "Subject": "Prepare for release v2021.11.18 (#165)"
+            },
+            {
+              "SHA": "bc86954",
+              "Subject": "Update docs for kubedb/operator@232d7a9d (#164)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "d653718f",
+              "Subject": "Prepare for release v0.23.0 (#540)"
+            },
+            {
+              "SHA": "a15c804d",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#539)"
+            },
+            {
+              "SHA": "0778ff4f",
+              "Subject": "Remove global variable for preconditions (#538)"
+            },
+            {
+              "SHA": "bd084ade",
+              "Subject": "Update repository config (#537)"
+            },
+            {
+              "SHA": "180f2c47",
+              "Subject": "Remove docs folder"
+            },
+            {
+              "SHA": "a97b7131",
+              "Subject": "Update docs"
+            },
+            {
+              "SHA": "16895e92",
+              "Subject": "Use DisableAnalytics flag from license (#536)"
+            },
+            {
+              "SHA": "62c2d28f",
+              "Subject": "Update license-verifier (#535)"
+            },
+            {
+              "SHA": "c70caee3",
+              "Subject": "Add pod, services and workload-controller(sts) label support (#532)"
+            },
+            {
+              "SHA": "0e5aeb59",
+              "Subject": "Add support for OpenSearch (#529)"
+            },
+            {
+              "SHA": "fd527ccb",
+              "Subject": "Update dependencies (#531)"
+            },
+            {
+              "SHA": "b2cf3e9f",
+              "Subject": "Always create admin certs if the cluster security is enabled (#516)"
+            },
+            {
+              "SHA": "aae6bc29",
+              "Subject": "Fix satori/go.uuid security vulnerability (#530)"
+            },
+            {
+              "SHA": "50aa1c9e",
+              "Subject": "Fix jwt-go security vulnerability (#528)"
+            },
+            {
+              "SHA": "4b6ebc0c",
+              "Subject": "Fix jwt-go security vulnerability (#527)"
+            },
+            {
+              "SHA": "9d87c0a7",
+              "Subject": "Use nats.go v1.13.0 (#526)"
+            },
+            {
+              "SHA": "cc4811ef",
+              "Subject": "Setup SiteInfo publisher (#525)"
+            },
+            {
+              "SHA": "00feb65a",
+              "Subject": "Update dependencies to publish SiteInfo (#524)"
+            },
+            {
+              "SHA": "a7f4137f",
+              "Subject": "Update dependencies to publish SiteInfo (#523)"
+            },
+            {
+              "SHA": "7e3c63fd",
+              "Subject": "Collect metrics from all type of Elasticsearch nodes (#521)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/enterprise",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "3214618e",
+              "Subject": "Prepare for release v0.10.0 (#251)"
+            },
+            {
+              "SHA": "41c5b619",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#250)"
+            },
+            {
+              "SHA": "64252ddb",
+              "Subject": "Remove global variable for preconditions (#249)"
+            },
+            {
+              "SHA": "aa368d82",
+              "Subject": "Update repository config (#248)"
+            },
+            {
+              "SHA": "9bcfee5a",
+              "Subject": "Fix semver checking. (#247)"
+            },
+            {
+              "SHA": "91ea48f1",
+              "Subject": "Update docs"
+            },
+            {
+              "SHA": "34560f43",
+              "Subject": "Use DisableAnalytics flag from license (#246)"
+            },
+            {
+              "SHA": "fac8c82b",
+              "Subject": "Update license-verifier (#245)"
+            },
+            {
+              "SHA": "2d3839af",
+              "Subject": "Support custom pod and controller labels (#244)"
+            },
+            {
+              "SHA": "83488e1c",
+              "Subject": "Add backup permission for mysql replication user (#243)"
+            },
+            {
+              "SHA": "0dd46f8f",
+              "Subject": "Add support for reconfigure Elasticsearch (#220)"
+            },
+            {
+              "SHA": "2a980832",
+              "Subject": "Use `kubedb.dev/db-client-go` for mongodb (#241)"
+            },
+            {
+              "SHA": "69d59b2c",
+              "Subject": "Update mongodb vertical scaling logic (#240)"
+            },
+            {
+              "SHA": "e9b227b7",
+              "Subject": "Update Redis Reconfigure Ops Request (#236)"
+            },
+            {
+              "SHA": "9342c052",
+              "Subject": "Add support for mongodb reconfigure replicaSet config (#235)"
+            },
+            {
+              "SHA": "330c3be1",
+              "Subject": "Fix upgrade opsrequest for mysql coordinator (#229)"
+            },
+            {
+              "SHA": "f64f7d29",
+              "Subject": "Update dependencies (#239)"
+            },
+            {
+              "SHA": "60b2d128",
+              "Subject": "Update xorm dependency (#238)"
+            },
+            {
+              "SHA": "fdcd91d3",
+              "Subject": "Fix satori/go.uuid security vulnerability (#237)"
+            },
+            {
+              "SHA": "62cb9918",
+              "Subject": "Fix jwt-go security vulnerability (#234)"
+            },
+            {
+              "SHA": "6af2b5a5",
+              "Subject": "Fix jwt-go security vulnerability (#233)"
+            },
+            {
+              "SHA": "527eb0e4",
+              "Subject": "Fix: major and minor Upgrade issue for Postgres Debian images (#232)"
+            },
+            {
+              "SHA": "e8b5d6ae",
+              "Subject": "Use nats.go v1.13.0 (#231)"
+            },
+            {
+              "SHA": "80c6c4ec",
+              "Subject": "Setup SiteInfo publisher (#230)"
+            },
+            {
+              "SHA": "b9d9d37f",
+              "Subject": "Update dependencies to publish SiteInfo (#228)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.11.18",
+          "commits": [
+            {
+              "SHA": "3fe4c869",
+              "Subject": "Prepare for release v2021.11.18 (#395)"
+            },
+            {
+              "SHA": "b7321269",
+              "Subject": "Use mysqld Exporter Image with custom query support (#390)"
+            },
+            {
+              "SHA": "5372ab67",
+              "Subject": "Add new Postgres versions in catalog (#394)"
+            },
+            {
+              "SHA": "09621a10",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#393)"
+            },
+            {
+              "SHA": "23f4d5c1",
+              "Subject": "Update repository config (#392)"
+            },
+            {
+              "SHA": "3fa119af",
+              "Subject": "Add labels to license related rolebindings & secrets (#391)"
+            },
+            {
+              "SHA": "9e18ab72",
+              "Subject": "Add MySQL 5.7.36, 8.0.17 8.0.27 (#378)"
+            },
+            {
+              "SHA": "5c8d2854",
+              "Subject": "Remove --enable-analytics flag (#389)"
+            },
+            {
+              "SHA": "589c93f8",
+              "Subject": "Update license-verifier (#388)"
+            },
+            {
+              "SHA": "f1f19f47",
+              "Subject": "Fix regression in #386 (#387)"
+            },
+            {
+              "SHA": "ddd3e9f3",
+              "Subject": "Change installer namespace to kubedb (#386)"
+            },
+            {
+              "SHA": "64e95827",
+              "Subject": "Support OpenSearch 1.1.0 and update elasticsearch-exporter image to 1.3.0 (#384)"
+            },
+            {
+              "SHA": "6cf27bc1",
+              "Subject": "Update Postgres-init Image Version to v0.4.0 (#382)"
+            },
+            {
+              "SHA": "d5db17f8",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "0dbc20cb",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "c11c29f6",
+              "Subject": "Update dependencies (#381)"
+            },
+            {
+              "SHA": "1ef34de3",
+              "Subject": "Update Redis Init Image version for Custom Config fixes (#380)"
+            },
+            {
+              "SHA": "cb48c46b",
+              "Subject": "Fix satori/go.uuid security vulnerability (#379)"
+            },
+            {
+              "SHA": "f39255c3",
+              "Subject": "Add innodb and coordiantor support (#371)"
+            },
+            {
+              "SHA": "53ab0b1b",
+              "Subject": "Fix jwt-go security vulnerability (#377)"
+            },
+            {
+              "SHA": "01ae1087",
+              "Subject": "Fix jwt-go security vulnerability (#376)"
+            },
+            {
+              "SHA": "b17e22a0",
+              "Subject": "Add fields to MySQL Metrics (#375)"
+            },
+            {
+              "SHA": "b4e4d317",
+              "Subject": "Add New Postgres versions (#374)"
+            },
+            {
+              "SHA": "19094b7a",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "85e02d5b",
+              "Subject": "Add mongodb `5.0.3` (#372)"
+            },
+            {
+              "SHA": "e055d79a",
+              "Subject": "Mark versions using Official docker images as Official Distro (#373)"
+            },
+            {
+              "SHA": "3e45fb54",
+              "Subject": "Add SiteInfo publisher permission"
+            },
+            {
+              "SHA": "df913373",
+              "Subject": "Update dependencies to publish SiteInfo (#369)"
+            },
+            {
+              "SHA": "a1cc057f",
+              "Subject": "Add fields to redis-metrics (#366)"
+            },
+            {
+              "SHA": "bf243169",
+              "Subject": "Add fields to MariaDB Metrics (#370)"
+            },
+            {
+              "SHA": "b53d5cc3",
+              "Subject": "Add v14.0 in Postgres catalog (#368)"
+            },
+            {
+              "SHA": "e3ec7f67",
+              "Subject": "Add redis sentinel metrics configuration (#367)"
+            },
+            {
+              "SHA": "1881967c",
+              "Subject": "Update various kubedb metrics and metric labels (#364)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "05707163",
+              "Subject": "Prepare for release v0.7.0 (#112)"
+            },
+            {
+              "SHA": "2818eb2b",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#111)"
+            },
+            {
+              "SHA": "4580ebd5",
+              "Subject": "Remove global variable for preconditions (#110)"
+            },
+            {
+              "SHA": "8223c352",
+              "Subject": "Update repository config (#109)"
+            },
+            {
+              "SHA": "8be974a6",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "0279fa08",
+              "Subject": "Update docs"
+            },
+            {
+              "SHA": "45cbdb9e",
+              "Subject": "Use DisableAnalytics flag from license (#108)"
+            },
+            {
+              "SHA": "0d4ae537",
+              "Subject": "Update license-verifier (#107)"
+            },
+            {
+              "SHA": "92626beb",
+              "Subject": "Support custom pod, service, and controller(sts) labels (#105)"
+            },
+            {
+              "SHA": "afd25e04",
+              "Subject": "Update dependencies (#104)"
+            },
+            {
+              "SHA": "297c7cdb",
+              "Subject": "Update xorm dependency (#103)"
+            },
+            {
+              "SHA": "fc99578b",
+              "Subject": "Fix satori/go.uuid security vulnerability (#102)"
+            },
+            {
+              "SHA": "43236638",
+              "Subject": "Fix jwt-go security vulnerability (#101)"
+            },
+            {
+              "SHA": "247e1413",
+              "Subject": "Fix jwt-go security vulnerability (#100)"
+            },
+            {
+              "SHA": "1ef0690d",
+              "Subject": "Use nats.go v1.13.0 (#99)"
+            },
+            {
+              "SHA": "2a067c0b",
+              "Subject": "Setup SiteInfo publisher (#98)"
+            },
+            {
+              "SHA": "72c93bb2",
+              "Subject": "Update dependencies to publish SiteInfo (#97)"
+            },
+            {
+              "SHA": "2e17fbb6",
+              "Subject": "Update dependencies to publish SiteInfo (#96)"
+            },
+            {
+              "SHA": "8b091ae3",
+              "Subject": "Update repository config (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "d229ad1",
+              "Subject": "Prepare for release v0.3.0 (#24)"
+            },
+            {
+              "SHA": "04ac158",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#23)"
+            },
+            {
+              "SHA": "b1836cd",
+              "Subject": "Update repository config (#22)"
+            },
+            {
+              "SHA": "670cce7",
+              "Subject": "Use DisableAnalytics flag from license (#21)"
+            },
+            {
+              "SHA": "b2149b3",
+              "Subject": "Update license-verifier (#20)"
+            },
+            {
+              "SHA": "43e2907",
+              "Subject": "Support custom pod and controller labels (#19)"
+            },
+            {
+              "SHA": "054ad28",
+              "Subject": "Update dependencies (#18)"
+            },
+            {
+              "SHA": "73b094a",
+              "Subject": "Update xorm dependency (#17)"
+            },
+            {
+              "SHA": "d401ce6",
+              "Subject": "Fix satori/go.uuid security vulnerability (#16)"
+            },
+            {
+              "SHA": "fbbec4b",
+              "Subject": "Fix jwt-go security vulnerability (#15)"
+            },
+            {
+              "SHA": "bf9222c",
+              "Subject": "Fix jwt-go security vulnerability (#14)"
+            },
+            {
+              "SHA": "dbac458",
+              "Subject": "Use nats.go v1.13.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "f1131b24",
+              "Subject": "Prepare for release v0.16.0 (#327)"
+            },
+            {
+              "SHA": "9a48dfb4",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#326)"
+            },
+            {
+              "SHA": "eedff52b",
+              "Subject": "Remove global variable for preconditions (#325)"
+            },
+            {
+              "SHA": "7e9aa7cb",
+              "Subject": "Update repository config (#324)"
+            },
+            {
+              "SHA": "83d8990b",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "75c6aaae",
+              "Subject": "Update docs"
+            },
+            {
+              "SHA": "d44def4b",
+              "Subject": "Use DisableAnalytics flag from license (#323)"
+            },
+            {
+              "SHA": "f1ac7471",
+              "Subject": "Update license-verifier (#322)"
+            },
+            {
+              "SHA": "7c395019",
+              "Subject": "Support custom pod, service, and controller labels (#321)"
+            },
+            {
+              "SHA": "b138b898",
+              "Subject": "Update dependencies (#320)"
+            },
+            {
+              "SHA": "789dd6f7",
+              "Subject": "Fix satori/go.uuid security vulnerability (#319)"
+            },
+            {
+              "SHA": "37d03918",
+              "Subject": "Fix jwt-go security vulnerability (#318)"
+            },
+            {
+              "SHA": "27e097a3",
+              "Subject": "Fix jwt-go security vulnerability (#317)"
+            },
+            {
+              "SHA": "8fe76024",
+              "Subject": "Use nats.go v1.13.0 (#316)"
+            },
+            {
+              "SHA": "1e1443e0",
+              "Subject": "Update dependencies to publish SiteInfo (#315)"
+            },
+            {
+              "SHA": "5c4569d2",
+              "Subject": "Update dependencies to publish SiteInfo (#314)"
+            },
+            {
+              "SHA": "912ec127",
+              "Subject": "Update repository config (#313)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "c72e7335",
+              "Subject": "Prepare for release v0.16.0 (#437)"
+            },
+            {
+              "SHA": "43ac7699",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#436)"
+            },
+            {
+              "SHA": "4ad8f28c",
+              "Subject": "Remove global variable for preconditions (#435)"
+            },
+            {
+              "SHA": "e009f4ec",
+              "Subject": "Update repository config (#434)"
+            },
+            {
+              "SHA": "02cc1e50",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "e24969a1",
+              "Subject": "Use DisableAnalytics flag from license (#433)"
+            },
+            {
+              "SHA": "8dc342e6",
+              "Subject": "Update license-verifier (#432)"
+            },
+            {
+              "SHA": "ecfb1583",
+              "Subject": "Support custom pod and controller labels (#431)"
+            },
+            {
+              "SHA": "a0550a93",
+              "Subject": "Add pod, statefulSet and service labels support (#430)"
+            },
+            {
+              "SHA": "6ac1a182",
+              "Subject": "Use `kubedb.dev/db-client-go` (#429)"
+            },
+            {
+              "SHA": "8b2ed1c6",
+              "Subject": "Add support for ReplicaSet configuration (#426)"
+            },
+            {
+              "SHA": "07a2f120",
+              "Subject": "Update dependencies (#428)"
+            },
+            {
+              "SHA": "f3f206f8",
+              "Subject": "Fix satori/go.uuid security vulnerability (#427)"
+            },
+            {
+              "SHA": "5c5c669b",
+              "Subject": "Set owner reference to the secrets created by the operator (#425)"
+            },
+            {
+              "SHA": "17ea4294",
+              "Subject": "Fix jwt-go security vulnerability (#424)"
+            },
+            {
+              "SHA": "6a0dccf3",
+              "Subject": "Fix jwt-go security vulnerability (#423)"
+            },
+            {
+              "SHA": "db40027d",
+              "Subject": "Use nats.go v1.13.0 (#422)"
+            },
+            {
+              "SHA": "473928f4",
+              "Subject": "Setup SiteInfo publisher (#421)"
+            },
+            {
+              "SHA": "b9ce138a",
+              "Subject": "Update dependencies to publish SiteInfo (#420)"
+            },
+            {
+              "SHA": "fff26a96",
+              "Subject": "Update dependencies to publish SiteInfo (#419)"
+            },
+            {
+              "SHA": "41f3ccd9",
+              "Subject": "Update repository config (#418)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "0680eeb3",
+              "Subject": "Prepare for release v0.16.0 (#429)"
+            },
+            {
+              "SHA": "375760f3",
+              "Subject": "Export Group Replication stats in Exporter Container (#425)"
+            },
+            {
+              "SHA": "2b5af248",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#428)"
+            },
+            {
+              "SHA": "57f7cf60",
+              "Subject": "Remove global variable for preconditions (#427)"
+            },
+            {
+              "SHA": "d47d0e39",
+              "Subject": "Update repository config (#426)"
+            },
+            {
+              "SHA": "8847d166",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "646da2c8",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "eca0cfd5",
+              "Subject": "Use DisableAnalytics flag from license (#424)"
+            },
+            {
+              "SHA": "86d7a80d",
+              "Subject": "Update license-verifier (#423)"
+            },
+            {
+              "SHA": "de8696fc",
+              "Subject": "Add support for custom pod, service, and controller(sts) labels (#420)"
+            },
+            {
+              "SHA": "87e3ea31",
+              "Subject": "Update entry point command for mysql router. (#422)"
+            },
+            {
+              "SHA": "73178faa",
+              "Subject": "Add support for MySQL Coordinator (#406)"
+            },
+            {
+              "SHA": "0075cf98",
+              "Subject": "Update dependencies (#418)"
+            },
+            {
+              "SHA": "4188a194",
+              "Subject": "Fix satori/go.uuid security vulnerability (#417)"
+            },
+            {
+              "SHA": "569e220f",
+              "Subject": "Fix jwt-go security vulnerability (#416)"
+            },
+            {
+              "SHA": "be5be397",
+              "Subject": "Restrict group replicas for size 2 in Validator (#402)"
+            },
+            {
+              "SHA": "4dbb18f3",
+              "Subject": "Fix jwt-go security vulnerability (#414)"
+            },
+            {
+              "SHA": "f4b0bb43",
+              "Subject": "Use nats.go v1.13.0 (#413)"
+            },
+            {
+              "SHA": "c5eefa7e",
+              "Subject": "Setup SiteInfo publisher (#412)"
+            },
+            {
+              "SHA": "8157ec8f",
+              "Subject": "Update dependencies to publish SiteInfo (#411)"
+            },
+            {
+              "SHA": "808dbd85",
+              "Subject": "Update dependencies to publish SiteInfo (#410)"
+            },
+            {
+              "SHA": "a949af00",
+              "Subject": "Update repository config (#409)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "51cf61d",
+              "Subject": "Prepare for release v0.1.0 (#18)"
+            },
+            {
+              "SHA": "104431b",
+              "Subject": "Prepare for release v0.1.0 (#17)"
+            },
+            {
+              "SHA": "1cd379d",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#16)"
+            },
+            {
+              "SHA": "e85255b",
+              "Subject": "Update repository config (#15)"
+            },
+            {
+              "SHA": "d7f6193",
+              "Subject": "Use DisableAnalytics flag from license (#14)"
+            },
+            {
+              "SHA": "c0a51bb",
+              "Subject": "Update license-verifier (#13)"
+            },
+            {
+              "SHA": "d624835",
+              "Subject": "Support custom pod and controller labels (#12)"
+            },
+            {
+              "SHA": "d3bc5ba",
+              "Subject": "Add sleep for now to avoid the joining problem (#11)"
+            },
+            {
+              "SHA": "e44f9d1",
+              "Subject": "Update dependencies (#10)"
+            },
+            {
+              "SHA": "653e357",
+              "Subject": "Update xorm.io dependency (#9)"
+            },
+            {
+              "SHA": "772ebbd",
+              "Subject": "Fix satori/go.uuid security vulnerability (#8)"
+            },
+            {
+              "SHA": "50fdeee",
+              "Subject": "Fix jwt-go security vulnerability (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "e16b07e",
+              "Subject": "Update repository config (#13)"
+            },
+            {
+              "SHA": "1d14631",
+              "Subject": "Monitor mysql router process id  and restart it if closed. (#11)"
+            },
+            {
+              "SHA": "e36615e",
+              "Subject": "Support custom pod and controller labels (#12)"
+            },
+            {
+              "SHA": "48829ef",
+              "Subject": "Fix satori/go.uuid security vulnerability (#10)"
+            },
+            {
+              "SHA": "5f363e8",
+              "Subject": "Fix jwt-go security vulnerability (#9)"
+            },
+            {
+              "SHA": "41b0fb7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "51fc22e",
+              "Subject": "Fix jwt-go security vulnerability (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "99ac8dca",
+              "Subject": "Prepare for release v0.10.0 (#230)"
+            },
+            {
+              "SHA": "5b90ae92",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#229)"
+            },
+            {
+              "SHA": "13edd56c",
+              "Subject": "Remove global variable for preconditions (#228)"
+            },
+            {
+              "SHA": "29b4a103",
+              "Subject": "Update repository config (#227)"
+            },
+            {
+              "SHA": "56b7d005",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "87f94bb7",
+              "Subject": "Use DisableAnalytics flag from license (#226)"
+            },
+            {
+              "SHA": "2f92a7d0",
+              "Subject": "Update license-verifier (#225)"
+            },
+            {
+              "SHA": "11db9761",
+              "Subject": "Update audit and license-verifier version (#223)"
+            },
+            {
+              "SHA": "4026e363",
+              "Subject": "Add pod, statefulSet and service labels support (#224)"
+            },
+            {
+              "SHA": "eb09a518",
+              "Subject": "Fix satori/go.uuid security vulnerability (#222)"
+            },
+            {
+              "SHA": "0b6063c4",
+              "Subject": "Fix jwt-go security vulnerability (#221)"
+            },
+            {
+              "SHA": "ba344a97",
+              "Subject": "Fix jwt-go security vulnerability (#220)"
+            },
+            {
+              "SHA": "9d3c6e65",
+              "Subject": "Use nats.go v1.13.0 (#219)"
+            },
+            {
+              "SHA": "7dbb955f",
+              "Subject": "Setup SiteInfo publisher (#218)"
+            },
+            {
+              "SHA": "eab16c22",
+              "Subject": "Update dependencies to publish SiteInfo (#217)"
+            },
+            {
+              "SHA": "31e773dd",
+              "Subject": "Update dependencies to publish SiteInfo (#216)"
+            },
+            {
+              "SHA": "5a2ff511",
+              "Subject": "Update repository config (#215)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "e81fa81",
+              "Subject": "Prepare for release v0.7.0 (#54)"
+            },
+            {
+              "SHA": "7c49a84",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#53)"
+            },
+            {
+              "SHA": "aed68ec",
+              "Subject": "Update repository config (#52)"
+            },
+            {
+              "SHA": "b052255",
+              "Subject": "Fix: Raft log corrupted issue (#51)"
+            },
+            {
+              "SHA": "9413347",
+              "Subject": "Use DisableAnalytics flag from license (#50)"
+            },
+            {
+              "SHA": "2fe1bfc",
+              "Subject": "Update license-verifier (#49)"
+            },
+            {
+              "SHA": "d6f9afd",
+              "Subject": "Support custom pod and controller labels (#48)"
+            },
+            {
+              "SHA": "fb2b48c",
+              "Subject": "Postgres Server Restart If Sig-Killed (#44)"
+            },
+            {
+              "SHA": "ab85e39",
+              "Subject": "Print logs at Debug level"
+            },
+            {
+              "SHA": "9b65232",
+              "Subject": "Log timestamp from zap logger used in raft (#47)"
+            },
+            {
+              "SHA": "6d3eb77",
+              "Subject": "Update xorm dependency (#46)"
+            },
+            {
+              "SHA": "b77df43",
+              "Subject": "Fix satori/go.uuid security vulnerability (#45)"
+            },
+            {
+              "SHA": "3cd9cc4",
+              "Subject": "Fix jwt-go security vulnerability (#43)"
+            },
+            {
+              "SHA": "bd2356d",
+              "Subject": "Fix: Postgres server single user mode start for bullseye image (#42)"
+            },
+            {
+              "SHA": "0c8c18d",
+              "Subject": "Update dependencies to publish SiteInfo (#40)"
+            },
+            {
+              "SHA": "06ee14c",
+              "Subject": "Add support for Postgres version v14.0 (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "e12cc8a9",
+              "Subject": "Prepare for release v0.10.0 (#190)"
+            },
+            {
+              "SHA": "1e7d783e",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#189)"
+            },
+            {
+              "SHA": "6e08b78b",
+              "Subject": "Update repository config (#187)"
+            },
+            {
+              "SHA": "ecd28729",
+              "Subject": "Remove global variable for preconditions (#188)"
+            },
+            {
+              "SHA": "e8ad1227",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "3a2a4143",
+              "Subject": "Use DisableAnalytics flag from license (#186)"
+            },
+            {
+              "SHA": "308c521f",
+              "Subject": "Update license-verifier (#185)"
+            },
+            {
+              "SHA": "a3eb245d",
+              "Subject": "Update audit and license-verifier version (#184)"
+            },
+            {
+              "SHA": "236cec3c",
+              "Subject": "Support custom pod, service and controller(sts) labels (#183)"
+            },
+            {
+              "SHA": "8a935075",
+              "Subject": "Stop using beta apis"
+            },
+            {
+              "SHA": "6f2bce67",
+              "Subject": "Fix satori/go.uuid security vulnerability (#182)"
+            },
+            {
+              "SHA": "51676d8e",
+              "Subject": "Fix jwt-go security vulnerability (#181)"
+            },
+            {
+              "SHA": "ac2bbd35",
+              "Subject": "Fix jwt-go security vulnerability (#180)"
+            },
+            {
+              "SHA": "01c0adc9",
+              "Subject": "Use nats.go v1.13.0 (#179)"
+            },
+            {
+              "SHA": "3260a07d",
+              "Subject": "Setup SiteInfo publisher (#178)"
+            },
+            {
+              "SHA": "36353a42",
+              "Subject": "Update dependencies to publish SiteInfo (#176)"
+            },
+            {
+              "SHA": "ce4fdfc1",
+              "Subject": "Update repository config (#175)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "b9b2521a",
+              "Subject": "Prepare for release v0.23.0 (#540)"
+            },
+            {
+              "SHA": "6f98f884",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#539)"
+            },
+            {
+              "SHA": "015dd315",
+              "Subject": "Update repository config (#537)"
+            },
+            {
+              "SHA": "1ce33dd4",
+              "Subject": "Remove global variable for preconditions (#538)"
+            },
+            {
+              "SHA": "967b1bd5",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "63585d4d",
+              "Subject": "Use DisableAnalytics flag from license (#536)"
+            },
+            {
+              "SHA": "8030b449",
+              "Subject": "Update license-verifier (#535)"
+            },
+            {
+              "SHA": "30407273",
+              "Subject": "Add pod, services, and pod-controller(sts) labels support (#533)"
+            },
+            {
+              "SHA": "55c626a2",
+              "Subject": "Add Raft client Port In Primary Service (#530)"
+            },
+            {
+              "SHA": "a1a4bdb3",
+              "Subject": "Stop using beta api"
+            },
+            {
+              "SHA": "e0e2a3e4",
+              "Subject": "Update xorm.io/xorm dependency (#532)"
+            },
+            {
+              "SHA": "e6aacd05",
+              "Subject": "Fix satori/go.uuid security vulnerability (#531)"
+            },
+            {
+              "SHA": "140226f7",
+              "Subject": "Fix jwt-go security vulnerability (#529)"
+            },
+            {
+              "SHA": "31e9df33",
+              "Subject": "Fix jwt-go security vulnerability (#528)"
+            },
+            {
+              "SHA": "70fb383a",
+              "Subject": "Use nats.go v1.13.0 (#527)"
+            },
+            {
+              "SHA": "77d43f95",
+              "Subject": "Setup SiteInfo publisher (#526)"
+            },
+            {
+              "SHA": "8755bde2",
+              "Subject": "Update dependencies to publish SiteInfo (#525)"
+            },
+            {
+              "SHA": "feb81410",
+              "Subject": "Update repository config (#524)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "88940863",
+              "Subject": "Prepare for release v0.10.0 (#207)"
+            },
+            {
+              "SHA": "66ce0801",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#206)"
+            },
+            {
+              "SHA": "21b59886",
+              "Subject": "Remove global variable for preconditions (#205)"
+            },
+            {
+              "SHA": "884e3915",
+              "Subject": "Update repository config (#204)"
+            },
+            {
+              "SHA": "81c11592",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "271bc5af",
+              "Subject": "Use DisableAnalytics flag from license (#203)"
+            },
+            {
+              "SHA": "4710a672",
+              "Subject": "Update license-verifier (#202)"
+            },
+            {
+              "SHA": "229ba8c7",
+              "Subject": "Support custom pod, service and controller(sts) labels (#201)"
+            },
+            {
+              "SHA": "3c915f61",
+              "Subject": "Update dependencies (#200)"
+            },
+            {
+              "SHA": "7ce88a70",
+              "Subject": "Fix jwt-go security vulnerability (#199)"
+            },
+            {
+              "SHA": "bb2c78e8",
+              "Subject": "Fix jwt-go security vulnerability (#198)"
+            },
+            {
+              "SHA": "2764f4c7",
+              "Subject": "Use nats.go v1.13.0 (#197)"
+            },
+            {
+              "SHA": "b06f614b",
+              "Subject": "Update dependencies to publish SiteInfo (#196)"
+            },
+            {
+              "SHA": "6a067416",
+              "Subject": "Update dependencies to publish SiteInfo (#195)"
+            },
+            {
+              "SHA": "5f1ce0f2",
+              "Subject": "Update repository config (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "c3986f47",
+              "Subject": "Prepare for release v0.16.0 (#362)"
+            },
+            {
+              "SHA": "158af05f",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#361)"
+            },
+            {
+              "SHA": "4cc13143",
+              "Subject": "Remove global variable for preconditions (#360)"
+            },
+            {
+              "SHA": "16011733",
+              "Subject": "Update repository config (#359)"
+            },
+            {
+              "SHA": "eea15b8a",
+              "Subject": "Fix: Sentinel and Redis In Different Namespaces (#358)"
+            },
+            {
+              "SHA": "38b28c4e",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "32b2565a",
+              "Subject": "Use DisableAnalytics flag from license (#357)"
+            },
+            {
+              "SHA": "27d7f428",
+              "Subject": "Update license-verifier (#356)"
+            },
+            {
+              "SHA": "c00f72bf",
+              "Subject": "Update audit and license-verifier version (#354)"
+            },
+            {
+              "SHA": "7aebec13",
+              "Subject": "Add pod, statefulSet and service labels support (#355)"
+            },
+            {
+              "SHA": "2f09ae66",
+              "Subject": "Fix: resolve panic issue when sentinelRef is Null or empty (#353)"
+            },
+            {
+              "SHA": "016fc0ff",
+              "Subject": "Redis Custom Config issue (#351)"
+            },
+            {
+              "SHA": "09d750ac",
+              "Subject": "Update dependencies (#352)"
+            },
+            {
+              "SHA": "4ac3e812",
+              "Subject": "Fix jwt-go security vulnerability (#350)"
+            },
+            {
+              "SHA": "4f7fd873",
+              "Subject": "Fix jwt-go security vulnerability (#349)"
+            },
+            {
+              "SHA": "f86d4fb1",
+              "Subject": "Fix: Redis Panic issue for sentinel (#348)"
+            },
+            {
+              "SHA": "7b1c53a6",
+              "Subject": "Use nats.go v1.13.0 (#347)"
+            },
+            {
+              "SHA": "7d9017e8",
+              "Subject": "Setup SiteInfo publisher (#346)"
+            },
+            {
+              "SHA": "34c98fc3",
+              "Subject": "Update dependencies to publish SiteInfo (#345)"
+            },
+            {
+              "SHA": "1831c5b7",
+              "Subject": "Update dependencies to publish SiteInfo (#344)"
+            },
+            {
+              "SHA": "4798de2d",
+              "Subject": "Update repository config (#343)"
+            },
+            {
+              "SHA": "a14cd630",
+              "Subject": "Fix: Redis monitoring port (#342)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "8b9d7eb",
+              "Subject": "Prepare for release v0.2.0 (#13)"
+            },
+            {
+              "SHA": "3399280",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#12)"
+            },
+            {
+              "SHA": "eb51783",
+              "Subject": "Update repository config (#11)"
+            },
+            {
+              "SHA": "fff31b5",
+              "Subject": "Use DisableAnalytics flag from license (#10)"
+            },
+            {
+              "SHA": "f2b347c",
+              "Subject": "Update license-verifier (#9)"
+            },
+            {
+              "SHA": "361e3f7",
+              "Subject": "Support custom pod and controller labels (#8)"
+            },
+            {
+              "SHA": "ad486b9",
+              "Subject": "Update dependencies (#7)"
+            },
+            {
+              "SHA": "560e04d",
+              "Subject": "Fix satori/go.uuid security vulnerability (#6)"
+            },
+            {
+              "SHA": "a0bd03b",
+              "Subject": "Fix jwt-go security vulnerability (#5)"
+            },
+            {
+              "SHA": "6a1f913",
+              "Subject": "Fix jwt-go security vulnerability (#4)"
+            },
+            {
+              "SHA": "8f1418e",
+              "Subject": "Use nats.go v1.13.0 (#3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "bde31cc8",
+              "Subject": "Prepare for release v0.10.0 (#175)"
+            },
+            {
+              "SHA": "93abeed6",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#174)"
+            },
+            {
+              "SHA": "78bff385",
+              "Subject": "Update repository config (#173)"
+            },
+            {
+              "SHA": "6578cc86",
+              "Subject": "Use DisableAnalytics flag from license (#172)"
+            },
+            {
+              "SHA": "b99f779b",
+              "Subject": "Update license-verifier (#171)"
+            },
+            {
+              "SHA": "a62adbd0",
+              "Subject": "Support custom pod and controller labels (#170)"
+            },
+            {
+              "SHA": "afb2bfd9",
+              "Subject": "Update dependencies (#169)"
+            },
+            {
+              "SHA": "9b65b2c5",
+              "Subject": "Update xorm dependency (#168)"
+            },
+            {
+              "SHA": "a2427a67",
+              "Subject": "Fix satori/go.uuid security vulnerability (#167)"
+            },
+            {
+              "SHA": "0a0163ca",
+              "Subject": "Fix jwt-go security vulnerability (#166)"
+            },
+            {
+              "SHA": "4f69c8c3",
+              "Subject": "Fix jwt-go security vulnerability (#165)"
+            },
+            {
+              "SHA": "1005f1a2",
+              "Subject": "Update dependencies to publish SiteInfo (#164)"
+            },
+            {
+              "SHA": "9ac9d09e",
+              "Subject": "Update dependencies to publish SiteInfo (#163)"
+            },
+            {
+              "SHA": "c55ae055",
+              "Subject": "Update repository config (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "50f414a9",
+              "Subject": "Prepare for release v0.8.0 (#156)"
+            },
+            {
+              "SHA": "25e5c5b6",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#155)"
+            },
+            {
+              "SHA": "951d17ca",
+              "Subject": "Update repository config (#154)"
+            },
+            {
+              "SHA": "d0988abf",
+              "Subject": "Use DisableAnalytics flag from license (#153)"
+            },
+            {
+              "SHA": "7aea8907",
+              "Subject": "Update license-verifier (#152)"
+            },
+            {
+              "SHA": "637ae1a0",
+              "Subject": "Support custom pod and controller labels (#151)"
+            },
+            {
+              "SHA": "45223290",
+              "Subject": "Update dependencies (#150)"
+            },
+            {
+              "SHA": "fcef9222",
+              "Subject": "Fix satori/go.uuid security vulnerability (#149)"
+            },
+            {
+              "SHA": "1d308fc7",
+              "Subject": "Fix jwt-go security vulnerability (#148)"
+            },
+            {
+              "SHA": "9c764d48",
+              "Subject": "Fix jwt-go security vulnerability (#147)"
+            },
+            {
+              "SHA": "cef34499",
+              "Subject": "Fix jwt-go security vulnerability (#146)"
+            },
+            {
+              "SHA": "2c1d6094",
+              "Subject": "Update dependencies to publish SiteInfo (#145)"
+            },
+            {
+              "SHA": "443c8390",
+              "Subject": "Update dependencies to publish SiteInfo (#144)"
+            },
+            {
+              "SHA": "5f71478f",
+              "Subject": "Update repository config (#143)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

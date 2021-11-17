@@ -279,6 +279,30 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.10.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.10.0)
+
+- [e12cc8a9](https://github.com/kubedb/pgbouncer/commit/e12cc8a9) Prepare for release v0.10.0 (#190)
+- [1e7d783e](https://github.com/kubedb/pgbouncer/commit/1e7d783e) Update kmodules.xyz/monitoring-agent-api (#189)
+- [6e08b78b](https://github.com/kubedb/pgbouncer/commit/6e08b78b) Update repository config (#187)
+- [ecd28729](https://github.com/kubedb/pgbouncer/commit/ecd28729) Remove global variable for preconditions (#188)
+- [e8ad1227](https://github.com/kubedb/pgbouncer/commit/e8ad1227) Remove docs
+- [3a2a4143](https://github.com/kubedb/pgbouncer/commit/3a2a4143) Use DisableAnalytics flag from license (#186)
+- [308c521f](https://github.com/kubedb/pgbouncer/commit/308c521f) Update license-verifier (#185)
+- [a3eb245d](https://github.com/kubedb/pgbouncer/commit/a3eb245d) Update audit and license-verifier version (#184)
+- [236cec3c](https://github.com/kubedb/pgbouncer/commit/236cec3c) Support custom pod, service and controller(sts) labels (#183)
+- [8a935075](https://github.com/kubedb/pgbouncer/commit/8a935075) Stop using beta apis
+- [6f2bce67](https://github.com/kubedb/pgbouncer/commit/6f2bce67) Fix satori/go.uuid security vulnerability (#182)
+- [51676d8e](https://github.com/kubedb/pgbouncer/commit/51676d8e) Fix jwt-go security vulnerability (#181)
+- [ac2bbd35](https://github.com/kubedb/pgbouncer/commit/ac2bbd35) Fix jwt-go security vulnerability (#180)
+- [01c0adc9](https://github.com/kubedb/pgbouncer/commit/01c0adc9) Use nats.go v1.13.0 (#179)
+- [3260a07d](https://github.com/kubedb/pgbouncer/commit/3260a07d) Setup SiteInfo publisher (#178)
+- [36353a42](https://github.com/kubedb/pgbouncer/commit/36353a42) Update dependencies to publish SiteInfo (#176)
+- [ce4fdfc1](https://github.com/kubedb/pgbouncer/commit/ce4fdfc1) Update repository config (#175)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.23.0](https://github.com/kubedb/postgres/releases/tag/v0.23.0)

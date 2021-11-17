@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:55:32.678213117Z",
+  "release_date": "2021-11-17T10:57:25.905054513Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -897,6 +897,84 @@
             {
               "SHA": "06ee14c",
               "Subject": "Add support for Postgres version v14.0 (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "e12cc8a9",
+              "Subject": "Prepare for release v0.10.0 (#190)"
+            },
+            {
+              "SHA": "1e7d783e",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#189)"
+            },
+            {
+              "SHA": "6e08b78b",
+              "Subject": "Update repository config (#187)"
+            },
+            {
+              "SHA": "ecd28729",
+              "Subject": "Remove global variable for preconditions (#188)"
+            },
+            {
+              "SHA": "e8ad1227",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "3a2a4143",
+              "Subject": "Use DisableAnalytics flag from license (#186)"
+            },
+            {
+              "SHA": "308c521f",
+              "Subject": "Update license-verifier (#185)"
+            },
+            {
+              "SHA": "a3eb245d",
+              "Subject": "Update audit and license-verifier version (#184)"
+            },
+            {
+              "SHA": "236cec3c",
+              "Subject": "Support custom pod, service and controller(sts) labels (#183)"
+            },
+            {
+              "SHA": "8a935075",
+              "Subject": "Stop using beta apis"
+            },
+            {
+              "SHA": "6f2bce67",
+              "Subject": "Fix satori/go.uuid security vulnerability (#182)"
+            },
+            {
+              "SHA": "51676d8e",
+              "Subject": "Fix jwt-go security vulnerability (#181)"
+            },
+            {
+              "SHA": "ac2bbd35",
+              "Subject": "Fix jwt-go security vulnerability (#180)"
+            },
+            {
+              "SHA": "01c0adc9",
+              "Subject": "Use nats.go v1.13.0 (#179)"
+            },
+            {
+              "SHA": "3260a07d",
+              "Subject": "Setup SiteInfo publisher (#178)"
+            },
+            {
+              "SHA": "36353a42",
+              "Subject": "Update dependencies to publish SiteInfo (#176)"
+            },
+            {
+              "SHA": "ce4fdfc1",
+              "Subject": "Update repository config (#175)"
             }
           ]
         }

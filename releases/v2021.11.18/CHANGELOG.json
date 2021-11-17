@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.18",
-  "release_date": "2021-11-17T10:44:01.219774118Z",
+  "release_date": "2021-11-17T10:44:10.89641818Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.18",
   "kubernetes_version": "1.16+",
@@ -457,6 +457,100 @@
             {
               "SHA": "912ec127",
               "Subject": "Update repository config (#313)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "c72e7335",
+              "Subject": "Prepare for release v0.16.0 (#437)"
+            },
+            {
+              "SHA": "43ac7699",
+              "Subject": "Update kmodules.xyz/monitoring-agent-api (#436)"
+            },
+            {
+              "SHA": "4ad8f28c",
+              "Subject": "Remove global variable for preconditions (#435)"
+            },
+            {
+              "SHA": "e009f4ec",
+              "Subject": "Update repository config (#434)"
+            },
+            {
+              "SHA": "02cc1e50",
+              "Subject": "Remove docs"
+            },
+            {
+              "SHA": "e24969a1",
+              "Subject": "Use DisableAnalytics flag from license (#433)"
+            },
+            {
+              "SHA": "8dc342e6",
+              "Subject": "Update license-verifier (#432)"
+            },
+            {
+              "SHA": "ecfb1583",
+              "Subject": "Support custom pod and controller labels (#431)"
+            },
+            {
+              "SHA": "a0550a93",
+              "Subject": "Add pod, statefulSet and service labels support (#430)"
+            },
+            {
+              "SHA": "6ac1a182",
+              "Subject": "Use `kubedb.dev/db-client-go` (#429)"
+            },
+            {
+              "SHA": "8b2ed1c6",
+              "Subject": "Add support for ReplicaSet configuration (#426)"
+            },
+            {
+              "SHA": "07a2f120",
+              "Subject": "Update dependencies (#428)"
+            },
+            {
+              "SHA": "f3f206f8",
+              "Subject": "Fix satori/go.uuid security vulnerability (#427)"
+            },
+            {
+              "SHA": "5c5c669b",
+              "Subject": "Set owner reference to the secrets created by the operator (#425)"
+            },
+            {
+              "SHA": "17ea4294",
+              "Subject": "Fix jwt-go security vulnerability (#424)"
+            },
+            {
+              "SHA": "6a0dccf3",
+              "Subject": "Fix jwt-go security vulnerability (#423)"
+            },
+            {
+              "SHA": "db40027d",
+              "Subject": "Use nats.go v1.13.0 (#422)"
+            },
+            {
+              "SHA": "473928f4",
+              "Subject": "Setup SiteInfo publisher (#421)"
+            },
+            {
+              "SHA": "b9ce138a",
+              "Subject": "Update dependencies to publish SiteInfo (#420)"
+            },
+            {
+              "SHA": "fff26a96",
+              "Subject": "Update dependencies to publish SiteInfo (#419)"
+            },
+            {
+              "SHA": "41f3ccd9",
+              "Subject": "Update repository config (#418)"
             }
           ]
         }

@@ -142,6 +142,34 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.16.0](https://github.com/kubedb/mongodb/releases/tag/v0.16.0)
+
+- [c72e7335](https://github.com/kubedb/mongodb/commit/c72e7335) Prepare for release v0.16.0 (#437)
+- [43ac7699](https://github.com/kubedb/mongodb/commit/43ac7699) Update kmodules.xyz/monitoring-agent-api (#436)
+- [4ad8f28c](https://github.com/kubedb/mongodb/commit/4ad8f28c) Remove global variable for preconditions (#435)
+- [e009f4ec](https://github.com/kubedb/mongodb/commit/e009f4ec) Update repository config (#434)
+- [02cc1e50](https://github.com/kubedb/mongodb/commit/02cc1e50) Remove docs
+- [e24969a1](https://github.com/kubedb/mongodb/commit/e24969a1) Use DisableAnalytics flag from license (#433)
+- [8dc342e6](https://github.com/kubedb/mongodb/commit/8dc342e6) Update license-verifier (#432)
+- [ecfb1583](https://github.com/kubedb/mongodb/commit/ecfb1583) Support custom pod and controller labels (#431)
+- [a0550a93](https://github.com/kubedb/mongodb/commit/a0550a93) Add pod, statefulSet and service labels support (#430)
+- [6ac1a182](https://github.com/kubedb/mongodb/commit/6ac1a182) Use `kubedb.dev/db-client-go` (#429)
+- [8b2ed1c6](https://github.com/kubedb/mongodb/commit/8b2ed1c6) Add support for ReplicaSet configuration (#426)
+- [07a2f120](https://github.com/kubedb/mongodb/commit/07a2f120) Update dependencies (#428)
+- [f3f206f8](https://github.com/kubedb/mongodb/commit/f3f206f8) Fix satori/go.uuid security vulnerability (#427)
+- [5c5c669b](https://github.com/kubedb/mongodb/commit/5c5c669b) Set owner reference to the secrets created by the operator (#425)
+- [17ea4294](https://github.com/kubedb/mongodb/commit/17ea4294) Fix jwt-go security vulnerability (#424)
+- [6a0dccf3](https://github.com/kubedb/mongodb/commit/6a0dccf3) Fix jwt-go security vulnerability (#423)
+- [db40027d](https://github.com/kubedb/mongodb/commit/db40027d) Use nats.go v1.13.0 (#422)
+- [473928f4](https://github.com/kubedb/mongodb/commit/473928f4) Setup SiteInfo publisher (#421)
+- [b9ce138a](https://github.com/kubedb/mongodb/commit/b9ce138a) Update dependencies to publish SiteInfo (#420)
+- [fff26a96](https://github.com/kubedb/mongodb/commit/fff26a96) Update dependencies to publish SiteInfo (#419)
+- [41f3ccd9](https://github.com/kubedb/mongodb/commit/41f3ccd9) Update repository config (#418)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.1.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.1.0)

@@ -1,0 +1,599 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.11.24",
+  "release_date": "2021-11-24T11:13:35.399924899Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.11.24",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "fe94664c",
+              "Subject": "Fix UI crd schema"
+            },
+            {
+              "SHA": "5904fd60",
+              "Subject": "Fix UI type pluralization"
+            },
+            {
+              "SHA": "cd6d64c9",
+              "Subject": "Generate crd yamls for UI types (#823)"
+            },
+            {
+              "SHA": "3ffb45c3",
+              "Subject": "Remove unused ui apis (#822)"
+            },
+            {
+              "SHA": "444a0862",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "a4234dc5",
+              "Subject": "Add UI api types (#821)"
+            },
+            {
+              "SHA": "fcda9c60",
+              "Subject": "Add helper function to filter database pods (#820)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "2beca453",
+              "Subject": "Prepare for release v0.9.0 (#55)"
+            },
+            {
+              "SHA": "52ea3990",
+              "Subject": "Fix SiteInfo publishing (#54)"
+            },
+            {
+              "SHA": "17177d27",
+              "Subject": "Update dependencies (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2021.11.24",
+          "commits": [
+            {
+              "SHA": "1a6aaf1",
+              "Subject": "Prepare for release v2021.11.24 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "17f1637c",
+              "Subject": "Prepare for release v0.24.0 (#643)"
+            },
+            {
+              "SHA": "a8b26225",
+              "Subject": "Update dependencies (#642)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2021.11.24",
+          "commits": [
+            {
+              "SHA": "f31b922",
+              "Subject": "Prepare for release v2021.11.24 (#167)"
+            },
+            {
+              "SHA": "36c165c",
+              "Subject": "Update index.md (#163)"
+            },
+            {
+              "SHA": "e233eda",
+              "Subject": "Update MySQL catalog versions (#166)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "4209d6b7",
+              "Subject": "Prepare for release v0.24.0 (#544)"
+            },
+            {
+              "SHA": "33c76558",
+              "Subject": "Provide node roles to config-merger init-container (#542)"
+            },
+            {
+              "SHA": "bef5bc1d",
+              "Subject": "Fix SiteInfo publishing (#543)"
+            },
+            {
+              "SHA": "e877751e",
+              "Subject": "Add support for SearchGuard 7.14 (#534)"
+            },
+            {
+              "SHA": "04175cef",
+              "Subject": "Update dependencies (#541)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "cb4ff7a6",
+              "Subject": "Prepare for release v0.11.0 (#254)"
+            },
+            {
+              "SHA": "069d7c3d",
+              "Subject": "Fix SiteInfo publishing (#253)"
+            },
+            {
+              "SHA": "e556b56e",
+              "Subject": "Update dependencies (#252)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2021.11.24",
+          "commits": [
+            {
+              "SHA": "b6b172d5",
+              "Subject": "Prepare for release v2021.11.24 (#403)"
+            },
+            {
+              "SHA": "b4ecd09e",
+              "Subject": "Update repository config (#402)"
+            },
+            {
+              "SHA": "8ca4fae4",
+              "Subject": "Add support for SearchGuard  7.14.2 (#383)"
+            },
+            {
+              "SHA": "cabbd39d",
+              "Subject": "Update dependencies (#401)"
+            },
+            {
+              "SHA": "57183edd",
+              "Subject": "Update kubedb-opscenter chart dependencies via make file"
+            },
+            {
+              "SHA": "d63d8d20",
+              "Subject": "Add kubedb-opscenter chart (#400)"
+            },
+            {
+              "SHA": "44cdc13c",
+              "Subject": "Update ui-server chart"
+            },
+            {
+              "SHA": "62b2390c",
+              "Subject": "Don't import UI crds (#399)"
+            },
+            {
+              "SHA": "2008841f",
+              "Subject": "Fix permissions for the ui-server chart"
+            },
+            {
+              "SHA": "e6586325",
+              "Subject": "Grant permission to watch rbac resources (#398)"
+            },
+            {
+              "SHA": "56cdf5f8",
+              "Subject": "Add kubedb-ui-server chart (#396)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "c90ff2a2",
+              "Subject": "Prepare for release v0.8.0 (#115)"
+            },
+            {
+              "SHA": "176a2468",
+              "Subject": "Fix SiteInfo publishing (#114)"
+            },
+            {
+              "SHA": "04216631",
+              "Subject": "Update dependencies (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "c4f422f",
+              "Subject": "Prepare for release v0.4.0 (#27)"
+            },
+            {
+              "SHA": "5776558",
+              "Subject": "Fix SiteInfo publishing (#26)"
+            },
+            {
+              "SHA": "9142160",
+              "Subject": "Update dependencies (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "4f426b96",
+              "Subject": "Prepare for release v0.17.0 (#330)"
+            },
+            {
+              "SHA": "67e974bc",
+              "Subject": "Fix SiteInfo publishing (#329)"
+            },
+            {
+              "SHA": "5feae6ab",
+              "Subject": "Update dependencies (#328)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "d842a13d",
+              "Subject": "Prepare for release v0.17.0 (#440)"
+            },
+            {
+              "SHA": "16fc38d1",
+              "Subject": "Fix SiteInfo publishing (#439)"
+            },
+            {
+              "SHA": "036de72e",
+              "Subject": "Update dependencies (#438)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "ae4b36c9",
+              "Subject": "Prepare for release v0.17.0 (#435)"
+            },
+            {
+              "SHA": "af98af2e",
+              "Subject": "Fix SiteInfo publishing (#434)"
+            },
+            {
+              "SHA": "8af7f2ed",
+              "Subject": "Update dependencies (#433)"
+            },
+            {
+              "SHA": "16e20d5f",
+              "Subject": "Fix MySQL app binding URL (#432)"
+            },
+            {
+              "SHA": "36b10c3b",
+              "Subject": "Update health checker to use only the database pods (#431)"
+            },
+            {
+              "SHA": "0fa954cc",
+              "Subject": "Ensure health checker uses only the database pods (#430)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "587bc66",
+              "Subject": "Prepare for release v0.2.0 (#21)"
+            },
+            {
+              "SHA": "126c117",
+              "Subject": "Fix SiteInfo publishing (#20)"
+            },
+            {
+              "SHA": "cec1517",
+              "Subject": "Update dependencies (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "3657964d",
+              "Subject": "Prepare for release v0.24.0 (#438)"
+            },
+            {
+              "SHA": "e8ca9fdd",
+              "Subject": "Fix SiteInfo publishing (#437)"
+            },
+            {
+              "SHA": "0a153b6d",
+              "Subject": "Update dependencies (#436)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "b3aa8b5b",
+              "Subject": "Prepare for release v0.11.0 (#233)"
+            },
+            {
+              "SHA": "59444b38",
+              "Subject": "Fix SiteInfo publishing (#232)"
+            },
+            {
+              "SHA": "448884b4",
+              "Subject": "Update dependencies (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "35e2b4f",
+              "Subject": "Prepare for release v0.8.0 (#57)"
+            },
+            {
+              "SHA": "68cbc96",
+              "Subject": "Update dependencies (#56)"
+            },
+            {
+              "SHA": "a09b701",
+              "Subject": "Check if pods are controlled by kubedb statefulset (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "bc1b2498",
+              "Subject": "Prepare for release v0.11.0 (#193)"
+            },
+            {
+              "SHA": "fdd843a5",
+              "Subject": "Fix SiteInfo publishing (#192)"
+            },
+            {
+              "SHA": "766caf5a",
+              "Subject": "Update dependencies (#191)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "cff2c9ca",
+              "Subject": "Prepare for release v0.24.0 (#544)"
+            },
+            {
+              "SHA": "8fa72022",
+              "Subject": "Fix SiteInfo publishing (#543)"
+            },
+            {
+              "SHA": "849a67ef",
+              "Subject": "Update dependencies (#542)"
+            },
+            {
+              "SHA": "c5d14298",
+              "Subject": "Ensure health checker uses only the database pods (#541)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "532e00d3",
+              "Subject": "Prepare for release v0.11.0 (#210)"
+            },
+            {
+              "SHA": "cf7cc989",
+              "Subject": "Fix SiteInfo publishing (#209)"
+            },
+            {
+              "SHA": "c10cb631",
+              "Subject": "Update dependencies (#208)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "73c3be89",
+              "Subject": "Prepare for release v0.17.0 (#366)"
+            },
+            {
+              "SHA": "89394093",
+              "Subject": "Fix SiteInfo publishing (#365)"
+            },
+            {
+              "SHA": "f3146a45",
+              "Subject": "Update dependencies (#364)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "62a268b",
+              "Subject": "Prepare for release v0.3.0 (#16)"
+            },
+            {
+              "SHA": "851d915",
+              "Subject": "Fix SiteInfo publishing (#15)"
+            },
+            {
+              "SHA": "25fa001",
+              "Subject": "Update dependencies (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "d475b0e1",
+              "Subject": "Prepare for release v0.11.0 (#177)"
+            },
+            {
+              "SHA": "439578e7",
+              "Subject": "Update dependencies (#176)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "e459024c",
+              "Subject": "Prepare for release v0.9.0 (#158)"
+            },
+            {
+              "SHA": "dabca0ad",
+              "Subject": "Update dependencies (#157)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

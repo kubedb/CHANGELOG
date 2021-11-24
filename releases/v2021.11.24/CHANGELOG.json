@@ -1,0 +1,48 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2021.11.24",
+  "release_date": "2021-11-24T09:05:52.756673683Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2021.11.24",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "fe94664c",
+              "Subject": "Fix UI crd schema"
+            },
+            {
+              "SHA": "5904fd60",
+              "Subject": "Fix UI type pluralization"
+            },
+            {
+              "SHA": "cd6d64c9",
+              "Subject": "Generate crd yamls for UI types (#823)"
+            },
+            {
+              "SHA": "3ffb45c3",
+              "Subject": "Remove unused ui apis (#822)"
+            },
+            {
+              "SHA": "444a0862",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "a4234dc5",
+              "Subject": "Add UI api types (#821)"
+            },
+            {
+              "SHA": "fcda9c60",
+              "Subject": "Add helper function to filter database pods (#820)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,18 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.24.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.24.0)
+
+- [4209d6b7](https://github.com/kubedb/elasticsearch/commit/4209d6b7) Prepare for release v0.24.0 (#544)
+- [33c76558](https://github.com/kubedb/elasticsearch/commit/33c76558) Provide node roles to config-merger init-container (#542)
+- [bef5bc1d](https://github.com/kubedb/elasticsearch/commit/bef5bc1d) Fix SiteInfo publishing (#543)
+- [e877751e](https://github.com/kubedb/elasticsearch/commit/e877751e) Add support for SearchGuard 7.14 (#534)
+- [04175cef](https://github.com/kubedb/elasticsearch/commit/04175cef) Update dependencies (#541)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.8.0](https://github.com/kubedb/mariadb/releases/tag/v0.8.0)

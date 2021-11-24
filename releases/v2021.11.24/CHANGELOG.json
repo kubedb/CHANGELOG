@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:20:58.110361451Z",
+  "release_date": "2021-11-24T09:21:40.329926198Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -39,6 +39,36 @@
             {
               "SHA": "fcda9c60",
               "Subject": "Add helper function to filter database pods (#820)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "4209d6b7",
+              "Subject": "Prepare for release v0.24.0 (#544)"
+            },
+            {
+              "SHA": "33c76558",
+              "Subject": "Provide node roles to config-merger init-container (#542)"
+            },
+            {
+              "SHA": "bef5bc1d",
+              "Subject": "Fix SiteInfo publishing (#543)"
+            },
+            {
+              "SHA": "e877751e",
+              "Subject": "Add support for SearchGuard 7.14 (#534)"
+            },
+            {
+              "SHA": "04175cef",
+              "Subject": "Update dependencies (#541)"
             }
           ]
         }

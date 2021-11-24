@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:19:29.793789914Z",
+  "release_date": "2021-11-24T09:20:14.444440457Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -83,6 +83,40 @@
             {
               "SHA": "5feae6ab",
               "Subject": "Update dependencies (#328)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "ae4b36c9",
+              "Subject": "Prepare for release v0.17.0 (#435)"
+            },
+            {
+              "SHA": "af98af2e",
+              "Subject": "Fix SiteInfo publishing (#434)"
+            },
+            {
+              "SHA": "8af7f2ed",
+              "Subject": "Update dependencies (#433)"
+            },
+            {
+              "SHA": "16e20d5f",
+              "Subject": "Fix MySQL app binding URL (#432)"
+            },
+            {
+              "SHA": "36b10c3b",
+              "Subject": "Update health checker to use only the database pods (#431)"
+            },
+            {
+              "SHA": "0fa954cc",
+              "Subject": "Ensure health checker uses only the database pods (#430)"
             }
           ]
         }

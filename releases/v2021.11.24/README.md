@@ -35,6 +35,19 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.17.0](https://github.com/kubedb/mysql/releases/tag/v0.17.0)
+
+- [ae4b36c9](https://github.com/kubedb/mysql/commit/ae4b36c9) Prepare for release v0.17.0 (#435)
+- [af98af2e](https://github.com/kubedb/mysql/commit/af98af2e) Fix SiteInfo publishing (#434)
+- [8af7f2ed](https://github.com/kubedb/mysql/commit/8af7f2ed) Update dependencies (#433)
+- [16e20d5f](https://github.com/kubedb/mysql/commit/16e20d5f) Fix MySQL app binding URL (#432)
+- [36b10c3b](https://github.com/kubedb/mysql/commit/36b10c3b) Update health checker to use only the database pods (#431)
+- [0fa954cc](https://github.com/kubedb/mysql/commit/0fa954cc) Ensure health checker uses only the database pods (#430)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.2.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.2.0)

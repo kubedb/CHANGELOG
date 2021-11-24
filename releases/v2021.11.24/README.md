@@ -34,6 +34,16 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2021.11.24](https://github.com/kubedb/docs/releases/tag/v2021.11.24)
+
+- [f31b922](https://github.com/kubedb/docs/commit/f31b922) Prepare for release v2021.11.24 (#167)
+- [36c165c](https://github.com/kubedb/docs/commit/36c165c) Update index.md (#163)
+- [e233eda](https://github.com/kubedb/docs/commit/e233eda) Update MySQL catalog versions (#166)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.24.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.24.0)

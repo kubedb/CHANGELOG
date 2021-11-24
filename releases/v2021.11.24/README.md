@@ -15,6 +15,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.9.0](https://github.com/kubedb/autoscaler/releases/tag/v0.9.0)
+
+- [2beca453](https://github.com/kubedb/autoscaler/commit/2beca453) Prepare for release v0.9.0 (#55)
+- [52ea3990](https://github.com/kubedb/autoscaler/commit/52ea3990) Fix SiteInfo publishing (#54)
+- [17177d27](https://github.com/kubedb/autoscaler/commit/17177d27) Update dependencies (#53)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.24.0](https://github.com/kubedb/cli/releases/tag/v0.24.0)

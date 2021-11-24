@@ -56,6 +56,24 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2021.11.24](https://github.com/kubedb/installer/releases/tag/v2021.11.24)
+
+- [b6b172d5](https://github.com/kubedb/installer/commit/b6b172d5) Prepare for release v2021.11.24 (#403)
+- [b4ecd09e](https://github.com/kubedb/installer/commit/b4ecd09e) Update repository config (#402)
+- [8ca4fae4](https://github.com/kubedb/installer/commit/8ca4fae4) Add support for SearchGuard  7.14.2 (#383)
+- [cabbd39d](https://github.com/kubedb/installer/commit/cabbd39d) Update dependencies (#401)
+- [57183edd](https://github.com/kubedb/installer/commit/57183edd) Update kubedb-opscenter chart dependencies via make file
+- [d63d8d20](https://github.com/kubedb/installer/commit/d63d8d20) Add kubedb-opscenter chart (#400)
+- [44cdc13c](https://github.com/kubedb/installer/commit/44cdc13c) Update ui-server chart
+- [62b2390c](https://github.com/kubedb/installer/commit/62b2390c) Don't import UI crds (#399)
+- [2008841f](https://github.com/kubedb/installer/commit/2008841f) Fix permissions for the ui-server chart
+- [e6586325](https://github.com/kubedb/installer/commit/e6586325) Grant permission to watch rbac resources (#398)
+- [56cdf5f8](https://github.com/kubedb/installer/commit/56cdf5f8) Add kubedb-ui-server chart (#396)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.8.0](https://github.com/kubedb/mariadb/releases/tag/v0.8.0)

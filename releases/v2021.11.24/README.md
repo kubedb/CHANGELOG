@@ -126,6 +126,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.11.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.11.0)
+
+- [bc1b2498](https://github.com/kubedb/pgbouncer/commit/bc1b2498) Prepare for release v0.11.0 (#193)
+- [fdd843a5](https://github.com/kubedb/pgbouncer/commit/fdd843a5) Fix SiteInfo publishing (#192)
+- [766caf5a](https://github.com/kubedb/pgbouncer/commit/766caf5a) Update dependencies (#191)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.24.0](https://github.com/kubedb/postgres/releases/tag/v0.24.0)

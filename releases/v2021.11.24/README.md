@@ -15,6 +15,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.8.0](https://github.com/kubedb/mariadb/releases/tag/v0.8.0)
+
+- [c90ff2a2](https://github.com/kubedb/mariadb/commit/c90ff2a2) Prepare for release v0.8.0 (#115)
+- [176a2468](https://github.com/kubedb/mariadb/commit/176a2468) Fix SiteInfo publishing (#114)
+- [04216631](https://github.com/kubedb/mariadb/commit/04216631) Update dependencies (#113)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.17.0](https://github.com/kubedb/memcached/releases/tag/v0.17.0)

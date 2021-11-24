@@ -62,3 +62,12 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.9.0](https://github.com/kubedb/tests/releases/tag/v0.9.0)
+
+- [e459024c](https://github.com/kubedb/tests/commit/e459024c) Prepare for release v0.9.0 (#158)
+- [dabca0ad](https://github.com/kubedb/tests/commit/dabca0ad) Update dependencies (#157)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:05:52.756673683Z",
+  "release_date": "2021-11-24T09:11:13.505607151Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -41,6 +41,15 @@
               "Subject": "Add helper function to filter database pods (#820)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": null
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T10:11:31.611969275Z",
+  "release_date": "2021-11-24T10:19:59.179720155Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -87,6 +87,28 @@
             {
               "SHA": "04175cef",
               "Subject": "Update dependencies (#541)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "cb4ff7a6",
+              "Subject": "Prepare for release v0.11.0 (#254)"
+            },
+            {
+              "SHA": "069d7c3d",
+              "Subject": "Fix SiteInfo publishing (#253)"
+            },
+            {
+              "SHA": "e556b56e",
+              "Subject": "Update dependencies (#252)"
             }
           ]
         }

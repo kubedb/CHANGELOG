@@ -36,6 +36,16 @@
 
 
 
+## [kubedb/enterprise](https://github.com/kubedb/enterprise)
+
+### [v0.11.0](https://github.com/kubedb/enterprise/releases/tag/v0.11.0)
+
+- [cb4ff7a6](https://github.com/kubedb/enterprise/commit/cb4ff7a6) Prepare for release v0.11.0 (#254)
+- [069d7c3d](https://github.com/kubedb/enterprise/commit/069d7c3d) Fix SiteInfo publishing (#253)
+- [e556b56e](https://github.com/kubedb/enterprise/commit/e556b56e) Update dependencies (#252)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.8.0](https://github.com/kubedb/mariadb/releases/tag/v0.8.0)

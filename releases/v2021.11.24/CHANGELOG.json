@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:20:14.444440457Z",
+  "release_date": "2021-11-24T09:20:34.018236748Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -83,6 +83,28 @@
             {
               "SHA": "5feae6ab",
               "Subject": "Update dependencies (#328)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "d842a13d",
+              "Subject": "Prepare for release v0.17.0 (#440)"
+            },
+            {
+              "SHA": "16fc38d1",
+              "Subject": "Fix SiteInfo publishing (#439)"
+            },
+            {
+              "SHA": "036de72e",
+              "Subject": "Update dependencies (#438)"
             }
           ]
         }

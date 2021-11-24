@@ -35,6 +35,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.17.0](https://github.com/kubedb/mongodb/releases/tag/v0.17.0)
+
+- [d842a13d](https://github.com/kubedb/mongodb/commit/d842a13d) Prepare for release v0.17.0 (#440)
+- [16fc38d1](https://github.com/kubedb/mongodb/commit/16fc38d1) Fix SiteInfo publishing (#439)
+- [036de72e](https://github.com/kubedb/mongodb/commit/036de72e) Update dependencies (#438)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.17.0](https://github.com/kubedb/mysql/releases/tag/v0.17.0)

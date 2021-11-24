@@ -87,6 +87,16 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.8.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.8.0)
+
+- [35e2b4f](https://github.com/kubedb/pg-coordinator/commit/35e2b4f) Prepare for release v0.8.0 (#57)
+- [68cbc96](https://github.com/kubedb/pg-coordinator/commit/68cbc96) Update dependencies (#56)
+- [a09b701](https://github.com/kubedb/pg-coordinator/commit/a09b701) Check if pods are controlled by kubedb statefulset (#55)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.24.0](https://github.com/kubedb/postgres/releases/tag/v0.24.0)

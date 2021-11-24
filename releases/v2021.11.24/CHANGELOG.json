@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:38:19.069843075Z",
+  "release_date": "2021-11-24T09:39:05.143724079Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -200,6 +200,28 @@
             {
               "SHA": "448884b4",
               "Subject": "Update dependencies (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "35e2b4f",
+              "Subject": "Prepare for release v0.8.0 (#57)"
+            },
+            {
+              "SHA": "68cbc96",
+              "Subject": "Update dependencies (#56)"
+            },
+            {
+              "SHA": "a09b701",
+              "Subject": "Check if pods are controlled by kubedb statefulset (#55)"
             }
           ]
         }

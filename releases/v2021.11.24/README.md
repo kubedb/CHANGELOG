@@ -108,6 +108,16 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.3.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.3.0)
+
+- [62a268b](https://github.com/kubedb/redis-coordinator/commit/62a268b) Prepare for release v0.3.0 (#16)
+- [851d915](https://github.com/kubedb/redis-coordinator/commit/851d915) Fix SiteInfo publishing (#15)
+- [25fa001](https://github.com/kubedb/redis-coordinator/commit/25fa001) Update dependencies (#14)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.11.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.11.0)

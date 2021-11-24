@@ -86,6 +86,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.17.0](https://github.com/kubedb/redis/releases/tag/v0.17.0)
+
+- [73c3be89](https://github.com/kubedb/redis/commit/73c3be89) Prepare for release v0.17.0 (#366)
+- [89394093](https://github.com/kubedb/redis/commit/89394093) Fix SiteInfo publishing (#365)
+- [f3146a45](https://github.com/kubedb/redis/commit/f3146a45) Update dependencies (#364)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.11.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.11.0)

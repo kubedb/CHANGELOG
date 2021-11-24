@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:19:04.092777557Z",
+  "release_date": "2021-11-24T09:19:29.793789914Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -94,6 +94,28 @@
         {
           "tag": "v0.2.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "b3aa8b5b",
+              "Subject": "Prepare for release v0.11.0 (#233)"
+            },
+            {
+              "SHA": "59444b38",
+              "Subject": "Fix SiteInfo publishing (#232)"
+            },
+            {
+              "SHA": "448884b4",
+              "Subject": "Update dependencies (#231)"
+            }
+          ]
         }
       ]
     },

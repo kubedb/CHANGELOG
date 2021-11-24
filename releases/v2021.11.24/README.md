@@ -42,6 +42,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.11.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.11.0)
+
+- [b3aa8b5b](https://github.com/kubedb/percona-xtradb/commit/b3aa8b5b) Prepare for release v0.11.0 (#233)
+- [59444b38](https://github.com/kubedb/percona-xtradb/commit/59444b38) Fix SiteInfo publishing (#232)
+- [448884b4](https://github.com/kubedb/percona-xtradb/commit/448884b4) Update dependencies (#231)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.24.0](https://github.com/kubedb/postgres/releases/tag/v0.24.0)

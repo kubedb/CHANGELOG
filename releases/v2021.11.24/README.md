@@ -32,3 +32,12 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.11.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.11.0)
+
+- [d475b0e1](https://github.com/kubedb/replication-mode-detector/commit/d475b0e1) Prepare for release v0.11.0 (#177)
+- [439578e7](https://github.com/kubedb/replication-mode-detector/commit/439578e7) Update dependencies (#176)
+
+
+

@@ -37,6 +37,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.4.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.4.0)
+
+- [c4f422f](https://github.com/kubedb/mariadb-coordinator/commit/c4f422f) Prepare for release v0.4.0 (#27)
+- [5776558](https://github.com/kubedb/mariadb-coordinator/commit/5776558) Fix SiteInfo publishing (#26)
+- [9142160](https://github.com/kubedb/mariadb-coordinator/commit/9142160) Update dependencies (#25)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.17.0](https://github.com/kubedb/memcached/releases/tag/v0.17.0)

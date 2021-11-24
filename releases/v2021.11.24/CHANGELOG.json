@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:39:05.143724079Z",
+  "release_date": "2021-11-24T09:40:38.389239756Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -91,6 +91,28 @@
             {
               "SHA": "04216631",
               "Subject": "Update dependencies (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "c4f422f",
+              "Subject": "Prepare for release v0.4.0 (#27)"
+            },
+            {
+              "SHA": "5776558",
+              "Subject": "Fix SiteInfo publishing (#26)"
+            },
+            {
+              "SHA": "9142160",
+              "Subject": "Update dependencies (#25)"
             }
           ]
         }

@@ -15,6 +15,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.24.0](https://github.com/kubedb/cli/releases/tag/v0.24.0)
+
+- [17f1637c](https://github.com/kubedb/cli/commit/17f1637c) Prepare for release v0.24.0 (#643)
+- [a8b26225](https://github.com/kubedb/cli/commit/a8b26225) Update dependencies (#642)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.24.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.24.0)

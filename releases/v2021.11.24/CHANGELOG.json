@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:40:50.158435929Z",
+  "release_date": "2021-11-24T09:43:53.246273858Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -39,6 +39,24 @@
             {
               "SHA": "fcda9c60",
               "Subject": "Add helper function to filter database pods (#820)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "17f1637c",
+              "Subject": "Prepare for release v0.24.0 (#643)"
+            },
+            {
+              "SHA": "a8b26225",
+              "Subject": "Update dependencies (#642)"
             }
           ]
         }

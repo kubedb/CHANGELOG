@@ -42,6 +42,17 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.24.0](https://github.com/kubedb/postgres/releases/tag/v0.24.0)
+
+- [cff2c9ca](https://github.com/kubedb/postgres/commit/cff2c9ca) Prepare for release v0.24.0 (#544)
+- [8fa72022](https://github.com/kubedb/postgres/commit/8fa72022) Fix SiteInfo publishing (#543)
+- [849a67ef](https://github.com/kubedb/postgres/commit/849a67ef) Update dependencies (#542)
+- [c5d14298](https://github.com/kubedb/postgres/commit/c5d14298) Ensure health checker uses only the database pods (#541)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.11.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.11.0)

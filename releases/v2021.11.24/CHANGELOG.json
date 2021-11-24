@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:18:16.054959596Z",
+  "release_date": "2021-11-24T09:18:31.566531278Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -94,6 +94,32 @@
         {
           "tag": "v0.2.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "cff2c9ca",
+              "Subject": "Prepare for release v0.24.0 (#544)"
+            },
+            {
+              "SHA": "8fa72022",
+              "Subject": "Fix SiteInfo publishing (#543)"
+            },
+            {
+              "SHA": "849a67ef",
+              "Subject": "Update dependencies (#542)"
+            },
+            {
+              "SHA": "c5d14298",
+              "Subject": "Ensure health checker uses only the database pods (#541)"
+            }
+          ]
         }
       ]
     },

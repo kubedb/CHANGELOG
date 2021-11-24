@@ -147,6 +147,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.11.0](https://github.com/kubedb/proxysql/releases/tag/v0.11.0)
+
+- [532e00d3](https://github.com/kubedb/proxysql/commit/532e00d3) Prepare for release v0.11.0 (#210)
+- [cf7cc989](https://github.com/kubedb/proxysql/commit/cf7cc989) Fix SiteInfo publishing (#209)
+- [c10cb631](https://github.com/kubedb/proxysql/commit/c10cb631) Update dependencies (#208)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.17.0](https://github.com/kubedb/redis/releases/tag/v0.17.0)

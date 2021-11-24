@@ -80,6 +80,16 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.2.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.2.0)
+
+- [587bc66](https://github.com/kubedb/mysql-coordinator/commit/587bc66) Prepare for release v0.2.0 (#21)
+- [126c117](https://github.com/kubedb/mysql-coordinator/commit/126c117) Fix SiteInfo publishing (#20)
+- [cec1517](https://github.com/kubedb/mysql-coordinator/commit/cec1517) Update dependencies (#19)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.2.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.2.0)

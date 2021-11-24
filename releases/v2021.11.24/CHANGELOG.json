@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T09:11:13.505607151Z",
+  "release_date": "2021-11-24T09:16:57.694551491Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -39,6 +39,28 @@
             {
               "SHA": "fcda9c60",
               "Subject": "Add helper function to filter database pods (#820)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "4f426b96",
+              "Subject": "Prepare for release v0.17.0 (#330)"
+            },
+            {
+              "SHA": "67e974bc",
+              "Subject": "Fix SiteInfo publishing (#329)"
+            },
+            {
+              "SHA": "5feae6ab",
+              "Subject": "Update dependencies (#328)"
             }
           ]
         }

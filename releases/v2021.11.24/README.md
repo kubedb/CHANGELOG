@@ -15,6 +15,16 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.17.0](https://github.com/kubedb/memcached/releases/tag/v0.17.0)
+
+- [4f426b96](https://github.com/kubedb/memcached/commit/4f426b96) Prepare for release v0.17.0 (#330)
+- [67e974bc](https://github.com/kubedb/memcached/commit/67e974bc) Fix SiteInfo publishing (#329)
+- [5feae6ab](https://github.com/kubedb/memcached/commit/5feae6ab) Update dependencies (#328)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.2.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.2.0)

@@ -106,6 +106,16 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.24.0](https://github.com/kubedb/operator/releases/tag/v0.24.0)
+
+- [3657964d](https://github.com/kubedb/operator/commit/3657964d) Prepare for release v0.24.0 (#438)
+- [e8ca9fdd](https://github.com/kubedb/operator/commit/e8ca9fdd) Fix SiteInfo publishing (#437)
+- [0a153b6d](https://github.com/kubedb/operator/commit/0a153b6d) Update dependencies (#436)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.11.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.11.0)

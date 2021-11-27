@@ -66,7 +66,14 @@ jobs:
           set -x
           git config --global user.name "1gtm"
           git config --global user.email "1gtm@appscode.com"
-          git remote set-url origin https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          git config --global \
+            url."https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com".insteadOf \
+            "https://github.com"
+          # git remote set-url origin https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+
+      - name: Prepare Go for private repos
+        run: |
+          go env -w GOPRIVATE=go.appscode.dev/*,github.com/appscode/*,kubedb.dev/*
 
       - name: Release
         if: startsWith(github.event.issue.title, 'Release:') && contains(github.event.issue.html_url, '/pull/') && contains(github.event.issue.labels, 'locked') == false

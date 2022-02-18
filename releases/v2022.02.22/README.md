@@ -223,6 +223,22 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.9.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.9.0)
+
+- [eb50dc2](https://github.com/kubedb/pg-coordinator/commit/eb50dc2) Prepare for release v0.9.0 (#66)
+- [d27428b](https://github.com/kubedb/pg-coordinator/commit/d27428b) Cancel concurrent CI runs for same pr/commit (#65)
+- [7beba31](https://github.com/kubedb/pg-coordinator/commit/7beba31) Update dependencies (#64)
+- [feed8e5](https://github.com/kubedb/pg-coordinator/commit/feed8e5) Cancel concurrent CI runs for same pr/commit (#63)
+- [d509ec3](https://github.com/kubedb/pg-coordinator/commit/d509ec3) Update SiteInfo (#62)
+- [dfa09ba](https://github.com/kubedb/pg-coordinator/commit/dfa09ba) Publish GenericResource (#61)
+- [3a850da](https://github.com/kubedb/pg-coordinator/commit/3a850da) Fix custom Auth secret issues (#60)
+- [5cdea8c](https://github.com/kubedb/pg-coordinator/commit/5cdea8c) Use Postgres CR to get replica count (#59)
+- [1070903](https://github.com/kubedb/pg-coordinator/commit/1070903) Recover from panic in reconcilers (#58)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.25.0](https://github.com/kubedb/postgres/releases/tag/v0.25.0)

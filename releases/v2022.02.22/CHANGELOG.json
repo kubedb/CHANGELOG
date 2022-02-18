@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T11:11:43.80254163Z",
+  "release_date": "2022-02-18T11:12:06.786416526Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -727,6 +727,52 @@
             {
               "SHA": "94984a32",
               "Subject": "Recover from panic in reconcilers (#234)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "eb50dc2",
+              "Subject": "Prepare for release v0.9.0 (#66)"
+            },
+            {
+              "SHA": "d27428b",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#65)"
+            },
+            {
+              "SHA": "7beba31",
+              "Subject": "Update dependencies (#64)"
+            },
+            {
+              "SHA": "feed8e5",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#63)"
+            },
+            {
+              "SHA": "d509ec3",
+              "Subject": "Update SiteInfo (#62)"
+            },
+            {
+              "SHA": "dfa09ba",
+              "Subject": "Publish GenericResource (#61)"
+            },
+            {
+              "SHA": "3a850da",
+              "Subject": "Fix custom Auth secret issues (#60)"
+            },
+            {
+              "SHA": "5cdea8c",
+              "Subject": "Use Postgres CR to get replica count (#59)"
+            },
+            {
+              "SHA": "1070903",
+              "Subject": "Recover from panic in reconcilers (#58)"
             }
           ]
         }

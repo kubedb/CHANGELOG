@@ -181,6 +181,30 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.25.0](https://github.com/kubedb/postgres/releases/tag/v0.25.0)
+
+- [7b764c0b](https://github.com/kubedb/postgres/commit/7b764c0b) Prepare for release v0.25.0 (#562)
+- [3cc55bf0](https://github.com/kubedb/postgres/commit/3cc55bf0) Add suffix to webhook resource (#561)
+- [59393ddb](https://github.com/kubedb/postgres/commit/59393ddb) Allow partially installing webhook server (#560)
+- [a4eaa7af](https://github.com/kubedb/postgres/commit/a4eaa7af) Fix AdmissionReview api version (#559)
+- [bc82ff36](https://github.com/kubedb/postgres/commit/bc82ff36) Fix commands (#557)
+- [b4eaa521](https://github.com/kubedb/postgres/commit/b4eaa521) Cancel concurrent CI runs for same pr/commit (#556)
+- [b43419f3](https://github.com/kubedb/postgres/commit/b43419f3) Update dependencies (#555)
+- [3212a076](https://github.com/kubedb/postgres/commit/3212a076) Cancel concurrent CI runs for same pr/commit (#554)
+- [578f48f1](https://github.com/kubedb/postgres/commit/578f48f1) Introduce separate commands for operator and webhook (#552)
+- [124489ce](https://github.com/kubedb/postgres/commit/124489ce) Use stash.appscode.dev/apimachinery@v0.18.0 (#553)
+- [6af28e8f](https://github.com/kubedb/postgres/commit/6af28e8f) Update UID generation for GenericResource (#551)
+- [824b4a89](https://github.com/kubedb/postgres/commit/824b4a89) Update SiteInfo (#550)
+- [2d8e23ed](https://github.com/kubedb/postgres/commit/2d8e23ed) Generate GenericResource
+- [a933d0fb](https://github.com/kubedb/postgres/commit/a933d0fb) Publish GenericResource (#549)
+- [2fbb7c8b](https://github.com/kubedb/postgres/commit/2fbb7c8b) Enforce FsGroup and add permission to get Postgres CR from coordinator (#547)
+- [cdf23fcb](https://github.com/kubedb/postgres/commit/cdf23fcb) Fix: remove func SetDefaultResourceLimits call (#548)
+- [adf84055](https://github.com/kubedb/postgres/commit/adf84055) Recover from panic in reconcilers (#545)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.12.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.12.0)

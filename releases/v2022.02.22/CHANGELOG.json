@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T14:37:31.975048493Z",
+  "release_date": "2022-02-18T14:46:15.93169466Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -285,6 +285,32 @@
             {
               "SHA": "bff8d517",
               "Subject": "Update package module path"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "12acb9c",
+              "Subject": "Prepare for release v2022.02.22 (#43)"
+            },
+            {
+              "SHA": "f7dacb9",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#42)"
+            },
+            {
+              "SHA": "f9587ab",
+              "Subject": "Update repository config (#41)"
+            },
+            {
+              "SHA": "ffd986c",
+              "Subject": "Update repository config (#40)"
             }
           ]
         }

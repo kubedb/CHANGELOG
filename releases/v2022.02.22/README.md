@@ -81,6 +81,17 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2022.02.22](https://github.com/kubedb/bundles/releases/tag/v2022.02.22)
+
+- [12acb9c](https://github.com/kubedb/bundles/commit/12acb9c) Prepare for release v2022.02.22 (#43)
+- [f7dacb9](https://github.com/kubedb/bundles/commit/f7dacb9) Cancel concurrent CI runs for same pr/commit (#42)
+- [f9587ab](https://github.com/kubedb/bundles/commit/f9587ab) Update repository config (#41)
+- [ffd986c](https://github.com/kubedb/bundles/commit/ffd986c) Update repository config (#40)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.25.0](https://github.com/kubedb/cli/releases/tag/v0.25.0)

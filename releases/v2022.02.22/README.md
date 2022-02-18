@@ -69,6 +69,16 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.1.0](https://github.com/kubedb/dashboard/releases/tag/v0.1.0)
+
+- [dc2c5cd](https://github.com/kubedb/dashboard/commit/dc2c5cd) Prepare for release v0.1.0 (#15)
+- [9444404](https://github.com/kubedb/dashboard/commit/9444404) Cancel concurrent CI runs for same pr/commit (#14)
+- [19a0cc3](https://github.com/kubedb/dashboard/commit/19a0cc3) Add support  for config-merger init container (#13)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.25.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.25.0)

@@ -441,3 +441,13 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.1.0](https://github.com/kubedb/ui-server/releases/tag/v0.1.0)
+
+- [62f41a7](https://github.com/kubedb/ui-server/commit/62f41a7) Prepare for release v0.1.0 (#25)
+- [004104c](https://github.com/kubedb/ui-server/commit/004104c) Cancel concurrent CI runs for same pr/commit (#24)
+- [757f36a](https://github.com/kubedb/ui-server/commit/757f36a) Update uid generation (#23)
+
+
+

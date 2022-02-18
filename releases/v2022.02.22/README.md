@@ -275,6 +275,28 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.12.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.12.0)
+
+- [a244100d](https://github.com/kubedb/pgbouncer/commit/a244100d) Prepare for release v0.12.0 (#208)
+- [3571411a](https://github.com/kubedb/pgbouncer/commit/3571411a) Add suffix to webhook resource (#207)
+- [8d13a7bc](https://github.com/kubedb/pgbouncer/commit/8d13a7bc) Allow partially installing webhook server (#206)
+- [05098834](https://github.com/kubedb/pgbouncer/commit/05098834) Fix AdmissionReview api version (#205)
+- [117c33a7](https://github.com/kubedb/pgbouncer/commit/117c33a7) Fix commands (#203)
+- [876c86d6](https://github.com/kubedb/pgbouncer/commit/876c86d6) Cancel concurrent CI runs for same pr/commit (#202)
+- [d23c8939](https://github.com/kubedb/pgbouncer/commit/d23c8939) Update dependencies (#201)
+- [3e1ed897](https://github.com/kubedb/pgbouncer/commit/3e1ed897) Cancel concurrent CI runs for same pr/commit (#200)
+- [6ab49fde](https://github.com/kubedb/pgbouncer/commit/6ab49fde) Introduce separate commands for operator and webhook (#199)
+- [aa1e2c7f](https://github.com/kubedb/pgbouncer/commit/aa1e2c7f) Use stash.appscode.dev/apimachinery@v0.18.0 (#198)
+- [b602f703](https://github.com/kubedb/pgbouncer/commit/b602f703) Update UID generation for GenericResource (#197)
+- [7acd55f4](https://github.com/kubedb/pgbouncer/commit/7acd55f4) Update SiteInfo (#196)
+- [504f39d7](https://github.com/kubedb/pgbouncer/commit/504f39d7) Generate GenericResource
+- [e4aaec6c](https://github.com/kubedb/pgbouncer/commit/e4aaec6c) Publish GenericResource (#195)
+- [fe1b6138](https://github.com/kubedb/pgbouncer/commit/fe1b6138) Recover from panic in reconcilers (#194)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.25.0](https://github.com/kubedb/postgres/releases/tag/v0.25.0)

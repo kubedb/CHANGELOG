@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T10:39:41.901760319Z",
+  "release_date": "2022-02-18T10:41:05.218286218Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -237,6 +237,96 @@
             {
               "SHA": "5ebd64b6",
               "Subject": "Update for release Stash@v2021.11.24 (#644)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "7a354d6c",
+              "Subject": "Prepare for release v0.18.0 (#462)"
+            },
+            {
+              "SHA": "46b5f2a7",
+              "Subject": "Add suffix to webhook resource (#461)"
+            },
+            {
+              "SHA": "8db1061d",
+              "Subject": "Allow partially installing webhook server (#460)"
+            },
+            {
+              "SHA": "d21b4c46",
+              "Subject": "Fix AdmissionReview api version (#458)"
+            },
+            {
+              "SHA": "85ae88c1",
+              "Subject": "Fix commands (#456)"
+            },
+            {
+              "SHA": "e528b327",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#455)"
+            },
+            {
+              "SHA": "111d3d88",
+              "Subject": "Update dependencies (#454)"
+            },
+            {
+              "SHA": "417ca61e",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#453)"
+            },
+            {
+              "SHA": "2aacc8b2",
+              "Subject": "Introduce separate commands for operator and webhook (#452)"
+            },
+            {
+              "SHA": "aaa48967",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#451)"
+            },
+            {
+              "SHA": "b4f039b7",
+              "Subject": "Update UID generation for GenericResource (#450)"
+            },
+            {
+              "SHA": "537f1d2a",
+              "Subject": "Fix shard health check (#448)"
+            },
+            {
+              "SHA": "787cd3b0",
+              "Subject": "Update SiteInfo (#447)"
+            },
+            {
+              "SHA": "2d7b4b0e",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "7df41e17",
+              "Subject": "Publish GenericResource (#446)"
+            },
+            {
+              "SHA": "4eaa7aa2",
+              "Subject": "Add configuration for ephemeral storage (#442)"
+            },
+            {
+              "SHA": "28c8967d",
+              "Subject": "Add read/write health check (#443)"
+            },
+            {
+              "SHA": "921451d7",
+              "Subject": "Add support to apply `configuration.js` (#445)"
+            },
+            {
+              "SHA": "027e307a",
+              "Subject": "Update Reconcile method (#444)"
+            },
+            {
+              "SHA": "9d609162",
+              "Subject": "Recover from panic in reconcilers (#441)"
             }
           ]
         }

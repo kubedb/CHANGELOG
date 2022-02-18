@@ -69,6 +69,33 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.18.0](https://github.com/kubedb/mongodb/releases/tag/v0.18.0)
+
+- [7a354d6c](https://github.com/kubedb/mongodb/commit/7a354d6c) Prepare for release v0.18.0 (#462)
+- [46b5f2a7](https://github.com/kubedb/mongodb/commit/46b5f2a7) Add suffix to webhook resource (#461)
+- [8db1061d](https://github.com/kubedb/mongodb/commit/8db1061d) Allow partially installing webhook server (#460)
+- [d21b4c46](https://github.com/kubedb/mongodb/commit/d21b4c46) Fix AdmissionReview api version (#458)
+- [85ae88c1](https://github.com/kubedb/mongodb/commit/85ae88c1) Fix commands (#456)
+- [e528b327](https://github.com/kubedb/mongodb/commit/e528b327) Cancel concurrent CI runs for same pr/commit (#455)
+- [111d3d88](https://github.com/kubedb/mongodb/commit/111d3d88) Update dependencies (#454)
+- [417ca61e](https://github.com/kubedb/mongodb/commit/417ca61e) Cancel concurrent CI runs for same pr/commit (#453)
+- [2aacc8b2](https://github.com/kubedb/mongodb/commit/2aacc8b2) Introduce separate commands for operator and webhook (#452)
+- [aaa48967](https://github.com/kubedb/mongodb/commit/aaa48967) Use stash.appscode.dev/apimachinery@v0.18.0 (#451)
+- [b4f039b7](https://github.com/kubedb/mongodb/commit/b4f039b7) Update UID generation for GenericResource (#450)
+- [537f1d2a](https://github.com/kubedb/mongodb/commit/537f1d2a) Fix shard health check (#448)
+- [787cd3b0](https://github.com/kubedb/mongodb/commit/787cd3b0) Update SiteInfo (#447)
+- [2d7b4b0e](https://github.com/kubedb/mongodb/commit/2d7b4b0e) Generate GenericResource
+- [7df41e17](https://github.com/kubedb/mongodb/commit/7df41e17) Publish GenericResource (#446)
+- [4eaa7aa2](https://github.com/kubedb/mongodb/commit/4eaa7aa2) Add configuration for ephemeral storage (#442)
+- [28c8967d](https://github.com/kubedb/mongodb/commit/28c8967d) Add read/write health check (#443)
+- [921451d7](https://github.com/kubedb/mongodb/commit/921451d7) Add support to apply `configuration.js` (#445)
+- [027e307a](https://github.com/kubedb/mongodb/commit/027e307a) Update Reconcile method (#444)
+- [9d609162](https://github.com/kubedb/mongodb/commit/9d609162) Recover from panic in reconcilers (#441)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.3.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.3.0)

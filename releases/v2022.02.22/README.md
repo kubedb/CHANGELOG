@@ -247,6 +247,13 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.25.0](https://github.com/kubedb/operator/releases/tag/v0.25.0)
+
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.12.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.12.0)

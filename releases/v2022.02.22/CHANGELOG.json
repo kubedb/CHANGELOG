@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T11:37:13.019772017Z",
+  "release_date": "2022-02-18T11:41:01.317047223Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -789,6 +789,15 @@
               "Subject": "Publish GenericResource (#14)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": null
         }
       ]
     },

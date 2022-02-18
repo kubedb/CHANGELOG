@@ -329,6 +329,23 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.4.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.4.0)
+
+- [a2adbd9](https://github.com/kubedb/redis-coordinator/commit/a2adbd9) Prepare for release v0.4.0 (#25)
+- [7ab65d2](https://github.com/kubedb/redis-coordinator/commit/7ab65d2) Fix: Multiple Redis cluster with same name for Sentinel Monitoring (#24)
+- [94043db](https://github.com/kubedb/redis-coordinator/commit/94043db) Disable redis auth (#20)
+- [4a5c2e6](https://github.com/kubedb/redis-coordinator/commit/4a5c2e6) Cancel concurrent CI runs for same pr/commit (#23)
+- [a207e38](https://github.com/kubedb/redis-coordinator/commit/a207e38) Update dependencies (#22)
+- [cedef27](https://github.com/kubedb/redis-coordinator/commit/cedef27) Use Go 1.17 module format
+- [335b4f6](https://github.com/kubedb/redis-coordinator/commit/335b4f6) Cancel concurrent CI runs for same pr/commit (#21)
+- [17a7a07](https://github.com/kubedb/redis-coordinator/commit/17a7a07) Update SiteInfo (#19)
+- [6f6013d](https://github.com/kubedb/redis-coordinator/commit/6f6013d) Publish GenericResource (#18)
+- [3785029](https://github.com/kubedb/redis-coordinator/commit/3785029) Recover from panic in reconcilers (#17)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.12.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.12.0)

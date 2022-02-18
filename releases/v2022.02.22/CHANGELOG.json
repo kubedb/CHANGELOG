@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T11:12:46.515098271Z",
+  "release_date": "2022-02-18T11:12:51.777255908Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -1061,6 +1061,56 @@
             {
               "SHA": "83dcec6d",
               "Subject": "Recover from panic in reconcilers (#367)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "a2adbd9",
+              "Subject": "Prepare for release v0.4.0 (#25)"
+            },
+            {
+              "SHA": "7ab65d2",
+              "Subject": "Fix: Multiple Redis cluster with same name for Sentinel Monitoring (#24)"
+            },
+            {
+              "SHA": "94043db",
+              "Subject": "Disable redis auth (#20)"
+            },
+            {
+              "SHA": "4a5c2e6",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#23)"
+            },
+            {
+              "SHA": "a207e38",
+              "Subject": "Update dependencies (#22)"
+            },
+            {
+              "SHA": "cedef27",
+              "Subject": "Use Go 1.17 module format"
+            },
+            {
+              "SHA": "335b4f6",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#21)"
+            },
+            {
+              "SHA": "17a7a07",
+              "Subject": "Update SiteInfo (#19)"
+            },
+            {
+              "SHA": "6f6013d",
+              "Subject": "Publish GenericResource (#18)"
+            },
+            {
+              "SHA": "3785029",
+              "Subject": "Recover from panic in reconcilers (#17)"
             }
           ]
         }

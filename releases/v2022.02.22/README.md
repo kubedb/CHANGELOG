@@ -96,6 +96,33 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.9.0](https://github.com/kubedb/mariadb/releases/tag/v0.9.0)
+
+- [6a778dd9](https://github.com/kubedb/mariadb/commit/6a778dd9) Prepare for release v0.9.0 (#135)
+- [b4a30c99](https://github.com/kubedb/mariadb/commit/b4a30c99) added-all
+- [c6a5cc23](https://github.com/kubedb/mariadb/commit/c6a5cc23) Update validator webhook gvr
+- [7d2d3c91](https://github.com/kubedb/mariadb/commit/7d2d3c91) Add suffix to webhook resource (#134)
+- [0636c331](https://github.com/kubedb/mariadb/commit/0636c331) Allow partially installing webhook server (#133)
+- [a735bbfb](https://github.com/kubedb/mariadb/commit/a735bbfb) Fix AdmissionReview api version (#132)
+- [d29518d2](https://github.com/kubedb/mariadb/commit/d29518d2) Fix commands (#130)
+- [d04f9e9a](https://github.com/kubedb/mariadb/commit/d04f9e9a) Cancel concurrent CI runs for same pr/commit (#129)
+- [8c266208](https://github.com/kubedb/mariadb/commit/8c266208) Update dependencies (#128)
+- [4871392b](https://github.com/kubedb/mariadb/commit/4871392b) Cancel concurrent CI runs for same pr/commit (#126)
+- [34ff3c21](https://github.com/kubedb/mariadb/commit/34ff3c21) Introduce separate commands for operator and webhook (#125)
+- [09286968](https://github.com/kubedb/mariadb/commit/09286968) Use stash.appscode.dev/apimachinery@v0.18.0 (#124)
+- [c4f75cfd](https://github.com/kubedb/mariadb/commit/c4f75cfd) Update UID generation for GenericResource (#123)
+- [bbdd36d6](https://github.com/kubedb/mariadb/commit/bbdd36d6) Update SiteInfo (#121)
+- [10ff7827](https://github.com/kubedb/mariadb/commit/10ff7827) Generate GenericResource
+- [cf8ac7fe](https://github.com/kubedb/mariadb/commit/cf8ac7fe) Publish GenericResource (#120)
+- [a8d68263](https://github.com/kubedb/mariadb/commit/a8d68263) Allow database service account to get DB object from coordinator (#117)
+- [5710c30c](https://github.com/kubedb/mariadb/commit/5710c30c) Revert product name on Makefile (#119)
+- [62ec6717](https://github.com/kubedb/mariadb/commit/62ec6717) Update kubedb-community chart name to kubedb-provisioner (#118)
+- [e909bd19](https://github.com/kubedb/mariadb/commit/e909bd19) Recover from panic in reconcilers (#116)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.18.0](https://github.com/kubedb/mongodb/releases/tag/v0.18.0)

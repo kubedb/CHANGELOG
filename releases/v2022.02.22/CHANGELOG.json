@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T13:49:27.408086692Z",
+  "release_date": "2022-02-18T14:37:31.975048493Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -361,6 +361,76 @@
             {
               "SHA": "19a0cc3",
               "Subject": "Add support  for config-merger init container (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "334e903",
+              "Subject": "Prepare for release v2022.02.22 (#185)"
+            },
+            {
+              "SHA": "59d7abd",
+              "Subject": "Add MariaDB OpsReq and Autoscaler Docs (#171)"
+            },
+            {
+              "SHA": "a213110",
+              "Subject": "Ignore helm.sh"
+            },
+            {
+              "SHA": "15f8d06",
+              "Subject": "Update docs for kubedb/webhook-server@f4d30d78 (#183)"
+            },
+            {
+              "SHA": "500d14c",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#180)"
+            },
+            {
+              "SHA": "87e43f4",
+              "Subject": "Update docs for kubedb/operator@82e738a9 (#182)"
+            },
+            {
+              "SHA": "cebb27d",
+              "Subject": "Update docs for kubedb/operator@48215abe (#176)"
+            },
+            {
+              "SHA": "6fbcfbd",
+              "Subject": "Merge pull request #172 from kubedb/add-snapshot-id-field"
+            },
+            {
+              "SHA": "4a2c1f0",
+              "Subject": "Update links to get compatible with Stash's upcoming release."
+            },
+            {
+              "SHA": "8751a0b",
+              "Subject": "Fix mistakes in the Redis backup doc."
+            },
+            {
+              "SHA": "597022e",
+              "Subject": "Fix typo."
+            },
+            {
+              "SHA": "11e758c",
+              "Subject": "Fix links."
+            },
+            {
+              "SHA": "524faf1",
+              "Subject": "Update Kubedb docs to reflect Stash changes."
+            },
+            {
+              "SHA": "bed758e",
+              "Subject": "Update `MongoDB`, `MySQL` and `PostgreSQL` docs (#174)"
+            },
+            {
+              "SHA": "394fb8c",
+              "Subject": "Update versions list for Postgres (#173)"
             }
           ]
         }

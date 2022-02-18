@@ -109,6 +109,28 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2022.02.22](https://github.com/kubedb/docs/releases/tag/v2022.02.22)
+
+- [334e903](https://github.com/kubedb/docs/commit/334e903) Prepare for release v2022.02.22 (#185)
+- [59d7abd](https://github.com/kubedb/docs/commit/59d7abd) Add MariaDB OpsReq and Autoscaler Docs (#171)
+- [a213110](https://github.com/kubedb/docs/commit/a213110) Ignore helm.sh
+- [15f8d06](https://github.com/kubedb/docs/commit/15f8d06) Update docs for kubedb/webhook-server@f4d30d78 (#183)
+- [500d14c](https://github.com/kubedb/docs/commit/500d14c) Cancel concurrent CI runs for same pr/commit (#180)
+- [87e43f4](https://github.com/kubedb/docs/commit/87e43f4) Update docs for kubedb/operator@82e738a9 (#182)
+- [cebb27d](https://github.com/kubedb/docs/commit/cebb27d) Update docs for kubedb/operator@48215abe (#176)
+- [6fbcfbd](https://github.com/kubedb/docs/commit/6fbcfbd) Merge pull request #172 from kubedb/add-snapshot-id-field
+- [4a2c1f0](https://github.com/kubedb/docs/commit/4a2c1f0) Update links to get compatible with Stash's upcoming release.
+- [8751a0b](https://github.com/kubedb/docs/commit/8751a0b) Fix mistakes in the Redis backup doc.
+- [597022e](https://github.com/kubedb/docs/commit/597022e) Fix typo.
+- [11e758c](https://github.com/kubedb/docs/commit/11e758c) Fix links.
+- [524faf1](https://github.com/kubedb/docs/commit/524faf1) Update Kubedb docs to reflect Stash changes.
+- [bed758e](https://github.com/kubedb/docs/commit/bed758e) Update `MongoDB`, `MySQL` and `PostgreSQL` docs (#174)
+- [394fb8c](https://github.com/kubedb/docs/commit/394fb8c) Update versions list for Postgres (#173)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.25.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.25.0)

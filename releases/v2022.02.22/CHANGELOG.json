@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T11:12:06.786416526Z",
+  "release_date": "2022-02-18T11:12:23.999577731Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -991,6 +991,48 @@
             {
               "SHA": "157723f2",
               "Subject": "Recover from panic in reconcilers (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "72008dce",
+              "Subject": "Prepare for release v0.10.0 (#169)"
+            },
+            {
+              "SHA": "9f48d54c",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#168)"
+            },
+            {
+              "SHA": "39fb2faa",
+              "Subject": "Update dependencies (#167)"
+            },
+            {
+              "SHA": "82bef4de",
+              "Subject": "Update dependencies (#166)"
+            },
+            {
+              "SHA": "3de40073",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#165)"
+            },
+            {
+              "SHA": "02695e02",
+              "Subject": "Update SiteInfo (#164)"
+            },
+            {
+              "SHA": "917f979c",
+              "Subject": "Update dependencies (#163)"
+            },
+            {
+              "SHA": "bd430a5e",
+              "Subject": "Recover from panic in reconcilers (#159)"
             }
           ]
         }

@@ -307,3 +307,18 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.10.0](https://github.com/kubedb/tests/releases/tag/v0.10.0)
+
+- [72008dce](https://github.com/kubedb/tests/commit/72008dce) Prepare for release v0.10.0 (#169)
+- [9f48d54c](https://github.com/kubedb/tests/commit/9f48d54c) Cancel concurrent CI runs for same pr/commit (#168)
+- [39fb2faa](https://github.com/kubedb/tests/commit/39fb2faa) Update dependencies (#167)
+- [82bef4de](https://github.com/kubedb/tests/commit/82bef4de) Update dependencies (#166)
+- [3de40073](https://github.com/kubedb/tests/commit/3de40073) Use stash.appscode.dev/apimachinery@v0.18.0 (#165)
+- [02695e02](https://github.com/kubedb/tests/commit/02695e02) Update SiteInfo (#164)
+- [917f979c](https://github.com/kubedb/tests/commit/917f979c) Update dependencies (#163)
+- [bd430a5e](https://github.com/kubedb/tests/commit/bd430a5e) Recover from panic in reconcilers (#159)
+
+
+

@@ -51,6 +51,36 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.10.0](https://github.com/kubedb/autoscaler/releases/tag/v0.10.0)
+
+- [5b5cab07](https://github.com/kubedb/autoscaler/commit/5b5cab07) Prepare for release v0.10.0 (#75)
+- [1da577b7](https://github.com/kubedb/autoscaler/commit/1da577b7) Add MariaDB Autoscaler | Add expandMode field on Autoscaler (#58)
+- [292b4a17](https://github.com/kubedb/autoscaler/commit/292b4a17) Fix typo (#74)
+- [f3a518ce](https://github.com/kubedb/autoscaler/commit/f3a518ce) Add suffix to webhook resource (#73)
+- [e5683679](https://github.com/kubedb/autoscaler/commit/e5683679) Allow partially installing webhook server (#72)
+- [dc1e1a19](https://github.com/kubedb/autoscaler/commit/dc1e1a19) Fix AdmissionReview api version (#71)
+- [8baf503a](https://github.com/kubedb/autoscaler/commit/8baf503a) Update dependencies
+- [11935336](https://github.com/kubedb/autoscaler/commit/11935336) Add make uninstall & purge targets
+- [e6bd0c08](https://github.com/kubedb/autoscaler/commit/e6bd0c08) Fix commands (#69)
+- [11aab741](https://github.com/kubedb/autoscaler/commit/11aab741) Cancel concurrent CI runs for same pr/commit (#68)
+- [a38279f3](https://github.com/kubedb/autoscaler/commit/a38279f3) Fix linter error (#67)
+- [749cca26](https://github.com/kubedb/autoscaler/commit/749cca26) Update dependencies (#66)
+- [10510c7f](https://github.com/kubedb/autoscaler/commit/10510c7f) Cancel concurrent CI runs for same pr/commit (#65)
+- [f372ee10](https://github.com/kubedb/autoscaler/commit/f372ee10) Introduce separate commands for operator and webhook (#64)
+- [5a8b7e36](https://github.com/kubedb/autoscaler/commit/5a8b7e36) Use stash.appscode.dev/apimachinery@v0.18.0 (#63)
+- [0252232d](https://github.com/kubedb/autoscaler/commit/0252232d) Update UID generation for GenericResource (#62)
+- [8bf7600b](https://github.com/kubedb/autoscaler/commit/8bf7600b) Fix mongodb inMemory shard Autoscaler (#61)
+- [4d1c2222](https://github.com/kubedb/autoscaler/commit/4d1c2222) Update SiteInfo (#60)
+- [93c5cbaf](https://github.com/kubedb/autoscaler/commit/93c5cbaf) Generate GenericResource
+- [21fed0b2](https://github.com/kubedb/autoscaler/commit/21fed0b2) Publish GenericResource (#59)
+- [4b57f902](https://github.com/kubedb/autoscaler/commit/4b57f902) Recover from panic in reconcilers (#57)
+- [678eab33](https://github.com/kubedb/autoscaler/commit/678eab33) Use Go 1.17 module format
+- [bff8d517](https://github.com/kubedb/autoscaler/commit/bff8d517) Update package module path
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.25.0](https://github.com/kubedb/cli/releases/tag/v0.25.0)

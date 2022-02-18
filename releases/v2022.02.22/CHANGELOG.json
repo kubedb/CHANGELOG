@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T12:15:05.745373286Z",
+  "release_date": "2022-02-18T12:21:41.22001533Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -183,6 +183,108 @@
             {
               "SHA": "24b06131",
               "Subject": "Add constant for mongodb `configuration.js` (#830)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "5b5cab07",
+              "Subject": "Prepare for release v0.10.0 (#75)"
+            },
+            {
+              "SHA": "1da577b7",
+              "Subject": "Add MariaDB Autoscaler | Add expandMode field on Autoscaler (#58)"
+            },
+            {
+              "SHA": "292b4a17",
+              "Subject": "Fix typo (#74)"
+            },
+            {
+              "SHA": "f3a518ce",
+              "Subject": "Add suffix to webhook resource (#73)"
+            },
+            {
+              "SHA": "e5683679",
+              "Subject": "Allow partially installing webhook server (#72)"
+            },
+            {
+              "SHA": "dc1e1a19",
+              "Subject": "Fix AdmissionReview api version (#71)"
+            },
+            {
+              "SHA": "8baf503a",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "11935336",
+              "Subject": "Add make uninstall & purge targets"
+            },
+            {
+              "SHA": "e6bd0c08",
+              "Subject": "Fix commands (#69)"
+            },
+            {
+              "SHA": "11aab741",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#68)"
+            },
+            {
+              "SHA": "a38279f3",
+              "Subject": "Fix linter error (#67)"
+            },
+            {
+              "SHA": "749cca26",
+              "Subject": "Update dependencies (#66)"
+            },
+            {
+              "SHA": "10510c7f",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#65)"
+            },
+            {
+              "SHA": "f372ee10",
+              "Subject": "Introduce separate commands for operator and webhook (#64)"
+            },
+            {
+              "SHA": "5a8b7e36",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#63)"
+            },
+            {
+              "SHA": "0252232d",
+              "Subject": "Update UID generation for GenericResource (#62)"
+            },
+            {
+              "SHA": "8bf7600b",
+              "Subject": "Fix mongodb inMemory shard Autoscaler (#61)"
+            },
+            {
+              "SHA": "4d1c2222",
+              "Subject": "Update SiteInfo (#60)"
+            },
+            {
+              "SHA": "93c5cbaf",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "21fed0b2",
+              "Subject": "Publish GenericResource (#59)"
+            },
+            {
+              "SHA": "4b57f902",
+              "Subject": "Recover from panic in reconcilers (#57)"
+            },
+            {
+              "SHA": "678eab33",
+              "Subject": "Use Go 1.17 module format"
+            },
+            {
+              "SHA": "bff8d517",
+              "Subject": "Update package module path"
             }
           ]
         }

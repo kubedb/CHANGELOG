@@ -79,3 +79,25 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.12.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.12.0)
+
+- [d01b2914](https://github.com/kubedb/percona-xtradb/commit/d01b2914) Prepare for release v0.12.0 (#249)
+- [6f821254](https://github.com/kubedb/percona-xtradb/commit/6f821254) Add suffix to webhook resource (#248)
+- [0be0d287](https://github.com/kubedb/percona-xtradb/commit/0be0d287) Allow partially installing webhook server (#247)
+- [a867d68c](https://github.com/kubedb/percona-xtradb/commit/a867d68c) Fix AdmissionReview api version (#246)
+- [15c1e045](https://github.com/kubedb/percona-xtradb/commit/15c1e045) Fix commands (#244)
+- [3c12213b](https://github.com/kubedb/percona-xtradb/commit/3c12213b) Cancel concurrent CI runs for same pr/commit (#243)
+- [1458bd2b](https://github.com/kubedb/percona-xtradb/commit/1458bd2b) Update dependencies (#242)
+- [675cd747](https://github.com/kubedb/percona-xtradb/commit/675cd747) Cancel concurrent CI runs for same pr/commit (#241)
+- [3c5f5df0](https://github.com/kubedb/percona-xtradb/commit/3c5f5df0) Introduce separate commands for operator and webhook (#240)
+- [cb4dd867](https://github.com/kubedb/percona-xtradb/commit/cb4dd867) Use stash.appscode.dev/apimachinery@v0.18.0 (#239)
+- [b8bd01a9](https://github.com/kubedb/percona-xtradb/commit/b8bd01a9) Update UID generation for GenericResource (#238)
+- [e6b35455](https://github.com/kubedb/percona-xtradb/commit/e6b35455) Update SiteInfo (#236)
+- [473b9ba6](https://github.com/kubedb/percona-xtradb/commit/473b9ba6) Generate GenericResource
+- [28321621](https://github.com/kubedb/percona-xtradb/commit/28321621) Publish GenericResource (#235)
+- [94984a32](https://github.com/kubedb/percona-xtradb/commit/94984a32) Recover from panic in reconcilers (#234)
+
+
+

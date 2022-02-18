@@ -123,6 +123,21 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.5.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.5.0)
+
+- [c22dc23](https://github.com/kubedb/mariadb-coordinator/commit/c22dc23) Prepare for release v0.5.0 (#35)
+- [c55747c](https://github.com/kubedb/mariadb-coordinator/commit/c55747c) Cancel concurrent CI runs for same pr/commit (#34)
+- [aff152f](https://github.com/kubedb/mariadb-coordinator/commit/aff152f) Update dependencies (#33)
+- [3ee0cd0](https://github.com/kubedb/mariadb-coordinator/commit/3ee0cd0) Cancel concurrent CI runs for same pr/commit (#32)
+- [9e0e94c](https://github.com/kubedb/mariadb-coordinator/commit/9e0e94c) Update SiteInfo (#31)
+- [f4a25a9](https://github.com/kubedb/mariadb-coordinator/commit/f4a25a9) Publish GenericResource (#30)
+- [b086548](https://github.com/kubedb/mariadb-coordinator/commit/b086548) Get ReplicaCount from DB object when StatefulSet isNotFound (#29)
+- [548249c](https://github.com/kubedb/mariadb-coordinator/commit/548249c) Recover from panic in reconcilers (#28)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.18.0](https://github.com/kubedb/mongodb/releases/tag/v0.18.0)

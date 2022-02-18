@@ -299,6 +299,29 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.12.0](https://github.com/kubedb/proxysql/releases/tag/v0.12.0)
+
+- [0bff10e8](https://github.com/kubedb/proxysql/commit/0bff10e8) Prepare for release v0.12.0 (#224)
+- [4781caf4](https://github.com/kubedb/proxysql/commit/4781caf4) Fix AdmissionReview api version
+- [b9d175c3](https://github.com/kubedb/proxysql/commit/b9d175c3) Add suffix to webhook resource (#223)
+- [9935ddf2](https://github.com/kubedb/proxysql/commit/9935ddf2) Allow partially installing webhook server (#222)
+- [31e15e52](https://github.com/kubedb/proxysql/commit/31e15e52) Create namespace if not present in install commands
+- [15139595](https://github.com/kubedb/proxysql/commit/15139595) Fix commands (#220)
+- [dbbf3ba2](https://github.com/kubedb/proxysql/commit/dbbf3ba2) Cancel concurrent CI runs for same pr/commit (#219)
+- [85c46c87](https://github.com/kubedb/proxysql/commit/85c46c87) Update dependencies (#218)
+- [ee41ced8](https://github.com/kubedb/proxysql/commit/ee41ced8) Cancel concurrent CI runs for same pr/commit (#217)
+- [635f6b9b](https://github.com/kubedb/proxysql/commit/635f6b9b) Introduce separate commands for operator and webhook (#216)
+- [056cfac6](https://github.com/kubedb/proxysql/commit/056cfac6) Use stash.appscode.dev/apimachinery@v0.18.0 (#215)
+- [335460c7](https://github.com/kubedb/proxysql/commit/335460c7) Update UID generation for GenericResource (#214)
+- [2148e1d7](https://github.com/kubedb/proxysql/commit/2148e1d7) Update SiteInfo (#213)
+- [1a903feb](https://github.com/kubedb/proxysql/commit/1a903feb) Generate GenericResource
+- [d7ec8b90](https://github.com/kubedb/proxysql/commit/d7ec8b90) Publish GenericResource (#212)
+- [62769ef2](https://github.com/kubedb/proxysql/commit/62769ef2) Recover from panic in reconcilers (#211)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.18.0](https://github.com/kubedb/redis/releases/tag/v0.18.0)

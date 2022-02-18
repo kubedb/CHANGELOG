@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T11:12:51.777255908Z",
+  "release_date": "2022-02-18T11:25:15.226248219Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -959,6 +959,80 @@
             {
               "SHA": "adf84055",
               "Subject": "Recover from panic in reconcilers (#545)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "0bff10e8",
+              "Subject": "Prepare for release v0.12.0 (#224)"
+            },
+            {
+              "SHA": "4781caf4",
+              "Subject": "Fix AdmissionReview api version"
+            },
+            {
+              "SHA": "b9d175c3",
+              "Subject": "Add suffix to webhook resource (#223)"
+            },
+            {
+              "SHA": "9935ddf2",
+              "Subject": "Allow partially installing webhook server (#222)"
+            },
+            {
+              "SHA": "31e15e52",
+              "Subject": "Create namespace if not present in install commands"
+            },
+            {
+              "SHA": "15139595",
+              "Subject": "Fix commands (#220)"
+            },
+            {
+              "SHA": "dbbf3ba2",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#219)"
+            },
+            {
+              "SHA": "85c46c87",
+              "Subject": "Update dependencies (#218)"
+            },
+            {
+              "SHA": "ee41ced8",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#217)"
+            },
+            {
+              "SHA": "635f6b9b",
+              "Subject": "Introduce separate commands for operator and webhook (#216)"
+            },
+            {
+              "SHA": "056cfac6",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#215)"
+            },
+            {
+              "SHA": "335460c7",
+              "Subject": "Update UID generation for GenericResource (#214)"
+            },
+            {
+              "SHA": "2148e1d7",
+              "Subject": "Update SiteInfo (#213)"
+            },
+            {
+              "SHA": "1a903feb",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "d7ec8b90",
+              "Subject": "Publish GenericResource (#212)"
+            },
+            {
+              "SHA": "62769ef2",
+              "Subject": "Recover from panic in reconcilers (#211)"
             }
           ]
         }

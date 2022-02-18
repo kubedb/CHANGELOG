@@ -405,6 +405,17 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.1.0](https://github.com/kubedb/schema-manager/releases/tag/v0.1.0)
+
+- [27cbd85f](https://github.com/kubedb/schema-manager/commit/27cbd85f) Prepare for release v0.1.0 (#21)
+- [e599be46](https://github.com/kubedb/schema-manager/commit/e599be46) Add Schema-Manager support for PostgreSQL (#12)
+- [c0b7b037](https://github.com/kubedb/schema-manager/commit/c0b7b037) Reflect stash-v2022.02.22 related changes for MongoDB (#13)
+- [cb194e15](https://github.com/kubedb/schema-manager/commit/cb194e15) Add stash support for mysqldatabase (#19)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.10.0](https://github.com/kubedb/tests/releases/tag/v0.10.0)

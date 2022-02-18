@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T11:25:24.523629784Z",
+  "release_date": "2022-02-18T11:35:43.899239117Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -1293,6 +1293,32 @@
             {
               "SHA": "157723f2",
               "Subject": "Recover from panic in reconcilers (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "27cbd85f",
+              "Subject": "Prepare for release v0.1.0 (#21)"
+            },
+            {
+              "SHA": "e599be46",
+              "Subject": "Add Schema-Manager support for PostgreSQL (#12)"
+            },
+            {
+              "SHA": "c0b7b037",
+              "Subject": "Reflect stash-v2022.02.22 related changes for MongoDB (#13)"
+            },
+            {
+              "SHA": "cb194e15",
+              "Subject": "Add stash support for mysqldatabase (#19)"
             }
           ]
         }

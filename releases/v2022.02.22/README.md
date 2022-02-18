@@ -96,6 +96,32 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.18.0](https://github.com/kubedb/mysql/releases/tag/v0.18.0)
+
+- [12b89a3e](https://github.com/kubedb/mysql/commit/12b89a3e) Prepare for release v0.18.0 (#455)
+- [03df7640](https://github.com/kubedb/mysql/commit/03df7640) Add Support for MySQL Read Replica (#439)
+- [abfa3adc](https://github.com/kubedb/mysql/commit/abfa3adc) Use component specific webhook install command
+- [f42185e5](https://github.com/kubedb/mysql/commit/f42185e5) Add suffix to webhook resource (#454)
+- [b8c47c15](https://github.com/kubedb/mysql/commit/b8c47c15) Fix AdmissionReview api version (#453)
+- [e987420a](https://github.com/kubedb/mysql/commit/e987420a) Fix commands (#451)
+- [db3a06de](https://github.com/kubedb/mysql/commit/db3a06de) Cancel concurrent CI runs for same pr/commit (#450)
+- [4a4f156e](https://github.com/kubedb/mysql/commit/4a4f156e) Update dependencies (#449)
+- [b7209b20](https://github.com/kubedb/mysql/commit/b7209b20) Cancel concurrent CI runs for same pr/commit (#448)
+- [f6214514](https://github.com/kubedb/mysql/commit/f6214514) Introduce separate commands for operator and webhook (#447)
+- [97ba973b](https://github.com/kubedb/mysql/commit/97ba973b) Use stash.appscode.dev/apimachinery@v0.18.0 (#446)
+- [668f50ff](https://github.com/kubedb/mysql/commit/668f50ff) Update UID generation for GenericResource (#445)
+- [ac411e95](https://github.com/kubedb/mysql/commit/ac411e95) Remove coordinator container for stand alone instance. (#443)
+- [99441193](https://github.com/kubedb/mysql/commit/99441193) Update SiteInfo (#444)
+- [a248a8e2](https://github.com/kubedb/mysql/commit/a248a8e2) Generate GenericResource
+- [1e7e681b](https://github.com/kubedb/mysql/commit/1e7e681b) Publish GenericResource (#442)
+- [2cca63b8](https://github.com/kubedb/mysql/commit/2cca63b8) Rename MySQLClusterModeGroupReplication to MySQLModeGroupReplication (#441)
+- [a25b9a4c](https://github.com/kubedb/mysql/commit/a25b9a4c) Pass --set-gtid-purged=off to stash for innodb cluster. (#437)
+- [e2533c3a](https://github.com/kubedb/mysql/commit/e2533c3a) Recover from panic in reconcilers (#436)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.3.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.3.0)

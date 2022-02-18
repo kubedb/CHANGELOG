@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T10:41:05.218286218Z",
+  "release_date": "2022-02-18T10:41:16.689341967Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -327,6 +327,92 @@
             {
               "SHA": "9d609162",
               "Subject": "Recover from panic in reconcilers (#441)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "12b89a3e",
+              "Subject": "Prepare for release v0.18.0 (#455)"
+            },
+            {
+              "SHA": "03df7640",
+              "Subject": "Add Support for MySQL Read Replica (#439)"
+            },
+            {
+              "SHA": "abfa3adc",
+              "Subject": "Use component specific webhook install command"
+            },
+            {
+              "SHA": "f42185e5",
+              "Subject": "Add suffix to webhook resource (#454)"
+            },
+            {
+              "SHA": "b8c47c15",
+              "Subject": "Fix AdmissionReview api version (#453)"
+            },
+            {
+              "SHA": "e987420a",
+              "Subject": "Fix commands (#451)"
+            },
+            {
+              "SHA": "db3a06de",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#450)"
+            },
+            {
+              "SHA": "4a4f156e",
+              "Subject": "Update dependencies (#449)"
+            },
+            {
+              "SHA": "b7209b20",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#448)"
+            },
+            {
+              "SHA": "f6214514",
+              "Subject": "Introduce separate commands for operator and webhook (#447)"
+            },
+            {
+              "SHA": "97ba973b",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#446)"
+            },
+            {
+              "SHA": "668f50ff",
+              "Subject": "Update UID generation for GenericResource (#445)"
+            },
+            {
+              "SHA": "ac411e95",
+              "Subject": "Remove coordinator container for stand alone instance. (#443)"
+            },
+            {
+              "SHA": "99441193",
+              "Subject": "Update SiteInfo (#444)"
+            },
+            {
+              "SHA": "a248a8e2",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "1e7e681b",
+              "Subject": "Publish GenericResource (#442)"
+            },
+            {
+              "SHA": "2cca63b8",
+              "Subject": "Rename MySQLClusterModeGroupReplication to MySQLModeGroupReplication (#441)"
+            },
+            {
+              "SHA": "a25b9a4c",
+              "Subject": "Pass --set-gtid-purged=off to stash for innodb cluster. (#437)"
+            },
+            {
+              "SHA": "e2533c3a",
+              "Subject": "Recover from panic in reconcilers (#436)"
             }
           ]
         }

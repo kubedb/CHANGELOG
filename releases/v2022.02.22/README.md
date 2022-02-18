@@ -138,6 +138,28 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.18.0](https://github.com/kubedb/memcached/releases/tag/v0.18.0)
+
+- [134b2f2d](https://github.com/kubedb/memcached/commit/134b2f2d) Prepare for release v0.18.0 (#345)
+- [f0f5c8b4](https://github.com/kubedb/memcached/commit/f0f5c8b4) Add suffix to webhook resource (#344)
+- [87d70155](https://github.com/kubedb/memcached/commit/87d70155) Allow partially installing webhook server (#343)
+- [5949b5d6](https://github.com/kubedb/memcached/commit/5949b5d6) Fix AdmissionReview api version (#342)
+- [31f19773](https://github.com/kubedb/memcached/commit/31f19773) Fix commands (#340)
+- [bc8f831e](https://github.com/kubedb/memcached/commit/bc8f831e) Cancel concurrent CI runs for same pr/commit (#339)
+- [dd6ce3a7](https://github.com/kubedb/memcached/commit/dd6ce3a7) Update dependencies (#338)
+- [0fb58107](https://github.com/kubedb/memcached/commit/0fb58107) Cancel concurrent CI runs for same pr/commit (#337)
+- [54c0f656](https://github.com/kubedb/memcached/commit/54c0f656) Introduce separate commands for operator and webhook (#336)
+- [930593a8](https://github.com/kubedb/memcached/commit/930593a8) Use stash.appscode.dev/apimachinery@v0.18.0 (#335)
+- [61742791](https://github.com/kubedb/memcached/commit/61742791) Update UID generation for GenericResource (#334)
+- [bdba4e60](https://github.com/kubedb/memcached/commit/bdba4e60) Update SiteInfo (#333)
+- [7fc04444](https://github.com/kubedb/memcached/commit/7fc04444) Generate GenericResource
+- [8eb438f6](https://github.com/kubedb/memcached/commit/8eb438f6) Publish GenericResource (#332)
+- [247d2c99](https://github.com/kubedb/memcached/commit/247d2c99) Recover from panic in reconcilers (#331)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.18.0](https://github.com/kubedb/mongodb/releases/tag/v0.18.0)

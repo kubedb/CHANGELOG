@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T11:12:23.999577731Z",
+  "release_date": "2022-02-18T11:12:40.992974967Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -459,6 +459,76 @@
             {
               "SHA": "548249c",
               "Subject": "Recover from panic in reconcilers (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "134b2f2d",
+              "Subject": "Prepare for release v0.18.0 (#345)"
+            },
+            {
+              "SHA": "f0f5c8b4",
+              "Subject": "Add suffix to webhook resource (#344)"
+            },
+            {
+              "SHA": "87d70155",
+              "Subject": "Allow partially installing webhook server (#343)"
+            },
+            {
+              "SHA": "5949b5d6",
+              "Subject": "Fix AdmissionReview api version (#342)"
+            },
+            {
+              "SHA": "31f19773",
+              "Subject": "Fix commands (#340)"
+            },
+            {
+              "SHA": "bc8f831e",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#339)"
+            },
+            {
+              "SHA": "dd6ce3a7",
+              "Subject": "Update dependencies (#338)"
+            },
+            {
+              "SHA": "0fb58107",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#337)"
+            },
+            {
+              "SHA": "54c0f656",
+              "Subject": "Introduce separate commands for operator and webhook (#336)"
+            },
+            {
+              "SHA": "930593a8",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#335)"
+            },
+            {
+              "SHA": "61742791",
+              "Subject": "Update UID generation for GenericResource (#334)"
+            },
+            {
+              "SHA": "bdba4e60",
+              "Subject": "Update SiteInfo (#333)"
+            },
+            {
+              "SHA": "7fc04444",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "8eb438f6",
+              "Subject": "Publish GenericResource (#332)"
+            },
+            {
+              "SHA": "247d2c99",
+              "Subject": "Recover from panic in reconcilers (#331)"
             }
           ]
         }

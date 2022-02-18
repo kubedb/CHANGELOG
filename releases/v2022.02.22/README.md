@@ -213,6 +213,20 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.3.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.3.0)
+
+- [5784a32](https://github.com/kubedb/mysql-coordinator/commit/5784a32) Prepare for release v0.3.0 (#29)
+- [9d7d210](https://github.com/kubedb/mysql-coordinator/commit/9d7d210) Cancel concurrent CI runs for same pr/commit (#28)
+- [8c0afbd](https://github.com/kubedb/mysql-coordinator/commit/8c0afbd) Update dependencies (#27)
+- [99284f0](https://github.com/kubedb/mysql-coordinator/commit/99284f0) Cancel concurrent CI runs for same pr/commit (#26)
+- [bccd960](https://github.com/kubedb/mysql-coordinator/commit/bccd960) Update SiteInfo (#25)
+- [d7c0d30](https://github.com/kubedb/mysql-coordinator/commit/d7c0d30) Publish GenericResource (#24)
+- [4ffaf21](https://github.com/kubedb/mysql-coordinator/commit/4ffaf21) Recover from panic in reconcilers (#22)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.3.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.3.0)

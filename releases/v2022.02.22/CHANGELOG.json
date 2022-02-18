@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T10:39:04.491364872Z",
+  "release_date": "2022-02-18T10:39:41.901760319Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -329,6 +329,44 @@
             {
               "SHA": "94984a32",
               "Subject": "Recover from panic in reconcilers (#234)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "86ec5d2a",
+              "Subject": "Prepare for release v0.12.0 (#184)"
+            },
+            {
+              "SHA": "21cf5fe5",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#183)"
+            },
+            {
+              "SHA": "c8a693ba",
+              "Subject": "Update dependencies (#182)"
+            },
+            {
+              "SHA": "31268557",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#181)"
+            },
+            {
+              "SHA": "c471f782",
+              "Subject": "Update SiteInfo (#180)"
+            },
+            {
+              "SHA": "301a0b0c",
+              "Subject": "Publish GenericResource (#179)"
+            },
+            {
+              "SHA": "157723f2",
+              "Subject": "Recover from panic in reconcilers (#178)"
             }
           ]
         }

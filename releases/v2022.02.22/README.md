@@ -101,3 +101,17 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.12.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.12.0)
+
+- [86ec5d2a](https://github.com/kubedb/replication-mode-detector/commit/86ec5d2a) Prepare for release v0.12.0 (#184)
+- [21cf5fe5](https://github.com/kubedb/replication-mode-detector/commit/21cf5fe5) Cancel concurrent CI runs for same pr/commit (#183)
+- [c8a693ba](https://github.com/kubedb/replication-mode-detector/commit/c8a693ba) Update dependencies (#182)
+- [31268557](https://github.com/kubedb/replication-mode-detector/commit/31268557) Cancel concurrent CI runs for same pr/commit (#181)
+- [c471f782](https://github.com/kubedb/replication-mode-detector/commit/c471f782) Update SiteInfo (#180)
+- [301a0b0c](https://github.com/kubedb/replication-mode-detector/commit/301a0b0c) Publish GenericResource (#179)
+- [157723f2](https://github.com/kubedb/replication-mode-detector/commit/157723f2) Recover from panic in reconcilers (#178)
+
+
+

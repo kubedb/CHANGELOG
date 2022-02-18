@@ -1,0 +1,192 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.02.22",
+  "release_date": "2022-02-18T10:28:33.976125745Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.02.22",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "4ed35401",
+              "Subject": "Add Elasticsearch dashboard helper methods and constants (#860)"
+            },
+            {
+              "SHA": "8c9cb4b7",
+              "Subject": "fix mysqldatabase validator webhook (#870)"
+            },
+            {
+              "SHA": "6be2000e",
+              "Subject": "Add Schema Manager for Postgres (#854)"
+            },
+            {
+              "SHA": "fa5b5267",
+              "Subject": "Add helper method for MySQL (#871)"
+            },
+            {
+              "SHA": "161fcef7",
+              "Subject": "Remove RedisDatabase crd (#869)"
+            },
+            {
+              "SHA": "f7217890",
+              "Subject": "Use admission/v1 api types (#868)"
+            },
+            {
+              "SHA": "02c89901",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#867)"
+            },
+            {
+              "SHA": "c6db524e",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#866)"
+            },
+            {
+              "SHA": "f1d3fa44",
+              "Subject": "Remove Enable***Webhook fields from common Config (#865)"
+            },
+            {
+              "SHA": "f0d84187",
+              "Subject": "Add ES constants: ElasticsearchJavaOptsEnv (#864)"
+            },
+            {
+              "SHA": "90877a3d",
+              "Subject": "Add disableAuth Support in Redis (#863)"
+            },
+            {
+              "SHA": "da0fea34",
+              "Subject": "Add support to configure JVM heap in term of percentage (#861)"
+            },
+            {
+              "SHA": "5d665ff1",
+              "Subject": "Add doubleOptIn helpers; Change 'Successful' to 'Current' (#856)"
+            },
+            {
+              "SHA": "1ff8a60c",
+              "Subject": "Fix dashboard api and webhook helper function (#852)"
+            },
+            {
+              "SHA": "fdad1ab2",
+              "Subject": "Convert configmap for redis"
+            },
+            {
+              "SHA": "b2887180",
+              "Subject": "Update repository config (#855)"
+            },
+            {
+              "SHA": "713bb229",
+              "Subject": "Make dashboard & dashboardInitContainer fields optional (#853)"
+            },
+            {
+              "SHA": "fc35bc33",
+              "Subject": "Add Constants for MariaDB ApplyConfig OpsReq (#851)"
+            },
+            {
+              "SHA": "18a94e28",
+              "Subject": "Update constants for Elasticsearch horizontal scaling (#849)"
+            },
+            {
+              "SHA": "c327bc75",
+              "Subject": "Add helper method for Mysql Read Replica (#848)"
+            },
+            {
+              "SHA": "967a2137",
+              "Subject": "Add common condition-related constants & GetPhase function (#845)"
+            },
+            {
+              "SHA": "e6e6d092",
+              "Subject": "Add dashboard image in ElasticsearchVersion (#824)"
+            },
+            {
+              "SHA": "13b91fde",
+              "Subject": "Add helper method for  MySQL Read Replica (#847)"
+            },
+            {
+              "SHA": "dfb7dd5c",
+              "Subject": "Add `ApplyConfig` on MariaDB Reconfigure Ops Request (#846)"
+            },
+            {
+              "SHA": "449b6d64",
+              "Subject": "Use lower case letters"
+            },
+            {
+              "SHA": "ee91f91a",
+              "Subject": "Fix typo in package name (#844)"
+            },
+            {
+              "SHA": "8a260d9a",
+              "Subject": "Add Config Generator for Reconfigure (#835)"
+            },
+            {
+              "SHA": "55f68a75",
+              "Subject": "Add support for MySQL Read Only Replica (#827)"
+            },
+            {
+              "SHA": "c2d563c4",
+              "Subject": "Fix linter error"
+            },
+            {
+              "SHA": "de55a914",
+              "Subject": "Add Timeout on MySQLOpsRequestSpec (#825)"
+            },
+            {
+              "SHA": "6894aa4d",
+              "Subject": "Update Volume Expansion Mode Name in Storage Autoscaler (#843)"
+            },
+            {
+              "SHA": "4834d9c2",
+              "Subject": "Add dashboard and schema-manager apis (#841)"
+            },
+            {
+              "SHA": "1bfbd8a8",
+              "Subject": "Add VolumeExpansion Mode in PostgresOpsRequest (#842)"
+            },
+            {
+              "SHA": "9831faf3",
+              "Subject": "Add UpdateVersion ops request type (#838)"
+            },
+            {
+              "SHA": "113972a8",
+              "Subject": "Add EnforceFsGroup field in Postgres Spec (#839)"
+            },
+            {
+              "SHA": "ff687f61",
+              "Subject": "Add Changes for MariaDB Offline Volume Expansion and MariaDB AutoScaler (#834)"
+            },
+            {
+              "SHA": "e438a2d8",
+              "Subject": "Fix spelling"
+            },
+            {
+              "SHA": "a90c72c7",
+              "Subject": "Rename ***Overview api types to ***Insight (#840)"
+            },
+            {
+              "SHA": "f3a216bf",
+              "Subject": "Add support of offline volume expansion for Elasticsearch (#826)"
+            },
+            {
+              "SHA": "77708728",
+              "Subject": "Update repository config (#837)"
+            },
+            {
+              "SHA": "de96ed84",
+              "Subject": "Add mongodb reprovision ops request (#829)"
+            },
+            {
+              "SHA": "d35fa391",
+              "Subject": "Add EphemerStorage in MongoDB (#828)"
+            },
+            {
+              "SHA": "24b06131",
+              "Subject": "Add constant for mongodb `configuration.js` (#830)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

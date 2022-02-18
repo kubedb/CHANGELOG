@@ -106,6 +106,13 @@
 
 
 
+## [kubedb/enterprise](https://github.com/kubedb/enterprise)
+
+### [v0.12.0](https://github.com/kubedb/enterprise/releases/tag/v0.12.0)
+
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.9.0](https://github.com/kubedb/mariadb/releases/tag/v0.9.0)

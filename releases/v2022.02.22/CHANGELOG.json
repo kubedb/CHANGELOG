@@ -1,0 +1,1653 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.02.22",
+  "release_date": "2022-02-18T14:46:15.93169466Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.02.22",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "4ed35401",
+              "Subject": "Add Elasticsearch dashboard helper methods and constants (#860)"
+            },
+            {
+              "SHA": "8c9cb4b7",
+              "Subject": "fix mysqldatabase validator webhook (#870)"
+            },
+            {
+              "SHA": "6be2000e",
+              "Subject": "Add Schema Manager for Postgres (#854)"
+            },
+            {
+              "SHA": "fa5b5267",
+              "Subject": "Add helper method for MySQL (#871)"
+            },
+            {
+              "SHA": "161fcef7",
+              "Subject": "Remove RedisDatabase crd (#869)"
+            },
+            {
+              "SHA": "f7217890",
+              "Subject": "Use admission/v1 api types (#868)"
+            },
+            {
+              "SHA": "02c89901",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#867)"
+            },
+            {
+              "SHA": "c6db524e",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#866)"
+            },
+            {
+              "SHA": "f1d3fa44",
+              "Subject": "Remove Enable***Webhook fields from common Config (#865)"
+            },
+            {
+              "SHA": "f0d84187",
+              "Subject": "Add ES constants: ElasticsearchJavaOptsEnv (#864)"
+            },
+            {
+              "SHA": "90877a3d",
+              "Subject": "Add disableAuth Support in Redis (#863)"
+            },
+            {
+              "SHA": "da0fea34",
+              "Subject": "Add support to configure JVM heap in term of percentage (#861)"
+            },
+            {
+              "SHA": "5d665ff1",
+              "Subject": "Add doubleOptIn helpers; Change 'Successful' to 'Current' (#856)"
+            },
+            {
+              "SHA": "1ff8a60c",
+              "Subject": "Fix dashboard api and webhook helper function (#852)"
+            },
+            {
+              "SHA": "fdad1ab2",
+              "Subject": "Convert configmap for redis"
+            },
+            {
+              "SHA": "b2887180",
+              "Subject": "Update repository config (#855)"
+            },
+            {
+              "SHA": "713bb229",
+              "Subject": "Make dashboard & dashboardInitContainer fields optional (#853)"
+            },
+            {
+              "SHA": "fc35bc33",
+              "Subject": "Add Constants for MariaDB ApplyConfig OpsReq (#851)"
+            },
+            {
+              "SHA": "18a94e28",
+              "Subject": "Update constants for Elasticsearch horizontal scaling (#849)"
+            },
+            {
+              "SHA": "c327bc75",
+              "Subject": "Add helper method for Mysql Read Replica (#848)"
+            },
+            {
+              "SHA": "967a2137",
+              "Subject": "Add common condition-related constants & GetPhase function (#845)"
+            },
+            {
+              "SHA": "e6e6d092",
+              "Subject": "Add dashboard image in ElasticsearchVersion (#824)"
+            },
+            {
+              "SHA": "13b91fde",
+              "Subject": "Add helper method for  MySQL Read Replica (#847)"
+            },
+            {
+              "SHA": "dfb7dd5c",
+              "Subject": "Add `ApplyConfig` on MariaDB Reconfigure Ops Request (#846)"
+            },
+            {
+              "SHA": "449b6d64",
+              "Subject": "Use lower case letters"
+            },
+            {
+              "SHA": "ee91f91a",
+              "Subject": "Fix typo in package name (#844)"
+            },
+            {
+              "SHA": "8a260d9a",
+              "Subject": "Add Config Generator for Reconfigure (#835)"
+            },
+            {
+              "SHA": "55f68a75",
+              "Subject": "Add support for MySQL Read Only Replica (#827)"
+            },
+            {
+              "SHA": "c2d563c4",
+              "Subject": "Fix linter error"
+            },
+            {
+              "SHA": "de55a914",
+              "Subject": "Add Timeout on MySQLOpsRequestSpec (#825)"
+            },
+            {
+              "SHA": "6894aa4d",
+              "Subject": "Update Volume Expansion Mode Name in Storage Autoscaler (#843)"
+            },
+            {
+              "SHA": "4834d9c2",
+              "Subject": "Add dashboard and schema-manager apis (#841)"
+            },
+            {
+              "SHA": "1bfbd8a8",
+              "Subject": "Add VolumeExpansion Mode in PostgresOpsRequest (#842)"
+            },
+            {
+              "SHA": "9831faf3",
+              "Subject": "Add UpdateVersion ops request type (#838)"
+            },
+            {
+              "SHA": "113972a8",
+              "Subject": "Add EnforceFsGroup field in Postgres Spec (#839)"
+            },
+            {
+              "SHA": "ff687f61",
+              "Subject": "Add Changes for MariaDB Offline Volume Expansion and MariaDB AutoScaler (#834)"
+            },
+            {
+              "SHA": "e438a2d8",
+              "Subject": "Fix spelling"
+            },
+            {
+              "SHA": "a90c72c7",
+              "Subject": "Rename ***Overview api types to ***Insight (#840)"
+            },
+            {
+              "SHA": "f3a216bf",
+              "Subject": "Add support of offline volume expansion for Elasticsearch (#826)"
+            },
+            {
+              "SHA": "77708728",
+              "Subject": "Update repository config (#837)"
+            },
+            {
+              "SHA": "de96ed84",
+              "Subject": "Add mongodb reprovision ops request (#829)"
+            },
+            {
+              "SHA": "d35fa391",
+              "Subject": "Add EphemerStorage in MongoDB (#828)"
+            },
+            {
+              "SHA": "24b06131",
+              "Subject": "Add constant for mongodb `configuration.js` (#830)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "5b5cab07",
+              "Subject": "Prepare for release v0.10.0 (#75)"
+            },
+            {
+              "SHA": "1da577b7",
+              "Subject": "Add MariaDB Autoscaler | Add expandMode field on Autoscaler (#58)"
+            },
+            {
+              "SHA": "292b4a17",
+              "Subject": "Fix typo (#74)"
+            },
+            {
+              "SHA": "f3a518ce",
+              "Subject": "Add suffix to webhook resource (#73)"
+            },
+            {
+              "SHA": "e5683679",
+              "Subject": "Allow partially installing webhook server (#72)"
+            },
+            {
+              "SHA": "dc1e1a19",
+              "Subject": "Fix AdmissionReview api version (#71)"
+            },
+            {
+              "SHA": "8baf503a",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "11935336",
+              "Subject": "Add make uninstall & purge targets"
+            },
+            {
+              "SHA": "e6bd0c08",
+              "Subject": "Fix commands (#69)"
+            },
+            {
+              "SHA": "11aab741",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#68)"
+            },
+            {
+              "SHA": "a38279f3",
+              "Subject": "Fix linter error (#67)"
+            },
+            {
+              "SHA": "749cca26",
+              "Subject": "Update dependencies (#66)"
+            },
+            {
+              "SHA": "10510c7f",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#65)"
+            },
+            {
+              "SHA": "f372ee10",
+              "Subject": "Introduce separate commands for operator and webhook (#64)"
+            },
+            {
+              "SHA": "5a8b7e36",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#63)"
+            },
+            {
+              "SHA": "0252232d",
+              "Subject": "Update UID generation for GenericResource (#62)"
+            },
+            {
+              "SHA": "8bf7600b",
+              "Subject": "Fix mongodb inMemory shard Autoscaler (#61)"
+            },
+            {
+              "SHA": "4d1c2222",
+              "Subject": "Update SiteInfo (#60)"
+            },
+            {
+              "SHA": "93c5cbaf",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "21fed0b2",
+              "Subject": "Publish GenericResource (#59)"
+            },
+            {
+              "SHA": "4b57f902",
+              "Subject": "Recover from panic in reconcilers (#57)"
+            },
+            {
+              "SHA": "678eab33",
+              "Subject": "Use Go 1.17 module format"
+            },
+            {
+              "SHA": "bff8d517",
+              "Subject": "Update package module path"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "12acb9c",
+              "Subject": "Prepare for release v2022.02.22 (#43)"
+            },
+            {
+              "SHA": "f7dacb9",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#42)"
+            },
+            {
+              "SHA": "f9587ab",
+              "Subject": "Update repository config (#41)"
+            },
+            {
+              "SHA": "ffd986c",
+              "Subject": "Update repository config (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "d22f9b86",
+              "Subject": "Prepare for release v0.25.0 (#654)"
+            },
+            {
+              "SHA": "829e5d49",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#653)"
+            },
+            {
+              "SHA": "2366e0fc",
+              "Subject": "Update dependencies (#652)"
+            },
+            {
+              "SHA": "3a4e8d6a",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#651)"
+            },
+            {
+              "SHA": "21d910b6",
+              "Subject": "Use GO 1.17 module format (#650)"
+            },
+            {
+              "SHA": "3972a064",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#649)"
+            },
+            {
+              "SHA": "287d32bc",
+              "Subject": "Update SiteInfo (#648)"
+            },
+            {
+              "SHA": "7aacbc4e",
+              "Subject": "Publish GenericResource (#647)"
+            },
+            {
+              "SHA": "926af73f",
+              "Subject": "Release cli for darwin/arm64 (#646)"
+            },
+            {
+              "SHA": "f575f520",
+              "Subject": "Recover from panic in reconcilers (#645)"
+            },
+            {
+              "SHA": "5ebd64b6",
+              "Subject": "Update for release Stash@v2021.11.24 (#644)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "dc2c5cd",
+              "Subject": "Prepare for release v0.1.0 (#15)"
+            },
+            {
+              "SHA": "9444404",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#14)"
+            },
+            {
+              "SHA": "19a0cc3",
+              "Subject": "Add support  for config-merger init container (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "334e903",
+              "Subject": "Prepare for release v2022.02.22 (#185)"
+            },
+            {
+              "SHA": "59d7abd",
+              "Subject": "Add MariaDB OpsReq and Autoscaler Docs (#171)"
+            },
+            {
+              "SHA": "a213110",
+              "Subject": "Ignore helm.sh"
+            },
+            {
+              "SHA": "15f8d06",
+              "Subject": "Update docs for kubedb/webhook-server@f4d30d78 (#183)"
+            },
+            {
+              "SHA": "500d14c",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#180)"
+            },
+            {
+              "SHA": "87e43f4",
+              "Subject": "Update docs for kubedb/operator@82e738a9 (#182)"
+            },
+            {
+              "SHA": "cebb27d",
+              "Subject": "Update docs for kubedb/operator@48215abe (#176)"
+            },
+            {
+              "SHA": "6fbcfbd",
+              "Subject": "Merge pull request #172 from kubedb/add-snapshot-id-field"
+            },
+            {
+              "SHA": "4a2c1f0",
+              "Subject": "Update links to get compatible with Stash's upcoming release."
+            },
+            {
+              "SHA": "8751a0b",
+              "Subject": "Fix mistakes in the Redis backup doc."
+            },
+            {
+              "SHA": "597022e",
+              "Subject": "Fix typo."
+            },
+            {
+              "SHA": "11e758c",
+              "Subject": "Fix links."
+            },
+            {
+              "SHA": "524faf1",
+              "Subject": "Update Kubedb docs to reflect Stash changes."
+            },
+            {
+              "SHA": "bed758e",
+              "Subject": "Update `MongoDB`, `MySQL` and `PostgreSQL` docs (#174)"
+            },
+            {
+              "SHA": "394fb8c",
+              "Subject": "Update versions list for Postgres (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "c5725973",
+              "Subject": "Prepare for release v0.25.0 (#565)"
+            },
+            {
+              "SHA": "d7535c40",
+              "Subject": "Add support for Elasticsearch:5.6.16-searchguard (#564)"
+            },
+            {
+              "SHA": "0c348e3d",
+              "Subject": "Add suffix to webhook resource (#563)"
+            },
+            {
+              "SHA": "72a19921",
+              "Subject": "Allow partially installing webhook server (#562)"
+            },
+            {
+              "SHA": "fc6fd671",
+              "Subject": "Fix AdmissionReview api version (#561)"
+            },
+            {
+              "SHA": "99cac224",
+              "Subject": "Fix commands (#559)"
+            },
+            {
+              "SHA": "db3a0ef1",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#558)"
+            },
+            {
+              "SHA": "6fd7c0df",
+              "Subject": "Update dependencies (#557)"
+            },
+            {
+              "SHA": "847fe9c4",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#555)"
+            },
+            {
+              "SHA": "96a85825",
+              "Subject": "Introduce separate commands for operator and webhook (#554)"
+            },
+            {
+              "SHA": "7781b596",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#553)"
+            },
+            {
+              "SHA": "e8d411b4",
+              "Subject": "Update UID generation for GenericResource (#552)"
+            },
+            {
+              "SHA": "eb2f7d24",
+              "Subject": "Add support for JVM heap size in term of percentage (#551)"
+            },
+            {
+              "SHA": "bbb0d8c5",
+              "Subject": "Update SiteInfo (#550)"
+            },
+            {
+              "SHA": "feaf7f2a",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "ef1cc55e",
+              "Subject": "Publish GenericResource (#549)"
+            },
+            {
+              "SHA": "f1b3203b",
+              "Subject": "Revert PRODUCT_NAME in makefile (#548)"
+            },
+            {
+              "SHA": "30c80c26",
+              "Subject": "Fix resource patching issue in upsertContainer func (#547)"
+            },
+            {
+              "SHA": "5ab262d3",
+              "Subject": "Fix service ExternalTrafficPolicy repetitive patch issue (#546)"
+            },
+            {
+              "SHA": "85231bcc",
+              "Subject": "Recover from panic in reconcilers (#545)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/enterprise",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "6a778dd9",
+              "Subject": "Prepare for release v0.9.0 (#135)"
+            },
+            {
+              "SHA": "b4a30c99",
+              "Subject": "added-all"
+            },
+            {
+              "SHA": "c6a5cc23",
+              "Subject": "Update validator webhook gvr"
+            },
+            {
+              "SHA": "7d2d3c91",
+              "Subject": "Add suffix to webhook resource (#134)"
+            },
+            {
+              "SHA": "0636c331",
+              "Subject": "Allow partially installing webhook server (#133)"
+            },
+            {
+              "SHA": "a735bbfb",
+              "Subject": "Fix AdmissionReview api version (#132)"
+            },
+            {
+              "SHA": "d29518d2",
+              "Subject": "Fix commands (#130)"
+            },
+            {
+              "SHA": "d04f9e9a",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#129)"
+            },
+            {
+              "SHA": "8c266208",
+              "Subject": "Update dependencies (#128)"
+            },
+            {
+              "SHA": "4871392b",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#126)"
+            },
+            {
+              "SHA": "34ff3c21",
+              "Subject": "Introduce separate commands for operator and webhook (#125)"
+            },
+            {
+              "SHA": "09286968",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#124)"
+            },
+            {
+              "SHA": "c4f75cfd",
+              "Subject": "Update UID generation for GenericResource (#123)"
+            },
+            {
+              "SHA": "bbdd36d6",
+              "Subject": "Update SiteInfo (#121)"
+            },
+            {
+              "SHA": "10ff7827",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "cf8ac7fe",
+              "Subject": "Publish GenericResource (#120)"
+            },
+            {
+              "SHA": "a8d68263",
+              "Subject": "Allow database service account to get DB object from coordinator (#117)"
+            },
+            {
+              "SHA": "5710c30c",
+              "Subject": "Revert product name on Makefile (#119)"
+            },
+            {
+              "SHA": "62ec6717",
+              "Subject": "Update kubedb-community chart name to kubedb-provisioner (#118)"
+            },
+            {
+              "SHA": "e909bd19",
+              "Subject": "Recover from panic in reconcilers (#116)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "c22dc23",
+              "Subject": "Prepare for release v0.5.0 (#35)"
+            },
+            {
+              "SHA": "c55747c",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#34)"
+            },
+            {
+              "SHA": "aff152f",
+              "Subject": "Update dependencies (#33)"
+            },
+            {
+              "SHA": "3ee0cd0",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#32)"
+            },
+            {
+              "SHA": "9e0e94c",
+              "Subject": "Update SiteInfo (#31)"
+            },
+            {
+              "SHA": "f4a25a9",
+              "Subject": "Publish GenericResource (#30)"
+            },
+            {
+              "SHA": "b086548",
+              "Subject": "Get ReplicaCount from DB object when StatefulSet isNotFound (#29)"
+            },
+            {
+              "SHA": "548249c",
+              "Subject": "Recover from panic in reconcilers (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "134b2f2d",
+              "Subject": "Prepare for release v0.18.0 (#345)"
+            },
+            {
+              "SHA": "f0f5c8b4",
+              "Subject": "Add suffix to webhook resource (#344)"
+            },
+            {
+              "SHA": "87d70155",
+              "Subject": "Allow partially installing webhook server (#343)"
+            },
+            {
+              "SHA": "5949b5d6",
+              "Subject": "Fix AdmissionReview api version (#342)"
+            },
+            {
+              "SHA": "31f19773",
+              "Subject": "Fix commands (#340)"
+            },
+            {
+              "SHA": "bc8f831e",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#339)"
+            },
+            {
+              "SHA": "dd6ce3a7",
+              "Subject": "Update dependencies (#338)"
+            },
+            {
+              "SHA": "0fb58107",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#337)"
+            },
+            {
+              "SHA": "54c0f656",
+              "Subject": "Introduce separate commands for operator and webhook (#336)"
+            },
+            {
+              "SHA": "930593a8",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#335)"
+            },
+            {
+              "SHA": "61742791",
+              "Subject": "Update UID generation for GenericResource (#334)"
+            },
+            {
+              "SHA": "bdba4e60",
+              "Subject": "Update SiteInfo (#333)"
+            },
+            {
+              "SHA": "7fc04444",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "8eb438f6",
+              "Subject": "Publish GenericResource (#332)"
+            },
+            {
+              "SHA": "247d2c99",
+              "Subject": "Recover from panic in reconcilers (#331)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "7a354d6c",
+              "Subject": "Prepare for release v0.18.0 (#462)"
+            },
+            {
+              "SHA": "46b5f2a7",
+              "Subject": "Add suffix to webhook resource (#461)"
+            },
+            {
+              "SHA": "8db1061d",
+              "Subject": "Allow partially installing webhook server (#460)"
+            },
+            {
+              "SHA": "d21b4c46",
+              "Subject": "Fix AdmissionReview api version (#458)"
+            },
+            {
+              "SHA": "85ae88c1",
+              "Subject": "Fix commands (#456)"
+            },
+            {
+              "SHA": "e528b327",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#455)"
+            },
+            {
+              "SHA": "111d3d88",
+              "Subject": "Update dependencies (#454)"
+            },
+            {
+              "SHA": "417ca61e",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#453)"
+            },
+            {
+              "SHA": "2aacc8b2",
+              "Subject": "Introduce separate commands for operator and webhook (#452)"
+            },
+            {
+              "SHA": "aaa48967",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#451)"
+            },
+            {
+              "SHA": "b4f039b7",
+              "Subject": "Update UID generation for GenericResource (#450)"
+            },
+            {
+              "SHA": "537f1d2a",
+              "Subject": "Fix shard health check (#448)"
+            },
+            {
+              "SHA": "787cd3b0",
+              "Subject": "Update SiteInfo (#447)"
+            },
+            {
+              "SHA": "2d7b4b0e",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "7df41e17",
+              "Subject": "Publish GenericResource (#446)"
+            },
+            {
+              "SHA": "4eaa7aa2",
+              "Subject": "Add configuration for ephemeral storage (#442)"
+            },
+            {
+              "SHA": "28c8967d",
+              "Subject": "Add read/write health check (#443)"
+            },
+            {
+              "SHA": "921451d7",
+              "Subject": "Add support to apply `configuration.js` (#445)"
+            },
+            {
+              "SHA": "027e307a",
+              "Subject": "Update Reconcile method (#444)"
+            },
+            {
+              "SHA": "9d609162",
+              "Subject": "Recover from panic in reconcilers (#441)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "12b89a3e",
+              "Subject": "Prepare for release v0.18.0 (#455)"
+            },
+            {
+              "SHA": "03df7640",
+              "Subject": "Add Support for MySQL Read Replica (#439)"
+            },
+            {
+              "SHA": "abfa3adc",
+              "Subject": "Use component specific webhook install command"
+            },
+            {
+              "SHA": "f42185e5",
+              "Subject": "Add suffix to webhook resource (#454)"
+            },
+            {
+              "SHA": "b8c47c15",
+              "Subject": "Fix AdmissionReview api version (#453)"
+            },
+            {
+              "SHA": "e987420a",
+              "Subject": "Fix commands (#451)"
+            },
+            {
+              "SHA": "db3a06de",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#450)"
+            },
+            {
+              "SHA": "4a4f156e",
+              "Subject": "Update dependencies (#449)"
+            },
+            {
+              "SHA": "b7209b20",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#448)"
+            },
+            {
+              "SHA": "f6214514",
+              "Subject": "Introduce separate commands for operator and webhook (#447)"
+            },
+            {
+              "SHA": "97ba973b",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#446)"
+            },
+            {
+              "SHA": "668f50ff",
+              "Subject": "Update UID generation for GenericResource (#445)"
+            },
+            {
+              "SHA": "ac411e95",
+              "Subject": "Remove coordinator container for stand alone instance. (#443)"
+            },
+            {
+              "SHA": "99441193",
+              "Subject": "Update SiteInfo (#444)"
+            },
+            {
+              "SHA": "a248a8e2",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "1e7e681b",
+              "Subject": "Publish GenericResource (#442)"
+            },
+            {
+              "SHA": "2cca63b8",
+              "Subject": "Rename MySQLClusterModeGroupReplication to MySQLModeGroupReplication (#441)"
+            },
+            {
+              "SHA": "a25b9a4c",
+              "Subject": "Pass --set-gtid-purged=off to stash for innodb cluster. (#437)"
+            },
+            {
+              "SHA": "e2533c3a",
+              "Subject": "Recover from panic in reconcilers (#436)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "5784a32",
+              "Subject": "Prepare for release v0.3.0 (#29)"
+            },
+            {
+              "SHA": "9d7d210",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#28)"
+            },
+            {
+              "SHA": "8c0afbd",
+              "Subject": "Update dependencies (#27)"
+            },
+            {
+              "SHA": "99284f0",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#26)"
+            },
+            {
+              "SHA": "bccd960",
+              "Subject": "Update SiteInfo (#25)"
+            },
+            {
+              "SHA": "d7c0d30",
+              "Subject": "Publish GenericResource (#24)"
+            },
+            {
+              "SHA": "4ffaf21",
+              "Subject": "Recover from panic in reconcilers (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "32d8ac8",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#16)"
+            },
+            {
+              "SHA": "c01384d",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#15)"
+            },
+            {
+              "SHA": "febef73",
+              "Subject": "Publish GenericResource (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "d01b2914",
+              "Subject": "Prepare for release v0.12.0 (#249)"
+            },
+            {
+              "SHA": "6f821254",
+              "Subject": "Add suffix to webhook resource (#248)"
+            },
+            {
+              "SHA": "0be0d287",
+              "Subject": "Allow partially installing webhook server (#247)"
+            },
+            {
+              "SHA": "a867d68c",
+              "Subject": "Fix AdmissionReview api version (#246)"
+            },
+            {
+              "SHA": "15c1e045",
+              "Subject": "Fix commands (#244)"
+            },
+            {
+              "SHA": "3c12213b",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#243)"
+            },
+            {
+              "SHA": "1458bd2b",
+              "Subject": "Update dependencies (#242)"
+            },
+            {
+              "SHA": "675cd747",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#241)"
+            },
+            {
+              "SHA": "3c5f5df0",
+              "Subject": "Introduce separate commands for operator and webhook (#240)"
+            },
+            {
+              "SHA": "cb4dd867",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#239)"
+            },
+            {
+              "SHA": "b8bd01a9",
+              "Subject": "Update UID generation for GenericResource (#238)"
+            },
+            {
+              "SHA": "e6b35455",
+              "Subject": "Update SiteInfo (#236)"
+            },
+            {
+              "SHA": "473b9ba6",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "28321621",
+              "Subject": "Publish GenericResource (#235)"
+            },
+            {
+              "SHA": "94984a32",
+              "Subject": "Recover from panic in reconcilers (#234)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "eb50dc2",
+              "Subject": "Prepare for release v0.9.0 (#66)"
+            },
+            {
+              "SHA": "d27428b",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#65)"
+            },
+            {
+              "SHA": "7beba31",
+              "Subject": "Update dependencies (#64)"
+            },
+            {
+              "SHA": "feed8e5",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#63)"
+            },
+            {
+              "SHA": "d509ec3",
+              "Subject": "Update SiteInfo (#62)"
+            },
+            {
+              "SHA": "dfa09ba",
+              "Subject": "Publish GenericResource (#61)"
+            },
+            {
+              "SHA": "3a850da",
+              "Subject": "Fix custom Auth secret issues (#60)"
+            },
+            {
+              "SHA": "5cdea8c",
+              "Subject": "Use Postgres CR to get replica count (#59)"
+            },
+            {
+              "SHA": "1070903",
+              "Subject": "Recover from panic in reconcilers (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "a244100d",
+              "Subject": "Prepare for release v0.12.0 (#208)"
+            },
+            {
+              "SHA": "3571411a",
+              "Subject": "Add suffix to webhook resource (#207)"
+            },
+            {
+              "SHA": "8d13a7bc",
+              "Subject": "Allow partially installing webhook server (#206)"
+            },
+            {
+              "SHA": "05098834",
+              "Subject": "Fix AdmissionReview api version (#205)"
+            },
+            {
+              "SHA": "117c33a7",
+              "Subject": "Fix commands (#203)"
+            },
+            {
+              "SHA": "876c86d6",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#202)"
+            },
+            {
+              "SHA": "d23c8939",
+              "Subject": "Update dependencies (#201)"
+            },
+            {
+              "SHA": "3e1ed897",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#200)"
+            },
+            {
+              "SHA": "6ab49fde",
+              "Subject": "Introduce separate commands for operator and webhook (#199)"
+            },
+            {
+              "SHA": "aa1e2c7f",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#198)"
+            },
+            {
+              "SHA": "b602f703",
+              "Subject": "Update UID generation for GenericResource (#197)"
+            },
+            {
+              "SHA": "7acd55f4",
+              "Subject": "Update SiteInfo (#196)"
+            },
+            {
+              "SHA": "504f39d7",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "e4aaec6c",
+              "Subject": "Publish GenericResource (#195)"
+            },
+            {
+              "SHA": "fe1b6138",
+              "Subject": "Recover from panic in reconcilers (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "7b764c0b",
+              "Subject": "Prepare for release v0.25.0 (#562)"
+            },
+            {
+              "SHA": "3cc55bf0",
+              "Subject": "Add suffix to webhook resource (#561)"
+            },
+            {
+              "SHA": "59393ddb",
+              "Subject": "Allow partially installing webhook server (#560)"
+            },
+            {
+              "SHA": "a4eaa7af",
+              "Subject": "Fix AdmissionReview api version (#559)"
+            },
+            {
+              "SHA": "bc82ff36",
+              "Subject": "Fix commands (#557)"
+            },
+            {
+              "SHA": "b4eaa521",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#556)"
+            },
+            {
+              "SHA": "b43419f3",
+              "Subject": "Update dependencies (#555)"
+            },
+            {
+              "SHA": "3212a076",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#554)"
+            },
+            {
+              "SHA": "578f48f1",
+              "Subject": "Introduce separate commands for operator and webhook (#552)"
+            },
+            {
+              "SHA": "124489ce",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#553)"
+            },
+            {
+              "SHA": "6af28e8f",
+              "Subject": "Update UID generation for GenericResource (#551)"
+            },
+            {
+              "SHA": "824b4a89",
+              "Subject": "Update SiteInfo (#550)"
+            },
+            {
+              "SHA": "2d8e23ed",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "a933d0fb",
+              "Subject": "Publish GenericResource (#549)"
+            },
+            {
+              "SHA": "2fbb7c8b",
+              "Subject": "Enforce FsGroup and add permission to get Postgres CR from coordinator (#547)"
+            },
+            {
+              "SHA": "cdf23fcb",
+              "Subject": "Fix: remove func SetDefaultResourceLimits call (#548)"
+            },
+            {
+              "SHA": "adf84055",
+              "Subject": "Recover from panic in reconcilers (#545)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "0bff10e8",
+              "Subject": "Prepare for release v0.12.0 (#224)"
+            },
+            {
+              "SHA": "4781caf4",
+              "Subject": "Fix AdmissionReview api version"
+            },
+            {
+              "SHA": "b9d175c3",
+              "Subject": "Add suffix to webhook resource (#223)"
+            },
+            {
+              "SHA": "9935ddf2",
+              "Subject": "Allow partially installing webhook server (#222)"
+            },
+            {
+              "SHA": "31e15e52",
+              "Subject": "Create namespace if not present in install commands"
+            },
+            {
+              "SHA": "15139595",
+              "Subject": "Fix commands (#220)"
+            },
+            {
+              "SHA": "dbbf3ba2",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#219)"
+            },
+            {
+              "SHA": "85c46c87",
+              "Subject": "Update dependencies (#218)"
+            },
+            {
+              "SHA": "ee41ced8",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#217)"
+            },
+            {
+              "SHA": "635f6b9b",
+              "Subject": "Introduce separate commands for operator and webhook (#216)"
+            },
+            {
+              "SHA": "056cfac6",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#215)"
+            },
+            {
+              "SHA": "335460c7",
+              "Subject": "Update UID generation for GenericResource (#214)"
+            },
+            {
+              "SHA": "2148e1d7",
+              "Subject": "Update SiteInfo (#213)"
+            },
+            {
+              "SHA": "1a903feb",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "d7ec8b90",
+              "Subject": "Publish GenericResource (#212)"
+            },
+            {
+              "SHA": "62769ef2",
+              "Subject": "Recover from panic in reconcilers (#211)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "f506b8ad",
+              "Subject": "Prepare for release v0.18.0 (#386)"
+            },
+            {
+              "SHA": "ca77cd30",
+              "Subject": "Fix: Multiple Redis Cluster with same name Monitored by Sentinel (#385)"
+            },
+            {
+              "SHA": "ee2c5d31",
+              "Subject": "Fix AdmissionReview api version (#384)"
+            },
+            {
+              "SHA": "02db9598",
+              "Subject": "Add DisableAuth Support For Redis and Sentinel (#372)"
+            },
+            {
+              "SHA": "64751b05",
+              "Subject": "Fix: health checker for Redis Cluster Mode (#363)"
+            },
+            {
+              "SHA": "10be0855",
+              "Subject": "Add suffix to webhook resource (#383)"
+            },
+            {
+              "SHA": "c5a2e86f",
+              "Subject": "Allow partially installing webhook server (#382)"
+            },
+            {
+              "SHA": "46216979",
+              "Subject": "Change command name"
+            },
+            {
+              "SHA": "dd1afb75",
+              "Subject": "Fix admission api alias"
+            },
+            {
+              "SHA": "ed61d9fa",
+              "Subject": "Fix commands (#379)"
+            },
+            {
+              "SHA": "066c65a5",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#380)"
+            },
+            {
+              "SHA": "63f58773",
+              "Subject": "Install webhook server chart (#378)"
+            },
+            {
+              "SHA": "4a3be0c8",
+              "Subject": "Update dependencies (#377)"
+            },
+            {
+              "SHA": "4340c91e",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#376)"
+            },
+            {
+              "SHA": "1719bf95",
+              "Subject": "Introduce separate commands for operator and webhook (#375)"
+            },
+            {
+              "SHA": "aceab546",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#374)"
+            },
+            {
+              "SHA": "73283002",
+              "Subject": "Update UID generation for GenericResource (#373)"
+            },
+            {
+              "SHA": "2c23c89b",
+              "Subject": "Update SiteInfo (#371)"
+            },
+            {
+              "SHA": "efd0041f",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "0e9a3244",
+              "Subject": "Publish GenericResource (#370)"
+            },
+            {
+              "SHA": "b4deca3e",
+              "Subject": "Fix: Volume-Exp Permission Issue from Validator (#369)"
+            },
+            {
+              "SHA": "ae1384d8",
+              "Subject": "Add Container name when exec into pod for clustering (#368)"
+            },
+            {
+              "SHA": "83dcec6d",
+              "Subject": "Recover from panic in reconcilers (#367)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "a2adbd9",
+              "Subject": "Prepare for release v0.4.0 (#25)"
+            },
+            {
+              "SHA": "7ab65d2",
+              "Subject": "Fix: Multiple Redis cluster with same name for Sentinel Monitoring (#24)"
+            },
+            {
+              "SHA": "94043db",
+              "Subject": "Disable redis auth (#20)"
+            },
+            {
+              "SHA": "4a5c2e6",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#23)"
+            },
+            {
+              "SHA": "a207e38",
+              "Subject": "Update dependencies (#22)"
+            },
+            {
+              "SHA": "cedef27",
+              "Subject": "Use Go 1.17 module format"
+            },
+            {
+              "SHA": "335b4f6",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#21)"
+            },
+            {
+              "SHA": "17a7a07",
+              "Subject": "Update SiteInfo (#19)"
+            },
+            {
+              "SHA": "6f6013d",
+              "Subject": "Publish GenericResource (#18)"
+            },
+            {
+              "SHA": "3785029",
+              "Subject": "Recover from panic in reconcilers (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "86ec5d2a",
+              "Subject": "Prepare for release v0.12.0 (#184)"
+            },
+            {
+              "SHA": "21cf5fe5",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#183)"
+            },
+            {
+              "SHA": "c8a693ba",
+              "Subject": "Update dependencies (#182)"
+            },
+            {
+              "SHA": "31268557",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#181)"
+            },
+            {
+              "SHA": "c471f782",
+              "Subject": "Update SiteInfo (#180)"
+            },
+            {
+              "SHA": "301a0b0c",
+              "Subject": "Publish GenericResource (#179)"
+            },
+            {
+              "SHA": "157723f2",
+              "Subject": "Recover from panic in reconcilers (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "27cbd85f",
+              "Subject": "Prepare for release v0.1.0 (#21)"
+            },
+            {
+              "SHA": "e599be46",
+              "Subject": "Add Schema-Manager support for PostgreSQL (#12)"
+            },
+            {
+              "SHA": "c0b7b037",
+              "Subject": "Reflect stash-v2022.02.22 related changes for MongoDB (#13)"
+            },
+            {
+              "SHA": "cb194e15",
+              "Subject": "Add stash support for mysqldatabase (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "72008dce",
+              "Subject": "Prepare for release v0.10.0 (#169)"
+            },
+            {
+              "SHA": "9f48d54c",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#168)"
+            },
+            {
+              "SHA": "39fb2faa",
+              "Subject": "Update dependencies (#167)"
+            },
+            {
+              "SHA": "82bef4de",
+              "Subject": "Update dependencies (#166)"
+            },
+            {
+              "SHA": "3de40073",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#165)"
+            },
+            {
+              "SHA": "02695e02",
+              "Subject": "Update SiteInfo (#164)"
+            },
+            {
+              "SHA": "917f979c",
+              "Subject": "Update dependencies (#163)"
+            },
+            {
+              "SHA": "bd430a5e",
+              "Subject": "Recover from panic in reconcilers (#159)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "62f41a7",
+              "Subject": "Prepare for release v0.1.0 (#25)"
+            },
+            {
+              "SHA": "004104c",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#24)"
+            },
+            {
+              "SHA": "757f36a",
+              "Subject": "Update uid generation (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "70336af",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T11:11:30.31249176Z",
+  "release_date": "2022-02-18T11:11:38.053042806Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -763,6 +763,108 @@
             {
               "SHA": "adf84055",
               "Subject": "Recover from panic in reconcilers (#545)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "f506b8ad",
+              "Subject": "Prepare for release v0.18.0 (#386)"
+            },
+            {
+              "SHA": "ca77cd30",
+              "Subject": "Fix: Multiple Redis Cluster with same name Monitored by Sentinel (#385)"
+            },
+            {
+              "SHA": "ee2c5d31",
+              "Subject": "Fix AdmissionReview api version (#384)"
+            },
+            {
+              "SHA": "02db9598",
+              "Subject": "Add DisableAuth Support For Redis and Sentinel (#372)"
+            },
+            {
+              "SHA": "64751b05",
+              "Subject": "Fix: health checker for Redis Cluster Mode (#363)"
+            },
+            {
+              "SHA": "10be0855",
+              "Subject": "Add suffix to webhook resource (#383)"
+            },
+            {
+              "SHA": "c5a2e86f",
+              "Subject": "Allow partially installing webhook server (#382)"
+            },
+            {
+              "SHA": "46216979",
+              "Subject": "Change command name"
+            },
+            {
+              "SHA": "dd1afb75",
+              "Subject": "Fix admission api alias"
+            },
+            {
+              "SHA": "ed61d9fa",
+              "Subject": "Fix commands (#379)"
+            },
+            {
+              "SHA": "066c65a5",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#380)"
+            },
+            {
+              "SHA": "63f58773",
+              "Subject": "Install webhook server chart (#378)"
+            },
+            {
+              "SHA": "4a3be0c8",
+              "Subject": "Update dependencies (#377)"
+            },
+            {
+              "SHA": "4340c91e",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#376)"
+            },
+            {
+              "SHA": "1719bf95",
+              "Subject": "Introduce separate commands for operator and webhook (#375)"
+            },
+            {
+              "SHA": "aceab546",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#374)"
+            },
+            {
+              "SHA": "73283002",
+              "Subject": "Update UID generation for GenericResource (#373)"
+            },
+            {
+              "SHA": "2c23c89b",
+              "Subject": "Update SiteInfo (#371)"
+            },
+            {
+              "SHA": "efd0041f",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "0e9a3244",
+              "Subject": "Publish GenericResource (#370)"
+            },
+            {
+              "SHA": "b4deca3e",
+              "Subject": "Fix: Volume-Exp Permission Issue from Validator (#369)"
+            },
+            {
+              "SHA": "ae1384d8",
+              "Subject": "Add Container name when exec into pod for clustering (#368)"
+            },
+            {
+              "SHA": "83dcec6d",
+              "Subject": "Recover from panic in reconcilers (#367)"
             }
           ]
         }

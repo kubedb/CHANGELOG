@@ -232,6 +232,36 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.18.0](https://github.com/kubedb/redis/releases/tag/v0.18.0)
+
+- [f506b8ad](https://github.com/kubedb/redis/commit/f506b8ad) Prepare for release v0.18.0 (#386)
+- [ca77cd30](https://github.com/kubedb/redis/commit/ca77cd30) Fix: Multiple Redis Cluster with same name Monitored by Sentinel (#385)
+- [ee2c5d31](https://github.com/kubedb/redis/commit/ee2c5d31) Fix AdmissionReview api version (#384)
+- [02db9598](https://github.com/kubedb/redis/commit/02db9598) Add DisableAuth Support For Redis and Sentinel (#372)
+- [64751b05](https://github.com/kubedb/redis/commit/64751b05) Fix: health checker for Redis Cluster Mode (#363)
+- [10be0855](https://github.com/kubedb/redis/commit/10be0855) Add suffix to webhook resource (#383)
+- [c5a2e86f](https://github.com/kubedb/redis/commit/c5a2e86f) Allow partially installing webhook server (#382)
+- [46216979](https://github.com/kubedb/redis/commit/46216979) Change command name
+- [dd1afb75](https://github.com/kubedb/redis/commit/dd1afb75) Fix admission api alias
+- [ed61d9fa](https://github.com/kubedb/redis/commit/ed61d9fa) Fix commands (#379)
+- [066c65a5](https://github.com/kubedb/redis/commit/066c65a5) Cancel concurrent CI runs for same pr/commit (#380)
+- [63f58773](https://github.com/kubedb/redis/commit/63f58773) Install webhook server chart (#378)
+- [4a3be0c8](https://github.com/kubedb/redis/commit/4a3be0c8) Update dependencies (#377)
+- [4340c91e](https://github.com/kubedb/redis/commit/4340c91e) Cancel concurrent CI runs for same pr/commit (#376)
+- [1719bf95](https://github.com/kubedb/redis/commit/1719bf95) Introduce separate commands for operator and webhook (#375)
+- [aceab546](https://github.com/kubedb/redis/commit/aceab546) Use stash.appscode.dev/apimachinery@v0.18.0 (#374)
+- [73283002](https://github.com/kubedb/redis/commit/73283002) Update UID generation for GenericResource (#373)
+- [2c23c89b](https://github.com/kubedb/redis/commit/2c23c89b) Update SiteInfo (#371)
+- [efd0041f](https://github.com/kubedb/redis/commit/efd0041f) Generate GenericResource
+- [0e9a3244](https://github.com/kubedb/redis/commit/0e9a3244) Publish GenericResource (#370)
+- [b4deca3e](https://github.com/kubedb/redis/commit/b4deca3e) Fix: Volume-Exp Permission Issue from Validator (#369)
+- [ae1384d8](https://github.com/kubedb/redis/commit/ae1384d8) Add Container name when exec into pod for clustering (#368)
+- [83dcec6d](https://github.com/kubedb/redis/commit/83dcec6d) Recover from panic in reconcilers (#367)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.12.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.12.0)

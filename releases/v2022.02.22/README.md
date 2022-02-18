@@ -51,3 +51,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.3.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.3.0)
+
+- [32d8ac8](https://github.com/kubedb/mysql-router-init/commit/32d8ac8) Cancel concurrent CI runs for same pr/commit (#16)
+- [c01384d](https://github.com/kubedb/mysql-router-init/commit/c01384d) Cancel concurrent CI runs for same pr/commit (#15)
+- [febef73](https://github.com/kubedb/mysql-router-init/commit/febef73) Publish GenericResource (#14)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T10:28:33.976125745Z",
+  "release_date": "2022-02-18T10:34:36.830836446Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -183,6 +183,28 @@
             {
               "SHA": "24b06131",
               "Subject": "Add constant for mongodb `configuration.js` (#830)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "32d8ac8",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#16)"
+            },
+            {
+              "SHA": "c01384d",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#15)"
+            },
+            {
+              "SHA": "febef73",
+              "Subject": "Publish GenericResource (#14)"
             }
           ]
         }

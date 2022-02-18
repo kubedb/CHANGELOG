@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T12:41:13.575673082Z",
+  "release_date": "2022-02-18T13:49:27.408086692Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -461,6 +461,15 @@
       "releases": [
         {
           "tag": "v0.12.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
           "commits": null
         }
       ]

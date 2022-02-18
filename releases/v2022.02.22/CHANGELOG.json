@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T10:41:16.689341967Z",
+  "release_date": "2022-02-18T10:41:26.365691029Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -237,6 +237,96 @@
             {
               "SHA": "5ebd64b6",
               "Subject": "Update for release Stash@v2021.11.24 (#644)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "c5725973",
+              "Subject": "Prepare for release v0.25.0 (#565)"
+            },
+            {
+              "SHA": "d7535c40",
+              "Subject": "Add support for Elasticsearch:5.6.16-searchguard (#564)"
+            },
+            {
+              "SHA": "0c348e3d",
+              "Subject": "Add suffix to webhook resource (#563)"
+            },
+            {
+              "SHA": "72a19921",
+              "Subject": "Allow partially installing webhook server (#562)"
+            },
+            {
+              "SHA": "fc6fd671",
+              "Subject": "Fix AdmissionReview api version (#561)"
+            },
+            {
+              "SHA": "99cac224",
+              "Subject": "Fix commands (#559)"
+            },
+            {
+              "SHA": "db3a0ef1",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#558)"
+            },
+            {
+              "SHA": "6fd7c0df",
+              "Subject": "Update dependencies (#557)"
+            },
+            {
+              "SHA": "847fe9c4",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#555)"
+            },
+            {
+              "SHA": "96a85825",
+              "Subject": "Introduce separate commands for operator and webhook (#554)"
+            },
+            {
+              "SHA": "7781b596",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#553)"
+            },
+            {
+              "SHA": "e8d411b4",
+              "Subject": "Update UID generation for GenericResource (#552)"
+            },
+            {
+              "SHA": "eb2f7d24",
+              "Subject": "Add support for JVM heap size in term of percentage (#551)"
+            },
+            {
+              "SHA": "bbb0d8c5",
+              "Subject": "Update SiteInfo (#550)"
+            },
+            {
+              "SHA": "feaf7f2a",
+              "Subject": "Generate GenericResource"
+            },
+            {
+              "SHA": "ef1cc55e",
+              "Subject": "Publish GenericResource (#549)"
+            },
+            {
+              "SHA": "f1b3203b",
+              "Subject": "Revert PRODUCT_NAME in makefile (#548)"
+            },
+            {
+              "SHA": "30c80c26",
+              "Subject": "Fix resource patching issue in upsertContainer func (#547)"
+            },
+            {
+              "SHA": "5ab262d3",
+              "Subject": "Fix service ExternalTrafficPolicy repetitive patch issue (#546)"
+            },
+            {
+              "SHA": "85231bcc",
+              "Subject": "Recover from panic in reconcilers (#545)"
             }
           ]
         }

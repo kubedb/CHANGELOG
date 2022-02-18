@@ -69,6 +69,33 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.25.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.25.0)
+
+- [c5725973](https://github.com/kubedb/elasticsearch/commit/c5725973) Prepare for release v0.25.0 (#565)
+- [d7535c40](https://github.com/kubedb/elasticsearch/commit/d7535c40) Add support for Elasticsearch:5.6.16-searchguard (#564)
+- [0c348e3d](https://github.com/kubedb/elasticsearch/commit/0c348e3d) Add suffix to webhook resource (#563)
+- [72a19921](https://github.com/kubedb/elasticsearch/commit/72a19921) Allow partially installing webhook server (#562)
+- [fc6fd671](https://github.com/kubedb/elasticsearch/commit/fc6fd671) Fix AdmissionReview api version (#561)
+- [99cac224](https://github.com/kubedb/elasticsearch/commit/99cac224) Fix commands (#559)
+- [db3a0ef1](https://github.com/kubedb/elasticsearch/commit/db3a0ef1) Cancel concurrent CI runs for same pr/commit (#558)
+- [6fd7c0df](https://github.com/kubedb/elasticsearch/commit/6fd7c0df) Update dependencies (#557)
+- [847fe9c4](https://github.com/kubedb/elasticsearch/commit/847fe9c4) Cancel concurrent CI runs for same pr/commit (#555)
+- [96a85825](https://github.com/kubedb/elasticsearch/commit/96a85825) Introduce separate commands for operator and webhook (#554)
+- [7781b596](https://github.com/kubedb/elasticsearch/commit/7781b596) Use stash.appscode.dev/apimachinery@v0.18.0 (#553)
+- [e8d411b4](https://github.com/kubedb/elasticsearch/commit/e8d411b4) Update UID generation for GenericResource (#552)
+- [eb2f7d24](https://github.com/kubedb/elasticsearch/commit/eb2f7d24) Add support for JVM heap size in term of percentage (#551)
+- [bbb0d8c5](https://github.com/kubedb/elasticsearch/commit/bbb0d8c5) Update SiteInfo (#550)
+- [feaf7f2a](https://github.com/kubedb/elasticsearch/commit/feaf7f2a) Generate GenericResource
+- [ef1cc55e](https://github.com/kubedb/elasticsearch/commit/ef1cc55e) Publish GenericResource (#549)
+- [f1b3203b](https://github.com/kubedb/elasticsearch/commit/f1b3203b) Revert PRODUCT_NAME in makefile (#548)
+- [30c80c26](https://github.com/kubedb/elasticsearch/commit/30c80c26) Fix resource patching issue in upsertContainer func (#547)
+- [5ab262d3](https://github.com/kubedb/elasticsearch/commit/5ab262d3) Fix service ExternalTrafficPolicy repetitive patch issue (#546)
+- [85231bcc](https://github.com/kubedb/elasticsearch/commit/85231bcc) Recover from panic in reconcilers (#545)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.18.0](https://github.com/kubedb/mongodb/releases/tag/v0.18.0)

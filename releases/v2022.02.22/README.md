@@ -51,6 +51,24 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.25.0](https://github.com/kubedb/cli/releases/tag/v0.25.0)
+
+- [d22f9b86](https://github.com/kubedb/cli/commit/d22f9b86) Prepare for release v0.25.0 (#654)
+- [829e5d49](https://github.com/kubedb/cli/commit/829e5d49) Cancel concurrent CI runs for same pr/commit (#653)
+- [2366e0fc](https://github.com/kubedb/cli/commit/2366e0fc) Update dependencies (#652)
+- [3a4e8d6a](https://github.com/kubedb/cli/commit/3a4e8d6a) Cancel concurrent CI runs for same pr/commit (#651)
+- [21d910b6](https://github.com/kubedb/cli/commit/21d910b6) Use GO 1.17 module format (#650)
+- [3972a064](https://github.com/kubedb/cli/commit/3972a064) Use stash.appscode.dev/apimachinery@v0.18.0 (#649)
+- [287d32bc](https://github.com/kubedb/cli/commit/287d32bc) Update SiteInfo (#648)
+- [7aacbc4e](https://github.com/kubedb/cli/commit/7aacbc4e) Publish GenericResource (#647)
+- [926af73f](https://github.com/kubedb/cli/commit/926af73f) Release cli for darwin/arm64 (#646)
+- [f575f520](https://github.com/kubedb/cli/commit/f575f520) Recover from panic in reconcilers (#645)
+- [5ebd64b6](https://github.com/kubedb/cli/commit/5ebd64b6) Update for release Stash@v2021.11.24 (#644)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.3.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.3.0)

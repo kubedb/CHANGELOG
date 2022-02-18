@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T10:34:36.830836446Z",
+  "release_date": "2022-02-18T10:36:40.278556768Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -183,6 +183,60 @@
             {
               "SHA": "24b06131",
               "Subject": "Add constant for mongodb `configuration.js` (#830)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "d22f9b86",
+              "Subject": "Prepare for release v0.25.0 (#654)"
+            },
+            {
+              "SHA": "829e5d49",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#653)"
+            },
+            {
+              "SHA": "2366e0fc",
+              "Subject": "Update dependencies (#652)"
+            },
+            {
+              "SHA": "3a4e8d6a",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#651)"
+            },
+            {
+              "SHA": "21d910b6",
+              "Subject": "Use GO 1.17 module format (#650)"
+            },
+            {
+              "SHA": "3972a064",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.18.0 (#649)"
+            },
+            {
+              "SHA": "287d32bc",
+              "Subject": "Update SiteInfo (#648)"
+            },
+            {
+              "SHA": "7aacbc4e",
+              "Subject": "Publish GenericResource (#647)"
+            },
+            {
+              "SHA": "926af73f",
+              "Subject": "Release cli for darwin/arm64 (#646)"
+            },
+            {
+              "SHA": "f575f520",
+              "Subject": "Recover from panic in reconcilers (#645)"
+            },
+            {
+              "SHA": "5ebd64b6",
+              "Subject": "Update for release Stash@v2021.11.24 (#644)"
             }
           ]
         }

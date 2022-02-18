@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.02.22",
-  "release_date": "2022-02-18T12:21:41.22001533Z",
+  "release_date": "2022-02-18T12:41:13.575673082Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -1525,6 +1525,20 @@
             {
               "SHA": "757f36a",
               "Subject": "Update uid generation (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "70336af",
+              "Subject": "Prepare for release v0.1.0 (#11)"
             }
           ]
         }

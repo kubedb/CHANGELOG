@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-28T22:44:44.874785039Z",
+  "release_date": "2022-03-28T23:03:46.538611417Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,28 @@
             {
               "SHA": "1bcca116",
               "Subject": "Fix GH security warnings (#872)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "d4689b7",
+              "Subject": "Update dependencies (#19)"
+            },
+            {
+              "SHA": "eedbddb",
+              "Subject": "Use Go 1.18 (#18)"
+            },
+            {
+              "SHA": "9d81774",
+              "Subject": "make fmt (#17)"
             }
           ]
         }

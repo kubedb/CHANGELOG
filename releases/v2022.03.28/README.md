@@ -14,3 +14,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.4.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.4.0)
+
+- [d4689b7](https://github.com/kubedb/mysql-router-init/commit/d4689b7) Update dependencies (#19)
+- [eedbddb](https://github.com/kubedb/mysql-router-init/commit/eedbddb) Use Go 1.18 (#18)
+- [9d81774](https://github.com/kubedb/mysql-router-init/commit/9d81774) make fmt (#17)
+
+
+

@@ -1,0 +1,44 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.03.28",
+  "release_date": "2022-03-28T22:44:44.874785039Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.03.28",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "3a3c03c0",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "8b0203db",
+              "Subject": "Use Go 1.18 (#877)"
+            },
+            {
+              "SHA": "890903bc",
+              "Subject": "Use Go 1.18 (#876)"
+            },
+            {
+              "SHA": "1a6317fe",
+              "Subject": "Revise KubeDB UI APIs (#874)"
+            },
+            {
+              "SHA": "a4fb0558",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#873)"
+            },
+            {
+              "SHA": "1bcca116",
+              "Subject": "Fix GH security warnings (#872)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

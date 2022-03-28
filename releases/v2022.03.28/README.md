@@ -14,6 +14,18 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.10.0](https://github.com/kubedb/mariadb/releases/tag/v0.10.0)
+
+- [122b15e0](https://github.com/kubedb/mariadb/commit/122b15e0) Prepare for release v0.10.0 (#143)
+- [fe6bf7ef](https://github.com/kubedb/mariadb/commit/fe6bf7ef) Update dependencies (#141)
+- [44bef045](https://github.com/kubedb/mariadb/commit/44bef045) Use Go 1.18 (#140)
+- [db9e7add](https://github.com/kubedb/mariadb/commit/db9e7add) Add URL on ClientConfig Spec of Appbinding (#122)
+- [d9fa0ef5](https://github.com/kubedb/mariadb/commit/d9fa0ef5) Cancel concurrent CI runs for same pr/commit (#137)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.4.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.4.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-28T23:03:55.38948768Z",
+  "release_date": "2022-03-28T23:08:31.972358713Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,36 @@
             {
               "SHA": "1bcca116",
               "Subject": "Fix GH security warnings (#872)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "122b15e0",
+              "Subject": "Prepare for release v0.10.0 (#143)"
+            },
+            {
+              "SHA": "fe6bf7ef",
+              "Subject": "Update dependencies (#141)"
+            },
+            {
+              "SHA": "44bef045",
+              "Subject": "Use Go 1.18 (#140)"
+            },
+            {
+              "SHA": "db9e7add",
+              "Subject": "Add URL on ClientConfig Spec of Appbinding (#122)"
+            },
+            {
+              "SHA": "d9fa0ef5",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#137)"
             }
           ]
         }

@@ -39,6 +39,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.19.0](https://github.com/kubedb/memcached/releases/tag/v0.19.0)
+
+- [c9719b95](https://github.com/kubedb/memcached/commit/c9719b95) Prepare for release v0.19.0 (#351)
+- [54052038](https://github.com/kubedb/memcached/commit/54052038) Update dependencies (#349)
+- [5cdc9943](https://github.com/kubedb/memcached/commit/5cdc9943) Use Go 1.18 (#348)
+- [522393e1](https://github.com/kubedb/memcached/commit/522393e1) Cancel concurrent CI runs for same pr/commit (#346)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.19.0](https://github.com/kubedb/mongodb/releases/tag/v0.19.0)

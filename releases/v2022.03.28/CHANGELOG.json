@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-28T23:09:49.998577667Z",
+  "release_date": "2022-03-28T23:10:01.282767641Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -121,6 +121,40 @@
             {
               "SHA": "9d81774",
               "Subject": "make fmt (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "9adf6283",
+              "Subject": "Prepare for release v0.13.0 (#191)"
+            },
+            {
+              "SHA": "3c1cdda5",
+              "Subject": "Update dependencies (#189)"
+            },
+            {
+              "SHA": "5a8297f3",
+              "Subject": "Update dependencies (#188)"
+            },
+            {
+              "SHA": "b361f5fa",
+              "Subject": "Use Go 1.18 (#187)"
+            },
+            {
+              "SHA": "f5eca52b",
+              "Subject": "Use Go 1.18 (#186)"
+            },
+            {
+              "SHA": "ce8409f5",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#185)"
             }
           ]
         }

@@ -49,6 +49,19 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.13.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.13.0)
+
+- [9adf6283](https://github.com/kubedb/replication-mode-detector/commit/9adf6283) Prepare for release v0.13.0 (#191)
+- [3c1cdda5](https://github.com/kubedb/replication-mode-detector/commit/3c1cdda5) Update dependencies (#189)
+- [5a8297f3](https://github.com/kubedb/replication-mode-detector/commit/5a8297f3) Update dependencies (#188)
+- [b361f5fa](https://github.com/kubedb/replication-mode-detector/commit/b361f5fa) Use Go 1.18 (#187)
+- [f5eca52b](https://github.com/kubedb/replication-mode-detector/commit/f5eca52b) Use Go 1.18 (#186)
+- [ce8409f5](https://github.com/kubedb/replication-mode-detector/commit/ce8409f5) Cancel concurrent CI runs for same pr/commit (#185)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.11.0](https://github.com/kubedb/tests/releases/tag/v0.11.0)

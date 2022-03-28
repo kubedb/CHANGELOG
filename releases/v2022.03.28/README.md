@@ -39,6 +39,18 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.19.0](https://github.com/kubedb/mongodb/releases/tag/v0.19.0)
+
+- [7f10dbbd](https://github.com/kubedb/mongodb/commit/7f10dbbd) Prepare for release v0.19.0 (#469)
+- [25737b62](https://github.com/kubedb/mongodb/commit/25737b62) Update dependencies (#467)
+- [fa61e31b](https://github.com/kubedb/mongodb/commit/fa61e31b) Remove forked go.mongodb.org/mongo-driver (#466)
+- [ee7cb5e0](https://github.com/kubedb/mongodb/commit/ee7cb5e0) Use Go 1.18 (#465)
+- [b4922308](https://github.com/kubedb/mongodb/commit/b4922308) Cancel concurrent CI runs for same pr/commit (#463)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.4.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.4.0)

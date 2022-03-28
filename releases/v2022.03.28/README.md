@@ -24,3 +24,14 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.11.0](https://github.com/kubedb/tests/releases/tag/v0.11.0)
+
+- [700325f4](https://github.com/kubedb/tests/commit/700325f4) Update dependencies (#175)
+- [e3489fd9](https://github.com/kubedb/tests/commit/e3489fd9) Use Go 1.18 (#173)
+- [56ecf3b2](https://github.com/kubedb/tests/commit/56ecf3b2) Use Go 1.18 (#171)
+- [a9008733](https://github.com/kubedb/tests/commit/a9008733) make fmt (#170)
+
+
+

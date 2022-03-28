@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-28T23:10:01.282767641Z",
+  "release_date": "2022-03-28T23:10:14.22397353Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -121,6 +121,32 @@
             {
               "SHA": "9d81774",
               "Subject": "make fmt (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "dfb0d0fa",
+              "Subject": "Prepare for release v0.13.0 (#255)"
+            },
+            {
+              "SHA": "82053ab2",
+              "Subject": "Update dependencies (#253)"
+            },
+            {
+              "SHA": "7627f703",
+              "Subject": "Use Go 1.18 (#251)"
+            },
+            {
+              "SHA": "98eb8513",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#250)"
             }
           ]
         }

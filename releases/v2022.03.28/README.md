@@ -49,6 +49,17 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.13.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.13.0)
+
+- [dfb0d0fa](https://github.com/kubedb/percona-xtradb/commit/dfb0d0fa) Prepare for release v0.13.0 (#255)
+- [82053ab2](https://github.com/kubedb/percona-xtradb/commit/82053ab2) Update dependencies (#253)
+- [7627f703](https://github.com/kubedb/percona-xtradb/commit/7627f703) Use Go 1.18 (#251)
+- [98eb8513](https://github.com/kubedb/percona-xtradb/commit/98eb8513) Cancel concurrent CI runs for same pr/commit (#250)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.13.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.13.0)

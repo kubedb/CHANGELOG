@@ -14,6 +14,19 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.26.0](https://github.com/kubedb/cli/releases/tag/v0.26.0)
+
+- [9df8f777](https://github.com/kubedb/cli/commit/9df8f777) Prepare for release v0.26.0 (#661)
+- [1c9535b7](https://github.com/kubedb/cli/commit/1c9535b7) Update dependencies (#659)
+- [d406d03c](https://github.com/kubedb/cli/commit/d406d03c) Update dependencies (#658)
+- [5da61dc0](https://github.com/kubedb/cli/commit/5da61dc0) Use Go 1.18 (#656)
+- [07350a91](https://github.com/kubedb/cli/commit/07350a91) Update dependencies (#657)
+- [3f690cbd](https://github.com/kubedb/cli/commit/3f690cbd) Cancel concurrent CI runs for same pr/commit (#655)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.10.0](https://github.com/kubedb/mariadb/releases/tag/v0.10.0)

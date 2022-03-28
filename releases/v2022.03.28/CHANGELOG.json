@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-28T23:08:31.972358713Z",
+  "release_date": "2022-03-28T23:09:49.998577667Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,40 @@
             {
               "SHA": "1bcca116",
               "Subject": "Fix GH security warnings (#872)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "9df8f777",
+              "Subject": "Prepare for release v0.26.0 (#661)"
+            },
+            {
+              "SHA": "1c9535b7",
+              "Subject": "Update dependencies (#659)"
+            },
+            {
+              "SHA": "d406d03c",
+              "Subject": "Update dependencies (#658)"
+            },
+            {
+              "SHA": "5da61dc0",
+              "Subject": "Use Go 1.18 (#656)"
+            },
+            {
+              "SHA": "07350a91",
+              "Subject": "Update dependencies (#657)"
+            },
+            {
+              "SHA": "3f690cbd",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#655)"
             }
           ]
         }

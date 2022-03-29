@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T03:12:59.518282148Z",
+  "release_date": "2022-03-29T03:39:39.453379283Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -323,6 +323,44 @@
             {
               "SHA": "9d81774",
               "Subject": "make fmt (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/operator",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "93adeabf",
+              "Subject": "Prepare for release v0.26.0 (#463)"
+            },
+            {
+              "SHA": "f27e41f5",
+              "Subject": "Update dependencies (#461)"
+            },
+            {
+              "SHA": "3e00bbce",
+              "Subject": "Update dependencies (#460)"
+            },
+            {
+              "SHA": "a600ffd7",
+              "Subject": "Use Go 1.18 (#459)"
+            },
+            {
+              "SHA": "81cdbb25",
+              "Subject": "Use Go 1.18 (#458)"
+            },
+            {
+              "SHA": "1a65782b",
+              "Subject": "Remove vendor folder"
+            },
+            {
+              "SHA": "e02bd5bd",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#457)"
             }
           ]
         }

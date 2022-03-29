@@ -131,6 +131,20 @@
 
 
 
+## [kubedb/operator](https://github.com/kubedb/operator)
+
+### [v0.26.0](https://github.com/kubedb/operator/releases/tag/v0.26.0)
+
+- [93adeabf](https://github.com/kubedb/operator/commit/93adeabf) Prepare for release v0.26.0 (#463)
+- [f27e41f5](https://github.com/kubedb/operator/commit/f27e41f5) Update dependencies (#461)
+- [3e00bbce](https://github.com/kubedb/operator/commit/3e00bbce) Update dependencies (#460)
+- [a600ffd7](https://github.com/kubedb/operator/commit/a600ffd7) Use Go 1.18 (#459)
+- [81cdbb25](https://github.com/kubedb/operator/commit/81cdbb25) Use Go 1.18 (#458)
+- [1a65782b](https://github.com/kubedb/operator/commit/1a65782b) Remove vendor folder
+- [e02bd5bd](https://github.com/kubedb/operator/commit/e02bd5bd) Cancel concurrent CI runs for same pr/commit (#457)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.13.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.13.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T03:11:48.085623687Z",
+  "release_date": "2022-03-29T03:12:59.518282148Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -543,6 +543,36 @@
             {
               "SHA": "ce8409f5",
               "Subject": "Cancel concurrent CI runs for same pr/commit (#185)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "5d16981",
+              "Subject": "Prepare for release v0.2.0 (#27)"
+            },
+            {
+              "SHA": "1b1a6b2",
+              "Subject": "Use Go 1.18 (#26)"
+            },
+            {
+              "SHA": "c8742d7",
+              "Subject": "Use Go 1.18 (#25)"
+            },
+            {
+              "SHA": "1f3aecb",
+              "Subject": "make fmt (#23)"
+            },
+            {
+              "SHA": "4940414",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#22)"
             }
           ]
         }

@@ -222,6 +222,18 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.2.0](https://github.com/kubedb/schema-manager/releases/tag/v0.2.0)
+
+- [5d16981](https://github.com/kubedb/schema-manager/commit/5d16981) Prepare for release v0.2.0 (#27)
+- [1b1a6b2](https://github.com/kubedb/schema-manager/commit/1b1a6b2) Use Go 1.18 (#26)
+- [c8742d7](https://github.com/kubedb/schema-manager/commit/c8742d7) Use Go 1.18 (#25)
+- [1f3aecb](https://github.com/kubedb/schema-manager/commit/1f3aecb) make fmt (#23)
+- [4940414](https://github.com/kubedb/schema-manager/commit/4940414) Cancel concurrent CI runs for same pr/commit (#22)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.11.0](https://github.com/kubedb/tests/releases/tag/v0.11.0)

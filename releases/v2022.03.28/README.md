@@ -75,6 +75,16 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2022.03.28](https://github.com/kubedb/installer/releases/tag/v2022.03.28)
+
+- [f0a666c6](https://github.com/kubedb/installer/commit/f0a666c6) Prepare for release v2022.03.28 (#473)
+- [97fb6dd1](https://github.com/kubedb/installer/commit/97fb6dd1) Update dependencies (#472)
+- [87429a6b](https://github.com/kubedb/installer/commit/87429a6b) Fix installer schema (#464)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.10.0](https://github.com/kubedb/mariadb/releases/tag/v0.10.0)

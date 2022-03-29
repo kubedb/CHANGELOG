@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T04:36:07.82769547Z",
+  "release_date": "2022-03-29T04:50:25.858345056Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -189,6 +189,28 @@
             {
               "SHA": "1fe69052",
               "Subject": "make fmt (#290)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.03.28",
+          "commits": [
+            {
+              "SHA": "f0a666c6",
+              "Subject": "Prepare for release v2022.03.28 (#473)"
+            },
+            {
+              "SHA": "97fb6dd1",
+              "Subject": "Update dependencies (#472)"
+            },
+            {
+              "SHA": "87429a6b",
+              "Subject": "Fix installer schema (#464)"
             }
           ]
         }

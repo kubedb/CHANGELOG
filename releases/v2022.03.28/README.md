@@ -129,6 +129,15 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.10.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.10.0)
+
+- [db28fcc](https://github.com/kubedb/pg-coordinator/commit/db28fcc) Prepare for release v0.10.0 (#72)
+- [fb2e657](https://github.com/kubedb/pg-coordinator/commit/fb2e657) Update dependencies (#71)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.26.0](https://github.com/kubedb/postgres/releases/tag/v0.26.0)

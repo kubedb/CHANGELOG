@@ -118,6 +118,17 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.26.0](https://github.com/kubedb/postgres/releases/tag/v0.26.0)
+
+- [5d9b463c](https://github.com/kubedb/postgres/commit/5d9b463c) Prepare for release v0.26.0 (#567)
+- [093f2f3e](https://github.com/kubedb/postgres/commit/093f2f3e) Update dependencies (#565)
+- [01f007b5](https://github.com/kubedb/postgres/commit/01f007b5) Use Go 1.18 (#564)
+- [1e30d894](https://github.com/kubedb/postgres/commit/1e30d894) Cancel concurrent CI runs for same pr/commit (#563)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.19.0](https://github.com/kubedb/redis/releases/tag/v0.19.0)

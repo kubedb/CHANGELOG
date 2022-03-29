@@ -233,3 +233,11 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.2.0](https://github.com/kubedb/ui-server/releases/tag/v0.2.0)
+
+- [2c30ccb](https://github.com/kubedb/ui-server/commit/2c30ccb) Prepare for release v0.2.0 (#33)
+
+
+

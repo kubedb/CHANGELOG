@@ -62,6 +62,18 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.4.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.4.0)
+
+- [002fa02](https://github.com/kubedb/mysql-coordinator/commit/002fa02) Prepare for release v0.4.0 (#34)
+- [9588c58](https://github.com/kubedb/mysql-coordinator/commit/9588c58) Update dependencies (#33)
+- [68519c0](https://github.com/kubedb/mysql-coordinator/commit/68519c0) Use Go 1.18 (#32)
+- [4051a5e](https://github.com/kubedb/mysql-coordinator/commit/4051a5e) Update dependencies (#31)
+- [0209ce9](https://github.com/kubedb/mysql-coordinator/commit/0209ce9) make fmt (#30)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.4.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.4.0)

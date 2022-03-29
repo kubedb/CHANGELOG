@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T02:45:31.087138173Z",
+  "release_date": "2022-03-29T02:45:35.6927179Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -155,6 +155,36 @@
             {
               "SHA": "b4922308",
               "Subject": "Cancel concurrent CI runs for same pr/commit (#463)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "002fa02",
+              "Subject": "Prepare for release v0.4.0 (#34)"
+            },
+            {
+              "SHA": "9588c58",
+              "Subject": "Update dependencies (#33)"
+            },
+            {
+              "SHA": "68519c0",
+              "Subject": "Use Go 1.18 (#32)"
+            },
+            {
+              "SHA": "4051a5e",
+              "Subject": "Update dependencies (#31)"
+            },
+            {
+              "SHA": "0209ce9",
+              "Subject": "make fmt (#30)"
             }
           ]
         }

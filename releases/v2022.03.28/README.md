@@ -290,3 +290,13 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.2.0](https://github.com/kubedb/webhook-server/releases/tag/v0.2.0)
+
+- [b9ed181](https://github.com/kubedb/webhook-server/commit/b9ed181) Prepare for release v0.2.0 (#16)
+- [26c615b](https://github.com/kubedb/webhook-server/commit/26c615b) Update dependencies (#15)
+- [5166b0b](https://github.com/kubedb/webhook-server/commit/5166b0b) Use Go 1.18 (#14)
+
+
+

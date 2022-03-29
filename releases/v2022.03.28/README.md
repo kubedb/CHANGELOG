@@ -1,4 +1,4 @@
-# KubeDB v2022.03.28 (2022-03-28)
+# KubeDB v2022.03.28 (2022-03-29)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -80,6 +80,17 @@
 - [82053ab2](https://github.com/kubedb/percona-xtradb/commit/82053ab2) Update dependencies (#253)
 - [7627f703](https://github.com/kubedb/percona-xtradb/commit/7627f703) Use Go 1.18 (#251)
 - [98eb8513](https://github.com/kubedb/percona-xtradb/commit/98eb8513) Cancel concurrent CI runs for same pr/commit (#250)
+
+
+
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.5.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.5.0)
+
+- [42df94b](https://github.com/kubedb/redis-coordinator/commit/42df94b) Prepare for release v0.5.0 (#29)
+- [4f0464e](https://github.com/kubedb/redis-coordinator/commit/4f0464e) Update dependencies (#28)
+- [5822a74](https://github.com/kubedb/redis-coordinator/commit/5822a74) Use Go 1.18 (#27)
+- [fdd5845](https://github.com/kubedb/redis-coordinator/commit/fdd5845) make fmt (#26)
 
 
 

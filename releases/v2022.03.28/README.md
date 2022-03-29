@@ -95,6 +95,18 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.19.0](https://github.com/kubedb/redis/releases/tag/v0.19.0)
+
+- [ad6eb9b4](https://github.com/kubedb/redis/commit/ad6eb9b4) Prepare for release v0.19.0 (#391)
+- [08798538](https://github.com/kubedb/redis/commit/08798538) Update dependencies (#390)
+- [960e7d38](https://github.com/kubedb/redis/commit/960e7d38) Use Go 1.18 (#389)
+- [2fefd9e2](https://github.com/kubedb/redis/commit/2fefd9e2) Cancel concurrent CI runs for same pr/commit (#388)
+- [8a8df15f](https://github.com/kubedb/redis/commit/8a8df15f) Make CreateConfigSecret public for ops-manager (#387)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.5.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.5.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T02:45:42.842674355Z",
+  "release_date": "2022-03-29T02:45:47.057718561Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -99,6 +99,32 @@
             {
               "SHA": "d9fa0ef5",
               "Subject": "Cancel concurrent CI runs for same pr/commit (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "7463ebd",
+              "Subject": "Prepare for release v0.6.0 (#40)"
+            },
+            {
+              "SHA": "5ac5014",
+              "Subject": "Update dependencies (#39)"
+            },
+            {
+              "SHA": "bf99143",
+              "Subject": "Use Go 1.18 (#38)"
+            },
+            {
+              "SHA": "e9d6432",
+              "Subject": "make fmt (#36)"
             }
           ]
         }

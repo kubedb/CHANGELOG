@@ -39,6 +39,17 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.6.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.6.0)
+
+- [7463ebd](https://github.com/kubedb/mariadb-coordinator/commit/7463ebd) Prepare for release v0.6.0 (#40)
+- [5ac5014](https://github.com/kubedb/mariadb-coordinator/commit/5ac5014) Update dependencies (#39)
+- [bf99143](https://github.com/kubedb/mariadb-coordinator/commit/bf99143) Use Go 1.18 (#38)
+- [e9d6432](https://github.com/kubedb/mariadb-coordinator/commit/e9d6432) make fmt (#36)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.19.0](https://github.com/kubedb/memcached/releases/tag/v0.19.0)

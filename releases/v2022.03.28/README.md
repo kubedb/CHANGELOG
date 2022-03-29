@@ -27,6 +27,18 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.26.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.26.0)
+
+- [f5712d4b](https://github.com/kubedb/elasticsearch/commit/f5712d4b) Prepare for release v0.26.0 (#572)
+- [b524d625](https://github.com/kubedb/elasticsearch/commit/b524d625) Update dependencies (#570)
+- [0803823b](https://github.com/kubedb/elasticsearch/commit/0803823b) Use Go 1.18 (#568)
+- [d01eeff9](https://github.com/kubedb/elasticsearch/commit/d01eeff9) Cancel concurrent CI runs for same pr/commit (#567)
+- [d1317ca8](https://github.com/kubedb/elasticsearch/commit/d1317ca8) Include Hot,Warm,Cold,Frozen,and Content node in health check (#566)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.10.0](https://github.com/kubedb/mariadb/releases/tag/v0.10.0)

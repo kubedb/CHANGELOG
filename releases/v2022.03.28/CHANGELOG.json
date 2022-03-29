@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T02:45:47.057718561Z",
+  "release_date": "2022-03-29T02:45:55.865873331Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -69,6 +69,36 @@
             {
               "SHA": "3f690cbd",
               "Subject": "Cancel concurrent CI runs for same pr/commit (#655)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "f5712d4b",
+              "Subject": "Prepare for release v0.26.0 (#572)"
+            },
+            {
+              "SHA": "b524d625",
+              "Subject": "Update dependencies (#570)"
+            },
+            {
+              "SHA": "0803823b",
+              "Subject": "Use Go 1.18 (#568)"
+            },
+            {
+              "SHA": "d01eeff9",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#567)"
+            },
+            {
+              "SHA": "d1317ca8",
+              "Subject": "Include Hot,Warm,Cold,Frozen,and Content node in health check (#566)"
             }
           ]
         }

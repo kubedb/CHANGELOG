@@ -85,6 +85,17 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.19.0](https://github.com/kubedb/mysql/releases/tag/v0.19.0)
+
+- [0ef8f9a4](https://github.com/kubedb/mysql/commit/0ef8f9a4) Prepare for release v0.19.0 (#461)
+- [bc50e8e9](https://github.com/kubedb/mysql/commit/bc50e8e9) Update dependencies (#459)
+- [7fc2588a](https://github.com/kubedb/mysql/commit/7fc2588a) Use Go 1.18 (#458)
+- [7d5f5cdf](https://github.com/kubedb/mysql/commit/7d5f5cdf) Cancel concurrent CI runs for same pr/commit (#456)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.4.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.4.0)

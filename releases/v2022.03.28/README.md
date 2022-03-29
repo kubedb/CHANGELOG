@@ -161,6 +161,18 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.13.0](https://github.com/kubedb/proxysql/releases/tag/v0.13.0)
+
+- [7ee0f89f](https://github.com/kubedb/proxysql/commit/7ee0f89f) Prepare for release v0.13.0 (#230)
+- [e0182abc](https://github.com/kubedb/proxysql/commit/e0182abc) Update dependencies (#228)
+- [55f9a0c6](https://github.com/kubedb/proxysql/commit/55f9a0c6) Use Go 1.18 (#227)
+- [544da591](https://github.com/kubedb/proxysql/commit/544da591) Add sample yamls for development (#226)
+- [afd09b88](https://github.com/kubedb/proxysql/commit/afd09b88) Cancel concurrent CI runs for same pr/commit (#225)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.19.0](https://github.com/kubedb/redis/releases/tag/v0.19.0)

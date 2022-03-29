@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T02:59:30.065522915Z",
+  "release_date": "2022-03-29T03:00:23.519078981Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -389,6 +389,36 @@
             {
               "SHA": "1e30d894",
               "Subject": "Cancel concurrent CI runs for same pr/commit (#563)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "7ee0f89f",
+              "Subject": "Prepare for release v0.13.0 (#230)"
+            },
+            {
+              "SHA": "e0182abc",
+              "Subject": "Update dependencies (#228)"
+            },
+            {
+              "SHA": "55f9a0c6",
+              "Subject": "Use Go 1.18 (#227)"
+            },
+            {
+              "SHA": "544da591",
+              "Subject": "Add sample yamls for development (#226)"
+            },
+            {
+              "SHA": "afd09b88",
+              "Subject": "Cancel concurrent CI runs for same pr/commit (#225)"
             }
           ]
         }

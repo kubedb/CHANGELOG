@@ -138,6 +138,18 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.13.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.13.0)
+
+- [814d0891](https://github.com/kubedb/pgbouncer/commit/814d0891) Prepare for release v0.13.0 (#215)
+- [1dc7c4fe](https://github.com/kubedb/pgbouncer/commit/1dc7c4fe) Update dependencies (#213)
+- [6e26e8c1](https://github.com/kubedb/pgbouncer/commit/6e26e8c1) Use Go 1.18 (#212)
+- [d3a209b7](https://github.com/kubedb/pgbouncer/commit/d3a209b7) Use Go 1.18 (#211)
+- [ded44f1f](https://github.com/kubedb/pgbouncer/commit/ded44f1f) Cancel concurrent CI runs for same pr/commit (#209)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.26.0](https://github.com/kubedb/postgres/releases/tag/v0.26.0)

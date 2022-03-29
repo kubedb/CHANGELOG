@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T04:50:25.858345056Z",
+  "release_date": "2022-03-29T05:34:14.555177412Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -133,6 +133,36 @@
             {
               "SHA": "205f5fa",
               "Subject": "Cancel concurrent CI runs for same pr/commit (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.03.28",
+          "commits": [
+            {
+              "SHA": "58a3b4e",
+              "Subject": "Prepare for release v2022.03.28 (#196)"
+            },
+            {
+              "SHA": "2b1d980",
+              "Subject": "Use Go 1.18 (#195)"
+            },
+            {
+              "SHA": "1aaf204",
+              "Subject": "Pause/Resume backup using Stash CLI (#178)"
+            },
+            {
+              "SHA": "23b1e6f",
+              "Subject": "make fmt (#194)"
+            },
+            {
+              "SHA": "6e304a3",
+              "Subject": "make fmt (#193)"
             }
           ]
         }

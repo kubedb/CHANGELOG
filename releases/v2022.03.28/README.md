@@ -52,6 +52,18 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2022.03.28](https://github.com/kubedb/docs/releases/tag/v2022.03.28)
+
+- [58a3b4e](https://github.com/kubedb/docs/commit/58a3b4e) Prepare for release v2022.03.28 (#196)
+- [2b1d980](https://github.com/kubedb/docs/commit/2b1d980) Use Go 1.18 (#195)
+- [1aaf204](https://github.com/kubedb/docs/commit/1aaf204) Pause/Resume backup using Stash CLI (#178)
+- [23b1e6f](https://github.com/kubedb/docs/commit/23b1e6f) make fmt (#194)
+- [6e304a3](https://github.com/kubedb/docs/commit/6e304a3) make fmt (#193)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.26.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.26.0)

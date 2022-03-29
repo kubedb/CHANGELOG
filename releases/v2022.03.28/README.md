@@ -52,6 +52,17 @@
 
 
 
+## [kubedb/enterprise](https://github.com/kubedb/enterprise)
+
+### [v0.13.0](https://github.com/kubedb/enterprise/releases/tag/v0.13.0)
+
+- [47203610](https://github.com/kubedb/enterprise/commit/47203610) Prepare for release v0.13.0 (#294)
+- [7b530123](https://github.com/kubedb/enterprise/commit/7b530123) Update dependencies (#293)
+- [0ba4949a](https://github.com/kubedb/enterprise/commit/0ba4949a) Use Go 1.18 (#292)
+- [1fe69052](https://github.com/kubedb/enterprise/commit/1fe69052) make fmt (#290)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.10.0](https://github.com/kubedb/mariadb/releases/tag/v0.10.0)

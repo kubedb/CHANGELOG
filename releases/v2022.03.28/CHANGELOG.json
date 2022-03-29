@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T03:39:39.453379283Z",
+  "release_date": "2022-03-29T03:50:29.090029904Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -133,6 +133,32 @@
             {
               "SHA": "d1317ca8",
               "Subject": "Include Hot,Warm,Cold,Frozen,and Content node in health check (#566)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/enterprise",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "47203610",
+              "Subject": "Prepare for release v0.13.0 (#294)"
+            },
+            {
+              "SHA": "7b530123",
+              "Subject": "Update dependencies (#293)"
+            },
+            {
+              "SHA": "0ba4949a",
+              "Subject": "Use Go 1.18 (#292)"
+            },
+            {
+              "SHA": "1fe69052",
+              "Subject": "make fmt (#290)"
             }
           ]
         }

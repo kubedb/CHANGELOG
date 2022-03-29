@@ -14,6 +14,18 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.11.0](https://github.com/kubedb/autoscaler/releases/tag/v0.11.0)
+
+- [465b5184](https://github.com/kubedb/autoscaler/commit/465b5184) Prepare for release v0.11.0 (#80)
+- [3648f032](https://github.com/kubedb/autoscaler/commit/3648f032) Prepare Go for private repos
+- [9acbe1db](https://github.com/kubedb/autoscaler/commit/9acbe1db) Update dependencies (#79)
+- [aa737abc](https://github.com/kubedb/autoscaler/commit/aa737abc) Use Go 1.18 (#77)
+- [72ef8b7f](https://github.com/kubedb/autoscaler/commit/72ef8b7f) make fmt (#76)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.26.0](https://github.com/kubedb/cli/releases/tag/v0.26.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T03:50:29.090029904Z",
+  "release_date": "2022-03-29T04:09:26.850401165Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,36 @@
             {
               "SHA": "1bcca116",
               "Subject": "Fix GH security warnings (#872)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "465b5184",
+              "Subject": "Prepare for release v0.11.0 (#80)"
+            },
+            {
+              "SHA": "3648f032",
+              "Subject": "Prepare Go for private repos"
+            },
+            {
+              "SHA": "9acbe1db",
+              "Subject": "Update dependencies (#79)"
+            },
+            {
+              "SHA": "aa737abc",
+              "Subject": "Use Go 1.18 (#77)"
+            },
+            {
+              "SHA": "72ef8b7f",
+              "Subject": "make fmt (#76)"
             }
           ]
         }

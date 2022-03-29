@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.03.28",
-  "release_date": "2022-03-29T05:34:14.555177412Z",
+  "release_date": "2022-03-29T05:38:10.720239673Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.03.28",
   "kubernetes_version": "1.16+",
@@ -65,6 +65,24 @@
             {
               "SHA": "72ef8b7f",
               "Subject": "make fmt (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.03.28",
+          "commits": [
+            {
+              "SHA": "0bb0ce0",
+              "Subject": "Prepare for release v2022.03.28 (#45)"
+            },
+            {
+              "SHA": "d293e3e",
+              "Subject": "Use Go 1.18 (#44)"
             }
           ]
         }

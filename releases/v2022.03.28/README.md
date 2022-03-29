@@ -27,6 +27,19 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.2.0](https://github.com/kubedb/dashboard/releases/tag/v0.2.0)
+
+- [2835cca](https://github.com/kubedb/dashboard/commit/2835cca) Prepare for release v0.2.0 (#23)
+- [d617285](https://github.com/kubedb/dashboard/commit/d617285) Update dependencies (#21)
+- [24fa106](https://github.com/kubedb/dashboard/commit/24fa106) Update dependencies (#20)
+- [3b7474e](https://github.com/kubedb/dashboard/commit/3b7474e) Use Go 1.18 (#19)
+- [be57ba3](https://github.com/kubedb/dashboard/commit/be57ba3) Use Go 1.18 (#18)
+- [205f5fa](https://github.com/kubedb/dashboard/commit/205f5fa) Cancel concurrent CI runs for same pr/commit (#16)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.26.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.26.0)

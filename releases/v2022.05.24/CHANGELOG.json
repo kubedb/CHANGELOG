@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T05:22:26.111086081Z",
+  "release_date": "2022-05-20T05:22:41.821911907Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -187,6 +187,32 @@
             {
               "SHA": "20d90c6",
               "Subject": "Update dependencies(nats client, mongo-driver) (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "439a9398",
+              "Subject": "Prepare for release v0.20.0 (#355)"
+            },
+            {
+              "SHA": "73606c44",
+              "Subject": "Update dependencies (#354)"
+            },
+            {
+              "SHA": "75cd9209",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#353)"
+            },
+            {
+              "SHA": "2b996ad8",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#352)"
             }
           ]
         }

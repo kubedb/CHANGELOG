@@ -70,6 +70,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.20.0](https://github.com/kubedb/memcached/releases/tag/v0.20.0)
+
+- [439a9398](https://github.com/kubedb/memcached/commit/439a9398) Prepare for release v0.20.0 (#355)
+- [73606c44](https://github.com/kubedb/memcached/commit/73606c44) Update dependencies (#354)
+- [75cd9209](https://github.com/kubedb/memcached/commit/75cd9209) Update dependencies(nats client, mongo-driver) (#353)
+- [2b996ad8](https://github.com/kubedb/memcached/commit/2b996ad8) Cleanup PodDisruptionBudget when the replica count is one or less (#352)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.20.0](https://github.com/kubedb/mongodb/releases/tag/v0.20.0)

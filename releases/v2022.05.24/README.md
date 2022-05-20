@@ -111,6 +111,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.5.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.5.0)
+
+- [b30fd8e](https://github.com/kubedb/mysql-router-init/commit/b30fd8e) Update dependencies (#20)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.14.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.14.0)

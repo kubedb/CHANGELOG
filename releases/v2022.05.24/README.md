@@ -50,6 +50,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.14.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.14.0)
+
+- [83f74c17](https://github.com/kubedb/percona-xtradb/commit/83f74c17) Prepare for release v0.14.0 (#258)
+- [bfae8113](https://github.com/kubedb/percona-xtradb/commit/bfae8113) Update dependencies (#257)
+- [bcc010f8](https://github.com/kubedb/percona-xtradb/commit/bcc010f8) Update dependencies(nats client, mongo-driver) (#256)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.20.0](https://github.com/kubedb/redis/releases/tag/v0.20.0)

@@ -85,6 +85,18 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.11.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.11.0)
+
+- [373a83e](https://github.com/kubedb/pg-coordinator/commit/373a83e) Prepare for release v0.11.0 (#80)
+- [254c361](https://github.com/kubedb/pg-coordinator/commit/254c361) Update dependencies (#79)
+- [7f6a6c0](https://github.com/kubedb/pg-coordinator/commit/7f6a6c0) Add Raft Metrics And graceful shutdown of Postgres (#74)
+- [c1a5b53](https://github.com/kubedb/pg-coordinator/commit/c1a5b53) Update dependencies(nats client, mongo-driver) (#78)
+- [b6da859](https://github.com/kubedb/pg-coordinator/commit/b6da859) Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#73)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.20.0](https://github.com/kubedb/redis/releases/tag/v0.20.0)

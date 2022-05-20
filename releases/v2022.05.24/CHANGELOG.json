@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T05:21:27.716267833Z",
+  "release_date": "2022-05-20T05:21:50.494493495Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -229,6 +229,36 @@
             {
               "SHA": "bcc010f8",
               "Subject": "Update dependencies(nats client, mongo-driver) (#256)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "373a83e",
+              "Subject": "Prepare for release v0.11.0 (#80)"
+            },
+            {
+              "SHA": "254c361",
+              "Subject": "Update dependencies (#79)"
+            },
+            {
+              "SHA": "7f6a6c0",
+              "Subject": "Add Raft Metrics And graceful shutdown of Postgres (#74)"
+            },
+            {
+              "SHA": "c1a5b53",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#78)"
+            },
+            {
+              "SHA": "b6da859",
+              "Subject": "Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#73)"
             }
           ]
         }

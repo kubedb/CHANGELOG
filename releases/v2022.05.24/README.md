@@ -154,6 +154,18 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.14.0](https://github.com/kubedb/proxysql/releases/tag/v0.14.0)
+
+- [283f3bf3](https://github.com/kubedb/proxysql/commit/283f3bf3) Prepare for release v0.14.0 (#235)
+- [05e4b5dc](https://github.com/kubedb/proxysql/commit/05e4b5dc) Update dependencies (#234)
+- [81b98c09](https://github.com/kubedb/proxysql/commit/81b98c09) Fix phase and condition update for ProxySQL (#233)
+- [c0561e90](https://github.com/kubedb/proxysql/commit/c0561e90) Add support for ProxySQL clustering and TLS (#231)
+- [df6b4688](https://github.com/kubedb/proxysql/commit/df6b4688) Update dependencies(nats client, mongo-driver) (#232)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.20.0](https://github.com/kubedb/redis/releases/tag/v0.20.0)

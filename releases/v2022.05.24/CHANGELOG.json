@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T05:23:12.708687604Z",
+  "release_date": "2022-05-20T05:36:53.511187578Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -397,6 +397,36 @@
             {
               "SHA": "44e929d8",
               "Subject": "Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#568)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "283f3bf3",
+              "Subject": "Prepare for release v0.14.0 (#235)"
+            },
+            {
+              "SHA": "05e4b5dc",
+              "Subject": "Update dependencies (#234)"
+            },
+            {
+              "SHA": "81b98c09",
+              "Subject": "Fix phase and condition update for ProxySQL (#233)"
+            },
+            {
+              "SHA": "c0561e90",
+              "Subject": "Add support for ProxySQL clustering and TLS (#231)"
+            },
+            {
+              "SHA": "df6b4688",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#232)"
             }
           ]
         }

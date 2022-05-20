@@ -167,6 +167,16 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.27.0](https://github.com/kubedb/provisioner/releases/tag/v0.27.0)
+
+- [1a87a7e7](https://github.com/kubedb/provisioner/commit/1a87a7e7) Prepare for release v0.27.0 (#2)
+- [53226f1d](https://github.com/kubedb/provisioner/commit/53226f1d) Rename to provisioner module (#1)
+- [ae8196d3](https://github.com/kubedb/provisioner/commit/ae8196d3) Update dependencies(nats client, mongo-driver) (#465)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.14.0](https://github.com/kubedb/proxysql/releases/tag/v0.14.0)

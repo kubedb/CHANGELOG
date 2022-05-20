@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T05:43:03.955595103Z",
+  "release_date": "2022-05-20T05:58:40.2636296Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -431,6 +431,28 @@
             {
               "SHA": "44e929d8",
               "Subject": "Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#568)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "1a87a7e7",
+              "Subject": "Prepare for release v0.27.0 (#2)"
+            },
+            {
+              "SHA": "53226f1d",
+              "Subject": "Rename to provisioner module (#1)"
+            },
+            {
+              "SHA": "ae8196d3",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#465)"
             }
           ]
         }

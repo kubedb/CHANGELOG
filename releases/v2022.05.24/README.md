@@ -131,6 +131,29 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.14.0](https://github.com/kubedb/ops-manager/releases/tag/v0.14.0)
+
+- [2727742d](https://github.com/kubedb/ops-manager/commit/2727742d) Prepare for release v0.14.0 (#310)
+- [8964e523](https://github.com/kubedb/ops-manager/commit/8964e523) Fix: Redis shard node deletion issue for Horizontal scaling (#304)
+- [63ac74e1](https://github.com/kubedb/ops-manager/commit/63ac74e1) Fix product name
+- [8e5a457d](https://github.com/kubedb/ops-manager/commit/8e5a457d) Rename to ops-manager package (#309)
+- [36a71aa0](https://github.com/kubedb/ops-manager/commit/36a71aa0) Update dependencies (#307) (#308)
+- [e0c10f1f](https://github.com/kubedb/ops-manager/commit/e0c10f1f) Update dependencies (#307)
+- [d0b2d531](https://github.com/kubedb/ops-manager/commit/d0b2d531) Fix mongodb shard scale down (#306)
+- [a65f70f9](https://github.com/kubedb/ops-manager/commit/a65f70f9) update replication user updating condition (#305)
+- [88027506](https://github.com/kubedb/ops-manager/commit/88027506) Update Replication User Password (#300)
+- [e1b525cb](https://github.com/kubedb/ops-manager/commit/e1b525cb) Use updated commit-hash (#303)
+- [4dc359b4](https://github.com/kubedb/ops-manager/commit/4dc359b4) Ensure right master count when scaling down Redis Shard Cluster
+- [c3bed80c](https://github.com/kubedb/ops-manager/commit/c3bed80c) Add ProxySQL TLS support (#302)
+- [b8e2c085](https://github.com/kubedb/ops-manager/commit/b8e2c085) Add arbiter-support for mongodb (#291)
+- [20a24475](https://github.com/kubedb/ops-manager/commit/20a24475) Update dependencies(nats client, mongo-driver) (#298)
+- [0da84955](https://github.com/kubedb/ops-manager/commit/0da84955) Fix horizontal scaling to support Redis Shard Dynamic Failover (#297)
+- [8d6d42a2](https://github.com/kubedb/ops-manager/commit/8d6d42a2) Add PgBouncer TLS Support (#295)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.14.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.14.0)

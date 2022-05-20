@@ -26,6 +26,18 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.27.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.27.0)
+
+- [ba7dee10](https://github.com/kubedb/elasticsearch/commit/ba7dee10) Prepare for release v0.27.0 (#577)
+- [cfdb4d21](https://github.com/kubedb/elasticsearch/commit/cfdb4d21) Update dependencies (#576)
+- [d24dfadc](https://github.com/kubedb/elasticsearch/commit/d24dfadc) Add support for ElasticStack Built-In  Users (#574)
+- [cdb4d974](https://github.com/kubedb/elasticsearch/commit/cdb4d974) Update dependencies(nats client, mongo-driver) (#575)
+- [865d0703](https://github.com/kubedb/elasticsearch/commit/865d0703) Add support for Elasticsearch 8 (#573)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.11.0](https://github.com/kubedb/mariadb/releases/tag/v0.11.0)

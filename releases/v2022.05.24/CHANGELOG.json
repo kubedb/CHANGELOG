@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T04:42:10.556488627Z",
+  "release_date": "2022-05-20T05:08:14.095095896Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -83,6 +83,36 @@
             {
               "SHA": "24eadd87",
               "Subject": "Use Go 1.18 (#879)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "b2fd680d",
+              "Subject": "Prepare for release v0.11.0 (#147)"
+            },
+            {
+              "SHA": "39ac8190",
+              "Subject": "Update dependencies (#146)"
+            },
+            {
+              "SHA": "f081a5ee",
+              "Subject": "Update MariaDB conditions on health check (#138)"
+            },
+            {
+              "SHA": "385f270d",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#145)"
+            },
+            {
+              "SHA": "6879d6a6",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#144)"
             }
           ]
         }

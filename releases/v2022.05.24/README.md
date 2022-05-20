@@ -26,3 +26,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.11.0](https://github.com/kubedb/mariadb/releases/tag/v0.11.0)
+
+- [b2fd680d](https://github.com/kubedb/mariadb/commit/b2fd680d) Prepare for release v0.11.0 (#147)
+- [39ac8190](https://github.com/kubedb/mariadb/commit/39ac8190) Update dependencies (#146)
+- [f081a5ee](https://github.com/kubedb/mariadb/commit/f081a5ee) Update MariaDB conditions on health check (#138)
+- [385f270d](https://github.com/kubedb/mariadb/commit/385f270d) Update dependencies(nats client, mongo-driver) (#145)
+- [6879d6a6](https://github.com/kubedb/mariadb/commit/6879d6a6) Cleanup PodDisruptionBudget when the replica count is one or less (#144)
+
+
+

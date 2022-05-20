@@ -141,6 +141,19 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.14.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.14.0)
+
+- [8bb55234](https://github.com/kubedb/pgbouncer/commit/8bb55234) Prepare for release v0.14.0 (#221)
+- [ca8efd9a](https://github.com/kubedb/pgbouncer/commit/ca8efd9a) Update dependencies (#220)
+- [8122b2c7](https://github.com/kubedb/pgbouncer/commit/8122b2c7) Update dependencies(nats client, mongo-driver) (#218)
+- [431839ee](https://github.com/kubedb/pgbouncer/commit/431839ee) Update exporter container to support TLS enabled PgBouncer (#217)
+- [766ece71](https://github.com/kubedb/pgbouncer/commit/766ece71) Fix TLS and Config Related Issues, Add health Check (#210)
+- [76ebe1ec](https://github.com/kubedb/pgbouncer/commit/76ebe1ec) Cleanup PodDisruptionBudget when the replica count is one or less (#216)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.27.0](https://github.com/kubedb/postgres/releases/tag/v0.27.0)

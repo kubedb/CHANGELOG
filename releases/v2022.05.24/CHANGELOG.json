@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T05:08:14.095095896Z",
+  "release_date": "2022-05-20T05:08:23.381099743Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -113,6 +113,40 @@
             {
               "SHA": "6879d6a6",
               "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#144)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "3dcfc3c7",
+              "Subject": "Prepare for release v0.20.0 (#397)"
+            },
+            {
+              "SHA": "ac65b0b3",
+              "Subject": "Update dependencies (#396)"
+            },
+            {
+              "SHA": "177c0329",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#395)"
+            },
+            {
+              "SHA": "6bf1db27",
+              "Subject": "Redis Shard Cluster Dynamic Failover (#393)"
+            },
+            {
+              "SHA": "4fa76436",
+              "Subject": "Refactor StatefulSet ENVs for Redis (#394)"
+            },
+            {
+              "SHA": "b12bfef9",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#392)"
             }
           ]
         }

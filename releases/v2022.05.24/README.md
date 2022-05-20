@@ -38,3 +38,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.20.0](https://github.com/kubedb/redis/releases/tag/v0.20.0)
+
+- [3dcfc3c7](https://github.com/kubedb/redis/commit/3dcfc3c7) Prepare for release v0.20.0 (#397)
+- [ac65b0b3](https://github.com/kubedb/redis/commit/ac65b0b3) Update dependencies (#396)
+- [177c0329](https://github.com/kubedb/redis/commit/177c0329) Update dependencies(nats client, mongo-driver) (#395)
+- [6bf1db27](https://github.com/kubedb/redis/commit/6bf1db27) Redis Shard Cluster Dynamic Failover (#393)
+- [4fa76436](https://github.com/kubedb/redis/commit/4fa76436) Refactor StatefulSet ENVs for Redis (#394)
+- [b12bfef9](https://github.com/kubedb/redis/commit/b12bfef9) Cleanup PodDisruptionBudget when the replica count is one or less (#392)
+
+
+

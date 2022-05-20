@@ -50,6 +50,21 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.20.0](https://github.com/kubedb/mongodb/releases/tag/v0.20.0)
+
+- [85063ec7](https://github.com/kubedb/mongodb/commit/85063ec7) Prepare for release v0.20.0 (#477)
+- [ab3a33f7](https://github.com/kubedb/mongodb/commit/ab3a33f7) Update dependencies (#476)
+- [275fbdc4](https://github.com/kubedb/mongodb/commit/275fbdc4) Fix shard database write check (#475)
+- [643c958c](https://github.com/kubedb/mongodb/commit/643c958c) Use updated commit-hash (#474)
+- [8ba58693](https://github.com/kubedb/mongodb/commit/8ba58693) Add arbiter support (#470)
+- [a8ecbc33](https://github.com/kubedb/mongodb/commit/a8ecbc33) Update dependencies(nats client, mongo-driver) (#472)
+- [3073bbec](https://github.com/kubedb/mongodb/commit/3073bbec) Cleanup PodDisruptionBudget when the replica count is one or less (#471)
+- [e7c146cb](https://github.com/kubedb/mongodb/commit/e7c146cb) Refactor statefulset-related files (#449)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.14.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.14.0)

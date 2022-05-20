@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T05:21:11.836956386Z",
+  "release_date": "2022-05-20T05:21:19.439416024Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -143,6 +143,48 @@
             {
               "SHA": "6879d6a6",
               "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#144)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "85063ec7",
+              "Subject": "Prepare for release v0.20.0 (#477)"
+            },
+            {
+              "SHA": "ab3a33f7",
+              "Subject": "Update dependencies (#476)"
+            },
+            {
+              "SHA": "275fbdc4",
+              "Subject": "Fix shard database write check (#475)"
+            },
+            {
+              "SHA": "643c958c",
+              "Subject": "Use updated commit-hash (#474)"
+            },
+            {
+              "SHA": "8ba58693",
+              "Subject": "Add arbiter support (#470)"
+            },
+            {
+              "SHA": "a8ecbc33",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#472)"
+            },
+            {
+              "SHA": "3073bbec",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#471)"
+            },
+            {
+              "SHA": "e7c146cb",
+              "Subject": "Refactor statefulset-related files (#449)"
             }
           ]
         }

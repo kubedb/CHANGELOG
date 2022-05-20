@@ -36,6 +36,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2022.05.24](https://github.com/kubedb/bundles/releases/tag/v2022.05.24)
+
+- [22264dc](https://github.com/kubedb/bundles/commit/22264dc) Prepare for release v2022.05.24 (#46)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.27.0](https://github.com/kubedb/cli/releases/tag/v0.27.0)

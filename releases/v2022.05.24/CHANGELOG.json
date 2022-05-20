@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T08:57:45.549194517Z",
+  "release_date": "2022-05-20T09:29:44.830616395Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -105,6 +105,20 @@
             {
               "SHA": "8fb60ad6",
               "Subject": "Update dependencies(nats client, mongo-driver) (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.05.24",
+          "commits": [
+            {
+              "SHA": "22264dc",
+              "Subject": "Prepare for release v2022.05.24 (#46)"
             }
           ]
         }

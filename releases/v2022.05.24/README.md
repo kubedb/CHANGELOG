@@ -75,6 +75,21 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.20.0](https://github.com/kubedb/mysql/releases/tag/v0.20.0)
+
+- [988eab76](https://github.com/kubedb/mysql/commit/988eab76) Prepare for release v0.20.0 (#470)
+- [47c7e612](https://github.com/kubedb/mysql/commit/47c7e612) Update dependencies (#469)
+- [a972735f](https://github.com/kubedb/mysql/commit/a972735f) Pass `--set-gtid-purged=OFF` to app binding for stash (#468)
+- [a4f2e6a5](https://github.com/kubedb/mysql/commit/a4f2e6a5) Add Raft Server ports for MySQL Semi-sync (#467)
+- [b9a3c322](https://github.com/kubedb/mysql/commit/b9a3c322) Add Support for Semi-sync cluster (#464)
+- [2d7a0080](https://github.com/kubedb/mysql/commit/2d7a0080) Update dependencies(nats client, mongo-driver) (#466)
+- [684d553a](https://github.com/kubedb/mysql/commit/684d553a) Cleanup PodDisruptionBudget when the replica count is one or less (#462)
+- [5caa331a](https://github.com/kubedb/mysql/commit/5caa331a) Patch existing Auth secret to db ojbect (#463)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.14.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.14.0)

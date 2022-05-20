@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T05:21:23.538324171Z",
+  "release_date": "2022-05-20T05:21:27.716267833Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -263,6 +263,32 @@
             {
               "SHA": "b12bfef9",
               "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#392)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "fb4f029",
+              "Subject": "Prepare for release v0.6.0 (#33)"
+            },
+            {
+              "SHA": "69cc834",
+              "Subject": "Update dependencies (#32)"
+            },
+            {
+              "SHA": "9c1cbd9",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#31)"
+            },
+            {
+              "SHA": "33baab6",
+              "Subject": "Update Env Variables (#30)"
             }
           ]
         }

@@ -98,6 +98,17 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.6.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.6.0)
+
+- [fb4f029](https://github.com/kubedb/redis-coordinator/commit/fb4f029) Prepare for release v0.6.0 (#33)
+- [69cc834](https://github.com/kubedb/redis-coordinator/commit/69cc834) Update dependencies (#32)
+- [9c1cbd9](https://github.com/kubedb/redis-coordinator/commit/9c1cbd9) Update dependencies(nats client, mongo-driver) (#31)
+- [33baab6](https://github.com/kubedb/redis-coordinator/commit/33baab6) Update Env Variables (#30)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.14.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.14.0)

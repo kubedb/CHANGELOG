@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T07:49:09.59710162Z",
+  "release_date": "2022-05-20T08:57:45.549194517Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -157,6 +157,36 @@
             {
               "SHA": "7d6c3ec",
               "Subject": "Add support for Opensearch_Dashboards (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.05.24",
+          "commits": [
+            {
+              "SHA": "feacfce",
+              "Subject": "Prepare for release v2022.05.24 (#469)"
+            },
+            {
+              "SHA": "b1c4cc5",
+              "Subject": "Update PgBouncer & ProxySQL versions (#468)"
+            },
+            {
+              "SHA": "0e64a11",
+              "Subject": "Change front matter keys for provisioner & ops-manager (#467)"
+            },
+            {
+              "SHA": "b751255",
+              "Subject": "Fix db name"
+            },
+            {
+              "SHA": "a7776b1",
+              "Subject": "Add mongoDB arbiter (#198)"
             }
           ]
         }

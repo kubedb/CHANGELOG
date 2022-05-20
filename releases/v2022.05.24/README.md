@@ -58,6 +58,18 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2022.05.24](https://github.com/kubedb/docs/releases/tag/v2022.05.24)
+
+- [feacfce](https://github.com/kubedb/docs/commit/feacfce) Prepare for release v2022.05.24 (#469)
+- [b1c4cc5](https://github.com/kubedb/docs/commit/b1c4cc5) Update PgBouncer & ProxySQL versions (#468)
+- [0e64a11](https://github.com/kubedb/docs/commit/0e64a11) Change front matter keys for provisioner & ops-manager (#467)
+- [b751255](https://github.com/kubedb/docs/commit/b751255) Fix db name
+- [a7776b1](https://github.com/kubedb/docs/commit/a7776b1) Add mongoDB arbiter (#198)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.27.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.27.0)

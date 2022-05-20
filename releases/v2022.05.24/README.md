@@ -213,6 +213,16 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.3.0](https://github.com/kubedb/schema-manager/releases/tag/v0.3.0)
+
+- [e98aaec](https://github.com/kubedb/schema-manager/commit/e98aaec) Prepare for release v0.3.0 (#29)
+- [99ca0f7](https://github.com/kubedb/schema-manager/commit/99ca0f7) Fix sharded-mongo restore issue; Use typed doubleOptIn funcs (#28)
+- [2a23c38](https://github.com/kubedb/schema-manager/commit/2a23c38) Add support for MariaDB database schema manager (#24)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.12.0](https://github.com/kubedb/tests/releases/tag/v0.12.0)

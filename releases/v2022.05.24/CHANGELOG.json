@@ -1,0 +1,833 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.05.24",
+  "release_date": "2022-05-20T09:29:44.830616395Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.05.24",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "3634eb14",
+              "Subject": "Add `HealthCheckPaused` condition and `Unknown` phase (#898)"
+            },
+            {
+              "SHA": "a3a3b1df",
+              "Subject": "Add Raft metrics port as constants (#896)"
+            },
+            {
+              "SHA": "6f9afd91",
+              "Subject": "Add support for MySQL semi-sync cluster (#890)"
+            },
+            {
+              "SHA": "bf17bf6d",
+              "Subject": "Add constants for Kibana 8 (#894)"
+            },
+            {
+              "SHA": "a8461374",
+              "Subject": "Add method and constants for proxysql (#893)"
+            },
+            {
+              "SHA": "a57c9577",
+              "Subject": "Add doubleOptIn funcs & shortnames for schema-manager (#889)"
+            },
+            {
+              "SHA": "af6f51f3",
+              "Subject": "Add constants and helpers for ES Internal Users (#886)"
+            },
+            {
+              "SHA": "74c4fc13",
+              "Subject": "Fix typo (#888)"
+            },
+            {
+              "SHA": "023a7988",
+              "Subject": "Update ProxySQL types and helpers (#883)"
+            },
+            {
+              "SHA": "29217d17",
+              "Subject": "Fix pgbouncer Version Spec"
+            },
+            {
+              "SHA": "3b994342",
+              "Subject": "Add support for mariadbdatabase with webhook (#858)"
+            },
+            {
+              "SHA": "4be4a876",
+              "Subject": "Add spec for MongoDB arbiter support (#862)"
+            },
+            {
+              "SHA": "36e97b5a",
+              "Subject": "Add TopologySpreadConstraints (#885)"
+            },
+            {
+              "SHA": "27c7483d",
+              "Subject": "Add SyncStatefulSetPodDisruptionBudget helper method (#884)"
+            },
+            {
+              "SHA": "0e635b9f",
+              "Subject": "Make ClusterHealth inline in ES insight (#881)"
+            },
+            {
+              "SHA": "761d8ca3",
+              "Subject": "fix: update Postgres shared buffer func (#880)"
+            },
+            {
+              "SHA": "8579cef3",
+              "Subject": "Add Support for Opensearch Dashboards (#878)"
+            },
+            {
+              "SHA": "24eadd87",
+              "Subject": "Use Go 1.18 (#879)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "7cb69fae",
+              "Subject": "Prepare for release v0.12.0 (#84)"
+            },
+            {
+              "SHA": "0dd28106",
+              "Subject": "Update dependencies (#83)"
+            },
+            {
+              "SHA": "8fb60ad6",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.05.24",
+          "commits": [
+            {
+              "SHA": "22264dc",
+              "Subject": "Prepare for release v2022.05.24 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "01318a20",
+              "Subject": "Prepare for release v0.27.0 (#664)"
+            },
+            {
+              "SHA": "6d399a31",
+              "Subject": "Update dependencies (#663)"
+            },
+            {
+              "SHA": "3e9a658f",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#662)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "454bf6a",
+              "Subject": "Prepare for release v0.3.0 (#27)"
+            },
+            {
+              "SHA": "872bbd9",
+              "Subject": "Update dependencies (#26)"
+            },
+            {
+              "SHA": "6cafd62",
+              "Subject": "Add support for Kibana 8 (#25)"
+            },
+            {
+              "SHA": "273d034",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#24)"
+            },
+            {
+              "SHA": "7d6c3ec",
+              "Subject": "Add support for Opensearch_Dashboards (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.05.24",
+          "commits": [
+            {
+              "SHA": "feacfce",
+              "Subject": "Prepare for release v2022.05.24 (#469)"
+            },
+            {
+              "SHA": "b1c4cc5",
+              "Subject": "Update PgBouncer & ProxySQL versions (#468)"
+            },
+            {
+              "SHA": "0e64a11",
+              "Subject": "Change front matter keys for provisioner & ops-manager (#467)"
+            },
+            {
+              "SHA": "b751255",
+              "Subject": "Fix db name"
+            },
+            {
+              "SHA": "a7776b1",
+              "Subject": "Add mongoDB arbiter (#198)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "ba7dee10",
+              "Subject": "Prepare for release v0.27.0 (#577)"
+            },
+            {
+              "SHA": "cfdb4d21",
+              "Subject": "Update dependencies (#576)"
+            },
+            {
+              "SHA": "d24dfadc",
+              "Subject": "Add support for ElasticStack Built-In  Users (#574)"
+            },
+            {
+              "SHA": "cdb4d974",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#575)"
+            },
+            {
+              "SHA": "865d0703",
+              "Subject": "Add support for Elasticsearch 8 (#573)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.05.24",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "b2fd680d",
+              "Subject": "Prepare for release v0.11.0 (#147)"
+            },
+            {
+              "SHA": "39ac8190",
+              "Subject": "Update dependencies (#146)"
+            },
+            {
+              "SHA": "f081a5ee",
+              "Subject": "Update MariaDB conditions on health check (#138)"
+            },
+            {
+              "SHA": "385f270d",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#145)"
+            },
+            {
+              "SHA": "6879d6a6",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#144)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "23da6cd",
+              "Subject": "Prepare for release v0.7.0 (#43)"
+            },
+            {
+              "SHA": "e1fca00",
+              "Subject": "Update dependencies (#42)"
+            },
+            {
+              "SHA": "20d90c6",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "439a9398",
+              "Subject": "Prepare for release v0.20.0 (#355)"
+            },
+            {
+              "SHA": "73606c44",
+              "Subject": "Update dependencies (#354)"
+            },
+            {
+              "SHA": "75cd9209",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#353)"
+            },
+            {
+              "SHA": "2b996ad8",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#352)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "85063ec7",
+              "Subject": "Prepare for release v0.20.0 (#477)"
+            },
+            {
+              "SHA": "ab3a33f7",
+              "Subject": "Update dependencies (#476)"
+            },
+            {
+              "SHA": "275fbdc4",
+              "Subject": "Fix shard database write check (#475)"
+            },
+            {
+              "SHA": "643c958c",
+              "Subject": "Use updated commit-hash (#474)"
+            },
+            {
+              "SHA": "8ba58693",
+              "Subject": "Add arbiter support (#470)"
+            },
+            {
+              "SHA": "a8ecbc33",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#472)"
+            },
+            {
+              "SHA": "3073bbec",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#471)"
+            },
+            {
+              "SHA": "e7c146cb",
+              "Subject": "Refactor statefulset-related files (#449)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "988eab76",
+              "Subject": "Prepare for release v0.20.0 (#470)"
+            },
+            {
+              "SHA": "47c7e612",
+              "Subject": "Update dependencies (#469)"
+            },
+            {
+              "SHA": "a972735f",
+              "Subject": "Pass `--set-gtid-purged=OFF` to app binding for stash (#468)"
+            },
+            {
+              "SHA": "a4f2e6a5",
+              "Subject": "Add Raft Server ports for MySQL Semi-sync (#467)"
+            },
+            {
+              "SHA": "b9a3c322",
+              "Subject": "Add Support for Semi-sync cluster (#464)"
+            },
+            {
+              "SHA": "2d7a0080",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#466)"
+            },
+            {
+              "SHA": "684d553a",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#462)"
+            },
+            {
+              "SHA": "5caa331a",
+              "Subject": "Patch existing Auth secret to db ojbect (#463)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "b30fd8e",
+              "Subject": "Update dependencies (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "2727742d",
+              "Subject": "Prepare for release v0.14.0 (#310)"
+            },
+            {
+              "SHA": "8964e523",
+              "Subject": "Fix: Redis shard node deletion issue for Horizontal scaling (#304)"
+            },
+            {
+              "SHA": "63ac74e1",
+              "Subject": "Fix product name"
+            },
+            {
+              "SHA": "8e5a457d",
+              "Subject": "Rename to ops-manager package (#309)"
+            },
+            {
+              "SHA": "36a71aa0",
+              "Subject": "Update dependencies (#307) (#308)"
+            },
+            {
+              "SHA": "e0c10f1f",
+              "Subject": "Update dependencies (#307)"
+            },
+            {
+              "SHA": "d0b2d531",
+              "Subject": "Fix mongodb shard scale down (#306)"
+            },
+            {
+              "SHA": "a65f70f9",
+              "Subject": "update replication user updating condition (#305)"
+            },
+            {
+              "SHA": "88027506",
+              "Subject": "Update Replication User Password (#300)"
+            },
+            {
+              "SHA": "e1b525cb",
+              "Subject": "Use updated commit-hash (#303)"
+            },
+            {
+              "SHA": "4dc359b4",
+              "Subject": "Ensure right master count when scaling down Redis Shard Cluster"
+            },
+            {
+              "SHA": "c3bed80c",
+              "Subject": "Add ProxySQL TLS support (#302)"
+            },
+            {
+              "SHA": "b8e2c085",
+              "Subject": "Add arbiter-support for mongodb (#291)"
+            },
+            {
+              "SHA": "20a24475",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#298)"
+            },
+            {
+              "SHA": "0da84955",
+              "Subject": "Fix horizontal scaling to support Redis Shard Dynamic Failover (#297)"
+            },
+            {
+              "SHA": "8d6d42a2",
+              "Subject": "Add PgBouncer TLS Support (#295)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "83f74c17",
+              "Subject": "Prepare for release v0.14.0 (#258)"
+            },
+            {
+              "SHA": "bfae8113",
+              "Subject": "Update dependencies (#257)"
+            },
+            {
+              "SHA": "bcc010f8",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#256)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "373a83e",
+              "Subject": "Prepare for release v0.11.0 (#80)"
+            },
+            {
+              "SHA": "254c361",
+              "Subject": "Update dependencies (#79)"
+            },
+            {
+              "SHA": "7f6a6c0",
+              "Subject": "Add Raft Metrics And graceful shutdown of Postgres (#74)"
+            },
+            {
+              "SHA": "c1a5b53",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#78)"
+            },
+            {
+              "SHA": "b6da859",
+              "Subject": "Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "8bb55234",
+              "Subject": "Prepare for release v0.14.0 (#221)"
+            },
+            {
+              "SHA": "ca8efd9a",
+              "Subject": "Update dependencies (#220)"
+            },
+            {
+              "SHA": "8122b2c7",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#218)"
+            },
+            {
+              "SHA": "431839ee",
+              "Subject": "Update exporter container to support TLS enabled PgBouncer (#217)"
+            },
+            {
+              "SHA": "766ece71",
+              "Subject": "Fix TLS and Config Related Issues, Add health Check (#210)"
+            },
+            {
+              "SHA": "76ebe1ec",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "bc3cf38e",
+              "Subject": "Prepare for release v0.27.0 (#573)"
+            },
+            {
+              "SHA": "14c87e8f",
+              "Subject": "Update dependencies (#572)"
+            },
+            {
+              "SHA": "7cb31a1d",
+              "Subject": "Add Raft Metrics exporter Port for Monitoring (#569)"
+            },
+            {
+              "SHA": "3a71b165",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#571)"
+            },
+            {
+              "SHA": "131dd7d9",
+              "Subject": "Cleanup podDiscruptionBudget when the replica count is one or less (#570)"
+            },
+            {
+              "SHA": "44e929d8",
+              "Subject": "Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#568)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "1a87a7e7",
+              "Subject": "Prepare for release v0.27.0 (#2)"
+            },
+            {
+              "SHA": "53226f1d",
+              "Subject": "Rename to provisioner module (#1)"
+            },
+            {
+              "SHA": "ae8196d3",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#465)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "283f3bf3",
+              "Subject": "Prepare for release v0.14.0 (#235)"
+            },
+            {
+              "SHA": "05e4b5dc",
+              "Subject": "Update dependencies (#234)"
+            },
+            {
+              "SHA": "81b98c09",
+              "Subject": "Fix phase and condition update for ProxySQL (#233)"
+            },
+            {
+              "SHA": "c0561e90",
+              "Subject": "Add support for ProxySQL clustering and TLS (#231)"
+            },
+            {
+              "SHA": "df6b4688",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#232)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "3dcfc3c7",
+              "Subject": "Prepare for release v0.20.0 (#397)"
+            },
+            {
+              "SHA": "ac65b0b3",
+              "Subject": "Update dependencies (#396)"
+            },
+            {
+              "SHA": "177c0329",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#395)"
+            },
+            {
+              "SHA": "6bf1db27",
+              "Subject": "Redis Shard Cluster Dynamic Failover (#393)"
+            },
+            {
+              "SHA": "4fa76436",
+              "Subject": "Refactor StatefulSet ENVs for Redis (#394)"
+            },
+            {
+              "SHA": "b12bfef9",
+              "Subject": "Cleanup PodDisruptionBudget when the replica count is one or less (#392)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "fb4f029",
+              "Subject": "Prepare for release v0.6.0 (#33)"
+            },
+            {
+              "SHA": "69cc834",
+              "Subject": "Update dependencies (#32)"
+            },
+            {
+              "SHA": "9c1cbd9",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#31)"
+            },
+            {
+              "SHA": "33baab6",
+              "Subject": "Update Env Variables (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "fcb720f2",
+              "Subject": "Prepare for release v0.14.0 (#194)"
+            },
+            {
+              "SHA": "b59867e3",
+              "Subject": "Update dependencies (#193)"
+            },
+            {
+              "SHA": "bc287981",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "e98aaec",
+              "Subject": "Prepare for release v0.3.0 (#29)"
+            },
+            {
+              "SHA": "99ca0f7",
+              "Subject": "Fix sharded-mongo restore issue; Use typed doubleOptIn funcs (#28)"
+            },
+            {
+              "SHA": "2a23c38",
+              "Subject": "Add support for MariaDB database schema manager (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "6501852d",
+              "Subject": "Prepare for release v0.12.0 (#178)"
+            },
+            {
+              "SHA": "68979c56",
+              "Subject": "Update dependencies (#177)"
+            },
+            {
+              "SHA": "affe5f32",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#176)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "4cb89db",
+              "Subject": "Prepare for release v0.3.0 (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "5d69aa6",
+              "Subject": "Prepare for release v0.3.0 (#19)"
+            },
+            {
+              "SHA": "ca55fb8",
+              "Subject": "Update dependencies (#18)"
+            },
+            {
+              "SHA": "22b4ab7",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#17)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

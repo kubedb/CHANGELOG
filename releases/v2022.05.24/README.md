@@ -26,6 +26,16 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.27.0](https://github.com/kubedb/cli/releases/tag/v0.27.0)
+
+- [01318a20](https://github.com/kubedb/cli/commit/01318a20) Prepare for release v0.27.0 (#664)
+- [6d399a31](https://github.com/kubedb/cli/commit/6d399a31) Update dependencies (#663)
+- [3e9a658f](https://github.com/kubedb/cli/commit/3e9a658f) Update dependencies(nats client, mongo-driver) (#662)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.27.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.27.0)

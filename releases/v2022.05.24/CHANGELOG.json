@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T05:22:10.466401984Z",
+  "release_date": "2022-05-20T05:22:26.111086081Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -323,6 +323,40 @@
             {
               "SHA": "b6da859",
               "Subject": "Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "bc3cf38e",
+              "Subject": "Prepare for release v0.27.0 (#573)"
+            },
+            {
+              "SHA": "14c87e8f",
+              "Subject": "Update dependencies (#572)"
+            },
+            {
+              "SHA": "7cb31a1d",
+              "Subject": "Add Raft Metrics exporter Port for Monitoring (#569)"
+            },
+            {
+              "SHA": "3a71b165",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#571)"
+            },
+            {
+              "SHA": "131dd7d9",
+              "Subject": "Cleanup podDiscruptionBudget when the replica count is one or less (#570)"
+            },
+            {
+              "SHA": "44e929d8",
+              "Subject": "Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#568)"
             }
           ]
         }

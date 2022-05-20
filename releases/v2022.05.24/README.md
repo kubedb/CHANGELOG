@@ -122,6 +122,19 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.27.0](https://github.com/kubedb/postgres/releases/tag/v0.27.0)
+
+- [bc3cf38e](https://github.com/kubedb/postgres/commit/bc3cf38e) Prepare for release v0.27.0 (#573)
+- [14c87e8f](https://github.com/kubedb/postgres/commit/14c87e8f) Update dependencies (#572)
+- [7cb31a1d](https://github.com/kubedb/postgres/commit/7cb31a1d) Add Raft Metrics exporter Port for Monitoring (#569)
+- [3a71b165](https://github.com/kubedb/postgres/commit/3a71b165) Update dependencies(nats client, mongo-driver) (#571)
+- [131dd7d9](https://github.com/kubedb/postgres/commit/131dd7d9) Cleanup podDiscruptionBudget when the replica count is one or less (#570)
+- [44e929d8](https://github.com/kubedb/postgres/commit/44e929d8) Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#568)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.20.0](https://github.com/kubedb/redis/releases/tag/v0.20.0)

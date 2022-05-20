@@ -50,6 +50,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.7.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.7.0)
+
+- [23da6cd](https://github.com/kubedb/mariadb-coordinator/commit/23da6cd) Prepare for release v0.7.0 (#43)
+- [e1fca00](https://github.com/kubedb/mariadb-coordinator/commit/e1fca00) Update dependencies (#42)
+- [20d90c6](https://github.com/kubedb/mariadb-coordinator/commit/20d90c6) Update dependencies(nats client, mongo-driver) (#41)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.20.0](https://github.com/kubedb/mongodb/releases/tag/v0.20.0)

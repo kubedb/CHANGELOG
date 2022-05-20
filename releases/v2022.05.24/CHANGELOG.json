@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T07:00:54.956898885Z",
+  "release_date": "2022-05-20T07:49:09.59710162Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -189,6 +189,15 @@
               "Subject": "Add support for Elasticsearch 8 (#573)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.05.24",
+          "commits": null
         }
       ]
     },

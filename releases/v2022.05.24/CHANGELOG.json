@@ -1,0 +1,92 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.05.24",
+  "release_date": "2022-05-20T04:42:10.556488627Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.05.24",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "3634eb14",
+              "Subject": "Add `HealthCheckPaused` condition and `Unknown` phase (#898)"
+            },
+            {
+              "SHA": "a3a3b1df",
+              "Subject": "Add Raft metrics port as constants (#896)"
+            },
+            {
+              "SHA": "6f9afd91",
+              "Subject": "Add support for MySQL semi-sync cluster (#890)"
+            },
+            {
+              "SHA": "bf17bf6d",
+              "Subject": "Add constants for Kibana 8 (#894)"
+            },
+            {
+              "SHA": "a8461374",
+              "Subject": "Add method and constants for proxysql (#893)"
+            },
+            {
+              "SHA": "a57c9577",
+              "Subject": "Add doubleOptIn funcs & shortnames for schema-manager (#889)"
+            },
+            {
+              "SHA": "af6f51f3",
+              "Subject": "Add constants and helpers for ES Internal Users (#886)"
+            },
+            {
+              "SHA": "74c4fc13",
+              "Subject": "Fix typo (#888)"
+            },
+            {
+              "SHA": "023a7988",
+              "Subject": "Update ProxySQL types and helpers (#883)"
+            },
+            {
+              "SHA": "29217d17",
+              "Subject": "Fix pgbouncer Version Spec"
+            },
+            {
+              "SHA": "3b994342",
+              "Subject": "Add support for mariadbdatabase with webhook (#858)"
+            },
+            {
+              "SHA": "4be4a876",
+              "Subject": "Add spec for MongoDB arbiter support (#862)"
+            },
+            {
+              "SHA": "36e97b5a",
+              "Subject": "Add TopologySpreadConstraints (#885)"
+            },
+            {
+              "SHA": "27c7483d",
+              "Subject": "Add SyncStatefulSetPodDisruptionBudget helper method (#884)"
+            },
+            {
+              "SHA": "0e635b9f",
+              "Subject": "Make ClusterHealth inline in ES insight (#881)"
+            },
+            {
+              "SHA": "761d8ca3",
+              "Subject": "fix: update Postgres shared buffer func (#880)"
+            },
+            {
+              "SHA": "8579cef3",
+              "Subject": "Add Support for Opensearch Dashboards (#878)"
+            },
+            {
+              "SHA": "24eadd87",
+              "Subject": "Use Go 1.18 (#879)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

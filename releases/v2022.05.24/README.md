@@ -51,3 +51,13 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.14.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.14.0)
+
+- [fcb720f2](https://github.com/kubedb/replication-mode-detector/commit/fcb720f2) Prepare for release v0.14.0 (#194)
+- [b59867e3](https://github.com/kubedb/replication-mode-detector/commit/b59867e3) Update dependencies (#193)
+- [bc287981](https://github.com/kubedb/replication-mode-detector/commit/bc287981) Update dependencies(nats client, mongo-driver) (#192)
+
+
+

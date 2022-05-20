@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T06:31:22.201404054Z",
+  "release_date": "2022-05-20T06:41:56.244461948Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -83,6 +83,28 @@
             {
               "SHA": "24eadd87",
               "Subject": "Use Go 1.18 (#879)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "7cb69fae",
+              "Subject": "Prepare for release v0.12.0 (#84)"
+            },
+            {
+              "SHA": "0dd28106",
+              "Subject": "Update dependencies (#83)"
+            },
+            {
+              "SHA": "8fb60ad6",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#81)"
             }
           ]
         }

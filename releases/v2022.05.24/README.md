@@ -26,6 +26,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.12.0](https://github.com/kubedb/autoscaler/releases/tag/v0.12.0)
+
+- [7cb69fae](https://github.com/kubedb/autoscaler/commit/7cb69fae) Prepare for release v0.12.0 (#84)
+- [0dd28106](https://github.com/kubedb/autoscaler/commit/0dd28106) Update dependencies (#83)
+- [8fb60ad6](https://github.com/kubedb/autoscaler/commit/8fb60ad6) Update dependencies(nats client, mongo-driver) (#81)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.27.0](https://github.com/kubedb/cli/releases/tag/v0.27.0)

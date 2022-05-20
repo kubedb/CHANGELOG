@@ -36,6 +36,18 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.3.0](https://github.com/kubedb/dashboard/releases/tag/v0.3.0)
+
+- [454bf6a](https://github.com/kubedb/dashboard/commit/454bf6a) Prepare for release v0.3.0 (#27)
+- [872bbd9](https://github.com/kubedb/dashboard/commit/872bbd9) Update dependencies (#26)
+- [6cafd62](https://github.com/kubedb/dashboard/commit/6cafd62) Add support for Kibana 8 (#25)
+- [273d034](https://github.com/kubedb/dashboard/commit/273d034) Update dependencies(nats client, mongo-driver) (#24)
+- [7d6c3ec](https://github.com/kubedb/dashboard/commit/7d6c3ec) Add support for Opensearch_Dashboards (#17)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.27.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.27.0)

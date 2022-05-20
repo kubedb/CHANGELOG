@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.05.24",
-  "release_date": "2022-05-20T06:10:51.669429533Z",
+  "release_date": "2022-05-20T06:13:43.96667184Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.05.24",
   "kubernetes_version": "1.16+",
@@ -105,6 +105,36 @@
             {
               "SHA": "3e9a658f",
               "Subject": "Update dependencies(nats client, mongo-driver) (#662)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "454bf6a",
+              "Subject": "Prepare for release v0.3.0 (#27)"
+            },
+            {
+              "SHA": "872bbd9",
+              "Subject": "Update dependencies (#26)"
+            },
+            {
+              "SHA": "6cafd62",
+              "Subject": "Add support for Kibana 8 (#25)"
+            },
+            {
+              "SHA": "273d034",
+              "Subject": "Update dependencies(nats client, mongo-driver) (#24)"
+            },
+            {
+              "SHA": "7d6c3ec",
+              "Subject": "Add support for Opensearch_Dashboards (#17)"
             }
           ]
         }

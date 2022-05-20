@@ -296,3 +296,13 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.3.0](https://github.com/kubedb/webhook-server/releases/tag/v0.3.0)
+
+- [5d69aa6](https://github.com/kubedb/webhook-server/commit/5d69aa6) Prepare for release v0.3.0 (#19)
+- [ca55fb8](https://github.com/kubedb/webhook-server/commit/ca55fb8) Update dependencies (#18)
+- [22b4ab7](https://github.com/kubedb/webhook-server/commit/22b4ab7) Update dependencies(nats client, mongo-driver) (#17)
+
+
+

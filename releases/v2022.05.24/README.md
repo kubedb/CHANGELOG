@@ -180,3 +180,13 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.12.0](https://github.com/kubedb/tests/releases/tag/v0.12.0)
+
+- [6501852d](https://github.com/kubedb/tests/commit/6501852d) Prepare for release v0.12.0 (#178)
+- [68979c56](https://github.com/kubedb/tests/commit/68979c56) Update dependencies (#177)
+- [affe5f32](https://github.com/kubedb/tests/commit/affe5f32) Update dependencies(nats client, mongo-driver) (#176)
+
+
+

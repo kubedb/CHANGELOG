@@ -1,0 +1,939 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.08.02-rc.0",
+  "release_date": "2022-08-02T20:50:13.015366537Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "896d0bb5",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#95)"
+            },
+            {
+              "SHA": "a904819e",
+              "Subject": "Update db-client-go (#94)"
+            },
+            {
+              "SHA": "049b959a",
+              "Subject": "Acquire license from license-proxyserver if available (#93)"
+            },
+            {
+              "SHA": "6f47ba7d",
+              "Subject": "Use MemoryUsedPercentage as float (#92)"
+            },
+            {
+              "SHA": "2f41e629",
+              "Subject": "Fix mongodb inMemory calculation and changes for updated autoscaler CRD (#91)"
+            },
+            {
+              "SHA": "a0d00ea2",
+              "Subject": "Update mongodb inmemory recommendation logic (#90)"
+            },
+            {
+              "SHA": "7fd346e6",
+              "Subject": "Change some in-memory recommendation logic (#89)"
+            },
+            {
+              "SHA": "00b9087f",
+              "Subject": "Convert to KubeBuilder style (#88)"
+            },
+            {
+              "SHA": "9a3599ac",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "7260dc2f",
+              "Subject": "Add custom recommender for dbs (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.08.02-rc.0",
+          "commits": [
+            {
+              "SHA": "3b7cb85",
+              "Subject": "Prepare for release v2022.08.02-rc.0 (#48)"
+            },
+            {
+              "SHA": "34a48a5",
+              "Subject": "Test against Kubernetes 1.24.0 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "902c36b2",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#671)"
+            },
+            {
+              "SHA": "e0564ec0",
+              "Subject": "Acquire license from license-proxyserver if available (#670)"
+            },
+            {
+              "SHA": "da3169be",
+              "Subject": "Update for release Stash@v2022.07.09 (#669)"
+            },
+            {
+              "SHA": "38b1149c",
+              "Subject": "Update for release Stash@v2022.06.21 (#668)"
+            },
+            {
+              "SHA": "09bb7b93",
+              "Subject": "Update to k8s 1.24 toolchain (#666)"
+            },
+            {
+              "SHA": "1642a399",
+              "Subject": "Update to k8s 1.24 toolchain (#665)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "26e7432",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#32)"
+            },
+            {
+              "SHA": "60f3154",
+              "Subject": "Acquire license from license-proxyserver if available (#31)"
+            },
+            {
+              "SHA": "9b18e46",
+              "Subject": "Update to k8s 1.24 toolchain (#29)"
+            },
+            {
+              "SHA": "5ce68d1",
+              "Subject": "Update to k8s 1.24 toolchain (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.08.02-rc.0",
+          "commits": [
+            {
+              "SHA": "eeaed7e",
+              "Subject": "Prepare for release v2022.08.02-rc.0 (#491)"
+            },
+            {
+              "SHA": "a067a99",
+              "Subject": "Update docs for kubedb/webhook-server@de1db0e8 (#490)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6991fc7a3",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#592)"
+            },
+            {
+              "SHA": "d8df80d1c",
+              "Subject": "Update db-client-go (#591)"
+            },
+            {
+              "SHA": "177990efa",
+              "Subject": "Make Changes for newKBClient() args removal (#590)"
+            },
+            {
+              "SHA": "3c704bdc1",
+              "Subject": "Acquire license from license-proxyserver if available (#589)"
+            },
+            {
+              "SHA": "46e8fa201",
+              "Subject": "Add support for volumes and volumeMounts (#588)"
+            },
+            {
+              "SHA": "515364158",
+              "Subject": "Re-construct Elasticsearch health checker (#587)"
+            },
+            {
+              "SHA": "cc1a8224a",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#586)"
+            },
+            {
+              "SHA": "c1c84b124",
+              "Subject": "Use docker image with digest value (#579)"
+            },
+            {
+              "SHA": "5594ad035",
+              "Subject": "Change credential sync log level to avoid operator log overloading (#584)"
+            },
+            {
+              "SHA": "6c40c79ed",
+              "Subject": "Revert es client version"
+            },
+            {
+              "SHA": "e6621d980",
+              "Subject": "Update to k8s 1.24 toolchain (#580)"
+            },
+            {
+              "SHA": "93fd95b65",
+              "Subject": "Test against Kubernetes 1.24.0 (#578)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.08.02-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8ed9b5e8",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "7eb4d546",
+              "Subject": "Acquire license from license-proxyserver if available (#160)"
+            },
+            {
+              "SHA": "16dc94dd",
+              "Subject": "Add custom volume and volume mount support (#159)"
+            },
+            {
+              "SHA": "d03b7ab3",
+              "Subject": "Update MariaDB Health check (#155)"
+            },
+            {
+              "SHA": "ac7fc040",
+              "Subject": "Add syncAndValidate for secrets | Not delete custom auth secrets (#153)"
+            },
+            {
+              "SHA": "75a280b3",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#158)"
+            },
+            {
+              "SHA": "09e31be1",
+              "Subject": "Fix MariaDB not ready condition after removing halt (#157)"
+            },
+            {
+              "SHA": "29934625",
+              "Subject": "Add digest value on docker image (#154)"
+            },
+            {
+              "SHA": "a73717c8",
+              "Subject": "Update to k8s 1.24 toolchain (#151)"
+            },
+            {
+              "SHA": "ff6e83e5",
+              "Subject": "Update to k8s 1.24 toolchain (#150)"
+            },
+            {
+              "SHA": "c1dba654",
+              "Subject": "Test against Kubernetes 1.24.0 (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "82bad04",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "487fdbb",
+              "Subject": "Acquire license from license-proxyserver if available (#49)"
+            },
+            {
+              "SHA": "b2565e4",
+              "Subject": "Add primary component detector (#48)"
+            },
+            {
+              "SHA": "84810c8",
+              "Subject": "Fix custom auth secret failure (#47)"
+            },
+            {
+              "SHA": "7261a98",
+              "Subject": "Update to k8s 1.24 toolchain (#45)"
+            },
+            {
+              "SHA": "3c23773",
+              "Subject": "Update to k8s 1.24 toolchain (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6fcbc121",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#360)"
+            },
+            {
+              "SHA": "8d43bd1e",
+              "Subject": "Acquire license from license-proxyserver if available (#359)"
+            },
+            {
+              "SHA": "cd2fa52b",
+              "Subject": "Fix validator webhook api group"
+            },
+            {
+              "SHA": "71c254a7",
+              "Subject": "Update to k8s 1.24 toolchain (#357)"
+            },
+            {
+              "SHA": "0545e187",
+              "Subject": "Test against Kubernetes 1.24.0 (#356)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c0a023d2",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#496)"
+            },
+            {
+              "SHA": "0b56bec3",
+              "Subject": "Update db-client-go (#495)"
+            },
+            {
+              "SHA": "7126f7f1",
+              "Subject": "getExporterContainer only if monitoring enabled (#494)"
+            },
+            {
+              "SHA": "cdd6adbc",
+              "Subject": "Acquire license from license-proxyserver if available (#493)"
+            },
+            {
+              "SHA": "c598db8e",
+              "Subject": "Add `--collect-all` exporter container cmd args (#487)"
+            },
+            {
+              "SHA": "dc2fce0d",
+              "Subject": "Add InMemory validations & some refactoration (#491)"
+            },
+            {
+              "SHA": "991588ef",
+              "Subject": "Add support for custom volumes (#492)"
+            },
+            {
+              "SHA": "4fc305c0",
+              "Subject": "Update Health Checker (#480)"
+            },
+            {
+              "SHA": "3be64a6b",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#490)"
+            },
+            {
+              "SHA": "3fd70298",
+              "Subject": "Use docker images with digest value (#486)"
+            },
+            {
+              "SHA": "c7325a29",
+              "Subject": "Fix connection leak when ping fails (#485)"
+            },
+            {
+              "SHA": "4ff96a0e",
+              "Subject": "Use kubebuilder client for db-client-go (#484)"
+            },
+            {
+              "SHA": "4094f54a",
+              "Subject": "Update to k8s 1.24 toolchain (#482)"
+            },
+            {
+              "SHA": "2e56a4e9",
+              "Subject": "Update to k8s 1.24 toolchain (#481)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "15f1a9dd",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#484)"
+            },
+            {
+              "SHA": "43f733a3",
+              "Subject": "Acquire license from license-proxyserver if available (#483)"
+            },
+            {
+              "SHA": "0c88f473",
+              "Subject": "Use GetCertSecret instead of MustCertSecretName (#482)"
+            },
+            {
+              "SHA": "afb1c070",
+              "Subject": "Add support for Custom volume and volume mounts (#481)"
+            },
+            {
+              "SHA": "4f167ef8",
+              "Subject": "Update MySQL healthchecker (#480)"
+            },
+            {
+              "SHA": "05d5179e",
+              "Subject": "Update read replica Auth secret (#477)"
+            },
+            {
+              "SHA": "d36e09de",
+              "Subject": "upsert volumes with existing volumes. (#476)"
+            },
+            {
+              "SHA": "e51c7d79",
+              "Subject": "Use docker image with digest value (#475)"
+            },
+            {
+              "SHA": "574fc526",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#479)"
+            },
+            {
+              "SHA": "10dd0b78",
+              "Subject": "Fix not ready condition after removing halt (#478)"
+            },
+            {
+              "SHA": "3c514bae",
+              "Subject": "Update to k8s 1.24 toolchain (#473)"
+            },
+            {
+              "SHA": "6a09468a",
+              "Subject": "Update to k8s 1.24 toolchain (#472)"
+            },
+            {
+              "SHA": "04c925b5",
+              "Subject": "Test against Kubernetes 1.24.0 (#471)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7c79e5f",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#42)"
+            },
+            {
+              "SHA": "2eb313d",
+              "Subject": "Acquire license from license-proxyserver if available (#40)"
+            },
+            {
+              "SHA": "6116c0e",
+              "Subject": "Read replica count from db object If sts not found (#39)"
+            },
+            {
+              "SHA": "40d1007",
+              "Subject": "fix custom auth secret issue (#38)"
+            },
+            {
+              "SHA": "a72d3a9",
+              "Subject": "Update to k8s 1.24 toolchain (#37)"
+            },
+            {
+              "SHA": "593433a",
+              "Subject": "Update dependencies (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "445a2ff",
+              "Subject": "Acquire license from license-proxyserver if available (#23)"
+            },
+            {
+              "SHA": "28eb2d4",
+              "Subject": "Update to k8s 1.24 toolchain (#22)"
+            },
+            {
+              "SHA": "40d3dd9",
+              "Subject": "Update to k8s 1.24 toolchain (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4970d99b",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#264)"
+            },
+            {
+              "SHA": "d1896876",
+              "Subject": "Acquire license from license-proxyserver if available (#263)"
+            },
+            {
+              "SHA": "8e65e97d",
+              "Subject": "Add custom volume and volume mount support (#262)"
+            },
+            {
+              "SHA": "1866eed1",
+              "Subject": "Add Percona XtraDB Cluster Support (#237)"
+            },
+            {
+              "SHA": "501c5a18",
+              "Subject": "Update to k8s 1.24 toolchain (#260)"
+            },
+            {
+              "SHA": "e632ea56",
+              "Subject": "Test against Kubernetes 1.24.0 (#259)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e066e950",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "e3256a32",
+              "Subject": "Acquire license from license-proxyserver if available (#83)"
+            },
+            {
+              "SHA": "909c225e",
+              "Subject": "Remove role scripts from the coordinator. (#82)"
+            },
+            {
+              "SHA": "fdd2a4ad",
+              "Subject": "Update to k8s 1.24 toolchain (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "09815675",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#230)"
+            },
+            {
+              "SHA": "6e18d967",
+              "Subject": "Acquire license from license-proxyserver if available (#229)"
+            },
+            {
+              "SHA": "4d042db4",
+              "Subject": "Update healthcheck (#228)"
+            },
+            {
+              "SHA": "22cf136d",
+              "Subject": "Add digest value on docker image (#227)"
+            },
+            {
+              "SHA": "3e9914c9",
+              "Subject": "Update test for PgBouncer (#219)"
+            },
+            {
+              "SHA": "92662071",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#226)"
+            },
+            {
+              "SHA": "a62c708f",
+              "Subject": "Update to k8s 1.24 toolchain (#224)"
+            },
+            {
+              "SHA": "061e53fe",
+              "Subject": "Update to k8s 1.24 toolchain (#223)"
+            },
+            {
+              "SHA": "a89ce8fd",
+              "Subject": "Test against Kubernetes 1.24.0 (#222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e2a4636b",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#582)"
+            },
+            {
+              "SHA": "8f861234",
+              "Subject": "Acquire license from license-proxyserver if available (#581)"
+            },
+            {
+              "SHA": "52f6820d",
+              "Subject": "Add Custom Volume and VolumeMount Support (#580)"
+            },
+            {
+              "SHA": "34f8283f",
+              "Subject": "Update Postgres  health check (#578)"
+            },
+            {
+              "SHA": "ad40ece7",
+              "Subject": "Use docker image with digest value (#579)"
+            },
+            {
+              "SHA": "c51a4716",
+              "Subject": "Update: remove sidecar from standalone. (#576)"
+            },
+            {
+              "SHA": "514ef2bd",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#577)"
+            },
+            {
+              "SHA": "2bc43818",
+              "Subject": "Update to k8s 1.24 toolchain (#575)"
+            },
+            {
+              "SHA": "8e2a02a3",
+              "Subject": "Test against Kubernetes 1.24.0 (#574)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "89e4767d",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#243)"
+            },
+            {
+              "SHA": "a4c92b9b",
+              "Subject": "Acquire license from license-proxyserver if available (#242)"
+            },
+            {
+              "SHA": "fb6f2301",
+              "Subject": "Rewrite ProxySQL HealthChecker (#241)"
+            },
+            {
+              "SHA": "a6c80651",
+              "Subject": "Add proxysql declarative configuration (#239)"
+            },
+            {
+              "SHA": "1d9c415c",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#240)"
+            },
+            {
+              "SHA": "23a85c85",
+              "Subject": "Update to k8s 1.24 toolchain (#237)"
+            },
+            {
+              "SHA": "a93f8f4e",
+              "Subject": "Test against Kubernetes 1.24.0 (#236)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a5ec2963",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#411)"
+            },
+            {
+              "SHA": "738a1964",
+              "Subject": "Acquire license from license-proxyserver if available (#410)"
+            },
+            {
+              "SHA": "9336d51d",
+              "Subject": "Add Custom Volume Support (#409)"
+            },
+            {
+              "SHA": "8235b201",
+              "Subject": "Rework Redis and Redis Sentinel Health Checker (#403)"
+            },
+            {
+              "SHA": "f5c45ae5",
+              "Subject": "Image Digest For Sentinel Images (#406)"
+            },
+            {
+              "SHA": "8962659f",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#405)"
+            },
+            {
+              "SHA": "efa9e726",
+              "Subject": "Use image with digest value (#402)"
+            },
+            {
+              "SHA": "08388f4a",
+              "Subject": "Update to k8s 1.24 toolchain (#400)"
+            },
+            {
+              "SHA": "82cd6ba2",
+              "Subject": "Test against Kubernetes 1.24.0 (#398)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d9726c9",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "f672fd6",
+              "Subject": "Acquire license from license-proxyserver if available (#37)"
+            },
+            {
+              "SHA": "5bbab2c",
+              "Subject": "Update to k8s 1.24 toolchain (#35)"
+            },
+            {
+              "SHA": "df38bb5",
+              "Subject": "Update to k8s 1.24 toolchain (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e06b4771",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#200)"
+            },
+            {
+              "SHA": "e77ff57c",
+              "Subject": "Update db-client-go (#199)"
+            },
+            {
+              "SHA": "3008bd62",
+              "Subject": "Acquire license from license-proxyserver if available (#198)"
+            },
+            {
+              "SHA": "134d10c7",
+              "Subject": "Use mongodb db client (#197)"
+            },
+            {
+              "SHA": "0a9cf005",
+              "Subject": "Update to k8s 1.24 toolchain (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "114d882a",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#36)"
+            },
+            {
+              "SHA": "bcb51407",
+              "Subject": "Update db-client-go (#35)"
+            },
+            {
+              "SHA": "e6ffd878",
+              "Subject": "Acquire license from license-proxyserver if available (#34)"
+            },
+            {
+              "SHA": "5a6ae96d",
+              "Subject": "Update kutil dependency (#33)"
+            },
+            {
+              "SHA": "8e9a2732",
+              "Subject": "Update to use KubeVault v2022.06.16 (#32)"
+            },
+            {
+              "SHA": "5f7e441d",
+              "Subject": "Update to k8s 1.24 toolchain (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c9a1d705",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#183)"
+            },
+            {
+              "SHA": "7307b213",
+              "Subject": "Acquire license from license-proxyserver if available (#182)"
+            },
+            {
+              "SHA": "84bdf708",
+              "Subject": "Update to k8s 1.24 toolchain (#180)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "56b14fd6",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#40)"
+            },
+            {
+              "SHA": "932c6cd7",
+              "Subject": "Vendor Elasticsearch changes in db-client-go (#39)"
+            },
+            {
+              "SHA": "1e8b3cd7",
+              "Subject": "Acquire license from license-proxyserver if available (#37)"
+            },
+            {
+              "SHA": "eef867b5",
+              "Subject": "Fix linter warning regarding selfLink (#36)"
+            },
+            {
+              "SHA": "15556fc9",
+              "Subject": "Update to k8s 1.24 toolchain (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": null
+        }
+      ]
+    }
+  ]
+}

@@ -27,6 +27,19 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.6.0-rc.0)
+
+- [7c79e5f](https://github.com/kubedb/mysql-coordinator/commit/7c79e5f) Prepare for release v0.6.0-rc.0 (#42)
+- [2eb313d](https://github.com/kubedb/mysql-coordinator/commit/2eb313d) Acquire license from license-proxyserver if available (#40)
+- [6116c0e](https://github.com/kubedb/mysql-coordinator/commit/6116c0e) Read replica count from db object If sts not found (#39)
+- [40d1007](https://github.com/kubedb/mysql-coordinator/commit/40d1007) fix custom auth secret issue (#38)
+- [a72d3a9](https://github.com/kubedb/mysql-coordinator/commit/a72d3a9) Update to k8s 1.24 toolchain (#37)
+- [593433a](https://github.com/kubedb/mysql-coordinator/commit/593433a) Update dependencies (#36)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.6.0-rc.0)

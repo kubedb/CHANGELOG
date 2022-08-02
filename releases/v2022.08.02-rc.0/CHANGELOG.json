@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:11:04.912781927Z",
+  "release_date": "2022-08-02T18:13:29.505917685Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -68,6 +68,40 @@
             {
               "SHA": "93fd95b65",
               "Subject": "Test against Kubernetes 1.24.0 (#578)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7c79e5f",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#42)"
+            },
+            {
+              "SHA": "2eb313d",
+              "Subject": "Acquire license from license-proxyserver if available (#40)"
+            },
+            {
+              "SHA": "6116c0e",
+              "Subject": "Read replica count from db object If sts not found (#39)"
+            },
+            {
+              "SHA": "40d1007",
+              "Subject": "fix custom auth secret issue (#38)"
+            },
+            {
+              "SHA": "a72d3a9",
+              "Subject": "Update to k8s 1.24 toolchain (#37)"
+            },
+            {
+              "SHA": "593433a",
+              "Subject": "Update dependencies (#36)"
             }
           ]
         }

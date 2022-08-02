@@ -40,6 +40,19 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.8.0-rc.0)
+
+- [82bad04](https://github.com/kubedb/mariadb-coordinator/commit/82bad04) Prepare for release v0.8.0-rc.0 (#50)
+- [487fdbb](https://github.com/kubedb/mariadb-coordinator/commit/487fdbb) Acquire license from license-proxyserver if available (#49)
+- [b2565e4](https://github.com/kubedb/mariadb-coordinator/commit/b2565e4) Add primary component detector (#48)
+- [84810c8](https://github.com/kubedb/mariadb-coordinator/commit/84810c8) Fix custom auth secret failure (#47)
+- [7261a98](https://github.com/kubedb/mariadb-coordinator/commit/7261a98) Update to k8s 1.24 toolchain (#45)
+- [3c23773](https://github.com/kubedb/mariadb-coordinator/commit/3c23773) Update to k8s 1.24 toolchain (#44)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.6.0-rc.0)

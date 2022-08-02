@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:16:22.05615203Z",
+  "release_date": "2022-08-02T18:16:31.675481306Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -102,6 +102,40 @@
             {
               "SHA": "93fd95b65",
               "Subject": "Test against Kubernetes 1.24.0 (#578)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "82bad04",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "487fdbb",
+              "Subject": "Acquire license from license-proxyserver if available (#49)"
+            },
+            {
+              "SHA": "b2565e4",
+              "Subject": "Add primary component detector (#48)"
+            },
+            {
+              "SHA": "84810c8",
+              "Subject": "Fix custom auth secret failure (#47)"
+            },
+            {
+              "SHA": "7261a98",
+              "Subject": "Update to k8s 1.24 toolchain (#45)"
+            },
+            {
+              "SHA": "3c23773",
+              "Subject": "Update to k8s 1.24 toolchain (#44)"
             }
           ]
         }

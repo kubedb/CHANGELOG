@@ -8,6 +8,19 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.28.0-rc.0)
+
+- [902c36b2](https://github.com/kubedb/cli/commit/902c36b2) Prepare for release v0.28.0-rc.0 (#671)
+- [e0564ec0](https://github.com/kubedb/cli/commit/e0564ec0) Acquire license from license-proxyserver if available (#670)
+- [da3169be](https://github.com/kubedb/cli/commit/da3169be) Update for release Stash@v2022.07.09 (#669)
+- [38b1149c](https://github.com/kubedb/cli/commit/38b1149c) Update for release Stash@v2022.06.21 (#668)
+- [09bb7b93](https://github.com/kubedb/cli/commit/09bb7b93) Update to k8s 1.24 toolchain (#666)
+- [1642a399](https://github.com/kubedb/cli/commit/1642a399) Update to k8s 1.24 toolchain (#665)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.28.0-rc.0)

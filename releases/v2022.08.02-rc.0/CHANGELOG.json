@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:14:53.417192001Z",
+  "release_date": "2022-08-02T18:15:01.61465343Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -12,6 +12,40 @@
         {
           "tag": "v0.28.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "902c36b2",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#671)"
+            },
+            {
+              "SHA": "e0564ec0",
+              "Subject": "Acquire license from license-proxyserver if available (#670)"
+            },
+            {
+              "SHA": "da3169be",
+              "Subject": "Update for release Stash@v2022.07.09 (#669)"
+            },
+            {
+              "SHA": "38b1149c",
+              "Subject": "Update for release Stash@v2022.06.21 (#668)"
+            },
+            {
+              "SHA": "09bb7b93",
+              "Subject": "Update to k8s 1.24 toolchain (#666)"
+            },
+            {
+              "SHA": "1642a399",
+              "Subject": "Update to k8s 1.24 toolchain (#665)"
+            }
+          ]
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:19:50.697484401Z",
+  "release_date": "2022-08-02T18:20:05.815826693Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -536,6 +536,36 @@
             {
               "SHA": "df38bb5",
               "Subject": "Update to k8s 1.24 toolchain (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e06b4771",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#200)"
+            },
+            {
+              "SHA": "e77ff57c",
+              "Subject": "Update db-client-go (#199)"
+            },
+            {
+              "SHA": "3008bd62",
+              "Subject": "Acquire license from license-proxyserver if available (#198)"
+            },
+            {
+              "SHA": "134d10c7",
+              "Subject": "Use mongodb db client (#197)"
+            },
+            {
+              "SHA": "0a9cf005",
+              "Subject": "Update to k8s 1.24 toolchain (#195)"
             }
           ]
         }

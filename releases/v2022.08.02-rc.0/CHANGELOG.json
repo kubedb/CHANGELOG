@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:16:31.675481306Z",
+  "release_date": "2022-08-02T18:17:31.209577551Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -192,6 +192,32 @@
             {
               "SHA": "40d3dd9",
               "Subject": "Update to k8s 1.24 toolchain (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e066e950",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "e3256a32",
+              "Subject": "Acquire license from license-proxyserver if available (#83)"
+            },
+            {
+              "SHA": "909c225e",
+              "Subject": "Remove role scripts from the coordinator. (#82)"
+            },
+            {
+              "SHA": "fdd2a4ad",
+              "Subject": "Update to k8s 1.24 toolchain (#81)"
             }
           ]
         }

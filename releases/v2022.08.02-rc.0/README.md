@@ -68,6 +68,13 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2022.08.02-rc.0](https://github.com/kubedb/installer/releases/tag/v2022.08.02-rc.0)
+
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.12.0-rc.0)

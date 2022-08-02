@@ -79,6 +79,17 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.7.0-rc.0)
+
+- [d9726c9](https://github.com/kubedb/redis-coordinator/commit/d9726c9) Prepare for release v0.7.0-rc.0 (#38)
+- [f672fd6](https://github.com/kubedb/redis-coordinator/commit/f672fd6) Acquire license from license-proxyserver if available (#37)
+- [5bbab2c](https://github.com/kubedb/redis-coordinator/commit/5bbab2c) Update to k8s 1.24 toolchain (#35)
+- [df38bb5](https://github.com/kubedb/redis-coordinator/commit/df38bb5) Update to k8s 1.24 toolchain (#34)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.13.0-rc.0)

@@ -333,3 +333,10 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/webhook-server/releases/tag/v0.4.0-rc.0)
+
+
+
+

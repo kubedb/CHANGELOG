@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T20:37:51.351955163Z",
+  "release_date": "2022-08-02T20:50:13.015366537Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -60,6 +60,24 @@
             {
               "SHA": "7260dc2f",
               "Subject": "Add custom recommender for dbs (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.08.02-rc.0",
+          "commits": [
+            {
+              "SHA": "3b7cb85",
+              "Subject": "Prepare for release v2022.08.02-rc.0 (#48)"
+            },
+            {
+              "SHA": "34a48a5",
+              "Subject": "Test against Kubernetes 1.24.0 (#47)"
             }
           ]
         }

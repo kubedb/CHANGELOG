@@ -21,6 +21,17 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/dashboard/releases/tag/v0.4.0-rc.0)
+
+- [26e7432](https://github.com/kubedb/dashboard/commit/26e7432) Prepare for release v0.4.0-rc.0 (#32)
+- [60f3154](https://github.com/kubedb/dashboard/commit/60f3154) Acquire license from license-proxyserver if available (#31)
+- [9b18e46](https://github.com/kubedb/dashboard/commit/9b18e46) Update to k8s 1.24 toolchain (#29)
+- [5ce68d1](https://github.com/kubedb/dashboard/commit/5ce68d1) Update to k8s 1.24 toolchain (#28)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.28.0-rc.0)

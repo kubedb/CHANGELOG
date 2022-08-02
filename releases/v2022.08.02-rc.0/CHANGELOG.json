@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:20:05.815826693Z",
+  "release_date": "2022-08-02T18:22:05.489247347Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -510,6 +510,52 @@
             {
               "SHA": "8e2a02a3",
               "Subject": "Test against Kubernetes 1.24.0 (#574)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a5ec2963",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#411)"
+            },
+            {
+              "SHA": "738a1964",
+              "Subject": "Acquire license from license-proxyserver if available (#410)"
+            },
+            {
+              "SHA": "9336d51d",
+              "Subject": "Add Custom Volume Support (#409)"
+            },
+            {
+              "SHA": "8235b201",
+              "Subject": "Rework Redis and Redis Sentinel Health Checker (#403)"
+            },
+            {
+              "SHA": "f5c45ae5",
+              "Subject": "Image Digest For Sentinel Images (#406)"
+            },
+            {
+              "SHA": "8962659f",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#405)"
+            },
+            {
+              "SHA": "efa9e726",
+              "Subject": "Use image with digest value (#402)"
+            },
+            {
+              "SHA": "08388f4a",
+              "Subject": "Update to k8s 1.24 toolchain (#400)"
+            },
+            {
+              "SHA": "82cd6ba2",
+              "Subject": "Test against Kubernetes 1.24.0 (#398)"
             }
           ]
         }

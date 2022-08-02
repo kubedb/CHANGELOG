@@ -66,3 +66,13 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.13.0-rc.0)
+
+- [c9a1d705](https://github.com/kubedb/tests/commit/c9a1d705) Prepare for release v0.13.0-rc.0 (#183)
+- [7307b213](https://github.com/kubedb/tests/commit/7307b213) Acquire license from license-proxyserver if available (#182)
+- [84bdf708](https://github.com/kubedb/tests/commit/84bdf708) Update to k8s 1.24 toolchain (#180)
+
+
+

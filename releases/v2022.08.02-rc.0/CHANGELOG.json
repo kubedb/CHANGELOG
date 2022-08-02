@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:53:06.150656795Z",
+  "release_date": "2022-08-02T18:59:05.910370258Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -584,6 +584,15 @@
               "Subject": "Test against Kubernetes 1.24.0 (#574)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": null
         }
       ]
     },

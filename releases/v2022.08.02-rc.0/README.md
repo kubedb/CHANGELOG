@@ -290,3 +290,15 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/ui-server/releases/tag/v0.4.0-rc.0)
+
+- [56b14fd6](https://github.com/kubedb/ui-server/commit/56b14fd6) Prepare for release v0.4.0-rc.0 (#40)
+- [932c6cd7](https://github.com/kubedb/ui-server/commit/932c6cd7) Vendor Elasticsearch changes in db-client-go (#39)
+- [1e8b3cd7](https://github.com/kubedb/ui-server/commit/1e8b3cd7) Acquire license from license-proxyserver if available (#37)
+- [eef867b5](https://github.com/kubedb/ui-server/commit/eef867b5) Fix linter warning regarding selfLink (#36)
+- [15556fc9](https://github.com/kubedb/ui-server/commit/15556fc9) Update to k8s 1.24 toolchain (#35)
+
+
+

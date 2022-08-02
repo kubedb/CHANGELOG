@@ -86,6 +86,26 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.21.0-rc.0)
+
+- [15f1a9dd](https://github.com/kubedb/mysql/commit/15f1a9dd) Prepare for release v0.21.0-rc.0 (#484)
+- [43f733a3](https://github.com/kubedb/mysql/commit/43f733a3) Acquire license from license-proxyserver if available (#483)
+- [0c88f473](https://github.com/kubedb/mysql/commit/0c88f473) Use GetCertSecret instead of MustCertSecretName (#482)
+- [afb1c070](https://github.com/kubedb/mysql/commit/afb1c070) Add support for Custom volume and volume mounts (#481)
+- [4f167ef8](https://github.com/kubedb/mysql/commit/4f167ef8) Update MySQL healthchecker (#480)
+- [05d5179e](https://github.com/kubedb/mysql/commit/05d5179e) Update read replica Auth secret (#477)
+- [d36e09de](https://github.com/kubedb/mysql/commit/d36e09de) upsert volumes with existing volumes. (#476)
+- [e51c7d79](https://github.com/kubedb/mysql/commit/e51c7d79) Use docker image with digest value (#475)
+- [574fc526](https://github.com/kubedb/mysql/commit/574fc526) SKIP_IMAGE_DIGEST for dev builds (#479)
+- [10dd0b78](https://github.com/kubedb/mysql/commit/10dd0b78) Fix not ready condition after removing halt (#478)
+- [3c514bae](https://github.com/kubedb/mysql/commit/3c514bae) Update to k8s 1.24 toolchain (#473)
+- [6a09468a](https://github.com/kubedb/mysql/commit/6a09468a) Update to k8s 1.24 toolchain (#472)
+- [04c925b5](https://github.com/kubedb/mysql/commit/04c925b5) Test against Kubernetes 1.24.0 (#471)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.6.0-rc.0)

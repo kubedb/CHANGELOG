@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:10:40.95943183Z",
+  "release_date": "2022-08-02T18:10:46.349035102Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -68,6 +68,28 @@
             {
               "SHA": "93fd95b65",
               "Subject": "Test against Kubernetes 1.24.0 (#578)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "445a2ff",
+              "Subject": "Acquire license from license-proxyserver if available (#23)"
+            },
+            {
+              "SHA": "28eb2d4",
+              "Subject": "Update to k8s 1.24 toolchain (#22)"
+            },
+            {
+              "SHA": "40d3dd9",
+              "Subject": "Update to k8s 1.24 toolchain (#21)"
             }
           ]
         }

@@ -40,6 +40,24 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.12.0-rc.0)
+
+- [8ed9b5e8](https://github.com/kubedb/mariadb/commit/8ed9b5e8) Prepare for release v0.12.0-rc.0 (#161)
+- [7eb4d546](https://github.com/kubedb/mariadb/commit/7eb4d546) Acquire license from license-proxyserver if available (#160)
+- [16dc94dd](https://github.com/kubedb/mariadb/commit/16dc94dd) Add custom volume and volume mount support (#159)
+- [d03b7ab3](https://github.com/kubedb/mariadb/commit/d03b7ab3) Update MariaDB Health check (#155)
+- [ac7fc040](https://github.com/kubedb/mariadb/commit/ac7fc040) Add syncAndValidate for secrets | Not delete custom auth secrets (#153)
+- [75a280b3](https://github.com/kubedb/mariadb/commit/75a280b3) SKIP_IMAGE_DIGEST for dev builds (#158)
+- [09e31be1](https://github.com/kubedb/mariadb/commit/09e31be1) Fix MariaDB not ready condition after removing halt (#157)
+- [29934625](https://github.com/kubedb/mariadb/commit/29934625) Add digest value on docker image (#154)
+- [a73717c8](https://github.com/kubedb/mariadb/commit/a73717c8) Update to k8s 1.24 toolchain (#151)
+- [ff6e83e5](https://github.com/kubedb/mariadb/commit/ff6e83e5) Update to k8s 1.24 toolchain (#150)
+- [c1dba654](https://github.com/kubedb/mariadb/commit/c1dba654) Test against Kubernetes 1.24.0 (#148)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.8.0-rc.0)

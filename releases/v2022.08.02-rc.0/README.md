@@ -267,6 +267,19 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/schema-manager/releases/tag/v0.4.0-rc.0)
+
+- [114d882a](https://github.com/kubedb/schema-manager/commit/114d882a) Prepare for release v0.4.0-rc.0 (#36)
+- [bcb51407](https://github.com/kubedb/schema-manager/commit/bcb51407) Update db-client-go (#35)
+- [e6ffd878](https://github.com/kubedb/schema-manager/commit/e6ffd878) Acquire license from license-proxyserver if available (#34)
+- [5a6ae96d](https://github.com/kubedb/schema-manager/commit/5a6ae96d) Update kutil dependency (#33)
+- [8e9a2732](https://github.com/kubedb/schema-manager/commit/8e9a2732) Update to use KubeVault v2022.06.16 (#32)
+- [5f7e441d](https://github.com/kubedb/schema-manager/commit/5f7e441d) Update to k8s 1.24 toolchain (#31)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.13.0-rc.0)

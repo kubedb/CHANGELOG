@@ -53,6 +53,18 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.21.0-rc.0)
+
+- [6fcbc121](https://github.com/kubedb/memcached/commit/6fcbc121) Prepare for release v0.21.0-rc.0 (#360)
+- [8d43bd1e](https://github.com/kubedb/memcached/commit/8d43bd1e) Acquire license from license-proxyserver if available (#359)
+- [cd2fa52b](https://github.com/kubedb/memcached/commit/cd2fa52b) Fix validator webhook api group
+- [71c254a7](https://github.com/kubedb/memcached/commit/71c254a7) Update to k8s 1.24 toolchain (#357)
+- [0545e187](https://github.com/kubedb/memcached/commit/0545e187) Test against Kubernetes 1.24.0 (#356)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.21.0-rc.0)

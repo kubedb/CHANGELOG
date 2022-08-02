@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:17:43.237487506Z",
+  "release_date": "2022-08-02T18:18:55.941292652Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -136,6 +136,36 @@
             {
               "SHA": "3c23773",
               "Subject": "Update to k8s 1.24 toolchain (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6fcbc121",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#360)"
+            },
+            {
+              "SHA": "8d43bd1e",
+              "Subject": "Acquire license from license-proxyserver if available (#359)"
+            },
+            {
+              "SHA": "cd2fa52b",
+              "Subject": "Fix validator webhook api group"
+            },
+            {
+              "SHA": "71c254a7",
+              "Subject": "Update to k8s 1.24 toolchain (#357)"
+            },
+            {
+              "SHA": "0545e187",
+              "Subject": "Test against Kubernetes 1.24.0 (#356)"
             }
           ]
         }

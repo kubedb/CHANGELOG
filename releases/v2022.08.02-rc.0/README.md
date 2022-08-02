@@ -129,6 +129,19 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.15.0-rc.0)
+
+- [4970d99b](https://github.com/kubedb/percona-xtradb/commit/4970d99b) Prepare for release v0.15.0-rc.0 (#264)
+- [d1896876](https://github.com/kubedb/percona-xtradb/commit/d1896876) Acquire license from license-proxyserver if available (#263)
+- [8e65e97d](https://github.com/kubedb/percona-xtradb/commit/8e65e97d) Add custom volume and volume mount support (#262)
+- [1866eed1](https://github.com/kubedb/percona-xtradb/commit/1866eed1) Add Percona XtraDB Cluster Support (#237)
+- [501c5a18](https://github.com/kubedb/percona-xtradb/commit/501c5a18) Update to k8s 1.24 toolchain (#260)
+- [e632ea56](https://github.com/kubedb/percona-xtradb/commit/e632ea56) Test against Kubernetes 1.24.0 (#259)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.12.0-rc.0)

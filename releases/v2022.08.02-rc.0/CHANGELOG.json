@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.02-rc.0",
-  "release_date": "2022-08-02T18:17:31.209577551Z",
+  "release_date": "2022-08-02T18:17:43.237487506Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.02-rc.0",
   "kubernetes_version": "1.16+",
@@ -136,6 +136,72 @@
             {
               "SHA": "3c23773",
               "Subject": "Update to k8s 1.24 toolchain (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c0a023d2",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#496)"
+            },
+            {
+              "SHA": "0b56bec3",
+              "Subject": "Update db-client-go (#495)"
+            },
+            {
+              "SHA": "7126f7f1",
+              "Subject": "getExporterContainer only if monitoring enabled (#494)"
+            },
+            {
+              "SHA": "cdd6adbc",
+              "Subject": "Acquire license from license-proxyserver if available (#493)"
+            },
+            {
+              "SHA": "c598db8e",
+              "Subject": "Add `--collect-all` exporter container cmd args (#487)"
+            },
+            {
+              "SHA": "dc2fce0d",
+              "Subject": "Add InMemory validations & some refactoration (#491)"
+            },
+            {
+              "SHA": "991588ef",
+              "Subject": "Add support for custom volumes (#492)"
+            },
+            {
+              "SHA": "4fc305c0",
+              "Subject": "Update Health Checker (#480)"
+            },
+            {
+              "SHA": "3be64a6b",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#490)"
+            },
+            {
+              "SHA": "3fd70298",
+              "Subject": "Use docker images with digest value (#486)"
+            },
+            {
+              "SHA": "c7325a29",
+              "Subject": "Fix connection leak when ping fails (#485)"
+            },
+            {
+              "SHA": "4ff96a0e",
+              "Subject": "Use kubebuilder client for db-client-go (#484)"
+            },
+            {
+              "SHA": "4094f54a",
+              "Subject": "Update to k8s 1.24 toolchain (#482)"
+            },
+            {
+              "SHA": "2e56a4e9",
+              "Subject": "Update to k8s 1.24 toolchain (#481)"
             }
           ]
         }

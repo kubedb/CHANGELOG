@@ -56,6 +56,16 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.21.0-rc.1)
+
+- [f0f44703](https://github.com/kubedb/mysql/commit/f0f44703) Prepare for release v0.21.0-rc.1 (#487)
+- [77e0b015](https://github.com/kubedb/mysql/commit/77e0b015) refactor mysql health checker (#486)
+- [8c008024](https://github.com/kubedb/mysql/commit/8c008024) Update health checker (#485)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.6.0-rc.1)

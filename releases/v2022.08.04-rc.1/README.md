@@ -29,6 +29,16 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.6.0-rc.1)
+
+- [fa7ad1c](https://github.com/kubedb/mysql-coordinator/commit/fa7ad1c) Prepare for release v0.6.0-rc.1 (#46)
+- [2c3615b](https://github.com/kubedb/mysql-coordinator/commit/2c3615b) update labels (#45)
+- [38a4f88](https://github.com/kubedb/mysql-coordinator/commit/38a4f88) Update health checker (#43)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.6.0-rc.1)

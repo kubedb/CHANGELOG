@@ -126,6 +126,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.21.0-rc.1)
+
+- [4be0e311](https://github.com/kubedb/redis/commit/4be0e311) Prepare for release v0.21.0-rc.1 (#415)
+- [c819ea86](https://github.com/kubedb/redis/commit/c819ea86) Update Health Checker (#414)
+- [41079e80](https://github.com/kubedb/redis/commit/41079e80) Update health checker (#413)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.7.0-rc.1)

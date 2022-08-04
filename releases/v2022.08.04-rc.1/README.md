@@ -184,6 +184,16 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.4.0-rc.1](https://github.com/kubedb/schema-manager/releases/tag/v0.4.0-rc.1)
+
+- [d5033ad5](https://github.com/kubedb/schema-manager/commit/d5033ad5) Prepare for release v0.4.0-rc.1 (#39)
+- [0f7e0747](https://github.com/kubedb/schema-manager/commit/0f7e0747) Update db-client-go (#38)
+- [9b44c0dc](https://github.com/kubedb/schema-manager/commit/9b44c0dc) Update health checker (#37)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.13.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.13.0-rc.1)

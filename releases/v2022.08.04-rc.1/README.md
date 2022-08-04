@@ -18,6 +18,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.12.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.12.0-rc.1)
+
+- [0cad6134](https://github.com/kubedb/mariadb/commit/0cad6134) Prepare for release v0.12.0-rc.1 (#163)
+- [7cf4c255](https://github.com/kubedb/mariadb/commit/7cf4c255) Update health checker (#162)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.8.0-rc.1)

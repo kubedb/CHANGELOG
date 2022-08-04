@@ -155,6 +155,16 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/provisioner/releases/tag/v0.28.0-rc.1)
+
+- [e855a3ff](https://github.com/kubedb/provisioner/commit/e855a3ff6) Prepare for release v0.28.0-rc.1 (#10)
+- [309ada2c](https://github.com/kubedb/provisioner/commit/309ada2c9) Update db-client-go (#9)
+- [e61a83fc](https://github.com/kubedb/provisioner/commit/e61a83fcd) Update health checker (#8)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.15.0-rc.1)

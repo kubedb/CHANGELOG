@@ -127,6 +127,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.15.0-rc.1)
+
+- [6b3f6715](https://github.com/kubedb/pgbouncer/commit/6b3f6715) Prepare for release v0.15.0-rc.1 (#232)
+- [a88654ad](https://github.com/kubedb/pgbouncer/commit/a88654ad) Update health checker (#231)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.28.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.28.0-rc.1)

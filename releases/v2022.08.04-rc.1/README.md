@@ -36,3 +36,12 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.12.0-rc.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.12.0-rc.1)
+
+- [e555754d](https://github.com/kubedb/pg-coordinator/commit/e555754d) Prepare for release v0.12.0-rc.1 (#88)
+- [28c83e07](https://github.com/kubedb/pg-coordinator/commit/28c83e07) Update health checker (#86)
+
+
+

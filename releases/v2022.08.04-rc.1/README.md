@@ -107,3 +107,13 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.13.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.13.0-rc.1)
+
+- [a8571959](https://github.com/kubedb/tests/commit/a8571959) Prepare for release v0.13.0-rc.1 (#186)
+- [77ce04e4](https://github.com/kubedb/tests/commit/77ce04e4) Update db-client-go (#185)
+- [7924eac1](https://github.com/kubedb/tests/commit/7924eac1) Update health checker (#184)
+
+
+

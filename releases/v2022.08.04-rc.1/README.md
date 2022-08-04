@@ -146,6 +146,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.15.0-rc.1)
+
+- [de17ccb4](https://github.com/kubedb/proxysql/commit/de17ccb4) Prepare for release v0.15.0-rc.1 (#245)
+- [bceb7ff5](https://github.com/kubedb/proxysql/commit/bceb7ff5) Update health checker (#244)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.21.0-rc.1)

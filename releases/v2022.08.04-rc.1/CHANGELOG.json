@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T17:20:40.744626097Z",
+  "release_date": "2022-08-04T17:20:59.098536913Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -310,6 +310,24 @@
             {
               "SHA": "acf99b7f",
               "Subject": "Update health checker (#583)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "de17ccb4",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#245)"
+            },
+            {
+              "SHA": "bceb7ff5",
+              "Subject": "Update health checker (#244)"
             }
           ]
         }

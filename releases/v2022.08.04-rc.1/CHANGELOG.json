@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T16:56:51.444184973Z",
+  "release_date": "2022-08-04T16:57:15.532583108Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -186,6 +186,28 @@
             {
               "SHA": "28c83e07",
               "Subject": "Update health checker (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f2b875d4",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#585)"
+            },
+            {
+              "SHA": "a15214c9",
+              "Subject": "Set default values during reconcile cycle (#584)"
+            },
+            {
+              "SHA": "acf99b7f",
+              "Subject": "Update health checker (#583)"
             }
           ]
         }

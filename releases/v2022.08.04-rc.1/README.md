@@ -88,6 +88,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.28.0-rc.1)
+
+- [f2b875d4](https://github.com/kubedb/postgres/commit/f2b875d4) Prepare for release v0.28.0-rc.1 (#585)
+- [a15214c9](https://github.com/kubedb/postgres/commit/a15214c9) Set default values during reconcile cycle (#584)
+- [acf99b7f](https://github.com/kubedb/postgres/commit/acf99b7f) Update health checker (#583)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.7.0-rc.1)

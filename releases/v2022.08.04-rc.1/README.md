@@ -49,6 +49,14 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2022.08.04-rc.1](https://github.com/kubedb/installer/releases/tag/v2022.08.04-rc.1)
+
+- [16c0c0bd](https://github.com/kubedb/installer/commit/16c0c0bd) Prepare for release v2022.08.04-rc.1 (#524)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.12.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.12.0-rc.1)

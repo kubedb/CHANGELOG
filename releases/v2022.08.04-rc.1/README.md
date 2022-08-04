@@ -18,6 +18,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.8.0-rc.1)
+
+- [fe8a57e](https://github.com/kubedb/mariadb-coordinator/commit/fe8a57e) Prepare for release v0.8.0-rc.1 (#52)
+- [9c3c47f](https://github.com/kubedb/mariadb-coordinator/commit/9c3c47f) Update health checker (#51)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.21.0-rc.1)

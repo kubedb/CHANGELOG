@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T16:55:29.965422771Z",
+  "release_date": "2022-08-04T16:56:19.000458364Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -33,6 +33,24 @@
             {
               "SHA": "0e65567a",
               "Subject": "Update health checker (#672)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "fe8a57e",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#52)"
+            },
+            {
+              "SHA": "9c3c47f",
+              "Subject": "Update health checker (#51)"
             }
           ]
         }

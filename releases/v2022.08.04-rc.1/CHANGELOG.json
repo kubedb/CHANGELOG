@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T16:56:19.000458364Z",
+  "release_date": "2022-08-04T16:56:51.444184973Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -128,6 +128,48 @@
         {
           "tag": "v0.6.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "290e281",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "c57449c",
+              "Subject": "Update health checker (#8)"
+            },
+            {
+              "SHA": "adad8b5",
+              "Subject": "Acquire license from license-proxyserver if available (#7)"
+            },
+            {
+              "SHA": "14f17f0",
+              "Subject": "Add Percona XtraDB Coordinator (#3)"
+            },
+            {
+              "SHA": "4434736",
+              "Subject": "Update to k8s 1.24 toolchain (#5)"
+            },
+            {
+              "SHA": "e01945d",
+              "Subject": "Update to k8s 1.24 toolchain (#4)"
+            },
+            {
+              "SHA": "ad7dd9c",
+              "Subject": "Use Go 1.18 (#2)"
+            },
+            {
+              "SHA": "5a140bb",
+              "Subject": "make fmt (#1)"
+            }
+          ]
         }
       ]
     },

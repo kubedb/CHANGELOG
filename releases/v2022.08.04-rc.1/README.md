@@ -64,6 +64,21 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.1.0-rc.1)
+
+- [290e281](https://github.com/kubedb/percona-xtradb-coordinator/commit/290e281) Prepare for release v0.1.0-rc.1 (#9)
+- [c57449c](https://github.com/kubedb/percona-xtradb-coordinator/commit/c57449c) Update health checker (#8)
+- [adad8b5](https://github.com/kubedb/percona-xtradb-coordinator/commit/adad8b5) Acquire license from license-proxyserver if available (#7)
+- [14f17f0](https://github.com/kubedb/percona-xtradb-coordinator/commit/14f17f0) Add Percona XtraDB Coordinator (#3)
+- [4434736](https://github.com/kubedb/percona-xtradb-coordinator/commit/4434736) Update to k8s 1.24 toolchain (#5)
+- [e01945d](https://github.com/kubedb/percona-xtradb-coordinator/commit/e01945d) Update to k8s 1.24 toolchain (#4)
+- [ad7dd9c](https://github.com/kubedb/percona-xtradb-coordinator/commit/ad7dd9c) Use Go 1.18 (#2)
+- [5a140bb](https://github.com/kubedb/percona-xtradb-coordinator/commit/5a140bb) make fmt (#1)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.12.0-rc.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.12.0-rc.1)

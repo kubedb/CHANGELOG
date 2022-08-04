@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T16:43:04.800627098Z",
+  "release_date": "2022-08-04T16:49:31.913423966Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -15,6 +15,24 @@
             {
               "SHA": "1241b40d",
               "Subject": "Configure health checker default value (#954)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "96b98521",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#362)"
+            },
+            {
+              "SHA": "98aeae01",
+              "Subject": "Update health checker (#361)"
             }
           ]
         }

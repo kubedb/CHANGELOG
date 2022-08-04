@@ -9,3 +9,12 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.21.0-rc.1)
+
+- [96b98521](https://github.com/kubedb/memcached/commit/96b98521) Prepare for release v0.21.0-rc.1 (#362)
+- [98aeae01](https://github.com/kubedb/memcached/commit/98aeae01) Update health checker (#361)
+
+
+

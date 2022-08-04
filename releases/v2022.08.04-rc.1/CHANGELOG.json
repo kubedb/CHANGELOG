@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T16:49:35.275700394Z",
+  "release_date": "2022-08-04T16:53:34.132644733Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -33,6 +33,32 @@
             {
               "SHA": "98aeae01",
               "Subject": "Update health checker (#361)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0640deb7",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#500)"
+            },
+            {
+              "SHA": "ff02931d",
+              "Subject": "Update db-client-go (#499)"
+            },
+            {
+              "SHA": "3da24ba2",
+              "Subject": "SetDefaults when adding the finalizer (#498)"
+            },
+            {
+              "SHA": "5652fdc8",
+              "Subject": "Update health checker (#497)"
             }
           ]
         }

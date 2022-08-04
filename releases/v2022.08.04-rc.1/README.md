@@ -18,6 +18,17 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.21.0-rc.1)
+
+- [0640deb7](https://github.com/kubedb/mongodb/commit/0640deb7) Prepare for release v0.21.0-rc.1 (#500)
+- [ff02931d](https://github.com/kubedb/mongodb/commit/ff02931d) Update db-client-go (#499)
+- [3da24ba2](https://github.com/kubedb/mongodb/commit/3da24ba2) SetDefaults when adding the finalizer (#498)
+- [5652fdc8](https://github.com/kubedb/mongodb/commit/5652fdc8) Update health checker (#497)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.6.0-rc.1)

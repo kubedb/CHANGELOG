@@ -38,6 +38,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2022.08.04-rc.1](https://github.com/kubedb/docs/releases/tag/v2022.08.04-rc.1)
+
+- [31ac81a](https://github.com/kubedb/docs/commit/31ac81a) Prepare for release v2022.08.04-rc.1 (#492)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.28.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.28.0-rc.1)

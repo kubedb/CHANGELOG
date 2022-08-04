@@ -213,3 +213,13 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.4.0-rc.1](https://github.com/kubedb/ui-server/releases/tag/v0.4.0-rc.1)
+
+- [64a798ef](https://github.com/kubedb/ui-server/commit/64a798ef) Prepare for release v0.4.0-rc.1 (#43)
+- [a0475425](https://github.com/kubedb/ui-server/commit/a0475425) Update db-client-go (#42)
+- [82a9bec5](https://github.com/kubedb/ui-server/commit/82a9bec5) Update health checker (#41)
+
+
+

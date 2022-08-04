@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T17:39:59.748536745Z",
+  "release_date": "2022-08-04T17:40:10.494776728Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -452,6 +452,28 @@
             {
               "SHA": "7924eac1",
               "Subject": "Update health checker (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.1",
+          "commits": [
+            {
+              "SHA": "64a798ef",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#43)"
+            },
+            {
+              "SHA": "a0475425",
+              "Subject": "Update db-client-go (#42)"
+            },
+            {
+              "SHA": "82a9bec5",
+              "Subject": "Update health checker (#41)"
             }
           ]
         }

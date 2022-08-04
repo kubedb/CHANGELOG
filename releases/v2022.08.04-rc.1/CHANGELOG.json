@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T17:47:46.429228944Z",
+  "release_date": "2022-08-04T18:02:09.593491714Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -15,6 +15,32 @@
             {
               "SHA": "1241b40d",
               "Subject": "Configure health checker default value (#954)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.1",
+          "commits": [
+            {
+              "SHA": "8d0fadbb",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#98)"
+            },
+            {
+              "SHA": "b907af64",
+              "Subject": "Update db-client-go (#97)"
+            },
+            {
+              "SHA": "54169b06",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "50914655",
+              "Subject": "Update health checker (#96)"
             }
           ]
         }

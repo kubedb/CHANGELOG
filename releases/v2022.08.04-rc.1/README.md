@@ -9,6 +9,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.13.0-rc.1](https://github.com/kubedb/autoscaler/releases/tag/v0.13.0-rc.1)
+
+- [8d0fadbb](https://github.com/kubedb/autoscaler/commit/8d0fadbb) Prepare for release v0.13.0-rc.1 (#98)
+- [b907af64](https://github.com/kubedb/autoscaler/commit/b907af64) Update db-client-go (#97)
+- [54169b06](https://github.com/kubedb/autoscaler/commit/54169b06) Update .kodiak.toml
+- [50914655](https://github.com/kubedb/autoscaler/commit/50914655) Update health checker (#96)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.28.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.28.0-rc.1)

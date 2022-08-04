@@ -18,6 +18,15 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.4.0-rc.1](https://github.com/kubedb/dashboard/releases/tag/v0.4.0-rc.1)
+
+- [1e0ee6f](https://github.com/kubedb/dashboard/commit/1e0ee6f) Prepare for release v0.4.0-rc.1 (#35)
+- [4844400](https://github.com/kubedb/dashboard/commit/4844400) Update health checker (#33)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.28.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.28.0-rc.1)

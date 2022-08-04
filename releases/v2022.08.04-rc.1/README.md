@@ -9,6 +9,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.28.0-rc.1)
+
+- [1f0d46aa](https://github.com/kubedb/cli/commit/1f0d46aa) Prepare for release v0.28.0-rc.1 (#673)
+- [0e65567a](https://github.com/kubedb/cli/commit/0e65567a) Update health checker (#672)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.21.0-rc.1)

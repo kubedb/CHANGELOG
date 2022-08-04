@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T16:55:20.159017218Z",
+  "release_date": "2022-08-04T16:55:29.965422771Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -15,6 +15,24 @@
             {
               "SHA": "1241b40d",
               "Subject": "Configure health checker default value (#954)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1f0d46aa",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#673)"
+            },
+            {
+              "SHA": "0e65567a",
+              "Subject": "Update health checker (#672)"
             }
           ]
         }

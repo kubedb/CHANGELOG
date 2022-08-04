@@ -45,3 +45,12 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.7.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.7.0-rc.1)
+
+- [535162a](https://github.com/kubedb/redis-coordinator/commit/535162a) Prepare for release v0.7.0-rc.1 (#40)
+- [9dc5d3d](https://github.com/kubedb/redis-coordinator/commit/9dc5d3d) Update health checker (#39)
+
+
+

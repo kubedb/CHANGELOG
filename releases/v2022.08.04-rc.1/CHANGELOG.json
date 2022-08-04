@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T17:00:05.917806138Z",
+  "release_date": "2022-08-04T17:03:41.06075937Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -33,6 +33,32 @@
             {
               "SHA": "0e65567a",
               "Subject": "Update health checker (#672)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": [
+            {
+              "SHA": "29ab6c81b",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#596)"
+            },
+            {
+              "SHA": "bcaa3512c",
+              "Subject": "Update db-client-go (#595)"
+            },
+            {
+              "SHA": "5755abf3b",
+              "Subject": "Set default values during reconcile cycle (#594)"
+            },
+            {
+              "SHA": "af727aab7",
+              "Subject": "Update health checker (#593)"
             }
           ]
         }

@@ -18,6 +18,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.28.0-rc.1)
+
+- [29ab6c81](https://github.com/kubedb/elasticsearch/commit/29ab6c81b) Prepare for release v0.28.0-rc.1 (#596)
+- [bcaa3512](https://github.com/kubedb/elasticsearch/commit/bcaa3512c) Update db-client-go (#595)
+- [5755abf3](https://github.com/kubedb/elasticsearch/commit/5755abf3b) Set default values during reconcile cycle (#594)
+- [af727aab](https://github.com/kubedb/elasticsearch/commit/af727aab7) Update health checker (#593)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.12.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.12.0-rc.1)

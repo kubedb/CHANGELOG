@@ -103,6 +103,18 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/ops-manager/releases/tag/v0.15.0-rc.1)
+
+- [23ca2d3b](https://github.com/kubedb/ops-manager/commit/23ca2d3b9) Prepare for release v0.15.0-rc.1 (#336)
+- [2d03cc25](https://github.com/kubedb/ops-manager/commit/2d03cc257) Fix Upgrade | Volume Expansion ops request MySQL (#335)
+- [9f4c0acb](https://github.com/kubedb/ops-manager/commit/9f4c0acb1) Update db-client-go (#334)
+- [490d5fce](https://github.com/kubedb/ops-manager/commit/490d5fcec) Update health checker (#332)
+- [0531e84b](https://github.com/kubedb/ops-manager/commit/0531e84b6) Fix multiple recommendation creation for same cause for empty phase (#333)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.15.0-rc.1)

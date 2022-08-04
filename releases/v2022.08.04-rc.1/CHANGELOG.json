@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.04-rc.1",
-  "release_date": "2022-08-04T18:02:09.593491714Z",
+  "release_date": "2022-08-04T18:26:19.309964053Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
   "kubernetes_version": "1.16+",
@@ -552,6 +552,24 @@
             {
               "SHA": "82a9bec5",
               "Subject": "Update health checker (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1714ad93",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#25)"
+            },
+            {
+              "SHA": "30558972",
+              "Subject": "Add Clsuter Topology in PerconaXtraDB (#24)"
             }
           ]
         }

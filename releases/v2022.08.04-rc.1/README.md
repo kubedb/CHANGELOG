@@ -256,3 +256,12 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.4.0-rc.1](https://github.com/kubedb/webhook-server/releases/tag/v0.4.0-rc.1)
+
+- [1714ad93](https://github.com/kubedb/webhook-server/commit/1714ad93) Prepare for release v0.4.0-rc.1 (#25)
+- [30558972](https://github.com/kubedb/webhook-server/commit/30558972) Add Clsuter Topology in PerconaXtraDB (#24)
+
+
+

@@ -73,6 +73,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.15.0-rc.1)
+
+- [c512779b](https://github.com/kubedb/percona-xtradb/commit/c512779b) Prepare for release v0.15.0-rc.1 (#266)
+- [a767d382](https://github.com/kubedb/percona-xtradb/commit/a767d382) Update health checker (#265)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.1.0-rc.1)

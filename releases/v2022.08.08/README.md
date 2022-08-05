@@ -71,3 +71,23 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.28.0](https://github.com/kubedb/postgres/releases/tag/v0.28.0)
+
+- [e61ca57b](https://github.com/kubedb/postgres/commit/e61ca57b) Prepare for release v0.28.0 (#586)
+- [f2b875d4](https://github.com/kubedb/postgres/commit/f2b875d4) Prepare for release v0.28.0-rc.1 (#585)
+- [a15214c9](https://github.com/kubedb/postgres/commit/a15214c9) Set default values during reconcile cycle (#584)
+- [acf99b7f](https://github.com/kubedb/postgres/commit/acf99b7f) Update health checker (#583)
+- [e2a4636b](https://github.com/kubedb/postgres/commit/e2a4636b) Prepare for release v0.28.0-rc.0 (#582)
+- [8f861234](https://github.com/kubedb/postgres/commit/8f861234) Acquire license from license-proxyserver if available (#581)
+- [52f6820d](https://github.com/kubedb/postgres/commit/52f6820d) Add Custom Volume and VolumeMount Support (#580)
+- [34f8283f](https://github.com/kubedb/postgres/commit/34f8283f) Update Postgres  health check (#578)
+- [ad40ece7](https://github.com/kubedb/postgres/commit/ad40ece7) Use docker image with digest value (#579)
+- [c51a4716](https://github.com/kubedb/postgres/commit/c51a4716) Update: remove sidecar from standalone. (#576)
+- [514ef2bd](https://github.com/kubedb/postgres/commit/514ef2bd) SKIP_IMAGE_DIGEST for dev builds (#577)
+- [2bc43818](https://github.com/kubedb/postgres/commit/2bc43818) Update to k8s 1.24 toolchain (#575)
+- [8e2a02a3](https://github.com/kubedb/postgres/commit/8e2a02a3) Test against Kubernetes 1.24.0 (#574)
+
+
+

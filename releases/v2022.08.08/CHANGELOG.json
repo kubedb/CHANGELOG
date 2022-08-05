@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.08",
-  "release_date": "2022-08-05T14:06:07.216723567Z",
+  "release_date": "2022-08-05T14:11:02.13224904Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.08",
   "kubernetes_version": "1.16+",
@@ -384,6 +384,44 @@
             {
               "SHA": "0a9cf005",
               "Subject": "Update to k8s 1.24 toolchain (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "9d36df53",
+              "Subject": "Prepare for release v0.13.0 (#187)"
+            },
+            {
+              "SHA": "a8571959",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#186)"
+            },
+            {
+              "SHA": "77ce04e4",
+              "Subject": "Update db-client-go (#185)"
+            },
+            {
+              "SHA": "7924eac1",
+              "Subject": "Update health checker (#184)"
+            },
+            {
+              "SHA": "c9a1d705",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#183)"
+            },
+            {
+              "SHA": "7307b213",
+              "Subject": "Acquire license from license-proxyserver if available (#182)"
+            },
+            {
+              "SHA": "84bdf708",
+              "Subject": "Update to k8s 1.24 toolchain (#180)"
             }
           ]
         }

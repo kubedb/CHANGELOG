@@ -133,3 +133,17 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.13.0](https://github.com/kubedb/tests/releases/tag/v0.13.0)
+
+- [9d36df53](https://github.com/kubedb/tests/commit/9d36df53) Prepare for release v0.13.0 (#187)
+- [a8571959](https://github.com/kubedb/tests/commit/a8571959) Prepare for release v0.13.0-rc.1 (#186)
+- [77ce04e4](https://github.com/kubedb/tests/commit/77ce04e4) Update db-client-go (#185)
+- [7924eac1](https://github.com/kubedb/tests/commit/7924eac1) Update health checker (#184)
+- [c9a1d705](https://github.com/kubedb/tests/commit/c9a1d705) Prepare for release v0.13.0-rc.0 (#183)
+- [7307b213](https://github.com/kubedb/tests/commit/7307b213) Acquire license from license-proxyserver if available (#182)
+- [84bdf708](https://github.com/kubedb/tests/commit/84bdf708) Update to k8s 1.24 toolchain (#180)
+
+
+

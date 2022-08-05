@@ -158,6 +158,27 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.21.0](https://github.com/kubedb/redis/releases/tag/v0.21.0)
+
+- [fb199e1d](https://github.com/kubedb/redis/commit/fb199e1d) Prepare for release v0.21.0 (#417)
+- [3a11cd64](https://github.com/kubedb/redis/commit/3a11cd64) Update PoolTimeout for Redis Shard Cluster to avoid Connection Pool Timeout (#416)
+- [4be0e311](https://github.com/kubedb/redis/commit/4be0e311) Prepare for release v0.21.0-rc.1 (#415)
+- [c819ea86](https://github.com/kubedb/redis/commit/c819ea86) Update Health Checker (#414)
+- [41079e80](https://github.com/kubedb/redis/commit/41079e80) Update health checker (#413)
+- [a5ec2963](https://github.com/kubedb/redis/commit/a5ec2963) Prepare for release v0.21.0-rc.0 (#411)
+- [738a1964](https://github.com/kubedb/redis/commit/738a1964) Acquire license from license-proxyserver if available (#410)
+- [9336d51d](https://github.com/kubedb/redis/commit/9336d51d) Add Custom Volume Support (#409)
+- [8235b201](https://github.com/kubedb/redis/commit/8235b201) Rework Redis and Redis Sentinel Health Checker (#403)
+- [f5c45ae5](https://github.com/kubedb/redis/commit/f5c45ae5) Image Digest For Sentinel Images (#406)
+- [8962659f](https://github.com/kubedb/redis/commit/8962659f) SKIP_IMAGE_DIGEST for dev builds (#405)
+- [efa9e726](https://github.com/kubedb/redis/commit/efa9e726) Use image with digest value (#402)
+- [08388f4a](https://github.com/kubedb/redis/commit/08388f4a) Update to k8s 1.24 toolchain (#400)
+- [82cd6ba2](https://github.com/kubedb/redis/commit/82cd6ba2) Test against Kubernetes 1.24.0 (#398)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.7.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.7.0)

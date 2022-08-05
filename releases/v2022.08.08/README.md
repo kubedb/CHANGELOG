@@ -30,3 +30,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.6.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.6.0)
+
+- [445a2ff](https://github.com/kubedb/mysql-router-init/commit/445a2ff) Acquire license from license-proxyserver if available (#23)
+- [28eb2d4](https://github.com/kubedb/mysql-router-init/commit/28eb2d4) Update to k8s 1.24 toolchain (#22)
+- [40d3dd9](https://github.com/kubedb/mysql-router-init/commit/40d3dd9) Update to k8s 1.24 toolchain (#21)
+
+
+

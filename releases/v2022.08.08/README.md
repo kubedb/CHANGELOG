@@ -60,6 +60,17 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2022.08.08](https://github.com/kubedb/docs/releases/tag/v2022.08.08)
+
+- [d9807f9](https://github.com/kubedb/docs/commit/d9807f9) Prepare for release v2022.08.08 (#493)
+- [31ac81a](https://github.com/kubedb/docs/commit/31ac81a) Prepare for release v2022.08.04-rc.1 (#492)
+- [eeaed7e](https://github.com/kubedb/docs/commit/eeaed7e) Prepare for release v2022.08.02-rc.0 (#491)
+- [a067a99](https://github.com/kubedb/docs/commit/a067a99) Update docs for kubedb/webhook-server@de1db0e8 (#490)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.28.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.28.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.08",
-  "release_date": "2022-08-05T14:30:27.200917978Z",
+  "release_date": "2022-08-05T14:31:28.943875741Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.08",
   "kubernetes_version": "1.16+",
@@ -56,6 +56,84 @@
             {
               "SHA": "1642a399",
               "Subject": "Update to k8s 1.24 toolchain (#665)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "7b5e40d02",
+              "Subject": "Prepare for release v0.28.0 (#597)"
+            },
+            {
+              "SHA": "29ab6c81b",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#596)"
+            },
+            {
+              "SHA": "bcaa3512c",
+              "Subject": "Update db-client-go (#595)"
+            },
+            {
+              "SHA": "5755abf3b",
+              "Subject": "Set default values during reconcile cycle (#594)"
+            },
+            {
+              "SHA": "af727aab7",
+              "Subject": "Update health checker (#593)"
+            },
+            {
+              "SHA": "6991fc7a3",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#592)"
+            },
+            {
+              "SHA": "d8df80d1c",
+              "Subject": "Update db-client-go (#591)"
+            },
+            {
+              "SHA": "177990efa",
+              "Subject": "Make Changes for newKBClient() args removal (#590)"
+            },
+            {
+              "SHA": "3c704bdc1",
+              "Subject": "Acquire license from license-proxyserver if available (#589)"
+            },
+            {
+              "SHA": "46e8fa201",
+              "Subject": "Add support for volumes and volumeMounts (#588)"
+            },
+            {
+              "SHA": "515364158",
+              "Subject": "Re-construct Elasticsearch health checker (#587)"
+            },
+            {
+              "SHA": "cc1a8224a",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#586)"
+            },
+            {
+              "SHA": "c1c84b124",
+              "Subject": "Use docker image with digest value (#579)"
+            },
+            {
+              "SHA": "5594ad035",
+              "Subject": "Change credential sync log level to avoid operator log overloading (#584)"
+            },
+            {
+              "SHA": "6c40c79ed",
+              "Subject": "Revert es client version"
+            },
+            {
+              "SHA": "e6621d980",
+              "Subject": "Update to k8s 1.24 toolchain (#580)"
+            },
+            {
+              "SHA": "93fd95b65",
+              "Subject": "Test against Kubernetes 1.24.0 (#578)"
             }
           ]
         }

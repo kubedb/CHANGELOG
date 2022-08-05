@@ -215,6 +215,23 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.15.0](https://github.com/kubedb/proxysql/releases/tag/v0.15.0)
+
+- [3ad10c1f](https://github.com/kubedb/proxysql/commit/3ad10c1f) Prepare for release v0.15.0 (#246)
+- [de17ccb4](https://github.com/kubedb/proxysql/commit/de17ccb4) Prepare for release v0.15.0-rc.1 (#245)
+- [bceb7ff5](https://github.com/kubedb/proxysql/commit/bceb7ff5) Update health checker (#244)
+- [89e4767d](https://github.com/kubedb/proxysql/commit/89e4767d) Prepare for release v0.15.0-rc.0 (#243)
+- [a4c92b9b](https://github.com/kubedb/proxysql/commit/a4c92b9b) Acquire license from license-proxyserver if available (#242)
+- [fb6f2301](https://github.com/kubedb/proxysql/commit/fb6f2301) Rewrite ProxySQL HealthChecker (#241)
+- [a6c80651](https://github.com/kubedb/proxysql/commit/a6c80651) Add proxysql declarative configuration (#239)
+- [1d9c415c](https://github.com/kubedb/proxysql/commit/1d9c415c) SKIP_IMAGE_DIGEST for dev builds (#240)
+- [23a85c85](https://github.com/kubedb/proxysql/commit/23a85c85) Update to k8s 1.24 toolchain (#237)
+- [a93f8f4e](https://github.com/kubedb/proxysql/commit/a93f8f4e) Test against Kubernetes 1.24.0 (#236)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.21.0](https://github.com/kubedb/redis/releases/tag/v0.21.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.08",
-  "release_date": "2022-08-05T14:52:58.046039358Z",
+  "release_date": "2022-08-05T14:57:25.573422365Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.08",
   "kubernetes_version": "1.16+",
@@ -12,6 +12,76 @@
         {
           "tag": "v0.28.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "72d59743",
+              "Subject": "Prepare for release v0.13.0 (#99)"
+            },
+            {
+              "SHA": "8d0fadbb",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#98)"
+            },
+            {
+              "SHA": "b907af64",
+              "Subject": "Update db-client-go (#97)"
+            },
+            {
+              "SHA": "54169b06",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "50914655",
+              "Subject": "Update health checker (#96)"
+            },
+            {
+              "SHA": "896d0bb5",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#95)"
+            },
+            {
+              "SHA": "a904819e",
+              "Subject": "Update db-client-go (#94)"
+            },
+            {
+              "SHA": "049b959a",
+              "Subject": "Acquire license from license-proxyserver if available (#93)"
+            },
+            {
+              "SHA": "6f47ba7d",
+              "Subject": "Use MemoryUsedPercentage as float (#92)"
+            },
+            {
+              "SHA": "2f41e629",
+              "Subject": "Fix mongodb inMemory calculation and changes for updated autoscaler CRD (#91)"
+            },
+            {
+              "SHA": "a0d00ea2",
+              "Subject": "Update mongodb inmemory recommendation logic (#90)"
+            },
+            {
+              "SHA": "7fd346e6",
+              "Subject": "Change some in-memory recommendation logic (#89)"
+            },
+            {
+              "SHA": "00b9087f",
+              "Subject": "Convert to KubeBuilder style (#88)"
+            },
+            {
+              "SHA": "9a3599ac",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "7260dc2f",
+              "Subject": "Add custom recommender for dbs (#85)"
+            }
+          ]
         }
       ]
     },

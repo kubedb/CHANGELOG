@@ -8,6 +8,28 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.13.0](https://github.com/kubedb/autoscaler/releases/tag/v0.13.0)
+
+- [72d59743](https://github.com/kubedb/autoscaler/commit/72d59743) Prepare for release v0.13.0 (#99)
+- [8d0fadbb](https://github.com/kubedb/autoscaler/commit/8d0fadbb) Prepare for release v0.13.0-rc.1 (#98)
+- [b907af64](https://github.com/kubedb/autoscaler/commit/b907af64) Update db-client-go (#97)
+- [54169b06](https://github.com/kubedb/autoscaler/commit/54169b06) Update .kodiak.toml
+- [50914655](https://github.com/kubedb/autoscaler/commit/50914655) Update health checker (#96)
+- [896d0bb5](https://github.com/kubedb/autoscaler/commit/896d0bb5) Prepare for release v0.13.0-rc.0 (#95)
+- [a904819e](https://github.com/kubedb/autoscaler/commit/a904819e) Update db-client-go (#94)
+- [049b959a](https://github.com/kubedb/autoscaler/commit/049b959a) Acquire license from license-proxyserver if available (#93)
+- [6f47ba7d](https://github.com/kubedb/autoscaler/commit/6f47ba7d) Use MemoryUsedPercentage as float (#92)
+- [2f41e629](https://github.com/kubedb/autoscaler/commit/2f41e629) Fix mongodb inMemory calculation and changes for updated autoscaler CRD (#91)
+- [a0d00ea2](https://github.com/kubedb/autoscaler/commit/a0d00ea2) Update mongodb inmemory recommendation logic (#90)
+- [7fd346e6](https://github.com/kubedb/autoscaler/commit/7fd346e6) Change some in-memory recommendation logic (#89)
+- [00b9087f](https://github.com/kubedb/autoscaler/commit/00b9087f) Convert to KubeBuilder style (#88)
+- [9a3599ac](https://github.com/kubedb/autoscaler/commit/9a3599ac) Update dependencies
+- [7260dc2f](https://github.com/kubedb/autoscaler/commit/7260dc2f) Add custom recommender for dbs (#85)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.28.0](https://github.com/kubedb/cli/releases/tag/v0.28.0)

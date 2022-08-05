@@ -8,6 +8,22 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.28.0](https://github.com/kubedb/cli/releases/tag/v0.28.0)
+
+- [99730379](https://github.com/kubedb/cli/commit/99730379) Prepare for release v0.28.0 (#674)
+- [1f0d46aa](https://github.com/kubedb/cli/commit/1f0d46aa) Prepare for release v0.28.0-rc.1 (#673)
+- [0e65567a](https://github.com/kubedb/cli/commit/0e65567a) Update health checker (#672)
+- [902c36b2](https://github.com/kubedb/cli/commit/902c36b2) Prepare for release v0.28.0-rc.0 (#671)
+- [e0564ec0](https://github.com/kubedb/cli/commit/e0564ec0) Acquire license from license-proxyserver if available (#670)
+- [da3169be](https://github.com/kubedb/cli/commit/da3169be) Update for release Stash@v2022.07.09 (#669)
+- [38b1149c](https://github.com/kubedb/cli/commit/38b1149c) Update for release Stash@v2022.06.21 (#668)
+- [09bb7b93](https://github.com/kubedb/cli/commit/09bb7b93) Update to k8s 1.24 toolchain (#666)
+- [1642a399](https://github.com/kubedb/cli/commit/1642a399) Update to k8s 1.24 toolchain (#665)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.12.0](https://github.com/kubedb/mariadb/releases/tag/v0.12.0)

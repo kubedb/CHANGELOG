@@ -117,6 +117,20 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.7.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.7.0)
+
+- [805f325](https://github.com/kubedb/redis-coordinator/commit/805f325) Prepare for release v0.7.0 (#41)
+- [535162a](https://github.com/kubedb/redis-coordinator/commit/535162a) Prepare for release v0.7.0-rc.1 (#40)
+- [9dc5d3d](https://github.com/kubedb/redis-coordinator/commit/9dc5d3d) Update health checker (#39)
+- [d9726c9](https://github.com/kubedb/redis-coordinator/commit/d9726c9) Prepare for release v0.7.0-rc.0 (#38)
+- [f672fd6](https://github.com/kubedb/redis-coordinator/commit/f672fd6) Acquire license from license-proxyserver if available (#37)
+- [5bbab2c](https://github.com/kubedb/redis-coordinator/commit/5bbab2c) Update to k8s 1.24 toolchain (#35)
+- [df38bb5](https://github.com/kubedb/redis-coordinator/commit/df38bb5) Update to k8s 1.24 toolchain (#34)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.15.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.15.0)

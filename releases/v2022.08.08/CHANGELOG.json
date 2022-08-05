@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.08",
-  "release_date": "2022-08-05T14:11:02.13224904Z",
+  "release_date": "2022-08-05T14:12:56.23365984Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.08",
   "kubernetes_version": "1.16+",
@@ -338,6 +338,44 @@
             {
               "SHA": "8e2a02a3",
               "Subject": "Test against Kubernetes 1.24.0 (#574)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "805f325",
+              "Subject": "Prepare for release v0.7.0 (#41)"
+            },
+            {
+              "SHA": "535162a",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#40)"
+            },
+            {
+              "SHA": "9dc5d3d",
+              "Subject": "Update health checker (#39)"
+            },
+            {
+              "SHA": "d9726c9",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "f672fd6",
+              "Subject": "Acquire license from license-proxyserver if available (#37)"
+            },
+            {
+              "SHA": "5bbab2c",
+              "Subject": "Update to k8s 1.24 toolchain (#35)"
+            },
+            {
+              "SHA": "df38bb5",
+              "Subject": "Update to k8s 1.24 toolchain (#34)"
             }
           ]
         }

@@ -1,0 +1,621 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.08.04-rc.1",
+  "release_date": "2022-08-05T01:21:15.897465704Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.08.04-rc.1",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1241b40d",
+              "Subject": "Configure health checker default value (#954)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.1",
+          "commits": [
+            {
+              "SHA": "8d0fadbb",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#98)"
+            },
+            {
+              "SHA": "b907af64",
+              "Subject": "Update db-client-go (#97)"
+            },
+            {
+              "SHA": "54169b06",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "50914655",
+              "Subject": "Update health checker (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.08.04-rc.1",
+          "commits": [
+            {
+              "SHA": "c8e801f",
+              "Subject": "Prepare for release v2022.08.04-rc.1 (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1f0d46aa",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#673)"
+            },
+            {
+              "SHA": "0e65567a",
+              "Subject": "Update health checker (#672)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1e0ee6f",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#35)"
+            },
+            {
+              "SHA": "4844400",
+              "Subject": "Update health checker (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.08.04-rc.1",
+          "commits": [
+            {
+              "SHA": "31ac81a",
+              "Subject": "Prepare for release v2022.08.04-rc.1 (#492)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": [
+            {
+              "SHA": "29ab6c81b",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#596)"
+            },
+            {
+              "SHA": "bcaa3512c",
+              "Subject": "Update db-client-go (#595)"
+            },
+            {
+              "SHA": "5755abf3b",
+              "Subject": "Set default values during reconcile cycle (#594)"
+            },
+            {
+              "SHA": "af727aab7",
+              "Subject": "Update health checker (#593)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.08.04-rc.1",
+          "commits": [
+            {
+              "SHA": "16c0c0bd",
+              "Subject": "Prepare for release v2022.08.04-rc.1 (#524)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0cad6134",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#163)"
+            },
+            {
+              "SHA": "7cf4c255",
+              "Subject": "Update health checker (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "fe8a57e",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#52)"
+            },
+            {
+              "SHA": "9c3c47f",
+              "Subject": "Update health checker (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "96b98521",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#362)"
+            },
+            {
+              "SHA": "98aeae01",
+              "Subject": "Update health checker (#361)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0640deb7",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#500)"
+            },
+            {
+              "SHA": "ff02931d",
+              "Subject": "Update db-client-go (#499)"
+            },
+            {
+              "SHA": "3da24ba2",
+              "Subject": "SetDefaults when adding the finalizer (#498)"
+            },
+            {
+              "SHA": "5652fdc8",
+              "Subject": "Update health checker (#497)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f0f44703",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#487)"
+            },
+            {
+              "SHA": "77e0b015",
+              "Subject": "refactor mysql health checker (#486)"
+            },
+            {
+              "SHA": "8c008024",
+              "Subject": "Update health checker (#485)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "fa7ad1c",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#46)"
+            },
+            {
+              "SHA": "2c3615b",
+              "Subject": "update labels (#45)"
+            },
+            {
+              "SHA": "38a4f88",
+              "Subject": "Update health checker (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "23ca2d3b9",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#336)"
+            },
+            {
+              "SHA": "2d03cc257",
+              "Subject": "Fix Upgrade | Volume Expansion ops request MySQL (#335)"
+            },
+            {
+              "SHA": "9f4c0acb1",
+              "Subject": "Update db-client-go (#334)"
+            },
+            {
+              "SHA": "490d5fcec",
+              "Subject": "Update health checker (#332)"
+            },
+            {
+              "SHA": "0531e84b6",
+              "Subject": "Fix multiple recommendation creation for same cause for empty phase (#333)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c512779b",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#266)"
+            },
+            {
+              "SHA": "a767d382",
+              "Subject": "Update health checker (#265)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "290e281",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "c57449c",
+              "Subject": "Update health checker (#8)"
+            },
+            {
+              "SHA": "adad8b5",
+              "Subject": "Acquire license from license-proxyserver if available (#7)"
+            },
+            {
+              "SHA": "14f17f0",
+              "Subject": "Add Percona XtraDB Coordinator (#3)"
+            },
+            {
+              "SHA": "4434736",
+              "Subject": "Update to k8s 1.24 toolchain (#5)"
+            },
+            {
+              "SHA": "e01945d",
+              "Subject": "Update to k8s 1.24 toolchain (#4)"
+            },
+            {
+              "SHA": "ad7dd9c",
+              "Subject": "Use Go 1.18 (#2)"
+            },
+            {
+              "SHA": "5a140bb",
+              "Subject": "make fmt (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e555754d",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#88)"
+            },
+            {
+              "SHA": "28c83e07",
+              "Subject": "Update health checker (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "6b3f6715",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#232)"
+            },
+            {
+              "SHA": "a88654ad",
+              "Subject": "Update health checker (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f2b875d4",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#585)"
+            },
+            {
+              "SHA": "a15214c9",
+              "Subject": "Set default values during reconcile cycle (#584)"
+            },
+            {
+              "SHA": "acf99b7f",
+              "Subject": "Update health checker (#583)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e855a3ff6",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#10)"
+            },
+            {
+              "SHA": "309ada2c9",
+              "Subject": "Update db-client-go (#9)"
+            },
+            {
+              "SHA": "e61a83fcd",
+              "Subject": "Update health checker (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "de17ccb4",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#245)"
+            },
+            {
+              "SHA": "bceb7ff5",
+              "Subject": "Update health checker (#244)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4be0e311",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#415)"
+            },
+            {
+              "SHA": "c819ea86",
+              "Subject": "Update Health Checker (#414)"
+            },
+            {
+              "SHA": "41079e80",
+              "Subject": "Update health checker (#413)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.1",
+          "commits": [
+            {
+              "SHA": "535162a",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#40)"
+            },
+            {
+              "SHA": "9dc5d3d",
+              "Subject": "Update health checker (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "50cb0ab6",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#203)"
+            },
+            {
+              "SHA": "e5c04c52",
+              "Subject": "Update db-client-go (#202)"
+            },
+            {
+              "SHA": "6409566e",
+              "Subject": "Update health checker (#201)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.1",
+          "commits": [
+            {
+              "SHA": "d5033ad5",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#39)"
+            },
+            {
+              "SHA": "0f7e0747",
+              "Subject": "Update db-client-go (#38)"
+            },
+            {
+              "SHA": "9b44c0dc",
+              "Subject": "Update health checker (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a8571959",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#186)"
+            },
+            {
+              "SHA": "77ce04e4",
+              "Subject": "Update db-client-go (#185)"
+            },
+            {
+              "SHA": "7924eac1",
+              "Subject": "Update health checker (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.1",
+          "commits": [
+            {
+              "SHA": "64a798ef",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#43)"
+            },
+            {
+              "SHA": "a0475425",
+              "Subject": "Update db-client-go (#42)"
+            },
+            {
+              "SHA": "82a9bec5",
+              "Subject": "Update health checker (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1714ad93",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#25)"
+            },
+            {
+              "SHA": "30558972",
+              "Subject": "Add Clsuter Topology in PerconaXtraDB (#24)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

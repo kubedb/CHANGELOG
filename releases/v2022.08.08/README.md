@@ -176,6 +176,25 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.15.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.15.0)
+
+- [722eccc2](https://github.com/kubedb/pgbouncer/commit/722eccc2) Prepare for release v0.15.0 (#233)
+- [6b3f6715](https://github.com/kubedb/pgbouncer/commit/6b3f6715) Prepare for release v0.15.0-rc.1 (#232)
+- [a88654ad](https://github.com/kubedb/pgbouncer/commit/a88654ad) Update health checker (#231)
+- [09815675](https://github.com/kubedb/pgbouncer/commit/09815675) Prepare for release v0.15.0-rc.0 (#230)
+- [6e18d967](https://github.com/kubedb/pgbouncer/commit/6e18d967) Acquire license from license-proxyserver if available (#229)
+- [4d042db4](https://github.com/kubedb/pgbouncer/commit/4d042db4) Update healthcheck (#228)
+- [22cf136d](https://github.com/kubedb/pgbouncer/commit/22cf136d) Add digest value on docker image (#227)
+- [3e9914c9](https://github.com/kubedb/pgbouncer/commit/3e9914c9) Update test for PgBouncer (#219)
+- [92662071](https://github.com/kubedb/pgbouncer/commit/92662071) SKIP_IMAGE_DIGEST for dev builds (#226)
+- [a62c708f](https://github.com/kubedb/pgbouncer/commit/a62c708f) Update to k8s 1.24 toolchain (#224)
+- [061e53fe](https://github.com/kubedb/pgbouncer/commit/061e53fe) Update to k8s 1.24 toolchain (#223)
+- [a89ce8fd](https://github.com/kubedb/pgbouncer/commit/a89ce8fd) Test against Kubernetes 1.24.0 (#222)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.28.0](https://github.com/kubedb/postgres/releases/tag/v0.28.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.08",
-  "release_date": "2022-08-05T14:31:28.943875741Z",
+  "release_date": "2022-08-05T14:36:42.474354476Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.08",
   "kubernetes_version": "1.16+",
@@ -520,6 +520,64 @@
             {
               "SHA": "fdd2a4ad",
               "Subject": "Update to k8s 1.24 toolchain (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "722eccc2",
+              "Subject": "Prepare for release v0.15.0 (#233)"
+            },
+            {
+              "SHA": "6b3f6715",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#232)"
+            },
+            {
+              "SHA": "a88654ad",
+              "Subject": "Update health checker (#231)"
+            },
+            {
+              "SHA": "09815675",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#230)"
+            },
+            {
+              "SHA": "6e18d967",
+              "Subject": "Acquire license from license-proxyserver if available (#229)"
+            },
+            {
+              "SHA": "4d042db4",
+              "Subject": "Update healthcheck (#228)"
+            },
+            {
+              "SHA": "22cf136d",
+              "Subject": "Add digest value on docker image (#227)"
+            },
+            {
+              "SHA": "3e9914c9",
+              "Subject": "Update test for PgBouncer (#219)"
+            },
+            {
+              "SHA": "92662071",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#226)"
+            },
+            {
+              "SHA": "a62c708f",
+              "Subject": "Update to k8s 1.24 toolchain (#224)"
+            },
+            {
+              "SHA": "061e53fe",
+              "Subject": "Update to k8s 1.24 toolchain (#223)"
+            },
+            {
+              "SHA": "a89ce8fd",
+              "Subject": "Test against Kubernetes 1.24.0 (#222)"
             }
           ]
         }

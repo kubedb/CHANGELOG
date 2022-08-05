@@ -1,4 +1,4 @@
-# KubeDB v2022.08.04-rc.1 (2022-08-04)
+# KubeDB v2022.08.04-rc.1 (2022-08-05)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -17,6 +17,14 @@
 - [b907af64](https://github.com/kubedb/autoscaler/commit/b907af64) Update db-client-go (#97)
 - [54169b06](https://github.com/kubedb/autoscaler/commit/54169b06) Update .kodiak.toml
 - [50914655](https://github.com/kubedb/autoscaler/commit/50914655) Update health checker (#96)
+
+
+
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2022.08.04-rc.1](https://github.com/kubedb/bundles/releases/tag/v2022.08.04-rc.1)
+
+- [c8e801f](https://github.com/kubedb/bundles/commit/c8e801f) Prepare for release v2022.08.04-rc.1 (#49)
 
 
 

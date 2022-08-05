@@ -30,6 +30,21 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.21.0](https://github.com/kubedb/memcached/releases/tag/v0.21.0)
+
+- [0aad8ad7](https://github.com/kubedb/memcached/commit/0aad8ad7) Prepare for release v0.21.0 (#363)
+- [96b98521](https://github.com/kubedb/memcached/commit/96b98521) Prepare for release v0.21.0-rc.1 (#362)
+- [98aeae01](https://github.com/kubedb/memcached/commit/98aeae01) Update health checker (#361)
+- [6fcbc121](https://github.com/kubedb/memcached/commit/6fcbc121) Prepare for release v0.21.0-rc.0 (#360)
+- [8d43bd1e](https://github.com/kubedb/memcached/commit/8d43bd1e) Acquire license from license-proxyserver if available (#359)
+- [cd2fa52b](https://github.com/kubedb/memcached/commit/cd2fa52b) Fix validator webhook api group
+- [71c254a7](https://github.com/kubedb/memcached/commit/71c254a7) Update to k8s 1.24 toolchain (#357)
+- [0545e187](https://github.com/kubedb/memcached/commit/0545e187) Test against Kubernetes 1.24.0 (#356)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.6.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.6.0)

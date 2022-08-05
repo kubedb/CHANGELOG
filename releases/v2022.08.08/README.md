@@ -61,6 +61,32 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.21.0](https://github.com/kubedb/mongodb/releases/tag/v0.21.0)
+
+- [cfcef698](https://github.com/kubedb/mongodb/commit/cfcef698) Prepare for release v0.21.0 (#501)
+- [0640deb7](https://github.com/kubedb/mongodb/commit/0640deb7) Prepare for release v0.21.0-rc.1 (#500)
+- [ff02931d](https://github.com/kubedb/mongodb/commit/ff02931d) Update db-client-go (#499)
+- [3da24ba2](https://github.com/kubedb/mongodb/commit/3da24ba2) SetDefaults when adding the finalizer (#498)
+- [5652fdc8](https://github.com/kubedb/mongodb/commit/5652fdc8) Update health checker (#497)
+- [c0a023d2](https://github.com/kubedb/mongodb/commit/c0a023d2) Prepare for release v0.21.0-rc.0 (#496)
+- [0b56bec3](https://github.com/kubedb/mongodb/commit/0b56bec3) Update db-client-go (#495)
+- [7126f7f1](https://github.com/kubedb/mongodb/commit/7126f7f1) getExporterContainer only if monitoring enabled (#494)
+- [cdd6adbc](https://github.com/kubedb/mongodb/commit/cdd6adbc) Acquire license from license-proxyserver if available (#493)
+- [c598db8e](https://github.com/kubedb/mongodb/commit/c598db8e) Add `--collect-all` exporter container cmd args (#487)
+- [dc2fce0d](https://github.com/kubedb/mongodb/commit/dc2fce0d) Add InMemory validations & some refactoration (#491)
+- [991588ef](https://github.com/kubedb/mongodb/commit/991588ef) Add support for custom volumes (#492)
+- [4fc305c0](https://github.com/kubedb/mongodb/commit/4fc305c0) Update Health Checker (#480)
+- [3be64a6b](https://github.com/kubedb/mongodb/commit/3be64a6b) SKIP_IMAGE_DIGEST for dev builds (#490)
+- [3fd70298](https://github.com/kubedb/mongodb/commit/3fd70298) Use docker images with digest value (#486)
+- [c7325a29](https://github.com/kubedb/mongodb/commit/c7325a29) Fix connection leak when ping fails (#485)
+- [4ff96a0e](https://github.com/kubedb/mongodb/commit/4ff96a0e) Use kubebuilder client for db-client-go (#484)
+- [4094f54a](https://github.com/kubedb/mongodb/commit/4094f54a) Update to k8s 1.24 toolchain (#482)
+- [2e56a4e9](https://github.com/kubedb/mongodb/commit/2e56a4e9) Update to k8s 1.24 toolchain (#481)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.6.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.6.0)

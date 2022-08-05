@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.08",
-  "release_date": "2022-08-05T14:37:27.867851507Z",
+  "release_date": "2022-08-05T14:44:35.34316868Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.08",
   "kubernetes_version": "1.16+",
@@ -840,6 +840,56 @@
             {
               "SHA": "0a9cf005",
               "Subject": "Update to k8s 1.24 toolchain (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "ccd8d69e",
+              "Subject": "Prepare for release v0.4.0 (#40)"
+            },
+            {
+              "SHA": "d5033ad5",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#39)"
+            },
+            {
+              "SHA": "0f7e0747",
+              "Subject": "Update db-client-go (#38)"
+            },
+            {
+              "SHA": "9b44c0dc",
+              "Subject": "Update health checker (#37)"
+            },
+            {
+              "SHA": "114d882a",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#36)"
+            },
+            {
+              "SHA": "bcb51407",
+              "Subject": "Update db-client-go (#35)"
+            },
+            {
+              "SHA": "e6ffd878",
+              "Subject": "Acquire license from license-proxyserver if available (#34)"
+            },
+            {
+              "SHA": "5a6ae96d",
+              "Subject": "Update kutil dependency (#33)"
+            },
+            {
+              "SHA": "8e9a2732",
+              "Subject": "Update to use KubeVault v2022.06.16 (#32)"
+            },
+            {
+              "SHA": "5f7e441d",
+              "Subject": "Update to k8s 1.24 toolchain (#31)"
             }
           ]
         }

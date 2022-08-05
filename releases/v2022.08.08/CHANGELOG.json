@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.08",
-  "release_date": "2022-08-05T14:12:56.23365984Z",
+  "release_date": "2022-08-05T14:20:27.06008422Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.08",
   "kubernetes_version": "1.16+",
@@ -254,6 +254,84 @@
             {
               "SHA": "2e56a4e9",
               "Subject": "Update to k8s 1.24 toolchain (#481)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "229a7675",
+              "Subject": "Prepare for release v0.21.0 (#488)"
+            },
+            {
+              "SHA": "f0f44703",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#487)"
+            },
+            {
+              "SHA": "77e0b015",
+              "Subject": "refactor mysql health checker (#486)"
+            },
+            {
+              "SHA": "8c008024",
+              "Subject": "Update health checker (#485)"
+            },
+            {
+              "SHA": "15f1a9dd",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#484)"
+            },
+            {
+              "SHA": "43f733a3",
+              "Subject": "Acquire license from license-proxyserver if available (#483)"
+            },
+            {
+              "SHA": "0c88f473",
+              "Subject": "Use GetCertSecret instead of MustCertSecretName (#482)"
+            },
+            {
+              "SHA": "afb1c070",
+              "Subject": "Add support for Custom volume and volume mounts (#481)"
+            },
+            {
+              "SHA": "4f167ef8",
+              "Subject": "Update MySQL healthchecker (#480)"
+            },
+            {
+              "SHA": "05d5179e",
+              "Subject": "Update read replica Auth secret (#477)"
+            },
+            {
+              "SHA": "d36e09de",
+              "Subject": "upsert volumes with existing volumes. (#476)"
+            },
+            {
+              "SHA": "e51c7d79",
+              "Subject": "Use docker image with digest value (#475)"
+            },
+            {
+              "SHA": "574fc526",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#479)"
+            },
+            {
+              "SHA": "10dd0b78",
+              "Subject": "Fix not ready condition after removing halt (#478)"
+            },
+            {
+              "SHA": "3c514bae",
+              "Subject": "Update to k8s 1.24 toolchain (#473)"
+            },
+            {
+              "SHA": "6a09468a",
+              "Subject": "Update to k8s 1.24 toolchain (#472)"
+            },
+            {
+              "SHA": "04c925b5",
+              "Subject": "Test against Kubernetes 1.24.0 (#471)"
             }
           ]
         }

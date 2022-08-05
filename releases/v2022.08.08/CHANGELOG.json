@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.08",
-  "release_date": "2022-08-05T13:46:28.646097705Z",
+  "release_date": "2022-08-05T13:54:44.573145321Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.08",
   "kubernetes_version": "1.16+",
@@ -12,6 +12,76 @@
         {
           "tag": "v0.28.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "72f57b6a",
+              "Subject": "Prepare for release v0.12.0 (#165)"
+            },
+            {
+              "SHA": "04108afb",
+              "Subject": "Add custom service account (#164)"
+            },
+            {
+              "SHA": "0cad6134",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#163)"
+            },
+            {
+              "SHA": "7cf4c255",
+              "Subject": "Update health checker (#162)"
+            },
+            {
+              "SHA": "8ed9b5e8",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "7eb4d546",
+              "Subject": "Acquire license from license-proxyserver if available (#160)"
+            },
+            {
+              "SHA": "16dc94dd",
+              "Subject": "Add custom volume and volume mount support (#159)"
+            },
+            {
+              "SHA": "d03b7ab3",
+              "Subject": "Update MariaDB Health check (#155)"
+            },
+            {
+              "SHA": "ac7fc040",
+              "Subject": "Add syncAndValidate for secrets | Not delete custom auth secrets (#153)"
+            },
+            {
+              "SHA": "75a280b3",
+              "Subject": "SKIP_IMAGE_DIGEST for dev builds (#158)"
+            },
+            {
+              "SHA": "09e31be1",
+              "Subject": "Fix MariaDB not ready condition after removing halt (#157)"
+            },
+            {
+              "SHA": "29934625",
+              "Subject": "Add digest value on docker image (#154)"
+            },
+            {
+              "SHA": "a73717c8",
+              "Subject": "Update to k8s 1.24 toolchain (#151)"
+            },
+            {
+              "SHA": "ff6e83e5",
+              "Subject": "Update to k8s 1.24 toolchain (#150)"
+            },
+            {
+              "SHA": "c1dba654",
+              "Subject": "Test against Kubernetes 1.24.0 (#148)"
+            }
+          ]
         }
       ]
     }

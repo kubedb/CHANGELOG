@@ -138,6 +138,20 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.12.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.12.0)
+
+- [394b7fff](https://github.com/kubedb/pg-coordinator/commit/394b7fff) Prepare for release v0.12.0 (#89)
+- [e555754d](https://github.com/kubedb/pg-coordinator/commit/e555754d) Prepare for release v0.12.0-rc.1 (#88)
+- [28c83e07](https://github.com/kubedb/pg-coordinator/commit/28c83e07) Update health checker (#86)
+- [e066e950](https://github.com/kubedb/pg-coordinator/commit/e066e950) Prepare for release v0.12.0-rc.0 (#85)
+- [e3256a32](https://github.com/kubedb/pg-coordinator/commit/e3256a32) Acquire license from license-proxyserver if available (#83)
+- [909c225e](https://github.com/kubedb/pg-coordinator/commit/909c225e) Remove role scripts from the coordinator. (#82)
+- [fdd2a4ad](https://github.com/kubedb/pg-coordinator/commit/fdd2a4ad) Update to k8s 1.24 toolchain (#81)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.28.0](https://github.com/kubedb/postgres/releases/tag/v0.28.0)

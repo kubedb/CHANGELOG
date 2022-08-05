@@ -91,3 +91,19 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.15.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.15.0)
+
+- [27507324](https://github.com/kubedb/replication-mode-detector/commit/27507324) Prepare for release v0.15.0 (#204)
+- [50cb0ab6](https://github.com/kubedb/replication-mode-detector/commit/50cb0ab6) Prepare for release v0.15.0-rc.1 (#203)
+- [e5c04c52](https://github.com/kubedb/replication-mode-detector/commit/e5c04c52) Update db-client-go (#202)
+- [6409566e](https://github.com/kubedb/replication-mode-detector/commit/6409566e) Update health checker (#201)
+- [e06b4771](https://github.com/kubedb/replication-mode-detector/commit/e06b4771) Prepare for release v0.15.0-rc.0 (#200)
+- [e77ff57c](https://github.com/kubedb/replication-mode-detector/commit/e77ff57c) Update db-client-go (#199)
+- [3008bd62](https://github.com/kubedb/replication-mode-detector/commit/3008bd62) Acquire license from license-proxyserver if available (#198)
+- [134d10c7](https://github.com/kubedb/replication-mode-detector/commit/134d10c7) Use mongodb db client (#197)
+- [0a9cf005](https://github.com/kubedb/replication-mode-detector/commit/0a9cf005) Update to k8s 1.24 toolchain (#195)
+
+
+

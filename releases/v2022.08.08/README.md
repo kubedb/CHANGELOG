@@ -314,3 +314,20 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.4.0](https://github.com/kubedb/ui-server/releases/tag/v0.4.0)
+
+- [a7cd9b5e](https://github.com/kubedb/ui-server/commit/a7cd9b5e) Prepare for release v0.4.0 (#44)
+- [079240cc](https://github.com/kubedb/ui-server/commit/079240cc) Fix MariaDBInsight resource name
+- [64a798ef](https://github.com/kubedb/ui-server/commit/64a798ef) Prepare for release v0.4.0-rc.1 (#43)
+- [a0475425](https://github.com/kubedb/ui-server/commit/a0475425) Update db-client-go (#42)
+- [82a9bec5](https://github.com/kubedb/ui-server/commit/82a9bec5) Update health checker (#41)
+- [56b14fd6](https://github.com/kubedb/ui-server/commit/56b14fd6) Prepare for release v0.4.0-rc.0 (#40)
+- [932c6cd7](https://github.com/kubedb/ui-server/commit/932c6cd7) Vendor Elasticsearch changes in db-client-go (#39)
+- [1e8b3cd7](https://github.com/kubedb/ui-server/commit/1e8b3cd7) Acquire license from license-proxyserver if available (#37)
+- [eef867b5](https://github.com/kubedb/ui-server/commit/eef867b5) Fix linter warning regarding selfLink (#36)
+- [15556fc9](https://github.com/kubedb/ui-server/commit/15556fc9) Update to k8s 1.24 toolchain (#35)
+
+
+

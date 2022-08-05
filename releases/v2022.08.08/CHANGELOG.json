@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.08.08",
-  "release_date": "2022-08-05T14:20:27.06008422Z",
+  "release_date": "2022-08-05T14:27:37.932835281Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.08.08",
   "kubernetes_version": "1.16+",
@@ -354,6 +354,56 @@
             {
               "SHA": "40d3dd9",
               "Subject": "Update to k8s 1.24 toolchain (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "fd8fecd2",
+              "Subject": "Prepare for release v0.15.0 (#268)"
+            },
+            {
+              "SHA": "9139470e",
+              "Subject": "Add custom service account (#267)"
+            },
+            {
+              "SHA": "c512779b",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#266)"
+            },
+            {
+              "SHA": "a767d382",
+              "Subject": "Update health checker (#265)"
+            },
+            {
+              "SHA": "4970d99b",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#264)"
+            },
+            {
+              "SHA": "d1896876",
+              "Subject": "Acquire license from license-proxyserver if available (#263)"
+            },
+            {
+              "SHA": "8e65e97d",
+              "Subject": "Add custom volume and volume mount support (#262)"
+            },
+            {
+              "SHA": "1866eed1",
+              "Subject": "Add Percona XtraDB Cluster Support (#237)"
+            },
+            {
+              "SHA": "501c5a18",
+              "Subject": "Update to k8s 1.24 toolchain (#260)"
+            },
+            {
+              "SHA": "e632ea56",
+              "Subject": "Test against Kubernetes 1.24.0 (#259)"
             }
           ]
         }

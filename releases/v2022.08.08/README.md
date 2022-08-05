@@ -121,6 +121,23 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.15.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.15.0)
+
+- [fd8fecd2](https://github.com/kubedb/percona-xtradb/commit/fd8fecd2) Prepare for release v0.15.0 (#268)
+- [9139470e](https://github.com/kubedb/percona-xtradb/commit/9139470e) Add custom service account (#267)
+- [c512779b](https://github.com/kubedb/percona-xtradb/commit/c512779b) Prepare for release v0.15.0-rc.1 (#266)
+- [a767d382](https://github.com/kubedb/percona-xtradb/commit/a767d382) Update health checker (#265)
+- [4970d99b](https://github.com/kubedb/percona-xtradb/commit/4970d99b) Prepare for release v0.15.0-rc.0 (#264)
+- [d1896876](https://github.com/kubedb/percona-xtradb/commit/d1896876) Acquire license from license-proxyserver if available (#263)
+- [8e65e97d](https://github.com/kubedb/percona-xtradb/commit/8e65e97d) Add custom volume and volume mount support (#262)
+- [1866eed1](https://github.com/kubedb/percona-xtradb/commit/1866eed1) Add Percona XtraDB Cluster Support (#237)
+- [501c5a18](https://github.com/kubedb/percona-xtradb/commit/501c5a18) Update to k8s 1.24 toolchain (#260)
+- [e632ea56](https://github.com/kubedb/percona-xtradb/commit/e632ea56) Test against Kubernetes 1.24.0 (#259)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.28.0](https://github.com/kubedb/postgres/releases/tag/v0.28.0)

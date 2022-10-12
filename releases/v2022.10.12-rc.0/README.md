@@ -237,6 +237,27 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.22.0-rc.0)
+
+- [24a961a8](https://github.com/kubedb/redis/commit/24a961a8) Prepare for release v0.22.0-rc.0 (#432)
+- [586d92c6](https://github.com/kubedb/redis/commit/586d92c6) Add Client Cert to Appbinding (#431)
+- [9931e951](https://github.com/kubedb/redis/commit/9931e951) Update dependencies (#430)
+- [5a27f772](https://github.com/kubedb/redis/commit/5a27f772) Add Redis Sentinel Ops Request Changes (#421)
+- [81ad08ab](https://github.com/kubedb/redis/commit/81ad08ab) Add Support for Externally Managed Secret (#428)
+- [b16212e4](https://github.com/kubedb/redis/commit/b16212e4) Test against Kubernetes 1.25.0 (#429)
+- [05a1b814](https://github.com/kubedb/redis/commit/05a1b814) Check for PDB version only once (#427)
+- [bd41d16d](https://github.com/kubedb/redis/commit/bd41d16d) Handle status conversion for CronJob/VolumeSnapshot (#426)
+- [e1746638](https://github.com/kubedb/redis/commit/e1746638) Use Go 1.19 (#425)
+- [b220f611](https://github.com/kubedb/redis/commit/b220f611) Use k8s 1.25.1 libs (#424)
+- [538e2539](https://github.com/kubedb/redis/commit/538e2539) Update README.md
+- [1513ca9a](https://github.com/kubedb/redis/commit/1513ca9a) Stop using removed apis in Kubernetes 1.25 (#423)
+- [c29f0f6b](https://github.com/kubedb/redis/commit/c29f0f6b) Use health checker types from kmodules (#422)
+- [bda4de79](https://github.com/kubedb/redis/commit/bda4de79) Fix health check issue (#420)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.8.0-rc.0)

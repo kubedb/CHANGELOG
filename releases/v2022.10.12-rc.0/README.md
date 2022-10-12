@@ -64,6 +64,28 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.7.0-rc.0)
+
+- [b1d9ecf](https://github.com/kubedb/mysql-coordinator/commit/b1d9ecf) Prepare for release v0.7.0-rc.0 (#58)
+- [88d01ef](https://github.com/kubedb/mysql-coordinator/commit/88d01ef) Update dependencies (#56)
+- [cbb3504](https://github.com/kubedb/mysql-coordinator/commit/cbb3504) fix group_replication extra transcions jonning issue (#49)
+- [8939e89](https://github.com/kubedb/mysql-coordinator/commit/8939e89) Test against Kubernetes 1.25.0 (#55)
+- [0ba243d](https://github.com/kubedb/mysql-coordinator/commit/0ba243d) Check for PDB version only once (#53)
+- [dac7227](https://github.com/kubedb/mysql-coordinator/commit/dac7227) Handle status conversion for CronJob/VolumeSnapshot (#52)
+- [100f268](https://github.com/kubedb/mysql-coordinator/commit/100f268) Use Go 1.19 (#51)
+- [07fc1af](https://github.com/kubedb/mysql-coordinator/commit/07fc1af) Use k8s 1.25.1 libs (#50)
+- [71fe729](https://github.com/kubedb/mysql-coordinator/commit/71fe729) Stop using removed apis in Kubernetes 1.25 (#48)
+- [f968206](https://github.com/kubedb/mysql-coordinator/commit/f968206) Use health checker types from kmodules (#47)
+- [fa7ad1c](https://github.com/kubedb/mysql-coordinator/commit/fa7ad1c) Prepare for release v0.6.0-rc.1 (#46)
+- [2c3615b](https://github.com/kubedb/mysql-coordinator/commit/2c3615b) update labels (#45)
+- [38a4f88](https://github.com/kubedb/mysql-coordinator/commit/38a4f88) Update health checker (#43)
+- [7c79e5f](https://github.com/kubedb/mysql-coordinator/commit/7c79e5f) Prepare for release v0.6.0-rc.0 (#42)
+- [2eb313d](https://github.com/kubedb/mysql-coordinator/commit/2eb313d) Acquire license from license-proxyserver if available (#40)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.7.0-rc.0)

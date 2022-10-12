@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.12-rc.0",
-  "release_date": "2022-10-12T08:16:25.516489733Z",
+  "release_date": "2022-10-12T08:16:30.842018753Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.12-rc.0",
   "kubernetes_version": "1.18+",
@@ -217,6 +217,76 @@
             {
               "SHA": "baf9b9c1b",
               "Subject": "Fix ClientCreated counter increment issue in healthchecker (#600)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b1d9ecf",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "88d01ef",
+              "Subject": "Update dependencies (#56)"
+            },
+            {
+              "SHA": "cbb3504",
+              "Subject": "fix group_replication extra transcions jonning issue (#49)"
+            },
+            {
+              "SHA": "8939e89",
+              "Subject": "Test against Kubernetes 1.25.0 (#55)"
+            },
+            {
+              "SHA": "0ba243d",
+              "Subject": "Check for PDB version only once (#53)"
+            },
+            {
+              "SHA": "dac7227",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#52)"
+            },
+            {
+              "SHA": "100f268",
+              "Subject": "Use Go 1.19 (#51)"
+            },
+            {
+              "SHA": "07fc1af",
+              "Subject": "Use k8s 1.25.1 libs (#50)"
+            },
+            {
+              "SHA": "71fe729",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#48)"
+            },
+            {
+              "SHA": "f968206",
+              "Subject": "Use health checker types from kmodules (#47)"
+            },
+            {
+              "SHA": "fa7ad1c",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#46)"
+            },
+            {
+              "SHA": "2c3615b",
+              "Subject": "update labels (#45)"
+            },
+            {
+              "SHA": "38a4f88",
+              "Subject": "Update health checker (#43)"
+            },
+            {
+              "SHA": "7c79e5f",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#42)"
+            },
+            {
+              "SHA": "2eb313d",
+              "Subject": "Acquire license from license-proxyserver if available (#40)"
             }
           ]
         }

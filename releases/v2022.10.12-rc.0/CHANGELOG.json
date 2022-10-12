@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.12-rc.0",
-  "release_date": "2022-10-12T08:22:34.641445681Z",
+  "release_date": "2022-10-12T08:23:56.198074811Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.12-rc.0",
   "kubernetes_version": "1.18+",
@@ -615,6 +615,56 @@
             {
               "SHA": "2e45ad1b",
               "Subject": "Fix health check issue (#588)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "21d63ea",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "d7bcff0",
+              "Subject": "Update dependencies (#51)"
+            },
+            {
+              "SHA": "db31014",
+              "Subject": "Add Redis Sentinel Ops Requests Changes (#48)"
+            },
+            {
+              "SHA": "3bc6a63",
+              "Subject": "Test against Kubernetes 1.25.0 (#50)"
+            },
+            {
+              "SHA": "b144d17",
+              "Subject": "Check for PDB version only once (#47)"
+            },
+            {
+              "SHA": "803f76a",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#46)"
+            },
+            {
+              "SHA": "a7cd5af",
+              "Subject": "Use Go 1.19 (#45)"
+            },
+            {
+              "SHA": "f066d36",
+              "Subject": "Use k8s 1.25.1 libs (#44)"
+            },
+            {
+              "SHA": "db04c50",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#43)"
+            },
+            {
+              "SHA": "10f1fb5",
+              "Subject": "Use health checker types from kmodules (#42)"
             }
           ]
         }

@@ -195,6 +195,23 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.8.0-rc.0)
+
+- [21d63ea](https://github.com/kubedb/redis-coordinator/commit/21d63ea) Prepare for release v0.8.0-rc.0 (#52)
+- [d7bcff0](https://github.com/kubedb/redis-coordinator/commit/d7bcff0) Update dependencies (#51)
+- [db31014](https://github.com/kubedb/redis-coordinator/commit/db31014) Add Redis Sentinel Ops Requests Changes (#48)
+- [3bc6a63](https://github.com/kubedb/redis-coordinator/commit/3bc6a63) Test against Kubernetes 1.25.0 (#50)
+- [b144d17](https://github.com/kubedb/redis-coordinator/commit/b144d17) Check for PDB version only once (#47)
+- [803f76a](https://github.com/kubedb/redis-coordinator/commit/803f76a) Handle status conversion for CronJob/VolumeSnapshot (#46)
+- [a7cd5af](https://github.com/kubedb/redis-coordinator/commit/a7cd5af) Use Go 1.19 (#45)
+- [f066d36](https://github.com/kubedb/redis-coordinator/commit/f066d36) Use k8s 1.25.1 libs (#44)
+- [db04c50](https://github.com/kubedb/redis-coordinator/commit/db04c50) Stop using removed apis in Kubernetes 1.25 (#43)
+- [10f1fb5](https://github.com/kubedb/redis-coordinator/commit/10f1fb5) Use health checker types from kmodules (#42)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.16.0-rc.0)

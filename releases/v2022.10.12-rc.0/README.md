@@ -45,6 +45,24 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.29.0-rc.0)
+
+- [8033e31b](https://github.com/kubedb/cli/commit/8033e31b) Prepare for release v0.29.0-rc.0 (#684)
+- [b021f761](https://github.com/kubedb/cli/commit/b021f761) Update dependencies (#683)
+- [792efd14](https://github.com/kubedb/cli/commit/792efd14) Support externally managed secrets (#681)
+- [7ec2adbc](https://github.com/kubedb/cli/commit/7ec2adbc) Test against Kubernetes 1.25.0 (#682)
+- [fc9b63c7](https://github.com/kubedb/cli/commit/fc9b63c7) Check for PDB version only once (#680)
+- [81199060](https://github.com/kubedb/cli/commit/81199060) Handle status conversion for CronJob/VolumeSnapshot (#679)
+- [17c6e94d](https://github.com/kubedb/cli/commit/17c6e94d) Use Go 1.19 (#678)
+- [31c24f80](https://github.com/kubedb/cli/commit/31c24f80) Use k8s 1.25.1 libs (#677)
+- [68e9ada6](https://github.com/kubedb/cli/commit/68e9ada6) Update README.md
+- [4202bc84](https://github.com/kubedb/cli/commit/4202bc84) Stop using removed apis in Kubernetes 1.25 (#676)
+- [eb922b19](https://github.com/kubedb/cli/commit/eb922b19) Use health checker types from kmodules (#675)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.29.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.29.0-rc.0)

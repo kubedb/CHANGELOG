@@ -63,6 +63,22 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/dashboard/releases/tag/v0.5.0-rc.0)
+
+- [fd8f1bc](https://github.com/kubedb/dashboard/commit/fd8f1bc) Prepare for release v0.5.0-rc.0 (#46)
+- [4b093a9](https://github.com/kubedb/dashboard/commit/4b093a9) Update dependencies (#45)
+- [9804a55](https://github.com/kubedb/dashboard/commit/9804a55) Test against Kubernetes 1.25.0 (#44)
+- [5f9caec](https://github.com/kubedb/dashboard/commit/5f9caec) Check for PDB version only once (#42)
+- [91b256c](https://github.com/kubedb/dashboard/commit/91b256c) Handle status conversion for CronJob/VolumeSnapshot (#41)
+- [11445c2](https://github.com/kubedb/dashboard/commit/11445c2) Use Go 1.19 (#40)
+- [858bced](https://github.com/kubedb/dashboard/commit/858bced) Use k8s 1.25.1 libs (#39)
+- [ebaaade](https://github.com/kubedb/dashboard/commit/ebaaade) Stop using removed apis in Kubernetes 1.25 (#38)
+- [51d4f7f](https://github.com/kubedb/dashboard/commit/51d4f7f) Use health checker types from kmodules (#37)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.29.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.29.0-rc.0)

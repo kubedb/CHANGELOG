@@ -330,6 +330,22 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/provisioner/releases/tag/v0.29.0-rc.0)
+
+- [5497cc1b](https://github.com/kubedb/provisioner/commit/5497cc1be) Prepare for release v0.29.0-rc.0 (#21)
+- [26b43352](https://github.com/kubedb/provisioner/commit/26b43352c) Test against Kubernetes 1.25.0 (#19)
+- [597518ce](https://github.com/kubedb/provisioner/commit/597518cea) Check for PDB version only once (#17)
+- [a55613f6](https://github.com/kubedb/provisioner/commit/a55613f6e) Handle status conversion for CronJob/VolumeSnapshot (#16)
+- [5ef0c78e](https://github.com/kubedb/provisioner/commit/5ef0c78ee) Use Go 1.19 (#15)
+- [40fe839c](https://github.com/kubedb/provisioner/commit/40fe839c8) Use k8s 1.25.1 libs (#14)
+- [444e527c](https://github.com/kubedb/provisioner/commit/444e527ca) Update README.md
+- [dc895331](https://github.com/kubedb/provisioner/commit/dc8953315) Stop using removed apis in Kubernetes 1.25 (#13)
+- [2910a39e](https://github.com/kubedb/provisioner/commit/2910a39e2) Use health checker types from kmodules (#12)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.16.0-rc.0)

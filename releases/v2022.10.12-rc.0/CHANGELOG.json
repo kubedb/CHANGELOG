@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.12-rc.0",
-  "release_date": "2022-10-12T08:21:03.936090318Z",
+  "release_date": "2022-10-12T08:22:34.641445681Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.12-rc.0",
   "kubernetes_version": "1.18+",
@@ -615,6 +615,52 @@
             {
               "SHA": "2e45ad1b",
               "Subject": "Fix health check issue (#588)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d051a8eb",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#214)"
+            },
+            {
+              "SHA": "2d51c3f3",
+              "Subject": "Update dependencies (#213)"
+            },
+            {
+              "SHA": "0a544cf9",
+              "Subject": "Test against Kubernetes 1.25.0 (#212)"
+            },
+            {
+              "SHA": "aa1635cf",
+              "Subject": "Check for PDB version only once (#210)"
+            },
+            {
+              "SHA": "6549acf6",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#209)"
+            },
+            {
+              "SHA": "fc7a68fd",
+              "Subject": "Use Go 1.19 (#208)"
+            },
+            {
+              "SHA": "2f9a7435",
+              "Subject": "Use k8s 1.25.1 libs (#207)"
+            },
+            {
+              "SHA": "c831c08e",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#206)"
+            },
+            {
+              "SHA": "8c80e5b4",
+              "Subject": "Use health checker types from kmodules (#205)"
             }
           ]
         }

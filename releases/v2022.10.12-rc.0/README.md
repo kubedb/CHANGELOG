@@ -195,6 +195,22 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.16.0-rc.0)
+
+- [d051a8eb](https://github.com/kubedb/replication-mode-detector/commit/d051a8eb) Prepare for release v0.16.0-rc.0 (#214)
+- [2d51c3f3](https://github.com/kubedb/replication-mode-detector/commit/2d51c3f3) Update dependencies (#213)
+- [0a544cf9](https://github.com/kubedb/replication-mode-detector/commit/0a544cf9) Test against Kubernetes 1.25.0 (#212)
+- [aa1635cf](https://github.com/kubedb/replication-mode-detector/commit/aa1635cf) Check for PDB version only once (#210)
+- [6549acf6](https://github.com/kubedb/replication-mode-detector/commit/6549acf6) Handle status conversion for CronJob/VolumeSnapshot (#209)
+- [fc7a68fd](https://github.com/kubedb/replication-mode-detector/commit/fc7a68fd) Use Go 1.19 (#208)
+- [2f9a7435](https://github.com/kubedb/replication-mode-detector/commit/2f9a7435) Use k8s 1.25.1 libs (#207)
+- [c831c08e](https://github.com/kubedb/replication-mode-detector/commit/c831c08e) Stop using removed apis in Kubernetes 1.25 (#206)
+- [8c80e5b4](https://github.com/kubedb/replication-mode-detector/commit/8c80e5b4) Use health checker types from kmodules (#205)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.14.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.14.0-rc.0)

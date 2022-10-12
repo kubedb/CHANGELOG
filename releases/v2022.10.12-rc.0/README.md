@@ -125,6 +125,28 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.22.0-rc.0)
+
+- [8386ed4c](https://github.com/kubedb/mysql/commit/8386ed4c) Prepare for release v0.22.0-rc.0 (#504)
+- [8d58bbd8](https://github.com/kubedb/mysql/commit/8d58bbd8) Add cluster role for watching mysqlversion in coordinator (#503)
+- [53b207b3](https://github.com/kubedb/mysql/commit/53b207b3) Add TLS Secret Name in appbinding (#501)
+- [541e9f5e](https://github.com/kubedb/mysql/commit/541e9f5e) Update dependencies (#502)
+- [e51a494c](https://github.com/kubedb/mysql/commit/e51a494c) Fix innodb router issues (#500)
+- [c4f78c1f](https://github.com/kubedb/mysql/commit/c4f78c1f) Wait for externaly managed auth secret (#499)
+- [90f337a2](https://github.com/kubedb/mysql/commit/90f337a2) Test against Kubernetes 1.25.0 (#498)
+- [af6d6654](https://github.com/kubedb/mysql/commit/af6d6654) Check for PDB version only once (#496)
+- [27611133](https://github.com/kubedb/mysql/commit/27611133) Handle status conversion for CronJob/VolumeSnapshot (#495)
+- [a662b10d](https://github.com/kubedb/mysql/commit/a662b10d) Use Go 1.19 (#494)
+- [07ce8211](https://github.com/kubedb/mysql/commit/07ce8211) Use k8s 1.25.1 libs (#493)
+- [fac38c31](https://github.com/kubedb/mysql/commit/fac38c31) Update README.md
+- [9676f388](https://github.com/kubedb/mysql/commit/9676f388) Stop using removed apis in Kubernetes 1.25 (#492)
+- [db176142](https://github.com/kubedb/mysql/commit/db176142) Use health checker types from kmodules (#491)
+- [3c9835b0](https://github.com/kubedb/mysql/commit/3c9835b0) Fix health check issue (#489)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.7.0-rc.0)

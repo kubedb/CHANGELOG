@@ -96,6 +96,25 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.2.0-rc.0)
+
+- [cf6c54c](https://github.com/kubedb/percona-xtradb-coordinator/commit/cf6c54c) Prepare for release v0.2.0-rc.0 (#19)
+- [a71e01d](https://github.com/kubedb/percona-xtradb-coordinator/commit/a71e01d) Update dependencies (#18)
+- [0b51751](https://github.com/kubedb/percona-xtradb-coordinator/commit/0b51751) Test against Kubernetes 1.25.0 (#17)
+- [1f2b1a5](https://github.com/kubedb/percona-xtradb-coordinator/commit/1f2b1a5) Check for PDB version only once (#15)
+- [03125ba](https://github.com/kubedb/percona-xtradb-coordinator/commit/03125ba) Handle status conversion for CronJob/VolumeSnapshot (#14)
+- [06a2634](https://github.com/kubedb/percona-xtradb-coordinator/commit/06a2634) Use Go 1.19 (#13)
+- [1a8a90b](https://github.com/kubedb/percona-xtradb-coordinator/commit/1a8a90b) Use k8s 1.25.1 libs (#12)
+- [f33c751](https://github.com/kubedb/percona-xtradb-coordinator/commit/f33c751) Stop using removed apis in Kubernetes 1.25 (#11)
+- [91495bf](https://github.com/kubedb/percona-xtradb-coordinator/commit/91495bf) Use health checker types from kmodules (#10)
+- [290e281](https://github.com/kubedb/percona-xtradb-coordinator/commit/290e281) Prepare for release v0.1.0-rc.1 (#9)
+- [c57449c](https://github.com/kubedb/percona-xtradb-coordinator/commit/c57449c) Update health checker (#8)
+- [adad8b5](https://github.com/kubedb/percona-xtradb-coordinator/commit/adad8b5) Acquire license from license-proxyserver if available (#7)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.29.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.29.0-rc.0)

@@ -231,6 +231,39 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/ops-manager/releases/tag/v0.16.0-rc.0)
+
+- [698d4f84](https://github.com/kubedb/ops-manager/commit/698d4f84) Prepare for release v0.16.0-rc.0 (#373)
+- [f85a6048](https://github.com/kubedb/ops-manager/commit/f85a6048) Handle private registry with self-signed certs (#372)
+- [205b8e3c](https://github.com/kubedb/ops-manager/commit/205b8e3c) Fix replication user update password (#371)
+- [6680a32c](https://github.com/kubedb/ops-manager/commit/6680a32c) Fix HS Ops Request (#370)
+- [b96f4592](https://github.com/kubedb/ops-manager/commit/b96f4592) Add PostgreSQL Logical Replication (#353)
+- [2ca9b5f8](https://github.com/kubedb/ops-manager/commit/2ca9b5f8) ProxySQL Ops-requests (#368)
+- [c2d6b85e](https://github.com/kubedb/ops-manager/commit/c2d6b85e) Remove ensureExporterSecretForTLSConfig for MariaDB and PXC (#369)
+- [06b69609](https://github.com/kubedb/ops-manager/commit/06b69609) Add PerconaXtraDB OpsReq (#367)
+- [891a2288](https://github.com/kubedb/ops-manager/commit/891a2288) Make opsReqType specific to databases (#366)
+- [82d960b0](https://github.com/kubedb/ops-manager/commit/82d960b0) MySQL ops request fix for Innodb (#365)
+- [13401a96](https://github.com/kubedb/ops-manager/commit/13401a96) Add Redis Sentinel Ops Request (#328)
+- [8ee68b62](https://github.com/kubedb/ops-manager/commit/8ee68b62) Modify reconfigureTLS to support arbiter & hidden enabled mongo (#364)
+- [805f8bba](https://github.com/kubedb/ops-manager/commit/805f8bba) Test against Kubernetes 1.25.0 (#363)
+- [787f7bea](https://github.com/kubedb/ops-manager/commit/787f7bea) Fix MariaDB Upgrade OpsReq Image name issue (#361)
+- [e676ea51](https://github.com/kubedb/ops-manager/commit/e676ea51) Fix podnames & selectors for Mongo volumeExpansion (#358)
+- [7a5e34b1](https://github.com/kubedb/ops-manager/commit/7a5e34b1) Check for PDB version only once (#357)
+- [3fb148a5](https://github.com/kubedb/ops-manager/commit/3fb148a5) Handle status conversion for CronJob/VolumeSnapshot (#356)
+- [9f058091](https://github.com/kubedb/ops-manager/commit/9f058091) Use Go 1.19 (#355)
+- [25febfcb](https://github.com/kubedb/ops-manager/commit/25febfcb) Update .kodiak.toml
+- [eb0f3792](https://github.com/kubedb/ops-manager/commit/eb0f3792) Use k8s 1.25.1 libs (#354)
+- [d09da904](https://github.com/kubedb/ops-manager/commit/d09da904) Add opsRequests for mongo hidden-node (#347)
+- [9114f329](https://github.com/kubedb/ops-manager/commit/9114f329) Rework Mongo verticalScaling; Fix arbiter & exporter-related issues (#346)
+- [74f4831c](https://github.com/kubedb/ops-manager/commit/74f4831c) Update README.md
+- [2277c28f](https://github.com/kubedb/ops-manager/commit/2277c28f) Skip Image Digest for Dev Builds (#350)
+- [c7f3cf07](https://github.com/kubedb/ops-manager/commit/c7f3cf07) Stop using removed apis in Kubernetes 1.25 (#352)
+- [0fbc4d57](https://github.com/kubedb/ops-manager/commit/0fbc4d57) Use health checker types from kmodules (#351)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.16.0-rc.0)

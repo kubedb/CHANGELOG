@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.12-rc.0",
-  "release_date": "2022-10-12T10:14:13.641234666Z",
+  "release_date": "2022-10-12T10:21:21.262081155Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.12-rc.0",
   "kubernetes_version": "1.18+",
@@ -723,6 +723,120 @@
             {
               "SHA": "5631a3c",
               "Subject": "Use k8s 1.25.1 libs (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "698d4f84",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#373)"
+            },
+            {
+              "SHA": "f85a6048",
+              "Subject": "Handle private registry with self-signed certs (#372)"
+            },
+            {
+              "SHA": "205b8e3c",
+              "Subject": "Fix replication user update password (#371)"
+            },
+            {
+              "SHA": "6680a32c",
+              "Subject": "Fix HS Ops Request (#370)"
+            },
+            {
+              "SHA": "b96f4592",
+              "Subject": "Add PostgreSQL Logical Replication (#353)"
+            },
+            {
+              "SHA": "2ca9b5f8",
+              "Subject": "ProxySQL Ops-requests (#368)"
+            },
+            {
+              "SHA": "c2d6b85e",
+              "Subject": "Remove ensureExporterSecretForTLSConfig for MariaDB and PXC (#369)"
+            },
+            {
+              "SHA": "06b69609",
+              "Subject": "Add PerconaXtraDB OpsReq (#367)"
+            },
+            {
+              "SHA": "891a2288",
+              "Subject": "Make opsReqType specific to databases (#366)"
+            },
+            {
+              "SHA": "82d960b0",
+              "Subject": "MySQL ops request fix for Innodb (#365)"
+            },
+            {
+              "SHA": "13401a96",
+              "Subject": "Add Redis Sentinel Ops Request (#328)"
+            },
+            {
+              "SHA": "8ee68b62",
+              "Subject": "Modify reconfigureTLS to support arbiter & hidden enabled mongo (#364)"
+            },
+            {
+              "SHA": "805f8bba",
+              "Subject": "Test against Kubernetes 1.25.0 (#363)"
+            },
+            {
+              "SHA": "787f7bea",
+              "Subject": "Fix MariaDB Upgrade OpsReq Image name issue (#361)"
+            },
+            {
+              "SHA": "e676ea51",
+              "Subject": "Fix podnames & selectors for Mongo volumeExpansion (#358)"
+            },
+            {
+              "SHA": "7a5e34b1",
+              "Subject": "Check for PDB version only once (#357)"
+            },
+            {
+              "SHA": "3fb148a5",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#356)"
+            },
+            {
+              "SHA": "9f058091",
+              "Subject": "Use Go 1.19 (#355)"
+            },
+            {
+              "SHA": "25febfcb",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "eb0f3792",
+              "Subject": "Use k8s 1.25.1 libs (#354)"
+            },
+            {
+              "SHA": "d09da904",
+              "Subject": "Add opsRequests for mongo hidden-node (#347)"
+            },
+            {
+              "SHA": "9114f329",
+              "Subject": "Rework Mongo verticalScaling; Fix arbiter & exporter-related issues (#346)"
+            },
+            {
+              "SHA": "74f4831c",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "2277c28f",
+              "Subject": "Skip Image Digest for Dev Builds (#350)"
+            },
+            {
+              "SHA": "c7f3cf07",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#352)"
+            },
+            {
+              "SHA": "0fbc4d57",
+              "Subject": "Use health checker types from kmodules (#351)"
             }
           ]
         }

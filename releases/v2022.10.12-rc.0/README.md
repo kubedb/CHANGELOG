@@ -82,6 +82,28 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.22.0-rc.0)
+
+- [b9e03cc5](https://github.com/kubedb/mongodb/commit/b9e03cc5) Prepare for release v0.22.0-rc.0 (#517)
+- [2f0c8b65](https://github.com/kubedb/mongodb/commit/2f0c8b65) Set TLSSecret name (#516)
+- [ffb021ea](https://github.com/kubedb/mongodb/commit/ffb021ea) Configure AppRef in appbinding (#515)
+- [2c9eb87b](https://github.com/kubedb/mongodb/commit/2c9eb87b) Add support for externally-managed authSecret (#514)
+- [f4789ab7](https://github.com/kubedb/mongodb/commit/f4789ab7) Test against Kubernetes 1.25.0 (#513)
+- [9ad4c219](https://github.com/kubedb/mongodb/commit/9ad4c219) Change operator name in event (#511)
+- [dbb7ff10](https://github.com/kubedb/mongodb/commit/dbb7ff10) Check for PDB version only once (#510)
+- [79d53b0a](https://github.com/kubedb/mongodb/commit/79d53b0a) Handle status conversion for CronJob/VolumeSnapshot (#509)
+- [37521202](https://github.com/kubedb/mongodb/commit/37521202) Use Go 1.19 (#508)
+- [d1a2d55a](https://github.com/kubedb/mongodb/commit/d1a2d55a) Use k8s 1.25.1 libs (#507)
+- [43399906](https://github.com/kubedb/mongodb/commit/43399906) Add support for Hidden node (#503)
+- [91acbffc](https://github.com/kubedb/mongodb/commit/91acbffc) Update README.md
+- [b053290c](https://github.com/kubedb/mongodb/commit/b053290c) Stop using removed apis in Kubernetes 1.25 (#506)
+- [79b99580](https://github.com/kubedb/mongodb/commit/79b99580) Use health checker types from kmodules (#505)
+- [ff39883d](https://github.com/kubedb/mongodb/commit/ff39883d) Fix health check issue (#504)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.7.0-rc.0)

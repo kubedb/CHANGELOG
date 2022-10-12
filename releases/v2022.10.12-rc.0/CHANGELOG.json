@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.12-rc.0",
-  "release_date": "2022-10-12T10:21:21.262081155Z",
+  "release_date": "2022-10-12T10:25:57.80426148Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.12-rc.0",
   "kubernetes_version": "1.18+",
@@ -159,6 +159,92 @@
             {
               "SHA": "722a1bc1",
               "Subject": "Use health checker types from kmodules (#961)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "99ffb7a4",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#118)"
+            },
+            {
+              "SHA": "deec8a47",
+              "Subject": "Update dependencies (#117)"
+            },
+            {
+              "SHA": "c06eff58",
+              "Subject": "Support mongo arbiter & hidden nodes (#115)"
+            },
+            {
+              "SHA": "513b5fb4",
+              "Subject": "Add support for Postgres Autoscaler (#112)"
+            },
+            {
+              "SHA": "87dd17fe",
+              "Subject": "Using opsRequestOpts on storageAutoscalers to satisfy cmp.Equal() (#116)"
+            },
+            {
+              "SHA": "a8afe242",
+              "Subject": "Test against Kubernetes 1.25.0 (#114)"
+            },
+            {
+              "SHA": "65d3869c",
+              "Subject": "Test against Kubernetes 1.25.0 (#113)"
+            },
+            {
+              "SHA": "bc069f48",
+              "Subject": "Add MySQL Autoscaler support (#106)"
+            },
+            {
+              "SHA": "88c985a0",
+              "Subject": "Check for PDB version only once (#110)"
+            },
+            {
+              "SHA": "6f5f9ae2",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#109)"
+            },
+            {
+              "SHA": "46b925c0",
+              "Subject": "Use Go 1.19 (#108)"
+            },
+            {
+              "SHA": "674e3b7a",
+              "Subject": "Use k8s 1.25.1 libs (#107)"
+            },
+            {
+              "SHA": "6a5d4274",
+              "Subject": "Improve internal API; using milliValue (#105)"
+            },
+            {
+              "SHA": "757cdfed",
+              "Subject": "Add support for RedisSentinel autoscaler (#104)"
+            },
+            {
+              "SHA": "56b92c66",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "f3b9904f",
+              "Subject": "Add PerconaXtraDB Autoscaler Support (#103)"
+            },
+            {
+              "SHA": "7ac495d9",
+              "Subject": "Implement redisAutoscaler feature (#102)"
+            },
+            {
+              "SHA": "997180f5",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#101)"
+            },
+            {
+              "SHA": "490a6b69",
+              "Subject": "Use health checker types from kmodules (#100)"
             }
           ]
         }

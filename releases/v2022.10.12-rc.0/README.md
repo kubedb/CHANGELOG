@@ -271,6 +271,25 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.16.0-rc.0)
+
+- [0d58567a](https://github.com/kubedb/pgbouncer/commit/0d58567a) Prepare for release v0.16.0-rc.0 (#245)
+- [47329dfa](https://github.com/kubedb/pgbouncer/commit/47329dfa) Fix TLSSecret for appbinding. (#244)
+- [3efec0cb](https://github.com/kubedb/pgbouncer/commit/3efec0cb) Update dependencies (#243)
+- [8a1bd7b0](https://github.com/kubedb/pgbouncer/commit/8a1bd7b0) Fix health check issue (#234)
+- [c20e87e5](https://github.com/kubedb/pgbouncer/commit/c20e87e5) Test against Kubernetes 1.25.0 (#242)
+- [760fd8e3](https://github.com/kubedb/pgbouncer/commit/760fd8e3) Check for PDB version only once (#240)
+- [8ba2692d](https://github.com/kubedb/pgbouncer/commit/8ba2692d) Handle status conversion for CronJob/VolumeSnapshot (#239)
+- [ea1fc328](https://github.com/kubedb/pgbouncer/commit/ea1fc328) Use Go 1.19 (#238)
+- [6a24f732](https://github.com/kubedb/pgbouncer/commit/6a24f732) Use k8s 1.25.1 libs (#237)
+- [327242e1](https://github.com/kubedb/pgbouncer/commit/327242e1) Update README.md
+- [c9754ecd](https://github.com/kubedb/pgbouncer/commit/c9754ecd) Stop using removed apis in Kubernetes 1.25 (#236)
+- [bb7a3b6f](https://github.com/kubedb/pgbouncer/commit/bb7a3b6f) Use health checker types from kmodules (#235)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.29.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.29.0-rc.0)

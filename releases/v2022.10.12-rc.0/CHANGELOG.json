@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.12-rc.0",
-  "release_date": "2022-10-12T09:23:28.304888215Z",
+  "release_date": "2022-10-12T09:28:54.246881152Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.12-rc.0",
   "kubernetes_version": "1.18+",
@@ -847,6 +847,64 @@
             {
               "SHA": "3b26263c",
               "Subject": "Use health checker types from kmodules (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0d58567a",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#245)"
+            },
+            {
+              "SHA": "47329dfa",
+              "Subject": "Fix TLSSecret for appbinding. (#244)"
+            },
+            {
+              "SHA": "3efec0cb",
+              "Subject": "Update dependencies (#243)"
+            },
+            {
+              "SHA": "8a1bd7b0",
+              "Subject": "Fix health check issue (#234)"
+            },
+            {
+              "SHA": "c20e87e5",
+              "Subject": "Test against Kubernetes 1.25.0 (#242)"
+            },
+            {
+              "SHA": "760fd8e3",
+              "Subject": "Check for PDB version only once (#240)"
+            },
+            {
+              "SHA": "8ba2692d",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#239)"
+            },
+            {
+              "SHA": "ea1fc328",
+              "Subject": "Use Go 1.19 (#238)"
+            },
+            {
+              "SHA": "6a24f732",
+              "Subject": "Use k8s 1.25.1 libs (#237)"
+            },
+            {
+              "SHA": "327242e1",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "c9754ecd",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#236)"
+            },
+            {
+              "SHA": "bb7a3b6f",
+              "Subject": "Use health checker types from kmodules (#235)"
             }
           ]
         }

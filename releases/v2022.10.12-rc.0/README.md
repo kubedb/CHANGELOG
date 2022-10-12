@@ -64,3 +64,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.7.0-rc.0)
+
+- [e5eba9e](https://github.com/kubedb/mysql-router-init/commit/e5eba9e) Test against Kubernetes 1.25.0 (#26)
+- [f0bdfdd](https://github.com/kubedb/mysql-router-init/commit/f0bdfdd) Use Go 1.19 (#25)
+- [5631a3c](https://github.com/kubedb/mysql-router-init/commit/5631a3c) Use k8s 1.25.1 libs (#24)
+
+
+

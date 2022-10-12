@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.12-rc.0",
-  "release_date": "2022-10-12T10:25:57.80426148Z",
+  "release_date": "2022-10-12T10:33:32.76608222Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.12-rc.0",
   "kubernetes_version": "1.18+",
@@ -1637,6 +1637,36 @@
             {
               "SHA": "fc35287c",
               "Subject": "Use health checker types from kmodules (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1de1fe03",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#33)"
+            },
+            {
+              "SHA": "8f65154d",
+              "Subject": "Test against Kubernetes 1.25.0 (#31)"
+            },
+            {
+              "SHA": "ed6ba664",
+              "Subject": "Check for PDB version only once (#29)"
+            },
+            {
+              "SHA": "ab4e44d0",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#28)"
+            },
+            {
+              "SHA": "aef864b7",
+              "Subject": "Use Go 1.19 (#27)"
             }
           ]
         }

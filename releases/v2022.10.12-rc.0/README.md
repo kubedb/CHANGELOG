@@ -527,3 +527,15 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/webhook-server/releases/tag/v0.5.0-rc.0)
+
+- [1de1fe03](https://github.com/kubedb/webhook-server/commit/1de1fe03) Prepare for release v0.5.0-rc.0 (#33)
+- [8f65154d](https://github.com/kubedb/webhook-server/commit/8f65154d) Test against Kubernetes 1.25.0 (#31)
+- [ed6ba664](https://github.com/kubedb/webhook-server/commit/ed6ba664) Check for PDB version only once (#29)
+- [ab4e44d0](https://github.com/kubedb/webhook-server/commit/ab4e44d0) Handle status conversion for CronJob/VolumeSnapshot (#28)
+- [aef864b7](https://github.com/kubedb/webhook-server/commit/aef864b7) Use Go 1.19 (#27)
+
+
+

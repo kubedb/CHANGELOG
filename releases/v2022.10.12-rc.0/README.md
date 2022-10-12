@@ -103,6 +103,26 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.9.0-rc.0)
+
+- [b16d49d](https://github.com/kubedb/mariadb-coordinator/commit/b16d49d) Prepare for release v0.9.0-rc.0 (#62)
+- [a5e1a7b](https://github.com/kubedb/mariadb-coordinator/commit/a5e1a7b) Update dependencies (#61)
+- [119956c](https://github.com/kubedb/mariadb-coordinator/commit/119956c) Test against Kubernetes 1.25.0 (#60)
+- [4950880](https://github.com/kubedb/mariadb-coordinator/commit/4950880) Check for PDB version only once (#58)
+- [8e89509](https://github.com/kubedb/mariadb-coordinator/commit/8e89509) Handle status conversion for CronJob/VolumeSnapshot (#57)
+- [79dc72c](https://github.com/kubedb/mariadb-coordinator/commit/79dc72c) Use Go 1.19 (#56)
+- [5a57951](https://github.com/kubedb/mariadb-coordinator/commit/5a57951) Use k8s 1.25.1 libs (#55)
+- [101e71a](https://github.com/kubedb/mariadb-coordinator/commit/101e71a) Stop using removed apis in Kubernetes 1.25 (#54)
+- [61c60ed](https://github.com/kubedb/mariadb-coordinator/commit/61c60ed) Use health checker types from kmodules (#53)
+- [fe8a57e](https://github.com/kubedb/mariadb-coordinator/commit/fe8a57e) Prepare for release v0.8.0-rc.1 (#52)
+- [9c3c47f](https://github.com/kubedb/mariadb-coordinator/commit/9c3c47f) Update health checker (#51)
+- [82bad04](https://github.com/kubedb/mariadb-coordinator/commit/82bad04) Prepare for release v0.8.0-rc.0 (#50)
+- [487fdbb](https://github.com/kubedb/mariadb-coordinator/commit/487fdbb) Acquire license from license-proxyserver if available (#49)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.22.0-rc.0)

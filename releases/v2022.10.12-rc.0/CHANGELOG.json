@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.12-rc.0",
-  "release_date": "2022-10-12T09:23:17.555930169Z",
+  "release_date": "2022-10-12T09:23:28.304888215Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.12-rc.0",
   "kubernetes_version": "1.18+",
@@ -337,6 +337,68 @@
             {
               "SHA": "e3ef008e",
               "Subject": "Use health checker types from kmodules (#167)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b16d49d",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#62)"
+            },
+            {
+              "SHA": "a5e1a7b",
+              "Subject": "Update dependencies (#61)"
+            },
+            {
+              "SHA": "119956c",
+              "Subject": "Test against Kubernetes 1.25.0 (#60)"
+            },
+            {
+              "SHA": "4950880",
+              "Subject": "Check for PDB version only once (#58)"
+            },
+            {
+              "SHA": "8e89509",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#57)"
+            },
+            {
+              "SHA": "79dc72c",
+              "Subject": "Use Go 1.19 (#56)"
+            },
+            {
+              "SHA": "5a57951",
+              "Subject": "Use k8s 1.25.1 libs (#55)"
+            },
+            {
+              "SHA": "101e71a",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#54)"
+            },
+            {
+              "SHA": "61c60ed",
+              "Subject": "Use health checker types from kmodules (#53)"
+            },
+            {
+              "SHA": "fe8a57e",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#52)"
+            },
+            {
+              "SHA": "9c3c47f",
+              "Subject": "Update health checker (#51)"
+            },
+            {
+              "SHA": "82bad04",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "487fdbb",
+              "Subject": "Acquire license from license-proxyserver if available (#49)"
             }
           ]
         }

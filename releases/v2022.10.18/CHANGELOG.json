@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.18",
-  "release_date": "2022-10-15T16:00:05.283008165Z",
+  "release_date": "2022-10-15T16:00:12.958976013Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.18",
   "kubernetes_version": "1.18+",
@@ -245,6 +245,68 @@
             {
               "SHA": "ff39883d",
               "Subject": "Fix health check issue (#504)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "1737b25f",
+              "Subject": "Prepare for release v0.14.0 (#203)"
+            },
+            {
+              "SHA": "f272557a",
+              "Subject": "Add MongoDB arbiter-related tests (#172)"
+            },
+            {
+              "SHA": "e7c55a30",
+              "Subject": "Use password-generator@v0.2.9 (#201)"
+            },
+            {
+              "SHA": "a2d4d3ac",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#200)"
+            },
+            {
+              "SHA": "03a028e7",
+              "Subject": "Update dependencies (#197)"
+            },
+            {
+              "SHA": "b34253e7",
+              "Subject": "Test against Kubernetes 1.25.0 (#196)"
+            },
+            {
+              "SHA": "b2c48e72",
+              "Subject": "Check for PDB version only once (#194)"
+            },
+            {
+              "SHA": "bd0b7f66",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#193)"
+            },
+            {
+              "SHA": "8e5103d0",
+              "Subject": "Use Go 1.19 (#192)"
+            },
+            {
+              "SHA": "096cfbf6",
+              "Subject": "Use k8s 1.25.1 libs (#191)"
+            },
+            {
+              "SHA": "6c45ea94",
+              "Subject": "Migrate to GinkgoV2 (#188)"
+            },
+            {
+              "SHA": "f89ab1c1",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#190)"
+            },
+            {
+              "SHA": "17954e8b",
+              "Subject": "Use health checker types from kmodules (#189)"
             }
           ]
         }

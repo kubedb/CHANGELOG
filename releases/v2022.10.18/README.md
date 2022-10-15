@@ -121,6 +121,23 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.13.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.13.0)
+
+- [43cd452f](https://github.com/kubedb/pg-coordinator/commit/43cd452f) Prepare for release v0.13.0 (#100)
+- [85fb61bb](https://github.com/kubedb/pg-coordinator/commit/85fb61bb) Prepare for release v0.13.0-rc.0 (#99)
+- [58720b10](https://github.com/kubedb/pg-coordinator/commit/58720b10) Update dependencies (#98)
+- [5a9dcc5f](https://github.com/kubedb/pg-coordinator/commit/5a9dcc5f) Test against Kubernetes 1.25.0 (#97)
+- [eb45fd8e](https://github.com/kubedb/pg-coordinator/commit/eb45fd8e) Check for PDB version only once (#95)
+- [a66884fb](https://github.com/kubedb/pg-coordinator/commit/a66884fb) Handle status conversion for CronJob/VolumeSnapshot (#94)
+- [db150c63](https://github.com/kubedb/pg-coordinator/commit/db150c63) Use Go 1.19 (#93)
+- [8bd4fcc5](https://github.com/kubedb/pg-coordinator/commit/8bd4fcc5) Use k8s 1.25.1 libs (#92)
+- [4a510768](https://github.com/kubedb/pg-coordinator/commit/4a510768) Stop using removed apis in Kubernetes 1.25 (#91)
+- [3b26263c](https://github.com/kubedb/pg-coordinator/commit/3b26263c) Use health checker types from kmodules (#90)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.29.0](https://github.com/kubedb/postgres/releases/tag/v0.29.0)

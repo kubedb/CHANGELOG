@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.18",
-  "release_date": "2022-10-15T16:02:39.518569382Z",
+  "release_date": "2022-10-15T16:04:36.547067368Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.18",
   "kubernetes_version": "1.18+",
@@ -391,6 +391,56 @@
             {
               "SHA": "adad8b5",
               "Subject": "Acquire license from license-proxyserver if available (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "43cd452f",
+              "Subject": "Prepare for release v0.13.0 (#100)"
+            },
+            {
+              "SHA": "85fb61bb",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#99)"
+            },
+            {
+              "SHA": "58720b10",
+              "Subject": "Update dependencies (#98)"
+            },
+            {
+              "SHA": "5a9dcc5f",
+              "Subject": "Test against Kubernetes 1.25.0 (#97)"
+            },
+            {
+              "SHA": "eb45fd8e",
+              "Subject": "Check for PDB version only once (#95)"
+            },
+            {
+              "SHA": "a66884fb",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#94)"
+            },
+            {
+              "SHA": "db150c63",
+              "Subject": "Use Go 1.19 (#93)"
+            },
+            {
+              "SHA": "8bd4fcc5",
+              "Subject": "Use k8s 1.25.1 libs (#92)"
+            },
+            {
+              "SHA": "4a510768",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#91)"
+            },
+            {
+              "SHA": "3b26263c",
+              "Subject": "Use health checker types from kmodules (#90)"
             }
           ]
         }

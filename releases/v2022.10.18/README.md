@@ -458,3 +458,20 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.5.0](https://github.com/kubedb/ui-server/releases/tag/v0.5.0)
+
+- [d205fcec](https://github.com/kubedb/ui-server/commit/d205fcec) Prepare for release v0.5.0 (#55)
+- [9dc8acb9](https://github.com/kubedb/ui-server/commit/9dc8acb9) Prepare for release v0.5.0-rc.0 (#54)
+- [7ccfe3ed](https://github.com/kubedb/ui-server/commit/7ccfe3ed) Update dependencies (#53)
+- [55f85699](https://github.com/kubedb/ui-server/commit/55f85699) Use Go 1.19 (#52)
+- [19c39ab1](https://github.com/kubedb/ui-server/commit/19c39ab1) Check for PDB version only once (#50)
+- [c1d7c41f](https://github.com/kubedb/ui-server/commit/c1d7c41f) Handle status conversion for CronJob/VolumeSnapshot (#49)
+- [96100e5f](https://github.com/kubedb/ui-server/commit/96100e5f) Use Go 1.19 (#48)
+- [99bc4723](https://github.com/kubedb/ui-server/commit/99bc4723) Use k8s 1.25.1 libs (#47)
+- [2c0ba4c1](https://github.com/kubedb/ui-server/commit/2c0ba4c1) Stop using removed apis in Kubernetes 1.25 (#46)
+- [fc35287c](https://github.com/kubedb/ui-server/commit/fc35287c) Use health checker types from kmodules (#45)
+
+
+

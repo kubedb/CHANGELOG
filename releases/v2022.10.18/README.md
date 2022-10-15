@@ -101,6 +101,32 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.29.0](https://github.com/kubedb/postgres/releases/tag/v0.29.0)
+
+- [08afda20](https://github.com/kubedb/postgres/commit/08afda20) Prepare for release v0.29.0 (#607)
+- [ad39a6cf](https://github.com/kubedb/postgres/commit/ad39a6cf) Update password generator hash (#606)
+- [cd547a68](https://github.com/kubedb/postgres/commit/cd547a68) Prepare for release v0.29.0-rc.0 (#605)
+- [9d98af14](https://github.com/kubedb/postgres/commit/9d98af14) Fix TlsSecret for AppBinding (#604)
+- [7d73ce99](https://github.com/kubedb/postgres/commit/7d73ce99) Update dependencies (#603)
+- [d8515a3f](https://github.com/kubedb/postgres/commit/d8515a3f) Configure appRef in AppBinding (#602)
+- [69458e25](https://github.com/kubedb/postgres/commit/69458e25) Check auth secrets labels if key exists (#601)
+- [3dd3563b](https://github.com/kubedb/postgres/commit/3dd3563b) Simplify ensureAuthSecret (#600)
+- [67f3db64](https://github.com/kubedb/postgres/commit/67f3db64) Relax Postgres key detection for a secret (#599)
+- [acdd2cda](https://github.com/kubedb/postgres/commit/acdd2cda) Add support for Externally Managed secret (#597)
+- [5121a362](https://github.com/kubedb/postgres/commit/5121a362) Test against Kubernetes 1.25.0 (#598)
+- [bfa46b08](https://github.com/kubedb/postgres/commit/bfa46b08) Check for PDB version only once (#594)
+- [150fcf2c](https://github.com/kubedb/postgres/commit/150fcf2c) Handle status conversion for CronJob/VolumeSnapshot (#593)
+- [86ff76e1](https://github.com/kubedb/postgres/commit/86ff76e1) Use Go 1.19 (#592)
+- [7732e22b](https://github.com/kubedb/postgres/commit/7732e22b) Use k8s 1.25.1 libs (#591)
+- [b4c7f426](https://github.com/kubedb/postgres/commit/b4c7f426) Update README.md
+- [68b06e68](https://github.com/kubedb/postgres/commit/68b06e68) Stop using removed apis in Kubernetes 1.25 (#590)
+- [51f600b9](https://github.com/kubedb/postgres/commit/51f600b9) Use health checker types from kmodules (#589)
+- [2e45ad1b](https://github.com/kubedb/postgres/commit/2e45ad1b) Fix health check issue (#588)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.14.0](https://github.com/kubedb/tests/releases/tag/v0.14.0)

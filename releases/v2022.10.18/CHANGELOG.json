@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.18",
-  "release_date": "2022-10-15T16:09:48.871707411Z",
+  "release_date": "2022-10-15T16:09:58.113423068Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.18",
   "kubernetes_version": "1.18+",
@@ -505,6 +505,88 @@
             {
               "SHA": "ff39883d",
               "Subject": "Fix health check issue (#504)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "2dc839c0",
+              "Subject": "Prepare for release v0.22.0 (#507)"
+            },
+            {
+              "SHA": "1c55ac97",
+              "Subject": "Add return statement if client engine is not created (#506)"
+            },
+            {
+              "SHA": "4d402bf3",
+              "Subject": "Use password-generator@v0.2.9 (#505)"
+            },
+            {
+              "SHA": "8386ed4c",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#504)"
+            },
+            {
+              "SHA": "8d58bbd8",
+              "Subject": "Add cluster role for watching mysqlversion in coordinator (#503)"
+            },
+            {
+              "SHA": "53b207b3",
+              "Subject": "Add TLS Secret Name in appbinding (#501)"
+            },
+            {
+              "SHA": "541e9f5e",
+              "Subject": "Update dependencies (#502)"
+            },
+            {
+              "SHA": "e51a494c",
+              "Subject": "Fix innodb router issues (#500)"
+            },
+            {
+              "SHA": "c4f78c1f",
+              "Subject": "Wait for externaly managed auth secret (#499)"
+            },
+            {
+              "SHA": "90f337a2",
+              "Subject": "Test against Kubernetes 1.25.0 (#498)"
+            },
+            {
+              "SHA": "af6d6654",
+              "Subject": "Check for PDB version only once (#496)"
+            },
+            {
+              "SHA": "27611133",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#495)"
+            },
+            {
+              "SHA": "a662b10d",
+              "Subject": "Use Go 1.19 (#494)"
+            },
+            {
+              "SHA": "07ce8211",
+              "Subject": "Use k8s 1.25.1 libs (#493)"
+            },
+            {
+              "SHA": "fac38c31",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "9676f388",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#492)"
+            },
+            {
+              "SHA": "db176142",
+              "Subject": "Use health checker types from kmodules (#491)"
+            },
+            {
+              "SHA": "3c9835b0",
+              "Subject": "Fix health check issue (#489)"
             }
           ]
         }

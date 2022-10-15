@@ -1,0 +1,176 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.10.18",
+  "release_date": "2022-10-15T15:54:24.393052986Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.10.18",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "daeafa99",
+              "Subject": "Update crds properly"
+            },
+            {
+              "SHA": "fc357a90",
+              "Subject": "Make exporter optional in ProxySQL catalog (#992)"
+            },
+            {
+              "SHA": "7d01a527",
+              "Subject": "Add conditions for postgres logical replication. (#990)"
+            },
+            {
+              "SHA": "197a2568",
+              "Subject": "Remove storage autoscaler from Sentinel spec (#991)"
+            },
+            {
+              "SHA": "2dae1fa1",
+              "Subject": "Add GetSystemUserSecret Heplers on PerconaXtraDB (#989)"
+            },
+            {
+              "SHA": "35e1d5e5",
+              "Subject": "Make OpsRequestType specific to databases (#988)"
+            },
+            {
+              "SHA": "e7310243",
+              "Subject": "Add Redis Sentinel Ops Requests APIs (#958)"
+            },
+            {
+              "SHA": "b937b3dc",
+              "Subject": "Update digest.go"
+            },
+            {
+              "SHA": "1b1732a9",
+              "Subject": "Change ProxySQL backend to a local obj ref (#987)"
+            },
+            {
+              "SHA": "31c66a34",
+              "Subject": "Include Arbiter & hidden nodes in MongoAutoscaler (#979)"
+            },
+            {
+              "SHA": "3c2f4a7a",
+              "Subject": "Add autoscaler types for Postgres (#969)"
+            },
+            {
+              "SHA": "9f60ebbe",
+              "Subject": "Add GetAuthSecretName() helper (#986)"
+            },
+            {
+              "SHA": "b48d0118",
+              "Subject": "Ignore TLS certificate validation when using private domains (#984)"
+            },
+            {
+              "SHA": "11a09d52",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.23.0 (#983)"
+            },
+            {
+              "SHA": "cb611290",
+              "Subject": "Remove duplicate short name from redis sentinel (#982)"
+            },
+            {
+              "SHA": "f5eabfc2",
+              "Subject": "Fix typo 'SuccessfullyRestatedStatefulSet' (#980)"
+            },
+            {
+              "SHA": "4f6d7eac",
+              "Subject": "Test against Kubernetes 1.25.0 (#981)"
+            },
+            {
+              "SHA": "c0388bc2",
+              "Subject": "Use authSecret.externallyManaged field (#978)"
+            },
+            {
+              "SHA": "7f39736a",
+              "Subject": "Remove default values from authSecret (#977)"
+            },
+            {
+              "SHA": "2d9abdb4",
+              "Subject": "Support different types of secrets and password rotation (#976)"
+            },
+            {
+              "SHA": "f01cf5b9",
+              "Subject": "Using opsRequestOpts for elastic,maria & percona (#970)"
+            },
+            {
+              "SHA": "e26f6417",
+              "Subject": "Fix typos of Postgres Logical Replication CRDs. (#974)"
+            },
+            {
+              "SHA": "d43f454e",
+              "Subject": "Check for PDB version only once (#975)"
+            },
+            {
+              "SHA": "fb5283cd",
+              "Subject": "Handle status conversion for PDB (#973)"
+            },
+            {
+              "SHA": "7263b503",
+              "Subject": "Update kutil"
+            },
+            {
+              "SHA": "5c643b97",
+              "Subject": "Use Go 1.19"
+            },
+            {
+              "SHA": "a0b96812",
+              "Subject": "Fix mergo dependency"
+            },
+            {
+              "SHA": "b7b93597",
+              "Subject": "Use k8s 1.25.1 libs (#971)"
+            },
+            {
+              "SHA": "c1f407b0",
+              "Subject": "Add MySQLAutoscaler support (#968)"
+            },
+            {
+              "SHA": "693f5243",
+              "Subject": "Add MongoDB HiddenNode support (#956)"
+            },
+            {
+              "SHA": "0b3be441",
+              "Subject": "Add Postgres Publisher & Subscriber CRDs (#967)"
+            },
+            {
+              "SHA": "71947dec",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "818f48fa",
+              "Subject": "Add redis-sentinel autoscaler types (#965)"
+            },
+            {
+              "SHA": "011938c4",
+              "Subject": "Add PerconaXtraDB OpsReq and Autoscaler APIs (#953)"
+            },
+            {
+              "SHA": "b57e7099",
+              "Subject": "Add RedisAutoscaler support (#963)"
+            },
+            {
+              "SHA": "2ccea895",
+              "Subject": "Remove `DisableScaleDown` field from autoscaler (#966)"
+            },
+            {
+              "SHA": "02b47709",
+              "Subject": "Support PDB v1 or v1beta1 api based on k8s version (#964)"
+            },
+            {
+              "SHA": "e2d0bb4f",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#962)"
+            },
+            {
+              "SHA": "722a1bc1",
+              "Subject": "Use health checker types from kmodules (#961)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

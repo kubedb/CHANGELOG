@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.18",
-  "release_date": "2022-10-15T15:54:24.393052986Z",
+  "release_date": "2022-10-15T16:00:05.283008165Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.18",
   "kubernetes_version": "1.18+",
@@ -167,6 +167,84 @@
             {
               "SHA": "722a1bc1",
               "Subject": "Use health checker types from kmodules (#961)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "fe689daa",
+              "Subject": "Prepare for release v0.22.0 (#519)"
+            },
+            {
+              "SHA": "e6ce6f0e",
+              "Subject": "Use password-generator@v0.2.9 (#518)"
+            },
+            {
+              "SHA": "b9e03cc5",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#517)"
+            },
+            {
+              "SHA": "2f0c8b65",
+              "Subject": "Set TLSSecret name (#516)"
+            },
+            {
+              "SHA": "ffb021ea",
+              "Subject": "Configure AppRef in appbinding (#515)"
+            },
+            {
+              "SHA": "2c9eb87b",
+              "Subject": "Add support for externally-managed authSecret (#514)"
+            },
+            {
+              "SHA": "f4789ab7",
+              "Subject": "Test against Kubernetes 1.25.0 (#513)"
+            },
+            {
+              "SHA": "9ad4c219",
+              "Subject": "Change operator name in event (#511)"
+            },
+            {
+              "SHA": "dbb7ff10",
+              "Subject": "Check for PDB version only once (#510)"
+            },
+            {
+              "SHA": "79d53b0a",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#509)"
+            },
+            {
+              "SHA": "37521202",
+              "Subject": "Use Go 1.19 (#508)"
+            },
+            {
+              "SHA": "d1a2d55a",
+              "Subject": "Use k8s 1.25.1 libs (#507)"
+            },
+            {
+              "SHA": "43399906",
+              "Subject": "Add support for Hidden node (#503)"
+            },
+            {
+              "SHA": "91acbffc",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "b053290c",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#506)"
+            },
+            {
+              "SHA": "79b99580",
+              "Subject": "Use health checker types from kmodules (#505)"
+            },
+            {
+              "SHA": "ff39883d",
+              "Subject": "Fix health check issue (#504)"
             }
           ]
         }

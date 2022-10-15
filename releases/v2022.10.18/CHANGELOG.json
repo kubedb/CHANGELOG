@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.18",
-  "release_date": "2022-10-15T16:08:58.083476642Z",
+  "release_date": "2022-10-15T16:09:48.871707411Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.18",
   "kubernetes_version": "1.18+",
@@ -373,6 +373,60 @@
             {
               "SHA": "487fdbb",
               "Subject": "Acquire license from license-proxyserver if available (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "05b13b2f",
+              "Subject": "Prepare for release v0.22.0 (#375)"
+            },
+            {
+              "SHA": "9849bbb8",
+              "Subject": "Use password-generator@v0.2.9 (#374)"
+            },
+            {
+              "SHA": "255abab3",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#373)"
+            },
+            {
+              "SHA": "2cbc373f",
+              "Subject": "Update dependencies (#372)"
+            },
+            {
+              "SHA": "6995e546",
+              "Subject": "Test against Kubernetes 1.25.0 (#371)"
+            },
+            {
+              "SHA": "2974948e",
+              "Subject": "Check for PDB version only once (#369)"
+            },
+            {
+              "SHA": "f2662305",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#368)"
+            },
+            {
+              "SHA": "a79d8ed9",
+              "Subject": "Use Go 1.19 (#367)"
+            },
+            {
+              "SHA": "e2a89736",
+              "Subject": "Use k8s 1.25.1 libs (#366)"
+            },
+            {
+              "SHA": "15ba567f",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#365)"
+            },
+            {
+              "SHA": "12204d85",
+              "Subject": "Use health checker types from kmodules (#364)"
             }
           ]
         }

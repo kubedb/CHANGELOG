@@ -112,6 +112,24 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.22.0](https://github.com/kubedb/memcached/releases/tag/v0.22.0)
+
+- [05b13b2f](https://github.com/kubedb/memcached/commit/05b13b2f) Prepare for release v0.22.0 (#375)
+- [9849bbb8](https://github.com/kubedb/memcached/commit/9849bbb8) Use password-generator@v0.2.9 (#374)
+- [255abab3](https://github.com/kubedb/memcached/commit/255abab3) Prepare for release v0.22.0-rc.0 (#373)
+- [2cbc373f](https://github.com/kubedb/memcached/commit/2cbc373f) Update dependencies (#372)
+- [6995e546](https://github.com/kubedb/memcached/commit/6995e546) Test against Kubernetes 1.25.0 (#371)
+- [2974948e](https://github.com/kubedb/memcached/commit/2974948e) Check for PDB version only once (#369)
+- [f2662305](https://github.com/kubedb/memcached/commit/f2662305) Handle status conversion for CronJob/VolumeSnapshot (#368)
+- [a79d8ed9](https://github.com/kubedb/memcached/commit/a79d8ed9) Use Go 1.19 (#367)
+- [e2a89736](https://github.com/kubedb/memcached/commit/e2a89736) Use k8s 1.25.1 libs (#366)
+- [15ba567f](https://github.com/kubedb/memcached/commit/15ba567f) Stop using removed apis in Kubernetes 1.25 (#365)
+- [12204d85](https://github.com/kubedb/memcached/commit/12204d85) Use health checker types from kmodules (#364)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.22.0](https://github.com/kubedb/mongodb/releases/tag/v0.22.0)

@@ -47,6 +47,34 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.14.0](https://github.com/kubedb/autoscaler/releases/tag/v0.14.0)
+
+- [e798cfae](https://github.com/kubedb/autoscaler/commit/e798cfae) Prepare for release v0.14.0 (#120)
+- [defb6306](https://github.com/kubedb/autoscaler/commit/defb6306) Use password-generator@v0.2.9 (#119)
+- [99ffb7a4](https://github.com/kubedb/autoscaler/commit/99ffb7a4) Prepare for release v0.14.0-rc.0 (#118)
+- [deec8a47](https://github.com/kubedb/autoscaler/commit/deec8a47) Update dependencies (#117)
+- [c06eff58](https://github.com/kubedb/autoscaler/commit/c06eff58) Support mongo arbiter & hidden nodes (#115)
+- [513b5fb4](https://github.com/kubedb/autoscaler/commit/513b5fb4) Add support for Postgres Autoscaler (#112)
+- [87dd17fe](https://github.com/kubedb/autoscaler/commit/87dd17fe) Using opsRequestOpts on storageAutoscalers to satisfy cmp.Equal() (#116)
+- [a8afe242](https://github.com/kubedb/autoscaler/commit/a8afe242) Test against Kubernetes 1.25.0 (#114)
+- [65d3869c](https://github.com/kubedb/autoscaler/commit/65d3869c) Test against Kubernetes 1.25.0 (#113)
+- [bc069f48](https://github.com/kubedb/autoscaler/commit/bc069f48) Add MySQL Autoscaler support (#106)
+- [88c985a0](https://github.com/kubedb/autoscaler/commit/88c985a0) Check for PDB version only once (#110)
+- [6f5f9ae2](https://github.com/kubedb/autoscaler/commit/6f5f9ae2) Handle status conversion for CronJob/VolumeSnapshot (#109)
+- [46b925c0](https://github.com/kubedb/autoscaler/commit/46b925c0) Use Go 1.19 (#108)
+- [674e3b7a](https://github.com/kubedb/autoscaler/commit/674e3b7a) Use k8s 1.25.1 libs (#107)
+- [6a5d4274](https://github.com/kubedb/autoscaler/commit/6a5d4274) Improve internal API; using milliValue (#105)
+- [757cdfed](https://github.com/kubedb/autoscaler/commit/757cdfed) Add support for RedisSentinel autoscaler (#104)
+- [56b92c66](https://github.com/kubedb/autoscaler/commit/56b92c66) Update README.md
+- [f3b9904f](https://github.com/kubedb/autoscaler/commit/f3b9904f) Add PerconaXtraDB Autoscaler Support (#103)
+- [7ac495d9](https://github.com/kubedb/autoscaler/commit/7ac495d9) Implement redisAutoscaler feature (#102)
+- [997180f5](https://github.com/kubedb/autoscaler/commit/997180f5) Stop using removed apis in Kubernetes 1.25 (#101)
+- [490a6b69](https://github.com/kubedb/autoscaler/commit/490a6b69) Use health checker types from kmodules (#100)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.29.0](https://github.com/kubedb/cli/releases/tag/v0.29.0)

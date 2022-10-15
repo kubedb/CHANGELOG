@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.18",
-  "release_date": "2022-10-15T18:30:28.740866571Z",
+  "release_date": "2022-10-15T18:53:00.166322834Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.18",
   "kubernetes_version": "1.18+",
@@ -443,6 +443,144 @@
             {
               "SHA": "baf9b9c1b",
               "Subject": "Fix ClientCreated counter increment issue in healthchecker (#600)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.10.18",
+          "commits": [
+            {
+              "SHA": "333e9724",
+              "Subject": "Prepare for release v2022.10.18 (#556)"
+            },
+            {
+              "SHA": "e8a05842",
+              "Subject": "Update crds for kubedb/apimachinery@daeafa99 (#555)"
+            },
+            {
+              "SHA": "1bb1d84b",
+              "Subject": "Update metricsconfig crd"
+            },
+            {
+              "SHA": "46c2b8f2",
+              "Subject": "Add postgres crds to charts"
+            },
+            {
+              "SHA": "0d5ff889",
+              "Subject": "Prepare for release v2022.10.12-rc.0 (#553)"
+            },
+            {
+              "SHA": "f0410def",
+              "Subject": "Fix backend name for ProxySQL (#554)"
+            },
+            {
+              "SHA": "545d7326",
+              "Subject": "Add support for mysql 8.0.31 (#552)"
+            },
+            {
+              "SHA": "0ecf6b7a",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "3c80588f",
+              "Subject": "Add ProxySQL-2.3.2-debian/centos-v2 (#549)"
+            },
+            {
+              "SHA": "edb50a92",
+              "Subject": "Add ProxySQL MetricsConfiguration (#545)"
+            },
+            {
+              "SHA": "78961127",
+              "Subject": "Update Redis Init Container Image (#551)"
+            },
+            {
+              "SHA": "e266fe95",
+              "Subject": "Update Percona XtraDB init container image (#550)"
+            },
+            {
+              "SHA": "c2b9f93b",
+              "Subject": "Update mongodb init container image (#548)"
+            },
+            {
+              "SHA": "cb4d226a",
+              "Subject": "Add Redis Sentinel Ops Requests changes (#533)"
+            },
+            {
+              "SHA": "f970eac3",
+              "Subject": "Fix missing docker images (#547)"
+            },
+            {
+              "SHA": "d34e3363",
+              "Subject": "Add mutating webhook for postgresAutoscaler (#544)"
+            },
+            {
+              "SHA": "bb0ae0de",
+              "Subject": "Fix valuePath for app_namespace key (#546)"
+            },
+            {
+              "SHA": "862d034e",
+              "Subject": "Add Subscriber apiservice (#543)"
+            },
+            {
+              "SHA": "88d1225e",
+              "Subject": "Use k8s 1.25 client libs (#228)"
+            },
+            {
+              "SHA": "46641e26",
+              "Subject": "Add proxysql new version 2.4.4 (#539)"
+            },
+            {
+              "SHA": "f498f5ae",
+              "Subject": "Add Percona XtraDB 8.0.28 (#529)"
+            },
+            {
+              "SHA": "24519580",
+              "Subject": "Add PerconaXtraDB Metrics (#532)"
+            },
+            {
+              "SHA": "a1f8ac75",
+              "Subject": "Update crds (#541)"
+            },
+            {
+              "SHA": "4b500533",
+              "Subject": "Add Postgres Logical Replication rbac and validators (#534)"
+            },
+            {
+              "SHA": "753f60c4",
+              "Subject": "Use k8s 1.25.2"
+            },
+            {
+              "SHA": "700dacb1",
+              "Subject": "Test against Kubernetes 1.25.0 (#540)"
+            },
+            {
+              "SHA": "92069bc7",
+              "Subject": "Test against k8s 1.25.0 (#537)"
+            },
+            {
+              "SHA": "b944c0b0",
+              "Subject": "Don't create PSP object in k8s >= 1.25 (#536)"
+            },
+            {
+              "SHA": "d35f8aec",
+              "Subject": "Use Go 1.19 (#535)"
+            },
+            {
+              "SHA": "59a10600",
+              "Subject": "Add all db-types in autoscaler mutatingwebhookConfiguration (#531)"
+            },
+            {
+              "SHA": "3010e3e4",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "2763ae75",
+              "Subject": "Add exclusion for health index in Elasticsearch (#530)"
             }
           ]
         }

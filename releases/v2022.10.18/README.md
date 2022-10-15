@@ -134,6 +134,45 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2022.10.18](https://github.com/kubedb/installer/releases/tag/v2022.10.18)
+
+- [333e9724](https://github.com/kubedb/installer/commit/333e9724) Prepare for release v2022.10.18 (#556)
+- [e8a05842](https://github.com/kubedb/installer/commit/e8a05842) Update crds for kubedb/apimachinery@daeafa99 (#555)
+- [1bb1d84b](https://github.com/kubedb/installer/commit/1bb1d84b) Update metricsconfig crd
+- [46c2b8f2](https://github.com/kubedb/installer/commit/46c2b8f2) Add postgres crds to charts
+- [0d5ff889](https://github.com/kubedb/installer/commit/0d5ff889) Prepare for release v2022.10.12-rc.0 (#553)
+- [f0410def](https://github.com/kubedb/installer/commit/f0410def) Fix backend name for ProxySQL (#554)
+- [545d7326](https://github.com/kubedb/installer/commit/545d7326) Add support for mysql 8.0.31 (#552)
+- [0ecf6b7a](https://github.com/kubedb/installer/commit/0ecf6b7a) Update crds
+- [3c80588f](https://github.com/kubedb/installer/commit/3c80588f) Add ProxySQL-2.3.2-debian/centos-v2 (#549)
+- [edb50a92](https://github.com/kubedb/installer/commit/edb50a92) Add ProxySQL MetricsConfiguration (#545)
+- [78961127](https://github.com/kubedb/installer/commit/78961127) Update Redis Init Container Image (#551)
+- [e266fe95](https://github.com/kubedb/installer/commit/e266fe95) Update Percona XtraDB init container image (#550)
+- [c2b9f93b](https://github.com/kubedb/installer/commit/c2b9f93b) Update mongodb init container image (#548)
+- [cb4d226a](https://github.com/kubedb/installer/commit/cb4d226a) Add Redis Sentinel Ops Requests changes (#533)
+- [f970eac3](https://github.com/kubedb/installer/commit/f970eac3) Fix missing docker images (#547)
+- [d34e3363](https://github.com/kubedb/installer/commit/d34e3363) Add mutating webhook for postgresAutoscaler (#544)
+- [bb0ae0de](https://github.com/kubedb/installer/commit/bb0ae0de) Fix valuePath for app_namespace key (#546)
+- [862d034e](https://github.com/kubedb/installer/commit/862d034e) Add Subscriber apiservice (#543)
+- [88d1225e](https://github.com/kubedb/installer/commit/88d1225e) Use k8s 1.25 client libs (#228)
+- [46641e26](https://github.com/kubedb/installer/commit/46641e26) Add proxysql new version 2.4.4 (#539)
+- [f498f5ae](https://github.com/kubedb/installer/commit/f498f5ae) Add Percona XtraDB 8.0.28 (#529)
+- [24519580](https://github.com/kubedb/installer/commit/24519580) Add PerconaXtraDB Metrics (#532)
+- [a1f8ac75](https://github.com/kubedb/installer/commit/a1f8ac75) Update crds (#541)
+- [4b500533](https://github.com/kubedb/installer/commit/4b500533) Add Postgres Logical Replication rbac and validators (#534)
+- [753f60c4](https://github.com/kubedb/installer/commit/753f60c4) Use k8s 1.25.2
+- [700dacb1](https://github.com/kubedb/installer/commit/700dacb1) Test against Kubernetes 1.25.0 (#540)
+- [92069bc7](https://github.com/kubedb/installer/commit/92069bc7) Test against k8s 1.25.0 (#537)
+- [b944c0b0](https://github.com/kubedb/installer/commit/b944c0b0) Don't create PSP object in k8s >= 1.25 (#536)
+- [d35f8aec](https://github.com/kubedb/installer/commit/d35f8aec) Use Go 1.19 (#535)
+- [59a10600](https://github.com/kubedb/installer/commit/59a10600) Add all db-types in autoscaler mutatingwebhookConfiguration (#531)
+- [3010e3e4](https://github.com/kubedb/installer/commit/3010e3e4) Update README.md
+- [2763ae75](https://github.com/kubedb/installer/commit/2763ae75) Add exclusion for health index in Elasticsearch (#530)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.13.0](https://github.com/kubedb/mariadb/releases/tag/v0.13.0)

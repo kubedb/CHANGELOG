@@ -342,6 +342,25 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.16.0](https://github.com/kubedb/proxysql/releases/tag/v0.16.0)
+
+- [060e14f6](https://github.com/kubedb/proxysql/commit/060e14f6) Prepare for release v0.16.0 (#261)
+- [7598aa0b](https://github.com/kubedb/proxysql/commit/7598aa0b) Use password-generator@v0.2.9 (#260)
+- [3dc6618f](https://github.com/kubedb/proxysql/commit/3dc6618f) Prepare for release v0.16.0-rc.0 (#259)
+- [ec249ccf](https://github.com/kubedb/proxysql/commit/ec249ccf) Add External-backend support and changes for Ops-requests (#258)
+- [fe9d736a](https://github.com/kubedb/proxysql/commit/fe9d736a) Fix health check issue (#247)
+- [42a3dedf](https://github.com/kubedb/proxysql/commit/42a3dedf) Test against Kubernetes 1.25.0 (#256)
+- [4677b6ab](https://github.com/kubedb/proxysql/commit/4677b6ab) Check for PDB version only once (#254)
+- [8f3e6e64](https://github.com/kubedb/proxysql/commit/8f3e6e64) Handle status conversion for CronJob/VolumeSnapshot (#253)
+- [19b856f4](https://github.com/kubedb/proxysql/commit/19b856f4) Use Go 1.19 (#252)
+- [f8dd8297](https://github.com/kubedb/proxysql/commit/f8dd8297) Use k8s 1.25.1 libs (#251)
+- [3a21c93a](https://github.com/kubedb/proxysql/commit/3a21c93a) Stop using removed apis in Kubernetes 1.25 (#249)
+- [cb0a1efd](https://github.com/kubedb/proxysql/commit/cb0a1efd) Use health checker types from kmodules (#248)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.22.0](https://github.com/kubedb/redis/releases/tag/v0.22.0)

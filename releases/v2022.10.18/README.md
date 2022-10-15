@@ -75,6 +75,16 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2022.10.18](https://github.com/kubedb/bundles/releases/tag/v2022.10.18)
+
+- [a69d704](https://github.com/kubedb/bundles/commit/a69d704) Prepare for release v2022.10.18 (#53)
+- [154800a](https://github.com/kubedb/bundles/commit/154800a) Prepare for release v2022.10.12-rc.0 (#52)
+- [1b80b74](https://github.com/kubedb/bundles/commit/1b80b74) Test against Kubernetes 1.25.0 (#51)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.29.0](https://github.com/kubedb/cli/releases/tag/v0.29.0)

@@ -1,0 +1,2090 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.10.18",
+  "release_date": "2022-10-15T19:30:59.605203319Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.10.18",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "daeafa99",
+              "Subject": "Update crds properly"
+            },
+            {
+              "SHA": "fc357a90",
+              "Subject": "Make exporter optional in ProxySQL catalog (#992)"
+            },
+            {
+              "SHA": "7d01a527",
+              "Subject": "Add conditions for postgres logical replication. (#990)"
+            },
+            {
+              "SHA": "197a2568",
+              "Subject": "Remove storage autoscaler from Sentinel spec (#991)"
+            },
+            {
+              "SHA": "2dae1fa1",
+              "Subject": "Add GetSystemUserSecret Heplers on PerconaXtraDB (#989)"
+            },
+            {
+              "SHA": "35e1d5e5",
+              "Subject": "Make OpsRequestType specific to databases (#988)"
+            },
+            {
+              "SHA": "e7310243",
+              "Subject": "Add Redis Sentinel Ops Requests APIs (#958)"
+            },
+            {
+              "SHA": "b937b3dc",
+              "Subject": "Update digest.go"
+            },
+            {
+              "SHA": "1b1732a9",
+              "Subject": "Change ProxySQL backend to a local obj ref (#987)"
+            },
+            {
+              "SHA": "31c66a34",
+              "Subject": "Include Arbiter & hidden nodes in MongoAutoscaler (#979)"
+            },
+            {
+              "SHA": "3c2f4a7a",
+              "Subject": "Add autoscaler types for Postgres (#969)"
+            },
+            {
+              "SHA": "9f60ebbe",
+              "Subject": "Add GetAuthSecretName() helper (#986)"
+            },
+            {
+              "SHA": "b48d0118",
+              "Subject": "Ignore TLS certificate validation when using private domains (#984)"
+            },
+            {
+              "SHA": "11a09d52",
+              "Subject": "Use stash.appscode.dev/apimachinery@v0.23.0 (#983)"
+            },
+            {
+              "SHA": "cb611290",
+              "Subject": "Remove duplicate short name from redis sentinel (#982)"
+            },
+            {
+              "SHA": "f5eabfc2",
+              "Subject": "Fix typo 'SuccessfullyRestatedStatefulSet' (#980)"
+            },
+            {
+              "SHA": "4f6d7eac",
+              "Subject": "Test against Kubernetes 1.25.0 (#981)"
+            },
+            {
+              "SHA": "c0388bc2",
+              "Subject": "Use authSecret.externallyManaged field (#978)"
+            },
+            {
+              "SHA": "7f39736a",
+              "Subject": "Remove default values from authSecret (#977)"
+            },
+            {
+              "SHA": "2d9abdb4",
+              "Subject": "Support different types of secrets and password rotation (#976)"
+            },
+            {
+              "SHA": "f01cf5b9",
+              "Subject": "Using opsRequestOpts for elastic,maria & percona (#970)"
+            },
+            {
+              "SHA": "e26f6417",
+              "Subject": "Fix typos of Postgres Logical Replication CRDs. (#974)"
+            },
+            {
+              "SHA": "d43f454e",
+              "Subject": "Check for PDB version only once (#975)"
+            },
+            {
+              "SHA": "fb5283cd",
+              "Subject": "Handle status conversion for PDB (#973)"
+            },
+            {
+              "SHA": "7263b503",
+              "Subject": "Update kutil"
+            },
+            {
+              "SHA": "5c643b97",
+              "Subject": "Use Go 1.19"
+            },
+            {
+              "SHA": "a0b96812",
+              "Subject": "Fix mergo dependency"
+            },
+            {
+              "SHA": "b7b93597",
+              "Subject": "Use k8s 1.25.1 libs (#971)"
+            },
+            {
+              "SHA": "c1f407b0",
+              "Subject": "Add MySQLAutoscaler support (#968)"
+            },
+            {
+              "SHA": "693f5243",
+              "Subject": "Add MongoDB HiddenNode support (#956)"
+            },
+            {
+              "SHA": "0b3be441",
+              "Subject": "Add Postgres Publisher & Subscriber CRDs (#967)"
+            },
+            {
+              "SHA": "71947dec",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "818f48fa",
+              "Subject": "Add redis-sentinel autoscaler types (#965)"
+            },
+            {
+              "SHA": "011938c4",
+              "Subject": "Add PerconaXtraDB OpsReq and Autoscaler APIs (#953)"
+            },
+            {
+              "SHA": "b57e7099",
+              "Subject": "Add RedisAutoscaler support (#963)"
+            },
+            {
+              "SHA": "2ccea895",
+              "Subject": "Remove `DisableScaleDown` field from autoscaler (#966)"
+            },
+            {
+              "SHA": "02b47709",
+              "Subject": "Support PDB v1 or v1beta1 api based on k8s version (#964)"
+            },
+            {
+              "SHA": "e2d0bb4f",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#962)"
+            },
+            {
+              "SHA": "722a1bc1",
+              "Subject": "Use health checker types from kmodules (#961)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "e798cfae",
+              "Subject": "Prepare for release v0.14.0 (#120)"
+            },
+            {
+              "SHA": "defb6306",
+              "Subject": "Use password-generator@v0.2.9 (#119)"
+            },
+            {
+              "SHA": "99ffb7a4",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#118)"
+            },
+            {
+              "SHA": "deec8a47",
+              "Subject": "Update dependencies (#117)"
+            },
+            {
+              "SHA": "c06eff58",
+              "Subject": "Support mongo arbiter & hidden nodes (#115)"
+            },
+            {
+              "SHA": "513b5fb4",
+              "Subject": "Add support for Postgres Autoscaler (#112)"
+            },
+            {
+              "SHA": "87dd17fe",
+              "Subject": "Using opsRequestOpts on storageAutoscalers to satisfy cmp.Equal() (#116)"
+            },
+            {
+              "SHA": "a8afe242",
+              "Subject": "Test against Kubernetes 1.25.0 (#114)"
+            },
+            {
+              "SHA": "65d3869c",
+              "Subject": "Test against Kubernetes 1.25.0 (#113)"
+            },
+            {
+              "SHA": "bc069f48",
+              "Subject": "Add MySQL Autoscaler support (#106)"
+            },
+            {
+              "SHA": "88c985a0",
+              "Subject": "Check for PDB version only once (#110)"
+            },
+            {
+              "SHA": "6f5f9ae2",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#109)"
+            },
+            {
+              "SHA": "46b925c0",
+              "Subject": "Use Go 1.19 (#108)"
+            },
+            {
+              "SHA": "674e3b7a",
+              "Subject": "Use k8s 1.25.1 libs (#107)"
+            },
+            {
+              "SHA": "6a5d4274",
+              "Subject": "Improve internal API; using milliValue (#105)"
+            },
+            {
+              "SHA": "757cdfed",
+              "Subject": "Add support for RedisSentinel autoscaler (#104)"
+            },
+            {
+              "SHA": "56b92c66",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "f3b9904f",
+              "Subject": "Add PerconaXtraDB Autoscaler Support (#103)"
+            },
+            {
+              "SHA": "7ac495d9",
+              "Subject": "Implement redisAutoscaler feature (#102)"
+            },
+            {
+              "SHA": "997180f5",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#101)"
+            },
+            {
+              "SHA": "490a6b69",
+              "Subject": "Use health checker types from kmodules (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.10.18",
+          "commits": [
+            {
+              "SHA": "a69d704",
+              "Subject": "Prepare for release v2022.10.18 (#53)"
+            },
+            {
+              "SHA": "154800a",
+              "Subject": "Prepare for release v2022.10.12-rc.0 (#52)"
+            },
+            {
+              "SHA": "1b80b74",
+              "Subject": "Test against Kubernetes 1.25.0 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "64ed984d",
+              "Subject": "Prepare for release v0.29.0 (#686)"
+            },
+            {
+              "SHA": "a3228690",
+              "Subject": "Use password-generator@v0.2.9 (#685)"
+            },
+            {
+              "SHA": "8033e31b",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#684)"
+            },
+            {
+              "SHA": "b021f761",
+              "Subject": "Update dependencies (#683)"
+            },
+            {
+              "SHA": "792efd14",
+              "Subject": "Support externally managed secrets (#681)"
+            },
+            {
+              "SHA": "7ec2adbc",
+              "Subject": "Test against Kubernetes 1.25.0 (#682)"
+            },
+            {
+              "SHA": "fc9b63c7",
+              "Subject": "Check for PDB version only once (#680)"
+            },
+            {
+              "SHA": "81199060",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#679)"
+            },
+            {
+              "SHA": "17c6e94d",
+              "Subject": "Use Go 1.19 (#678)"
+            },
+            {
+              "SHA": "31c24f80",
+              "Subject": "Use k8s 1.25.1 libs (#677)"
+            },
+            {
+              "SHA": "68e9ada6",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "4202bc84",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#676)"
+            },
+            {
+              "SHA": "eb922b19",
+              "Subject": "Use health checker types from kmodules (#675)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "903e551",
+              "Subject": "Prepare for release v0.5.0 (#48)"
+            },
+            {
+              "SHA": "b06a4cf",
+              "Subject": "Use password-generator@v0.2.9 (#47)"
+            },
+            {
+              "SHA": "fd8f1bc",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#46)"
+            },
+            {
+              "SHA": "4b093a9",
+              "Subject": "Update dependencies (#45)"
+            },
+            {
+              "SHA": "9804a55",
+              "Subject": "Test against Kubernetes 1.25.0 (#44)"
+            },
+            {
+              "SHA": "5f9caec",
+              "Subject": "Check for PDB version only once (#42)"
+            },
+            {
+              "SHA": "91b256c",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#41)"
+            },
+            {
+              "SHA": "11445c2",
+              "Subject": "Use Go 1.19 (#40)"
+            },
+            {
+              "SHA": "858bced",
+              "Subject": "Use k8s 1.25.1 libs (#39)"
+            },
+            {
+              "SHA": "ebaaade",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#38)"
+            },
+            {
+              "SHA": "51d4f7f",
+              "Subject": "Use health checker types from kmodules (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.10.18",
+          "commits": [
+            {
+              "SHA": "b1f4b06",
+              "Subject": "Prepare for release v2022.10.18 (#507)"
+            },
+            {
+              "SHA": "e3682b9",
+              "Subject": "Prepare for release v2022.10.12-rc.0 (#502)"
+            },
+            {
+              "SHA": "483cd25",
+              "Subject": "Update Percona XtraDB Version (#505)"
+            },
+            {
+              "SHA": "1afcebb",
+              "Subject": "Change Version 2.3.2 to 2.3.2-debian, Fix BackendRef (#504)"
+            },
+            {
+              "SHA": "593b0df",
+              "Subject": "Fix Redis Quickstart Docs (#503)"
+            },
+            {
+              "SHA": "8fb27d6",
+              "Subject": "Fix broken links"
+            },
+            {
+              "SHA": "4f706c8",
+              "Subject": "Fix broken links"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "fe9963505",
+              "Subject": "Prepare for release v0.29.0 (#613)"
+            },
+            {
+              "SHA": "13a36665d",
+              "Subject": "Use password-generator@v0.2.9 (#612)"
+            },
+            {
+              "SHA": "1e715c1a9",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#611)"
+            },
+            {
+              "SHA": "4ab0de973",
+              "Subject": "Update dependencies (#610)"
+            },
+            {
+              "SHA": "1803a4078",
+              "Subject": "Add support for Externally Managed secret (#609)"
+            },
+            {
+              "SHA": "c2fb96e2b",
+              "Subject": "Test against Kubernetes 1.25.0 (#608)"
+            },
+            {
+              "SHA": "96bbc6a85",
+              "Subject": "Check for PDB version only once (#606)"
+            },
+            {
+              "SHA": "380990623",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#605)"
+            },
+            {
+              "SHA": "6e86f853a",
+              "Subject": "Use Go 1.19 (#604)"
+            },
+            {
+              "SHA": "838ab6aec",
+              "Subject": "Use k8s 1.25.1 libs (#603)"
+            },
+            {
+              "SHA": "ce6877b58",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "297c60040",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#602)"
+            },
+            {
+              "SHA": "7f9ef6bf1",
+              "Subject": "Use health checker types from kmodules (#601)"
+            },
+            {
+              "SHA": "baf9b9c1b",
+              "Subject": "Fix ClientCreated counter increment issue in healthchecker (#600)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.10.18",
+          "commits": [
+            {
+              "SHA": "333e9724",
+              "Subject": "Prepare for release v2022.10.18 (#556)"
+            },
+            {
+              "SHA": "e8a05842",
+              "Subject": "Update crds for kubedb/apimachinery@daeafa99 (#555)"
+            },
+            {
+              "SHA": "1bb1d84b",
+              "Subject": "Update metricsconfig crd"
+            },
+            {
+              "SHA": "46c2b8f2",
+              "Subject": "Add postgres crds to charts"
+            },
+            {
+              "SHA": "0d5ff889",
+              "Subject": "Prepare for release v2022.10.12-rc.0 (#553)"
+            },
+            {
+              "SHA": "f0410def",
+              "Subject": "Fix backend name for ProxySQL (#554)"
+            },
+            {
+              "SHA": "545d7326",
+              "Subject": "Add support for mysql 8.0.31 (#552)"
+            },
+            {
+              "SHA": "0ecf6b7a",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "3c80588f",
+              "Subject": "Add ProxySQL-2.3.2-debian/centos-v2 (#549)"
+            },
+            {
+              "SHA": "edb50a92",
+              "Subject": "Add ProxySQL MetricsConfiguration (#545)"
+            },
+            {
+              "SHA": "78961127",
+              "Subject": "Update Redis Init Container Image (#551)"
+            },
+            {
+              "SHA": "e266fe95",
+              "Subject": "Update Percona XtraDB init container image (#550)"
+            },
+            {
+              "SHA": "c2b9f93b",
+              "Subject": "Update mongodb init container image (#548)"
+            },
+            {
+              "SHA": "cb4d226a",
+              "Subject": "Add Redis Sentinel Ops Requests changes (#533)"
+            },
+            {
+              "SHA": "f970eac3",
+              "Subject": "Fix missing docker images (#547)"
+            },
+            {
+              "SHA": "d34e3363",
+              "Subject": "Add mutating webhook for postgresAutoscaler (#544)"
+            },
+            {
+              "SHA": "bb0ae0de",
+              "Subject": "Fix valuePath for app_namespace key (#546)"
+            },
+            {
+              "SHA": "862d034e",
+              "Subject": "Add Subscriber apiservice (#543)"
+            },
+            {
+              "SHA": "88d1225e",
+              "Subject": "Use k8s 1.25 client libs (#228)"
+            },
+            {
+              "SHA": "46641e26",
+              "Subject": "Add proxysql new version 2.4.4 (#539)"
+            },
+            {
+              "SHA": "f498f5ae",
+              "Subject": "Add Percona XtraDB 8.0.28 (#529)"
+            },
+            {
+              "SHA": "24519580",
+              "Subject": "Add PerconaXtraDB Metrics (#532)"
+            },
+            {
+              "SHA": "a1f8ac75",
+              "Subject": "Update crds (#541)"
+            },
+            {
+              "SHA": "4b500533",
+              "Subject": "Add Postgres Logical Replication rbac and validators (#534)"
+            },
+            {
+              "SHA": "753f60c4",
+              "Subject": "Use k8s 1.25.2"
+            },
+            {
+              "SHA": "700dacb1",
+              "Subject": "Test against Kubernetes 1.25.0 (#540)"
+            },
+            {
+              "SHA": "92069bc7",
+              "Subject": "Test against k8s 1.25.0 (#537)"
+            },
+            {
+              "SHA": "b944c0b0",
+              "Subject": "Don't create PSP object in k8s >= 1.25 (#536)"
+            },
+            {
+              "SHA": "d35f8aec",
+              "Subject": "Use Go 1.19 (#535)"
+            },
+            {
+              "SHA": "59a10600",
+              "Subject": "Add all db-types in autoscaler mutatingwebhookConfiguration (#531)"
+            },
+            {
+              "SHA": "3010e3e4",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "2763ae75",
+              "Subject": "Add exclusion for health index in Elasticsearch (#530)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "c9d28b74",
+              "Subject": "Prepare for release v0.13.0 (#182)"
+            },
+            {
+              "SHA": "132af6e6",
+              "Subject": "Use password-generator@v0.2.9 (#181)"
+            },
+            {
+              "SHA": "ae53b273",
+              "Subject": "Not wait for Exporter Config Secret (#180)"
+            },
+            {
+              "SHA": "b13d62cf",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#179)"
+            },
+            {
+              "SHA": "5a8b0877",
+              "Subject": "Add TLS Secret on Appbinding (#178)"
+            },
+            {
+              "SHA": "a7f976f6",
+              "Subject": "Add AppRef on AppBinding and Add Exporter Config Secret (#177)"
+            },
+            {
+              "SHA": "a3d17697",
+              "Subject": "Update dependencies (#176)"
+            },
+            {
+              "SHA": "8c666da8",
+              "Subject": "Add Externally Manage Secret Support (#175)"
+            },
+            {
+              "SHA": "b14391f2",
+              "Subject": "Test against Kubernetes 1.25.0 (#174)"
+            },
+            {
+              "SHA": "a07bbf68",
+              "Subject": "Check for PDB version only once (#172)"
+            },
+            {
+              "SHA": "8a316b93",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#171)"
+            },
+            {
+              "SHA": "56b6cd33",
+              "Subject": "Use Go 1.19 (#170)"
+            },
+            {
+              "SHA": "c666db48",
+              "Subject": "Use k8s 1.25.1 libs (#169)"
+            },
+            {
+              "SHA": "665d7f2a",
+              "Subject": "Fix health check issue (#166)"
+            },
+            {
+              "SHA": "c089e057",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "c0efefeb",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#168)"
+            },
+            {
+              "SHA": "e3ef008e",
+              "Subject": "Use health checker types from kmodules (#167)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "923c65e",
+              "Subject": "Prepare for release v0.9.0 (#63)"
+            },
+            {
+              "SHA": "b16d49d",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#62)"
+            },
+            {
+              "SHA": "a5e1a7b",
+              "Subject": "Update dependencies (#61)"
+            },
+            {
+              "SHA": "119956c",
+              "Subject": "Test against Kubernetes 1.25.0 (#60)"
+            },
+            {
+              "SHA": "4950880",
+              "Subject": "Check for PDB version only once (#58)"
+            },
+            {
+              "SHA": "8e89509",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#57)"
+            },
+            {
+              "SHA": "79dc72c",
+              "Subject": "Use Go 1.19 (#56)"
+            },
+            {
+              "SHA": "5a57951",
+              "Subject": "Use k8s 1.25.1 libs (#55)"
+            },
+            {
+              "SHA": "101e71a",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#54)"
+            },
+            {
+              "SHA": "61c60ed",
+              "Subject": "Use health checker types from kmodules (#53)"
+            },
+            {
+              "SHA": "fe8a57e",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#52)"
+            },
+            {
+              "SHA": "9c3c47f",
+              "Subject": "Update health checker (#51)"
+            },
+            {
+              "SHA": "82bad04",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "487fdbb",
+              "Subject": "Acquire license from license-proxyserver if available (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "05b13b2f",
+              "Subject": "Prepare for release v0.22.0 (#375)"
+            },
+            {
+              "SHA": "9849bbb8",
+              "Subject": "Use password-generator@v0.2.9 (#374)"
+            },
+            {
+              "SHA": "255abab3",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#373)"
+            },
+            {
+              "SHA": "2cbc373f",
+              "Subject": "Update dependencies (#372)"
+            },
+            {
+              "SHA": "6995e546",
+              "Subject": "Test against Kubernetes 1.25.0 (#371)"
+            },
+            {
+              "SHA": "2974948e",
+              "Subject": "Check for PDB version only once (#369)"
+            },
+            {
+              "SHA": "f2662305",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#368)"
+            },
+            {
+              "SHA": "a79d8ed9",
+              "Subject": "Use Go 1.19 (#367)"
+            },
+            {
+              "SHA": "e2a89736",
+              "Subject": "Use k8s 1.25.1 libs (#366)"
+            },
+            {
+              "SHA": "15ba567f",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#365)"
+            },
+            {
+              "SHA": "12204d85",
+              "Subject": "Use health checker types from kmodules (#364)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "fe689daa",
+              "Subject": "Prepare for release v0.22.0 (#519)"
+            },
+            {
+              "SHA": "e6ce6f0e",
+              "Subject": "Use password-generator@v0.2.9 (#518)"
+            },
+            {
+              "SHA": "b9e03cc5",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#517)"
+            },
+            {
+              "SHA": "2f0c8b65",
+              "Subject": "Set TLSSecret name (#516)"
+            },
+            {
+              "SHA": "ffb021ea",
+              "Subject": "Configure AppRef in appbinding (#515)"
+            },
+            {
+              "SHA": "2c9eb87b",
+              "Subject": "Add support for externally-managed authSecret (#514)"
+            },
+            {
+              "SHA": "f4789ab7",
+              "Subject": "Test against Kubernetes 1.25.0 (#513)"
+            },
+            {
+              "SHA": "9ad4c219",
+              "Subject": "Change operator name in event (#511)"
+            },
+            {
+              "SHA": "dbb7ff10",
+              "Subject": "Check for PDB version only once (#510)"
+            },
+            {
+              "SHA": "79d53b0a",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#509)"
+            },
+            {
+              "SHA": "37521202",
+              "Subject": "Use Go 1.19 (#508)"
+            },
+            {
+              "SHA": "d1a2d55a",
+              "Subject": "Use k8s 1.25.1 libs (#507)"
+            },
+            {
+              "SHA": "43399906",
+              "Subject": "Add support for Hidden node (#503)"
+            },
+            {
+              "SHA": "91acbffc",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "b053290c",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#506)"
+            },
+            {
+              "SHA": "79b99580",
+              "Subject": "Use health checker types from kmodules (#505)"
+            },
+            {
+              "SHA": "ff39883d",
+              "Subject": "Fix health check issue (#504)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "2dc839c0",
+              "Subject": "Prepare for release v0.22.0 (#507)"
+            },
+            {
+              "SHA": "1c55ac97",
+              "Subject": "Add return statement if client engine is not created (#506)"
+            },
+            {
+              "SHA": "4d402bf3",
+              "Subject": "Use password-generator@v0.2.9 (#505)"
+            },
+            {
+              "SHA": "8386ed4c",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#504)"
+            },
+            {
+              "SHA": "8d58bbd8",
+              "Subject": "Add cluster role for watching mysqlversion in coordinator (#503)"
+            },
+            {
+              "SHA": "53b207b3",
+              "Subject": "Add TLS Secret Name in appbinding (#501)"
+            },
+            {
+              "SHA": "541e9f5e",
+              "Subject": "Update dependencies (#502)"
+            },
+            {
+              "SHA": "e51a494c",
+              "Subject": "Fix innodb router issues (#500)"
+            },
+            {
+              "SHA": "c4f78c1f",
+              "Subject": "Wait for externaly managed auth secret (#499)"
+            },
+            {
+              "SHA": "90f337a2",
+              "Subject": "Test against Kubernetes 1.25.0 (#498)"
+            },
+            {
+              "SHA": "af6d6654",
+              "Subject": "Check for PDB version only once (#496)"
+            },
+            {
+              "SHA": "27611133",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#495)"
+            },
+            {
+              "SHA": "a662b10d",
+              "Subject": "Use Go 1.19 (#494)"
+            },
+            {
+              "SHA": "07ce8211",
+              "Subject": "Use k8s 1.25.1 libs (#493)"
+            },
+            {
+              "SHA": "fac38c31",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "9676f388",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#492)"
+            },
+            {
+              "SHA": "db176142",
+              "Subject": "Use health checker types from kmodules (#491)"
+            },
+            {
+              "SHA": "3c9835b0",
+              "Subject": "Fix health check issue (#489)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "650bb92",
+              "Subject": "Prepare for release v0.7.0 (#59)"
+            },
+            {
+              "SHA": "0930361",
+              "Subject": "Add version check for MySQL 5.0 (#57)"
+            },
+            {
+              "SHA": "b1d9ecf",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "88d01ef",
+              "Subject": "Update dependencies (#56)"
+            },
+            {
+              "SHA": "cbb3504",
+              "Subject": "fix group_replication extra transcions jonning issue (#49)"
+            },
+            {
+              "SHA": "8939e89",
+              "Subject": "Test against Kubernetes 1.25.0 (#55)"
+            },
+            {
+              "SHA": "0ba243d",
+              "Subject": "Check for PDB version only once (#53)"
+            },
+            {
+              "SHA": "dac7227",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#52)"
+            },
+            {
+              "SHA": "100f268",
+              "Subject": "Use Go 1.19 (#51)"
+            },
+            {
+              "SHA": "07fc1af",
+              "Subject": "Use k8s 1.25.1 libs (#50)"
+            },
+            {
+              "SHA": "71fe729",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#48)"
+            },
+            {
+              "SHA": "f968206",
+              "Subject": "Use health checker types from kmodules (#47)"
+            },
+            {
+              "SHA": "fa7ad1c",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#46)"
+            },
+            {
+              "SHA": "2c3615b",
+              "Subject": "update labels (#45)"
+            },
+            {
+              "SHA": "38a4f88",
+              "Subject": "Update health checker (#43)"
+            },
+            {
+              "SHA": "7c79e5f",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#42)"
+            },
+            {
+              "SHA": "2eb313d",
+              "Subject": "Acquire license from license-proxyserver if available (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "e5eba9e",
+              "Subject": "Test against Kubernetes 1.25.0 (#26)"
+            },
+            {
+              "SHA": "f0bdfdd",
+              "Subject": "Use Go 1.19 (#25)"
+            },
+            {
+              "SHA": "5631a3c",
+              "Subject": "Use k8s 1.25.1 libs (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "121610ce",
+              "Subject": "Prepare for release v0.16.0 (#377)"
+            },
+            {
+              "SHA": "b7f7b559",
+              "Subject": "Fix remove TLS and version upgrade for mysql (#375)"
+            },
+            {
+              "SHA": "4a527621",
+              "Subject": "Fix exporter config secret cleanup for MariaDB and Percona XtraDB (#376)"
+            },
+            {
+              "SHA": "2df29e1d",
+              "Subject": "Use password-generator@v0.2.9 (#374)"
+            },
+            {
+              "SHA": "698d4f84",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#373)"
+            },
+            {
+              "SHA": "f85a6048",
+              "Subject": "Handle private registry with self-signed certs (#372)"
+            },
+            {
+              "SHA": "205b8e3c",
+              "Subject": "Fix replication user update password (#371)"
+            },
+            {
+              "SHA": "6680a32c",
+              "Subject": "Fix HS Ops Request (#370)"
+            },
+            {
+              "SHA": "b96f4592",
+              "Subject": "Add PostgreSQL Logical Replication (#353)"
+            },
+            {
+              "SHA": "2ca9b5f8",
+              "Subject": "ProxySQL Ops-requests (#368)"
+            },
+            {
+              "SHA": "c2d6b85e",
+              "Subject": "Remove ensureExporterSecretForTLSConfig for MariaDB and PXC (#369)"
+            },
+            {
+              "SHA": "06b69609",
+              "Subject": "Add PerconaXtraDB OpsReq (#367)"
+            },
+            {
+              "SHA": "891a2288",
+              "Subject": "Make opsReqType specific to databases (#366)"
+            },
+            {
+              "SHA": "82d960b0",
+              "Subject": "MySQL ops request fix for Innodb (#365)"
+            },
+            {
+              "SHA": "13401a96",
+              "Subject": "Add Redis Sentinel Ops Request (#328)"
+            },
+            {
+              "SHA": "8ee68b62",
+              "Subject": "Modify reconfigureTLS to support arbiter & hidden enabled mongo (#364)"
+            },
+            {
+              "SHA": "805f8bba",
+              "Subject": "Test against Kubernetes 1.25.0 (#363)"
+            },
+            {
+              "SHA": "787f7bea",
+              "Subject": "Fix MariaDB Upgrade OpsReq Image name issue (#361)"
+            },
+            {
+              "SHA": "e676ea51",
+              "Subject": "Fix podnames & selectors for Mongo volumeExpansion (#358)"
+            },
+            {
+              "SHA": "7a5e34b1",
+              "Subject": "Check for PDB version only once (#357)"
+            },
+            {
+              "SHA": "3fb148a5",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#356)"
+            },
+            {
+              "SHA": "9f058091",
+              "Subject": "Use Go 1.19 (#355)"
+            },
+            {
+              "SHA": "25febfcb",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "eb0f3792",
+              "Subject": "Use k8s 1.25.1 libs (#354)"
+            },
+            {
+              "SHA": "d09da904",
+              "Subject": "Add opsRequests for mongo hidden-node (#347)"
+            },
+            {
+              "SHA": "9114f329",
+              "Subject": "Rework Mongo verticalScaling; Fix arbiter & exporter-related issues (#346)"
+            },
+            {
+              "SHA": "74f4831c",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "2277c28f",
+              "Subject": "Skip Image Digest for Dev Builds (#350)"
+            },
+            {
+              "SHA": "c7f3cf07",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#352)"
+            },
+            {
+              "SHA": "0fbc4d57",
+              "Subject": "Use health checker types from kmodules (#351)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "78c63bf7",
+              "Subject": "Prepare for release v0.16.0 (#285)"
+            },
+            {
+              "SHA": "d47bd015",
+              "Subject": "Use password-generator@v0.2.9 (#284)"
+            },
+            {
+              "SHA": "f3278c09",
+              "Subject": "Not wait for Exporter Config Secret (#283)"
+            },
+            {
+              "SHA": "030e063d",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#282)"
+            },
+            {
+              "SHA": "47345de1",
+              "Subject": "Add TLS Secret on AppBinding (#281)"
+            },
+            {
+              "SHA": "0aa33548",
+              "Subject": "Add AppRef on AppBinding and Add Exporter Config Secret (#280)"
+            },
+            {
+              "SHA": "82685157",
+              "Subject": "Merge pull request #269 from kubedb/add-px-ops"
+            },
+            {
+              "SHA": "f7f1898e",
+              "Subject": "Add Externally Managed Secret Support on PerconaXtraDB"
+            },
+            {
+              "SHA": "43dcc76d",
+              "Subject": "Test against Kubernetes 1.25.0 (#278)"
+            },
+            {
+              "SHA": "bc5c97db",
+              "Subject": "Check for PDB version only once (#276)"
+            },
+            {
+              "SHA": "13a57a32",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#275)"
+            },
+            {
+              "SHA": "6013a92e",
+              "Subject": "Use Go 1.19 (#274)"
+            },
+            {
+              "SHA": "45c413b9",
+              "Subject": "Use k8s 1.25.1 libs (#273)"
+            },
+            {
+              "SHA": "fd7d238a",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "13da58d6",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#272)"
+            },
+            {
+              "SHA": "6941e6d6",
+              "Subject": "Use health checker types from kmodules (#271)"
+            },
+            {
+              "SHA": "9f813287",
+              "Subject": "Fix health check issue (#270)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "9a28a21",
+              "Subject": "Prepare for release v0.2.0 (#20)"
+            },
+            {
+              "SHA": "cf6c54c",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#19)"
+            },
+            {
+              "SHA": "a71e01d",
+              "Subject": "Update dependencies (#18)"
+            },
+            {
+              "SHA": "0b51751",
+              "Subject": "Test against Kubernetes 1.25.0 (#17)"
+            },
+            {
+              "SHA": "1f2b1a5",
+              "Subject": "Check for PDB version only once (#15)"
+            },
+            {
+              "SHA": "03125ba",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#14)"
+            },
+            {
+              "SHA": "06a2634",
+              "Subject": "Use Go 1.19 (#13)"
+            },
+            {
+              "SHA": "1a8a90b",
+              "Subject": "Use k8s 1.25.1 libs (#12)"
+            },
+            {
+              "SHA": "f33c751",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#11)"
+            },
+            {
+              "SHA": "91495bf",
+              "Subject": "Use health checker types from kmodules (#10)"
+            },
+            {
+              "SHA": "290e281",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "c57449c",
+              "Subject": "Update health checker (#8)"
+            },
+            {
+              "SHA": "adad8b5",
+              "Subject": "Acquire license from license-proxyserver if available (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "43cd452f",
+              "Subject": "Prepare for release v0.13.0 (#100)"
+            },
+            {
+              "SHA": "85fb61bb",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#99)"
+            },
+            {
+              "SHA": "58720b10",
+              "Subject": "Update dependencies (#98)"
+            },
+            {
+              "SHA": "5a9dcc5f",
+              "Subject": "Test against Kubernetes 1.25.0 (#97)"
+            },
+            {
+              "SHA": "eb45fd8e",
+              "Subject": "Check for PDB version only once (#95)"
+            },
+            {
+              "SHA": "a66884fb",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#94)"
+            },
+            {
+              "SHA": "db150c63",
+              "Subject": "Use Go 1.19 (#93)"
+            },
+            {
+              "SHA": "8bd4fcc5",
+              "Subject": "Use k8s 1.25.1 libs (#92)"
+            },
+            {
+              "SHA": "4a510768",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#91)"
+            },
+            {
+              "SHA": "3b26263c",
+              "Subject": "Use health checker types from kmodules (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "4ba55b3e",
+              "Subject": "Prepare for release v0.16.0 (#247)"
+            },
+            {
+              "SHA": "a4e978e9",
+              "Subject": "Use password-generator@v0.2.9 (#246)"
+            },
+            {
+              "SHA": "0d58567a",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#245)"
+            },
+            {
+              "SHA": "47329dfa",
+              "Subject": "Fix TLSSecret for appbinding. (#244)"
+            },
+            {
+              "SHA": "3efec0cb",
+              "Subject": "Update dependencies (#243)"
+            },
+            {
+              "SHA": "8a1bd7b0",
+              "Subject": "Fix health check issue (#234)"
+            },
+            {
+              "SHA": "c20e87e5",
+              "Subject": "Test against Kubernetes 1.25.0 (#242)"
+            },
+            {
+              "SHA": "760fd8e3",
+              "Subject": "Check for PDB version only once (#240)"
+            },
+            {
+              "SHA": "8ba2692d",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#239)"
+            },
+            {
+              "SHA": "ea1fc328",
+              "Subject": "Use Go 1.19 (#238)"
+            },
+            {
+              "SHA": "6a24f732",
+              "Subject": "Use k8s 1.25.1 libs (#237)"
+            },
+            {
+              "SHA": "327242e1",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "c9754ecd",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#236)"
+            },
+            {
+              "SHA": "bb7a3b6f",
+              "Subject": "Use health checker types from kmodules (#235)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "08afda20",
+              "Subject": "Prepare for release v0.29.0 (#607)"
+            },
+            {
+              "SHA": "ad39a6cf",
+              "Subject": "Update password generator hash (#606)"
+            },
+            {
+              "SHA": "cd547a68",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#605)"
+            },
+            {
+              "SHA": "9d98af14",
+              "Subject": "Fix TlsSecret for AppBinding (#604)"
+            },
+            {
+              "SHA": "7d73ce99",
+              "Subject": "Update dependencies (#603)"
+            },
+            {
+              "SHA": "d8515a3f",
+              "Subject": "Configure appRef in AppBinding (#602)"
+            },
+            {
+              "SHA": "69458e25",
+              "Subject": "Check auth secrets labels if key exists (#601)"
+            },
+            {
+              "SHA": "3dd3563b",
+              "Subject": "Simplify ensureAuthSecret (#600)"
+            },
+            {
+              "SHA": "67f3db64",
+              "Subject": "Relax Postgres key detection for a secret (#599)"
+            },
+            {
+              "SHA": "acdd2cda",
+              "Subject": "Add support for Externally Managed secret (#597)"
+            },
+            {
+              "SHA": "5121a362",
+              "Subject": "Test against Kubernetes 1.25.0 (#598)"
+            },
+            {
+              "SHA": "bfa46b08",
+              "Subject": "Check for PDB version only once (#594)"
+            },
+            {
+              "SHA": "150fcf2c",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#593)"
+            },
+            {
+              "SHA": "86ff76e1",
+              "Subject": "Use Go 1.19 (#592)"
+            },
+            {
+              "SHA": "7732e22b",
+              "Subject": "Use k8s 1.25.1 libs (#591)"
+            },
+            {
+              "SHA": "b4c7f426",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "68b06e68",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#590)"
+            },
+            {
+              "SHA": "51f600b9",
+              "Subject": "Use health checker types from kmodules (#589)"
+            },
+            {
+              "SHA": "2e45ad1b",
+              "Subject": "Fix health check issue (#588)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "b499c0764",
+              "Subject": "Prepare for release v0.29.0 (#23)"
+            },
+            {
+              "SHA": "5f54d2b03",
+              "Subject": "Use password-generator@v0.2.9 (#22)"
+            },
+            {
+              "SHA": "0fdb31068",
+              "Subject": "Not wait for Exporter Config Secret mariadb/xtradb"
+            },
+            {
+              "SHA": "5497cc1be",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#21)"
+            },
+            {
+              "SHA": "26b43352c",
+              "Subject": "Test against Kubernetes 1.25.0 (#19)"
+            },
+            {
+              "SHA": "597518cea",
+              "Subject": "Check for PDB version only once (#17)"
+            },
+            {
+              "SHA": "a55613f6e",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#16)"
+            },
+            {
+              "SHA": "5ef0c78ee",
+              "Subject": "Use Go 1.19 (#15)"
+            },
+            {
+              "SHA": "40fe839c8",
+              "Subject": "Use k8s 1.25.1 libs (#14)"
+            },
+            {
+              "SHA": "444e527ca",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "dc8953315",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#13)"
+            },
+            {
+              "SHA": "2910a39e2",
+              "Subject": "Use health checker types from kmodules (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "060e14f6",
+              "Subject": "Prepare for release v0.16.0 (#261)"
+            },
+            {
+              "SHA": "7598aa0b",
+              "Subject": "Use password-generator@v0.2.9 (#260)"
+            },
+            {
+              "SHA": "3dc6618f",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#259)"
+            },
+            {
+              "SHA": "ec249ccf",
+              "Subject": "Add External-backend support and changes for Ops-requests (#258)"
+            },
+            {
+              "SHA": "fe9d736a",
+              "Subject": "Fix health check issue (#247)"
+            },
+            {
+              "SHA": "42a3dedf",
+              "Subject": "Test against Kubernetes 1.25.0 (#256)"
+            },
+            {
+              "SHA": "4677b6ab",
+              "Subject": "Check for PDB version only once (#254)"
+            },
+            {
+              "SHA": "8f3e6e64",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#253)"
+            },
+            {
+              "SHA": "19b856f4",
+              "Subject": "Use Go 1.19 (#252)"
+            },
+            {
+              "SHA": "f8dd8297",
+              "Subject": "Use k8s 1.25.1 libs (#251)"
+            },
+            {
+              "SHA": "3a21c93a",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#249)"
+            },
+            {
+              "SHA": "cb0a1efd",
+              "Subject": "Use health checker types from kmodules (#248)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "a949cd65",
+              "Subject": "Prepare for release v0.22.0 (#434)"
+            },
+            {
+              "SHA": "b6d1e6dc",
+              "Subject": "Use password-generator@v0.2.9 (#433)"
+            },
+            {
+              "SHA": "24a961a8",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#432)"
+            },
+            {
+              "SHA": "586d92c6",
+              "Subject": "Add Client Cert to Appbinding (#431)"
+            },
+            {
+              "SHA": "9931e951",
+              "Subject": "Update dependencies (#430)"
+            },
+            {
+              "SHA": "5a27f772",
+              "Subject": "Add Redis Sentinel Ops Request Changes (#421)"
+            },
+            {
+              "SHA": "81ad08ab",
+              "Subject": "Add Support for Externally Managed Secret (#428)"
+            },
+            {
+              "SHA": "b16212e4",
+              "Subject": "Test against Kubernetes 1.25.0 (#429)"
+            },
+            {
+              "SHA": "05a1b814",
+              "Subject": "Check for PDB version only once (#427)"
+            },
+            {
+              "SHA": "bd41d16d",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#426)"
+            },
+            {
+              "SHA": "e1746638",
+              "Subject": "Use Go 1.19 (#425)"
+            },
+            {
+              "SHA": "b220f611",
+              "Subject": "Use k8s 1.25.1 libs (#424)"
+            },
+            {
+              "SHA": "538e2539",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "1513ca9a",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#423)"
+            },
+            {
+              "SHA": "c29f0f6b",
+              "Subject": "Use health checker types from kmodules (#422)"
+            },
+            {
+              "SHA": "bda4de79",
+              "Subject": "Fix health check issue (#420)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "140202b",
+              "Subject": "Prepare for release v0.8.0 (#53)"
+            },
+            {
+              "SHA": "21d63ea",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "d7bcff0",
+              "Subject": "Update dependencies (#51)"
+            },
+            {
+              "SHA": "db31014",
+              "Subject": "Add Redis Sentinel Ops Requests Changes (#48)"
+            },
+            {
+              "SHA": "3bc6a63",
+              "Subject": "Test against Kubernetes 1.25.0 (#50)"
+            },
+            {
+              "SHA": "b144d17",
+              "Subject": "Check for PDB version only once (#47)"
+            },
+            {
+              "SHA": "803f76a",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#46)"
+            },
+            {
+              "SHA": "a7cd5af",
+              "Subject": "Use Go 1.19 (#45)"
+            },
+            {
+              "SHA": "f066d36",
+              "Subject": "Use k8s 1.25.1 libs (#44)"
+            },
+            {
+              "SHA": "db04c50",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#43)"
+            },
+            {
+              "SHA": "10f1fb5",
+              "Subject": "Use health checker types from kmodules (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "866018be",
+              "Subject": "Prepare for release v0.16.0 (#215)"
+            },
+            {
+              "SHA": "d051a8eb",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#214)"
+            },
+            {
+              "SHA": "2d51c3f3",
+              "Subject": "Update dependencies (#213)"
+            },
+            {
+              "SHA": "0a544cf9",
+              "Subject": "Test against Kubernetes 1.25.0 (#212)"
+            },
+            {
+              "SHA": "aa1635cf",
+              "Subject": "Check for PDB version only once (#210)"
+            },
+            {
+              "SHA": "6549acf6",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#209)"
+            },
+            {
+              "SHA": "fc7a68fd",
+              "Subject": "Use Go 1.19 (#208)"
+            },
+            {
+              "SHA": "2f9a7435",
+              "Subject": "Use k8s 1.25.1 libs (#207)"
+            },
+            {
+              "SHA": "c831c08e",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#206)"
+            },
+            {
+              "SHA": "8c80e5b4",
+              "Subject": "Use health checker types from kmodules (#205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "e6fffe23",
+              "Subject": "Prepare for release v0.5.0 (#52)"
+            },
+            {
+              "SHA": "56931e13",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "7a97cbbd",
+              "Subject": "Add documentation for PostgreSql (#30)"
+            },
+            {
+              "SHA": "786c9ebf",
+              "Subject": "Make packages according to db-types (#49)"
+            },
+            {
+              "SHA": "b708e23e",
+              "Subject": "Update dependencies (#50)"
+            },
+            {
+              "SHA": "78c6b620",
+              "Subject": "Test against Kubernetes 1.25.0 (#48)"
+            },
+            {
+              "SHA": "a150a60c",
+              "Subject": "Check for PDB version only once (#46)"
+            },
+            {
+              "SHA": "627daf35",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#45)"
+            },
+            {
+              "SHA": "1663dd03",
+              "Subject": "Use Go 1.19 (#44)"
+            },
+            {
+              "SHA": "417b5ebf",
+              "Subject": "Use k8s 1.25.1 libs (#43)"
+            },
+            {
+              "SHA": "19488002",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#42)"
+            },
+            {
+              "SHA": "f1af7213",
+              "Subject": "Use health checker types from kmodules (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "1737b25f",
+              "Subject": "Prepare for release v0.14.0 (#203)"
+            },
+            {
+              "SHA": "f272557a",
+              "Subject": "Add MongoDB arbiter-related tests (#172)"
+            },
+            {
+              "SHA": "e7c55a30",
+              "Subject": "Use password-generator@v0.2.9 (#201)"
+            },
+            {
+              "SHA": "a2d4d3ac",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#200)"
+            },
+            {
+              "SHA": "03a028e7",
+              "Subject": "Update dependencies (#197)"
+            },
+            {
+              "SHA": "b34253e7",
+              "Subject": "Test against Kubernetes 1.25.0 (#196)"
+            },
+            {
+              "SHA": "b2c48e72",
+              "Subject": "Check for PDB version only once (#194)"
+            },
+            {
+              "SHA": "bd0b7f66",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#193)"
+            },
+            {
+              "SHA": "8e5103d0",
+              "Subject": "Use Go 1.19 (#192)"
+            },
+            {
+              "SHA": "096cfbf6",
+              "Subject": "Use k8s 1.25.1 libs (#191)"
+            },
+            {
+              "SHA": "6c45ea94",
+              "Subject": "Migrate to GinkgoV2 (#188)"
+            },
+            {
+              "SHA": "f89ab1c1",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#190)"
+            },
+            {
+              "SHA": "17954e8b",
+              "Subject": "Use health checker types from kmodules (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "d205fcec",
+              "Subject": "Prepare for release v0.5.0 (#55)"
+            },
+            {
+              "SHA": "9dc8acb9",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#54)"
+            },
+            {
+              "SHA": "7ccfe3ed",
+              "Subject": "Update dependencies (#53)"
+            },
+            {
+              "SHA": "55f85699",
+              "Subject": "Use Go 1.19 (#52)"
+            },
+            {
+              "SHA": "19c39ab1",
+              "Subject": "Check for PDB version only once (#50)"
+            },
+            {
+              "SHA": "c1d7c41f",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#49)"
+            },
+            {
+              "SHA": "96100e5f",
+              "Subject": "Use Go 1.19 (#48)"
+            },
+            {
+              "SHA": "99bc4723",
+              "Subject": "Use k8s 1.25.1 libs (#47)"
+            },
+            {
+              "SHA": "2c0ba4c1",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#46)"
+            },
+            {
+              "SHA": "fc35287c",
+              "Subject": "Use health checker types from kmodules (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "41c41749",
+              "Subject": "Prepare for release v0.5.0 (#37)"
+            },
+            {
+              "SHA": "eaa32942",
+              "Subject": "Use password-generator@v0.2.9 (#36)"
+            },
+            {
+              "SHA": "c06f6c42",
+              "Subject": "Register the missing types to webhook (#35)"
+            },
+            {
+              "SHA": "59cb7fa0",
+              "Subject": "Register pg sub/sub validators (#34)"
+            },
+            {
+              "SHA": "1de1fe03",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#33)"
+            },
+            {
+              "SHA": "8f65154d",
+              "Subject": "Test against Kubernetes 1.25.0 (#31)"
+            },
+            {
+              "SHA": "ed6ba664",
+              "Subject": "Check for PDB version only once (#29)"
+            },
+            {
+              "SHA": "ab4e44d0",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#28)"
+            },
+            {
+              "SHA": "aef864b7",
+              "Subject": "Use Go 1.19 (#27)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

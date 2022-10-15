@@ -419,6 +419,25 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.5.0](https://github.com/kubedb/schema-manager/releases/tag/v0.5.0)
+
+- [e6fffe23](https://github.com/kubedb/schema-manager/commit/e6fffe23) Prepare for release v0.5.0 (#52)
+- [56931e13](https://github.com/kubedb/schema-manager/commit/56931e13) Prepare for release v0.5.0-rc.0 (#51)
+- [7a97cbbd](https://github.com/kubedb/schema-manager/commit/7a97cbbd) Add documentation for PostgreSql (#30)
+- [786c9ebf](https://github.com/kubedb/schema-manager/commit/786c9ebf) Make packages according to db-types (#49)
+- [b708e23e](https://github.com/kubedb/schema-manager/commit/b708e23e) Update dependencies (#50)
+- [78c6b620](https://github.com/kubedb/schema-manager/commit/78c6b620) Test against Kubernetes 1.25.0 (#48)
+- [a150a60c](https://github.com/kubedb/schema-manager/commit/a150a60c) Check for PDB version only once (#46)
+- [627daf35](https://github.com/kubedb/schema-manager/commit/627daf35) Handle status conversion for CronJob/VolumeSnapshot (#45)
+- [1663dd03](https://github.com/kubedb/schema-manager/commit/1663dd03) Use Go 1.19 (#44)
+- [417b5ebf](https://github.com/kubedb/schema-manager/commit/417b5ebf) Use k8s 1.25.1 libs (#43)
+- [19488002](https://github.com/kubedb/schema-manager/commit/19488002) Stop using removed apis in Kubernetes 1.25 (#42)
+- [f1af7213](https://github.com/kubedb/schema-manager/commit/f1af7213) Use health checker types from kmodules (#41)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.14.0](https://github.com/kubedb/tests/releases/tag/v0.14.0)

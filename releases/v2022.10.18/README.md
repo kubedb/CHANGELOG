@@ -170,6 +170,30 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.16.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.16.0)
+
+- [78c63bf7](https://github.com/kubedb/percona-xtradb/commit/78c63bf7) Prepare for release v0.16.0 (#285)
+- [d47bd015](https://github.com/kubedb/percona-xtradb/commit/d47bd015) Use password-generator@v0.2.9 (#284)
+- [f3278c09](https://github.com/kubedb/percona-xtradb/commit/f3278c09) Not wait for Exporter Config Secret (#283)
+- [030e063d](https://github.com/kubedb/percona-xtradb/commit/030e063d) Prepare for release v0.16.0-rc.0 (#282)
+- [47345de1](https://github.com/kubedb/percona-xtradb/commit/47345de1) Add TLS Secret on AppBinding (#281)
+- [0aa33548](https://github.com/kubedb/percona-xtradb/commit/0aa33548) Add AppRef on AppBinding and Add Exporter Config Secret (#280)
+- [82685157](https://github.com/kubedb/percona-xtradb/commit/82685157) Merge pull request #269 from kubedb/add-px-ops
+- [f7f1898e](https://github.com/kubedb/percona-xtradb/commit/f7f1898e) Add Externally Managed Secret Support on PerconaXtraDB
+- [43dcc76d](https://github.com/kubedb/percona-xtradb/commit/43dcc76d) Test against Kubernetes 1.25.0 (#278)
+- [bc5c97db](https://github.com/kubedb/percona-xtradb/commit/bc5c97db) Check for PDB version only once (#276)
+- [13a57a32](https://github.com/kubedb/percona-xtradb/commit/13a57a32) Handle status conversion for CronJob/VolumeSnapshot (#275)
+- [6013a92e](https://github.com/kubedb/percona-xtradb/commit/6013a92e) Use Go 1.19 (#274)
+- [45c413b9](https://github.com/kubedb/percona-xtradb/commit/45c413b9) Use k8s 1.25.1 libs (#273)
+- [fd7d238a](https://github.com/kubedb/percona-xtradb/commit/fd7d238a) Update README.md
+- [13da58d6](https://github.com/kubedb/percona-xtradb/commit/13da58d6) Stop using removed apis in Kubernetes 1.25 (#272)
+- [6941e6d6](https://github.com/kubedb/percona-xtradb/commit/6941e6d6) Use health checker types from kmodules (#271)
+- [9f813287](https://github.com/kubedb/percona-xtradb/commit/9f813287) Fix health check issue (#270)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.2.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.2.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.18",
-  "release_date": "2022-10-15T16:07:34.067939488Z",
+  "release_date": "2022-10-15T16:08:06.338470641Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.18",
   "kubernetes_version": "1.18+",
@@ -551,6 +551,84 @@
             {
               "SHA": "5631a3c",
               "Subject": "Use k8s 1.25.1 libs (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "78c63bf7",
+              "Subject": "Prepare for release v0.16.0 (#285)"
+            },
+            {
+              "SHA": "d47bd015",
+              "Subject": "Use password-generator@v0.2.9 (#284)"
+            },
+            {
+              "SHA": "f3278c09",
+              "Subject": "Not wait for Exporter Config Secret (#283)"
+            },
+            {
+              "SHA": "030e063d",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#282)"
+            },
+            {
+              "SHA": "47345de1",
+              "Subject": "Add TLS Secret on AppBinding (#281)"
+            },
+            {
+              "SHA": "0aa33548",
+              "Subject": "Add AppRef on AppBinding and Add Exporter Config Secret (#280)"
+            },
+            {
+              "SHA": "82685157",
+              "Subject": "Merge pull request #269 from kubedb/add-px-ops"
+            },
+            {
+              "SHA": "f7f1898e",
+              "Subject": "Add Externally Managed Secret Support on PerconaXtraDB"
+            },
+            {
+              "SHA": "43dcc76d",
+              "Subject": "Test against Kubernetes 1.25.0 (#278)"
+            },
+            {
+              "SHA": "bc5c97db",
+              "Subject": "Check for PDB version only once (#276)"
+            },
+            {
+              "SHA": "13a57a32",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#275)"
+            },
+            {
+              "SHA": "6013a92e",
+              "Subject": "Use Go 1.19 (#274)"
+            },
+            {
+              "SHA": "45c413b9",
+              "Subject": "Use k8s 1.25.1 libs (#273)"
+            },
+            {
+              "SHA": "fd7d238a",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "13da58d6",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#272)"
+            },
+            {
+              "SHA": "6941e6d6",
+              "Subject": "Use health checker types from kmodules (#271)"
+            },
+            {
+              "SHA": "9f813287",
+              "Subject": "Fix health check issue (#270)"
             }
           ]
         }

@@ -113,6 +113,20 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2022.10.18](https://github.com/kubedb/docs/releases/tag/v2022.10.18)
+
+- [b1f4b06](https://github.com/kubedb/docs/commit/b1f4b06) Prepare for release v2022.10.18 (#507)
+- [e3682b9](https://github.com/kubedb/docs/commit/e3682b9) Prepare for release v2022.10.12-rc.0 (#502)
+- [483cd25](https://github.com/kubedb/docs/commit/483cd25) Update Percona XtraDB Version (#505)
+- [1afcebb](https://github.com/kubedb/docs/commit/1afcebb) Change Version 2.3.2 to 2.3.2-debian, Fix BackendRef (#504)
+- [593b0df](https://github.com/kubedb/docs/commit/593b0df) Fix Redis Quickstart Docs (#503)
+- [8fb27d6](https://github.com/kubedb/docs/commit/8fb27d6) Fix broken links
+- [4f706c8](https://github.com/kubedb/docs/commit/4f706c8) Fix broken links
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.29.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.29.0)

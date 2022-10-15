@@ -67,6 +67,30 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.13.0](https://github.com/kubedb/mariadb/releases/tag/v0.13.0)
+
+- [c9d28b74](https://github.com/kubedb/mariadb/commit/c9d28b74) Prepare for release v0.13.0 (#182)
+- [132af6e6](https://github.com/kubedb/mariadb/commit/132af6e6) Use password-generator@v0.2.9 (#181)
+- [ae53b273](https://github.com/kubedb/mariadb/commit/ae53b273) Not wait for Exporter Config Secret (#180)
+- [b13d62cf](https://github.com/kubedb/mariadb/commit/b13d62cf) Prepare for release v0.13.0-rc.0 (#179)
+- [5a8b0877](https://github.com/kubedb/mariadb/commit/5a8b0877) Add TLS Secret on Appbinding (#178)
+- [a7f976f6](https://github.com/kubedb/mariadb/commit/a7f976f6) Add AppRef on AppBinding and Add Exporter Config Secret (#177)
+- [a3d17697](https://github.com/kubedb/mariadb/commit/a3d17697) Update dependencies (#176)
+- [8c666da8](https://github.com/kubedb/mariadb/commit/8c666da8) Add Externally Manage Secret Support (#175)
+- [b14391f2](https://github.com/kubedb/mariadb/commit/b14391f2) Test against Kubernetes 1.25.0 (#174)
+- [a07bbf68](https://github.com/kubedb/mariadb/commit/a07bbf68) Check for PDB version only once (#172)
+- [8a316b93](https://github.com/kubedb/mariadb/commit/8a316b93) Handle status conversion for CronJob/VolumeSnapshot (#171)
+- [56b6cd33](https://github.com/kubedb/mariadb/commit/56b6cd33) Use Go 1.19 (#170)
+- [c666db48](https://github.com/kubedb/mariadb/commit/c666db48) Use k8s 1.25.1 libs (#169)
+- [665d7f2a](https://github.com/kubedb/mariadb/commit/665d7f2a) Fix health check issue (#166)
+- [c089e057](https://github.com/kubedb/mariadb/commit/c089e057) Update README.md
+- [c0efefeb](https://github.com/kubedb/mariadb/commit/c0efefeb) Stop using removed apis in Kubernetes 1.25 (#168)
+- [e3ef008e](https://github.com/kubedb/mariadb/commit/e3ef008e) Use health checker types from kmodules (#167)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.9.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.9.0)

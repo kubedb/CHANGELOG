@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.10.18",
-  "release_date": "2022-10-15T16:09:58.113423068Z",
+  "release_date": "2022-10-15T16:12:11.908410601Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.10.18",
   "kubernetes_version": "1.18+",
@@ -229,6 +229,72 @@
             {
               "SHA": "eb922b19",
               "Subject": "Use health checker types from kmodules (#675)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "fe9963505",
+              "Subject": "Prepare for release v0.29.0 (#613)"
+            },
+            {
+              "SHA": "13a36665d",
+              "Subject": "Use password-generator@v0.2.9 (#612)"
+            },
+            {
+              "SHA": "1e715c1a9",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#611)"
+            },
+            {
+              "SHA": "4ab0de973",
+              "Subject": "Update dependencies (#610)"
+            },
+            {
+              "SHA": "1803a4078",
+              "Subject": "Add support for Externally Managed secret (#609)"
+            },
+            {
+              "SHA": "c2fb96e2b",
+              "Subject": "Test against Kubernetes 1.25.0 (#608)"
+            },
+            {
+              "SHA": "96bbc6a85",
+              "Subject": "Check for PDB version only once (#606)"
+            },
+            {
+              "SHA": "380990623",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#605)"
+            },
+            {
+              "SHA": "6e86f853a",
+              "Subject": "Use Go 1.19 (#604)"
+            },
+            {
+              "SHA": "838ab6aec",
+              "Subject": "Use k8s 1.25.1 libs (#603)"
+            },
+            {
+              "SHA": "ce6877b58",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "297c60040",
+              "Subject": "Stop using removed apis in Kubernetes 1.25 (#602)"
+            },
+            {
+              "SHA": "7f9ef6bf1",
+              "Subject": "Use health checker types from kmodules (#601)"
+            },
+            {
+              "SHA": "baf9b9c1b",
+              "Subject": "Fix ClientCreated counter increment issue in healthchecker (#600)"
             }
           ]
         }

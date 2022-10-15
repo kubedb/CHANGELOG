@@ -67,6 +67,27 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.29.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.29.0)
+
+- [fe996350](https://github.com/kubedb/elasticsearch/commit/fe9963505) Prepare for release v0.29.0 (#613)
+- [13a36665](https://github.com/kubedb/elasticsearch/commit/13a36665d) Use password-generator@v0.2.9 (#612)
+- [1e715c1a](https://github.com/kubedb/elasticsearch/commit/1e715c1a9) Prepare for release v0.29.0-rc.0 (#611)
+- [4ab0de97](https://github.com/kubedb/elasticsearch/commit/4ab0de973) Update dependencies (#610)
+- [1803a407](https://github.com/kubedb/elasticsearch/commit/1803a4078) Add support for Externally Managed secret (#609)
+- [c2fb96e2](https://github.com/kubedb/elasticsearch/commit/c2fb96e2b) Test against Kubernetes 1.25.0 (#608)
+- [96bbc6a8](https://github.com/kubedb/elasticsearch/commit/96bbc6a85) Check for PDB version only once (#606)
+- [38099062](https://github.com/kubedb/elasticsearch/commit/380990623) Handle status conversion for CronJob/VolumeSnapshot (#605)
+- [6e86f853](https://github.com/kubedb/elasticsearch/commit/6e86f853a) Use Go 1.19 (#604)
+- [838ab6ae](https://github.com/kubedb/elasticsearch/commit/838ab6aec) Use k8s 1.25.1 libs (#603)
+- [ce6877b5](https://github.com/kubedb/elasticsearch/commit/ce6877b58) Update README.md
+- [297c6004](https://github.com/kubedb/elasticsearch/commit/297c60040) Stop using removed apis in Kubernetes 1.25 (#602)
+- [7f9ef6bf](https://github.com/kubedb/elasticsearch/commit/7f9ef6bf1) Use health checker types from kmodules (#601)
+- [baf9b9c1](https://github.com/kubedb/elasticsearch/commit/baf9b9c1b) Fix ClientCreated counter increment issue in healthchecker (#600)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.13.0](https://github.com/kubedb/mariadb/releases/tag/v0.13.0)

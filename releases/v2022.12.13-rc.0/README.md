@@ -18,3 +18,12 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.8.0-rc.0)
+
+- [a8c367e](https://github.com/kubedb/mysql-router-init/commit/a8c367e) Update deps (#28)
+- [e11c7ff](https://github.com/kubedb/mysql-router-init/commit/e11c7ff) Run GH actions on ubuntu-20.04 (#27)
+
+
+

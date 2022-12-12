@@ -191,6 +191,19 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.17.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.17.0-rc.0)
+
+- [587d8b97](https://github.com/kubedb/proxysql/commit/587d8b97) Prepare for release v0.17.0-rc.0 (#267)
+- [32b9cc71](https://github.com/kubedb/proxysql/commit/32b9cc71) Update deps (#266)
+- [05e7a3a4](https://github.com/kubedb/proxysql/commit/05e7a3a4) Add MariaDB and Percona-XtraDB Backend (#264)
+- [a1e7c91d](https://github.com/kubedb/proxysql/commit/a1e7c91d) Fix CI workflow for private deps
+- [effb7617](https://github.com/kubedb/proxysql/commit/effb7617) Run GH actions on ubuntu-20.04 (#265)
+- [38391814](https://github.com/kubedb/proxysql/commit/38391814) Use constants from apimachinery (#263)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.23.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.23.0-rc.0)

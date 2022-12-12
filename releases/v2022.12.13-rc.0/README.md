@@ -40,6 +40,18 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.14.0-rc.0)
+
+- [fbc128ad](https://github.com/kubedb/mariadb/commit/fbc128ad) Prepare for release v0.14.0-rc.0 (#188)
+- [6048437a](https://github.com/kubedb/mariadb/commit/6048437a) Update deps (#187)
+- [649bb98e](https://github.com/kubedb/mariadb/commit/649bb98e) Run GH actions on ubuntu-20.04 (#186)
+- [b14ab86f](https://github.com/kubedb/mariadb/commit/b14ab86f) Update PDB Deletion (#185)
+- [897068c5](https://github.com/kubedb/mariadb/commit/897068c5) Use constants from apimachinery (#184)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.10.0-rc.0)

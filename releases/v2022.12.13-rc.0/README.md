@@ -50,6 +50,18 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.23.0-rc.0)
+
+- [2602cc08](https://github.com/kubedb/mongodb/commit/2602cc08) Prepare for release v0.23.0-rc.0 (#524)
+- [a53e0b6e](https://github.com/kubedb/mongodb/commit/a53e0b6e) Update deps (#523)
+- [6f68602b](https://github.com/kubedb/mongodb/commit/6f68602b) Run GH actions on ubuntu-20.04 (#522)
+- [d9448103](https://github.com/kubedb/mongodb/commit/d9448103) Fix PDB issues (#521)
+- [6f9b3325](https://github.com/kubedb/mongodb/commit/6f9b3325) Copy missing fields from podTemplate & serviceTemplate (#520)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.0-rc.0)

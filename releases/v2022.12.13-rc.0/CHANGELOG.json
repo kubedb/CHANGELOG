@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T19:12:33.676582262Z",
+  "release_date": "2022-12-12T19:13:11.906308416Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -125,6 +125,36 @@
             {
               "SHA": "a00947d",
               "Subject": "Run GH actions on ubuntu-20.04 (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2602cc08",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#524)"
+            },
+            {
+              "SHA": "a53e0b6e",
+              "Subject": "Update deps (#523)"
+            },
+            {
+              "SHA": "6f68602b",
+              "Subject": "Run GH actions on ubuntu-20.04 (#522)"
+            },
+            {
+              "SHA": "d9448103",
+              "Subject": "Fix PDB issues (#521)"
+            },
+            {
+              "SHA": "6f9b3325",
+              "Subject": "Copy missing fields from podTemplate & serviceTemplate (#520)"
             }
           ]
         }

@@ -202,6 +202,18 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/provisioner/releases/tag/v0.30.0-rc.0)
+
+- [1104e9f6](https://github.com/kubedb/provisioner/commit/1104e9f68) Prepare for release v0.30.0-rc.0 (#28)
+- [f37503db](https://github.com/kubedb/provisioner/commit/f37503dbb) Add kafka controller (#27)
+- [c8618da0](https://github.com/kubedb/provisioner/commit/c8618da0b) Update deps (#26)
+- [2db07a7d](https://github.com/kubedb/provisioner/commit/2db07a7dc) Run GH actions on ubuntu-20.04 (#25)
+- [9949d569](https://github.com/kubedb/provisioner/commit/9949d5692) Acquire license from proxyserver (#24)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.17.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.17.0-rc.0)

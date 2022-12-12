@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T19:52:40.727241155Z",
+  "release_date": "2022-12-12T20:11:43.389427528Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -329,6 +329,64 @@
             {
               "SHA": "e11c7ff",
               "Subject": "Run GH actions on ubuntu-20.04 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "13107ce9",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#393)"
+            },
+            {
+              "SHA": "96f289a0",
+              "Subject": "Update deps (#392)"
+            },
+            {
+              "SHA": "ab83bb02",
+              "Subject": "Update Evict pod with kmodules api (#388)"
+            },
+            {
+              "SHA": "028a4a29",
+              "Subject": "Fix condition check for pvc update (#384)"
+            },
+            {
+              "SHA": "f85db652",
+              "Subject": "Add TLS support for Kafka (#391)"
+            },
+            {
+              "SHA": "93e1fcf4",
+              "Subject": "Fix: compareTables() function for postgresql logical replication (#385)"
+            },
+            {
+              "SHA": "d6225c57",
+              "Subject": "Run GH actions on ubuntu-20.04 (#390)"
+            },
+            {
+              "SHA": "eb9f8b0c",
+              "Subject": "Remove usage of `UpgradeVersion` constant (#389)"
+            },
+            {
+              "SHA": "f682a359",
+              "Subject": "Skip Managing TLS if DB is paused for MariaDB, PXC and ProxySQL (#387)"
+            },
+            {
+              "SHA": "1ba7dc05",
+              "Subject": "Add ProxySQL Vertical Scaling Ops-Request (#381)"
+            },
+            {
+              "SHA": "db89b9c9",
+              "Subject": "Adding `UpdateVersion` in mongo validator (#382)"
+            },
+            {
+              "SHA": "7c373593",
+              "Subject": "Acquire license from proxyserver (#383)"
             }
           ]
         }

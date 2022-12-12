@@ -137,6 +137,25 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.17.0-rc.0](https://github.com/kubedb/ops-manager/releases/tag/v0.17.0-rc.0)
+
+- [13107ce9](https://github.com/kubedb/ops-manager/commit/13107ce9) Prepare for release v0.17.0-rc.0 (#393)
+- [96f289a0](https://github.com/kubedb/ops-manager/commit/96f289a0) Update deps (#392)
+- [ab83bb02](https://github.com/kubedb/ops-manager/commit/ab83bb02) Update Evict pod with kmodules api (#388)
+- [028a4a29](https://github.com/kubedb/ops-manager/commit/028a4a29) Fix condition check for pvc update (#384)
+- [f85db652](https://github.com/kubedb/ops-manager/commit/f85db652) Add TLS support for Kafka (#391)
+- [93e1fcf4](https://github.com/kubedb/ops-manager/commit/93e1fcf4) Fix: compareTables() function for postgresql logical replication (#385)
+- [d6225c57](https://github.com/kubedb/ops-manager/commit/d6225c57) Run GH actions on ubuntu-20.04 (#390)
+- [eb9f8b0c](https://github.com/kubedb/ops-manager/commit/eb9f8b0c) Remove usage of `UpgradeVersion` constant (#389)
+- [f682a359](https://github.com/kubedb/ops-manager/commit/f682a359) Skip Managing TLS if DB is paused for MariaDB, PXC and ProxySQL (#387)
+- [1ba7dc05](https://github.com/kubedb/ops-manager/commit/1ba7dc05) Add ProxySQL Vertical Scaling Ops-Request (#381)
+- [db89b9c9](https://github.com/kubedb/ops-manager/commit/db89b9c9) Adding `UpdateVersion` in mongo validator (#382)
+- [7c373593](https://github.com/kubedb/ops-manager/commit/7c373593) Acquire license from proxyserver (#383)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.17.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.17.0-rc.0)

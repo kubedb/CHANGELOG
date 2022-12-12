@@ -69,6 +69,16 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.0-rc.0)
+
+- [61aefbb](https://github.com/kubedb/redis-coordinator/commit/61aefbb) Prepare for release v0.9.0-rc.0 (#56)
+- [94a6eea](https://github.com/kubedb/redis-coordinator/commit/94a6eea) Update deps (#55)
+- [4454cf1](https://github.com/kubedb/redis-coordinator/commit/4454cf1) Run GH actions on ubuntu-20.04 (#54)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.17.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.17.0-rc.0)

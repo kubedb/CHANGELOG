@@ -32,6 +32,15 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2022.12.13-rc.0](https://github.com/kubedb/bundles/releases/tag/v2022.12.13-rc.0)
+
+- [c67ddb2](https://github.com/kubedb/bundles/commit/c67ddb2) Prepare for release v2022.12.13-rc.0 (#55)
+- [4ead59f](https://github.com/kubedb/bundles/commit/4ead59f) Run GH actions on ubuntu-20.04 (#54)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.30.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.30.0-rc.0)

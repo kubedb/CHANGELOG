@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T21:39:06.467759506Z",
+  "release_date": "2022-12-12T21:56:08.003680471Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -89,6 +89,24 @@
             {
               "SHA": "835632d9",
               "Subject": "Clean up go.mod"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.12.13-rc.0",
+          "commits": [
+            {
+              "SHA": "c67ddb2",
+              "Subject": "Prepare for release v2022.12.13-rc.0 (#55)"
+            },
+            {
+              "SHA": "4ead59f",
+              "Subject": "Run GH actions on ubuntu-20.04 (#54)"
             }
           ]
         }

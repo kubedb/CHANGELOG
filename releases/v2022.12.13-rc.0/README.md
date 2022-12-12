@@ -18,6 +18,18 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.1.0-rc.0)
+
+- [41f3a22](https://github.com/kubedb/kafka/commit/41f3a22) Prepare for release v0.1.0-rc.0 (#4)
+- [6cb7882](https://github.com/kubedb/kafka/commit/6cb7882) Refactor SetupControllers
+- [f4c8eb1](https://github.com/kubedb/kafka/commit/f4c8eb1) Update deps (#3)
+- [61ab7f6](https://github.com/kubedb/kafka/commit/61ab7f6) Acquire license from proxyserver (#2)
+- [11f6df2](https://github.com/kubedb/kafka/commit/11f6df2) Add Operator for Kafka (#1)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.8.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T19:00:20.41285116Z",
+  "release_date": "2022-12-12T19:00:43.011500859Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -51,6 +51,36 @@
             {
               "SHA": "01c07593",
               "Subject": "Add ProxySQL Vertical-Scaling spec (#995)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "41f3a22",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
+            },
+            {
+              "SHA": "6cb7882",
+              "Subject": "Refactor SetupControllers"
+            },
+            {
+              "SHA": "f4c8eb1",
+              "Subject": "Update deps (#3)"
+            },
+            {
+              "SHA": "61ab7f6",
+              "Subject": "Acquire license from proxyserver (#2)"
+            },
+            {
+              "SHA": "11f6df2",
+              "Subject": "Add Operator for Kafka (#1)"
             }
           ]
         }

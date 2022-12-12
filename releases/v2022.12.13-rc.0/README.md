@@ -154,6 +154,21 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.30.0-rc.0)
+
+- [da9e88bb](https://github.com/kubedb/postgres/commit/da9e88bb) Prepare for release v0.30.0-rc.0 (#615)
+- [f2e2da36](https://github.com/kubedb/postgres/commit/f2e2da36) Update deps (#614)
+- [296bb241](https://github.com/kubedb/postgres/commit/296bb241) Run GH actions on ubuntu-20.04 (#613)
+- [d67b529a](https://github.com/kubedb/postgres/commit/d67b529a) Add tranferLeadership env for co-ordinator (#612)
+- [fab00b44](https://github.com/kubedb/postgres/commit/fab00b44) Update PDB Deletion (#611)
+- [c104c2b2](https://github.com/kubedb/postgres/commit/c104c2b2) Check for old auth secret label (#610)
+- [932d6851](https://github.com/kubedb/postgres/commit/932d6851) Fix shared buffer for version 10 (#609)
+- [60dba4ae](https://github.com/kubedb/postgres/commit/60dba4ae) Use constants from apimachinery (#608)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.0-rc.0)

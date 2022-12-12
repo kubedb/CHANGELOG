@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T19:16:00.241980522Z",
+  "release_date": "2022-12-12T19:16:12.211343035Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -379,6 +379,48 @@
             {
               "SHA": "a951c00e",
               "Subject": "Run GH actions on ubuntu-20.04 (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.0",
+          "commits": [
+            {
+              "SHA": "da9e88bb",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#615)"
+            },
+            {
+              "SHA": "f2e2da36",
+              "Subject": "Update deps (#614)"
+            },
+            {
+              "SHA": "296bb241",
+              "Subject": "Run GH actions on ubuntu-20.04 (#613)"
+            },
+            {
+              "SHA": "d67b529a",
+              "Subject": "Add tranferLeadership env for co-ordinator (#612)"
+            },
+            {
+              "SHA": "fab00b44",
+              "Subject": "Update PDB Deletion (#611)"
+            },
+            {
+              "SHA": "c104c2b2",
+              "Subject": "Check for old auth secret label (#610)"
+            },
+            {
+              "SHA": "932d6851",
+              "Subject": "Fix shared buffer for version 10 (#609)"
+            },
+            {
+              "SHA": "60dba4ae",
+              "Subject": "Use constants from apimachinery (#608)"
             }
           ]
         }

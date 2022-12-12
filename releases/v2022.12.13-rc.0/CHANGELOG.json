@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T20:46:04.802692788Z",
+  "release_date": "2022-12-12T21:22:05.112491245Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -163,6 +163,72 @@
             {
               "SHA": "ba0322041",
               "Subject": "Fix PDB deletion issue (#614)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.13-rc.0",
+          "commits": [
+            {
+              "SHA": "9fca52a4",
+              "Subject": "Prepare for release v2022.12.13-rc.0 (#574)"
+            },
+            {
+              "SHA": "a1811331",
+              "Subject": "Add support for elasticsearch 8.5.2 (#566)"
+            },
+            {
+              "SHA": "7288df17",
+              "Subject": "Update redis-init image (#573)"
+            },
+            {
+              "SHA": "a9e2070d",
+              "Subject": "Add kafka versions (#571)"
+            },
+            {
+              "SHA": "9d3c3255",
+              "Subject": "Update crds for kubedb/apimachinery@2a1d4b0b (#572)"
+            },
+            {
+              "SHA": "0c3cfd8b",
+              "Subject": "Update crds for kubedb/apimachinery@69bc9dec (#570)"
+            },
+            {
+              "SHA": "d8cf2cfd",
+              "Subject": "Update crds for kubedb/apimachinery@b9528283 (#569)"
+            },
+            {
+              "SHA": "15601eeb",
+              "Subject": "Run GH actions on ubuntu-20.04 (#568)"
+            },
+            {
+              "SHA": "833df418",
+              "Subject": "Add proxysql to kubedb grafana dashboard values and resources (#567)"
+            },
+            {
+              "SHA": "bb368507",
+              "Subject": "Add support for Postgres 15.1 12.13 13.9 14.6 (#563)"
+            },
+            {
+              "SHA": "5c43e598",
+              "Subject": "Update Grafana dashboards (#564)"
+            },
+            {
+              "SHA": "641023f5",
+              "Subject": "Update crds for kubedb/apimachinery@89a71807 (#561)"
+            },
+            {
+              "SHA": "be777e86",
+              "Subject": "Update crds for kubedb/apimachinery@f570aabe (#560)"
+            },
+            {
+              "SHA": "c0473ea7",
+              "Subject": "Update crds for kubedb/apimachinery@01c07593 (#559)"
             }
           ]
         }

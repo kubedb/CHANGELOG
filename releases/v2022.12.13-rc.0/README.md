@@ -95,6 +95,18 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.23.0-rc.0)
+
+- [22382a39](https://github.com/kubedb/mysql/commit/22382a39) Prepare for release v0.23.0-rc.0 (#512)
+- [8e7fb1a7](https://github.com/kubedb/mysql/commit/8e7fb1a7) Update deps (#511)
+- [15f8ba0b](https://github.com/kubedb/mysql/commit/15f8ba0b) Run GH actions on ubuntu-20.04 (#510)
+- [83335edb](https://github.com/kubedb/mysql/commit/83335edb) Update PDB Deletion (#509)
+- [b5b8cadd](https://github.com/kubedb/mysql/commit/b5b8cadd) Use constants from apimachinery (#508)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.0-rc.0)

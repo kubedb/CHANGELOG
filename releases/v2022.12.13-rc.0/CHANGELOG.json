@@ -1,0 +1,60 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.12.13-rc.0",
+  "release_date": "2022-12-12T18:54:22.295224337Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.0",
+          "commits": [
+            {
+              "SHA": "70bc1ca7",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "c051e053",
+              "Subject": "Update deps (#1007)"
+            },
+            {
+              "SHA": "2a1d4b0b",
+              "Subject": "Set PSP in KafkaVersion Spec to optional (#1005)"
+            },
+            {
+              "SHA": "69bc9dec",
+              "Subject": "Add kafka api (#998)"
+            },
+            {
+              "SHA": "b9528283",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1004)"
+            },
+            {
+              "SHA": "d498e8e9",
+              "Subject": "Add ```TransferLeadershipInterval``` and ```TransferLeadershipTimeout``` for Postgres (#1001)"
+            },
+            {
+              "SHA": "b8f88e70",
+              "Subject": "Add sidekick api to kubebuilder client (#1000)"
+            },
+            {
+              "SHA": "89a71807",
+              "Subject": "Change DatabaseRef to ProxyRef in ProxySQLAutoscaler (#997)"
+            },
+            {
+              "SHA": "f570aabe",
+              "Subject": "Add support for ProxySQL autoscaler (#996)"
+            },
+            {
+              "SHA": "01c07593",
+              "Subject": "Add ProxySQL Vertical-Scaling spec (#995)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

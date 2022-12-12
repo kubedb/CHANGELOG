@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T20:25:22.648517985Z",
+  "release_date": "2022-12-12T20:46:04.802692788Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -807,6 +807,32 @@
             {
               "SHA": "87c75073",
               "Subject": "Run GH actions on ubuntu-20.04 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2df0f44e",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "f1ea74a2",
+              "Subject": "Add kafka webhooks (#39)"
+            },
+            {
+              "SHA": "b15ff051",
+              "Subject": "Update deps (#40)"
+            },
+            {
+              "SHA": "6246a9cf",
+              "Subject": "Run GH actions on ubuntu-20.04 (#38)"
             }
           ]
         }

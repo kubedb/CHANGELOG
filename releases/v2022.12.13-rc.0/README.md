@@ -40,6 +40,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.10.0-rc.0)
+
+- [02c4399](https://github.com/kubedb/mariadb-coordinator/commit/02c4399) Prepare for release v0.10.0-rc.0 (#66)
+- [bf28b66](https://github.com/kubedb/mariadb-coordinator/commit/bf28b66) Update deps (#65)
+- [a00947d](https://github.com/kubedb/mariadb-coordinator/commit/a00947d) Run GH actions on ubuntu-20.04 (#64)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.0-rc.0)

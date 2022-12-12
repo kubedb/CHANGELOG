@@ -181,6 +181,17 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.23.0-rc.0)
+
+- [175547fa](https://github.com/kubedb/redis/commit/175547fa) Prepare for release v0.23.0-rc.0 (#438)
+- [265332d0](https://github.com/kubedb/redis/commit/265332d0) Update deps (#437)
+- [f1a8f85f](https://github.com/kubedb/redis/commit/f1a8f85f) Run GH actions on ubuntu-20.04 (#436)
+- [9263f404](https://github.com/kubedb/redis/commit/9263f404) Fix PDB deletion issue (#435)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.0-rc.0)

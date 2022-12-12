@@ -1,0 +1,1152 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.12.13-rc.0",
+  "release_date": "2022-12-12T21:56:08.003680471Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.0",
+          "commits": [
+            {
+              "SHA": "70bc1ca7",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "c051e053",
+              "Subject": "Update deps (#1007)"
+            },
+            {
+              "SHA": "2a1d4b0b",
+              "Subject": "Set PSP in KafkaVersion Spec to optional (#1005)"
+            },
+            {
+              "SHA": "69bc9dec",
+              "Subject": "Add kafka api (#998)"
+            },
+            {
+              "SHA": "b9528283",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1004)"
+            },
+            {
+              "SHA": "d498e8e9",
+              "Subject": "Add ```TransferLeadershipInterval``` and ```TransferLeadershipTimeout``` for Postgres (#1001)"
+            },
+            {
+              "SHA": "b8f88e70",
+              "Subject": "Add sidekick api to kubebuilder client (#1000)"
+            },
+            {
+              "SHA": "89a71807",
+              "Subject": "Change DatabaseRef to ProxyRef in ProxySQLAutoscaler (#997)"
+            },
+            {
+              "SHA": "f570aabe",
+              "Subject": "Add support for ProxySQL autoscaler (#996)"
+            },
+            {
+              "SHA": "01c07593",
+              "Subject": "Add ProxySQL Vertical-Scaling spec (#995)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2e6d15fd",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#126)"
+            },
+            {
+              "SHA": "a5bc7afd",
+              "Subject": "Update deps (#125)"
+            },
+            {
+              "SHA": "56ebf3fd",
+              "Subject": "Run GH actions on ubuntu-20.04 (#124)"
+            },
+            {
+              "SHA": "ef402f45",
+              "Subject": "Add ProxySQL autoscaler support (#121)"
+            },
+            {
+              "SHA": "36165599",
+              "Subject": "Acquire license from proxyserver (#123)"
+            },
+            {
+              "SHA": "f727dc6e",
+              "Subject": "Reduce logs; Fix RecommendationProvider's parameters for sharded mongo (#122)"
+            },
+            {
+              "SHA": "835632d9",
+              "Subject": "Clean up go.mod"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.12.13-rc.0",
+          "commits": [
+            {
+              "SHA": "c67ddb2",
+              "Subject": "Prepare for release v2022.12.13-rc.0 (#55)"
+            },
+            {
+              "SHA": "4ead59f",
+              "Subject": "Run GH actions on ubuntu-20.04 (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1bf92e06",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#689)"
+            },
+            {
+              "SHA": "76426575",
+              "Subject": "Update deps (#688)"
+            },
+            {
+              "SHA": "2f35bac1",
+              "Subject": "Run GH actions on ubuntu-20.04 (#687)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a7952c3",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "722df43",
+              "Subject": "Update deps (#51)"
+            },
+            {
+              "SHA": "600877d",
+              "Subject": "Run GH actions on ubuntu-20.04 (#50)"
+            },
+            {
+              "SHA": "cc2b95b",
+              "Subject": "Acquire license from proxyserver (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.12.13-rc.0",
+          "commits": [
+            {
+              "SHA": "faf51b3c",
+              "Subject": "Prepare for release v2022.12.13-rc.0 (#517)"
+            },
+            {
+              "SHA": "1739dac7",
+              "Subject": "Merge pull request #512 from kubedb/mysql-docs"
+            },
+            {
+              "SHA": "a209cd71",
+              "Subject": "update review changes"
+            },
+            {
+              "SHA": "e1f4fbd7",
+              "Subject": "update monitoring"
+            },
+            {
+              "SHA": "3cc18f89",
+              "Subject": "update navigation in tls"
+            },
+            {
+              "SHA": "bbe1b024",
+              "Subject": "update navigation for vertical scaling"
+            },
+            {
+              "SHA": "f1bb20b1",
+              "Subject": "update navigiation for horizontal scaling"
+            },
+            {
+              "SHA": "a9c1f6e5",
+              "Subject": "update navigation in using script"
+            },
+            {
+              "SHA": "72ce3150",
+              "Subject": "update navigation for reconfigure"
+            },
+            {
+              "SHA": "886f03ca",
+              "Subject": "update navigation for reconfigure tls"
+            },
+            {
+              "SHA": "e7fe1178",
+              "Subject": "update volume expansion navigation"
+            },
+            {
+              "SHA": "efb93ebf",
+              "Subject": "update links"
+            },
+            {
+              "SHA": "74ffe708",
+              "Subject": "update autoscaling"
+            },
+            {
+              "SHA": "e00173f6",
+              "Subject": "add volume-expansion"
+            },
+            {
+              "SHA": "2ccf13d4",
+              "Subject": "update reconfigure"
+            },
+            {
+              "SHA": "b5daa7b5",
+              "Subject": "fix identifier"
+            },
+            {
+              "SHA": "fc8cb967",
+              "Subject": "reconfigure tls"
+            },
+            {
+              "SHA": "040bb862",
+              "Subject": "add read replica docs"
+            },
+            {
+              "SHA": "e86fd25b",
+              "Subject": "add semi-sync docs"
+            },
+            {
+              "SHA": "9b911ee6",
+              "Subject": "add innodb cluster doc"
+            },
+            {
+              "SHA": "f941ddee",
+              "Subject": "Merge pull request #513 from kubedb/proxysql-docs-final"
+            },
+            {
+              "SHA": "d409d5b8",
+              "Subject": "fix crd name : elasticsearch docs"
+            },
+            {
+              "SHA": "840cb13d",
+              "Subject": "fix email : proxysql docs"
+            },
+            {
+              "SHA": "d8043d45",
+              "Subject": "add file link, fix email : proxysql docs"
+            },
+            {
+              "SHA": "3b53608f",
+              "Subject": "fix other file errors proxysql"
+            },
+            {
+              "SHA": "fb14990c",
+              "Subject": "fix folder name for proxysql docs"
+            },
+            {
+              "SHA": "c393875b",
+              "Subject": "fix image link - proxysql docs"
+            },
+            {
+              "SHA": "3692551d",
+              "Subject": "revise names for proxysql docs"
+            },
+            {
+              "SHA": "b3396f48",
+              "Subject": "add custom-rbac docs for proxysql"
+            },
+            {
+              "SHA": "1e8bb7b8",
+              "Subject": "revise docs proxysql"
+            },
+            {
+              "SHA": "ee9efc28",
+              "Subject": "change title name"
+            },
+            {
+              "SHA": "80801684",
+              "Subject": "add external backend doc for proxysql"
+            },
+            {
+              "SHA": "91386684",
+              "Subject": "fix titles"
+            },
+            {
+              "SHA": "e0924b5e",
+              "Subject": "fix quickstart"
+            },
+            {
+              "SHA": "b9792afd",
+              "Subject": "update liche"
+            },
+            {
+              "SHA": "1276c54a",
+              "Subject": "add proxysql quickstart"
+            },
+            {
+              "SHA": "961ca8b9",
+              "Subject": "add quickstart"
+            },
+            {
+              "SHA": "8c600268",
+              "Subject": "add reconfigure docs proxysql"
+            },
+            {
+              "SHA": "c52cb673",
+              "Subject": "add autoscaling docs proxysql"
+            },
+            {
+              "SHA": "f7bf67d3",
+              "Subject": "fix format"
+            },
+            {
+              "SHA": "deb380f8",
+              "Subject": "add scaling docs proxysql"
+            },
+            {
+              "SHA": "ae097c1f",
+              "Subject": "add upgrading docs proxysql"
+            },
+            {
+              "SHA": "4ea93aa6",
+              "Subject": "add reconfigure-tls docs proxysql"
+            },
+            {
+              "SHA": "892f8935",
+              "Subject": "add tls docs proxysql"
+            },
+            {
+              "SHA": "63dc269b",
+              "Subject": "add clustering docs proxysql"
+            },
+            {
+              "SHA": "8eb590fd",
+              "Subject": "fix id"
+            },
+            {
+              "SHA": "21dad0cd",
+              "Subject": "fix id"
+            },
+            {
+              "SHA": "a799b854",
+              "Subject": "fix identifier"
+            },
+            {
+              "SHA": "5da73064",
+              "Subject": "fix link"
+            },
+            {
+              "SHA": "b242f322",
+              "Subject": "fix link"
+            },
+            {
+              "SHA": "bd30aa4d",
+              "Subject": "add proxysql concept doc"
+            },
+            {
+              "SHA": "a8cafbef",
+              "Subject": "add concept doc proxysql"
+            },
+            {
+              "SHA": "0751011a",
+              "Subject": "initialize final doc"
+            },
+            {
+              "SHA": "f359fa2b",
+              "Subject": "Run GH actions on ubuntu-20.04 (#516)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6b883d16e",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#617)"
+            },
+            {
+              "SHA": "40ab6ecf5",
+              "Subject": "Update deps (#616)"
+            },
+            {
+              "SHA": "732ba4c2f",
+              "Subject": "Run GH actions on ubuntu-20.04 (#615)"
+            },
+            {
+              "SHA": "ba0322041",
+              "Subject": "Fix PDB deletion issue (#614)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.13-rc.0",
+          "commits": [
+            {
+              "SHA": "9fca52a4",
+              "Subject": "Prepare for release v2022.12.13-rc.0 (#574)"
+            },
+            {
+              "SHA": "a1811331",
+              "Subject": "Add support for elasticsearch 8.5.2 (#566)"
+            },
+            {
+              "SHA": "7288df17",
+              "Subject": "Update redis-init image (#573)"
+            },
+            {
+              "SHA": "a9e2070d",
+              "Subject": "Add kafka versions (#571)"
+            },
+            {
+              "SHA": "9d3c3255",
+              "Subject": "Update crds for kubedb/apimachinery@2a1d4b0b (#572)"
+            },
+            {
+              "SHA": "0c3cfd8b",
+              "Subject": "Update crds for kubedb/apimachinery@69bc9dec (#570)"
+            },
+            {
+              "SHA": "d8cf2cfd",
+              "Subject": "Update crds for kubedb/apimachinery@b9528283 (#569)"
+            },
+            {
+              "SHA": "15601eeb",
+              "Subject": "Run GH actions on ubuntu-20.04 (#568)"
+            },
+            {
+              "SHA": "833df418",
+              "Subject": "Add proxysql to kubedb grafana dashboard values and resources (#567)"
+            },
+            {
+              "SHA": "bb368507",
+              "Subject": "Add support for Postgres 15.1 12.13 13.9 14.6 (#563)"
+            },
+            {
+              "SHA": "5c43e598",
+              "Subject": "Update Grafana dashboards (#564)"
+            },
+            {
+              "SHA": "641023f5",
+              "Subject": "Update crds for kubedb/apimachinery@89a71807 (#561)"
+            },
+            {
+              "SHA": "be777e86",
+              "Subject": "Update crds for kubedb/apimachinery@f570aabe (#560)"
+            },
+            {
+              "SHA": "c0473ea7",
+              "Subject": "Update crds for kubedb/apimachinery@01c07593 (#559)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "41f3a22",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
+            },
+            {
+              "SHA": "6cb7882",
+              "Subject": "Refactor SetupControllers"
+            },
+            {
+              "SHA": "f4c8eb1",
+              "Subject": "Update deps (#3)"
+            },
+            {
+              "SHA": "61ab7f6",
+              "Subject": "Acquire license from proxyserver (#2)"
+            },
+            {
+              "SHA": "11f6df2",
+              "Subject": "Add Operator for Kafka (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "fbc128ad",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#188)"
+            },
+            {
+              "SHA": "6048437a",
+              "Subject": "Update deps (#187)"
+            },
+            {
+              "SHA": "649bb98e",
+              "Subject": "Run GH actions on ubuntu-20.04 (#186)"
+            },
+            {
+              "SHA": "b14ab86f",
+              "Subject": "Update PDB Deletion (#185)"
+            },
+            {
+              "SHA": "897068c5",
+              "Subject": "Use constants from apimachinery (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "02c4399",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#66)"
+            },
+            {
+              "SHA": "bf28b66",
+              "Subject": "Update deps (#65)"
+            },
+            {
+              "SHA": "a00947d",
+              "Subject": "Run GH actions on ubuntu-20.04 (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8f5172f6",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#378)"
+            },
+            {
+              "SHA": "cb73ec86",
+              "Subject": "Update deps (#377)"
+            },
+            {
+              "SHA": "e8b780d6",
+              "Subject": "Run GH actions on ubuntu-20.04 (#376)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2602cc08",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#524)"
+            },
+            {
+              "SHA": "a53e0b6e",
+              "Subject": "Update deps (#523)"
+            },
+            {
+              "SHA": "6f68602b",
+              "Subject": "Run GH actions on ubuntu-20.04 (#522)"
+            },
+            {
+              "SHA": "d9448103",
+              "Subject": "Fix PDB issues (#521)"
+            },
+            {
+              "SHA": "6f9b3325",
+              "Subject": "Copy missing fields from podTemplate & serviceTemplate (#520)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "22382a39",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#512)"
+            },
+            {
+              "SHA": "8e7fb1a7",
+              "Subject": "Update deps (#511)"
+            },
+            {
+              "SHA": "15f8ba0b",
+              "Subject": "Run GH actions on ubuntu-20.04 (#510)"
+            },
+            {
+              "SHA": "83335edb",
+              "Subject": "Update PDB Deletion (#509)"
+            },
+            {
+              "SHA": "b5b8cadd",
+              "Subject": "Use constants from apimachinery (#508)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cc3258d",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#63)"
+            },
+            {
+              "SHA": "25da659",
+              "Subject": "Update deps (#62)"
+            },
+            {
+              "SHA": "c2cd415",
+              "Subject": "Run GH actions on ubuntu-20.04 (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a8c367e",
+              "Subject": "Update deps (#28)"
+            },
+            {
+              "SHA": "e11c7ff",
+              "Subject": "Run GH actions on ubuntu-20.04 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "13107ce9",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#393)"
+            },
+            {
+              "SHA": "96f289a0",
+              "Subject": "Update deps (#392)"
+            },
+            {
+              "SHA": "ab83bb02",
+              "Subject": "Update Evict pod with kmodules api (#388)"
+            },
+            {
+              "SHA": "028a4a29",
+              "Subject": "Fix condition check for pvc update (#384)"
+            },
+            {
+              "SHA": "f85db652",
+              "Subject": "Add TLS support for Kafka (#391)"
+            },
+            {
+              "SHA": "93e1fcf4",
+              "Subject": "Fix: compareTables() function for postgresql logical replication (#385)"
+            },
+            {
+              "SHA": "d6225c57",
+              "Subject": "Run GH actions on ubuntu-20.04 (#390)"
+            },
+            {
+              "SHA": "eb9f8b0c",
+              "Subject": "Remove usage of `UpgradeVersion` constant (#389)"
+            },
+            {
+              "SHA": "f682a359",
+              "Subject": "Skip Managing TLS if DB is paused for MariaDB, PXC and ProxySQL (#387)"
+            },
+            {
+              "SHA": "1ba7dc05",
+              "Subject": "Add ProxySQL Vertical Scaling Ops-Request (#381)"
+            },
+            {
+              "SHA": "db89b9c9",
+              "Subject": "Adding `UpdateVersion` in mongo validator (#382)"
+            },
+            {
+              "SHA": "7c373593",
+              "Subject": "Acquire license from proxyserver (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f7ba9bfc",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#290)"
+            },
+            {
+              "SHA": "806df3d2",
+              "Subject": "Update deps (#289)"
+            },
+            {
+              "SHA": "a55bb0f2",
+              "Subject": "Run GH actions on ubuntu-20.04 (#288)"
+            },
+            {
+              "SHA": "37fab686",
+              "Subject": "Update PDB Deletion (#287)"
+            },
+            {
+              "SHA": "55c35a72",
+              "Subject": "Use constants from apimachinery (#286)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7e53d31",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#23)"
+            },
+            {
+              "SHA": "bd5e0b3",
+              "Subject": "Update deps (#22)"
+            },
+            {
+              "SHA": "b970f14",
+              "Subject": "Run GH actions on ubuntu-20.04 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "34cb5a6c",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#105)"
+            },
+            {
+              "SHA": "7394e6b7",
+              "Subject": "Update deps (#104)"
+            },
+            {
+              "SHA": "228b1ae2",
+              "Subject": "Merge pull request #102 from kubedb/leader-switch"
+            },
+            {
+              "SHA": "11a3c127",
+              "Subject": "Merge branch 'master' into leader-switch"
+            },
+            {
+              "SHA": "f8d04c52",
+              "Subject": "Add PG Reset Wal for Single user mode failed #101"
+            },
+            {
+              "SHA": "8eaa5f11",
+              "Subject": "retry eviction of pod and delete pod if fails"
+            },
+            {
+              "SHA": "d2a23fa9",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "febd8aab",
+              "Subject": "Refined"
+            },
+            {
+              "SHA": "5a2005cf",
+              "Subject": "Fix: Transfer Leadership issue fix with pod delete"
+            },
+            {
+              "SHA": "7631cb84",
+              "Subject": "Add PG Reset Wal for Single user mode failed"
+            },
+            {
+              "SHA": "a951c00e",
+              "Subject": "Run GH actions on ubuntu-20.04 (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8d39e418",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#251)"
+            },
+            {
+              "SHA": "991cbaec",
+              "Subject": "Update deps (#250)"
+            },
+            {
+              "SHA": "8af0a2f0",
+              "Subject": "Run GH actions on ubuntu-20.04 (#248)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.0",
+          "commits": [
+            {
+              "SHA": "da9e88bb",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#615)"
+            },
+            {
+              "SHA": "f2e2da36",
+              "Subject": "Update deps (#614)"
+            },
+            {
+              "SHA": "296bb241",
+              "Subject": "Run GH actions on ubuntu-20.04 (#613)"
+            },
+            {
+              "SHA": "d67b529a",
+              "Subject": "Add tranferLeadership env for co-ordinator (#612)"
+            },
+            {
+              "SHA": "fab00b44",
+              "Subject": "Update PDB Deletion (#611)"
+            },
+            {
+              "SHA": "c104c2b2",
+              "Subject": "Check for old auth secret label (#610)"
+            },
+            {
+              "SHA": "932d6851",
+              "Subject": "Fix shared buffer for version 10 (#609)"
+            },
+            {
+              "SHA": "60dba4ae",
+              "Subject": "Use constants from apimachinery (#608)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1104e9f68",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#28)"
+            },
+            {
+              "SHA": "f37503dbb",
+              "Subject": "Add kafka controller (#27)"
+            },
+            {
+              "SHA": "c8618da0b",
+              "Subject": "Update deps (#26)"
+            },
+            {
+              "SHA": "2db07a7dc",
+              "Subject": "Run GH actions on ubuntu-20.04 (#25)"
+            },
+            {
+              "SHA": "9949d5692",
+              "Subject": "Acquire license from proxyserver (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "587d8b97",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#267)"
+            },
+            {
+              "SHA": "32b9cc71",
+              "Subject": "Update deps (#266)"
+            },
+            {
+              "SHA": "05e7a3a4",
+              "Subject": "Add MariaDB and Percona-XtraDB Backend (#264)"
+            },
+            {
+              "SHA": "a1e7c91d",
+              "Subject": "Fix CI workflow for private deps"
+            },
+            {
+              "SHA": "effb7617",
+              "Subject": "Run GH actions on ubuntu-20.04 (#265)"
+            },
+            {
+              "SHA": "38391814",
+              "Subject": "Use constants from apimachinery (#263)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "175547fa",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#438)"
+            },
+            {
+              "SHA": "265332d0",
+              "Subject": "Update deps (#437)"
+            },
+            {
+              "SHA": "f1a8f85f",
+              "Subject": "Run GH actions on ubuntu-20.04 (#436)"
+            },
+            {
+              "SHA": "9263f404",
+              "Subject": "Fix PDB deletion issue (#435)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "61aefbb",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#56)"
+            },
+            {
+              "SHA": "94a6eea",
+              "Subject": "Update deps (#55)"
+            },
+            {
+              "SHA": "4454cf1",
+              "Subject": "Run GH actions on ubuntu-20.04 (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "865f05e0",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#218)"
+            },
+            {
+              "SHA": "8d0fa119",
+              "Subject": "Update deps (#217)"
+            },
+            {
+              "SHA": "e6a86096",
+              "Subject": "Run GH actions on ubuntu-20.04 (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "64bf4d7a",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#56)"
+            },
+            {
+              "SHA": "c0bd9699",
+              "Subject": "Update deps (#55)"
+            },
+            {
+              "SHA": "ab5098c9",
+              "Subject": "Run GH actions on ubuntu-20.04 (#54)"
+            },
+            {
+              "SHA": "3a7c5fb9",
+              "Subject": "Acquire license from proxyserver (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d212a7d2",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#208)"
+            },
+            {
+              "SHA": "1c9c1627",
+              "Subject": "Update deps (#207)"
+            },
+            {
+              "SHA": "b3bfac83",
+              "Subject": "Run GH actions on ubuntu-20.04 (#206)"
+            },
+            {
+              "SHA": "986dd480",
+              "Subject": "Add Redis Sentinel e2e Tests (#199)"
+            },
+            {
+              "SHA": "5c2fc0b9",
+              "Subject": "Update MongoDB Autoscaler tests (#204)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8e1be757",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "05f138aa",
+              "Subject": "Update deps (#58)"
+            },
+            {
+              "SHA": "87c75073",
+              "Subject": "Run GH actions on ubuntu-20.04 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2df0f44e",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "f1ea74a2",
+              "Subject": "Add kafka webhooks (#39)"
+            },
+            {
+              "SHA": "b15ff051",
+              "Subject": "Update deps (#40)"
+            },
+            {
+              "SHA": "6246a9cf",
+              "Subject": "Run GH actions on ubuntu-20.04 (#38)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

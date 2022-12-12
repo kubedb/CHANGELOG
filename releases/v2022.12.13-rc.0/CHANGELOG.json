@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T19:44:45.493325768Z",
+  "release_date": "2022-12-12T19:45:22.831863985Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -659,6 +659,28 @@
             {
               "SHA": "5c2fc0b9",
               "Subject": "Update MongoDB Autoscaler tests (#204)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8e1be757",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "05f138aa",
+              "Subject": "Update deps (#58)"
+            },
+            {
+              "SHA": "87c75073",
+              "Subject": "Run GH actions on ubuntu-20.04 (#56)"
             }
           ]
         }

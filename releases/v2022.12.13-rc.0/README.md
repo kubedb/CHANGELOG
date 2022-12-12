@@ -269,3 +269,13 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/ui-server/releases/tag/v0.6.0-rc.0)
+
+- [8e1be757](https://github.com/kubedb/ui-server/commit/8e1be757) Prepare for release v0.6.0-rc.0 (#59)
+- [05f138aa](https://github.com/kubedb/ui-server/commit/05f138aa) Update deps (#58)
+- [87c75073](https://github.com/kubedb/ui-server/commit/87c75073) Run GH actions on ubuntu-20.04 (#56)
+
+
+

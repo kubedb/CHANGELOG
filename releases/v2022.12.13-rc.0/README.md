@@ -69,6 +69,16 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.3.0-rc.0)
+
+- [7e53d31](https://github.com/kubedb/percona-xtradb-coordinator/commit/7e53d31) Prepare for release v0.3.0-rc.0 (#23)
+- [bd5e0b3](https://github.com/kubedb/percona-xtradb-coordinator/commit/bd5e0b3) Update deps (#22)
+- [b970f14](https://github.com/kubedb/percona-xtradb-coordinator/commit/b970f14) Run GH actions on ubuntu-20.04 (#21)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.14.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.14.0-rc.0)

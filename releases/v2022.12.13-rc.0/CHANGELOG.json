@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T19:14:31.655948954Z",
+  "release_date": "2022-12-12T19:16:00.241980522Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -181,6 +181,28 @@
             {
               "SHA": "a00947d",
               "Subject": "Run GH actions on ubuntu-20.04 (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8f5172f6",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#378)"
+            },
+            {
+              "SHA": "cb73ec86",
+              "Subject": "Update deps (#377)"
+            },
+            {
+              "SHA": "e8b780d6",
+              "Subject": "Run GH actions on ubuntu-20.04 (#376)"
             }
           ]
         }

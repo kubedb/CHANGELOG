@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T19:09:17.686523992Z",
+  "release_date": "2022-12-12T19:10:53.295693772Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -165,6 +165,28 @@
             {
               "SHA": "e11c7ff",
               "Subject": "Run GH actions on ubuntu-20.04 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "865f05e0",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#218)"
+            },
+            {
+              "SHA": "8d0fa119",
+              "Subject": "Update deps (#217)"
+            },
+            {
+              "SHA": "e6a86096",
+              "Subject": "Run GH actions on ubuntu-20.04 (#216)"
             }
           ]
         }

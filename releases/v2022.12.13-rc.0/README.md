@@ -117,3 +117,15 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.15.0-rc.0)
+
+- [d212a7d2](https://github.com/kubedb/tests/commit/d212a7d2) Prepare for release v0.15.0-rc.0 (#208)
+- [1c9c1627](https://github.com/kubedb/tests/commit/1c9c1627) Update deps (#207)
+- [b3bfac83](https://github.com/kubedb/tests/commit/b3bfac83) Run GH actions on ubuntu-20.04 (#206)
+- [986dd480](https://github.com/kubedb/tests/commit/986dd480) Add Redis Sentinel e2e Tests (#199)
+- [5c2fc0b9](https://github.com/kubedb/tests/commit/5c2fc0b9) Update MongoDB Autoscaler tests (#204)
+
+
+

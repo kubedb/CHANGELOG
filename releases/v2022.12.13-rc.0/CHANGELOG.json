@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T21:22:05.112491245Z",
+  "release_date": "2022-12-12T21:39:06.467759506Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -137,6 +137,232 @@
             {
               "SHA": "cc2b95b",
               "Subject": "Acquire license from proxyserver (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.12.13-rc.0",
+          "commits": [
+            {
+              "SHA": "faf51b3c",
+              "Subject": "Prepare for release v2022.12.13-rc.0 (#517)"
+            },
+            {
+              "SHA": "1739dac7",
+              "Subject": "Merge pull request #512 from kubedb/mysql-docs"
+            },
+            {
+              "SHA": "a209cd71",
+              "Subject": "update review changes"
+            },
+            {
+              "SHA": "e1f4fbd7",
+              "Subject": "update monitoring"
+            },
+            {
+              "SHA": "3cc18f89",
+              "Subject": "update navigation in tls"
+            },
+            {
+              "SHA": "bbe1b024",
+              "Subject": "update navigation for vertical scaling"
+            },
+            {
+              "SHA": "f1bb20b1",
+              "Subject": "update navigiation for horizontal scaling"
+            },
+            {
+              "SHA": "a9c1f6e5",
+              "Subject": "update navigation in using script"
+            },
+            {
+              "SHA": "72ce3150",
+              "Subject": "update navigation for reconfigure"
+            },
+            {
+              "SHA": "886f03ca",
+              "Subject": "update navigation for reconfigure tls"
+            },
+            {
+              "SHA": "e7fe1178",
+              "Subject": "update volume expansion navigation"
+            },
+            {
+              "SHA": "efb93ebf",
+              "Subject": "update links"
+            },
+            {
+              "SHA": "74ffe708",
+              "Subject": "update autoscaling"
+            },
+            {
+              "SHA": "e00173f6",
+              "Subject": "add volume-expansion"
+            },
+            {
+              "SHA": "2ccf13d4",
+              "Subject": "update reconfigure"
+            },
+            {
+              "SHA": "b5daa7b5",
+              "Subject": "fix identifier"
+            },
+            {
+              "SHA": "fc8cb967",
+              "Subject": "reconfigure tls"
+            },
+            {
+              "SHA": "040bb862",
+              "Subject": "add read replica docs"
+            },
+            {
+              "SHA": "e86fd25b",
+              "Subject": "add semi-sync docs"
+            },
+            {
+              "SHA": "9b911ee6",
+              "Subject": "add innodb cluster doc"
+            },
+            {
+              "SHA": "f941ddee",
+              "Subject": "Merge pull request #513 from kubedb/proxysql-docs-final"
+            },
+            {
+              "SHA": "d409d5b8",
+              "Subject": "fix crd name : elasticsearch docs"
+            },
+            {
+              "SHA": "840cb13d",
+              "Subject": "fix email : proxysql docs"
+            },
+            {
+              "SHA": "d8043d45",
+              "Subject": "add file link, fix email : proxysql docs"
+            },
+            {
+              "SHA": "3b53608f",
+              "Subject": "fix other file errors proxysql"
+            },
+            {
+              "SHA": "fb14990c",
+              "Subject": "fix folder name for proxysql docs"
+            },
+            {
+              "SHA": "c393875b",
+              "Subject": "fix image link - proxysql docs"
+            },
+            {
+              "SHA": "3692551d",
+              "Subject": "revise names for proxysql docs"
+            },
+            {
+              "SHA": "b3396f48",
+              "Subject": "add custom-rbac docs for proxysql"
+            },
+            {
+              "SHA": "1e8bb7b8",
+              "Subject": "revise docs proxysql"
+            },
+            {
+              "SHA": "ee9efc28",
+              "Subject": "change title name"
+            },
+            {
+              "SHA": "80801684",
+              "Subject": "add external backend doc for proxysql"
+            },
+            {
+              "SHA": "91386684",
+              "Subject": "fix titles"
+            },
+            {
+              "SHA": "e0924b5e",
+              "Subject": "fix quickstart"
+            },
+            {
+              "SHA": "b9792afd",
+              "Subject": "update liche"
+            },
+            {
+              "SHA": "1276c54a",
+              "Subject": "add proxysql quickstart"
+            },
+            {
+              "SHA": "961ca8b9",
+              "Subject": "add quickstart"
+            },
+            {
+              "SHA": "8c600268",
+              "Subject": "add reconfigure docs proxysql"
+            },
+            {
+              "SHA": "c52cb673",
+              "Subject": "add autoscaling docs proxysql"
+            },
+            {
+              "SHA": "f7bf67d3",
+              "Subject": "fix format"
+            },
+            {
+              "SHA": "deb380f8",
+              "Subject": "add scaling docs proxysql"
+            },
+            {
+              "SHA": "ae097c1f",
+              "Subject": "add upgrading docs proxysql"
+            },
+            {
+              "SHA": "4ea93aa6",
+              "Subject": "add reconfigure-tls docs proxysql"
+            },
+            {
+              "SHA": "892f8935",
+              "Subject": "add tls docs proxysql"
+            },
+            {
+              "SHA": "63dc269b",
+              "Subject": "add clustering docs proxysql"
+            },
+            {
+              "SHA": "8eb590fd",
+              "Subject": "fix id"
+            },
+            {
+              "SHA": "21dad0cd",
+              "Subject": "fix id"
+            },
+            {
+              "SHA": "a799b854",
+              "Subject": "fix identifier"
+            },
+            {
+              "SHA": "5da73064",
+              "Subject": "fix link"
+            },
+            {
+              "SHA": "b242f322",
+              "Subject": "fix link"
+            },
+            {
+              "SHA": "bd30aa4d",
+              "Subject": "add proxysql concept doc"
+            },
+            {
+              "SHA": "a8cafbef",
+              "Subject": "add concept doc proxysql"
+            },
+            {
+              "SHA": "0751011a",
+              "Subject": "initialize final doc"
+            },
+            {
+              "SHA": "f359fa2b",
+              "Subject": "Run GH actions on ubuntu-20.04 (#516)"
             }
           ]
         }

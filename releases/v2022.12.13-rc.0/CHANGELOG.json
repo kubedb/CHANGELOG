@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.13-rc.0",
-  "release_date": "2022-12-12T19:44:13.614082355Z",
+  "release_date": "2022-12-12T19:44:45.493325768Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.13-rc.0",
   "kubernetes_version": "1.18+",
@@ -73,6 +73,32 @@
             {
               "SHA": "2f35bac1",
               "Subject": "Run GH actions on ubuntu-20.04 (#687)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a7952c3",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "722df43",
+              "Subject": "Update deps (#51)"
+            },
+            {
+              "SHA": "600877d",
+              "Subject": "Run GH actions on ubuntu-20.04 (#50)"
+            },
+            {
+              "SHA": "cc2b95b",
+              "Subject": "Acquire license from proxyserver (#49)"
             }
           ]
         }

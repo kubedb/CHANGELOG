@@ -69,6 +69,24 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.14.0-rc.0)
+
+- [34cb5a6c](https://github.com/kubedb/pg-coordinator/commit/34cb5a6c) Prepare for release v0.14.0-rc.0 (#105)
+- [7394e6b7](https://github.com/kubedb/pg-coordinator/commit/7394e6b7) Update deps (#104)
+- [228b1ae2](https://github.com/kubedb/pg-coordinator/commit/228b1ae2) Merge pull request #102 from kubedb/leader-switch
+- [11a3c127](https://github.com/kubedb/pg-coordinator/commit/11a3c127) Merge branch 'master' into leader-switch
+- [f8d04c52](https://github.com/kubedb/pg-coordinator/commit/f8d04c52) Add PG Reset Wal for Single user mode failed #101
+- [8eaa5f11](https://github.com/kubedb/pg-coordinator/commit/8eaa5f11) retry eviction of pod and delete pod if fails
+- [d2a23fa9](https://github.com/kubedb/pg-coordinator/commit/d2a23fa9) Update deps
+- [febd8aab](https://github.com/kubedb/pg-coordinator/commit/febd8aab) Refined
+- [5a2005cf](https://github.com/kubedb/pg-coordinator/commit/5a2005cf) Fix: Transfer Leadership issue fix with pod delete
+- [7631cb84](https://github.com/kubedb/pg-coordinator/commit/7631cb84) Add PG Reset Wal for Single user mode failed
+- [a951c00e](https://github.com/kubedb/pg-coordinator/commit/a951c00e) Run GH actions on ubuntu-20.04 (#103)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.0-rc.0)

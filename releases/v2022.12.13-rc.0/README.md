@@ -28,6 +28,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.30.0-rc.0)
+
+- [6b883d16](https://github.com/kubedb/elasticsearch/commit/6b883d16e) Prepare for release v0.30.0-rc.0 (#617)
+- [40ab6ecf](https://github.com/kubedb/elasticsearch/commit/40ab6ecf5) Update deps (#616)
+- [732ba4c2](https://github.com/kubedb/elasticsearch/commit/732ba4c2f) Run GH actions on ubuntu-20.04 (#615)
+- [ba032204](https://github.com/kubedb/elasticsearch/commit/ba0322041) Fix PDB deletion issue (#614)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.1.0-rc.0)

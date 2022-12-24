@@ -63,3 +63,11 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.15.0-rc.1)
+
+- [436f15a7](https://github.com/kubedb/tests/commit/436f15a7) Prepare for release v0.15.0-rc.1 (#209)
+
+
+

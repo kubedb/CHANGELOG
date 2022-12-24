@@ -12,6 +12,14 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/autoscaler/releases/tag/v0.15.0-rc.1)
+
+- [c941fab2](https://github.com/kubedb/autoscaler/commit/c941fab2) Prepare for release v0.15.0-rc.1 (#127)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.30.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.30.0-rc.1)

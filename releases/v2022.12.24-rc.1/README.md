@@ -39,6 +39,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.23.0-rc.1)
+
+- [d94c3301](https://github.com/kubedb/mongodb/commit/d94c3301) Prepare for release v0.23.0-rc.1 (#526)
+- [7ee6de66](https://github.com/kubedb/mongodb/commit/7ee6de66) Use go-containerregistry for image digest (#525)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.23.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.23.0-rc.1)

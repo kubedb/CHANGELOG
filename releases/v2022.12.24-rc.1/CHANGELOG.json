@@ -1,0 +1,587 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.12.24-rc.1",
+  "release_date": "2022-12-24T06:39:12.809316871Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7f6ffca9",
+              "Subject": "Revise PgBouncer api (#1002)"
+            },
+            {
+              "SHA": "e539a58e",
+              "Subject": "Update Redis Root Username (#1010)"
+            },
+            {
+              "SHA": "12cda1e0",
+              "Subject": "Remove docker utils (#1008)"
+            },
+            {
+              "SHA": "125f3bb7",
+              "Subject": "Add API for ProxySQL UI-Server (#1003)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c941fab2",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#127)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2022.12.24-rc.1",
+          "commits": [
+            {
+              "SHA": "65ece46",
+              "Subject": "Prepare for release v2022.12.24-rc.1 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f91038aa",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#690)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0c9d9a4",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.12.24-rc.1",
+          "commits": [
+            {
+              "SHA": "45c86ab7",
+              "Subject": "Prepare for release v2022.12.24-rc.1 (#522)"
+            },
+            {
+              "SHA": "3eaa90bb",
+              "Subject": "Merge pull request #521 from kubedb/proxysql-monitoring"
+            },
+            {
+              "SHA": "abaf607c",
+              "Subject": "add proxysql monitoring doc"
+            },
+            {
+              "SHA": "0e27fe61",
+              "Subject": "Fix Doc Tree (#520)"
+            },
+            {
+              "SHA": "dcb388bf",
+              "Subject": "Update mongo doc upto release v2022.10.18 (#508)"
+            },
+            {
+              "SHA": "181b3170",
+              "Subject": "How to delete CRD objects after uninstall (#511)"
+            },
+            {
+              "SHA": "3079258a",
+              "Subject": "Add MongoDB Hidden-node; Restart & Reprovision opsRequests (#509)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0812edfee",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#619)"
+            },
+            {
+              "SHA": "2bd59db3b",
+              "Subject": "Use go-containerregistry for image digest (#618)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.24-rc.1",
+          "commits": [
+            {
+              "SHA": "d80dae40",
+              "Subject": "Prepare for release v2022.12.24-rc.1 (#580)"
+            },
+            {
+              "SHA": "c6588fe5",
+              "Subject": "Add MariaDB Version 10.10.2 (#579)"
+            },
+            {
+              "SHA": "3045cc42",
+              "Subject": "Update crds for kubedb/apimachinery@7f6ffca9 (#578)"
+            },
+            {
+              "SHA": "950b0ae5",
+              "Subject": "Add support for PgBouncer 1.18.0 (#577)"
+            },
+            {
+              "SHA": "401de79f",
+              "Subject": "Add Redis Version 6.2.8 and 7.0.6 (#576)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "649dbf5",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#8)"
+            },
+            {
+              "SHA": "ac4dc3d",
+              "Subject": "Use go-containerregistry for image digest (#7)"
+            },
+            {
+              "SHA": "8d8b5bc",
+              "Subject": "Use kauth.NoServiceAccount when no sa is specified"
+            },
+            {
+              "SHA": "16ee315",
+              "Subject": "Fix Image digest detection (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.1",
+          "commits": [
+            {
+              "SHA": "50d9424e",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#190)"
+            },
+            {
+              "SHA": "ca141bfa",
+              "Subject": "Use go-containerregistry for image digest (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.1",
+          "commits": [
+            {
+              "SHA": "378ac91",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0bdafbd7",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#379)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "d94c3301",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#526)"
+            },
+            {
+              "SHA": "7ee6de66",
+              "Subject": "Use go-containerregistry for image digest (#525)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b2fcc9fa",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#514)"
+            },
+            {
+              "SHA": "814b64b8",
+              "Subject": "Use go-containerregistry for image digest (#513)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "24c35fc",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#65)"
+            },
+            {
+              "SHA": "e0bebc6",
+              "Subject": "remove appeding singnal cluster_status_ok (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "eab904d7",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#399)"
+            },
+            {
+              "SHA": "7258d256",
+              "Subject": "Use kmodules image library for parsing image (#398)"
+            },
+            {
+              "SHA": "b47b86e7",
+              "Subject": "Add adminUserName as CommonName for PgBouncer (#394)"
+            },
+            {
+              "SHA": "1f3799b7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "def279a1",
+              "Subject": "Use go-containerregistry for image digest (#397)"
+            },
+            {
+              "SHA": "90bbf6f3",
+              "Subject": "Fix evict api usage for k8s < 1.22 (#396)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e374cf7e",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#292)"
+            },
+            {
+              "SHA": "d6a2ffa6",
+              "Subject": "Use go-containerregistry for image digest (#291)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.1",
+          "commits": [
+            {
+              "SHA": "d6df29d",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.1",
+          "commits": [
+            {
+              "SHA": "8e83f433",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "89675d58",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#253)"
+            },
+            {
+              "SHA": "e84285e2",
+              "Subject": "Add authSecret & configSecret (#249)"
+            },
+            {
+              "SHA": "a7064c4f",
+              "Subject": "Use go-containerregistry for image digest (#252)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1769f0ba",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#617)"
+            },
+            {
+              "SHA": "3bd63349",
+              "Subject": "Revert to k8s 1.25 client libraries"
+            },
+            {
+              "SHA": "42f3f740",
+              "Subject": "Use go-containerregistry for image digest (#616)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.1",
+          "commits": [
+            {
+              "SHA": "57e5c33a2",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "df3d1df1",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#272)"
+            },
+            {
+              "SHA": "bb0df62a",
+              "Subject": "Fix Monitoring Port Issue (#271)"
+            },
+            {
+              "SHA": "68ad2f54",
+              "Subject": "Fix Validator Issue (#270)"
+            },
+            {
+              "SHA": "350e74af",
+              "Subject": "Use go-containerregistry for image digest (#268)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "532ed03f",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#441)"
+            },
+            {
+              "SHA": "a231c6f2",
+              "Subject": "Update Redis Root UserName (#440)"
+            },
+            {
+              "SHA": "902f036b",
+              "Subject": "Use go-containerregistry for image digest (#439)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.1",
+          "commits": [
+            {
+              "SHA": "384700f",
+              "Subject": "Prepare for release v0.9.0-rc.1 (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "30f4ff3f",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#219)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5734ca5e",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "436f15a7",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#209)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "8254bf93",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "27c1daf5",
+              "Subject": "Proxysql UI server (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b9eabfda",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#42)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

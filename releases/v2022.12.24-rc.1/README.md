@@ -243,3 +243,11 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/webhook-server/releases/tag/v0.6.0-rc.1)
+
+- [b9eabfda](https://github.com/kubedb/webhook-server/commit/b9eabfda) Prepare for release v0.6.0-rc.1 (#42)
+
+
+

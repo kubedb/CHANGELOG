@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.24-rc.1",
-  "release_date": "2022-12-24T05:03:13.504806492Z",
+  "release_date": "2022-12-24T05:22:52.703639941Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
   "kubernetes_version": "1.18+",
@@ -482,6 +482,20 @@
             {
               "SHA": "27c1daf5",
               "Subject": "Proxysql UI server (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b9eabfda",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#42)"
             }
           ]
         }

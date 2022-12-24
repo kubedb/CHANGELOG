@@ -30,3 +30,11 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.14.0-rc.1)
+
+- [8e83f433](https://github.com/kubedb/pg-coordinator/commit/8e83f433) Prepare for release v0.14.0-rc.1 (#106)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.24-rc.1",
-  "release_date": "2022-12-24T06:02:23.468990157Z",
+  "release_date": "2022-12-24T06:25:58.851072899Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
   "kubernetes_version": "1.18+",
@@ -69,6 +69,44 @@
             {
               "SHA": "0c9d9a4",
               "Subject": "Prepare for release v0.6.0-rc.1 (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2022.12.24-rc.1",
+          "commits": [
+            {
+              "SHA": "45c86ab7",
+              "Subject": "Prepare for release v2022.12.24-rc.1 (#522)"
+            },
+            {
+              "SHA": "3eaa90bb",
+              "Subject": "Merge pull request #521 from kubedb/proxysql-monitoring"
+            },
+            {
+              "SHA": "abaf607c",
+              "Subject": "add proxysql monitoring doc"
+            },
+            {
+              "SHA": "0e27fe61",
+              "Subject": "Fix Doc Tree (#520)"
+            },
+            {
+              "SHA": "dcb388bf",
+              "Subject": "Update mongo doc upto release v2022.10.18 (#508)"
+            },
+            {
+              "SHA": "181b3170",
+              "Subject": "How to delete CRD objects after uninstall (#511)"
+            },
+            {
+              "SHA": "3079258a",
+              "Subject": "Add MongoDB Hidden-node; Restart & Reprovision opsRequests (#509)"
             }
           ]
         }

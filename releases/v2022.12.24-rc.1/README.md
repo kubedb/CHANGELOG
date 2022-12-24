@@ -36,6 +36,20 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2022.12.24-rc.1](https://github.com/kubedb/docs/releases/tag/v2022.12.24-rc.1)
+
+- [45c86ab7](https://github.com/kubedb/docs/commit/45c86ab7) Prepare for release v2022.12.24-rc.1 (#522)
+- [3eaa90bb](https://github.com/kubedb/docs/commit/3eaa90bb) Merge pull request #521 from kubedb/proxysql-monitoring
+- [abaf607c](https://github.com/kubedb/docs/commit/abaf607c) add proxysql monitoring doc
+- [0e27fe61](https://github.com/kubedb/docs/commit/0e27fe61) Fix Doc Tree (#520)
+- [dcb388bf](https://github.com/kubedb/docs/commit/dcb388bf) Update mongo doc upto release v2022.10.18 (#508)
+- [181b3170](https://github.com/kubedb/docs/commit/181b3170) How to delete CRD objects after uninstall (#511)
+- [3079258a](https://github.com/kubedb/docs/commit/3079258a) Add MongoDB Hidden-node; Restart & Reprovision opsRequests (#509)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.30.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.30.0-rc.1)

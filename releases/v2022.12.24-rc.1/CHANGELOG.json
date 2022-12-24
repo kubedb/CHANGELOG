@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.24-rc.1",
-  "release_date": "2022-12-24T04:32:24.734860622Z",
+  "release_date": "2022-12-24T04:51:05.169294162Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
   "kubernetes_version": "1.18+",
@@ -210,6 +210,40 @@
         {
           "tag": "v0.8.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "eab904d7",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#399)"
+            },
+            {
+              "SHA": "7258d256",
+              "Subject": "Use kmodules image library for parsing image (#398)"
+            },
+            {
+              "SHA": "b47b86e7",
+              "Subject": "Add adminUserName as CommonName for PgBouncer (#394)"
+            },
+            {
+              "SHA": "1f3799b7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "def279a1",
+              "Subject": "Use go-containerregistry for image digest (#397)"
+            },
+            {
+              "SHA": "90bbf6f3",
+              "Subject": "Fix evict api usage for k8s < 1.22 (#396)"
+            }
+          ]
         }
       ]
     },

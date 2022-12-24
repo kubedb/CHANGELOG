@@ -107,6 +107,19 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.17.0-rc.1](https://github.com/kubedb/ops-manager/releases/tag/v0.17.0-rc.1)
+
+- [eab904d7](https://github.com/kubedb/ops-manager/commit/eab904d7) Prepare for release v0.17.0-rc.1 (#399)
+- [7258d256](https://github.com/kubedb/ops-manager/commit/7258d256) Use kmodules image library for parsing image (#398)
+- [b47b86e7](https://github.com/kubedb/ops-manager/commit/b47b86e7) Add adminUserName as CommonName for PgBouncer (#394)
+- [1f3799b7](https://github.com/kubedb/ops-manager/commit/1f3799b7) Update deps
+- [def279a1](https://github.com/kubedb/ops-manager/commit/def279a1) Use go-containerregistry for image digest (#397)
+- [90bbf6f3](https://github.com/kubedb/ops-manager/commit/90bbf6f3) Fix evict api usage for k8s < 1.22 (#396)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.17.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.17.0-rc.1)

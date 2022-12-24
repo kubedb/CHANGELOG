@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.24-rc.1",
-  "release_date": "2022-12-24T03:26:40.398718293Z",
+  "release_date": "2022-12-24T03:27:12.433830545Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
   "kubernetes_version": "1.18+",
@@ -81,6 +81,24 @@
             {
               "SHA": "378ac91",
               "Subject": "Prepare for release v0.10.0-rc.1 (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b2fcc9fa",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#514)"
+            },
+            {
+              "SHA": "814b64b8",
+              "Subject": "Use go-containerregistry for image digest (#513)"
             }
           ]
         }

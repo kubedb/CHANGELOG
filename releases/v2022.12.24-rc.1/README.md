@@ -39,6 +39,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.23.0-rc.1)
+
+- [b2fcc9fa](https://github.com/kubedb/mysql/commit/b2fcc9fa) Prepare for release v0.23.0-rc.1 (#514)
+- [814b64b8](https://github.com/kubedb/mysql/commit/814b64b8) Use go-containerregistry for image digest (#513)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.0-rc.1)

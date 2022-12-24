@@ -12,6 +12,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.30.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.30.0-rc.1)
+
+- [f91038aa](https://github.com/kubedb/cli/commit/f91038aa) Prepare for release v0.30.0-rc.1 (#690)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.1.0-rc.1)

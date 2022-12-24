@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.24-rc.1",
-  "release_date": "2022-12-24T03:22:39.84727877Z",
+  "release_date": "2022-12-24T03:23:02.402430044Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
   "kubernetes_version": "1.18+",
@@ -27,6 +27,20 @@
             {
               "SHA": "125f3bb7",
               "Subject": "Add API for ProxySQL UI-Server (#1003)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f91038aa",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#690)"
             }
           ]
         }

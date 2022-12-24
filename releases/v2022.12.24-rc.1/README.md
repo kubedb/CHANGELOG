@@ -20,6 +20,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.30.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.30.0-rc.1)
+
+- [0812edfe](https://github.com/kubedb/elasticsearch/commit/0812edfee) Prepare for release v0.30.0-rc.1 (#619)
+- [2bd59db3](https://github.com/kubedb/elasticsearch/commit/2bd59db3b) Use go-containerregistry for image digest (#618)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.1.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.24-rc.1",
-  "release_date": "2022-12-24T03:48:41.62223408Z",
+  "release_date": "2022-12-24T03:48:52.351820141Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
   "kubernetes_version": "1.18+",
@@ -284,6 +284,32 @@
             {
               "SHA": "42f3f740",
               "Subject": "Use go-containerregistry for image digest (#616)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "df3d1df1",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#272)"
+            },
+            {
+              "SHA": "bb0df62a",
+              "Subject": "Fix Monitoring Port Issue (#271)"
+            },
+            {
+              "SHA": "68ad2f54",
+              "Subject": "Fix Validator Issue (#270)"
+            },
+            {
+              "SHA": "350e74af",
+              "Subject": "Use go-containerregistry for image digest (#268)"
             }
           ]
         }

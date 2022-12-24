@@ -144,6 +144,17 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.17.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.17.0-rc.1)
+
+- [df3d1df1](https://github.com/kubedb/proxysql/commit/df3d1df1) Prepare for release v0.17.0-rc.1 (#272)
+- [bb0df62a](https://github.com/kubedb/proxysql/commit/bb0df62a) Fix Monitoring Port Issue (#271)
+- [68ad2f54](https://github.com/kubedb/proxysql/commit/68ad2f54) Fix Validator Issue (#270)
+- [350e74af](https://github.com/kubedb/proxysql/commit/350e74af) Use go-containerregistry for image digest (#268)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.23.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.23.0-rc.1)

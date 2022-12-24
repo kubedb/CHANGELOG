@@ -125,6 +125,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.23.0-rc.1)
+
+- [532ed03f](https://github.com/kubedb/redis/commit/532ed03f) Prepare for release v0.23.0-rc.1 (#441)
+- [a231c6f2](https://github.com/kubedb/redis/commit/a231c6f2) Update Redis Root UserName (#440)
+- [902f036b](https://github.com/kubedb/redis/commit/902f036b) Use go-containerregistry for image digest (#439)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.0-rc.1)

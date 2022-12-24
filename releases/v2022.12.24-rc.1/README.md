@@ -213,3 +213,12 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/ui-server/releases/tag/v0.6.0-rc.1)
+
+- [8254bf93](https://github.com/kubedb/ui-server/commit/8254bf93) Update deps
+- [27c1daf5](https://github.com/kubedb/ui-server/commit/27c1daf5) Proxysql UI server (#57)
+
+
+

@@ -1,0 +1,36 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2022.12.24-rc.1",
+  "release_date": "2022-12-24T03:10:57.862834965Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7f6ffca9",
+              "Subject": "Revise PgBouncer api (#1002)"
+            },
+            {
+              "SHA": "e539a58e",
+              "Subject": "Update Redis Root Username (#1010)"
+            },
+            {
+              "SHA": "12cda1e0",
+              "Subject": "Remove docker utils (#1008)"
+            },
+            {
+              "SHA": "125f3bb7",
+              "Subject": "Add API for ProxySQL UI-Server (#1003)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

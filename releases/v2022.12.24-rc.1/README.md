@@ -80,6 +80,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.30.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.30.0-rc.1)
+
+- [1769f0ba](https://github.com/kubedb/postgres/commit/1769f0ba) Prepare for release v0.30.0-rc.1 (#617)
+- [3bd63349](https://github.com/kubedb/postgres/commit/3bd63349) Revert to k8s 1.25 client libraries
+- [42f3f740](https://github.com/kubedb/postgres/commit/42f3f740) Use go-containerregistry for image digest (#616)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.0-rc.1)

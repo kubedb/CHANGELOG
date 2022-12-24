@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.24-rc.1",
-  "release_date": "2022-12-24T03:25:31.79168542Z",
+  "release_date": "2022-12-24T03:26:40.398718293Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
   "kubernetes_version": "1.18+",
@@ -154,6 +154,28 @@
             {
               "SHA": "8e83f433",
               "Subject": "Prepare for release v0.14.0-rc.1 (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1769f0ba",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#617)"
+            },
+            {
+              "SHA": "3bd63349",
+              "Subject": "Revert to k8s 1.25 client libraries"
+            },
+            {
+              "SHA": "42f3f740",
+              "Subject": "Use go-containerregistry for image digest (#616)"
             }
           ]
         }

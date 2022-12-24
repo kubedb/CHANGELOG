@@ -31,6 +31,14 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.10.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.10.0-rc.1)
+
+- [378ac91](https://github.com/kubedb/mariadb-coordinator/commit/378ac91) Prepare for release v0.10.0-rc.1 (#67)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.0-rc.1)

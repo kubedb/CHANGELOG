@@ -23,6 +23,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.0-rc.1)
+
+- [24c35fc](https://github.com/kubedb/mysql-coordinator/commit/24c35fc) Prepare for release v0.8.0-rc.1 (#65)
+- [e0bebc6](https://github.com/kubedb/mysql-coordinator/commit/e0bebc6) remove appeding singnal cluster_status_ok (#64)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.8.0-rc.1)

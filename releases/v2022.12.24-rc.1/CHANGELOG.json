@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.24-rc.1",
-  "release_date": "2022-12-24T03:21:00.119918867Z",
+  "release_date": "2022-12-24T03:22:16.791844242Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
   "kubernetes_version": "1.18+",
@@ -53,6 +53,24 @@
             {
               "SHA": "16ee315",
               "Subject": "Fix Image digest detection (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "24c35fc",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#65)"
+            },
+            {
+              "SHA": "e0bebc6",
+              "Subject": "remove appeding singnal cluster_status_ok (#64)"
             }
           ]
         }

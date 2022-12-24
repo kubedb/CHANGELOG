@@ -55,6 +55,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.17.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.17.0-rc.1)
+
+- [e374cf7e](https://github.com/kubedb/percona-xtradb/commit/e374cf7e) Prepare for release v0.17.0-rc.1 (#292)
+- [d6a2ffa6](https://github.com/kubedb/percona-xtradb/commit/d6a2ffa6) Use go-containerregistry for image digest (#291)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.3.0-rc.1](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.3.0-rc.1)

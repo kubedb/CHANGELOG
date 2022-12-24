@@ -124,6 +124,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.17.0-rc.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.17.0-rc.1)
+
+- [89675d58](https://github.com/kubedb/pgbouncer/commit/89675d58) Prepare for release v0.17.0-rc.1 (#253)
+- [e84285e2](https://github.com/kubedb/pgbouncer/commit/e84285e2) Add authSecret & configSecret (#249)
+- [a7064c4f](https://github.com/kubedb/pgbouncer/commit/a7064c4f) Use go-containerregistry for image digest (#252)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.30.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.30.0-rc.1)

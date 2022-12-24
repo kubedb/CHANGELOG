@@ -12,3 +12,14 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.1.0-rc.1)
+
+- [649dbf5](https://github.com/kubedb/kafka/commit/649dbf5) Prepare for release v0.1.0-rc.1 (#8)
+- [ac4dc3d](https://github.com/kubedb/kafka/commit/ac4dc3d) Use go-containerregistry for image digest (#7)
+- [8d8b5bc](https://github.com/kubedb/kafka/commit/8d8b5bc) Use kauth.NoServiceAccount when no sa is specified
+- [16ee315](https://github.com/kubedb/kafka/commit/16ee315) Fix Image digest detection (#6)
+
+
+

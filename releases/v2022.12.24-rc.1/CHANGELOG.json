@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.24-rc.1",
-  "release_date": "2022-12-24T03:10:57.862834965Z",
+  "release_date": "2022-12-24T03:18:05.216008469Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.24-rc.1",
   "kubernetes_version": "1.18+",
@@ -27,6 +27,32 @@
             {
               "SHA": "125f3bb7",
               "Subject": "Add API for ProxySQL UI-Server (#1003)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "649dbf5",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#8)"
+            },
+            {
+              "SHA": "ac4dc3d",
+              "Subject": "Use go-containerregistry for image digest (#7)"
+            },
+            {
+              "SHA": "8d8b5bc",
+              "Subject": "Use kauth.NoServiceAccount when no sa is specified"
+            },
+            {
+              "SHA": "16ee315",
+              "Subject": "Fix Image digest detection (#6)"
             }
           ]
         }

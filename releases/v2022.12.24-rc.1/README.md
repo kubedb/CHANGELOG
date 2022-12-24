@@ -45,6 +45,18 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2022.12.24-rc.1](https://github.com/kubedb/installer/releases/tag/v2022.12.24-rc.1)
+
+- [d80dae40](https://github.com/kubedb/installer/commit/d80dae40) Prepare for release v2022.12.24-rc.1 (#580)
+- [c6588fe5](https://github.com/kubedb/installer/commit/c6588fe5) Add MariaDB Version 10.10.2 (#579)
+- [3045cc42](https://github.com/kubedb/installer/commit/3045cc42) Update crds for kubedb/apimachinery@7f6ffca9 (#578)
+- [950b0ae5](https://github.com/kubedb/installer/commit/950b0ae5) Add support for PgBouncer 1.18.0 (#577)
+- [401de79f](https://github.com/kubedb/installer/commit/401de79f) Add Redis Version 6.2.8 and 7.0.6 (#576)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.1.0-rc.1)

@@ -40,6 +40,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.14.0-rc.1)
+
+- [50d9424e](https://github.com/kubedb/mariadb/commit/50d9424e) Prepare for release v0.14.0-rc.1 (#190)
+- [ca141bfa](https://github.com/kubedb/mariadb/commit/ca141bfa) Use go-containerregistry for image digest (#189)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.10.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.10.0-rc.1)

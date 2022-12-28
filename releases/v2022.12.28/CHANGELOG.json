@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T10:58:47.834737178Z",
+  "release_date": "2022-12-28T11:07:26.996353301Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -717,6 +717,60 @@
             {
               "SHA": "60dba4ae",
               "Subject": "Use constants from apimachinery (#608)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "56a8dd1f3",
+              "Subject": "Prepare for release v0.30.0 (#33)"
+            },
+            {
+              "SHA": "09feede38",
+              "Subject": "Update dependencies (#31)"
+            },
+            {
+              "SHA": "61101ab23",
+              "Subject": "Fix NPE using license-proxyserver (#32)"
+            },
+            {
+              "SHA": "9bd614ae4",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "57e5c33a2",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#30)"
+            },
+            {
+              "SHA": "bacaba2dc",
+              "Subject": "Detect image digest correctly for kafka (#29)"
+            },
+            {
+              "SHA": "1104e9f68",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#28)"
+            },
+            {
+              "SHA": "f37503dbb",
+              "Subject": "Add kafka controller (#27)"
+            },
+            {
+              "SHA": "c8618da0b",
+              "Subject": "Update deps (#26)"
+            },
+            {
+              "SHA": "2db07a7dc",
+              "Subject": "Run GH actions on ubuntu-20.04 (#25)"
+            },
+            {
+              "SHA": "9949d5692",
+              "Subject": "Acquire license from proxyserver (#24)"
             }
           ]
         }

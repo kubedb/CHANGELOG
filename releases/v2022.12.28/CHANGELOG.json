@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:20:43.111684875Z",
+  "release_date": "2022-12-28T09:20:49.004735472Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -159,6 +159,44 @@
             {
               "SHA": "11f6df2",
               "Subject": "Add Operator for Kafka (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "7a24704",
+              "Subject": "Prepare for release v0.8.0 (#67)"
+            },
+            {
+              "SHA": "c4411ec",
+              "Subject": "Update dependencies (#66)"
+            },
+            {
+              "SHA": "24c35fc",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#65)"
+            },
+            {
+              "SHA": "e0bebc6",
+              "Subject": "remove appeding singnal cluster_status_ok (#64)"
+            },
+            {
+              "SHA": "cc3258d",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#63)"
+            },
+            {
+              "SHA": "25da659",
+              "Subject": "Update deps (#62)"
+            },
+            {
+              "SHA": "c2cd415",
+              "Subject": "Run GH actions on ubuntu-20.04 (#61)"
             }
           ]
         }

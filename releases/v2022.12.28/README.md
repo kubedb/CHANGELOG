@@ -99,3 +99,16 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.9.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.0)
+
+- [ae53e1d](https://github.com/kubedb/redis-coordinator/commit/ae53e1d) Prepare for release v0.9.0 (#59)
+- [f56d2c0](https://github.com/kubedb/redis-coordinator/commit/f56d2c0) Update dependencies (#58)
+- [384700f](https://github.com/kubedb/redis-coordinator/commit/384700f) Prepare for release v0.9.0-rc.1 (#57)
+- [61aefbb](https://github.com/kubedb/redis-coordinator/commit/61aefbb) Prepare for release v0.9.0-rc.0 (#56)
+- [94a6eea](https://github.com/kubedb/redis-coordinator/commit/94a6eea) Update deps (#55)
+- [4454cf1](https://github.com/kubedb/redis-coordinator/commit/4454cf1) Run GH actions on ubuntu-20.04 (#54)
+
+
+

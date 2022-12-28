@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:25:37.899515126Z",
+  "release_date": "2022-12-28T09:26:17.062098159Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -109,6 +109,48 @@
             {
               "SHA": "2f35bac1",
               "Subject": "Run GH actions on ubuntu-20.04 (#687)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "1fa2c90fe",
+              "Subject": "Prepare for release v0.30.0 (#621)"
+            },
+            {
+              "SHA": "f6a947d99",
+              "Subject": "Update dependencies (#620)"
+            },
+            {
+              "SHA": "0812edfee",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#619)"
+            },
+            {
+              "SHA": "2bd59db3b",
+              "Subject": "Use go-containerregistry for image digest (#618)"
+            },
+            {
+              "SHA": "6b883d16e",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#617)"
+            },
+            {
+              "SHA": "40ab6ecf5",
+              "Subject": "Update deps (#616)"
+            },
+            {
+              "SHA": "732ba4c2f",
+              "Subject": "Run GH actions on ubuntu-20.04 (#615)"
+            },
+            {
+              "SHA": "ba0322041",
+              "Subject": "Fix PDB deletion issue (#614)"
             }
           ]
         }

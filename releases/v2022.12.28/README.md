@@ -83,6 +83,33 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2022.12.28](https://github.com/kubedb/installer/releases/tag/v2022.12.28)
+
+- [2f670a2d](https://github.com/kubedb/installer/commit/2f670a2d) Prepare for release v2022.12.28 (#581)
+- [d80dae40](https://github.com/kubedb/installer/commit/d80dae40) Prepare for release v2022.12.24-rc.1 (#580)
+- [c6588fe5](https://github.com/kubedb/installer/commit/c6588fe5) Add MariaDB Version 10.10.2 (#579)
+- [3045cc42](https://github.com/kubedb/installer/commit/3045cc42) Update crds for kubedb/apimachinery@7f6ffca9 (#578)
+- [950b0ae5](https://github.com/kubedb/installer/commit/950b0ae5) Add support for PgBouncer 1.18.0 (#577)
+- [401de79f](https://github.com/kubedb/installer/commit/401de79f) Add Redis Version 6.2.8 and 7.0.6 (#576)
+- [9fca52a4](https://github.com/kubedb/installer/commit/9fca52a4) Prepare for release v2022.12.13-rc.0 (#574)
+- [a1811331](https://github.com/kubedb/installer/commit/a1811331) Add support for elasticsearch 8.5.2 (#566)
+- [7288df17](https://github.com/kubedb/installer/commit/7288df17) Update redis-init image (#573)
+- [a9e2070d](https://github.com/kubedb/installer/commit/a9e2070d) Add kafka versions (#571)
+- [9d3c3255](https://github.com/kubedb/installer/commit/9d3c3255) Update crds for kubedb/apimachinery@2a1d4b0b (#572)
+- [0c3cfd8b](https://github.com/kubedb/installer/commit/0c3cfd8b) Update crds for kubedb/apimachinery@69bc9dec (#570)
+- [d8cf2cfd](https://github.com/kubedb/installer/commit/d8cf2cfd) Update crds for kubedb/apimachinery@b9528283 (#569)
+- [15601eeb](https://github.com/kubedb/installer/commit/15601eeb) Run GH actions on ubuntu-20.04 (#568)
+- [833df418](https://github.com/kubedb/installer/commit/833df418) Add proxysql to kubedb grafana dashboard values and resources (#567)
+- [bb368507](https://github.com/kubedb/installer/commit/bb368507) Add support for Postgres 15.1 12.13 13.9 14.6 (#563)
+- [5c43e598](https://github.com/kubedb/installer/commit/5c43e598) Update Grafana dashboards (#564)
+- [641023f5](https://github.com/kubedb/installer/commit/641023f5) Update crds for kubedb/apimachinery@89a71807 (#561)
+- [be777e86](https://github.com/kubedb/installer/commit/be777e86) Update crds for kubedb/apimachinery@f570aabe (#560)
+- [c0473ea7](https://github.com/kubedb/installer/commit/c0473ea7) Update crds for kubedb/apimachinery@01c07593 (#559)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.1.0](https://github.com/kubedb/kafka/releases/tag/v0.1.0)

@@ -69,6 +69,22 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.14.0](https://github.com/kubedb/mariadb/releases/tag/v0.14.0)
+
+- [01de8eb5](https://github.com/kubedb/mariadb/commit/01de8eb5) Prepare for release v0.14.0 (#192)
+- [dc5d9d9e](https://github.com/kubedb/mariadb/commit/dc5d9d9e) Update dependencies (#191)
+- [50d9424e](https://github.com/kubedb/mariadb/commit/50d9424e) Prepare for release v0.14.0-rc.1 (#190)
+- [ca141bfa](https://github.com/kubedb/mariadb/commit/ca141bfa) Use go-containerregistry for image digest (#189)
+- [fbc128ad](https://github.com/kubedb/mariadb/commit/fbc128ad) Prepare for release v0.14.0-rc.0 (#188)
+- [6048437a](https://github.com/kubedb/mariadb/commit/6048437a) Update deps (#187)
+- [649bb98e](https://github.com/kubedb/mariadb/commit/649bb98e) Run GH actions on ubuntu-20.04 (#186)
+- [b14ab86f](https://github.com/kubedb/mariadb/commit/b14ab86f) Update PDB Deletion (#185)
+- [897068c5](https://github.com/kubedb/mariadb/commit/897068c5) Use constants from apimachinery (#184)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.10.0)

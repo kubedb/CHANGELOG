@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:26:17.062098159Z",
+  "release_date": "2022-12-28T10:32:50.030252892Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -201,6 +201,52 @@
             {
               "SHA": "11f6df2",
               "Subject": "Add Operator for Kafka (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "01de8eb5",
+              "Subject": "Prepare for release v0.14.0 (#192)"
+            },
+            {
+              "SHA": "dc5d9d9e",
+              "Subject": "Update dependencies (#191)"
+            },
+            {
+              "SHA": "50d9424e",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#190)"
+            },
+            {
+              "SHA": "ca141bfa",
+              "Subject": "Use go-containerregistry for image digest (#189)"
+            },
+            {
+              "SHA": "fbc128ad",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#188)"
+            },
+            {
+              "SHA": "6048437a",
+              "Subject": "Update deps (#187)"
+            },
+            {
+              "SHA": "649bb98e",
+              "Subject": "Run GH actions on ubuntu-20.04 (#186)"
+            },
+            {
+              "SHA": "b14ab86f",
+              "Subject": "Update PDB Deletion (#185)"
+            },
+            {
+              "SHA": "897068c5",
+              "Subject": "Use constants from apimachinery (#184)"
             }
           ]
         }

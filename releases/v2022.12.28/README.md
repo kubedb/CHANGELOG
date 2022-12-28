@@ -235,6 +235,19 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.17.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.17.0)
+
+- [74aff1fa](https://github.com/kubedb/replication-mode-detector/commit/74aff1fa) Prepare for release v0.17.0 (#221)
+- [fce0441e](https://github.com/kubedb/replication-mode-detector/commit/fce0441e) Update dependencies (#220)
+- [30f4ff3f](https://github.com/kubedb/replication-mode-detector/commit/30f4ff3f) Prepare for release v0.17.0-rc.1 (#219)
+- [865f05e0](https://github.com/kubedb/replication-mode-detector/commit/865f05e0) Prepare for release v0.17.0-rc.0 (#218)
+- [8d0fa119](https://github.com/kubedb/replication-mode-detector/commit/8d0fa119) Update deps (#217)
+- [e6a86096](https://github.com/kubedb/replication-mode-detector/commit/e6a86096) Run GH actions on ubuntu-20.04 (#216)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.15.0](https://github.com/kubedb/tests/releases/tag/v0.15.0)

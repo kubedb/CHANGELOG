@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:24:45.139792514Z",
+  "release_date": "2022-12-28T09:25:20.006067702Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -525,6 +525,68 @@
             {
               "SHA": "a951c00e",
               "Subject": "Run GH actions on ubuntu-20.04 (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "99cfddaa",
+              "Subject": "Prepare for release v0.30.0 (#619)"
+            },
+            {
+              "SHA": "1b577c2d",
+              "Subject": "Update dependencies (#618)"
+            },
+            {
+              "SHA": "1769f0ba",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#617)"
+            },
+            {
+              "SHA": "3bd63349",
+              "Subject": "Revert to k8s 1.25 client libraries"
+            },
+            {
+              "SHA": "42f3f740",
+              "Subject": "Use go-containerregistry for image digest (#616)"
+            },
+            {
+              "SHA": "da9e88bb",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#615)"
+            },
+            {
+              "SHA": "f2e2da36",
+              "Subject": "Update deps (#614)"
+            },
+            {
+              "SHA": "296bb241",
+              "Subject": "Run GH actions on ubuntu-20.04 (#613)"
+            },
+            {
+              "SHA": "d67b529a",
+              "Subject": "Add tranferLeadership env for co-ordinator (#612)"
+            },
+            {
+              "SHA": "fab00b44",
+              "Subject": "Update PDB Deletion (#611)"
+            },
+            {
+              "SHA": "c104c2b2",
+              "Subject": "Check for old auth secret label (#610)"
+            },
+            {
+              "SHA": "932d6851",
+              "Subject": "Fix shared buffer for version 10 (#609)"
+            },
+            {
+              "SHA": "60dba4ae",
+              "Subject": "Use constants from apimachinery (#608)"
             }
           ]
         }

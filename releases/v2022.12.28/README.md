@@ -23,6 +23,23 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.1.0](https://github.com/kubedb/kafka/releases/tag/v0.1.0)
+
+- [2f65320](https://github.com/kubedb/kafka/commit/2f65320) Prepare for release v0.1.0 (#9)
+- [649dbf5](https://github.com/kubedb/kafka/commit/649dbf5) Prepare for release v0.1.0-rc.1 (#8)
+- [ac4dc3d](https://github.com/kubedb/kafka/commit/ac4dc3d) Use go-containerregistry for image digest (#7)
+- [8d8b5bc](https://github.com/kubedb/kafka/commit/8d8b5bc) Use kauth.NoServiceAccount when no sa is specified
+- [16ee315](https://github.com/kubedb/kafka/commit/16ee315) Fix Image digest detection (#6)
+- [41f3a22](https://github.com/kubedb/kafka/commit/41f3a22) Prepare for release v0.1.0-rc.0 (#4)
+- [6cb7882](https://github.com/kubedb/kafka/commit/6cb7882) Refactor SetupControllers
+- [f4c8eb1](https://github.com/kubedb/kafka/commit/f4c8eb1) Update deps (#3)
+- [61ab7f6](https://github.com/kubedb/kafka/commit/61ab7f6) Acquire license from proxyserver (#2)
+- [11f6df2](https://github.com/kubedb/kafka/commit/11f6df2) Add Operator for Kafka (#1)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.8.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.8.0)

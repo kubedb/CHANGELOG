@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:24:33.550074537Z",
+  "release_date": "2022-12-28T09:24:45.139792514Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -273,6 +273,52 @@
             {
               "SHA": "6f9b3325",
               "Subject": "Copy missing fields from podTemplate & serviceTemplate (#520)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "3469cc59",
+              "Subject": "Prepare for release v0.23.0 (#516)"
+            },
+            {
+              "SHA": "f4b205a6",
+              "Subject": "Update dependencies (#515)"
+            },
+            {
+              "SHA": "b2fcc9fa",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#514)"
+            },
+            {
+              "SHA": "814b64b8",
+              "Subject": "Use go-containerregistry for image digest (#513)"
+            },
+            {
+              "SHA": "22382a39",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#512)"
+            },
+            {
+              "SHA": "8e7fb1a7",
+              "Subject": "Update deps (#511)"
+            },
+            {
+              "SHA": "15f8ba0b",
+              "Subject": "Run GH actions on ubuntu-20.04 (#510)"
+            },
+            {
+              "SHA": "83335edb",
+              "Subject": "Update PDB Deletion (#509)"
+            },
+            {
+              "SHA": "b5b8cadd",
+              "Subject": "Use constants from apimachinery (#508)"
             }
           ]
         }

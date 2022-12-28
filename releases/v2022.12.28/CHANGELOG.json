@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:19:49.411594121Z",
+  "release_date": "2022-12-28T09:20:43.111684875Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -181,6 +181,72 @@
             {
               "SHA": "e11c7ff",
               "Subject": "Run GH actions on ubuntu-20.04 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "6c0945d4",
+              "Subject": "Prepare for release v0.14.0 (#108)"
+            },
+            {
+              "SHA": "7413dd09",
+              "Subject": "Update dependencies (#107)"
+            },
+            {
+              "SHA": "8e83f433",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#106)"
+            },
+            {
+              "SHA": "34cb5a6c",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#105)"
+            },
+            {
+              "SHA": "7394e6b7",
+              "Subject": "Update deps (#104)"
+            },
+            {
+              "SHA": "228b1ae2",
+              "Subject": "Merge pull request #102 from kubedb/leader-switch"
+            },
+            {
+              "SHA": "11a3c127",
+              "Subject": "Merge branch 'master' into leader-switch"
+            },
+            {
+              "SHA": "f8d04c52",
+              "Subject": "Add PG Reset Wal for Single user mode failed #101"
+            },
+            {
+              "SHA": "8eaa5f11",
+              "Subject": "retry eviction of pod and delete pod if fails"
+            },
+            {
+              "SHA": "d2a23fa9",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "febd8aab",
+              "Subject": "Refined"
+            },
+            {
+              "SHA": "5a2005cf",
+              "Subject": "Fix: Transfer Leadership issue fix with pod delete"
+            },
+            {
+              "SHA": "7631cb84",
+              "Subject": "Add PG Reset Wal for Single user mode failed"
+            },
+            {
+              "SHA": "a951c00e",
+              "Subject": "Run GH actions on ubuntu-20.04 (#103)"
             }
           ]
         }

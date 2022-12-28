@@ -433,3 +433,17 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.6.0](https://github.com/kubedb/webhook-server/releases/tag/v0.6.0)
+
+- [b99dfb10](https://github.com/kubedb/webhook-server/commit/b99dfb10) Prepare for release v0.6.0 (#44)
+- [cea5b91c](https://github.com/kubedb/webhook-server/commit/cea5b91c) Update dependencies (#43)
+- [b9eabfda](https://github.com/kubedb/webhook-server/commit/b9eabfda) Prepare for release v0.6.0-rc.1 (#42)
+- [2df0f44e](https://github.com/kubedb/webhook-server/commit/2df0f44e) Prepare for release v0.6.0-rc.0 (#41)
+- [f1ea74a2](https://github.com/kubedb/webhook-server/commit/f1ea74a2) Add kafka webhooks (#39)
+- [b15ff051](https://github.com/kubedb/webhook-server/commit/b15ff051) Update deps (#40)
+- [6246a9cf](https://github.com/kubedb/webhook-server/commit/6246a9cf) Run GH actions on ubuntu-20.04 (#38)
+
+
+

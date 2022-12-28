@@ -331,6 +331,20 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.6.0](https://github.com/kubedb/schema-manager/releases/tag/v0.6.0)
+
+- [05cd8b1d](https://github.com/kubedb/schema-manager/commit/05cd8b1d) Prepare for release v0.6.0 (#59)
+- [6c8edada](https://github.com/kubedb/schema-manager/commit/6c8edada) Update dependencies (#58)
+- [5734ca5e](https://github.com/kubedb/schema-manager/commit/5734ca5e) Prepare for release v0.6.0-rc.1 (#57)
+- [64bf4d7a](https://github.com/kubedb/schema-manager/commit/64bf4d7a) Prepare for release v0.6.0-rc.0 (#56)
+- [c0bd9699](https://github.com/kubedb/schema-manager/commit/c0bd9699) Update deps (#55)
+- [ab5098c9](https://github.com/kubedb/schema-manager/commit/ab5098c9) Run GH actions on ubuntu-20.04 (#54)
+- [3a7c5fb9](https://github.com/kubedb/schema-manager/commit/3a7c5fb9) Acquire license from proxyserver (#53)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.15.0](https://github.com/kubedb/tests/releases/tag/v0.15.0)

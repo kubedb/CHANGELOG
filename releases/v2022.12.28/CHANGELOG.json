@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:23:35.218435474Z",
+  "release_date": "2022-12-28T09:24:08.680154899Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -159,6 +159,40 @@
             {
               "SHA": "11f6df2",
               "Subject": "Add Operator for Kafka (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "9be8c90",
+              "Subject": "Prepare for release v0.10.0 (#69)"
+            },
+            {
+              "SHA": "225e2bd",
+              "Subject": "Update dependencies (#68)"
+            },
+            {
+              "SHA": "378ac91",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#67)"
+            },
+            {
+              "SHA": "02c4399",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#66)"
+            },
+            {
+              "SHA": "bf28b66",
+              "Subject": "Update deps (#65)"
+            },
+            {
+              "SHA": "a00947d",
+              "Subject": "Run GH actions on ubuntu-20.04 (#64)"
             }
           ]
         }

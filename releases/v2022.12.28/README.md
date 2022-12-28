@@ -54,6 +54,19 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.10.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.10.0)
+
+- [9be8c90](https://github.com/kubedb/mariadb-coordinator/commit/9be8c90) Prepare for release v0.10.0 (#69)
+- [225e2bd](https://github.com/kubedb/mariadb-coordinator/commit/225e2bd) Update dependencies (#68)
+- [378ac91](https://github.com/kubedb/mariadb-coordinator/commit/378ac91) Prepare for release v0.10.0-rc.1 (#67)
+- [02c4399](https://github.com/kubedb/mariadb-coordinator/commit/02c4399) Prepare for release v0.10.0-rc.0 (#66)
+- [bf28b66](https://github.com/kubedb/mariadb-coordinator/commit/bf28b66) Update deps (#65)
+- [a00947d](https://github.com/kubedb/mariadb-coordinator/commit/a00947d) Run GH actions on ubuntu-20.04 (#64)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.23.0](https://github.com/kubedb/memcached/releases/tag/v0.23.0)

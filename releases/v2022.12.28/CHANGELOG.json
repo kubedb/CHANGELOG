@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T10:32:50.030252892Z",
+  "release_date": "2022-12-28T10:38:19.946904216Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -675,6 +675,64 @@
             {
               "SHA": "60dba4ae",
               "Subject": "Use constants from apimachinery (#608)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "362c4dde",
+              "Subject": "Prepare for release v0.17.0 (#274)"
+            },
+            {
+              "SHA": "5d8270e3",
+              "Subject": "Update dependencies (#273)"
+            },
+            {
+              "SHA": "df3d1df1",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#272)"
+            },
+            {
+              "SHA": "bb0df62a",
+              "Subject": "Fix Monitoring Port Issue (#271)"
+            },
+            {
+              "SHA": "68ad2f54",
+              "Subject": "Fix Validator Issue (#270)"
+            },
+            {
+              "SHA": "350e74af",
+              "Subject": "Use go-containerregistry for image digest (#268)"
+            },
+            {
+              "SHA": "587d8b97",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#267)"
+            },
+            {
+              "SHA": "32b9cc71",
+              "Subject": "Update deps (#266)"
+            },
+            {
+              "SHA": "05e7a3a4",
+              "Subject": "Add MariaDB and Percona-XtraDB Backend (#264)"
+            },
+            {
+              "SHA": "a1e7c91d",
+              "Subject": "Fix CI workflow for private deps"
+            },
+            {
+              "SHA": "effb7617",
+              "Subject": "Run GH actions on ubuntu-20.04 (#265)"
+            },
+            {
+              "SHA": "38391814",
+              "Subject": "Use constants from apimachinery (#263)"
             }
           ]
         }

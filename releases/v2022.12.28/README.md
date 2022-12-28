@@ -237,6 +237,25 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.17.0](https://github.com/kubedb/proxysql/releases/tag/v0.17.0)
+
+- [362c4dde](https://github.com/kubedb/proxysql/commit/362c4dde) Prepare for release v0.17.0 (#274)
+- [5d8270e3](https://github.com/kubedb/proxysql/commit/5d8270e3) Update dependencies (#273)
+- [df3d1df1](https://github.com/kubedb/proxysql/commit/df3d1df1) Prepare for release v0.17.0-rc.1 (#272)
+- [bb0df62a](https://github.com/kubedb/proxysql/commit/bb0df62a) Fix Monitoring Port Issue (#271)
+- [68ad2f54](https://github.com/kubedb/proxysql/commit/68ad2f54) Fix Validator Issue (#270)
+- [350e74af](https://github.com/kubedb/proxysql/commit/350e74af) Use go-containerregistry for image digest (#268)
+- [587d8b97](https://github.com/kubedb/proxysql/commit/587d8b97) Prepare for release v0.17.0-rc.0 (#267)
+- [32b9cc71](https://github.com/kubedb/proxysql/commit/32b9cc71) Update deps (#266)
+- [05e7a3a4](https://github.com/kubedb/proxysql/commit/05e7a3a4) Add MariaDB and Percona-XtraDB Backend (#264)
+- [a1e7c91d](https://github.com/kubedb/proxysql/commit/a1e7c91d) Fix CI workflow for private deps
+- [effb7617](https://github.com/kubedb/proxysql/commit/effb7617) Run GH actions on ubuntu-20.04 (#265)
+- [38391814](https://github.com/kubedb/proxysql/commit/38391814) Use constants from apimachinery (#263)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.23.0](https://github.com/kubedb/redis/releases/tag/v0.23.0)

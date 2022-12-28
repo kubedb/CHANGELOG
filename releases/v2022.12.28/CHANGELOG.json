@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T11:31:04.402028539Z",
+  "release_date": "2022-12-28T11:35:14.026790978Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -71,6 +71,56 @@
             {
               "SHA": "01c07593",
               "Subject": "Add ProxySQL Vertical-Scaling spec (#995)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "7d47cbb0",
+              "Subject": "Prepare for release v0.15.0 (#129)"
+            },
+            {
+              "SHA": "36fccc81",
+              "Subject": "Update dependencies (#128)"
+            },
+            {
+              "SHA": "c941fab2",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#127)"
+            },
+            {
+              "SHA": "2e6d15fd",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#126)"
+            },
+            {
+              "SHA": "a5bc7afd",
+              "Subject": "Update deps (#125)"
+            },
+            {
+              "SHA": "56ebf3fd",
+              "Subject": "Run GH actions on ubuntu-20.04 (#124)"
+            },
+            {
+              "SHA": "ef402f45",
+              "Subject": "Add ProxySQL autoscaler support (#121)"
+            },
+            {
+              "SHA": "36165599",
+              "Subject": "Acquire license from proxyserver (#123)"
+            },
+            {
+              "SHA": "f727dc6e",
+              "Subject": "Reduce logs; Fix RecommendationProvider's parameters for sharded mongo (#122)"
+            },
+            {
+              "SHA": "835632d9",
+              "Subject": "Clean up go.mod"
             }
           ]
         }

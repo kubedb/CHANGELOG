@@ -23,6 +23,23 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.15.0](https://github.com/kubedb/autoscaler/releases/tag/v0.15.0)
+
+- [7d47cbb0](https://github.com/kubedb/autoscaler/commit/7d47cbb0) Prepare for release v0.15.0 (#129)
+- [36fccc81](https://github.com/kubedb/autoscaler/commit/36fccc81) Update dependencies (#128)
+- [c941fab2](https://github.com/kubedb/autoscaler/commit/c941fab2) Prepare for release v0.15.0-rc.1 (#127)
+- [2e6d15fd](https://github.com/kubedb/autoscaler/commit/2e6d15fd) Prepare for release v0.15.0-rc.0 (#126)
+- [a5bc7afd](https://github.com/kubedb/autoscaler/commit/a5bc7afd) Update deps (#125)
+- [56ebf3fd](https://github.com/kubedb/autoscaler/commit/56ebf3fd) Run GH actions on ubuntu-20.04 (#124)
+- [ef402f45](https://github.com/kubedb/autoscaler/commit/ef402f45) Add ProxySQL autoscaler support (#121)
+- [36165599](https://github.com/kubedb/autoscaler/commit/36165599) Acquire license from proxyserver (#123)
+- [f727dc6e](https://github.com/kubedb/autoscaler/commit/f727dc6e) Reduce logs; Fix RecommendationProvider's parameters for sharded mongo (#122)
+- [835632d9](https://github.com/kubedb/autoscaler/commit/835632d9) Clean up go.mod
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.30.0](https://github.com/kubedb/cli/releases/tag/v0.30.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:24:08.680154899Z",
+  "release_date": "2022-12-28T09:24:33.550074537Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -333,6 +333,52 @@
             {
               "SHA": "e11c7ff",
               "Subject": "Run GH actions on ubuntu-20.04 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "bfca3ca2",
+              "Subject": "Prepare for release v0.17.0 (#294)"
+            },
+            {
+              "SHA": "d2303e54",
+              "Subject": "Update dependencies (#293)"
+            },
+            {
+              "SHA": "e374cf7e",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#292)"
+            },
+            {
+              "SHA": "d6a2ffa6",
+              "Subject": "Use go-containerregistry for image digest (#291)"
+            },
+            {
+              "SHA": "f7ba9bfc",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#290)"
+            },
+            {
+              "SHA": "806df3d2",
+              "Subject": "Update deps (#289)"
+            },
+            {
+              "SHA": "a55bb0f2",
+              "Subject": "Run GH actions on ubuntu-20.04 (#288)"
+            },
+            {
+              "SHA": "37fab686",
+              "Subject": "Update PDB Deletion (#287)"
+            },
+            {
+              "SHA": "55c35a72",
+              "Subject": "Use constants from apimachinery (#286)"
             }
           ]
         }

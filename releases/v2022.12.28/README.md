@@ -120,6 +120,22 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.17.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.17.0)
+
+- [bfca3ca2](https://github.com/kubedb/percona-xtradb/commit/bfca3ca2) Prepare for release v0.17.0 (#294)
+- [d2303e54](https://github.com/kubedb/percona-xtradb/commit/d2303e54) Update dependencies (#293)
+- [e374cf7e](https://github.com/kubedb/percona-xtradb/commit/e374cf7e) Prepare for release v0.17.0-rc.1 (#292)
+- [d6a2ffa6](https://github.com/kubedb/percona-xtradb/commit/d6a2ffa6) Use go-containerregistry for image digest (#291)
+- [f7ba9bfc](https://github.com/kubedb/percona-xtradb/commit/f7ba9bfc) Prepare for release v0.17.0-rc.0 (#290)
+- [806df3d2](https://github.com/kubedb/percona-xtradb/commit/806df3d2) Update deps (#289)
+- [a55bb0f2](https://github.com/kubedb/percona-xtradb/commit/a55bb0f2) Run GH actions on ubuntu-20.04 (#288)
+- [37fab686](https://github.com/kubedb/percona-xtradb/commit/37fab686) Update PDB Deletion (#287)
+- [55c35a72](https://github.com/kubedb/percona-xtradb/commit/55c35a72) Use constants from apimachinery (#286)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.3.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.3.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:22:48.956723263Z",
+  "release_date": "2022-12-28T09:23:11.016518513Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -433,6 +433,48 @@
             {
               "SHA": "4454cf1",
               "Subject": "Run GH actions on ubuntu-20.04 (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "c23bbf69",
+              "Subject": "Prepare for release v0.15.0 (#212)"
+            },
+            {
+              "SHA": "b0f7c6d7",
+              "Subject": "Update dependencies (#210)"
+            },
+            {
+              "SHA": "436f15a7",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#209)"
+            },
+            {
+              "SHA": "d212a7d2",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#208)"
+            },
+            {
+              "SHA": "1c9c1627",
+              "Subject": "Update deps (#207)"
+            },
+            {
+              "SHA": "b3bfac83",
+              "Subject": "Run GH actions on ubuntu-20.04 (#206)"
+            },
+            {
+              "SHA": "986dd480",
+              "Subject": "Add Redis Sentinel e2e Tests (#199)"
+            },
+            {
+              "SHA": "5c2fc0b9",
+              "Subject": "Update MongoDB Autoscaler tests (#204)"
             }
           ]
         }

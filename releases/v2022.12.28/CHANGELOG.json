@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:18:36.100096137Z",
+  "release_date": "2022-12-28T09:19:49.411594121Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -71,6 +71,44 @@
             {
               "SHA": "01c07593",
               "Subject": "Add ProxySQL Vertical-Scaling spec (#995)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "7e75f1b6",
+              "Subject": "Prepare for release v0.30.0 (#694)"
+            },
+            {
+              "SHA": "35c01568",
+              "Subject": "Update dependencies (#693)"
+            },
+            {
+              "SHA": "a93323ae",
+              "Subject": "Update dependencies (#691)"
+            },
+            {
+              "SHA": "f91038aa",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#690)"
+            },
+            {
+              "SHA": "1bf92e06",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#689)"
+            },
+            {
+              "SHA": "76426575",
+              "Subject": "Update deps (#688)"
+            },
+            {
+              "SHA": "2f35bac1",
+              "Subject": "Run GH actions on ubuntu-20.04 (#687)"
             }
           ]
         }

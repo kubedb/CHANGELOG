@@ -23,6 +23,20 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.30.0](https://github.com/kubedb/cli/releases/tag/v0.30.0)
+
+- [7e75f1b6](https://github.com/kubedb/cli/commit/7e75f1b6) Prepare for release v0.30.0 (#694)
+- [35c01568](https://github.com/kubedb/cli/commit/35c01568) Update dependencies (#693)
+- [a93323ae](https://github.com/kubedb/cli/commit/a93323ae) Update dependencies (#691)
+- [f91038aa](https://github.com/kubedb/cli/commit/f91038aa) Prepare for release v0.30.0-rc.1 (#690)
+- [1bf92e06](https://github.com/kubedb/cli/commit/1bf92e06) Prepare for release v0.30.0-rc.0 (#689)
+- [76426575](https://github.com/kubedb/cli/commit/76426575) Update deps (#688)
+- [2f35bac1](https://github.com/kubedb/cli/commit/2f35bac1) Run GH actions on ubuntu-20.04 (#687)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.1.0](https://github.com/kubedb/kafka/releases/tag/v0.1.0)

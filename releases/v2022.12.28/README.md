@@ -181,6 +181,34 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.17.0](https://github.com/kubedb/ops-manager/releases/tag/v0.17.0)
+
+- [0bdf5b45](https://github.com/kubedb/ops-manager/commit/0bdf5b45) Prepare for release v0.17.0 (#402)
+- [9928c74a](https://github.com/kubedb/ops-manager/commit/9928c74a) Fix NPE using license-proxyserver (#401)
+- [84c522b0](https://github.com/kubedb/ops-manager/commit/84c522b0) Update dependencies (#400)
+- [eab904d7](https://github.com/kubedb/ops-manager/commit/eab904d7) Prepare for release v0.17.0-rc.1 (#399)
+- [7258d256](https://github.com/kubedb/ops-manager/commit/7258d256) Use kmodules image library for parsing image (#398)
+- [b47b86e7](https://github.com/kubedb/ops-manager/commit/b47b86e7) Add adminUserName as CommonName for PgBouncer (#394)
+- [1f3799b7](https://github.com/kubedb/ops-manager/commit/1f3799b7) Update deps
+- [def279a1](https://github.com/kubedb/ops-manager/commit/def279a1) Use go-containerregistry for image digest (#397)
+- [90bbf6f3](https://github.com/kubedb/ops-manager/commit/90bbf6f3) Fix evict api usage for k8s < 1.22 (#396)
+- [13107ce9](https://github.com/kubedb/ops-manager/commit/13107ce9) Prepare for release v0.17.0-rc.0 (#393)
+- [96f289a0](https://github.com/kubedb/ops-manager/commit/96f289a0) Update deps (#392)
+- [ab83bb02](https://github.com/kubedb/ops-manager/commit/ab83bb02) Update Evict pod with kmodules api (#388)
+- [028a4a29](https://github.com/kubedb/ops-manager/commit/028a4a29) Fix condition check for pvc update (#384)
+- [f85db652](https://github.com/kubedb/ops-manager/commit/f85db652) Add TLS support for Kafka (#391)
+- [93e1fcf4](https://github.com/kubedb/ops-manager/commit/93e1fcf4) Fix: compareTables() function for postgresql logical replication (#385)
+- [d6225c57](https://github.com/kubedb/ops-manager/commit/d6225c57) Run GH actions on ubuntu-20.04 (#390)
+- [eb9f8b0c](https://github.com/kubedb/ops-manager/commit/eb9f8b0c) Remove usage of `UpgradeVersion` constant (#389)
+- [f682a359](https://github.com/kubedb/ops-manager/commit/f682a359) Skip Managing TLS if DB is paused for MariaDB, PXC and ProxySQL (#387)
+- [1ba7dc05](https://github.com/kubedb/ops-manager/commit/1ba7dc05) Add ProxySQL Vertical Scaling Ops-Request (#381)
+- [db89b9c9](https://github.com/kubedb/ops-manager/commit/db89b9c9) Adding `UpdateVersion` in mongo validator (#382)
+- [7c373593](https://github.com/kubedb/ops-manager/commit/7c373593) Acquire license from proxyserver (#383)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.17.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.17.0)

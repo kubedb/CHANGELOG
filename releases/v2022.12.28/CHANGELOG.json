@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:21:53.641204412Z",
+  "release_date": "2022-12-28T09:22:08.290636538Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -253,6 +253,40 @@
             {
               "SHA": "e11c7ff",
               "Subject": "Run GH actions on ubuntu-20.04 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "a99bd6d",
+              "Subject": "Prepare for release v0.3.0 (#26)"
+            },
+            {
+              "SHA": "2540e8b",
+              "Subject": "Update dependencies (#25)"
+            },
+            {
+              "SHA": "d6df29d",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#24)"
+            },
+            {
+              "SHA": "7e53d31",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#23)"
+            },
+            {
+              "SHA": "bd5e0b3",
+              "Subject": "Update deps (#22)"
+            },
+            {
+              "SHA": "b970f14",
+              "Subject": "Run GH actions on ubuntu-20.04 (#21)"
             }
           ]
         }

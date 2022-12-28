@@ -68,6 +68,76 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2022.12.28](https://github.com/kubedb/docs/releases/tag/v2022.12.28)
+
+- [ab71e12e](https://github.com/kubedb/docs/commit/ab71e12e) Prepare for release v2022.12.28 (#523)
+- [4d63f7e9](https://github.com/kubedb/docs/commit/4d63f7e9) Add Percona XtraDB Docs (#518)
+- [45c86ab7](https://github.com/kubedb/docs/commit/45c86ab7) Prepare for release v2022.12.24-rc.1 (#522)
+- [3eaa90bb](https://github.com/kubedb/docs/commit/3eaa90bb) Merge pull request #521 from kubedb/proxysql-monitoring
+- [abaf607c](https://github.com/kubedb/docs/commit/abaf607c) add proxysql monitoring doc
+- [0e27fe61](https://github.com/kubedb/docs/commit/0e27fe61) Fix Doc Tree (#520)
+- [dcb388bf](https://github.com/kubedb/docs/commit/dcb388bf) Update mongo doc upto release v2022.10.18 (#508)
+- [181b3170](https://github.com/kubedb/docs/commit/181b3170) How to delete CRD objects after uninstall (#511)
+- [3079258a](https://github.com/kubedb/docs/commit/3079258a) Add MongoDB Hidden-node; Restart & Reprovision opsRequests (#509)
+- [faf51b3c](https://github.com/kubedb/docs/commit/faf51b3c) Prepare for release v2022.12.13-rc.0 (#517)
+- [1739dac7](https://github.com/kubedb/docs/commit/1739dac7) Merge pull request #512 from kubedb/mysql-docs
+- [a209cd71](https://github.com/kubedb/docs/commit/a209cd71) update review changes
+- [e1f4fbd7](https://github.com/kubedb/docs/commit/e1f4fbd7) update monitoring
+- [3cc18f89](https://github.com/kubedb/docs/commit/3cc18f89) update navigation in tls
+- [bbe1b024](https://github.com/kubedb/docs/commit/bbe1b024) update navigation for vertical scaling
+- [f1bb20b1](https://github.com/kubedb/docs/commit/f1bb20b1) update navigiation for horizontal scaling
+- [a9c1f6e5](https://github.com/kubedb/docs/commit/a9c1f6e5) update navigation in using script
+- [72ce3150](https://github.com/kubedb/docs/commit/72ce3150) update navigation for reconfigure
+- [886f03ca](https://github.com/kubedb/docs/commit/886f03ca) update navigation for reconfigure tls
+- [e7fe1178](https://github.com/kubedb/docs/commit/e7fe1178) update volume expansion navigation
+- [efb93ebf](https://github.com/kubedb/docs/commit/efb93ebf) update links
+- [74ffe708](https://github.com/kubedb/docs/commit/74ffe708) update autoscaling
+- [e00173f6](https://github.com/kubedb/docs/commit/e00173f6) add volume-expansion
+- [2ccf13d4](https://github.com/kubedb/docs/commit/2ccf13d4) update reconfigure
+- [b5daa7b5](https://github.com/kubedb/docs/commit/b5daa7b5) fix identifier
+- [fc8cb967](https://github.com/kubedb/docs/commit/fc8cb967) reconfigure tls
+- [040bb862](https://github.com/kubedb/docs/commit/040bb862) add read replica docs
+- [e86fd25b](https://github.com/kubedb/docs/commit/e86fd25b) add semi-sync docs
+- [9b911ee6](https://github.com/kubedb/docs/commit/9b911ee6) add innodb cluster doc
+- [f941ddee](https://github.com/kubedb/docs/commit/f941ddee) Merge pull request #513 from kubedb/proxysql-docs-final
+- [d409d5b8](https://github.com/kubedb/docs/commit/d409d5b8) fix crd name : elasticsearch docs
+- [840cb13d](https://github.com/kubedb/docs/commit/840cb13d) fix email : proxysql docs
+- [d8043d45](https://github.com/kubedb/docs/commit/d8043d45) add file link, fix email : proxysql docs
+- [3b53608f](https://github.com/kubedb/docs/commit/3b53608f) fix other file errors proxysql
+- [fb14990c](https://github.com/kubedb/docs/commit/fb14990c) fix folder name for proxysql docs
+- [c393875b](https://github.com/kubedb/docs/commit/c393875b) fix image link - proxysql docs
+- [3692551d](https://github.com/kubedb/docs/commit/3692551d) revise names for proxysql docs
+- [b3396f48](https://github.com/kubedb/docs/commit/b3396f48) add custom-rbac docs for proxysql
+- [1e8bb7b8](https://github.com/kubedb/docs/commit/1e8bb7b8) revise docs proxysql
+- [ee9efc28](https://github.com/kubedb/docs/commit/ee9efc28) change title name
+- [80801684](https://github.com/kubedb/docs/commit/80801684) add external backend doc for proxysql
+- [91386684](https://github.com/kubedb/docs/commit/91386684) fix titles
+- [e0924b5e](https://github.com/kubedb/docs/commit/e0924b5e) fix quickstart
+- [b9792afd](https://github.com/kubedb/docs/commit/b9792afd) update liche
+- [1276c54a](https://github.com/kubedb/docs/commit/1276c54a) add proxysql quickstart
+- [961ca8b9](https://github.com/kubedb/docs/commit/961ca8b9) add quickstart
+- [8c600268](https://github.com/kubedb/docs/commit/8c600268) add reconfigure docs proxysql
+- [c52cb673](https://github.com/kubedb/docs/commit/c52cb673) add autoscaling docs proxysql
+- [f7bf67d3](https://github.com/kubedb/docs/commit/f7bf67d3) fix format
+- [deb380f8](https://github.com/kubedb/docs/commit/deb380f8) add scaling docs proxysql
+- [ae097c1f](https://github.com/kubedb/docs/commit/ae097c1f) add upgrading docs proxysql
+- [4ea93aa6](https://github.com/kubedb/docs/commit/4ea93aa6) add reconfigure-tls docs proxysql
+- [892f8935](https://github.com/kubedb/docs/commit/892f8935) add tls docs proxysql
+- [63dc269b](https://github.com/kubedb/docs/commit/63dc269b) add clustering docs proxysql
+- [8eb590fd](https://github.com/kubedb/docs/commit/8eb590fd) fix id
+- [21dad0cd](https://github.com/kubedb/docs/commit/21dad0cd) fix id
+- [a799b854](https://github.com/kubedb/docs/commit/a799b854) fix identifier
+- [5da73064](https://github.com/kubedb/docs/commit/5da73064) fix link
+- [b242f322](https://github.com/kubedb/docs/commit/b242f322) fix link
+- [bd30aa4d](https://github.com/kubedb/docs/commit/bd30aa4d) add proxysql concept doc
+- [a8cafbef](https://github.com/kubedb/docs/commit/a8cafbef) add concept doc proxysql
+- [0751011a](https://github.com/kubedb/docs/commit/0751011a) initialize final doc
+- [f359fa2b](https://github.com/kubedb/docs/commit/f359fa2b) Run GH actions on ubuntu-20.04 (#516)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.30.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.30.0)

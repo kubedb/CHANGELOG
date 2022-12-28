@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:23:11.016518513Z",
+  "release_date": "2022-12-28T09:23:35.218435474Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -193,6 +193,52 @@
             {
               "SHA": "e8b780d6",
               "Subject": "Run GH actions on ubuntu-20.04 (#376)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "0dbf4b62",
+              "Subject": "Prepare for release v0.23.0 (#528)"
+            },
+            {
+              "SHA": "addede82",
+              "Subject": "Update dependencies (#527)"
+            },
+            {
+              "SHA": "d94c3301",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#526)"
+            },
+            {
+              "SHA": "7ee6de66",
+              "Subject": "Use go-containerregistry for image digest (#525)"
+            },
+            {
+              "SHA": "2602cc08",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#524)"
+            },
+            {
+              "SHA": "a53e0b6e",
+              "Subject": "Update deps (#523)"
+            },
+            {
+              "SHA": "6f68602b",
+              "Subject": "Run GH actions on ubuntu-20.04 (#522)"
+            },
+            {
+              "SHA": "d9448103",
+              "Subject": "Fix PDB issues (#521)"
+            },
+            {
+              "SHA": "6f9b3325",
+              "Subject": "Copy missing fields from podTemplate & serviceTemplate (#520)"
             }
           ]
         }

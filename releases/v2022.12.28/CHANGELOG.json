@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2022.12.28",
-  "release_date": "2022-12-28T09:20:54.746463322Z",
+  "release_date": "2022-12-28T09:21:53.641204412Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2022.12.28",
   "kubernetes_version": "1.18+",
@@ -159,6 +159,40 @@
             {
               "SHA": "11f6df2",
               "Subject": "Add Operator for Kafka (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "8c7ccc82",
+              "Subject": "Prepare for release v0.23.0 (#381)"
+            },
+            {
+              "SHA": "21414fca",
+              "Subject": "Update dependencies (#380)"
+            },
+            {
+              "SHA": "0bdafbd7",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#379)"
+            },
+            {
+              "SHA": "8f5172f6",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#378)"
+            },
+            {
+              "SHA": "cb73ec86",
+              "Subject": "Update deps (#377)"
+            },
+            {
+              "SHA": "e8b780d6",
+              "Subject": "Run GH actions on ubuntu-20.04 (#376)"
             }
           ]
         }

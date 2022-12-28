@@ -54,6 +54,19 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.23.0](https://github.com/kubedb/memcached/releases/tag/v0.23.0)
+
+- [8c7ccc82](https://github.com/kubedb/memcached/commit/8c7ccc82) Prepare for release v0.23.0 (#381)
+- [21414fca](https://github.com/kubedb/memcached/commit/21414fca) Update dependencies (#380)
+- [0bdafbd7](https://github.com/kubedb/memcached/commit/0bdafbd7) Prepare for release v0.23.0-rc.1 (#379)
+- [8f5172f6](https://github.com/kubedb/memcached/commit/8f5172f6) Prepare for release v0.23.0-rc.0 (#378)
+- [cb73ec86](https://github.com/kubedb/memcached/commit/cb73ec86) Update deps (#377)
+- [e8b780d6](https://github.com/kubedb/memcached/commit/e8b780d6) Run GH actions on ubuntu-20.04 (#376)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.8.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.0)

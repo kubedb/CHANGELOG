@@ -37,6 +37,20 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.6.0](https://github.com/kubedb/dashboard/releases/tag/v0.6.0)
+
+- [293364a](https://github.com/kubedb/dashboard/commit/293364a) Prepare for release v0.6.0 (#55)
+- [5406fb1](https://github.com/kubedb/dashboard/commit/5406fb1) Update dependencies (#54)
+- [0c9d9a4](https://github.com/kubedb/dashboard/commit/0c9d9a4) Prepare for release v0.6.0-rc.1 (#53)
+- [a7952c3](https://github.com/kubedb/dashboard/commit/a7952c3) Prepare for release v0.6.0-rc.0 (#52)
+- [722df43](https://github.com/kubedb/dashboard/commit/722df43) Update deps (#51)
+- [600877d](https://github.com/kubedb/dashboard/commit/600877d) Run GH actions on ubuntu-20.04 (#50)
+- [cc2b95b](https://github.com/kubedb/dashboard/commit/cc2b95b) Acquire license from proxyserver (#49)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.30.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.30.0)

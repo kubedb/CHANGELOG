@@ -217,6 +217,21 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.17.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.17.0)
+
+- [3d30d3cc](https://github.com/kubedb/pgbouncer/commit/3d30d3cc) Prepare for release v0.17.0 (#255)
+- [cc73d8a6](https://github.com/kubedb/pgbouncer/commit/cc73d8a6) Update dependencies (#254)
+- [89675d58](https://github.com/kubedb/pgbouncer/commit/89675d58) Prepare for release v0.17.0-rc.1 (#253)
+- [e84285e2](https://github.com/kubedb/pgbouncer/commit/e84285e2) Add authSecret & configSecret (#249)
+- [a7064c4f](https://github.com/kubedb/pgbouncer/commit/a7064c4f) Use go-containerregistry for image digest (#252)
+- [8d39e418](https://github.com/kubedb/pgbouncer/commit/8d39e418) Prepare for release v0.17.0-rc.0 (#251)
+- [991cbaec](https://github.com/kubedb/pgbouncer/commit/991cbaec) Update deps (#250)
+- [8af0a2f0](https://github.com/kubedb/pgbouncer/commit/8af0a2f0) Run GH actions on ubuntu-20.04 (#248)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.30.0](https://github.com/kubedb/postgres/releases/tag/v0.30.0)

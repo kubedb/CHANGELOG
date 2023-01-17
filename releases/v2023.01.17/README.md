@@ -17,6 +17,16 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.1.1](https://github.com/kubedb/kafka/releases/tag/v0.1.1)
+
+- [6b49e97](https://github.com/kubedb/kafka/commit/6b49e97) Prepare for release v0.1.1 (#12)
+- [a3098fa](https://github.com/kubedb/kafka/commit/a3098fa) Add --insecure-registries flag (#11)
+- [edea46b](https://github.com/kubedb/kafka/commit/edea46b) Set registryFQDN to use docker for local development (#10)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.1)

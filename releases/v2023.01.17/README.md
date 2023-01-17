@@ -51,3 +51,14 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.15.1](https://github.com/kubedb/tests/releases/tag/v0.15.1)
+
+- [ad9578bf](https://github.com/kubedb/tests/commit/ad9578bf) Prepare for release v0.15.1 (#214)
+- [ead800d4](https://github.com/kubedb/tests/commit/ead800d4) Add Percona XtraDB Tests (Provisioner, OpsManager, Autoscaler) (#181)
+- [0af9c9b7](https://github.com/kubedb/tests/commit/0af9c9b7) Add MariaDB OpsReq and Autoscaler Tests (#160)
+- [7e18e981](https://github.com/kubedb/tests/commit/7e18e981) Update Redis Sentinel Tests (#211)
+
+
+

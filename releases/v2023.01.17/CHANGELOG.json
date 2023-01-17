@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T05:38:23.825562715Z",
+  "release_date": "2023-01-17T06:04:24.28826765Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -93,6 +93,32 @@
             {
               "SHA": "a66421c",
               "Subject": "Prepare for release v0.9.1 (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.15.1",
+          "commits": [
+            {
+              "SHA": "ad9578bf",
+              "Subject": "Prepare for release v0.15.1 (#214)"
+            },
+            {
+              "SHA": "ead800d4",
+              "Subject": "Add Percona XtraDB Tests (Provisioner, OpsManager, Autoscaler) (#181)"
+            },
+            {
+              "SHA": "0af9c9b7",
+              "Subject": "Add MariaDB OpsReq and Autoscaler Tests (#160)"
+            },
+            {
+              "SHA": "7e18e981",
+              "Subject": "Update Redis Sentinel Tests (#211)"
             }
           ]
         }

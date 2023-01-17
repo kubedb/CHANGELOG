@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T07:05:45.308855413Z",
+  "release_date": "2023-01-17T08:14:57.376523055Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -245,6 +245,28 @@
             {
               "SHA": "084ba8e0",
               "Subject": "Prepare for release v0.14.1 (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "6ea07cb6",
+              "Subject": "Prepare for release v0.17.1 (#258)"
+            },
+            {
+              "SHA": "5d8608e4",
+              "Subject": "Add --insecure-registries flag (#257)"
+            },
+            {
+              "SHA": "11c42ab3",
+              "Subject": "Set registryFQDN to use docker for local development (#256)"
             }
           ]
         }

@@ -125,6 +125,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.17.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.17.1)
+
+- [6ea07cb6](https://github.com/kubedb/pgbouncer/commit/6ea07cb6) Prepare for release v0.17.1 (#258)
+- [5d8608e4](https://github.com/kubedb/pgbouncer/commit/5d8608e4) Add --insecure-registries flag (#257)
+- [11c42ab3](https://github.com/kubedb/pgbouncer/commit/11c42ab3) Set registryFQDN to use docker for local development (#256)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.30.1](https://github.com/kubedb/postgres/releases/tag/v0.30.1)

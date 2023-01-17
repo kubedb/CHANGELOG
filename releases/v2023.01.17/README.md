@@ -73,6 +73,16 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.23.1](https://github.com/kubedb/mysql/releases/tag/v0.23.1)
+
+- [2700e88d](https://github.com/kubedb/mysql/commit/2700e88d) Prepare for release v0.23.1 (#519)
+- [ce7127b1](https://github.com/kubedb/mysql/commit/ce7127b1) Add --insecure-registries flag (#518)
+- [944883c9](https://github.com/kubedb/mysql/commit/944883c9) Set registryFQDN to use docker for local development (#517)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.8.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.1)

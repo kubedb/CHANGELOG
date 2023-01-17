@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T06:45:28.149961969Z",
+  "release_date": "2023-01-17T06:45:38.897347943Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -145,6 +145,28 @@
             {
               "SHA": "b15c3833",
               "Subject": "Set registryFQDN to use docker for local development (#529)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.23.1",
+          "commits": [
+            {
+              "SHA": "2700e88d",
+              "Subject": "Prepare for release v0.23.1 (#519)"
+            },
+            {
+              "SHA": "ce7127b1",
+              "Subject": "Add --insecure-registries flag (#518)"
+            },
+            {
+              "SHA": "944883c9",
+              "Subject": "Set registryFQDN to use docker for local development (#517)"
             }
           ]
         }

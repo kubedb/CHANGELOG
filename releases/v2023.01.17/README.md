@@ -127,6 +127,17 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.23.1](https://github.com/kubedb/redis/releases/tag/v0.23.1)
+
+- [d4b63271](https://github.com/kubedb/redis/commit/d4b63271) Prepare for release v0.23.1 (#447)
+- [2a829766](https://github.com/kubedb/redis/commit/2a829766) Add --insecure-registries flag (#446)
+- [73260d12](https://github.com/kubedb/redis/commit/73260d12) Set registryFQDN to use docker for local development (#445)
+- [9cabe22e](https://github.com/kubedb/redis/commit/9cabe22e) Add redis client-go (#444)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T06:49:29.630087361Z",
+  "release_date": "2023-01-17T06:51:37.128614569Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -253,6 +253,32 @@
             {
               "SHA": "050c4e61",
               "Subject": "Set registryFQDN to use docker for local development (#621)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.23.1",
+          "commits": [
+            {
+              "SHA": "d4b63271",
+              "Subject": "Prepare for release v0.23.1 (#447)"
+            },
+            {
+              "SHA": "2a829766",
+              "Subject": "Add --insecure-registries flag (#446)"
+            },
+            {
+              "SHA": "73260d12",
+              "Subject": "Set registryFQDN to use docker for local development (#445)"
+            },
+            {
+              "SHA": "9cabe22e",
+              "Subject": "Add redis client-go (#444)"
             }
           ]
         }

@@ -91,6 +91,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.8.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.8.1)
+
+- [960c85b](https://github.com/kubedb/mysql-router-init/commit/960c85b) Remove slack link
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.17.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.17.1)

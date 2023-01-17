@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T06:51:37.128614569Z",
+  "release_date": "2023-01-17T07:05:45.308855413Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -181,6 +181,20 @@
             {
               "SHA": "4a182b7",
               "Subject": "Prepare for release v0.8.1 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.8.1",
+          "commits": [
+            {
+              "SHA": "960c85b",
+              "Subject": "Remove slack link"
             }
           ]
         }

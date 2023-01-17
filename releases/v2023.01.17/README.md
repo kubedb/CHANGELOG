@@ -46,6 +46,16 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2023.01.17](https://github.com/kubedb/installer/releases/tag/v2023.01.17)
+
+- [2414928a](https://github.com/kubedb/installer/commit/2414928a) Prepare for release v2023.01.17 (#584)
+- [a070531c](https://github.com/kubedb/installer/commit/a070531c) Add --insecure-registries flag (#583)
+- [321c3729](https://github.com/kubedb/installer/commit/321c3729) Fix Grafana dashboard crd url
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.1.1](https://github.com/kubedb/kafka/releases/tag/v0.1.1)

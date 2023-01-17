@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T08:55:52.256803036Z",
+  "release_date": "2023-01-17T09:37:57.218359267Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -91,6 +91,28 @@
             {
               "SHA": "72b402a66",
               "Subject": "Set registryFQDN to use docker for local development (#622)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.01.17",
+          "commits": [
+            {
+              "SHA": "2414928a",
+              "Subject": "Prepare for release v2023.01.17 (#584)"
+            },
+            {
+              "SHA": "a070531c",
+              "Subject": "Add --insecure-registries flag (#583)"
+            },
+            {
+              "SHA": "321c3729",
+              "Subject": "Fix Grafana dashboard crd url"
             }
           ]
         }

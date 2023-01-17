@@ -1,0 +1,596 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.01.17",
+  "release_date": "2023-01-17T10:22:07.482522763Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.01.17",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.30.1",
+          "commits": [
+            {
+              "SHA": "d93fabe5",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.15.1",
+          "commits": [
+            {
+              "SHA": "4a31539f",
+              "Subject": "Prepare for release v0.15.1 (#131)"
+            },
+            {
+              "SHA": "c6f2ba46",
+              "Subject": "Set registryFQDN to use docker for local development (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.01.17",
+          "commits": [
+            {
+              "SHA": "e19d730",
+              "Subject": "Prepare for release v2023.01.17 (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.30.1",
+          "commits": [
+            {
+              "SHA": "264d4323",
+              "Subject": "Prepare for release v0.30.1 (#695)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.6.1",
+          "commits": [
+            {
+              "SHA": "3d59229",
+              "Subject": "Prepare for release v0.6.1 (#58)"
+            },
+            {
+              "SHA": "da17eac",
+              "Subject": "Set registryFQDN to use docker for local development (#57)"
+            },
+            {
+              "SHA": "7b8d07c",
+              "Subject": "Disable usage collection from ES (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.01.17",
+          "commits": [
+            {
+              "SHA": "be0e110a",
+              "Subject": "Prepare for release v2023.01.17 (#527)"
+            },
+            {
+              "SHA": "95c94411",
+              "Subject": "Fix ServiceMonitor label : Remove `k8s-app`, Add `release` (#525)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.30.1",
+          "commits": [
+            {
+              "SHA": "35c62fa5b",
+              "Subject": "Prepare for release v0.30.1 (#624)"
+            },
+            {
+              "SHA": "207904e72",
+              "Subject": "Add --insecure-registries flag (#623)"
+            },
+            {
+              "SHA": "72b402a66",
+              "Subject": "Set registryFQDN to use docker for local development (#622)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.01.17",
+          "commits": [
+            {
+              "SHA": "2414928a",
+              "Subject": "Prepare for release v2023.01.17 (#584)"
+            },
+            {
+              "SHA": "a070531c",
+              "Subject": "Add --insecure-registries flag (#583)"
+            },
+            {
+              "SHA": "321c3729",
+              "Subject": "Fix Grafana dashboard crd url"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.1.1",
+          "commits": [
+            {
+              "SHA": "6b49e97",
+              "Subject": "Prepare for release v0.1.1 (#12)"
+            },
+            {
+              "SHA": "a3098fa",
+              "Subject": "Add --insecure-registries flag (#11)"
+            },
+            {
+              "SHA": "edea46b",
+              "Subject": "Set registryFQDN to use docker for local development (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "f8c90127",
+              "Subject": "Prepare for release v0.14.1 (#196)"
+            },
+            {
+              "SHA": "87d3c9c9",
+              "Subject": "Add --insecure-registries flag (#195)"
+            },
+            {
+              "SHA": "3d32a203",
+              "Subject": "Set registryFQDN to use docker for local development (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.1",
+          "commits": [
+            {
+              "SHA": "62eec8e",
+              "Subject": "Prepare for release v0.10.1 (#70)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.23.1",
+          "commits": [
+            {
+              "SHA": "96587959",
+              "Subject": "Prepare for release v0.23.1 (#382)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.23.1",
+          "commits": [
+            {
+              "SHA": "e165db2e",
+              "Subject": "Prepare for release v0.23.1 (#531)"
+            },
+            {
+              "SHA": "d24ed694",
+              "Subject": "Add --insecure-registries flag (#530)"
+            },
+            {
+              "SHA": "b15c3833",
+              "Subject": "Set registryFQDN to use docker for local development (#529)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.23.1",
+          "commits": [
+            {
+              "SHA": "2700e88d",
+              "Subject": "Prepare for release v0.23.1 (#519)"
+            },
+            {
+              "SHA": "ce7127b1",
+              "Subject": "Add --insecure-registries flag (#518)"
+            },
+            {
+              "SHA": "944883c9",
+              "Subject": "Set registryFQDN to use docker for local development (#517)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.1",
+          "commits": [
+            {
+              "SHA": "4a182b7",
+              "Subject": "Prepare for release v0.8.1 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.8.1",
+          "commits": [
+            {
+              "SHA": "960c85b",
+              "Subject": "Remove slack link"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "57e4e442",
+              "Subject": "Prepare for release v0.17.1 (#407)"
+            },
+            {
+              "SHA": "b8be3433",
+              "Subject": "Add --insecure-registries flag (#406)"
+            },
+            {
+              "SHA": "63ff77f7",
+              "Subject": "Set registryFQDN to use docker for local development (#405)"
+            },
+            {
+              "SHA": "94110406",
+              "Subject": "Refactor Redis Ops Requests (#404)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "7b0b63f4",
+              "Subject": "Prepare for release v0.17.1 (#297)"
+            },
+            {
+              "SHA": "84aeef58",
+              "Subject": "Add --insecure-registries flag (#296)"
+            },
+            {
+              "SHA": "15386fb7",
+              "Subject": "Set registryFQDN to use docker for local development (#295)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.1",
+          "commits": [
+            {
+              "SHA": "d5d1f97",
+              "Subject": "Prepare for release v0.3.1 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "084ba8e0",
+              "Subject": "Prepare for release v0.14.1 (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "6ea07cb6",
+              "Subject": "Prepare for release v0.17.1 (#258)"
+            },
+            {
+              "SHA": "5d8608e4",
+              "Subject": "Add --insecure-registries flag (#257)"
+            },
+            {
+              "SHA": "11c42ab3",
+              "Subject": "Set registryFQDN to use docker for local development (#256)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.30.1",
+          "commits": [
+            {
+              "SHA": "d3ded3bd",
+              "Subject": "Prepare for release v0.30.1 (#623)"
+            },
+            {
+              "SHA": "21b81e75",
+              "Subject": "Add --insecure-registries flag (#622)"
+            },
+            {
+              "SHA": "050c4e61",
+              "Subject": "Set registryFQDN to use docker for local development (#621)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.30.1",
+          "commits": [
+            {
+              "SHA": "02cd0453b",
+              "Subject": "Prepare for release v0.30.1 (#35)"
+            },
+            {
+              "SHA": "24d6aa18e",
+              "Subject": "Add --insecure-registries flag (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "67500f61",
+              "Subject": "Prepare for release v0.17.1 (#277)"
+            },
+            {
+              "SHA": "5088aa2e",
+              "Subject": "Add --insecure-registries flag (#276)"
+            },
+            {
+              "SHA": "83c14966",
+              "Subject": "Set registryFQDN to use docker for local development (#275)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.23.1",
+          "commits": [
+            {
+              "SHA": "d4b63271",
+              "Subject": "Prepare for release v0.23.1 (#447)"
+            },
+            {
+              "SHA": "2a829766",
+              "Subject": "Add --insecure-registries flag (#446)"
+            },
+            {
+              "SHA": "73260d12",
+              "Subject": "Set registryFQDN to use docker for local development (#445)"
+            },
+            {
+              "SHA": "9cabe22e",
+              "Subject": "Add redis client-go (#444)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.1",
+          "commits": [
+            {
+              "SHA": "a66421c",
+              "Subject": "Prepare for release v0.9.1 (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "94eeb8d5",
+              "Subject": "Prepare for release v0.17.1 (#222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.6.1",
+          "commits": [
+            {
+              "SHA": "94bf0859",
+              "Subject": "Prepare for release v0.6.1 (#62)"
+            },
+            {
+              "SHA": "195a9199",
+              "Subject": "Update KubeVault crds (#61)"
+            },
+            {
+              "SHA": "eadf5f6e",
+              "Subject": "Set registryFQDN to use docker for local development (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.15.1",
+          "commits": [
+            {
+              "SHA": "ad9578bf",
+              "Subject": "Prepare for release v0.15.1 (#214)"
+            },
+            {
+              "SHA": "ead800d4",
+              "Subject": "Add Percona XtraDB Tests (Provisioner, OpsManager, Autoscaler) (#181)"
+            },
+            {
+              "SHA": "0af9c9b7",
+              "Subject": "Add MariaDB OpsReq and Autoscaler Tests (#160)"
+            },
+            {
+              "SHA": "7e18e981",
+              "Subject": "Update Redis Sentinel Tests (#211)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.6.1",
+          "commits": [
+            {
+              "SHA": "6cfc4469",
+              "Subject": "Prepare for release v0.6.1 (#64)"
+            },
+            {
+              "SHA": "d3c21e61",
+              "Subject": "Remove slack link"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.6.1",
+          "commits": [
+            {
+              "SHA": "7b3eff57",
+              "Subject": "Prepare for release v0.6.1 (#47)"
+            },
+            {
+              "SHA": "c2fffb87",
+              "Subject": "Set registryFQDN to use docker for local development (#45)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

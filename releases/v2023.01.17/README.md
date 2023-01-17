@@ -192,6 +192,16 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.6.1](https://github.com/kubedb/schema-manager/releases/tag/v0.6.1)
+
+- [94bf0859](https://github.com/kubedb/schema-manager/commit/94bf0859) Prepare for release v0.6.1 (#62)
+- [195a9199](https://github.com/kubedb/schema-manager/commit/195a9199) Update KubeVault crds (#61)
+- [eadf5f6e](https://github.com/kubedb/schema-manager/commit/eadf5f6e) Set registryFQDN to use docker for local development (#60)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.15.1](https://github.com/kubedb/tests/releases/tag/v0.15.1)

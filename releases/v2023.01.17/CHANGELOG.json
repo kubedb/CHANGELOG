@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T08:26:10.964250138Z",
+  "release_date": "2023-01-17T08:26:18.199752274Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -387,6 +387,28 @@
             {
               "SHA": "94eeb8d5",
               "Subject": "Prepare for release v0.17.1 (#222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.6.1",
+          "commits": [
+            {
+              "SHA": "94bf0859",
+              "Subject": "Prepare for release v0.6.1 (#62)"
+            },
+            {
+              "SHA": "195a9199",
+              "Subject": "Update KubeVault crds (#61)"
+            },
+            {
+              "SHA": "eadf5f6e",
+              "Subject": "Set registryFQDN to use docker for local development (#60)"
             }
           ]
         }

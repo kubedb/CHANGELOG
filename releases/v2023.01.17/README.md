@@ -27,6 +27,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.14.1](https://github.com/kubedb/mariadb/releases/tag/v0.14.1)
+
+- [f8c90127](https://github.com/kubedb/mariadb/commit/f8c90127) Prepare for release v0.14.1 (#196)
+- [87d3c9c9](https://github.com/kubedb/mariadb/commit/87d3c9c9) Add --insecure-registries flag (#195)
+- [3d32a203](https://github.com/kubedb/mariadb/commit/3d32a203) Set registryFQDN to use docker for local development (#194)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.10.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.10.1)

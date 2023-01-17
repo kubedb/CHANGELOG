@@ -17,6 +17,16 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.30.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.30.1)
+
+- [35c62fa5](https://github.com/kubedb/elasticsearch/commit/35c62fa5b) Prepare for release v0.30.1 (#624)
+- [207904e7](https://github.com/kubedb/elasticsearch/commit/207904e72) Add --insecure-registries flag (#623)
+- [72b402a6](https://github.com/kubedb/elasticsearch/commit/72b402a66) Set registryFQDN to use docker for local development (#622)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.1.1](https://github.com/kubedb/kafka/releases/tag/v0.1.1)

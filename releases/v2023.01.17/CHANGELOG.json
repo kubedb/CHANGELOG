@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T06:26:12.878125402Z",
+  "release_date": "2023-01-17T06:26:26.041221418Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -29,6 +29,28 @@
             {
               "SHA": "264d4323",
               "Subject": "Prepare for release v0.30.1 (#695)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.30.1",
+          "commits": [
+            {
+              "SHA": "35c62fa5b",
+              "Subject": "Prepare for release v0.30.1 (#624)"
+            },
+            {
+              "SHA": "207904e72",
+              "Subject": "Add --insecure-registries flag (#623)"
+            },
+            {
+              "SHA": "72b402a66",
+              "Subject": "Set registryFQDN to use docker for local development (#622)"
             }
           ]
         }

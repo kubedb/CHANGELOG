@@ -251,3 +251,12 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.6.1](https://github.com/kubedb/webhook-server/releases/tag/v0.6.1)
+
+- [7b3eff57](https://github.com/kubedb/webhook-server/commit/7b3eff57) Prepare for release v0.6.1 (#47)
+- [c2fffb87](https://github.com/kubedb/webhook-server/commit/c2fffb87) Set registryFQDN to use docker for local development (#45)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T08:48:56.091960324Z",
+  "release_date": "2023-01-17T08:55:52.256803036Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -515,6 +515,24 @@
             {
               "SHA": "d3c21e61",
               "Subject": "Remove slack link"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.6.1",
+          "commits": [
+            {
+              "SHA": "7b3eff57",
+              "Subject": "Prepare for release v0.6.1 (#47)"
+            },
+            {
+              "SHA": "c2fffb87",
+              "Subject": "Set registryFQDN to use docker for local development (#45)"
             }
           ]
         }

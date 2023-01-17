@@ -155,6 +155,15 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.30.1](https://github.com/kubedb/provisioner/releases/tag/v0.30.1)
+
+- [02cd0453](https://github.com/kubedb/provisioner/commit/02cd0453b) Prepare for release v0.30.1 (#35)
+- [24d6aa18](https://github.com/kubedb/provisioner/commit/24d6aa18e) Add --insecure-registries flag (#34)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.17.1](https://github.com/kubedb/proxysql/releases/tag/v0.17.1)

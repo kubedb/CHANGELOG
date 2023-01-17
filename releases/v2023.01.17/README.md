@@ -107,6 +107,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.30.1](https://github.com/kubedb/postgres/releases/tag/v0.30.1)
+
+- [d3ded3bd](https://github.com/kubedb/postgres/commit/d3ded3bd) Prepare for release v0.30.1 (#623)
+- [21b81e75](https://github.com/kubedb/postgres/commit/21b81e75) Add --insecure-registries flag (#622)
+- [050c4e61](https://github.com/kubedb/postgres/commit/050c4e61) Set registryFQDN to use docker for local development (#621)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.1)

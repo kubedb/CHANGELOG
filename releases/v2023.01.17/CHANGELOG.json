@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T06:45:38.897347943Z",
+  "release_date": "2023-01-17T06:49:02.858688684Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -209,6 +209,28 @@
             {
               "SHA": "084ba8e0",
               "Subject": "Prepare for release v0.14.1 (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.30.1",
+          "commits": [
+            {
+              "SHA": "d3ded3bd",
+              "Subject": "Prepare for release v0.30.1 (#623)"
+            },
+            {
+              "SHA": "21b81e75",
+              "Subject": "Add --insecure-registries flag (#622)"
+            },
+            {
+              "SHA": "050c4e61",
+              "Subject": "Set registryFQDN to use docker for local development (#621)"
             }
           ]
         }

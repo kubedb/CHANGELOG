@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T10:10:22.109105621Z",
+  "release_date": "2023-01-17T10:22:07.482522763Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -33,6 +33,20 @@
             {
               "SHA": "c6f2ba46",
               "Subject": "Set registryFQDN to use docker for local development (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.01.17",
+          "commits": [
+            {
+              "SHA": "e19d730",
+              "Subject": "Prepare for release v2023.01.17 (#58)"
             }
           ]
         }

@@ -1,0 +1,24 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.01.17",
+  "release_date": "2023-01-17T05:22:57.013567756Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.01.17",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.30.1",
+          "commits": [
+            {
+              "SHA": "d93fabe5",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

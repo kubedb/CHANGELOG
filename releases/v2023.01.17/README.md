@@ -109,6 +109,17 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.17.1](https://github.com/kubedb/ops-manager/releases/tag/v0.17.1)
+
+- [57e4e442](https://github.com/kubedb/ops-manager/commit/57e4e442) Prepare for release v0.17.1 (#407)
+- [b8be3433](https://github.com/kubedb/ops-manager/commit/b8be3433) Add --insecure-registries flag (#406)
+- [63ff77f7](https://github.com/kubedb/ops-manager/commit/63ff77f7) Set registryFQDN to use docker for local development (#405)
+- [94110406](https://github.com/kubedb/ops-manager/commit/94110406) Refactor Redis Ops Requests (#404)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.17.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.17.1)

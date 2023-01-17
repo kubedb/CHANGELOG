@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T06:10:57.444877905Z",
+  "release_date": "2023-01-17T06:11:05.773926532Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -51,6 +51,20 @@
             {
               "SHA": "edea46b",
               "Subject": "Set registryFQDN to use docker for local development (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.1",
+          "commits": [
+            {
+              "SHA": "62eec8e",
+              "Subject": "Prepare for release v0.10.1 (#70)"
             }
           ]
         }

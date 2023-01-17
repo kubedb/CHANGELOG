@@ -27,6 +27,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.23.1](https://github.com/kubedb/mongodb/releases/tag/v0.23.1)
+
+- [e165db2e](https://github.com/kubedb/mongodb/commit/e165db2e) Prepare for release v0.23.1 (#531)
+- [d24ed694](https://github.com/kubedb/mongodb/commit/d24ed694) Add --insecure-registries flag (#530)
+- [b15c3833](https://github.com/kubedb/mongodb/commit/b15c3833) Set registryFQDN to use docker for local development (#529)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.8.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.1)

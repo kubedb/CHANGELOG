@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T06:04:24.28826765Z",
+  "release_date": "2023-01-17T06:10:57.444877905Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -51,6 +51,28 @@
             {
               "SHA": "edea46b",
               "Subject": "Set registryFQDN to use docker for local development (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.23.1",
+          "commits": [
+            {
+              "SHA": "e165db2e",
+              "Subject": "Prepare for release v0.23.1 (#531)"
+            },
+            {
+              "SHA": "d24ed694",
+              "Subject": "Add --insecure-registries flag (#530)"
+            },
+            {
+              "SHA": "b15c3833",
+              "Subject": "Set registryFQDN to use docker for local development (#529)"
             }
           ]
         }

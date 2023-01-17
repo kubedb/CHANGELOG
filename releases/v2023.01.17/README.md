@@ -17,6 +17,16 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.6.1](https://github.com/kubedb/dashboard/releases/tag/v0.6.1)
+
+- [3d59229](https://github.com/kubedb/dashboard/commit/3d59229) Prepare for release v0.6.1 (#58)
+- [da17eac](https://github.com/kubedb/dashboard/commit/da17eac) Set registryFQDN to use docker for local development (#57)
+- [7b8d07c](https://github.com/kubedb/dashboard/commit/7b8d07c) Disable usage collection from ES (#56)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.30.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.30.1)

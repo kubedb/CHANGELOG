@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T08:15:38.171413713Z",
+  "release_date": "2023-01-17T08:26:10.964250138Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -29,6 +29,28 @@
             {
               "SHA": "264d4323",
               "Subject": "Prepare for release v0.30.1 (#695)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.6.1",
+          "commits": [
+            {
+              "SHA": "3d59229",
+              "Subject": "Prepare for release v0.6.1 (#58)"
+            },
+            {
+              "SHA": "da17eac",
+              "Subject": "Set registryFQDN to use docker for local development (#57)"
+            },
+            {
+              "SHA": "7b8d07c",
+              "Subject": "Disable usage collection from ES (#56)"
             }
           ]
         }

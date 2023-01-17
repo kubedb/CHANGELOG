@@ -27,6 +27,14 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.8.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.8.1)
+
+- [4a182b7](https://github.com/kubedb/mysql-coordinator/commit/4a182b7) Prepare for release v0.8.1 (#68)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.1)

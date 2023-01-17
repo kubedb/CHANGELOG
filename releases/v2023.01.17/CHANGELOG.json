@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T05:37:56.663422189Z",
+  "release_date": "2023-01-17T05:38:01.980463506Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -51,6 +51,20 @@
             {
               "SHA": "edea46b",
               "Subject": "Set registryFQDN to use docker for local development (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.1",
+          "commits": [
+            {
+              "SHA": "4a182b7",
+              "Subject": "Prepare for release v0.8.1 (#68)"
             }
           ]
         }

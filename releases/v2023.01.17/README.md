@@ -9,6 +9,15 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.15.1](https://github.com/kubedb/autoscaler/releases/tag/v0.15.1)
+
+- [4a31539f](https://github.com/kubedb/autoscaler/commit/4a31539f) Prepare for release v0.15.1 (#131)
+- [c6f2ba46](https://github.com/kubedb/autoscaler/commit/c6f2ba46) Set registryFQDN to use docker for local development (#130)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.30.1](https://github.com/kubedb/cli/releases/tag/v0.30.1)

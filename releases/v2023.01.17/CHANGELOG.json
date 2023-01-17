@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T06:49:02.858688684Z",
+  "release_date": "2023-01-17T06:49:29.630087361Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -181,6 +181,28 @@
             {
               "SHA": "4a182b7",
               "Subject": "Prepare for release v0.8.1 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "7b0b63f4",
+              "Subject": "Prepare for release v0.17.1 (#297)"
+            },
+            {
+              "SHA": "84aeef58",
+              "Subject": "Add --insecure-registries flag (#296)"
+            },
+            {
+              "SHA": "15386fb7",
+              "Subject": "Set registryFQDN to use docker for local development (#295)"
             }
           ]
         }

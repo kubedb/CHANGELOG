@@ -91,6 +91,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.17.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.17.1)
+
+- [7b0b63f4](https://github.com/kubedb/percona-xtradb/commit/7b0b63f4) Prepare for release v0.17.1 (#297)
+- [84aeef58](https://github.com/kubedb/percona-xtradb/commit/84aeef58) Add --insecure-registries flag (#296)
+- [15386fb7](https://github.com/kubedb/percona-xtradb/commit/15386fb7) Set registryFQDN to use docker for local development (#295)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.3.1](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.3.1)

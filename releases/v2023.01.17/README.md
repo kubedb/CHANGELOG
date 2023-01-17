@@ -213,3 +213,12 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.6.1](https://github.com/kubedb/ui-server/releases/tag/v0.6.1)
+
+- [6cfc4469](https://github.com/kubedb/ui-server/commit/6cfc4469) Prepare for release v0.6.1 (#64)
+- [d3c21e61](https://github.com/kubedb/ui-server/commit/d3c21e61) Remove slack link
+
+
+

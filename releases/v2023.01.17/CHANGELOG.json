@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T09:37:57.218359267Z",
+  "release_date": "2023-01-17T10:10:22.109105621Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -69,6 +69,24 @@
             {
               "SHA": "7b8d07c",
               "Subject": "Disable usage collection from ES (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.01.17",
+          "commits": [
+            {
+              "SHA": "be0e110a",
+              "Subject": "Prepare for release v2023.01.17 (#527)"
+            },
+            {
+              "SHA": "95c94411",
+              "Subject": "Fix ServiceMonitor label : Remove `k8s-app`, Add `release` (#525)"
             }
           ]
         }

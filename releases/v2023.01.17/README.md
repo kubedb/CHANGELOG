@@ -36,6 +36,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2023.01.17](https://github.com/kubedb/docs/releases/tag/v2023.01.17)
+
+- [be0e110a](https://github.com/kubedb/docs/commit/be0e110a) Prepare for release v2023.01.17 (#527)
+- [95c94411](https://github.com/kubedb/docs/commit/95c94411) Fix ServiceMonitor label : Remove `k8s-app`, Add `release` (#525)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.30.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.30.1)

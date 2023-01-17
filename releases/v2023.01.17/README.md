@@ -9,6 +9,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.30.1](https://github.com/kubedb/cli/releases/tag/v0.30.1)
+
+- [264d4323](https://github.com/kubedb/cli/commit/264d4323) Prepare for release v0.30.1 (#695)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.9.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.9.1)

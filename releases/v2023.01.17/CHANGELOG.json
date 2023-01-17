@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.17",
-  "release_date": "2023-01-17T08:14:57.376523055Z",
+  "release_date": "2023-01-17T08:15:38.171413713Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.17",
   "kubernetes_version": "1.18+",
@@ -289,6 +289,28 @@
             {
               "SHA": "050c4e61",
               "Subject": "Set registryFQDN to use docker for local development (#621)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.17.1",
+          "commits": [
+            {
+              "SHA": "67500f61",
+              "Subject": "Prepare for release v0.17.1 (#277)"
+            },
+            {
+              "SHA": "5088aa2e",
+              "Subject": "Add --insecure-registries flag (#276)"
+            },
+            {
+              "SHA": "83c14966",
+              "Subject": "Set registryFQDN to use docker for local development (#275)"
             }
           ]
         }

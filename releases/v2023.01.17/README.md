@@ -145,6 +145,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.17.1](https://github.com/kubedb/proxysql/releases/tag/v0.17.1)
+
+- [67500f61](https://github.com/kubedb/proxysql/commit/67500f61) Prepare for release v0.17.1 (#277)
+- [5088aa2e](https://github.com/kubedb/proxysql/commit/5088aa2e) Add --insecure-registries flag (#276)
+- [83c14966](https://github.com/kubedb/proxysql/commit/83c14966) Set registryFQDN to use docker for local development (#275)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.23.1](https://github.com/kubedb/redis/releases/tag/v0.23.1)

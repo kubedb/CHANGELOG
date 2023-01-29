@@ -19,6 +19,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.9.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.9.0)
+
+- [727ce38](https://github.com/kubedb/mysql-coordinator/commit/727ce38) Update sidekick dependency (#70)
+- [4d55c9d](https://github.com/kubedb/mysql-coordinator/commit/4d55c9d) Read imge pull secret from operator flags (#69)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.18.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.18.0)

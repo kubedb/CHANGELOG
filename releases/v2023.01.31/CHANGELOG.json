@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:55:01.963072699Z",
+  "release_date": "2023-01-29T20:55:10.138954392Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -19,6 +19,24 @@
             {
               "SHA": "424a2960",
               "Subject": "Fix postgres `transferLeadershipTimeout` (#1013)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "a821a2ce",
+              "Subject": "Update sidekick dependency (#697)"
+            },
+            {
+              "SHA": "6fdf6747",
+              "Subject": "Read imge pull secret from operator flags (#696)"
             }
           ]
         }

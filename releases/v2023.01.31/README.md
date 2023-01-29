@@ -10,6 +10,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.31.0](https://github.com/kubedb/cli/releases/tag/v0.31.0)
+
+- [a821a2ce](https://github.com/kubedb/cli/commit/a821a2ce) Update sidekick dependency (#697)
+- [6fdf6747](https://github.com/kubedb/cli/commit/6fdf6747) Read imge pull secret from operator flags (#696)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.31.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.31.0)

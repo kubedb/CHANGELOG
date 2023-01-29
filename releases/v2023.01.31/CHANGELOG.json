@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T21:08:58.474264396Z",
+  "release_date": "2023-01-29T21:12:05.374156415Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -323,6 +323,28 @@
             {
               "SHA": "f9dc7194",
               "Subject": "Fixed scaling up and down for standalone with `halted=true` and Add eviction RBAC (#624)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "8d8fe8f5b",
+              "Subject": "Prepare for release v0.31.0 (#38)"
+            },
+            {
+              "SHA": "ccd6c545f",
+              "Subject": "Update sidekick dependency (#37)"
+            },
+            {
+              "SHA": "e0214013b",
+              "Subject": "Read imge pull secret from operator flags (#36)"
             }
           ]
         }

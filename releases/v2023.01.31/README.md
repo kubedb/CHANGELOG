@@ -158,6 +158,16 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.31.0](https://github.com/kubedb/provisioner/releases/tag/v0.31.0)
+
+- [8d8fe8f5](https://github.com/kubedb/provisioner/commit/8d8fe8f5b) Prepare for release v0.31.0 (#38)
+- [ccd6c545](https://github.com/kubedb/provisioner/commit/ccd6c545f) Update sidekick dependency (#37)
+- [e0214013](https://github.com/kubedb/provisioner/commit/e0214013b) Read imge pull secret from operator flags (#36)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.18.0](https://github.com/kubedb/proxysql/releases/tag/v0.18.0)

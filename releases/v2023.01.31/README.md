@@ -72,6 +72,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.24.0](https://github.com/kubedb/redis/releases/tag/v0.24.0)
+
+- [20a616fa](https://github.com/kubedb/redis/commit/20a616fa) Update sidekick dependency (#449)
+- [eebeb0b9](https://github.com/kubedb/redis/commit/eebeb0b9) Read imge pull secret from operator flags (#448)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.10.0)

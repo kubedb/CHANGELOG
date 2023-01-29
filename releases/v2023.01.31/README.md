@@ -90,6 +90,16 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.15.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.15.0)
+
+- [8fdc0143](https://github.com/kubedb/pg-coordinator/commit/8fdc0143) Update sidekick dependency (#112)
+- [b686ba76](https://github.com/kubedb/pg-coordinator/commit/b686ba76) Read imge pull secret from operator flags (#111)
+- [49cd4a67](https://github.com/kubedb/pg-coordinator/commit/49cd4a67) Fix `waiting for the target to be leader` issue (#110)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.31.0](https://github.com/kubedb/postgres/releases/tag/v0.31.0)

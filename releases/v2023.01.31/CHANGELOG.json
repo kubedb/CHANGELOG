@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:55:22.743370562Z",
+  "release_date": "2023-01-29T20:55:44.416052664Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -177,6 +177,28 @@
             {
               "SHA": "7f36f57a",
               "Subject": "Read imge pull secret from operator flags (#298)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "8fdc0143",
+              "Subject": "Update sidekick dependency (#112)"
+            },
+            {
+              "SHA": "b686ba76",
+              "Subject": "Read imge pull secret from operator flags (#111)"
+            },
+            {
+              "SHA": "49cd4a67",
+              "Subject": "Fix `waiting for the target to be leader` issue (#110)"
             }
           ]
         }

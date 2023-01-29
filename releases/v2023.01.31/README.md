@@ -19,6 +19,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.24.0](https://github.com/kubedb/mysql/releases/tag/v0.24.0)
+
+- [2ce7a185](https://github.com/kubedb/mysql/commit/2ce7a185) Update sidekick dependency (#521)
+- [9e9133db](https://github.com/kubedb/mysql/commit/9e9133db) Read imge pull secret from operator flags (#520)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.9.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.9.0)

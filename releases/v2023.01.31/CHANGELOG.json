@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:53:50.640737721Z",
+  "release_date": "2023-01-29T20:54:01.628420786Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -37,6 +37,24 @@
             {
               "SHA": "56fbf1e4",
               "Subject": "Read imge pull secret from operator flags (#197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "2ce7a185",
+              "Subject": "Update sidekick dependency (#521)"
+            },
+            {
+              "SHA": "9e9133db",
+              "Subject": "Read imge pull secret from operator flags (#520)"
             }
           ]
         }

@@ -155,3 +155,12 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.16.0](https://github.com/kubedb/tests/releases/tag/v0.16.0)
+
+- [73dc61fa](https://github.com/kubedb/tests/commit/73dc61fa) Update sidekick dependency (#216)
+- [53b4a2e2](https://github.com/kubedb/tests/commit/53b4a2e2) Read imge pull secret from operator flags (#215)
+
+
+

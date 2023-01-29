@@ -46,6 +46,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.24.0](https://github.com/kubedb/mongodb/releases/tag/v0.24.0)
+
+- [58a098f0](https://github.com/kubedb/mongodb/commit/58a098f0) Update sidekick dependency (#533)
+- [2b4876a0](https://github.com/kubedb/mongodb/commit/2b4876a0) Read imge pull secret from operator flags (#532)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.24.0](https://github.com/kubedb/mysql/releases/tag/v0.24.0)

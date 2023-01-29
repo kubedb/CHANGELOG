@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:55:10.138954392Z",
+  "release_date": "2023-01-29T20:55:22.743370562Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -91,6 +91,24 @@
             {
               "SHA": "147b0ae0",
               "Subject": "Read imge pull secret from operator flags (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "58a098f0",
+              "Subject": "Update sidekick dependency (#533)"
+            },
+            {
+              "SHA": "2b4876a0",
+              "Subject": "Read imge pull secret from operator flags (#532)"
             }
           ]
         }

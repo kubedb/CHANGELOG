@@ -63,3 +63,12 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.18.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.18.0)
+
+- [08bd3050](https://github.com/kubedb/replication-mode-detector/commit/08bd3050) Update sidekick dependency (#224)
+- [b65a3b7f](https://github.com/kubedb/replication-mode-detector/commit/b65a3b7f) Read imge pull secret from operator flags (#223)
+
+
+

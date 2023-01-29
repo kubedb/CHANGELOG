@@ -63,6 +63,15 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.10.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.10.0)
+
+- [d8f8d72](https://github.com/kubedb/redis-coordinator/commit/d8f8d72) Update sidekick dependency (#62)
+- [55e1996](https://github.com/kubedb/redis-coordinator/commit/55e1996) Read imge pull secret from operator flags (#61)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.18.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.18.0)

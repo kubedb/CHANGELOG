@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:54:23.834363603Z",
+  "release_date": "2023-01-29T20:54:28.933336402Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -123,6 +123,24 @@
             {
               "SHA": "7f36f57a",
               "Subject": "Read imge pull secret from operator flags (#298)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "d8f8d72",
+              "Subject": "Update sidekick dependency (#62)"
+            },
+            {
+              "SHA": "55e1996",
+              "Subject": "Read imge pull secret from operator flags (#61)"
             }
           ]
         }

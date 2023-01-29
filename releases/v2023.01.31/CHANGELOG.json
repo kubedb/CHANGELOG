@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:55:49.530729505Z",
+  "release_date": "2023-01-29T20:55:54.809909348Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -73,6 +73,24 @@
             {
               "SHA": "56fbf1e4",
               "Subject": "Read imge pull secret from operator flags (#197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "78aaeab",
+              "Subject": "Update sidekick dependency (#72)"
+            },
+            {
+              "SHA": "5d7a579",
+              "Subject": "Read imge pull secret from operator flags (#71)"
             }
           ]
         }

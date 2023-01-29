@@ -37,6 +37,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.11.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.11.0)
+
+- [78aaeab](https://github.com/kubedb/mariadb-coordinator/commit/78aaeab) Update sidekick dependency (#72)
+- [5d7a579](https://github.com/kubedb/mariadb-coordinator/commit/5d7a579) Read imge pull secret from operator flags (#71)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.24.0](https://github.com/kubedb/memcached/releases/tag/v0.24.0)

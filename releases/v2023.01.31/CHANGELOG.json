@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:54:12.718025139Z",
+  "release_date": "2023-01-29T20:54:17.165003507Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -91,6 +91,20 @@
             {
               "SHA": "4d55c9d",
               "Subject": "Read imge pull secret from operator flags (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "63ef29f",
+              "Subject": "Update sidekick dependency (#30)"
             }
           ]
         }

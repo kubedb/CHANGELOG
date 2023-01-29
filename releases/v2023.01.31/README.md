@@ -46,6 +46,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.9.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.9.0)
+
+- [63ef29f](https://github.com/kubedb/mysql-router-init/commit/63ef29f) Update sidekick dependency (#30)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.18.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.18.0)

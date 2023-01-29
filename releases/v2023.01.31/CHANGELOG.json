@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:56:24.770149146Z",
+  "release_date": "2023-01-29T21:00:58.304792237Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -253,6 +253,28 @@
             {
               "SHA": "49cd4a67",
               "Subject": "Fix `waiting for the target to be leader` issue (#110)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "45753006",
+              "Subject": "Prepare for release v0.18.0 (#261)"
+            },
+            {
+              "SHA": "b56e096a",
+              "Subject": "Update sidekick dependency (#260)"
+            },
+            {
+              "SHA": "aa59fc2c",
+              "Subject": "Read imge pull secret from operator flags (#259)"
             }
           ]
         }

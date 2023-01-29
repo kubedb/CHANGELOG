@@ -127,6 +127,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.18.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.18.0)
+
+- [45753006](https://github.com/kubedb/pgbouncer/commit/45753006) Prepare for release v0.18.0 (#261)
+- [b56e096a](https://github.com/kubedb/pgbouncer/commit/b56e096a) Update sidekick dependency (#260)
+- [aa59fc2c](https://github.com/kubedb/pgbouncer/commit/aa59fc2c) Read imge pull secret from operator flags (#259)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.31.0](https://github.com/kubedb/postgres/releases/tag/v0.31.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T21:00:58.304792237Z",
+  "release_date": "2023-01-29T21:01:52.576511601Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -297,6 +297,28 @@
             {
               "SHA": "f9dc7194",
               "Subject": "Fixed scaling up and down for standalone with `halted=true` and Add eviction RBAC (#624)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "1c38abc8",
+              "Subject": "Prepare for release v0.18.0 (#280)"
+            },
+            {
+              "SHA": "c19af3c5",
+              "Subject": "Update sidekick dependency (#279)"
+            },
+            {
+              "SHA": "0478dff1",
+              "Subject": "Read imge pull secret from operator flags (#278)"
             }
           ]
         }

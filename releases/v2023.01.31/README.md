@@ -147,6 +147,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.18.0](https://github.com/kubedb/proxysql/releases/tag/v0.18.0)
+
+- [1c38abc8](https://github.com/kubedb/proxysql/commit/1c38abc8) Prepare for release v0.18.0 (#280)
+- [c19af3c5](https://github.com/kubedb/proxysql/commit/c19af3c5) Update sidekick dependency (#279)
+- [0478dff1](https://github.com/kubedb/proxysql/commit/0478dff1) Read imge pull secret from operator flags (#278)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.24.0](https://github.com/kubedb/redis/releases/tag/v0.24.0)

@@ -195,6 +195,15 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.7.0](https://github.com/kubedb/schema-manager/releases/tag/v0.7.0)
+
+- [6ce17e7e](https://github.com/kubedb/schema-manager/commit/6ce17e7e) Update sidekick dependency (#64)
+- [9b75ed17](https://github.com/kubedb/schema-manager/commit/9b75ed17) Read imge pull secret from operator flags (#63)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.16.0](https://github.com/kubedb/tests/releases/tag/v0.16.0)

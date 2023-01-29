@@ -19,6 +19,17 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.7.0](https://github.com/kubedb/dashboard/releases/tag/v0.7.0)
+
+- [c40c888](https://github.com/kubedb/dashboard/commit/c40c888) Prepare for release v0.7.0 (#62)
+- [205133c](https://github.com/kubedb/dashboard/commit/205133c) Update sidekick dependency (#61)
+- [f6fe542](https://github.com/kubedb/dashboard/commit/f6fe542) Update sidekick dependency (#60)
+- [1ec3b80](https://github.com/kubedb/dashboard/commit/1ec3b80) Read imge pull secret from operator flags (#59)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.31.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.31.0)

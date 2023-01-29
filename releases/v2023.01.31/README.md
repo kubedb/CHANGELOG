@@ -28,6 +28,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.24.0](https://github.com/kubedb/memcached/releases/tag/v0.24.0)
+
+- [67c3dad8](https://github.com/kubedb/memcached/commit/67c3dad8) Update sidekick dependency (#384)
+- [147b0ae0](https://github.com/kubedb/memcached/commit/147b0ae0) Read imge pull secret from operator flags (#383)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.24.0](https://github.com/kubedb/mysql/releases/tag/v0.24.0)

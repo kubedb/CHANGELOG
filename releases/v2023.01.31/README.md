@@ -213,3 +213,13 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.7.0](https://github.com/kubedb/ui-server/releases/tag/v0.7.0)
+
+- [3fd9a734](https://github.com/kubedb/ui-server/commit/3fd9a734) Update sidekick dependency (#66)
+- [f5a40c64](https://github.com/kubedb/ui-server/commit/f5a40c64) Add PgBouncer Support (#62)
+- [fbcb7537](https://github.com/kubedb/ui-server/commit/fbcb7537) Read imge pull secret from operator flags (#65)
+
+
+

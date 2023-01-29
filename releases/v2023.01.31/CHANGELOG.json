@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T21:08:52.445755931Z",
+  "release_date": "2023-01-29T21:08:58.474264396Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -435,6 +435,28 @@
             {
               "SHA": "53b4a2e2",
               "Subject": "Read imge pull secret from operator flags (#215)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "3fd9a734",
+              "Subject": "Update sidekick dependency (#66)"
+            },
+            {
+              "SHA": "f5a40c64",
+              "Subject": "Add PgBouncer Support (#62)"
+            },
+            {
+              "SHA": "fbcb7537",
+              "Subject": "Read imge pull secret from operator flags (#65)"
             }
           ]
         }

@@ -19,3 +19,12 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.18.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.18.0)
+
+- [6da94951](https://github.com/kubedb/percona-xtradb/commit/6da94951) Update sidekick dependency (#299)
+- [7f36f57a](https://github.com/kubedb/percona-xtradb/commit/7f36f57a) Read imge pull secret from operator flags (#298)
+
+
+

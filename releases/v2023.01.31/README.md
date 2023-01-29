@@ -90,6 +90,15 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.4.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.4.0)
+
+- [562d7df](https://github.com/kubedb/percona-xtradb-coordinator/commit/562d7df) Update sidekick dependency (#29)
+- [0e823ff](https://github.com/kubedb/percona-xtradb-coordinator/commit/0e823ff) Read imge pull secret from operator flags (#28)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.15.0)

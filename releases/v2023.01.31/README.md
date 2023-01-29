@@ -10,3 +10,12 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.15.0](https://github.com/kubedb/mariadb/releases/tag/v0.15.0)
+
+- [6d769a0a](https://github.com/kubedb/mariadb/commit/6d769a0a) Prepare for release v0.15.0 (#198)
+- [56fbf1e4](https://github.com/kubedb/mariadb/commit/56fbf1e4) Read imge pull secret from operator flags (#197)
+
+
+

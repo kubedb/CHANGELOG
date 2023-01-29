@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:20:19.850352493Z",
+  "release_date": "2023-01-29T20:53:04.010496879Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -19,6 +19,24 @@
             {
               "SHA": "424a2960",
               "Subject": "Fix postgres `transferLeadershipTimeout` (#1013)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "6d769a0a",
+              "Subject": "Prepare for release v0.15.0 (#198)"
+            },
+            {
+              "SHA": "56fbf1e4",
+              "Subject": "Read imge pull secret from operator flags (#197)"
             }
           ]
         }

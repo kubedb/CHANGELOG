@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:54:01.628420786Z",
+  "release_date": "2023-01-29T20:54:12.718025139Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -19,6 +19,24 @@
             {
               "SHA": "424a2960",
               "Subject": "Fix postgres `transferLeadershipTimeout` (#1013)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "b91d6a98e",
+              "Subject": "Update sidekick dependency (#626)"
+            },
+            {
+              "SHA": "5c36b6944",
+              "Subject": "Read imge pull secret from operator flags (#625)"
             }
           ]
         }

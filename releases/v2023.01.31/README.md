@@ -10,6 +10,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.31.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.31.0)
+
+- [b91d6a98](https://github.com/kubedb/elasticsearch/commit/b91d6a98e) Update sidekick dependency (#626)
+- [5c36b694](https://github.com/kubedb/elasticsearch/commit/5c36b6944) Read imge pull secret from operator flags (#625)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.15.0](https://github.com/kubedb/mariadb/releases/tag/v0.15.0)

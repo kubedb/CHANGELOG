@@ -72,6 +72,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.31.0](https://github.com/kubedb/postgres/releases/tag/v0.31.0)
+
+- [710e4282](https://github.com/kubedb/postgres/commit/710e4282) Update sidekick dependency (#627)
+- [30ffd035](https://github.com/kubedb/postgres/commit/30ffd035) Read imge pull secret from operator flags (#626)
+- [f9dc7194](https://github.com/kubedb/postgres/commit/f9dc7194) Fixed scaling up and down for standalone with `halted=true` and Add eviction RBAC (#624)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.24.0](https://github.com/kubedb/redis/releases/tag/v0.24.0)

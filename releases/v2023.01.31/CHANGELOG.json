@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T20:56:02.53706196Z",
+  "release_date": "2023-01-29T20:56:24.770149146Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -55,6 +55,24 @@
             {
               "SHA": "5c36b6944",
               "Subject": "Read imge pull secret from operator flags (#625)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "fa669ea",
+              "Subject": "Prepare for release v0.2.0 (#14)"
+            },
+            {
+              "SHA": "f50c714",
+              "Subject": "Read imge pull secret from operator flags (#13)"
             }
           ]
         }

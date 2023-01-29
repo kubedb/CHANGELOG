@@ -28,6 +28,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.2.0](https://github.com/kubedb/kafka/releases/tag/v0.2.0)
+
+- [fa669ea](https://github.com/kubedb/kafka/commit/fa669ea) Prepare for release v0.2.0 (#14)
+- [f50c714](https://github.com/kubedb/kafka/commit/f50c714) Read imge pull secret from operator flags (#13)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.15.0](https://github.com/kubedb/mariadb/releases/tag/v0.15.0)

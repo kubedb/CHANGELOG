@@ -254,3 +254,12 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.7.0](https://github.com/kubedb/webhook-server/releases/tag/v0.7.0)
+
+- [a01a3928](https://github.com/kubedb/webhook-server/commit/a01a3928) Prepare for release v0.7.0 (#50)
+- [5677176e](https://github.com/kubedb/webhook-server/commit/5677176e) Update sidekick dependency (#49)
+
+
+

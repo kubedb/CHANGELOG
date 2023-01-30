@@ -20,6 +20,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2023.01.31](https://github.com/kubedb/bundles/releases/tag/v2023.01.31)
+
+- [c5067ec](https://github.com/kubedb/bundles/commit/c5067ec) Prepare for release v2023.01.31 (#59)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.31.0](https://github.com/kubedb/cli/releases/tag/v0.31.0)

@@ -1,0 +1,632 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.01.31",
+  "release_date": "2023-01-30T04:40:47.184802447Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.01.31",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "f2cc1db7",
+              "Subject": "Add PgBouncer apis for UI Server (#1011)"
+            },
+            {
+              "SHA": "424a2960",
+              "Subject": "Fix postgres `transferLeadershipTimeout` (#1013)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "1ffa653b",
+              "Subject": "Update sidekick dependency (#135)"
+            },
+            {
+              "SHA": "e9b84b31",
+              "Subject": "Update sidekick dependency (#133)"
+            },
+            {
+              "SHA": "02affdc3",
+              "Subject": "Read imge pull secret from operator flags (#132)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.01.31",
+          "commits": [
+            {
+              "SHA": "c5067ec",
+              "Subject": "Prepare for release v2023.01.31 (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "a821a2ce",
+              "Subject": "Update sidekick dependency (#697)"
+            },
+            {
+              "SHA": "6fdf6747",
+              "Subject": "Read imge pull secret from operator flags (#696)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "c40c888",
+              "Subject": "Prepare for release v0.7.0 (#62)"
+            },
+            {
+              "SHA": "205133c",
+              "Subject": "Update sidekick dependency (#61)"
+            },
+            {
+              "SHA": "f6fe542",
+              "Subject": "Update sidekick dependency (#60)"
+            },
+            {
+              "SHA": "1ec3b80",
+              "Subject": "Read imge pull secret from operator flags (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.01.31",
+          "commits": [
+            {
+              "SHA": "6b97f610",
+              "Subject": "Prepare for release v2023.01.31 (#530)"
+            },
+            {
+              "SHA": "6a76bcdf",
+              "Subject": "Update docs for kubedb/provisioner@e0214013 (#529)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "b91d6a98e",
+              "Subject": "Update sidekick dependency (#626)"
+            },
+            {
+              "SHA": "5c36b6944",
+              "Subject": "Read imge pull secret from operator flags (#625)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.01.31",
+          "commits": [
+            {
+              "SHA": "6e84d9a3",
+              "Subject": "Prepare for release v2023.01.31 (#590)"
+            },
+            {
+              "SHA": "97109145",
+              "Subject": "Add Sidekick on Cluster Role (POC) (#575)"
+            },
+            {
+              "SHA": "29c471ed",
+              "Subject": "Update Dashboard init container images (#589)"
+            },
+            {
+              "SHA": "935a7e75",
+              "Subject": "Read image pull secret from operator flags (#588)"
+            },
+            {
+              "SHA": "e58f09ae",
+              "Subject": "Add `pod/eviction` rbac for provisioner (#586)"
+            },
+            {
+              "SHA": "692d5929",
+              "Subject": "Update crds for kubedb/apimachinery@424a2960 (#587)"
+            },
+            {
+              "SHA": "55c4da09",
+              "Subject": "Fix grafana dashboard variable Name"
+            },
+            {
+              "SHA": "9e9b92ee",
+              "Subject": "Update supervisor crd"
+            },
+            {
+              "SHA": "63645074",
+              "Subject": "Make service monitor required in global values"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "fa669ea",
+              "Subject": "Prepare for release v0.2.0 (#14)"
+            },
+            {
+              "SHA": "f50c714",
+              "Subject": "Read imge pull secret from operator flags (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "6d769a0a",
+              "Subject": "Prepare for release v0.15.0 (#198)"
+            },
+            {
+              "SHA": "56fbf1e4",
+              "Subject": "Read imge pull secret from operator flags (#197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "78aaeab",
+              "Subject": "Update sidekick dependency (#72)"
+            },
+            {
+              "SHA": "5d7a579",
+              "Subject": "Read imge pull secret from operator flags (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "67c3dad8",
+              "Subject": "Update sidekick dependency (#384)"
+            },
+            {
+              "SHA": "147b0ae0",
+              "Subject": "Read imge pull secret from operator flags (#383)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "58a098f0",
+              "Subject": "Update sidekick dependency (#533)"
+            },
+            {
+              "SHA": "2b4876a0",
+              "Subject": "Read imge pull secret from operator flags (#532)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "2ce7a185",
+              "Subject": "Update sidekick dependency (#521)"
+            },
+            {
+              "SHA": "9e9133db",
+              "Subject": "Read imge pull secret from operator flags (#520)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "727ce38",
+              "Subject": "Update sidekick dependency (#70)"
+            },
+            {
+              "SHA": "4d55c9d",
+              "Subject": "Read imge pull secret from operator flags (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "63ef29f",
+              "Subject": "Update sidekick dependency (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "049b0428",
+              "Subject": "Prepare for release v0.18.0 (#413)"
+            },
+            {
+              "SHA": "9dc43bfa",
+              "Subject": "Update sidekick dependency (#412)"
+            },
+            {
+              "SHA": "010a65c7",
+              "Subject": "Read image pull secret from operator flags (#411)"
+            },
+            {
+              "SHA": "0b3fcf4a",
+              "Subject": "Read imge pull secret from operator flags (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "6da94951",
+              "Subject": "Update sidekick dependency (#299)"
+            },
+            {
+              "SHA": "7f36f57a",
+              "Subject": "Read imge pull secret from operator flags (#298)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "562d7df",
+              "Subject": "Update sidekick dependency (#29)"
+            },
+            {
+              "SHA": "0e823ff",
+              "Subject": "Read imge pull secret from operator flags (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "8fdc0143",
+              "Subject": "Update sidekick dependency (#112)"
+            },
+            {
+              "SHA": "b686ba76",
+              "Subject": "Read imge pull secret from operator flags (#111)"
+            },
+            {
+              "SHA": "49cd4a67",
+              "Subject": "Fix `waiting for the target to be leader` issue (#110)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "45753006",
+              "Subject": "Prepare for release v0.18.0 (#261)"
+            },
+            {
+              "SHA": "b56e096a",
+              "Subject": "Update sidekick dependency (#260)"
+            },
+            {
+              "SHA": "aa59fc2c",
+              "Subject": "Read imge pull secret from operator flags (#259)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "710e4282",
+              "Subject": "Update sidekick dependency (#627)"
+            },
+            {
+              "SHA": "30ffd035",
+              "Subject": "Read imge pull secret from operator flags (#626)"
+            },
+            {
+              "SHA": "f9dc7194",
+              "Subject": "Fixed scaling up and down for standalone with `halted=true` and Add eviction RBAC (#624)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "8d8fe8f5b",
+              "Subject": "Prepare for release v0.31.0 (#38)"
+            },
+            {
+              "SHA": "ccd6c545f",
+              "Subject": "Update sidekick dependency (#37)"
+            },
+            {
+              "SHA": "e0214013b",
+              "Subject": "Read imge pull secret from operator flags (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "1c38abc8",
+              "Subject": "Prepare for release v0.18.0 (#280)"
+            },
+            {
+              "SHA": "c19af3c5",
+              "Subject": "Update sidekick dependency (#279)"
+            },
+            {
+              "SHA": "0478dff1",
+              "Subject": "Read imge pull secret from operator flags (#278)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "20a616fa",
+              "Subject": "Update sidekick dependency (#449)"
+            },
+            {
+              "SHA": "eebeb0b9",
+              "Subject": "Read imge pull secret from operator flags (#448)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "d8f8d72",
+              "Subject": "Update sidekick dependency (#62)"
+            },
+            {
+              "SHA": "55e1996",
+              "Subject": "Read imge pull secret from operator flags (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "08bd3050",
+              "Subject": "Update sidekick dependency (#224)"
+            },
+            {
+              "SHA": "b65a3b7f",
+              "Subject": "Read imge pull secret from operator flags (#223)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "6ce17e7e",
+              "Subject": "Update sidekick dependency (#64)"
+            },
+            {
+              "SHA": "9b75ed17",
+              "Subject": "Read imge pull secret from operator flags (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "73dc61fa",
+              "Subject": "Update sidekick dependency (#216)"
+            },
+            {
+              "SHA": "53b4a2e2",
+              "Subject": "Read imge pull secret from operator flags (#215)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "3fd9a734",
+              "Subject": "Update sidekick dependency (#66)"
+            },
+            {
+              "SHA": "f5a40c64",
+              "Subject": "Add PgBouncer Support (#62)"
+            },
+            {
+              "SHA": "fbcb7537",
+              "Subject": "Read imge pull secret from operator flags (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "a01a3928",
+              "Subject": "Prepare for release v0.7.0 (#50)"
+            },
+            {
+              "SHA": "5677176e",
+              "Subject": "Update sidekick dependency (#49)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

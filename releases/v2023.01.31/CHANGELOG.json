@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-30T02:54:45.55250883Z",
+  "release_date": "2023-01-30T02:56:06.61317545Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -19,6 +19,28 @@
             {
               "SHA": "424a2960",
               "Subject": "Fix postgres `transferLeadershipTimeout` (#1013)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "1ffa653b",
+              "Subject": "Update sidekick dependency (#135)"
+            },
+            {
+              "SHA": "e9b84b31",
+              "Subject": "Update sidekick dependency (#133)"
+            },
+            {
+              "SHA": "02affdc3",
+              "Subject": "Read imge pull secret from operator flags (#132)"
             }
           ]
         }

@@ -10,6 +10,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.16.0](https://github.com/kubedb/autoscaler/releases/tag/v0.16.0)
+
+- [1ffa653b](https://github.com/kubedb/autoscaler/commit/1ffa653b) Update sidekick dependency (#135)
+- [e9b84b31](https://github.com/kubedb/autoscaler/commit/e9b84b31) Update sidekick dependency (#133)
+- [02affdc3](https://github.com/kubedb/autoscaler/commit/02affdc3) Read imge pull secret from operator flags (#132)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.31.0](https://github.com/kubedb/cli/releases/tag/v0.31.0)

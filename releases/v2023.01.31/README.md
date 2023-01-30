@@ -1,4 +1,4 @@
-# KubeDB v2023.01.31 (2023-01-29)
+# KubeDB v2023.01.31 (2023-01-30)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -107,6 +107,17 @@
 ### [v0.9.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.9.0)
 
 - [63ef29f](https://github.com/kubedb/mysql-router-init/commit/63ef29f) Update sidekick dependency (#30)
+
+
+
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.18.0](https://github.com/kubedb/ops-manager/releases/tag/v0.18.0)
+
+- [049b0428](https://github.com/kubedb/ops-manager/commit/049b0428) Prepare for release v0.18.0 (#413)
+- [9dc43bfa](https://github.com/kubedb/ops-manager/commit/9dc43bfa) Update sidekick dependency (#412)
+- [010a65c7](https://github.com/kubedb/ops-manager/commit/010a65c7) Read image pull secret from operator flags (#411)
+- [0b3fcf4a](https://github.com/kubedb/ops-manager/commit/0b3fcf4a) Read imge pull secret from operator flags (#410)
 
 
 

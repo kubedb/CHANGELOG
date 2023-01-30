@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-29T21:12:05.374156415Z",
+  "release_date": "2023-01-30T02:54:45.55250883Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -221,6 +221,32 @@
             {
               "SHA": "63ef29f",
               "Subject": "Update sidekick dependency (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "049b0428",
+              "Subject": "Prepare for release v0.18.0 (#413)"
+            },
+            {
+              "SHA": "9dc43bfa",
+              "Subject": "Update sidekick dependency (#412)"
+            },
+            {
+              "SHA": "010a65c7",
+              "Subject": "Read image pull secret from operator flags (#411)"
+            },
+            {
+              "SHA": "0b3fcf4a",
+              "Subject": "Read imge pull secret from operator flags (#410)"
             }
           ]
         }

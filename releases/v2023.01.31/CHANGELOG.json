@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-30T03:24:04.291613516Z",
+  "release_date": "2023-01-30T04:30:55.487736658Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -85,6 +85,24 @@
             {
               "SHA": "1ec3b80",
               "Subject": "Read imge pull secret from operator flags (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.01.31",
+          "commits": [
+            {
+              "SHA": "6b97f610",
+              "Subject": "Prepare for release v2023.01.31 (#530)"
+            },
+            {
+              "SHA": "6a76bcdf",
+              "Subject": "Update docs for kubedb/provisioner@e0214013 (#529)"
             }
           ]
         }

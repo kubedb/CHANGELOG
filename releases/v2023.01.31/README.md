@@ -40,6 +40,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2023.01.31](https://github.com/kubedb/docs/releases/tag/v2023.01.31)
+
+- [6b97f610](https://github.com/kubedb/docs/commit/6b97f610) Prepare for release v2023.01.31 (#530)
+- [6a76bcdf](https://github.com/kubedb/docs/commit/6a76bcdf) Update docs for kubedb/provisioner@e0214013 (#529)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.31.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.31.0)

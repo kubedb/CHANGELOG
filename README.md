@@ -2,7 +2,7 @@
 
 | KubeDB Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
-| [v2023.01.31](https:/github.com/kubedb/CHANGELOG/releases/tag/v2023.01.31) | 2023-01-29 | [User Guide](https://kubedb.com/docs/v2023.01.31) | [CHANGELOG](/releases/v2023.01.31/README.md) | 1.18+ |
+| [v2023.01.31](https:/github.com/kubedb/CHANGELOG/releases/tag/v2023.01.31) | 2023-01-30 | [User Guide](https://kubedb.com/docs/v2023.01.31) | [CHANGELOG](/releases/v2023.01.31/README.md) | 1.18+ |
 | [v2023.01.17](https:/github.com/kubedb/CHANGELOG/releases/tag/v2023.01.17) | 2023-01-17 | [User Guide](https://kubedb.com/docs/v2023.01.17) | [CHANGELOG](/releases/v2023.01.17/README.md) | 1.18+ |
 | [v2022.12.28](https:/github.com/kubedb/CHANGELOG/releases/tag/v2022.12.28) | 2022-12-28 | [User Guide](https://kubedb.com/docs/v2022.12.28) | [CHANGELOG](/releases/v2022.12.28/README.md) | 1.18+ |
 | [v2022.12.24-rc.1](https:/github.com/kubedb/CHANGELOG/releases/tag/v2022.12.24-rc.1) | 2022-12-24 | [User Guide](https://kubedb.com/docs/v2022.12.24-rc.1) | [CHANGELOG](/releases/v2022.12.24-rc.1/README.md) | 1.18+ |

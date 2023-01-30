@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.01.31",
-  "release_date": "2023-01-30T03:02:20.110499928Z",
+  "release_date": "2023-01-30T03:24:04.291613516Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.01.31",
   "kubernetes_version": "1.18+",
@@ -103,6 +103,52 @@
             {
               "SHA": "5c36b6944",
               "Subject": "Read imge pull secret from operator flags (#625)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.01.31",
+          "commits": [
+            {
+              "SHA": "6e84d9a3",
+              "Subject": "Prepare for release v2023.01.31 (#590)"
+            },
+            {
+              "SHA": "97109145",
+              "Subject": "Add Sidekick on Cluster Role (POC) (#575)"
+            },
+            {
+              "SHA": "29c471ed",
+              "Subject": "Update Dashboard init container images (#589)"
+            },
+            {
+              "SHA": "935a7e75",
+              "Subject": "Read image pull secret from operator flags (#588)"
+            },
+            {
+              "SHA": "e58f09ae",
+              "Subject": "Add `pod/eviction` rbac for provisioner (#586)"
+            },
+            {
+              "SHA": "692d5929",
+              "Subject": "Update crds for kubedb/apimachinery@424a2960 (#587)"
+            },
+            {
+              "SHA": "55c4da09",
+              "Subject": "Fix grafana dashboard variable Name"
+            },
+            {
+              "SHA": "9e9b92ee",
+              "Subject": "Update supervisor crd"
+            },
+            {
+              "SHA": "63645074",
+              "Subject": "Make service monitor required in global values"
             }
           ]
         }

@@ -49,6 +49,22 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2023.01.31](https://github.com/kubedb/installer/releases/tag/v2023.01.31)
+
+- [6e84d9a3](https://github.com/kubedb/installer/commit/6e84d9a3) Prepare for release v2023.01.31 (#590)
+- [97109145](https://github.com/kubedb/installer/commit/97109145) Add Sidekick on Cluster Role (POC) (#575)
+- [29c471ed](https://github.com/kubedb/installer/commit/29c471ed) Update Dashboard init container images (#589)
+- [935a7e75](https://github.com/kubedb/installer/commit/935a7e75) Read image pull secret from operator flags (#588)
+- [e58f09ae](https://github.com/kubedb/installer/commit/e58f09ae) Add `pod/eviction` rbac for provisioner (#586)
+- [692d5929](https://github.com/kubedb/installer/commit/692d5929) Update crds for kubedb/apimachinery@424a2960 (#587)
+- [55c4da09](https://github.com/kubedb/installer/commit/55c4da09) Fix grafana dashboard variable Name
+- [9e9b92ee](https://github.com/kubedb/installer/commit/9e9b92ee) Update supervisor crd
+- [63645074](https://github.com/kubedb/installer/commit/63645074) Make service monitor required in global values
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.2.0](https://github.com/kubedb/kafka/releases/tag/v0.2.0)

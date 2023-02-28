@@ -105,6 +105,18 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.19.0](https://github.com/kubedb/ops-manager/releases/tag/v0.19.0)
+
+- [2ae340f2](https://github.com/kubedb/ops-manager/commit/2ae340f2) Prepare for release v0.19.0 (#419)
+- [b91aa423](https://github.com/kubedb/ops-manager/commit/b91aa423) Fix ProxySQL reconfigure tls issues (#418)
+- [3d320c64](https://github.com/kubedb/ops-manager/commit/3d320c64) Add PEM encoded output in certificate based on cert-manager feature-gate (#417)
+- [817a828e](https://github.com/kubedb/ops-manager/commit/817a828e) Support Acme protocol issued certs for PgBouncer & ProxySQL (#415)
+- [fe3ef59a](https://github.com/kubedb/ops-manager/commit/fe3ef59a) Add support for  stand Alone to HA postgres (#409)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.19.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.19.0)

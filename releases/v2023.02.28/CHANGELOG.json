@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T10:29:20.892337339Z",
+  "release_date": "2023-02-28T10:30:48.071621683Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -86,6 +86,24 @@
             {
               "SHA": "450a3942",
               "Subject": "Prepare for release v0.19.0 (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "b6e52b82",
+              "Subject": "Prepare for release v0.17.0 (#217)"
+            },
+            {
+              "SHA": "6ccd68ef",
+              "Subject": "Add MySQL tests (#198)"
             }
           ]
         }

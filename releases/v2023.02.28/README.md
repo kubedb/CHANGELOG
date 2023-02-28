@@ -45,3 +45,12 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.17.0](https://github.com/kubedb/tests/releases/tag/v0.17.0)
+
+- [b6e52b82](https://github.com/kubedb/tests/commit/b6e52b82) Prepare for release v0.17.0 (#217)
+- [6ccd68ef](https://github.com/kubedb/tests/commit/6ccd68ef) Add MySQL tests (#198)
+
+
+

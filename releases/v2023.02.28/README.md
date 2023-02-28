@@ -22,6 +22,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.25.0](https://github.com/kubedb/memcached/releases/tag/v0.25.0)
+
+- [a6449fc0](https://github.com/kubedb/memcached/commit/a6449fc0) Prepare for release v0.25.0 (#385)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.25.0](https://github.com/kubedb/mysql/releases/tag/v0.25.0)

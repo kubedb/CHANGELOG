@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T10:34:44.740372188Z",
+  "release_date": "2023-02-28T10:43:32.791273571Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -49,6 +49,24 @@
             {
               "SHA": "8477bd09",
               "Subject": "Prepare for release v0.32.0 (#698)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "249481659",
+              "Subject": "Prepare for release v0.32.0 (#629)"
+            },
+            {
+              "SHA": "7b6f30edf",
+              "Subject": "Use separate securityConfig Volume mount path for Opensearch V2 (#627)"
             }
           ]
         }

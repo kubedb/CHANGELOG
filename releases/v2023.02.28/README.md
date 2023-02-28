@@ -22,6 +22,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.32.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.32.0)
+
+- [24948165](https://github.com/kubedb/elasticsearch/commit/249481659) Prepare for release v0.32.0 (#629)
+- [7b6f30ed](https://github.com/kubedb/elasticsearch/commit/7b6f30edf) Use separate securityConfig Volume mount path for Opensearch V2 (#627)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.16.0](https://github.com/kubedb/mariadb/releases/tag/v0.16.0)

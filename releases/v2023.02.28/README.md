@@ -48,6 +48,19 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2023.02.28](https://github.com/kubedb/installer/releases/tag/v2023.02.28)
+
+- [d7d1197d](https://github.com/kubedb/installer/commit/d7d1197d) Prepare for release v2023.02.28 (#601)
+- [73115439](https://github.com/kubedb/installer/commit/73115439) Update MariaDB initContainer Image with 0.5.0 (#600)
+- [fa9aab3c](https://github.com/kubedb/installer/commit/fa9aab3c) Add `SecurityContext` & remove `initContainer` from `pgbouncerVersion.spec` (#596)
+- [9959c608](https://github.com/kubedb/installer/commit/9959c608) Add Support for OpenSearch v2.0.1 & v2.5.0 (#599)
+- [a9ca09c0](https://github.com/kubedb/installer/commit/a9ca09c0) Update postgres init conatiner and rbac for  pvc (#592)
+- [2f3da948](https://github.com/kubedb/installer/commit/2f3da948) Update crds for kubedb/apimachinery@b334a5eb (#591)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.3.0](https://github.com/kubedb/kafka/releases/tag/v0.3.0)

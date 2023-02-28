@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T18:20:30.930411232Z",
+  "release_date": "2023-02-28T19:03:36.818992096Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -99,6 +99,40 @@
             {
               "SHA": "7b6f30edf",
               "Subject": "Use separate securityConfig Volume mount path for Opensearch V2 (#627)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.02.28",
+          "commits": [
+            {
+              "SHA": "d7d1197d",
+              "Subject": "Prepare for release v2023.02.28 (#601)"
+            },
+            {
+              "SHA": "73115439",
+              "Subject": "Update MariaDB initContainer Image with 0.5.0 (#600)"
+            },
+            {
+              "SHA": "fa9aab3c",
+              "Subject": "Add `SecurityContext` & remove `initContainer` from `pgbouncerVersion.spec` (#596)"
+            },
+            {
+              "SHA": "9959c608",
+              "Subject": "Add Support for OpenSearch v2.0.1 & v2.5.0 (#599)"
+            },
+            {
+              "SHA": "a9ca09c0",
+              "Subject": "Update postgres init conatiner and rbac for  pvc (#592)"
+            },
+            {
+              "SHA": "2f3da948",
+              "Subject": "Update crds for kubedb/apimachinery@b334a5eb (#591)"
             }
           ]
         }

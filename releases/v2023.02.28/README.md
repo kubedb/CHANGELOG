@@ -22,6 +22,14 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.25.0](https://github.com/kubedb/mysql/releases/tag/v0.25.0)
+
+- [168c7346](https://github.com/kubedb/mysql/commit/168c7346) Prepare for release v0.25.0 (#522)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.10.0)

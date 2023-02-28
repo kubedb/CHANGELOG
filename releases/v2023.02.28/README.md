@@ -39,6 +39,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2023.02.28](https://github.com/kubedb/docs/releases/tag/v2023.02.28)
+
+- [33f4f98b](https://github.com/kubedb/docs/commit/33f4f98b) Prepare for release v2023.02.28 (#532)
+- [d00fe717](https://github.com/kubedb/docs/commit/d00fe717) Update Redis Docs (#531)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.32.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.32.0)

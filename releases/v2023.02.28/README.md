@@ -30,6 +30,14 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.25.0](https://github.com/kubedb/mongodb/releases/tag/v0.25.0)
+
+- [abfa58ea](https://github.com/kubedb/mongodb/commit/abfa58ea) Prepare for release v0.25.0 (#535)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.25.0](https://github.com/kubedb/mysql/releases/tag/v0.25.0)

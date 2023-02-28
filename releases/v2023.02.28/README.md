@@ -41,6 +41,14 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.12.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.12.0)
+
+- [ead9061](https://github.com/kubedb/mariadb-coordinator/commit/ead9061) Prepare for release v0.12.0 (#73)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.25.0](https://github.com/kubedb/memcached/releases/tag/v0.25.0)

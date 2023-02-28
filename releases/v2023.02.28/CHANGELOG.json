@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T10:43:32.791273571Z",
+  "release_date": "2023-02-28T10:45:43.007222468Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -89,6 +89,20 @@
             {
               "SHA": "0ba15d93",
               "Subject": "Update sidekick dependency (#199)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "ead9061",
+              "Subject": "Prepare for release v0.12.0 (#73)"
             }
           ]
         }

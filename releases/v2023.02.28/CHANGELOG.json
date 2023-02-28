@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T11:01:40.622588934Z",
+  "release_date": "2023-02-28T11:06:20.757392174Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -264,6 +264,24 @@
             {
               "SHA": "5eecc8b8",
               "Subject": "Refactor  Reconciler to address Standalone to High Availability (#625)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "d739df42",
+              "Subject": "Prepare for release v0.19.0 (#283)"
+            },
+            {
+              "SHA": "6392951a",
+              "Subject": "Support Acme Protocol Issued Certs (eg LE) (#282)"
             }
           ]
         }

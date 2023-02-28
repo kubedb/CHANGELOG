@@ -139,6 +139,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.19.0](https://github.com/kubedb/proxysql/releases/tag/v0.19.0)
+
+- [d739df42](https://github.com/kubedb/proxysql/commit/d739df42) Prepare for release v0.19.0 (#283)
+- [6392951a](https://github.com/kubedb/proxysql/commit/6392951a) Support Acme Protocol Issued Certs (eg LE) (#282)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.25.0](https://github.com/kubedb/redis/releases/tag/v0.25.0)

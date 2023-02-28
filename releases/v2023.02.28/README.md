@@ -77,6 +77,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.32.0](https://github.com/kubedb/postgres/releases/tag/v0.32.0)
+
+- [2daf213e](https://github.com/kubedb/postgres/commit/2daf213e) Prepare for release v0.32.0 (#629)
+- [5eecc8b8](https://github.com/kubedb/postgres/commit/5eecc8b8) Refactor  Reconciler to address Standalone to High Availability (#625)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.25.0](https://github.com/kubedb/redis/releases/tag/v0.25.0)

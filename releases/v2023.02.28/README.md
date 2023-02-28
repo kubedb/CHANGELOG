@@ -120,6 +120,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.19.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.19.0)
+
+- [107f81dd](https://github.com/kubedb/pgbouncer/commit/107f81dd) Prepare for release v0.19.0 (#266)
+- [7afeb055](https://github.com/kubedb/pgbouncer/commit/7afeb055) Acme TLS support (#262)
+- [4abc8090](https://github.com/kubedb/pgbouncer/commit/4abc8090) Fix ownerReference for auth secret (#263)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.32.0](https://github.com/kubedb/postgres/releases/tag/v0.32.0)

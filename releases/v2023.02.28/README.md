@@ -31,6 +31,14 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.3.0](https://github.com/kubedb/kafka/releases/tag/v0.3.0)
+
+- [be9595d](https://github.com/kubedb/kafka/commit/be9595d) Prepare for release v0.3.0 (#15)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.16.0](https://github.com/kubedb/mariadb/releases/tag/v0.16.0)

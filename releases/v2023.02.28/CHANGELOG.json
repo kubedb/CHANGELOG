@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T11:06:20.757392174Z",
+  "release_date": "2023-02-28T11:17:51.019659541Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -49,6 +49,24 @@
             {
               "SHA": "8477bd09",
               "Subject": "Prepare for release v0.32.0 (#698)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "b0ac65a",
+              "Subject": "Prepare for release v0.8.0 (#64)"
+            },
+            {
+              "SHA": "987d7ef",
+              "Subject": "Add support for opensearch-dashboards 2.x (#63)"
             }
           ]
         }

@@ -22,6 +22,15 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.8.0](https://github.com/kubedb/dashboard/releases/tag/v0.8.0)
+
+- [b0ac65a](https://github.com/kubedb/dashboard/commit/b0ac65a) Prepare for release v0.8.0 (#64)
+- [987d7ef](https://github.com/kubedb/dashboard/commit/987d7ef) Add support for opensearch-dashboards 2.x (#63)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.32.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.32.0)

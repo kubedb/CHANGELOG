@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T10:27:45.811503401Z",
+  "release_date": "2023-02-28T10:28:42.160426931Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -35,6 +35,20 @@
             {
               "SHA": "b334a5eb",
               "Subject": "Add postgres streaming and standby mode in horizontal scaling (#1017)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "570c5f4",
+              "Subject": "Prepare for release v0.10.0 (#71)"
             }
           ]
         }

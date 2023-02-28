@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T17:46:53.355844624Z",
+  "release_date": "2023-02-28T17:59:04.894416489Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -35,6 +35,20 @@
             {
               "SHA": "b334a5eb",
               "Subject": "Add postgres streaming and standby mode in horizontal scaling (#1017)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "4d8bd3b0",
+              "Subject": "Prepare for release v0.17.0 (#136)"
             }
           ]
         }

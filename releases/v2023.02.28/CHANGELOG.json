@@ -1,0 +1,535 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.02.28",
+  "release_date": "2023-02-28T19:31:34.360697907Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.02.28",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "40b15db3",
+              "Subject": "Add WsrepSSTMethod Field in MariaDB API (#1012)"
+            },
+            {
+              "SHA": "1b9e2bac",
+              "Subject": "Update `setDefaults()` for pgbouncer (#1022)"
+            },
+            {
+              "SHA": "7bf2fbe1",
+              "Subject": "Add separate Security Config Directory constant for Opensearch V2 (#1021)"
+            },
+            {
+              "SHA": "693b7795",
+              "Subject": "Update TLS Defaulting for ProxySQL & PgBouncer (#1020)"
+            },
+            {
+              "SHA": "48fae91c",
+              "Subject": "Fix `GetPersistentSecrets()` function (#1018)"
+            },
+            {
+              "SHA": "b334a5eb",
+              "Subject": "Add postgres streaming and standby mode in horizontal scaling (#1017)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "4d8bd3b0",
+              "Subject": "Prepare for release v0.17.0 (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.02.28",
+          "commits": [
+            {
+              "SHA": "29651e3",
+              "Subject": "Prepare for release v2023.02.28 (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "8477bd09",
+              "Subject": "Prepare for release v0.32.0 (#698)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "b0ac65a",
+              "Subject": "Prepare for release v0.8.0 (#64)"
+            },
+            {
+              "SHA": "987d7ef",
+              "Subject": "Add support for opensearch-dashboards 2.x (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.02.28",
+          "commits": [
+            {
+              "SHA": "33f4f98b",
+              "Subject": "Prepare for release v2023.02.28 (#532)"
+            },
+            {
+              "SHA": "d00fe717",
+              "Subject": "Update Redis Docs (#531)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "249481659",
+              "Subject": "Prepare for release v0.32.0 (#629)"
+            },
+            {
+              "SHA": "7b6f30edf",
+              "Subject": "Use separate securityConfig Volume mount path for Opensearch V2 (#627)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.02.28",
+          "commits": [
+            {
+              "SHA": "d7d1197d",
+              "Subject": "Prepare for release v2023.02.28 (#601)"
+            },
+            {
+              "SHA": "73115439",
+              "Subject": "Update MariaDB initContainer Image with 0.5.0 (#600)"
+            },
+            {
+              "SHA": "fa9aab3c",
+              "Subject": "Add `SecurityContext` & remove `initContainer` from `pgbouncerVersion.spec` (#596)"
+            },
+            {
+              "SHA": "9959c608",
+              "Subject": "Add Support for OpenSearch v2.0.1 & v2.5.0 (#599)"
+            },
+            {
+              "SHA": "a9ca09c0",
+              "Subject": "Update postgres init conatiner and rbac for  pvc (#592)"
+            },
+            {
+              "SHA": "2f3da948",
+              "Subject": "Update crds for kubedb/apimachinery@b334a5eb (#591)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "be9595d",
+              "Subject": "Prepare for release v0.3.0 (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "d092f3a3",
+              "Subject": "Prepare for release v0.16.0 (#200)"
+            },
+            {
+              "SHA": "60b6d846",
+              "Subject": "Add Dynamic `wsrep_sst_method` Selection Code (#193)"
+            },
+            {
+              "SHA": "0ba15d93",
+              "Subject": "Update sidekick dependency (#199)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "ead9061",
+              "Subject": "Prepare for release v0.12.0 (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "a6449fc0",
+              "Subject": "Prepare for release v0.25.0 (#385)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "abfa58ea",
+              "Subject": "Prepare for release v0.25.0 (#535)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "168c7346",
+              "Subject": "Prepare for release v0.25.0 (#522)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "570c5f4",
+              "Subject": "Prepare for release v0.10.0 (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "2ae340f2",
+              "Subject": "Prepare for release v0.19.0 (#419)"
+            },
+            {
+              "SHA": "b91aa423",
+              "Subject": "Fix ProxySQL reconfigure tls issues (#418)"
+            },
+            {
+              "SHA": "3d320c64",
+              "Subject": "Add PEM encoded output in certificate based on cert-manager feature-gate (#417)"
+            },
+            {
+              "SHA": "817a828e",
+              "Subject": "Support Acme protocol issued certs for PgBouncer & ProxySQL (#415)"
+            },
+            {
+              "SHA": "fe3ef59a",
+              "Subject": "Add support for  stand Alone to HA postgres (#409)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "97b98029",
+              "Subject": "Prepare for release v0.19.0 (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "f33b2dc",
+              "Subject": "Prepare for release v0.5.0 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "b85f50dc",
+              "Subject": "Prepare for release v0.16.0 (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "107f81dd",
+              "Subject": "Prepare for release v0.19.0 (#266)"
+            },
+            {
+              "SHA": "7afeb055",
+              "Subject": "Acme TLS support (#262)"
+            },
+            {
+              "SHA": "4abc8090",
+              "Subject": "Fix ownerReference for auth secret (#263)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "2daf213e",
+              "Subject": "Prepare for release v0.32.0 (#629)"
+            },
+            {
+              "SHA": "5eecc8b8",
+              "Subject": "Refactor  Reconciler to address Standalone to High Availability (#625)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "096872ab7",
+              "Subject": "Prepare for release v0.32.0 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "d739df42",
+              "Subject": "Prepare for release v0.19.0 (#283)"
+            },
+            {
+              "SHA": "6392951a",
+              "Subject": "Support Acme Protocol Issued Certs (eg LE) (#282)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "f0c6c4ef",
+              "Subject": "Prepare for release v0.25.0 (#450)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "a7605af",
+              "Subject": "Prepare for release v0.11.0 (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "450a3942",
+              "Subject": "Prepare for release v0.19.0 (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "011e1f8c",
+              "Subject": "Prepare for release v0.8.0 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "b6e52b82",
+              "Subject": "Prepare for release v0.17.0 (#217)"
+            },
+            {
+              "SHA": "6ccd68ef",
+              "Subject": "Add MySQL tests (#198)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "77f1095e",
+              "Subject": "Prepare for release v0.8.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "72058d49",
+              "Subject": "Prepare for release v0.8.0 (#52)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

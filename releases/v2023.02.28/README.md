@@ -61,6 +61,14 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.25.0](https://github.com/kubedb/redis/releases/tag/v0.25.0)
+
+- [f0c6c4ef](https://github.com/kubedb/redis/commit/f0c6c4ef) Prepare for release v0.25.0 (#450)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.19.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.19.0)

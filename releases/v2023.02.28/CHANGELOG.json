@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T17:59:04.894416489Z",
+  "release_date": "2023-02-28T18:20:30.930411232Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -446,6 +446,20 @@
             {
               "SHA": "77f1095e",
               "Subject": "Prepare for release v0.8.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "72058d49",
+              "Subject": "Prepare for release v0.8.0 (#52)"
             }
           ]
         }

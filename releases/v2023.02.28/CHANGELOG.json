@@ -1,0 +1,44 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.02.28",
+  "release_date": "2023-02-28T10:17:17.28884723Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.02.28",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "40b15db3",
+              "Subject": "Add WsrepSSTMethod Field in MariaDB API (#1012)"
+            },
+            {
+              "SHA": "1b9e2bac",
+              "Subject": "Update `setDefaults()` for pgbouncer (#1022)"
+            },
+            {
+              "SHA": "7bf2fbe1",
+              "Subject": "Add separate Security Config Directory constant for Opensearch V2 (#1021)"
+            },
+            {
+              "SHA": "693b7795",
+              "Subject": "Update TLS Defaulting for ProxySQL & PgBouncer (#1020)"
+            },
+            {
+              "SHA": "48fae91c",
+              "Subject": "Fix `GetPersistentSecrets()` function (#1018)"
+            },
+            {
+              "SHA": "b334a5eb",
+              "Subject": "Add postgres streaming and standby mode in horizontal scaling (#1017)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

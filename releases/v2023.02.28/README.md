@@ -22,6 +22,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.16.0](https://github.com/kubedb/mariadb/releases/tag/v0.16.0)
+
+- [d092f3a3](https://github.com/kubedb/mariadb/commit/d092f3a3) Prepare for release v0.16.0 (#200)
+- [60b6d846](https://github.com/kubedb/mariadb/commit/60b6d846) Add Dynamic `wsrep_sst_method` Selection Code (#193)
+- [0ba15d93](https://github.com/kubedb/mariadb/commit/0ba15d93) Update sidekick dependency (#199)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.25.0](https://github.com/kubedb/memcached/releases/tag/v0.25.0)

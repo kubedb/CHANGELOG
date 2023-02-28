@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T10:34:21.628539996Z",
+  "release_date": "2023-02-28T10:34:44.740372188Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -49,6 +49,28 @@
             {
               "SHA": "8477bd09",
               "Subject": "Prepare for release v0.32.0 (#698)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "d092f3a3",
+              "Subject": "Prepare for release v0.16.0 (#200)"
+            },
+            {
+              "SHA": "60b6d846",
+              "Subject": "Add Dynamic `wsrep_sst_method` Selection Code (#193)"
+            },
+            {
+              "SHA": "0ba15d93",
+              "Subject": "Update sidekick dependency (#199)"
             }
           ]
         }

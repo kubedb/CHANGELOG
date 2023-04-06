@@ -110,6 +110,20 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.6.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.6.0)
+
+- [cc06348](https://github.com/kubedb/percona-xtradb-coordinator/commit/cc06348) Prepare for release v0.6.0 (#35)
+- [566cdac](https://github.com/kubedb/percona-xtradb-coordinator/commit/566cdac) Cleanup CI
+- [82bab80](https://github.com/kubedb/percona-xtradb-coordinator/commit/82bab80) Use ghcr.io for appscode/golang-dev (#34)
+- [2e9c1f5](https://github.com/kubedb/percona-xtradb-coordinator/commit/2e9c1f5) Dynamically select runner type
+- [b21a83d](https://github.com/kubedb/percona-xtradb-coordinator/commit/b21a83d) Update workflows (Go 1.20, k8s 1.26) (#33)
+- [a55967f](https://github.com/kubedb/percona-xtradb-coordinator/commit/a55967f) Update wrokflows (Go 1.20, k8s 1.26) (#32)
+- [a8eaa03](https://github.com/kubedb/percona-xtradb-coordinator/commit/a8eaa03) Test against Kubernetes 1.26.0 (#31)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.17.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.17.0)

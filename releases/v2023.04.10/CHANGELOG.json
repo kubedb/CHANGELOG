@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T07:53:00.476912359Z",
+  "release_date": "2023-04-06T07:54:51.86666548Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -139,6 +139,40 @@
             {
               "SHA": "a68b30e",
               "Subject": "Test against Kubernetes 1.26.0 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "181606ec",
+              "Subject": "Prepare for release v0.20.0 (#230)"
+            },
+            {
+              "SHA": "90e75258",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "9b1ffb20",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#229)"
+            },
+            {
+              "SHA": "83e4656c",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "160bd418",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#228)"
+            },
+            {
+              "SHA": "306b14ac",
+              "Subject": "Test against Kubernetes 1.26.0 (#227)"
             }
           ]
         }

@@ -49,3 +49,16 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.20.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.20.0)
+
+- [181606ec](https://github.com/kubedb/replication-mode-detector/commit/181606ec) Prepare for release v0.20.0 (#230)
+- [90e75258](https://github.com/kubedb/replication-mode-detector/commit/90e75258) Cleanup CI
+- [9b1ffb20](https://github.com/kubedb/replication-mode-detector/commit/9b1ffb20) Use ghcr.io for appscode/golang-dev (#229)
+- [83e4656c](https://github.com/kubedb/replication-mode-detector/commit/83e4656c) Dynamically select runner type
+- [160bd418](https://github.com/kubedb/replication-mode-detector/commit/160bd418) Update workflows (Go 1.20, k8s 1.26) (#228)
+- [306b14ac](https://github.com/kubedb/replication-mode-detector/commit/306b14ac) Test against Kubernetes 1.26.0 (#227)
+
+
+

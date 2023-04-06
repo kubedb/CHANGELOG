@@ -210,6 +210,22 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.33.0](https://github.com/kubedb/postgres/releases/tag/v0.33.0)
+
+- [c95f2b59](https://github.com/kubedb/postgres/commit/c95f2b59d) Prepare for release v0.33.0 (#636)
+- [8d53d60a](https://github.com/kubedb/postgres/commit/8d53d60a2) Update e2e workflows
+- [fa31d6e3](https://github.com/kubedb/postgres/commit/fa31d6e33) Cleanup CI
+- [40cf94c4](https://github.com/kubedb/postgres/commit/40cf94c4f) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [78b13fe0](https://github.com/kubedb/postgres/commit/78b13fe00) Use ghcr.io for appscode/golang-dev (#634)
+- [c5ca8a99](https://github.com/kubedb/postgres/commit/c5ca8a99d) Dynamically select runner type
+- [6005fce1](https://github.com/kubedb/postgres/commit/6005fce14) Update workflows (Go 1.20, k8s 1.26) (#633)
+- [26751826](https://github.com/kubedb/postgres/commit/267518268) Update wrokflows (Go 1.20, k8s 1.26) (#632)
+- [aad6863b](https://github.com/kubedb/postgres/commit/aad6863b7) Test against Kubernetes 1.26.0 (#631)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.26.0](https://github.com/kubedb/redis/releases/tag/v0.26.0)

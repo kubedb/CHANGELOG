@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T08:13:49.727030881Z",
+  "release_date": "2023-04-06T08:13:56.700813549Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -767,6 +767,68 @@
             {
               "SHA": "306b14ac",
               "Subject": "Test against Kubernetes 1.26.0 (#227)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "655e8669",
+              "Subject": "Prepare for release v0.18.0 (#225)"
+            },
+            {
+              "SHA": "27b5548f",
+              "Subject": "Use UpdateVersion instead of Upgrade (#224)"
+            },
+            {
+              "SHA": "3a57f668",
+              "Subject": "Fix mongo e2e test (#223)"
+            },
+            {
+              "SHA": "76a8abdd",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "0bb20a34",
+              "Subject": "Replace deprecated CurrentGinkgoTestDescription() with CurrentSpecReport()"
+            },
+            {
+              "SHA": "4adb3f61",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "c3b1a205",
+              "Subject": "Add MongoDB Hidden-node (#205)"
+            },
+            {
+              "SHA": "1d7f62bb",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#222)"
+            },
+            {
+              "SHA": "bf3df4dc",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "1a5a1d04",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#221)"
+            },
+            {
+              "SHA": "016687ad",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#220)"
+            },
+            {
+              "SHA": "3155a749",
+              "Subject": "Test against Kubernetes 1.26.0 (#219)"
+            },
+            {
+              "SHA": "a58933cd",
+              "Subject": "Fix typo in  MySQL tests (#218)"
             }
           ]
         }

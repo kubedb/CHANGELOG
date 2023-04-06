@@ -269,3 +269,23 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.18.0](https://github.com/kubedb/tests/releases/tag/v0.18.0)
+
+- [655e8669](https://github.com/kubedb/tests/commit/655e8669) Prepare for release v0.18.0 (#225)
+- [27b5548f](https://github.com/kubedb/tests/commit/27b5548f) Use UpdateVersion instead of Upgrade (#224)
+- [3a57f668](https://github.com/kubedb/tests/commit/3a57f668) Fix mongo e2e test (#223)
+- [76a8abdd](https://github.com/kubedb/tests/commit/76a8abdd) Update deps
+- [0bb20a34](https://github.com/kubedb/tests/commit/0bb20a34) Replace deprecated CurrentGinkgoTestDescription() with CurrentSpecReport()
+- [4adb3f61](https://github.com/kubedb/tests/commit/4adb3f61) Cleanup CI
+- [c3b1a205](https://github.com/kubedb/tests/commit/c3b1a205) Add MongoDB Hidden-node (#205)
+- [1d7f62bb](https://github.com/kubedb/tests/commit/1d7f62bb) Use ghcr.io for appscode/golang-dev (#222)
+- [bf3df4dc](https://github.com/kubedb/tests/commit/bf3df4dc) Dynamically select runner type
+- [1a5a1d04](https://github.com/kubedb/tests/commit/1a5a1d04) Update workflows (Go 1.20, k8s 1.26) (#221)
+- [016687ad](https://github.com/kubedb/tests/commit/016687ad) Update workflows (Go 1.20, k8s 1.26) (#220)
+- [3155a749](https://github.com/kubedb/tests/commit/3155a749) Test against Kubernetes 1.26.0 (#219)
+- [a58933cd](https://github.com/kubedb/tests/commit/a58933cd) Fix typo in  MySQL tests (#218)
+
+
+

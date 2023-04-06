@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T07:55:45.767624122Z",
+  "release_date": "2023-04-06T07:56:33.238456931Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -223,6 +223,40 @@
             {
               "SHA": "a68b30e",
               "Subject": "Test against Kubernetes 1.26.0 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "c958b2b6",
+              "Subject": "Prepare for release v0.17.0 (#118)"
+            },
+            {
+              "SHA": "8faaf376",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "cbc12702",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#117)"
+            },
+            {
+              "SHA": "cbfef2aa",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "57f2ad58",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#116)"
+            },
+            {
+              "SHA": "fb81176a",
+              "Subject": "Test against Kubernetes 1.26.0 (#114)"
             }
           ]
         }

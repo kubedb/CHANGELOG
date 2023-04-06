@@ -79,6 +79,19 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.17.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.17.0)
+
+- [c958b2b6](https://github.com/kubedb/pg-coordinator/commit/c958b2b6) Prepare for release v0.17.0 (#118)
+- [8faaf376](https://github.com/kubedb/pg-coordinator/commit/8faaf376) Cleanup CI
+- [cbc12702](https://github.com/kubedb/pg-coordinator/commit/cbc12702) Use ghcr.io for appscode/golang-dev (#117)
+- [cbfef2aa](https://github.com/kubedb/pg-coordinator/commit/cbfef2aa) Dynamically select runner type
+- [57f2ad58](https://github.com/kubedb/pg-coordinator/commit/57f2ad58) Update workflows (Go 1.20, k8s 1.26) (#116)
+- [fb81176a](https://github.com/kubedb/pg-coordinator/commit/fb81176a) Test against Kubernetes 1.26.0 (#114)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.20.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.20.0)

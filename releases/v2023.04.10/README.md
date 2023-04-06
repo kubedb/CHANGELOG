@@ -106,6 +106,20 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.12.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.12.0)
+
+- [d04d7c3](https://github.com/kubedb/redis-coordinator/commit/d04d7c3) Prepare for release v0.12.0 (#68)
+- [a28d24b](https://github.com/kubedb/redis-coordinator/commit/a28d24b) Cleanup CI
+- [79ee2a2](https://github.com/kubedb/redis-coordinator/commit/79ee2a2) Use ghcr.io for appscode/golang-dev (#67)
+- [45e832e](https://github.com/kubedb/redis-coordinator/commit/45e832e) Dynamically select runner type
+- [9d96b05](https://github.com/kubedb/redis-coordinator/commit/9d96b05) Update workflows (Go 1.20, k8s 1.26) (#66)
+- [983ef3b](https://github.com/kubedb/redis-coordinator/commit/983ef3b) Update wrokflows (Go 1.20, k8s 1.26) (#65)
+- [e12472f](https://github.com/kubedb/redis-coordinator/commit/e12472f) Test against Kubernetes 1.26.0 (#64)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.20.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.20.0)

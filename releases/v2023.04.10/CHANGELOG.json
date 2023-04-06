@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T07:57:04.531512582Z",
+  "release_date": "2023-04-06T07:57:47.009445049Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -295,6 +295,44 @@
             {
               "SHA": "fb81176a",
               "Subject": "Test against Kubernetes 1.26.0 (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "d04d7c3",
+              "Subject": "Prepare for release v0.12.0 (#68)"
+            },
+            {
+              "SHA": "a28d24b",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "79ee2a2",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#67)"
+            },
+            {
+              "SHA": "45e832e",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "9d96b05",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#66)"
+            },
+            {
+              "SHA": "983ef3b",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#65)"
+            },
+            {
+              "SHA": "e12472f",
+              "Subject": "Test against Kubernetes 1.26.0 (#64)"
             }
           ]
         }

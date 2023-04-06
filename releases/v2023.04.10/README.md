@@ -35,6 +35,22 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.33.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.33.0)
+
+- [fc4188e9](https://github.com/kubedb/elasticsearch/commit/fc4188e94) Prepare for release v0.33.0 (#635)
+- [3bfc204d](https://github.com/kubedb/elasticsearch/commit/3bfc204de) Update e2e workflow
+- [62b43e46](https://github.com/kubedb/elasticsearch/commit/62b43e46c) Use ghcr.io
+- [3fee0f94](https://github.com/kubedb/elasticsearch/commit/3fee0f947) Update workflows
+- [d8dad30e](https://github.com/kubedb/elasticsearch/commit/d8dad30e9) Dynamically select runner type
+- [845dd87c](https://github.com/kubedb/elasticsearch/commit/845dd87cb) Use ghcr.io for appscode/golang-dev (#633)
+- [579d778d](https://github.com/kubedb/elasticsearch/commit/579d778de) Update workflows (Go 1.20, k8s 1.26) (#632)
+- [c0aa077f](https://github.com/kubedb/elasticsearch/commit/c0aa077f9) Update wrokflows (Go 1.20, k8s 1.26) (#631)
+- [9269ed75](https://github.com/kubedb/elasticsearch/commit/9269ed75c) Test against Kubernetes 1.26.0 (#630)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.4.0](https://github.com/kubedb/kafka/releases/tag/v0.4.0)

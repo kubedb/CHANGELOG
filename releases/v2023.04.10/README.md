@@ -349,3 +349,18 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.9.0](https://github.com/kubedb/ui-server/releases/tag/v0.9.0)
+
+- [49a09f28](https://github.com/kubedb/ui-server/commit/49a09f28) Prepare for release v0.9.0 (#73)
+- [eaba6a4d](https://github.com/kubedb/ui-server/commit/eaba6a4d) Cleanup CI
+- [779d75a5](https://github.com/kubedb/ui-server/commit/779d75a5) Use ghcr.io for appscode/golang-dev (#72)
+- [9a94bf21](https://github.com/kubedb/ui-server/commit/9a94bf21) Dynamically select runner type
+- [3c053ff1](https://github.com/kubedb/ui-server/commit/3c053ff1) Update workflows (Go 1.20, k8s 1.26) (#71)
+- [7adf8e99](https://github.com/kubedb/ui-server/commit/7adf8e99) Update wrokflows (Go 1.20, k8s 1.26) (#70)
+- [97704312](https://github.com/kubedb/ui-server/commit/97704312) Test against Kubernetes 1.26.0 (#69)
+- [8fa7286a](https://github.com/kubedb/ui-server/commit/8fa7286a) Add context to Redis Client Builder (#67)
+
+
+

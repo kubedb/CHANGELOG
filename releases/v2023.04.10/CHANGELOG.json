@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T07:59:06.824665156Z",
+  "release_date": "2023-04-06T07:59:54.040072964Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -235,6 +235,88 @@
             {
               "SHA": "633dc41",
               "Subject": "Test against Kubernetes 1.26.0 (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "9e52ecf2",
+              "Subject": "Prepare for release v0.26.0 (#545)"
+            },
+            {
+              "SHA": "987a14ba",
+              "Subject": "Replace Mongos bootstrap container with postStart hook (#542)"
+            },
+            {
+              "SHA": "8f2437cf",
+              "Subject": "Use --timeout=24h for e2e tests"
+            },
+            {
+              "SHA": "41c3a6e9",
+              "Subject": "Rename ref flag to rest for e2e workflows"
+            },
+            {
+              "SHA": "e7e3203b",
+              "Subject": "Customize installer ref for e2e workflows"
+            },
+            {
+              "SHA": "d57e6f31",
+              "Subject": "Issue license key for kubedb"
+            },
+            {
+              "SHA": "bcb712e7",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "3bd0d6cc",
+              "Subject": "Stop publishing to docker hub"
+            },
+            {
+              "SHA": "1c5327b5",
+              "Subject": "Update db versions for e2e tests"
+            },
+            {
+              "SHA": "7a8e9b25",
+              "Subject": "Speed up e2e tests"
+            },
+            {
+              "SHA": "471e3259",
+              "Subject": "Use brew to install tools"
+            },
+            {
+              "SHA": "71574901",
+              "Subject": "Use fircracker vms for e2e tests"
+            },
+            {
+              "SHA": "220b1b14",
+              "Subject": "Update e2e workflow"
+            },
+            {
+              "SHA": "5bf24d7b",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#541)"
+            },
+            {
+              "SHA": "553dc5b5",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "0e94ca5a",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#539)"
+            },
+            {
+              "SHA": "c8858e12",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#538)"
+            },
+            {
+              "SHA": "b9e36634",
+              "Subject": "Test against Kubernetes 1.26.0 (#537)"
             }
           ]
         }

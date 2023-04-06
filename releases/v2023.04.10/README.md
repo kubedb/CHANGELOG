@@ -82,6 +82,31 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.26.0](https://github.com/kubedb/mongodb/releases/tag/v0.26.0)
+
+- [9e52ecf2](https://github.com/kubedb/mongodb/commit/9e52ecf2) Prepare for release v0.26.0 (#545)
+- [987a14ba](https://github.com/kubedb/mongodb/commit/987a14ba) Replace Mongos bootstrap container with postStart hook (#542)
+- [8f2437cf](https://github.com/kubedb/mongodb/commit/8f2437cf) Use --timeout=24h for e2e tests
+- [41c3a6e9](https://github.com/kubedb/mongodb/commit/41c3a6e9) Rename ref flag to rest for e2e workflows
+- [e7e3203b](https://github.com/kubedb/mongodb/commit/e7e3203b) Customize installer ref for e2e workflows
+- [d57e6f31](https://github.com/kubedb/mongodb/commit/d57e6f31) Issue license key for kubedb
+- [bcb712e7](https://github.com/kubedb/mongodb/commit/bcb712e7) Cleanup CI
+- [3bd0d6cc](https://github.com/kubedb/mongodb/commit/3bd0d6cc) Stop publishing to docker hub
+- [1c5327b5](https://github.com/kubedb/mongodb/commit/1c5327b5) Update db versions for e2e tests
+- [7a8e9b25](https://github.com/kubedb/mongodb/commit/7a8e9b25) Speed up e2e tests
+- [471e3259](https://github.com/kubedb/mongodb/commit/471e3259) Use brew to install tools
+- [71574901](https://github.com/kubedb/mongodb/commit/71574901) Use fircracker vms for e2e tests
+- [220b1b14](https://github.com/kubedb/mongodb/commit/220b1b14) Update e2e workflow
+- [5bf24d7b](https://github.com/kubedb/mongodb/commit/5bf24d7b) Use ghcr.io for appscode/golang-dev (#541)
+- [553dc5b5](https://github.com/kubedb/mongodb/commit/553dc5b5) Dynamically select runner type
+- [0e94ca5a](https://github.com/kubedb/mongodb/commit/0e94ca5a) Update workflows (Go 1.20, k8s 1.26) (#539)
+- [c8858e12](https://github.com/kubedb/mongodb/commit/c8858e12) Update wrokflows (Go 1.20, k8s 1.26) (#538)
+- [b9e36634](https://github.com/kubedb/mongodb/commit/b9e36634) Test against Kubernetes 1.26.0 (#537)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.26.0](https://github.com/kubedb/mysql/releases/tag/v0.26.0)

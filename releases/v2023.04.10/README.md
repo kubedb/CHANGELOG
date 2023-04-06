@@ -194,6 +194,22 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.26.0](https://github.com/kubedb/redis/releases/tag/v0.26.0)
+
+- [a52ff8e8](https://github.com/kubedb/redis/commit/a52ff8e8) Prepare for release v0.26.0 (#458)
+- [f6b74025](https://github.com/kubedb/redis/commit/f6b74025) Update e2e workflow
+- [7799c78b](https://github.com/kubedb/redis/commit/7799c78b) Cleanup CI
+- [a5abe6d2](https://github.com/kubedb/redis/commit/a5abe6d2) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [b4a13c26](https://github.com/kubedb/redis/commit/b4a13c26) Use ghcr.io for appscode/golang-dev (#456)
+- [a6df02d8](https://github.com/kubedb/redis/commit/a6df02d8) Dynamically select runner type
+- [11d13a42](https://github.com/kubedb/redis/commit/11d13a42) Update workflows (Go 1.20, k8s 1.26) (#455)
+- [2366e2db](https://github.com/kubedb/redis/commit/2366e2db) Update wrokflows (Go 1.20, k8s 1.26) (#454)
+- [4ffdad8b](https://github.com/kubedb/redis/commit/4ffdad8b) Test against Kubernetes 1.26.0 (#453)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.12.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.12.0)

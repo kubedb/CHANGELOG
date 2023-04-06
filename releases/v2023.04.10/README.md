@@ -52,6 +52,22 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.17.0](https://github.com/kubedb/mariadb/releases/tag/v0.17.0)
+
+- [d0ab53a5](https://github.com/kubedb/mariadb/commit/d0ab53a5) Prepare for release v0.17.0 (#205)
+- [a7cb3789](https://github.com/kubedb/mariadb/commit/a7cb3789) Update e2e workflow
+- [03182a15](https://github.com/kubedb/mariadb/commit/03182a15) Use ghcr.io
+- [48a0ae24](https://github.com/kubedb/mariadb/commit/48a0ae24) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [b5fc163d](https://github.com/kubedb/mariadb/commit/b5fc163d) Use ghcr.io for appscode/golang-dev (#204)
+- [ffd17645](https://github.com/kubedb/mariadb/commit/ffd17645) Dynamically select runner type
+- [9e18fbf6](https://github.com/kubedb/mariadb/commit/9e18fbf6) Update workflows (Go 1.20, k8s 1.26) (#203)
+- [02c9169d](https://github.com/kubedb/mariadb/commit/02c9169d) Update wrokflows (Go 1.20, k8s 1.26) (#202)
+- [ccddab5f](https://github.com/kubedb/mariadb/commit/ccddab5f) Test against Kubernetes 1.26.0 (#201)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.13.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.13.0)

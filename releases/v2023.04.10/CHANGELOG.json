@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T07:58:27.95852582Z",
+  "release_date": "2023-04-06T07:59:06.824665156Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -151,6 +151,52 @@
             {
               "SHA": "842361d",
               "Subject": "Test against Kubernetes 1.26.0 (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "d0ab53a5",
+              "Subject": "Prepare for release v0.17.0 (#205)"
+            },
+            {
+              "SHA": "a7cb3789",
+              "Subject": "Update e2e workflow"
+            },
+            {
+              "SHA": "03182a15",
+              "Subject": "Use ghcr.io"
+            },
+            {
+              "SHA": "48a0ae24",
+              "Subject": "Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools"
+            },
+            {
+              "SHA": "b5fc163d",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#204)"
+            },
+            {
+              "SHA": "ffd17645",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "9e18fbf6",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#203)"
+            },
+            {
+              "SHA": "02c9169d",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#202)"
+            },
+            {
+              "SHA": "ccddab5f",
+              "Subject": "Test against Kubernetes 1.26.0 (#201)"
             }
           ]
         }

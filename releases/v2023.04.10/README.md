@@ -35,6 +35,21 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.9.0](https://github.com/kubedb/dashboard/releases/tag/v0.9.0)
+
+- [a796df9](https://github.com/kubedb/dashboard/commit/a796df9) Prepare for release v0.9.0 (#69)
+- [396b3c9](https://github.com/kubedb/dashboard/commit/396b3c9) Use ghcr.io
+- [0014ad3](https://github.com/kubedb/dashboard/commit/0014ad3) Stop publishing to docker hub
+- [6f5ca8e](https://github.com/kubedb/dashboard/commit/6f5ca8e) Dynamically select runner type
+- [55c6d4b](https://github.com/kubedb/dashboard/commit/55c6d4b) Use ghcr.io for appscode/golang-dev (#68)
+- [d6c42ca](https://github.com/kubedb/dashboard/commit/d6c42ca) Update workflows (Go 1.20, k8s 1.26) (#67)
+- [1367b94](https://github.com/kubedb/dashboard/commit/1367b94) Update wrokflows (Go 1.20, k8s 1.26) (#66)
+- [8085731](https://github.com/kubedb/dashboard/commit/8085731) Test against Kubernetes 1.26.0 (#65)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.33.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.33.0)

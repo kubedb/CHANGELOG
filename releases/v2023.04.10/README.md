@@ -151,6 +151,22 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.20.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.20.0)
+
+- [0783793f](https://github.com/kubedb/percona-xtradb/commit/0783793f) Prepare for release v0.20.0 (#307)
+- [281c5eac](https://github.com/kubedb/percona-xtradb/commit/281c5eac) Update e2e workflow
+- [d16efe09](https://github.com/kubedb/percona-xtradb/commit/d16efe09) Cleanup CI
+- [f533248c](https://github.com/kubedb/percona-xtradb/commit/f533248c) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [c6e08088](https://github.com/kubedb/percona-xtradb/commit/c6e08088) Use ghcr.io for appscode/golang-dev (#305)
+- [227526f0](https://github.com/kubedb/percona-xtradb/commit/227526f0) Dynamically select runner type
+- [cd6321b2](https://github.com/kubedb/percona-xtradb/commit/cd6321b2) Update workflows (Go 1.20, k8s 1.26) (#304)
+- [9840d83a](https://github.com/kubedb/percona-xtradb/commit/9840d83a) Update wrokflows (Go 1.20, k8s 1.26) (#303)
+- [33c6116b](https://github.com/kubedb/percona-xtradb/commit/33c6116b) Test against Kubernetes 1.26.0 (#302)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.6.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.6.0)

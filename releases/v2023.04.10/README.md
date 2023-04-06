@@ -35,6 +35,23 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.4.0](https://github.com/kubedb/kafka/releases/tag/v0.4.0)
+
+- [6d43376](https://github.com/kubedb/kafka/commit/6d43376) Prepare for release v0.4.0 (#22)
+- [9d9beea](https://github.com/kubedb/kafka/commit/9d9beea) Update e2e workflow
+- [1fc0185](https://github.com/kubedb/kafka/commit/1fc0185) Cleanup Makefile
+- [c4b3450](https://github.com/kubedb/kafka/commit/c4b3450) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [50c408e](https://github.com/kubedb/kafka/commit/50c408e) Remove Kafka advertised.listeners config from controller node (#21)
+- [2e80fc8](https://github.com/kubedb/kafka/commit/2e80fc8) Add support for monitoring (#19)
+- [58894bb](https://github.com/kubedb/kafka/commit/58894bb) Use ghcr.io for appscode/golang-dev (#20)
+- [c7b1158](https://github.com/kubedb/kafka/commit/c7b1158) Dynamically select runner type
+- [d5f02d5](https://github.com/kubedb/kafka/commit/d5f02d5) Update workflows (Go 1.20, k8s 1.26) (#18)
+- [842361d](https://github.com/kubedb/kafka/commit/842361d) Test against Kubernetes 1.26.0 (#16)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.11.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.11.0)

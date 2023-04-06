@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T07:55:21.135850225Z",
+  "release_date": "2023-04-06T07:55:45.767624122Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -101,6 +101,56 @@
             {
               "SHA": "26fa3901",
               "Subject": "Test against Kubernetes 1.26.0 (#700)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "6d43376",
+              "Subject": "Prepare for release v0.4.0 (#22)"
+            },
+            {
+              "SHA": "9d9beea",
+              "Subject": "Update e2e workflow"
+            },
+            {
+              "SHA": "1fc0185",
+              "Subject": "Cleanup Makefile"
+            },
+            {
+              "SHA": "c4b3450",
+              "Subject": "Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools"
+            },
+            {
+              "SHA": "50c408e",
+              "Subject": "Remove Kafka advertised.listeners config from controller node (#21)"
+            },
+            {
+              "SHA": "2e80fc8",
+              "Subject": "Add support for monitoring (#19)"
+            },
+            {
+              "SHA": "58894bb",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#20)"
+            },
+            {
+              "SHA": "c7b1158",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "d5f02d5",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#18)"
+            },
+            {
+              "SHA": "842361d",
+              "Subject": "Test against Kubernetes 1.26.0 (#16)"
             }
           ]
         }

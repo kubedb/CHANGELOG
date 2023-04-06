@@ -22,6 +22,19 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.33.0](https://github.com/kubedb/cli/releases/tag/v0.33.0)
+
+- [4849d48b](https://github.com/kubedb/cli/commit/4849d48b) Prepare for release v0.33.0 (#704)
+- [7f680b1e](https://github.com/kubedb/cli/commit/7f680b1e) Cleanup CI
+- [2c607eef](https://github.com/kubedb/cli/commit/2c607eef) Use ghcr.io for appscode/golang-dev (#703)
+- [4867dac1](https://github.com/kubedb/cli/commit/4867dac1) Update workflows (Go 1.20, k8s 1.26) (#702)
+- [3ed34cca](https://github.com/kubedb/cli/commit/3ed34cca) Update wrokflows (Go 1.20, k8s 1.26) (#701)
+- [26fa3901](https://github.com/kubedb/cli/commit/26fa3901) Test against Kubernetes 1.26.0 (#700)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.11.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.11.0)

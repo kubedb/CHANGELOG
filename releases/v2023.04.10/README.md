@@ -52,6 +52,20 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.13.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.13.0)
+
+- [838c879](https://github.com/kubedb/mariadb-coordinator/commit/838c879) Prepare for release v0.13.0 (#78)
+- [1242437](https://github.com/kubedb/mariadb-coordinator/commit/1242437) Update CI
+- [561fd55](https://github.com/kubedb/mariadb-coordinator/commit/561fd55) Use ghcr.io for appscode/golang-dev (#77)
+- [0f67cb9](https://github.com/kubedb/mariadb-coordinator/commit/0f67cb9) DYnamically select runner type
+- [adbb2d3](https://github.com/kubedb/mariadb-coordinator/commit/adbb2d3) Update workflows (Go 1.20, k8s 1.26) (#76)
+- [e27c8f6](https://github.com/kubedb/mariadb-coordinator/commit/e27c8f6) Update wrokflows (Go 1.20, k8s 1.26) (#75)
+- [633dc41](https://github.com/kubedb/mariadb-coordinator/commit/633dc41) Test against Kubernetes 1.26.0 (#74)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.11.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.11.0)

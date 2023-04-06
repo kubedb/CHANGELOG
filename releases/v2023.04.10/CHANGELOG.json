@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T07:56:33.238456931Z",
+  "release_date": "2023-04-06T07:57:04.531512582Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -151,6 +151,44 @@
             {
               "SHA": "842361d",
               "Subject": "Test against Kubernetes 1.26.0 (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "838c879",
+              "Subject": "Prepare for release v0.13.0 (#78)"
+            },
+            {
+              "SHA": "1242437",
+              "Subject": "Update CI"
+            },
+            {
+              "SHA": "561fd55",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#77)"
+            },
+            {
+              "SHA": "0f67cb9",
+              "Subject": "DYnamically select runner type"
+            },
+            {
+              "SHA": "adbb2d3",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#76)"
+            },
+            {
+              "SHA": "e27c8f6",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#75)"
+            },
+            {
+              "SHA": "633dc41",
+              "Subject": "Test against Kubernetes 1.26.0 (#74)"
             }
           ]
         }

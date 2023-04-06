@@ -226,6 +226,19 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.20.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.20.0)
+
+- [f3f89b3e](https://github.com/kubedb/pgbouncer/commit/f3f89b3e) Prepare for release v0.20.0 (#273)
+- [7b1391e1](https://github.com/kubedb/pgbouncer/commit/7b1391e1) Update e2e workflows
+- [3ae31397](https://github.com/kubedb/pgbouncer/commit/3ae31397) Cleanup CI
+- [e8fe48b3](https://github.com/kubedb/pgbouncer/commit/e8fe48b3) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [153effe0](https://github.com/kubedb/pgbouncer/commit/153effe0) Use ghcr.io for appscode/golang-dev (#271)
+- [d141e211](https://github.com/kubedb/pgbouncer/commit/d141e211) Dynamically select runner type
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.33.0](https://github.com/kubedb/postgres/releases/tag/v0.33.0)

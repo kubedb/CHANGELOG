@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T08:14:06.971137482Z",
+  "release_date": "2023-04-06T08:36:37.547606953Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -649,6 +649,40 @@
             {
               "SHA": "fb81176a",
               "Subject": "Test against Kubernetes 1.26.0 (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "f3f89b3e",
+              "Subject": "Prepare for release v0.20.0 (#273)"
+            },
+            {
+              "SHA": "7b1391e1",
+              "Subject": "Update e2e workflows"
+            },
+            {
+              "SHA": "3ae31397",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "e8fe48b3",
+              "Subject": "Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools"
+            },
+            {
+              "SHA": "153effe0",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#271)"
+            },
+            {
+              "SHA": "d141e211",
+              "Subject": "Dynamically select runner type"
             }
           ]
         }

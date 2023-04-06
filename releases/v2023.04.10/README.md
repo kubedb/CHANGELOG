@@ -82,6 +82,22 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.26.0](https://github.com/kubedb/memcached/releases/tag/v0.26.0)
+
+- [f7975e7b](https://github.com/kubedb/memcached/commit/f7975e7b) Prepare for release v0.26.0 (#391)
+- [81e92a08](https://github.com/kubedb/memcached/commit/81e92a08) Update e2e workflow
+- [dc8ccbf4](https://github.com/kubedb/memcached/commit/dc8ccbf4) Cleanup CI
+- [318b3f14](https://github.com/kubedb/memcached/commit/318b3f14) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [2ca568aa](https://github.com/kubedb/memcached/commit/2ca568aa) Use ghcr.io for appscode/golang-dev (#390)
+- [d85f38d2](https://github.com/kubedb/memcached/commit/d85f38d2) Dynamically select runner type
+- [962f3daa](https://github.com/kubedb/memcached/commit/962f3daa) Update workflows (Go 1.20, k8s 1.26) (#389)
+- [c1eb2df8](https://github.com/kubedb/memcached/commit/c1eb2df8) Update wrokflows (Go 1.20, k8s 1.26) (#388)
+- [48b784c8](https://github.com/kubedb/memcached/commit/48b784c8) Test against Kubernetes 1.26.0 (#387)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.26.0](https://github.com/kubedb/mongodb/releases/tag/v0.26.0)

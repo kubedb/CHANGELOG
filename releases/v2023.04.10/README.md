@@ -66,6 +66,23 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.26.0](https://github.com/kubedb/mysql/releases/tag/v0.26.0)
+
+- [f4897ade](https://github.com/kubedb/mysql/commit/f4897ade) Prepare for release v0.26.0 (#530)
+- [942f3675](https://github.com/kubedb/mysql/commit/942f3675) Add MySQL-5 MaxLen Check (#528)
+- [d3dcd00e](https://github.com/kubedb/mysql/commit/d3dcd00e) Update e2e workflows
+- [ec1ee2a3](https://github.com/kubedb/mysql/commit/ec1ee2a3) Cleanup CI
+- [9330ee56](https://github.com/kubedb/mysql/commit/9330ee56) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [4382bb9a](https://github.com/kubedb/mysql/commit/4382bb9a) Use ghcr.io for appscode/golang-dev (#527)
+- [dbeadab3](https://github.com/kubedb/mysql/commit/dbeadab3) Dynamically select runner type
+- [a693489b](https://github.com/kubedb/mysql/commit/a693489b) Update workflows (Go 1.20, k8s 1.26) (#526)
+- [67c8a8f0](https://github.com/kubedb/mysql/commit/67c8a8f0) Update wrokflows (Go 1.20, k8s 1.26) (#525)
+- [4bd25e73](https://github.com/kubedb/mysql/commit/4bd25e73) Test against Kubernetes 1.26.0 (#524)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.11.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.11.0)

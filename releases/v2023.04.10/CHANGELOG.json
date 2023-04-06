@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T07:49:41.273568293Z",
+  "release_date": "2023-04-06T07:53:00.476912359Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -67,6 +67,44 @@
             {
               "SHA": "1a3cbc58",
               "Subject": "Update for release Stash@v2023.02.28 (#1023)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "16c77c8",
+              "Subject": "Prepare for release v0.11.0 (#76)"
+            },
+            {
+              "SHA": "50ad81b",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "b920384",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#75)"
+            },
+            {
+              "SHA": "f1de5ed",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "dc31944",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#74)"
+            },
+            {
+              "SHA": "244154d",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#73)"
+            },
+            {
+              "SHA": "505ecfa",
+              "Subject": "Test against Kubernetes 1.26.0 (#72)"
             }
           ]
         }

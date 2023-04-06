@@ -22,6 +22,20 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.11.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.11.0)
+
+- [16c77c8](https://github.com/kubedb/mysql-coordinator/commit/16c77c8) Prepare for release v0.11.0 (#76)
+- [50ad81b](https://github.com/kubedb/mysql-coordinator/commit/50ad81b) Cleanup CI
+- [b920384](https://github.com/kubedb/mysql-coordinator/commit/b920384) Use ghcr.io for appscode/golang-dev (#75)
+- [f1de5ed](https://github.com/kubedb/mysql-coordinator/commit/f1de5ed) Dynamically select runner type
+- [dc31944](https://github.com/kubedb/mysql-coordinator/commit/dc31944) Update workflows (Go 1.20, k8s 1.26) (#74)
+- [244154d](https://github.com/kubedb/mysql-coordinator/commit/244154d) Update workflows (Go 1.20, k8s 1.26) (#73)
+- [505ecfa](https://github.com/kubedb/mysql-coordinator/commit/505ecfa) Test against Kubernetes 1.26.0 (#72)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.11.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.11.0)

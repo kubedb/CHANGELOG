@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T08:49:30.026169805Z",
+  "release_date": "2023-04-06T09:12:46.312509988Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -935,6 +935,44 @@
             {
               "SHA": "306b14ac",
               "Subject": "Test against Kubernetes 1.26.0 (#227)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "e0f28fd4",
+              "Subject": "Prepare for release v0.9.0 (#70)"
+            },
+            {
+              "SHA": "d633359a",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "5386ed59",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#69)"
+            },
+            {
+              "SHA": "8e517e3d",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "12abe459",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#68)"
+            },
+            {
+              "SHA": "6b7412b4",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#67)"
+            },
+            {
+              "SHA": "b1734e39",
+              "Subject": "Test against Kubernetes 1.26.0 (#66)"
             }
           ]
         }

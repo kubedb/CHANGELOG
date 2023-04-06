@@ -329,6 +329,20 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.9.0](https://github.com/kubedb/schema-manager/releases/tag/v0.9.0)
+
+- [e0f28fd4](https://github.com/kubedb/schema-manager/commit/e0f28fd4) Prepare for release v0.9.0 (#70)
+- [d633359a](https://github.com/kubedb/schema-manager/commit/d633359a) Cleanup CI
+- [5386ed59](https://github.com/kubedb/schema-manager/commit/5386ed59) Use ghcr.io for appscode/golang-dev (#69)
+- [8e517e3d](https://github.com/kubedb/schema-manager/commit/8e517e3d) Dynamically select runner type
+- [12abe459](https://github.com/kubedb/schema-manager/commit/12abe459) Update workflows (Go 1.20, k8s 1.26) (#68)
+- [6b7412b4](https://github.com/kubedb/schema-manager/commit/6b7412b4) Update wrokflows (Go 1.20, k8s 1.26) (#67)
+- [b1734e39](https://github.com/kubedb/schema-manager/commit/b1734e39) Test against Kubernetes 1.26.0 (#66)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.18.0](https://github.com/kubedb/tests/releases/tag/v0.18.0)

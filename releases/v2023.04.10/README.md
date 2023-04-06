@@ -255,6 +255,22 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.20.0](https://github.com/kubedb/proxysql/releases/tag/v0.20.0)
+
+- [b49d3af7](https://github.com/kubedb/proxysql/commit/b49d3af7) Prepare for release v0.20.0 (#288)
+- [61044810](https://github.com/kubedb/proxysql/commit/61044810) Update e2e workflow
+- [32ddb10e](https://github.com/kubedb/proxysql/commit/32ddb10e) Cleanup CI
+- [2f16bec6](https://github.com/kubedb/proxysql/commit/2f16bec6) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [0724ef23](https://github.com/kubedb/proxysql/commit/0724ef23) Use ghcr.io for appscode/golang-dev (#287)
+- [73541f5c](https://github.com/kubedb/proxysql/commit/73541f5c) Dynamically select runner type
+- [b28209ab](https://github.com/kubedb/proxysql/commit/b28209ab) Update workflows (Go 1.20, k8s 1.26) (#286)
+- [7f682fe8](https://github.com/kubedb/proxysql/commit/7f682fe8) Update wrokflows (Go 1.20, k8s 1.26) (#285)
+- [7daac3a4](https://github.com/kubedb/proxysql/commit/7daac3a4) Test against Kubernetes 1.26.0 (#284)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.26.0](https://github.com/kubedb/redis/releases/tag/v0.26.0)

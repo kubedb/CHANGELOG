@@ -22,3 +22,16 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.11.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.11.0)
+
+- [710fc9f](https://github.com/kubedb/mysql-router-init/commit/710fc9f) Cleanup CI
+- [2fe6586](https://github.com/kubedb/mysql-router-init/commit/2fe6586) Use ghcr.io for appscode/golang-dev (#34)
+- [989bb29](https://github.com/kubedb/mysql-router-init/commit/989bb29) Dynamically select runner type
+- [2d00c02](https://github.com/kubedb/mysql-router-init/commit/2d00c02) Update workflows (Go 1.20, k8s 1.26) (#33)
+- [1a70e0c](https://github.com/kubedb/mysql-router-init/commit/1a70e0c) Update wrokflows (Go 1.20, k8s 1.26) (#32)
+- [a68b30e](https://github.com/kubedb/mysql-router-init/commit/a68b30e) Test against Kubernetes 1.26.0 (#31)
+
+
+

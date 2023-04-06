@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-06T07:42:54.453098996Z",
+  "release_date": "2023-04-06T07:49:41.273568293Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -67,6 +67,40 @@
             {
               "SHA": "1a3cbc58",
               "Subject": "Update for release Stash@v2023.02.28 (#1023)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "710fc9f",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "2fe6586",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#34)"
+            },
+            {
+              "SHA": "989bb29",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "2d00c02",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#33)"
+            },
+            {
+              "SHA": "1a70e0c",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#32)"
+            },
+            {
+              "SHA": "a68b30e",
+              "Subject": "Test against Kubernetes 1.26.0 (#31)"
             }
           ]
         }

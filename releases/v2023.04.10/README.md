@@ -39,6 +39,18 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2023.04.10](https://github.com/kubedb/bundles/releases/tag/v2023.04.10)
+
+- [58a5457](https://github.com/kubedb/bundles/commit/58a5457) Prepare for release v2023.04.10 (#65)
+- [8127944](https://github.com/kubedb/bundles/commit/8127944) Use ghcr.io for appscode/golang-dev (#64)
+- [6ff5fa2](https://github.com/kubedb/bundles/commit/6ff5fa2) Update workflows (Go 1.20, k8s 1.26) (#63)
+- [bbeba74](https://github.com/kubedb/bundles/commit/bbeba74) Update wrokflows (Go 1.20, k8s 1.26) (#62)
+- [56d6cf5](https://github.com/kubedb/bundles/commit/56d6cf5) Test against Kubernetes 1.26.0 (#61)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.33.0](https://github.com/kubedb/cli/releases/tag/v0.33.0)

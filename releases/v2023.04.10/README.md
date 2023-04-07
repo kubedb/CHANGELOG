@@ -67,6 +67,20 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2023.04.10](https://github.com/kubedb/docs/releases/tag/v2023.04.10)
+
+- [6a1839fb](https://github.com/kubedb/docs/commit/6a1839fb) Prepare for release v2023.04.10 (#538)
+- [95f82fa3](https://github.com/kubedb/docs/commit/95f82fa3) Download updated hub data in CI (#537)
+- [98522698](https://github.com/kubedb/docs/commit/98522698) Add Kafka initial documetations (#524)
+- [08838375](https://github.com/kubedb/docs/commit/08838375) Use UpdateVersion instead of Upgrade (#536)
+- [93021428](https://github.com/kubedb/docs/commit/93021428) Update workflows (Go 1.20, k8s 1.26) (#534)
+- [b7f57cfe](https://github.com/kubedb/docs/commit/b7f57cfe) Fix Hugo installer
+- [29746447](https://github.com/kubedb/docs/commit/29746447) Test against Kubernetes 1.26.0 (#533)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.33.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.33.0)

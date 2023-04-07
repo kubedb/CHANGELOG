@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-07T09:06:38.076194932Z",
+  "release_date": "2023-04-07T10:01:51.61964885Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -1215,6 +1215,48 @@
             {
               "SHA": "8fa7286a",
               "Subject": "Add context to Redis Client Builder (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "a50a54aa",
+              "Subject": "Prepare for release v0.9.0 (#57)"
+            },
+            {
+              "SHA": "34807440",
+              "Subject": "Update e2e workflow"
+            },
+            {
+              "SHA": "38c71e46",
+              "Subject": "Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools"
+            },
+            {
+              "SHA": "1b32b482",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#56)"
+            },
+            {
+              "SHA": "6a15e2e4",
+              "Subject": "Dynamically select runner type"
+            },
+            {
+              "SHA": "4d08d51b",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#55)"
+            },
+            {
+              "SHA": "3ea6558a",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#54)"
+            },
+            {
+              "SHA": "b0edce4a",
+              "Subject": "Test against Kubernetes 1.26.0 (#53)"
             }
           ]
         }

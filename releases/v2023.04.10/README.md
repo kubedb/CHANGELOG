@@ -426,3 +426,18 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.9.0](https://github.com/kubedb/webhook-server/releases/tag/v0.9.0)
+
+- [a50a54aa](https://github.com/kubedb/webhook-server/commit/a50a54aa) Prepare for release v0.9.0 (#57)
+- [34807440](https://github.com/kubedb/webhook-server/commit/34807440) Update e2e workflow
+- [38c71e46](https://github.com/kubedb/webhook-server/commit/38c71e46) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [1b32b482](https://github.com/kubedb/webhook-server/commit/1b32b482) Use ghcr.io for appscode/golang-dev (#56)
+- [6a15e2e4](https://github.com/kubedb/webhook-server/commit/6a15e2e4) Dynamically select runner type
+- [4d08d51b](https://github.com/kubedb/webhook-server/commit/4d08d51b) Update workflows (Go 1.20, k8s 1.26) (#55)
+- [3ea6558a](https://github.com/kubedb/webhook-server/commit/3ea6558a) Update wrokflows (Go 1.20, k8s 1.26) (#54)
+- [b0edce4a](https://github.com/kubedb/webhook-server/commit/b0edce4a) Test against Kubernetes 1.26.0 (#53)
+
+
+

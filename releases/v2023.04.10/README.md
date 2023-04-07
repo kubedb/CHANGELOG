@@ -1,4 +1,4 @@
-# KubeDB v2023.04.10 (2023-04-06)
+# KubeDB v2023.04.10 (2023-04-07)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -267,6 +267,18 @@
 - [6005fce1](https://github.com/kubedb/postgres/commit/6005fce14) Update workflows (Go 1.20, k8s 1.26) (#633)
 - [26751826](https://github.com/kubedb/postgres/commit/267518268) Update wrokflows (Go 1.20, k8s 1.26) (#632)
 - [aad6863b](https://github.com/kubedb/postgres/commit/aad6863b7) Test against Kubernetes 1.26.0 (#631)
+
+
+
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.33.0](https://github.com/kubedb/provisioner/releases/tag/v0.33.0)
+
+- [9e5ad46a](https://github.com/kubedb/provisioner/commit/9e5ad46a1) Prepare for release v0.33.0 (#44)
+- [e1a68944](https://github.com/kubedb/provisioner/commit/e1a689443) Update e2e workflow
+- [0c177001](https://github.com/kubedb/provisioner/commit/0c1770015) Update workflows - Stop publishing to docker hub - Enable e2e tests - Use homebrew to install tools
+- [f30f3b60](https://github.com/kubedb/provisioner/commit/f30f3b60c) Use ghcr.io for appscode/golang-dev (#43)
+- [1ef0787b](https://github.com/kubedb/provisioner/commit/1ef0787b8) Dynamically select runner type
 
 
 

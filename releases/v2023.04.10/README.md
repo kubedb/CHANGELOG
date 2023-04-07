@@ -22,6 +22,23 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.18.0](https://github.com/kubedb/autoscaler/releases/tag/v0.18.0)
+
+- [311d6970](https://github.com/kubedb/autoscaler/commit/311d6970) Prepare for release v0.18.0 (#141)
+- [ef53b5a7](https://github.com/kubedb/autoscaler/commit/ef53b5a7) Use ghcr.io
+- [7ce66405](https://github.com/kubedb/autoscaler/commit/7ce66405) Use Homebrew in CI
+- [a4880d45](https://github.com/kubedb/autoscaler/commit/a4880d45) Stop publishing to docker hub
+- [a5e4e870](https://github.com/kubedb/autoscaler/commit/a5e4e870) Update package label in Docker files
+- [61be362d](https://github.com/kubedb/autoscaler/commit/61be362d) Dynamically select runner type
+- [572d61ab](https://github.com/kubedb/autoscaler/commit/572d61ab) Use ghcr.io for appscode/golang-dev (#140)
+- [1bf5f5ef](https://github.com/kubedb/autoscaler/commit/1bf5f5ef) Update workflows (Go 1.20, k8s 1.26) (#139)
+- [901be09a](https://github.com/kubedb/autoscaler/commit/901be09a) Update wrokflows (Go 1.20, k8s 1.26) (#138)
+- [12f24074](https://github.com/kubedb/autoscaler/commit/12f24074) Test against Kubernetes 1.26.0 (#137)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.33.0](https://github.com/kubedb/cli/releases/tag/v0.33.0)

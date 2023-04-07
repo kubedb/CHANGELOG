@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.04.10",
-  "release_date": "2023-04-07T07:25:05.022028651Z",
+  "release_date": "2023-04-07T08:55:05.111068766Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.04.10",
   "kubernetes_version": "1.19+",
@@ -573,6 +573,64 @@
             {
               "SHA": "a68b30e",
               "Subject": "Test against Kubernetes 1.26.0 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "e1e3a251",
+              "Subject": "Prepare for release v0.20.0 (#434)"
+            },
+            {
+              "SHA": "972654d8",
+              "Subject": "Rename UpgradeConstraints to UpdateConstrints in catalogs (#432)"
+            },
+            {
+              "SHA": "f2a545b2",
+              "Subject": "Fix mongodb Upgrade (#431)"
+            },
+            {
+              "SHA": "ce8027f0",
+              "Subject": "Cleanup CI"
+            },
+            {
+              "SHA": "64bef08d",
+              "Subject": "Add cve report to version upgrade Recommendation (#395)"
+            },
+            {
+              "SHA": "34a8838e",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#430)"
+            },
+            {
+              "SHA": "fcd0704d",
+              "Subject": "Use Redis and Sentinel Client from db-client-go (#429)"
+            },
+            {
+              "SHA": "55c6e16f",
+              "Subject": "Use UpdateVersion instead of Upgrade (#427)"
+            },
+            {
+              "SHA": "51554040",
+              "Subject": "Auto detect runs-on label (#428)"
+            },
+            {
+              "SHA": "a41c70fb",
+              "Subject": "Use self-hosted runners"
+            },
+            {
+              "SHA": "bb60637d",
+              "Subject": "Add Postgres UpdateVersion support (#425)"
+            },
+            {
+              "SHA": "ac890091",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#424)"
             }
           ]
         }

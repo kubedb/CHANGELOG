@@ -198,6 +198,25 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.20.0](https://github.com/kubedb/ops-manager/releases/tag/v0.20.0)
+
+- [e1e3a251](https://github.com/kubedb/ops-manager/commit/e1e3a251) Prepare for release v0.20.0 (#434)
+- [972654d8](https://github.com/kubedb/ops-manager/commit/972654d8) Rename UpgradeConstraints to UpdateConstrints in catalogs (#432)
+- [f2a545b2](https://github.com/kubedb/ops-manager/commit/f2a545b2) Fix mongodb Upgrade (#431)
+- [ce8027f0](https://github.com/kubedb/ops-manager/commit/ce8027f0) Cleanup CI
+- [64bef08d](https://github.com/kubedb/ops-manager/commit/64bef08d) Add cve report to version upgrade Recommendation (#395)
+- [34a8838e](https://github.com/kubedb/ops-manager/commit/34a8838e) Use ghcr.io for appscode/golang-dev (#430)
+- [fcd0704d](https://github.com/kubedb/ops-manager/commit/fcd0704d) Use Redis and Sentinel Client from db-client-go (#429)
+- [55c6e16f](https://github.com/kubedb/ops-manager/commit/55c6e16f) Use UpdateVersion instead of Upgrade (#427)
+- [51554040](https://github.com/kubedb/ops-manager/commit/51554040) Auto detect runs-on label (#428)
+- [a41c70fb](https://github.com/kubedb/ops-manager/commit/a41c70fb) Use self-hosted runners
+- [bb60637d](https://github.com/kubedb/ops-manager/commit/bb60637d) Add Postgres UpdateVersion support (#425)
+- [ac890091](https://github.com/kubedb/ops-manager/commit/ac890091) Update workflows (Go 1.20, k8s 1.26) (#424)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.20.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.20.0)

@@ -1,0 +1,229 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.04.10",
+  "docs_url_template": "https://kubedb.com/docs/%s",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "github.com/kubedb/apimachinery": {
+        "tag": "v0.33.0"
+      }
+    },
+    {
+      "github.com/kubedb/cli": {
+        "key": "kubedb-cli",
+        "tag": "v0.33.0"
+      },
+      "github.com/kubedb/elasticsearch": {
+        "tag": "v0.33.0"
+      },
+      "github.com/kubedb/kafka": {
+        "tag": "v0.4.0"
+      },
+      "github.com/kubedb/mariadb": {
+        "tag": "v0.17.0"
+      },
+      "github.com/kubedb/mariadb-coordinator": {
+        "tag": "v0.13.0"
+      },
+      "github.com/kubedb/memcached": {
+        "tag": "v0.26.0"
+      },
+      "github.com/kubedb/mongodb": {
+        "tag": "v0.26.0"
+      },
+      "github.com/kubedb/mysql": {
+        "tag": "v0.26.0"
+      },
+      "github.com/kubedb/mysql-coordinator": {
+        "tag": "v0.11.0"
+      },
+      "github.com/kubedb/mysql-router-init": {
+        "tag": "v0.11.0"
+      },
+      "github.com/kubedb/percona-xtradb": {
+        "tag": "v0.20.0"
+      },
+      "github.com/kubedb/percona-xtradb-coordinator": {
+        "tag": "v0.6.0"
+      },
+      "github.com/kubedb/pg-coordinator": {
+        "tag": "v0.17.0"
+      },
+      "github.com/kubedb/postgres": {
+        "tag": "v0.33.0"
+      },
+      "github.com/kubedb/redis": {
+        "tag": "v0.26.0"
+      },
+      "github.com/kubedb/redis-coordinator": {
+        "tag": "v0.12.0"
+      },
+      "github.com/kubedb/replication-mode-detector": {
+        "tag": "v0.20.0"
+      },
+      "github.com/kubedb/tests": {
+        "tag": "v0.18.0"
+      }
+    },
+    {
+      "github.com/kubedb/pgbouncer": {
+        "tag": "v0.20.0",
+        "commands": [
+          "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=POSTGRES_TAG=${KUBEDB_POSTGRES_TAG} ",
+          "make add-license fmt"
+        ]
+      },
+      "github.com/kubedb/proxysql": {
+        "tag": "v0.20.0",
+        "commands": [
+          "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=MYSQL_TAG=${KUBEDB_MYSQL_TAG} --vars=PERCONA_XTRADB_TAG=${KUBEDB_PERCONA_XTRADB_TAG} ",
+          "make add-license fmt"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/dashboard": {
+        "key": "kubedb-dashboard",
+        "tag": "v0.9.0",
+        "chartNames": [
+          "kubedb-dashboard"
+        ]
+      },
+      "github.com/kubedb/provisioner": {
+        "key": "kubedb-provisioner",
+        "tag": "v0.33.0",
+        "chartNames": [
+          "kubedb-provisioner"
+        ]
+      },
+      "github.com/kubedb/schema-manager": {
+        "key": "kubedb-schema-manager",
+        "tag": "v0.9.0",
+        "chartNames": [
+          "kubedb-schema-manager"
+        ]
+      },
+      "github.com/kubedb/ui-server": {
+        "key": "kubedb-ui-server",
+        "tag": "v0.9.0",
+        "chartNames": [
+          "kubedb-ui-server"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/ops-manager": {
+        "key": "kubedb-ops-manager",
+        "tag": "v0.20.0",
+        "chartNames": [
+          "kubedb-ops-manager"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/autoscaler": {
+        "key": "kubedb-autoscaler",
+        "tag": "v0.18.0",
+        "chartNames": [
+          "kubedb-autoscaler"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/webhook-server": {
+        "key": "kubedb-webhook-server",
+        "tag": "v0.9.0",
+        "chartNames": [
+          "kubedb-webhook-server"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/installer": {
+        "key": "kubedb-installer",
+        "tag": "v2023.04.10",
+        "chartNames": [
+          "kubedb-crds",
+          "kubedb-catalog",
+          "kubedb"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "go run ./hack/fmt/main.go --update-spec=spec.replicationModeDetector.image=ghcr.io/kubedb/replication-mode-detector:${KUBEDB_REPLICATION_MODE_DETECTOR_TAG}",
+          "go run ./hack/fmt/main.go --kind=MariaDBVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/mariadb-coordinator:${KUBEDB_MARIADB_COORDINATOR_TAG}",
+          "go run ./hack/fmt/main.go --kind=MySQLVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/mysql-coordinator:${KUBEDB_MYSQL_COORDINATOR_TAG}",
+          "go run ./hack/fmt/main.go --kind=MySQLVersion --update-spec=spec.routerInitContainer.image=ghcr.io/kubedb/mysql-router-init:${KUBEDB_MYSQL_ROUTER_INIT_TAG}",
+          "go run ./hack/fmt/main.go --kind=PerconaXtraDBVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/percona-xtradb-coordinator:${KUBEDB_PERCONA_XTRADB_COORDINATOR_TAG}",
+          "go run ./hack/fmt/main.go --kind=PostgresVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/pg-coordinator:${KUBEDB_PG_COORDINATOR_TAG}",
+          "go run ./hack/fmt/main.go --kind=RedisVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/redis-coordinator:${KUBEDB_REDIS_COORDINATOR_TAG}",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-provisioner CHART_VERSION=${KUBEDB_PROVISIONER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-ops-manager CHART_VERSION=${KUBEDB_OPS_MANAGER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-autoscaler CHART_VERSION=${KUBEDB_AUTOSCALER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-dashboard CHART_VERSION=${KUBEDB_DASHBOARD_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-schema-manager CHART_VERSION=${KUBEDB_SCHEMA_MANAGER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-ui-server CHART_VERSION=${KUBEDB_UI_SERVER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-webhook-server CHART_VERSION=${KUBEDB_WEBHOOK_SERVER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "./hack/scripts/update-chart-dependencies.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/kubedb/installer"
+        ],
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/appscode/static-assets": {
+        "commands": [
+          "release-automaton update-assets --hide --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+        ],
+        "changelog": "StandaloneWebsite"
+      }
+    },
+    {
+      "github.com/kubedb/docs": {
+        "key": "kubedb",
+        "tag": "v2023.04.10",
+        "commands": [
+          "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/kubedb/website": {
+        "tag": "v2023.04.10",
+        "commands": [
+          "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
+          "make docs",
+          "make set-version VERSION=${TAG}"
+        ],
+        "release_branch": "master",
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/kubedb/bundles": {
+        "tag": "v2023.04.10",
+        "commands": [
+          "release-automaton update-bundles --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE} --charts-dir=charts"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/bytebuilders/bundle-registry": {
+        "charts": [
+          "github.com/kubedb/bundles"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ]
+}

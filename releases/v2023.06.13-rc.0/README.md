@@ -81,3 +81,12 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.19.0-rc.0)
+
+- [066c8cf9](https://github.com/kubedb/tests/commit/066c8cf9) Prepare for release v0.19.0-rc.0 (#227)
+- [e49d6470](https://github.com/kubedb/tests/commit/e49d6470) Update license verifier (#226)
+
+
+

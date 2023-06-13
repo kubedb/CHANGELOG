@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T10:44:21.384484862Z",
+  "release_date": "2023-06-13T10:44:29.809058932Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -194,6 +194,24 @@
             {
               "SHA": "ca42ade",
               "Subject": "Test against K8s 1.27.0 (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "066c8cf9",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#227)"
+            },
+            {
+              "SHA": "e49d6470",
+              "Subject": "Update license verifier (#226)"
             }
           ]
         }

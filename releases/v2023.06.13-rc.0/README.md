@@ -211,6 +211,17 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.34.0-rc.0](https://github.com/kubedb/provisioner/releases/tag/v0.34.0-rc.0)
+
+- [5828a53a](https://github.com/kubedb/provisioner/commit/5828a53aa) Prepare for release v0.34.0-rc.0 (#49)
+- [ddbfc75b](https://github.com/kubedb/provisioner/commit/ddbfc75bd) Update docker/distribution (#48)
+- [1f2d4d5a](https://github.com/kubedb/provisioner/commit/1f2d4d5a6) Update license verifier (#47)
+- [b2b71d00](https://github.com/kubedb/provisioner/commit/b2b71d00c) Add enableServiceLinks to PodSpec (#46)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.21.0-rc.0)

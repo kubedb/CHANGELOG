@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T11:25:30.068431733Z",
+  "release_date": "2023-06-13T11:36:06.51073699Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -534,6 +534,32 @@
             {
               "SHA": "09607de3e",
               "Subject": "Add enableServiceLinks to PodSpec (#639)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5828a53aa",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#49)"
+            },
+            {
+              "SHA": "ddbfc75bd",
+              "Subject": "Update docker/distribution (#48)"
+            },
+            {
+              "SHA": "1f2d4d5a6",
+              "Subject": "Update license verifier (#47)"
+            },
+            {
+              "SHA": "b2b71d00c",
+              "Subject": "Add enableServiceLinks to PodSpec (#46)"
             }
           ]
         }

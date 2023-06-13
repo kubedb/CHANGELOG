@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T12:02:00.702785686Z",
+  "release_date": "2023-06-13T12:16:48.894470352Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -805,6 +805,24 @@
             {
               "SHA": "662808cb",
               "Subject": "Test against K8s 1.27.0 (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6673b381",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#60)"
+            },
+            {
+              "SHA": "c502edd3",
+              "Subject": "Add enableServiceLinks to PodSpec (#59)"
             }
           ]
         }

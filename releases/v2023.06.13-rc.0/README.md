@@ -15,6 +15,19 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.14.0-rc.0)
+
+- [1ad0eab6](https://github.com/kubedb/mariadb-coordinator/commit/1ad0eab6) Prepare for release v0.14.0-rc.0 (#84)
+- [6e2fcb39](https://github.com/kubedb/mariadb-coordinator/commit/6e2fcb39) Read pass from env (#81)
+- [0b3ae6b8](https://github.com/kubedb/mariadb-coordinator/commit/0b3ae6b8) Update license verifier (#83)
+- [ca4b5b1d](https://github.com/kubedb/mariadb-coordinator/commit/ca4b5b1d) Update license verifier (#82)
+- [5bc15939](https://github.com/kubedb/mariadb-coordinator/commit/5bc15939) Add enableServiceLinks to PodSpec (#80)
+- [e3a4ed91](https://github.com/kubedb/mariadb-coordinator/commit/e3a4ed91) Test against K8s 1.27.0 (#79)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.12.0-rc.0)

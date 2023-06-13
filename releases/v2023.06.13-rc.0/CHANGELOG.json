@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T10:42:40.956291274Z",
+  "release_date": "2023-06-13T10:43:14.194320069Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -39,6 +39,40 @@
             {
               "SHA": "bb1d4ff3",
               "Subject": "Fix linter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1ad0eab6",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#84)"
+            },
+            {
+              "SHA": "6e2fcb39",
+              "Subject": "Read pass from env (#81)"
+            },
+            {
+              "SHA": "0b3ae6b8",
+              "Subject": "Update license verifier (#83)"
+            },
+            {
+              "SHA": "ca4b5b1d",
+              "Subject": "Update license verifier (#82)"
+            },
+            {
+              "SHA": "5bc15939",
+              "Subject": "Add enableServiceLinks to PodSpec (#80)"
+            },
+            {
+              "SHA": "e3a4ed91",
+              "Subject": "Test against K8s 1.27.0 (#79)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T11:06:17.154062493Z",
+  "release_date": "2023-06-13T11:06:46.869899013Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -508,6 +508,48 @@
             {
               "SHA": "09607de3e",
               "Subject": "Add enableServiceLinks to PodSpec (#639)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "55a2b71f",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#297)"
+            },
+            {
+              "SHA": "3b813223",
+              "Subject": "Used cached client (#291)"
+            },
+            {
+              "SHA": "e657808c",
+              "Subject": "Fix ProxySQL Backend Mode Issue (#296)"
+            },
+            {
+              "SHA": "c8540a1a",
+              "Subject": "Configure pod template feilds (#295)"
+            },
+            {
+              "SHA": "8586dcdf",
+              "Subject": "Update docker/distribution (#294)"
+            },
+            {
+              "SHA": "80122c5d",
+              "Subject": "Update license verifier (#292)"
+            },
+            {
+              "SHA": "1de70c13",
+              "Subject": "Add enableServiceLinks to PodSpec (#290)"
+            },
+            {
+              "SHA": "32525708",
+              "Subject": "Test against K8s 1.27.0 (#289)"
             }
           ]
         }

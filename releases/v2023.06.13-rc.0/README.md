@@ -187,6 +187,19 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.27.0-rc.0)
+
+- [8411d7d9](https://github.com/kubedb/redis/commit/8411d7d9) Prepare for release v0.27.0-rc.0 (#467)
+- [f1f3e2c9](https://github.com/kubedb/redis/commit/f1f3e2c9) Use cached client (#463)
+- [0884c60c](https://github.com/kubedb/redis/commit/0884c60c) Update docker/distribution (#466)
+- [385691d6](https://github.com/kubedb/redis/commit/385691d6) Update license verifier (#465)
+- [37fa806f](https://github.com/kubedb/redis/commit/37fa806f) Configure pod template fields (#464)
+- [2993d8b7](https://github.com/kubedb/redis/commit/2993d8b7) Add enableServiceLinks to PodSpec (#461)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.13.0-rc.0)

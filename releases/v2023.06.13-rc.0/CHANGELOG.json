@@ -1,0 +1,48 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.06.13-rc.0",
+  "release_date": "2023-06-13T10:31:00.532833308Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "19397df9",
+              "Subject": "Auto detect mode for ProxySQL (#1043)"
+            },
+            {
+              "SHA": "892c0d78",
+              "Subject": "Move the schema-doubleOptIn helpers to be used as common utility (#1044)"
+            },
+            {
+              "SHA": "ef5eaff4",
+              "Subject": "Update license verifier (#1042)"
+            },
+            {
+              "SHA": "70ebcf52",
+              "Subject": "Add `enableServiceLinks` to PodSpec (#1039)"
+            },
+            {
+              "SHA": "a92b36c3",
+              "Subject": "Test against K8s 1.27.1 (#1038)"
+            },
+            {
+              "SHA": "81c3f83c",
+              "Subject": "Test against K8s 1.27.0 (#1037)"
+            },
+            {
+              "SHA": "bb1d4ff3",
+              "Subject": "Fix linter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

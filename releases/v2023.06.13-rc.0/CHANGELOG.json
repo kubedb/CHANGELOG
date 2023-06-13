@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T11:24:55.387530073Z",
+  "release_date": "2023-06-13T11:25:30.068431733Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -61,6 +61,32 @@
             {
               "SHA": "b0d86409",
               "Subject": "Add enableServiceLinks to PodSpec (#705)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2dd3f01",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#74)"
+            },
+            {
+              "SHA": "7f4dce3",
+              "Subject": "Re-Configure pod template fields (#72)"
+            },
+            {
+              "SHA": "d6780b2",
+              "Subject": "Update license verifier (#73)"
+            },
+            {
+              "SHA": "4bc57b5",
+              "Subject": "Add enableServiceLinks to PodSpec (#71)"
             }
           ]
         }

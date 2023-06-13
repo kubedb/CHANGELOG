@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T10:47:58.989138184Z",
+  "release_date": "2023-06-13T10:48:49.183382292Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -171,6 +171,32 @@
             {
               "SHA": "e3a4ed91",
               "Subject": "Test against K8s 1.27.0 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8584ad5d",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#395)"
+            },
+            {
+              "SHA": "d91bd11f",
+              "Subject": "Update license verifier (#394)"
+            },
+            {
+              "SHA": "44765061",
+              "Subject": "Update license verifier (#393)"
+            },
+            {
+              "SHA": "d4be3ee0",
+              "Subject": "Add enableServiceLinks to PodSpec (#392)"
             }
           ]
         }

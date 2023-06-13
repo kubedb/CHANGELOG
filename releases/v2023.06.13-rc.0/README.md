@@ -15,6 +15,16 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.34.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.34.0-rc.0)
+
+- [166b7b23](https://github.com/kubedb/cli/commit/166b7b23) Prepare for release v0.34.0-rc.0 (#707)
+- [2efbea85](https://github.com/kubedb/cli/commit/2efbea85) Update license verifier (#706)
+- [b0d86409](https://github.com/kubedb/cli/commit/b0d86409) Add enableServiceLinks to PodSpec (#705)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.14.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.14.0-rc.0)

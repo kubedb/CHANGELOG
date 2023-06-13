@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T10:43:14.194320069Z",
+  "release_date": "2023-06-13T10:43:44.307976148Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -39,6 +39,28 @@
             {
               "SHA": "bb1d4ff3",
               "Subject": "Fix linter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "166b7b23",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#707)"
+            },
+            {
+              "SHA": "2efbea85",
+              "Subject": "Update license verifier (#706)"
+            },
+            {
+              "SHA": "b0d86409",
+              "Subject": "Add enableServiceLinks to PodSpec (#705)"
             }
           ]
         }

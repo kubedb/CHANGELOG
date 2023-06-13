@@ -260,3 +260,16 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/ui-server/releases/tag/v0.10.0-rc.0)
+
+- [f3cee800](https://github.com/kubedb/ui-server/commit/f3cee800) Prepare for release v0.10.0-rc.0 (#80)
+- [86d37355](https://github.com/kubedb/ui-server/commit/86d37355) Update docker/distribution (#79)
+- [5f060b7e](https://github.com/kubedb/ui-server/commit/5f060b7e) Update license verifier (#77)
+- [6cf6d5ab](https://github.com/kubedb/ui-server/commit/6cf6d5ab) Close mongo client connection with defer (#76)
+- [312e5210](https://github.com/kubedb/ui-server/commit/312e5210) Add enableServiceLinks to PodSpec (#75)
+- [662808cb](https://github.com/kubedb/ui-server/commit/662808cb) Test against K8s 1.27.0 (#74)
+
+
+

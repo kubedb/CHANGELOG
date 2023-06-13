@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T10:45:00.412531945Z",
+  "release_date": "2023-06-13T10:45:31.974940273Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -95,6 +95,40 @@
             {
               "SHA": "e3a4ed91",
               "Subject": "Test against K8s 1.27.0 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6b41e393",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#538)"
+            },
+            {
+              "SHA": "9b3a2cf6",
+              "Subject": "Used cached client (#535)"
+            },
+            {
+              "SHA": "fefe9865",
+              "Subject": "Configure pod template fields (#534)"
+            },
+            {
+              "SHA": "d30d0aa9",
+              "Subject": "Update docker/distribution (#537)"
+            },
+            {
+              "SHA": "da13390d",
+              "Subject": "Update license verifier (#536)"
+            },
+            {
+              "SHA": "bb928789",
+              "Subject": "Add enableServiceLinks to PodSpec (#532)"
             }
           ]
         }

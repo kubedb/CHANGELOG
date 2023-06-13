@@ -38,6 +38,19 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.27.0-rc.0)
+
+- [6b41e393](https://github.com/kubedb/mysql/commit/6b41e393) Prepare for release v0.27.0-rc.0 (#538)
+- [9b3a2cf6](https://github.com/kubedb/mysql/commit/9b3a2cf6) Used cached client (#535)
+- [fefe9865](https://github.com/kubedb/mysql/commit/fefe9865) Configure pod template fields (#534)
+- [d30d0aa9](https://github.com/kubedb/mysql/commit/d30d0aa9) Update docker/distribution (#537)
+- [da13390d](https://github.com/kubedb/mysql/commit/da13390d) Update license verifier (#536)
+- [bb928789](https://github.com/kubedb/mysql/commit/bb928789) Add enableServiceLinks to PodSpec (#532)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.12.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T13:07:02.333575388Z",
+  "release_date": "2023-06-13T13:28:31.556861991Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -113,6 +113,20 @@
             {
               "SHA": "4bc57b5",
               "Subject": "Add enableServiceLinks to PodSpec (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.06.13-rc.0",
+          "commits": [
+            {
+              "SHA": "d31949d5",
+              "Subject": "Prepare for release v2023.06.13-rc.0 (#540)"
             }
           ]
         }

@@ -47,6 +47,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2023.06.13-rc.0](https://github.com/kubedb/docs/releases/tag/v2023.06.13-rc.0)
+
+- [d31949d5](https://github.com/kubedb/docs/commit/d31949d5) Prepare for release v2023.06.13-rc.0 (#540)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.34.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.34.0-rc.0)

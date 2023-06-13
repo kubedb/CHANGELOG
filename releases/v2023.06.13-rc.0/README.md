@@ -22,3 +22,16 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.7.0-rc.0)
+
+- [cfd5919](https://github.com/kubedb/percona-xtradb-coordinator/commit/cfd5919) Prepare for release v0.7.0-rc.0 (#41)
+- [fa25aaa](https://github.com/kubedb/percona-xtradb-coordinator/commit/fa25aaa) Read pass from env (#38)
+- [3322225](https://github.com/kubedb/percona-xtradb-coordinator/commit/3322225) Update license verifier (#40)
+- [f44d3ba](https://github.com/kubedb/percona-xtradb-coordinator/commit/f44d3ba) Update license verifier (#39)
+- [bbbabf7](https://github.com/kubedb/percona-xtradb-coordinator/commit/bbbabf7) Add enableServiceLinks to PodSpec (#37)
+- [052fb88](https://github.com/kubedb/percona-xtradb-coordinator/commit/052fb88) Test against K8s 1.27.0 (#36)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T10:49:02.006975496Z",
+  "release_date": "2023-06-13T10:49:52.193828744Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -61,6 +61,44 @@
             {
               "SHA": "b0d86409",
               "Subject": "Add enableServiceLinks to PodSpec (#705)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "805c72747",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#643)"
+            },
+            {
+              "SHA": "dfeec4312",
+              "Subject": "Use cached client (#639)"
+            },
+            {
+              "SHA": "605d3acce",
+              "Subject": "Re-Configure pod template fields (#637)"
+            },
+            {
+              "SHA": "1d060eff8",
+              "Subject": "Update docker/distribution (#642)"
+            },
+            {
+              "SHA": "7dcc3a7af",
+              "Subject": "Update license verifier (#641)"
+            },
+            {
+              "SHA": "fd59f56c6",
+              "Subject": "Update license verifier (#640)"
+            },
+            {
+              "SHA": "5a8b386f9",
+              "Subject": "Add enableServiceLinks to PodSpec (#636)"
             }
           ]
         }

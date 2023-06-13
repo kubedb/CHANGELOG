@@ -25,6 +25,20 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.34.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.34.0-rc.0)
+
+- [805c7274](https://github.com/kubedb/elasticsearch/commit/805c72747) Prepare for release v0.34.0-rc.0 (#643)
+- [dfeec431](https://github.com/kubedb/elasticsearch/commit/dfeec4312) Use cached client (#639)
+- [605d3acc](https://github.com/kubedb/elasticsearch/commit/605d3acce) Re-Configure pod template fields (#637)
+- [1d060eff](https://github.com/kubedb/elasticsearch/commit/1d060eff8) Update docker/distribution (#642)
+- [7dcc3a7a](https://github.com/kubedb/elasticsearch/commit/7dcc3a7af) Update license verifier (#641)
+- [fd59f56c](https://github.com/kubedb/elasticsearch/commit/fd59f56c6) Update license verifier (#640)
+- [5a8b386f](https://github.com/kubedb/elasticsearch/commit/5a8b386f9) Add enableServiceLinks to PodSpec (#636)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.5.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.5.0-rc.0)

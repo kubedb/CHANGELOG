@@ -82,6 +82,18 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.18.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.18.0-rc.0)
+
+- [dbc0ab09](https://github.com/kubedb/pg-coordinator/commit/dbc0ab09) Prepare for release v0.18.0-rc.0 (#123)
+- [8a17dbe1](https://github.com/kubedb/pg-coordinator/commit/8a17dbe1) Update license verifier (#122)
+- [a86af91b](https://github.com/kubedb/pg-coordinator/commit/a86af91b) Update license verifier (#121)
+- [1a538695](https://github.com/kubedb/pg-coordinator/commit/1a538695) Add enableServiceLinks to PodSpec (#120)
+- [f680dc7b](https://github.com/kubedb/pg-coordinator/commit/f680dc7b) Test against K8s 1.27.0 (#119)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.13.0-rc.0)

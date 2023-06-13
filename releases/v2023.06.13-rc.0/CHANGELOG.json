@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.13-rc.0",
-  "release_date": "2023-06-13T10:44:29.809058932Z",
+  "release_date": "2023-06-13T10:45:00.412531945Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
   "kubernetes_version": "1.19+",
@@ -194,6 +194,32 @@
             {
               "SHA": "ca42ade",
               "Subject": "Test against K8s 1.27.0 (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "22364949",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#235)"
+            },
+            {
+              "SHA": "13f4af9f",
+              "Subject": "Update license verifier (#234)"
+            },
+            {
+              "SHA": "49187c88",
+              "Subject": "Update license verifier (#233)"
+            },
+            {
+              "SHA": "cc8e62a7",
+              "Subject": "Test against K8s 1.27.0 (#231)"
             }
           ]
         }

@@ -174,6 +174,19 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.21.0-rc.0)
+
+- [510a0100](https://github.com/kubedb/pgbouncer/commit/510a0100) Prepare for release v0.21.0-rc.0 (#280)
+- [1b5a8f2b](https://github.com/kubedb/pgbouncer/commit/1b5a8f2b) Update docker/distribution (#279)
+- [7da9582c](https://github.com/kubedb/pgbouncer/commit/7da9582c) Update license verifier (#278)
+- [b056ed70](https://github.com/kubedb/pgbouncer/commit/b056ed70) Update license verifier (#277)
+- [e4211b77](https://github.com/kubedb/pgbouncer/commit/e4211b77) Add enableServiceLinks to PodSpec (#275)
+- [32d37f30](https://github.com/kubedb/pgbouncer/commit/32d37f30) Test against K8s 1.27.0 (#274)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.34.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.34.0-rc.0)

@@ -121,6 +121,20 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.21.0-rc.0)
+
+- [cb1c8481](https://github.com/kubedb/percona-xtradb/commit/cb1c8481) Prepare for release v0.21.0-rc.0 (#315)
+- [da3fbc76](https://github.com/kubedb/percona-xtradb/commit/da3fbc76) Used cached client (#311)
+- [39144eb2](https://github.com/kubedb/percona-xtradb/commit/39144eb2) Configure podtemplate fields (#314)
+- [d85284ea](https://github.com/kubedb/percona-xtradb/commit/d85284ea) Update docker/distribution (#313)
+- [b3a5c6f3](https://github.com/kubedb/percona-xtradb/commit/b3a5c6f3) Update license verifier (#312)
+- [445c4787](https://github.com/kubedb/percona-xtradb/commit/445c4787) Add enableServiceLinks to PodSpec (#309)
+- [c2c1451e](https://github.com/kubedb/percona-xtradb/commit/c2c1451e) Test against K8s 1.27.0 (#308)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.7.0-rc.0)

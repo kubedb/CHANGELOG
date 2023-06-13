@@ -38,6 +38,17 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.12.0-rc.0)
+
+- [0a4ecdf](https://github.com/kubedb/mysql-coordinator/commit/0a4ecdf) Prepare for release v0.12.0-rc.0 (#80)
+- [8a7f31c](https://github.com/kubedb/mysql-coordinator/commit/8a7f31c) Read password form env (#79)
+- [d1d8106](https://github.com/kubedb/mysql-coordinator/commit/d1d8106) Add enableServiceLinks to PodSpec (#78)
+- [3e67a4f](https://github.com/kubedb/mysql-coordinator/commit/3e67a4f) Test against K8s 1.27.0 (#77)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.12.0-rc.0)

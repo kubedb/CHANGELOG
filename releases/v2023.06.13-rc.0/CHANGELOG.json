@@ -1,0 +1,877 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.06.13-rc.0",
+  "release_date": "2023-06-13T13:58:35.572973204Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.06.13-rc.0",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "19397df9",
+              "Subject": "Auto detect mode for ProxySQL (#1043)"
+            },
+            {
+              "SHA": "892c0d78",
+              "Subject": "Move the schema-doubleOptIn helpers to be used as common utility (#1044)"
+            },
+            {
+              "SHA": "ef5eaff4",
+              "Subject": "Update license verifier (#1042)"
+            },
+            {
+              "SHA": "70ebcf52",
+              "Subject": "Add `enableServiceLinks` to PodSpec (#1039)"
+            },
+            {
+              "SHA": "a92b36c3",
+              "Subject": "Test against K8s 1.27.1 (#1038)"
+            },
+            {
+              "SHA": "81c3f83c",
+              "Subject": "Test against K8s 1.27.0 (#1037)"
+            },
+            {
+              "SHA": "bb1d4ff3",
+              "Subject": "Fix linter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d0116a87",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#146)"
+            },
+            {
+              "SHA": "7b5d01a3",
+              "Subject": "Update license verifier (#145)"
+            },
+            {
+              "SHA": "1987e74c",
+              "Subject": "Update license verifier (#144)"
+            },
+            {
+              "SHA": "5d3a8fc6",
+              "Subject": "Add enableServiceLinks to PodSpec (#143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.06.13-rc.0",
+          "commits": [
+            {
+              "SHA": "2e4316d",
+              "Subject": "Prepare for release v2023.06.13-rc.0 (#68)"
+            },
+            {
+              "SHA": "b145d44",
+              "Subject": "Test against K8s 1.27.1 (#67)"
+            },
+            {
+              "SHA": "e1cd08c",
+              "Subject": "Test against K8s 1.27.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "166b7b23",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#707)"
+            },
+            {
+              "SHA": "2efbea85",
+              "Subject": "Update license verifier (#706)"
+            },
+            {
+              "SHA": "b0d86409",
+              "Subject": "Add enableServiceLinks to PodSpec (#705)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2dd3f01",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#74)"
+            },
+            {
+              "SHA": "7f4dce3",
+              "Subject": "Re-Configure pod template fields (#72)"
+            },
+            {
+              "SHA": "d6780b2",
+              "Subject": "Update license verifier (#73)"
+            },
+            {
+              "SHA": "4bc57b5",
+              "Subject": "Add enableServiceLinks to PodSpec (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.06.13-rc.0",
+          "commits": [
+            {
+              "SHA": "d31949d5",
+              "Subject": "Prepare for release v2023.06.13-rc.0 (#540)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "805c72747",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#643)"
+            },
+            {
+              "SHA": "dfeec4312",
+              "Subject": "Use cached client (#639)"
+            },
+            {
+              "SHA": "605d3acce",
+              "Subject": "Re-Configure pod template fields (#637)"
+            },
+            {
+              "SHA": "1d060eff8",
+              "Subject": "Update docker/distribution (#642)"
+            },
+            {
+              "SHA": "7dcc3a7af",
+              "Subject": "Update license verifier (#641)"
+            },
+            {
+              "SHA": "fd59f56c6",
+              "Subject": "Update license verifier (#640)"
+            },
+            {
+              "SHA": "5a8b386f9",
+              "Subject": "Add enableServiceLinks to PodSpec (#636)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.06.13-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d523a2e",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "640213a",
+              "Subject": "Re-Configure pod template fields (#24)"
+            },
+            {
+              "SHA": "a772b4c",
+              "Subject": "Update docker/distribution (#27)"
+            },
+            {
+              "SHA": "b643c9b",
+              "Subject": "Update license verifier (#26)"
+            },
+            {
+              "SHA": "f75f877",
+              "Subject": "Update license verifier (#25)"
+            },
+            {
+              "SHA": "4985a5b",
+              "Subject": "Add enableServiceLinks to PodSpec (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": [
+            {
+              "SHA": "710e8863",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#214)"
+            },
+            {
+              "SHA": "013cbda6",
+              "Subject": "Used cached client (#209)"
+            },
+            {
+              "SHA": "17475079",
+              "Subject": "Configure podtemplate fields (#213)"
+            },
+            {
+              "SHA": "059ba1e2",
+              "Subject": "Update docker/distribution (#212)"
+            },
+            {
+              "SHA": "5cb60c15",
+              "Subject": "Update license verifier (#211)"
+            },
+            {
+              "SHA": "b04b55ea",
+              "Subject": "Update license verifier (#210)"
+            },
+            {
+              "SHA": "4953dd26",
+              "Subject": "Add enableServiceLinks to PodSpec (#208)"
+            },
+            {
+              "SHA": "f953bfb4",
+              "Subject": "Test against K8s 1.27.0 (#207)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1ad0eab6",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#84)"
+            },
+            {
+              "SHA": "6e2fcb39",
+              "Subject": "Read pass from env (#81)"
+            },
+            {
+              "SHA": "0b3ae6b8",
+              "Subject": "Update license verifier (#83)"
+            },
+            {
+              "SHA": "ca4b5b1d",
+              "Subject": "Update license verifier (#82)"
+            },
+            {
+              "SHA": "5bc15939",
+              "Subject": "Add enableServiceLinks to PodSpec (#80)"
+            },
+            {
+              "SHA": "e3a4ed91",
+              "Subject": "Test against K8s 1.27.0 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8584ad5d",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#395)"
+            },
+            {
+              "SHA": "d91bd11f",
+              "Subject": "Update license verifier (#394)"
+            },
+            {
+              "SHA": "44765061",
+              "Subject": "Update license verifier (#393)"
+            },
+            {
+              "SHA": "d4be3ee0",
+              "Subject": "Add enableServiceLinks to PodSpec (#392)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "39f1936f",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#553)"
+            },
+            {
+              "SHA": "5f12f078",
+              "Subject": "Use cached client (#550)"
+            },
+            {
+              "SHA": "2130dd52",
+              "Subject": "Update docker/distribution (#552)"
+            },
+            {
+              "SHA": "0c3ee218",
+              "Subject": "Update license verifier (#551)"
+            },
+            {
+              "SHA": "70367dcd",
+              "Subject": "Configure pod template fields (#548)"
+            },
+            {
+              "SHA": "61a4b51a",
+              "Subject": "Add enableServiceLinks to PodSpec (#546)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6b41e393",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#538)"
+            },
+            {
+              "SHA": "9b3a2cf6",
+              "Subject": "Used cached client (#535)"
+            },
+            {
+              "SHA": "fefe9865",
+              "Subject": "Configure pod template fields (#534)"
+            },
+            {
+              "SHA": "d30d0aa9",
+              "Subject": "Update docker/distribution (#537)"
+            },
+            {
+              "SHA": "da13390d",
+              "Subject": "Update license verifier (#536)"
+            },
+            {
+              "SHA": "bb928789",
+              "Subject": "Add enableServiceLinks to PodSpec (#532)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0a4ecdf",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#80)"
+            },
+            {
+              "SHA": "8a7f31c",
+              "Subject": "Read password form env (#79)"
+            },
+            {
+              "SHA": "d1d8106",
+              "Subject": "Add enableServiceLinks to PodSpec (#78)"
+            },
+            {
+              "SHA": "3e67a4f",
+              "Subject": "Test against K8s 1.27.0 (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cb1c8481",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#315)"
+            },
+            {
+              "SHA": "da3fbc76",
+              "Subject": "Used cached client (#311)"
+            },
+            {
+              "SHA": "39144eb2",
+              "Subject": "Configure podtemplate fields (#314)"
+            },
+            {
+              "SHA": "d85284ea",
+              "Subject": "Update docker/distribution (#313)"
+            },
+            {
+              "SHA": "b3a5c6f3",
+              "Subject": "Update license verifier (#312)"
+            },
+            {
+              "SHA": "445c4787",
+              "Subject": "Add enableServiceLinks to PodSpec (#309)"
+            },
+            {
+              "SHA": "c2c1451e",
+              "Subject": "Test against K8s 1.27.0 (#308)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cfd5919",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "fa25aaa",
+              "Subject": "Read pass from env (#38)"
+            },
+            {
+              "SHA": "3322225",
+              "Subject": "Update license verifier (#40)"
+            },
+            {
+              "SHA": "f44d3ba",
+              "Subject": "Update license verifier (#39)"
+            },
+            {
+              "SHA": "bbbabf7",
+              "Subject": "Add enableServiceLinks to PodSpec (#37)"
+            },
+            {
+              "SHA": "052fb88",
+              "Subject": "Test against K8s 1.27.0 (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": [
+            {
+              "SHA": "dbc0ab09",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "8a17dbe1",
+              "Subject": "Update license verifier (#122)"
+            },
+            {
+              "SHA": "a86af91b",
+              "Subject": "Update license verifier (#121)"
+            },
+            {
+              "SHA": "1a538695",
+              "Subject": "Add enableServiceLinks to PodSpec (#120)"
+            },
+            {
+              "SHA": "f680dc7b",
+              "Subject": "Test against K8s 1.27.0 (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "510a0100",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#280)"
+            },
+            {
+              "SHA": "1b5a8f2b",
+              "Subject": "Update docker/distribution (#279)"
+            },
+            {
+              "SHA": "7da9582c",
+              "Subject": "Update license verifier (#278)"
+            },
+            {
+              "SHA": "b056ed70",
+              "Subject": "Update license verifier (#277)"
+            },
+            {
+              "SHA": "e4211b77",
+              "Subject": "Add enableServiceLinks to PodSpec (#275)"
+            },
+            {
+              "SHA": "32d37f30",
+              "Subject": "Test against K8s 1.27.0 (#274)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "036155296",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#645)"
+            },
+            {
+              "SHA": "5b178fe3c",
+              "Subject": "Used cached client (#641)"
+            },
+            {
+              "SHA": "5d4f949cd",
+              "Subject": "Update docker/distribution (#644)"
+            },
+            {
+              "SHA": "0bd2d452b",
+              "Subject": "Configure pod template fields (#642)"
+            },
+            {
+              "SHA": "7e18f1359",
+              "Subject": "Update license verifier (#643)"
+            },
+            {
+              "SHA": "09607de3e",
+              "Subject": "Add enableServiceLinks to PodSpec (#639)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5828a53aa",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#49)"
+            },
+            {
+              "SHA": "ddbfc75bd",
+              "Subject": "Update docker/distribution (#48)"
+            },
+            {
+              "SHA": "1f2d4d5a6",
+              "Subject": "Update license verifier (#47)"
+            },
+            {
+              "SHA": "b2b71d00c",
+              "Subject": "Add enableServiceLinks to PodSpec (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "55a2b71f",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#297)"
+            },
+            {
+              "SHA": "3b813223",
+              "Subject": "Used cached client (#291)"
+            },
+            {
+              "SHA": "e657808c",
+              "Subject": "Fix ProxySQL Backend Mode Issue (#296)"
+            },
+            {
+              "SHA": "c8540a1a",
+              "Subject": "Configure pod template feilds (#295)"
+            },
+            {
+              "SHA": "8586dcdf",
+              "Subject": "Update docker/distribution (#294)"
+            },
+            {
+              "SHA": "80122c5d",
+              "Subject": "Update license verifier (#292)"
+            },
+            {
+              "SHA": "1de70c13",
+              "Subject": "Add enableServiceLinks to PodSpec (#290)"
+            },
+            {
+              "SHA": "32525708",
+              "Subject": "Test against K8s 1.27.0 (#289)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8411d7d9",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#467)"
+            },
+            {
+              "SHA": "f1f3e2c9",
+              "Subject": "Use cached client (#463)"
+            },
+            {
+              "SHA": "0884c60c",
+              "Subject": "Update docker/distribution (#466)"
+            },
+            {
+              "SHA": "385691d6",
+              "Subject": "Update license verifier (#465)"
+            },
+            {
+              "SHA": "37fa806f",
+              "Subject": "Configure pod template fields (#464)"
+            },
+            {
+              "SHA": "2993d8b7",
+              "Subject": "Add enableServiceLinks to PodSpec (#461)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8b0ecaa",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#73)"
+            },
+            {
+              "SHA": "9d42b96",
+              "Subject": "Update license verifier (#72)"
+            },
+            {
+              "SHA": "31a4f43",
+              "Subject": "Update license verifier (#71)"
+            },
+            {
+              "SHA": "61bc0cf",
+              "Subject": "Add enableServiceLinks to PodSpec (#70)"
+            },
+            {
+              "SHA": "ca42ade",
+              "Subject": "Test against K8s 1.27.0 (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "22364949",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#235)"
+            },
+            {
+              "SHA": "13f4af9f",
+              "Subject": "Update license verifier (#234)"
+            },
+            {
+              "SHA": "49187c88",
+              "Subject": "Update license verifier (#233)"
+            },
+            {
+              "SHA": "cc8e62a7",
+              "Subject": "Test against K8s 1.27.0 (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3bf16dac",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#75)"
+            },
+            {
+              "SHA": "a80da62a",
+              "Subject": "Update license verifier (#74)"
+            },
+            {
+              "SHA": "0761e223",
+              "Subject": "Update license verifier (#73)"
+            },
+            {
+              "SHA": "83fa3191",
+              "Subject": "Add enableServiceLinks to PodSpec (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "066c8cf9",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#227)"
+            },
+            {
+              "SHA": "e49d6470",
+              "Subject": "Update license verifier (#226)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f3cee800",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#80)"
+            },
+            {
+              "SHA": "86d37355",
+              "Subject": "Update docker/distribution (#79)"
+            },
+            {
+              "SHA": "5f060b7e",
+              "Subject": "Update license verifier (#77)"
+            },
+            {
+              "SHA": "6cf6d5ab",
+              "Subject": "Close mongo client connection with defer (#76)"
+            },
+            {
+              "SHA": "312e5210",
+              "Subject": "Add enableServiceLinks to PodSpec (#75)"
+            },
+            {
+              "SHA": "662808cb",
+              "Subject": "Test against K8s 1.27.0 (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6673b381",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#60)"
+            },
+            {
+              "SHA": "c502edd3",
+              "Subject": "Add enableServiceLinks to PodSpec (#59)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -66,6 +66,19 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.27.0-rc.0)
+
+- [39f1936f](https://github.com/kubedb/mongodb/commit/39f1936f) Prepare for release v0.27.0-rc.0 (#553)
+- [5f12f078](https://github.com/kubedb/mongodb/commit/5f12f078) Use cached client (#550)
+- [2130dd52](https://github.com/kubedb/mongodb/commit/2130dd52) Update docker/distribution (#552)
+- [0c3ee218](https://github.com/kubedb/mongodb/commit/0c3ee218) Update license verifier (#551)
+- [70367dcd](https://github.com/kubedb/mongodb/commit/70367dcd) Configure pod template fields (#548)
+- [61a4b51a](https://github.com/kubedb/mongodb/commit/61a4b51a) Add enableServiceLinks to PodSpec (#546)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.27.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.27.0-rc.0)

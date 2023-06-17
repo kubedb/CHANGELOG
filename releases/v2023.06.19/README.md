@@ -56,6 +56,22 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.18.0](https://github.com/kubedb/mariadb/releases/tag/v0.18.0)
+
+- [159572c5](https://github.com/kubedb/mariadb/commit/159572c5) Prepare for release v0.18.0 (#215)
+- [710e8863](https://github.com/kubedb/mariadb/commit/710e8863) Prepare for release v0.18.0-rc.0 (#214)
+- [013cbda6](https://github.com/kubedb/mariadb/commit/013cbda6) Used cached client (#209)
+- [17475079](https://github.com/kubedb/mariadb/commit/17475079) Configure podtemplate fields (#213)
+- [059ba1e2](https://github.com/kubedb/mariadb/commit/059ba1e2) Update docker/distribution (#212)
+- [5cb60c15](https://github.com/kubedb/mariadb/commit/5cb60c15) Update license verifier (#211)
+- [b04b55ea](https://github.com/kubedb/mariadb/commit/b04b55ea) Update license verifier (#210)
+- [4953dd26](https://github.com/kubedb/mariadb/commit/4953dd26) Add enableServiceLinks to PodSpec (#208)
+- [f953bfb4](https://github.com/kubedb/mariadb/commit/f953bfb4) Test against K8s 1.27.0 (#207)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.14.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.14.0)

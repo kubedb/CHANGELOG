@@ -23,6 +23,19 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.13.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.13.0)
+
+- [a6efda5](https://github.com/kubedb/redis-coordinator/commit/a6efda5) Prepare for release v0.13.0 (#74)
+- [8b0ecaa](https://github.com/kubedb/redis-coordinator/commit/8b0ecaa) Prepare for release v0.13.0-rc.0 (#73)
+- [9d42b96](https://github.com/kubedb/redis-coordinator/commit/9d42b96) Update license verifier (#72)
+- [31a4f43](https://github.com/kubedb/redis-coordinator/commit/31a4f43) Update license verifier (#71)
+- [61bc0cf](https://github.com/kubedb/redis-coordinator/commit/61bc0cf) Add enableServiceLinks to PodSpec (#70)
+- [ca42ade](https://github.com/kubedb/redis-coordinator/commit/ca42ade) Test against K8s 1.27.0 (#69)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.19.0](https://github.com/kubedb/tests/releases/tag/v0.19.0)

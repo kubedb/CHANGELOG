@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.19",
-  "release_date": "2023-06-17T17:23:06.952927859Z",
+  "release_date": "2023-06-17T17:23:58.762159415Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.19",
   "kubernetes_version": "1.19+",
@@ -54,6 +54,40 @@
         {
           "tag": "v0.12.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "a6efda5",
+              "Subject": "Prepare for release v0.13.0 (#74)"
+            },
+            {
+              "SHA": "8b0ecaa",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#73)"
+            },
+            {
+              "SHA": "9d42b96",
+              "Subject": "Update license verifier (#72)"
+            },
+            {
+              "SHA": "31a4f43",
+              "Subject": "Update license verifier (#71)"
+            },
+            {
+              "SHA": "61bc0cf",
+              "Subject": "Add enableServiceLinks to PodSpec (#70)"
+            },
+            {
+              "SHA": "ca42ade",
+              "Subject": "Test against K8s 1.27.0 (#69)"
+            }
+          ]
         }
       ]
     },

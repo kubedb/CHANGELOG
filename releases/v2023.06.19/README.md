@@ -27,6 +27,18 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.10.0](https://github.com/kubedb/dashboard/releases/tag/v0.10.0)
+
+- [f7e4160](https://github.com/kubedb/dashboard/commit/f7e4160) Prepare for release v0.10.0 (#75)
+- [2dd3f01](https://github.com/kubedb/dashboard/commit/2dd3f01) Prepare for release v0.10.0-rc.0 (#74)
+- [7f4dce3](https://github.com/kubedb/dashboard/commit/7f4dce3) Re-Configure pod template fields (#72)
+- [d6780b2](https://github.com/kubedb/dashboard/commit/d6780b2) Update license verifier (#73)
+- [4bc57b5](https://github.com/kubedb/dashboard/commit/4bc57b5) Add enableServiceLinks to PodSpec (#71)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.34.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.34.0)

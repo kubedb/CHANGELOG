@@ -201,6 +201,25 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.21.0](https://github.com/kubedb/proxysql/releases/tag/v0.21.0)
+
+- [32cfd8ed](https://github.com/kubedb/proxysql/commit/32cfd8ed) Prepare for release v0.21.0 (#300)
+- [807ea0fa](https://github.com/kubedb/proxysql/commit/807ea0fa) Update go.mod
+- [d225233f](https://github.com/kubedb/proxysql/commit/d225233f) Fix SQL Query Builder (#299)
+- [b6a2633e](https://github.com/kubedb/proxysql/commit/b6a2633e) Update client (#298)
+- [55a2b71f](https://github.com/kubedb/proxysql/commit/55a2b71f) Prepare for release v0.21.0-rc.0 (#297)
+- [3b813223](https://github.com/kubedb/proxysql/commit/3b813223) Used cached client (#291)
+- [e657808c](https://github.com/kubedb/proxysql/commit/e657808c) Fix ProxySQL Backend Mode Issue (#296)
+- [c8540a1a](https://github.com/kubedb/proxysql/commit/c8540a1a) Configure pod template feilds (#295)
+- [8586dcdf](https://github.com/kubedb/proxysql/commit/8586dcdf) Update docker/distribution (#294)
+- [80122c5d](https://github.com/kubedb/proxysql/commit/80122c5d) Update license verifier (#292)
+- [1de70c13](https://github.com/kubedb/proxysql/commit/1de70c13) Add enableServiceLinks to PodSpec (#290)
+- [32525708](https://github.com/kubedb/proxysql/commit/32525708) Test against K8s 1.27.0 (#289)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.27.0](https://github.com/kubedb/redis/releases/tag/v0.27.0)

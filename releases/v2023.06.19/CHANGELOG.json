@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.19",
-  "release_date": "2023-06-17T20:09:25.730667011Z",
+  "release_date": "2023-06-17T20:10:17.46277547Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.19",
   "kubernetes_version": "1.19+",
@@ -810,6 +810,44 @@
             {
               "SHA": "e49d6470",
               "Subject": "Update license verifier (#226)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "b18d2830",
+              "Subject": "Prepare for release v0.10.0 (#81)"
+            },
+            {
+              "SHA": "f3cee800",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#80)"
+            },
+            {
+              "SHA": "86d37355",
+              "Subject": "Update docker/distribution (#79)"
+            },
+            {
+              "SHA": "5f060b7e",
+              "Subject": "Update license verifier (#77)"
+            },
+            {
+              "SHA": "6cf6d5ab",
+              "Subject": "Close mongo client connection with defer (#76)"
+            },
+            {
+              "SHA": "312e5210",
+              "Subject": "Add enableServiceLinks to PodSpec (#75)"
+            },
+            {
+              "SHA": "662808cb",
+              "Subject": "Test against K8s 1.27.0 (#74)"
             }
           ]
         }

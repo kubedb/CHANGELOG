@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.19",
-  "release_date": "2023-06-17T18:34:16.503593289Z",
+  "release_date": "2023-06-17T18:36:22.679411241Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.19",
   "kubernetes_version": "1.19+",
@@ -183,6 +183,36 @@
             {
               "SHA": "bb928789",
               "Subject": "Add enableServiceLinks to PodSpec (#532)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "f2e53e8",
+              "Subject": "Prepare for release v0.12.0 (#81)"
+            },
+            {
+              "SHA": "0a4ecdf",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#80)"
+            },
+            {
+              "SHA": "8a7f31c",
+              "Subject": "Read password form env (#79)"
+            },
+            {
+              "SHA": "d1d8106",
+              "Subject": "Add enableServiceLinks to PodSpec (#78)"
+            },
+            {
+              "SHA": "3e67a4f",
+              "Subject": "Test against K8s 1.27.0 (#77)"
             }
           ]
         }

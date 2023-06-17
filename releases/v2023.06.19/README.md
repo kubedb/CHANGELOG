@@ -353,3 +353,13 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.10.0](https://github.com/kubedb/webhook-server/releases/tag/v0.10.0)
+
+- [b683739b](https://github.com/kubedb/webhook-server/commit/b683739b) Prepare for release v0.10.0 (#61)
+- [6673b381](https://github.com/kubedb/webhook-server/commit/6673b381) Prepare for release v0.10.0-rc.0 (#60)
+- [c502edd3](https://github.com/kubedb/webhook-server/commit/c502edd3) Add enableServiceLinks to PodSpec (#59)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.19",
-  "release_date": "2023-06-17T17:26:41.976444679Z",
+  "release_date": "2023-06-17T18:09:30.909964222Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.19",
   "kubernetes_version": "1.19+",
@@ -80,6 +80,44 @@
         {
           "tag": "v0.12.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "b2356c4",
+              "Subject": "Prepare for release v0.7.0 (#42)"
+            },
+            {
+              "SHA": "cfd5919",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "fa25aaa",
+              "Subject": "Read pass from env (#38)"
+            },
+            {
+              "SHA": "3322225",
+              "Subject": "Update license verifier (#40)"
+            },
+            {
+              "SHA": "f44d3ba",
+              "Subject": "Update license verifier (#39)"
+            },
+            {
+              "SHA": "bbbabf7",
+              "Subject": "Add enableServiceLinks to PodSpec (#37)"
+            },
+            {
+              "SHA": "052fb88",
+              "Subject": "Test against K8s 1.27.0 (#36)"
+            }
+          ]
         }
       ]
     },

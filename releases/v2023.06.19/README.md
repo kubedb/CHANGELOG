@@ -27,6 +27,20 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.5.0](https://github.com/kubedb/kafka/releases/tag/v0.5.0)
+
+- [8617db3](https://github.com/kubedb/kafka/commit/8617db3) Prepare for release v0.5.0 (#30)
+- [d523a2e](https://github.com/kubedb/kafka/commit/d523a2e) Prepare for release v0.5.0-rc.0 (#29)
+- [640213a](https://github.com/kubedb/kafka/commit/640213a) Re-Configure pod template fields (#24)
+- [a772b4c](https://github.com/kubedb/kafka/commit/a772b4c) Update docker/distribution (#27)
+- [b643c9b](https://github.com/kubedb/kafka/commit/b643c9b) Update license verifier (#26)
+- [f75f877](https://github.com/kubedb/kafka/commit/f75f877) Update license verifier (#25)
+- [4985a5b](https://github.com/kubedb/kafka/commit/4985a5b) Add enableServiceLinks to PodSpec (#23)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.12.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.12.0)

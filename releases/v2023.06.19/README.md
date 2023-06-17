@@ -55,6 +55,18 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.27.0](https://github.com/kubedb/memcached/releases/tag/v0.27.0)
+
+- [5630eab4](https://github.com/kubedb/memcached/commit/5630eab4) Prepare for release v0.27.0 (#396)
+- [8584ad5d](https://github.com/kubedb/memcached/commit/8584ad5d) Prepare for release v0.27.0-rc.0 (#395)
+- [d91bd11f](https://github.com/kubedb/memcached/commit/d91bd11f) Update license verifier (#394)
+- [44765061](https://github.com/kubedb/memcached/commit/44765061) Update license verifier (#393)
+- [d4be3ee0](https://github.com/kubedb/memcached/commit/d4be3ee0) Add enableServiceLinks to PodSpec (#392)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.27.0](https://github.com/kubedb/mongodb/releases/tag/v0.27.0)

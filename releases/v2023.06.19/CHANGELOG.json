@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.19",
-  "release_date": "2023-06-17T20:30:04.508234028Z",
+  "release_date": "2023-06-17T20:42:01.345297084Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.19",
   "kubernetes_version": "1.19+",
@@ -43,6 +43,36 @@
             {
               "SHA": "bb1d4ff3",
               "Subject": "Fix linter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "d734810c",
+              "Subject": "Prepare for release v0.19.0 (#147)"
+            },
+            {
+              "SHA": "d0116a87",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#146)"
+            },
+            {
+              "SHA": "7b5d01a3",
+              "Subject": "Update license verifier (#145)"
+            },
+            {
+              "SHA": "1987e74c",
+              "Subject": "Update license verifier (#144)"
+            },
+            {
+              "SHA": "5d3a8fc6",
+              "Subject": "Add enableServiceLinks to PodSpec (#143)"
             }
           ]
         }

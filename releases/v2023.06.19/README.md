@@ -16,6 +16,18 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.19.0](https://github.com/kubedb/autoscaler/releases/tag/v0.19.0)
+
+- [d734810c](https://github.com/kubedb/autoscaler/commit/d734810c) Prepare for release v0.19.0 (#147)
+- [d0116a87](https://github.com/kubedb/autoscaler/commit/d0116a87) Prepare for release v0.19.0-rc.0 (#146)
+- [7b5d01a3](https://github.com/kubedb/autoscaler/commit/7b5d01a3) Update license verifier (#145)
+- [1987e74c](https://github.com/kubedb/autoscaler/commit/1987e74c) Update license verifier (#144)
+- [5d3a8fc6](https://github.com/kubedb/autoscaler/commit/5d3a8fc6) Add enableServiceLinks to PodSpec (#143)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.34.0](https://github.com/kubedb/cli/releases/tag/v0.34.0)

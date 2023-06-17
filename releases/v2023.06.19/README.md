@@ -285,6 +285,18 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.10.0](https://github.com/kubedb/schema-manager/releases/tag/v0.10.0)
+
+- [ecf33195](https://github.com/kubedb/schema-manager/commit/ecf33195) Prepare for release v0.10.0 (#76)
+- [3bf16dac](https://github.com/kubedb/schema-manager/commit/3bf16dac) Prepare for release v0.10.0-rc.0 (#75)
+- [a80da62a](https://github.com/kubedb/schema-manager/commit/a80da62a) Update license verifier (#74)
+- [0761e223](https://github.com/kubedb/schema-manager/commit/0761e223) Update license verifier (#73)
+- [83fa3191](https://github.com/kubedb/schema-manager/commit/83fa3191) Add enableServiceLinks to PodSpec (#72)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.19.0](https://github.com/kubedb/tests/releases/tag/v0.19.0)

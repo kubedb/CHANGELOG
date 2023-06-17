@@ -156,6 +156,18 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.21.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.21.0)
+
+- [95360f91](https://github.com/kubedb/replication-mode-detector/commit/95360f91) Prepare for release v0.21.0 (#236)
+- [22364949](https://github.com/kubedb/replication-mode-detector/commit/22364949) Prepare for release v0.21.0-rc.0 (#235)
+- [13f4af9f](https://github.com/kubedb/replication-mode-detector/commit/13f4af9f) Update license verifier (#234)
+- [49187c88](https://github.com/kubedb/replication-mode-detector/commit/49187c88) Update license verifier (#233)
+- [cc8e62a7](https://github.com/kubedb/replication-mode-detector/commit/cc8e62a7) Test against K8s 1.27.0 (#231)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.19.0](https://github.com/kubedb/tests/releases/tag/v0.19.0)

@@ -28,6 +28,17 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2023.06.19](https://github.com/kubedb/bundles/releases/tag/v2023.06.19)
+
+- [427cba1](https://github.com/kubedb/bundles/commit/427cba1) Prepare for release v2023.06.19 (#69)
+- [2e4316d](https://github.com/kubedb/bundles/commit/2e4316d) Prepare for release v2023.06.13-rc.0 (#68)
+- [b145d44](https://github.com/kubedb/bundles/commit/b145d44) Test against K8s 1.27.1 (#67)
+- [e1cd08c](https://github.com/kubedb/bundles/commit/e1cd08c) Test against K8s 1.27.0 (#66)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.34.0](https://github.com/kubedb/cli/releases/tag/v0.34.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.06.19",
-  "release_date": "2023-06-17T18:43:24.185473626Z",
+  "release_date": "2023-06-17T19:08:52.204100075Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.06.19",
   "kubernetes_version": "1.19+",
@@ -262,6 +262,48 @@
         {
           "tag": "v0.12.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "8aa1d3b8",
+              "Subject": "Prepare for release v0.21.0 (#316)"
+            },
+            {
+              "SHA": "cb1c8481",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#315)"
+            },
+            {
+              "SHA": "da3fbc76",
+              "Subject": "Used cached client (#311)"
+            },
+            {
+              "SHA": "39144eb2",
+              "Subject": "Configure podtemplate fields (#314)"
+            },
+            {
+              "SHA": "d85284ea",
+              "Subject": "Update docker/distribution (#313)"
+            },
+            {
+              "SHA": "b3a5c6f3",
+              "Subject": "Update license verifier (#312)"
+            },
+            {
+              "SHA": "445c4787",
+              "Subject": "Add enableServiceLinks to PodSpec (#309)"
+            },
+            {
+              "SHA": "c2c1451e",
+              "Subject": "Test against K8s 1.27.0 (#308)"
+            }
+          ]
         }
       ]
     },

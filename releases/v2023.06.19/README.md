@@ -34,6 +34,20 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.34.0](https://github.com/kubedb/postgres/releases/tag/v0.34.0)
+
+- [8509c5cb](https://github.com/kubedb/postgres/commit/8509c5cbf) Prepare for release v0.34.0 (#646)
+- [03615529](https://github.com/kubedb/postgres/commit/036155296) Prepare for release v0.34.0-rc.0 (#645)
+- [5b178fe3](https://github.com/kubedb/postgres/commit/5b178fe3c) Used cached client (#641)
+- [5d4f949c](https://github.com/kubedb/postgres/commit/5d4f949cd) Update docker/distribution (#644)
+- [0bd2d452](https://github.com/kubedb/postgres/commit/0bd2d452b) Configure pod template fields (#642)
+- [7e18f135](https://github.com/kubedb/postgres/commit/7e18f1359) Update license verifier (#643)
+- [09607de3](https://github.com/kubedb/postgres/commit/09607de3e) Add enableServiceLinks to PodSpec (#639)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.13.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.13.0)

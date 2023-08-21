@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:10:42.430269336Z",
+  "release_date": "2023-08-21T00:11:09.302158093Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -123,6 +123,80 @@
             {
               "SHA": "77b5b854",
               "Subject": "Reduce get/patch api calls (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "df494f03",
+              "Subject": "Prepare for release v0.28.0 (#568)"
+            },
+            {
+              "SHA": "d8705c76",
+              "Subject": "Update dependencies (#567)"
+            },
+            {
+              "SHA": "b84464c3",
+              "Subject": "Confirm the db has been paused before ops continue (#566)"
+            },
+            {
+              "SHA": "b0e8a237",
+              "Subject": "Update dependencies (#565)"
+            },
+            {
+              "SHA": "ecd154fb",
+              "Subject": "add test input (#564)"
+            },
+            {
+              "SHA": "96fac12b",
+              "Subject": "Reduce get/patch api calls (#557)"
+            },
+            {
+              "SHA": "568f3e28",
+              "Subject": "Fix stash installation (#563)"
+            },
+            {
+              "SHA": "d905767f",
+              "Subject": "Run only general profile tests"
+            },
+            {
+              "SHA": "9692d296",
+              "Subject": "Use KIND v0.20.0 (#562)"
+            },
+            {
+              "SHA": "30fe37a7",
+              "Subject": "Use --bind_ip to fix 3.4.* CrashLoopbackOff issue (#559)"
+            },
+            {
+              "SHA": "f658d023",
+              "Subject": "Run nightly.yml against master branch"
+            },
+            {
+              "SHA": "af990bc2",
+              "Subject": "Run nightly tests against master branch"
+            },
+            {
+              "SHA": "83abcb97",
+              "Subject": "Run e2e test nightly (#560)"
+            },
+            {
+              "SHA": "35bb3970",
+              "Subject": "Use new kmapi Condition (#558)"
+            },
+            {
+              "SHA": "6c5e8551",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "02269ae8",
+              "Subject": "Use restricted pod security level (#556)"
             }
           ]
         }

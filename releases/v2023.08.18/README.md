@@ -45,6 +45,29 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.28.0](https://github.com/kubedb/mongodb/releases/tag/v0.28.0)
+
+- [df494f03](https://github.com/kubedb/mongodb/commit/df494f03) Prepare for release v0.28.0 (#568)
+- [d8705c76](https://github.com/kubedb/mongodb/commit/d8705c76) Update dependencies (#567)
+- [b84464c3](https://github.com/kubedb/mongodb/commit/b84464c3) Confirm the db has been paused before ops continue (#566)
+- [b0e8a237](https://github.com/kubedb/mongodb/commit/b0e8a237) Update dependencies (#565)
+- [ecd154fb](https://github.com/kubedb/mongodb/commit/ecd154fb) add test input (#564)
+- [96fac12b](https://github.com/kubedb/mongodb/commit/96fac12b) Reduce get/patch api calls (#557)
+- [568f3e28](https://github.com/kubedb/mongodb/commit/568f3e28) Fix stash installation (#563)
+- [d905767f](https://github.com/kubedb/mongodb/commit/d905767f) Run only general profile tests
+- [9692d296](https://github.com/kubedb/mongodb/commit/9692d296) Use KIND v0.20.0 (#562)
+- [30fe37a7](https://github.com/kubedb/mongodb/commit/30fe37a7) Use --bind_ip to fix 3.4.* CrashLoopbackOff issue (#559)
+- [f658d023](https://github.com/kubedb/mongodb/commit/f658d023) Run nightly.yml against master branch
+- [af990bc2](https://github.com/kubedb/mongodb/commit/af990bc2) Run nightly tests against master branch
+- [83abcb97](https://github.com/kubedb/mongodb/commit/83abcb97) Run e2e test nightly (#560)
+- [35bb3970](https://github.com/kubedb/mongodb/commit/35bb3970) Use new kmapi Condition (#558)
+- [6c5e8551](https://github.com/kubedb/mongodb/commit/6c5e8551) Update Makefile
+- [02269ae8](https://github.com/kubedb/mongodb/commit/02269ae8) Use restricted pod security level (#556)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.13.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.13.0)

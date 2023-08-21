@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:12:09.692314604Z",
+  "release_date": "2023-08-21T00:12:21.301841213Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -239,6 +239,52 @@
             {
               "SHA": "77b5b854",
               "Subject": "Reduce get/patch api calls (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "fd40e37e",
+              "Subject": "Prepare for release v0.28.0 (#402)"
+            },
+            {
+              "SHA": "f759a6d6",
+              "Subject": "Update dependencies (#401)"
+            },
+            {
+              "SHA": "4a82561c",
+              "Subject": "Update dependencies (#400)"
+            },
+            {
+              "SHA": "29b39605",
+              "Subject": "Fix e2e and nightly workflows"
+            },
+            {
+              "SHA": "1c77d33f",
+              "Subject": "Use KIND v0.20.0 (#399)"
+            },
+            {
+              "SHA": "bfc480a7",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "7acbe89e",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "08adb133",
+              "Subject": "Run e2e tests nightly (#398)"
+            },
+            {
+              "SHA": "3d10ada3",
+              "Subject": "Use new kmapi Condition (#397)"
             }
           ]
         }

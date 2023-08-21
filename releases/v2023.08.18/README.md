@@ -83,6 +83,22 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.28.0](https://github.com/kubedb/memcached/releases/tag/v0.28.0)
+
+- [fd40e37e](https://github.com/kubedb/memcached/commit/fd40e37e) Prepare for release v0.28.0 (#402)
+- [f759a6d6](https://github.com/kubedb/memcached/commit/f759a6d6) Update dependencies (#401)
+- [4a82561c](https://github.com/kubedb/memcached/commit/4a82561c) Update dependencies (#400)
+- [29b39605](https://github.com/kubedb/memcached/commit/29b39605) Fix e2e and nightly workflows
+- [1c77d33f](https://github.com/kubedb/memcached/commit/1c77d33f) Use KIND v0.20.0 (#399)
+- [bfc480a7](https://github.com/kubedb/memcached/commit/bfc480a7) Run nightly tests against master
+- [7acbe89e](https://github.com/kubedb/memcached/commit/7acbe89e) Update nightly.yml
+- [08adb133](https://github.com/kubedb/memcached/commit/08adb133) Run e2e tests nightly (#398)
+- [3d10ada3](https://github.com/kubedb/memcached/commit/3d10ada3) Use new kmapi Condition (#397)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.28.0](https://github.com/kubedb/mongodb/releases/tag/v0.28.0)

@@ -83,6 +83,16 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.14.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.14.0)
+
+- [136eb79](https://github.com/kubedb/redis-coordinator/commit/136eb79) Prepare for release v0.14.0 (#77)
+- [cc749e6](https://github.com/kubedb/redis-coordinator/commit/cc749e6) Update dependencies (#76)
+- [fbc75dd](https://github.com/kubedb/redis-coordinator/commit/fbc75dd) Update dependencies (#75)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.22.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.22.0)

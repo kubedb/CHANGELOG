@@ -221,6 +221,25 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.22.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.22.0)
+
+- [fe943791](https://github.com/kubedb/pgbouncer/commit/fe943791) Prepare for release v0.22.0 (#289)
+- [489949d7](https://github.com/kubedb/pgbouncer/commit/489949d7) Update dependencies (#288)
+- [ea7e4b3c](https://github.com/kubedb/pgbouncer/commit/ea7e4b3c) Update dependencies (#287)
+- [8ddf699c](https://github.com/kubedb/pgbouncer/commit/8ddf699c) Fix: get and patch call issue (#285)
+- [81fa0fb3](https://github.com/kubedb/pgbouncer/commit/81fa0fb3) Use KIND v0.20.0 (#286)
+- [6bc9e12b](https://github.com/kubedb/pgbouncer/commit/6bc9e12b) Run nightly tests against master
+- [655e1d06](https://github.com/kubedb/pgbouncer/commit/655e1d06) Update nightly.yml
+- [2d1bc4e5](https://github.com/kubedb/pgbouncer/commit/2d1bc4e5) Update nightly.yml
+- [94419822](https://github.com/kubedb/pgbouncer/commit/94419822) Run e2e tests nightly
+- [c41aa109](https://github.com/kubedb/pgbouncer/commit/c41aa109) Use new kmapi Condition (#284)
+- [e62cbde9](https://github.com/kubedb/pgbouncer/commit/e62cbde9) Update Makefile
+- [6734feba](https://github.com/kubedb/pgbouncer/commit/6734feba) Use restricted pod security label (#283)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.35.0](https://github.com/kubedb/postgres/releases/tag/v0.35.0)

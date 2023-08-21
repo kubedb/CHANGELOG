@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:14:55.93052721Z",
+  "release_date": "2023-08-21T01:15:23.897125669Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -598,6 +598,36 @@
             {
               "SHA": "2c8983d",
               "Subject": "reduce get/patch api calls (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "a8ee999d",
+              "Subject": "Prepare for release v0.19.0 (#129)"
+            },
+            {
+              "SHA": "1434fdfc",
+              "Subject": "Update dependencies (#128)"
+            },
+            {
+              "SHA": "36ceccc8",
+              "Subject": "Use cached client (#127)"
+            },
+            {
+              "SHA": "190a4880",
+              "Subject": "Update dependencies (#126)"
+            },
+            {
+              "SHA": "8aad969e",
+              "Subject": "fix failover and standby sync issue (#125)"
             }
           ]
         }

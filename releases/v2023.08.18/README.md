@@ -209,6 +209,18 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.19.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.19.0)
+
+- [a8ee999d](https://github.com/kubedb/pg-coordinator/commit/a8ee999d) Prepare for release v0.19.0 (#129)
+- [1434fdfc](https://github.com/kubedb/pg-coordinator/commit/1434fdfc) Update dependencies (#128)
+- [36ceccc8](https://github.com/kubedb/pg-coordinator/commit/36ceccc8) Use cached client (#127)
+- [190a4880](https://github.com/kubedb/pg-coordinator/commit/190a4880) Update dependencies (#126)
+- [8aad969e](https://github.com/kubedb/pg-coordinator/commit/8aad969e) fix failover and standby sync issue (#125)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.35.0](https://github.com/kubedb/postgres/releases/tag/v0.35.0)

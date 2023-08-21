@@ -417,3 +417,16 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.11.0](https://github.com/kubedb/webhook-server/releases/tag/v0.11.0)
+
+- [26e96671](https://github.com/kubedb/webhook-server/commit/26e96671) Prepare for release (#66)
+- [d446d877](https://github.com/kubedb/webhook-server/commit/d446d877) Update dependencies (#65)
+- [278f450b](https://github.com/kubedb/webhook-server/commit/278f450b) Use KIND v0.20.0 (#64)
+- [6ba4191e](https://github.com/kubedb/webhook-server/commit/6ba4191e) Use new kmapi Condition (#63)
+- [5cc21a08](https://github.com/kubedb/webhook-server/commit/5cc21a08) Update Makefile
+- [0edd0610](https://github.com/kubedb/webhook-server/commit/0edd0610) Use restricted pod security label (#62)
+
+
+

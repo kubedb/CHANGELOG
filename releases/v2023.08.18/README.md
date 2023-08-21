@@ -38,3 +38,21 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.20.0](https://github.com/kubedb/tests/releases/tag/v0.20.0)
+
+- [ea935103](https://github.com/kubedb/tests/commit/ea935103) Prepare for release v0.20.0 (#242)
+- [bc927923](https://github.com/kubedb/tests/commit/bc927923) Update dependencies (#241)
+- [319bf4a2](https://github.com/kubedb/tests/commit/319bf4a2) Fix mg termination_policy & env_variables (#237)
+- [5424bdbe](https://github.com/kubedb/tests/commit/5424bdbe) update vertical scaling constant (#239)
+- [40229b3d](https://github.com/kubedb/tests/commit/40229b3d) Update dependencies (#238)
+- [68deeafb](https://github.com/kubedb/tests/commit/68deeafb) Exclude volume expansion (#235)
+- [7a364367](https://github.com/kubedb/tests/commit/7a364367) Fix test for ES & OS with disabled security (#232)
+- [313151de](https://github.com/kubedb/tests/commit/313151de) fix mariadb test (#234)
+- [c5d9911e](https://github.com/kubedb/tests/commit/c5d9911e) Update tests by test profile (#231)
+- [b2a5f384](https://github.com/kubedb/tests/commit/b2a5f384) Fix general tests (#230)
+- [a13b9095](https://github.com/kubedb/tests/commit/a13b9095) Use new kmapi Condition (#229)
+
+
+

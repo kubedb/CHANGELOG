@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:05:07.120307057Z",
+  "release_date": "2023-08-21T00:07:02.629928048Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -95,6 +95,60 @@
             {
               "SHA": "2c8983d",
               "Subject": "reduce get/patch api calls (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "ea935103",
+              "Subject": "Prepare for release v0.20.0 (#242)"
+            },
+            {
+              "SHA": "bc927923",
+              "Subject": "Update dependencies (#241)"
+            },
+            {
+              "SHA": "319bf4a2",
+              "Subject": "Fix mg termination_policy & env_variables (#237)"
+            },
+            {
+              "SHA": "5424bdbe",
+              "Subject": "update vertical scaling constant (#239)"
+            },
+            {
+              "SHA": "40229b3d",
+              "Subject": "Update dependencies (#238)"
+            },
+            {
+              "SHA": "68deeafb",
+              "Subject": "Exclude volume expansion (#235)"
+            },
+            {
+              "SHA": "7a364367",
+              "Subject": "Fix test for ES & OS with disabled security (#232)"
+            },
+            {
+              "SHA": "313151de",
+              "Subject": "fix mariadb test (#234)"
+            },
+            {
+              "SHA": "c5d9911e",
+              "Subject": "Update tests by test profile (#231)"
+            },
+            {
+              "SHA": "b2a5f384",
+              "Subject": "Fix general tests (#230)"
+            },
+            {
+              "SHA": "a13b9095",
+              "Subject": "Use new kmapi Condition (#229)"
             }
           ]
         }

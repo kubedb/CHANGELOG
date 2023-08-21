@@ -1,0 +1,1265 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.08.18",
+  "release_date": "2023-08-21T05:27:59.327491428Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.08.18",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "8e2aab0c",
+              "Subject": "Add apis for git sync (#1055)"
+            },
+            {
+              "SHA": "eec599f0",
+              "Subject": "Add default MaxUnavailable spec for ES (#1053)"
+            },
+            {
+              "SHA": "72a039cd",
+              "Subject": "Updated kafka validateVersions webhook for newly added versions (#1054)"
+            },
+            {
+              "SHA": "f86084cd",
+              "Subject": "Add Logical Replication Replica Identity conditions (#1050)"
+            },
+            {
+              "SHA": "4ce21bc5",
+              "Subject": "Add cruise control API (#1045)"
+            },
+            {
+              "SHA": "eda8efdf",
+              "Subject": "Make the conditions uniform across database opsRequests (#1052)"
+            },
+            {
+              "SHA": "eb1b7f21",
+              "Subject": "Change schema-manager constants type (#1051)"
+            },
+            {
+              "SHA": "a763fb6b",
+              "Subject": "Use updated kmapi Conditions (#1049)"
+            },
+            {
+              "SHA": "ebc00ae2",
+              "Subject": "Add AsOwner() utility for dbs (#1046)"
+            },
+            {
+              "SHA": "224dd567",
+              "Subject": "Add Custom Configuration spec for Kafka (#1041)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "02970fe1",
+              "Subject": "Prepare for release v0.20.0 (#152)"
+            },
+            {
+              "SHA": "bdd60f13",
+              "Subject": "Update dependencies (#151)"
+            },
+            {
+              "SHA": "9fbd8bf6",
+              "Subject": "Update dependencies (#150)"
+            },
+            {
+              "SHA": "8bc4f455",
+              "Subject": "Use new kmapi Condition (#149)"
+            },
+            {
+              "SHA": "6ccd8cfc",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "23a3a0b1",
+              "Subject": "Use restricted pod security label (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.08.18",
+          "commits": [
+            {
+              "SHA": "c77675f",
+              "Subject": "Prepare for release v2023.08.18 (#70)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "bbe4b2ef",
+              "Subject": "Prepare for release v0.35.0 (#718)"
+            },
+            {
+              "SHA": "be1a1198",
+              "Subject": "Update dependencies (#717)"
+            },
+            {
+              "SHA": "6adaa37f",
+              "Subject": "Add MongoDB data cli (#716)"
+            },
+            {
+              "SHA": "95ef1341",
+              "Subject": "Add Elasticsearch CMD to insert, verify and drop data (#714)"
+            },
+            {
+              "SHA": "196a75ca",
+              "Subject": "Added Postgres Data insert verify drop through Kubedb CLI (#712)"
+            },
+            {
+              "SHA": "9953efb7",
+              "Subject": "Add Insert Verify Drop for MariaDB in KubeDB CLI (#715)"
+            },
+            {
+              "SHA": "41139e49",
+              "Subject": "Add Insert Verify Drop for MySQL in KubeDB CLI (#713)"
+            },
+            {
+              "SHA": "cf49e9aa",
+              "Subject": "Add Redis CMD for data insert (#709)"
+            },
+            {
+              "SHA": "3a14bd72",
+              "Subject": "Use svcName in exec instead of static primary (#711)"
+            },
+            {
+              "SHA": "af0c5734",
+              "Subject": "Update dependencies (#710)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "40e20d8",
+              "Subject": "Prepare for release v0.11.0 (#81)"
+            },
+            {
+              "SHA": "9b390b6",
+              "Subject": "Update dependencies (#80)"
+            },
+            {
+              "SHA": "2db4453",
+              "Subject": "Update dependencies (#79)"
+            },
+            {
+              "SHA": "49332b4",
+              "Subject": "Update client-go for GET and PATCH call issue fix (#77)"
+            },
+            {
+              "SHA": "711eba9",
+              "Subject": "Use new kmapi Condition (#78)"
+            },
+            {
+              "SHA": "4d8f1d9",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "cf67a4d",
+              "Subject": "Use restricted pod security label (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.08.18",
+          "commits": [
+            {
+              "SHA": "65aa49d1",
+              "Subject": "Prepare for release v2023.08.18 (#556)"
+            },
+            {
+              "SHA": "f04928de",
+              "Subject": "Update docs for kubedb/cli@95ef1341 (#550)"
+            },
+            {
+              "SHA": "cc7e5185",
+              "Subject": "Fix typos in Redis docs (#542)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "bc8df6435",
+              "Subject": "Prepare for release v0.35.0 (#662)"
+            },
+            {
+              "SHA": "e70d2d108",
+              "Subject": "Update dependencies (#661)"
+            },
+            {
+              "SHA": "8775e15d0",
+              "Subject": "Confirm the db has been paused before ops continue (#660)"
+            },
+            {
+              "SHA": "b717a900c",
+              "Subject": "Update nightly"
+            },
+            {
+              "SHA": "096538e8d",
+              "Subject": "Update dependencies (#659)"
+            },
+            {
+              "SHA": "9b5de295f",
+              "Subject": "update nightly test profile to provisioner (#658)"
+            },
+            {
+              "SHA": "c25227e39",
+              "Subject": "Add opensearch-2.5.0 in nightly tests"
+            },
+            {
+              "SHA": "367052731",
+              "Subject": "Fix Disable Security failing Builtin User cred synchronization Issue (#654)"
+            },
+            {
+              "SHA": "7102b622d",
+              "Subject": "Add inputs to nightly workflow"
+            },
+            {
+              "SHA": "93eda557e",
+              "Subject": "Fix GET and PATCH call issue (#648)"
+            },
+            {
+              "SHA": "af7e4c237",
+              "Subject": "Fix nightly (#651)"
+            },
+            {
+              "SHA": "0e1de49b5",
+              "Subject": "Use KIND v0.20.0 (#652)"
+            },
+            {
+              "SHA": "ffc5d7f6d",
+              "Subject": "Use master branch with nightly.yml"
+            },
+            {
+              "SHA": "ec391b1e2",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "179aa1507",
+              "Subject": "Update nightly test matrix"
+            },
+            {
+              "SHA": "b6a094db2",
+              "Subject": "Run e2e tests nightly (#650)"
+            },
+            {
+              "SHA": "e09e1e700",
+              "Subject": "Use new kmapi Condition (#649)"
+            },
+            {
+              "SHA": "ce0cac63a",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "f0b570d4d",
+              "Subject": "Use restricted pod security label (#647)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.08.18",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "1b83b3b",
+              "Subject": "Prepare for release v0.6.0 (#35)"
+            },
+            {
+              "SHA": "4eb30cd",
+              "Subject": "Add Support for Cruise Control (#33)"
+            },
+            {
+              "SHA": "1414470",
+              "Subject": "Add custom configuration (#28)"
+            },
+            {
+              "SHA": "5a5537b",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "d973665",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "1cbdccd",
+              "Subject": "Run e2e tests nightly (#34)"
+            },
+            {
+              "SHA": "987235c",
+              "Subject": "Use new kmapi Condition (#32)"
+            },
+            {
+              "SHA": "dbbbc7f",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "f8adcfe",
+              "Subject": "Use restricted pod security label (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "f98e4730",
+              "Subject": "Prepare for release v0.19.0 (#228)"
+            },
+            {
+              "SHA": "5d47fbb2",
+              "Subject": "Update dependencies (#227)"
+            },
+            {
+              "SHA": "40a21a5e",
+              "Subject": "Confirm the db has been paused before ops continue (#226)"
+            },
+            {
+              "SHA": "97924029",
+              "Subject": "Update dependencies (#225)"
+            },
+            {
+              "SHA": "edc232c8",
+              "Subject": "update nightly test profile to provisioner (#224)"
+            },
+            {
+              "SHA": "0087bcfa",
+              "Subject": "Add inputs fields to manual trigger ci file (#222)"
+            },
+            {
+              "SHA": "ca265d0f",
+              "Subject": "reduce get/patch api calls (#218)"
+            },
+            {
+              "SHA": "ec7a0a79",
+              "Subject": "fix nightly test workflow (#221)"
+            },
+            {
+              "SHA": "e145c47d",
+              "Subject": "Use KIND v0.20.0 (#220)"
+            },
+            {
+              "SHA": "bc1cb72d",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "c8f6dab2",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "f577fa72",
+              "Subject": "Run e2e tests nightly (#219)"
+            },
+            {
+              "SHA": "256ae22a",
+              "Subject": "Use new kmapi Condition (#217)"
+            },
+            {
+              "SHA": "37bbf08e",
+              "Subject": "Use restricted pod security label (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "0d67bc6d",
+              "Subject": "Prepare for release v0.15.0 (#89)"
+            },
+            {
+              "SHA": "49c68129",
+              "Subject": "Update dependencies (#88)"
+            },
+            {
+              "SHA": "e9c737c5",
+              "Subject": "Update dependencies (#87)"
+            },
+            {
+              "SHA": "77b5b854",
+              "Subject": "Reduce get/patch api calls (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "fd40e37e",
+              "Subject": "Prepare for release v0.28.0 (#402)"
+            },
+            {
+              "SHA": "f759a6d6",
+              "Subject": "Update dependencies (#401)"
+            },
+            {
+              "SHA": "4a82561c",
+              "Subject": "Update dependencies (#400)"
+            },
+            {
+              "SHA": "29b39605",
+              "Subject": "Fix e2e and nightly workflows"
+            },
+            {
+              "SHA": "1c77d33f",
+              "Subject": "Use KIND v0.20.0 (#399)"
+            },
+            {
+              "SHA": "bfc480a7",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "7acbe89e",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "08adb133",
+              "Subject": "Run e2e tests nightly (#398)"
+            },
+            {
+              "SHA": "3d10ada3",
+              "Subject": "Use new kmapi Condition (#397)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "df494f03",
+              "Subject": "Prepare for release v0.28.0 (#568)"
+            },
+            {
+              "SHA": "d8705c76",
+              "Subject": "Update dependencies (#567)"
+            },
+            {
+              "SHA": "b84464c3",
+              "Subject": "Confirm the db has been paused before ops continue (#566)"
+            },
+            {
+              "SHA": "b0e8a237",
+              "Subject": "Update dependencies (#565)"
+            },
+            {
+              "SHA": "ecd154fb",
+              "Subject": "add test input (#564)"
+            },
+            {
+              "SHA": "96fac12b",
+              "Subject": "Reduce get/patch api calls (#557)"
+            },
+            {
+              "SHA": "568f3e28",
+              "Subject": "Fix stash installation (#563)"
+            },
+            {
+              "SHA": "d905767f",
+              "Subject": "Run only general profile tests"
+            },
+            {
+              "SHA": "9692d296",
+              "Subject": "Use KIND v0.20.0 (#562)"
+            },
+            {
+              "SHA": "30fe37a7",
+              "Subject": "Use --bind_ip to fix 3.4.* CrashLoopbackOff issue (#559)"
+            },
+            {
+              "SHA": "f658d023",
+              "Subject": "Run nightly.yml against master branch"
+            },
+            {
+              "SHA": "af990bc2",
+              "Subject": "Run nightly tests against master branch"
+            },
+            {
+              "SHA": "83abcb97",
+              "Subject": "Run e2e test nightly (#560)"
+            },
+            {
+              "SHA": "35bb3970",
+              "Subject": "Use new kmapi Condition (#558)"
+            },
+            {
+              "SHA": "6c5e8551",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "02269ae8",
+              "Subject": "Use restricted pod security level (#556)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "11ad765",
+              "Subject": "Prepare for release v0.13.0 (#85)"
+            },
+            {
+              "SHA": "12b4608",
+              "Subject": "Update dependencies (#84)"
+            },
+            {
+              "SHA": "9cd6e03",
+              "Subject": "Update dependencies (#83)"
+            },
+            {
+              "SHA": "4587ab8",
+              "Subject": "reduce k8s api calls for get and patch (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "2a59ae1",
+              "Subject": "Update dependencies (#36)"
+            },
+            {
+              "SHA": "a4f4318",
+              "Subject": "Update dependencies (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "6d522b6c",
+              "Subject": "Prepare for release v0.22.0 (#327)"
+            },
+            {
+              "SHA": "9ba97882",
+              "Subject": "Update dependencies (#326)"
+            },
+            {
+              "SHA": "408be6e9",
+              "Subject": "Confirm the db has been paused before ops continue (#325)"
+            },
+            {
+              "SHA": "b314569f",
+              "Subject": "Update dependencies (#324)"
+            },
+            {
+              "SHA": "ff7e5e09",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "f1ddeb07",
+              "Subject": "reduce get/patch api calls (#320)"
+            },
+            {
+              "SHA": "b3d3564c",
+              "Subject": "Create nightly.yml"
+            },
+            {
+              "SHA": "29f6ab80",
+              "Subject": "Remove nightly workflow"
+            },
+            {
+              "SHA": "6c47d97f",
+              "Subject": "Merge pull request #323 from kubedb/fix-nightly"
+            },
+            {
+              "SHA": "c8d2e630",
+              "Subject": "Fix nightly"
+            },
+            {
+              "SHA": "c2854017",
+              "Subject": "Use KIND v0.20.0 (#322)"
+            },
+            {
+              "SHA": "ff4d7c11",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "0328b6ad",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "eb533938",
+              "Subject": "Run e2e tests nightly (#321)"
+            },
+            {
+              "SHA": "6be27644",
+              "Subject": "Use new kmapi Condition (#319)"
+            },
+            {
+              "SHA": "33571e97",
+              "Subject": "Use restricted pod security label (#318)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "2bc9a17",
+              "Subject": "Prepare for release v0.8.0 (#46)"
+            },
+            {
+              "SHA": "b886ff2",
+              "Subject": "Update dependencies (#45)"
+            },
+            {
+              "SHA": "9d5feb9",
+              "Subject": "Update dependencies (#44)"
+            },
+            {
+              "SHA": "2c8983d",
+              "Subject": "reduce get/patch api calls (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "a8ee999d",
+              "Subject": "Prepare for release v0.19.0 (#129)"
+            },
+            {
+              "SHA": "1434fdfc",
+              "Subject": "Update dependencies (#128)"
+            },
+            {
+              "SHA": "36ceccc8",
+              "Subject": "Use cached client (#127)"
+            },
+            {
+              "SHA": "190a4880",
+              "Subject": "Update dependencies (#126)"
+            },
+            {
+              "SHA": "8aad969e",
+              "Subject": "fix failover and standby sync issue (#125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "fe943791",
+              "Subject": "Prepare for release v0.22.0 (#289)"
+            },
+            {
+              "SHA": "489949d7",
+              "Subject": "Update dependencies (#288)"
+            },
+            {
+              "SHA": "ea7e4b3c",
+              "Subject": "Update dependencies (#287)"
+            },
+            {
+              "SHA": "8ddf699c",
+              "Subject": "Fix: get and patch call issue (#285)"
+            },
+            {
+              "SHA": "81fa0fb3",
+              "Subject": "Use KIND v0.20.0 (#286)"
+            },
+            {
+              "SHA": "6bc9e12b",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "655e1d06",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "2d1bc4e5",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "94419822",
+              "Subject": "Run e2e tests nightly"
+            },
+            {
+              "SHA": "c41aa109",
+              "Subject": "Use new kmapi Condition (#284)"
+            },
+            {
+              "SHA": "e62cbde9",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "6734feba",
+              "Subject": "Use restricted pod security label (#283)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "8e62ebef5",
+              "Subject": "Prepare for release v0.35.0 (#662)"
+            },
+            {
+              "SHA": "1b23e3352",
+              "Subject": "Update dependencies (#661)"
+            },
+            {
+              "SHA": "92a455d74",
+              "Subject": "Confirm the db has been paused before ops continue (#660)"
+            },
+            {
+              "SHA": "e642b5655",
+              "Subject": "add pod watch permision (#659)"
+            },
+            {
+              "SHA": "192be10e5",
+              "Subject": "fix client (#658)"
+            },
+            {
+              "SHA": "b2bff6fe2",
+              "Subject": "close client engine (#656)"
+            },
+            {
+              "SHA": "df65982ea",
+              "Subject": "Update dependencies (#657)"
+            },
+            {
+              "SHA": "631858669",
+              "Subject": "Check all the replica's are connected to the primary (#654)"
+            },
+            {
+              "SHA": "c0c7689ba",
+              "Subject": "fix get and patch call issue (#649)"
+            },
+            {
+              "SHA": "cc5c1468e",
+              "Subject": "Merge pull request #653 from kubedb/fix-nightly"
+            },
+            {
+              "SHA": "5e4a7a196",
+              "Subject": "Fixed nightly yaml."
+            },
+            {
+              "SHA": "6bf8ea0be",
+              "Subject": "Use KIND v0.20.0 (#652)"
+            },
+            {
+              "SHA": "5c3dc9c8e",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "bcec1cfbc",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "dc4ae6ad2",
+              "Subject": "Run e2e tests nightly (#651)"
+            },
+            {
+              "SHA": "b958109aa",
+              "Subject": "Use new kmapi Condition (#650)"
+            },
+            {
+              "SHA": "ca9f77af0",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "b36a06f2d",
+              "Subject": "Use restricted pod security label (#648)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "47f0fc823",
+              "Subject": "Prepare for release v0.35.0 (#54)"
+            },
+            {
+              "SHA": "8b716999e",
+              "Subject": "Update dependencies (#53)"
+            },
+            {
+              "SHA": "81dd67a31",
+              "Subject": "Update dependencies (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "8b568349",
+              "Subject": "Prepare for release v0.22.0 (#310)"
+            },
+            {
+              "SHA": "fdfd9943",
+              "Subject": "Update dependencies (#309)"
+            },
+            {
+              "SHA": "9dc1c3fc",
+              "Subject": "Confirm the db has been paused before ops continue (#308)"
+            },
+            {
+              "SHA": "e600efb7",
+              "Subject": "Update dependencies (#307)"
+            },
+            {
+              "SHA": "63e65342",
+              "Subject": "Add inputs fields to manual trigger ci file (#306)"
+            },
+            {
+              "SHA": "800c10ae",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "b1816f1a",
+              "Subject": "reduce get/patch api calls (#303)"
+            },
+            {
+              "SHA": "21d71bc5",
+              "Subject": "Merge pull request #305 from kubedb/fix_nightly"
+            },
+            {
+              "SHA": "91a019e1",
+              "Subject": "Nightly fix"
+            },
+            {
+              "SHA": "09492c1d",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "37547f7b",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "3e31ed14",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "491ad083",
+              "Subject": "RUn e2e tests nightly (#304)"
+            },
+            {
+              "SHA": "b6151aeb",
+              "Subject": "Use new kmapi Condition (#302)"
+            },
+            {
+              "SHA": "7d5756b1",
+              "Subject": "Use restricted pod security label (#301)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "ea9ebdf2",
+              "Subject": "Prepare for release v0.28.0 (#484)"
+            },
+            {
+              "SHA": "63b32c43",
+              "Subject": "Update dependencies (#483)"
+            },
+            {
+              "SHA": "7a2df42c",
+              "Subject": "Confirm the db has been paused before ops continue (#482)"
+            },
+            {
+              "SHA": "ca81ca3f",
+              "Subject": "Update dependencies (#481)"
+            },
+            {
+              "SHA": "b13517b1",
+              "Subject": "update nightly test profile to provisioner (#480)"
+            },
+            {
+              "SHA": "c00dab7c",
+              "Subject": "Add inputs to nightly workflow (#479)"
+            },
+            {
+              "SHA": "06ca0ad2",
+              "Subject": "Fix nightly (#477)"
+            },
+            {
+              "SHA": "33ee7af4",
+              "Subject": "Fix Redis nightly test workflow"
+            },
+            {
+              "SHA": "5647852a",
+              "Subject": "Use KIND v0.20.0 (#476)"
+            },
+            {
+              "SHA": "5ef88f14",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "083a9124",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "aa9b75ae",
+              "Subject": "Run e2e tests nightly (#473)"
+            },
+            {
+              "SHA": "b4f312f4",
+              "Subject": "Reduce get/patch api calls (#471)"
+            },
+            {
+              "SHA": "ebd30b79",
+              "Subject": "Use new kmapi Condition (#472)"
+            },
+            {
+              "SHA": "5d191bf8",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "aaf4a815",
+              "Subject": "Use restricted pod security label (#470)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "136eb79",
+              "Subject": "Prepare for release v0.14.0 (#77)"
+            },
+            {
+              "SHA": "cc749e6",
+              "Subject": "Update dependencies (#76)"
+            },
+            {
+              "SHA": "fbc75dd",
+              "Subject": "Update dependencies (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "11106cf6",
+              "Subject": "Prepare for release v0.22.0 (#241)"
+            },
+            {
+              "SHA": "5a7a2a75",
+              "Subject": "Update dependencies (#240)"
+            },
+            {
+              "SHA": "914e86dc",
+              "Subject": "Update dependencies (#239)"
+            },
+            {
+              "SHA": "f30374d2",
+              "Subject": "Use new kmapi Condition (#238)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "65459bc6",
+              "Subject": "Prepare for release v0.11.0 (#81)"
+            },
+            {
+              "SHA": "30dd907b",
+              "Subject": "Update dependencies (#80)"
+            },
+            {
+              "SHA": "472e7496",
+              "Subject": "Update dependencies (#79)"
+            },
+            {
+              "SHA": "1c4a60a8",
+              "Subject": "Use new kmapi Condition (#78)"
+            },
+            {
+              "SHA": "bec3c7b8",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "3df964b1",
+              "Subject": "Use restricted pod security label (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "ea935103",
+              "Subject": "Prepare for release v0.20.0 (#242)"
+            },
+            {
+              "SHA": "bc927923",
+              "Subject": "Update dependencies (#241)"
+            },
+            {
+              "SHA": "319bf4a2",
+              "Subject": "Fix mg termination_policy & env_variables (#237)"
+            },
+            {
+              "SHA": "5424bdbe",
+              "Subject": "update vertical scaling constant (#239)"
+            },
+            {
+              "SHA": "40229b3d",
+              "Subject": "Update dependencies (#238)"
+            },
+            {
+              "SHA": "68deeafb",
+              "Subject": "Exclude volume expansion (#235)"
+            },
+            {
+              "SHA": "7a364367",
+              "Subject": "Fix test for ES & OS with disabled security (#232)"
+            },
+            {
+              "SHA": "313151de",
+              "Subject": "fix mariadb test (#234)"
+            },
+            {
+              "SHA": "c5d9911e",
+              "Subject": "Update tests by test profile (#231)"
+            },
+            {
+              "SHA": "b2a5f384",
+              "Subject": "Fix general tests (#230)"
+            },
+            {
+              "SHA": "a13b9095",
+              "Subject": "Use new kmapi Condition (#229)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "7ccfc49c",
+              "Subject": "Prepare for release v0.11.0 (#89)"
+            },
+            {
+              "SHA": "04edecf9",
+              "Subject": "Update dependencies (#88)"
+            },
+            {
+              "SHA": "8d1f7b4b",
+              "Subject": "Update dependencies (#87)"
+            },
+            {
+              "SHA": "a0fd42d8",
+              "Subject": "Use new kmapi Condition (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "26e96671",
+              "Subject": "Prepare for release (#66)"
+            },
+            {
+              "SHA": "d446d877",
+              "Subject": "Update dependencies (#65)"
+            },
+            {
+              "SHA": "278f450b",
+              "Subject": "Use KIND v0.20.0 (#64)"
+            },
+            {
+              "SHA": "6ba4191e",
+              "Subject": "Use new kmapi Condition (#63)"
+            },
+            {
+              "SHA": "5cc21a08",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "0edd0610",
+              "Subject": "Use restricted pod security label (#62)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

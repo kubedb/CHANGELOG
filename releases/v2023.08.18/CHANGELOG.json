@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:13:33.911181255Z",
+  "release_date": "2023-08-21T00:14:36.654185162Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -671,6 +671,80 @@
             {
               "SHA": "b36a06f2d",
               "Subject": "Use restricted pod security label (#648)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "ea9ebdf2",
+              "Subject": "Prepare for release v0.28.0 (#484)"
+            },
+            {
+              "SHA": "63b32c43",
+              "Subject": "Update dependencies (#483)"
+            },
+            {
+              "SHA": "7a2df42c",
+              "Subject": "Confirm the db has been paused before ops continue (#482)"
+            },
+            {
+              "SHA": "ca81ca3f",
+              "Subject": "Update dependencies (#481)"
+            },
+            {
+              "SHA": "b13517b1",
+              "Subject": "update nightly test profile to provisioner (#480)"
+            },
+            {
+              "SHA": "c00dab7c",
+              "Subject": "Add inputs to nightly workflow (#479)"
+            },
+            {
+              "SHA": "06ca0ad2",
+              "Subject": "Fix nightly (#477)"
+            },
+            {
+              "SHA": "33ee7af4",
+              "Subject": "Fix Redis nightly test workflow"
+            },
+            {
+              "SHA": "5647852a",
+              "Subject": "Use KIND v0.20.0 (#476)"
+            },
+            {
+              "SHA": "5ef88f14",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "083a9124",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "aa9b75ae",
+              "Subject": "Run e2e tests nightly (#473)"
+            },
+            {
+              "SHA": "b4f312f4",
+              "Subject": "Reduce get/patch api calls (#471)"
+            },
+            {
+              "SHA": "ebd30b79",
+              "Subject": "Use new kmapi Condition (#472)"
+            },
+            {
+              "SHA": "5d191bf8",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "aaf4a815",
+              "Subject": "Use restricted pod security label (#470)"
             }
           ]
         }

@@ -227,6 +227,29 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.28.0](https://github.com/kubedb/redis/releases/tag/v0.28.0)
+
+- [ea9ebdf2](https://github.com/kubedb/redis/commit/ea9ebdf2) Prepare for release v0.28.0 (#484)
+- [63b32c43](https://github.com/kubedb/redis/commit/63b32c43) Update dependencies (#483)
+- [7a2df42c](https://github.com/kubedb/redis/commit/7a2df42c) Confirm the db has been paused before ops continue (#482)
+- [ca81ca3f](https://github.com/kubedb/redis/commit/ca81ca3f) Update dependencies (#481)
+- [b13517b1](https://github.com/kubedb/redis/commit/b13517b1) update nightly test profile to provisioner (#480)
+- [c00dab7c](https://github.com/kubedb/redis/commit/c00dab7c) Add inputs to nightly workflow (#479)
+- [06ca0ad2](https://github.com/kubedb/redis/commit/06ca0ad2) Fix nightly (#477)
+- [33ee7af4](https://github.com/kubedb/redis/commit/33ee7af4) Fix Redis nightly test workflow
+- [5647852a](https://github.com/kubedb/redis/commit/5647852a) Use KIND v0.20.0 (#476)
+- [5ef88f14](https://github.com/kubedb/redis/commit/5ef88f14) Run nightly tests against master
+- [083a9124](https://github.com/kubedb/redis/commit/083a9124) Update nightly.yml
+- [aa9b75ae](https://github.com/kubedb/redis/commit/aa9b75ae) Run e2e tests nightly (#473)
+- [b4f312f4](https://github.com/kubedb/redis/commit/b4f312f4) Reduce get/patch api calls (#471)
+- [ebd30b79](https://github.com/kubedb/redis/commit/ebd30b79) Use new kmapi Condition (#472)
+- [5d191bf8](https://github.com/kubedb/redis/commit/5d191bf8) Update Makefile
+- [aaf4a815](https://github.com/kubedb/redis/commit/aaf4a815) Use restricted pod security label (#470)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.14.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.14.0)

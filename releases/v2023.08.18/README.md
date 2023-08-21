@@ -176,6 +176,31 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.35.0](https://github.com/kubedb/postgres/releases/tag/v0.35.0)
+
+- [8e62ebef](https://github.com/kubedb/postgres/commit/8e62ebef5) Prepare for release v0.35.0 (#662)
+- [1b23e335](https://github.com/kubedb/postgres/commit/1b23e3352) Update dependencies (#661)
+- [92a455d7](https://github.com/kubedb/postgres/commit/92a455d74) Confirm the db has been paused before ops continue (#660)
+- [e642b565](https://github.com/kubedb/postgres/commit/e642b5655) add pod watch permision (#659)
+- [192be10e](https://github.com/kubedb/postgres/commit/192be10e5) fix client (#658)
+- [b2bff6fe](https://github.com/kubedb/postgres/commit/b2bff6fe2) close client engine (#656)
+- [df65982e](https://github.com/kubedb/postgres/commit/df65982ea) Update dependencies (#657)
+- [63185866](https://github.com/kubedb/postgres/commit/631858669) Check all the replica's are connected to the primary (#654)
+- [c0c7689b](https://github.com/kubedb/postgres/commit/c0c7689ba) fix get and patch call issue (#649)
+- [cc5c1468](https://github.com/kubedb/postgres/commit/cc5c1468e) Merge pull request #653 from kubedb/fix-nightly
+- [5e4a7a19](https://github.com/kubedb/postgres/commit/5e4a7a196) Fixed nightly yaml.
+- [6bf8ea0b](https://github.com/kubedb/postgres/commit/6bf8ea0be) Use KIND v0.20.0 (#652)
+- [5c3dc9c8](https://github.com/kubedb/postgres/commit/5c3dc9c8e) Run nightly tests against master
+- [bcec1cfb](https://github.com/kubedb/postgres/commit/bcec1cfbc) Update nightly.yml
+- [dc4ae6ad](https://github.com/kubedb/postgres/commit/dc4ae6ad2) Run e2e tests nightly (#651)
+- [b958109a](https://github.com/kubedb/postgres/commit/b958109aa) Use new kmapi Condition (#650)
+- [ca9f77af](https://github.com/kubedb/postgres/commit/ca9f77af0) Update Makefile
+- [b36a06f2](https://github.com/kubedb/postgres/commit/b36a06f2d) Use restricted pod security label (#648)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.14.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.14.0)

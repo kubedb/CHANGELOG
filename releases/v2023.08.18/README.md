@@ -148,6 +148,13 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.28.0](https://github.com/kubedb/mysql/releases/tag/v0.28.0)
+
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.13.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.13.0)

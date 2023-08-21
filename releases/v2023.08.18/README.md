@@ -31,6 +31,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2023.08.18](https://github.com/kubedb/bundles/releases/tag/v2023.08.18)
+
+- [c77675f](https://github.com/kubedb/bundles/commit/c77675f) Prepare for release v2023.08.18 (#70)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.35.0](https://github.com/kubedb/cli/releases/tag/v0.35.0)

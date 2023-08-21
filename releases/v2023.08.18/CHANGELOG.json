@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T05:13:12.188455349Z",
+  "release_date": "2023-08-21T05:27:59.327491428Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -85,6 +85,20 @@
             {
               "SHA": "23a3a0b1",
               "Subject": "Use restricted pod security label (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.08.18",
+          "commits": [
+            {
+              "SHA": "c77675f",
+              "Subject": "Prepare for release v2023.08.18 (#70)"
             }
           ]
         }

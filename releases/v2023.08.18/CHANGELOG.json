@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-20T23:54:35.395950367Z",
+  "release_date": "2023-08-21T00:01:22.239527327Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -51,6 +51,24 @@
             {
               "SHA": "224dd567",
               "Subject": "Add Custom Configuration spec for Kafka (#1041)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "2a59ae1",
+              "Subject": "Update dependencies (#36)"
+            },
+            {
+              "SHA": "a4f4318",
+              "Subject": "Update dependencies (#35)"
             }
           ]
         }

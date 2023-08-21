@@ -1,4 +1,4 @@
-# KubeDB v2023.08.18 (2023-08-20)
+# KubeDB v2023.08.18 (2023-08-21)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -15,6 +15,15 @@
 - [a763fb6b](https://github.com/kubedb/apimachinery/commit/a763fb6b) Use updated kmapi Conditions (#1049)
 - [ebc00ae2](https://github.com/kubedb/apimachinery/commit/ebc00ae2) Add AsOwner() utility for dbs (#1046)
 - [224dd567](https://github.com/kubedb/apimachinery/commit/224dd567) Add Custom Configuration spec for Kafka (#1041)
+
+
+
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.13.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.13.0)
+
+- [2a59ae1](https://github.com/kubedb/mysql-router-init/commit/2a59ae1) Update dependencies (#36)
+- [a4f4318](https://github.com/kubedb/mysql-router-init/commit/a4f4318) Update dependencies (#35)
 
 
 

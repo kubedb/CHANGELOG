@@ -18,6 +18,19 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.20.0](https://github.com/kubedb/autoscaler/releases/tag/v0.20.0)
+
+- [02970fe1](https://github.com/kubedb/autoscaler/commit/02970fe1) Prepare for release v0.20.0 (#152)
+- [bdd60f13](https://github.com/kubedb/autoscaler/commit/bdd60f13) Update dependencies (#151)
+- [9fbd8bf6](https://github.com/kubedb/autoscaler/commit/9fbd8bf6) Update dependencies (#150)
+- [8bc4f455](https://github.com/kubedb/autoscaler/commit/8bc4f455) Use new kmapi Condition (#149)
+- [6ccd8cfc](https://github.com/kubedb/autoscaler/commit/6ccd8cfc) Update Makefile
+- [23a3a0b1](https://github.com/kubedb/autoscaler/commit/23a3a0b1) Use restricted pod security label (#148)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.35.0](https://github.com/kubedb/cli/releases/tag/v0.35.0)

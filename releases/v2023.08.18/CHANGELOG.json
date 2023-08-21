@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T02:42:46.705513889Z",
+  "release_date": "2023-08-21T02:55:59.51108081Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -51,6 +51,40 @@
             {
               "SHA": "224dd567",
               "Subject": "Add Custom Configuration spec for Kafka (#1041)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "02970fe1",
+              "Subject": "Prepare for release v0.20.0 (#152)"
+            },
+            {
+              "SHA": "bdd60f13",
+              "Subject": "Update dependencies (#151)"
+            },
+            {
+              "SHA": "9fbd8bf6",
+              "Subject": "Update dependencies (#150)"
+            },
+            {
+              "SHA": "8bc4f455",
+              "Subject": "Use new kmapi Condition (#149)"
+            },
+            {
+              "SHA": "6ccd8cfc",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "23a3a0b1",
+              "Subject": "Use restricted pod security label (#148)"
             }
           ]
         }

@@ -18,6 +18,23 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.35.0](https://github.com/kubedb/cli/releases/tag/v0.35.0)
+
+- [bbe4b2ef](https://github.com/kubedb/cli/commit/bbe4b2ef) Prepare for release v0.35.0 (#718)
+- [be1a1198](https://github.com/kubedb/cli/commit/be1a1198) Update dependencies (#717)
+- [6adaa37f](https://github.com/kubedb/cli/commit/6adaa37f) Add MongoDB data cli (#716)
+- [95ef1341](https://github.com/kubedb/cli/commit/95ef1341) Add Elasticsearch CMD to insert, verify and drop data (#714)
+- [196a75ca](https://github.com/kubedb/cli/commit/196a75ca) Added Postgres Data insert verify drop through Kubedb CLI (#712)
+- [9953efb7](https://github.com/kubedb/cli/commit/9953efb7) Add Insert Verify Drop for MariaDB in KubeDB CLI (#715)
+- [41139e49](https://github.com/kubedb/cli/commit/41139e49) Add Insert Verify Drop for MySQL in KubeDB CLI (#713)
+- [cf49e9aa](https://github.com/kubedb/cli/commit/cf49e9aa) Add Redis CMD for data insert (#709)
+- [3a14bd72](https://github.com/kubedb/cli/commit/3a14bd72) Use svcName in exec instead of static primary (#711)
+- [af0c5734](https://github.com/kubedb/cli/commit/af0c5734) Update dependencies (#710)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.6.0](https://github.com/kubedb/kafka/releases/tag/v0.6.0)

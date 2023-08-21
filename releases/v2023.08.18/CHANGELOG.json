@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:11:09.302158093Z",
+  "release_date": "2023-08-21T00:11:57.45713137Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -51,6 +51,56 @@
             {
               "SHA": "224dd567",
               "Subject": "Add Custom Configuration spec for Kafka (#1041)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "bbe4b2ef",
+              "Subject": "Prepare for release v0.35.0 (#718)"
+            },
+            {
+              "SHA": "be1a1198",
+              "Subject": "Update dependencies (#717)"
+            },
+            {
+              "SHA": "6adaa37f",
+              "Subject": "Add MongoDB data cli (#716)"
+            },
+            {
+              "SHA": "95ef1341",
+              "Subject": "Add Elasticsearch CMD to insert, verify and drop data (#714)"
+            },
+            {
+              "SHA": "196a75ca",
+              "Subject": "Added Postgres Data insert verify drop through Kubedb CLI (#712)"
+            },
+            {
+              "SHA": "9953efb7",
+              "Subject": "Add Insert Verify Drop for MariaDB in KubeDB CLI (#715)"
+            },
+            {
+              "SHA": "41139e49",
+              "Subject": "Add Insert Verify Drop for MySQL in KubeDB CLI (#713)"
+            },
+            {
+              "SHA": "cf49e9aa",
+              "Subject": "Add Redis CMD for data insert (#709)"
+            },
+            {
+              "SHA": "3a14bd72",
+              "Subject": "Use svcName in exec instead of static primary (#711)"
+            },
+            {
+              "SHA": "af0c5734",
+              "Subject": "Update dependencies (#710)"
             }
           ]
         }

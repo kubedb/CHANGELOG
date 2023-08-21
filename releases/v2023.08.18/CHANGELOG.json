@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:09:10.447753345Z",
+  "release_date": "2023-08-21T00:09:39.84051473Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -221,6 +221,32 @@
             {
               "SHA": "2c8983d",
               "Subject": "reduce get/patch api calls (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "11106cf6",
+              "Subject": "Prepare for release v0.22.0 (#241)"
+            },
+            {
+              "SHA": "5a7a2a75",
+              "Subject": "Update dependencies (#240)"
+            },
+            {
+              "SHA": "914e86dc",
+              "Subject": "Update dependencies (#239)"
+            },
+            {
+              "SHA": "f30374d2",
+              "Subject": "Use new kmapi Condition (#238)"
             }
           ]
         }

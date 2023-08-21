@@ -83,6 +83,17 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.22.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.22.0)
+
+- [11106cf6](https://github.com/kubedb/replication-mode-detector/commit/11106cf6) Prepare for release v0.22.0 (#241)
+- [5a7a2a75](https://github.com/kubedb/replication-mode-detector/commit/5a7a2a75) Update dependencies (#240)
+- [914e86dc](https://github.com/kubedb/replication-mode-detector/commit/914e86dc) Update dependencies (#239)
+- [f30374d2](https://github.com/kubedb/replication-mode-detector/commit/f30374d2) Use new kmapi Condition (#238)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.20.0](https://github.com/kubedb/tests/releases/tag/v0.20.0)

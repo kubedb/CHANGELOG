@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:13:20.267783161Z",
+  "release_date": "2023-08-21T00:13:33.911181255Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -101,6 +101,92 @@
             {
               "SHA": "af0c5734",
               "Subject": "Update dependencies (#710)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "bc8df6435",
+              "Subject": "Prepare for release v0.35.0 (#662)"
+            },
+            {
+              "SHA": "e70d2d108",
+              "Subject": "Update dependencies (#661)"
+            },
+            {
+              "SHA": "8775e15d0",
+              "Subject": "Confirm the db has been paused before ops continue (#660)"
+            },
+            {
+              "SHA": "b717a900c",
+              "Subject": "Update nightly"
+            },
+            {
+              "SHA": "096538e8d",
+              "Subject": "Update dependencies (#659)"
+            },
+            {
+              "SHA": "9b5de295f",
+              "Subject": "update nightly test profile to provisioner (#658)"
+            },
+            {
+              "SHA": "c25227e39",
+              "Subject": "Add opensearch-2.5.0 in nightly tests"
+            },
+            {
+              "SHA": "367052731",
+              "Subject": "Fix Disable Security failing Builtin User cred synchronization Issue (#654)"
+            },
+            {
+              "SHA": "7102b622d",
+              "Subject": "Add inputs to nightly workflow"
+            },
+            {
+              "SHA": "93eda557e",
+              "Subject": "Fix GET and PATCH call issue (#648)"
+            },
+            {
+              "SHA": "af7e4c237",
+              "Subject": "Fix nightly (#651)"
+            },
+            {
+              "SHA": "0e1de49b5",
+              "Subject": "Use KIND v0.20.0 (#652)"
+            },
+            {
+              "SHA": "ffc5d7f6d",
+              "Subject": "Use master branch with nightly.yml"
+            },
+            {
+              "SHA": "ec391b1e2",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "179aa1507",
+              "Subject": "Update nightly test matrix"
+            },
+            {
+              "SHA": "b6a094db2",
+              "Subject": "Run e2e tests nightly (#650)"
+            },
+            {
+              "SHA": "e09e1e700",
+              "Subject": "Use new kmapi Condition (#649)"
+            },
+            {
+              "SHA": "ce0cac63a",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "f0b570d4d",
+              "Subject": "Use restricted pod security label (#647)"
             }
           ]
         }

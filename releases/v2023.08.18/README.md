@@ -35,6 +35,32 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.35.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.35.0)
+
+- [bc8df643](https://github.com/kubedb/elasticsearch/commit/bc8df6435) Prepare for release v0.35.0 (#662)
+- [e70d2d10](https://github.com/kubedb/elasticsearch/commit/e70d2d108) Update dependencies (#661)
+- [8775e15d](https://github.com/kubedb/elasticsearch/commit/8775e15d0) Confirm the db has been paused before ops continue (#660)
+- [b717a900](https://github.com/kubedb/elasticsearch/commit/b717a900c) Update nightly
+- [096538e8](https://github.com/kubedb/elasticsearch/commit/096538e8d) Update dependencies (#659)
+- [9b5de295](https://github.com/kubedb/elasticsearch/commit/9b5de295f) update nightly test profile to provisioner (#658)
+- [c25227e3](https://github.com/kubedb/elasticsearch/commit/c25227e39) Add opensearch-2.5.0 in nightly tests
+- [36705273](https://github.com/kubedb/elasticsearch/commit/367052731) Fix Disable Security failing Builtin User cred synchronization Issue (#654)
+- [7102b622](https://github.com/kubedb/elasticsearch/commit/7102b622d) Add inputs to nightly workflow
+- [93eda557](https://github.com/kubedb/elasticsearch/commit/93eda557e) Fix GET and PATCH call issue (#648)
+- [af7e4c23](https://github.com/kubedb/elasticsearch/commit/af7e4c237) Fix nightly (#651)
+- [0e1de49b](https://github.com/kubedb/elasticsearch/commit/0e1de49b5) Use KIND v0.20.0 (#652)
+- [ffc5d7f6](https://github.com/kubedb/elasticsearch/commit/ffc5d7f6d) Use master branch with nightly.yml
+- [ec391b1e](https://github.com/kubedb/elasticsearch/commit/ec391b1e2) Update nightly.yml
+- [179aa150](https://github.com/kubedb/elasticsearch/commit/179aa1507) Update nightly test matrix
+- [b6a094db](https://github.com/kubedb/elasticsearch/commit/b6a094db2) Run e2e tests nightly (#650)
+- [e09e1e70](https://github.com/kubedb/elasticsearch/commit/e09e1e700) Use new kmapi Condition (#649)
+- [ce0cac63](https://github.com/kubedb/elasticsearch/commit/ce0cac63a) Update Makefile
+- [f0b570d4](https://github.com/kubedb/elasticsearch/commit/f0b570d4d) Use restricted pod security label (#647)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.6.0](https://github.com/kubedb/kafka/releases/tag/v0.6.0)

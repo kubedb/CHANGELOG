@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T01:28:46.910430092Z",
+  "release_date": "2023-08-21T01:32:51.739408795Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -768,6 +768,76 @@
             {
               "SHA": "b36a06f2d",
               "Subject": "Use restricted pod security label (#648)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "8b568349",
+              "Subject": "Prepare for release v0.22.0 (#310)"
+            },
+            {
+              "SHA": "fdfd9943",
+              "Subject": "Update dependencies (#309)"
+            },
+            {
+              "SHA": "9dc1c3fc",
+              "Subject": "Confirm the db has been paused before ops continue (#308)"
+            },
+            {
+              "SHA": "e600efb7",
+              "Subject": "Update dependencies (#307)"
+            },
+            {
+              "SHA": "63e65342",
+              "Subject": "Add inputs fields to manual trigger ci file (#306)"
+            },
+            {
+              "SHA": "800c10ae",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "b1816f1a",
+              "Subject": "reduce get/patch api calls (#303)"
+            },
+            {
+              "SHA": "21d71bc5",
+              "Subject": "Merge pull request #305 from kubedb/fix_nightly"
+            },
+            {
+              "SHA": "91a019e1",
+              "Subject": "Nightly fix"
+            },
+            {
+              "SHA": "09492c1d",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "37547f7b",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "3e31ed14",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "491ad083",
+              "Subject": "RUn e2e tests nightly (#304)"
+            },
+            {
+              "SHA": "b6151aeb",
+              "Subject": "Use new kmapi Condition (#302)"
+            },
+            {
+              "SHA": "7d5756b1",
+              "Subject": "Use restricted pod security label (#301)"
             }
           ]
         }

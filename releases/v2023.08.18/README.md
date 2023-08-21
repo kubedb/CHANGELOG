@@ -265,6 +265,28 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.22.0](https://github.com/kubedb/proxysql/releases/tag/v0.22.0)
+
+- [8b568349](https://github.com/kubedb/proxysql/commit/8b568349) Prepare for release v0.22.0 (#310)
+- [fdfd9943](https://github.com/kubedb/proxysql/commit/fdfd9943) Update dependencies (#309)
+- [9dc1c3fc](https://github.com/kubedb/proxysql/commit/9dc1c3fc) Confirm the db has been paused before ops continue (#308)
+- [e600efb7](https://github.com/kubedb/proxysql/commit/e600efb7) Update dependencies (#307)
+- [63e65342](https://github.com/kubedb/proxysql/commit/63e65342) Add inputs fields to manual trigger ci file (#306)
+- [800c10ae](https://github.com/kubedb/proxysql/commit/800c10ae) Update nightly.yml
+- [b1816f1a](https://github.com/kubedb/proxysql/commit/b1816f1a) reduce get/patch api calls (#303)
+- [21d71bc5](https://github.com/kubedb/proxysql/commit/21d71bc5) Merge pull request #305 from kubedb/fix_nightly
+- [91a019e1](https://github.com/kubedb/proxysql/commit/91a019e1) Nightly fix
+- [09492c1d](https://github.com/kubedb/proxysql/commit/09492c1d) Run nightly tests against master
+- [37547f7b](https://github.com/kubedb/proxysql/commit/37547f7b) Update nightly.yml
+- [3e31ed14](https://github.com/kubedb/proxysql/commit/3e31ed14) Update nightly.yml
+- [491ad083](https://github.com/kubedb/proxysql/commit/491ad083) RUn e2e tests nightly (#304)
+- [b6151aeb](https://github.com/kubedb/proxysql/commit/b6151aeb) Use new kmapi Condition (#302)
+- [7d5756b1](https://github.com/kubedb/proxysql/commit/7d5756b1) Use restricted pod security label (#301)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.28.0](https://github.com/kubedb/redis/releases/tag/v0.28.0)

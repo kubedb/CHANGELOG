@@ -51,6 +51,27 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.19.0](https://github.com/kubedb/mariadb/releases/tag/v0.19.0)
+
+- [f98e4730](https://github.com/kubedb/mariadb/commit/f98e4730) Prepare for release v0.19.0 (#228)
+- [5d47fbb2](https://github.com/kubedb/mariadb/commit/5d47fbb2) Update dependencies (#227)
+- [40a21a5e](https://github.com/kubedb/mariadb/commit/40a21a5e) Confirm the db has been paused before ops continue (#226)
+- [97924029](https://github.com/kubedb/mariadb/commit/97924029) Update dependencies (#225)
+- [edc232c8](https://github.com/kubedb/mariadb/commit/edc232c8) update nightly test profile to provisioner (#224)
+- [0087bcfa](https://github.com/kubedb/mariadb/commit/0087bcfa) Add inputs fields to manual trigger ci file (#222)
+- [ca265d0f](https://github.com/kubedb/mariadb/commit/ca265d0f) reduce get/patch api calls (#218)
+- [ec7a0a79](https://github.com/kubedb/mariadb/commit/ec7a0a79) fix nightly test workflow (#221)
+- [e145c47d](https://github.com/kubedb/mariadb/commit/e145c47d) Use KIND v0.20.0 (#220)
+- [bc1cb72d](https://github.com/kubedb/mariadb/commit/bc1cb72d) Run nightly tests against master
+- [c8f6dab2](https://github.com/kubedb/mariadb/commit/c8f6dab2) Update nightly.yml
+- [f577fa72](https://github.com/kubedb/mariadb/commit/f577fa72) Run e2e tests nightly (#219)
+- [256ae22a](https://github.com/kubedb/mariadb/commit/256ae22a) Use new kmapi Condition (#217)
+- [37bbf08e](https://github.com/kubedb/mariadb/commit/37bbf08e) Use restricted pod security label (#216)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.15.0)

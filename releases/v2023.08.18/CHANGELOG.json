@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:10:08.334138391Z",
+  "release_date": "2023-08-21T00:10:42.430269336Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -51,6 +51,52 @@
             {
               "SHA": "224dd567",
               "Subject": "Add Custom Configuration spec for Kafka (#1041)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "1b83b3b",
+              "Subject": "Prepare for release v0.6.0 (#35)"
+            },
+            {
+              "SHA": "4eb30cd",
+              "Subject": "Add Support for Cruise Control (#33)"
+            },
+            {
+              "SHA": "1414470",
+              "Subject": "Add custom configuration (#28)"
+            },
+            {
+              "SHA": "5a5537b",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "d973665",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "1cbdccd",
+              "Subject": "Run e2e tests nightly (#34)"
+            },
+            {
+              "SHA": "987235c",
+              "Subject": "Use new kmapi Condition (#32)"
+            },
+            {
+              "SHA": "dbbbc7f",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "f8adcfe",
+              "Subject": "Use restricted pod security label (#31)"
             }
           ]
         }

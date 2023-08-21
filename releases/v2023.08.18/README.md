@@ -18,6 +18,22 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.6.0](https://github.com/kubedb/kafka/releases/tag/v0.6.0)
+
+- [1b83b3b](https://github.com/kubedb/kafka/commit/1b83b3b) Prepare for release v0.6.0 (#35)
+- [4eb30cd](https://github.com/kubedb/kafka/commit/4eb30cd) Add Support for Cruise Control (#33)
+- [1414470](https://github.com/kubedb/kafka/commit/1414470) Add custom configuration (#28)
+- [5a5537b](https://github.com/kubedb/kafka/commit/5a5537b) Run nightly tests against master
+- [d973665](https://github.com/kubedb/kafka/commit/d973665) Update nightly.yml
+- [1cbdccd](https://github.com/kubedb/kafka/commit/1cbdccd) Run e2e tests nightly (#34)
+- [987235c](https://github.com/kubedb/kafka/commit/987235c) Use new kmapi Condition (#32)
+- [dbbbc7f](https://github.com/kubedb/kafka/commit/dbbbc7f) Update Makefile
+- [f8adcfe](https://github.com/kubedb/kafka/commit/f8adcfe) Use restricted pod security label (#31)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.15.0)

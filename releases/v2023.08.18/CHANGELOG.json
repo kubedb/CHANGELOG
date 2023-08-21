@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:07:40.952065914Z",
+  "release_date": "2023-08-21T00:09:10.447753345Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -121,6 +121,80 @@
             {
               "SHA": "a4f4318",
               "Subject": "Update dependencies (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "6d522b6c",
+              "Subject": "Prepare for release v0.22.0 (#327)"
+            },
+            {
+              "SHA": "9ba97882",
+              "Subject": "Update dependencies (#326)"
+            },
+            {
+              "SHA": "408be6e9",
+              "Subject": "Confirm the db has been paused before ops continue (#325)"
+            },
+            {
+              "SHA": "b314569f",
+              "Subject": "Update dependencies (#324)"
+            },
+            {
+              "SHA": "ff7e5e09",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "f1ddeb07",
+              "Subject": "reduce get/patch api calls (#320)"
+            },
+            {
+              "SHA": "b3d3564c",
+              "Subject": "Create nightly.yml"
+            },
+            {
+              "SHA": "29f6ab80",
+              "Subject": "Remove nightly workflow"
+            },
+            {
+              "SHA": "6c47d97f",
+              "Subject": "Merge pull request #323 from kubedb/fix-nightly"
+            },
+            {
+              "SHA": "c8d2e630",
+              "Subject": "Fix nightly"
+            },
+            {
+              "SHA": "c2854017",
+              "Subject": "Use KIND v0.20.0 (#322)"
+            },
+            {
+              "SHA": "ff4d7c11",
+              "Subject": "Run nightly tests against master"
+            },
+            {
+              "SHA": "0328b6ad",
+              "Subject": "Update nightly.yml"
+            },
+            {
+              "SHA": "eb533938",
+              "Subject": "Run e2e tests nightly (#321)"
+            },
+            {
+              "SHA": "6be27644",
+              "Subject": "Use new kmapi Condition (#319)"
+            },
+            {
+              "SHA": "33571e97",
+              "Subject": "Use restricted pod security label (#318)"
             }
           ]
         }

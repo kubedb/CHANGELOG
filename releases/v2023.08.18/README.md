@@ -49,6 +49,29 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.22.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.22.0)
+
+- [6d522b6c](https://github.com/kubedb/percona-xtradb/commit/6d522b6c) Prepare for release v0.22.0 (#327)
+- [9ba97882](https://github.com/kubedb/percona-xtradb/commit/9ba97882) Update dependencies (#326)
+- [408be6e9](https://github.com/kubedb/percona-xtradb/commit/408be6e9) Confirm the db has been paused before ops continue (#325)
+- [b314569f](https://github.com/kubedb/percona-xtradb/commit/b314569f) Update dependencies (#324)
+- [ff7e5e09](https://github.com/kubedb/percona-xtradb/commit/ff7e5e09) Update nightly.yml
+- [f1ddeb07](https://github.com/kubedb/percona-xtradb/commit/f1ddeb07) reduce get/patch api calls (#320)
+- [b3d3564c](https://github.com/kubedb/percona-xtradb/commit/b3d3564c) Create nightly.yml
+- [29f6ab80](https://github.com/kubedb/percona-xtradb/commit/29f6ab80) Remove nightly workflow
+- [6c47d97f](https://github.com/kubedb/percona-xtradb/commit/6c47d97f) Merge pull request #323 from kubedb/fix-nightly
+- [c8d2e630](https://github.com/kubedb/percona-xtradb/commit/c8d2e630) Fix nightly
+- [c2854017](https://github.com/kubedb/percona-xtradb/commit/c2854017) Use KIND v0.20.0 (#322)
+- [ff4d7c11](https://github.com/kubedb/percona-xtradb/commit/ff4d7c11) Run nightly tests against master
+- [0328b6ad](https://github.com/kubedb/percona-xtradb/commit/0328b6ad) Update nightly.yml
+- [eb533938](https://github.com/kubedb/percona-xtradb/commit/eb533938) Run e2e tests nightly (#321)
+- [6be27644](https://github.com/kubedb/percona-xtradb/commit/6be27644) Use new kmapi Condition (#319)
+- [33571e97](https://github.com/kubedb/percona-xtradb/commit/33571e97) Use restricted pod security label (#318)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.8.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.8.0)

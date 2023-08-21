@@ -62,6 +62,16 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2023.08.18](https://github.com/kubedb/docs/releases/tag/v2023.08.18)
+
+- [65aa49d1](https://github.com/kubedb/docs/commit/65aa49d1) Prepare for release v2023.08.18 (#556)
+- [f04928de](https://github.com/kubedb/docs/commit/f04928de) Update docs for kubedb/cli@95ef1341 (#550)
+- [cc7e5185](https://github.com/kubedb/docs/commit/cc7e5185) Fix typos in Redis docs (#542)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.35.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.35.0)

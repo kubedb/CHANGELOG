@@ -18,6 +18,17 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.13.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.13.0)
+
+- [11ad765](https://github.com/kubedb/mysql-coordinator/commit/11ad765) Prepare for release v0.13.0 (#85)
+- [12b4608](https://github.com/kubedb/mysql-coordinator/commit/12b4608) Update dependencies (#84)
+- [9cd6e03](https://github.com/kubedb/mysql-coordinator/commit/9cd6e03) Update dependencies (#83)
+- [4587ab8](https://github.com/kubedb/mysql-coordinator/commit/4587ab8) reduce k8s api calls for get and patch (#82)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.13.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.13.0)

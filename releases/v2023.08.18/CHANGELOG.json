@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T00:07:28.245009186Z",
+  "release_date": "2023-08-21T00:07:40.952065914Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -51,6 +51,32 @@
             {
               "SHA": "224dd567",
               "Subject": "Add Custom Configuration spec for Kafka (#1041)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "0d67bc6d",
+              "Subject": "Prepare for release v0.15.0 (#89)"
+            },
+            {
+              "SHA": "49c68129",
+              "Subject": "Update dependencies (#88)"
+            },
+            {
+              "SHA": "e9c737c5",
+              "Subject": "Update dependencies (#87)"
+            },
+            {
+              "SHA": "77b5b854",
+              "Subject": "Reduce get/patch api calls (#86)"
             }
           ]
         }

@@ -18,6 +18,17 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.15.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.15.0)
+
+- [0d67bc6d](https://github.com/kubedb/mariadb-coordinator/commit/0d67bc6d) Prepare for release v0.15.0 (#89)
+- [49c68129](https://github.com/kubedb/mariadb-coordinator/commit/49c68129) Update dependencies (#88)
+- [e9c737c5](https://github.com/kubedb/mariadb-coordinator/commit/e9c737c5) Update dependencies (#87)
+- [77b5b854](https://github.com/kubedb/mariadb-coordinator/commit/77b5b854) Reduce get/patch api calls (#86)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.13.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.13.0)

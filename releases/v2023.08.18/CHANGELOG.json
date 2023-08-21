@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T01:44:08.692811994Z",
+  "release_date": "2023-08-21T01:47:12.479441822Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -1086,6 +1086,32 @@
             {
               "SHA": "a13b9095",
               "Subject": "Use new kmapi Condition (#229)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "7ccfc49c",
+              "Subject": "Prepare for release v0.11.0 (#89)"
+            },
+            {
+              "SHA": "04edecf9",
+              "Subject": "Update dependencies (#88)"
+            },
+            {
+              "SHA": "8d1f7b4b",
+              "Subject": "Update dependencies (#87)"
+            },
+            {
+              "SHA": "a0fd42d8",
+              "Subject": "Use new kmapi Condition (#86)"
             }
           ]
         }

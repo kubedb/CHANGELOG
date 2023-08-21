@@ -376,3 +376,14 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.11.0](https://github.com/kubedb/ui-server/releases/tag/v0.11.0)
+
+- [7ccfc49c](https://github.com/kubedb/ui-server/commit/7ccfc49c) Prepare for release v0.11.0 (#89)
+- [04edecf9](https://github.com/kubedb/ui-server/commit/04edecf9) Update dependencies (#88)
+- [8d1f7b4b](https://github.com/kubedb/ui-server/commit/8d1f7b4b) Update dependencies (#87)
+- [a0fd42d8](https://github.com/kubedb/ui-server/commit/a0fd42d8) Use new kmapi Condition (#86)
+
+
+

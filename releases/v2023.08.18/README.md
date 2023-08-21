@@ -27,3 +27,14 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.8.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.8.0)
+
+- [2bc9a17](https://github.com/kubedb/percona-xtradb-coordinator/commit/2bc9a17) Prepare for release v0.8.0 (#46)
+- [b886ff2](https://github.com/kubedb/percona-xtradb-coordinator/commit/b886ff2) Update dependencies (#45)
+- [9d5feb9](https://github.com/kubedb/percona-xtradb-coordinator/commit/9d5feb9) Update dependencies (#44)
+- [2c8983d](https://github.com/kubedb/percona-xtradb-coordinator/commit/2c8983d) reduce get/patch api calls (#43)
+
+
+

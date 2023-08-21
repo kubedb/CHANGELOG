@@ -345,6 +345,19 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.11.0](https://github.com/kubedb/schema-manager/releases/tag/v0.11.0)
+
+- [65459bc6](https://github.com/kubedb/schema-manager/commit/65459bc6) Prepare for release v0.11.0 (#81)
+- [30dd907b](https://github.com/kubedb/schema-manager/commit/30dd907b) Update dependencies (#80)
+- [472e7496](https://github.com/kubedb/schema-manager/commit/472e7496) Update dependencies (#79)
+- [1c4a60a8](https://github.com/kubedb/schema-manager/commit/1c4a60a8) Use new kmapi Condition (#78)
+- [bec3c7b8](https://github.com/kubedb/schema-manager/commit/bec3c7b8) Update Makefile
+- [3df964b1](https://github.com/kubedb/schema-manager/commit/3df964b1) Use restricted pod security label (#77)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.20.0](https://github.com/kubedb/tests/releases/tag/v0.20.0)

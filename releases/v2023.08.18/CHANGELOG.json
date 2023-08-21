@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.08.18",
-  "release_date": "2023-08-21T01:41:27.809377006Z",
+  "release_date": "2023-08-21T01:44:08.692811994Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -998,6 +998,40 @@
             {
               "SHA": "f30374d2",
               "Subject": "Use new kmapi Condition (#238)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "65459bc6",
+              "Subject": "Prepare for release v0.11.0 (#81)"
+            },
+            {
+              "SHA": "30dd907b",
+              "Subject": "Update dependencies (#80)"
+            },
+            {
+              "SHA": "472e7496",
+              "Subject": "Update dependencies (#79)"
+            },
+            {
+              "SHA": "1c4a60a8",
+              "Subject": "Use new kmapi Condition (#78)"
+            },
+            {
+              "SHA": "bec3c7b8",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "3df964b1",
+              "Subject": "Use restricted pod security label (#77)"
             }
           ]
         }

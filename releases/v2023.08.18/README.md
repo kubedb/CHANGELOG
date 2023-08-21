@@ -35,6 +35,20 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.11.0](https://github.com/kubedb/dashboard/releases/tag/v0.11.0)
+
+- [40e20d8](https://github.com/kubedb/dashboard/commit/40e20d8) Prepare for release v0.11.0 (#81)
+- [9b390b6](https://github.com/kubedb/dashboard/commit/9b390b6) Update dependencies (#80)
+- [2db4453](https://github.com/kubedb/dashboard/commit/2db4453) Update dependencies (#79)
+- [49332b4](https://github.com/kubedb/dashboard/commit/49332b4) Update client-go for GET and PATCH call issue fix (#77)
+- [711eba9](https://github.com/kubedb/dashboard/commit/711eba9) Use new kmapi Condition (#78)
+- [4d8f1d9](https://github.com/kubedb/dashboard/commit/4d8f1d9) Update Makefile
+- [cf67a4d](https://github.com/kubedb/dashboard/commit/cf67a4d) Use restricted pod security label (#76)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.35.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.35.0)

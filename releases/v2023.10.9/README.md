@@ -74,6 +74,18 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.36.0](https://github.com/kubedb/postgres/releases/tag/v0.36.0)
+
+- [3085d92c](https://github.com/kubedb/postgres/commit/3085d92c1) Prepare for release v0.36.0 (#671)
+- [2c16dc52](https://github.com/kubedb/postgres/commit/2c16dc52a) Run release workflows on high priority workers (#670)
+- [57309782](https://github.com/kubedb/postgres/commit/573097827) Set seccompProfile to RuntimeDefault (#667)
+- [90fe6045](https://github.com/kubedb/postgres/commit/90fe60458) update apimacinery (#666)
+- [c95eb6a7](https://github.com/kubedb/postgres/commit/c95eb6a70) add support for remote replica (#665)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.29.0](https://github.com/kubedb/redis/releases/tag/v0.29.0)

@@ -31,3 +31,11 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.15.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.15.0)
+
+- [2410719](https://github.com/kubedb/redis-coordinator/commit/2410719) Prepare for release v0.15.0 (#78)
+
+
+

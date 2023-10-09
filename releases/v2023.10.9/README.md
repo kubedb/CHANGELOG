@@ -193,3 +193,12 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.12.0](https://github.com/kubedb/ui-server/releases/tag/v0.12.0)
+
+- [e1e491ca](https://github.com/kubedb/ui-server/commit/e1e491ca) Prepare for release v0.12.0 (#91)
+- [119250af](https://github.com/kubedb/ui-server/commit/119250af) Set seccompProfile to RuntimeDefault (#90)
+
+
+

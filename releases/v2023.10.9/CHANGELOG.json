@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.10.9",
-  "release_date": "2023-10-09T13:58:43.67547664Z",
+  "release_date": "2023-10-09T14:13:08.697350417Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.10.9",
   "kubernetes_version": "1.20+",
@@ -407,6 +407,24 @@
             {
               "SHA": "0089ac1d",
               "Subject": "Ensure minio-server for stash-related tests (#243)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "e1e491ca",
+              "Subject": "Prepare for release v0.12.0 (#91)"
+            },
+            {
+              "SHA": "119250af",
+              "Subject": "Set seccompProfile to RuntimeDefault (#90)"
             }
           ]
         }

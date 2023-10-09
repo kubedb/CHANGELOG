@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.10.9",
-  "release_date": "2023-10-09T12:29:32.926993718Z",
+  "release_date": "2023-10-09T12:29:42.684287353Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.10.9",
   "kubernetes_version": "1.20+",
@@ -12,6 +12,28 @@
         {
           "tag": "v0.36.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "54f42c6a",
+              "Subject": "Prepare for release v0.36.0 (#726)"
+            },
+            {
+              "SHA": "73976008",
+              "Subject": "add support for remote-config (#723)"
+            },
+            {
+              "SHA": "ceb2bda4",
+              "Subject": "Use apply: Always for restart command (#725)"
+            }
+          ]
         }
       ]
     },

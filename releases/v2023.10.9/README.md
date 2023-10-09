@@ -8,6 +8,16 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.36.0](https://github.com/kubedb/cli/releases/tag/v0.36.0)
+
+- [54f42c6a](https://github.com/kubedb/cli/commit/54f42c6a) Prepare for release v0.36.0 (#726)
+- [73976008](https://github.com/kubedb/cli/commit/73976008) add support for remote-config (#723)
+- [ceb2bda4](https://github.com/kubedb/cli/commit/ceb2bda4) Use apply: Always for restart command (#725)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.16.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.16.0)

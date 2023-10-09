@@ -64,6 +64,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.29.0](https://github.com/kubedb/redis/releases/tag/v0.29.0)
+
+- [2941778b](https://github.com/kubedb/redis/commit/2941778b) Prepare for release v0.29.0 (#486)
+- [c0292f61](https://github.com/kubedb/redis/commit/c0292f61) Set seccompProfile to RuntimeDefault (#485)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.15.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.10.9",
-  "release_date": "2023-10-09T12:29:21.204573794Z",
+  "release_date": "2023-10-09T12:29:32.926993718Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.10.9",
   "kubernetes_version": "1.20+",
@@ -107,6 +107,24 @@
             {
               "SHA": "e3aa0fe7",
               "Subject": "Prepare for release v0.20.0 (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "2941778b",
+              "Subject": "Prepare for release v0.29.0 (#486)"
+            },
+            {
+              "SHA": "c0292f61",
+              "Subject": "Set seccompProfile to RuntimeDefault (#485)"
             }
           ]
         }

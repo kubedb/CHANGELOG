@@ -18,6 +18,15 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.12.0](https://github.com/kubedb/dashboard/releases/tag/v0.12.0)
+
+- [b1d6bf2e](https://github.com/kubedb/dashboard/commit/b1d6bf2e) Prepare for release v0.12.0 (#82)
+- [57aa22a2](https://github.com/kubedb/dashboard/commit/57aa22a2) Add seccomp profile to installer securityContext
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.36.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.36.0)

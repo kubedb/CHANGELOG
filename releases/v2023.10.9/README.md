@@ -39,6 +39,14 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.20.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.20.0)
+
+- [e3aa0fe7](https://github.com/kubedb/pg-coordinator/commit/e3aa0fe7) Prepare for release v0.20.0 (#133)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.15.0)

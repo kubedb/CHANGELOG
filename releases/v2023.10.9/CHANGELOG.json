@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.10.9",
-  "release_date": "2023-10-09T12:31:20.950256075Z",
+  "release_date": "2023-10-09T12:36:10.717285792Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.10.9",
   "kubernetes_version": "1.20+",
@@ -32,6 +32,32 @@
             {
               "SHA": "ceb2bda4",
               "Subject": "Use apply: Always for restart command (#725)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "3519e4933",
+              "Subject": "Prepare for release v0.36.0 (#670)"
+            },
+            {
+              "SHA": "9766b3cd5",
+              "Subject": "Update daily-opensearch.yml"
+            },
+            {
+              "SHA": "875eff129",
+              "Subject": "Fix support for OS hot-warm-cold nodes (#669)"
+            },
+            {
+              "SHA": "b51b628ee",
+              "Subject": "Install Kibana Dashboard controller before running opensearch e2e"
             }
           ]
         }

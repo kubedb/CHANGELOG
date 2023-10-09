@@ -18,6 +18,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.36.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.36.0)
+
+- [3519e493](https://github.com/kubedb/elasticsearch/commit/3519e4933) Prepare for release v0.36.0 (#670)
+- [9766b3cd](https://github.com/kubedb/elasticsearch/commit/9766b3cd5) Update daily-opensearch.yml
+- [875eff12](https://github.com/kubedb/elasticsearch/commit/875eff129) Fix support for OS hot-warm-cold nodes (#669)
+- [b51b628e](https://github.com/kubedb/elasticsearch/commit/b51b628ee) Install Kibana Dashboard controller before running opensearch e2e
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.20.0](https://github.com/kubedb/mariadb/releases/tag/v0.20.0)

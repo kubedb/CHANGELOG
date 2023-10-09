@@ -31,6 +31,14 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.9.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.9.0)
+
+- [94433e4](https://github.com/kubedb/percona-xtradb-coordinator/commit/94433e4) Prepare for release v0.9.0 (#47)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.15.0)

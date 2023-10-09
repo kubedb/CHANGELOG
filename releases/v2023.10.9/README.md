@@ -8,6 +8,14 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.16.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.16.0)
+
+- [4ab95aeb](https://github.com/kubedb/mariadb-coordinator/commit/4ab95aeb) Prepare for release v0.16.0 (#90)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.14.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.14.0)

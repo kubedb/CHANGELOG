@@ -186,6 +186,16 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.12.0](https://github.com/kubedb/schema-manager/releases/tag/v0.12.0)
+
+- [c57b7709](https://github.com/kubedb/schema-manager/commit/c57b7709) Prepare for release v0.12.0 (#83)
+- [5a624bde](https://github.com/kubedb/schema-manager/commit/5a624bde) Merge pull request #82 from kubedb/sc
+- [26d04829](https://github.com/kubedb/schema-manager/commit/26d04829) Set seccompProfile to RuntimeDefault
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.21.0](https://github.com/kubedb/tests/releases/tag/v0.21.0)

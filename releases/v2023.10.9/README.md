@@ -31,6 +31,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.23.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.23.0)
+
+- [21b46846](https://github.com/kubedb/percona-xtradb/commit/21b46846) Prepare for release v0.23.0 (#329)
+- [f1c04f03](https://github.com/kubedb/percona-xtradb/commit/f1c04f03) Set seccompProfile to RuntimeDefault (#328)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.9.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.9.0)

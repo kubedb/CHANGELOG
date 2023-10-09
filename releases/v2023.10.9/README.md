@@ -54,6 +54,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.29.0](https://github.com/kubedb/mongodb/releases/tag/v0.29.0)
+
+- [56c9cecd](https://github.com/kubedb/mongodb/commit/56c9cecd) Prepare for release v0.29.0 (#570)
+- [4ceb44cb](https://github.com/kubedb/mongodb/commit/4ceb44cb) Health check for unusual secondary lock (#569)
+- [10a4fd76](https://github.com/kubedb/mongodb/commit/10a4fd76) Set seccompProfile to RuntimeDefault (#561)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.14.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.14.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.10.9",
-  "release_date": "2023-10-09T12:36:10.717285792Z",
+  "release_date": "2023-10-09T12:45:31.739445296Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.10.9",
   "kubernetes_version": "1.20+",
@@ -104,6 +104,28 @@
             {
               "SHA": "cd5ddf0c",
               "Subject": "Prepare for release v0.29.0 (#403)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "56c9cecd",
+              "Subject": "Prepare for release v0.29.0 (#570)"
+            },
+            {
+              "SHA": "4ceb44cb",
+              "Subject": "Health check for unusual secondary lock (#569)"
+            },
+            {
+              "SHA": "10a4fd76",
+              "Subject": "Set seccompProfile to RuntimeDefault (#561)"
             }
           ]
         }

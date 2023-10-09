@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.10.9",
-  "release_date": "2023-10-09T12:45:31.739445296Z",
+  "release_date": "2023-10-09T13:41:45.944053001Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.10.9",
   "kubernetes_version": "1.20+",
@@ -58,6 +58,36 @@
             {
               "SHA": "b51b628ee",
               "Subject": "Install Kibana Dashboard controller before running opensearch e2e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "0119452",
+              "Subject": "Prepare for release v0.7.0 (#40)"
+            },
+            {
+              "SHA": "e26604d",
+              "Subject": "Add primary-service address to advertised.listeners (#39)"
+            },
+            {
+              "SHA": "c3bcf55",
+              "Subject": "Patch service ports with spec.serviceTemplate (#38)"
+            },
+            {
+              "SHA": "a11bfd6",
+              "Subject": "Add external advertised listener and Redesign reconcile (#37)"
+            },
+            {
+              "SHA": "727f414",
+              "Subject": "Add seccomp profile to makefile (#36)"
             }
           ]
         }

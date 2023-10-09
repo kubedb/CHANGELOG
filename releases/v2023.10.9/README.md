@@ -29,6 +29,18 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.7.0](https://github.com/kubedb/kafka/releases/tag/v0.7.0)
+
+- [0119452](https://github.com/kubedb/kafka/commit/0119452) Prepare for release v0.7.0 (#40)
+- [e26604d](https://github.com/kubedb/kafka/commit/e26604d) Add primary-service address to advertised.listeners (#39)
+- [c3bcf55](https://github.com/kubedb/kafka/commit/c3bcf55) Patch service ports with spec.serviceTemplate (#38)
+- [a11bfd6](https://github.com/kubedb/kafka/commit/a11bfd6) Add external advertised listener and Redesign reconcile (#37)
+- [727f414](https://github.com/kubedb/kafka/commit/727f414) Add seccomp profile to makefile (#36)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.20.0](https://github.com/kubedb/mariadb/releases/tag/v0.20.0)

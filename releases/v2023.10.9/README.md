@@ -246,3 +246,12 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.12.0](https://github.com/kubedb/webhook-server/releases/tag/v0.12.0)
+
+- [24369a19](https://github.com/kubedb/webhook-server/commit/24369a19) Prepare for release v0.12.0 (#68)
+- [0e9ffedc](https://github.com/kubedb/webhook-server/commit/0e9ffedc) Set seccompProfile to RuntimeDefault (#67)
+
+
+

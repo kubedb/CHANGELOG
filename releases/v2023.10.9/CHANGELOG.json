@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.10.9",
-  "release_date": "2023-10-09T14:13:08.697350417Z",
+  "release_date": "2023-10-09T14:19:59.547540177Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.10.9",
   "kubernetes_version": "1.20+",
@@ -269,6 +269,20 @@
             {
               "SHA": "c95eb6a70",
               "Subject": "add support for remote replica (#665)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "bcf6db2d9",
+              "Subject": "Prepare for release v0.36.0 (#56)"
             }
           ]
         }

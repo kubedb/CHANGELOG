@@ -8,6 +8,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.21.0](https://github.com/kubedb/autoscaler/releases/tag/v0.21.0)
+
+- [2a8f602d](https://github.com/kubedb/autoscaler/commit/2a8f602d) Prepare for release v0.21.0 (#156)
+- [e5d14b17](https://github.com/kubedb/autoscaler/commit/e5d14b17) Merge pull request #155 from kubedb/sc
+- [170f72b4](https://github.com/kubedb/autoscaler/commit/170f72b4) Set seccompProfile to RuntimeDefault
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.36.0](https://github.com/kubedb/cli/releases/tag/v0.36.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.10.9",
-  "release_date": "2023-10-09T19:32:18.621093187Z",
+  "release_date": "2023-10-09T20:11:45.387755907Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.10.9",
   "kubernetes_version": "1.20+",
@@ -12,6 +12,28 @@
         {
           "tag": "v0.36.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "2a8f602d",
+              "Subject": "Prepare for release v0.21.0 (#156)"
+            },
+            {
+              "SHA": "e5d14b17",
+              "Subject": "Merge pull request #155 from kubedb/sc"
+            },
+            {
+              "SHA": "170f72b4",
+              "Subject": "Set seccompProfile to RuntimeDefault"
+            }
+          ]
         }
       ]
     },

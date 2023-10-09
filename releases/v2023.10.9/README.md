@@ -18,6 +18,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.20.0](https://github.com/kubedb/mariadb/releases/tag/v0.20.0)
+
+- [949c14e3](https://github.com/kubedb/mariadb/commit/949c14e3) Prepare for release v0.20.0 (#230)
+- [24de9c01](https://github.com/kubedb/mariadb/commit/24de9c01) Set seccompProfile to RuntimeDefault (#229)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.16.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.16.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.10.9",
-  "release_date": "2023-10-10T00:41:31.797319997Z",
+  "release_date": "2023-10-10T00:54:14.888223038Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.10.9",
   "kubernetes_version": "1.20+",
@@ -72,6 +72,28 @@
             {
               "SHA": "57aa22a2",
               "Subject": "Add seccomp profile to installer securityContext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.10.9",
+          "commits": [
+            {
+              "SHA": "ae571234",
+              "Subject": "Prepare for release v2023.10.9 (#565)"
+            },
+            {
+              "SHA": "8a43a1b5",
+              "Subject": "Update docs for kubedb/webhook-server@0e9ffedc (#563)"
+            },
+            {
+              "SHA": "9468b8d1",
+              "Subject": "Update docs for kubedb/cli@54f42c6a (#564)"
             }
           ]
         }

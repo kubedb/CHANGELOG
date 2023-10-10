@@ -1,4 +1,4 @@
-# KubeDB v2023.10.9 (2023-10-09)
+# KubeDB v2023.10.9 (2023-10-10)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -45,6 +45,13 @@
 - [9766b3cd](https://github.com/kubedb/elasticsearch/commit/9766b3cd5) Update daily-opensearch.yml
 - [875eff12](https://github.com/kubedb/elasticsearch/commit/875eff129) Fix support for OS hot-warm-cold nodes (#669)
 - [b51b628e](https://github.com/kubedb/elasticsearch/commit/b51b628ee) Install Kibana Dashboard controller before running opensearch e2e
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2023.10.9](https://github.com/kubedb/installer/releases/tag/v2023.10.9)
+
 
 
 

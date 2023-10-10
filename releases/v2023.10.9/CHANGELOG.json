@@ -1,0 +1,582 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.10.9",
+  "release_date": "2023-10-10T01:07:52.017430313Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.10.9",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "2a8f602d",
+              "Subject": "Prepare for release v0.21.0 (#156)"
+            },
+            {
+              "SHA": "e5d14b17",
+              "Subject": "Merge pull request #155 from kubedb/sc"
+            },
+            {
+              "SHA": "170f72b4",
+              "Subject": "Set seccompProfile to RuntimeDefault"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.10.9",
+          "commits": [
+            {
+              "SHA": "f05a436",
+              "Subject": "Prepare for release v2023.10.9 (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "54f42c6a",
+              "Subject": "Prepare for release v0.36.0 (#726)"
+            },
+            {
+              "SHA": "73976008",
+              "Subject": "add support for remote-config (#723)"
+            },
+            {
+              "SHA": "ceb2bda4",
+              "Subject": "Use apply: Always for restart command (#725)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "b1d6bf2e",
+              "Subject": "Prepare for release v0.12.0 (#82)"
+            },
+            {
+              "SHA": "57aa22a2",
+              "Subject": "Add seccomp profile to installer securityContext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.10.9",
+          "commits": [
+            {
+              "SHA": "ae571234",
+              "Subject": "Prepare for release v2023.10.9 (#565)"
+            },
+            {
+              "SHA": "8a43a1b5",
+              "Subject": "Update docs for kubedb/webhook-server@0e9ffedc (#563)"
+            },
+            {
+              "SHA": "9468b8d1",
+              "Subject": "Update docs for kubedb/cli@54f42c6a (#564)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "3519e4933",
+              "Subject": "Prepare for release v0.36.0 (#670)"
+            },
+            {
+              "SHA": "9766b3cd5",
+              "Subject": "Update daily-opensearch.yml"
+            },
+            {
+              "SHA": "875eff129",
+              "Subject": "Fix support for OS hot-warm-cold nodes (#669)"
+            },
+            {
+              "SHA": "b51b628ee",
+              "Subject": "Install Kibana Dashboard controller before running opensearch e2e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.10.9",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "0119452",
+              "Subject": "Prepare for release v0.7.0 (#40)"
+            },
+            {
+              "SHA": "e26604d",
+              "Subject": "Add primary-service address to advertised.listeners (#39)"
+            },
+            {
+              "SHA": "c3bcf55",
+              "Subject": "Patch service ports with spec.serviceTemplate (#38)"
+            },
+            {
+              "SHA": "a11bfd6",
+              "Subject": "Add external advertised listener and Redesign reconcile (#37)"
+            },
+            {
+              "SHA": "727f414",
+              "Subject": "Add seccomp profile to makefile (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "949c14e3",
+              "Subject": "Prepare for release v0.20.0 (#230)"
+            },
+            {
+              "SHA": "24de9c01",
+              "Subject": "Set seccompProfile to RuntimeDefault (#229)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "4ab95aeb",
+              "Subject": "Prepare for release v0.16.0 (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "cd5ddf0c",
+              "Subject": "Prepare for release v0.29.0 (#403)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "56c9cecd",
+              "Subject": "Prepare for release v0.29.0 (#570)"
+            },
+            {
+              "SHA": "4ceb44cb",
+              "Subject": "Health check for unusual secondary lock (#569)"
+            },
+            {
+              "SHA": "10a4fd76",
+              "Subject": "Set seccompProfile to RuntimeDefault (#561)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "bc3b65c",
+              "Subject": "Prepare for release v0.14.0 (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "21b46846",
+              "Subject": "Prepare for release v0.23.0 (#329)"
+            },
+            {
+              "SHA": "f1c04f03",
+              "Subject": "Set seccompProfile to RuntimeDefault (#328)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "94433e4",
+              "Subject": "Prepare for release v0.9.0 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "e3aa0fe7",
+              "Subject": "Prepare for release v0.20.0 (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "2b2636f5",
+              "Subject": "Prepare for release v0.23.0 (#290)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "3085d92c1",
+              "Subject": "Prepare for release v0.36.0 (#671)"
+            },
+            {
+              "SHA": "2c16dc52a",
+              "Subject": "Run release workflows on high priority workers (#670)"
+            },
+            {
+              "SHA": "573097827",
+              "Subject": "Set seccompProfile to RuntimeDefault (#667)"
+            },
+            {
+              "SHA": "90fe60458",
+              "Subject": "update apimacinery (#666)"
+            },
+            {
+              "SHA": "c95eb6a70",
+              "Subject": "add support for remote replica (#665)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "bcf6db2d9",
+              "Subject": "Prepare for release v0.36.0 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "7688d9df",
+              "Subject": "Prepare for release v0.23.0 (#311)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "2941778b",
+              "Subject": "Prepare for release v0.29.0 (#486)"
+            },
+            {
+              "SHA": "c0292f61",
+              "Subject": "Set seccompProfile to RuntimeDefault (#485)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "2410719",
+              "Subject": "Prepare for release v0.15.0 (#78)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "e1bcb02e",
+              "Subject": "Prepare for release v0.23.0 (#242)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "c57b7709",
+              "Subject": "Prepare for release v0.12.0 (#83)"
+            },
+            {
+              "SHA": "5a624bde",
+              "Subject": "Merge pull request #82 from kubedb/sc"
+            },
+            {
+              "SHA": "26d04829",
+              "Subject": "Set seccompProfile to RuntimeDefault"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "841fe9e9",
+              "Subject": "Prepare for release v0.21.0 (#262)"
+            },
+            {
+              "SHA": "eed6ebcb",
+              "Subject": "Fix autoscaler test profiles (#261)"
+            },
+            {
+              "SHA": "a2df0e09",
+              "Subject": "MySQL autoscale test fix (#260)"
+            },
+            {
+              "SHA": "b7cc5aaf",
+              "Subject": "Fix Mysql Test Issue for Elasticsearchversion. (#259)"
+            },
+            {
+              "SHA": "b9da67f3",
+              "Subject": "Use storageclass flag for autoscaling, if set (#258)"
+            },
+            {
+              "SHA": "0cd78c0b",
+              "Subject": "Unfocus tests"
+            },
+            {
+              "SHA": "30fd08c8",
+              "Subject": "Fix hot-warm-cold clustering tests for OpenSearch (#257)"
+            },
+            {
+              "SHA": "b43235f9",
+              "Subject": "Fix Test for Downscaling ES data nodes (#256)"
+            },
+            {
+              "SHA": "8206ec72",
+              "Subject": "Add missing provisioner tests for Elasticsearch (#247)"
+            },
+            {
+              "SHA": "6f289856",
+              "Subject": "Add Stash Auto-backup tests for Redis (#252)"
+            },
+            {
+              "SHA": "70db31e5",
+              "Subject": "Add AutoScaler for MySQL and Fixed in MariaDB (#246)"
+            },
+            {
+              "SHA": "816804c6",
+              "Subject": "Add redis restore tests (#249)"
+            },
+            {
+              "SHA": "e73c3465",
+              "Subject": "Add missing provisioner e2e test - custom auth secret tests (#244)"
+            },
+            {
+              "SHA": "5adcf205",
+              "Subject": "Add stash backup tests (#245)"
+            },
+            {
+              "SHA": "bedb2081",
+              "Subject": "Exclude volume expansion test (#248)"
+            },
+            {
+              "SHA": "fddc0a69",
+              "Subject": "Fix existing tests for ES & OS (#236)"
+            },
+            {
+              "SHA": "0089ac1d",
+              "Subject": "Ensure minio-server for stash-related tests (#243)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "e1e491ca",
+              "Subject": "Prepare for release v0.12.0 (#91)"
+            },
+            {
+              "SHA": "119250af",
+              "Subject": "Set seccompProfile to RuntimeDefault (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "24369a19",
+              "Subject": "Prepare for release v0.12.0 (#68)"
+            },
+            {
+              "SHA": "0e9ffedc",
+              "Subject": "Set seccompProfile to RuntimeDefault (#67)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

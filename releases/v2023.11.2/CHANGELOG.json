@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.2",
-  "release_date": "2023-11-02T08:29:56.531247762Z",
+  "release_date": "2023-11-02T08:30:30.153149839Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.2",
   "kubernetes_version": "1.20+",
@@ -23,6 +23,20 @@
             {
               "SHA": "f684560c",
               "Subject": "Remove spec.upgrade field and Upgrade ops type (#1063)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "8a49d1f",
+              "Subject": "Prepare for release v0.15.0 (#88)"
             }
           ]
         }

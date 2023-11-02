@@ -11,6 +11,14 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.22.0](https://github.com/kubedb/autoscaler/releases/tag/v0.22.0)
+
+- [4d6e524e](https://github.com/kubedb/autoscaler/commit/4d6e524e) Prepare for release v0.22.0 (#157)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.37.0](https://github.com/kubedb/cli/releases/tag/v0.37.0)

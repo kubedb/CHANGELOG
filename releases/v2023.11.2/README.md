@@ -50,6 +50,14 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.37.0](https://github.com/kubedb/postgres/releases/tag/v0.37.0)
+
+- [9bf1793e](https://github.com/kubedb/postgres/commit/9bf1793ea) Prepare for release v0.37.0 (#676)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.24.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.24.0)

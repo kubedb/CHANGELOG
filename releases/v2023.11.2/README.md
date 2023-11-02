@@ -115,6 +115,14 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.24.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.24.0)
+
+- [2973741d](https://github.com/kubedb/pgbouncer/commit/2973741d) Prepare for release v0.24.0 (#295)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.37.0](https://github.com/kubedb/postgres/releases/tag/v0.37.0)

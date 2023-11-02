@@ -50,6 +50,14 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.24.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.24.0)
+
+- [16cba321](https://github.com/kubedb/replication-mode-detector/commit/16cba321) Prepare for release v0.24.0 (#243)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.22.0](https://github.com/kubedb/tests/releases/tag/v0.22.0)

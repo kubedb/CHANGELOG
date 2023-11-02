@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.2",
-  "release_date": "2023-11-02T08:32:57.62322096Z",
+  "release_date": "2023-11-02T08:33:07.40071465Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.2",
   "kubernetes_version": "1.20+",
@@ -37,6 +37,24 @@
             {
               "SHA": "78ff0505",
               "Subject": "Prepare for release v0.37.0 (#729)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "1101f2c",
+              "Subject": "Prepare for release v0.8.0 (#41)"
+            },
+            {
+              "SHA": "4e3c27e",
+              "Subject": "Disable stash installation"
             }
           ]
         }

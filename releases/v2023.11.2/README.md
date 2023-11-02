@@ -19,6 +19,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.8.0](https://github.com/kubedb/kafka/releases/tag/v0.8.0)
+
+- [1101f2c](https://github.com/kubedb/kafka/commit/1101f2c) Prepare for release v0.8.0 (#41)
+- [4e3c27e](https://github.com/kubedb/kafka/commit/4e3c27e) Disable stash installation
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.30.0](https://github.com/kubedb/memcached/releases/tag/v0.30.0)

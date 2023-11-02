@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.2",
-  "release_date": "2023-11-02T11:28:13.651531377Z",
+  "release_date": "2023-11-02T11:28:37.149685673Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.2",
   "kubernetes_version": "1.20+",
@@ -328,6 +328,20 @@
             {
               "SHA": "bbf8b2f3",
               "Subject": "Update mysql remote replica (#263)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "82adcd74",
+              "Subject": "Prepare for release v0.13.0 (#93)"
             }
           ]
         }

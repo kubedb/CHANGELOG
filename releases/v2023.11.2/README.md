@@ -11,6 +11,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.37.0](https://github.com/kubedb/cli/releases/tag/v0.37.0)
+
+- [78ff0505](https://github.com/kubedb/cli/commit/78ff0505) Prepare for release v0.37.0 (#729)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.15.0)

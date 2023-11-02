@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.2",
-  "release_date": "2023-11-02T08:37:31.743466085Z",
+  "release_date": "2023-11-02T08:38:32.323874782Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.2",
   "kubernetes_version": "1.20+",
@@ -37,6 +37,20 @@
             {
               "SHA": "78ff0505",
               "Subject": "Prepare for release v0.37.0 (#729)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "9f3dcdd2b",
+              "Subject": "Prepare for release v0.37.0 (#675)"
             }
           ]
         }

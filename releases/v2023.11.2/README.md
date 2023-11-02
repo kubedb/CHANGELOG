@@ -19,6 +19,14 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.37.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.37.0)
+
+- [9f3dcdd2](https://github.com/kubedb/elasticsearch/commit/9f3dcdd2b) Prepare for release v0.37.0 (#675)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.8.0](https://github.com/kubedb/kafka/releases/tag/v0.8.0)

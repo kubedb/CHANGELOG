@@ -34,3 +34,14 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.22.0](https://github.com/kubedb/tests/releases/tag/v0.22.0)
+
+- [7f48fadf](https://github.com/kubedb/tests/commit/7f48fadf) Prepare for release v0.22.0 (#265)
+- [94fcf34b](https://github.com/kubedb/tests/commit/94fcf34b) Minimize mongo test areas; Increase timeout (#264)
+- [0808fc26](https://github.com/kubedb/tests/commit/0808fc26) Add Redis Autoscaler tests (#255)
+- [bbf8b2f3](https://github.com/kubedb/tests/commit/bbf8b2f3) Update mysql remote replica (#263)
+
+
+

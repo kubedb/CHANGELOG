@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.2",
-  "release_date": "2023-11-02T08:30:30.153149839Z",
+  "release_date": "2023-11-02T08:30:58.311737109Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.2",
   "kubernetes_version": "1.20+",
@@ -60,6 +60,32 @@
             {
               "SHA": "d92be74",
               "Subject": "Prepare for release v0.10.0 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "7f48fadf",
+              "Subject": "Prepare for release v0.22.0 (#265)"
+            },
+            {
+              "SHA": "94fcf34b",
+              "Subject": "Minimize mongo test areas; Increase timeout (#264)"
+            },
+            {
+              "SHA": "0808fc26",
+              "Subject": "Add Redis Autoscaler tests (#255)"
+            },
+            {
+              "SHA": "bbf8b2f3",
+              "Subject": "Update mysql remote replica (#263)"
             }
           ]
         }

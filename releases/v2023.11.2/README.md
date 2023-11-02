@@ -36,6 +36,14 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.30.0](https://github.com/kubedb/mongodb/releases/tag/v0.30.0)
+
+- [b4783ade](https://github.com/kubedb/mongodb/commit/b4783ade) Prepare for release v0.30.0 (#574)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.30.0](https://github.com/kubedb/mysql/releases/tag/v0.30.0)

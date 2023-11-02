@@ -224,3 +224,11 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.13.0](https://github.com/kubedb/webhook-server/releases/tag/v0.13.0)
+
+- [9ffa4b85](https://github.com/kubedb/webhook-server/commit/9ffa4b85) Prepare for release v0.13.0 (#69)
+
+
+

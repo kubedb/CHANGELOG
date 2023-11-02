@@ -28,6 +28,14 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.21.0](https://github.com/kubedb/mariadb/releases/tag/v0.21.0)
+
+- [7f583121](https://github.com/kubedb/mariadb/commit/7f583121) Prepare for release v0.21.0 (#231)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.30.0](https://github.com/kubedb/memcached/releases/tag/v0.30.0)

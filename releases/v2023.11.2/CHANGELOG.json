@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.2",
-  "release_date": "2023-11-02T08:16:01.382514925Z",
+  "release_date": "2023-11-02T08:23:58.019242165Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.2",
   "kubernetes_version": "1.20+",
@@ -25,6 +25,15 @@
               "Subject": "Remove spec.upgrade field and Upgrade ops type (#1063)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": null
         }
       ]
     }

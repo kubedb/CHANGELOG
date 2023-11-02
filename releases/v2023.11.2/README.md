@@ -19,6 +19,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.30.0](https://github.com/kubedb/memcached/releases/tag/v0.30.0)
+
+- [91294d5d](https://github.com/kubedb/memcached/commit/91294d5d) Prepare for release v0.30.0 (#404)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.15.0)

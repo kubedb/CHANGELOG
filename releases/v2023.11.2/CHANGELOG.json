@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.2",
-  "release_date": "2023-11-02T12:01:56.612949921Z",
+  "release_date": "2023-11-02T12:23:42.226843515Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.2",
   "kubernetes_version": "1.20+",
@@ -178,6 +178,28 @@
         {
           "tag": "v0.15.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "ecee4464",
+              "Subject": "Prepare for release v0.24.0 (#484)"
+            },
+            {
+              "SHA": "eecc2c17",
+              "Subject": "Remove spec.upgrade field and Upgrade ops type (#482)"
+            },
+            {
+              "SHA": "54caa66d",
+              "Subject": "Reprovision opsReq will progress even if DB is in Provisioning state (#480)"
+            }
+          ]
         }
       ]
     },

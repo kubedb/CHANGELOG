@@ -99,6 +99,16 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.24.0](https://github.com/kubedb/ops-manager/releases/tag/v0.24.0)
+
+- [ecee4464](https://github.com/kubedb/ops-manager/commit/ecee4464) Prepare for release v0.24.0 (#484)
+- [eecc2c17](https://github.com/kubedb/ops-manager/commit/eecc2c17) Remove spec.upgrade field and Upgrade ops type (#482)
+- [54caa66d](https://github.com/kubedb/ops-manager/commit/54caa66d) Reprovision opsReq will progress even if DB is in Provisioning state (#480)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.24.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.24.0)

@@ -58,6 +58,17 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.22.0-rc.0)
+
+- [e4efa4db](https://github.com/kubedb/pg-coordinator/commit/e4efa4db) Prepare for release v0.22.0-rc.0 (#139)
+- [7c862bcd](https://github.com/kubedb/pg-coordinator/commit/7c862bcd) Add support for arbiter (#136)
+- [53ba32a9](https://github.com/kubedb/pg-coordinator/commit/53ba32a9) added postgres 16.0 support (#137)
+- [24445f9b](https://github.com/kubedb/pg-coordinator/commit/24445f9b) Added & modified logs (#134)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.38.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.38.0-rc.0)

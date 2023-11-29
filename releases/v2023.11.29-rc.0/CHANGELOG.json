@@ -1,0 +1,76 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.11.29-rc.0",
+  "release_date": "2023-11-29T19:45:34.303083762Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.38.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e070a3ae",
+              "Subject": "Do not default the seccompProfile (#1079)"
+            },
+            {
+              "SHA": "29c96031",
+              "Subject": "Set Default Security Context for MariaDB (#1077)"
+            },
+            {
+              "SHA": "fc35d376",
+              "Subject": "Set default SecurityContext for mysql (#1070)"
+            },
+            {
+              "SHA": "ee71aca0",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "93b5ba51",
+              "Subject": "add encriptSecret to postgresAchiver (#1078)"
+            },
+            {
+              "SHA": "2b06b6e5",
+              "Subject": "Add mongodb & postgres archiver (#1016)"
+            },
+            {
+              "SHA": "47793c9a",
+              "Subject": "Set default  SecurityContext for Elasticsearch. (#1072)"
+            },
+            {
+              "SHA": "90567b46",
+              "Subject": "Set default SecurityContext for Kafka (#1068)"
+            },
+            {
+              "SHA": "449a4e00",
+              "Subject": "Remove redundant helper functions for Kafka and Update constants (#1074)"
+            },
+            {
+              "SHA": "b28463f4",
+              "Subject": "Set fsGroup to 999 to avoid mountedPath's files permission issue in different storageClass (#1075)"
+            },
+            {
+              "SHA": "8e497b92",
+              "Subject": "Set Default Security Context for Redis (#1073)"
+            },
+            {
+              "SHA": "88ab93c7",
+              "Subject": "Set default SecurityContext for mongodb (#1067)"
+            },
+            {
+              "SHA": "e7ac5d2e",
+              "Subject": "Set default for security Context for postgres (#1069)"
+            },
+            {
+              "SHA": "f5de4a28",
+              "Subject": "Add support for init with git-sync; Add const (#1065)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

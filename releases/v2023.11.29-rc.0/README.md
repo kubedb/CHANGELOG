@@ -203,6 +203,25 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.1.0-rc.0)
+
+- [f8de18b](https://github.com/kubedb/redis-restic-plugin/commit/f8de18b) Prepare for release v0.1.0-rc.0 (#9)
+- [a4c03d9](https://github.com/kubedb/redis-restic-plugin/commit/a4c03d9) Update snapshot time (#8)
+- [404447d](https://github.com/kubedb/redis-restic-plugin/commit/404447d) Fix binary name
+- [4dbc58b](https://github.com/kubedb/redis-restic-plugin/commit/4dbc58b) Move to kubedb org
+- [e4a6fb2](https://github.com/kubedb/redis-restic-plugin/commit/e4a6fb2) Update deps (#7)
+- [1b28954](https://github.com/kubedb/redis-restic-plugin/commit/1b28954) Remove maxConcurrency variable (#6)
+- [4d13ee5](https://github.com/kubedb/redis-restic-plugin/commit/4d13ee5) Remove addon implementer + Refactor (#5)
+- [44ac2c7](https://github.com/kubedb/redis-restic-plugin/commit/44ac2c7) Prepare for release v0.1.0-rc.0 (#4)
+- [ce275bd](https://github.com/kubedb/redis-restic-plugin/commit/ce275bd) Use firecracker runner
+- [bf39971](https://github.com/kubedb/redis-restic-plugin/commit/bf39971) Update deps
+- [ef24891](https://github.com/kubedb/redis-restic-plugin/commit/ef24891) Use github runner to push docker image
+- [6a6f6d6](https://github.com/kubedb/redis-restic-plugin/commit/6a6f6d6) Add support for redis backup and restore (#1)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.25.0-rc.0)

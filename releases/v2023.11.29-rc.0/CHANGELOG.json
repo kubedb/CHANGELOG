@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.29-rc.0",
-  "release_date": "2023-11-29T22:25:35.13398712Z",
+  "release_date": "2023-11-29T22:25:59.824436096Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
   "kubernetes_version": "1.20+",
@@ -500,6 +500,64 @@
             {
               "SHA": "9f724e43",
               "Subject": "Prepare for release v0.17.0-rc.0 (#80)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f8de18b",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#9)"
+            },
+            {
+              "SHA": "a4c03d9",
+              "Subject": "Update snapshot time (#8)"
+            },
+            {
+              "SHA": "404447d",
+              "Subject": "Fix binary name"
+            },
+            {
+              "SHA": "4dbc58b",
+              "Subject": "Move to kubedb org"
+            },
+            {
+              "SHA": "e4a6fb2",
+              "Subject": "Update deps (#7)"
+            },
+            {
+              "SHA": "1b28954",
+              "Subject": "Remove maxConcurrency variable (#6)"
+            },
+            {
+              "SHA": "4d13ee5",
+              "Subject": "Remove addon implementer + Refactor (#5)"
+            },
+            {
+              "SHA": "44ac2c7",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
+            },
+            {
+              "SHA": "ce275bd",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "bf39971",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ef24891",
+              "Subject": "Use github runner to push docker image"
+            },
+            {
+              "SHA": "6a6f6d6",
+              "Subject": "Add support for redis backup and restore (#1)"
             }
           ]
         }

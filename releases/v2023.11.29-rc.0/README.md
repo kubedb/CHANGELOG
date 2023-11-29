@@ -180,6 +180,20 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.31.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.31.0-rc.0)
+
+- [c368ec94](https://github.com/kubedb/mongodb/commit/c368ec94) Prepare for release v0.31.0-rc.0 (#581)
+- [020d5599](https://github.com/kubedb/mongodb/commit/020d5599) Set manifest component in restoreSession (#579)
+- [95103a47](https://github.com/kubedb/mongodb/commit/95103a47) Implement mongodb archiver (#534)
+- [fb01b593](https://github.com/kubedb/mongodb/commit/fb01b593) Update apimachinery deps for fsgroup defaulting (#578)
+- [22a5bb29](https://github.com/kubedb/mongodb/commit/22a5bb29) Make changes to run containers as non-root user (#576)
+- [8667f411](https://github.com/kubedb/mongodb/commit/8667f411) Rearrange the daily CI (#577)
+- [7024a3ca](https://github.com/kubedb/mongodb/commit/7024a3ca) Add support for initialization with git-sync (#575)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.1.0-rc.0)

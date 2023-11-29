@@ -199,6 +199,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.1.0-rc.0)
+
+- [f79286a](https://github.com/kubedb/mysql-archiver/commit/f79286a) Prepare for release v0.1.0-rc.0 (#2)
+- [dcd2e30](https://github.com/kubedb/mysql-archiver/commit/dcd2e30) Fix wal-g binary
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.16.0-rc.0)

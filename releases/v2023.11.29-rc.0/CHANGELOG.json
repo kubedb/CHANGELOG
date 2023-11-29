@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.29-rc.0",
-  "release_date": "2023-11-29T22:28:22.302546751Z",
+  "release_date": "2023-11-29T22:56:46.516196858Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
   "kubernetes_version": "1.20+",
@@ -447,6 +447,24 @@
             {
               "SHA": "e644c67",
               "Subject": "Implement kubedb-manifest plugin to MongoDB manifests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e360fd82",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#233)"
+            },
+            {
+              "SHA": "3956f18c",
+              "Subject": "Set Default Security Context for MariaDB (#232)"
             }
           ]
         }

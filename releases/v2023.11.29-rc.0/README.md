@@ -135,6 +135,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.22.0-rc.0)
+
+- [e360fd82](https://github.com/kubedb/mariadb/commit/e360fd82) Prepare for release v0.22.0-rc.0 (#233)
+- [3956f18c](https://github.com/kubedb/mariadb/commit/3956f18c) Set Default Security Context for MariaDB (#232)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.18.0-rc.0)

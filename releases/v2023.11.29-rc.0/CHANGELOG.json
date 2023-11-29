@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.29-rc.0",
-  "release_date": "2023-11-29T22:26:03.641791208Z",
+  "release_date": "2023-11-29T22:26:07.344290033Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
   "kubernetes_version": "1.20+",
@@ -764,6 +764,48 @@
             {
               "SHA": "06e7e70",
               "Subject": "clean up (#3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8208814",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
+            },
+            {
+              "SHA": "a56fcfa",
+              "Subject": "Move to kubedb org (#3)"
+            },
+            {
+              "SHA": "e8928c7",
+              "Subject": "Added postgres addon for kubestash (#2)"
+            },
+            {
+              "SHA": "7c55105",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#1)"
+            },
+            {
+              "SHA": "19eff67",
+              "Subject": "Use gh runner token to publish docker image"
+            },
+            {
+              "SHA": "6a71410",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "e278d71",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "4899879",
+              "Subject": "Update readme + cleanup"
             }
           ]
         }

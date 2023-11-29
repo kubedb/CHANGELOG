@@ -96,6 +96,26 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.1.0-rc.0)
+
+- [b255e47](https://github.com/kubedb/mysql-restic-plugin/commit/b255e47) Prepare for release v0.1.0-rc.0 (#11)
+- [9a17360](https://github.com/kubedb/mysql-restic-plugin/commit/9a17360) Set DB version from env if empty (#10)
+- [c67ba7c](https://github.com/kubedb/mysql-restic-plugin/commit/c67ba7c) Update snapshot time (#9)
+- [abef89e](https://github.com/kubedb/mysql-restic-plugin/commit/abef89e) Fix binary name
+- [db1bbbf](https://github.com/kubedb/mysql-restic-plugin/commit/db1bbbf) Move to kubedb org
+- [746d13e](https://github.com/kubedb/mysql-restic-plugin/commit/746d13e) Update deps (#8)
+- [569533a](https://github.com/kubedb/mysql-restic-plugin/commit/569533a) Add version flag + Refactor (#6)
+- [f0abd94](https://github.com/kubedb/mysql-restic-plugin/commit/f0abd94) Prepare for release v0.1.0-rc.0 (#7)
+- [01bff62](https://github.com/kubedb/mysql-restic-plugin/commit/01bff62) Remove arm64 image support
+- [277fda8](https://github.com/kubedb/mysql-restic-plugin/commit/277fda8) Build docker images for each db version (#5)
+- [94f000d](https://github.com/kubedb/mysql-restic-plugin/commit/94f000d) Use Go 1.21
+- [2e4f30d](https://github.com/kubedb/mysql-restic-plugin/commit/2e4f30d) Update Readme (#4)
+- [272c8f9](https://github.com/kubedb/mysql-restic-plugin/commit/272c8f9) Add support for mysql backup and restore (#1)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.16.0-rc.0)

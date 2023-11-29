@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.29-rc.0",
-  "release_date": "2023-11-29T20:24:59.350330926Z",
+  "release_date": "2023-11-29T20:26:59.238890323Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
   "kubernetes_version": "1.20+",
@@ -107,6 +107,20 @@
             {
               "SHA": "4bb15e48b",
               "Subject": "Update daily-opensearch workflow to provision v1.3.13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e44be0a6",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#405)"
             }
           ]
         }

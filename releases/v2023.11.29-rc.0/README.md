@@ -41,6 +41,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.31.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.31.0-rc.0)
+
+- [e44be0a6](https://github.com/kubedb/memcached/commit/e44be0a6) Prepare for release v0.31.0-rc.0 (#405)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.31.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.31.0-rc.0)

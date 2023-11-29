@@ -374,3 +374,17 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.23.0-rc.0)
+
+- [bfd1ec79](https://github.com/kubedb/tests/commit/bfd1ec79) Prepare for release v0.23.0-rc.0 (#270)
+- [fab75dd1](https://github.com/kubedb/tests/commit/fab75dd1) Add disableDefault while deploying elasticsearch. (#269)
+- [009399c7](https://github.com/kubedb/tests/commit/009399c7) Run tests in restriced PodSecurityStandard (#266)
+- [4be89382](https://github.com/kubedb/tests/commit/4be89382) Fixed stash test and Innodb issues in MySQL (#250)
+- [f007f5f5](https://github.com/kubedb/tests/commit/f007f5f5) Added test for Standalone to HA scalin (#267)
+- [017546ec](https://github.com/kubedb/tests/commit/017546ec) Add Postgres e2e tests (#233)
+- [fbd16c88](https://github.com/kubedb/tests/commit/fbd16c88) Add kafka e2e tests (#254)
+
+
+

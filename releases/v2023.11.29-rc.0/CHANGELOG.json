@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.29-rc.0",
-  "release_date": "2023-11-29T23:05:05.52951942Z",
+  "release_date": "2023-11-29T23:13:56.458693738Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
   "kubernetes_version": "1.20+",
@@ -1004,6 +1004,44 @@
             {
               "SHA": "77886a28",
               "Subject": "Prepare for release v0.25.0-rc.0 (#244)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "bfd1ec79",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#270)"
+            },
+            {
+              "SHA": "fab75dd1",
+              "Subject": "Add disableDefault while deploying elasticsearch. (#269)"
+            },
+            {
+              "SHA": "009399c7",
+              "Subject": "Run tests in restriced PodSecurityStandard (#266)"
+            },
+            {
+              "SHA": "4be89382",
+              "Subject": "Fixed stash test and Innodb issues in MySQL (#250)"
+            },
+            {
+              "SHA": "f007f5f5",
+              "Subject": "Added test for Standalone to HA scalin (#267)"
+            },
+            {
+              "SHA": "017546ec",
+              "Subject": "Add Postgres e2e tests (#233)"
+            },
+            {
+              "SHA": "fbd16c88",
+              "Subject": "Add kafka e2e tests (#254)"
             }
           ]
         }

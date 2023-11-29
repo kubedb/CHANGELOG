@@ -30,6 +30,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.38.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.38.0-rc.0)
+
+- [6b2943f1](https://github.com/kubedb/elasticsearch/commit/6b2943f19) Prepare for release v0.38.0-rc.0 (#678)
+- [7f1a37e1](https://github.com/kubedb/elasticsearch/commit/7f1a37e1a) Add prepare cluster installer before test runner (#677)
+- [1d49f16d](https://github.com/kubedb/elasticsearch/commit/1d49f16d2) Remove `init-sysctl` container and add default containerSecurityContext (#676)
+- [4bb15e48](https://github.com/kubedb/elasticsearch/commit/4bb15e48b) Update daily-opensearch workflow to provision v1.3.13
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.31.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.31.0-rc.0)

@@ -22,6 +22,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.38.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.38.0-rc.0)
+
+- [3a4dcc47](https://github.com/kubedb/cli/commit/3a4dcc47) Prepare for release v0.38.0-rc.0 (#737)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.16.0-rc.0)

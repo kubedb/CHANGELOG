@@ -22,6 +22,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.16.0-rc.0)
+
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.1.0-rc.0)

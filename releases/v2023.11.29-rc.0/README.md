@@ -284,6 +284,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.31.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.31.0-rc.0)
+
+- [966f14ca](https://github.com/kubedb/redis/commit/966f14ca) Prepare for release v0.31.0-rc.0 (#495)
+- [b72d8319](https://github.com/kubedb/redis/commit/b72d8319) Run Redis and RedisSentinel as non root (#494)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.17.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.17.0-rc.0)

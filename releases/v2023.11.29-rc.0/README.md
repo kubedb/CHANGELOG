@@ -30,6 +30,16 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.31.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.31.0-rc.0)
+
+- [3c005b51](https://github.com/kubedb/mysql/commit/3c005b51) Prepare for release v0.31.0-rc.0 (#572)
+- [bcdfaf4a](https://github.com/kubedb/mysql/commit/bcdfaf4a) Set Default Security Context for MySQL (#571)
+- [9009bcac](https://github.com/kubedb/mysql/commit/9009bcac) Add git sync constants from apimachinery (#570)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.16.0-rc.0)

@@ -61,6 +61,80 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.1.0-rc.0)
+
+- [bef777c](https://github.com/kubedb/kubedb-manifest-plugin/commit/bef777c) Prepare for release v0.1.0-rc.0 (#28)
+- [46ad967](https://github.com/kubedb/kubedb-manifest-plugin/commit/46ad967) Remove redundancy (#27)
+- [4eaf765](https://github.com/kubedb/kubedb-manifest-plugin/commit/4eaf765) Update snapshot time (#26)
+- [e8ace42](https://github.com/kubedb/kubedb-manifest-plugin/commit/e8ace42) Fix plugin binary name
+- [d4e3c34](https://github.com/kubedb/kubedb-manifest-plugin/commit/d4e3c34) Move to kubedb org
+- [15770b2](https://github.com/kubedb/kubedb-manifest-plugin/commit/15770b2) Update deps (#25)
+- [f50a3af](https://github.com/kubedb/kubedb-manifest-plugin/commit/f50a3af) Fix directory cleanup (#24)
+- [d41eba7](https://github.com/kubedb/kubedb-manifest-plugin/commit/d41eba7) Refactor
+- [0e154e7](https://github.com/kubedb/kubedb-manifest-plugin/commit/0e154e7) Fix release workflow
+- [35c6b95](https://github.com/kubedb/kubedb-manifest-plugin/commit/35c6b95) Prepare for release v0.2.0-rc.0 (#22)
+- [da97d9a](https://github.com/kubedb/kubedb-manifest-plugin/commit/da97d9a) Use gh runner token to publish image
+- [592c51f](https://github.com/kubedb/kubedb-manifest-plugin/commit/592c51f) Use firecracker runner
+- [008042d](https://github.com/kubedb/kubedb-manifest-plugin/commit/008042d) Use Go 1.21
+- [985bcab](https://github.com/kubedb/kubedb-manifest-plugin/commit/985bcab) Set snapshot time after snapshot completed (#21)
+- [6a8c682](https://github.com/kubedb/kubedb-manifest-plugin/commit/6a8c682) Refactor code (#20)
+- [bcb944d](https://github.com/kubedb/kubedb-manifest-plugin/commit/bcb944d) Remove manifest option flags (#19)
+- [5a47722](https://github.com/kubedb/kubedb-manifest-plugin/commit/5a47722) Fix secret restore issue (#18)
+- [3ced8b7](https://github.com/kubedb/kubedb-manifest-plugin/commit/3ced8b7) Update `kmodules.xyz/client-go` version to `v0.25.27` (#17)
+- [2ee1314](https://github.com/kubedb/kubedb-manifest-plugin/commit/2ee1314) Update Readme (#16)
+- [42d0e52](https://github.com/kubedb/kubedb-manifest-plugin/commit/42d0e52) Set initial component status prior to backup and restore (#15)
+- [31a64d6](https://github.com/kubedb/kubedb-manifest-plugin/commit/31a64d6) Remove redundant flags (#14)
+- [a804ba8](https://github.com/kubedb/kubedb-manifest-plugin/commit/a804ba8) Pass Snapshot name for restore
+- [99ca49f](https://github.com/kubedb/kubedb-manifest-plugin/commit/99ca49f) Set snapshot time, integrity and size (#12)
+- [384bbb6](https://github.com/kubedb/kubedb-manifest-plugin/commit/384bbb6) Set backup error in component status + Refactor codebase (#11)
+- [513eef5](https://github.com/kubedb/kubedb-manifest-plugin/commit/513eef5) Update for snapshot and restoresession API changes (#10)
+- [4fb8f52](https://github.com/kubedb/kubedb-manifest-plugin/commit/4fb8f52) Add options for issuerref (#9)
+- [2931d9e](https://github.com/kubedb/kubedb-manifest-plugin/commit/2931d9e) Update restic modules (#7)
+- [3422ddf](https://github.com/kubedb/kubedb-manifest-plugin/commit/3422ddf) Fix bugs + Sync with updated snapshot api (#6)
+- [b1a69b5](https://github.com/kubedb/kubedb-manifest-plugin/commit/b1a69b5) Prepare for release v0.1.0 (#5)
+- [5344e9f](https://github.com/kubedb/kubedb-manifest-plugin/commit/5344e9f) Update modules (#4)
+- [14b2797](https://github.com/kubedb/kubedb-manifest-plugin/commit/14b2797) Add CI badge
+- [969eeda](https://github.com/kubedb/kubedb-manifest-plugin/commit/969eeda) Organize code structure (#3)
+- [9fc3cbe](https://github.com/kubedb/kubedb-manifest-plugin/commit/9fc3cbe) Postgres manifest (#2)
+- [8e2a56f](https://github.com/kubedb/kubedb-manifest-plugin/commit/8e2a56f) Merge pull request #1 from kubestash/mongodb-manifest
+- [e80c1d0](https://github.com/kubedb/kubedb-manifest-plugin/commit/e80c1d0) update flag names.
+- [80d3908](https://github.com/kubedb/kubedb-manifest-plugin/commit/80d3908) Add options for changing name in the restored files.
+- [e7da42d](https://github.com/kubedb/kubedb-manifest-plugin/commit/e7da42d) Fix error.
+- [70a0267](https://github.com/kubedb/kubedb-manifest-plugin/commit/70a0267) Sync with updated snapshot api
+- [9d747d8](https://github.com/kubedb/kubedb-manifest-plugin/commit/9d747d8) Merge branch 'mongodb-manifest' of github.com:stashed/kubedb-manifest into mongodb-manifest
+- [90e00e3](https://github.com/kubedb/kubedb-manifest-plugin/commit/90e00e3) Fix bugs.
+- [9c3fc1e](https://github.com/kubedb/kubedb-manifest-plugin/commit/9c3fc1e) Sync with updated snapshot api
+- [c321013](https://github.com/kubedb/kubedb-manifest-plugin/commit/c321013) update component path.
+- [7f4bd17](https://github.com/kubedb/kubedb-manifest-plugin/commit/7f4bd17) Refactor.
+- [2b61ff0](https://github.com/kubedb/kubedb-manifest-plugin/commit/2b61ff0) Specify component directory
+- [6264cdf](https://github.com/kubedb/kubedb-manifest-plugin/commit/6264cdf) Support restoring particular mongo component.
+- [0008570](https://github.com/kubedb/kubedb-manifest-plugin/commit/0008570) Fix restore component phase updating.
+- [8bd4c95](https://github.com/kubedb/kubedb-manifest-plugin/commit/8bd4c95) Fix restore manifests.
+- [7eda9f9](https://github.com/kubedb/kubedb-manifest-plugin/commit/7eda9f9) Update Snapshot phase calculation.
+- [a2b52d2](https://github.com/kubedb/kubedb-manifest-plugin/commit/a2b52d2) Add core to runtime scheme.
+- [9bd6bd5](https://github.com/kubedb/kubedb-manifest-plugin/commit/9bd6bd5) Fix bugs.
+- [9e08774](https://github.com/kubedb/kubedb-manifest-plugin/commit/9e08774) Fix build
+- [01225c6](https://github.com/kubedb/kubedb-manifest-plugin/commit/01225c6) Update module path
+- [45d0e45](https://github.com/kubedb/kubedb-manifest-plugin/commit/45d0e45) updated flags.
+- [fb0282f](https://github.com/kubedb/kubedb-manifest-plugin/commit/fb0282f) update docker file.
+- [ad4c004](https://github.com/kubedb/kubedb-manifest-plugin/commit/ad4c004) refactor.
+- [8f71d3a](https://github.com/kubedb/kubedb-manifest-plugin/commit/8f71d3a) Fix build
+- [115ef23](https://github.com/kubedb/kubedb-manifest-plugin/commit/115ef23) update makefile.
+- [a274690](https://github.com/kubedb/kubedb-manifest-plugin/commit/a274690) update backup and restore.
+- [cff449f](https://github.com/kubedb/kubedb-manifest-plugin/commit/cff449f) Use yaml pkg from k8s.io.
+- [dcbb399](https://github.com/kubedb/kubedb-manifest-plugin/commit/dcbb399) Use restic package from KubeStash.
+- [596a498](https://github.com/kubedb/kubedb-manifest-plugin/commit/596a498) fix restore implementation.
+- [6ebc19b](https://github.com/kubedb/kubedb-manifest-plugin/commit/6ebc19b) Implement restore.
+- [3e8a869](https://github.com/kubedb/kubedb-manifest-plugin/commit/3e8a869) Start implementing restore.
+- [e841113](https://github.com/kubedb/kubedb-manifest-plugin/commit/e841113) Add backup methods for mongodb.
+- [b5961f7](https://github.com/kubedb/kubedb-manifest-plugin/commit/b5961f7) Continue implementing backup.
+- [d943f6a](https://github.com/kubedb/kubedb-manifest-plugin/commit/d943f6a) Implement manifest backup for MongoDB.
+- [e644c67](https://github.com/kubedb/kubedb-manifest-plugin/commit/e644c67) Implement kubedb-manifest plugin to MongoDB manifests.
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.18.0-rc.0)

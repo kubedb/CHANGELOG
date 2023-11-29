@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.29-rc.0",
-  "release_date": "2023-11-29T22:25:59.824436096Z",
+  "release_date": "2023-11-29T22:26:03.641791208Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
   "kubernetes_version": "1.20+",
@@ -169,6 +169,284 @@
             {
               "SHA": "f08e4e8",
               "Subject": "Use github runner to push docker image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "bef777c",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#28)"
+            },
+            {
+              "SHA": "46ad967",
+              "Subject": "Remove redundancy (#27)"
+            },
+            {
+              "SHA": "4eaf765",
+              "Subject": "Update snapshot time (#26)"
+            },
+            {
+              "SHA": "e8ace42",
+              "Subject": "Fix plugin binary name"
+            },
+            {
+              "SHA": "d4e3c34",
+              "Subject": "Move to kubedb org"
+            },
+            {
+              "SHA": "15770b2",
+              "Subject": "Update deps (#25)"
+            },
+            {
+              "SHA": "f50a3af",
+              "Subject": "Fix directory cleanup (#24)"
+            },
+            {
+              "SHA": "d41eba7",
+              "Subject": "Refactor"
+            },
+            {
+              "SHA": "0e154e7",
+              "Subject": "Fix release workflow"
+            },
+            {
+              "SHA": "35c6b95",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#22)"
+            },
+            {
+              "SHA": "da97d9a",
+              "Subject": "Use gh runner token to publish image"
+            },
+            {
+              "SHA": "592c51f",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "008042d",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "985bcab",
+              "Subject": "Set snapshot time after snapshot completed (#21)"
+            },
+            {
+              "SHA": "6a8c682",
+              "Subject": "Refactor code (#20)"
+            },
+            {
+              "SHA": "bcb944d",
+              "Subject": "Remove manifest option flags (#19)"
+            },
+            {
+              "SHA": "5a47722",
+              "Subject": "Fix secret restore issue (#18)"
+            },
+            {
+              "SHA": "3ced8b7",
+              "Subject": "Update `kmodules.xyz/client-go` version to `v0.25.27` (#17)"
+            },
+            {
+              "SHA": "2ee1314",
+              "Subject": "Update Readme (#16)"
+            },
+            {
+              "SHA": "42d0e52",
+              "Subject": "Set initial component status prior to backup and restore (#15)"
+            },
+            {
+              "SHA": "31a64d6",
+              "Subject": "Remove redundant flags (#14)"
+            },
+            {
+              "SHA": "a804ba8",
+              "Subject": "Pass Snapshot name for restore"
+            },
+            {
+              "SHA": "99ca49f",
+              "Subject": "Set snapshot time, integrity and size (#12)"
+            },
+            {
+              "SHA": "384bbb6",
+              "Subject": "Set backup error in component status + Refactor codebase (#11)"
+            },
+            {
+              "SHA": "513eef5",
+              "Subject": "Update for snapshot and restoresession API changes (#10)"
+            },
+            {
+              "SHA": "4fb8f52",
+              "Subject": "Add options for issuerref (#9)"
+            },
+            {
+              "SHA": "2931d9e",
+              "Subject": "Update restic modules (#7)"
+            },
+            {
+              "SHA": "3422ddf",
+              "Subject": "Fix bugs + Sync with updated snapshot api (#6)"
+            },
+            {
+              "SHA": "b1a69b5",
+              "Subject": "Prepare for release v0.1.0 (#5)"
+            },
+            {
+              "SHA": "5344e9f",
+              "Subject": "Update modules (#4)"
+            },
+            {
+              "SHA": "14b2797",
+              "Subject": "Add CI badge"
+            },
+            {
+              "SHA": "969eeda",
+              "Subject": "Organize code structure (#3)"
+            },
+            {
+              "SHA": "9fc3cbe",
+              "Subject": "Postgres manifest (#2)"
+            },
+            {
+              "SHA": "8e2a56f",
+              "Subject": "Merge pull request #1 from kubestash/mongodb-manifest"
+            },
+            {
+              "SHA": "e80c1d0",
+              "Subject": "update flag names."
+            },
+            {
+              "SHA": "80d3908",
+              "Subject": "Add options for changing name in the restored files."
+            },
+            {
+              "SHA": "e7da42d",
+              "Subject": "Fix error."
+            },
+            {
+              "SHA": "70a0267",
+              "Subject": "Sync with updated snapshot api"
+            },
+            {
+              "SHA": "9d747d8",
+              "Subject": "Merge branch 'mongodb-manifest' of github.com:stashed/kubedb-manifest into mongodb-manifest"
+            },
+            {
+              "SHA": "90e00e3",
+              "Subject": "Fix bugs."
+            },
+            {
+              "SHA": "9c3fc1e",
+              "Subject": "Sync with updated snapshot api"
+            },
+            {
+              "SHA": "c321013",
+              "Subject": "update component path."
+            },
+            {
+              "SHA": "7f4bd17",
+              "Subject": "Refactor."
+            },
+            {
+              "SHA": "2b61ff0",
+              "Subject": "Specify component directory"
+            },
+            {
+              "SHA": "6264cdf",
+              "Subject": "Support restoring particular mongo component."
+            },
+            {
+              "SHA": "0008570",
+              "Subject": "Fix restore component phase updating."
+            },
+            {
+              "SHA": "8bd4c95",
+              "Subject": "Fix restore manifests."
+            },
+            {
+              "SHA": "7eda9f9",
+              "Subject": "Update Snapshot phase calculation."
+            },
+            {
+              "SHA": "a2b52d2",
+              "Subject": "Add core to runtime scheme."
+            },
+            {
+              "SHA": "9bd6bd5",
+              "Subject": "Fix bugs."
+            },
+            {
+              "SHA": "9e08774",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "01225c6",
+              "Subject": "Update module path"
+            },
+            {
+              "SHA": "45d0e45",
+              "Subject": "updated flags."
+            },
+            {
+              "SHA": "fb0282f",
+              "Subject": "update docker file."
+            },
+            {
+              "SHA": "ad4c004",
+              "Subject": "refactor."
+            },
+            {
+              "SHA": "8f71d3a",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "115ef23",
+              "Subject": "update makefile."
+            },
+            {
+              "SHA": "a274690",
+              "Subject": "update backup and restore."
+            },
+            {
+              "SHA": "cff449f",
+              "Subject": "Use yaml pkg from k8s.io."
+            },
+            {
+              "SHA": "dcbb399",
+              "Subject": "Use restic package from KubeStash."
+            },
+            {
+              "SHA": "596a498",
+              "Subject": "fix restore implementation."
+            },
+            {
+              "SHA": "6ebc19b",
+              "Subject": "Implement restore."
+            },
+            {
+              "SHA": "3e8a869",
+              "Subject": "Start implementing restore."
+            },
+            {
+              "SHA": "e841113",
+              "Subject": "Add backup methods for mongodb."
+            },
+            {
+              "SHA": "b5961f7",
+              "Subject": "Continue implementing backup."
+            },
+            {
+              "SHA": "d943f6a",
+              "Subject": "Implement manifest backup for MongoDB."
+            },
+            {
+              "SHA": "e644c67",
+              "Subject": "Implement kubedb-manifest plugin to MongoDB manifests."
             }
           ]
         }

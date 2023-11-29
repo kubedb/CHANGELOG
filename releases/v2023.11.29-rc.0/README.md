@@ -64,6 +64,28 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.1.0-rc.0)
+
+- [745f5cb](https://github.com/kubedb/mongodb-restic-plugin/commit/745f5cb) Prepare for release v0.1.0-rc.0 (#13)
+- [2c381ee](https://github.com/kubedb/mongodb-restic-plugin/commit/2c381ee) Rename `max-Concurrency` flag name to `max-concurrency` (#12)
+- [769bb27](https://github.com/kubedb/mongodb-restic-plugin/commit/769bb27) Set DB version from env if empty (#11)
+- [7f51333](https://github.com/kubedb/mongodb-restic-plugin/commit/7f51333) Update snapshot time (#10)
+- [e5972d1](https://github.com/kubedb/mongodb-restic-plugin/commit/e5972d1) Move to kubedb org
+- [004ef7e](https://github.com/kubedb/mongodb-restic-plugin/commit/004ef7e) Update deps (#9)
+- [e54bc9b](https://github.com/kubedb/mongodb-restic-plugin/commit/e54bc9b) Remove version prefix from files (#8)
+- [2ab94f7](https://github.com/kubedb/mongodb-restic-plugin/commit/2ab94f7) Add db version flag (#6)
+- [d3e752d](https://github.com/kubedb/mongodb-restic-plugin/commit/d3e752d) Prepare for release v0.1.0-rc.0 (#7)
+- [e0872f9](https://github.com/kubedb/mongodb-restic-plugin/commit/e0872f9) Use firecracker runners
+- [a2e18e9](https://github.com/kubedb/mongodb-restic-plugin/commit/a2e18e9) Use github runner to push docker image
+- [b32ebb2](https://github.com/kubedb/mongodb-restic-plugin/commit/b32ebb2) Build docker images for each db version (#5)
+- [bc3219d](https://github.com/kubedb/mongodb-restic-plugin/commit/bc3219d) Update deps
+- [8040cc0](https://github.com/kubedb/mongodb-restic-plugin/commit/8040cc0) MongoDB backup and restore addon (#2)
+- [d9cd315](https://github.com/kubedb/mongodb-restic-plugin/commit/d9cd315) Update Readme and license (#1)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.31.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.31.0-rc.0)

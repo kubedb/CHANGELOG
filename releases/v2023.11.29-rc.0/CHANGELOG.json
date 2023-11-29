@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.29-rc.0",
-  "release_date": "2023-11-29T20:38:24.592717478Z",
+  "release_date": "2023-11-29T22:25:15.7970283Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
   "kubernetes_version": "1.20+",
@@ -146,6 +146,76 @@
         {
           "tag": "v0.1.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "745f5cb",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "2c381ee",
+              "Subject": "Rename `max-Concurrency` flag name to `max-concurrency` (#12)"
+            },
+            {
+              "SHA": "769bb27",
+              "Subject": "Set DB version from env if empty (#11)"
+            },
+            {
+              "SHA": "7f51333",
+              "Subject": "Update snapshot time (#10)"
+            },
+            {
+              "SHA": "e5972d1",
+              "Subject": "Move to kubedb org"
+            },
+            {
+              "SHA": "004ef7e",
+              "Subject": "Update deps (#9)"
+            },
+            {
+              "SHA": "e54bc9b",
+              "Subject": "Remove version prefix from files (#8)"
+            },
+            {
+              "SHA": "2ab94f7",
+              "Subject": "Add db version flag (#6)"
+            },
+            {
+              "SHA": "d3e752d",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
+            },
+            {
+              "SHA": "e0872f9",
+              "Subject": "Use firecracker runners"
+            },
+            {
+              "SHA": "a2e18e9",
+              "Subject": "Use github runner to push docker image"
+            },
+            {
+              "SHA": "b32ebb2",
+              "Subject": "Build docker images for each db version (#5)"
+            },
+            {
+              "SHA": "bc3219d",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "8040cc0",
+              "Subject": "MongoDB backup and restore addon (#2)"
+            },
+            {
+              "SHA": "d9cd315",
+              "Subject": "Update Readme and license (#1)"
+            }
+          ]
         }
       ]
     },

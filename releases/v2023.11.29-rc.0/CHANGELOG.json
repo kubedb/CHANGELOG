@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.29-rc.0",
-  "release_date": "2023-11-29T23:28:20.253315894Z",
+  "release_date": "2023-11-29T23:36:04.975951695Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
   "kubernetes_version": "1.20+",
@@ -833,6 +833,20 @@
             {
               "SHA": "24445f9b",
               "Subject": "Added & modified logs (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "21ba9f0f",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#296)"
             }
           ]
         }

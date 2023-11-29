@@ -58,6 +58,20 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.38.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.38.0-rc.0)
+
+- [8738ad73](https://github.com/kubedb/postgres/commit/8738ad73e) Prepare for release v0.38.0-rc.0 (#684)
+- [adb69b02](https://github.com/kubedb/postgres/commit/adb69b02e) Implement PostgreSQL archiver (#628)
+- [668e15dd](https://github.com/kubedb/postgres/commit/668e15dd4) Remove test directory (#683)
+- [d857c354](https://github.com/kubedb/postgres/commit/d857c354a) added postgres arbiter support (#677)
+- [8fc98e8e](https://github.com/kubedb/postgres/commit/8fc98e8ed) Fixed a bug for init container (#681)
+- [a2b408ff](https://github.com/kubedb/postgres/commit/a2b408ffb) Bugfix for security context (#680)
+- [fb14015e](https://github.com/kubedb/postgres/commit/fb14015e9) added nightly yml for postgres (#679)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.1.0-rc.0)

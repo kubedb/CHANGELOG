@@ -1,4 +1,4 @@
-# KubeDB v2023.11.29-rc.0 (2023-11-29)
+# KubeDB v2023.11.29-rc.0 (2023-11-30)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -426,6 +426,14 @@
 ### [v0.25.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.25.0-rc.0)
 
 - [77886a28](https://github.com/kubedb/replication-mode-detector/commit/77886a28) Prepare for release v0.25.0-rc.0 (#244)
+
+
+
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/schema-manager/releases/tag/v0.14.0-rc.0)
+
+- [893fe8d9](https://github.com/kubedb/schema-manager/commit/893fe8d9) Prepare for release v0.14.0-rc.0 (#85)
 
 
 

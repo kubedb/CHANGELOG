@@ -47,6 +47,17 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2023.11.29-rc.0](https://github.com/kubedb/docs/releases/tag/v2023.11.29-rc.0)
+
+- [57ff0b52](https://github.com/kubedb/docs/commit/57ff0b52) Prepare for release v2023.11.29-rc.0 (#580)
+- [5c29bfa0](https://github.com/kubedb/docs/commit/5c29bfa0) Update docs for kubedb/webhook-server@c36d61e5 (#579)
+- [08c6f0bd](https://github.com/kubedb/docs/commit/08c6f0bd) Update docs for kubedb/provisioner@7e6099e0 (#578)
+- [e5ec0b7d](https://github.com/kubedb/docs/commit/e5ec0b7d) Update docs for kubedb/cli@3a4dcc47 (#577)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.38.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.38.0-rc.0)

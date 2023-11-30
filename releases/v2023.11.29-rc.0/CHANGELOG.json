@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.11.29-rc.0",
-  "release_date": "2023-11-30T07:32:25.919993986Z",
+  "release_date": "2023-11-30T08:11:15.88136692Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.11.29-rc.0",
   "kubernetes_version": "1.20+",
@@ -113,6 +113,32 @@
             {
               "SHA": "9a9e6cd9",
               "Subject": "Add container security context for elasticsearch dashboard. (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.11.29-rc.0",
+          "commits": [
+            {
+              "SHA": "57ff0b52",
+              "Subject": "Prepare for release v2023.11.29-rc.0 (#580)"
+            },
+            {
+              "SHA": "5c29bfa0",
+              "Subject": "Update docs for kubedb/webhook-server@c36d61e5 (#579)"
+            },
+            {
+              "SHA": "08c6f0bd",
+              "Subject": "Update docs for kubedb/provisioner@7e6099e0 (#578)"
+            },
+            {
+              "SHA": "e5ec0b7d",
+              "Subject": "Update docs for kubedb/cli@3a4dcc47 (#577)"
             }
           ]
         }

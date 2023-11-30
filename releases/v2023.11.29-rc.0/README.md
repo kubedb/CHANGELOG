@@ -485,3 +485,11 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/webhook-server/releases/tag/v0.14.0-rc.0)
+
+- [c36d61e5](https://github.com/kubedb/webhook-server/commit/c36d61e5) Prepare for release v0.14.0-rc.0 (#70)
+
+
+

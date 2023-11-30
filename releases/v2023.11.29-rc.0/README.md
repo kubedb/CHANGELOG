@@ -78,6 +78,13 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2023.11.29-rc.0](https://github.com/kubedb/installer/releases/tag/v2023.11.29-rc.0)
+
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.9.0-rc.0)

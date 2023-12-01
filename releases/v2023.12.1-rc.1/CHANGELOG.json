@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.1-rc.1",
-  "release_date": "2023-12-01T12:01:40.21089358Z",
+  "release_date": "2023-12-01T12:02:48.455056375Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.1-rc.1",
   "kubernetes_version": "1.20+",
@@ -493,6 +493,20 @@
             {
               "SHA": "0bfcc3b6",
               "Subject": "Fix kafka restart-pods test (#271)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.1",
+          "commits": [
+            {
+              "SHA": "82f78763",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#95)"
             }
           ]
         }

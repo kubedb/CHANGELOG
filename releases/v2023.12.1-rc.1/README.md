@@ -273,3 +273,11 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/ui-server/releases/tag/v0.14.0-rc.1)
+
+- [82f78763](https://github.com/kubedb/ui-server/commit/82f78763) Prepare for release v0.14.0-rc.1 (#95)
+
+
+

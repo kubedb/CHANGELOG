@@ -118,6 +118,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.25.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.25.0-rc.1)
+
+- [bad0b334](https://github.com/kubedb/percona-xtradb/commit/bad0b334) Prepare for release v0.25.0-rc.1 (#333)
+- [b8447936](https://github.com/kubedb/percona-xtradb/commit/b8447936) Pass version in SetDefaults func (#332)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.38.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.38.0-rc.1)

@@ -19,6 +19,14 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/dashboard/releases/tag/v0.14.0-rc.1)
+
+- [7031fb23](https://github.com/kubedb/dashboard/commit/7031fb23) Prepare for release v0.14.0-rc.1 (#86)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.38.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.38.0-rc.1)

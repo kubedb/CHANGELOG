@@ -34,6 +34,14 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.38.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.38.0-rc.1)
+
+- [0e493a1c](https://github.com/kubedb/postgres/commit/0e493a1cd) Prepare for release v0.38.0-rc.1 (#685)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.1.0-rc.1)

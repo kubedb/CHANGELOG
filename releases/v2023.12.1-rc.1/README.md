@@ -44,6 +44,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.22.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.22.0-rc.1)
+
+- [9c157c66](https://github.com/kubedb/mariadb/commit/9c157c66) Prepare for release v0.22.0-rc.1 (#235)
+- [1d0c2579](https://github.com/kubedb/mariadb/commit/1d0c2579) Pass version in SetDefaults func (#234)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.18.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.18.0-rc.1)

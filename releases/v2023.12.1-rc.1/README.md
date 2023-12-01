@@ -41,3 +41,12 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.1.0-rc.1)
+
+- [584bbad](https://github.com/kubedb/postgres-restic-plugin/commit/584bbad) Prepare for release v0.1.0-rc.1 (#6)
+- [da1ecd7](https://github.com/kubedb/postgres-restic-plugin/commit/da1ecd7) Refactor (#5)
+
+
+

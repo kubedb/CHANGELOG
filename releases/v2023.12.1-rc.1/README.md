@@ -51,6 +51,18 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2023.12.1-rc.1](https://github.com/kubedb/installer/releases/tag/v2023.12.1-rc.1)
+
+- [876956a1](https://github.com/kubedb/installer/commit/876956a1) Prepare for release v2023.12.1-rc.1 (#727)
+- [d021b61b](https://github.com/kubedb/installer/commit/d021b61b) Add `runAsUser` field in all catalogs (#725)
+- [38e2ba3e](https://github.com/kubedb/installer/commit/38e2ba3e) Add `--default-seccomp-profile-type` flag (#724)
+- [ee86f5bc](https://github.com/kubedb/installer/commit/ee86f5bc) Add `databases` flag for mysql addon (#723)
+- [e67541cf](https://github.com/kubedb/installer/commit/e67541cf) Add postgres restic addon (#726)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.9.0-rc.1)

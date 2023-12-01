@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.1-rc.1",
-  "release_date": "2023-12-01T13:30:16.956453581Z",
+  "release_date": "2023-12-01T20:55:36.960856601Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.1-rc.1",
   "kubernetes_version": "1.20+",
@@ -93,6 +93,36 @@
             {
               "SHA": "f6a9e4c",
               "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.12.1-rc.1",
+          "commits": [
+            {
+              "SHA": "876956a1",
+              "Subject": "Prepare for release v2023.12.1-rc.1 (#727)"
+            },
+            {
+              "SHA": "d021b61b",
+              "Subject": "Add `runAsUser` field in all catalogs (#725)"
+            },
+            {
+              "SHA": "38e2ba3e",
+              "Subject": "Add `--default-seccomp-profile-type` flag (#724)"
+            },
+            {
+              "SHA": "ee86f5bc",
+              "Subject": "Add `databases` flag for mysql addon (#723)"
+            },
+            {
+              "SHA": "e67541cf",
+              "Subject": "Add postgres restic addon (#726)"
             }
           ]
         }

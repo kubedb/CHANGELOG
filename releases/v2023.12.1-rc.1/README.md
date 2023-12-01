@@ -264,6 +264,14 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/schema-manager/releases/tag/v0.14.0-rc.1)
+
+- [f7e384b2](https://github.com/kubedb/schema-manager/commit/f7e384b2) Prepare for release v0.14.0-rc.1 (#86)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.23.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.23.0-rc.1)

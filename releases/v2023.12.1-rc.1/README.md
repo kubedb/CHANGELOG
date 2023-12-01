@@ -223,6 +223,15 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.38.0-rc.1](https://github.com/kubedb/provisioner/releases/tag/v0.38.0-rc.1)
+
+- [086300d9](https://github.com/kubedb/provisioner/commit/086300d90) Prepare for release v0.38.0-rc.1 (#61)
+- [0dfe3742](https://github.com/kubedb/provisioner/commit/0dfe37425) Ensure archiver CRDs (#60)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.25.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.25.0-rc.1)

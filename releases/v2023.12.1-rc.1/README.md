@@ -27,6 +27,14 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.1.0-rc.1)
+
+- [4bd44b8](https://github.com/kubedb/kubedb-manifest-plugin/commit/4bd44b8) Prepare for release v0.1.0-rc.1 (#29)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.31.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.31.0-rc.1)

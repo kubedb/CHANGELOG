@@ -27,6 +27,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.31.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.31.0-rc.1)
+
+- [fab2a879](https://github.com/kubedb/memcached/commit/fab2a879) Prepare for release v0.31.0-rc.1 (#406)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.1.0-rc.1)

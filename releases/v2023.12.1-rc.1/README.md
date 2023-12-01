@@ -11,6 +11,14 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.1.0-rc.1)
+
+- [1daa490](https://github.com/kubedb/mongodb-restic-plugin/commit/1daa490) Prepare for release v0.1.0-rc.1 (#14)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.16.0-rc.1)

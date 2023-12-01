@@ -18,3 +18,10 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.1.0-rc.1)
+
+
+
+

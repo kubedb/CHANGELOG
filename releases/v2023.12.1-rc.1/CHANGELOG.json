@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.1-rc.1",
-  "release_date": "2023-12-01T11:09:56.506021704Z",
+  "release_date": "2023-12-01T11:10:50.458868471Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.1-rc.1",
   "kubernetes_version": "1.20+",
@@ -51,6 +51,24 @@
             {
               "SHA": "f6a9e4c",
               "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0516c18",
+              "Subject": "Prepare for release v0.9.0-rc.1 (#50)"
+            },
+            {
+              "SHA": "6554778",
+              "Subject": "Set default KubeBuilder client (#49)"
             }
           ]
         }

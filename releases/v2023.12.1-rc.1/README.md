@@ -27,6 +27,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.9.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.9.0-rc.1)
+
+- [0516c18](https://github.com/kubedb/kafka/commit/0516c18) Prepare for release v0.9.0-rc.1 (#50)
+- [6554778](https://github.com/kubedb/kafka/commit/6554778) Set default KubeBuilder client (#49)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.1.0-rc.1)

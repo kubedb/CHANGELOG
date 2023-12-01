@@ -68,6 +68,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.31.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.31.0-rc.1)
+
+- [79cb58c1](https://github.com/kubedb/mysql/commit/79cb58c1) Prepare for release v0.31.0-rc.1 (#574)
+- [e5b37c00](https://github.com/kubedb/mysql/commit/e5b37c00) Pass version in SetDefaults func (#573)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.16.0-rc.1)

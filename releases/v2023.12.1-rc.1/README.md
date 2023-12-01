@@ -60,6 +60,14 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.31.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.31.0-rc.1)
+
+- [de48eeb7](https://github.com/kubedb/mongodb/commit/de48eeb7) Prepare for release v0.31.0-rc.1 (#582)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.1.0-rc.1)

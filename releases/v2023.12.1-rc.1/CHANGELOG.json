@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.1-rc.1",
-  "release_date": "2023-12-01T11:24:02.404879655Z",
+  "release_date": "2023-12-01T11:36:00.926032206Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.1-rc.1",
   "kubernetes_version": "1.20+",
@@ -203,6 +203,20 @@
             {
               "SHA": "e5b37c00",
               "Subject": "Pass version in SetDefaults func (#573)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "8c65d14",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#3)"
             }
           ]
         }

@@ -110,6 +110,14 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/mysql-archiver/releases/tag/v0.1.0-rc.1)
+
+- [8c65d14](https://github.com/kubedb/mysql-archiver/commit/8c65d14) Prepare for release v0.1.0-rc.1 (#3)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.16.0-rc.1)

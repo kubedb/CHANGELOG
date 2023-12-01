@@ -11,6 +11,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.38.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.38.0-rc.1)
+
+- [a99b2857](https://github.com/kubedb/cli/commit/a99b2857) Prepare for release v0.38.0-rc.1 (#738)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.1.0-rc.1)

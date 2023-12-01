@@ -35,6 +35,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.1.0-rc.1)
+
+- [f77476b](https://github.com/kubedb/mysql-restic-plugin/commit/f77476b) Prepare for release v0.1.0-rc.1 (#13)
+- [81ceb55](https://github.com/kubedb/mysql-restic-plugin/commit/81ceb55) Add `databases` flag (#12)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.16.0-rc.1)

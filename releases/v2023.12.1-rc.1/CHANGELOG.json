@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.1-rc.1",
-  "release_date": "2023-12-01T10:36:09.342874066Z",
+  "release_date": "2023-12-01T10:36:37.79007676Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.1-rc.1",
   "kubernetes_version": "1.20+",
@@ -65,6 +65,24 @@
             {
               "SHA": "1daa490",
               "Subject": "Prepare for release v0.1.0-rc.1 (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f77476b",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#13)"
+            },
+            {
+              "SHA": "81ceb55",
+              "Subject": "Add `databases` flag (#12)"
             }
           ]
         }

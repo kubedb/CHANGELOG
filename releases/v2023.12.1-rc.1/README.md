@@ -143,6 +143,14 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.22.0-rc.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.22.0-rc.1)
+
+- [9f9614e6](https://github.com/kubedb/pg-coordinator/commit/9f9614e6) Prepare for release v0.22.0-rc.1 (#140)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.38.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.38.0-rc.1)

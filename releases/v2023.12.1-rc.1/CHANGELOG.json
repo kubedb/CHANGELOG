@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.1-rc.1",
-  "release_date": "2023-12-01T11:08:10.163179731Z",
+  "release_date": "2023-12-01T11:09:20.434832101Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.1-rc.1",
   "kubernetes_version": "1.20+",
@@ -189,6 +189,24 @@
             {
               "SHA": "da1ecd7",
               "Subject": "Refactor (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a3d4b7b8",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#497)"
+            },
+            {
+              "SHA": "bb101b6a",
+              "Subject": "Pass version in SetDefaults func (#496)"
             }
           ]
         }

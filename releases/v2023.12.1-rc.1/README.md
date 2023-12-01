@@ -107,6 +107,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.31.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.31.0-rc.1)
+
+- [a3d4b7b8](https://github.com/kubedb/redis/commit/a3d4b7b8) Prepare for release v0.31.0-rc.1 (#497)
+- [bb101b6a](https://github.com/kubedb/redis/commit/bb101b6a) Pass version in SetDefaults func (#496)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.1.0-rc.1)

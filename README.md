@@ -2,6 +2,7 @@
 
 | KubeDB Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2023.12.1-rc.1](https:/github.com/kubedb/CHANGELOG/releases/tag/v2023.12.1-rc.1) | 2023-12-01 | [User Guide](https://kubedb.com/docs/v2023.12.1-rc.1) | [CHANGELOG](/releases/v2023.12.1-rc.1/README.md) | 1.20+ |
 | [v2023.11.29-rc.0](https:/github.com/kubedb/CHANGELOG/releases/tag/v2023.11.29-rc.0) | 2023-11-30 | [User Guide](https://kubedb.com/docs/v2023.11.29-rc.0) | [CHANGELOG](/releases/v2023.11.29-rc.0/README.md) | 1.20+ |
 | [v2023.11.2](https:/github.com/kubedb/CHANGELOG/releases/tag/v2023.11.2) | 2023-11-02 | [User Guide](https://kubedb.com/docs/v2023.11.2) | [CHANGELOG](/releases/v2023.11.2/README.md) | 1.20+ |
 | [v2023.10.9](https:/github.com/kubedb/CHANGELOG/releases/tag/v2023.10.9) | 2023-10-10 | [User Guide](https://kubedb.com/docs/v2023.10.9) | [CHANGELOG](/releases/v2023.10.9/README.md) | 1.20+ |

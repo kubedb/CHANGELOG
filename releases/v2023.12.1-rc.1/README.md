@@ -11,3 +11,10 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.16.0-rc.1)
+
+
+
+

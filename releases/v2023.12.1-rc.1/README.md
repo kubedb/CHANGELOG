@@ -149,3 +149,12 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.23.0-rc.1)
+
+- [8f82cf9a](https://github.com/kubedb/tests/commit/8f82cf9a) Prepare for release v0.23.0-rc.1 (#272)
+- [0bfcc3b6](https://github.com/kubedb/tests/commit/0bfcc3b6) Fix kafka restart-pods test (#271)
+
+
+

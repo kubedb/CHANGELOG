@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:26:28.982433573Z",
+  "release_date": "2023-12-08T15:27:29.086800091Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -657,6 +657,56 @@
             {
               "SHA": "e44be0a6",
               "Subject": "Prepare for release v0.31.0-rc.0 (#405)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "32ab5a6a",
+              "Subject": "Prepare for release v0.31.0 (#584)"
+            },
+            {
+              "SHA": "1a79be25",
+              "Subject": "Use args instead of cmd to work with latest walg image (#583)"
+            },
+            {
+              "SHA": "de48eeb7",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#582)"
+            },
+            {
+              "SHA": "c368ec94",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#581)"
+            },
+            {
+              "SHA": "020d5599",
+              "Subject": "Set manifest component in restoreSession (#579)"
+            },
+            {
+              "SHA": "95103a47",
+              "Subject": "Implement mongodb archiver (#534)"
+            },
+            {
+              "SHA": "fb01b593",
+              "Subject": "Update apimachinery deps for fsgroup defaulting (#578)"
+            },
+            {
+              "SHA": "22a5bb29",
+              "Subject": "Make changes to run containers as non-root user (#576)"
+            },
+            {
+              "SHA": "8667f411",
+              "Subject": "Rearrange the daily CI (#577)"
+            },
+            {
+              "SHA": "7024a3ca",
+              "Subject": "Add support for initialization with git-sync (#575)"
             }
           ]
         }

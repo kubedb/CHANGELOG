@@ -137,6 +137,17 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.1.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.1.0)
+
+- [721eaa8](https://github.com/kubedb/mysql-archiver/commit/721eaa8) Prepare for release v0.1.0 (#4)
+- [8c65d14](https://github.com/kubedb/mysql-archiver/commit/8c65d14) Prepare for release v0.1.0-rc.1 (#3)
+- [f79286a](https://github.com/kubedb/mysql-archiver/commit/f79286a) Prepare for release v0.1.0-rc.0 (#2)
+- [dcd2e30](https://github.com/kubedb/mysql-archiver/commit/dcd2e30) Fix wal-g binary
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.1.0)

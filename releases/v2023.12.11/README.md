@@ -278,6 +278,20 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.31.0](https://github.com/kubedb/redis/releases/tag/v0.31.0)
+
+- [de7b9f50](https://github.com/kubedb/redis/commit/de7b9f50) Prepare for release v0.31.0 (#500)
+- [ffe5982e](https://github.com/kubedb/redis/commit/ffe5982e) Fix DB update from version for RedisSentinel (#499)
+- [9f4f26ac](https://github.com/kubedb/redis/commit/9f4f26ac) Fix Statefulset Security Context Assign (#498)
+- [a3d4b7b8](https://github.com/kubedb/redis/commit/a3d4b7b8) Prepare for release v0.31.0-rc.1 (#497)
+- [bb101b6a](https://github.com/kubedb/redis/commit/bb101b6a) Pass version in SetDefaults func (#496)
+- [966f14ca](https://github.com/kubedb/redis/commit/966f14ca) Prepare for release v0.31.0-rc.0 (#495)
+- [b72d8319](https://github.com/kubedb/redis/commit/b72d8319) Run Redis and RedisSentinel as non root (#494)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.17.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.17.0)

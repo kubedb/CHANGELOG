@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:18:55.955639069Z",
+  "release_date": "2023-12-08T15:21:01.552151202Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -837,6 +837,44 @@
             {
               "SHA": "4899879",
               "Subject": "Update readme + cleanup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "de7b9f50",
+              "Subject": "Prepare for release v0.31.0 (#500)"
+            },
+            {
+              "SHA": "ffe5982e",
+              "Subject": "Fix DB update from version for RedisSentinel (#499)"
+            },
+            {
+              "SHA": "9f4f26ac",
+              "Subject": "Fix Statefulset Security Context Assign (#498)"
+            },
+            {
+              "SHA": "a3d4b7b8",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#497)"
+            },
+            {
+              "SHA": "bb101b6a",
+              "Subject": "Pass version in SetDefaults func (#496)"
+            },
+            {
+              "SHA": "966f14ca",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#495)"
+            },
+            {
+              "SHA": "b72d8319",
+              "Subject": "Run Redis and RedisSentinel as non root (#494)"
             }
           ]
         }

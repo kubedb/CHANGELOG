@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T14:49:12.987647409Z",
+  "release_date": "2023-12-08T14:51:04.706839078Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -381,6 +381,80 @@
             {
               "SHA": "e644c67",
               "Subject": "Implement kubedb-manifest plugin to MongoDB manifests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "9ed9b45",
+              "Subject": "Prepare for release v0.1.0 (#14)"
+            },
+            {
+              "SHA": "f77476b",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#13)"
+            },
+            {
+              "SHA": "81ceb55",
+              "Subject": "Add `databases` flag (#12)"
+            },
+            {
+              "SHA": "b255e47",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#11)"
+            },
+            {
+              "SHA": "9a17360",
+              "Subject": "Set DB version from env if empty (#10)"
+            },
+            {
+              "SHA": "c67ba7c",
+              "Subject": "Update snapshot time (#9)"
+            },
+            {
+              "SHA": "abef89e",
+              "Subject": "Fix binary name"
+            },
+            {
+              "SHA": "db1bbbf",
+              "Subject": "Move to kubedb org"
+            },
+            {
+              "SHA": "746d13e",
+              "Subject": "Update deps (#8)"
+            },
+            {
+              "SHA": "569533a",
+              "Subject": "Add version flag + Refactor (#6)"
+            },
+            {
+              "SHA": "f0abd94",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
+            },
+            {
+              "SHA": "01bff62",
+              "Subject": "Remove arm64 image support"
+            },
+            {
+              "SHA": "277fda8",
+              "Subject": "Build docker images for each db version (#5)"
+            },
+            {
+              "SHA": "94f000d",
+              "Subject": "Use Go 1.21"
+            },
+            {
+              "SHA": "2e4f30d",
+              "Subject": "Update Readme (#4)"
+            },
+            {
+              "SHA": "272c8f9",
+              "Subject": "Add support for mysql backup and restore (#1)"
             }
           ]
         }

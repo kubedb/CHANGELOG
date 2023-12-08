@@ -167,6 +167,19 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.22.0](https://github.com/kubedb/mariadb/releases/tag/v0.22.0)
+
+- [b6995945](https://github.com/kubedb/mariadb/commit/b6995945) Prepare for release v0.22.0 (#237)
+- [25018ad7](https://github.com/kubedb/mariadb/commit/25018ad7) Fix Statefulset Security Context Assign (#236)
+- [9c157c66](https://github.com/kubedb/mariadb/commit/9c157c66) Prepare for release v0.22.0-rc.1 (#235)
+- [1d0c2579](https://github.com/kubedb/mariadb/commit/1d0c2579) Pass version in SetDefaults func (#234)
+- [e360fd82](https://github.com/kubedb/mariadb/commit/e360fd82) Prepare for release v0.22.0-rc.0 (#233)
+- [3956f18c](https://github.com/kubedb/mariadb/commit/3956f18c) Set Default Security Context for MariaDB (#232)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.1.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.1.0)

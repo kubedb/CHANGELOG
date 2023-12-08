@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:25:44.380537226Z",
+  "release_date": "2023-12-08T15:26:28.982433573Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -557,6 +557,40 @@
             {
               "SHA": "e644c67",
               "Subject": "Implement kubedb-manifest plugin to MongoDB manifests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "b6995945",
+              "Subject": "Prepare for release v0.22.0 (#237)"
+            },
+            {
+              "SHA": "25018ad7",
+              "Subject": "Fix Statefulset Security Context Assign (#236)"
+            },
+            {
+              "SHA": "9c157c66",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#235)"
+            },
+            {
+              "SHA": "1d0c2579",
+              "Subject": "Pass version in SetDefaults func (#234)"
+            },
+            {
+              "SHA": "e360fd82",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#233)"
+            },
+            {
+              "SHA": "3956f18c",
+              "Subject": "Set Default Security Context for MariaDB (#232)"
             }
           ]
         }

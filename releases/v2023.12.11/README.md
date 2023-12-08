@@ -216,6 +216,20 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.1.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.1.0)
+
+- [31f5fc5](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/31f5fc5) Prepare for release v0.1.0 (#8)
+- [57a7bdf](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/57a7bdf) Prepare for release v0.1.0-rc.1 (#7)
+- [02a45da](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/02a45da) Prepare for release v0.1.0-rc.0 (#6)
+- [1a6457c](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/1a6457c) Update flags and deps + Refactor (#5)
+- [f32b56b](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/f32b56b) Delete .idea folder
+- [e7f8135](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/e7f8135) clean up (#4)
+- [06e7e70](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/06e7e70) clean up (#3)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.1.0)

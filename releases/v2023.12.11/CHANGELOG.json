@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:12:48.014147277Z",
+  "release_date": "2023-12-08T15:14:26.32726707Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -681,6 +681,44 @@
         {
           "tag": "v0.1.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "31f5fc5",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "57a7bdf",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#7)"
+            },
+            {
+              "SHA": "02a45da",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "1a6457c",
+              "Subject": "Update flags and deps + Refactor (#5)"
+            },
+            {
+              "SHA": "f32b56b",
+              "Subject": "Delete .idea folder"
+            },
+            {
+              "SHA": "e7f8135",
+              "Subject": "clean up (#4)"
+            },
+            {
+              "SHA": "06e7e70",
+              "Subject": "clean up (#3)"
+            }
+          ]
         }
       ]
     },

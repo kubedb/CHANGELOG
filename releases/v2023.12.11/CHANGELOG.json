@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T18:12:03.991274378Z",
+  "release_date": "2023-12-08T18:20:49.374090781Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -95,6 +95,28 @@
             {
               "SHA": "f5de4a28",
               "Subject": "Add support for init with git-sync; Add const (#1065)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "d7c1af24",
+              "Subject": "Prepare for release v0.23.0 (#160)"
+            },
+            {
+              "SHA": "193fb07b",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#159)"
+            },
+            {
+              "SHA": "a406fbda",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#158)"
             }
           ]
         }

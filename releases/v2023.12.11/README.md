@@ -29,6 +29,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.23.0](https://github.com/kubedb/autoscaler/releases/tag/v0.23.0)
+
+- [d7c1af24](https://github.com/kubedb/autoscaler/commit/d7c1af24) Prepare for release v0.23.0 (#160)
+- [193fb07b](https://github.com/kubedb/autoscaler/commit/193fb07b) Prepare for release v0.23.0-rc.1 (#159)
+- [a406fbda](https://github.com/kubedb/autoscaler/commit/a406fbda) Prepare for release v0.23.0-rc.0 (#158)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.38.0](https://github.com/kubedb/cli/releases/tag/v0.38.0)

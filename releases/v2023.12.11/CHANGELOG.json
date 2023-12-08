@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T14:56:40.182256865Z",
+  "release_date": "2023-12-08T14:58:58.718082505Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -558,6 +558,56 @@
         {
           "tag": "v0.16.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "8fe3fe0e1",
+              "Subject": "Prepare for release v0.38.0 (#687)"
+            },
+            {
+              "SHA": "7a853e001",
+              "Subject": "Add postgres arbiter custom size limit (#686)"
+            },
+            {
+              "SHA": "0e493a1cd",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#685)"
+            },
+            {
+              "SHA": "8738ad73e",
+              "Subject": "Prepare for release v0.38.0-rc.0 (#684)"
+            },
+            {
+              "SHA": "adb69b02e",
+              "Subject": "Implement PostgreSQL archiver (#628)"
+            },
+            {
+              "SHA": "668e15dd4",
+              "Subject": "Remove test directory (#683)"
+            },
+            {
+              "SHA": "d857c354a",
+              "Subject": "added postgres arbiter support (#677)"
+            },
+            {
+              "SHA": "8fc98e8ed",
+              "Subject": "Fixed a bug for init container (#681)"
+            },
+            {
+              "SHA": "a2b408ffb",
+              "Subject": "Bugfix for security context (#680)"
+            },
+            {
+              "SHA": "fb14015e9",
+              "Subject": "added nightly yml for postgres (#679)"
+            }
+          ]
         }
       ]
     },

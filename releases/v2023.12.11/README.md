@@ -585,3 +585,14 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.14.0](https://github.com/kubedb/webhook-server/releases/tag/v0.14.0)
+
+- [9ff121c7](https://github.com/kubedb/webhook-server/commit/9ff121c7) Prepare for release v0.14.0 (#73)
+- [01d13baa](https://github.com/kubedb/webhook-server/commit/01d13baa) Prepare for release v0.14.0-rc.1 (#72)
+- [e869d0ce](https://github.com/kubedb/webhook-server/commit/e869d0ce) Initialize default KubeBuilder client (#71)
+- [c36d61e5](https://github.com/kubedb/webhook-server/commit/c36d61e5) Prepare for release v0.14.0-rc.0 (#70)
+
+
+

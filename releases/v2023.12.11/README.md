@@ -137,6 +137,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.18.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.18.0)
+
+- [ec9782e7](https://github.com/kubedb/mariadb-coordinator/commit/ec9782e7) Prepare for release v0.18.0 (#94)
+- [118bcda4](https://github.com/kubedb/mariadb-coordinator/commit/118bcda4) Prepare for release v0.18.0-rc.1 (#93)
+- [bf515bfa](https://github.com/kubedb/mariadb-coordinator/commit/bf515bfa) Prepare for release v0.18.0-rc.0 (#92)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.31.0](https://github.com/kubedb/mysql/releases/tag/v0.31.0)

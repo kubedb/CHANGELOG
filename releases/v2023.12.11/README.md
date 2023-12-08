@@ -39,6 +39,20 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.38.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.38.0)
+
+- [da1e77ef](https://github.com/kubedb/elasticsearch/commit/da1e77ef4) Prepare for release v0.38.0 (#681)
+- [aec25e8a](https://github.com/kubedb/elasticsearch/commit/aec25e8a9) Add new version in elasticsearch yaml. (#679)
+- [bd0fd357](https://github.com/kubedb/elasticsearch/commit/bd0fd357e) Prepare for release v0.38.0-rc.1 (#680)
+- [6b2943f1](https://github.com/kubedb/elasticsearch/commit/6b2943f19) Prepare for release v0.38.0-rc.0 (#678)
+- [7f1a37e1](https://github.com/kubedb/elasticsearch/commit/7f1a37e1a) Add prepare cluster installer before test runner (#677)
+- [1d49f16d](https://github.com/kubedb/elasticsearch/commit/1d49f16d2) Remove `init-sysctl` container and add default containerSecurityContext (#676)
+- [4bb15e48](https://github.com/kubedb/elasticsearch/commit/4bb15e48b) Update daily-opensearch workflow to provision v1.3.13
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.1.0)

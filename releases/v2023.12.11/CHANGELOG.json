@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T17:38:38.174126831Z",
+  "release_date": "2023-12-08T18:12:03.991274378Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -991,6 +991,80 @@
         {
           "tag": "v0.16.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "63d69118",
+              "Subject": "Prepare for release v0.25.0 (#497)"
+            },
+            {
+              "SHA": "96f06e76",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "387bd0b0",
+              "Subject": "Modify update version logic for mongo to run chown (#496)"
+            },
+            {
+              "SHA": "3a1ee06c",
+              "Subject": "Add support for arbiter vertical scaling & volume expansion (#495)"
+            },
+            {
+              "SHA": "98dbd6c0",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#494)"
+            },
+            {
+              "SHA": "640fe280",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#492)"
+            },
+            {
+              "SHA": "9714e841",
+              "Subject": "Add kafka version 3.6.0 to daily test (#491)"
+            },
+            {
+              "SHA": "dd18b17c",
+              "Subject": "postgres arbiter related changes and bug fixes (#483)"
+            },
+            {
+              "SHA": "de52bda7",
+              "Subject": "Remove default configuration and restart kafka with new config (#490)"
+            },
+            {
+              "SHA": "f7850172",
+              "Subject": "Add prepare cluster installer before test runners (#489)"
+            },
+            {
+              "SHA": "79e646ef",
+              "Subject": "Update ServiceDNS for kafka (#488)"
+            },
+            {
+              "SHA": "18851802",
+              "Subject": "added daily postgres (#487)"
+            },
+            {
+              "SHA": "0c2bdda1",
+              "Subject": "added daily-postgres.yml (#486)"
+            },
+            {
+              "SHA": "5cb75965",
+              "Subject": "Fixed BUG in postgres reconfigureTLS opsreq (#485)"
+            },
+            {
+              "SHA": "145e08d5",
+              "Subject": "Failover before restarting primary on restart ops (#481)"
+            },
+            {
+              "SHA": "e53a72ce",
+              "Subject": "Add Kafka daily yml (#475)"
+            }
+          ]
         }
       ]
     },

@@ -334,6 +334,29 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.25.0](https://github.com/kubedb/ops-manager/releases/tag/v0.25.0)
+
+- [63d69118](https://github.com/kubedb/ops-manager/commit/63d69118) Prepare for release v0.25.0 (#497)
+- [96f06e76](https://github.com/kubedb/ops-manager/commit/96f06e76) Update deps
+- [387bd0b0](https://github.com/kubedb/ops-manager/commit/387bd0b0) Modify update version logic for mongo to run chown (#496)
+- [3a1ee06c](https://github.com/kubedb/ops-manager/commit/3a1ee06c) Add support for arbiter vertical scaling & volume expansion (#495)
+- [98dbd6c0](https://github.com/kubedb/ops-manager/commit/98dbd6c0) Prepare for release v0.25.0-rc.1 (#494)
+- [640fe280](https://github.com/kubedb/ops-manager/commit/640fe280) Prepare for release v0.25.0-rc.0 (#492)
+- [9714e841](https://github.com/kubedb/ops-manager/commit/9714e841) Add kafka version 3.6.0 to daily test (#491)
+- [dd18b17c](https://github.com/kubedb/ops-manager/commit/dd18b17c) postgres arbiter related changes and bug fixes (#483)
+- [de52bda7](https://github.com/kubedb/ops-manager/commit/de52bda7) Remove default configuration and restart kafka with new config (#490)
+- [f7850172](https://github.com/kubedb/ops-manager/commit/f7850172) Add prepare cluster installer before test runners (#489)
+- [79e646ef](https://github.com/kubedb/ops-manager/commit/79e646ef) Update ServiceDNS for kafka (#488)
+- [18851802](https://github.com/kubedb/ops-manager/commit/18851802) added daily postgres (#487)
+- [0c2bdda1](https://github.com/kubedb/ops-manager/commit/0c2bdda1) added daily-postgres.yml (#486)
+- [5cb75965](https://github.com/kubedb/ops-manager/commit/5cb75965) Fixed BUG in postgres reconfigureTLS opsreq (#485)
+- [145e08d5](https://github.com/kubedb/ops-manager/commit/145e08d5) Failover before restarting primary on restart ops (#481)
+- [e53a72ce](https://github.com/kubedb/ops-manager/commit/e53a72ce) Add Kafka daily yml (#475)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.25.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.25.0)

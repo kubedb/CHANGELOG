@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:09:07.359300402Z",
+  "release_date": "2023-12-08T15:12:48.014147277Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -473,6 +473,44 @@
             {
               "SHA": "e644c67",
               "Subject": "Implement kubedb-manifest plugin to MongoDB manifests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "9094f699",
+              "Subject": "Prepare for release v0.31.0 (#576)"
+            },
+            {
+              "SHA": "fd0ebe09",
+              "Subject": "Fix Statefulset Security Context Assign (#575)"
+            },
+            {
+              "SHA": "79cb58c1",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#574)"
+            },
+            {
+              "SHA": "e5b37c00",
+              "Subject": "Pass version in SetDefaults func (#573)"
+            },
+            {
+              "SHA": "3c005b51",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#572)"
+            },
+            {
+              "SHA": "bcdfaf4a",
+              "Subject": "Set Default Security Context for MySQL (#571)"
+            },
+            {
+              "SHA": "9009bcac",
+              "Subject": "Add git sync constants from apimachinery (#570)"
             }
           ]
         }

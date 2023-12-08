@@ -137,6 +137,20 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.31.0](https://github.com/kubedb/mysql/releases/tag/v0.31.0)
+
+- [9094f699](https://github.com/kubedb/mysql/commit/9094f699) Prepare for release v0.31.0 (#576)
+- [fd0ebe09](https://github.com/kubedb/mysql/commit/fd0ebe09) Fix Statefulset Security Context Assign (#575)
+- [79cb58c1](https://github.com/kubedb/mysql/commit/79cb58c1) Prepare for release v0.31.0-rc.1 (#574)
+- [e5b37c00](https://github.com/kubedb/mysql/commit/e5b37c00) Pass version in SetDefaults func (#573)
+- [3c005b51](https://github.com/kubedb/mysql/commit/3c005b51) Prepare for release v0.31.0-rc.0 (#572)
+- [bcdfaf4a](https://github.com/kubedb/mysql/commit/bcdfaf4a) Set Default Security Context for MySQL (#571)
+- [9009bcac](https://github.com/kubedb/mysql/commit/9009bcac) Add git sync constants from apimachinery (#570)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.1.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.1.0)

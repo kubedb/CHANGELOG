@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T16:05:45.771146756Z",
+  "release_date": "2023-12-08T16:43:41.428991787Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -1049,6 +1049,32 @@
             {
               "SHA": "24445f9b",
               "Subject": "Added & modified logs (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "6e148ed2",
+              "Subject": "Prepare for release v0.25.0 (#299)"
+            },
+            {
+              "SHA": "efa76519",
+              "Subject": "Fix Statefulset Security Context Assign (#298)"
+            },
+            {
+              "SHA": "e3e9f84d",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#297)"
+            },
+            {
+              "SHA": "21ba9f0f",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#296)"
             }
           ]
         }

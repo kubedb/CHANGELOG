@@ -358,6 +358,17 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.25.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.25.0)
+
+- [6e148ed2](https://github.com/kubedb/pgbouncer/commit/6e148ed2) Prepare for release v0.25.0 (#299)
+- [efa76519](https://github.com/kubedb/pgbouncer/commit/efa76519) Fix Statefulset Security Context Assign (#298)
+- [e3e9f84d](https://github.com/kubedb/pgbouncer/commit/e3e9f84d) Prepare for release v0.25.0-rc.1 (#297)
+- [21ba9f0f](https://github.com/kubedb/pgbouncer/commit/21ba9f0f) Prepare for release v0.25.0-rc.0 (#296)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.38.0](https://github.com/kubedb/postgres/releases/tag/v0.38.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:17:13.057691252Z",
+  "release_date": "2023-12-08T15:17:41.481631046Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -559,6 +559,28 @@
             {
               "SHA": "dcd2e30",
               "Subject": "Fix wal-g binary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "c93152ea",
+              "Subject": "Prepare for release v0.16.0 (#91)"
+            },
+            {
+              "SHA": "63cb0a33",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#90)"
+            },
+            {
+              "SHA": "b5e481fc",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#89)"
             }
           ]
         }

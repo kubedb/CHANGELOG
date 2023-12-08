@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T17:36:51.379022361Z",
+  "release_date": "2023-12-08T17:38:38.174126831Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -117,6 +117,32 @@
             {
               "SHA": "3a4dcc47",
               "Subject": "Prepare for release v0.38.0-rc.0 (#737)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "7741d24d",
+              "Subject": "Prepare for release v0.14.0 (#87)"
+            },
+            {
+              "SHA": "7031fb23",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#86)"
+            },
+            {
+              "SHA": "c2982e93",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "9a9e6cd9",
+              "Subject": "Add container security context for elasticsearch dashboard. (#84)"
             }
           ]
         }

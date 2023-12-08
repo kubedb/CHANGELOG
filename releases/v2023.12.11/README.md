@@ -39,6 +39,17 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.14.0](https://github.com/kubedb/dashboard/releases/tag/v0.14.0)
+
+- [7741d24d](https://github.com/kubedb/dashboard/commit/7741d24d) Prepare for release v0.14.0 (#87)
+- [7031fb23](https://github.com/kubedb/dashboard/commit/7031fb23) Prepare for release v0.14.0-rc.1 (#86)
+- [c2982e93](https://github.com/kubedb/dashboard/commit/c2982e93) Prepare for release v0.14.0-rc.0 (#85)
+- [9a9e6cd9](https://github.com/kubedb/dashboard/commit/9a9e6cd9) Add container security context for elasticsearch dashboard. (#84)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.38.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.38.0)

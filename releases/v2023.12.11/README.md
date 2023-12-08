@@ -29,6 +29,16 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.38.0](https://github.com/kubedb/cli/releases/tag/v0.38.0)
+
+- [8c968939](https://github.com/kubedb/cli/commit/8c968939) Prepare for release v0.38.0 (#739)
+- [a99b2857](https://github.com/kubedb/cli/commit/a99b2857) Prepare for release v0.38.0-rc.1 (#738)
+- [3a4dcc47](https://github.com/kubedb/cli/commit/3a4dcc47) Prepare for release v0.38.0-rc.0 (#737)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.1.0)

@@ -119,3 +119,21 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.1.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.1.0)
+
+- [d5524a7](https://github.com/kubedb/postgres-restic-plugin/commit/d5524a7) Prepare for release v0.1.0 (#7)
+- [584bbad](https://github.com/kubedb/postgres-restic-plugin/commit/584bbad) Prepare for release v0.1.0-rc.1 (#6)
+- [da1ecd7](https://github.com/kubedb/postgres-restic-plugin/commit/da1ecd7) Refactor (#5)
+- [8208814](https://github.com/kubedb/postgres-restic-plugin/commit/8208814) Prepare for release v0.1.0-rc.0 (#4)
+- [a56fcfa](https://github.com/kubedb/postgres-restic-plugin/commit/a56fcfa) Move to kubedb org (#3)
+- [e8928c7](https://github.com/kubedb/postgres-restic-plugin/commit/e8928c7) Added postgres addon for kubestash (#2)
+- [7c55105](https://github.com/kubedb/postgres-restic-plugin/commit/7c55105) Prepare for release v0.1.0-rc.0 (#1)
+- [19eff67](https://github.com/kubedb/postgres-restic-plugin/commit/19eff67) Use gh runner token to publish docker image
+- [6a71410](https://github.com/kubedb/postgres-restic-plugin/commit/6a71410) Use firecracker runner
+- [e278d71](https://github.com/kubedb/postgres-restic-plugin/commit/e278d71) Use Go 1.21
+- [4899879](https://github.com/kubedb/postgres-restic-plugin/commit/4899879) Update readme + cleanup
+
+
+

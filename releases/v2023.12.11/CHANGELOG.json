@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T14:52:05.431370836Z",
+  "release_date": "2023-12-08T14:56:40.182256865Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -117,6 +117,76 @@
             {
               "SHA": "3a4dcc47",
               "Subject": "Prepare for release v0.38.0-rc.0 (#737)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "1d1abdd",
+              "Subject": "Prepare for release v0.1.0 (#10)"
+            },
+            {
+              "SHA": "f6a9e4c",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "eb95c84",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#8)"
+            },
+            {
+              "SHA": "fe82e1b",
+              "Subject": "Update component name (#7)"
+            },
+            {
+              "SHA": "c155643",
+              "Subject": "Update snapshot time (#6)"
+            },
+            {
+              "SHA": "7093d5a",
+              "Subject": "Move to kubedb org"
+            },
+            {
+              "SHA": "a3a079e",
+              "Subject": "Update deps (#5)"
+            },
+            {
+              "SHA": "7a0fd38",
+              "Subject": "Refactor (#4)"
+            },
+            {
+              "SHA": "b262635",
+              "Subject": "Add support for backup and restore (#1)"
+            },
+            {
+              "SHA": "50bde7e",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "b9686b7",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
+            },
+            {
+              "SHA": "ba0c0ed",
+              "Subject": "Fix binary name"
+            },
+            {
+              "SHA": "b0aa991",
+              "Subject": "Use firecracker runner"
+            },
+            {
+              "SHA": "a621400",
+              "Subject": "Use Go 1.21 and restic 0.16.0"
+            },
+            {
+              "SHA": "f08e4e8",
+              "Subject": "Use github runner to push docker image"
             }
           ]
         }

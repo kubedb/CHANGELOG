@@ -39,6 +39,28 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.1.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.1.0)
+
+- [1d1abdd](https://github.com/kubedb/elasticsearch-restic-plugin/commit/1d1abdd) Prepare for release v0.1.0 (#10)
+- [f6a9e4c](https://github.com/kubedb/elasticsearch-restic-plugin/commit/f6a9e4c) Prepare for release v0.1.0-rc.1 (#9)
+- [eb95c84](https://github.com/kubedb/elasticsearch-restic-plugin/commit/eb95c84) Prepare for release v0.1.0-rc.0 (#8)
+- [fe82e1b](https://github.com/kubedb/elasticsearch-restic-plugin/commit/fe82e1b) Update component name (#7)
+- [c155643](https://github.com/kubedb/elasticsearch-restic-plugin/commit/c155643) Update snapshot time (#6)
+- [7093d5a](https://github.com/kubedb/elasticsearch-restic-plugin/commit/7093d5a) Move to kubedb org
+- [a3a079e](https://github.com/kubedb/elasticsearch-restic-plugin/commit/a3a079e) Update deps (#5)
+- [7a0fd38](https://github.com/kubedb/elasticsearch-restic-plugin/commit/7a0fd38) Refactor (#4)
+- [b262635](https://github.com/kubedb/elasticsearch-restic-plugin/commit/b262635) Add support for backup and restore (#1)
+- [50bde7e](https://github.com/kubedb/elasticsearch-restic-plugin/commit/50bde7e) Fix build
+- [b9686b7](https://github.com/kubedb/elasticsearch-restic-plugin/commit/b9686b7) Prepare for release v0.1.0-rc.0 (#3)
+- [ba0c0ed](https://github.com/kubedb/elasticsearch-restic-plugin/commit/ba0c0ed) Fix binary name
+- [b0aa991](https://github.com/kubedb/elasticsearch-restic-plugin/commit/b0aa991) Use firecracker runner
+- [a621400](https://github.com/kubedb/elasticsearch-restic-plugin/commit/a621400) Use Go 1.21 and restic 0.16.0
+- [f08e4e8](https://github.com/kubedb/elasticsearch-restic-plugin/commit/f08e4e8) Use github runner to push docker image
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.1.0)

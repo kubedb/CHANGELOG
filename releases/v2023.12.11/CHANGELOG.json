@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:27:29.086800091Z",
+  "release_date": "2023-12-08T15:28:14.021127213Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -937,6 +937,40 @@
             {
               "SHA": "69e7d1e",
               "Subject": "Prepare for release v0.11.0-rc.0 (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "6eec739b",
+              "Subject": "Prepare for release v0.22.0 (#141)"
+            },
+            {
+              "SHA": "9f9614e6",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#140)"
+            },
+            {
+              "SHA": "e4efa4db",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#139)"
+            },
+            {
+              "SHA": "7c862bcd",
+              "Subject": "Add support for arbiter (#136)"
+            },
+            {
+              "SHA": "53ba32a9",
+              "Subject": "added postgres 16.0 support (#137)"
+            },
+            {
+              "SHA": "24445f9b",
+              "Subject": "Added & modified logs (#134)"
             }
           ]
         }

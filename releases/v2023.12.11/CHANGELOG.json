@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T17:27:14.70273171Z",
+  "release_date": "2023-12-08T17:32:30.72321191Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -1226,6 +1226,36 @@
             {
               "SHA": "4899879",
               "Subject": "Update readme + cleanup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "284eef89b",
+              "Subject": "Prepare for release v0.38.0 (#63)"
+            },
+            {
+              "SHA": "4396cf5d5",
+              "Subject": "Add storage, archiver, kubestash scheme (#62)"
+            },
+            {
+              "SHA": "086300d90",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#61)"
+            },
+            {
+              "SHA": "0dfe37425",
+              "Subject": "Ensure archiver CRDs (#60)"
+            },
+            {
+              "SHA": "7e6099e0e",
+              "Subject": "Prepare for release v0.38.0-rc.0 (#59)"
             }
           ]
         }

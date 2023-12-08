@@ -197,6 +197,13 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.1.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.1.0)
+
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.31.0](https://github.com/kubedb/mysql/releases/tag/v0.31.0)

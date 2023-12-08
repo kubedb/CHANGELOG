@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:21:01.552151202Z",
+  "release_date": "2023-12-08T15:21:40.913102403Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -666,6 +666,36 @@
         {
           "tag": "v0.16.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "2780eea8",
+              "Subject": "Prepare for release v0.25.0 (#335)"
+            },
+            {
+              "SHA": "3a15a15e",
+              "Subject": "Fix Statefulset Security Context Assign (#334)"
+            },
+            {
+              "SHA": "bad0b334",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#333)"
+            },
+            {
+              "SHA": "b8447936",
+              "Subject": "Pass version in SetDefaults func (#332)"
+            },
+            {
+              "SHA": "d374a542",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#331)"
+            }
+          ]
         }
       ]
     },

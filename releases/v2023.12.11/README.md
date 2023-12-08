@@ -212,6 +212,18 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.25.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.25.0)
+
+- [2780eea8](https://github.com/kubedb/percona-xtradb/commit/2780eea8) Prepare for release v0.25.0 (#335)
+- [3a15a15e](https://github.com/kubedb/percona-xtradb/commit/3a15a15e) Fix Statefulset Security Context Assign (#334)
+- [bad0b334](https://github.com/kubedb/percona-xtradb/commit/bad0b334) Prepare for release v0.25.0-rc.1 (#333)
+- [b8447936](https://github.com/kubedb/percona-xtradb/commit/b8447936) Pass version in SetDefaults func (#332)
+- [d374a542](https://github.com/kubedb/percona-xtradb/commit/d374a542) Prepare for release v0.25.0-rc.0 (#331)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.11.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.11.0)

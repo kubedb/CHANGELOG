@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:25:12.04964278Z",
+  "release_date": "2023-12-08T15:25:40.141648467Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -225,6 +225,52 @@
             {
               "SHA": "f08e4e8",
               "Subject": "Use github runner to push docker image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "9c62eb1",
+              "Subject": "Prepare for release v0.9.0 (#52)"
+            },
+            {
+              "SHA": "8ddb2b8",
+              "Subject": "Remove hardcoded fsgroup from statefulset (#51)"
+            },
+            {
+              "SHA": "0516c18",
+              "Subject": "Prepare for release v0.9.0-rc.1 (#50)"
+            },
+            {
+              "SHA": "6554778",
+              "Subject": "Set default KubeBuilder client (#49)"
+            },
+            {
+              "SHA": "0770fff",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#48)"
+            },
+            {
+              "SHA": "ee3dcf5",
+              "Subject": "Add condition for ssl.properties file (#47)"
+            },
+            {
+              "SHA": "4bd632b",
+              "Subject": "Reconfigure kafka for updated config properties (#45)"
+            },
+            {
+              "SHA": "cc9795b",
+              "Subject": "Upsert Init Containers with Kafka podtemplate.spec and update default test-profile (#43)"
+            },
+            {
+              "SHA": "76e743c",
+              "Subject": "Update daily e2e tests yml (#42)"
             }
           ]
         }

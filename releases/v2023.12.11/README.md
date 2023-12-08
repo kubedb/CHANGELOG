@@ -75,6 +75,22 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.9.0](https://github.com/kubedb/kafka/releases/tag/v0.9.0)
+
+- [9c62eb1](https://github.com/kubedb/kafka/commit/9c62eb1) Prepare for release v0.9.0 (#52)
+- [8ddb2b8](https://github.com/kubedb/kafka/commit/8ddb2b8) Remove hardcoded fsgroup from statefulset (#51)
+- [0516c18](https://github.com/kubedb/kafka/commit/0516c18) Prepare for release v0.9.0-rc.1 (#50)
+- [6554778](https://github.com/kubedb/kafka/commit/6554778) Set default KubeBuilder client (#49)
+- [0770fff](https://github.com/kubedb/kafka/commit/0770fff) Prepare for release v0.9.0-rc.0 (#48)
+- [ee3dcf5](https://github.com/kubedb/kafka/commit/ee3dcf5) Add condition for ssl.properties file (#47)
+- [4bd632b](https://github.com/kubedb/kafka/commit/4bd632b) Reconfigure kafka for updated config properties (#45)
+- [cc9795b](https://github.com/kubedb/kafka/commit/cc9795b) Upsert Init Containers with Kafka podtemplate.spec and update default test-profile (#43)
+- [76e743c](https://github.com/kubedb/kafka/commit/76e743c) Update daily e2e tests yml (#42)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.1.0)

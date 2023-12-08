@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T14:47:17.007174834Z",
+  "release_date": "2023-12-08T14:47:20.763906273Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -383,6 +383,15 @@
               "Subject": "Implement kubedb-manifest plugin to MongoDB manifests."
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": null
         }
       ]
     }

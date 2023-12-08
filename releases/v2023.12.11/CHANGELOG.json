@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.11",
-  "release_date": "2023-12-08T15:22:45.069753187Z",
+  "release_date": "2023-12-08T15:23:27.902970683Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.11",
   "kubernetes_version": "1.20+",
@@ -473,6 +473,28 @@
             {
               "SHA": "e644c67",
               "Subject": "Implement kubedb-manifest plugin to MongoDB manifests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "a014ffc",
+              "Subject": "Prepare for release v0.1.0 (#5)"
+            },
+            {
+              "SHA": "a2afbc9",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#4)"
+            },
+            {
+              "SHA": "65fd6bf",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
             }
           ]
         }

@@ -39,6 +39,16 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2023.12.11](https://github.com/kubedb/bundles/releases/tag/v2023.12.11)
+
+- [a589371](https://github.com/kubedb/bundles/commit/a589371) Prepare for release v2023.12.11 (#75)
+- [e7335f1](https://github.com/kubedb/bundles/commit/e7335f1) Prepare for release v2023.12.1-rc.1 (#74)
+- [97d51c0](https://github.com/kubedb/bundles/commit/97d51c0) Prepare for release v2023.11.29-rc.0 (#73)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.38.0](https://github.com/kubedb/cli/releases/tag/v0.38.0)

@@ -1,4 +1,4 @@
-# KubeDB v2023.12.11 (2023-12-08)
+# KubeDB v2023.12.11 (2023-12-09)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -57,6 +57,19 @@
 - [7031fb23](https://github.com/kubedb/dashboard/commit/7031fb23) Prepare for release v0.14.0-rc.1 (#86)
 - [c2982e93](https://github.com/kubedb/dashboard/commit/c2982e93) Prepare for release v0.14.0-rc.0 (#85)
 - [9a9e6cd9](https://github.com/kubedb/dashboard/commit/9a9e6cd9) Add container security context for elasticsearch dashboard. (#84)
+
+
+
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2023.12.11](https://github.com/kubedb/docs/releases/tag/v2023.12.11)
+
+- [a2286546](https://github.com/kubedb/docs/commit/a2286546) Prepare for release v2023.12.11 (#583)
+- [4186ed59](https://github.com/kubedb/docs/commit/4186ed59) Prepare for release v2023.12.1-rc.1 (#581)
+- [57ff0b52](https://github.com/kubedb/docs/commit/57ff0b52) Prepare for release v2023.11.29-rc.0 (#580)
+- [5c29bfa0](https://github.com/kubedb/docs/commit/5c29bfa0) Update docs for kubedb/webhook-server@c36d61e5 (#579)
+- [08c6f0bd](https://github.com/kubedb/docs/commit/08c6f0bd) Update docs for kubedb/provisioner@7e6099e0 (#578)
+- [e5ec0b7d](https://github.com/kubedb/docs/commit/e5ec0b7d) Update docs for kubedb/cli@3a4dcc47 (#577)
 
 
 

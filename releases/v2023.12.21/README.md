@@ -106,6 +106,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.26.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.26.0)
+
+- [35495dd3](https://github.com/kubedb/percona-xtradb/commit/35495dd3) Prepare for release v0.26.0 (#338)
+- [7bac5129](https://github.com/kubedb/percona-xtradb/commit/7bac5129) Send hourly audit events (#337)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.12.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.12.0)

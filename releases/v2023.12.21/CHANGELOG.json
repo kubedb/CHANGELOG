@@ -1,0 +1,40 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.12.21",
+  "release_date": "2023-12-21T15:37:16.953926246Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.12.21",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "c99d3ab1",
+              "Subject": "Update pg arbiter api (#1091)"
+            },
+            {
+              "SHA": "1d455662",
+              "Subject": "Add nodeSelector, tolerations in es & kafka spec (#1089)"
+            },
+            {
+              "SHA": "3878d59f",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ecc6001f",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "bf7aa205",
+              "Subject": "Configure node topology for autoscaling compute resources (#1085)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

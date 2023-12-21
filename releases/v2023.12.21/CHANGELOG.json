@@ -1,0 +1,764 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.12.21",
+  "release_date": "2023-12-21T22:35:27.474120089Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.12.21",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "c99d3ab1",
+              "Subject": "Update pg arbiter api (#1091)"
+            },
+            {
+              "SHA": "1d455662",
+              "Subject": "Add nodeSelector, tolerations in es & kafka spec (#1089)"
+            },
+            {
+              "SHA": "3878d59f",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ecc6001f",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "bf7aa205",
+              "Subject": "Configure node topology for autoscaling compute resources (#1085)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "f2e9be5d",
+              "Subject": "Prepare for release v0.24.0 (#166)"
+            },
+            {
+              "SHA": "98f7ce9e",
+              "Subject": "Utilize topologyInfo in compute autoscalers (#162)"
+            },
+            {
+              "SHA": "fc29fd8a",
+              "Subject": "Send hourly audit events (#165)"
+            },
+            {
+              "SHA": "ee3e323f",
+              "Subject": "Update autoscaler & ops apis (#161)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.12.21",
+          "commits": [
+            {
+              "SHA": "77e78f5",
+              "Subject": "Prepare for release v2023.12.21 (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "3d619254",
+              "Subject": "Prepare for release v0.39.0 (#741)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "1f0ffd6f",
+              "Subject": "Prepare for release v0.15.0 (#89)"
+            },
+            {
+              "SHA": "0d69c977",
+              "Subject": "Send hourly audit events (#88)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2023.12.21",
+          "commits": [
+            {
+              "SHA": "6b51b519",
+              "Subject": "Prepare for release v2023.12.21 (#586)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "944aac8bf",
+              "Subject": "Prepare for release v0.39.0 (#686)"
+            },
+            {
+              "SHA": "090de2176",
+              "Subject": "Send hourly audit events (#685)"
+            },
+            {
+              "SHA": "3f18a9e40",
+              "Subject": "Set tolerations & nodeSelectors from esNode (#682)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "89c9f39",
+              "Subject": "Prepare for release v0.2.0 (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.12.21",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "89c3fbe",
+              "Subject": "Prepare for release v0.10.0 (#55)"
+            },
+            {
+              "SHA": "ca738d8",
+              "Subject": "Send hourly audit events (#54)"
+            },
+            {
+              "SHA": "cfd9ea2",
+              "Subject": "Set tolerations & nodeSelectors from kafka topology nodes (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e561ae8",
+              "Subject": "Prepare for release v0.2.0 (#32)"
+            },
+            {
+              "SHA": "86311ba",
+              "Subject": "Add mysql and mariadb manifest backup and restore support (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "e6cae3c7",
+              "Subject": "Prepare for release v0.23.0 (#240)"
+            },
+            {
+              "SHA": "b0c9a5a9",
+              "Subject": "Send hourly audit events (#239)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "1c1bb1d",
+              "Subject": "Prepare for release v0.2.0 (#7)"
+            },
+            {
+              "SHA": "e1ada03",
+              "Subject": "Use appscode-images as base image (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "a82c76e8",
+              "Subject": "Prepare for release v0.19.0 (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "28a0d9b6",
+              "Subject": "Prepare for release v0.32.0 (#410)"
+            },
+            {
+              "SHA": "5b0e2cf7",
+              "Subject": "Send hourly audit events (#409)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "6b7b6be2",
+              "Subject": "Prepare for release v0.32.0 (#589)"
+            },
+            {
+              "SHA": "7c9d0105",
+              "Subject": "Send hourly audit events (#588)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "2bad72d",
+              "Subject": "Prepare for release v0.2.0 (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "16cdbac",
+              "Subject": "Prepare for release v0.2.0 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "1d875c1c",
+              "Subject": "Prepare for release v0.32.0 (#581)"
+            },
+            {
+              "SHA": "d4323211",
+              "Subject": "Send hourly audit events (#580)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e800623",
+              "Subject": "Prepare for release v0.2.0 (#8)"
+            },
+            {
+              "SHA": "b9f6ec5",
+              "Subject": "Install mysqlbinlog (#7)"
+            },
+            {
+              "SHA": "c46d991",
+              "Subject": "Use appscode-images as base image (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "eb942605",
+              "Subject": "Prepare for release v0.17.0 (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "91eb451",
+              "Subject": "Prepare for release v0.2.0 (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "328b13d9",
+              "Subject": "Prepare for release v0.26.0 (#503)"
+            },
+            {
+              "SHA": "10100aa9",
+              "Subject": "Set tolerations & nodeSelectors while verticalScaling (#500)"
+            },
+            {
+              "SHA": "14fe79e3",
+              "Subject": "Send hourly audit events (#502)"
+            },
+            {
+              "SHA": "b7a5522f",
+              "Subject": "Update opsRequest api (#499)"
+            },
+            {
+              "SHA": "304855b3",
+              "Subject": "Update daily-opensearch.yml"
+            },
+            {
+              "SHA": "50c7ff53",
+              "Subject": "Update daily workflow for ES and Kafka. (#493)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "35495dd3",
+              "Subject": "Prepare for release v0.26.0 (#338)"
+            },
+            {
+              "SHA": "7bac5129",
+              "Subject": "Send hourly audit events (#337)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "1dc1fbf",
+              "Subject": "Prepare for release v0.12.0 (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "d18365e6",
+              "Subject": "Prepare for release v0.23.0 (#142)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "ad28cfa4",
+              "Subject": "Prepare for release v0.26.0 (#303)"
+            },
+            {
+              "SHA": "dbe23148",
+              "Subject": "Send hourly audit events (#302)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "448e81f04",
+              "Subject": "Prepare for release v0.39.0 (#694)"
+            },
+            {
+              "SHA": "745c6555d",
+              "Subject": "Send hourly audit events (#693)"
+            },
+            {
+              "SHA": "e4016868e",
+              "Subject": "Send hourly audit events (#691)"
+            },
+            {
+              "SHA": "26f68fefa",
+              "Subject": "Set toleration & nodeSelector fields from arbiter spec (#689)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "c4f7e11",
+              "Subject": "Fix formatting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "bce9779",
+              "Subject": "Prepare for release v0.2.0 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "7e449e3",
+              "Subject": "Prepare for release v0.2.0 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "3cdbabe",
+              "Subject": "Fix makefile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "6ec88b2b0",
+              "Subject": "Prepare for release v0.39.0 (#65)"
+            },
+            {
+              "SHA": "bbb9417da",
+              "Subject": "Send hourly audit events (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "71c51c63",
+              "Subject": "Prepare for release v0.26.0 (#317)"
+            },
+            {
+              "SHA": "30119f2c",
+              "Subject": "Send hourly audit events (#316)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "c18c7bbf",
+              "Subject": "Prepare for release v0.32.0 (#504)"
+            },
+            {
+              "SHA": "8716c93c",
+              "Subject": "Send hourly audit events (#503)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "a5ddc00b",
+              "Subject": "Prepare for release v0.18.0 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "352a231",
+              "Subject": "Prepare for release v0.2.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "9fbf8da6",
+              "Subject": "Prepare for release v0.26.0 (#247)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "bb65f133",
+              "Subject": "Prepare for release v0.15.0 (#90)"
+            },
+            {
+              "SHA": "96ddacfe",
+              "Subject": "Send hourly audit events (#89)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "7bd88b9f",
+              "Subject": "Prepare for release v0.24.0 (#275)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "7b2351b0",
+              "Subject": "Prepare for release v0.15.0 (#99)"
+            },
+            {
+              "SHA": "956aae83",
+              "Subject": "Send hourly audit events (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "3afa1398",
+              "Subject": "Prepare for release v0.15.0 (#76)"
+            },
+            {
+              "SHA": "96da1acd",
+              "Subject": "Send hourly audit events (#75)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -47,6 +47,15 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.2.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.2.0)
+
+- [1c1bb1d](https://github.com/kubedb/mariadb-archiver/commit/1c1bb1d) Prepare for release v0.2.0 (#7)
+- [e1ada03](https://github.com/kubedb/mariadb-archiver/commit/e1ada03) Use appscode-images as base image (#6)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.32.0](https://github.com/kubedb/mongodb/releases/tag/v0.32.0)

@@ -30,6 +30,14 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.2.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.2.0)
+
+- [2bad72d](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/2bad72d) Prepare for release v0.2.0 (#6)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.2.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.2.0)

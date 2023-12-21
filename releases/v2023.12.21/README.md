@@ -41,6 +41,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2023.12.21](https://github.com/kubedb/docs/releases/tag/v2023.12.21)
+
+- [6b51b519](https://github.com/kubedb/docs/commit/6b51b519) Prepare for release v2023.12.21 (#586)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.39.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.39.0)

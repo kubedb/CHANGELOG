@@ -186,6 +186,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.32.0](https://github.com/kubedb/redis/releases/tag/v0.32.0)
+
+- [c18c7bbf](https://github.com/kubedb/redis/commit/c18c7bbf) Prepare for release v0.32.0 (#504)
+- [8716c93c](https://github.com/kubedb/redis/commit/8716c93c) Send hourly audit events (#503)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.18.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.18.0)

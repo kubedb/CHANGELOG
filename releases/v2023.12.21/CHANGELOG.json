@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T15:55:21.620116246Z",
+  "release_date": "2023-12-21T15:55:52.448928819Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -344,6 +344,24 @@
         {
           "tag": "v0.1.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "c18c7bbf",
+              "Subject": "Prepare for release v0.32.0 (#504)"
+            },
+            {
+              "SHA": "8716c93c",
+              "Subject": "Send hourly audit events (#503)"
+            }
+          ]
         }
       ]
     },

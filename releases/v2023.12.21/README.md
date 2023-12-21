@@ -21,6 +21,16 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.39.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.39.0)
+
+- [944aac8b](https://github.com/kubedb/elasticsearch/commit/944aac8bf) Prepare for release v0.39.0 (#686)
+- [090de217](https://github.com/kubedb/elasticsearch/commit/090de2176) Send hourly audit events (#685)
+- [3f18a9e4](https://github.com/kubedb/elasticsearch/commit/3f18a9e40) Set tolerations & nodeSelectors from esNode (#682)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.2.0)

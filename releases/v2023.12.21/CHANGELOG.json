@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T15:48:05.920909463Z",
+  "release_date": "2023-12-21T15:49:50.88601119Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -31,6 +31,20 @@
             {
               "SHA": "bf7aa205",
               "Subject": "Configure node topology for autoscaling compute resources (#1085)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "3d619254",
+              "Subject": "Prepare for release v0.39.0 (#741)"
             }
           ]
         }

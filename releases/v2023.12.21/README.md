@@ -13,6 +13,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.39.0](https://github.com/kubedb/cli/releases/tag/v0.39.0)
+
+- [3d619254](https://github.com/kubedb/cli/commit/3d619254) Prepare for release v0.39.0 (#741)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.2.0)

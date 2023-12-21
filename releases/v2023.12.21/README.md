@@ -302,6 +302,15 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.15.0](https://github.com/kubedb/schema-manager/releases/tag/v0.15.0)
+
+- [bb65f133](https://github.com/kubedb/schema-manager/commit/bb65f133) Prepare for release v0.15.0 (#90)
+- [96ddacfe](https://github.com/kubedb/schema-manager/commit/96ddacfe) Send hourly audit events (#89)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.24.0](https://github.com/kubedb/tests/releases/tag/v0.24.0)

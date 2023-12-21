@@ -185,6 +185,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.26.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.26.0)
+
+- [ad28cfa4](https://github.com/kubedb/pgbouncer/commit/ad28cfa4) Prepare for release v0.26.0 (#303)
+- [dbe23148](https://github.com/kubedb/pgbouncer/commit/dbe23148) Send hourly audit events (#302)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.39.0](https://github.com/kubedb/postgres/releases/tag/v0.39.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T17:10:40.712517193Z",
+  "release_date": "2023-12-21T17:26:32.733516954Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -31,6 +31,32 @@
             {
               "SHA": "bf7aa205",
               "Subject": "Configure node topology for autoscaling compute resources (#1085)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "f2e9be5d",
+              "Subject": "Prepare for release v0.24.0 (#166)"
+            },
+            {
+              "SHA": "98f7ce9e",
+              "Subject": "Utilize topologyInfo in compute autoscalers (#162)"
+            },
+            {
+              "SHA": "fc29fd8a",
+              "Subject": "Send hourly audit events (#165)"
+            },
+            {
+              "SHA": "ee3e323f",
+              "Subject": "Update autoscaler & ops apis (#161)"
             }
           ]
         }

@@ -13,6 +13,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.24.0](https://github.com/kubedb/autoscaler/releases/tag/v0.24.0)
+
+- [f2e9be5d](https://github.com/kubedb/autoscaler/commit/f2e9be5d) Prepare for release v0.24.0 (#166)
+- [98f7ce9e](https://github.com/kubedb/autoscaler/commit/98f7ce9e) Utilize topologyInfo in compute autoscalers (#162)
+- [fc29fd8a](https://github.com/kubedb/autoscaler/commit/fc29fd8a) Send hourly audit events (#165)
+- [ee3e323f](https://github.com/kubedb/autoscaler/commit/ee3e323f) Update autoscaler & ops apis (#161)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.39.0](https://github.com/kubedb/cli/releases/tag/v0.39.0)

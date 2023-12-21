@@ -310,3 +310,12 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.15.0](https://github.com/kubedb/ui-server/releases/tag/v0.15.0)
+
+- [7b2351b0](https://github.com/kubedb/ui-server/commit/7b2351b0) Prepare for release v0.15.0 (#99)
+- [956aae83](https://github.com/kubedb/ui-server/commit/956aae83) Send hourly audit events (#98)
+
+
+

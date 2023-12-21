@@ -21,6 +21,15 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.15.0](https://github.com/kubedb/dashboard/releases/tag/v0.15.0)
+
+- [1f0ffd6f](https://github.com/kubedb/dashboard/commit/1f0ffd6f) Prepare for release v0.15.0 (#89)
+- [0d69c977](https://github.com/kubedb/dashboard/commit/0d69c977) Send hourly audit events (#88)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.39.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.39.0)

@@ -13,6 +13,14 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.1.0](https://github.com/kubedb/provider-aws/releases/tag/v0.1.0)
+
+- [3cdbabe](https://github.com/kubedb/provider-aws/commit/3cdbabe) Fix makefile
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.1.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.1.0)

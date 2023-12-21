@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T15:46:23.689597633Z",
+  "release_date": "2023-12-21T15:47:48.039572392Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -31,6 +31,20 @@
             {
               "SHA": "bf7aa205",
               "Subject": "Configure node topology for autoscaling compute resources (#1085)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "89c9f39",
+              "Subject": "Prepare for release v0.2.0 (#12)"
             }
           ]
         }

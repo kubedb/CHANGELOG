@@ -29,6 +29,16 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.10.0](https://github.com/kubedb/kafka/releases/tag/v0.10.0)
+
+- [89c3fbe](https://github.com/kubedb/kafka/commit/89c3fbe) Prepare for release v0.10.0 (#55)
+- [ca738d8](https://github.com/kubedb/kafka/commit/ca738d8) Send hourly audit events (#54)
+- [cfd9ea2](https://github.com/kubedb/kafka/commit/cfd9ea2) Set tolerations & nodeSelectors from kafka topology nodes (#53)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.2.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T16:50:52.390785236Z",
+  "release_date": "2023-12-21T17:10:40.712517193Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -332,6 +332,40 @@
         {
           "tag": "v0.17.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "328b13d9",
+              "Subject": "Prepare for release v0.26.0 (#503)"
+            },
+            {
+              "SHA": "10100aa9",
+              "Subject": "Set tolerations & nodeSelectors while verticalScaling (#500)"
+            },
+            {
+              "SHA": "14fe79e3",
+              "Subject": "Send hourly audit events (#502)"
+            },
+            {
+              "SHA": "b7a5522f",
+              "Subject": "Update opsRequest api (#499)"
+            },
+            {
+              "SHA": "304855b3",
+              "Subject": "Update daily-opensearch.yml"
+            },
+            {
+              "SHA": "50c7ff53",
+              "Subject": "Update daily workflow for ES and Kafka. (#493)"
+            }
+          ]
         }
       ]
     },

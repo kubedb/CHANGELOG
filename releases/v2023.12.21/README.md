@@ -169,6 +169,19 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.26.0](https://github.com/kubedb/ops-manager/releases/tag/v0.26.0)
+
+- [328b13d9](https://github.com/kubedb/ops-manager/commit/328b13d9) Prepare for release v0.26.0 (#503)
+- [10100aa9](https://github.com/kubedb/ops-manager/commit/10100aa9) Set tolerations & nodeSelectors while verticalScaling (#500)
+- [14fe79e3](https://github.com/kubedb/ops-manager/commit/14fe79e3) Send hourly audit events (#502)
+- [b7a5522f](https://github.com/kubedb/ops-manager/commit/b7a5522f) Update opsRequest api (#499)
+- [304855b3](https://github.com/kubedb/ops-manager/commit/304855b3) Update daily-opensearch.yml
+- [50c7ff53](https://github.com/kubedb/ops-manager/commit/50c7ff53) Update daily workflow for ES and Kafka. (#493)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.26.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.26.0)

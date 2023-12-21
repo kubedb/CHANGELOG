@@ -275,3 +275,11 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.24.0](https://github.com/kubedb/tests/releases/tag/v0.24.0)
+
+- [7bd88b9f](https://github.com/kubedb/tests/commit/7bd88b9f) Prepare for release v0.24.0 (#275)
+
+
+

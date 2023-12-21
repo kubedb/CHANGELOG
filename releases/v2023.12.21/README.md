@@ -251,6 +251,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.26.0](https://github.com/kubedb/proxysql/releases/tag/v0.26.0)
+
+- [71c51c63](https://github.com/kubedb/proxysql/commit/71c51c63) Prepare for release v0.26.0 (#317)
+- [30119f2c](https://github.com/kubedb/proxysql/commit/30119f2c) Send hourly audit events (#316)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.32.0](https://github.com/kubedb/redis/releases/tag/v0.32.0)

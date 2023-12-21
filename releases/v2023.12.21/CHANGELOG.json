@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T16:31:23.898011005Z",
+  "release_date": "2023-12-21T16:31:57.344290153Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -478,6 +478,24 @@
         {
           "tag": "v0.1.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "71c51c63",
+              "Subject": "Prepare for release v0.26.0 (#317)"
+            },
+            {
+              "SHA": "30119f2c",
+              "Subject": "Send hourly audit events (#316)"
+            }
+          ]
         }
       ]
     },

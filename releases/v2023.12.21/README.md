@@ -13,6 +13,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.2.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.2.0)
+
+- [e561ae8](https://github.com/kubedb/kubedb-manifest-plugin/commit/e561ae8) Prepare for release v0.2.0 (#32)
+- [86311ba](https://github.com/kubedb/kubedb-manifest-plugin/commit/86311ba) Add mysql and mariadb manifest backup and restore support (#31)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.2.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.2.0)

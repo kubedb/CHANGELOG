@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T15:44:57.083909194Z",
+  "release_date": "2023-12-21T15:45:33.998751573Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -31,6 +31,24 @@
             {
               "SHA": "bf7aa205",
               "Subject": "Configure node topology for autoscaling compute resources (#1085)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e561ae8",
+              "Subject": "Prepare for release v0.2.0 (#32)"
+            },
+            {
+              "SHA": "86311ba",
+              "Subject": "Add mysql and mariadb manifest backup and restore support (#31)"
             }
           ]
         }

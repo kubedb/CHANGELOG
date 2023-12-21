@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T15:52:46.389439414Z",
+  "release_date": "2023-12-21T15:53:15.208558457Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -77,6 +77,24 @@
             {
               "SHA": "86311ba",
               "Subject": "Add mysql and mariadb manifest backup and restore support (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "e6cae3c7",
+              "Subject": "Prepare for release v0.23.0 (#240)"
+            },
+            {
+              "SHA": "b0c9a5a9",
+              "Subject": "Send hourly audit events (#239)"
             }
           ]
         }

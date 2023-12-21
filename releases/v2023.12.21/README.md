@@ -38,6 +38,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.23.0](https://github.com/kubedb/mariadb/releases/tag/v0.23.0)
+
+- [e6cae3c7](https://github.com/kubedb/mariadb/commit/e6cae3c7) Prepare for release v0.23.0 (#240)
+- [b0c9a5a9](https://github.com/kubedb/mariadb/commit/b0c9a5a9) Send hourly audit events (#239)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.2.0)

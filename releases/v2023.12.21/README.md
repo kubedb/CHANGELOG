@@ -63,6 +63,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.32.0](https://github.com/kubedb/mysql/releases/tag/v0.32.0)
+
+- [1d875c1c](https://github.com/kubedb/mysql/commit/1d875c1c) Prepare for release v0.32.0 (#581)
+- [d4323211](https://github.com/kubedb/mysql/commit/d4323211) Send hourly audit events (#580)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.2.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.2.0)

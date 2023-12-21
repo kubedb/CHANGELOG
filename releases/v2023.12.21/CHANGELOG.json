@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T16:09:24.975691702Z",
+  "release_date": "2023-12-21T16:10:02.466994048Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -336,6 +336,32 @@
             {
               "SHA": "d18365e6",
               "Subject": "Prepare for release v0.23.0 (#142)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "448e81f04",
+              "Subject": "Prepare for release v0.39.0 (#694)"
+            },
+            {
+              "SHA": "745c6555d",
+              "Subject": "Send hourly audit events (#693)"
+            },
+            {
+              "SHA": "e4016868e",
+              "Subject": "Send hourly audit events (#691)"
+            },
+            {
+              "SHA": "26f68fefa",
+              "Subject": "Set toleration & nodeSelector fields from arbiter spec (#689)"
             }
           ]
         }

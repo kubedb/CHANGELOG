@@ -175,6 +175,17 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.39.0](https://github.com/kubedb/postgres/releases/tag/v0.39.0)
+
+- [448e81f0](https://github.com/kubedb/postgres/commit/448e81f04) Prepare for release v0.39.0 (#694)
+- [745c6555](https://github.com/kubedb/postgres/commit/745c6555d) Send hourly audit events (#693)
+- [e4016868](https://github.com/kubedb/postgres/commit/e4016868e) Send hourly audit events (#691)
+- [26f68fef](https://github.com/kubedb/postgres/commit/26f68fefa) Set toleration & nodeSelector fields from arbiter spec (#689)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.2.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.2.0)

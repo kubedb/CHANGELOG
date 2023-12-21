@@ -74,6 +74,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.32.0](https://github.com/kubedb/memcached/releases/tag/v0.32.0)
+
+- [28a0d9b6](https://github.com/kubedb/memcached/commit/28a0d9b6) Prepare for release v0.32.0 (#410)
+- [5b0e2cf7](https://github.com/kubedb/memcached/commit/5b0e2cf7) Send hourly audit events (#409)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.32.0](https://github.com/kubedb/mongodb/releases/tag/v0.32.0)

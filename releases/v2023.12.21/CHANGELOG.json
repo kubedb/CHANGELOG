@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T16:44:12.131782986Z",
+  "release_date": "2023-12-21T16:50:52.390785236Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -496,6 +496,24 @@
         {
           "tag": "v0.1.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "6ec88b2b0",
+              "Subject": "Prepare for release v0.39.0 (#65)"
+            },
+            {
+              "SHA": "bbb9417da",
+              "Subject": "Send hourly audit events (#64)"
+            }
+          ]
         }
       ]
     },

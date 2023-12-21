@@ -260,6 +260,15 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.39.0](https://github.com/kubedb/provisioner/releases/tag/v0.39.0)
+
+- [6ec88b2b](https://github.com/kubedb/provisioner/commit/6ec88b2b0) Prepare for release v0.39.0 (#65)
+- [bbb9417d](https://github.com/kubedb/provisioner/commit/bbb9417da) Send hourly audit events (#64)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.26.0](https://github.com/kubedb/proxysql/releases/tag/v0.26.0)

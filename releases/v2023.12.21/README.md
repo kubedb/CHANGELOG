@@ -361,3 +361,12 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.15.0](https://github.com/kubedb/webhook-server/releases/tag/v0.15.0)
+
+- [3afa1398](https://github.com/kubedb/webhook-server/commit/3afa1398) Prepare for release v0.15.0 (#76)
+- [96da1acd](https://github.com/kubedb/webhook-server/commit/96da1acd) Send hourly audit events (#75)
+
+
+

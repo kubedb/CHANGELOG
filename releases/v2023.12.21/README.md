@@ -20,6 +20,14 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.2.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.2.0)
+
+- [c4f7e11](https://github.com/kubedb/postgres-archiver/commit/c4f7e11) Fix formatting
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.1.0](https://github.com/kubedb/provider-aws/releases/tag/v0.1.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T15:44:11.153500193Z",
+  "release_date": "2023-12-21T15:44:13.706201719Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -70,6 +70,15 @@
               "Subject": "Fix makefile"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": null
         }
       ]
     },

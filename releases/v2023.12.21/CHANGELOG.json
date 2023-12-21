@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.21",
-  "release_date": "2023-12-21T15:44:13.706201719Z",
+  "release_date": "2023-12-21T15:44:32.90931279Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.21",
   "kubernetes_version": "1.20+",
@@ -31,6 +31,28 @@
             {
               "SHA": "bf7aa205",
               "Subject": "Configure node topology for autoscaling compute resources (#1085)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e800623",
+              "Subject": "Prepare for release v0.2.0 (#8)"
+            },
+            {
+              "SHA": "b9f6ec5",
+              "Subject": "Install mysqlbinlog (#7)"
+            },
+            {
+              "SHA": "c46d991",
+              "Subject": "Use appscode-images as base image (#6)"
             }
           ]
         }

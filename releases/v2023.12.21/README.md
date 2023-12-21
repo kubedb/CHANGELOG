@@ -13,6 +13,16 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.2.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.2.0)
+
+- [e800623](https://github.com/kubedb/mysql-archiver/commit/e800623) Prepare for release v0.2.0 (#8)
+- [b9f6ec5](https://github.com/kubedb/mysql-archiver/commit/b9f6ec5) Install mysqlbinlog (#7)
+- [c46d991](https://github.com/kubedb/mysql-archiver/commit/c46d991) Use appscode-images as base image (#6)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.17.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.17.0)

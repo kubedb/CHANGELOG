@@ -47,6 +47,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.32.0](https://github.com/kubedb/mongodb/releases/tag/v0.32.0)
+
+- [6b7b6be2](https://github.com/kubedb/mongodb/commit/6b7b6be2) Prepare for release v0.32.0 (#589)
+- [7c9d0105](https://github.com/kubedb/mongodb/commit/7c9d0105) Send hourly audit events (#588)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.2.0)

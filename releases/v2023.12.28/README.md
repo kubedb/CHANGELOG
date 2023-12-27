@@ -135,6 +135,14 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.24.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.24.0)
+
+- [e3f8df76](https://github.com/kubedb/pg-coordinator/commit/e3f8df76) Prepare for release v0.24.0 (#143)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.1.0)

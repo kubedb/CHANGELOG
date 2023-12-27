@@ -81,6 +81,15 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.1.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.1.0)
+
+- [34bd9fd](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/34bd9fd) Prepare for release v0.1.0 (#1)
+- [a0ddb4a](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/a0ddb4a) Enable GH actions
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.3.0)

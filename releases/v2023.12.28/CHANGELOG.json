@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T19:00:16.691473597Z",
+  "release_date": "2023-12-27T19:00:20.283274086Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -177,6 +177,24 @@
             {
               "SHA": "efac8ef",
               "Subject": "Prepare for release v0.3.0 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "34bd9fd",
+              "Subject": "Prepare for release v0.1.0 (#1)"
+            },
+            {
+              "SHA": "a0ddb4a",
+              "Subject": "Enable GH actions"
             }
           ]
         }

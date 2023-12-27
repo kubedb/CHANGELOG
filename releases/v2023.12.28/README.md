@@ -199,6 +199,14 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.40.0](https://github.com/kubedb/postgres/releases/tag/v0.40.0)
+
+- [17d39368](https://github.com/kubedb/postgres/commit/17d393689) Prepare for release v0.40.0 (#695)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.1.0)

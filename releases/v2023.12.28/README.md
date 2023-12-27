@@ -94,6 +94,16 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.1.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.1.0)
+
+- [933e138](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/933e138) Prepare for release v0.1.0 (#2)
+- [5d38f94](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/5d38f94) Enable GH actions
+- [2a97178](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/2a97178) Replace mysql with mariadb
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.33.0](https://github.com/kubedb/memcached/releases/tag/v0.33.0)

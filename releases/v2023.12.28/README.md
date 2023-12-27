@@ -162,6 +162,14 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.2.0](https://github.com/kubedb/provider-azure/releases/tag/v0.2.0)
+
+- [0d449ff](https://github.com/kubedb/provider-azure/commit/0d449ff) Add dynamically start crd reconciler (#3)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.19.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.19.0)

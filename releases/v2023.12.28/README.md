@@ -111,6 +111,27 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.1.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.1.0)
+
+- [c956cb9](https://github.com/kubedb/mysql-archiver/commit/c956cb9) Prepare for release v0.1.0 (#10)
+- [4e905fb](https://github.com/kubedb/mysql-archiver/commit/4e905fb) Implemenet new algorithm for archiver and restorer (#5)
+- [22701c8](https://github.com/kubedb/mysql-archiver/commit/22701c8) Fix 5.7.x build
+- [6da2b1c](https://github.com/kubedb/mysql-archiver/commit/6da2b1c) Update build matrix
+- [e2f6244](https://github.com/kubedb/mysql-archiver/commit/e2f6244) Use separate dockerfile per mysql version (#9)
+- [e800623](https://github.com/kubedb/mysql-archiver/commit/e800623) Prepare for release v0.2.0 (#8)
+- [b9f6ec5](https://github.com/kubedb/mysql-archiver/commit/b9f6ec5) Install mysqlbinlog (#7)
+- [c46d991](https://github.com/kubedb/mysql-archiver/commit/c46d991) Use appscode-images as base image (#6)
+- [721eaa8](https://github.com/kubedb/mysql-archiver/commit/721eaa8) Prepare for release v0.1.0 (#4)
+- [8c65d14](https://github.com/kubedb/mysql-archiver/commit/8c65d14) Prepare for release v0.1.0-rc.1 (#3)
+- [f79286a](https://github.com/kubedb/mysql-archiver/commit/f79286a) Prepare for release v0.1.0-rc.0 (#2)
+- [dcd2e30](https://github.com/kubedb/mysql-archiver/commit/dcd2e30) Fix wal-g binary
+- [6c20a4a](https://github.com/kubedb/mysql-archiver/commit/6c20a4a) Fix build
+- [f034e7b](https://github.com/kubedb/mysql-archiver/commit/f034e7b) Add build script (#1)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.1.0)

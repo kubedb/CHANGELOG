@@ -186,6 +186,14 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.2.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.2.0)
+
+- [a3de663](https://github.com/kubedb/provider-gcp/commit/a3de663) Add dynamically start crd reconciler (#3)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.19.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.19.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T20:26:12.78225224Z",
+  "release_date": "2023-12-27T20:38:48.854698773Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -488,6 +488,24 @@
         {
           "tag": "v0.18.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "abbbea47",
+              "Subject": "Prepare for release v0.27.0 (#505)"
+            },
+            {
+              "SHA": "5955ffd7",
+              "Subject": "Delete pod if it was found in CrashLoopBackOff while restarting (#504)"
+            }
+          ]
         }
       ]
     },

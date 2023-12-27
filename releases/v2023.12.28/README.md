@@ -217,6 +217,15 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.27.0](https://github.com/kubedb/ops-manager/releases/tag/v0.27.0)
+
+- [abbbea47](https://github.com/kubedb/ops-manager/commit/abbbea47) Prepare for release v0.27.0 (#505)
+- [5955ffd7](https://github.com/kubedb/ops-manager/commit/5955ffd7) Delete pod if it was found in CrashLoopBackOff while restarting (#504)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.27.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.27.0)

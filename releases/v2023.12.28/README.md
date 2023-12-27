@@ -16,3 +16,11 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.24.0](https://github.com/kubedb/mariadb/releases/tag/v0.24.0)
+
+- [94f03b1b](https://github.com/kubedb/mariadb/commit/94f03b1b) Prepare for release v0.24.0 (#241)
+
+
+

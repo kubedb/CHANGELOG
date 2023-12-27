@@ -24,6 +24,14 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.11.0](https://github.com/kubedb/kafka/releases/tag/v0.11.0)
+
+- [65e61f0](https://github.com/kubedb/kafka/commit/65e61f0) Prepare for release v0.11.0 (#56)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.3.0)

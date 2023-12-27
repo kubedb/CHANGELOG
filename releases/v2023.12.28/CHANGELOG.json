@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T19:02:31.793544511Z",
+  "release_date": "2023-12-27T19:02:43.197609389Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -43,6 +43,20 @@
             {
               "SHA": "d6368a16f",
               "Subject": "Add kubestash controller for changing kubeDB phase (#1076)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "745c70225",
+              "Subject": "Prepare for release v0.40.0 (#687)"
             }
           ]
         }

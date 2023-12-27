@@ -1,0 +1,52 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.12.28",
+  "release_date": "2023-12-27T18:21:59.507396785Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2023.12.28",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "000dfa1a6",
+              "Subject": "Use kubestash v0.3.0"
+            },
+            {
+              "SHA": "541ddfd45",
+              "Subject": "Update client-go deps"
+            },
+            {
+              "SHA": "b6912d25a",
+              "Subject": "Defaulting compute autoscaler fields (#1097)"
+            },
+            {
+              "SHA": "61b590f7b",
+              "Subject": "Add mysql archiver apis (#1086)"
+            },
+            {
+              "SHA": "750f6385b",
+              "Subject": "Add scaleUp & scaleDown diffPercentage fields to autoscaler (#1092)"
+            },
+            {
+              "SHA": "0922ff18c",
+              "Subject": "Add default resource for initContainer (#1094)"
+            },
+            {
+              "SHA": "da96ad5fe",
+              "Subject": "Revert \"Add kubestash controller for changing kubeDB phase (#1076)\""
+            },
+            {
+              "SHA": "d6368a16f",
+              "Subject": "Add kubestash controller for changing kubeDB phase (#1076)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

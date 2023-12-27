@@ -48,6 +48,28 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.1.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.1.0)
+
+- [910b7ce](https://github.com/kubedb/mariadb-archiver/commit/910b7ce) Prepare for release v0.1.0 (#1)
+- [3801668](https://github.com/kubedb/mariadb-archiver/commit/3801668) mysql -> mariadb
+- [4e905fb](https://github.com/kubedb/mariadb-archiver/commit/4e905fb) Implemenet new algorithm for archiver and restorer (#5)
+- [22701c8](https://github.com/kubedb/mariadb-archiver/commit/22701c8) Fix 5.7.x build
+- [6da2b1c](https://github.com/kubedb/mariadb-archiver/commit/6da2b1c) Update build matrix
+- [e2f6244](https://github.com/kubedb/mariadb-archiver/commit/e2f6244) Use separate dockerfile per mysql version (#9)
+- [e800623](https://github.com/kubedb/mariadb-archiver/commit/e800623) Prepare for release v0.2.0 (#8)
+- [b9f6ec5](https://github.com/kubedb/mariadb-archiver/commit/b9f6ec5) Install mysqlbinlog (#7)
+- [c46d991](https://github.com/kubedb/mariadb-archiver/commit/c46d991) Use appscode-images as base image (#6)
+- [721eaa8](https://github.com/kubedb/mariadb-archiver/commit/721eaa8) Prepare for release v0.1.0 (#4)
+- [8c65d14](https://github.com/kubedb/mariadb-archiver/commit/8c65d14) Prepare for release v0.1.0-rc.1 (#3)
+- [f79286a](https://github.com/kubedb/mariadb-archiver/commit/f79286a) Prepare for release v0.1.0-rc.0 (#2)
+- [dcd2e30](https://github.com/kubedb/mariadb-archiver/commit/dcd2e30) Fix wal-g binary
+- [6c20a4a](https://github.com/kubedb/mariadb-archiver/commit/6c20a4a) Fix build
+- [f034e7b](https://github.com/kubedb/mariadb-archiver/commit/f034e7b) Add build script (#1)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.33.0](https://github.com/kubedb/mongodb/releases/tag/v0.33.0)

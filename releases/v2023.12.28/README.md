@@ -128,6 +128,14 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.2.0](https://github.com/kubedb/provider-aws/releases/tag/v0.2.0)
+
+- [ec4459c](https://github.com/kubedb/provider-aws/commit/ec4459c) Add dynamically start crd reconciler (#9)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.3.0)

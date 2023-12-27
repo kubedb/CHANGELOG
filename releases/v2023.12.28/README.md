@@ -24,3 +24,13 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.33.0](https://github.com/kubedb/mongodb/releases/tag/v0.33.0)
+
+- [30a34a1c](https://github.com/kubedb/mongodb/commit/30a34a1c) Prepare for release v0.33.0 (#592)
+- [71c092df](https://github.com/kubedb/mongodb/commit/71c092df) Trigger backupSession once while backupConfig created (#591)
+- [57c8a367](https://github.com/kubedb/mongodb/commit/57c8a367) Set Default initContainer resource (#590)
+
+
+

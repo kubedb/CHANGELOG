@@ -136,6 +136,14 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.19.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.19.0)
+
+- [c4d1d8b7](https://github.com/kubedb/redis-coordinator/commit/c4d1d8b7) Prepare for release v0.19.0 (#84)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.3.0)

@@ -402,3 +402,11 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.16.0](https://github.com/kubedb/ui-server/releases/tag/v0.16.0)
+
+- [4e1c32a2](https://github.com/kubedb/ui-server/commit/4e1c32a2) Prepare for release v0.16.0 (#100)
+
+
+

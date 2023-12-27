@@ -120,6 +120,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.18.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.18.0)
+
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.13.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.13.0)

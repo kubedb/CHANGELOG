@@ -58,6 +58,22 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2023.12.28](https://github.com/kubedb/installer/releases/tag/v2023.12.28)
+
+- [8c5db03d](https://github.com/kubedb/installer/commit/8c5db03d) Prepare for release v2023.12.28 (#758)
+- [2e323fab](https://github.com/kubedb/installer/commit/2e323fab) mongodb-csisnapshotter -> mongodb-csi-snapshotter
+- [c8226e7d](https://github.com/kubedb/installer/commit/c8226e7d) postgres-csisnapshotter -> postgres-csi-snapshotter
+- [e17deeb2](https://github.com/kubedb/installer/commit/e17deeb2) Add NodeTopology crd to autoscaler chart (#757)
+- [84673762](https://github.com/kubedb/installer/commit/84673762) Add mysql archiver specs (#755)
+- [76713c53](https://github.com/kubedb/installer/commit/76713c53) Templatize wal-g images (#756)
+- [74e57f6e](https://github.com/kubedb/installer/commit/74e57f6e) Add image.* templates to kubestash catalog chart
+- [66efd1f3](https://github.com/kubedb/installer/commit/66efd1f3) Update crds for kubedb/apimachinery@61b590f7 (#754)
+- [dc051893](https://github.com/kubedb/installer/commit/dc051893) Update crds for kubedb/apimachinery@750f6385 (#753)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.11.0](https://github.com/kubedb/kafka/releases/tag/v0.11.0)

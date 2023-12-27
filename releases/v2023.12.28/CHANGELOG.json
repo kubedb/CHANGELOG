@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T20:54:21.910716669Z",
+  "release_date": "2023-12-27T21:33:02.765274558Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -121,6 +121,52 @@
             {
               "SHA": "231c402",
               "Subject": "Prepare for release v0.3.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2023.12.28",
+          "commits": [
+            {
+              "SHA": "8c5db03d",
+              "Subject": "Prepare for release v2023.12.28 (#758)"
+            },
+            {
+              "SHA": "2e323fab",
+              "Subject": "mongodb-csisnapshotter -> mongodb-csi-snapshotter"
+            },
+            {
+              "SHA": "c8226e7d",
+              "Subject": "postgres-csisnapshotter -> postgres-csi-snapshotter"
+            },
+            {
+              "SHA": "e17deeb2",
+              "Subject": "Add NodeTopology crd to autoscaler chart (#757)"
+            },
+            {
+              "SHA": "84673762",
+              "Subject": "Add mysql archiver specs (#755)"
+            },
+            {
+              "SHA": "76713c53",
+              "Subject": "Templatize wal-g images (#756)"
+            },
+            {
+              "SHA": "74e57f6e",
+              "Subject": "Add image.* templates to kubestash catalog chart"
+            },
+            {
+              "SHA": "66efd1f3",
+              "Subject": "Update crds for kubedb/apimachinery@61b590f7 (#754)"
+            },
+            {
+              "SHA": "dc051893",
+              "Subject": "Update crds for kubedb/apimachinery@750f6385 (#753)"
             }
           ]
         }

@@ -325,6 +325,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.33.0](https://github.com/kubedb/redis/releases/tag/v0.33.0)
+
+- [9e36ab06](https://github.com/kubedb/redis/commit/9e36ab06) Prepare for release v0.33.0 (#506)
+- [58b47ecb](https://github.com/kubedb/redis/commit/58b47ecb) Fix initContainer resources (#505)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.19.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.19.0)

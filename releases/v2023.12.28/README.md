@@ -16,6 +16,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.25.0](https://github.com/kubedb/autoscaler/releases/tag/v0.25.0)
+
+- [557a5503](https://github.com/kubedb/autoscaler/commit/557a5503) Prepare for release v0.25.0 (#169)
+- [346ed2f0](https://github.com/kubedb/autoscaler/commit/346ed2f0) Implement nodePool jumping when topology specified  (#168)
+- [5d464e14](https://github.com/kubedb/autoscaler/commit/5d464e14) Add Dockerfile for dbg; Use go 21 (#167)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.40.0](https://github.com/kubedb/cli/releases/tag/v0.40.0)

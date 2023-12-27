@@ -34,6 +34,21 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.1.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.1.0)
+
+- [fc233a7](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/fc233a7) Prepare for release v0.1.0 (#7)
+- [2bad72d](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/2bad72d) Prepare for release v0.2.0 (#6)
+- [c2fcb4f](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/c2fcb4f) Prepare for release v0.1.0 (#5)
+- [92b28e8](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/92b28e8) Prepare for release v0.1.0-rc.1 (#4)
+- [f06d344](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/f06d344) Prepare for release v0.1.0-rc.0 (#3)
+- [df1a966](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/df1a966) Update flags + Refactor (#2)
+- [7eb7cea](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/7eb7cea) Fix issues
+- [1f189b4](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/1f189b4) Test against K8s 1.27.0 (#1)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.3.0)

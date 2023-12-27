@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T18:59:50.040657658Z",
+  "release_date": "2023-12-27T18:59:54.798133844Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -79,6 +79,48 @@
             {
               "SHA": "57c8a367",
               "Subject": "Set Default initContainer resource (#590)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "fc233a7",
+              "Subject": "Prepare for release v0.1.0 (#7)"
+            },
+            {
+              "SHA": "2bad72d",
+              "Subject": "Prepare for release v0.2.0 (#6)"
+            },
+            {
+              "SHA": "c2fcb4f",
+              "Subject": "Prepare for release v0.1.0 (#5)"
+            },
+            {
+              "SHA": "92b28e8",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#4)"
+            },
+            {
+              "SHA": "f06d344",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
+            },
+            {
+              "SHA": "df1a966",
+              "Subject": "Update flags + Refactor (#2)"
+            },
+            {
+              "SHA": "7eb7cea",
+              "Subject": "Fix issues"
+            },
+            {
+              "SHA": "1f189b4",
+              "Subject": "Test against K8s 1.27.0 (#1)"
             }
           ]
         }

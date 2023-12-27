@@ -1,0 +1,299 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2023.12.28",
+  "docs_url_template": "https://kubedb.com/docs/%s",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "github.com/kubedb/apimachinery": {
+        "tag": "v0.40.0"
+      }
+    },
+    {
+      "github.com/kubedb/cli": {
+        "key": "kubedb-cli",
+        "tag": "v0.40.0"
+      },
+      "github.com/kubedb/elasticsearch": {
+        "tag": "v0.40.0"
+      },
+      "github.com/kubedb/elasticsearch-restic-plugin": {
+        "tag": "v0.3.0"
+      },
+      "github.com/kubedb/kafka": {
+        "tag": "v0.11.0"
+      },
+      "github.com/kubedb/kubedb-manifest-plugin": {
+        "tag": "v0.3.0"
+      },
+      "github.com/kubedb/mariadb": {
+        "tag": "v0.24.0"
+      },
+      "github.com/kubedb/mariadb-archiver": {
+        "tag": "v0.1.0"
+      },
+      "github.com/kubedb/mariadb-coordinator": {
+        "tag": "v0.20.0"
+      },
+      "github.com/kubedb/mariadb-csi-snapshotter-plugin": {
+        "tag": "v0.1.0"
+      },
+      "github.com/kubedb/memcached": {
+        "tag": "v0.33.0"
+      },
+      "github.com/kubedb/mongodb": {
+        "tag": "v0.33.0"
+      },
+      "github.com/kubedb/mongodb-csi-snapshotter-plugin": {
+        "tag": "v0.1.0"
+      },
+      "github.com/kubedb/mongodb-restic-plugin": {
+        "tag": "v0.3.0"
+      },
+      "github.com/kubedb/mysql": {
+        "tag": "v0.33.0"
+      },
+      "github.com/kubedb/mysql-archiver": {
+        "tag": "v0.1.0"
+      },
+      "github.com/kubedb/mysql-coordinator": {
+        "tag": "v0.18.0"
+      },
+      "github.com/kubedb/mysql-csi-snapshotter-plugin": {
+        "tag": "v0.1.0"
+      },
+      "github.com/kubedb/mysql-restic-plugin": {
+        "tag": "v0.3.0"
+      },
+      "github.com/kubedb/mysql-router-init": {
+        "tag": "v0.18.0"
+      },
+      "github.com/kubedb/percona-xtradb": {
+        "tag": "v0.27.0"
+      },
+      "github.com/kubedb/percona-xtradb-coordinator": {
+        "tag": "v0.13.0"
+      },
+      "github.com/kubedb/pg-coordinator": {
+        "tag": "v0.24.0"
+      },
+      "github.com/kubedb/postgres": {
+        "tag": "v0.40.0"
+      },
+      "github.com/kubedb/postgres-archiver": {
+        "tag": "v0.1.0"
+      },
+      "github.com/kubedb/postgres-csi-snapshotter-plugin": {
+        "tag": "v0.1.0"
+      },
+      "github.com/kubedb/postgres-restic-plugin": {
+        "tag": "v0.3.0"
+      },
+      "github.com/kubedb/provider-aws": {
+        "tag": "v0.2.0"
+      },
+      "github.com/kubedb/provider-azure": {
+        "tag": "v0.2.0"
+      },
+      "github.com/kubedb/provider-gcp": {
+        "tag": "v0.2.0"
+      },
+      "github.com/kubedb/redis": {
+        "tag": "v0.33.0"
+      },
+      "github.com/kubedb/redis-coordinator": {
+        "tag": "v0.19.0"
+      },
+      "github.com/kubedb/redis-restic-plugin": {
+        "tag": "v0.3.0"
+      },
+      "github.com/kubedb/replication-mode-detector": {
+        "tag": "v0.27.0"
+      },
+      "github.com/kubedb/tests": {
+        "tag": "v0.25.0"
+      }
+    },
+    {
+      "github.com/kubedb/pgbouncer": {
+        "tag": "v0.27.0",
+        "commands": [
+          "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=POSTGRES_TAG=${KUBEDB_POSTGRES_TAG} ",
+          "make add-license fmt"
+        ]
+      },
+      "github.com/kubedb/proxysql": {
+        "tag": "v0.27.0",
+        "commands": [
+          "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=MYSQL_TAG=${KUBEDB_MYSQL_TAG} --vars=PERCONA_XTRADB_TAG=${KUBEDB_PERCONA_XTRADB_TAG} ",
+          "make add-license fmt"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/dashboard": {
+        "key": "kubedb-dashboard",
+        "tag": "v0.16.0",
+        "chartNames": [
+          "kubedb-dashboard"
+        ]
+      },
+      "github.com/kubedb/provisioner": {
+        "key": "kubedb-provisioner",
+        "tag": "v0.40.0",
+        "chartNames": [
+          "kubedb-provisioner"
+        ]
+      },
+      "github.com/kubedb/schema-manager": {
+        "key": "kubedb-schema-manager",
+        "tag": "v0.16.0",
+        "chartNames": [
+          "kubedb-schema-manager"
+        ]
+      },
+      "github.com/kubedb/ui-server": {
+        "key": "kubedb-ui-server",
+        "tag": "v0.16.0",
+        "chartNames": [
+          "kubedb-ui-server"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/ops-manager": {
+        "key": "kubedb-ops-manager",
+        "tag": "v0.27.0",
+        "chartNames": [
+          "kubedb-ops-manager"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/autoscaler": {
+        "key": "kubedb-autoscaler",
+        "tag": "v0.25.0",
+        "chartNames": [
+          "kubedb-autoscaler"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/webhook-server": {
+        "key": "kubedb-webhook-server",
+        "tag": "v0.16.0",
+        "chartNames": [
+          "kubedb-webhook-server"
+        ]
+      }
+    },
+    {
+      "github.com/kubedb/installer": {
+        "key": "kubedb-installer",
+        "tag": "v2023.12.28",
+        "chartNames": [
+          "kubedb-crds",
+          "kubedb-catalog",
+          "kubedb"
+        ],
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "go run ./catalog/kubedb/fmt/main.go --update-spec=spec.replicationModeDetector.image=ghcr.io/kubedb/replication-mode-detector:${KUBEDB_REPLICATION_MODE_DETECTOR_TAG}",
+          "go run ./catalog/kubedb/fmt/main.go --kind=MariaDBVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/mariadb-coordinator:${KUBEDB_MARIADB_COORDINATOR_TAG}",
+          "go run ./catalog/kubedb/fmt/main.go --kind=MySQLVersion --update-spec=spec.archiver.walg.image=${KUBEDB_MYSQL_ARCHIVER_TAG}",
+          "go run ./catalog/kubedb/fmt/main.go --kind=MySQLVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/mysql-coordinator:${KUBEDB_MYSQL_COORDINATOR_TAG}",
+          "go run ./catalog/kubedb/fmt/main.go --kind=MySQLVersion --update-spec=spec.routerInitContainer.image=ghcr.io/kubedb/mysql-router-init:${KUBEDB_MYSQL_ROUTER_INIT_TAG}",
+          "go run ./catalog/kubedb/fmt/main.go --kind=PerconaXtraDBVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/percona-xtradb-coordinator:${KUBEDB_PERCONA_XTRADB_COORDINATOR_TAG}",
+          "go run ./catalog/kubedb/fmt/main.go --kind=PostgresVersion --update-spec=spec.archiver.walg.image=${KUBEDB_POSTGRES_ARCHIVER_TAG}",
+          "go run ./catalog/kubedb/fmt/main.go --kind=PostgresVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/pg-coordinator:${KUBEDB_PG_COORDINATOR_TAG}",
+          "go run ./catalog/kubedb/fmt/main.go --kind=RedisVersion --update-spec=spec.coordinator.image=ghcr.io/kubedb/redis-coordinator:${KUBEDB_REDIS_COORDINATOR_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=elasticsearch-backup --update-spec=spec.image=ghcr.io/kubedb/elasticsearch-restic-plugin:${KUBEDB_ELASTICSEARCH_RESTIC_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=elasticsearch-restore --update-spec=spec.image=ghcr.io/kubedb/elasticsearch-restic-plugin:${KUBEDB_ELASTICSEARCH_RESTIC_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=kubedbmanifest-backup --update-spec=spec.image=ghcr.io/kubedb/kubedb-manifest-plugin:${KUBEDB_KUBEDB_MANIFEST_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=kubedbmanifest-restore --update-spec=spec.image=ghcr.io/kubedb/kubedb-manifest-plugin:${KUBEDB_KUBEDB_MANIFEST_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=mongodb-backup --update-spec=spec.image=ghcr.io/kubedb/mongodb-restic-plugin:${KUBEDB_MONGODB_RESTIC_PLUGIN_TAG}_$${DB_VERSION}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=mongodb-csi-snapshotter --update-spec=spec.image=ghcr.io/kubedb/mongodb-csi-snapshotter-plugin:${KUBEDB_MONGODB_CSI_SNAPSHOTTER_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=mongodb-restore --update-spec=spec.image=ghcr.io/kubedb/mongodb-restic-plugin:${KUBEDB_MONGODB_RESTIC_PLUGIN_TAG}_$${DB_VERSION}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=mysql-backup --update-spec=spec.image=ghcr.io/kubedb/mysql-restic-plugin:${KUBEDB_MYSQL_RESTIC_PLUGIN_TAG}_$${DB_VERSION}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=mysql-csi-snapshotter --update-spec=spec.image=ghcr.io/kubedb/mysql-csi-snapshotter-plugin:${KUBEDB_MYSQL_CSI_SNAPSHOTTER_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=mysql-restore --update-spec=spec.image=ghcr.io/kubedb/mysql-restic-plugin:${KUBEDB_MYSQL_RESTIC_PLUGIN_TAG}_$${DB_VERSION}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=opensearch-backup --update-spec=spec.image=ghcr.io/kubedb/elasticsearch-restic-plugin:${KUBEDB_ELASTICSEARCH_RESTIC_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=opensearch-restore --update-spec=spec.image=ghcr.io/kubedb/elasticsearch-restic-plugin:${KUBEDB_ELASTICSEARCH_RESTIC_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=postgres-backup --update-spec=spec.image=ghcr.io/kubedb/postgres-restic-plugin:${KUBEDB_POSTGRES_RESTIC_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=postgres-csi-snapshotter --update-spec=spec.image=ghcr.io/kubedb/postgres-csi-snapshotter-plugin:${KUBEDB_POSTGRES_CSI_SNAPSHOTTER_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=postgres-restore --update-spec=spec.image=ghcr.io/kubedb/postgres-restic-plugin:${KUBEDB_POSTGRES_RESTIC_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=redis-backup --update-spec=spec.image=ghcr.io/kubedb/redis-restic-plugin:${KUBEDB_REDIS_RESTIC_PLUGIN_TAG}",
+          "go run ./catalog/kubestash/fmt/main.go --kind=Function --name=redis-restore --update-spec=spec.image=ghcr.io/kubedb/redis-restic-plugin:${KUBEDB_REDIS_RESTIC_PLUGIN_TAG}",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-provisioner CHART_VERSION=${KUBEDB_PROVISIONER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-ops-manager CHART_VERSION=${KUBEDB_OPS_MANAGER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-autoscaler CHART_VERSION=${KUBEDB_AUTOSCALER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-dashboard CHART_VERSION=${KUBEDB_DASHBOARD_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-schema-manager CHART_VERSION=${KUBEDB_SCHEMA_MANAGER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-ui-server CHART_VERSION=${KUBEDB_UI_SERVER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-webhook-server CHART_VERSION=${KUBEDB_WEBHOOK_SERVER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-provider-aws CHART_VERSION=${RELEASE} APP_VERSION=${KUBEDB_PROVIDER_AWS_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-provider-azure CHART_VERSION=${RELEASE} APP_VERSION=${KUBEDB_PROVIDER_AZURE_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-kubedb-provider-gcp CHART_VERSION=${RELEASE} APP_VERSION=${KUBEDB_PROVIDER_GCP_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "./hack/scripts/update-chart-dependencies.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/kubedb/installer"
+        ],
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/appscode/static-assets": {
+        "commands": [
+          "release-automaton update-assets --hide --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+        ],
+        "changelog": "StandaloneWebsite"
+      }
+    },
+    {
+      "github.com/kubedb/docs": {
+        "key": "kubedb",
+        "tag": "v2023.12.28",
+        "commands": [
+          "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/kubedb/website": {
+        "tag": "v2023.12.28",
+        "commands": [
+          "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
+          "make docs",
+          "make set-version VERSION=${TAG}"
+        ],
+        "release_branch": "master",
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/kubedb/bundles": {
+        "tag": "v2023.12.28",
+        "commands": [
+          "release-automaton update-bundles --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE} --charts-dir=charts"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/bytebuilders/bundle-registry": {
+        "charts": [
+          "github.com/kubedb/bundles"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ]
+}

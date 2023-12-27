@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T21:43:50.999832406Z",
+  "release_date": "2023-12-27T21:52:05.363274401Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -65,6 +65,20 @@
             {
               "SHA": "5d464e14",
               "Subject": "Add Dockerfile for dbg; Use go 21 (#167)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2023.12.28",
+          "commits": [
+            {
+              "SHA": "8b4488a",
+              "Subject": "Prepare for release v2023.12.28 (#77)"
             }
           ]
         }

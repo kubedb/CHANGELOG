@@ -119,6 +119,17 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.33.0](https://github.com/kubedb/mysql/releases/tag/v0.33.0)
+
+- [74a63d01](https://github.com/kubedb/mysql/commit/74a63d01) Prepare for release v0.33.0 (#583)
+- [272eb81c](https://github.com/kubedb/mysql/commit/272eb81c) fix typos and secondlast snapshot time (#582)
+- [7efda78a](https://github.com/kubedb/mysql/commit/7efda78a) Fix error return
+- [a6cd4fe9](https://github.com/kubedb/mysql/commit/a6cd4fe9) Add support for archiver (#577)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.1.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.1.0)

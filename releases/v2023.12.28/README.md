@@ -199,6 +199,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.27.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.27.0)
+
+- [117ce794](https://github.com/kubedb/percona-xtradb/commit/117ce794) Prepare for release v0.27.0 (#340)
+- [56a4b354](https://github.com/kubedb/percona-xtradb/commit/56a4b354) Fix initContainer resource (#339)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.13.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.13.0)

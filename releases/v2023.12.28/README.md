@@ -42,3 +42,11 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.13.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.13.0)
+
+- [8ce147f](https://github.com/kubedb/percona-xtradb-coordinator/commit/8ce147f) Prepare for release v0.13.0 (#53)
+
+
+

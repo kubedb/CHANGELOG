@@ -223,6 +223,48 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.1.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.1.0)
+
+- [12cb5f0](https://github.com/kubedb/postgres-archiver/commit/12cb5f0) Prepare for release v0.1.0 (#14)
+- [91c52a5](https://github.com/kubedb/postgres-archiver/commit/91c52a5) Add tls support for connection string (#13)
+- [c4f7e11](https://github.com/kubedb/postgres-archiver/commit/c4f7e11) Fix formatting
+- [1feeaeb](https://github.com/kubedb/postgres-archiver/commit/1feeaeb) Fix wal-g version
+- [c86ede7](https://github.com/kubedb/postgres-archiver/commit/c86ede7) Update readme
+- [f5b4fb3](https://github.com/kubedb/postgres-archiver/commit/f5b4fb3) Rename to postgres-archiver
+- [302fbc1](https://github.com/kubedb/postgres-archiver/commit/302fbc1) Merge pull request #12 from kubedb/cleanup
+- [020b817](https://github.com/kubedb/postgres-archiver/commit/020b817) clean up
+- [5ae6dee](https://github.com/kubedb/postgres-archiver/commit/5ae6dee) Add ca-certificates into docker image
+- [2a9e7b5](https://github.com/kubedb/postgres-archiver/commit/2a9e7b5) Build images parallelly
+- [ec05751](https://github.com/kubedb/postgres-archiver/commit/ec05751) Build bookwork images
+- [1ed24d1](https://github.com/kubedb/postgres-archiver/commit/1ed24d1) Build multi version docker images
+- [57dd7e5](https://github.com/kubedb/postgres-archiver/commit/57dd7e5) Format repo (#11)
+- [adc5e71](https://github.com/kubedb/postgres-archiver/commit/adc5e71) Implement archiver command (#7)
+- [7d0adba](https://github.com/kubedb/postgres-archiver/commit/7d0adba) Test against K8s 1.27.0 (#10)
+- [9b2a242](https://github.com/kubedb/postgres-archiver/commit/9b2a242) Update Makefile
+- [cbbe124](https://github.com/kubedb/postgres-archiver/commit/cbbe124) Use ghcr.io for appscode/golang-dev (#9)
+- [03877ad](https://github.com/kubedb/postgres-archiver/commit/03877ad) Update wrokflows (Go 1.20, k8s 1.26) (#8)
+- [ad607ec](https://github.com/kubedb/postgres-archiver/commit/ad607ec) Use Go 1.18 (#5)
+- [32d1866](https://github.com/kubedb/postgres-archiver/commit/32d1866) Use Go 1.18 (#4)
+- [42ae1cb](https://github.com/kubedb/postgres-archiver/commit/42ae1cb) make fmt (#3)
+- [1a6fe8d](https://github.com/kubedb/postgres-archiver/commit/1a6fe8d) Update repository config (#2)
+- [8100920](https://github.com/kubedb/postgres-archiver/commit/8100920) Update repository config (#1)
+- [8e3c29d](https://github.com/kubedb/postgres-archiver/commit/8e3c29d) Add License and Makefile
+- [0097568](https://github.com/kubedb/postgres-archiver/commit/0097568) fix: added proper wal-handler need to do: fix kill container
+- [5ebca34](https://github.com/kubedb/postgres-archiver/commit/5ebca34) added check for primary Signed-off-by: Emon46 <emon@appscode.com>
+- [0829021](https://github.com/kubedb/postgres-archiver/commit/0829021) added: Different wal dir for different base-backup
+- [2e66200](https://github.com/kubedb/postgres-archiver/commit/2e66200) added: basebackup handler update: intial listing func
+- [b9c938f](https://github.com/kubedb/postgres-archiver/commit/b9c938f) update: added walg base-backup in bucket storage Signed-off-by: Emon46 <emon@appscode.com>
+- [3c8c8da](https://github.com/kubedb/postgres-archiver/commit/3c8c8da) fix: fix go routine fr bucket listing update: added ticker in go routine update: combined two go-routine for listing file and bucket queue
+- [21c1076](https://github.com/kubedb/postgres-archiver/commit/21c1076) added: wal-g push need to fix : filter list is not working
+- [bc41b06](https://github.com/kubedb/postgres-archiver/commit/bc41b06) added - getExistingWalFiles func() updated - UpdateBucketPushQueue() Signed-off-by: Emon46 <emon@appscode.com>
+- [b93fa5b](https://github.com/kubedb/postgres-archiver/commit/b93fa5b) added functions Signed-off-by: Emon331046 <emon@appscode.com>
+- [7ded016](https://github.com/kubedb/postgres-archiver/commit/7ded016) added-func-name
+- [cc7544d](https://github.com/kubedb/postgres-archiver/commit/cc7544d) file watcher local postgres watching Signed-off-by: Emon331046 <emon@appscode.com>
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.1.0)

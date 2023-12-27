@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2023.12.28",
-  "release_date": "2023-12-27T19:39:42.296296525Z",
+  "release_date": "2023-12-27T19:40:03.16892862Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2023.12.28",
   "kubernetes_version": "1.20+",
@@ -492,6 +492,156 @@
             {
               "SHA": "17d393689",
               "Subject": "Prepare for release v0.40.0 (#695)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "12cb5f0",
+              "Subject": "Prepare for release v0.1.0 (#14)"
+            },
+            {
+              "SHA": "91c52a5",
+              "Subject": "Add tls support for connection string (#13)"
+            },
+            {
+              "SHA": "c4f7e11",
+              "Subject": "Fix formatting"
+            },
+            {
+              "SHA": "1feeaeb",
+              "Subject": "Fix wal-g version"
+            },
+            {
+              "SHA": "c86ede7",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "f5b4fb3",
+              "Subject": "Rename to postgres-archiver"
+            },
+            {
+              "SHA": "302fbc1",
+              "Subject": "Merge pull request #12 from kubedb/cleanup"
+            },
+            {
+              "SHA": "020b817",
+              "Subject": "clean up"
+            },
+            {
+              "SHA": "5ae6dee",
+              "Subject": "Add ca-certificates into docker image"
+            },
+            {
+              "SHA": "2a9e7b5",
+              "Subject": "Build images parallelly"
+            },
+            {
+              "SHA": "ec05751",
+              "Subject": "Build bookwork images"
+            },
+            {
+              "SHA": "1ed24d1",
+              "Subject": "Build multi version docker images"
+            },
+            {
+              "SHA": "57dd7e5",
+              "Subject": "Format repo (#11)"
+            },
+            {
+              "SHA": "adc5e71",
+              "Subject": "Implement archiver command (#7)"
+            },
+            {
+              "SHA": "7d0adba",
+              "Subject": "Test against K8s 1.27.0 (#10)"
+            },
+            {
+              "SHA": "9b2a242",
+              "Subject": "Update Makefile"
+            },
+            {
+              "SHA": "cbbe124",
+              "Subject": "Use ghcr.io for appscode/golang-dev (#9)"
+            },
+            {
+              "SHA": "03877ad",
+              "Subject": "Update wrokflows (Go 1.20, k8s 1.26) (#8)"
+            },
+            {
+              "SHA": "ad607ec",
+              "Subject": "Use Go 1.18 (#5)"
+            },
+            {
+              "SHA": "32d1866",
+              "Subject": "Use Go 1.18 (#4)"
+            },
+            {
+              "SHA": "42ae1cb",
+              "Subject": "make fmt (#3)"
+            },
+            {
+              "SHA": "1a6fe8d",
+              "Subject": "Update repository config (#2)"
+            },
+            {
+              "SHA": "8100920",
+              "Subject": "Update repository config (#1)"
+            },
+            {
+              "SHA": "8e3c29d",
+              "Subject": "Add License and Makefile"
+            },
+            {
+              "SHA": "0097568",
+              "Subject": "fix: added proper wal-handler need to do: fix kill container"
+            },
+            {
+              "SHA": "5ebca34",
+              "Subject": "added check for primary Signed-off-by: Emon46 <emon@appscode.com>"
+            },
+            {
+              "SHA": "0829021",
+              "Subject": "added: Different wal dir for different base-backup"
+            },
+            {
+              "SHA": "2e66200",
+              "Subject": "added: basebackup handler update: intial listing func"
+            },
+            {
+              "SHA": "b9c938f",
+              "Subject": "update: added walg base-backup in bucket storage Signed-off-by: Emon46 <emon@appscode.com>"
+            },
+            {
+              "SHA": "3c8c8da",
+              "Subject": "fix: fix go routine fr bucket listing update: added ticker in go routine update: combined two go-routine for listing file and bucket queue"
+            },
+            {
+              "SHA": "21c1076",
+              "Subject": "added: wal-g push need to fix : filter list is not working"
+            },
+            {
+              "SHA": "bc41b06",
+              "Subject": "added - getExistingWalFiles func() updated - UpdateBucketPushQueue() Signed-off-by: Emon46 <emon@appscode.com>"
+            },
+            {
+              "SHA": "b93fa5b",
+              "Subject": "added functions Signed-off-by: Emon331046 <emon@appscode.com>"
+            },
+            {
+              "SHA": "7ded016",
+              "Subject": "added-func-name"
+            },
+            {
+              "SHA": "cc7544d",
+              "Subject": "file watcher local postgres watching Signed-off-by: Emon331046 <emon@appscode.com>"
             }
           ]
         }

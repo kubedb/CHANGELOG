@@ -34,3 +34,11 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.3.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.3.0)
+
+- [a364862](https://github.com/kubedb/mysql-restic-plugin/commit/a364862) Prepare for release v0.3.0 (#17)
+
+
+

@@ -179,3 +179,13 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.25.0](https://github.com/kubedb/tests/releases/tag/v0.25.0)
+
+- [a8a640dd](https://github.com/kubedb/tests/commit/a8a640dd) Prepare for release v0.25.0 (#278)
+- [7149cc0c](https://github.com/kubedb/tests/commit/7149cc0c) Fix elasticsearch vertical scalinig tests. (#277)
+- [3c71eea9](https://github.com/kubedb/tests/commit/3c71eea9) Fix build for autosclaer & verticalOps breaking api-changes (#276)
+
+
+

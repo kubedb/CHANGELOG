@@ -128,6 +128,25 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.1.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.1.0)
+
+- [b141665](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/b141665) Prepare for release v0.1.0 (#10)
+- [bce9779](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/bce9779) Prepare for release v0.2.0 (#9)
+- [31f5fc5](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/31f5fc5) Prepare for release v0.1.0 (#8)
+- [57a7bdf](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/57a7bdf) Prepare for release v0.1.0-rc.1 (#7)
+- [02a45da](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/02a45da) Prepare for release v0.1.0-rc.0 (#6)
+- [1a6457c](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/1a6457c) Update flags and deps + Refactor (#5)
+- [f32b56b](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/f32b56b) Delete .idea folder
+- [e7f8135](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/e7f8135) clean up (#4)
+- [06e7e70](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/06e7e70) clean up (#3)
+- [b23dd63](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/b23dd63) Add build scripts
+- [2e1dff2](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/2e1dff2) Add Postgres backup plugin (#1)
+- [d0d156b](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/d0d156b) Test against K8s 1.27.0 (#2)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.2.0](https://github.com/kubedb/provider-aws/releases/tag/v0.2.0)

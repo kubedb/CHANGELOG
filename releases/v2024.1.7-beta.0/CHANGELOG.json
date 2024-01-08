@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T04:04:24.492505012Z",
+  "release_date": "2024-01-08T04:04:30.520108247Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -61,6 +61,24 @@
             {
               "SHA": "0402847",
               "Subject": "Use k8s 1.29 client libs (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.19.0-beta.0",
+          "commits": [
+            {
+              "SHA": "85f8c6f",
+              "Subject": "Update deps (#38)"
+            },
+            {
+              "SHA": "7dd201c",
+              "Subject": "Use k8s 1.29 client libs (#37)"
             }
           ]
         }

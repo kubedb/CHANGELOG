@@ -60,6 +60,13 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.4.0-beta.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.4.0-beta.0)
+
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.3.0-beta.0](https://github.com/kubedb/provider-aws/releases/tag/v0.3.0-beta.0)

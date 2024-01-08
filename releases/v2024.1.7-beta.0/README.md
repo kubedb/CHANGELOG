@@ -72,6 +72,19 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.25.0-beta.0](https://github.com/kubedb/mariadb/releases/tag/v0.25.0-beta.0)
+
+- [b93ddce3](https://github.com/kubedb/mariadb/commit/b93ddce3d) Prepare for release v0.25.0-beta.0 (#247)
+- [8099af6d](https://github.com/kubedb/mariadb/commit/8099af6d9) Dynamically start crd controller (#246)
+- [0a9dd9e0](https://github.com/kubedb/mariadb/commit/0a9dd9e03) Update deps (#245)
+- [5c548629](https://github.com/kubedb/mariadb/commit/5c548629e) Update deps (#244)
+- [0f9ea4f2](https://github.com/kubedb/mariadb/commit/0f9ea4f20) Update deps
+- [89641d3c](https://github.com/kubedb/mariadb/commit/89641d3c7) Use k8s 1.29 client libs (#242)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.1.0-beta.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.1.0-beta.0)

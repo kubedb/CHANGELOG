@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T05:22:40.369745562Z",
+  "release_date": "2024-01-08T05:30:26.193504867Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -177,6 +177,40 @@
             {
               "SHA": "5ce328d",
               "Subject": "Use k8s 1.29 client libs (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.25.0-beta.0",
+          "commits": [
+            {
+              "SHA": "b93ddce3d",
+              "Subject": "Prepare for release v0.25.0-beta.0 (#247)"
+            },
+            {
+              "SHA": "8099af6d9",
+              "Subject": "Dynamically start crd controller (#246)"
+            },
+            {
+              "SHA": "0a9dd9e03",
+              "Subject": "Update deps (#245)"
+            },
+            {
+              "SHA": "5c548629e",
+              "Subject": "Update deps (#244)"
+            },
+            {
+              "SHA": "0f9ea4f20",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "89641d3c7",
+              "Subject": "Use k8s 1.29 client libs (#242)"
             }
           ]
         }

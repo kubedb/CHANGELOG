@@ -155,6 +155,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.2.0-beta.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.2.0-beta.0)
+
+- [5833776](https://github.com/kubedb/mysql-archiver/commit/5833776) Prepare for release v0.2.0-beta.0 (#12)
+- [f3e68b2](https://github.com/kubedb/mysql-archiver/commit/f3e68b2) Use k8s 1.29 client libs (#11)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.4.0-beta.0)

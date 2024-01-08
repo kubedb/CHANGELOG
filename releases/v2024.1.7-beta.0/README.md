@@ -26,6 +26,13 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.17.0-beta.0](https://github.com/kubedb/dashboard/releases/tag/v0.17.0-beta.0)
+
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.41.0-beta.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.41.0-beta.0)

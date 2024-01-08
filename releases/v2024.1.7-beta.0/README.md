@@ -318,6 +318,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.4.0-beta.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.4.0-beta.0)
+
+- [da2796a](https://github.com/kubedb/redis-restic-plugin/commit/da2796a) Prepare for release v0.4.0-beta.0 (#16)
+- [0553c6f](https://github.com/kubedb/redis-restic-plugin/commit/0553c6f) Use k8s 1.29 client libs (#15)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.28.0-beta.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.28.0-beta.0)

@@ -16,6 +16,16 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.41.0-beta.0](https://github.com/kubedb/cli/releases/tag/v0.41.0-beta.0)
+
+- [c0165e83](https://github.com/kubedb/cli/commit/c0165e83) Prepare for release v0.41.0-beta.0 (#747)
+- [d9c905e5](https://github.com/kubedb/cli/commit/d9c905e5) Update deps (#746)
+- [bc415a1d](https://github.com/kubedb/cli/commit/bc415a1d) Update deps (#745)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.4.0-beta.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T04:10:50.248458069Z",
+  "release_date": "2024-01-08T04:12:51.153518978Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -43,6 +43,28 @@
             {
               "SHA": "389a934c7",
               "Subject": "Use k8s 1.29 client libs (#1093)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.41.0-beta.0",
+          "commits": [
+            {
+              "SHA": "c0165e83",
+              "Subject": "Prepare for release v0.41.0-beta.0 (#747)"
+            },
+            {
+              "SHA": "d9c905e5",
+              "Subject": "Update deps (#746)"
+            },
+            {
+              "SHA": "bc415a1d",
+              "Subject": "Update deps (#745)"
             }
           ]
         }

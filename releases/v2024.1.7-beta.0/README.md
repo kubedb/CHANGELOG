@@ -16,6 +16,13 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.26.0-beta.0](https://github.com/kubedb/autoscaler/releases/tag/v0.26.0-beta.0)
+
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.41.0-beta.0](https://github.com/kubedb/cli/releases/tag/v0.41.0-beta.0)

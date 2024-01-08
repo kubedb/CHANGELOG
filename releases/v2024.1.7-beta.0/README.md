@@ -35,6 +35,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.4.0-beta.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.4.0-beta.0)
+
+- [c315615](https://github.com/kubedb/kubedb-manifest-plugin/commit/c315615) Prepare for release v0.4.0-beta.0 (#36)
+- [5ce328d](https://github.com/kubedb/kubedb-manifest-plugin/commit/5ce328d) Use k8s 1.29 client libs (#34)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.4.0-beta.0)

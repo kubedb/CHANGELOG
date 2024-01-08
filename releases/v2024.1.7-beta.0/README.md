@@ -84,6 +84,15 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.2.0-beta.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.2.0-beta.0)
+
+- [ef74421](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/ef74421) Prepare for release v0.2.0-beta.0 (#9)
+- [c2c9bd4](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/c2c9bd4) Use k8s 1.29 client libs (#8)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.4.0-beta.0)

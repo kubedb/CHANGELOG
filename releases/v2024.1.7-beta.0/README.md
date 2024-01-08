@@ -424,6 +424,13 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.17.0-beta.0](https://github.com/kubedb/schema-manager/releases/tag/v0.17.0-beta.0)
+
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.26.0-beta.0](https://github.com/kubedb/tests/releases/tag/v0.26.0-beta.0)

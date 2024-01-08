@@ -57,6 +57,18 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.34.0-beta.0](https://github.com/kubedb/memcached/releases/tag/v0.34.0-beta.0)
+
+- [6fe1686a](https://github.com/kubedb/memcached/commit/6fe1686a) Prepare for release v0.34.0-beta.0 (#416)
+- [1cfb0544](https://github.com/kubedb/memcached/commit/1cfb0544) Dynamically start crd controller (#415)
+- [171faff2](https://github.com/kubedb/memcached/commit/171faff2) Update deps (#414)
+- [639495c7](https://github.com/kubedb/memcached/commit/639495c7) Update deps (#413)
+- [223d295a](https://github.com/kubedb/memcached/commit/223d295a) Use k8s 1.29 client libs (#412)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.4.0-beta.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T04:42:27.978816756Z",
+  "release_date": "2024-01-08T04:45:23.106730944Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -135,6 +135,36 @@
             {
               "SHA": "5ce328d",
               "Subject": "Use k8s 1.29 client libs (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.34.0-beta.0",
+          "commits": [
+            {
+              "SHA": "6fe1686a",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#416)"
+            },
+            {
+              "SHA": "1cfb0544",
+              "Subject": "Dynamically start crd controller (#415)"
+            },
+            {
+              "SHA": "171faff2",
+              "Subject": "Update deps (#414)"
+            },
+            {
+              "SHA": "639495c7",
+              "Subject": "Update deps (#413)"
+            },
+            {
+              "SHA": "223d295a",
+              "Subject": "Use k8s 1.29 client libs (#412)"
             }
           ]
         }

@@ -163,6 +163,15 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.2.0-beta.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.2.0-beta.0)
+
+- [f0e546a](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/f0e546a) Prepare for release v0.2.0-beta.0 (#12)
+- [aae7294](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/aae7294) Use k8s 1.29 client libs (#11)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.4.0-beta.0)

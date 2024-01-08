@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T08:47:20.130684795Z",
+  "release_date": "2024-01-08T19:35:43.825444321Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -143,6 +143,52 @@
             {
               "SHA": "2fdcafa",
               "Subject": "Use k8s 1.29 client libs (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.7-beta.0",
+          "commits": [
+            {
+              "SHA": "45c11e3e",
+              "Subject": "Prepare for release v2024.1.7-beta.0 (#773)"
+            },
+            {
+              "SHA": "d8634da5",
+              "Subject": "Fix CI"
+            },
+            {
+              "SHA": "b8e850cc",
+              "Subject": "Fix linter"
+            },
+            {
+              "SHA": "69dff8a6",
+              "Subject": "Selectively disable feature gates (#771)"
+            },
+            {
+              "SHA": "0f925055",
+              "Subject": "Use common feature gates across charts (#770)"
+            },
+            {
+              "SHA": "4856a14e",
+              "Subject": "Update crds for kubedb/apimachinery@87c402a1 (#768)"
+            },
+            {
+              "SHA": "570bfc35",
+              "Subject": "Configure crd-manager features (#769)"
+            },
+            {
+              "SHA": "91a890d3",
+              "Subject": "Add crd-manager chart (#767)"
+            },
+            {
+              "SHA": "bd03b2b4",
+              "Subject": "Require kubernetes 1.20+"
             }
           ]
         }

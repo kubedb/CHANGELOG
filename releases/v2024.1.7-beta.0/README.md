@@ -64,6 +64,22 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2024.1.7-beta.0](https://github.com/kubedb/installer/releases/tag/v2024.1.7-beta.0)
+
+- [45c11e3e](https://github.com/kubedb/installer/commit/45c11e3e) Prepare for release v2024.1.7-beta.0 (#773)
+- [d8634da5](https://github.com/kubedb/installer/commit/d8634da5) Fix CI
+- [b8e850cc](https://github.com/kubedb/installer/commit/b8e850cc) Fix linter
+- [69dff8a6](https://github.com/kubedb/installer/commit/69dff8a6) Selectively disable feature gates (#771)
+- [0f925055](https://github.com/kubedb/installer/commit/0f925055) Use common feature gates across charts (#770)
+- [4856a14e](https://github.com/kubedb/installer/commit/4856a14e) Update crds for kubedb/apimachinery@87c402a1 (#768)
+- [570bfc35](https://github.com/kubedb/installer/commit/570bfc35) Configure crd-manager features (#769)
+- [91a890d3](https://github.com/kubedb/installer/commit/91a890d3) Add crd-manager chart (#767)
+- [bd03b2b4](https://github.com/kubedb/installer/commit/bd03b2b4) Require kubernetes 1.20+
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.12.0-beta.0](https://github.com/kubedb/kafka/releases/tag/v0.12.0-beta.0)

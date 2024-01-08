@@ -35,6 +35,19 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.12.0-beta.0](https://github.com/kubedb/kafka/releases/tag/v0.12.0-beta.0)
+
+- [f9350578](https://github.com/kubedb/kafka/commit/f9350578) Prepare for release v0.12.0-beta.0 (#62)
+- [692f2bef](https://github.com/kubedb/kafka/commit/692f2bef) Dynamically start crd controller (#61)
+- [a50dc8b4](https://github.com/kubedb/kafka/commit/a50dc8b4) Update deps (#60)
+- [7ff28ed7](https://github.com/kubedb/kafka/commit/7ff28ed7) Update deps (#59)
+- [16130571](https://github.com/kubedb/kafka/commit/16130571) Add openapi configuration for webhook server (#58)
+- [cc465de9](https://github.com/kubedb/kafka/commit/cc465de9) Use k8s 1.29 client libs (#57)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.4.0-beta.0)

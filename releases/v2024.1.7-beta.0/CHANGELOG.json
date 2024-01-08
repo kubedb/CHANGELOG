@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T04:37:25.374993365Z",
+  "release_date": "2024-01-08T04:42:27.978816756Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -83,6 +83,40 @@
             {
               "SHA": "2fdcafa",
               "Subject": "Use k8s 1.29 client libs (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.12.0-beta.0",
+          "commits": [
+            {
+              "SHA": "f9350578",
+              "Subject": "Prepare for release v0.12.0-beta.0 (#62)"
+            },
+            {
+              "SHA": "692f2bef",
+              "Subject": "Dynamically start crd controller (#61)"
+            },
+            {
+              "SHA": "a50dc8b4",
+              "Subject": "Update deps (#60)"
+            },
+            {
+              "SHA": "7ff28ed7",
+              "Subject": "Update deps (#59)"
+            },
+            {
+              "SHA": "16130571",
+              "Subject": "Add openapi configuration for webhook server (#58)"
+            },
+            {
+              "SHA": "cc465de9",
+              "Subject": "Use k8s 1.29 client libs (#57)"
             }
           ]
         }

@@ -23,6 +23,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2024.1.7-beta.0](https://github.com/kubedb/bundles/releases/tag/v2024.1.7-beta.0)
+
+- [a9908b8](https://github.com/kubedb/bundles/commit/a9908b8) Prepare for release v2024.1.7-beta.0 (#78)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.41.0-beta.0](https://github.com/kubedb/cli/releases/tag/v0.41.0-beta.0)

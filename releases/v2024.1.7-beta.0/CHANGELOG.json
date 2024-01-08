@@ -1,0 +1,52 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.1.7-beta.0",
+  "release_date": "2024-01-08T03:56:36.135130832Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.41.0-beta.0",
+          "commits": [
+            {
+              "SHA": "45cbf75e3",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "dc224c1a1",
+              "Subject": "Remove crd informer (#1102)"
+            },
+            {
+              "SHA": "87c402a1a",
+              "Subject": "Remove discovery.ResourceMapper (#1101)"
+            },
+            {
+              "SHA": "a1d475ceb",
+              "Subject": "Replace deprecated PollImmediate (#1100)"
+            },
+            {
+              "SHA": "75db4a378",
+              "Subject": "Add ConfigureOpenAPI helper (#1099)"
+            },
+            {
+              "SHA": "83be295b0",
+              "Subject": "update sidekick deps"
+            },
+            {
+              "SHA": "032b27211",
+              "Subject": "Fix linter"
+            },
+            {
+              "SHA": "389a934c7",
+              "Subject": "Use k8s 1.29 client libs (#1093)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

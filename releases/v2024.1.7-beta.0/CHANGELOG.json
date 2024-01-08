@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T07:34:06.443246105Z",
+  "release_date": "2024-01-08T07:35:02.361384258Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -845,6 +845,40 @@
         {
           "tag": "v0.3.0-beta.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.28.0-beta.0",
+          "commits": [
+            {
+              "SHA": "c0805050e",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#324)"
+            },
+            {
+              "SHA": "88ef1f1de",
+              "Subject": "Dynamically start crd controller (#323)"
+            },
+            {
+              "SHA": "8c0a96ac7",
+              "Subject": "Update deps (#322)"
+            },
+            {
+              "SHA": "e96797e48",
+              "Subject": "Update deps (#321)"
+            },
+            {
+              "SHA": "e8fd529b2",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b2e9a1df8",
+              "Subject": "Use k8s 1.29 client libs (#319)"
+            }
+          ]
         }
       ]
     },

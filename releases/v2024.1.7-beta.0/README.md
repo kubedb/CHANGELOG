@@ -352,6 +352,19 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.28.0-beta.0](https://github.com/kubedb/proxysql/releases/tag/v0.28.0-beta.0)
+
+- [c0805050](https://github.com/kubedb/proxysql/commit/c0805050e) Prepare for release v0.28.0-beta.0 (#324)
+- [88ef1f1d](https://github.com/kubedb/proxysql/commit/88ef1f1de) Dynamically start crd controller (#323)
+- [8c0a96ac](https://github.com/kubedb/proxysql/commit/8c0a96ac7) Update deps (#322)
+- [e96797e4](https://github.com/kubedb/proxysql/commit/e96797e48) Update deps (#321)
+- [e8fd529b](https://github.com/kubedb/proxysql/commit/e8fd529b2) Update deps
+- [b2e9a1df](https://github.com/kubedb/proxysql/commit/b2e9a1df8) Use k8s 1.29 client libs (#319)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.34.0-beta.0](https://github.com/kubedb/redis/releases/tag/v0.34.0-beta.0)

@@ -277,6 +277,19 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.28.0-beta.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.28.0-beta.0)
+
+- [3c6bc335](https://github.com/kubedb/pgbouncer/commit/3c6bc335) Prepare for release v0.28.0-beta.0 (#310)
+- [73c5f6fb](https://github.com/kubedb/pgbouncer/commit/73c5f6fb) Dynamically start crd controller (#309)
+- [f9edc2cd](https://github.com/kubedb/pgbouncer/commit/f9edc2cd) Update deps (#308)
+- [d54251c0](https://github.com/kubedb/pgbouncer/commit/d54251c0) Update deps (#307)
+- [de40a35e](https://github.com/kubedb/pgbouncer/commit/de40a35e) Update deps
+- [8c325577](https://github.com/kubedb/pgbouncer/commit/8c325577) Use k8s 1.29 client libs (#305)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.41.0-beta.0](https://github.com/kubedb/postgres/releases/tag/v0.41.0-beta.0)

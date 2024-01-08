@@ -69,6 +69,21 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.34.0-beta.0](https://github.com/kubedb/mongodb/releases/tag/v0.34.0-beta.0)
+
+- [7ff67238](https://github.com/kubedb/mongodb/commit/7ff672382) Prepare for release v0.34.0-beta.0 (#600)
+- [beca63a4](https://github.com/kubedb/mongodb/commit/beca63a48) Dynamically start crd controller (#599)
+- [17d90616](https://github.com/kubedb/mongodb/commit/17d90616d) Update deps (#598)
+- [bc25ca00](https://github.com/kubedb/mongodb/commit/bc25ca001) Update deps (#597)
+- [4ce5a94a](https://github.com/kubedb/mongodb/commit/4ce5a94a4) Configure openapi for webhook server (#596)
+- [8d8206db](https://github.com/kubedb/mongodb/commit/8d8206db3) Update ci versions
+- [bfdd519f](https://github.com/kubedb/mongodb/commit/bfdd519fc) Update deps
+- [01a7c268](https://github.com/kubedb/mongodb/commit/01a7c2685) Use k8s 1.29 client libs (#594)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.4.0-beta.0)

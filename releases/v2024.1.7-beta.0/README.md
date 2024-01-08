@@ -16,3 +16,12 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.4.0-beta.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.4.0-beta.0)
+
+- [742d2ce](https://github.com/kubedb/mysql-restic-plugin/commit/742d2ce) Prepare for release v0.4.0-beta.0 (#19)
+- [0402847](https://github.com/kubedb/mysql-restic-plugin/commit/0402847) Use k8s 1.29 client libs (#18)
+
+
+

@@ -330,6 +330,20 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.34.0-beta.0](https://github.com/kubedb/redis/releases/tag/v0.34.0-beta.0)
+
+- [7e844ab1](https://github.com/kubedb/redis/commit/7e844ab1) Prepare for release v0.34.0-beta.0 (#513)
+- [6318d04f](https://github.com/kubedb/redis/commit/6318d04f) Dynamically start crd controller (#512)
+- [92b8a3a9](https://github.com/kubedb/redis/commit/92b8a3a9) Update deps (#511)
+- [f0fb4c69](https://github.com/kubedb/redis/commit/f0fb4c69) Update deps (#510)
+- [c99d9498](https://github.com/kubedb/redis/commit/c99d9498) Update deps
+- [90299544](https://github.com/kubedb/redis/commit/90299544) Use k8s 1.29 client libs (#508)
+- [fced7010](https://github.com/kubedb/redis/commit/fced7010) Update redis versions in nightly tests (#507)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.20.0-beta.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.20.0-beta.0)

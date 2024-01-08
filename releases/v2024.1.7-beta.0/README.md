@@ -26,6 +26,15 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.4.0-beta.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.4.0-beta.0)
+
+- [5e9aef5](https://github.com/kubedb/elasticsearch-restic-plugin/commit/5e9aef5) Prepare for release v0.4.0-beta.0 (#15)
+- [2fdcafa](https://github.com/kubedb/elasticsearch-restic-plugin/commit/2fdcafa) Use k8s 1.29 client libs (#14)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.4.0-beta.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T04:26:06.797050042Z",
+  "release_date": "2024-01-08T04:28:35.622186591Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -83,6 +83,24 @@
             {
               "SHA": "2fdcafa",
               "Subject": "Use k8s 1.29 client libs (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0-beta.0",
+          "commits": [
+            {
+              "SHA": "4f0b021",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#20)"
+            },
+            {
+              "SHA": "91ee7c0",
+              "Subject": "Use k8s 1.29 client libs (#19)"
             }
           ]
         }

@@ -200,6 +200,15 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.2.0-beta.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.2.0-beta.0)
+
+- [a9cbe08](https://github.com/kubedb/postgres-archiver/commit/a9cbe08) Prepare for release v0.2.0-beta.0 (#16)
+- [183e97c](https://github.com/kubedb/postgres-archiver/commit/183e97c) Use k8s 1.29 client libs (#15)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.2.0-beta.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.2.0-beta.0)

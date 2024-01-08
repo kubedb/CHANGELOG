@@ -40,6 +40,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.1.7-beta.0](https://github.com/kubedb/docs/releases/tag/v2024.1.7-beta.0)
+
+- [89942a95](https://github.com/kubedb/docs/commit/89942a95) Prepare for release v2024.1.7-beta.0 (#596)
+- [e1590231](https://github.com/kubedb/docs/commit/e1590231) Update Redis Docs (#595)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.41.0-beta.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.41.0-beta.0)

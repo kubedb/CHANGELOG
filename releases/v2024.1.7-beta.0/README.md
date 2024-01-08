@@ -26,6 +26,21 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.41.0-beta.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.41.0-beta.0)
+
+- [3ab4d77d](https://github.com/kubedb/elasticsearch/commit/3ab4d77d2) Prepare for release v0.41.0-beta.0 (#694)
+- [c38c61cb](https://github.com/kubedb/elasticsearch/commit/c38c61cbc) Dynamically start crd controller (#693)
+- [6a798d30](https://github.com/kubedb/elasticsearch/commit/6a798d309) Update deps (#692)
+- [bdf034a4](https://github.com/kubedb/elasticsearch/commit/bdf034a49) Update deps (#691)
+- [ea22eecb](https://github.com/kubedb/elasticsearch/commit/ea22eecb2) Add openapi configuration for webhook server (#690)
+- [b97636cd](https://github.com/kubedb/elasticsearch/commit/b97636cd1) Update lint command
+- [0221ac14](https://github.com/kubedb/elasticsearch/commit/0221ac14e) Update deps
+- [b4cb8d60](https://github.com/kubedb/elasticsearch/commit/b4cb8d603) Use k8s 1.29 client libs (#689)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.4.0-beta.0)

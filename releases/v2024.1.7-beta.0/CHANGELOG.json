@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T04:04:30.520108247Z",
+  "release_date": "2024-01-08T04:10:50.248458069Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -79,6 +79,52 @@
             {
               "SHA": "7dd201c",
               "Subject": "Use k8s 1.29 client libs (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.41.0-beta.0",
+          "commits": [
+            {
+              "SHA": "d1bd909ba",
+              "Subject": "Prepare for release v0.41.0-beta.0 (#703)"
+            },
+            {
+              "SHA": "5e8101e39",
+              "Subject": "Dynamically start crd controller (#702)"
+            },
+            {
+              "SHA": "47dbbff53",
+              "Subject": "Update deps (#701)"
+            },
+            {
+              "SHA": "84f99c58b",
+              "Subject": "Disable fairness api"
+            },
+            {
+              "SHA": "a715765dc",
+              "Subject": "Set --restricted=false for ci tests (#700)"
+            },
+            {
+              "SHA": "fe9af5977",
+              "Subject": "Add Postgres test fix (#699)"
+            },
+            {
+              "SHA": "8bae88860",
+              "Subject": "Configure openapi for webhook server (#698)"
+            },
+            {
+              "SHA": "9ce2efce5",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "24e4e9ca5",
+              "Subject": "Use k8s 1.29 client libs (#697)"
             }
           ]
         }

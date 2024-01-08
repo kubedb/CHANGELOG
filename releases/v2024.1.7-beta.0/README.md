@@ -34,6 +34,22 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.41.0-beta.0](https://github.com/kubedb/postgres/releases/tag/v0.41.0-beta.0)
+
+- [d1bd909b](https://github.com/kubedb/postgres/commit/d1bd909ba) Prepare for release v0.41.0-beta.0 (#703)
+- [5e8101e3](https://github.com/kubedb/postgres/commit/5e8101e39) Dynamically start crd controller (#702)
+- [47dbbff5](https://github.com/kubedb/postgres/commit/47dbbff53) Update deps (#701)
+- [84f99c58](https://github.com/kubedb/postgres/commit/84f99c58b) Disable fairness api
+- [a715765d](https://github.com/kubedb/postgres/commit/a715765dc) Set --restricted=false for ci tests (#700)
+- [fe9af597](https://github.com/kubedb/postgres/commit/fe9af5977) Add Postgres test fix (#699)
+- [8bae8886](https://github.com/kubedb/postgres/commit/8bae88860) Configure openapi for webhook server (#698)
+- [9ce2efce](https://github.com/kubedb/postgres/commit/9ce2efce5) Update deps
+- [24e4e9ca](https://github.com/kubedb/postgres/commit/24e4e9ca5) Use k8s 1.29 client libs (#697)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.3.0-beta.0](https://github.com/kubedb/provider-aws/releases/tag/v0.3.0-beta.0)

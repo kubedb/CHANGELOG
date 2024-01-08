@@ -208,6 +208,19 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.28.0-beta.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.28.0-beta.0)
+
+- [0ceb3028](https://github.com/kubedb/percona-xtradb/commit/0ceb30284) Prepare for release v0.28.0-beta.0 (#346)
+- [e7d35606](https://github.com/kubedb/percona-xtradb/commit/e7d356062) Dynamically start crd controller (#345)
+- [5d07b565](https://github.com/kubedb/percona-xtradb/commit/5d07b5655) Update deps (#344)
+- [1a639f84](https://github.com/kubedb/percona-xtradb/commit/1a639f840) Update deps (#343)
+- [4f8b24ab](https://github.com/kubedb/percona-xtradb/commit/4f8b24aba) Update deps
+- [e5254020](https://github.com/kubedb/percona-xtradb/commit/e52540202) Use k8s 1.29 client libs (#341)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.14.0-beta.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.14.0-beta.0)

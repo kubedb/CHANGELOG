@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T06:26:08.271052449Z",
+  "release_date": "2024-01-08T06:28:12.028641269Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -323,6 +323,36 @@
             {
               "SHA": "ef72c98b",
               "Subject": "Use k8s 1.29 client libs (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.0",
+          "commits": [
+            {
+              "SHA": "09f68b7",
+              "Subject": "Prepare for release v0.1.0-beta.0 (#4)"
+            },
+            {
+              "SHA": "7407444",
+              "Subject": "Use k8s 1.29 client libs (#3)"
+            },
+            {
+              "SHA": "933e138",
+              "Subject": "Prepare for release v0.1.0 (#2)"
+            },
+            {
+              "SHA": "5d38f94",
+              "Subject": "Enable GH actions"
+            },
+            {
+              "SHA": "2a97178",
+              "Subject": "Replace mysql with mariadb"
             }
           ]
         }

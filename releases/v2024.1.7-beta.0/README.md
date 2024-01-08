@@ -471,3 +471,14 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.17.0-beta.0](https://github.com/kubedb/webhook-server/releases/tag/v0.17.0-beta.0)
+
+- [dfdeb6c3](https://github.com/kubedb/webhook-server/commit/dfdeb6c3) Prepare for release v0.17.0-beta.0 (#82)
+- [bf54df2a](https://github.com/kubedb/webhook-server/commit/bf54df2a) Update deps (#81)
+- [c7d17faa](https://github.com/kubedb/webhook-server/commit/c7d17faa) Update deps (#79)
+- [170573b1](https://github.com/kubedb/webhook-server/commit/170573b1) Use k8s 1.29 client libs (#78)
+
+
+

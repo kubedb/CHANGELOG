@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.7-beta.0",
-  "release_date": "2024-01-08T04:31:23.193046712Z",
+  "release_date": "2024-01-08T04:37:00.153229939Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.7-beta.0",
   "kubernetes_version": "1.20+",
@@ -101,6 +101,52 @@
             {
               "SHA": "91ee7c0",
               "Subject": "Use k8s 1.29 client libs (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.34.0-beta.0",
+          "commits": [
+            {
+              "SHA": "354f6f3e1",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#593)"
+            },
+            {
+              "SHA": "01498d025",
+              "Subject": "Dynamically start crd controller (#592)"
+            },
+            {
+              "SHA": "e68015cfd",
+              "Subject": "Update deps (#591)"
+            },
+            {
+              "SHA": "67029acc9",
+              "Subject": "Update deps (#590)"
+            },
+            {
+              "SHA": "87d2de4a1",
+              "Subject": "Include kubestash catalog chart in makefile (#588)"
+            },
+            {
+              "SHA": "e5874ffb7",
+              "Subject": "Add openapi configuration for webhook server (#589)"
+            },
+            {
+              "SHA": "977d3cd38",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "3df868533",
+              "Subject": "Use k8s 1.29 client libs (#586)"
+            },
+            {
+              "SHA": "d159ad052",
+              "Subject": "Ensure MySQLArchiver crd (#585)"
             }
           ]
         }

@@ -44,6 +44,22 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.34.0-beta.0](https://github.com/kubedb/mysql/releases/tag/v0.34.0-beta.0)
+
+- [354f6f3e](https://github.com/kubedb/mysql/commit/354f6f3e1) Prepare for release v0.34.0-beta.0 (#593)
+- [01498d02](https://github.com/kubedb/mysql/commit/01498d025) Dynamically start crd controller (#592)
+- [e68015cf](https://github.com/kubedb/mysql/commit/e68015cfd) Update deps (#591)
+- [67029acc](https://github.com/kubedb/mysql/commit/67029acc9) Update deps (#590)
+- [87d2de4a](https://github.com/kubedb/mysql/commit/87d2de4a1) Include kubestash catalog chart in makefile (#588)
+- [e5874ffb](https://github.com/kubedb/mysql/commit/e5874ffb7) Add openapi configuration for webhook server (#589)
+- [977d3cd3](https://github.com/kubedb/mysql/commit/977d3cd38) Update deps
+- [3df86853](https://github.com/kubedb/mysql/commit/3df868533) Use k8s 1.29 client libs (#586)
+- [d159ad05](https://github.com/kubedb/mysql/commit/d159ad052) Ensure MySQLArchiver crd (#585)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.4.0-beta.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.4.0-beta.0)

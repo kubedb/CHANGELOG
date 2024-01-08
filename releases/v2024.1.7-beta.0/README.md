@@ -375,3 +375,18 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.26.0-beta.0](https://github.com/kubedb/tests/releases/tag/v0.26.0-beta.0)
+
+- [5f3fabd7](https://github.com/kubedb/tests/commit/5f3fabd7) Prepare for release v0.26.0-beta.0 (#284)
+- [27a24dff](https://github.com/kubedb/tests/commit/27a24dff) Update deps (#283)
+- [b9021186](https://github.com/kubedb/tests/commit/b9021186) Update deps (#282)
+- [589ca51c](https://github.com/kubedb/tests/commit/589ca51c) mongodb vertical scaling fix (#281)
+- [feaa0f6a](https://github.com/kubedb/tests/commit/feaa0f6a) Add `--restricted` flag (#280)
+- [2423ee38](https://github.com/kubedb/tests/commit/2423ee38) Fix linter errors
+- [dcd64c7c](https://github.com/kubedb/tests/commit/dcd64c7c) Update lint command
+- [c3ef1fa4](https://github.com/kubedb/tests/commit/c3ef1fa4) Use k8s 1.29 client libs (#279)
+
+
+

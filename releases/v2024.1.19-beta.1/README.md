@@ -167,6 +167,14 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.4.0-beta.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.4.0-beta.1)
+
+- [4ed2b4a](https://github.com/kubedb/postgres-restic-plugin/commit/4ed2b4a) Prepare for release v0.4.0-beta.1 (#14)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.0.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.1)

@@ -114,3 +114,11 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.28.0-beta.1](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.28.0-beta.1)
+
+- [f948a650](https://github.com/kubedb/replication-mode-detector/commit/f948a650) Prepare for release v0.28.0-beta.1 (#253)
+
+
+

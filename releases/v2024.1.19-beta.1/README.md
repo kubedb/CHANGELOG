@@ -287,3 +287,18 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.26.0-beta.1](https://github.com/kubedb/tests/releases/tag/v0.26.0-beta.1)
+
+- [3cfc1212](https://github.com/kubedb/tests/commit/3cfc1212) Prepare for release v0.26.0-beta.1 (#292)
+- [b810e690](https://github.com/kubedb/tests/commit/b810e690) increase cpu limit for vertical scaling (#289)
+- [c43985ba](https://github.com/kubedb/tests/commit/c43985ba) Change dashboard api group (#291)
+- [1b96881e](https://github.com/kubedb/tests/commit/1b96881e) Fix error logging
+- [33f78143](https://github.com/kubedb/tests/commit/33f78143) forceCleanup PVCs for mongo (#288)
+- [0dcd3e38](https://github.com/kubedb/tests/commit/0dcd3e38) Add PostgreSQL logical replication tests  (#202)
+- [2f403c85](https://github.com/kubedb/tests/commit/2f403c85) Find profiles in array, Don't match with string (#286)
+- [5aca2293](https://github.com/kubedb/tests/commit/5aca2293) Give time to PDB status to be updated (#285)
+
+
+

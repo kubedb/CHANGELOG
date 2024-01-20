@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T07:01:10.598891626Z",
+  "release_date": "2024-01-20T07:01:24.830742842Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -641,6 +641,48 @@
             {
               "SHA": "7804b0a",
               "Subject": "Add initial controller implementation (#2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.26.0-beta.1",
+          "commits": [
+            {
+              "SHA": "3cfc1212",
+              "Subject": "Prepare for release v0.26.0-beta.1 (#292)"
+            },
+            {
+              "SHA": "b810e690",
+              "Subject": "increase cpu limit for vertical scaling (#289)"
+            },
+            {
+              "SHA": "c43985ba",
+              "Subject": "Change dashboard api group (#291)"
+            },
+            {
+              "SHA": "1b96881e",
+              "Subject": "Fix error logging"
+            },
+            {
+              "SHA": "33f78143",
+              "Subject": "forceCleanup PVCs for mongo (#288)"
+            },
+            {
+              "SHA": "0dcd3e38",
+              "Subject": "Add PostgreSQL logical replication tests  (#202)"
+            },
+            {
+              "SHA": "2f403c85",
+              "Subject": "Find profiles in array, Don't match with string (#286)"
+            },
+            {
+              "SHA": "5aca2293",
+              "Subject": "Give time to PDB status to be updated (#285)"
             }
           ]
         }

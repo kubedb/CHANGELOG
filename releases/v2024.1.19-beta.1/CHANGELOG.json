@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T06:59:18.700116555Z",
+  "release_date": "2024-01-20T06:59:30.331134076Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -125,6 +125,24 @@
             {
               "SHA": "1ebdd532",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.0.1",
+          "commits": [
+            {
+              "SHA": "46c4387",
+              "Subject": "Prepare for release v0.0.1 (#2)"
+            },
+            {
+              "SHA": "3a9e0dd",
+              "Subject": "Add Druid Controller (#1)"
             }
           ]
         }

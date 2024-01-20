@@ -41,6 +41,15 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.0.1](https://github.com/kubedb/druid/releases/tag/v0.0.1)
+
+- [46c4387](https://github.com/kubedb/druid/commit/46c4387) Prepare for release v0.0.1 (#2)
+- [3a9e0dd](https://github.com/kubedb/druid/commit/3a9e0dd) Add Druid Controller (#1)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.4.0-beta.1](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.4.0-beta.1)

@@ -32,6 +32,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.41.0-beta.1](https://github.com/kubedb/cli/releases/tag/v0.41.0-beta.1)
+
+- [234b7051](https://github.com/kubedb/cli/commit/234b7051) Prepare for release v0.41.0-beta.1 (#748)
+- [1ebdd532](https://github.com/kubedb/cli/commit/1ebdd532) Update deps
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.4.0-beta.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.4.0-beta.1)

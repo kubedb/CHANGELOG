@@ -345,6 +345,17 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.41.0-beta.1](https://github.com/kubedb/provisioner/releases/tag/v0.41.0-beta.1)
+
+- [52cb0fa9](https://github.com/kubedb/provisioner/commit/52cb0fa9c) Prepare for release v0.41.0-beta.1 (#75)
+- [92f05e8e](https://github.com/kubedb/provisioner/commit/92f05e8e7) Add New Database support (#74)
+- [514709fc](https://github.com/kubedb/provisioner/commit/514709fc9) Add ElasticsearchDashboard controllers (#73)
+- [b826a5f1](https://github.com/kubedb/provisioner/commit/b826a5f1e) Add Support for DB phase change for restoring using KubeStash (#72)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.28.0-beta.1](https://github.com/kubedb/proxysql/releases/tag/v0.28.0-beta.1)

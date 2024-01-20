@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T08:21:54.976133327Z",
+  "release_date": "2024-01-20T08:22:05.129688777Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -763,6 +763,32 @@
         {
           "tag": "v0.3.0-beta.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.41.0-beta.1",
+          "commits": [
+            {
+              "SHA": "52cb0fa9c",
+              "Subject": "Prepare for release v0.41.0-beta.1 (#75)"
+            },
+            {
+              "SHA": "92f05e8e7",
+              "Subject": "Add New Database support (#74)"
+            },
+            {
+              "SHA": "514709fc9",
+              "Subject": "Add ElasticsearchDashboard controllers (#73)"
+            },
+            {
+              "SHA": "b826a5f1e",
+              "Subject": "Add Support for DB phase change for restoring using KubeStash (#72)"
+            }
+          ]
         }
       ]
     },

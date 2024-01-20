@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T05:41:25.744021159Z",
+  "release_date": "2024-01-20T05:41:31.969023741Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -143,6 +143,20 @@
             {
               "SHA": "e5e8945",
               "Subject": "Don't use fail-fast"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.21.0-beta.1",
+          "commits": [
+            {
+              "SHA": "1c30e710",
+              "Subject": "Prepare for release v0.21.0-beta.1 (#101)"
             }
           ]
         }

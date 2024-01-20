@@ -250,6 +250,14 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.25.0-beta.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.25.0-beta.1)
+
+- [bc296307](https://github.com/kubedb/pg-coordinator/commit/bc296307) Prepare for release v0.25.0-beta.1 (#148)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.1](https://github.com/kubedb/pgpool/releases/tag/v0.0.1)

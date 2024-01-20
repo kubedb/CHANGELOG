@@ -265,6 +265,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.28.0-beta.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.28.0-beta.1)
+
+- [55c248d5](https://github.com/kubedb/pgbouncer/commit/55c248d5) Prepare for release v0.28.0-beta.1 (#312)
+- [1b86664a](https://github.com/kubedb/pgbouncer/commit/1b86664a) Incorporate with apimachinery package name change from stash to restore (#311)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.1](https://github.com/kubedb/pgpool/releases/tag/v0.0.1)

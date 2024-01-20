@@ -345,6 +345,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.28.0-beta.1](https://github.com/kubedb/proxysql/releases/tag/v0.28.0-beta.1)
+
+- [213ebfc4](https://github.com/kubedb/proxysql/commit/213ebfc43) Prepare for release v0.28.0-beta.1 (#327)
+- [8427158e](https://github.com/kubedb/proxysql/commit/8427158ec) Incorporate with apimachinery package name change from stash to restore (#325)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.0.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.1)

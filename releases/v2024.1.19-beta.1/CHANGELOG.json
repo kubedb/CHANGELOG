@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T07:29:30.716496759Z",
+  "release_date": "2024-01-20T07:29:40.598268391Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -763,6 +763,24 @@
         {
           "tag": "v0.3.0-beta.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.28.0-beta.1",
+          "commits": [
+            {
+              "SHA": "213ebfc43",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#327)"
+            },
+            {
+              "SHA": "8427158ec",
+              "Subject": "Incorporate with apimachinery package name change from stash to restore (#325)"
+            }
+          ]
         }
       ]
     },

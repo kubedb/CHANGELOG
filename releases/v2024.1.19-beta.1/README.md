@@ -238,3 +238,16 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.0.1](https://github.com/kubedb/solr/releases/tag/v0.0.1)
+
+- [58fb5b4](https://github.com/kubedb/solr/commit/58fb5b4) Prepare for release v0.0.1 (#1)
+- [6b7c3ef](https://github.com/kubedb/solr/commit/6b7c3ef) Add release workflows
+- [9db6c84](https://github.com/kubedb/solr/commit/9db6c84) Disable ferret db in catalog helm command. (#5)
+- [19553e7](https://github.com/kubedb/solr/commit/19553e7) Add solr operator. (#3)
+- [ff4b9ae](https://github.com/kubedb/solr/commit/ff4b9ae) Reset master (#4)
+- [7804b0a](https://github.com/kubedb/solr/commit/7804b0a) Add initial controller implementation (#2)
+
+
+

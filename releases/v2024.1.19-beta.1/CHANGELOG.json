@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T07:00:15.090781111Z",
+  "release_date": "2024-01-20T07:00:20.940331263Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -535,6 +535,40 @@
             {
               "SHA": "f948a650",
               "Subject": "Prepare for release v0.28.0-beta.1 (#253)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.0.1",
+          "commits": [
+            {
+              "SHA": "58fb5b4",
+              "Subject": "Prepare for release v0.0.1 (#1)"
+            },
+            {
+              "SHA": "6b7c3ef",
+              "Subject": "Add release workflows"
+            },
+            {
+              "SHA": "9db6c84",
+              "Subject": "Disable ferret db in catalog helm command. (#5)"
+            },
+            {
+              "SHA": "19553e7",
+              "Subject": "Add solr operator. (#3)"
+            },
+            {
+              "SHA": "ff4b9ae",
+              "Subject": "Reset master (#4)"
+            },
+            {
+              "SHA": "7804b0a",
+              "Subject": "Add initial controller implementation (#2)"
             }
           ]
         }

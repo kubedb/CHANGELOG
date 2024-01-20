@@ -399,6 +399,14 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.17.0-beta.1](https://github.com/kubedb/schema-manager/releases/tag/v0.17.0-beta.1)
+
+- [f14516a9](https://github.com/kubedb/schema-manager/commit/f14516a9) Prepare for release v0.17.0-beta.1 (#97)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.0.1](https://github.com/kubedb/singlestore/releases/tag/v0.0.1)

@@ -175,6 +175,15 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.2.0-beta.1](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.2.0-beta.1)
+
+- [d5771cf](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/d5771cf) Prepare for release v0.2.0-beta.1 (#5)
+- [b4ffc6f](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/b4ffc6f) Fix component driver status & Update deps (#3)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.4.0-beta.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.4.0-beta.1)

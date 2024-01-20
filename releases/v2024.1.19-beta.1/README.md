@@ -149,6 +149,22 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.34.0-beta.1](https://github.com/kubedb/mongodb/releases/tag/v0.34.0-beta.1)
+
+- [c0c58448](https://github.com/kubedb/mongodb/commit/c0c58448b) Prepare for release v0.34.0-beta.1 (#606)
+- [5df39d09](https://github.com/kubedb/mongodb/commit/5df39d09f) Update ci mgVersion;  Fix pointer dereference issue (#605)
+- [e2781eae](https://github.com/kubedb/mongodb/commit/e2781eaea) Run ci with specific crd-manager branch (#604)
+- [b57bc47a](https://github.com/kubedb/mongodb/commit/b57bc47ae) Add kubestash for health check (#603)
+- [62cb9c81](https://github.com/kubedb/mongodb/commit/62cb9c816) Install crd-manager specifiying DATABASE (#602)
+- [6bf45fe7](https://github.com/kubedb/mongodb/commit/6bf45fe72) 7.0.4 -> 7.0.5; update deps
+- [e5b9841e](https://github.com/kubedb/mongodb/commit/e5b9841e5) Fix oplog backup directory (#601)
+- [452b785f](https://github.com/kubedb/mongodb/commit/452b785f0) Add  Support for DB phase change for restoring using `KubeStash` (#586)
+- [35d93d0b](https://github.com/kubedb/mongodb/commit/35d93d0bc) add ssl/tls args command (#595)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.2.0-beta.1](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.2.0-beta.1)

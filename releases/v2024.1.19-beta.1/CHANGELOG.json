@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T07:02:27.900287068Z",
+  "release_date": "2024-01-20T07:02:40.721202554Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -359,6 +359,52 @@
             {
               "SHA": "abd9dbb6",
               "Subject": "Incorporate with apimachinery package name change from stash to restore (#417)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.34.0-beta.1",
+          "commits": [
+            {
+              "SHA": "c0c58448b",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#606)"
+            },
+            {
+              "SHA": "5df39d09f",
+              "Subject": "Update ci mgVersion;  Fix pointer dereference issue (#605)"
+            },
+            {
+              "SHA": "e2781eaea",
+              "Subject": "Run ci with specific crd-manager branch (#604)"
+            },
+            {
+              "SHA": "b57bc47ae",
+              "Subject": "Add kubestash for health check (#603)"
+            },
+            {
+              "SHA": "62cb9c816",
+              "Subject": "Install crd-manager specifiying DATABASE (#602)"
+            },
+            {
+              "SHA": "6bf45fe72",
+              "Subject": "7.0.4 -> 7.0.5; update deps"
+            },
+            {
+              "SHA": "e5b9841e5",
+              "Subject": "Fix oplog backup directory (#601)"
+            },
+            {
+              "SHA": "452b785f0",
+              "Subject": "Add  Support for DB phase change for restoring using `KubeStash` (#586)"
+            },
+            {
+              "SHA": "35d93d0bc",
+              "Subject": "add ssl/tls args command (#595)"
             }
           ]
         }

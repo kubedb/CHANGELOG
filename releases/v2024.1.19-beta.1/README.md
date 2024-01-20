@@ -168,6 +168,19 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.34.0-beta.1](https://github.com/kubedb/mysql/releases/tag/v0.34.0-beta.1)
+
+- [e9dbf269](https://github.com/kubedb/mysql/commit/e9dbf269c) Prepare for release v0.34.0-beta.1 (#599)
+- [44eda2d2](https://github.com/kubedb/mysql/commit/44eda2d25) Prepare for release v0.34.0-beta.1 (#598)
+- [16dd4637](https://github.com/kubedb/mysql/commit/16dd46377) Fix pointer dereference issue (#597)
+- [334c1a1d](https://github.com/kubedb/mysql/commit/334c1a1dd) Update ci & makefile for crd-manager (#596)
+- [edb9b1a1](https://github.com/kubedb/mysql/commit/edb9b1a11) Fix binlog backup directory (#587)
+- [fc6d7030](https://github.com/kubedb/mysql/commit/fc6d70303) Add Support for DB phase change for restoring using KubeStash (#594)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.2.0-beta.1](https://github.com/kubedb/mysql-archiver/releases/tag/v0.2.0-beta.1)

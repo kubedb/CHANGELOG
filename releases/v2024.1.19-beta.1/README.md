@@ -60,3 +60,11 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.20.0-beta.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.20.0-beta.1)
+
+- [fd3b2112](https://github.com/kubedb/redis-coordinator/commit/fd3b2112) Prepare for release v0.20.0-beta.1 (#89)
+
+
+

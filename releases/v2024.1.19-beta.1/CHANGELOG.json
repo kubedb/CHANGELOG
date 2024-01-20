@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T07:00:02.368489264Z",
+  "release_date": "2024-01-20T07:00:15.090781111Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -143,6 +143,40 @@
             {
               "SHA": "3a9e0dd",
               "Subject": "Add Druid Controller (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.41.0-beta.1",
+          "commits": [
+            {
+              "SHA": "c410b39f5",
+              "Subject": "Prepare for release v0.41.0-beta.1 (#699)"
+            },
+            {
+              "SHA": "3394f1d13",
+              "Subject": "Use ptr.Deref(); Update deps"
+            },
+            {
+              "SHA": "f00ee052e",
+              "Subject": "Update ci & makefile for crd-manager (#698)"
+            },
+            {
+              "SHA": "e37e6d631",
+              "Subject": "Add catalog client in scheme. (#697)"
+            },
+            {
+              "SHA": "a46bfd41b",
+              "Subject": "Add Support for DB phase change for restoring using KubeStash (#696)"
+            },
+            {
+              "SHA": "9cbac2fc4",
+              "Subject": "Update makefile for dynamic crd installer (#695)"
             }
           ]
         }

@@ -50,6 +50,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.41.0-beta.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.41.0-beta.1)
+
+- [c410b39f](https://github.com/kubedb/elasticsearch/commit/c410b39f5) Prepare for release v0.41.0-beta.1 (#699)
+- [3394f1d1](https://github.com/kubedb/elasticsearch/commit/3394f1d13) Use ptr.Deref(); Update deps
+- [f00ee052](https://github.com/kubedb/elasticsearch/commit/f00ee052e) Update ci & makefile for crd-manager (#698)
+- [e37e6d63](https://github.com/kubedb/elasticsearch/commit/e37e6d631) Add catalog client in scheme. (#697)
+- [a46bfd41](https://github.com/kubedb/elasticsearch/commit/a46bfd41b) Add Support for DB phase change for restoring using KubeStash (#696)
+- [9cbac2fc](https://github.com/kubedb/elasticsearch/commit/9cbac2fc4) Update makefile for dynamic crd installer (#695)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.4.0-beta.1](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.4.0-beta.1)

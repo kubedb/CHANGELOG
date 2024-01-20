@@ -32,6 +32,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.26.0-beta.1](https://github.com/kubedb/autoscaler/releases/tag/v0.26.0-beta.1)
+
+- [7cef99b3](https://github.com/kubedb/autoscaler/commit/7cef99b3) Prepare for release v0.26.0-beta.1 (#181)
+- [621bf52c](https://github.com/kubedb/autoscaler/commit/621bf52c) Use RestMapper to check for crd availability (#180)
+- [2ae4e01e](https://github.com/kubedb/autoscaler/commit/2ae4e01e) Initialize kubeuilder client for webhooks; cleanup (#179)
+- [e536b856](https://github.com/kubedb/autoscaler/commit/e536b856) Conditionally check for vpa & checkpoints (#178)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.41.0-beta.1](https://github.com/kubedb/cli/releases/tag/v0.41.0-beta.1)

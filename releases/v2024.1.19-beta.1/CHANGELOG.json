@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T08:51:55.142542995Z",
+  "release_date": "2024-01-20T09:09:51.50001134Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -107,6 +107,32 @@
             {
               "SHA": "447577539",
               "Subject": "Ignore validators.autoscaling.kubedb.com webhook handlers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.26.0-beta.1",
+          "commits": [
+            {
+              "SHA": "7cef99b3",
+              "Subject": "Prepare for release v0.26.0-beta.1 (#181)"
+            },
+            {
+              "SHA": "621bf52c",
+              "Subject": "Use RestMapper to check for crd availability (#180)"
+            },
+            {
+              "SHA": "2ae4e01e",
+              "Subject": "Initialize kubeuilder client for webhooks; cleanup (#179)"
+            },
+            {
+              "SHA": "e536b856",
+              "Subject": "Conditionally check for vpa & checkpoints (#178)"
             }
           ]
         }

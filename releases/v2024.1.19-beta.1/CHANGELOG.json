@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T07:03:36.722986883Z",
+  "release_date": "2024-01-20T07:03:41.386322934Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -553,6 +553,15 @@
               "Subject": "Removed `--all-databases` flag for restoring (#20)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.19.0-beta.1",
+          "commits": null
         }
       ]
     },

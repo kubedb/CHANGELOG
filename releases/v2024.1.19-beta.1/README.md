@@ -250,6 +250,25 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.28.0-beta.1](https://github.com/kubedb/ops-manager/releases/tag/v0.28.0-beta.1)
+
+- [5976d8ed](https://github.com/kubedb/ops-manager/commit/5976d8ed0) Prepare for release v0.28.0-beta.1 (#529)
+- [90e4c315](https://github.com/kubedb/ops-manager/commit/90e4c3159) Update deps; Add license
+- [d6c0e148](https://github.com/kubedb/ops-manager/commit/d6c0e1487) Add backupConfiguration `Pause` & `Resume` support for Kubestash (#528)
+- [e9b4bfea](https://github.com/kubedb/ops-manager/commit/e9b4bfea0) Fix kafka vertical scaling ops request for ofshoot api v2 (#527)
+- [b230d6bb](https://github.com/kubedb/ops-manager/commit/b230d6bb6) Made crd-manager non required
+- [439031ae](https://github.com/kubedb/ops-manager/commit/439031aea) Fix operator installation in ci (#526)
+- [88014501](https://github.com/kubedb/ops-manager/commit/88014501f) Seperate mongo ci according to profiles; Change `daily`'s schedule (#525)
+- [335a3e49](https://github.com/kubedb/ops-manager/commit/335a3e49f) Add TLS support for Kafka Connect Cluster (#518)
+- [69de3f3e](https://github.com/kubedb/ops-manager/commit/69de3f3e8) Run new mongo versions to ci (#524)
+- [e5fbed83](https://github.com/kubedb/ops-manager/commit/e5fbed839) Incorporate with apimachinery package name change from stash to restore (#523)
+- [6320384b](https://github.com/kubedb/ops-manager/commit/6320384bf) Reorganize recommendation pkg
+- [8f2b36d7](https://github.com/kubedb/ops-manager/commit/8f2b36d72) Update wait condition in makefile (#522)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.28.0-beta.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.28.0-beta.1)

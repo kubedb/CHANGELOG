@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T08:31:48.174720907Z",
+  "release_date": "2024-01-20T08:51:55.142542995Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -584,6 +584,64 @@
         {
           "tag": "v0.19.0-beta.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.28.0-beta.1",
+          "commits": [
+            {
+              "SHA": "5976d8ed0",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#529)"
+            },
+            {
+              "SHA": "90e4c3159",
+              "Subject": "Update deps; Add license"
+            },
+            {
+              "SHA": "d6c0e1487",
+              "Subject": "Add backupConfiguration `Pause` & `Resume` support for Kubestash (#528)"
+            },
+            {
+              "SHA": "e9b4bfea0",
+              "Subject": "Fix kafka vertical scaling ops request for ofshoot api v2 (#527)"
+            },
+            {
+              "SHA": "b230d6bb6",
+              "Subject": "Made crd-manager non required"
+            },
+            {
+              "SHA": "439031aea",
+              "Subject": "Fix operator installation in ci (#526)"
+            },
+            {
+              "SHA": "88014501f",
+              "Subject": "Seperate mongo ci according to profiles; Change `daily`'s schedule (#525)"
+            },
+            {
+              "SHA": "335a3e49f",
+              "Subject": "Add TLS support for Kafka Connect Cluster (#518)"
+            },
+            {
+              "SHA": "69de3f3e8",
+              "Subject": "Run new mongo versions to ci (#524)"
+            },
+            {
+              "SHA": "e5fbed839",
+              "Subject": "Incorporate with apimachinery package name change from stash to restore (#523)"
+            },
+            {
+              "SHA": "6320384bf",
+              "Subject": "Reorganize recommendation pkg"
+            },
+            {
+              "SHA": "8f2b36d72",
+              "Subject": "Update wait condition in makefile (#522)"
+            }
+          ]
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T09:35:37.036091178Z",
+  "release_date": "2024-01-20T13:15:42.794825248Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -261,6 +261,132 @@
             {
               "SHA": "0287771",
               "Subject": "Add FerretDB Controller (#2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.19-beta.1",
+          "commits": [
+            {
+              "SHA": "a58a71f1",
+              "Subject": "Prepare for release v2024.1.19-beta.1 (#813)"
+            },
+            {
+              "SHA": "fad71f4d",
+              "Subject": "Use appscode built opensearch images (#798)"
+            },
+            {
+              "SHA": "016898c4",
+              "Subject": "Update webhook values for solr. (#812)"
+            },
+            {
+              "SHA": "238d29a9",
+              "Subject": "Add necessary cluster-role for kubestash (#811)"
+            },
+            {
+              "SHA": "e476675f",
+              "Subject": "Add Druid (#807)"
+            },
+            {
+              "SHA": "ba594a40",
+              "Subject": "Add Pgpool (#809)"
+            },
+            {
+              "SHA": "2fb21fa0",
+              "Subject": "Add ferretdb (#806)"
+            },
+            {
+              "SHA": "1f285c40",
+              "Subject": "Update solr version crds. (#808)"
+            },
+            {
+              "SHA": "588e078f",
+              "Subject": "Revert \"Update Solr webhook helm charts. (#796)\""
+            },
+            {
+              "SHA": "f4db4314",
+              "Subject": "Update Solr webhook helm charts. (#796)"
+            },
+            {
+              "SHA": "a33a050d",
+              "Subject": "Add Redis version 7.2.4 and 7.0.15 (#797)"
+            },
+            {
+              "SHA": "9074c79c",
+              "Subject": "Add Singlestore  (#782)"
+            },
+            {
+              "SHA": "eec84b67",
+              "Subject": "Add rabbitmq crd (#785)"
+            },
+            {
+              "SHA": "06495dbc",
+              "Subject": "Update crds for kubedb/apimachinery@0f8ac911 (#805)"
+            },
+            {
+              "SHA": "bb4786ea",
+              "Subject": "Update crds for kubedb/apimachinery@e78c6ff7 (#804)"
+            },
+            {
+              "SHA": "55ff929e",
+              "Subject": "Add ZooKeeper Versions (#776)"
+            },
+            {
+              "SHA": "c3283eb4",
+              "Subject": "Add mongodb perconaserver 7.0.4; Deprecate 4.2.7 & 4.4.10 (#802)"
+            },
+            {
+              "SHA": "4ad98522",
+              "Subject": "Add percona versions for mongodb (#775)"
+            },
+            {
+              "SHA": "0bbf1794",
+              "Subject": "Update kubestash backup and restore task names (#766)"
+            },
+            {
+              "SHA": "08e4002d",
+              "Subject": "Use kafka featureGate for kafkaConnector; Remove PSP (#792)"
+            },
+            {
+              "SHA": "eafb83d0",
+              "Subject": "Change dashboard api group to elasticsearch (#794)"
+            },
+            {
+              "SHA": "625cc6e8",
+              "Subject": "Remove kubedb-dashboard charts from the kubedb/kubedb-one chart (#793)"
+            },
+            {
+              "SHA": "4b1a8f0c",
+              "Subject": "Add if condition to ApiService creation for kafka (#786)"
+            },
+            {
+              "SHA": "7cd2242d",
+              "Subject": "Add Kafka connector (#784)"
+            },
+            {
+              "SHA": "696850fc",
+              "Subject": "Add runAsGroup; Mongo 7.0.4 -> 7.0.5 (#780)"
+            },
+            {
+              "SHA": "34708816",
+              "Subject": "Update crds for kubedb/apimachinery@a72bb1ff (#781)"
+            },
+            {
+              "SHA": "3bc7789a",
+              "Subject": "Add mgversion for mongodb 7.0.4 (#763)"
+            },
+            {
+              "SHA": "94e2d5b2",
+              "Subject": "Add MySQL 5.7.42-debian"
+            },
+            {
+              "SHA": "04b2def1",
+              "Subject": "Add validator for autoscaler (#777)"
             }
           ]
         }

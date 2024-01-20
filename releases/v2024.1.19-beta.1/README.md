@@ -102,6 +102,42 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2024.1.19-beta.1](https://github.com/kubedb/installer/releases/tag/v2024.1.19-beta.1)
+
+- [a58a71f1](https://github.com/kubedb/installer/commit/a58a71f1) Prepare for release v2024.1.19-beta.1 (#813)
+- [fad71f4d](https://github.com/kubedb/installer/commit/fad71f4d) Use appscode built opensearch images (#798)
+- [016898c4](https://github.com/kubedb/installer/commit/016898c4) Update webhook values for solr. (#812)
+- [238d29a9](https://github.com/kubedb/installer/commit/238d29a9) Add necessary cluster-role for kubestash (#811)
+- [e476675f](https://github.com/kubedb/installer/commit/e476675f) Add Druid (#807)
+- [ba594a40](https://github.com/kubedb/installer/commit/ba594a40) Add Pgpool (#809)
+- [2fb21fa0](https://github.com/kubedb/installer/commit/2fb21fa0) Add ferretdb (#806)
+- [1f285c40](https://github.com/kubedb/installer/commit/1f285c40) Update solr version crds. (#808)
+- [588e078f](https://github.com/kubedb/installer/commit/588e078f) Revert "Update Solr webhook helm charts. (#796)"
+- [f4db4314](https://github.com/kubedb/installer/commit/f4db4314) Update Solr webhook helm charts. (#796)
+- [a33a050d](https://github.com/kubedb/installer/commit/a33a050d) Add Redis version 7.2.4 and 7.0.15 (#797)
+- [9074c79c](https://github.com/kubedb/installer/commit/9074c79c) Add Singlestore  (#782)
+- [eec84b67](https://github.com/kubedb/installer/commit/eec84b67) Add rabbitmq crd (#785)
+- [06495dbc](https://github.com/kubedb/installer/commit/06495dbc) Update crds for kubedb/apimachinery@0f8ac911 (#805)
+- [bb4786ea](https://github.com/kubedb/installer/commit/bb4786ea) Update crds for kubedb/apimachinery@e78c6ff7 (#804)
+- [55ff929e](https://github.com/kubedb/installer/commit/55ff929e) Add ZooKeeper Versions (#776)
+- [c3283eb4](https://github.com/kubedb/installer/commit/c3283eb4) Add mongodb perconaserver 7.0.4; Deprecate 4.2.7 & 4.4.10 (#802)
+- [4ad98522](https://github.com/kubedb/installer/commit/4ad98522) Add percona versions for mongodb (#775)
+- [0bbf1794](https://github.com/kubedb/installer/commit/0bbf1794) Update kubestash backup and restore task names (#766)
+- [08e4002d](https://github.com/kubedb/installer/commit/08e4002d) Use kafka featureGate for kafkaConnector; Remove PSP (#792)
+- [eafb83d0](https://github.com/kubedb/installer/commit/eafb83d0) Change dashboard api group to elasticsearch (#794)
+- [625cc6e8](https://github.com/kubedb/installer/commit/625cc6e8) Remove kubedb-dashboard charts from the kubedb/kubedb-one chart (#793)
+- [4b1a8f0c](https://github.com/kubedb/installer/commit/4b1a8f0c) Add if condition to ApiService creation for kafka (#786)
+- [7cd2242d](https://github.com/kubedb/installer/commit/7cd2242d) Add Kafka connector (#784)
+- [696850fc](https://github.com/kubedb/installer/commit/696850fc) Add runAsGroup; Mongo 7.0.4 -> 7.0.5 (#780)
+- [34708816](https://github.com/kubedb/installer/commit/34708816) Update crds for kubedb/apimachinery@a72bb1ff (#781)
+- [3bc7789a](https://github.com/kubedb/installer/commit/3bc7789a) Add mgversion for mongodb 7.0.4 (#763)
+- [94e2d5b2](https://github.com/kubedb/installer/commit/94e2d5b2) Add MySQL 5.7.42-debian
+- [04b2def1](https://github.com/kubedb/installer/commit/04b2def1) Add validator for autoscaler (#777)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.12.0-beta.1](https://github.com/kubedb/kafka/releases/tag/v0.12.0-beta.1)

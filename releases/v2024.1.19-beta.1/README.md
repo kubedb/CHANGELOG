@@ -71,6 +71,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.0.1](https://github.com/kubedb/ferretdb/releases/tag/v0.0.1)
+
+- [68618ec](https://github.com/kubedb/ferretdb/commit/68618ec) Prepare for release v0.0.1 (#4)
+- [9443437](https://github.com/kubedb/ferretdb/commit/9443437) Add github workflow files (#3)
+- [0287771](https://github.com/kubedb/ferretdb/commit/0287771) Add FerretDB Controller (#2)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.4.0-beta.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.4.0-beta.1)

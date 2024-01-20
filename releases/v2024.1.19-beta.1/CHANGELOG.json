@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T07:00:51.293873875Z",
+  "release_date": "2024-01-20T07:00:58.736554716Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -191,6 +191,28 @@
             {
               "SHA": "584dfd9",
               "Subject": "Prepare for release v0.4.0-beta.1 (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.0.1",
+          "commits": [
+            {
+              "SHA": "68618ec",
+              "Subject": "Prepare for release v0.0.1 (#4)"
+            },
+            {
+              "SHA": "9443437",
+              "Subject": "Add github workflow files (#3)"
+            },
+            {
+              "SHA": "0287771",
+              "Subject": "Add FerretDB Controller (#2)"
             }
           ]
         }

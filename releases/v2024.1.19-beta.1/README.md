@@ -104,6 +104,17 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.25.0-beta.1](https://github.com/kubedb/mariadb/releases/tag/v0.25.0-beta.1)
+
+- [c4d4942f](https://github.com/kubedb/mariadb/commit/c4d4942f8) Prepare for release v0.25.0-beta.1 (#250)
+- [25fe3917](https://github.com/kubedb/mariadb/commit/25fe39177) Use ptr.Deref(); Update deps
+- [c76704cc](https://github.com/kubedb/mariadb/commit/c76704cc8) Fix ci & makefile for crd-manager (#249)
+- [67396abb](https://github.com/kubedb/mariadb/commit/67396abb9) Incorporate with apimachinery package name change from `stash` to `restore` (#248)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.1.0-beta.1](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.1.0-beta.1)

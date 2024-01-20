@@ -75,6 +75,14 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.1.0-beta.1](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.1.0-beta.1)
+
+- [adac38d](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/adac38d) Prepare for release v0.1.0-beta.1 (#5)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.2.0-beta.1](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.2.0-beta.1)

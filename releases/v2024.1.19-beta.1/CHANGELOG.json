@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T05:41:20.896753327Z",
+  "release_date": "2024-01-20T05:41:25.744021159Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -125,6 +125,24 @@
             {
               "SHA": "6a8a822",
               "Subject": "Update component name (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.1.0-beta.1",
+          "commits": [
+            {
+              "SHA": "e8564fe",
+              "Subject": "Prepare for release v0.1.0-beta.1 (#5)"
+            },
+            {
+              "SHA": "e5e8945",
+              "Subject": "Don't use fail-fast"
             }
           ]
         }

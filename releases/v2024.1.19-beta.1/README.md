@@ -185,6 +185,17 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.34.0-beta.1](https://github.com/kubedb/redis/releases/tag/v0.34.0-beta.1)
+
+- [01290634](https://github.com/kubedb/redis/commit/01290634) Prepare for release v0.34.0-beta.1 (#517)
+- [e51f93e1](https://github.com/kubedb/redis/commit/e51f93e1) Fix panic (#516)
+- [dc75c163](https://github.com/kubedb/redis/commit/dc75c163) Update ci & makefile for crd-manager (#515)
+- [09688f35](https://github.com/kubedb/redis/commit/09688f35) Add Support for DB phase change for restoring using KubeStash (#514)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.20.0-beta.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.20.0-beta.1)

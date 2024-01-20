@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T06:59:37.105148945Z",
+  "release_date": "2024-01-20T06:59:48.29813651Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -413,6 +413,32 @@
             {
               "SHA": "6844a9cf",
               "Subject": "Add Appscode Community license and release workflows"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.34.0-beta.1",
+          "commits": [
+            {
+              "SHA": "01290634",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#517)"
+            },
+            {
+              "SHA": "e51f93e1",
+              "Subject": "Fix panic (#516)"
+            },
+            {
+              "SHA": "dc75c163",
+              "Subject": "Update ci & makefile for crd-manager (#515)"
+            },
+            {
+              "SHA": "09688f35",
+              "Subject": "Add Support for DB phase change for restoring using KubeStash (#514)"
             }
           ]
         }

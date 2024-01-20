@@ -41,6 +41,16 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.17.0-beta.1](https://github.com/kubedb/dashboard/releases/tag/v0.17.0-beta.1)
+
+- [999f215f](https://github.com/kubedb/dashboard/commit/999f215f) Prepare for release v0.17.0-beta.1 (#100)
+- [80780e17](https://github.com/kubedb/dashboard/commit/80780e17) Change dashboard api group to elasticsearch (#99)
+- [b362ecb6](https://github.com/kubedb/dashboard/commit/b362ecb6) Use Go client from db-client-go lib (#98)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.0.1](https://github.com/kubedb/druid/releases/tag/v0.0.1)

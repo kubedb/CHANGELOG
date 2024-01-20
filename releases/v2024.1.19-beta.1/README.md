@@ -139,6 +139,16 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.0.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.1)
+
+- [48d2ec95](https://github.com/kubedb/rabbitmq/commit/48d2ec95) Prepare for release v0.0.1 (#2)
+- [d9dcec0f](https://github.com/kubedb/rabbitmq/commit/d9dcec0f) Add Rabbitmq controller (#1)
+- [6844a9cf](https://github.com/kubedb/rabbitmq/commit/6844a9cf) Add Appscode Community license and release workflows
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.20.0-beta.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.20.0-beta.1)

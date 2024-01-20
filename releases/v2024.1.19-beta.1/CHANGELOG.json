@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T06:58:28.027504218Z",
+  "release_date": "2024-01-20T06:58:46.222199262Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -319,6 +319,28 @@
             {
               "SHA": "5ef571f",
               "Subject": "Update deps (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.0.1",
+          "commits": [
+            {
+              "SHA": "48d2ec95",
+              "Subject": "Prepare for release v0.0.1 (#2)"
+            },
+            {
+              "SHA": "d9dcec0f",
+              "Subject": "Add Rabbitmq controller (#1)"
+            },
+            {
+              "SHA": "6844a9cf",
+              "Subject": "Add Appscode Community license and release workflows"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T06:59:03.407080672Z",
+  "release_date": "2024-01-20T06:59:18.700116555Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -297,6 +297,32 @@
             {
               "SHA": "4c1380ab7",
               "Subject": "Incorporate with apimachinery package name change from `stash` to `restore` (#347)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.0.1",
+          "commits": [
+            {
+              "SHA": "dbb333b",
+              "Subject": "Prepare for release v0.0.1 (#3)"
+            },
+            {
+              "SHA": "b9c96e2",
+              "Subject": "Pgpool operator (#2)"
+            },
+            {
+              "SHA": "7c878e7",
+              "Subject": "C1:bootstrap Initialization project and basic api design"
+            },
+            {
+              "SHA": "c437da3",
+              "Subject": "C1:bootstrap Initialization project and basic api design"
             }
           ]
         }

@@ -129,6 +129,17 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.0.1](https://github.com/kubedb/pgpool/releases/tag/v0.0.1)
+
+- [dbb333b](https://github.com/kubedb/pgpool/commit/dbb333b) Prepare for release v0.0.1 (#3)
+- [b9c96e2](https://github.com/kubedb/pgpool/commit/b9c96e2) Pgpool operator (#2)
+- [7c878e7](https://github.com/kubedb/pgpool/commit/7c878e7) C1:bootstrap Initialization project and basic api design
+- [c437da3](https://github.com/kubedb/pgpool/commit/c437da3) C1:bootstrap Initialization project and basic api design
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.2.0-beta.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.2.0-beta.1)

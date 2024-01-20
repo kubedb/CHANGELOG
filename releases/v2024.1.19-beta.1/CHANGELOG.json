@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T09:09:51.50001134Z",
+  "release_date": "2024-01-20T09:35:37.036091178Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -1127,6 +1127,40 @@
             {
               "SHA": "8173cfc2",
               "Subject": "Implement SingularNameProvider"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.17.0-beta.1",
+          "commits": [
+            {
+              "SHA": "2a84cedb",
+              "Subject": "Prepare for release v0.17.0-beta.1 (#89)"
+            },
+            {
+              "SHA": "bb4a5c22",
+              "Subject": "Add kafka connect-cluster (#87)"
+            },
+            {
+              "SHA": "c46c6662",
+              "Subject": "Add new Database support (#88)"
+            },
+            {
+              "SHA": "c6387e9e",
+              "Subject": "Set default kubebuilder client for autoscaler (#86)"
+            },
+            {
+              "SHA": "14c07899",
+              "Subject": "Incorporate apimachinery (#85)"
+            },
+            {
+              "SHA": "266c79a0",
+              "Subject": "Add kafka ops request validator (#84)"
             }
           ]
         }

@@ -504,3 +504,16 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.17.0-beta.1](https://github.com/kubedb/webhook-server/releases/tag/v0.17.0-beta.1)
+
+- [2a84cedb](https://github.com/kubedb/webhook-server/commit/2a84cedb) Prepare for release v0.17.0-beta.1 (#89)
+- [bb4a5c22](https://github.com/kubedb/webhook-server/commit/bb4a5c22) Add kafka connect-cluster (#87)
+- [c46c6662](https://github.com/kubedb/webhook-server/commit/c46c6662) Add new Database support (#88)
+- [c6387e9e](https://github.com/kubedb/webhook-server/commit/c6387e9e) Set default kubebuilder client for autoscaler (#86)
+- [14c07899](https://github.com/kubedb/webhook-server/commit/14c07899) Incorporate apimachinery (#85)
+- [266c79a0](https://github.com/kubedb/webhook-server/commit/266c79a0) Add kafka ops request validator (#84)
+
+
+

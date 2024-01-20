@@ -274,6 +274,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.0.1](https://github.com/kubedb/singlestore/releases/tag/v0.0.1)
+
+- [8feeb79](https://github.com/kubedb/singlestore/commit/8feeb79) Prepare for release v0.0.1 (#5)
+- [fb79ff9](https://github.com/kubedb/singlestore/commit/fb79ff9) Add Singlestore Operator (#4)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.0.1](https://github.com/kubedb/solr/releases/tag/v0.0.1)

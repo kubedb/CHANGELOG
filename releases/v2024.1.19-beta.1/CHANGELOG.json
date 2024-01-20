@@ -1,0 +1,116 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.1.19-beta.1",
+  "release_date": "2024-01-20T03:53:46.713339305Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.41.0-beta.1",
+          "commits": [
+            {
+              "SHA": "ef49cbfa8",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f85d14100",
+              "Subject": "Without non-root (#1122)"
+            },
+            {
+              "SHA": "79fd675a0",
+              "Subject": "Add `PausedBackups` field into `OpsRequestStatus` (#1114)"
+            },
+            {
+              "SHA": "778a1af25",
+              "Subject": "Add FerretDB Apis (#1119)"
+            },
+            {
+              "SHA": "329083aa6",
+              "Subject": "Add missing entries while ignoring openapi schema (#1121)"
+            },
+            {
+              "SHA": "0f8ac9110",
+              "Subject": "Fix API for new Databases (#1120)"
+            },
+            {
+              "SHA": "b625c64c5",
+              "Subject": "Fix issues with Pgpool HealthChecker field and version check in webhook (#1118)"
+            },
+            {
+              "SHA": "e78c6ff74",
+              "Subject": "Remove unnecessary apis for singlestore (#1117)"
+            },
+            {
+              "SHA": "6e98cd41c",
+              "Subject": "Add Rabbitmq API (#1109)"
+            },
+            {
+              "SHA": "e7a088faf",
+              "Subject": "Remove api call from Solr setDefaults. (#1116)"
+            },
+            {
+              "SHA": "a73a825b7",
+              "Subject": "Add Solr API (#1110)"
+            },
+            {
+              "SHA": "9d6870498",
+              "Subject": "Pgpool Backend Set to Required (#1113)"
+            },
+            {
+              "SHA": "72d44aef7",
+              "Subject": "Fix ElasticsearchDashboard constants"
+            },
+            {
+              "SHA": "0c40a7698",
+              "Subject": "Change dashboard api group to elasticsearch (#1112)"
+            },
+            {
+              "SHA": "85e4ae232",
+              "Subject": "Add ZooKeeper API (#1104)"
+            },
+            {
+              "SHA": "ee446682d",
+              "Subject": "Add Pgpool apis (#1103)"
+            },
+            {
+              "SHA": "4995ebf3d",
+              "Subject": "Add Druid API (#1111)"
+            },
+            {
+              "SHA": "556a36dfe",
+              "Subject": "Add SingleStore APIS (#1108)"
+            },
+            {
+              "SHA": "a72bb1ffc",
+              "Subject": "Add runAsGroup field in mgVersion api (#1107)"
+            },
+            {
+              "SHA": "1ee5ee41d",
+              "Subject": "Add Kafka Connect Cluster and Connector APIs (#1066)"
+            },
+            {
+              "SHA": "2fd99ee82",
+              "Subject": "Fix replica count for arbiter & hidden node (#1106)"
+            },
+            {
+              "SHA": "4e194f0a2",
+              "Subject": "Implement validator for autoscalers (#1105)"
+            },
+            {
+              "SHA": "6a4545928",
+              "Subject": "Add kubestash controller for changing kubeDB phase (#1096)"
+            },
+            {
+              "SHA": "447577539",
+              "Subject": "Ignore validators.autoscaling.kubedb.com webhook handlers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

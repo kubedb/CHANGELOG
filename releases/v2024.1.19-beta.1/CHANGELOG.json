@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T05:41:08.83528577Z",
+  "release_date": "2024-01-20T05:41:14.21442467Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -143,6 +143,28 @@
             {
               "SHA": "4c1380ab7",
               "Subject": "Incorporate with apimachinery package name change from `stash` to `restore` (#347)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0-beta.1",
+          "commits": [
+            {
+              "SHA": "dc4f85e",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#15)"
+            },
+            {
+              "SHA": "098365a",
+              "Subject": "Update README.md (#14)"
+            },
+            {
+              "SHA": "5ef571f",
+              "Subject": "Update deps (#13)"
             }
           ]
         }

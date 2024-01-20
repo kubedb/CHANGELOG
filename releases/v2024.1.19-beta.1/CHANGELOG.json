@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T13:25:11.266118923Z",
+  "release_date": "2024-01-20T13:31:03.306747385Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -133,6 +133,20 @@
             {
               "SHA": "e536b856",
               "Subject": "Conditionally check for vpa & checkpoints (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2024.1.19-beta.1",
+          "commits": [
+            {
+              "SHA": "46a480e",
+              "Subject": "Prepare for release v2024.1.19-beta.1 (#79)"
             }
           ]
         }

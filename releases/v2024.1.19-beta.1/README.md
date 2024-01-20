@@ -43,6 +43,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2024.1.19-beta.1](https://github.com/kubedb/bundles/releases/tag/v2024.1.19-beta.1)
+
+- [46a480e](https://github.com/kubedb/bundles/commit/46a480e) Prepare for release v2024.1.19-beta.1 (#79)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.41.0-beta.1](https://github.com/kubedb/cli/releases/tag/v0.41.0-beta.1)

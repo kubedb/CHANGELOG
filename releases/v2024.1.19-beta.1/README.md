@@ -465,3 +465,12 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.17.0-beta.1](https://github.com/kubedb/ui-server/releases/tag/v0.17.0-beta.1)
+
+- [98c1a6dd](https://github.com/kubedb/ui-server/commit/98c1a6dd) Prepare for release v0.17.0-beta.1 (#105)
+- [8173cfc2](https://github.com/kubedb/ui-server/commit/8173cfc2) Implement SingularNameProvider
+
+
+

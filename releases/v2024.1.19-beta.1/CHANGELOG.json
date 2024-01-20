@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T08:31:26.532032769Z",
+  "release_date": "2024-01-20T08:31:48.174720907Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -1025,6 +1025,24 @@
             {
               "SHA": "5aca2293",
               "Subject": "Give time to PDB status to be updated (#285)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.17.0-beta.1",
+          "commits": [
+            {
+              "SHA": "98c1a6dd",
+              "Subject": "Prepare for release v0.17.0-beta.1 (#105)"
+            },
+            {
+              "SHA": "8173cfc2",
+              "Subject": "Implement SingularNameProvider"
             }
           ]
         }

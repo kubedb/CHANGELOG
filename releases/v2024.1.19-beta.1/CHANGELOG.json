@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T06:58:46.222199262Z",
+  "release_date": "2024-01-20T06:59:03.407080672Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -297,6 +297,20 @@
             {
               "SHA": "4c1380ab7",
               "Subject": "Incorporate with apimachinery package name change from `stash` to `restore` (#347)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0-beta.1",
+          "commits": [
+            {
+              "SHA": "c4405c1",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#17)"
             }
           ]
         }

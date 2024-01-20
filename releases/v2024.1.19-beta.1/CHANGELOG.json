@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.19-beta.1",
-  "release_date": "2024-01-20T07:00:20.940331263Z",
+  "release_date": "2024-01-20T07:00:39.416701751Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.19-beta.1",
   "kubernetes_version": "1.20+",
@@ -331,6 +331,24 @@
             {
               "SHA": "59a11671",
               "Subject": "Prepare for release v0.19.0-beta.1 (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0-beta.1",
+          "commits": [
+            {
+              "SHA": "105888a",
+              "Subject": "Prepare for release v0.4.0-beta.1 (#21)"
+            },
+            {
+              "SHA": "b42d0cf",
+              "Subject": "Removed `--all-databases` flag for restoring (#20)"
             }
           ]
         }

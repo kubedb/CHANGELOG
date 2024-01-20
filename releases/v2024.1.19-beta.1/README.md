@@ -142,6 +142,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.4.0-beta.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.4.0-beta.1)
+
+- [105888a](https://github.com/kubedb/mysql-restic-plugin/commit/105888a) Prepare for release v0.4.0-beta.1 (#21)
+- [b42d0cf](https://github.com/kubedb/mysql-restic-plugin/commit/b42d0cf) Removed `--all-databases` flag for restoring (#20)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.28.0-beta.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.28.0-beta.1)

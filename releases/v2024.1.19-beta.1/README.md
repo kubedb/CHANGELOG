@@ -62,6 +62,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.1.19-beta.1](https://github.com/kubedb/docs/releases/tag/v2024.1.19-beta.1)
+
+- [9722677b](https://github.com/kubedb/docs/commit/9722677b) Prepare for release v2024.1.19-beta.1 (#597)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.0.1](https://github.com/kubedb/druid/releases/tag/v0.0.1)

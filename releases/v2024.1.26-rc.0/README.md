@@ -56,3 +56,23 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.0.9](https://github.com/kubedb/db-client-go/releases/tag/v0.0.9)
+
+- [b254eda7](https://github.com/kubedb/db-client-go/commit/b254eda7) Prepare for release v0.0.9 (#83)
+- [22edae9f](https://github.com/kubedb/db-client-go/commit/22edae9f) Add support for Opensearch Dashboard client (#82)
+- [dd2b92a0](https://github.com/kubedb/db-client-go/commit/dd2b92a0) Add backup and restore methods for kibana dashboard (#81)
+- [649baaf6](https://github.com/kubedb/db-client-go/commit/649baaf6) Add release workflow
+- [34b87965](https://github.com/kubedb/db-client-go/commit/34b87965) Add release tracker script
+- [7f4d5847](https://github.com/kubedb/db-client-go/commit/7f4d5847) Add Pgpool DB-Client (#80)
+- [60162574](https://github.com/kubedb/db-client-go/commit/60162574) Change dashboard api group to elasticsearch (#79)
+- [3b88c8fa](https://github.com/kubedb/db-client-go/commit/3b88c8fa) Add Singlestore db-client (#73)
+- [70c5b516](https://github.com/kubedb/db-client-go/commit/70c5b516) Add client libraries for kafka and kafka connect (#74)
+- [d8bc9aa1](https://github.com/kubedb/db-client-go/commit/d8bc9aa1) Add Go client for ElasticsearchDashboard (#78)
+- [49a0c0b6](https://github.com/kubedb/db-client-go/commit/49a0c0b6) Update deps (#77)
+- [cd32078b](https://github.com/kubedb/db-client-go/commit/cd32078b) Update deps (#76)
+- [986266b2](https://github.com/kubedb/db-client-go/commit/986266b2) Use k8s 1.29 client libs (#75)
+
+
+

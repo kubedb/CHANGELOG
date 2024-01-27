@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T02:35:01.108044418Z",
+  "release_date": "2024-01-27T02:41:20.656833073Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -203,6 +203,68 @@
             {
               "SHA": "389a934c7",
               "Subject": "Use k8s 1.29 client libs (#1093)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.0.9",
+          "commits": [
+            {
+              "SHA": "b254eda7",
+              "Subject": "Prepare for release v0.0.9 (#83)"
+            },
+            {
+              "SHA": "22edae9f",
+              "Subject": "Add support for Opensearch Dashboard client (#82)"
+            },
+            {
+              "SHA": "dd2b92a0",
+              "Subject": "Add backup and restore methods for kibana dashboard (#81)"
+            },
+            {
+              "SHA": "649baaf6",
+              "Subject": "Add release workflow"
+            },
+            {
+              "SHA": "34b87965",
+              "Subject": "Add release tracker script"
+            },
+            {
+              "SHA": "7f4d5847",
+              "Subject": "Add Pgpool DB-Client (#80)"
+            },
+            {
+              "SHA": "60162574",
+              "Subject": "Change dashboard api group to elasticsearch (#79)"
+            },
+            {
+              "SHA": "3b88c8fa",
+              "Subject": "Add Singlestore db-client (#73)"
+            },
+            {
+              "SHA": "70c5b516",
+              "Subject": "Add client libraries for kafka and kafka connect (#74)"
+            },
+            {
+              "SHA": "d8bc9aa1",
+              "Subject": "Add Go client for ElasticsearchDashboard (#78)"
+            },
+            {
+              "SHA": "49a0c0b6",
+              "Subject": "Update deps (#77)"
+            },
+            {
+              "SHA": "cd32078b",
+              "Subject": "Update deps (#76)"
+            },
+            {
+              "SHA": "986266b2",
+              "Subject": "Use k8s 1.29 client libs (#75)"
             }
           ]
         }

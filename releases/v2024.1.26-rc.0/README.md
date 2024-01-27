@@ -70,6 +70,19 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.0.2](https://github.com/kubedb/crd-manager/releases/tag/v0.0.2)
+
+- [5c6b4d6](https://github.com/kubedb/crd-manager/commit/5c6b4d6) Prepare for release v0.0.2 (#10)
+- [e6e03ae](https://github.com/kubedb/crd-manager/commit/e6e03ae) Add --remove-unused-crds (#9)
+- [6b48b3d](https://github.com/kubedb/crd-manager/commit/6b48b3d) Hide new databases
+- [a872af9](https://github.com/kubedb/crd-manager/commit/a872af9) Fix Apimachinery module (#8)
+- [f7fccb6](https://github.com/kubedb/crd-manager/commit/f7fccb6) Install kubestash crds for ops_manager (#7)
+- [514f51c](https://github.com/kubedb/crd-manager/commit/514f51c) Set multiple values to true in featureGates (#5)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.9](https://github.com/kubedb/db-client-go/releases/tag/v0.0.9)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T02:50:08.697388818Z",
+  "release_date": "2024-01-27T02:50:10.660394002Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -305,6 +305,20 @@
           "commits": [
             {
               "SHA": "ebba4fa",
+              "Subject": "Checkout fake release branch for release workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "82f52c3",
               "Subject": "Checkout fake release branch for release workflow"
             }
           ]

@@ -138,6 +138,17 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.4.0-rc.0)
+
+- [18ea6da](https://github.com/kubedb/elasticsearch-restic-plugin/commit/18ea6da) Prepare for release v0.4.0-rc.0 (#17)
+- [584dfd9](https://github.com/kubedb/elasticsearch-restic-plugin/commit/584dfd9) Prepare for release v0.4.0-beta.1 (#16)
+- [5e9aef5](https://github.com/kubedb/elasticsearch-restic-plugin/commit/5e9aef5) Prepare for release v0.4.0-beta.0 (#15)
+- [2fdcafa](https://github.com/kubedb/elasticsearch-restic-plugin/commit/2fdcafa) Use k8s 1.29 client libs (#14)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.0.2](https://github.com/kubedb/ferretdb/releases/tag/v0.0.2)

@@ -99,6 +99,19 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.21.0-rc.0)
+
+- [15a83758](https://github.com/kubedb/mariadb-coordinator/commit/15a83758) Prepare for release v0.21.0-rc.0 (#102)
+- [1c30e710](https://github.com/kubedb/mariadb-coordinator/commit/1c30e710) Prepare for release v0.21.0-beta.1 (#101)
+- [28677618](https://github.com/kubedb/mariadb-coordinator/commit/28677618) Prepare for release v0.21.0-beta.0 (#100)
+- [655a2c66](https://github.com/kubedb/mariadb-coordinator/commit/655a2c66) Update deps (#99)
+- [ef206cfe](https://github.com/kubedb/mariadb-coordinator/commit/ef206cfe) Update deps (#98)
+- [ef72c98b](https://github.com/kubedb/mariadb-coordinator/commit/ef72c98b) Use k8s 1.29 client libs (#97)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.34.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.34.0-rc.0)

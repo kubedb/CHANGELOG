@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T03:25:22.281091071Z",
+  "release_date": "2024-01-27T03:26:10.163744557Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -321,6 +321,40 @@
             {
               "SHA": "23ec3b8",
               "Subject": "Update install recipies in makefile (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "15a83758",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "1c30e710",
+              "Subject": "Prepare for release v0.21.0-beta.1 (#101)"
+            },
+            {
+              "SHA": "28677618",
+              "Subject": "Prepare for release v0.21.0-beta.0 (#100)"
+            },
+            {
+              "SHA": "655a2c66",
+              "Subject": "Update deps (#99)"
+            },
+            {
+              "SHA": "ef206cfe",
+              "Subject": "Update deps (#98)"
+            },
+            {
+              "SHA": "ef72c98b",
+              "Subject": "Use k8s 1.29 client libs (#97)"
             }
           ]
         }

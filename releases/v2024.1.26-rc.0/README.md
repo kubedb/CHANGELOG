@@ -117,6 +117,17 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.1.26-rc.0](https://github.com/kubedb/docs/releases/tag/v2024.1.26-rc.0)
+
+- [e85ac659](https://github.com/kubedb/docs/commit/e85ac659) Prepare for release v2024.1.26-rc.0 (#601)
+- [9722677b](https://github.com/kubedb/docs/commit/9722677b) Prepare for release v2024.1.19-beta.1 (#597)
+- [89942a95](https://github.com/kubedb/docs/commit/89942a95) Prepare for release v2024.1.7-beta.0 (#596)
+- [e1590231](https://github.com/kubedb/docs/commit/e1590231) Update Redis Docs (#595)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.0.2](https://github.com/kubedb/druid/releases/tag/v0.0.2)

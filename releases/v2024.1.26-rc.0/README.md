@@ -85,6 +85,29 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.41.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.41.0-rc.0)
+
+- [8135d351](https://github.com/kubedb/postgres/commit/8135d3511) Prepare for release v0.41.0-rc.0 (#709)
+- [72a1ee29](https://github.com/kubedb/postgres/commit/72a1ee294) Prepare for release v0.41.0-beta.1 (#708)
+- [026598f4](https://github.com/kubedb/postgres/commit/026598f44) Prepare for release v0.41.0-beta.1 (#707)
+- [8af305aa](https://github.com/kubedb/postgres/commit/8af305aa4) Use ptr.Deref(); Update deps
+- [c7c0652d](https://github.com/kubedb/postgres/commit/c7c0652dc) Update ci & makefile for crd-manager (#706)
+- [d468bdb3](https://github.com/kubedb/postgres/commit/d468bdb34) Fix wal backup directory (#705)
+- [c6992bed](https://github.com/kubedb/postgres/commit/c6992bed8) Add Support for DB phase change for restoring using KubeStash (#704)
+- [d1bd909b](https://github.com/kubedb/postgres/commit/d1bd909ba) Prepare for release v0.41.0-beta.0 (#703)
+- [5e8101e3](https://github.com/kubedb/postgres/commit/5e8101e39) Dynamically start crd controller (#702)
+- [47dbbff5](https://github.com/kubedb/postgres/commit/47dbbff53) Update deps (#701)
+- [84f99c58](https://github.com/kubedb/postgres/commit/84f99c58b) Disable fairness api
+- [a715765d](https://github.com/kubedb/postgres/commit/a715765dc) Set --restricted=false for ci tests (#700)
+- [fe9af597](https://github.com/kubedb/postgres/commit/fe9af5977) Add Postgres test fix (#699)
+- [8bae8886](https://github.com/kubedb/postgres/commit/8bae88860) Configure openapi for webhook server (#698)
+- [9ce2efce](https://github.com/kubedb/postgres/commit/9ce2efce5) Update deps
+- [24e4e9ca](https://github.com/kubedb/postgres/commit/24e4e9ca5) Use k8s 1.29 client libs (#697)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/provider-aws/releases/tag/v0.3.0-rc.0)

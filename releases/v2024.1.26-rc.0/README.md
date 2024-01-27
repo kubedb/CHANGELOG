@@ -135,6 +135,30 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.12.0-rc.0)
+
+- [9d73e3ce](https://github.com/kubedb/kafka/commit/9d73e3ce) Prepare for release v0.12.0-rc.0 (#71)
+- [c1d08f75](https://github.com/kubedb/kafka/commit/c1d08f75) Remove cassandra, clickhouse, etcd flags
+- [e7283583](https://github.com/kubedb/kafka/commit/e7283583) Fix podtemplate containers reference isuue (#70)
+- [6d04bf0f](https://github.com/kubedb/kafka/commit/6d04bf0f) Add termination policy for kafka and connect cluster (#69)
+- [34f4967f](https://github.com/kubedb/kafka/commit/34f4967f) Prepare for release v0.12.0-beta.1 (#68)
+- [7176931c](https://github.com/kubedb/kafka/commit/7176931c) Move Kafka Podtemplate to ofshoot-api v2 (#66)
+- [9454adf6](https://github.com/kubedb/kafka/commit/9454adf6) Update ci & makefile for crd-manager (#67)
+- [fda770d8](https://github.com/kubedb/kafka/commit/fda770d8) Add kafka connector controller (#65)
+- [6ed0ccd4](https://github.com/kubedb/kafka/commit/6ed0ccd4) Add Kafka connect  controller (#44)
+- [18e9a45c](https://github.com/kubedb/kafka/commit/18e9a45c) update deps (#64)
+- [a7dfb409](https://github.com/kubedb/kafka/commit/a7dfb409) Update makefile for dynamic crd installer (#63)
+- [f9350578](https://github.com/kubedb/kafka/commit/f9350578) Prepare for release v0.12.0-beta.0 (#62)
+- [692f2bef](https://github.com/kubedb/kafka/commit/692f2bef) Dynamically start crd controller (#61)
+- [a50dc8b4](https://github.com/kubedb/kafka/commit/a50dc8b4) Update deps (#60)
+- [7ff28ed7](https://github.com/kubedb/kafka/commit/7ff28ed7) Update deps (#59)
+- [16130571](https://github.com/kubedb/kafka/commit/16130571) Add openapi configuration for webhook server (#58)
+- [cc465de9](https://github.com/kubedb/kafka/commit/cc465de9) Use k8s 1.29 client libs (#57)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.1.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T03:26:28.427765458Z",
+  "release_date": "2024-01-27T03:26:56.647477472Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -740,6 +740,68 @@
             {
               "SHA": "82f52c3",
               "Subject": "Checkout fake release branch for release workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0703a513",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#519)"
+            },
+            {
+              "SHA": "b1a296b7",
+              "Subject": "Init sentinel before secret watcher (#518)"
+            },
+            {
+              "SHA": "01290634",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#517)"
+            },
+            {
+              "SHA": "e51f93e1",
+              "Subject": "Fix panic (#516)"
+            },
+            {
+              "SHA": "dc75c163",
+              "Subject": "Update ci & makefile for crd-manager (#515)"
+            },
+            {
+              "SHA": "09688f35",
+              "Subject": "Add Support for DB phase change for restoring using KubeStash (#514)"
+            },
+            {
+              "SHA": "7e844ab1",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#513)"
+            },
+            {
+              "SHA": "6318d04f",
+              "Subject": "Dynamically start crd controller (#512)"
+            },
+            {
+              "SHA": "92b8a3a9",
+              "Subject": "Update deps (#511)"
+            },
+            {
+              "SHA": "f0fb4c69",
+              "Subject": "Update deps (#510)"
+            },
+            {
+              "SHA": "c99d9498",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "90299544",
+              "Subject": "Use k8s 1.29 client libs (#508)"
+            },
+            {
+              "SHA": "fced7010",
+              "Subject": "Update redis versions in nightly tests (#507)"
             }
           ]
         }

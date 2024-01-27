@@ -258,6 +258,26 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.34.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.34.0-rc.0)
+
+- [0703a513](https://github.com/kubedb/redis/commit/0703a513) Prepare for release v0.34.0-rc.0 (#519)
+- [b1a296b7](https://github.com/kubedb/redis/commit/b1a296b7) Init sentinel before secret watcher (#518)
+- [01290634](https://github.com/kubedb/redis/commit/01290634) Prepare for release v0.34.0-beta.1 (#517)
+- [e51f93e1](https://github.com/kubedb/redis/commit/e51f93e1) Fix panic (#516)
+- [dc75c163](https://github.com/kubedb/redis/commit/dc75c163) Update ci & makefile for crd-manager (#515)
+- [09688f35](https://github.com/kubedb/redis/commit/09688f35) Add Support for DB phase change for restoring using KubeStash (#514)
+- [7e844ab1](https://github.com/kubedb/redis/commit/7e844ab1) Prepare for release v0.34.0-beta.0 (#513)
+- [6318d04f](https://github.com/kubedb/redis/commit/6318d04f) Dynamically start crd controller (#512)
+- [92b8a3a9](https://github.com/kubedb/redis/commit/92b8a3a9) Update deps (#511)
+- [f0fb4c69](https://github.com/kubedb/redis/commit/f0fb4c69) Update deps (#510)
+- [c99d9498](https://github.com/kubedb/redis/commit/c99d9498) Update deps
+- [90299544](https://github.com/kubedb/redis/commit/90299544) Use k8s 1.29 client libs (#508)
+- [fced7010](https://github.com/kubedb/redis/commit/fced7010) Update redis versions in nightly tests (#507)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.20.0-rc.0)

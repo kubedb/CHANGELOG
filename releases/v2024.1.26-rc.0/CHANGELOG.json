@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T02:53:59.209717459Z",
+  "release_date": "2024-01-27T02:55:39.478175386Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -458,6 +458,40 @@
             {
               "SHA": "82f52c3",
               "Subject": "Checkout fake release branch for release workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f09062c4",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "fd3b2112",
+              "Subject": "Prepare for release v0.20.0-beta.1 (#89)"
+            },
+            {
+              "SHA": "4c36accd",
+              "Subject": "Prepare for release v0.20.0-beta.0 (#88)"
+            },
+            {
+              "SHA": "c8658380",
+              "Subject": "Update deps (#87)"
+            },
+            {
+              "SHA": "c99c2e9b",
+              "Subject": "Update deps (#86)"
+            },
+            {
+              "SHA": "22c7beb4",
+              "Subject": "Use k8s 1.29 client libs (#85)"
             }
           ]
         }

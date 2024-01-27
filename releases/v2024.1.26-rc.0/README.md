@@ -83,6 +83,13 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.17.0-rc.0](https://github.com/kubedb/dashboard/releases/tag/v0.17.0-rc.0)
+
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.9](https://github.com/kubedb/db-client-go/releases/tag/v0.0.9)

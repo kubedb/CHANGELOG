@@ -89,6 +89,18 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.2.0-rc.0)
+
+- [21e9470](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/21e9470) Prepare for release v0.2.0-rc.0 (#6)
+- [d5771cf](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/d5771cf) Prepare for release v0.2.0-beta.1 (#5)
+- [b4ffc6f](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/b4ffc6f) Fix component driver status & Update deps (#3)
+- [d285eff](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/d285eff) Prepare for release v0.2.0-beta.0 (#4)
+- [7a46441](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/7a46441) Use k8s 1.29 client libs (#2)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.19.0-rc.0)

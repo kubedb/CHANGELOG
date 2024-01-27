@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T02:52:43.998632238Z",
+  "release_date": "2024-01-27T02:53:59.209717459Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -299,6 +299,36 @@
             {
               "SHA": "c2c9bd4",
               "Subject": "Use k8s 1.29 client libs (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "21e9470",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "d5771cf",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#5)"
+            },
+            {
+              "SHA": "b4ffc6f",
+              "Subject": "Fix component driver status & Update deps (#3)"
+            },
+            {
+              "SHA": "d285eff",
+              "Subject": "Prepare for release v0.2.0-beta.0 (#4)"
+            },
+            {
+              "SHA": "7a46441",
+              "Subject": "Use k8s 1.29 client libs (#2)"
             }
           ]
         }

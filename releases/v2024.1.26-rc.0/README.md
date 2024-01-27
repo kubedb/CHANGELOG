@@ -482,6 +482,32 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.26.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.26.0-rc.0)
+
+- [1730fd31](https://github.com/kubedb/tests/commit/1730fd31) Prepare for release v0.26.0-rc.0 (#296)
+- [d1805668](https://github.com/kubedb/tests/commit/d1805668) Add ZooKeeper Tests (#294)
+- [4c27754c](https://github.com/kubedb/tests/commit/4c27754c) Fix kafka env-variable tests (#293)
+- [3cfc1212](https://github.com/kubedb/tests/commit/3cfc1212) Prepare for release v0.26.0-beta.1 (#292)
+- [b810e690](https://github.com/kubedb/tests/commit/b810e690) increase cpu limit for vertical scaling (#289)
+- [c43985ba](https://github.com/kubedb/tests/commit/c43985ba) Change dashboard api group (#291)
+- [1b96881e](https://github.com/kubedb/tests/commit/1b96881e) Fix error logging
+- [33f78143](https://github.com/kubedb/tests/commit/33f78143) forceCleanup PVCs for mongo (#288)
+- [0dcd3e38](https://github.com/kubedb/tests/commit/0dcd3e38) Add PostgreSQL logical replication tests  (#202)
+- [2f403c85](https://github.com/kubedb/tests/commit/2f403c85) Find profiles in array, Don't match with string (#286)
+- [5aca2293](https://github.com/kubedb/tests/commit/5aca2293) Give time to PDB status to be updated (#285)
+- [5f3fabd7](https://github.com/kubedb/tests/commit/5f3fabd7) Prepare for release v0.26.0-beta.0 (#284)
+- [27a24dff](https://github.com/kubedb/tests/commit/27a24dff) Update deps (#283)
+- [b9021186](https://github.com/kubedb/tests/commit/b9021186) Update deps (#282)
+- [589ca51c](https://github.com/kubedb/tests/commit/589ca51c) mongodb vertical scaling fix (#281)
+- [feaa0f6a](https://github.com/kubedb/tests/commit/feaa0f6a) Add `--restricted` flag (#280)
+- [2423ee38](https://github.com/kubedb/tests/commit/2423ee38) Fix linter errors
+- [dcd64c7c](https://github.com/kubedb/tests/commit/dcd64c7c) Update lint command
+- [c3ef1fa4](https://github.com/kubedb/tests/commit/c3ef1fa4) Use k8s 1.29 client libs (#279)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.2](https://github.com/kubedb/zookeeper/releases/tag/v0.0.2)

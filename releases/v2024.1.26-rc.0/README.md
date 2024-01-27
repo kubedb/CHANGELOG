@@ -477,6 +477,18 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.0.2](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.2)
+
+- [3eef0623](https://github.com/kubedb/rabbitmq/commit/3eef0623) Prepare for release v0.0.2 (#6)
+- [8b7c36a5](https://github.com/kubedb/rabbitmq/commit/8b7c36a5) Remove cassandra, clickhouse, etcd flags
+- [6628a5a9](https://github.com/kubedb/rabbitmq/commit/6628a5a9) Add Appbinding (#5)
+- [017a24b0](https://github.com/kubedb/rabbitmq/commit/017a24b0) Fix health checker (#4)
+- [673275ba](https://github.com/kubedb/rabbitmq/commit/673275ba) Update install recipes in makefile (#3)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.34.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.34.0-rc.0)

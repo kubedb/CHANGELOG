@@ -103,6 +103,28 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.41.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.41.0-rc.0)
+
+- [69735e9e](https://github.com/kubedb/elasticsearch/commit/69735e9e1) Prepare for release v0.41.0-rc.0 (#700)
+- [c410b39f](https://github.com/kubedb/elasticsearch/commit/c410b39f5) Prepare for release v0.41.0-beta.1 (#699)
+- [3394f1d1](https://github.com/kubedb/elasticsearch/commit/3394f1d13) Use ptr.Deref(); Update deps
+- [f00ee052](https://github.com/kubedb/elasticsearch/commit/f00ee052e) Update ci & makefile for crd-manager (#698)
+- [e37e6d63](https://github.com/kubedb/elasticsearch/commit/e37e6d631) Add catalog client in scheme. (#697)
+- [a46bfd41](https://github.com/kubedb/elasticsearch/commit/a46bfd41b) Add Support for DB phase change for restoring using KubeStash (#696)
+- [9cbac2fc](https://github.com/kubedb/elasticsearch/commit/9cbac2fc4) Update makefile for dynamic crd installer (#695)
+- [3ab4d77d](https://github.com/kubedb/elasticsearch/commit/3ab4d77d2) Prepare for release v0.41.0-beta.0 (#694)
+- [c38c61cb](https://github.com/kubedb/elasticsearch/commit/c38c61cbc) Dynamically start crd controller (#693)
+- [6a798d30](https://github.com/kubedb/elasticsearch/commit/6a798d309) Update deps (#692)
+- [bdf034a4](https://github.com/kubedb/elasticsearch/commit/bdf034a49) Update deps (#691)
+- [ea22eecb](https://github.com/kubedb/elasticsearch/commit/ea22eecb2) Add openapi configuration for webhook server (#690)
+- [b97636cd](https://github.com/kubedb/elasticsearch/commit/b97636cd1) Update lint command
+- [0221ac14](https://github.com/kubedb/elasticsearch/commit/0221ac14e) Update deps
+- [b4cb8d60](https://github.com/kubedb/elasticsearch/commit/b4cb8d603) Use k8s 1.29 client libs (#689)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.0.2](https://github.com/kubedb/ferretdb/releases/tag/v0.0.2)

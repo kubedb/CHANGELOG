@@ -257,6 +257,21 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.34.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.34.0-rc.0)
+
+- [3ae5739b](https://github.com/kubedb/memcached/commit/3ae5739b) Prepare for release v0.34.0-rc.0 (#419)
+- [754ba398](https://github.com/kubedb/memcached/commit/754ba398) Prepare for release v0.34.0-beta.1 (#418)
+- [abd9dbb6](https://github.com/kubedb/memcached/commit/abd9dbb6) Incorporate with apimachinery package name change from stash to restore (#417)
+- [6fe1686a](https://github.com/kubedb/memcached/commit/6fe1686a) Prepare for release v0.34.0-beta.0 (#416)
+- [1cfb0544](https://github.com/kubedb/memcached/commit/1cfb0544) Dynamically start crd controller (#415)
+- [171faff2](https://github.com/kubedb/memcached/commit/171faff2) Update deps (#414)
+- [639495c7](https://github.com/kubedb/memcached/commit/639495c7) Update deps (#413)
+- [223d295a](https://github.com/kubedb/memcached/commit/223d295a) Use k8s 1.29 client libs (#412)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.34.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.34.0-rc.0)

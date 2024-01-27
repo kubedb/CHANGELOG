@@ -529,6 +529,17 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.0.2](https://github.com/kubedb/solr/releases/tag/v0.0.2)
+
+- [e78ab6d](https://github.com/kubedb/solr/commit/e78ab6d) Prepare for release v0.0.2 (#6)
+- [6c2dfff](https://github.com/kubedb/solr/commit/6c2dfff) Remove cassandra, clickhouse, etcd flags
+- [6e36a4f](https://github.com/kubedb/solr/commit/6e36a4f) Fix install recipes for Solr (#3)
+- [203d9f0](https://github.com/kubedb/solr/commit/203d9f0) Start health check using  a struct. (#5)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.26.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.26.0-rc.0)

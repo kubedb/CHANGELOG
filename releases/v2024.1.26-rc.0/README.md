@@ -560,6 +560,18 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.0.2](https://github.com/kubedb/singlestore/releases/tag/v0.0.2)
+
+- [62d006e](https://github.com/kubedb/singlestore/commit/62d006e) Prepare for release v0.0.2 (#9)
+- [968f8b7](https://github.com/kubedb/singlestore/commit/968f8b7) Add AppBinding Config (#8)
+- [4ca70af](https://github.com/kubedb/singlestore/commit/4ca70af) Fix Appbinding Scheme (#7)
+- [501a7bf](https://github.com/kubedb/singlestore/commit/501a7bf) Remove cassandra, clickhouse, etcd flags
+- [1555746](https://github.com/kubedb/singlestore/commit/1555746) Update install recipes in makefile (#6)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.0.2](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.0.2)

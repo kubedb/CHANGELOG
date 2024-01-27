@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T04:23:19.689098926Z",
+  "release_date": "2024-01-27T04:43:04.234530748Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -1587,6 +1587,36 @@
             {
               "SHA": "633d7b76",
               "Subject": "Use k8s 1.29 client libs (#249)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.0.2",
+          "commits": [
+            {
+              "SHA": "62d006e",
+              "Subject": "Prepare for release v0.0.2 (#9)"
+            },
+            {
+              "SHA": "968f8b7",
+              "Subject": "Add AppBinding Config (#8)"
+            },
+            {
+              "SHA": "4ca70af",
+              "Subject": "Fix Appbinding Scheme (#7)"
+            },
+            {
+              "SHA": "501a7bf",
+              "Subject": "Remove cassandra, clickhouse, etcd flags"
+            },
+            {
+              "SHA": "1555746",
+              "Subject": "Update install recipes in makefile (#6)"
             }
           ]
         }

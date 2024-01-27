@@ -315,6 +315,18 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.0.2](https://github.com/kubedb/pgpool/releases/tag/v0.0.2)
+
+- [21d8639](https://github.com/kubedb/pgpool/commit/21d8639) Prepare for release v0.0.2 (#7)
+- [e7dab5e](https://github.com/kubedb/pgpool/commit/e7dab5e) Remove cassandra, clickhouse, etcd flags
+- [2678231](https://github.com/kubedb/pgpool/commit/2678231) Fix log (#6)
+- [e4a54e0](https://github.com/kubedb/pgpool/commit/e4a54e0) Fix xorm client issue (#5)
+- [258da9b](https://github.com/kubedb/pgpool/commit/258da9b) Update install recipes in makefile (#4)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.41.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.41.0-rc.0)

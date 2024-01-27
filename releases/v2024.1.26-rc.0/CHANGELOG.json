@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T03:59:36.990911418Z",
+  "release_date": "2024-01-27T03:59:51.813973418Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -933,6 +933,36 @@
             {
               "SHA": "ee4add86",
               "Subject": "Use k8s 1.29 client libs (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.0.2",
+          "commits": [
+            {
+              "SHA": "21d8639",
+              "Subject": "Prepare for release v0.0.2 (#7)"
+            },
+            {
+              "SHA": "e7dab5e",
+              "Subject": "Remove cassandra, clickhouse, etcd flags"
+            },
+            {
+              "SHA": "2678231",
+              "Subject": "Fix log (#6)"
+            },
+            {
+              "SHA": "e4a54e0",
+              "Subject": "Fix xorm client issue (#5)"
+            },
+            {
+              "SHA": "258da9b",
+              "Subject": "Update install recipes in makefile (#4)"
             }
           ]
         }

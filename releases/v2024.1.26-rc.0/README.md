@@ -322,6 +322,32 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.34.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.34.0-rc.0)
+
+- [aaaf3aad](https://github.com/kubedb/mysql/commit/aaaf3aad0) Prepare for release v0.34.0-rc.0 (#604)
+- [d2f2eba7](https://github.com/kubedb/mysql/commit/d2f2eba7d) Refactor (#602)
+- [fa00fc42](https://github.com/kubedb/mysql/commit/fa00fc424) Fix provider env in sidekick (#601)
+- [e75f6e26](https://github.com/kubedb/mysql/commit/e75f6e26e) Fix restore service selector (#600)
+- [e9dbf269](https://github.com/kubedb/mysql/commit/e9dbf269c) Prepare for release v0.34.0-beta.1 (#599)
+- [44eda2d2](https://github.com/kubedb/mysql/commit/44eda2d25) Prepare for release v0.34.0-beta.1 (#598)
+- [16dd4637](https://github.com/kubedb/mysql/commit/16dd46377) Fix pointer dereference issue (#597)
+- [334c1a1d](https://github.com/kubedb/mysql/commit/334c1a1dd) Update ci & makefile for crd-manager (#596)
+- [edb9b1a1](https://github.com/kubedb/mysql/commit/edb9b1a11) Fix binlog backup directory (#587)
+- [fc6d7030](https://github.com/kubedb/mysql/commit/fc6d70303) Add Support for DB phase change for restoring using KubeStash (#594)
+- [354f6f3e](https://github.com/kubedb/mysql/commit/354f6f3e1) Prepare for release v0.34.0-beta.0 (#593)
+- [01498d02](https://github.com/kubedb/mysql/commit/01498d025) Dynamically start crd controller (#592)
+- [e68015cf](https://github.com/kubedb/mysql/commit/e68015cfd) Update deps (#591)
+- [67029acc](https://github.com/kubedb/mysql/commit/67029acc9) Update deps (#590)
+- [87d2de4a](https://github.com/kubedb/mysql/commit/87d2de4a1) Include kubestash catalog chart in makefile (#588)
+- [e5874ffb](https://github.com/kubedb/mysql/commit/e5874ffb7) Add openapi configuration for webhook server (#589)
+- [977d3cd3](https://github.com/kubedb/mysql/commit/977d3cd38) Update deps
+- [3df86853](https://github.com/kubedb/mysql/commit/3df868533) Use k8s 1.29 client libs (#586)
+- [d159ad05](https://github.com/kubedb/mysql/commit/d159ad052) Ensure MySQLArchiver crd (#585)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.2.0-rc.0)

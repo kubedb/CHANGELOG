@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T04:48:52.845386572Z",
+  "release_date": "2024-01-27T04:50:35.258211475Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -979,6 +979,92 @@
             {
               "SHA": "91ee7c0",
               "Subject": "Use k8s 1.29 client libs (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "aaaf3aad0",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#604)"
+            },
+            {
+              "SHA": "d2f2eba7d",
+              "Subject": "Refactor (#602)"
+            },
+            {
+              "SHA": "fa00fc424",
+              "Subject": "Fix provider env in sidekick (#601)"
+            },
+            {
+              "SHA": "e75f6e26e",
+              "Subject": "Fix restore service selector (#600)"
+            },
+            {
+              "SHA": "e9dbf269c",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#599)"
+            },
+            {
+              "SHA": "44eda2d25",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#598)"
+            },
+            {
+              "SHA": "16dd46377",
+              "Subject": "Fix pointer dereference issue (#597)"
+            },
+            {
+              "SHA": "334c1a1dd",
+              "Subject": "Update ci & makefile for crd-manager (#596)"
+            },
+            {
+              "SHA": "edb9b1a11",
+              "Subject": "Fix binlog backup directory (#587)"
+            },
+            {
+              "SHA": "fc6d70303",
+              "Subject": "Add Support for DB phase change for restoring using KubeStash (#594)"
+            },
+            {
+              "SHA": "354f6f3e1",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#593)"
+            },
+            {
+              "SHA": "01498d025",
+              "Subject": "Dynamically start crd controller (#592)"
+            },
+            {
+              "SHA": "e68015cfd",
+              "Subject": "Update deps (#591)"
+            },
+            {
+              "SHA": "67029acc9",
+              "Subject": "Update deps (#590)"
+            },
+            {
+              "SHA": "87d2de4a1",
+              "Subject": "Include kubestash catalog chart in makefile (#588)"
+            },
+            {
+              "SHA": "e5874ffb7",
+              "Subject": "Add openapi configuration for webhook server (#589)"
+            },
+            {
+              "SHA": "977d3cd38",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "3df868533",
+              "Subject": "Use k8s 1.29 client libs (#586)"
+            },
+            {
+              "SHA": "d159ad052",
+              "Subject": "Ensure MySQLArchiver crd (#585)"
             }
           ]
         }

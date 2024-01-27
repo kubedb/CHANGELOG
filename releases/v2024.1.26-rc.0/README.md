@@ -89,6 +89,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.0.2](https://github.com/kubedb/ferretdb/releases/tag/v0.0.2)
+
+- [4ffe133](https://github.com/kubedb/ferretdb/commit/4ffe133) Prepare for release v0.0.2 (#6)
+- [9df7b8f](https://github.com/kubedb/ferretdb/commit/9df7b8f) Remove cassandra, clickhouse, etcd flags
+- [23ec3b8](https://github.com/kubedb/ferretdb/commit/23ec3b8) Update install recipies in makefile (#5)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.34.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.34.0-rc.0)

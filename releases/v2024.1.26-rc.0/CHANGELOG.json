@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T05:16:43.299912021Z",
+  "release_date": "2024-01-27T05:33:13.6101376Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -1642,6 +1642,15 @@
               "Subject": "Checkout fake release branch for release workflow"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.0",
+          "commits": null
         }
       ]
     },

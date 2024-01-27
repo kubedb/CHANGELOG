@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T02:58:58.63135484Z",
+  "release_date": "2024-01-27T02:59:36.502158054Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -265,6 +265,40 @@
             {
               "SHA": "986266b2",
               "Subject": "Use k8s 1.29 client libs (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.0.2",
+          "commits": [
+            {
+              "SHA": "8fb5537",
+              "Subject": "Prepare for release v0.0.2 (#6)"
+            },
+            {
+              "SHA": "91f4519",
+              "Subject": "Remove cassandra, clickhouse, etcd flags"
+            },
+            {
+              "SHA": "3cc3281",
+              "Subject": "Updates for running Druid as non root (#5)"
+            },
+            {
+              "SHA": "125a642",
+              "Subject": "Fix release issues and add version 28.0.1 (#4)"
+            },
+            {
+              "SHA": "9d8305b",
+              "Subject": "Update install recipies to install zookeeper also (#1)"
+            },
+            {
+              "SHA": "956d511",
+              "Subject": "Remove manager binary (#3)"
             }
           ]
         }

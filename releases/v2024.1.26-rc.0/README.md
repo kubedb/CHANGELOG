@@ -76,6 +76,19 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.0.2](https://github.com/kubedb/druid/releases/tag/v0.0.2)
+
+- [8fb5537](https://github.com/kubedb/druid/commit/8fb5537) Prepare for release v0.0.2 (#6)
+- [91f4519](https://github.com/kubedb/druid/commit/91f4519) Remove cassandra, clickhouse, etcd flags
+- [3cc3281](https://github.com/kubedb/druid/commit/3cc3281) Updates for running Druid as non root (#5)
+- [125a642](https://github.com/kubedb/druid/commit/125a642) Fix release issues and add version 28.0.1 (#4)
+- [9d8305b](https://github.com/kubedb/druid/commit/9d8305b) Update install recipies to install zookeeper also (#1)
+- [956d511](https://github.com/kubedb/druid/commit/956d511) Remove manager binary (#3)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.2.0-rc.0)

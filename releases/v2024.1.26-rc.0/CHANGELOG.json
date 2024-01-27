@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T03:06:39.03869285Z",
+  "release_date": "2024-01-27T03:25:22.281091071Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -706,6 +706,32 @@
             {
               "SHA": "22c7beb4",
               "Subject": "Use k8s 1.29 client libs (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "968da13",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#18)"
+            },
+            {
+              "SHA": "fac6226",
+              "Subject": "Prepare for release v0.4.0-beta.1 (#17)"
+            },
+            {
+              "SHA": "da2796a",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#16)"
+            },
+            {
+              "SHA": "0553c6f",
+              "Subject": "Use k8s 1.29 client libs (#15)"
             }
           ]
         }

@@ -421,6 +421,19 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.2.0-rc.0)
+
+- [bff75cb](https://github.com/kubedb/postgres-archiver/commit/bff75cb) Prepare for release v0.2.0-rc.0 (#19)
+- [bb8c342](https://github.com/kubedb/postgres-archiver/commit/bb8c342) Create directory for wal-backup (#18)
+- [c4405c1](https://github.com/kubedb/postgres-archiver/commit/c4405c1) Prepare for release v0.2.0-beta.1 (#17)
+- [c353dcd](https://github.com/kubedb/postgres-archiver/commit/c353dcd) Don't use fail-fast
+- [a9cbe08](https://github.com/kubedb/postgres-archiver/commit/a9cbe08) Prepare for release v0.2.0-beta.0 (#16)
+- [183e97c](https://github.com/kubedb/postgres-archiver/commit/183e97c) Use k8s 1.29 client libs (#15)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.2.0-rc.0)

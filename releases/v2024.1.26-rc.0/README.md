@@ -386,6 +386,20 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.25.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.25.0-rc.0)
+
+- [41cc97b6](https://github.com/kubedb/pg-coordinator/commit/41cc97b6) Prepare for release v0.25.0-rc.0 (#150)
+- [5298a177](https://github.com/kubedb/pg-coordinator/commit/5298a177) Fixed (#149)
+- [bc296307](https://github.com/kubedb/pg-coordinator/commit/bc296307) Prepare for release v0.25.0-beta.1 (#148)
+- [30973540](https://github.com/kubedb/pg-coordinator/commit/30973540) Prepare for release v0.25.0-beta.0 (#147)
+- [7b84e198](https://github.com/kubedb/pg-coordinator/commit/7b84e198) Update deps (#146)
+- [f1bfe818](https://github.com/kubedb/pg-coordinator/commit/f1bfe818) Update deps (#145)
+- [1de05a6e](https://github.com/kubedb/pg-coordinator/commit/1de05a6e) Use k8s 1.29 client libs (#144)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.2](https://github.com/kubedb/pgpool/releases/tag/v0.0.2)

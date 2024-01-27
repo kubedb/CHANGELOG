@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T04:01:30.074165142Z",
+  "release_date": "2024-01-27T04:01:57.029975974Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -1011,6 +1011,52 @@
             {
               "SHA": "7dd201c",
               "Subject": "Use k8s 1.29 client libs (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "80cd3a030",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#350)"
+            },
+            {
+              "SHA": "475a5e328",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#348)"
+            },
+            {
+              "SHA": "4c1380ab7",
+              "Subject": "Incorporate with apimachinery package name change from `stash` to `restore` (#347)"
+            },
+            {
+              "SHA": "0ceb30284",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#346)"
+            },
+            {
+              "SHA": "e7d356062",
+              "Subject": "Dynamically start crd controller (#345)"
+            },
+            {
+              "SHA": "5d07b5655",
+              "Subject": "Update deps (#344)"
+            },
+            {
+              "SHA": "1a639f840",
+              "Subject": "Update deps (#343)"
+            },
+            {
+              "SHA": "4f8b24aba",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "e52540202",
+              "Subject": "Use k8s 1.29 client libs (#341)"
             }
           ]
         }

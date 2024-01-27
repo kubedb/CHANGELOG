@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T05:46:33.917986543Z",
+  "release_date": "2024-01-27T05:58:55.417487448Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -205,6 +205,15 @@
               "Subject": "Use k8s 1.29 client libs (#1093)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.26.0-rc.0",
+          "commits": null
         }
       ]
     },

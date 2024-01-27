@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T05:33:53.191470998Z",
+  "release_date": "2024-01-27T05:46:33.917986543Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -1260,6 +1260,15 @@
               "Subject": "Use k8s 1.29 client libs (#37)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": null
         }
       ]
     },

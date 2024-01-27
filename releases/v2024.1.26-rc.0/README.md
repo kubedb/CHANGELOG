@@ -428,6 +428,13 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/ops-manager/releases/tag/v0.28.0-rc.0)
+
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.28.0-rc.0)

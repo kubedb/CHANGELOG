@@ -190,3 +190,16 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.0.2](https://github.com/kubedb/zookeeper/releases/tag/v0.0.2)
+
+- [6efd3a5](https://github.com/kubedb/zookeeper/commit/6efd3a5) Prepare for release v0.0.2 (#6)
+- [4c7340e](https://github.com/kubedb/zookeeper/commit/4c7340e) Remove cassandra, clickhouse, etcd flags
+- [33727fc](https://github.com/kubedb/zookeeper/commit/33727fc) Add ZooKeeper Standalone (#5)
+- [5225286](https://github.com/kubedb/zookeeper/commit/5225286) Add e2e test workflow (#4)
+- [59426c9](https://github.com/kubedb/zookeeper/commit/59426c9) Update install recipes in makefile (#3)
+- [e7b05a1](https://github.com/kubedb/zookeeper/commit/e7b05a1) Limit ZooKeeper Health Logs (#2)
+
+
+

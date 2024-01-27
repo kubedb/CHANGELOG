@@ -737,6 +737,20 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.17.0-rc.0](https://github.com/kubedb/ui-server/releases/tag/v0.17.0-rc.0)
+
+- [3046f685](https://github.com/kubedb/ui-server/commit/3046f685) Prepare for release v0.17.0-rc.0 (#106)
+- [98c1a6dd](https://github.com/kubedb/ui-server/commit/98c1a6dd) Prepare for release v0.17.0-beta.1 (#105)
+- [8173cfc2](https://github.com/kubedb/ui-server/commit/8173cfc2) Implement SingularNameProvider
+- [6e8f80dc](https://github.com/kubedb/ui-server/commit/6e8f80dc) Prepare for release v0.17.0-beta.0 (#104)
+- [6a05721f](https://github.com/kubedb/ui-server/commit/6a05721f) Update deps (#103)
+- [3c24fd5e](https://github.com/kubedb/ui-server/commit/3c24fd5e) Update deps (#102)
+- [25e29443](https://github.com/kubedb/ui-server/commit/25e29443) Use k8s 1.29 client libs (#101)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.2](https://github.com/kubedb/zookeeper/releases/tag/v0.0.2)

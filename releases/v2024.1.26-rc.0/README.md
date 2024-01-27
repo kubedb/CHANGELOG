@@ -177,6 +177,20 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.1.0-rc.0)
+
+- [ebd73c7](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/ebd73c7) Prepare for release v0.1.0-rc.0 (#6)
+- [adac38d](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/adac38d) Prepare for release v0.1.0-beta.1 (#5)
+- [09f68b7](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/09f68b7) Prepare for release v0.1.0-beta.0 (#4)
+- [7407444](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/7407444) Use k8s 1.29 client libs (#3)
+- [933e138](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/933e138) Prepare for release v0.1.0 (#2)
+- [5d38f94](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/5d38f94) Enable GH actions
+- [2a97178](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/2a97178) Replace mysql with mariadb
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.34.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.34.0-rc.0)

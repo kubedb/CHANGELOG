@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T04:51:00.175857897Z",
+  "release_date": "2024-01-27T05:13:04.555876774Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -1367,6 +1367,52 @@
             {
               "SHA": "1de05a6e",
               "Subject": "Use k8s 1.29 client libs (#144)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e69aa743",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#313)"
+            },
+            {
+              "SHA": "55c248d5",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#312)"
+            },
+            {
+              "SHA": "1b86664a",
+              "Subject": "Incorporate with apimachinery package name change from stash to restore (#311)"
+            },
+            {
+              "SHA": "3c6bc335",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#310)"
+            },
+            {
+              "SHA": "73c5f6fb",
+              "Subject": "Dynamically start crd controller (#309)"
+            },
+            {
+              "SHA": "f9edc2cd",
+              "Subject": "Update deps (#308)"
+            },
+            {
+              "SHA": "d54251c0",
+              "Subject": "Update deps (#307)"
+            },
+            {
+              "SHA": "de40a35e",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "8c325577",
+              "Subject": "Use k8s 1.29 client libs (#305)"
             }
           ]
         }

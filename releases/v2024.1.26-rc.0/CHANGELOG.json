@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T05:15:42.253804154Z",
+  "release_date": "2024-01-27T05:16:43.299912021Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -1640,6 +1640,64 @@
             {
               "SHA": "82f52c3",
               "Subject": "Checkout fake release branch for release workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2fa5679d7",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#331)"
+            },
+            {
+              "SHA": "2cc590165",
+              "Subject": "Update ci & makefile for crd-manager (#326)"
+            },
+            {
+              "SHA": "79e29efdb",
+              "Subject": "Handle MySQL URL Parsing (#330)"
+            },
+            {
+              "SHA": "b3372a53d",
+              "Subject": "Fix MySQL Client and sync_user (#328)"
+            },
+            {
+              "SHA": "213ebfc43",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#327)"
+            },
+            {
+              "SHA": "8427158ec",
+              "Subject": "Incorporate with apimachinery package name change from stash to restore (#325)"
+            },
+            {
+              "SHA": "c0805050e",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#324)"
+            },
+            {
+              "SHA": "88ef1f1de",
+              "Subject": "Dynamically start crd controller (#323)"
+            },
+            {
+              "SHA": "8c0a96ac7",
+              "Subject": "Update deps (#322)"
+            },
+            {
+              "SHA": "e96797e48",
+              "Subject": "Update deps (#321)"
+            },
+            {
+              "SHA": "e8fd529b2",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b2e9a1df8",
+              "Subject": "Use k8s 1.29 client libs (#319)"
             }
           ]
         }

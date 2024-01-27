@@ -193,6 +193,18 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.4.0-rc.0)
+
+- [bff5aa4](https://github.com/kubedb/mongodb-restic-plugin/commit/bff5aa4) Prepare for release v0.4.0-rc.0 (#24)
+- [6ae8ae2](https://github.com/kubedb/mongodb-restic-plugin/commit/6ae8ae2) Prepare for release v0.4.0-beta.1 (#23)
+- [d8e1636](https://github.com/kubedb/mongodb-restic-plugin/commit/d8e1636) Reorder the execution of cleanup funcs (#22)
+- [4f0b021](https://github.com/kubedb/mongodb-restic-plugin/commit/4f0b021) Prepare for release v0.4.0-beta.0 (#20)
+- [91ee7c0](https://github.com/kubedb/mongodb-restic-plugin/commit/91ee7c0) Use k8s 1.29 client libs (#19)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.2.0-rc.0)

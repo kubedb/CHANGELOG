@@ -183,6 +183,18 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.4.0-rc.0)
+
+- [b7ec4a4](https://github.com/kubedb/kubedb-manifest-plugin/commit/b7ec4a4) Prepare for release v0.4.0-rc.0 (#38)
+- [c77b4ae](https://github.com/kubedb/kubedb-manifest-plugin/commit/c77b4ae) Prepare for release v0.4.0-beta.1 (#37)
+- [6a8a822](https://github.com/kubedb/kubedb-manifest-plugin/commit/6a8a822) Update component name (#35)
+- [c315615](https://github.com/kubedb/kubedb-manifest-plugin/commit/c315615) Prepare for release v0.4.0-beta.0 (#36)
+- [5ce328d](https://github.com/kubedb/kubedb-manifest-plugin/commit/5ce328d) Use k8s 1.29 client libs (#34)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.25.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.26-rc.0",
-  "release_date": "2024-01-27T03:03:02.541066105Z",
+  "release_date": "2024-01-27T03:04:14.069534934Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.26-rc.0",
   "kubernetes_version": "1.20+",
@@ -299,6 +299,88 @@
             {
               "SHA": "956d511",
               "Subject": "Remove manager binary (#3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "278ce846b",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#607)"
+            },
+            {
+              "SHA": "c0c58448b",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#606)"
+            },
+            {
+              "SHA": "5df39d09f",
+              "Subject": "Update ci mgVersion;  Fix pointer dereference issue (#605)"
+            },
+            {
+              "SHA": "e2781eaea",
+              "Subject": "Run ci with specific crd-manager branch (#604)"
+            },
+            {
+              "SHA": "b57bc47ae",
+              "Subject": "Add kubestash for health check (#603)"
+            },
+            {
+              "SHA": "62cb9c816",
+              "Subject": "Install crd-manager specifiying DATABASE (#602)"
+            },
+            {
+              "SHA": "6bf45fe72",
+              "Subject": "7.0.4 -> 7.0.5; update deps"
+            },
+            {
+              "SHA": "e5b9841e5",
+              "Subject": "Fix oplog backup directory (#601)"
+            },
+            {
+              "SHA": "452b785f0",
+              "Subject": "Add  Support for DB phase change for restoring using `KubeStash` (#586)"
+            },
+            {
+              "SHA": "35d93d0bc",
+              "Subject": "add ssl/tls args command (#595)"
+            },
+            {
+              "SHA": "7ff672382",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#600)"
+            },
+            {
+              "SHA": "beca63a48",
+              "Subject": "Dynamically start crd controller (#599)"
+            },
+            {
+              "SHA": "17d90616d",
+              "Subject": "Update deps (#598)"
+            },
+            {
+              "SHA": "bc25ca001",
+              "Subject": "Update deps (#597)"
+            },
+            {
+              "SHA": "4ce5a94a4",
+              "Subject": "Configure openapi for webhook server (#596)"
+            },
+            {
+              "SHA": "8d8206db3",
+              "Subject": "Update ci versions"
+            },
+            {
+              "SHA": "bfdd519fc",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "01a7c2685",
+              "Subject": "Use k8s 1.29 client libs (#594)"
             }
           ]
         }

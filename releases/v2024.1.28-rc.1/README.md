@@ -53,6 +53,17 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.25.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.25.0-rc.1)
+
+- [2ca44131](https://github.com/kubedb/mariadb/commit/2ca441314) Prepare for release v0.25.0-rc.1 (#255)
+- [dad5b837](https://github.com/kubedb/mariadb/commit/dad5b837a) Update deps (#254)
+- [a210c867](https://github.com/kubedb/mariadb/commit/a210c8675) Fix appbinding scheme (#251)
+- [81f985cd](https://github.com/kubedb/mariadb/commit/81f985cd7) Update deps (#253)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.1.0-rc.1)

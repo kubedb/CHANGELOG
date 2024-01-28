@@ -100,6 +100,16 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.34.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.34.0-rc.1)
+
+- [928f00e2](https://github.com/kubedb/memcached/commit/928f00e2) Prepare for release v0.34.0-rc.1 (#422)
+- [42aa5dcc](https://github.com/kubedb/memcached/commit/42aa5dcc) Update deps (#421)
+- [d9fd6358](https://github.com/kubedb/memcached/commit/d9fd6358) Update deps (#420)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.34.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.34.0-rc.1)

@@ -63,6 +63,16 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.12.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.12.0-rc.1)
+
+- [511914c2](https://github.com/kubedb/kafka/commit/511914c2) Prepare for release v0.12.0-rc.1 (#75)
+- [fb908cf2](https://github.com/kubedb/kafka/commit/fb908cf2) Update deps (#74)
+- [cccaf86c](https://github.com/kubedb/kafka/commit/cccaf86c) Update deps (#73)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.4.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.4.0-rc.1)

@@ -152,6 +152,14 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.2.0-rc.1)
+
+- [369c9a3](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/369c9a3) Prepare for release v0.2.0-rc.1 (#17)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.4.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.4.0-rc.1)

@@ -61,6 +61,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.41.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.41.0-rc.1)
+
+- [071b2645](https://github.com/kubedb/postgres/commit/071b26455) Prepare for release v0.41.0-rc.1 (#712)
+- [c9f1d5b6](https://github.com/kubedb/postgres/commit/c9f1d5b68) Update deps (#711)
+- [723fb80c](https://github.com/kubedb/postgres/commit/723fb80c0) Update deps (#710)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.3.0-rc.1](https://github.com/kubedb/provider-aws/releases/tag/v0.3.0-rc.1)

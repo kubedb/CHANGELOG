@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-28T12:50:24.832302223Z",
+  "release_date": "2024-01-28T12:52:14.954053369Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -41,6 +41,24 @@
             {
               "SHA": "50f15d19",
               "Subject": "Update deps (#751)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.0.3",
+          "commits": [
+            {
+              "SHA": "c4d0c24",
+              "Subject": "Prepare for release v0.0.3 (#11)"
+            },
+            {
+              "SHA": "5a149ca",
+              "Subject": "Add new db to the list"
             }
           ]
         }

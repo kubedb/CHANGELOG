@@ -20,6 +20,15 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.0.3](https://github.com/kubedb/crd-manager/releases/tag/v0.0.3)
+
+- [c4d0c24](https://github.com/kubedb/crd-manager/commit/c4d0c24) Prepare for release v0.0.3 (#11)
+- [5a149ca](https://github.com/kubedb/crd-manager/commit/5a149ca) Add new db to the list
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.0.3](https://github.com/kubedb/druid/releases/tag/v0.0.3)

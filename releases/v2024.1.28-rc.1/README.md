@@ -100,6 +100,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.21.0-rc.1)
+
+- [4289bcd1](https://github.com/kubedb/mariadb-coordinator/commit/4289bcd1) Prepare for release v0.21.0-rc.1 (#105)
+- [34f610f7](https://github.com/kubedb/mariadb-coordinator/commit/34f610f7) Update deps (#104)
+- [13dbe3f7](https://github.com/kubedb/mariadb-coordinator/commit/13dbe3f7) Update deps (#103)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.1.0-rc.1)

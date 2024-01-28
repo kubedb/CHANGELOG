@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-28T12:20:34.092611854Z",
+  "release_date": "2024-01-28T12:26:11.757312117Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -180,6 +180,28 @@
         {
           "tag": "v0.3.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5e171587",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#522)"
+            },
+            {
+              "SHA": "71665b9b",
+              "Subject": "Update deps (#521)"
+            },
+            {
+              "SHA": "302f1f19",
+              "Subject": "Update deps (#520)"
+            }
+          ]
         }
       ]
     }

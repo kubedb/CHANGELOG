@@ -100,3 +100,13 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.34.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.34.0-rc.1)
+
+- [5e171587](https://github.com/kubedb/redis/commit/5e171587) Prepare for release v0.34.0-rc.1 (#522)
+- [71665b9b](https://github.com/kubedb/redis/commit/71665b9b) Update deps (#521)
+- [302f1f19](https://github.com/kubedb/redis/commit/302f1f19) Update deps (#520)
+
+
+

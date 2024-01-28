@@ -340,3 +340,11 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.0.3](https://github.com/kubedb/zookeeper/releases/tag/v0.0.3)
+
+- [d77faed](https://github.com/kubedb/zookeeper/commit/d77faed) Prepare for release v0.0.3 (#7)
+
+
+

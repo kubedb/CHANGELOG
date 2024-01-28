@@ -62,6 +62,16 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.19.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.19.0-rc.1)
+
+- [40a2b6eb](https://github.com/kubedb/mysql-coordinator/commit/40a2b6eb) Prepare for release v0.19.0-rc.1 (#102)
+- [8b80958d](https://github.com/kubedb/mysql-coordinator/commit/8b80958d) Update deps (#101)
+- [df438239](https://github.com/kubedb/mysql-coordinator/commit/df438239) Update deps (#100)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.4.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.4.0-rc.1)

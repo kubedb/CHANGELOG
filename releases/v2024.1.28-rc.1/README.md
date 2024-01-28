@@ -28,6 +28,14 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.4.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.4.0-rc.1)
+
+- [5daf9ce](https://github.com/kubedb/kubedb-manifest-plugin/commit/5daf9ce) Prepare for release v0.4.0-rc.1 (#39)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.4.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.4.0-rc.1)

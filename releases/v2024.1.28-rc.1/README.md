@@ -223,3 +223,13 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.26.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.26.0-rc.1)
+
+- [5a527051](https://github.com/kubedb/tests/commit/5a527051) Prepare for release v0.26.0-rc.1 (#299)
+- [03d71b6d](https://github.com/kubedb/tests/commit/03d71b6d) Update deps (#298)
+- [2d928008](https://github.com/kubedb/tests/commit/2d928008) Update deps (#297)
+
+
+

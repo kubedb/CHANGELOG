@@ -29,6 +29,16 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.17.0-rc.1](https://github.com/kubedb/dashboard/releases/tag/v0.17.0-rc.1)
+
+- [1720f9d5](https://github.com/kubedb/dashboard/commit/1720f9d5) Prepare for release v0.17.0-rc.1 (#105)
+- [b0f55bcf](https://github.com/kubedb/dashboard/commit/b0f55bcf) Update deps (#104)
+- [e342f79c](https://github.com/kubedb/dashboard/commit/e342f79c) Update deps (#103)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.0.3](https://github.com/kubedb/druid/releases/tag/v0.0.3)

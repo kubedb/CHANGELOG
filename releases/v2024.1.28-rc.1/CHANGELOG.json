@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-28T23:34:13.546343623Z",
+  "release_date": "2024-01-28T23:39:19.24658398Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -59,6 +59,28 @@
             {
               "SHA": "5a149ca",
               "Subject": "Add new db to the list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1720f9d5",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "b0f55bcf",
+              "Subject": "Update deps (#104)"
+            },
+            {
+              "SHA": "e342f79c",
+              "Subject": "Update deps (#103)"
             }
           ]
         }

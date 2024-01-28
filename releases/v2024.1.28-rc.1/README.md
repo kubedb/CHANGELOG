@@ -154,6 +154,16 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.25.0-rc.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.25.0-rc.1)
+
+- [9a720273](https://github.com/kubedb/pg-coordinator/commit/9a720273) Prepare for release v0.25.0-rc.1 (#153)
+- [f103f1fc](https://github.com/kubedb/pg-coordinator/commit/f103f1fc) Update deps (#152)
+- [84b92d89](https://github.com/kubedb/pg-coordinator/commit/84b92d89) Update deps (#151)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.3](https://github.com/kubedb/pgpool/releases/tag/v0.0.3)

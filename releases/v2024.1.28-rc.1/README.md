@@ -182,6 +182,17 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.28.0-rc.1)
+
+- [b567db53](https://github.com/kubedb/percona-xtradb/commit/b567db53a) Prepare for release v0.28.0-rc.1 (#353)
+- [c0ddb330](https://github.com/kubedb/percona-xtradb/commit/c0ddb330b) Update deps (#352)
+- [d461df3e](https://github.com/kubedb/percona-xtradb/commit/d461df3ed) Fix appbinding scheme (#349)
+- [2752f7e3](https://github.com/kubedb/percona-xtradb/commit/2752f7e36) Update deps (#351)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.14.0-rc.1](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.14.0-rc.1)

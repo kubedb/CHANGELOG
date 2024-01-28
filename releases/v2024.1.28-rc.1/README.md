@@ -28,6 +28,14 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.4.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.4.0-rc.1)
+
+- [3fa6286](https://github.com/kubedb/mongodb-restic-plugin/commit/3fa6286) Prepare for release v0.4.0-rc.1 (#25)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.19.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.19.0-rc.1)

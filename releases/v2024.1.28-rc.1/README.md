@@ -45,6 +45,14 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.0.3](https://github.com/kubedb/ferretdb/releases/tag/v0.0.3)
+
+- [be756f6](https://github.com/kubedb/ferretdb/commit/be756f6) Prepare for release v0.0.3 (#7)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.4.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.4.0-rc.1)

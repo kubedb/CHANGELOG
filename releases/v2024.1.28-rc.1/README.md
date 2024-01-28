@@ -100,6 +100,14 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.1.0-rc.1)
+
+- [066b41c](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/066b41c) Prepare for release v0.1.0-rc.1 (#7)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.34.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.34.0-rc.1)

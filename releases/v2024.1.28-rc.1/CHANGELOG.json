@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-28T12:36:10.53453112Z",
+  "release_date": "2024-01-28T12:41:09.540119484Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -133,6 +133,32 @@
             {
               "SHA": "3fa6286",
               "Subject": "Prepare for release v0.4.0-rc.1 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f31332908",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#607)"
+            },
+            {
+              "SHA": "0f3ddf233",
+              "Subject": "Update deps (#606)"
+            },
+            {
+              "SHA": "1a5d7bd13",
+              "Subject": "Fix appbinding scheme (#603)"
+            },
+            {
+              "SHA": "c643ded94",
+              "Subject": "Update deps (#605)"
             }
           ]
         }

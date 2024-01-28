@@ -70,6 +70,17 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.34.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.34.0-rc.1)
+
+- [f3133290](https://github.com/kubedb/mysql/commit/f31332908) Prepare for release v0.34.0-rc.1 (#607)
+- [0f3ddf23](https://github.com/kubedb/mysql/commit/0f3ddf233) Update deps (#606)
+- [1a5d7bd1](https://github.com/kubedb/mysql/commit/1a5d7bd13) Fix appbinding scheme (#603)
+- [c643ded9](https://github.com/kubedb/mysql/commit/c643ded94) Update deps (#605)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.19.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.19.0-rc.1)

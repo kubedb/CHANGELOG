@@ -10,3 +10,12 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.19.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.19.0-rc.1)
+
+- [6a5deed](https://github.com/kubedb/mysql-router-init/commit/6a5deed) Update deps (#40)
+- [0078f09](https://github.com/kubedb/mysql-router-init/commit/0078f09) Update deps (#39)
+
+
+

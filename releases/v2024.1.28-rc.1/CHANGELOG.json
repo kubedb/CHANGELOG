@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-28T12:19:53.861166077Z",
+  "release_date": "2024-01-28T12:20:34.092611854Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -115,6 +115,20 @@
             {
               "SHA": "0078f09",
               "Subject": "Update deps (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.0.3",
+          "commits": [
+            {
+              "SHA": "3696365",
+              "Subject": "Prepare for release v0.0.3 (#8)"
             }
           ]
         }

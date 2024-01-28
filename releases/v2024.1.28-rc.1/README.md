@@ -249,6 +249,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.28.0-rc.1)
+
+- [0ca01e53](https://github.com/kubedb/pgbouncer/commit/0ca01e53) Prepare for release v0.28.0-rc.1 (#316)
+- [4b76d2cb](https://github.com/kubedb/pgbouncer/commit/4b76d2cb) Update deps (#315)
+- [f32676bc](https://github.com/kubedb/pgbouncer/commit/f32676bc) Update deps (#314)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.3](https://github.com/kubedb/pgpool/releases/tag/v0.0.3)

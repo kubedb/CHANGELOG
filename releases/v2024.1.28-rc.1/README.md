@@ -314,6 +314,14 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.0.3](https://github.com/kubedb/singlestore/releases/tag/v0.0.3)
+
+- [fe72e9f](https://github.com/kubedb/singlestore/commit/fe72e9f) Prepare for release v0.0.3 (#10)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.0.3](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.0.3)

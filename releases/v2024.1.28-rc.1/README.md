@@ -322,6 +322,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.28.0-rc.1)
+
+- [0ff6f90d](https://github.com/kubedb/proxysql/commit/0ff6f90d2) Prepare for release v0.28.0-rc.1 (#334)
+- [382d3283](https://github.com/kubedb/proxysql/commit/382d3283e) Update deps (#333)
+- [0b4da810](https://github.com/kubedb/proxysql/commit/0b4da8101) Update deps (#332)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.0.3](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.3)

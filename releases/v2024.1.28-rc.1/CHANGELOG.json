@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-28T12:59:19.394245316Z",
+  "release_date": "2024-01-28T13:02:26.391840629Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -73,6 +73,28 @@
             {
               "SHA": "f564e7c",
               "Subject": "Prepare for release v0.0.3 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f287ef9f1",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#703)"
+            },
+            {
+              "SHA": "fcabe6bae",
+              "Subject": "Update deps (#702)"
+            },
+            {
+              "SHA": "861d01f30",
+              "Subject": "Update deps (#701)"
             }
           ]
         }

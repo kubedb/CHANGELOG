@@ -44,6 +44,14 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.1.0-rc.1)
+
+- [8743316](https://github.com/kubedb/mariadb-archiver/commit/8743316) Prepare for release v0.1.0-rc.1 (#7)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.34.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.34.0-rc.1)

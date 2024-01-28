@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-28T11:29:45.794360577Z",
+  "release_date": "2024-01-28T11:30:59.754643515Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -19,6 +19,28 @@
             {
               "SHA": "2293744e3",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a67dadc9",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#753)"
+            },
+            {
+              "SHA": "d1b206ee",
+              "Subject": "Update deps (#752)"
+            },
+            {
+              "SHA": "50f15d19",
+              "Subject": "Update deps (#751)"
             }
           ]
         }

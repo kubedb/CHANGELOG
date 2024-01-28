@@ -10,6 +10,16 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.41.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.41.0-rc.1)
+
+- [a67dadc9](https://github.com/kubedb/cli/commit/a67dadc9) Prepare for release v0.41.0-rc.1 (#753)
+- [d1b206ee](https://github.com/kubedb/cli/commit/d1b206ee) Update deps (#752)
+- [50f15d19](https://github.com/kubedb/cli/commit/50f15d19) Update deps (#751)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.4.0-rc.1](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.4.0-rc.1)

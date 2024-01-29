@@ -83,6 +83,15 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2024.1.28-rc.1](https://github.com/kubedb/installer/releases/tag/v2024.1.28-rc.1)
+
+- [12e4d649](https://github.com/kubedb/installer/commit/12e4d649) Prepare for release v2024.1.28-rc.1 (#836)
+- [ce5ca0dc](https://github.com/kubedb/installer/commit/ce5ca0dc) Remove kubedb-one chart
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.12.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.12.0-rc.1)

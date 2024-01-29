@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-29T00:30:14.860425365Z",
+  "release_date": "2024-01-29T00:51:30.89520721Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -167,6 +167,24 @@
             {
               "SHA": "be756f6",
               "Subject": "Prepare for release v0.0.3 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.28-rc.1",
+          "commits": [
+            {
+              "SHA": "12e4d649",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#836)"
+            },
+            {
+              "SHA": "ce5ca0dc",
+              "Subject": "Remove kubedb-one chart"
             }
           ]
         }

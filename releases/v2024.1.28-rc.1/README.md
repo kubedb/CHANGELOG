@@ -49,6 +49,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.1.28-rc.1](https://github.com/kubedb/docs/releases/tag/v2024.1.28-rc.1)
+
+- [efe4443c](https://github.com/kubedb/docs/commit/efe4443c) Prepare for release v2024.1.28-rc.1 (#605)
+- [6efc212b](https://github.com/kubedb/docs/commit/6efc212b) Update docs for kubedb/cli@a67dadc9 (#604)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.0.3](https://github.com/kubedb/druid/releases/tag/v0.0.3)

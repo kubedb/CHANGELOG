@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-29T00:10:30.005400635Z",
+  "release_date": "2024-01-29T00:18:36.471935261Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -19,6 +19,28 @@
             {
               "SHA": "2293744e3",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.26.0-rc.1",
+          "commits": [
+            {
+              "SHA": "09c7c1b3",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#186)"
+            },
+            {
+              "SHA": "edae8156",
+              "Subject": "Update deps (#185)"
+            },
+            {
+              "SHA": "b063256c",
+              "Subject": "Update deps (#184)"
             }
           ]
         }

@@ -10,6 +10,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.26.0-rc.1](https://github.com/kubedb/autoscaler/releases/tag/v0.26.0-rc.1)
+
+- [09c7c1b3](https://github.com/kubedb/autoscaler/commit/09c7c1b3) Prepare for release v0.26.0-rc.1 (#186)
+- [edae8156](https://github.com/kubedb/autoscaler/commit/edae8156) Update deps (#185)
+- [b063256c](https://github.com/kubedb/autoscaler/commit/b063256c) Update deps (#184)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.41.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.41.0-rc.1)

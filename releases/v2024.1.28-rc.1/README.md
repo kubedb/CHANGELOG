@@ -20,6 +20,14 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2024.1.28-rc.1](https://github.com/kubedb/bundles/releases/tag/v2024.1.28-rc.1)
+
+- [c0edf4f](https://github.com/kubedb/bundles/commit/c0edf4f) Prepare for release v2024.1.28-rc.1 (#81)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.41.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.41.0-rc.1)

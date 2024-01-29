@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.28-rc.1",
-  "release_date": "2024-01-28T23:58:35.667074918Z",
+  "release_date": "2024-01-29T00:10:30.005400635Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.28-rc.1",
   "kubernetes_version": "1.20+",
@@ -437,6 +437,28 @@
             {
               "SHA": "0078f09",
               "Subject": "Update deps (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": [
+            {
+              "SHA": "67604c6b0",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#535)"
+            },
+            {
+              "SHA": "283d07cf4",
+              "Subject": "Update deps (#534)"
+            },
+            {
+              "SHA": "81a5f6e3c",
+              "Subject": "Update deps (#533)"
             }
           ]
         }

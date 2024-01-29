@@ -1,4 +1,4 @@
-# KubeDB v2024.1.28-rc.1 (2024-01-28)
+# KubeDB v2024.1.28-rc.1 (2024-01-29)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -215,6 +215,16 @@
 
 - [6a5deed](https://github.com/kubedb/mysql-router-init/commit/6a5deed) Update deps (#40)
 - [0078f09](https://github.com/kubedb/mysql-router-init/commit/0078f09) Update deps (#39)
+
+
+
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/ops-manager/releases/tag/v0.28.0-rc.1)
+
+- [67604c6b](https://github.com/kubedb/ops-manager/commit/67604c6b0) Prepare for release v0.28.0-rc.1 (#535)
+- [283d07cf](https://github.com/kubedb/ops-manager/commit/283d07cf4) Update deps (#534)
+- [81a5f6e3](https://github.com/kubedb/ops-manager/commit/81a5f6e3c) Update deps (#533)
 
 
 

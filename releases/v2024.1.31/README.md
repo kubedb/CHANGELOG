@@ -328,6 +328,17 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.0.4](https://github.com/kubedb/solr/releases/tag/v0.0.4)
+
+- [8be74c4](https://github.com/kubedb/solr/commit/8be74c4) Prepare for release v0.0.4 (#12)
+- [0647ccf](https://github.com/kubedb/solr/commit/0647ccf) Remove overseer discovery service. (#10)
+- [4901117](https://github.com/kubedb/solr/commit/4901117) Add daily yml. (#9)
+- [3abb79b](https://github.com/kubedb/solr/commit/3abb79b) Add auth secret reference in appbinding. (#8)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.26.0](https://github.com/kubedb/tests/releases/tag/v0.26.0)

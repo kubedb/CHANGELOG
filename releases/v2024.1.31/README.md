@@ -80,3 +80,11 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.3.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.3.0)
+
+- [82f52c3](https://github.com/kubedb/provider-gcp/commit/82f52c3) Checkout fake release branch for release workflow
+
+
+

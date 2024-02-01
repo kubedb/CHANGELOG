@@ -62,3 +62,14 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.0.10](https://github.com/kubedb/db-client-go/releases/tag/v0.0.10)
+
+- [902c39a0](https://github.com/kubedb/db-client-go/commit/902c39a0) Prepare for release v0.0.10 (#86)
+- [377f8591](https://github.com/kubedb/db-client-go/commit/377f8591) Update deps
+- [67567b71](https://github.com/kubedb/db-client-go/commit/67567b71) Update deps (#85)
+- [4e2471e3](https://github.com/kubedb/db-client-go/commit/4e2471e3) Update deps (#84)
+
+
+

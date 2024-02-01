@@ -80,6 +80,14 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.3.0](https://github.com/kubedb/provider-azure/releases/tag/v0.3.0)
+
+- [ebba4fa](https://github.com/kubedb/provider-azure/commit/ebba4fa) Checkout fake release branch for release workflow
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.3.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.3.0)

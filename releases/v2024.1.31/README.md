@@ -73,3 +73,10 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.3.0](https://github.com/kubedb/provider-aws/releases/tag/v0.3.0)
+
+
+
+

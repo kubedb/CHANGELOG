@@ -441,6 +441,23 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.20.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.20.0)
+
+- [cd9b64c3](https://github.com/kubedb/redis-coordinator/commit/cd9b64c3) Prepare for release v0.20.0 (#94)
+- [055ceaf1](https://github.com/kubedb/redis-coordinator/commit/055ceaf1) Prepare for release v0.20.0-rc.1 (#93)
+- [79575d26](https://github.com/kubedb/redis-coordinator/commit/79575d26) Update deps (#92)
+- [a5b4c4b4](https://github.com/kubedb/redis-coordinator/commit/a5b4c4b4) Update deps (#91)
+- [f09062c4](https://github.com/kubedb/redis-coordinator/commit/f09062c4) Prepare for release v0.20.0-rc.0 (#90)
+- [fd3b2112](https://github.com/kubedb/redis-coordinator/commit/fd3b2112) Prepare for release v0.20.0-beta.1 (#89)
+- [4c36accd](https://github.com/kubedb/redis-coordinator/commit/4c36accd) Prepare for release v0.20.0-beta.0 (#88)
+- [c8658380](https://github.com/kubedb/redis-coordinator/commit/c8658380) Update deps (#87)
+- [c99c2e9b](https://github.com/kubedb/redis-coordinator/commit/c99c2e9b) Update deps (#86)
+- [22c7beb4](https://github.com/kubedb/redis-coordinator/commit/22c7beb4) Use k8s 1.29 client libs (#85)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.4.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:16:53.028840785Z",
+  "release_date": "2024-02-01T16:18:25.514851159Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -592,6 +592,120 @@
             {
               "SHA": "82f52c3",
               "Subject": "Checkout fake release branch for release workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "16543a0f",
+              "Subject": "Prepare for release v0.26.0 (#304)"
+            },
+            {
+              "SHA": "92607278",
+              "Subject": "Add dependencies flag (#301)"
+            },
+            {
+              "SHA": "17bbf43c",
+              "Subject": "Add Reconfigure with Vertical Scaling (#300)"
+            },
+            {
+              "SHA": "f3e3fba1",
+              "Subject": "Add Singlestore Provisioning Test (#287)"
+            },
+            {
+              "SHA": "5a527051",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#299)"
+            },
+            {
+              "SHA": "03d71b6d",
+              "Subject": "Update deps (#298)"
+            },
+            {
+              "SHA": "2d928008",
+              "Subject": "Update deps (#297)"
+            },
+            {
+              "SHA": "1730fd31",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#296)"
+            },
+            {
+              "SHA": "d1805668",
+              "Subject": "Add ZooKeeper Tests (#294)"
+            },
+            {
+              "SHA": "4c27754c",
+              "Subject": "Fix kafka env-variable tests (#293)"
+            },
+            {
+              "SHA": "3cfc1212",
+              "Subject": "Prepare for release v0.26.0-beta.1 (#292)"
+            },
+            {
+              "SHA": "b810e690",
+              "Subject": "increase cpu limit for vertical scaling (#289)"
+            },
+            {
+              "SHA": "c43985ba",
+              "Subject": "Change dashboard api group (#291)"
+            },
+            {
+              "SHA": "1b96881e",
+              "Subject": "Fix error logging"
+            },
+            {
+              "SHA": "33f78143",
+              "Subject": "forceCleanup PVCs for mongo (#288)"
+            },
+            {
+              "SHA": "0dcd3e38",
+              "Subject": "Add PostgreSQL logical replication tests  (#202)"
+            },
+            {
+              "SHA": "2f403c85",
+              "Subject": "Find profiles in array, Don't match with string (#286)"
+            },
+            {
+              "SHA": "5aca2293",
+              "Subject": "Give time to PDB status to be updated (#285)"
+            },
+            {
+              "SHA": "5f3fabd7",
+              "Subject": "Prepare for release v0.26.0-beta.0 (#284)"
+            },
+            {
+              "SHA": "27a24dff",
+              "Subject": "Update deps (#283)"
+            },
+            {
+              "SHA": "b9021186",
+              "Subject": "Update deps (#282)"
+            },
+            {
+              "SHA": "589ca51c",
+              "Subject": "mongodb vertical scaling fix (#281)"
+            },
+            {
+              "SHA": "feaa0f6a",
+              "Subject": "Add `--restricted` flag (#280)"
+            },
+            {
+              "SHA": "2423ee38",
+              "Subject": "Fix linter errors"
+            },
+            {
+              "SHA": "dcd64c7c",
+              "Subject": "Update lint command"
+            },
+            {
+              "SHA": "c3ef1fa4",
+              "Subject": "Use k8s 1.29 client libs (#279)"
             }
           ]
         }

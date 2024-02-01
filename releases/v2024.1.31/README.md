@@ -523,3 +523,11 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.0.4](https://github.com/kubedb/zookeeper/releases/tag/v0.0.4)
+
+- [7347527](https://github.com/kubedb/zookeeper/commit/7347527) Prepare for release v0.0.4 (#8)
+
+
+

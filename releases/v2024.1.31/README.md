@@ -189,6 +189,23 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.14.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.14.0)
+
+- [6fd3b3cd](https://github.com/kubedb/percona-xtradb-coordinator/commit/6fd3b3cd) Prepare for release v0.14.0 (#63)
+- [da619fa3](https://github.com/kubedb/percona-xtradb-coordinator/commit/da619fa3) Prepare for release v0.14.0-rc.1 (#62)
+- [c39daf56](https://github.com/kubedb/percona-xtradb-coordinator/commit/c39daf56) Update deps (#61)
+- [42dc1a95](https://github.com/kubedb/percona-xtradb-coordinator/commit/42dc1a95) Update deps (#60)
+- [7581630e](https://github.com/kubedb/percona-xtradb-coordinator/commit/7581630e) Prepare for release v0.14.0-rc.0 (#59)
+- [560bc5c3](https://github.com/kubedb/percona-xtradb-coordinator/commit/560bc5c3) Prepare for release v0.14.0-beta.1 (#58)
+- [963756eb](https://github.com/kubedb/percona-xtradb-coordinator/commit/963756eb) Prepare for release v0.14.0-beta.0 (#57)
+- [5489bb8c](https://github.com/kubedb/percona-xtradb-coordinator/commit/5489bb8c) Update deps (#56)
+- [a8424e18](https://github.com/kubedb/percona-xtradb-coordinator/commit/a8424e18) Update deps (#55)
+- [ee4add86](https://github.com/kubedb/percona-xtradb-coordinator/commit/ee4add86) Use k8s 1.29 client libs (#54)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.25.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.25.0)

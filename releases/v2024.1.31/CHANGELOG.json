@@ -1,0 +1,236 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.1.31",
+  "release_date": "2024-02-01T15:48:18.163916292Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.1.31",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "447a890af",
+              "Subject": "Update kubestash"
+            },
+            {
+              "SHA": "a81b9dc28",
+              "Subject": "Increase CPU resource for mongo versions >= 6 (#1140)"
+            },
+            {
+              "SHA": "c711b3abb",
+              "Subject": "ferretdb apm fix (#1138)"
+            },
+            {
+              "SHA": "02bd64dfa",
+              "Subject": "Update security context based on version (#1137)"
+            },
+            {
+              "SHA": "2a63b8b1a",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "2293744e3",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "32a0f2944",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "c389dcb17",
+              "Subject": "Add Singlestore Config Type (#1136)"
+            },
+            {
+              "SHA": "ef7f62fbd",
+              "Subject": "Defaulting RunAsGroup (#1134)"
+            },
+            {
+              "SHA": "e08f63ba0",
+              "Subject": "Minox fixes in rlease (#1135)"
+            },
+            {
+              "SHA": "760f1c554",
+              "Subject": "Ferretdb webhook and apis updated (#1132)"
+            },
+            {
+              "SHA": "958de8ec3",
+              "Subject": "Fix spelling mistakes in dashboard. (#1133)"
+            },
+            {
+              "SHA": "f614ab976",
+              "Subject": "Fix release issues and add version 28.0.1 (#1131)"
+            },
+            {
+              "SHA": "df53756a3",
+              "Subject": "Fix dashboard config merger command. (#1126)"
+            },
+            {
+              "SHA": "4b8a46ab1",
+              "Subject": "Add kafka connector webhook (#1128)"
+            },
+            {
+              "SHA": "3e06dc03a",
+              "Subject": "Update Rabbitmq helpers and webhooks (#1130)"
+            },
+            {
+              "SHA": "23153f41f",
+              "Subject": "Add ZooKeeper Standalone Mode (#1129)"
+            },
+            {
+              "SHA": "650406ba8",
+              "Subject": "Remove replica condition for Pgpool (#1127)"
+            },
+            {
+              "SHA": "dbd8e0679",
+              "Subject": "Update docker/docker"
+            },
+            {
+              "SHA": "a28b2662e",
+              "Subject": "Add validator to check negative number of replicas. (#1124)"
+            },
+            {
+              "SHA": "cc189c3c8",
+              "Subject": "Add utilities to extract databaseInfo (#1123)"
+            },
+            {
+              "SHA": "ceef191e0",
+              "Subject": "Fix short name for FerretDBVersion"
+            },
+            {
+              "SHA": "ef49cbfa8",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f85d14100",
+              "Subject": "Without non-root (#1122)"
+            },
+            {
+              "SHA": "79fd675a0",
+              "Subject": "Add `PausedBackups` field into `OpsRequestStatus` (#1114)"
+            },
+            {
+              "SHA": "778a1af25",
+              "Subject": "Add FerretDB Apis (#1119)"
+            },
+            {
+              "SHA": "329083aa6",
+              "Subject": "Add missing entries while ignoring openapi schema (#1121)"
+            },
+            {
+              "SHA": "0f8ac9110",
+              "Subject": "Fix API for new Databases (#1120)"
+            },
+            {
+              "SHA": "b625c64c5",
+              "Subject": "Fix issues with Pgpool HealthChecker field and version check in webhook (#1118)"
+            },
+            {
+              "SHA": "e78c6ff74",
+              "Subject": "Remove unnecessary apis for singlestore (#1117)"
+            },
+            {
+              "SHA": "6e98cd41c",
+              "Subject": "Add Rabbitmq API (#1109)"
+            },
+            {
+              "SHA": "e7a088faf",
+              "Subject": "Remove api call from Solr setDefaults. (#1116)"
+            },
+            {
+              "SHA": "a73a825b7",
+              "Subject": "Add Solr API (#1110)"
+            },
+            {
+              "SHA": "9d6870498",
+              "Subject": "Pgpool Backend Set to Required (#1113)"
+            },
+            {
+              "SHA": "72d44aef7",
+              "Subject": "Fix ElasticsearchDashboard constants"
+            },
+            {
+              "SHA": "0c40a7698",
+              "Subject": "Change dashboard api group to elasticsearch (#1112)"
+            },
+            {
+              "SHA": "85e4ae232",
+              "Subject": "Add ZooKeeper API (#1104)"
+            },
+            {
+              "SHA": "ee446682d",
+              "Subject": "Add Pgpool apis (#1103)"
+            },
+            {
+              "SHA": "4995ebf3d",
+              "Subject": "Add Druid API (#1111)"
+            },
+            {
+              "SHA": "556a36dfe",
+              "Subject": "Add SingleStore APIS (#1108)"
+            },
+            {
+              "SHA": "a72bb1ffc",
+              "Subject": "Add runAsGroup field in mgVersion api (#1107)"
+            },
+            {
+              "SHA": "1ee5ee41d",
+              "Subject": "Add Kafka Connect Cluster and Connector APIs (#1066)"
+            },
+            {
+              "SHA": "2fd99ee82",
+              "Subject": "Fix replica count for arbiter & hidden node (#1106)"
+            },
+            {
+              "SHA": "4e194f0a2",
+              "Subject": "Implement validator for autoscalers (#1105)"
+            },
+            {
+              "SHA": "6a4545928",
+              "Subject": "Add kubestash controller for changing kubeDB phase (#1096)"
+            },
+            {
+              "SHA": "447577539",
+              "Subject": "Ignore validators.autoscaling.kubedb.com webhook handlers"
+            },
+            {
+              "SHA": "45cbf75e3",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "dc224c1a1",
+              "Subject": "Remove crd informer (#1102)"
+            },
+            {
+              "SHA": "87c402a1a",
+              "Subject": "Remove discovery.ResourceMapper (#1101)"
+            },
+            {
+              "SHA": "a1d475ceb",
+              "Subject": "Replace deprecated PollImmediate (#1100)"
+            },
+            {
+              "SHA": "75db4a378",
+              "Subject": "Add ConfigureOpenAPI helper (#1099)"
+            },
+            {
+              "SHA": "83be295b0",
+              "Subject": "update sidekick deps"
+            },
+            {
+              "SHA": "032b27211",
+              "Subject": "Fix linter"
+            },
+            {
+              "SHA": "389a934c7",
+              "Subject": "Use k8s 1.29 client libs (#1093)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

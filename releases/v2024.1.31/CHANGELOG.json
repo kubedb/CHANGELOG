@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T18:18:25.507897515Z",
+  "release_date": "2024-02-01T18:26:23.396361247Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -359,6 +359,100 @@
             {
               "SHA": "2fdcafa",
               "Subject": "Use k8s 1.29 client libs (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "8ffe42e6",
+              "Subject": "Prepare for release v0.12.0 (#76)"
+            },
+            {
+              "SHA": "511914c2",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#75)"
+            },
+            {
+              "SHA": "fb908cf2",
+              "Subject": "Update deps (#74)"
+            },
+            {
+              "SHA": "cccaf86c",
+              "Subject": "Update deps (#73)"
+            },
+            {
+              "SHA": "9d73e3ce",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#71)"
+            },
+            {
+              "SHA": "c1d08f75",
+              "Subject": "Remove cassandra, clickhouse, etcd flags"
+            },
+            {
+              "SHA": "e7283583",
+              "Subject": "Fix podtemplate containers reference isuue (#70)"
+            },
+            {
+              "SHA": "6d04bf0f",
+              "Subject": "Add termination policy for kafka and connect cluster (#69)"
+            },
+            {
+              "SHA": "34f4967f",
+              "Subject": "Prepare for release v0.12.0-beta.1 (#68)"
+            },
+            {
+              "SHA": "7176931c",
+              "Subject": "Move Kafka Podtemplate to ofshoot-api v2 (#66)"
+            },
+            {
+              "SHA": "9454adf6",
+              "Subject": "Update ci & makefile for crd-manager (#67)"
+            },
+            {
+              "SHA": "fda770d8",
+              "Subject": "Add kafka connector controller (#65)"
+            },
+            {
+              "SHA": "6ed0ccd4",
+              "Subject": "Add Kafka connect  controller (#44)"
+            },
+            {
+              "SHA": "18e9a45c",
+              "Subject": "update deps (#64)"
+            },
+            {
+              "SHA": "a7dfb409",
+              "Subject": "Update makefile for dynamic crd installer (#63)"
+            },
+            {
+              "SHA": "f9350578",
+              "Subject": "Prepare for release v0.12.0-beta.0 (#62)"
+            },
+            {
+              "SHA": "692f2bef",
+              "Subject": "Dynamically start crd controller (#61)"
+            },
+            {
+              "SHA": "a50dc8b4",
+              "Subject": "Update deps (#60)"
+            },
+            {
+              "SHA": "7ff28ed7",
+              "Subject": "Update deps (#59)"
+            },
+            {
+              "SHA": "16130571",
+              "Subject": "Add openapi configuration for webhook server (#58)"
+            },
+            {
+              "SHA": "cc465de9",
+              "Subject": "Use k8s 1.29 client libs (#57)"
             }
           ]
         }

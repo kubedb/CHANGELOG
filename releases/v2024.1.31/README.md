@@ -62,6 +62,25 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.41.0](https://github.com/kubedb/cli/releases/tag/v0.41.0)
+
+- [8ff0608c](https://github.com/kubedb/cli/commit/8ff0608c) Prepare for release v0.41.0 (#755)
+- [7aeaa861](https://github.com/kubedb/cli/commit/7aeaa861) Monitor CLI added for check-connection and aggregate all monitor CLI (#754)
+- [a67dadc9](https://github.com/kubedb/cli/commit/a67dadc9) Prepare for release v0.41.0-rc.1 (#753)
+- [d1b206ee](https://github.com/kubedb/cli/commit/d1b206ee) Update deps (#752)
+- [50f15d19](https://github.com/kubedb/cli/commit/50f15d19) Update deps (#751)
+- [64ad0b63](https://github.com/kubedb/cli/commit/64ad0b63) Prepare for release v0.41.0-rc.0 (#749)
+- [d188eae6](https://github.com/kubedb/cli/commit/d188eae6) Grafana dashboard's metric checking CLI (#740)
+- [234b7051](https://github.com/kubedb/cli/commit/234b7051) Prepare for release v0.41.0-beta.1 (#748)
+- [1ebdd532](https://github.com/kubedb/cli/commit/1ebdd532) Update deps
+- [c0165e83](https://github.com/kubedb/cli/commit/c0165e83) Prepare for release v0.41.0-beta.0 (#747)
+- [d9c905e5](https://github.com/kubedb/cli/commit/d9c905e5) Update deps (#746)
+- [bc415a1d](https://github.com/kubedb/cli/commit/bc415a1d) Update deps (#745)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.10](https://github.com/kubedb/db-client-go/releases/tag/v0.0.10)

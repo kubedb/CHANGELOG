@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:05:09.024341674Z",
+  "release_date": "2024-02-01T16:05:29.175656116Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -325,6 +325,56 @@
             {
               "SHA": "5ce328d",
               "Subject": "Use k8s 1.29 client libs (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "ef84bd37",
+              "Subject": "Prepare for release v0.19.0 (#103)"
+            },
+            {
+              "SHA": "40a2b6eb",
+              "Subject": "Prepare for release v0.19.0-rc.1 (#102)"
+            },
+            {
+              "SHA": "8b80958d",
+              "Subject": "Update deps (#101)"
+            },
+            {
+              "SHA": "df438239",
+              "Subject": "Update deps (#100)"
+            },
+            {
+              "SHA": "1bc71d04",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#99)"
+            },
+            {
+              "SHA": "59a11671",
+              "Subject": "Prepare for release v0.19.0-beta.1 (#98)"
+            },
+            {
+              "SHA": "e0cc149f",
+              "Subject": "Prepare for release v0.19.0-beta.0 (#97)"
+            },
+            {
+              "SHA": "67aeb229",
+              "Subject": "Update deps (#96)"
+            },
+            {
+              "SHA": "2fa4423f",
+              "Subject": "Update deps (#95)"
+            },
+            {
+              "SHA": "b0735769",
+              "Subject": "Use k8s 1.29 client libs (#94)"
             }
           ]
         }

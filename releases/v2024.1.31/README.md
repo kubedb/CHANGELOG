@@ -100,6 +100,23 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.19.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.19.0)
+
+- [ef84bd37](https://github.com/kubedb/mysql-coordinator/commit/ef84bd37) Prepare for release v0.19.0 (#103)
+- [40a2b6eb](https://github.com/kubedb/mysql-coordinator/commit/40a2b6eb) Prepare for release v0.19.0-rc.1 (#102)
+- [8b80958d](https://github.com/kubedb/mysql-coordinator/commit/8b80958d) Update deps (#101)
+- [df438239](https://github.com/kubedb/mysql-coordinator/commit/df438239) Update deps (#100)
+- [1bc71d04](https://github.com/kubedb/mysql-coordinator/commit/1bc71d04) Prepare for release v0.19.0-rc.0 (#99)
+- [59a11671](https://github.com/kubedb/mysql-coordinator/commit/59a11671) Prepare for release v0.19.0-beta.1 (#98)
+- [e0cc149f](https://github.com/kubedb/mysql-coordinator/commit/e0cc149f) Prepare for release v0.19.0-beta.0 (#97)
+- [67aeb229](https://github.com/kubedb/mysql-coordinator/commit/67aeb229) Update deps (#96)
+- [2fa4423f](https://github.com/kubedb/mysql-coordinator/commit/2fa4423f) Update deps (#95)
+- [b0735769](https://github.com/kubedb/mysql-coordinator/commit/b0735769) Use k8s 1.29 client libs (#94)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.19.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.19.0)

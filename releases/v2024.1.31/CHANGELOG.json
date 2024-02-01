@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T21:27:35.823788849Z",
+  "release_date": "2024-02-01T22:07:47.621193962Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -1307,6 +1307,56 @@
             {
               "SHA": "0553c6f",
               "Subject": "Use k8s 1.29 client libs (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "4cce748f",
+              "Subject": "Prepare for release v0.28.0 (#258)"
+            },
+            {
+              "SHA": "de39974e",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#257)"
+            },
+            {
+              "SHA": "e1ef5191",
+              "Subject": "Update deps (#256)"
+            },
+            {
+              "SHA": "7b4e4149",
+              "Subject": "Update deps (#255)"
+            },
+            {
+              "SHA": "d55f7e69",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#254)"
+            },
+            {
+              "SHA": "f948a650",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#253)"
+            },
+            {
+              "SHA": "572668c8",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#252)"
+            },
+            {
+              "SHA": "39ba3ce0",
+              "Subject": "Update deps (#251)"
+            },
+            {
+              "SHA": "d3d2ad96",
+              "Subject": "Update deps (#250)"
+            },
+            {
+              "SHA": "633d7b76",
+              "Subject": "Use k8s 1.29 client libs (#249)"
             }
           ]
         }

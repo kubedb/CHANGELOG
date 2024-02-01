@@ -454,6 +454,23 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.28.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.28.0)
+
+- [4cce748f](https://github.com/kubedb/replication-mode-detector/commit/4cce748f) Prepare for release v0.28.0 (#258)
+- [de39974e](https://github.com/kubedb/replication-mode-detector/commit/de39974e) Prepare for release v0.28.0-rc.1 (#257)
+- [e1ef5191](https://github.com/kubedb/replication-mode-detector/commit/e1ef5191) Update deps (#256)
+- [7b4e4149](https://github.com/kubedb/replication-mode-detector/commit/7b4e4149) Update deps (#255)
+- [d55f7e69](https://github.com/kubedb/replication-mode-detector/commit/d55f7e69) Prepare for release v0.28.0-rc.0 (#254)
+- [f948a650](https://github.com/kubedb/replication-mode-detector/commit/f948a650) Prepare for release v0.28.0-beta.1 (#253)
+- [572668c8](https://github.com/kubedb/replication-mode-detector/commit/572668c8) Prepare for release v0.28.0-beta.0 (#252)
+- [39ba3ce0](https://github.com/kubedb/replication-mode-detector/commit/39ba3ce0) Update deps (#251)
+- [d3d2ad96](https://github.com/kubedb/replication-mode-detector/commit/d3d2ad96) Update deps (#250)
+- [633d7b76](https://github.com/kubedb/replication-mode-detector/commit/633d7b76) Use k8s 1.29 client libs (#249)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.0.4](https://github.com/kubedb/singlestore/releases/tag/v0.0.4)

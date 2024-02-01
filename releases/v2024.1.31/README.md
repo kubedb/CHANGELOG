@@ -182,6 +182,25 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.34.0](https://github.com/kubedb/memcached/releases/tag/v0.34.0)
+
+- [c43923ba](https://github.com/kubedb/memcached/commit/c43923ba) Prepare for release v0.34.0 (#423)
+- [928f00e2](https://github.com/kubedb/memcached/commit/928f00e2) Prepare for release v0.34.0-rc.1 (#422)
+- [42aa5dcc](https://github.com/kubedb/memcached/commit/42aa5dcc) Update deps (#421)
+- [d9fd6358](https://github.com/kubedb/memcached/commit/d9fd6358) Update deps (#420)
+- [3ae5739b](https://github.com/kubedb/memcached/commit/3ae5739b) Prepare for release v0.34.0-rc.0 (#419)
+- [754ba398](https://github.com/kubedb/memcached/commit/754ba398) Prepare for release v0.34.0-beta.1 (#418)
+- [abd9dbb6](https://github.com/kubedb/memcached/commit/abd9dbb6) Incorporate with apimachinery package name change from stash to restore (#417)
+- [6fe1686a](https://github.com/kubedb/memcached/commit/6fe1686a) Prepare for release v0.34.0-beta.0 (#416)
+- [1cfb0544](https://github.com/kubedb/memcached/commit/1cfb0544) Dynamically start crd controller (#415)
+- [171faff2](https://github.com/kubedb/memcached/commit/171faff2) Update deps (#414)
+- [639495c7](https://github.com/kubedb/memcached/commit/639495c7) Update deps (#413)
+- [223d295a](https://github.com/kubedb/memcached/commit/223d295a) Use k8s 1.29 client libs (#412)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.2.0)

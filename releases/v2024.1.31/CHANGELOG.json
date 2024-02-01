@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T22:29:35.511125803Z",
+  "release_date": "2024-02-01T22:31:47.75479197Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -563,6 +563,64 @@
             {
               "SHA": "ef72c98b",
               "Subject": "Use k8s 1.29 client libs (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "c43923ba",
+              "Subject": "Prepare for release v0.34.0 (#423)"
+            },
+            {
+              "SHA": "928f00e2",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#422)"
+            },
+            {
+              "SHA": "42aa5dcc",
+              "Subject": "Update deps (#421)"
+            },
+            {
+              "SHA": "d9fd6358",
+              "Subject": "Update deps (#420)"
+            },
+            {
+              "SHA": "3ae5739b",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#419)"
+            },
+            {
+              "SHA": "754ba398",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#418)"
+            },
+            {
+              "SHA": "abd9dbb6",
+              "Subject": "Incorporate with apimachinery package name change from stash to restore (#417)"
+            },
+            {
+              "SHA": "6fe1686a",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#416)"
+            },
+            {
+              "SHA": "1cfb0544",
+              "Subject": "Dynamically start crd controller (#415)"
+            },
+            {
+              "SHA": "171faff2",
+              "Subject": "Update deps (#414)"
+            },
+            {
+              "SHA": "639495c7",
+              "Subject": "Update deps (#413)"
+            },
+            {
+              "SHA": "223d295a",
+              "Subject": "Use k8s 1.29 client libs (#412)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:18:25.514851159Z",
+  "release_date": "2024-02-01T16:24:45.161561731Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -311,6 +311,20 @@
             {
               "SHA": "4e2471e3",
               "Subject": "Update deps (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "8d4fdb6",
+              "Subject": "Prepare for release v0.0.4 (#8)"
             }
           ]
         }

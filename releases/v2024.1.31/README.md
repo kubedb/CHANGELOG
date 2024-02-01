@@ -81,6 +81,15 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.0.4](https://github.com/kubedb/crd-manager/releases/tag/v0.0.4)
+
+- [a45ec91](https://github.com/kubedb/crd-manager/commit/a45ec91) Prepare for release v0.0.4 (#13)
+- [39cec60](https://github.com/kubedb/crd-manager/commit/39cec60) Fix deploy-to-kind make target
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.10](https://github.com/kubedb/db-client-go/releases/tag/v0.0.10)

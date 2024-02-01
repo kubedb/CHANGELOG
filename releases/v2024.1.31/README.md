@@ -188,6 +188,16 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.0.4](https://github.com/kubedb/pgpool/releases/tag/v0.0.4)
+
+- [b6546d3](https://github.com/kubedb/pgpool/commit/b6546d3) Prepare for release v0.0.4 (#12)
+- [6f7ebca](https://github.com/kubedb/pgpool/commit/6f7ebca) Add daily to workflows (#10)
+- [18c06cd](https://github.com/kubedb/pgpool/commit/18c06cd) Fix InitConfiguration issue (#9)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.3.0](https://github.com/kubedb/provider-aws/releases/tag/v0.3.0)

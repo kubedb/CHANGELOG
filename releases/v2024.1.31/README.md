@@ -352,6 +352,35 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.41.0](https://github.com/kubedb/postgres/releases/tag/v0.41.0)
+
+- [cf1b2726](https://github.com/kubedb/postgres/commit/cf1b27268) Prepare for release v0.41.0 (#715)
+- [29aaa191](https://github.com/kubedb/postgres/commit/29aaa191b) Add sub path for sidekick (#714)
+- [9f487d98](https://github.com/kubedb/postgres/commit/9f487d984) Add postmaster arguments for exporter image (#713)
+- [071b2645](https://github.com/kubedb/postgres/commit/071b26455) Prepare for release v0.41.0-rc.1 (#712)
+- [c9f1d5b6](https://github.com/kubedb/postgres/commit/c9f1d5b68) Update deps (#711)
+- [723fb80c](https://github.com/kubedb/postgres/commit/723fb80c0) Update deps (#710)
+- [8135d351](https://github.com/kubedb/postgres/commit/8135d3511) Prepare for release v0.41.0-rc.0 (#709)
+- [72a1ee29](https://github.com/kubedb/postgres/commit/72a1ee294) Prepare for release v0.41.0-beta.1 (#708)
+- [026598f4](https://github.com/kubedb/postgres/commit/026598f44) Prepare for release v0.41.0-beta.1 (#707)
+- [8af305aa](https://github.com/kubedb/postgres/commit/8af305aa4) Use ptr.Deref(); Update deps
+- [c7c0652d](https://github.com/kubedb/postgres/commit/c7c0652dc) Update ci & makefile for crd-manager (#706)
+- [d468bdb3](https://github.com/kubedb/postgres/commit/d468bdb34) Fix wal backup directory (#705)
+- [c6992bed](https://github.com/kubedb/postgres/commit/c6992bed8) Add Support for DB phase change for restoring using KubeStash (#704)
+- [d1bd909b](https://github.com/kubedb/postgres/commit/d1bd909ba) Prepare for release v0.41.0-beta.0 (#703)
+- [5e8101e3](https://github.com/kubedb/postgres/commit/5e8101e39) Dynamically start crd controller (#702)
+- [47dbbff5](https://github.com/kubedb/postgres/commit/47dbbff53) Update deps (#701)
+- [84f99c58](https://github.com/kubedb/postgres/commit/84f99c58b) Disable fairness api
+- [a715765d](https://github.com/kubedb/postgres/commit/a715765dc) Set --restricted=false for ci tests (#700)
+- [fe9af597](https://github.com/kubedb/postgres/commit/fe9af5977) Add Postgres test fix (#699)
+- [8bae8886](https://github.com/kubedb/postgres/commit/8bae88860) Configure openapi for webhook server (#698)
+- [9ce2efce](https://github.com/kubedb/postgres/commit/9ce2efce5) Update deps
+- [24e4e9ca](https://github.com/kubedb/postgres/commit/24e4e9ca5) Use k8s 1.29 client libs (#697)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.2.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.2.0)

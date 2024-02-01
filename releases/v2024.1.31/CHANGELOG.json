@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T22:27:57.742920749Z",
+  "release_date": "2024-02-01T22:29:13.997071248Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -1273,6 +1273,24 @@
             {
               "SHA": "82f52c3",
               "Subject": "Checkout fake release branch for release workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "cbcc9132",
+              "Subject": "Prepare for release v0.0.4 (#9)"
+            },
+            {
+              "SHA": "89636ce7",
+              "Subject": "Remove standby service and fix init container security context (#8)"
             }
           ]
         }

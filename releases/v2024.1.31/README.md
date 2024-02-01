@@ -441,6 +441,15 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.0.4](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.4)
+
+- [cbcc9132](https://github.com/kubedb/rabbitmq/commit/cbcc9132) Prepare for release v0.0.4 (#9)
+- [89636ce7](https://github.com/kubedb/rabbitmq/commit/89636ce7) Remove standby service and fix init container security context (#8)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.34.0](https://github.com/kubedb/redis/releases/tag/v0.34.0)

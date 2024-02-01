@@ -189,6 +189,27 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.28.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.28.0)
+
+- [279330e0](https://github.com/kubedb/percona-xtradb/commit/279330e09) Prepare for release v0.28.0 (#354)
+- [b567db53](https://github.com/kubedb/percona-xtradb/commit/b567db53a) Prepare for release v0.28.0-rc.1 (#353)
+- [c0ddb330](https://github.com/kubedb/percona-xtradb/commit/c0ddb330b) Update deps (#352)
+- [d461df3e](https://github.com/kubedb/percona-xtradb/commit/d461df3ed) Fix appbinding scheme (#349)
+- [2752f7e3](https://github.com/kubedb/percona-xtradb/commit/2752f7e36) Update deps (#351)
+- [80cd3a03](https://github.com/kubedb/percona-xtradb/commit/80cd3a030) Prepare for release v0.28.0-rc.0 (#350)
+- [475a5e32](https://github.com/kubedb/percona-xtradb/commit/475a5e328) Prepare for release v0.28.0-beta.1 (#348)
+- [4c1380ab](https://github.com/kubedb/percona-xtradb/commit/4c1380ab7) Incorporate with apimachinery package name change from `stash` to `restore` (#347)
+- [0ceb3028](https://github.com/kubedb/percona-xtradb/commit/0ceb30284) Prepare for release v0.28.0-beta.0 (#346)
+- [e7d35606](https://github.com/kubedb/percona-xtradb/commit/e7d356062) Dynamically start crd controller (#345)
+- [5d07b565](https://github.com/kubedb/percona-xtradb/commit/5d07b5655) Update deps (#344)
+- [1a639f84](https://github.com/kubedb/percona-xtradb/commit/1a639f840) Update deps (#343)
+- [4f8b24ab](https://github.com/kubedb/percona-xtradb/commit/4f8b24aba) Update deps
+- [e5254020](https://github.com/kubedb/percona-xtradb/commit/e52540202) Use k8s 1.29 client libs (#341)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.14.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.14.0)

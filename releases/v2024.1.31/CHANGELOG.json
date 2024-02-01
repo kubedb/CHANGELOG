@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:58:08.352637249Z",
+  "release_date": "2024-02-01T17:00:37.467866217Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -573,6 +573,72 @@
             {
               "SHA": "7dd201c",
               "Subject": "Use k8s 1.29 client libs (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "279330e09",
+              "Subject": "Prepare for release v0.28.0 (#354)"
+            },
+            {
+              "SHA": "b567db53a",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#353)"
+            },
+            {
+              "SHA": "c0ddb330b",
+              "Subject": "Update deps (#352)"
+            },
+            {
+              "SHA": "d461df3ed",
+              "Subject": "Fix appbinding scheme (#349)"
+            },
+            {
+              "SHA": "2752f7e36",
+              "Subject": "Update deps (#351)"
+            },
+            {
+              "SHA": "80cd3a030",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#350)"
+            },
+            {
+              "SHA": "475a5e328",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#348)"
+            },
+            {
+              "SHA": "4c1380ab7",
+              "Subject": "Incorporate with apimachinery package name change from `stash` to `restore` (#347)"
+            },
+            {
+              "SHA": "0ceb30284",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#346)"
+            },
+            {
+              "SHA": "e7d356062",
+              "Subject": "Dynamically start crd controller (#345)"
+            },
+            {
+              "SHA": "5d07b5655",
+              "Subject": "Update deps (#344)"
+            },
+            {
+              "SHA": "1a639f840",
+              "Subject": "Update deps (#343)"
+            },
+            {
+              "SHA": "4f8b24aba",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "e52540202",
+              "Subject": "Use k8s 1.29 client libs (#341)"
             }
           ]
         }

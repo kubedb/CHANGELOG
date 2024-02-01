@@ -164,6 +164,24 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.21.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.21.0)
+
+- [6e2b4dee](https://github.com/kubedb/mariadb-coordinator/commit/6e2b4dee) Prepare for release v0.21.0 (#107)
+- [e0e9c489](https://github.com/kubedb/mariadb-coordinator/commit/e0e9c489) Fix MariaDB Health Check (#106)
+- [4289bcd1](https://github.com/kubedb/mariadb-coordinator/commit/4289bcd1) Prepare for release v0.21.0-rc.1 (#105)
+- [34f610f7](https://github.com/kubedb/mariadb-coordinator/commit/34f610f7) Update deps (#104)
+- [13dbe3f7](https://github.com/kubedb/mariadb-coordinator/commit/13dbe3f7) Update deps (#103)
+- [15a83758](https://github.com/kubedb/mariadb-coordinator/commit/15a83758) Prepare for release v0.21.0-rc.0 (#102)
+- [1c30e710](https://github.com/kubedb/mariadb-coordinator/commit/1c30e710) Prepare for release v0.21.0-beta.1 (#101)
+- [28677618](https://github.com/kubedb/mariadb-coordinator/commit/28677618) Prepare for release v0.21.0-beta.0 (#100)
+- [655a2c66](https://github.com/kubedb/mariadb-coordinator/commit/655a2c66) Update deps (#99)
+- [ef206cfe](https://github.com/kubedb/mariadb-coordinator/commit/ef206cfe) Update deps (#98)
+- [ef72c98b](https://github.com/kubedb/mariadb-coordinator/commit/ef72c98b) Use k8s 1.29 client libs (#97)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.2.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T18:29:37.926741271Z",
+  "release_date": "2024-02-01T21:02:05.441445925Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -509,6 +509,60 @@
             {
               "SHA": "5ce328d",
               "Subject": "Use k8s 1.29 client libs (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6e2b4dee",
+              "Subject": "Prepare for release v0.21.0 (#107)"
+            },
+            {
+              "SHA": "e0e9c489",
+              "Subject": "Fix MariaDB Health Check (#106)"
+            },
+            {
+              "SHA": "4289bcd1",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "34f610f7",
+              "Subject": "Update deps (#104)"
+            },
+            {
+              "SHA": "13dbe3f7",
+              "Subject": "Update deps (#103)"
+            },
+            {
+              "SHA": "15a83758",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "1c30e710",
+              "Subject": "Prepare for release v0.21.0-beta.1 (#101)"
+            },
+            {
+              "SHA": "28677618",
+              "Subject": "Prepare for release v0.21.0-beta.0 (#100)"
+            },
+            {
+              "SHA": "655a2c66",
+              "Subject": "Update deps (#99)"
+            },
+            {
+              "SHA": "ef206cfe",
+              "Subject": "Update deps (#98)"
+            },
+            {
+              "SHA": "ef72c98b",
+              "Subject": "Use k8s 1.29 client libs (#97)"
             }
           ]
         }

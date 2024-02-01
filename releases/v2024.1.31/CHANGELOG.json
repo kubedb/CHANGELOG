@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:32:22.776998782Z",
+  "release_date": "2024-02-01T16:55:42.643668086Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -439,6 +439,64 @@
             {
               "SHA": "c2c9bd4",
               "Subject": "Use k8s 1.29 client libs (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "ed748c7",
+              "Subject": "Prepare for release v0.2.0 (#20)"
+            },
+            {
+              "SHA": "4d1c341",
+              "Subject": "Remove example files (#17)"
+            },
+            {
+              "SHA": "9c0545e",
+              "Subject": "Add azure, gcs support (#13)"
+            },
+            {
+              "SHA": "d0fbef5",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#19)"
+            },
+            {
+              "SHA": "a6fdf50",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#18)"
+            },
+            {
+              "SHA": "718511e",
+              "Subject": "Remove obsolete files (#16)"
+            },
+            {
+              "SHA": "07fc1eb",
+              "Subject": "Fix mysql-community-common version in docker file"
+            },
+            {
+              "SHA": "e5bdae3",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#15)"
+            },
+            {
+              "SHA": "7ef752c",
+              "Subject": "Refactor + Cleanup wal-g example files (#14)"
+            },
+            {
+              "SHA": "5857a8d",
+              "Subject": "Don't use fail-fast"
+            },
+            {
+              "SHA": "5833776",
+              "Subject": "Prepare for release v0.2.0-beta.0 (#12)"
+            },
+            {
+              "SHA": "f3e68b2",
+              "Subject": "Use k8s 1.29 client libs (#11)"
             }
           ]
         }

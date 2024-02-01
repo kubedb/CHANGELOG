@@ -142,6 +142,25 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.2.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.2.0)
+
+- [ed748c7](https://github.com/kubedb/mysql-archiver/commit/ed748c7) Prepare for release v0.2.0 (#20)
+- [4d1c341](https://github.com/kubedb/mysql-archiver/commit/4d1c341) Remove example files (#17)
+- [9c0545e](https://github.com/kubedb/mysql-archiver/commit/9c0545e) Add azure, gcs support (#13)
+- [d0fbef5](https://github.com/kubedb/mysql-archiver/commit/d0fbef5) Prepare for release v0.2.0-rc.1 (#19)
+- [a6fdf50](https://github.com/kubedb/mysql-archiver/commit/a6fdf50) Prepare for release v0.2.0-rc.0 (#18)
+- [718511e](https://github.com/kubedb/mysql-archiver/commit/718511e) Remove obsolete files (#16)
+- [07fc1eb](https://github.com/kubedb/mysql-archiver/commit/07fc1eb) Fix mysql-community-common version in docker file
+- [e5bdae3](https://github.com/kubedb/mysql-archiver/commit/e5bdae3) Prepare for release v0.2.0-beta.1 (#15)
+- [7ef752c](https://github.com/kubedb/mysql-archiver/commit/7ef752c) Refactor + Cleanup wal-g example files (#14)
+- [5857a8d](https://github.com/kubedb/mysql-archiver/commit/5857a8d) Don't use fail-fast
+- [5833776](https://github.com/kubedb/mysql-archiver/commit/5833776) Prepare for release v0.2.0-beta.0 (#12)
+- [f3e68b2](https://github.com/kubedb/mysql-archiver/commit/f3e68b2) Use k8s 1.29 client libs (#11)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.19.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.19.0)

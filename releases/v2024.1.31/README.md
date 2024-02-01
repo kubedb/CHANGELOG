@@ -255,6 +255,19 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.4.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.4.0)
+
+- [5436cb6](https://github.com/kubedb/redis-restic-plugin/commit/5436cb6) Prepare for release v0.4.0 (#20)
+- [67a8942](https://github.com/kubedb/redis-restic-plugin/commit/67a8942) Prepare for release v0.4.0-rc.1 (#19)
+- [968da13](https://github.com/kubedb/redis-restic-plugin/commit/968da13) Prepare for release v0.4.0-rc.0 (#18)
+- [fac6226](https://github.com/kubedb/redis-restic-plugin/commit/fac6226) Prepare for release v0.4.0-beta.1 (#17)
+- [da2796a](https://github.com/kubedb/redis-restic-plugin/commit/da2796a) Prepare for release v0.4.0-beta.0 (#16)
+- [0553c6f](https://github.com/kubedb/redis-restic-plugin/commit/0553c6f) Use k8s 1.29 client libs (#15)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.26.0](https://github.com/kubedb/tests/releases/tag/v0.26.0)

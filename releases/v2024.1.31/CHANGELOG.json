@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:28:49.75534682Z",
+  "release_date": "2024-02-01T16:32:22.776998782Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -591,6 +591,48 @@
             {
               "SHA": "18c06cd",
               "Subject": "Fix InitConfiguration issue (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "a55baa8",
+              "Subject": "Prepare for release v0.2.0 (#21)"
+            },
+            {
+              "SHA": "8f66790",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#20)"
+            },
+            {
+              "SHA": "bff75cb",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#19)"
+            },
+            {
+              "SHA": "bb8c342",
+              "Subject": "Create directory for wal-backup (#18)"
+            },
+            {
+              "SHA": "c4405c1",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#17)"
+            },
+            {
+              "SHA": "c353dcd",
+              "Subject": "Don't use fail-fast"
+            },
+            {
+              "SHA": "a9cbe08",
+              "Subject": "Prepare for release v0.2.0-beta.0 (#16)"
+            },
+            {
+              "SHA": "183e97c",
+              "Subject": "Use k8s 1.29 client libs (#15)"
             }
           ]
         }

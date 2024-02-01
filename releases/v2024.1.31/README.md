@@ -100,6 +100,17 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.19.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.19.0)
+
+- [6a5deed](https://github.com/kubedb/mysql-router-init/commit/6a5deed) Update deps (#40)
+- [0078f09](https://github.com/kubedb/mysql-router-init/commit/0078f09) Update deps (#39)
+- [85f8c6f](https://github.com/kubedb/mysql-router-init/commit/85f8c6f) Update deps (#38)
+- [7dd201c](https://github.com/kubedb/mysql-router-init/commit/7dd201c) Use k8s 1.29 client libs (#37)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.3.0](https://github.com/kubedb/provider-aws/releases/tag/v0.3.0)

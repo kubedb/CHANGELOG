@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T16:16:12.873998896Z",
+  "release_date": "2024-02-01T16:16:53.028840785Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -501,6 +501,60 @@
             {
               "SHA": "7dd201c",
               "Subject": "Use k8s 1.29 client libs (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "7e7d32d9",
+              "Subject": "Prepare for release v0.25.0 (#154)"
+            },
+            {
+              "SHA": "9a720273",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#153)"
+            },
+            {
+              "SHA": "f103f1fc",
+              "Subject": "Update deps (#152)"
+            },
+            {
+              "SHA": "84b92d89",
+              "Subject": "Update deps (#151)"
+            },
+            {
+              "SHA": "41cc97b6",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#150)"
+            },
+            {
+              "SHA": "5298a177",
+              "Subject": "Fixed (#149)"
+            },
+            {
+              "SHA": "bc296307",
+              "Subject": "Prepare for release v0.25.0-beta.1 (#148)"
+            },
+            {
+              "SHA": "30973540",
+              "Subject": "Prepare for release v0.25.0-beta.0 (#147)"
+            },
+            {
+              "SHA": "7b84e198",
+              "Subject": "Update deps (#146)"
+            },
+            {
+              "SHA": "f1bfe818",
+              "Subject": "Update deps (#145)"
+            },
+            {
+              "SHA": "1de05a6e",
+              "Subject": "Use k8s 1.29 client libs (#144)"
             }
           ]
         }

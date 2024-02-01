@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-01T21:18:21.157206584Z",
+  "release_date": "2024-02-01T21:21:31.556358011Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -751,6 +751,44 @@
             {
               "SHA": "7a46441",
               "Subject": "Use k8s 1.29 client libs (#2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "416d3cd",
+              "Subject": "Prepare for release v0.4.0 (#24)"
+            },
+            {
+              "SHA": "55897ab",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#23)"
+            },
+            {
+              "SHA": "eedf2e7",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#22)"
+            },
+            {
+              "SHA": "105888a",
+              "Subject": "Prepare for release v0.4.0-beta.1 (#21)"
+            },
+            {
+              "SHA": "b42d0cf",
+              "Subject": "Removed `--all-databases` flag for restoring (#20)"
+            },
+            {
+              "SHA": "742d2ce",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#19)"
+            },
+            {
+              "SHA": "0402847",
+              "Subject": "Use k8s 1.29 client libs (#18)"
             }
           ]
         }

@@ -247,6 +247,20 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.4.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.4.0)
+
+- [416d3cd](https://github.com/kubedb/mysql-restic-plugin/commit/416d3cd) Prepare for release v0.4.0 (#24)
+- [55897ab](https://github.com/kubedb/mysql-restic-plugin/commit/55897ab) Prepare for release v0.4.0-rc.1 (#23)
+- [eedf2e7](https://github.com/kubedb/mysql-restic-plugin/commit/eedf2e7) Prepare for release v0.4.0-rc.0 (#22)
+- [105888a](https://github.com/kubedb/mysql-restic-plugin/commit/105888a) Prepare for release v0.4.0-beta.1 (#21)
+- [b42d0cf](https://github.com/kubedb/mysql-restic-plugin/commit/b42d0cf) Removed `--all-databases` flag for restoring (#20)
+- [742d2ce](https://github.com/kubedb/mysql-restic-plugin/commit/742d2ce) Prepare for release v0.4.0-beta.0 (#19)
+- [0402847](https://github.com/kubedb/mysql-restic-plugin/commit/0402847) Use k8s 1.29 client libs (#18)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.19.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.19.0)

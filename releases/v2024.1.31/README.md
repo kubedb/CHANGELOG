@@ -538,6 +538,26 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.28.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.28.0)
+
+- [f79abcdd](https://github.com/kubedb/pgbouncer/commit/f79abcdd) Prepare for release v0.28.0 (#317)
+- [0ca01e53](https://github.com/kubedb/pgbouncer/commit/0ca01e53) Prepare for release v0.28.0-rc.1 (#316)
+- [4b76d2cb](https://github.com/kubedb/pgbouncer/commit/4b76d2cb) Update deps (#315)
+- [f32676bc](https://github.com/kubedb/pgbouncer/commit/f32676bc) Update deps (#314)
+- [e69aa743](https://github.com/kubedb/pgbouncer/commit/e69aa743) Prepare for release v0.28.0-rc.0 (#313)
+- [55c248d5](https://github.com/kubedb/pgbouncer/commit/55c248d5) Prepare for release v0.28.0-beta.1 (#312)
+- [1b86664a](https://github.com/kubedb/pgbouncer/commit/1b86664a) Incorporate with apimachinery package name change from stash to restore (#311)
+- [3c6bc335](https://github.com/kubedb/pgbouncer/commit/3c6bc335) Prepare for release v0.28.0-beta.0 (#310)
+- [73c5f6fb](https://github.com/kubedb/pgbouncer/commit/73c5f6fb) Dynamically start crd controller (#309)
+- [f9edc2cd](https://github.com/kubedb/pgbouncer/commit/f9edc2cd) Update deps (#308)
+- [d54251c0](https://github.com/kubedb/pgbouncer/commit/d54251c0) Update deps (#307)
+- [de40a35e](https://github.com/kubedb/pgbouncer/commit/de40a35e) Update deps
+- [8c325577](https://github.com/kubedb/pgbouncer/commit/8c325577) Use k8s 1.29 client libs (#305)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.4](https://github.com/kubedb/pgpool/releases/tag/v0.0.4)

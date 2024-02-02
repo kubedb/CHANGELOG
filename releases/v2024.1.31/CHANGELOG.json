@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-02T02:05:59.307562231Z",
+  "release_date": "2024-02-02T02:08:09.54943588Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -613,6 +613,84 @@
             {
               "SHA": "5ce328d",
               "Subject": "Use k8s 1.29 client libs (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "bcf4484c9",
+              "Subject": "Fix mariadb health check (#256)"
+            },
+            {
+              "SHA": "fcfa0e966",
+              "Subject": "Prepare for release v0.25.0 (#257)"
+            },
+            {
+              "SHA": "2ca441314",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#255)"
+            },
+            {
+              "SHA": "dad5b837a",
+              "Subject": "Update deps (#254)"
+            },
+            {
+              "SHA": "a210c8675",
+              "Subject": "Fix appbinding scheme (#251)"
+            },
+            {
+              "SHA": "81f985cd7",
+              "Subject": "Update deps (#253)"
+            },
+            {
+              "SHA": "4bdcd6cca",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#252)"
+            },
+            {
+              "SHA": "c4d4942f8",
+              "Subject": "Prepare for release v0.25.0-beta.1 (#250)"
+            },
+            {
+              "SHA": "25fe39177",
+              "Subject": "Use ptr.Deref(); Update deps"
+            },
+            {
+              "SHA": "c76704cc8",
+              "Subject": "Fix ci & makefile for crd-manager (#249)"
+            },
+            {
+              "SHA": "67396abb9",
+              "Subject": "Incorporate with apimachinery package name change from `stash` to `restore` (#248)"
+            },
+            {
+              "SHA": "b93ddce3d",
+              "Subject": "Prepare for release v0.25.0-beta.0 (#247)"
+            },
+            {
+              "SHA": "8099af6d9",
+              "Subject": "Dynamically start crd controller (#246)"
+            },
+            {
+              "SHA": "0a9dd9e03",
+              "Subject": "Update deps (#245)"
+            },
+            {
+              "SHA": "5c548629e",
+              "Subject": "Update deps (#244)"
+            },
+            {
+              "SHA": "0f9ea4f20",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "89641d3c7",
+              "Subject": "Use k8s 1.29 client libs (#242)"
             }
           ]
         }

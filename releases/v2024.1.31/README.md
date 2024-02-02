@@ -199,6 +199,30 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.25.0](https://github.com/kubedb/mariadb/releases/tag/v0.25.0)
+
+- [bcf4484c](https://github.com/kubedb/mariadb/commit/bcf4484c9) Fix mariadb health check (#256)
+- [fcfa0e96](https://github.com/kubedb/mariadb/commit/fcfa0e966) Prepare for release v0.25.0 (#257)
+- [2ca44131](https://github.com/kubedb/mariadb/commit/2ca441314) Prepare for release v0.25.0-rc.1 (#255)
+- [dad5b837](https://github.com/kubedb/mariadb/commit/dad5b837a) Update deps (#254)
+- [a210c867](https://github.com/kubedb/mariadb/commit/a210c8675) Fix appbinding scheme (#251)
+- [81f985cd](https://github.com/kubedb/mariadb/commit/81f985cd7) Update deps (#253)
+- [4bdcd6cc](https://github.com/kubedb/mariadb/commit/4bdcd6cca) Prepare for release v0.25.0-rc.0 (#252)
+- [c4d4942f](https://github.com/kubedb/mariadb/commit/c4d4942f8) Prepare for release v0.25.0-beta.1 (#250)
+- [25fe3917](https://github.com/kubedb/mariadb/commit/25fe39177) Use ptr.Deref(); Update deps
+- [c76704cc](https://github.com/kubedb/mariadb/commit/c76704cc8) Fix ci & makefile for crd-manager (#249)
+- [67396abb](https://github.com/kubedb/mariadb/commit/67396abb9) Incorporate with apimachinery package name change from `stash` to `restore` (#248)
+- [b93ddce3](https://github.com/kubedb/mariadb/commit/b93ddce3d) Prepare for release v0.25.0-beta.0 (#247)
+- [8099af6d](https://github.com/kubedb/mariadb/commit/8099af6d9) Dynamically start crd controller (#246)
+- [0a9dd9e0](https://github.com/kubedb/mariadb/commit/0a9dd9e03) Update deps (#245)
+- [5c548629](https://github.com/kubedb/mariadb/commit/5c548629e) Update deps (#244)
+- [0f9ea4f2](https://github.com/kubedb/mariadb/commit/0f9ea4f20) Update deps
+- [89641d3c](https://github.com/kubedb/mariadb/commit/89641d3c7) Use k8s 1.29 client libs (#242)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.21.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.21.0)

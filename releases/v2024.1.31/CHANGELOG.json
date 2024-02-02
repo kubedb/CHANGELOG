@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-02T03:10:31.853220516Z",
+  "release_date": "2024-02-02T03:20:50.818572006Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -2518,6 +2518,88 @@
             {
               "SHA": "25e29443",
               "Subject": "Use k8s 1.29 client libs (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "93116fb5",
+              "Subject": "Prepare for release v0.17.0 (#95)"
+            },
+            {
+              "SHA": "a49ecca7",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#94)"
+            },
+            {
+              "SHA": "5f8de57b",
+              "Subject": "Update deps (#93)"
+            },
+            {
+              "SHA": "8c22ce2d",
+              "Subject": "Update deps (#92)"
+            },
+            {
+              "SHA": "f9cf0b11",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "98914ade",
+              "Subject": "Add kafka connector webhook apitypes (#90)"
+            },
+            {
+              "SHA": "1184db7a",
+              "Subject": "Fix solr webhook"
+            },
+            {
+              "SHA": "2a84cedb",
+              "Subject": "Prepare for release v0.17.0-beta.1 (#89)"
+            },
+            {
+              "SHA": "bb4a5c22",
+              "Subject": "Add kafka connect-cluster (#87)"
+            },
+            {
+              "SHA": "c46c6662",
+              "Subject": "Add new Database support (#88)"
+            },
+            {
+              "SHA": "c6387e9e",
+              "Subject": "Set default kubebuilder client for autoscaler (#86)"
+            },
+            {
+              "SHA": "14c07899",
+              "Subject": "Incorporate apimachinery (#85)"
+            },
+            {
+              "SHA": "266c79a0",
+              "Subject": "Add kafka ops request validator (#84)"
+            },
+            {
+              "SHA": "528b8463",
+              "Subject": "Fix webhook handlers (#83)"
+            },
+            {
+              "SHA": "dfdeb6c3",
+              "Subject": "Prepare for release v0.17.0-beta.0 (#82)"
+            },
+            {
+              "SHA": "bf54df2a",
+              "Subject": "Update deps (#81)"
+            },
+            {
+              "SHA": "c7d17faa",
+              "Subject": "Update deps (#79)"
+            },
+            {
+              "SHA": "170573b1",
+              "Subject": "Use k8s 1.29 client libs (#78)"
             }
           ]
         }

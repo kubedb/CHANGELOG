@@ -866,6 +866,31 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.17.0](https://github.com/kubedb/webhook-server/releases/tag/v0.17.0)
+
+- [93116fb5](https://github.com/kubedb/webhook-server/commit/93116fb5) Prepare for release v0.17.0 (#95)
+- [a49ecca7](https://github.com/kubedb/webhook-server/commit/a49ecca7) Prepare for release v0.17.0-rc.1 (#94)
+- [5f8de57b](https://github.com/kubedb/webhook-server/commit/5f8de57b) Update deps (#93)
+- [8c22ce2d](https://github.com/kubedb/webhook-server/commit/8c22ce2d) Update deps (#92)
+- [f9cf0b11](https://github.com/kubedb/webhook-server/commit/f9cf0b11) Prepare for release v0.17.0-rc.0 (#91)
+- [98914ade](https://github.com/kubedb/webhook-server/commit/98914ade) Add kafka connector webhook apitypes (#90)
+- [1184db7a](https://github.com/kubedb/webhook-server/commit/1184db7a) Fix solr webhook
+- [2a84cedb](https://github.com/kubedb/webhook-server/commit/2a84cedb) Prepare for release v0.17.0-beta.1 (#89)
+- [bb4a5c22](https://github.com/kubedb/webhook-server/commit/bb4a5c22) Add kafka connect-cluster (#87)
+- [c46c6662](https://github.com/kubedb/webhook-server/commit/c46c6662) Add new Database support (#88)
+- [c6387e9e](https://github.com/kubedb/webhook-server/commit/c6387e9e) Set default kubebuilder client for autoscaler (#86)
+- [14c07899](https://github.com/kubedb/webhook-server/commit/14c07899) Incorporate apimachinery (#85)
+- [266c79a0](https://github.com/kubedb/webhook-server/commit/266c79a0) Add kafka ops request validator (#84)
+- [528b8463](https://github.com/kubedb/webhook-server/commit/528b8463) Fix webhook handlers (#83)
+- [dfdeb6c3](https://github.com/kubedb/webhook-server/commit/dfdeb6c3) Prepare for release v0.17.0-beta.0 (#82)
+- [bf54df2a](https://github.com/kubedb/webhook-server/commit/bf54df2a) Update deps (#81)
+- [c7d17faa](https://github.com/kubedb/webhook-server/commit/c7d17faa) Update deps (#79)
+- [170573b1](https://github.com/kubedb/webhook-server/commit/170573b1) Use k8s 1.29 client libs (#78)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.4](https://github.com/kubedb/zookeeper/releases/tag/v0.0.4)

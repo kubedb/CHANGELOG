@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-02T02:05:05.809573906Z",
+  "release_date": "2024-02-02T02:05:59.307562231Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -463,6 +463,24 @@
             {
               "SHA": "2fdcafa",
               "Subject": "Use k8s 1.29 client libs (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "19ac254",
+              "Subject": "Prepare for release v0.0.4 (#9)"
+            },
+            {
+              "SHA": "1135ae9",
+              "Subject": "Auth secret name change and codebase Refactor (#8)"
             }
           ]
         }

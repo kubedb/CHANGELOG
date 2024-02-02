@@ -148,6 +148,15 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.0.4](https://github.com/kubedb/ferretdb/releases/tag/v0.0.4)
+
+- [19ac254](https://github.com/kubedb/ferretdb/commit/19ac254) Prepare for release v0.0.4 (#9)
+- [1135ae9](https://github.com/kubedb/ferretdb/commit/1135ae9) Auth secret name change and codebase Refactor (#8)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.12.0](https://github.com/kubedb/kafka/releases/tag/v0.12.0)

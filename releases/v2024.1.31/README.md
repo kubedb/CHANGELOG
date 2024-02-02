@@ -760,6 +760,13 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.17.0](https://github.com/kubedb/schema-manager/releases/tag/v0.17.0)
+
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.0.4](https://github.com/kubedb/singlestore/releases/tag/v0.0.4)

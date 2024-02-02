@@ -69,6 +69,18 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2024.1.31](https://github.com/kubedb/bundles/releases/tag/v2024.1.31)
+
+- [9eeca92](https://github.com/kubedb/bundles/commit/9eeca92) Prepare for release v2024.1.31 (#82)
+- [c0edf4f](https://github.com/kubedb/bundles/commit/c0edf4f) Prepare for release v2024.1.28-rc.1 (#81)
+- [514231d](https://github.com/kubedb/bundles/commit/514231d) Prepare for release v2024.1.26-rc.0 (#80)
+- [46a480e](https://github.com/kubedb/bundles/commit/46a480e) Prepare for release v2024.1.19-beta.1 (#79)
+- [a9908b8](https://github.com/kubedb/bundles/commit/a9908b8) Prepare for release v2024.1.7-beta.0 (#78)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.41.0](https://github.com/kubedb/cli/releases/tag/v0.41.0)

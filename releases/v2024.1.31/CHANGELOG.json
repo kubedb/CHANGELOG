@@ -1,0 +1,2700 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.1.31",
+  "release_date": "2024-02-02T05:44:42.053671563Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.1.31",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "447a890af",
+              "Subject": "Update kubestash"
+            },
+            {
+              "SHA": "a81b9dc28",
+              "Subject": "Increase CPU resource for mongo versions >= 6 (#1140)"
+            },
+            {
+              "SHA": "c711b3abb",
+              "Subject": "ferretdb apm fix (#1138)"
+            },
+            {
+              "SHA": "02bd64dfa",
+              "Subject": "Update security context based on version (#1137)"
+            },
+            {
+              "SHA": "2a63b8b1a",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "2293744e3",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "32a0f2944",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "c389dcb17",
+              "Subject": "Add Singlestore Config Type (#1136)"
+            },
+            {
+              "SHA": "ef7f62fbd",
+              "Subject": "Defaulting RunAsGroup (#1134)"
+            },
+            {
+              "SHA": "e08f63ba0",
+              "Subject": "Minox fixes in rlease (#1135)"
+            },
+            {
+              "SHA": "760f1c554",
+              "Subject": "Ferretdb webhook and apis updated (#1132)"
+            },
+            {
+              "SHA": "958de8ec3",
+              "Subject": "Fix spelling mistakes in dashboard. (#1133)"
+            },
+            {
+              "SHA": "f614ab976",
+              "Subject": "Fix release issues and add version 28.0.1 (#1131)"
+            },
+            {
+              "SHA": "df53756a3",
+              "Subject": "Fix dashboard config merger command. (#1126)"
+            },
+            {
+              "SHA": "4b8a46ab1",
+              "Subject": "Add kafka connector webhook (#1128)"
+            },
+            {
+              "SHA": "3e06dc03a",
+              "Subject": "Update Rabbitmq helpers and webhooks (#1130)"
+            },
+            {
+              "SHA": "23153f41f",
+              "Subject": "Add ZooKeeper Standalone Mode (#1129)"
+            },
+            {
+              "SHA": "650406ba8",
+              "Subject": "Remove replica condition for Pgpool (#1127)"
+            },
+            {
+              "SHA": "dbd8e0679",
+              "Subject": "Update docker/docker"
+            },
+            {
+              "SHA": "a28b2662e",
+              "Subject": "Add validator to check negative number of replicas. (#1124)"
+            },
+            {
+              "SHA": "cc189c3c8",
+              "Subject": "Add utilities to extract databaseInfo (#1123)"
+            },
+            {
+              "SHA": "ceef191e0",
+              "Subject": "Fix short name for FerretDBVersion"
+            },
+            {
+              "SHA": "ef49cbfa8",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f85d14100",
+              "Subject": "Without non-root (#1122)"
+            },
+            {
+              "SHA": "79fd675a0",
+              "Subject": "Add `PausedBackups` field into `OpsRequestStatus` (#1114)"
+            },
+            {
+              "SHA": "778a1af25",
+              "Subject": "Add FerretDB Apis (#1119)"
+            },
+            {
+              "SHA": "329083aa6",
+              "Subject": "Add missing entries while ignoring openapi schema (#1121)"
+            },
+            {
+              "SHA": "0f8ac9110",
+              "Subject": "Fix API for new Databases (#1120)"
+            },
+            {
+              "SHA": "b625c64c5",
+              "Subject": "Fix issues with Pgpool HealthChecker field and version check in webhook (#1118)"
+            },
+            {
+              "SHA": "e78c6ff74",
+              "Subject": "Remove unnecessary apis for singlestore (#1117)"
+            },
+            {
+              "SHA": "6e98cd41c",
+              "Subject": "Add Rabbitmq API (#1109)"
+            },
+            {
+              "SHA": "e7a088faf",
+              "Subject": "Remove api call from Solr setDefaults. (#1116)"
+            },
+            {
+              "SHA": "a73a825b7",
+              "Subject": "Add Solr API (#1110)"
+            },
+            {
+              "SHA": "9d6870498",
+              "Subject": "Pgpool Backend Set to Required (#1113)"
+            },
+            {
+              "SHA": "72d44aef7",
+              "Subject": "Fix ElasticsearchDashboard constants"
+            },
+            {
+              "SHA": "0c40a7698",
+              "Subject": "Change dashboard api group to elasticsearch (#1112)"
+            },
+            {
+              "SHA": "85e4ae232",
+              "Subject": "Add ZooKeeper API (#1104)"
+            },
+            {
+              "SHA": "ee446682d",
+              "Subject": "Add Pgpool apis (#1103)"
+            },
+            {
+              "SHA": "4995ebf3d",
+              "Subject": "Add Druid API (#1111)"
+            },
+            {
+              "SHA": "556a36dfe",
+              "Subject": "Add SingleStore APIS (#1108)"
+            },
+            {
+              "SHA": "a72bb1ffc",
+              "Subject": "Add runAsGroup field in mgVersion api (#1107)"
+            },
+            {
+              "SHA": "1ee5ee41d",
+              "Subject": "Add Kafka Connect Cluster and Connector APIs (#1066)"
+            },
+            {
+              "SHA": "2fd99ee82",
+              "Subject": "Fix replica count for arbiter & hidden node (#1106)"
+            },
+            {
+              "SHA": "4e194f0a2",
+              "Subject": "Implement validator for autoscalers (#1105)"
+            },
+            {
+              "SHA": "6a4545928",
+              "Subject": "Add kubestash controller for changing kubeDB phase (#1096)"
+            },
+            {
+              "SHA": "447577539",
+              "Subject": "Ignore validators.autoscaling.kubedb.com webhook handlers"
+            },
+            {
+              "SHA": "45cbf75e3",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "dc224c1a1",
+              "Subject": "Remove crd informer (#1102)"
+            },
+            {
+              "SHA": "87c402a1a",
+              "Subject": "Remove discovery.ResourceMapper (#1101)"
+            },
+            {
+              "SHA": "a1d475ceb",
+              "Subject": "Replace deprecated PollImmediate (#1100)"
+            },
+            {
+              "SHA": "75db4a378",
+              "Subject": "Add ConfigureOpenAPI helper (#1099)"
+            },
+            {
+              "SHA": "83be295b0",
+              "Subject": "update sidekick deps"
+            },
+            {
+              "SHA": "032b27211",
+              "Subject": "Fix linter"
+            },
+            {
+              "SHA": "389a934c7",
+              "Subject": "Use k8s 1.29 client libs (#1093)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2024.1.31",
+          "commits": [
+            {
+              "SHA": "9eeca92",
+              "Subject": "Prepare for release v2024.1.31 (#82)"
+            },
+            {
+              "SHA": "c0edf4f",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#81)"
+            },
+            {
+              "SHA": "514231d",
+              "Subject": "Prepare for release v2024.1.26-rc.0 (#80)"
+            },
+            {
+              "SHA": "46a480e",
+              "Subject": "Prepare for release v2024.1.19-beta.1 (#79)"
+            },
+            {
+              "SHA": "a9908b8",
+              "Subject": "Prepare for release v2024.1.7-beta.0 (#78)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "8ff0608c",
+              "Subject": "Prepare for release v0.41.0 (#755)"
+            },
+            {
+              "SHA": "7aeaa861",
+              "Subject": "Monitor CLI added for check-connection and aggregate all monitor CLI (#754)"
+            },
+            {
+              "SHA": "a67dadc9",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#753)"
+            },
+            {
+              "SHA": "d1b206ee",
+              "Subject": "Update deps (#752)"
+            },
+            {
+              "SHA": "50f15d19",
+              "Subject": "Update deps (#751)"
+            },
+            {
+              "SHA": "64ad0b63",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#749)"
+            },
+            {
+              "SHA": "d188eae6",
+              "Subject": "Grafana dashboard's metric checking CLI (#740)"
+            },
+            {
+              "SHA": "234b7051",
+              "Subject": "Prepare for release v0.41.0-beta.1 (#748)"
+            },
+            {
+              "SHA": "1ebdd532",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "c0165e83",
+              "Subject": "Prepare for release v0.41.0-beta.0 (#747)"
+            },
+            {
+              "SHA": "d9c905e5",
+              "Subject": "Update deps (#746)"
+            },
+            {
+              "SHA": "bc415a1d",
+              "Subject": "Update deps (#745)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "a45ec91",
+              "Subject": "Prepare for release v0.0.4 (#13)"
+            },
+            {
+              "SHA": "39cec60",
+              "Subject": "Fix deploy-to-kind make target"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.0.10",
+          "commits": [
+            {
+              "SHA": "902c39a0",
+              "Subject": "Prepare for release v0.0.10 (#86)"
+            },
+            {
+              "SHA": "377f8591",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "67567b71",
+              "Subject": "Update deps (#85)"
+            },
+            {
+              "SHA": "4e2471e3",
+              "Subject": "Update deps (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.1.31",
+          "commits": [
+            {
+              "SHA": "7dd50bd8",
+              "Subject": "Prepare for release v2024.1.31 (#608)"
+            },
+            {
+              "SHA": "efe4443c",
+              "Subject": "Prepare for release v2024.1.28-rc.1 (#605)"
+            },
+            {
+              "SHA": "6efc212b",
+              "Subject": "Update docs for kubedb/cli@a67dadc9 (#604)"
+            },
+            {
+              "SHA": "e85ac659",
+              "Subject": "Prepare for release v2024.1.26-rc.0 (#601)"
+            },
+            {
+              "SHA": "9722677b",
+              "Subject": "Prepare for release v2024.1.19-beta.1 (#597)"
+            },
+            {
+              "SHA": "89942a95",
+              "Subject": "Prepare for release v2024.1.7-beta.0 (#596)"
+            },
+            {
+              "SHA": "e1590231",
+              "Subject": "Update Redis Docs (#595)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "8d4fdb6",
+              "Subject": "Prepare for release v0.0.4 (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "3d0feb70f",
+              "Subject": "Prepare for release v0.41.0 (#704)"
+            },
+            {
+              "SHA": "f287ef9f1",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#703)"
+            },
+            {
+              "SHA": "fcabe6bae",
+              "Subject": "Update deps (#702)"
+            },
+            {
+              "SHA": "861d01f30",
+              "Subject": "Update deps (#701)"
+            },
+            {
+              "SHA": "69735e9e1",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#700)"
+            },
+            {
+              "SHA": "c410b39f5",
+              "Subject": "Prepare for release v0.41.0-beta.1 (#699)"
+            },
+            {
+              "SHA": "3394f1d13",
+              "Subject": "Use ptr.Deref(); Update deps"
+            },
+            {
+              "SHA": "f00ee052e",
+              "Subject": "Update ci & makefile for crd-manager (#698)"
+            },
+            {
+              "SHA": "e37e6d631",
+              "Subject": "Add catalog client in scheme. (#697)"
+            },
+            {
+              "SHA": "a46bfd41b",
+              "Subject": "Add Support for DB phase change for restoring using KubeStash (#696)"
+            },
+            {
+              "SHA": "9cbac2fc4",
+              "Subject": "Update makefile for dynamic crd installer (#695)"
+            },
+            {
+              "SHA": "3ab4d77d2",
+              "Subject": "Prepare for release v0.41.0-beta.0 (#694)"
+            },
+            {
+              "SHA": "c38c61cbc",
+              "Subject": "Dynamically start crd controller (#693)"
+            },
+            {
+              "SHA": "6a798d309",
+              "Subject": "Update deps (#692)"
+            },
+            {
+              "SHA": "bdf034a49",
+              "Subject": "Update deps (#691)"
+            },
+            {
+              "SHA": "ea22eecb2",
+              "Subject": "Add openapi configuration for webhook server (#690)"
+            },
+            {
+              "SHA": "b97636cd1",
+              "Subject": "Update lint command"
+            },
+            {
+              "SHA": "0221ac14e",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b4cb8d603",
+              "Subject": "Use k8s 1.29 client libs (#689)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "11a8a76",
+              "Subject": "Prepare for release v0.4.0 (#19)"
+            },
+            {
+              "SHA": "675caf7",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#18)"
+            },
+            {
+              "SHA": "18ea6da",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#17)"
+            },
+            {
+              "SHA": "584dfd9",
+              "Subject": "Prepare for release v0.4.0-beta.1 (#16)"
+            },
+            {
+              "SHA": "5e9aef5",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#15)"
+            },
+            {
+              "SHA": "2fdcafa",
+              "Subject": "Use k8s 1.29 client libs (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "19ac254",
+              "Subject": "Prepare for release v0.0.4 (#9)"
+            },
+            {
+              "SHA": "1135ae9",
+              "Subject": "Auth secret name change and codebase Refactor (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.1.31",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "8ffe42e6",
+              "Subject": "Prepare for release v0.12.0 (#76)"
+            },
+            {
+              "SHA": "511914c2",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#75)"
+            },
+            {
+              "SHA": "fb908cf2",
+              "Subject": "Update deps (#74)"
+            },
+            {
+              "SHA": "cccaf86c",
+              "Subject": "Update deps (#73)"
+            },
+            {
+              "SHA": "9d73e3ce",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#71)"
+            },
+            {
+              "SHA": "c1d08f75",
+              "Subject": "Remove cassandra, clickhouse, etcd flags"
+            },
+            {
+              "SHA": "e7283583",
+              "Subject": "Fix podtemplate containers reference isuue (#70)"
+            },
+            {
+              "SHA": "6d04bf0f",
+              "Subject": "Add termination policy for kafka and connect cluster (#69)"
+            },
+            {
+              "SHA": "34f4967f",
+              "Subject": "Prepare for release v0.12.0-beta.1 (#68)"
+            },
+            {
+              "SHA": "7176931c",
+              "Subject": "Move Kafka Podtemplate to ofshoot-api v2 (#66)"
+            },
+            {
+              "SHA": "9454adf6",
+              "Subject": "Update ci & makefile for crd-manager (#67)"
+            },
+            {
+              "SHA": "fda770d8",
+              "Subject": "Add kafka connector controller (#65)"
+            },
+            {
+              "SHA": "6ed0ccd4",
+              "Subject": "Add Kafka connect  controller (#44)"
+            },
+            {
+              "SHA": "18e9a45c",
+              "Subject": "update deps (#64)"
+            },
+            {
+              "SHA": "a7dfb409",
+              "Subject": "Update makefile for dynamic crd installer (#63)"
+            },
+            {
+              "SHA": "f9350578",
+              "Subject": "Prepare for release v0.12.0-beta.0 (#62)"
+            },
+            {
+              "SHA": "692f2bef",
+              "Subject": "Dynamically start crd controller (#61)"
+            },
+            {
+              "SHA": "a50dc8b4",
+              "Subject": "Update deps (#60)"
+            },
+            {
+              "SHA": "7ff28ed7",
+              "Subject": "Update deps (#59)"
+            },
+            {
+              "SHA": "16130571",
+              "Subject": "Add openapi configuration for webhook server (#58)"
+            },
+            {
+              "SHA": "cc465de9",
+              "Subject": "Use k8s 1.29 client libs (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "7d51761",
+              "Subject": "Prepare for release v0.4.0 (#40)"
+            },
+            {
+              "SHA": "5daf9ce",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#39)"
+            },
+            {
+              "SHA": "b7ec4a4",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "c77b4ae",
+              "Subject": "Prepare for release v0.4.0-beta.1 (#37)"
+            },
+            {
+              "SHA": "6a8a822",
+              "Subject": "Update component name (#35)"
+            },
+            {
+              "SHA": "c315615",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#36)"
+            },
+            {
+              "SHA": "5ce328d",
+              "Subject": "Use k8s 1.29 client libs (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "bcf4484c9",
+              "Subject": "Fix mariadb health check (#256)"
+            },
+            {
+              "SHA": "fcfa0e966",
+              "Subject": "Prepare for release v0.25.0 (#257)"
+            },
+            {
+              "SHA": "2ca441314",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#255)"
+            },
+            {
+              "SHA": "dad5b837a",
+              "Subject": "Update deps (#254)"
+            },
+            {
+              "SHA": "a210c8675",
+              "Subject": "Fix appbinding scheme (#251)"
+            },
+            {
+              "SHA": "81f985cd7",
+              "Subject": "Update deps (#253)"
+            },
+            {
+              "SHA": "4bdcd6cca",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#252)"
+            },
+            {
+              "SHA": "c4d4942f8",
+              "Subject": "Prepare for release v0.25.0-beta.1 (#250)"
+            },
+            {
+              "SHA": "25fe39177",
+              "Subject": "Use ptr.Deref(); Update deps"
+            },
+            {
+              "SHA": "c76704cc8",
+              "Subject": "Fix ci & makefile for crd-manager (#249)"
+            },
+            {
+              "SHA": "67396abb9",
+              "Subject": "Incorporate with apimachinery package name change from `stash` to `restore` (#248)"
+            },
+            {
+              "SHA": "b93ddce3d",
+              "Subject": "Prepare for release v0.25.0-beta.0 (#247)"
+            },
+            {
+              "SHA": "8099af6d9",
+              "Subject": "Dynamically start crd controller (#246)"
+            },
+            {
+              "SHA": "0a9dd9e03",
+              "Subject": "Update deps (#245)"
+            },
+            {
+              "SHA": "5c548629e",
+              "Subject": "Update deps (#244)"
+            },
+            {
+              "SHA": "0f9ea4f20",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "89641d3c7",
+              "Subject": "Use k8s 1.29 client libs (#242)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "bd6798f",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "8743316",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#7)"
+            },
+            {
+              "SHA": "90b9d66",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "e8564fe",
+              "Subject": "Prepare for release v0.1.0-beta.1 (#5)"
+            },
+            {
+              "SHA": "e5e8945",
+              "Subject": "Don't use fail-fast"
+            },
+            {
+              "SHA": "8c8e09a",
+              "Subject": "Prepare for release v0.1.0-beta.0 (#4)"
+            },
+            {
+              "SHA": "90ae04c",
+              "Subject": "Use k8s 1.29 client libs (#3)"
+            },
+            {
+              "SHA": "b3067c8",
+              "Subject": "Fix binlog command"
+            },
+            {
+              "SHA": "5cc0b6a",
+              "Subject": "Fix release workflow"
+            },
+            {
+              "SHA": "910b7ce",
+              "Subject": "Prepare for release v0.1.0 (#1)"
+            },
+            {
+              "SHA": "3801668",
+              "Subject": "mysql -> mariadb"
+            },
+            {
+              "SHA": "4e905fb",
+              "Subject": "Implemenet new algorithm for archiver and restorer (#5)"
+            },
+            {
+              "SHA": "22701c8",
+              "Subject": "Fix 5.7.x build"
+            },
+            {
+              "SHA": "6da2b1c",
+              "Subject": "Update build matrix"
+            },
+            {
+              "SHA": "e2f6244",
+              "Subject": "Use separate dockerfile per mysql version (#9)"
+            },
+            {
+              "SHA": "e800623",
+              "Subject": "Prepare for release v0.2.0 (#8)"
+            },
+            {
+              "SHA": "b9f6ec5",
+              "Subject": "Install mysqlbinlog (#7)"
+            },
+            {
+              "SHA": "c46d991",
+              "Subject": "Use appscode-images as base image (#6)"
+            },
+            {
+              "SHA": "721eaa8",
+              "Subject": "Prepare for release v0.1.0 (#4)"
+            },
+            {
+              "SHA": "8c65d14",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#3)"
+            },
+            {
+              "SHA": "f79286a",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#2)"
+            },
+            {
+              "SHA": "dcd2e30",
+              "Subject": "Fix wal-g binary"
+            },
+            {
+              "SHA": "6c20a4a",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "f034e7b",
+              "Subject": "Add build script (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6e2b4dee",
+              "Subject": "Prepare for release v0.21.0 (#107)"
+            },
+            {
+              "SHA": "e0e9c489",
+              "Subject": "Fix MariaDB Health Check (#106)"
+            },
+            {
+              "SHA": "4289bcd1",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "34f610f7",
+              "Subject": "Update deps (#104)"
+            },
+            {
+              "SHA": "13dbe3f7",
+              "Subject": "Update deps (#103)"
+            },
+            {
+              "SHA": "15a83758",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "1c30e710",
+              "Subject": "Prepare for release v0.21.0-beta.1 (#101)"
+            },
+            {
+              "SHA": "28677618",
+              "Subject": "Prepare for release v0.21.0-beta.0 (#100)"
+            },
+            {
+              "SHA": "655a2c66",
+              "Subject": "Update deps (#99)"
+            },
+            {
+              "SHA": "ef206cfe",
+              "Subject": "Update deps (#98)"
+            },
+            {
+              "SHA": "ef72c98b",
+              "Subject": "Use k8s 1.29 client libs (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "d28c59f",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "299687e",
+              "Subject": "Update README.md (#9)"
+            },
+            {
+              "SHA": "00e8552",
+              "Subject": "Update deps (#8)"
+            },
+            {
+              "SHA": "ac2caaf",
+              "Subject": "Update pause and resume queries (#1)"
+            },
+            {
+              "SHA": "066b41c",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#7)"
+            },
+            {
+              "SHA": "ebd73c7",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "adac38d",
+              "Subject": "Prepare for release v0.1.0-beta.1 (#5)"
+            },
+            {
+              "SHA": "09f68b7",
+              "Subject": "Prepare for release v0.1.0-beta.0 (#4)"
+            },
+            {
+              "SHA": "7407444",
+              "Subject": "Use k8s 1.29 client libs (#3)"
+            },
+            {
+              "SHA": "933e138",
+              "Subject": "Prepare for release v0.1.0 (#2)"
+            },
+            {
+              "SHA": "5d38f94",
+              "Subject": "Enable GH actions"
+            },
+            {
+              "SHA": "2a97178",
+              "Subject": "Replace mysql with mariadb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "c43923ba",
+              "Subject": "Prepare for release v0.34.0 (#423)"
+            },
+            {
+              "SHA": "928f00e2",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#422)"
+            },
+            {
+              "SHA": "42aa5dcc",
+              "Subject": "Update deps (#421)"
+            },
+            {
+              "SHA": "d9fd6358",
+              "Subject": "Update deps (#420)"
+            },
+            {
+              "SHA": "3ae5739b",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#419)"
+            },
+            {
+              "SHA": "754ba398",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#418)"
+            },
+            {
+              "SHA": "abd9dbb6",
+              "Subject": "Incorporate with apimachinery package name change from stash to restore (#417)"
+            },
+            {
+              "SHA": "6fe1686a",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#416)"
+            },
+            {
+              "SHA": "1cfb0544",
+              "Subject": "Dynamically start crd controller (#415)"
+            },
+            {
+              "SHA": "171faff2",
+              "Subject": "Update deps (#414)"
+            },
+            {
+              "SHA": "639495c7",
+              "Subject": "Update deps (#413)"
+            },
+            {
+              "SHA": "223d295a",
+              "Subject": "Use k8s 1.29 client libs (#412)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "92691f3f0",
+              "Subject": "Prepare for release v0.34.0 (#611)"
+            },
+            {
+              "SHA": "2e96a7338",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#610)"
+            },
+            {
+              "SHA": "9a7e16bdb",
+              "Subject": "Update deps (#609)"
+            },
+            {
+              "SHA": "369b51e8a",
+              "Subject": "Update deps (#608)"
+            },
+            {
+              "SHA": "278ce846b",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#607)"
+            },
+            {
+              "SHA": "c0c58448b",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#606)"
+            },
+            {
+              "SHA": "5df39d09f",
+              "Subject": "Update ci mgVersion;  Fix pointer dereference issue (#605)"
+            },
+            {
+              "SHA": "e2781eaea",
+              "Subject": "Run ci with specific crd-manager branch (#604)"
+            },
+            {
+              "SHA": "b57bc47ae",
+              "Subject": "Add kubestash for health check (#603)"
+            },
+            {
+              "SHA": "62cb9c816",
+              "Subject": "Install crd-manager specifiying DATABASE (#602)"
+            },
+            {
+              "SHA": "6bf45fe72",
+              "Subject": "7.0.4 -> 7.0.5; update deps"
+            },
+            {
+              "SHA": "e5b9841e5",
+              "Subject": "Fix oplog backup directory (#601)"
+            },
+            {
+              "SHA": "452b785f0",
+              "Subject": "Add  Support for DB phase change for restoring using `KubeStash` (#586)"
+            },
+            {
+              "SHA": "35d93d0bc",
+              "Subject": "add ssl/tls args command (#595)"
+            },
+            {
+              "SHA": "7ff672382",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#600)"
+            },
+            {
+              "SHA": "beca63a48",
+              "Subject": "Dynamically start crd controller (#599)"
+            },
+            {
+              "SHA": "17d90616d",
+              "Subject": "Update deps (#598)"
+            },
+            {
+              "SHA": "bc25ca001",
+              "Subject": "Update deps (#597)"
+            },
+            {
+              "SHA": "4ce5a94a4",
+              "Subject": "Configure openapi for webhook server (#596)"
+            },
+            {
+              "SHA": "8d8206db3",
+              "Subject": "Update ci versions"
+            },
+            {
+              "SHA": "bfdd519fc",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "01a7c2685",
+              "Subject": "Use k8s 1.29 client libs (#594)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "06a2057",
+              "Subject": "Prepare for release v0.2.0 (#15)"
+            },
+            {
+              "SHA": "5b28353",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#14)"
+            },
+            {
+              "SHA": "afd4fdb",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "5680265",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#12)"
+            },
+            {
+              "SHA": "72693c8",
+              "Subject": "Fix component driver status (#11)"
+            },
+            {
+              "SHA": "0ea73ee",
+              "Subject": "Update deps (#10)"
+            },
+            {
+              "SHA": "ef74421",
+              "Subject": "Prepare for release v0.2.0-beta.0 (#9)"
+            },
+            {
+              "SHA": "c2c9bd4",
+              "Subject": "Use k8s 1.29 client libs (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "26a2566",
+              "Subject": "Prepare for release v0.4.0 (#26)"
+            },
+            {
+              "SHA": "3fa6286",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#25)"
+            },
+            {
+              "SHA": "bff5aa4",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#24)"
+            },
+            {
+              "SHA": "6ae8ae2",
+              "Subject": "Prepare for release v0.4.0-beta.1 (#23)"
+            },
+            {
+              "SHA": "d8e1636",
+              "Subject": "Reorder the execution of cleanup funcs (#22)"
+            },
+            {
+              "SHA": "4f0b021",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#20)"
+            },
+            {
+              "SHA": "91ee7c0",
+              "Subject": "Use k8s 1.29 client libs (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "ed8d2fcd8",
+              "Subject": "Prepare for release v0.34.0 (#609)"
+            },
+            {
+              "SHA": "6088a1f9d",
+              "Subject": "Add azure, gcs support for backup and restore archiver (#595)"
+            },
+            {
+              "SHA": "f31332908",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#607)"
+            },
+            {
+              "SHA": "0f3ddf233",
+              "Subject": "Update deps (#606)"
+            },
+            {
+              "SHA": "1a5d7bd13",
+              "Subject": "Fix appbinding scheme (#603)"
+            },
+            {
+              "SHA": "c643ded94",
+              "Subject": "Update deps (#605)"
+            },
+            {
+              "SHA": "aaaf3aad0",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#604)"
+            },
+            {
+              "SHA": "d2f2eba7d",
+              "Subject": "Refactor (#602)"
+            },
+            {
+              "SHA": "fa00fc424",
+              "Subject": "Fix provider env in sidekick (#601)"
+            },
+            {
+              "SHA": "e75f6e26e",
+              "Subject": "Fix restore service selector (#600)"
+            },
+            {
+              "SHA": "e9dbf269c",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#599)"
+            },
+            {
+              "SHA": "44eda2d25",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#598)"
+            },
+            {
+              "SHA": "16dd46377",
+              "Subject": "Fix pointer dereference issue (#597)"
+            },
+            {
+              "SHA": "334c1a1dd",
+              "Subject": "Update ci & makefile for crd-manager (#596)"
+            },
+            {
+              "SHA": "edb9b1a11",
+              "Subject": "Fix binlog backup directory (#587)"
+            },
+            {
+              "SHA": "fc6d70303",
+              "Subject": "Add Support for DB phase change for restoring using KubeStash (#594)"
+            },
+            {
+              "SHA": "354f6f3e1",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#593)"
+            },
+            {
+              "SHA": "01498d025",
+              "Subject": "Dynamically start crd controller (#592)"
+            },
+            {
+              "SHA": "e68015cfd",
+              "Subject": "Update deps (#591)"
+            },
+            {
+              "SHA": "67029acc9",
+              "Subject": "Update deps (#590)"
+            },
+            {
+              "SHA": "87d2de4a1",
+              "Subject": "Include kubestash catalog chart in makefile (#588)"
+            },
+            {
+              "SHA": "e5874ffb7",
+              "Subject": "Add openapi configuration for webhook server (#589)"
+            },
+            {
+              "SHA": "977d3cd38",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "3df868533",
+              "Subject": "Use k8s 1.29 client libs (#586)"
+            },
+            {
+              "SHA": "d159ad052",
+              "Subject": "Ensure MySQLArchiver crd (#585)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "ed748c7",
+              "Subject": "Prepare for release v0.2.0 (#20)"
+            },
+            {
+              "SHA": "4d1c341",
+              "Subject": "Remove example files (#17)"
+            },
+            {
+              "SHA": "9c0545e",
+              "Subject": "Add azure, gcs support (#13)"
+            },
+            {
+              "SHA": "d0fbef5",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#19)"
+            },
+            {
+              "SHA": "a6fdf50",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#18)"
+            },
+            {
+              "SHA": "718511e",
+              "Subject": "Remove obsolete files (#16)"
+            },
+            {
+              "SHA": "07fc1eb",
+              "Subject": "Fix mysql-community-common version in docker file"
+            },
+            {
+              "SHA": "e5bdae3",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#15)"
+            },
+            {
+              "SHA": "7ef752c",
+              "Subject": "Refactor + Cleanup wal-g example files (#14)"
+            },
+            {
+              "SHA": "5857a8d",
+              "Subject": "Don't use fail-fast"
+            },
+            {
+              "SHA": "5833776",
+              "Subject": "Prepare for release v0.2.0-beta.0 (#12)"
+            },
+            {
+              "SHA": "f3e68b2",
+              "Subject": "Use k8s 1.29 client libs (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "ef84bd37",
+              "Subject": "Prepare for release v0.19.0 (#103)"
+            },
+            {
+              "SHA": "40a2b6eb",
+              "Subject": "Prepare for release v0.19.0-rc.1 (#102)"
+            },
+            {
+              "SHA": "8b80958d",
+              "Subject": "Update deps (#101)"
+            },
+            {
+              "SHA": "df438239",
+              "Subject": "Update deps (#100)"
+            },
+            {
+              "SHA": "1bc71d04",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#99)"
+            },
+            {
+              "SHA": "59a11671",
+              "Subject": "Prepare for release v0.19.0-beta.1 (#98)"
+            },
+            {
+              "SHA": "e0cc149f",
+              "Subject": "Prepare for release v0.19.0-beta.0 (#97)"
+            },
+            {
+              "SHA": "67aeb229",
+              "Subject": "Update deps (#96)"
+            },
+            {
+              "SHA": "2fa4423f",
+              "Subject": "Update deps (#95)"
+            },
+            {
+              "SHA": "b0735769",
+              "Subject": "Use k8s 1.29 client libs (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "61d40c2",
+              "Subject": "Prepare for release v0.2.0 (#8)"
+            },
+            {
+              "SHA": "ac60bf4",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#7)"
+            },
+            {
+              "SHA": "21e9470",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "d5771cf",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#5)"
+            },
+            {
+              "SHA": "b4ffc6f",
+              "Subject": "Fix component driver status & Update deps (#3)"
+            },
+            {
+              "SHA": "d285eff",
+              "Subject": "Prepare for release v0.2.0-beta.0 (#4)"
+            },
+            {
+              "SHA": "7a46441",
+              "Subject": "Use k8s 1.29 client libs (#2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "416d3cd",
+              "Subject": "Prepare for release v0.4.0 (#24)"
+            },
+            {
+              "SHA": "55897ab",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#23)"
+            },
+            {
+              "SHA": "eedf2e7",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#22)"
+            },
+            {
+              "SHA": "105888a",
+              "Subject": "Prepare for release v0.4.0-beta.1 (#21)"
+            },
+            {
+              "SHA": "b42d0cf",
+              "Subject": "Removed `--all-databases` flag for restoring (#20)"
+            },
+            {
+              "SHA": "742d2ce",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#19)"
+            },
+            {
+              "SHA": "0402847",
+              "Subject": "Use k8s 1.29 client libs (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "6a5deed",
+              "Subject": "Update deps (#40)"
+            },
+            {
+              "SHA": "0078f09",
+              "Subject": "Update deps (#39)"
+            },
+            {
+              "SHA": "85f8c6f",
+              "Subject": "Update deps (#38)"
+            },
+            {
+              "SHA": "7dd201c",
+              "Subject": "Use k8s 1.29 client libs (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "279330e09",
+              "Subject": "Prepare for release v0.28.0 (#354)"
+            },
+            {
+              "SHA": "b567db53a",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#353)"
+            },
+            {
+              "SHA": "c0ddb330b",
+              "Subject": "Update deps (#352)"
+            },
+            {
+              "SHA": "d461df3ed",
+              "Subject": "Fix appbinding scheme (#349)"
+            },
+            {
+              "SHA": "2752f7e36",
+              "Subject": "Update deps (#351)"
+            },
+            {
+              "SHA": "80cd3a030",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#350)"
+            },
+            {
+              "SHA": "475a5e328",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#348)"
+            },
+            {
+              "SHA": "4c1380ab7",
+              "Subject": "Incorporate with apimachinery package name change from `stash` to `restore` (#347)"
+            },
+            {
+              "SHA": "0ceb30284",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#346)"
+            },
+            {
+              "SHA": "e7d356062",
+              "Subject": "Dynamically start crd controller (#345)"
+            },
+            {
+              "SHA": "5d07b5655",
+              "Subject": "Update deps (#344)"
+            },
+            {
+              "SHA": "1a639f840",
+              "Subject": "Update deps (#343)"
+            },
+            {
+              "SHA": "4f8b24aba",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "e52540202",
+              "Subject": "Use k8s 1.29 client libs (#341)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "6fd3b3cd",
+              "Subject": "Prepare for release v0.14.0 (#63)"
+            },
+            {
+              "SHA": "da619fa3",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#62)"
+            },
+            {
+              "SHA": "c39daf56",
+              "Subject": "Update deps (#61)"
+            },
+            {
+              "SHA": "42dc1a95",
+              "Subject": "Update deps (#60)"
+            },
+            {
+              "SHA": "7581630e",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "560bc5c3",
+              "Subject": "Prepare for release v0.14.0-beta.1 (#58)"
+            },
+            {
+              "SHA": "963756eb",
+              "Subject": "Prepare for release v0.14.0-beta.0 (#57)"
+            },
+            {
+              "SHA": "5489bb8c",
+              "Subject": "Update deps (#56)"
+            },
+            {
+              "SHA": "a8424e18",
+              "Subject": "Update deps (#55)"
+            },
+            {
+              "SHA": "ee4add86",
+              "Subject": "Use k8s 1.29 client libs (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "7e7d32d9",
+              "Subject": "Prepare for release v0.25.0 (#154)"
+            },
+            {
+              "SHA": "9a720273",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#153)"
+            },
+            {
+              "SHA": "f103f1fc",
+              "Subject": "Update deps (#152)"
+            },
+            {
+              "SHA": "84b92d89",
+              "Subject": "Update deps (#151)"
+            },
+            {
+              "SHA": "41cc97b6",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#150)"
+            },
+            {
+              "SHA": "5298a177",
+              "Subject": "Fixed (#149)"
+            },
+            {
+              "SHA": "bc296307",
+              "Subject": "Prepare for release v0.25.0-beta.1 (#148)"
+            },
+            {
+              "SHA": "30973540",
+              "Subject": "Prepare for release v0.25.0-beta.0 (#147)"
+            },
+            {
+              "SHA": "7b84e198",
+              "Subject": "Update deps (#146)"
+            },
+            {
+              "SHA": "f1bfe818",
+              "Subject": "Update deps (#145)"
+            },
+            {
+              "SHA": "1de05a6e",
+              "Subject": "Use k8s 1.29 client libs (#144)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "f79abcdd",
+              "Subject": "Prepare for release v0.28.0 (#317)"
+            },
+            {
+              "SHA": "0ca01e53",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#316)"
+            },
+            {
+              "SHA": "4b76d2cb",
+              "Subject": "Update deps (#315)"
+            },
+            {
+              "SHA": "f32676bc",
+              "Subject": "Update deps (#314)"
+            },
+            {
+              "SHA": "e69aa743",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#313)"
+            },
+            {
+              "SHA": "55c248d5",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#312)"
+            },
+            {
+              "SHA": "1b86664a",
+              "Subject": "Incorporate with apimachinery package name change from stash to restore (#311)"
+            },
+            {
+              "SHA": "3c6bc335",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#310)"
+            },
+            {
+              "SHA": "73c5f6fb",
+              "Subject": "Dynamically start crd controller (#309)"
+            },
+            {
+              "SHA": "f9edc2cd",
+              "Subject": "Update deps (#308)"
+            },
+            {
+              "SHA": "d54251c0",
+              "Subject": "Update deps (#307)"
+            },
+            {
+              "SHA": "de40a35e",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "8c325577",
+              "Subject": "Use k8s 1.29 client libs (#305)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "b6546d3",
+              "Subject": "Prepare for release v0.0.4 (#12)"
+            },
+            {
+              "SHA": "6f7ebca",
+              "Subject": "Add daily to workflows (#10)"
+            },
+            {
+              "SHA": "18c06cd",
+              "Subject": "Fix InitConfiguration issue (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "cf1b27268",
+              "Subject": "Prepare for release v0.41.0 (#715)"
+            },
+            {
+              "SHA": "29aaa191b",
+              "Subject": "Add sub path for sidekick (#714)"
+            },
+            {
+              "SHA": "9f487d984",
+              "Subject": "Add postmaster arguments for exporter image (#713)"
+            },
+            {
+              "SHA": "071b26455",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#712)"
+            },
+            {
+              "SHA": "c9f1d5b68",
+              "Subject": "Update deps (#711)"
+            },
+            {
+              "SHA": "723fb80c0",
+              "Subject": "Update deps (#710)"
+            },
+            {
+              "SHA": "8135d3511",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#709)"
+            },
+            {
+              "SHA": "72a1ee294",
+              "Subject": "Prepare for release v0.41.0-beta.1 (#708)"
+            },
+            {
+              "SHA": "026598f44",
+              "Subject": "Prepare for release v0.41.0-beta.1 (#707)"
+            },
+            {
+              "SHA": "8af305aa4",
+              "Subject": "Use ptr.Deref(); Update deps"
+            },
+            {
+              "SHA": "c7c0652dc",
+              "Subject": "Update ci & makefile for crd-manager (#706)"
+            },
+            {
+              "SHA": "d468bdb34",
+              "Subject": "Fix wal backup directory (#705)"
+            },
+            {
+              "SHA": "c6992bed8",
+              "Subject": "Add Support for DB phase change for restoring using KubeStash (#704)"
+            },
+            {
+              "SHA": "d1bd909ba",
+              "Subject": "Prepare for release v0.41.0-beta.0 (#703)"
+            },
+            {
+              "SHA": "5e8101e39",
+              "Subject": "Dynamically start crd controller (#702)"
+            },
+            {
+              "SHA": "47dbbff53",
+              "Subject": "Update deps (#701)"
+            },
+            {
+              "SHA": "84f99c58b",
+              "Subject": "Disable fairness api"
+            },
+            {
+              "SHA": "a715765dc",
+              "Subject": "Set --restricted=false for ci tests (#700)"
+            },
+            {
+              "SHA": "fe9af5977",
+              "Subject": "Add Postgres test fix (#699)"
+            },
+            {
+              "SHA": "8bae88860",
+              "Subject": "Configure openapi for webhook server (#698)"
+            },
+            {
+              "SHA": "9ce2efce5",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "24e4e9ca5",
+              "Subject": "Use k8s 1.29 client libs (#697)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "a55baa8",
+              "Subject": "Prepare for release v0.2.0 (#21)"
+            },
+            {
+              "SHA": "8f66790",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#20)"
+            },
+            {
+              "SHA": "bff75cb",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#19)"
+            },
+            {
+              "SHA": "bb8c342",
+              "Subject": "Create directory for wal-backup (#18)"
+            },
+            {
+              "SHA": "c4405c1",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#17)"
+            },
+            {
+              "SHA": "c353dcd",
+              "Subject": "Don't use fail-fast"
+            },
+            {
+              "SHA": "a9cbe08",
+              "Subject": "Prepare for release v0.2.0-beta.0 (#16)"
+            },
+            {
+              "SHA": "183e97c",
+              "Subject": "Use k8s 1.29 client libs (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "5e0031f",
+              "Subject": "Prepare for release v0.2.0 (#18)"
+            },
+            {
+              "SHA": "369c9a3",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#17)"
+            },
+            {
+              "SHA": "87240d8",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#16)"
+            },
+            {
+              "SHA": "dc4f85e",
+              "Subject": "Prepare for release v0.2.0-beta.1 (#15)"
+            },
+            {
+              "SHA": "098365a",
+              "Subject": "Update README.md (#14)"
+            },
+            {
+              "SHA": "5ef571f",
+              "Subject": "Update deps (#13)"
+            },
+            {
+              "SHA": "f0e546a",
+              "Subject": "Prepare for release v0.2.0-beta.0 (#12)"
+            },
+            {
+              "SHA": "aae7294",
+              "Subject": "Use k8s 1.29 client libs (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "ebba4fa",
+              "Subject": "Checkout fake release branch for release workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "82f52c3",
+              "Subject": "Checkout fake release branch for release workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "b0d0e92cf",
+              "Subject": "Prepare for release v0.28.0 (#335)"
+            },
+            {
+              "SHA": "0ff6f90d2",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#334)"
+            },
+            {
+              "SHA": "382d3283e",
+              "Subject": "Update deps (#333)"
+            },
+            {
+              "SHA": "0b4da8101",
+              "Subject": "Update deps (#332)"
+            },
+            {
+              "SHA": "2fa5679d7",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#331)"
+            },
+            {
+              "SHA": "2cc590165",
+              "Subject": "Update ci & makefile for crd-manager (#326)"
+            },
+            {
+              "SHA": "79e29efdb",
+              "Subject": "Handle MySQL URL Parsing (#330)"
+            },
+            {
+              "SHA": "b3372a53d",
+              "Subject": "Fix MySQL Client and sync_user (#328)"
+            },
+            {
+              "SHA": "213ebfc43",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#327)"
+            },
+            {
+              "SHA": "8427158ec",
+              "Subject": "Incorporate with apimachinery package name change from stash to restore (#325)"
+            },
+            {
+              "SHA": "c0805050e",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#324)"
+            },
+            {
+              "SHA": "88ef1f1de",
+              "Subject": "Dynamically start crd controller (#323)"
+            },
+            {
+              "SHA": "8c0a96ac7",
+              "Subject": "Update deps (#322)"
+            },
+            {
+              "SHA": "e96797e48",
+              "Subject": "Update deps (#321)"
+            },
+            {
+              "SHA": "e8fd529b2",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b2e9a1df8",
+              "Subject": "Use k8s 1.29 client libs (#319)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "cbcc9132",
+              "Subject": "Prepare for release v0.0.4 (#9)"
+            },
+            {
+              "SHA": "89636ce7",
+              "Subject": "Remove standby service and fix init container security context (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "bd9d152b",
+              "Subject": "Prepare for release v0.34.0 (#523)"
+            },
+            {
+              "SHA": "5e171587",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#522)"
+            },
+            {
+              "SHA": "71665b9b",
+              "Subject": "Update deps (#521)"
+            },
+            {
+              "SHA": "302f1f19",
+              "Subject": "Update deps (#520)"
+            },
+            {
+              "SHA": "0703a513",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#519)"
+            },
+            {
+              "SHA": "b1a296b7",
+              "Subject": "Init sentinel before secret watcher (#518)"
+            },
+            {
+              "SHA": "01290634",
+              "Subject": "Prepare for release v0.34.0-beta.1 (#517)"
+            },
+            {
+              "SHA": "e51f93e1",
+              "Subject": "Fix panic (#516)"
+            },
+            {
+              "SHA": "dc75c163",
+              "Subject": "Update ci & makefile for crd-manager (#515)"
+            },
+            {
+              "SHA": "09688f35",
+              "Subject": "Add Support for DB phase change for restoring using KubeStash (#514)"
+            },
+            {
+              "SHA": "7e844ab1",
+              "Subject": "Prepare for release v0.34.0-beta.0 (#513)"
+            },
+            {
+              "SHA": "6318d04f",
+              "Subject": "Dynamically start crd controller (#512)"
+            },
+            {
+              "SHA": "92b8a3a9",
+              "Subject": "Update deps (#511)"
+            },
+            {
+              "SHA": "f0fb4c69",
+              "Subject": "Update deps (#510)"
+            },
+            {
+              "SHA": "c99d9498",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "90299544",
+              "Subject": "Use k8s 1.29 client libs (#508)"
+            },
+            {
+              "SHA": "fced7010",
+              "Subject": "Update redis versions in nightly tests (#507)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "cd9b64c3",
+              "Subject": "Prepare for release v0.20.0 (#94)"
+            },
+            {
+              "SHA": "055ceaf1",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#93)"
+            },
+            {
+              "SHA": "79575d26",
+              "Subject": "Update deps (#92)"
+            },
+            {
+              "SHA": "a5b4c4b4",
+              "Subject": "Update deps (#91)"
+            },
+            {
+              "SHA": "f09062c4",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "fd3b2112",
+              "Subject": "Prepare for release v0.20.0-beta.1 (#89)"
+            },
+            {
+              "SHA": "4c36accd",
+              "Subject": "Prepare for release v0.20.0-beta.0 (#88)"
+            },
+            {
+              "SHA": "c8658380",
+              "Subject": "Update deps (#87)"
+            },
+            {
+              "SHA": "c99c2e9b",
+              "Subject": "Update deps (#86)"
+            },
+            {
+              "SHA": "22c7beb4",
+              "Subject": "Use k8s 1.29 client libs (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "5436cb6",
+              "Subject": "Prepare for release v0.4.0 (#20)"
+            },
+            {
+              "SHA": "67a8942",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#19)"
+            },
+            {
+              "SHA": "968da13",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#18)"
+            },
+            {
+              "SHA": "fac6226",
+              "Subject": "Prepare for release v0.4.0-beta.1 (#17)"
+            },
+            {
+              "SHA": "da2796a",
+              "Subject": "Prepare for release v0.4.0-beta.0 (#16)"
+            },
+            {
+              "SHA": "0553c6f",
+              "Subject": "Use k8s 1.29 client libs (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "4cce748f",
+              "Subject": "Prepare for release v0.28.0 (#258)"
+            },
+            {
+              "SHA": "de39974e",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#257)"
+            },
+            {
+              "SHA": "e1ef5191",
+              "Subject": "Update deps (#256)"
+            },
+            {
+              "SHA": "7b4e4149",
+              "Subject": "Update deps (#255)"
+            },
+            {
+              "SHA": "d55f7e69",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#254)"
+            },
+            {
+              "SHA": "f948a650",
+              "Subject": "Prepare for release v0.28.0-beta.1 (#253)"
+            },
+            {
+              "SHA": "572668c8",
+              "Subject": "Prepare for release v0.28.0-beta.0 (#252)"
+            },
+            {
+              "SHA": "39ba3ce0",
+              "Subject": "Update deps (#251)"
+            },
+            {
+              "SHA": "d3d2ad96",
+              "Subject": "Update deps (#250)"
+            },
+            {
+              "SHA": "633d7b76",
+              "Subject": "Use k8s 1.29 client libs (#249)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "e8cf66f",
+              "Subject": "Prepare for release v0.0.4 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "b451944",
+              "Subject": "Prepare for release v0.0.4 (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "8be74c4",
+              "Subject": "Prepare for release v0.0.4 (#12)"
+            },
+            {
+              "SHA": "0647ccf",
+              "Subject": "Remove overseer discovery service. (#10)"
+            },
+            {
+              "SHA": "4901117",
+              "Subject": "Add daily yml. (#9)"
+            },
+            {
+              "SHA": "3abb79b",
+              "Subject": "Add auth secret reference in appbinding. (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "16543a0f",
+              "Subject": "Prepare for release v0.26.0 (#304)"
+            },
+            {
+              "SHA": "92607278",
+              "Subject": "Add dependencies flag (#301)"
+            },
+            {
+              "SHA": "17bbf43c",
+              "Subject": "Add Reconfigure with Vertical Scaling (#300)"
+            },
+            {
+              "SHA": "f3e3fba1",
+              "Subject": "Add Singlestore Provisioning Test (#287)"
+            },
+            {
+              "SHA": "5a527051",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#299)"
+            },
+            {
+              "SHA": "03d71b6d",
+              "Subject": "Update deps (#298)"
+            },
+            {
+              "SHA": "2d928008",
+              "Subject": "Update deps (#297)"
+            },
+            {
+              "SHA": "1730fd31",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#296)"
+            },
+            {
+              "SHA": "d1805668",
+              "Subject": "Add ZooKeeper Tests (#294)"
+            },
+            {
+              "SHA": "4c27754c",
+              "Subject": "Fix kafka env-variable tests (#293)"
+            },
+            {
+              "SHA": "3cfc1212",
+              "Subject": "Prepare for release v0.26.0-beta.1 (#292)"
+            },
+            {
+              "SHA": "b810e690",
+              "Subject": "increase cpu limit for vertical scaling (#289)"
+            },
+            {
+              "SHA": "c43985ba",
+              "Subject": "Change dashboard api group (#291)"
+            },
+            {
+              "SHA": "1b96881e",
+              "Subject": "Fix error logging"
+            },
+            {
+              "SHA": "33f78143",
+              "Subject": "forceCleanup PVCs for mongo (#288)"
+            },
+            {
+              "SHA": "0dcd3e38",
+              "Subject": "Add PostgreSQL logical replication tests  (#202)"
+            },
+            {
+              "SHA": "2f403c85",
+              "Subject": "Find profiles in array, Don't match with string (#286)"
+            },
+            {
+              "SHA": "5aca2293",
+              "Subject": "Give time to PDB status to be updated (#285)"
+            },
+            {
+              "SHA": "5f3fabd7",
+              "Subject": "Prepare for release v0.26.0-beta.0 (#284)"
+            },
+            {
+              "SHA": "27a24dff",
+              "Subject": "Update deps (#283)"
+            },
+            {
+              "SHA": "b9021186",
+              "Subject": "Update deps (#282)"
+            },
+            {
+              "SHA": "589ca51c",
+              "Subject": "mongodb vertical scaling fix (#281)"
+            },
+            {
+              "SHA": "feaa0f6a",
+              "Subject": "Add `--restricted` flag (#280)"
+            },
+            {
+              "SHA": "2423ee38",
+              "Subject": "Fix linter errors"
+            },
+            {
+              "SHA": "dcd64c7c",
+              "Subject": "Update lint command"
+            },
+            {
+              "SHA": "c3ef1fa4",
+              "Subject": "Use k8s 1.29 client libs (#279)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "7a1d7c5e",
+              "Subject": "Prepare for release v0.17.0 (#110)"
+            },
+            {
+              "SHA": "ed2c04e7",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#109)"
+            },
+            {
+              "SHA": "645c4ac2",
+              "Subject": "Update deps (#108)"
+            },
+            {
+              "SHA": "e75f0f9e",
+              "Subject": "Update deps (#107)"
+            },
+            {
+              "SHA": "3046f685",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "98c1a6dd",
+              "Subject": "Prepare for release v0.17.0-beta.1 (#105)"
+            },
+            {
+              "SHA": "8173cfc2",
+              "Subject": "Implement SingularNameProvider"
+            },
+            {
+              "SHA": "6e8f80dc",
+              "Subject": "Prepare for release v0.17.0-beta.0 (#104)"
+            },
+            {
+              "SHA": "6a05721f",
+              "Subject": "Update deps (#103)"
+            },
+            {
+              "SHA": "3c24fd5e",
+              "Subject": "Update deps (#102)"
+            },
+            {
+              "SHA": "25e29443",
+              "Subject": "Use k8s 1.29 client libs (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "93116fb5",
+              "Subject": "Prepare for release v0.17.0 (#95)"
+            },
+            {
+              "SHA": "a49ecca7",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#94)"
+            },
+            {
+              "SHA": "5f8de57b",
+              "Subject": "Update deps (#93)"
+            },
+            {
+              "SHA": "8c22ce2d",
+              "Subject": "Update deps (#92)"
+            },
+            {
+              "SHA": "f9cf0b11",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "98914ade",
+              "Subject": "Add kafka connector webhook apitypes (#90)"
+            },
+            {
+              "SHA": "1184db7a",
+              "Subject": "Fix solr webhook"
+            },
+            {
+              "SHA": "2a84cedb",
+              "Subject": "Prepare for release v0.17.0-beta.1 (#89)"
+            },
+            {
+              "SHA": "bb4a5c22",
+              "Subject": "Add kafka connect-cluster (#87)"
+            },
+            {
+              "SHA": "c46c6662",
+              "Subject": "Add new Database support (#88)"
+            },
+            {
+              "SHA": "c6387e9e",
+              "Subject": "Set default kubebuilder client for autoscaler (#86)"
+            },
+            {
+              "SHA": "14c07899",
+              "Subject": "Incorporate apimachinery (#85)"
+            },
+            {
+              "SHA": "266c79a0",
+              "Subject": "Add kafka ops request validator (#84)"
+            },
+            {
+              "SHA": "528b8463",
+              "Subject": "Fix webhook handlers (#83)"
+            },
+            {
+              "SHA": "dfdeb6c3",
+              "Subject": "Prepare for release v0.17.0-beta.0 (#82)"
+            },
+            {
+              "SHA": "bf54df2a",
+              "Subject": "Update deps (#81)"
+            },
+            {
+              "SHA": "c7d17faa",
+              "Subject": "Update deps (#79)"
+            },
+            {
+              "SHA": "170573b1",
+              "Subject": "Use k8s 1.29 client libs (#78)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.0.4",
+          "commits": [
+            {
+              "SHA": "7347527",
+              "Subject": "Prepare for release v0.0.4 (#8)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-02T02:14:11.483153794Z",
+  "release_date": "2024-02-02T02:15:08.001812979Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -851,6 +851,64 @@
             {
               "SHA": "ef72c98b",
               "Subject": "Use k8s 1.29 client libs (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "d28c59f",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "299687e",
+              "Subject": "Update README.md (#9)"
+            },
+            {
+              "SHA": "00e8552",
+              "Subject": "Update deps (#8)"
+            },
+            {
+              "SHA": "ac2caaf",
+              "Subject": "Update pause and resume queries (#1)"
+            },
+            {
+              "SHA": "066b41c",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#7)"
+            },
+            {
+              "SHA": "ebd73c7",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "adac38d",
+              "Subject": "Prepare for release v0.1.0-beta.1 (#5)"
+            },
+            {
+              "SHA": "09f68b7",
+              "Subject": "Prepare for release v0.1.0-beta.0 (#4)"
+            },
+            {
+              "SHA": "7407444",
+              "Subject": "Use k8s 1.29 client libs (#3)"
+            },
+            {
+              "SHA": "933e138",
+              "Subject": "Prepare for release v0.1.0 (#2)"
+            },
+            {
+              "SHA": "5d38f94",
+              "Subject": "Enable GH actions"
+            },
+            {
+              "SHA": "2a97178",
+              "Subject": "Replace mysql with mariadb"
             }
           ]
         }

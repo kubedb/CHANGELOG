@@ -272,6 +272,25 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.1.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.1.0)
+
+- [d28c59f](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/d28c59f) Prepare for release v0.1.0 (#11)
+- [299687e](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/299687e) Update README.md (#9)
+- [00e8552](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/00e8552) Update deps (#8)
+- [ac2caaf](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/ac2caaf) Update pause and resume queries (#1)
+- [066b41c](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/066b41c) Prepare for release v0.1.0-rc.1 (#7)
+- [ebd73c7](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/ebd73c7) Prepare for release v0.1.0-rc.0 (#6)
+- [adac38d](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/adac38d) Prepare for release v0.1.0-beta.1 (#5)
+- [09f68b7](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/09f68b7) Prepare for release v0.1.0-beta.0 (#4)
+- [7407444](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/7407444) Use k8s 1.29 client libs (#3)
+- [933e138](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/933e138) Prepare for release v0.1.0 (#2)
+- [5d38f94](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/5d38f94) Enable GH actions
+- [2a97178](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/2a97178) Replace mysql with mariadb
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.34.0](https://github.com/kubedb/memcached/releases/tag/v0.34.0)

@@ -657,6 +657,29 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.28.0](https://github.com/kubedb/proxysql/releases/tag/v0.28.0)
+
+- [b0d0e92c](https://github.com/kubedb/proxysql/commit/b0d0e92cf) Prepare for release v0.28.0 (#335)
+- [0ff6f90d](https://github.com/kubedb/proxysql/commit/0ff6f90d2) Prepare for release v0.28.0-rc.1 (#334)
+- [382d3283](https://github.com/kubedb/proxysql/commit/382d3283e) Update deps (#333)
+- [0b4da810](https://github.com/kubedb/proxysql/commit/0b4da8101) Update deps (#332)
+- [2fa5679d](https://github.com/kubedb/proxysql/commit/2fa5679d7) Prepare for release v0.28.0-rc.0 (#331)
+- [2cc59016](https://github.com/kubedb/proxysql/commit/2cc590165) Update ci & makefile for crd-manager (#326)
+- [79e29efd](https://github.com/kubedb/proxysql/commit/79e29efdb) Handle MySQL URL Parsing (#330)
+- [b3372a53](https://github.com/kubedb/proxysql/commit/b3372a53d) Fix MySQL Client and sync_user (#328)
+- [213ebfc4](https://github.com/kubedb/proxysql/commit/213ebfc43) Prepare for release v0.28.0-beta.1 (#327)
+- [8427158e](https://github.com/kubedb/proxysql/commit/8427158ec) Incorporate with apimachinery package name change from stash to restore (#325)
+- [c0805050](https://github.com/kubedb/proxysql/commit/c0805050e) Prepare for release v0.28.0-beta.0 (#324)
+- [88ef1f1d](https://github.com/kubedb/proxysql/commit/88ef1f1de) Dynamically start crd controller (#323)
+- [8c0a96ac](https://github.com/kubedb/proxysql/commit/8c0a96ac7) Update deps (#322)
+- [e96797e4](https://github.com/kubedb/proxysql/commit/e96797e48) Update deps (#321)
+- [e8fd529b](https://github.com/kubedb/proxysql/commit/e8fd529b2) Update deps
+- [b2e9a1df](https://github.com/kubedb/proxysql/commit/b2e9a1df8) Use k8s 1.29 client libs (#319)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.0.4](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.4)

@@ -223,6 +223,37 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.1.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.1.0)
+
+- [bd6798f](https://github.com/kubedb/mariadb-archiver/commit/bd6798f) Prepare for release v0.1.0 (#8)
+- [8743316](https://github.com/kubedb/mariadb-archiver/commit/8743316) Prepare for release v0.1.0-rc.1 (#7)
+- [90b9d66](https://github.com/kubedb/mariadb-archiver/commit/90b9d66) Prepare for release v0.1.0-rc.0 (#6)
+- [e8564fe](https://github.com/kubedb/mariadb-archiver/commit/e8564fe) Prepare for release v0.1.0-beta.1 (#5)
+- [e5e8945](https://github.com/kubedb/mariadb-archiver/commit/e5e8945) Don't use fail-fast
+- [8c8e09a](https://github.com/kubedb/mariadb-archiver/commit/8c8e09a) Prepare for release v0.1.0-beta.0 (#4)
+- [90ae04c](https://github.com/kubedb/mariadb-archiver/commit/90ae04c) Use k8s 1.29 client libs (#3)
+- [b3067c8](https://github.com/kubedb/mariadb-archiver/commit/b3067c8) Fix binlog command
+- [5cc0b6a](https://github.com/kubedb/mariadb-archiver/commit/5cc0b6a) Fix release workflow
+- [910b7ce](https://github.com/kubedb/mariadb-archiver/commit/910b7ce) Prepare for release v0.1.0 (#1)
+- [3801668](https://github.com/kubedb/mariadb-archiver/commit/3801668) mysql -> mariadb
+- [4e905fb](https://github.com/kubedb/mariadb-archiver/commit/4e905fb) Implemenet new algorithm for archiver and restorer (#5)
+- [22701c8](https://github.com/kubedb/mariadb-archiver/commit/22701c8) Fix 5.7.x build
+- [6da2b1c](https://github.com/kubedb/mariadb-archiver/commit/6da2b1c) Update build matrix
+- [e2f6244](https://github.com/kubedb/mariadb-archiver/commit/e2f6244) Use separate dockerfile per mysql version (#9)
+- [e800623](https://github.com/kubedb/mariadb-archiver/commit/e800623) Prepare for release v0.2.0 (#8)
+- [b9f6ec5](https://github.com/kubedb/mariadb-archiver/commit/b9f6ec5) Install mysqlbinlog (#7)
+- [c46d991](https://github.com/kubedb/mariadb-archiver/commit/c46d991) Use appscode-images as base image (#6)
+- [721eaa8](https://github.com/kubedb/mariadb-archiver/commit/721eaa8) Prepare for release v0.1.0 (#4)
+- [8c65d14](https://github.com/kubedb/mariadb-archiver/commit/8c65d14) Prepare for release v0.1.0-rc.1 (#3)
+- [f79286a](https://github.com/kubedb/mariadb-archiver/commit/f79286a) Prepare for release v0.1.0-rc.0 (#2)
+- [dcd2e30](https://github.com/kubedb/mariadb-archiver/commit/dcd2e30) Fix wal-g binary
+- [6c20a4a](https://github.com/kubedb/mariadb-archiver/commit/6c20a4a) Fix build
+- [f034e7b](https://github.com/kubedb/mariadb-archiver/commit/f034e7b) Add build script (#1)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.21.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.21.0)

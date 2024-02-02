@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.1.31",
-  "release_date": "2024-02-02T02:39:59.962728872Z",
+  "release_date": "2024-02-02T02:41:15.804342155Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.1.31",
   "kubernetes_version": "1.20+",
@@ -2437,6 +2437,60 @@
             {
               "SHA": "c3ef1fa4",
               "Subject": "Use k8s 1.29 client libs (#279)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "7a1d7c5e",
+              "Subject": "Prepare for release v0.17.0 (#110)"
+            },
+            {
+              "SHA": "ed2c04e7",
+              "Subject": "Prepare for release v0.17.0-rc.1 (#109)"
+            },
+            {
+              "SHA": "645c4ac2",
+              "Subject": "Update deps (#108)"
+            },
+            {
+              "SHA": "e75f0f9e",
+              "Subject": "Update deps (#107)"
+            },
+            {
+              "SHA": "3046f685",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "98c1a6dd",
+              "Subject": "Prepare for release v0.17.0-beta.1 (#105)"
+            },
+            {
+              "SHA": "8173cfc2",
+              "Subject": "Implement SingularNameProvider"
+            },
+            {
+              "SHA": "6e8f80dc",
+              "Subject": "Prepare for release v0.17.0-beta.0 (#104)"
+            },
+            {
+              "SHA": "6a05721f",
+              "Subject": "Update deps (#103)"
+            },
+            {
+              "SHA": "3c24fd5e",
+              "Subject": "Update deps (#102)"
+            },
+            {
+              "SHA": "25e29443",
+              "Subject": "Use k8s 1.29 client libs (#101)"
             }
           ]
         }

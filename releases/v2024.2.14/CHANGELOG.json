@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T20:37:12.214907026Z",
+  "release_date": "2024-02-14T20:37:16.669628839Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -267,6 +267,32 @@
             {
               "SHA": "e1e0c2d",
               "Subject": "Remove set snapshot time method (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "4e4d8ee",
+              "Subject": "Prepare for release v0.3.0 (#22)"
+            },
+            {
+              "SHA": "3feca82",
+              "Subject": "Add TLS Support for Archiver Backup"
+            },
+            {
+              "SHA": "d89a55f",
+              "Subject": "Change certificate path"
+            },
+            {
+              "SHA": "a4de1f5",
+              "Subject": "Add tls support for archiver backup and restore"
             }
           ]
         }

@@ -126,6 +126,17 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.3.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.3.0)
+
+- [4e4d8ee](https://github.com/kubedb/mysql-archiver/commit/4e4d8ee) Prepare for release v0.3.0 (#22)
+- [3feca82](https://github.com/kubedb/mysql-archiver/commit/3feca82) Add TLS Support for Archiver Backup
+- [d89a55f](https://github.com/kubedb/mysql-archiver/commit/d89a55f) Change certificate path
+- [a4de1f5](https://github.com/kubedb/mysql-archiver/commit/a4de1f5) Add tls support for archiver backup and restore
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.3.0)

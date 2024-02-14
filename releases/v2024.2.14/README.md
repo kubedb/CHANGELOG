@@ -55,6 +55,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.35.0](https://github.com/kubedb/redis/releases/tag/v0.35.0)
+
+- [1347a8db](https://github.com/kubedb/redis/commit/1347a8db) Prepare for release v0.35.0 (#526)
+- [d19f55d0](https://github.com/kubedb/redis/commit/d19f55d0) Fix Sentinel TLS (#525)
+- [ed7698cc](https://github.com/kubedb/redis/commit/ed7698cc) Add Init Script (#524)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.5](https://github.com/kubedb/zookeeper/releases/tag/v0.0.5)

@@ -92,6 +92,14 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.0.5](https://github.com/kubedb/solr/releases/tag/v0.0.5)
+
+- [bfd0a91](https://github.com/kubedb/solr/commit/bfd0a91) Prepare for release v0.0.5 (#13)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.5](https://github.com/kubedb/zookeeper/releases/tag/v0.0.5)

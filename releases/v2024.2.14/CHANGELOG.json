@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T20:35:57.75455037Z",
+  "release_date": "2024-02-14T20:36:02.176322816Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -203,6 +203,20 @@
             {
               "SHA": "ed7698cc",
               "Subject": "Add Init Script (#524)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "bfd0a91",
+              "Subject": "Prepare for release v0.0.5 (#13)"
             }
           ]
         }

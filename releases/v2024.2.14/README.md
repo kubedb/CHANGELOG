@@ -21,6 +21,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.27.0](https://github.com/kubedb/autoscaler/releases/tag/v0.27.0)
+
+- [b5882bd5](https://github.com/kubedb/autoscaler/commit/b5882bd5) Prepare for release v0.27.0 (#189)
+- [d06726d1](https://github.com/kubedb/autoscaler/commit/d06726d1) Update deps
+- [4e0c85cd](https://github.com/kubedb/autoscaler/commit/4e0c85cd) Make the expansionMode required (#188)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.42.0](https://github.com/kubedb/cli/releases/tag/v0.42.0)

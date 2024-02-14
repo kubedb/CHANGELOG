@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T23:18:40.247767412Z",
+  "release_date": "2024-02-14T23:36:06.301866958Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -63,6 +63,28 @@
             {
               "SHA": "a0073eae1",
               "Subject": "Use v7 external-snapshotter (#1143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "b5882bd5",
+              "Subject": "Prepare for release v0.27.0 (#189)"
+            },
+            {
+              "SHA": "d06726d1",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "4e0c85cd",
+              "Subject": "Make the expansionMode required (#188)"
             }
           ]
         }

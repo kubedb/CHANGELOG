@@ -229,6 +229,17 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.29.0](https://github.com/kubedb/ops-manager/releases/tag/v0.29.0)
+
+- [1a71ef8b](https://github.com/kubedb/ops-manager/commit/1a71ef8b1) Prepare for release v0.29.0 (#540)
+- [13d9a9c6](https://github.com/kubedb/ops-manager/commit/13d9a9c63) Update deps
+- [c8bbf908](https://github.com/kubedb/ops-manager/commit/c8bbf9080) Fix upgrade ops request for pg (#538)
+- [99fe7461](https://github.com/kubedb/ops-manager/commit/99fe7461f) Make the expansionMode required (#539)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.29.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.29.0)

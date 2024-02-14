@@ -38,6 +38,16 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.0.5](https://github.com/kubedb/druid/releases/tag/v0.0.5)
+
+- [984932b](https://github.com/kubedb/druid/commit/984932b) Prepare for release v0.0.5 (#11)
+- [3f4b971](https://github.com/kubedb/druid/commit/3f4b971) Add daily workflow (#10)
+- [fc316de](https://github.com/kubedb/druid/commit/fc316de) Update druid container name (#9)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.5.0)

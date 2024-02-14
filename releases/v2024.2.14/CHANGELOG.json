@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T20:35:49.485827756Z",
+  "release_date": "2024-02-14T20:35:53.730935517Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -95,6 +95,28 @@
             {
               "SHA": "50462091",
               "Subject": "List spaces for kibana dashboard (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "984932b",
+              "Subject": "Prepare for release v0.0.5 (#11)"
+            },
+            {
+              "SHA": "3f4b971",
+              "Subject": "Add daily workflow (#10)"
+            },
+            {
+              "SHA": "fc316de",
+              "Subject": "Update druid container name (#9)"
             }
           ]
         }

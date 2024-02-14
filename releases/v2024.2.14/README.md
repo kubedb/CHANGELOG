@@ -234,6 +234,14 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.21.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.21.0)
+
+- [779d62d9](https://github.com/kubedb/redis-coordinator/commit/779d62d9) Prepare for release v0.21.0 (#95)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.29.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.29.0)

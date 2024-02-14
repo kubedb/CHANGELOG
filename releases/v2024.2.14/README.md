@@ -127,6 +127,15 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.0.5](https://github.com/kubedb/pgpool/releases/tag/v0.0.5)
+
+- [c2e585a](https://github.com/kubedb/pgpool/commit/c2e585a) Prepare for release v0.0.5 (#14)
+- [f898a28](https://github.com/kubedb/pgpool/commit/f898a28) Fix default resource issue (#13)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.35.0](https://github.com/kubedb/redis/releases/tag/v0.35.0)

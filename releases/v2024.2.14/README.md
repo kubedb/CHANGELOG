@@ -30,3 +30,13 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.0.5](https://github.com/kubedb/zookeeper/releases/tag/v0.0.5)
+
+- [23daf8b](https://github.com/kubedb/zookeeper/commit/23daf8b) Prepare for release v0.0.5 (#11)
+- [05a11e8](https://github.com/kubedb/zookeeper/commit/05a11e8) Fix ZooKeeper Standalone (#10)
+- [7712e98](https://github.com/kubedb/zookeeper/commit/7712e98) Add ZooKeeper Config (#9)
+
+
+

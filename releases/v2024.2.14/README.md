@@ -65,6 +65,14 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.13.0](https://github.com/kubedb/kafka/releases/tag/v0.13.0)
+
+- [8cb1975c](https://github.com/kubedb/kafka/commit/8cb1975c) Prepare for release v0.13.0 (#77)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.5.0)

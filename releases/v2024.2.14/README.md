@@ -305,6 +305,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.5.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.5.0)
+
+- [621119a](https://github.com/kubedb/redis-restic-plugin/commit/621119a) Prepare for release v0.5.0 (#22)
+- [a4755fe](https://github.com/kubedb/redis-restic-plugin/commit/a4755fe) Remove set snapshot time method (#21)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.29.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.29.0)

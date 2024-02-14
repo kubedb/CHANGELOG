@@ -21,3 +21,12 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.0.11](https://github.com/kubedb/db-client-go/releases/tag/v0.0.11)
+
+- [fffdeec5](https://github.com/kubedb/db-client-go/commit/fffdeec5) Prepare for release v0.0.11 (#89)
+- [50462091](https://github.com/kubedb/db-client-go/commit/50462091) List spaces for kibana dashboard (#87)
+
+
+

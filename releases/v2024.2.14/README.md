@@ -459,6 +459,14 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.18.0](https://github.com/kubedb/webhook-server/releases/tag/v0.18.0)
+
+- [2de37258](https://github.com/kubedb/webhook-server/commit/2de37258) Prepare for release v0.18.0 (#96)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.5](https://github.com/kubedb/zookeeper/releases/tag/v0.0.5)

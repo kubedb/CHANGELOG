@@ -108,6 +108,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.5.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.5.0)
+
+- [cdefd85](https://github.com/kubedb/mysql-restic-plugin/commit/cdefd85) Prepare for release v0.5.0 (#26)
+- [5a76022](https://github.com/kubedb/mysql-restic-plugin/commit/5a76022) Remove set snapshot time method (#25)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.35.0](https://github.com/kubedb/redis/releases/tag/v0.35.0)

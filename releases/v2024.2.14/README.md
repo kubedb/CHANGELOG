@@ -73,6 +73,15 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.3.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.3.0)
+
+- [1af87b7](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/1af87b7) Prepare for release v0.3.0 (#17)
+- [9e4e191](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/9e4e191) Use volume snapshot time (#16)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.5.0)

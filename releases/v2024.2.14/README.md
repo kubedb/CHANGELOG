@@ -65,6 +65,16 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.5.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.5.0)
+
+- [89311ad](https://github.com/kubedb/kubedb-manifest-plugin/commit/89311ad) Prepare for release v0.5.0 (#43)
+- [82e9a01](https://github.com/kubedb/kubedb-manifest-plugin/commit/82e9a01) Fix mariadb restore bug (#42)
+- [836cbc8](https://github.com/kubedb/kubedb-manifest-plugin/commit/836cbc8) Remove set snapshot time method (#41)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.2.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.2.0)

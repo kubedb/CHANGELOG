@@ -108,6 +108,16 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.3.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.3.0)
+
+- [b1c5ff1](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/b1c5ff1) Prepare for release v0.3.0 (#11)
+- [e0f1b29](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/e0f1b29) Use volume snapshot creation time (#10)
+- [c8adb8b](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/c8adb8b) Set volumesnapshot time (#9)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.5.0)

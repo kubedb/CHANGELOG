@@ -65,6 +65,14 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.2.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.2.0)
+
+- [1c0154e](https://github.com/kubedb/mariadb-archiver/commit/1c0154e) Prepare for release v0.2.0 (#9)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.5.0)

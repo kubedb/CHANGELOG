@@ -73,6 +73,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.35.0](https://github.com/kubedb/mongodb/releases/tag/v0.35.0)
+
+- [30351cda](https://github.com/kubedb/mongodb/commit/30351cda8) Prepare for release v0.35.0 (#613)
+- [199918b7](https://github.com/kubedb/mongodb/commit/199918b70) Use volumesnapshot time to find pitr snapshot (#612)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.3.0)

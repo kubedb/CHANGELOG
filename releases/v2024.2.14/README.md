@@ -38,6 +38,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.5.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.5.0)
+
+- [ff70017](https://github.com/kubedb/mongodb-restic-plugin/commit/ff70017) Prepare for release v0.5.0 (#28)
+- [e1e0c2d](https://github.com/kubedb/mongodb-restic-plugin/commit/e1e0c2d) Remove set snapshot time method (#27)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.5](https://github.com/kubedb/zookeeper/releases/tag/v0.0.5)

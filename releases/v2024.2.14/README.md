@@ -378,6 +378,14 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.18.0](https://github.com/kubedb/schema-manager/releases/tag/v0.18.0)
+
+- [b1ff9ec4](https://github.com/kubedb/schema-manager/commit/b1ff9ec4) Prepare for release v0.18.0 (#103)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.0.5](https://github.com/kubedb/singlestore/releases/tag/v0.0.5)

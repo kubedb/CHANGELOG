@@ -249,6 +249,15 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.0.5](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.5)
+
+- [51824910](https://github.com/kubedb/rabbitmq/commit/51824910) Prepare for release v0.0.5 (#11)
+- [bc455b5c](https://github.com/kubedb/rabbitmq/commit/bc455b5c) Add support for Monitoring (#10)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.35.0](https://github.com/kubedb/redis/releases/tag/v0.35.0)

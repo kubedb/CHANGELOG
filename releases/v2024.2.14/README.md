@@ -30,6 +30,14 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.0.5](https://github.com/kubedb/ferretdb/releases/tag/v0.0.5)
+
+- [16eb419](https://github.com/kubedb/ferretdb/commit/16eb419) Prepare for release v0.0.5 (#10)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.5](https://github.com/kubedb/zookeeper/releases/tag/v0.0.5)

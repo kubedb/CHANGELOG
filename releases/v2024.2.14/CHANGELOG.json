@@ -1,0 +1,72 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.2.14",
+  "release_date": "2024-02-14T17:49:05.201009962Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.2.14",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "c7516aec0",
+              "Subject": "Set default resource to Pgpool (#1155)"
+            },
+            {
+              "SHA": "f0a2324ea",
+              "Subject": "Set RuntimeDefault profile for k8s version >= 1.25 (#1154)"
+            },
+            {
+              "SHA": "099055e1b",
+              "Subject": "Update for release Stash@v2024.2.9-rc.0 (#1152)"
+            },
+            {
+              "SHA": "1aa5ad0e3",
+              "Subject": "Remove Default Capabilities for Postgres (#1146)"
+            },
+            {
+              "SHA": "24e6e9859",
+              "Subject": "Fix Default Resources Issue (#1150)"
+            },
+            {
+              "SHA": "992de061d",
+              "Subject": "Fix RabbitMQ default container resource (#1149)"
+            },
+            {
+              "SHA": "64f555c39",
+              "Subject": "Fix SingleStore SatafulSet Name (#1147)"
+            },
+            {
+              "SHA": "3a9f337b0",
+              "Subject": "Add ZooKeeper SASL auth variables (#1141)"
+            },
+            {
+              "SHA": "07e7be0f4",
+              "Subject": "Add Redis Init Constants (#1148)"
+            },
+            {
+              "SHA": "aa33c6e8b",
+              "Subject": "Add Monitoring API for RabbitMQ (#1139)"
+            },
+            {
+              "SHA": "89a659963",
+              "Subject": "Make the expansionMode required value (#1145)"
+            },
+            {
+              "SHA": "87259e660",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "a0073eae1",
+              "Subject": "Use v7 external-snapshotter (#1143)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

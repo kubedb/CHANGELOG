@@ -215,6 +215,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.5.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.5.0)
+
+- [999bae4](https://github.com/kubedb/postgres-restic-plugin/commit/999bae4) Prepare for release v0.5.0 (#19)
+- [61f525f](https://github.com/kubedb/postgres-restic-plugin/commit/61f525f) Remove set snapshot time method (#18)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.35.0](https://github.com/kubedb/redis/releases/tag/v0.35.0)

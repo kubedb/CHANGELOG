@@ -38,6 +38,15 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.5.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.5.0)
+
+- [028f9ca](https://github.com/kubedb/elasticsearch-restic-plugin/commit/028f9ca) Prepare for release v0.5.0 (#21)
+- [843f7f5](https://github.com/kubedb/elasticsearch-restic-plugin/commit/843f7f5) Remove set snapshot time method (#20)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.0.5](https://github.com/kubedb/ferretdb/releases/tag/v0.0.5)

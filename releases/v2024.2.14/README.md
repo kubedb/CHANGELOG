@@ -231,6 +231,15 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.3.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.3.0)
+
+- [d08a28d](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/d08a28d) Prepare for release v0.3.0 (#20)
+- [936c61d](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/936c61d) Set volumesnapshot time (#19)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.5.0)

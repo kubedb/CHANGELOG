@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T20:38:33.38385107Z",
+  "release_date": "2024-02-14T20:38:37.979631912Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -471,6 +471,24 @@
             {
               "SHA": "ad9cbee",
               "Subject": "Prepare for release v0.3.0 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "d08a28d",
+              "Subject": "Prepare for release v0.3.0 (#20)"
+            },
+            {
+              "SHA": "936c61d",
+              "Subject": "Set volumesnapshot time (#19)"
             }
           ]
         }

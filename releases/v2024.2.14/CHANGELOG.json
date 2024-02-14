@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T22:00:05.284889091Z",
+  "release_date": "2024-02-14T22:00:48.804102616Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -817,6 +817,20 @@
             {
               "SHA": "35565778",
               "Subject": "Remove SecurityConext for minio server"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "09fb0fd2",
+              "Subject": "Prepare for release v0.18.0 (#111)"
             }
           ]
         }

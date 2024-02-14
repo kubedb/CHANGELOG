@@ -422,6 +422,14 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.18.0](https://github.com/kubedb/ui-server/releases/tag/v0.18.0)
+
+- [09fb0fd2](https://github.com/kubedb/ui-server/commit/09fb0fd2) Prepare for release v0.18.0 (#111)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.5](https://github.com/kubedb/zookeeper/releases/tag/v0.0.5)

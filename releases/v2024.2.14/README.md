@@ -99,6 +99,14 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.26.0](https://github.com/kubedb/mariadb/releases/tag/v0.26.0)
+
+- [d8f0fa0c](https://github.com/kubedb/mariadb/commit/d8f0fa0c2) Prepare for release v0.26.0 (#259)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.2.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.2.0)

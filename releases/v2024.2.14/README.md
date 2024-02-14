@@ -233,6 +233,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.0.5](https://github.com/kubedb/singlestore/releases/tag/v0.0.5)
+
+- [cb62edf](https://github.com/kubedb/singlestore/commit/cb62edf) Prepare for release v0.0.5 (#13)
+- [00d05d3](https://github.com/kubedb/singlestore/commit/00d05d3) Fix StatefulSet Naming (#12)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.0.5](https://github.com/kubedb/solr/releases/tag/v0.0.5)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T20:38:03.329135348Z",
+  "release_date": "2024-02-14T20:38:09.206123781Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -479,6 +479,24 @@
             {
               "SHA": "5c11f939",
               "Subject": "Prepare for release v0.29.0 (#259)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "cb62edf",
+              "Subject": "Prepare for release v0.0.5 (#13)"
+            },
+            {
+              "SHA": "00d05d3",
+              "Subject": "Fix StatefulSet Naming (#12)"
             }
           ]
         }

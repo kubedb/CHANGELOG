@@ -254,6 +254,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.42.0](https://github.com/kubedb/postgres/releases/tag/v0.42.0)
+
+- [660e99f1](https://github.com/kubedb/postgres/commit/660e99f13) Prepare for release v0.42.0 (#717)
+- [91e2e653](https://github.com/kubedb/postgres/commit/91e2e653e) Use volumesnapshot time to find pitr snapshot (#716)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.3.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.3.0)

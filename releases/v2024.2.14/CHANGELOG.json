@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T20:39:49.344647097Z",
+  "release_date": "2024-02-14T20:40:00.343617558Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -508,6 +508,24 @@
             {
               "SHA": "f898a28",
               "Subject": "Fix default resource issue (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "660e99f13",
+              "Subject": "Prepare for release v0.42.0 (#717)"
+            },
+            {
+              "SHA": "91e2e653e",
+              "Subject": "Use volumesnapshot time to find pitr snapshot (#716)"
             }
           ]
         }

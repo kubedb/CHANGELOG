@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T20:37:24.701007416Z",
+  "release_date": "2024-02-14T20:37:34.848948584Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -281,6 +281,28 @@
             {
               "SHA": "e1e0c2d",
               "Subject": "Remove set snapshot time method (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "e229f7046",
+              "Subject": "Prepare for release v0.35.0 (#611)"
+            },
+            {
+              "SHA": "eddafc3db",
+              "Subject": "Add TLS Support for Archiver Backup and Restore (#608)"
+            },
+            {
+              "SHA": "19c6df5a1",
+              "Subject": "Use volumesnapshot time + Fix bug (#610)"
             }
           ]
         }

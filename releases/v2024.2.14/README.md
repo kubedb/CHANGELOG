@@ -134,6 +134,16 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.35.0](https://github.com/kubedb/mysql/releases/tag/v0.35.0)
+
+- [e229f704](https://github.com/kubedb/mysql/commit/e229f7046) Prepare for release v0.35.0 (#611)
+- [eddafc3d](https://github.com/kubedb/mysql/commit/eddafc3db) Add TLS Support for Archiver Backup and Restore (#608)
+- [19c6df5a](https://github.com/kubedb/mysql/commit/19c6df5a1) Use volumesnapshot time + Fix bug (#610)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.3.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.3.0)

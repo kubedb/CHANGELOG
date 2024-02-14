@@ -379,6 +379,17 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.27.0](https://github.com/kubedb/tests/releases/tag/v0.27.0)
+
+- [66976892](https://github.com/kubedb/tests/commit/66976892) Prepare for release v0.27.0 (#308)
+- [6f489bb3](https://github.com/kubedb/tests/commit/6f489bb3) Update deps
+- [c6ed22ca](https://github.com/kubedb/tests/commit/c6ed22ca) Update for VolumeExpansion api changes (#307)
+- [35565778](https://github.com/kubedb/tests/commit/35565778) Remove SecurityConext for minio server
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.5](https://github.com/kubedb/zookeeper/releases/tag/v0.0.5)

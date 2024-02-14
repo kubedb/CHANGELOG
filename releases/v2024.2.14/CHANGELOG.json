@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-14T20:37:02.206821376Z",
+  "release_date": "2024-02-14T20:37:07.326471842Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -163,6 +163,20 @@
             {
               "SHA": "1c0154e",
               "Subject": "Prepare for release v0.2.0 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "8cecf8c5",
+              "Subject": "Prepare for release v0.22.0 (#109)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-15T03:19:08.037385355Z",
+  "release_date": "2024-02-15T03:29:26.380789375Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -85,6 +85,20 @@
             {
               "SHA": "4e0c85cd",
               "Subject": "Make the expansionMode required (#188)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2024.2.14",
+          "commits": [
+            {
+              "SHA": "d176508",
+              "Subject": "Prepare for release v2024.2.14 (#83)"
             }
           ]
         }

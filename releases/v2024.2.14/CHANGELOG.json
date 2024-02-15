@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.2.14",
-  "release_date": "2024-02-15T02:54:17.355310786Z",
+  "release_date": "2024-02-15T03:19:08.037385355Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.2.14",
   "kubernetes_version": "1.20+",
@@ -145,6 +145,24 @@
             {
               "SHA": "50462091",
               "Subject": "List spaces for kibana dashboard (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.2.14",
+          "commits": [
+            {
+              "SHA": "599724e7",
+              "Subject": "Prepare for release v2024.2.14 (#611)"
+            },
+            {
+              "SHA": "42461093",
+              "Subject": "Update docs for kubedb/cli@3b3001df (#610)"
             }
           ]
         }

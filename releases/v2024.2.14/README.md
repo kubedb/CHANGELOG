@@ -64,6 +64,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.2.14](https://github.com/kubedb/docs/releases/tag/v2024.2.14)
+
+- [599724e7](https://github.com/kubedb/docs/commit/599724e7) Prepare for release v2024.2.14 (#611)
+- [42461093](https://github.com/kubedb/docs/commit/42461093) Update docs for kubedb/cli@3b3001df (#610)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.0.5](https://github.com/kubedb/druid/releases/tag/v0.0.5)

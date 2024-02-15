@@ -1,4 +1,4 @@
-# KubeDB v2024.2.14 (2024-02-14)
+# KubeDB v2024.2.14 (2024-02-15)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -96,6 +96,13 @@
 ### [v0.0.5](https://github.com/kubedb/ferretdb/releases/tag/v0.0.5)
 
 - [16eb419](https://github.com/kubedb/ferretdb/commit/16eb419) Prepare for release v0.0.5 (#10)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2024.2.14](https://github.com/kubedb/installer/releases/tag/v2024.2.14)
+
 
 
 

@@ -1,0 +1,979 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.2.14",
+  "release_date": "2024-02-15T03:29:26.380789375Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.2.14",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "c7516aec0",
+              "Subject": "Set default resource to Pgpool (#1155)"
+            },
+            {
+              "SHA": "f0a2324ea",
+              "Subject": "Set RuntimeDefault profile for k8s version >= 1.25 (#1154)"
+            },
+            {
+              "SHA": "099055e1b",
+              "Subject": "Update for release Stash@v2024.2.9-rc.0 (#1152)"
+            },
+            {
+              "SHA": "1aa5ad0e3",
+              "Subject": "Remove Default Capabilities for Postgres (#1146)"
+            },
+            {
+              "SHA": "24e6e9859",
+              "Subject": "Fix Default Resources Issue (#1150)"
+            },
+            {
+              "SHA": "992de061d",
+              "Subject": "Fix RabbitMQ default container resource (#1149)"
+            },
+            {
+              "SHA": "64f555c39",
+              "Subject": "Fix SingleStore SatafulSet Name (#1147)"
+            },
+            {
+              "SHA": "3a9f337b0",
+              "Subject": "Add ZooKeeper SASL auth variables (#1141)"
+            },
+            {
+              "SHA": "07e7be0f4",
+              "Subject": "Add Redis Init Constants (#1148)"
+            },
+            {
+              "SHA": "aa33c6e8b",
+              "Subject": "Add Monitoring API for RabbitMQ (#1139)"
+            },
+            {
+              "SHA": "89a659963",
+              "Subject": "Make the expansionMode required value (#1145)"
+            },
+            {
+              "SHA": "87259e660",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "a0073eae1",
+              "Subject": "Use v7 external-snapshotter (#1143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "b5882bd5",
+              "Subject": "Prepare for release v0.27.0 (#189)"
+            },
+            {
+              "SHA": "d06726d1",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "4e0c85cd",
+              "Subject": "Make the expansionMode required (#188)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/bundles",
+      "releases": [
+        {
+          "tag": "v2024.2.14",
+          "commits": [
+            {
+              "SHA": "d176508",
+              "Subject": "Prepare for release v2024.2.14 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "3b3001df",
+              "Subject": "Prepare for release v0.42.0 (#757)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "4c2b767",
+              "Subject": "Prepare for release v0.0.5 (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "50d29c49",
+              "Subject": "Prepare for release v0.18.0 (#107)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.0.11",
+          "commits": [
+            {
+              "SHA": "fffdeec5",
+              "Subject": "Prepare for release v0.0.11 (#89)"
+            },
+            {
+              "SHA": "50462091",
+              "Subject": "List spaces for kibana dashboard (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.2.14",
+          "commits": [
+            {
+              "SHA": "599724e7",
+              "Subject": "Prepare for release v2024.2.14 (#611)"
+            },
+            {
+              "SHA": "42461093",
+              "Subject": "Update docs for kubedb/cli@3b3001df (#610)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "984932b",
+              "Subject": "Prepare for release v0.0.5 (#11)"
+            },
+            {
+              "SHA": "3f4b971",
+              "Subject": "Add daily workflow (#10)"
+            },
+            {
+              "SHA": "fc316de",
+              "Subject": "Update druid container name (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "8442a2bca",
+              "Subject": "Prepare for release v0.42.0 (#705)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "028f9ca",
+              "Subject": "Prepare for release v0.5.0 (#21)"
+            },
+            {
+              "SHA": "843f7f5",
+              "Subject": "Remove set snapshot time method (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "16eb419",
+              "Subject": "Prepare for release v0.0.5 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.2.14",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "8cb1975c",
+              "Subject": "Prepare for release v0.13.0 (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "89311ad",
+              "Subject": "Prepare for release v0.5.0 (#43)"
+            },
+            {
+              "SHA": "82e9a01",
+              "Subject": "Fix mariadb restore bug (#42)"
+            },
+            {
+              "SHA": "836cbc8",
+              "Subject": "Remove set snapshot time method (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "d8f0fa0c2",
+              "Subject": "Prepare for release v0.26.0 (#259)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "1c0154e",
+              "Subject": "Prepare for release v0.2.0 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "8cecf8c5",
+              "Subject": "Prepare for release v0.22.0 (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e19e8a6",
+              "Subject": "Prepare for release v0.2.0 (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "7bb88826",
+              "Subject": "Prepare for release v0.35.0 (#424)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "30351cda8",
+              "Subject": "Prepare for release v0.35.0 (#613)"
+            },
+            {
+              "SHA": "199918b70",
+              "Subject": "Use volumesnapshot time to find pitr snapshot (#612)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "1af87b7",
+              "Subject": "Prepare for release v0.3.0 (#17)"
+            },
+            {
+              "SHA": "9e4e191",
+              "Subject": "Use volume snapshot time (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "ff70017",
+              "Subject": "Prepare for release v0.5.0 (#28)"
+            },
+            {
+              "SHA": "e1e0c2d",
+              "Subject": "Remove set snapshot time method (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "e229f7046",
+              "Subject": "Prepare for release v0.35.0 (#611)"
+            },
+            {
+              "SHA": "eddafc3db",
+              "Subject": "Add TLS Support for Archiver Backup and Restore (#608)"
+            },
+            {
+              "SHA": "19c6df5a1",
+              "Subject": "Use volumesnapshot time + Fix bug (#610)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "4e4d8ee",
+              "Subject": "Prepare for release v0.3.0 (#22)"
+            },
+            {
+              "SHA": "3feca82",
+              "Subject": "Add TLS Support for Archiver Backup"
+            },
+            {
+              "SHA": "d89a55f",
+              "Subject": "Change certificate path"
+            },
+            {
+              "SHA": "a4de1f5",
+              "Subject": "Add tls support for archiver backup and restore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "850c5ca7",
+              "Subject": "Prepare for release v0.20.0 (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "b1c5ff1",
+              "Subject": "Prepare for release v0.3.0 (#11)"
+            },
+            {
+              "SHA": "e0f1b29",
+              "Subject": "Use volume snapshot creation time (#10)"
+            },
+            {
+              "SHA": "c8adb8b",
+              "Subject": "Set volumesnapshot time (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "cdefd85",
+              "Subject": "Prepare for release v0.5.0 (#26)"
+            },
+            {
+              "SHA": "5a76022",
+              "Subject": "Remove set snapshot time method (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "1a71ef8b1",
+              "Subject": "Prepare for release v0.29.0 (#540)"
+            },
+            {
+              "SHA": "13d9a9c63",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "c8bbf9080",
+              "Subject": "Fix upgrade ops request for pg (#538)"
+            },
+            {
+              "SHA": "99fe7461f",
+              "Subject": "Make the expansionMode required (#539)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "e25b687e0",
+              "Subject": "Prepare for release v0.29.0 (#355)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "c75e8445",
+              "Subject": "Prepare for release v0.15.0 (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "08f5dded",
+              "Subject": "Prepare for release v0.26.0 (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "632d6eaa",
+              "Subject": "Prepare for release v0.29.0 (#318)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "c2e585a",
+              "Subject": "Prepare for release v0.0.5 (#14)"
+            },
+            {
+              "SHA": "f898a28",
+              "Subject": "Fix default resource issue (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "660e99f13",
+              "Subject": "Prepare for release v0.42.0 (#717)"
+            },
+            {
+              "SHA": "91e2e653e",
+              "Subject": "Use volumesnapshot time to find pitr snapshot (#716)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "ad9cbee",
+              "Subject": "Prepare for release v0.3.0 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "d08a28d",
+              "Subject": "Prepare for release v0.3.0 (#20)"
+            },
+            {
+              "SHA": "936c61d",
+              "Subject": "Set volumesnapshot time (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "999bae4",
+              "Subject": "Prepare for release v0.5.0 (#19)"
+            },
+            {
+              "SHA": "61f525f",
+              "Subject": "Remove set snapshot time method (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "31ce3b71a",
+              "Subject": "Prepare for release v0.42.0 (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "e0bbc700d",
+              "Subject": "Prepare for release v0.29.0 (#336)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "51824910",
+              "Subject": "Prepare for release v0.0.5 (#11)"
+            },
+            {
+              "SHA": "bc455b5c",
+              "Subject": "Add support for Monitoring (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "1347a8db",
+              "Subject": "Prepare for release v0.35.0 (#526)"
+            },
+            {
+              "SHA": "d19f55d0",
+              "Subject": "Fix Sentinel TLS (#525)"
+            },
+            {
+              "SHA": "ed7698cc",
+              "Subject": "Add Init Script (#524)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "779d62d9",
+              "Subject": "Prepare for release v0.21.0 (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "621119a",
+              "Subject": "Prepare for release v0.5.0 (#22)"
+            },
+            {
+              "SHA": "a4755fe",
+              "Subject": "Remove set snapshot time method (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "5c11f939",
+              "Subject": "Prepare for release v0.29.0 (#259)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "b1ff9ec4",
+              "Subject": "Prepare for release v0.18.0 (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "cb62edf",
+              "Subject": "Prepare for release v0.0.5 (#13)"
+            },
+            {
+              "SHA": "00d05d3",
+              "Subject": "Fix StatefulSet Naming (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "bd572f5",
+              "Subject": "Prepare for release v0.0.5 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "bfd0a91",
+              "Subject": "Prepare for release v0.0.5 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "66976892",
+              "Subject": "Prepare for release v0.27.0 (#308)"
+            },
+            {
+              "SHA": "6f489bb3",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "c6ed22ca",
+              "Subject": "Update for VolumeExpansion api changes (#307)"
+            },
+            {
+              "SHA": "35565778",
+              "Subject": "Remove SecurityConext for minio server"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "09fb0fd2",
+              "Subject": "Prepare for release v0.18.0 (#111)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "2de37258",
+              "Subject": "Prepare for release v0.18.0 (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.0.5",
+          "commits": [
+            {
+              "SHA": "23daf8b",
+              "Subject": "Prepare for release v0.0.5 (#11)"
+            },
+            {
+              "SHA": "05a11e8",
+              "Subject": "Fix ZooKeeper Standalone (#10)"
+            },
+            {
+              "SHA": "7712e98",
+              "Subject": "Add ZooKeeper Config (#9)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

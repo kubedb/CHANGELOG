@@ -380,3 +380,11 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/webhook-server/releases/tag/v0.19.0-rc.0)
+
+- [c9031073](https://github.com/kubedb/webhook-server/commit/c9031073) Prepare for release v0.19.0-rc.0 (#97)
+
+
+

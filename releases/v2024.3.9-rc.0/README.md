@@ -20,6 +20,15 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/autoscaler/releases/tag/v0.28.0-rc.0)
+
+- [8d58e694](https://github.com/kubedb/autoscaler/commit/8d58e694) Prepare for release v0.28.0-rc.0 (#191)
+- [9ef5c754](https://github.com/kubedb/autoscaler/commit/9ef5c754) Add Kafka Autoscaler (#190)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.43.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.43.0-rc.0)

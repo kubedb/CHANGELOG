@@ -78,6 +78,16 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.3.0-rc.0)
+
+- [d385351](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/d385351) Prepare for release v0.3.0-rc.0 (#14)
+- [69c4631](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/69c4631) Set volumesnapshot time (#10)
+- [be6eba4](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/be6eba4) Refactor (#13)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.36.0-rc.0)

@@ -54,6 +54,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.3.9-rc.0](https://github.com/kubedb/docs/releases/tag/v2024.3.9-rc.0)
+
+- [47e9bbf9](https://github.com/kubedb/docs/commit/47e9bbf9) Prepare for release v2024.3.9-rc.0 (#614)
+- [ab804152](https://github.com/kubedb/docs/commit/ab804152) Update docs for kubedb/cli@3410dd4f (#613)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.43.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.43.0-rc.0)

@@ -37,6 +37,14 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.43.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.43.0-rc.0)
+
+- [0c68e7b1](https://github.com/kubedb/elasticsearch/commit/0c68e7b10) Prepare for release v0.43.0-rc.0 (#707)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.6.0-rc.0)

@@ -20,3 +20,12 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.0.12](https://github.com/kubedb/db-client-go/releases/tag/v0.0.12)
+
+- [c9d1ac6f](https://github.com/kubedb/db-client-go/commit/c9d1ac6f) Prepare for release v0.0.12 (#91)
+- [6da3a3e5](https://github.com/kubedb/db-client-go/commit/6da3a3e5) Pgpool backend reference change (#90)
+
+
+

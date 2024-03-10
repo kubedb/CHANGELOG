@@ -37,6 +37,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.14.0-rc.0)
+
+- [c7038c02](https://github.com/kubedb/kafka/commit/c7038c02) Prepare for release v0.14.0-rc.0 (#80)
+- [089c99b7](https://github.com/kubedb/kafka/commit/089c99b7) Fix Kafka node specific resource (#79)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.6.0-rc.0)

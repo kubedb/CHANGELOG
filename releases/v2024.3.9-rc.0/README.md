@@ -249,6 +249,14 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.36.0-rc.0)
+
+- [62fb984d](https://github.com/kubedb/redis/commit/62fb984dc) Prepare for release v0.36.0-rc.0 (#528)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.22.0-rc.0)

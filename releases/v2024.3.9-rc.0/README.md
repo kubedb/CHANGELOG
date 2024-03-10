@@ -76,6 +76,14 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.27.0-rc.0)
+
+- [d1f6731b](https://github.com/kubedb/pg-coordinator/commit/d1f6731b) Prepare for release v0.27.0-rc.0 (#157)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.4.0-rc.0)

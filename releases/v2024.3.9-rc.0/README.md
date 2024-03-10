@@ -118,6 +118,14 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.43.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.43.0-rc.0)
+
+- [6b772e80](https://github.com/kubedb/postgres/commit/6b772e809) Prepare for release v0.43.0-rc.0 (#720)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.4.0-rc.0)

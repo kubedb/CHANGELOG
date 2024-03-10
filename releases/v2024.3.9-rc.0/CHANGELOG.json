@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.9-rc.0",
-  "release_date": "2024-03-10T04:38:22.176719914Z",
+  "release_date": "2024-03-10T04:38:26.606078533Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -130,6 +130,20 @@
         {
           "tag": "v0.21.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ed4a89c",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#20)"
+            }
+          ]
         }
       ]
     },

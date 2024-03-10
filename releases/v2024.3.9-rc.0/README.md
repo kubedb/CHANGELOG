@@ -104,6 +104,16 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.6.0-rc.0)
+
+- [8f5c92d](https://github.com/kubedb/mongodb-restic-plugin/commit/8f5c92d) Prepare for release v0.6.0-rc.0 (#31)
+- [e790456](https://github.com/kubedb/mongodb-restic-plugin/commit/e790456) fix order of lock and unlock secondary (#30)
+- [a0281df](https://github.com/kubedb/mongodb-restic-plugin/commit/a0281df) Fix component-name issue for sharded cluster (#29)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.36.0-rc.0)

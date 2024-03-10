@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.9-rc.0",
-  "release_date": "2024-03-10T05:41:01.674882223Z",
+  "release_date": "2024-03-10T05:44:43.954163432Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -215,6 +215,28 @@
             {
               "SHA": "83b0a1d",
               "Subject": "Prepare for release v0.4.0-rc.0 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8f5c92d",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "e790456",
+              "Subject": "fix order of lock and unlock secondary (#30)"
+            },
+            {
+              "SHA": "a0281df",
+              "Subject": "Fix component-name issue for sharded cluster (#29)"
             }
           ]
         }

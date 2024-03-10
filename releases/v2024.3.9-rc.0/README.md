@@ -196,3 +196,12 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.28.0-rc.0)
+
+- [79f0cad6](https://github.com/kubedb/tests/commit/79f0cad6) Prepare for release v0.28.0-rc.0 (#310)
+- [ed951ee1](https://github.com/kubedb/tests/commit/ed951ee1) MongoDB reprovision test (#309)
+
+
+

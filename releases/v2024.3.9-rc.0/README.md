@@ -86,6 +86,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.36.0-rc.0)
+
+- [58e27888](https://github.com/kubedb/mongodb/commit/58e278887) Prepare for release v0.36.0-rc.0 (#617)
+- [1ead0453](https://github.com/kubedb/mongodb/commit/1ead04536) ignore mongos repl mode detector (#616)
+- [c0797130](https://github.com/kubedb/mongodb/commit/c0797130c) Add replication mode detector container for shard (#614)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.4.0-rc.0)

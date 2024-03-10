@@ -281,6 +281,14 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.30.0-rc.0)
+
+- [b2e583b8](https://github.com/kubedb/proxysql/commit/b2e583b8a) Prepare for release v0.30.0-rc.0 (#337)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.36.0-rc.0)

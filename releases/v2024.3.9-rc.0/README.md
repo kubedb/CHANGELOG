@@ -78,6 +78,14 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.3.0-rc.0)
+
+- [4e9bb56](https://github.com/kubedb/mariadb-archiver/commit/4e9bb56) Prepare for release v0.3.0-rc.0 (#10)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.23.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.23.0-rc.0)

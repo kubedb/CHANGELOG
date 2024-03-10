@@ -29,6 +29,14 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.6.0-rc.0)
+
+- [de9ec11](https://github.com/kubedb/elasticsearch-restic-plugin/commit/de9ec11) Prepare for release v0.6.0-rc.0 (#22)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.4.0-rc.0)

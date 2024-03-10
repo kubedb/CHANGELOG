@@ -20,6 +20,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.43.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.43.0-rc.0)
+
+- [3410dd4f](https://github.com/kubedb/cli/commit/3410dd4f) Prepare for release v0.43.0-rc.0 (#760)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.12](https://github.com/kubedb/db-client-go/releases/tag/v0.0.12)

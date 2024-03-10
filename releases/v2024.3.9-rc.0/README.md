@@ -247,6 +247,15 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.30.0-rc.0)
+
+- [82431296](https://github.com/kubedb/replication-mode-detector/commit/82431296) Prepare for release v0.30.0-rc.0 (#261)
+- [397f06c4](https://github.com/kubedb/replication-mode-detector/commit/397f06c4) Add label for shard (#260)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.0.6](https://github.com/kubedb/singlestore/releases/tag/v0.0.6)

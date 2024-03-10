@@ -171,3 +171,12 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.0.6](https://github.com/kubedb/singlestore/releases/tag/v0.0.6)
+
+- [363401d](https://github.com/kubedb/singlestore/commit/363401d) Prepare for release v0.0.6 (#15)
+- [92ddddd](https://github.com/kubedb/singlestore/commit/92ddddd) Add monitoring support (#14)
+
+
+

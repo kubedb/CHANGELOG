@@ -220,6 +220,14 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.30.0-rc.0)
+
+- [b5e9f18b](https://github.com/kubedb/pgbouncer/commit/b5e9f18b) Prepare for release v0.30.0-rc.0 (#319)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.43.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.43.0-rc.0)

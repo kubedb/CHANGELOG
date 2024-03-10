@@ -37,6 +37,14 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.6.0-rc.0)
+
+- [8f8df05](https://github.com/kubedb/kubedb-manifest-plugin/commit/8f8df05) Prepare for release v0.6.0-rc.0 (#44)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.4.0-rc.0)

@@ -355,3 +355,11 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/ui-server/releases/tag/v0.19.0-rc.0)
+
+- [f7a7ee62](https://github.com/kubedb/ui-server/commit/f7a7ee62) Prepare for release v0.19.0-rc.0 (#113)
+
+
+

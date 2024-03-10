@@ -29,6 +29,14 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.4.0-rc.0)
+
+- [83b0a1d](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/83b0a1d) Prepare for release v0.4.0-rc.0 (#19)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.21.0-rc.0)

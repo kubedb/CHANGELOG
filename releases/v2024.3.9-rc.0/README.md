@@ -43,3 +43,10 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/provider-azure/releases/tag/v0.5.0-rc.0)
+
+
+
+

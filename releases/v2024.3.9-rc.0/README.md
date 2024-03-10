@@ -62,6 +62,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.4.0-rc.0)
+
+- [00c0f0e](https://github.com/kubedb/mysql-archiver/commit/00c0f0e) Prepare for release v0.4.0-rc.0 (#24)
+- [9fe9cd2](https://github.com/kubedb/mysql-archiver/commit/9fe9cd2) Fix Multiple Timeline not Restoring Issue (#23)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.21.0-rc.0)

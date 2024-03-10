@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.9-rc.0",
-  "release_date": "2024-03-10T04:42:58.820692268Z",
+  "release_date": "2024-03-10T04:43:20.056659873Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -137,6 +137,24 @@
             {
               "SHA": "83b0a1d",
               "Subject": "Prepare for release v0.4.0-rc.0 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "00c0f0e",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#24)"
+            },
+            {
+              "SHA": "9fe9cd2",
+              "Subject": "Fix Multiple Timeline not Restoring Issue (#23)"
             }
           ]
         }

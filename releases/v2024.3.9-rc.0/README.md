@@ -28,6 +28,14 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/dashboard/releases/tag/v0.19.0-rc.0)
+
+- [35522dd1](https://github.com/kubedb/dashboard/commit/35522dd1) Prepare for release v0.19.0-rc.0 (#108)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.12](https://github.com/kubedb/db-client-go/releases/tag/v0.0.12)

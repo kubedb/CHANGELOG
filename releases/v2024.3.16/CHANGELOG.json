@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T18:48:30.188915661Z",
+  "release_date": "2024-03-16T18:48:46.234568226Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -183,6 +183,28 @@
             {
               "SHA": "7ae91ca4",
               "Subject": "Use Go 1.22 (#93)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.0.8",
+          "commits": [
+            {
+              "SHA": "4a724d1",
+              "Subject": "Prepare for release v0.0.8 (#16)"
+            },
+            {
+              "SHA": "42f058d",
+              "Subject": "Use Go 1.22 (#15)"
+            },
+            {
+              "SHA": "79f1737",
+              "Subject": "Replace Statefulset with Petset (#14)"
             }
           ]
         }

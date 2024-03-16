@@ -69,6 +69,16 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.0.8](https://github.com/kubedb/druid/releases/tag/v0.0.8)
+
+- [4a724d1](https://github.com/kubedb/druid/commit/4a724d1) Prepare for release v0.0.8 (#16)
+- [42f058d](https://github.com/kubedb/druid/commit/42f058d) Use Go 1.22 (#15)
+- [79f1737](https://github.com/kubedb/druid/commit/79f1737) Replace Statefulset with Petset (#14)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.44.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.44.0)

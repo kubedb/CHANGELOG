@@ -39,3 +39,11 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.6.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.6.0)
+
+- [c8f6d83](https://github.com/kubedb/provider-gcp/commit/c8f6d83) Use Go 1.22 (#4)
+
+
+

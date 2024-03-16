@@ -331,6 +331,17 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.7.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.7.0)
+
+- [86659d3](https://github.com/kubedb/redis-restic-plugin/commit/86659d3) Prepare for release v0.7.0 (#26)
+- [7fe1b93](https://github.com/kubedb/redis-restic-plugin/commit/7fe1b93) Use Go 1.22 (#25)
+- [2166c18](https://github.com/kubedb/redis-restic-plugin/commit/2166c18) Add Support for Cross Namespace Restore (#24)
+- [0abdc75](https://github.com/kubedb/redis-restic-plugin/commit/0abdc75) Prepare for release v0.6.0-rc.0 (#23)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.31.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.31.0)

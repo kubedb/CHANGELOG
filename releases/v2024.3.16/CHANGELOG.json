@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T19:23:28.869036653Z",
+  "release_date": "2024-03-16T19:38:01.681748755Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -1129,6 +1129,36 @@
             {
               "SHA": "a8e2f71",
               "Subject": "Add monitoring and petset. (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "81fec4d3",
+              "Subject": "Prepare for release v0.29.0 (#313)"
+            },
+            {
+              "SHA": "322dabb4",
+              "Subject": "Use Go 1.22 (#312)"
+            },
+            {
+              "SHA": "f3de558d",
+              "Subject": "Add Kafka Connect Cluster tests (#290)"
+            },
+            {
+              "SHA": "79f0cad6",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#310)"
+            },
+            {
+              "SHA": "ed951ee1",
+              "Subject": "MongoDB reprovision test (#309)"
             }
           ]
         }

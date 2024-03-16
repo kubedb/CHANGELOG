@@ -490,6 +490,18 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.29.0](https://github.com/kubedb/tests/releases/tag/v0.29.0)
+
+- [81fec4d3](https://github.com/kubedb/tests/commit/81fec4d3) Prepare for release v0.29.0 (#313)
+- [322dabb4](https://github.com/kubedb/tests/commit/322dabb4) Use Go 1.22 (#312)
+- [f3de558d](https://github.com/kubedb/tests/commit/f3de558d) Add Kafka Connect Cluster tests (#290)
+- [79f0cad6](https://github.com/kubedb/tests/commit/79f0cad6) Prepare for release v0.28.0-rc.0 (#310)
+- [ed951ee1](https://github.com/kubedb/tests/commit/ed951ee1) MongoDB reprovision test (#309)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.8](https://github.com/kubedb/zookeeper/releases/tag/v0.0.8)

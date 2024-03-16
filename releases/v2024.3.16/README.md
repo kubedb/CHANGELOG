@@ -50,6 +50,17 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.7.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.7.0)
+
+- [ecf395f](https://github.com/kubedb/elasticsearch-restic-plugin/commit/ecf395f) Prepare for release v0.7.0 (#25)
+- [5c039aa](https://github.com/kubedb/elasticsearch-restic-plugin/commit/5c039aa) Use Go 1.22 (#24)
+- [19195b0](https://github.com/kubedb/elasticsearch-restic-plugin/commit/19195b0) Add Support for Cross Namespace Restore (#23)
+- [de9ec11](https://github.com/kubedb/elasticsearch-restic-plugin/commit/de9ec11) Prepare for release v0.6.0-rc.0 (#22)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.7.0)

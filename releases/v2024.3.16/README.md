@@ -132,6 +132,17 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.28.0](https://github.com/kubedb/mariadb/releases/tag/v0.28.0)
+
+- [3eeabaee](https://github.com/kubedb/mariadb/commit/3eeabaeed) Prepare for release v0.28.0 (#262)
+- [f40e7039](https://github.com/kubedb/mariadb/commit/f40e70398) Use Go 1.22 (#261)
+- [08d7efaa](https://github.com/kubedb/mariadb/commit/08d7efaa0) Implement achiver backup and recovery (#183)
+- [1389a6f8](https://github.com/kubedb/mariadb/commit/1389a6f85) Prepare for release v0.27.0-rc.0 (#260)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.4.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.4.0)

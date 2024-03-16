@@ -248,6 +248,17 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.31.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.31.0)
+
+- [4c30ec3c](https://github.com/kubedb/replication-mode-detector/commit/4c30ec3c) Prepare for release v0.31.0 (#264)
+- [17de6c25](https://github.com/kubedb/replication-mode-detector/commit/17de6c25) Use Go 1.22 (#263)
+- [82431296](https://github.com/kubedb/replication-mode-detector/commit/82431296) Prepare for release v0.30.0-rc.0 (#261)
+- [397f06c4](https://github.com/kubedb/replication-mode-detector/commit/397f06c4) Add label for shard (#260)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.0.7](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.0.7)

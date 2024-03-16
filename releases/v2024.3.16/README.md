@@ -311,6 +311,17 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.28.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.28.0)
+
+- [78ff38e8](https://github.com/kubedb/pg-coordinator/commit/78ff38e8) Prepare for release v0.28.0 (#160)
+- [69bb82d7](https://github.com/kubedb/pg-coordinator/commit/69bb82d7) Use Go 1.22 (#159)
+- [2f1ef049](https://github.com/kubedb/pg-coordinator/commit/2f1ef049) Add support for postgres replication slot (#158)
+- [d1f6731b](https://github.com/kubedb/pg-coordinator/commit/d1f6731b) Prepare for release v0.27.0-rc.0 (#157)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.8](https://github.com/kubedb/pgpool/releases/tag/v0.0.8)

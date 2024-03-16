@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T19:21:32.921775631Z",
+  "release_date": "2024-03-16T19:23:28.869036653Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -737,6 +737,32 @@
             {
               "SHA": "93f7f940",
               "Subject": "Prepare for release v0.16.0-rc.0 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "78ff38e8",
+              "Subject": "Prepare for release v0.28.0 (#160)"
+            },
+            {
+              "SHA": "69bb82d7",
+              "Subject": "Use Go 1.22 (#159)"
+            },
+            {
+              "SHA": "2f1ef049",
+              "Subject": "Add support for postgres replication slot (#158)"
+            },
+            {
+              "SHA": "d1f6731b",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#157)"
             }
           ]
         }

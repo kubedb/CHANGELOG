@@ -112,6 +112,16 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.22.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.22.0)
+
+- [8a76734f](https://github.com/kubedb/mysql-coordinator/commit/8a76734f) Prepare for release v0.22.0 (#107)
+- [0fd6ebc4](https://github.com/kubedb/mysql-coordinator/commit/0fd6ebc4) Use Go 1.22 (#106)
+- [9da51c98](https://github.com/kubedb/mysql-coordinator/commit/9da51c98) Prepare for release v0.21.0-rc.0 (#105)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.7.0)

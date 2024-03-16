@@ -1,0 +1,108 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.3.16",
+  "release_date": "2024-03-16T15:30:00.360045349Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.3.16",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "7c6eaeda0",
+              "Subject": "Update kubestash api"
+            },
+            {
+              "SHA": "c945620f5",
+              "Subject": "Register dbs in extractDatabaseInfo for petset (#1178)"
+            },
+            {
+              "SHA": "ed0e97c8d",
+              "Subject": "Add Monitoring support for Solr (#1151)"
+            },
+            {
+              "SHA": "4a4c3980b",
+              "Subject": "Replace StatefulSet to PetSet (#1177)"
+            },
+            {
+              "SHA": "e156d7afa",
+              "Subject": "Add ReplicationSlot support for Postgres (#1142)"
+            },
+            {
+              "SHA": "9c51f2dc0",
+              "Subject": "Update SingleStore Default Memory Resources (#1175)"
+            },
+            {
+              "SHA": "362c68b48",
+              "Subject": "Add druid monitoring (#1156)"
+            },
+            {
+              "SHA": "3d0208322",
+              "Subject": "Add petset support for all new-dbs (#1176)"
+            },
+            {
+              "SHA": "84f90648a",
+              "Subject": "Remove cves"
+            },
+            {
+              "SHA": "c50127cb2",
+              "Subject": "Add ui support to gateway (#1173)"
+            },
+            {
+              "SHA": "bfad33d2e",
+              "Subject": "Add MariaDB Archiver API (#1170)"
+            },
+            {
+              "SHA": "403b7380b",
+              "Subject": "Add KafkaAutoscaler APIs (#1168)"
+            },
+            {
+              "SHA": "64fea9fd1",
+              "Subject": "Add Pgpool monitoring (#1160)"
+            },
+            {
+              "SHA": "9553f55ba",
+              "Subject": "SingleStore Monitoring and UI (#1166)"
+            },
+            {
+              "SHA": "ea1e9882d",
+              "Subject": "Add service gateway info to db status (#1157)"
+            },
+            {
+              "SHA": "5b267a5c4",
+              "Subject": "Persist zookeeper digest credentials. (#1167)"
+            },
+            {
+              "SHA": "f45cf6e65",
+              "Subject": "Set db-specific exporter port"
+            },
+            {
+              "SHA": "310f4e20d",
+              "Subject": "Update client-go deps"
+            },
+            {
+              "SHA": "a28e6433f",
+              "Subject": "Set the metrics-port for rabbitmq & zookeeper (#1165)"
+            },
+            {
+              "SHA": "429a2b10f",
+              "Subject": "Fix solr helper condition. (#1164)"
+            },
+            {
+              "SHA": "5344c20e4",
+              "Subject": "Update APIs for external dependency (#1162)"
+            },
+            {
+              "SHA": "40d634543",
+              "Subject": "Add Monitoring API (#1153)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

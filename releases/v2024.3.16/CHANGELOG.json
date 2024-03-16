@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T17:27:18.840677801Z",
+  "release_date": "2024-03-16T17:37:34.806821781Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -169,6 +169,28 @@
             {
               "SHA": "de9ec11",
               "Subject": "Prepare for release v0.6.0-rc.0 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "b67ad6b",
+              "Subject": "Prepare for release v0.7.0 (#47)"
+            },
+            {
+              "SHA": "ec38640",
+              "Subject": "Use Go 1.22 (#46)"
+            },
+            {
+              "SHA": "8f8df05",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#44)"
             }
           ]
         }

@@ -61,6 +61,16 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.7.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.7.0)
+
+- [b67ad6b](https://github.com/kubedb/kubedb-manifest-plugin/commit/b67ad6b) Prepare for release v0.7.0 (#47)
+- [ec38640](https://github.com/kubedb/kubedb-manifest-plugin/commit/ec38640) Use Go 1.22 (#46)
+- [8f8df05](https://github.com/kubedb/kubedb-manifest-plugin/commit/8f8df05) Prepare for release v0.6.0-rc.0 (#44)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.7.0)

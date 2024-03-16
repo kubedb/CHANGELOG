@@ -186,3 +186,13 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.0.8](https://github.com/kubedb/zookeeper/releases/tag/v0.0.8)
+
+- [ed34766](https://github.com/kubedb/zookeeper/commit/ed34766) Prepare for release v0.0.8 (#15)
+- [7f507e7](https://github.com/kubedb/zookeeper/commit/7f507e7) Use Go 1.22 (#14)
+- [bbe937a](https://github.com/kubedb/zookeeper/commit/bbe937a) Add petset support (#13)
+
+
+

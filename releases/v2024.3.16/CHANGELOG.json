@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T17:56:11.197185846Z",
+  "release_date": "2024-03-16T17:57:01.691157827Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -435,6 +435,28 @@
             {
               "SHA": "36153bf",
               "Subject": "Add Support for Cross Namespace Restore (#2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.0.8",
+          "commits": [
+            {
+              "SHA": "ed34766",
+              "Subject": "Prepare for release v0.0.8 (#15)"
+            },
+            {
+              "SHA": "7f507e7",
+              "Subject": "Use Go 1.22 (#14)"
+            },
+            {
+              "SHA": "bbe937a",
+              "Subject": "Add petset support (#13)"
             }
           ]
         }

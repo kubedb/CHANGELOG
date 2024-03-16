@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T18:47:44.432170929Z",
+  "release_date": "2024-03-16T18:48:00.936600231Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -143,6 +143,28 @@
             {
               "SHA": "7c48391",
               "Subject": "Use Go 1.22 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "99b5232",
+              "Subject": "Prepare for release v0.2.0 (#4)"
+            },
+            {
+              "SHA": "124af63",
+              "Subject": "Use Go 1.22 (#3)"
+            },
+            {
+              "SHA": "3b2206a",
+              "Subject": "Add Support for Cross Namespace Restore (#2)"
             }
           ]
         }

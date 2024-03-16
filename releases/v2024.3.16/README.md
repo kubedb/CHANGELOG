@@ -50,6 +50,16 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.2.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.2.0)
+
+- [99b5232](https://github.com/kubedb/dashboard-restic-plugin/commit/99b5232) Prepare for release v0.2.0 (#4)
+- [124af63](https://github.com/kubedb/dashboard-restic-plugin/commit/124af63) Use Go 1.22 (#3)
+- [3b2206a](https://github.com/kubedb/dashboard-restic-plugin/commit/3b2206a) Add Support for Cross Namespace Restore (#2)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.13](https://github.com/kubedb/db-client-go/releases/tag/v0.0.13)

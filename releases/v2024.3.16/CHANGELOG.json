@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T19:18:13.391850977Z",
+  "release_date": "2024-03-16T19:19:11.314291594Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -561,6 +561,28 @@
             {
               "SHA": "a0281df",
               "Subject": "Fix component-name issue for sharded cluster (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "04bb333cb",
+              "Subject": "Prepare for release v0.37.0 (#616)"
+            },
+            {
+              "SHA": "1dc0bff5d",
+              "Subject": "Use Go 1.22 (#615)"
+            },
+            {
+              "SHA": "7e2138855",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#613)"
             }
           ]
         }

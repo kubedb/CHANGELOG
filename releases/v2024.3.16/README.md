@@ -231,6 +231,16 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.37.0](https://github.com/kubedb/mysql/releases/tag/v0.37.0)
+
+- [04bb333c](https://github.com/kubedb/mysql/commit/04bb333cb) Prepare for release v0.37.0 (#616)
+- [1dc0bff5](https://github.com/kubedb/mysql/commit/1dc0bff5d) Use Go 1.22 (#615)
+- [7e213885](https://github.com/kubedb/mysql/commit/7e2138855) Prepare for release v0.36.0-rc.0 (#613)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.5.0)

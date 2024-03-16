@@ -30,3 +30,12 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.0.13](https://github.com/kubedb/db-client-go/releases/tag/v0.0.13)
+
+- [ce0f5a8b](https://github.com/kubedb/db-client-go/commit/ce0f5a8b) Prepare for release v0.0.13 (#92)
+- [7ae91ca4](https://github.com/kubedb/db-client-go/commit/7ae91ca4) Use Go 1.22 (#93)
+
+
+

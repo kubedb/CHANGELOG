@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T18:47:39.164519996Z",
+  "release_date": "2024-03-16T18:47:44.432170929Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -371,6 +371,44 @@
             {
               "SHA": "83b0a1d",
               "Subject": "Prepare for release v0.4.0-rc.0 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "c2c3339",
+              "Subject": "Prepare for release v0.7.0 (#36)"
+            },
+            {
+              "SHA": "f997a0e",
+              "Subject": "Use Go 1.22 (#35)"
+            },
+            {
+              "SHA": "c867982",
+              "Subject": "Fix wait for db ready (#34)"
+            },
+            {
+              "SHA": "973824e",
+              "Subject": "Add Support for Cross Namespace Restore (#32)"
+            },
+            {
+              "SHA": "8f5c92d",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "e790456",
+              "Subject": "fix order of lock and unlock secondary (#30)"
+            },
+            {
+              "SHA": "a0281df",
+              "Subject": "Fix component-name issue for sharded cluster (#29)"
             }
           ]
         }

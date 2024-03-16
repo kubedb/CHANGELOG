@@ -152,6 +152,20 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.7.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.7.0)
+
+- [c2c3339](https://github.com/kubedb/mongodb-restic-plugin/commit/c2c3339) Prepare for release v0.7.0 (#36)
+- [f997a0e](https://github.com/kubedb/mongodb-restic-plugin/commit/f997a0e) Use Go 1.22 (#35)
+- [c867982](https://github.com/kubedb/mongodb-restic-plugin/commit/c867982) Fix wait for db ready (#34)
+- [973824e](https://github.com/kubedb/mongodb-restic-plugin/commit/973824e) Add Support for Cross Namespace Restore (#32)
+- [8f5c92d](https://github.com/kubedb/mongodb-restic-plugin/commit/8f5c92d) Prepare for release v0.6.0-rc.0 (#31)
+- [e790456](https://github.com/kubedb/mongodb-restic-plugin/commit/e790456) fix order of lock and unlock secondary (#30)
+- [a0281df](https://github.com/kubedb/mongodb-restic-plugin/commit/a0281df) Fix component-name issue for sharded cluster (#29)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.5.0)

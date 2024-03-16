@@ -343,6 +343,16 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.0.9](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.9)
+
+- [21da11ea](https://github.com/kubedb/rabbitmq/commit/21da11ea) Prepare for release v0.0.9 (#16)
+- [813c533c](https://github.com/kubedb/rabbitmq/commit/813c533c) Use Go 1.22 (#15)
+- [8a6b0461](https://github.com/kubedb/rabbitmq/commit/8a6b0461) Update controller to create Petset replacing statefulset (#14)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.37.0](https://github.com/kubedb/redis/releases/tag/v0.37.0)

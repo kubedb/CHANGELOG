@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T19:08:25.305840834Z",
+  "release_date": "2024-03-16T19:09:16.839186804Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -793,6 +793,28 @@
             {
               "SHA": "c8f6d83",
               "Subject": "Use Go 1.22 (#4)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.0.9",
+          "commits": [
+            {
+              "SHA": "21da11ea",
+              "Subject": "Prepare for release v0.0.9 (#16)"
+            },
+            {
+              "SHA": "813c533c",
+              "Subject": "Use Go 1.22 (#15)"
+            },
+            {
+              "SHA": "8a6b0461",
+              "Subject": "Update controller to create Petset replacing statefulset (#14)"
             }
           ]
         }

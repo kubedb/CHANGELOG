@@ -123,6 +123,17 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.5.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.5.0)
+
+- [3cab3f9](https://github.com/kubedb/mysql-archiver/commit/3cab3f9) Prepare for release v0.5.0 (#26)
+- [199c6a9](https://github.com/kubedb/mysql-archiver/commit/199c6a9) Use Go 1.22 (#25)
+- [00c0f0e](https://github.com/kubedb/mysql-archiver/commit/00c0f0e) Prepare for release v0.4.0-rc.0 (#24)
+- [9fe9cd2](https://github.com/kubedb/mysql-archiver/commit/9fe9cd2) Fix Multiple Timeline not Restoring Issue (#23)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.22.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.22.0)

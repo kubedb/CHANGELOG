@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T19:20:56.207857925Z",
+  "release_date": "2024-03-16T19:21:32.921775631Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -759,6 +759,32 @@
             {
               "SHA": "6d8d0ce",
               "Subject": "Replace StatefulSet with PetSet (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "009d26a27",
+              "Subject": "Prepare for release v0.44.0 (#724)"
+            },
+            {
+              "SHA": "c811db175",
+              "Subject": "Use Go 1.22 (#723)"
+            },
+            {
+              "SHA": "62d92776c",
+              "Subject": "Add Support for PG Replication Slot (#722)"
+            },
+            {
+              "SHA": "6b772e809",
+              "Subject": "Prepare for release v0.43.0-rc.0 (#720)"
             }
           ]
         }

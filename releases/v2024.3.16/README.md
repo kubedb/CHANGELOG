@@ -321,6 +321,17 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.44.0](https://github.com/kubedb/postgres/releases/tag/v0.44.0)
+
+- [009d26a2](https://github.com/kubedb/postgres/commit/009d26a27) Prepare for release v0.44.0 (#724)
+- [c811db17](https://github.com/kubedb/postgres/commit/c811db175) Use Go 1.22 (#723)
+- [62d92776](https://github.com/kubedb/postgres/commit/62d92776c) Add Support for PG Replication Slot (#722)
+- [6b772e80](https://github.com/kubedb/postgres/commit/6b772e809) Prepare for release v0.43.0-rc.0 (#720)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.5.0)

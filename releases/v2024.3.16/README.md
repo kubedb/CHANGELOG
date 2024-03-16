@@ -342,6 +342,16 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.0.9](https://github.com/kubedb/solr/releases/tag/v0.0.9)
+
+- [08ff522](https://github.com/kubedb/solr/commit/08ff522) Prepare for release v0.0.9 (#18)
+- [a9995f0](https://github.com/kubedb/solr/commit/a9995f0) Use Go 1.22 (#17)
+- [a8e2f71](https://github.com/kubedb/solr/commit/a8e2f71) Add monitoring and petset. (#11)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.8](https://github.com/kubedb/zookeeper/releases/tag/v0.0.8)

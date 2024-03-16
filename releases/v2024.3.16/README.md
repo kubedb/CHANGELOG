@@ -173,6 +173,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.31.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.31.0)
+
+- [3ef2f278](https://github.com/kubedb/percona-xtradb/commit/3ef2f2783) Prepare for release v0.31.0 (#360)
+- [c2eb50bd](https://github.com/kubedb/percona-xtradb/commit/c2eb50bd9) Use Go 1.22 (#359)
+- [d69b6040](https://github.com/kubedb/percona-xtradb/commit/d69b6040c) Prepare for release v0.30.0-rc.0 (#357)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.5.0)

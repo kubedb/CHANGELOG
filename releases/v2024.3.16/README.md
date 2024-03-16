@@ -39,6 +39,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.22.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.22.0)
+
+- [f1af6f6](https://github.com/kubedb/mysql-router-init/commit/f1af6f6) Use Go 1.22 (#41)
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.6.0](https://github.com/kubedb/provider-azure/releases/tag/v0.6.0)

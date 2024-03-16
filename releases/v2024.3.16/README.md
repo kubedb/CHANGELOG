@@ -30,6 +30,17 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.44.0](https://github.com/kubedb/cli/releases/tag/v0.44.0)
+
+- [0a6bf8a8](https://github.com/kubedb/cli/commit/0a6bf8a8) Prepare for release v0.44.0 (#762)
+- [23ac68f8](https://github.com/kubedb/cli/commit/23ac68f8) Use Go 1.22 (#761)
+- [2d1a52e3](https://github.com/kubedb/cli/commit/2d1a52e3) Refer to remote dashboard files through `--url`
+- [3410dd4f](https://github.com/kubedb/cli/commit/3410dd4f) Prepare for release v0.43.0-rc.0 (#760)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.13](https://github.com/kubedb/db-client-go/releases/tag/v0.0.13)

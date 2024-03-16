@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T18:52:29.017057732Z",
+  "release_date": "2024-03-16T19:03:01.4961933Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -253,6 +253,28 @@
             {
               "SHA": "de9ec11",
               "Subject": "Prepare for release v0.6.0-rc.0 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.0.8",
+          "commits": [
+            {
+              "SHA": "84daf7a0",
+              "Subject": "Prepare for release v0.0.8 (#15)"
+            },
+            {
+              "SHA": "a85e325e",
+              "Subject": "Use Go 1.22 (#14)"
+            },
+            {
+              "SHA": "34f033dc",
+              "Subject": "Add petset to ferretdb (#13)"
             }
           ]
         }

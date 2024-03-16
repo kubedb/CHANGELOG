@@ -100,6 +100,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.0.8](https://github.com/kubedb/ferretdb/releases/tag/v0.0.8)
+
+- [84daf7a0](https://github.com/kubedb/ferretdb/commit/84daf7a0) Prepare for release v0.0.8 (#15)
+- [a85e325e](https://github.com/kubedb/ferretdb/commit/a85e325e) Use Go 1.22 (#14)
+- [34f033dc](https://github.com/kubedb/ferretdb/commit/34f033dc) Add petset to ferretdb (#13)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.7.0)

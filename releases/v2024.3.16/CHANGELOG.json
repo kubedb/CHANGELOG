@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T18:45:09.159463228Z",
+  "release_date": "2024-03-16T18:47:22.862782006Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -507,6 +507,28 @@
             {
               "SHA": "6d8d0ce",
               "Subject": "Replace StatefulSet with PetSet (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "4598539",
+              "Subject": "Prepare for release v0.5.0 (#25)"
+            },
+            {
+              "SHA": "df6a88a",
+              "Subject": "Use Go 1.22 (#24)"
+            },
+            {
+              "SHA": "95a3f5a",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#23)"
             }
           ]
         }

@@ -71,6 +71,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.24.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.24.0)
+
+- [527b4c21](https://github.com/kubedb/mariadb-coordinator/commit/527b4c21) Prepare for release v0.24.0 (#112)
+- [eea3b5b6](https://github.com/kubedb/mariadb-coordinator/commit/eea3b5b6) Use Go 1.22 (#111)
+- [2380c6e5](https://github.com/kubedb/mariadb-coordinator/commit/2380c6e5) Prepare for release v0.23.0-rc.0 (#110)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.2.0)

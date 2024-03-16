@@ -110,6 +110,18 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.15.0](https://github.com/kubedb/kafka/releases/tag/v0.15.0)
+
+- [b41b5d3e](https://github.com/kubedb/kafka/commit/b41b5d3e) Prepare for release v0.15.0 (#82)
+- [44839f29](https://github.com/kubedb/kafka/commit/44839f29) Use Go 1.22 (#81)
+- [e553c579](https://github.com/kubedb/kafka/commit/e553c579) Update daily tests to run with versions 3.5.2,3.6.1
+- [c7038c02](https://github.com/kubedb/kafka/commit/c7038c02) Prepare for release v0.14.0-rc.0 (#80)
+- [089c99b7](https://github.com/kubedb/kafka/commit/089c99b7) Fix Kafka node specific resource (#79)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.7.0)

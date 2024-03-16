@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T19:09:16.839186804Z",
+  "release_date": "2024-03-16T19:16:08.761638875Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -275,6 +275,36 @@
             {
               "SHA": "34f033dc",
               "Subject": "Add petset to ferretdb (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "b41b5d3e",
+              "Subject": "Prepare for release v0.15.0 (#82)"
+            },
+            {
+              "SHA": "44839f29",
+              "Subject": "Use Go 1.22 (#81)"
+            },
+            {
+              "SHA": "e553c579",
+              "Subject": "Update daily tests to run with versions 3.5.2,3.6.1"
+            },
+            {
+              "SHA": "c7038c02",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#80)"
+            },
+            {
+              "SHA": "089c99b7",
+              "Subject": "Fix Kafka node specific resource (#79)"
             }
           ]
         }

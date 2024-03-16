@@ -104,3 +104,13 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.2.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.2.0)
+
+- [7a50d9d](https://github.com/kubedb/singlestore-restic-plugin/commit/7a50d9d) Prepare for release v0.2.0 (#4)
+- [c1e25b8](https://github.com/kubedb/singlestore-restic-plugin/commit/c1e25b8) Use Go 1.22 (#3)
+- [36153bf](https://github.com/kubedb/singlestore-restic-plugin/commit/36153bf) Add Support for Cross Namespace Restore (#2)
+
+
+

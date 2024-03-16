@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T17:26:17.285765887Z",
+  "release_date": "2024-03-16T17:26:21.80085766Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -157,6 +157,32 @@
             {
               "SHA": "f1af6f6",
               "Subject": "Use Go 1.22 (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "2d96c3e",
+              "Subject": "Prepare for release v0.7.0 (#24)"
+            },
+            {
+              "SHA": "4844eca",
+              "Subject": "Use Go 1.22 (#23)"
+            },
+            {
+              "SHA": "fbf6f61",
+              "Subject": "Add Support for Cross Namespace Restore (#21)"
+            },
+            {
+              "SHA": "ed4a89c",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#20)"
             }
           ]
         }

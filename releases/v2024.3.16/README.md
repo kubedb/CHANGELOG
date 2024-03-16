@@ -58,6 +58,17 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.7.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.7.0)
+
+- [2d96c3e](https://github.com/kubedb/postgres-restic-plugin/commit/2d96c3e) Prepare for release v0.7.0 (#24)
+- [4844eca](https://github.com/kubedb/postgres-restic-plugin/commit/4844eca) Use Go 1.22 (#23)
+- [fbf6f61](https://github.com/kubedb/postgres-restic-plugin/commit/fbf6f61) Add Support for Cross Namespace Restore (#21)
+- [ed4a89c](https://github.com/kubedb/postgres-restic-plugin/commit/ed4a89c) Prepare for release v0.6.0-rc.0 (#20)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.6.0](https://github.com/kubedb/provider-aws/releases/tag/v0.6.0)

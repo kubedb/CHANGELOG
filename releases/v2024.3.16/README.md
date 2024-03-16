@@ -71,6 +71,15 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.2.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.2.0)
+
+- [7aabe3e](https://github.com/kubedb/mariadb-restic-plugin/commit/7aabe3e) Prepare for release v0.2.0 (#4)
+- [5a04032](https://github.com/kubedb/mariadb-restic-plugin/commit/5a04032) Use Go 1.22 (#3)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.37.0](https://github.com/kubedb/mongodb/releases/tag/v0.37.0)

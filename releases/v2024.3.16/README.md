@@ -332,6 +332,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.31.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.31.0)
+
+- [cb3f3cb6](https://github.com/kubedb/pgbouncer/commit/cb3f3cb6) Prepare for release v0.31.0 (#321)
+- [2daf8fc5](https://github.com/kubedb/pgbouncer/commit/2daf8fc5) Use Go 1.22 (#320)
+- [b5e9f18b](https://github.com/kubedb/pgbouncer/commit/b5e9f18b) Prepare for release v0.30.0-rc.0 (#319)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.8](https://github.com/kubedb/pgpool/releases/tag/v0.0.8)

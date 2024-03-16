@@ -47,6 +47,14 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.6.0](https://github.com/kubedb/provider-aws/releases/tag/v0.6.0)
+
+- [2215aee](https://github.com/kubedb/provider-aws/commit/2215aee) Use Go 1.22 (#13)
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.6.0](https://github.com/kubedb/provider-azure/releases/tag/v0.6.0)

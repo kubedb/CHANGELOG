@@ -71,6 +71,18 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.37.0](https://github.com/kubedb/mongodb/releases/tag/v0.37.0)
+
+- [9e5db160](https://github.com/kubedb/mongodb/commit/9e5db160e) Prepare for release v0.37.0 (#620)
+- [2ded92d1](https://github.com/kubedb/mongodb/commit/2ded92d15) Use Go 1.22 (#619)
+- [58e27888](https://github.com/kubedb/mongodb/commit/58e278887) Prepare for release v0.36.0-rc.0 (#617)
+- [1ead0453](https://github.com/kubedb/mongodb/commit/1ead04536) ignore mongos repl mode detector (#616)
+- [c0797130](https://github.com/kubedb/mongodb/commit/c0797130c) Add replication mode detector container for shard (#614)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.7.0)

@@ -41,6 +41,15 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.0.8](https://github.com/kubedb/crd-manager/releases/tag/v0.0.8)
+
+- [31204ad](https://github.com/kubedb/crd-manager/commit/31204ad) Prepare for release v0.0.8 (#19)
+- [7c48391](https://github.com/kubedb/crd-manager/commit/7c48391) Use Go 1.22 (#18)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.13](https://github.com/kubedb/db-client-go/releases/tag/v0.0.13)

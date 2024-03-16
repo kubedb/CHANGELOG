@@ -193,6 +193,16 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.0.8](https://github.com/kubedb/pgpool/releases/tag/v0.0.8)
+
+- [6b1ca42](https://github.com/kubedb/pgpool/commit/6b1ca42) Prepare for release v0.0.8 (#20)
+- [7ab4f4b](https://github.com/kubedb/pgpool/commit/7ab4f4b) Use Go 1.22 (#19)
+- [6d8d0ce](https://github.com/kubedb/pgpool/commit/6d8d0ce) Replace StatefulSet with PetSet (#18)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.5.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T18:10:59.374210931Z",
+  "release_date": "2024-03-16T18:14:17.889718599Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -463,6 +463,28 @@
             {
               "SHA": "93f7f940",
               "Subject": "Prepare for release v0.16.0-rc.0 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.0.8",
+          "commits": [
+            {
+              "SHA": "6b1ca42",
+              "Subject": "Prepare for release v0.0.8 (#20)"
+            },
+            {
+              "SHA": "7ab4f4b",
+              "Subject": "Use Go 1.22 (#19)"
+            },
+            {
+              "SHA": "6d8d0ce",
+              "Subject": "Replace StatefulSet with PetSet (#18)"
             }
           ]
         }

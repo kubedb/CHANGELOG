@@ -408,6 +408,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.31.0](https://github.com/kubedb/proxysql/releases/tag/v0.31.0)
+
+- [059103a0](https://github.com/kubedb/proxysql/commit/059103a09) Prepare for release v0.31.0 (#339)
+- [96e0d84d](https://github.com/kubedb/proxysql/commit/96e0d84d3) Use Go 1.22 (#338)
+- [b2e583b8](https://github.com/kubedb/proxysql/commit/b2e583b8a) Prepare for release v0.30.0-rc.0 (#337)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.0.9](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.9)

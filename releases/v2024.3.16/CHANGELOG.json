@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T19:44:44.247015643Z",
+  "release_date": "2024-03-16T19:47:32.14203107Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -945,6 +945,28 @@
             {
               "SHA": "c8f6d83",
               "Subject": "Use Go 1.22 (#4)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "059103a09",
+              "Subject": "Prepare for release v0.31.0 (#339)"
+            },
+            {
+              "SHA": "96e0d84d3",
+              "Subject": "Use Go 1.22 (#338)"
+            },
+            {
+              "SHA": "b2e583b8a",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#337)"
             }
           ]
         }

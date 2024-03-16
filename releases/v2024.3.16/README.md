@@ -80,6 +80,16 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.37.0](https://github.com/kubedb/memcached/releases/tag/v0.37.0)
+
+- [07fe6bc8](https://github.com/kubedb/memcached/commit/07fe6bc8) Prepare for release v0.37.0 (#427)
+- [e57f9f2c](https://github.com/kubedb/memcached/commit/e57f9f2c) Use Go 1.22 (#426)
+- [2a54bc53](https://github.com/kubedb/memcached/commit/2a54bc53) Prepare for release v0.36.0-rc.0 (#425)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.37.0](https://github.com/kubedb/mongodb/releases/tag/v0.37.0)

@@ -137,6 +137,16 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.0.7](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.0.7)
+
+- [a61a41d](https://github.com/kubedb/singlestore-coordinator/commit/a61a41d) Prepare for release v0.0.7 (#11)
+- [e21b3c5](https://github.com/kubedb/singlestore-coordinator/commit/e21b3c5) Use Go 1.22 (#10)
+- [d7f3da6](https://github.com/kubedb/singlestore-coordinator/commit/d7f3da6) Add PetSet (#9)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.2.0)

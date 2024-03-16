@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T17:26:21.80085766Z",
+  "release_date": "2024-03-16T17:26:54.006330205Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -143,6 +143,32 @@
             {
               "SHA": "7ae91ca4",
               "Subject": "Use Go 1.22 (#93)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "200364a",
+              "Subject": "Prepare for release v0.7.0 (#31)"
+            },
+            {
+              "SHA": "16a4bf6",
+              "Subject": "Use Go 1.22 (#30)"
+            },
+            {
+              "SHA": "21c0a09",
+              "Subject": "Add Support for Cross Namespace Restore (#29)"
+            },
+            {
+              "SHA": "3dcb7b8",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#28)"
             }
           ]
         }

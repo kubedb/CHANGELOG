@@ -50,6 +50,17 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.7.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.7.0)
+
+- [200364a](https://github.com/kubedb/mysql-restic-plugin/commit/200364a) Prepare for release v0.7.0 (#31)
+- [16a4bf6](https://github.com/kubedb/mysql-restic-plugin/commit/16a4bf6) Use Go 1.22 (#30)
+- [21c0a09](https://github.com/kubedb/mysql-restic-plugin/commit/21c0a09) Add Support for Cross Namespace Restore (#29)
+- [3dcb7b8](https://github.com/kubedb/mysql-restic-plugin/commit/3dcb7b8) Prepare for release v0.6.0-rc.0 (#28)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.22.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.22.0)

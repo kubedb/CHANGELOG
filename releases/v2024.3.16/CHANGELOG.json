@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-16T17:57:15.6914536Z",
+  "release_date": "2024-03-16T17:59:52.202298895Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -191,6 +191,32 @@
             {
               "SHA": "8f8df05",
               "Subject": "Prepare for release v0.6.0-rc.0 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "9f5b224",
+              "Subject": "Prepare for release v0.4.0 (#12)"
+            },
+            {
+              "SHA": "acc612b",
+              "Subject": "Use Go 1.22 (#11)"
+            },
+            {
+              "SHA": "0ea457c",
+              "Subject": "Use GTID for binlog recovery (#2)"
+            },
+            {
+              "SHA": "4e9bb56",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#10)"
             }
           ]
         }

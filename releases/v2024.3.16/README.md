@@ -428,6 +428,16 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.0.7](https://github.com/kubedb/singlestore/releases/tag/v0.0.7)
+
+- [618ee09](https://github.com/kubedb/singlestore/commit/618ee09) Prepare for release v0.0.7 (#18)
+- [2da9914](https://github.com/kubedb/singlestore/commit/2da9914) Use Go 1.22 (#17)
+- [97f5098](https://github.com/kubedb/singlestore/commit/97f5098) Add PetSet (#16)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.0.7](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.0.7)

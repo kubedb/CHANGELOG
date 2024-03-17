@@ -30,6 +30,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.29.0](https://github.com/kubedb/autoscaler/releases/tag/v0.29.0)
+
+- [b2b8afdd](https://github.com/kubedb/autoscaler/commit/b2b8afdd) Prepare for release v0.29.0 (#193)
+- [2704a3a9](https://github.com/kubedb/autoscaler/commit/2704a3a9) Use Go 1.22 (#192)
+- [8d58e694](https://github.com/kubedb/autoscaler/commit/8d58e694) Prepare for release v0.28.0-rc.0 (#191)
+- [9ef5c754](https://github.com/kubedb/autoscaler/commit/9ef5c754) Add Kafka Autoscaler (#190)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.44.0](https://github.com/kubedb/cli/releases/tag/v0.44.0)

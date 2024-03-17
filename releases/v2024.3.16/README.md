@@ -480,6 +480,16 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.20.0](https://github.com/kubedb/schema-manager/releases/tag/v0.20.0)
+
+- [0dc3955f](https://github.com/kubedb/schema-manager/commit/0dc3955f) Prepare for release v0.20.0 (#106)
+- [4585101f](https://github.com/kubedb/schema-manager/commit/4585101f) Use Go 1.22 (#105)
+- [0b11c0ca](https://github.com/kubedb/schema-manager/commit/0b11c0ca) Prepare for release v0.19.0-rc.0 (#104)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.0.7](https://github.com/kubedb/singlestore/releases/tag/v0.0.7)

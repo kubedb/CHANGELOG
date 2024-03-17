@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-17T02:10:36.512771706Z",
+  "release_date": "2024-03-17T02:14:37.98790842Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -1107,6 +1107,28 @@
             {
               "SHA": "397f06c4",
               "Subject": "Add label for shard (#260)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "0dc3955f",
+              "Subject": "Prepare for release v0.20.0 (#106)"
+            },
+            {
+              "SHA": "4585101f",
+              "Subject": "Use Go 1.22 (#105)"
+            },
+            {
+              "SHA": "0b11c0ca",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#104)"
             }
           ]
         }

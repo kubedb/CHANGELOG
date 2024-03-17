@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-17T02:19:41.144382012Z",
+  "release_date": "2024-03-17T03:44:31.517695732Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -715,6 +715,56 @@
             {
               "SHA": "f1af6f6",
               "Subject": "Use Go 1.22 (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "f6d894ce3",
+              "Subject": "Prepare for release v0.31.0 (#548)"
+            },
+            {
+              "SHA": "18d77621e",
+              "Subject": "Update go.sum"
+            },
+            {
+              "SHA": "ddc2a48c0",
+              "Subject": "Use Go 1.22 (#547)"
+            },
+            {
+              "SHA": "ba77c1feb",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f41286bd2",
+              "Subject": "Drop replication slot on down scaling (#546)"
+            },
+            {
+              "SHA": "11e19df16",
+              "Subject": "Add scheme for scanner api (#545)"
+            },
+            {
+              "SHA": "d038e38db",
+              "Subject": "use mariadb-upgrade (#544)"
+            },
+            {
+              "SHA": "062c3be72",
+              "Subject": "Update tests to run Kafka versions 3.5.2,3.6.1"
+            },
+            {
+              "SHA": "ac5f32711",
+              "Subject": "Fix Kafka Horizontal Scale Failing for Quorum voter config conflicts (#543)"
+            },
+            {
+              "SHA": "f6c944e92",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#542)"
             }
           ]
         }

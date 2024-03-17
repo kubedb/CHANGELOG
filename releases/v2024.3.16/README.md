@@ -301,6 +301,23 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.31.0](https://github.com/kubedb/ops-manager/releases/tag/v0.31.0)
+
+- [f6d894ce](https://github.com/kubedb/ops-manager/commit/f6d894ce3) Prepare for release v0.31.0 (#548)
+- [18d77621](https://github.com/kubedb/ops-manager/commit/18d77621e) Update go.sum
+- [ddc2a48c](https://github.com/kubedb/ops-manager/commit/ddc2a48c0) Use Go 1.22 (#547)
+- [ba77c1fe](https://github.com/kubedb/ops-manager/commit/ba77c1feb) Update deps
+- [f41286bd](https://github.com/kubedb/ops-manager/commit/f41286bd2) Drop replication slot on down scaling (#546)
+- [11e19df1](https://github.com/kubedb/ops-manager/commit/11e19df16) Add scheme for scanner api (#545)
+- [d038e38d](https://github.com/kubedb/ops-manager/commit/d038e38db) use mariadb-upgrade (#544)
+- [062c3be7](https://github.com/kubedb/ops-manager/commit/062c3be72) Update tests to run Kafka versions 3.5.2,3.6.1
+- [ac5f3271](https://github.com/kubedb/ops-manager/commit/ac5f32711) Fix Kafka Horizontal Scale Failing for Quorum voter config conflicts (#543)
+- [f6c944e9](https://github.com/kubedb/ops-manager/commit/f6c944e92) Prepare for release v0.30.0-rc.0 (#542)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.31.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.31.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.3.16",
-  "release_date": "2024-03-17T03:57:21.241471311Z",
+  "release_date": "2024-03-17T04:16:19.978417541Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.3.16",
   "kubernetes_version": "1.20+",
@@ -1354,6 +1354,32 @@
             {
               "SHA": "f7a7ee62",
               "Subject": "Prepare for release v0.19.0-rc.0 (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "65fd596e",
+              "Subject": "Prepare for release v0.20.0 (#100)"
+            },
+            {
+              "SHA": "98874df4",
+              "Subject": "Use Go 1.22 (#99)"
+            },
+            {
+              "SHA": "3b6b6fc2",
+              "Subject": "Add Kafka Autoscaler Webhook (#98)"
+            },
+            {
+              "SHA": "c9031073",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#97)"
             }
           ]
         }

@@ -587,6 +587,17 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.20.0](https://github.com/kubedb/webhook-server/releases/tag/v0.20.0)
+
+- [65fd596e](https://github.com/kubedb/webhook-server/commit/65fd596e) Prepare for release v0.20.0 (#100)
+- [98874df4](https://github.com/kubedb/webhook-server/commit/98874df4) Use Go 1.22 (#99)
+- [3b6b6fc2](https://github.com/kubedb/webhook-server/commit/3b6b6fc2) Add Kafka Autoscaler Webhook (#98)
+- [c9031073](https://github.com/kubedb/webhook-server/commit/c9031073) Prepare for release v0.19.0-rc.0 (#97)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.8](https://github.com/kubedb/zookeeper/releases/tag/v0.0.8)

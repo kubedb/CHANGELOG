@@ -90,6 +90,19 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.3.16](https://github.com/kubedb/docs/releases/tag/v2024.3.16)
+
+- [f77a1ddf](https://github.com/kubedb/docs/commit/f77a1ddf) Prepare for release v2024.3.16 (#623)
+- [75425a0e](https://github.com/kubedb/docs/commit/75425a0e) Update docs for kubedb/webhook-server@98874df4 (#621)
+- [b3a39d7e](https://github.com/kubedb/docs/commit/b3a39d7e) Update docs for kubedb/cli@0a6bf8a8 (#622)
+- [6cdc4e7f](https://github.com/kubedb/docs/commit/6cdc4e7f) Use Go 1.22 (#620)
+- [47e9bbf9](https://github.com/kubedb/docs/commit/47e9bbf9) Prepare for release v2024.3.9-rc.0 (#614)
+- [ab804152](https://github.com/kubedb/docs/commit/ab804152) Update docs for kubedb/cli@3410dd4f (#613)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.0.8](https://github.com/kubedb/druid/releases/tag/v0.0.8)

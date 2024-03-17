@@ -1,4 +1,4 @@
-# KubeDB v2024.3.16 (2024-03-16)
+# KubeDB v2024.3.16 (2024-03-17)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -529,6 +529,16 @@
 - [f3de558d](https://github.com/kubedb/tests/commit/f3de558d) Add Kafka Connect Cluster tests (#290)
 - [79f0cad6](https://github.com/kubedb/tests/commit/79f0cad6) Prepare for release v0.28.0-rc.0 (#310)
 - [ed951ee1](https://github.com/kubedb/tests/commit/ed951ee1) MongoDB reprovision test (#309)
+
+
+
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.20.0](https://github.com/kubedb/ui-server/releases/tag/v0.20.0)
+
+- [0f1653d8](https://github.com/kubedb/ui-server/commit/0f1653d8) Prepare for release v0.20.0 (#115)
+- [1da6ab0f](https://github.com/kubedb/ui-server/commit/1da6ab0f) Use Go 1.22 (#114)
+- [f7a7ee62](https://github.com/kubedb/ui-server/commit/f7a7ee62) Prepare for release v0.19.0-rc.0 (#113)
 
 
 

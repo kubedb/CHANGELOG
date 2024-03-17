@@ -41,6 +41,16 @@
 
 
 
+## [kubedb/bundles](https://github.com/kubedb/bundles)
+
+### [v2024.3.16](https://github.com/kubedb/bundles/releases/tag/v2024.3.16)
+
+- [287fe4b](https://github.com/kubedb/bundles/commit/287fe4b) Prepare for release v2024.3.16 (#86)
+- [a3c7606](https://github.com/kubedb/bundles/commit/a3c7606) Use Go 1.22 (#85)
+- [73d7c41](https://github.com/kubedb/bundles/commit/73d7c41) Prepare for release v2024.3.9-rc.0 (#84)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.44.0](https://github.com/kubedb/cli/releases/tag/v0.44.0)

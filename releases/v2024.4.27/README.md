@@ -790,6 +790,14 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.21.0](https://github.com/kubedb/schema-manager/releases/tag/v0.21.0)
+
+- [217af272](https://github.com/kubedb/schema-manager/commit/217af272) Prepare for release v0.21.0 (#110)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.0.9](https://github.com/kubedb/singlestore/releases/tag/v0.0.9)

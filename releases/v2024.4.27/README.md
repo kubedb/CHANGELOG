@@ -56,6 +56,17 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.3.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.3.0)
+
+- [54be40d](https://github.com/kubedb/dashboard-restic-plugin/commit/54be40d) Add support for create space for dashboard restore (#7)
+- [b74d46e](https://github.com/kubedb/dashboard-restic-plugin/commit/b74d46e) Prepare for release v0.3.0 (#8)
+- [81e3440](https://github.com/kubedb/dashboard-restic-plugin/commit/81e3440) Use restic 0.16.4 (#6)
+- [11108d4](https://github.com/kubedb/dashboard-restic-plugin/commit/11108d4) Use Go 1.22 (#5)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.15](https://github.com/kubedb/db-client-go/releases/tag/v0.0.15)

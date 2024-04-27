@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T13:01:53.969748495Z",
+  "release_date": "2024-04-27T13:01:58.377692496Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -167,6 +167,32 @@
             {
               "SHA": "ef190af",
               "Subject": "Update db list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "54be40d",
+              "Subject": "Add support for create space for dashboard restore (#7)"
+            },
+            {
+              "SHA": "b74d46e",
+              "Subject": "Prepare for release v0.3.0 (#8)"
+            },
+            {
+              "SHA": "81e3440",
+              "Subject": "Use restic 0.16.4 (#6)"
+            },
+            {
+              "SHA": "11108d4",
+              "Subject": "Use Go 1.22 (#5)"
             }
           ]
         }

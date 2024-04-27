@@ -110,6 +110,17 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.8.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.8.0)
+
+- [76a22e9](https://github.com/kubedb/redis-restic-plugin/commit/76a22e9) Prepare for release v0.8.0 (#31)
+- [de1eb07](https://github.com/kubedb/redis-restic-plugin/commit/de1eb07) Prepare for release v0.8.0 (#30)
+- [117aae0](https://github.com/kubedb/redis-restic-plugin/commit/117aae0) Use restic 0.16.4 (#29)
+- [e855f79](https://github.com/kubedb/redis-restic-plugin/commit/e855f79) Use Go 1.22 (#28)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.32.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.32.0)

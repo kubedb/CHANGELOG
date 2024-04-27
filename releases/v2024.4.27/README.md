@@ -116,6 +116,16 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.6.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.6.0)
+
+- [db6968c](https://github.com/kubedb/postgres-archiver/commit/db6968c) Prepare for release v0.6.0 (#28)
+- [a05987c](https://github.com/kubedb/postgres-archiver/commit/a05987c) Prepare for release v0.6.0 (#27)
+- [b8cb6d3](https://github.com/kubedb/postgres-archiver/commit/b8cb6d3) Use Go 1.22 (#26)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.0.11](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.11)

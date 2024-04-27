@@ -68,3 +68,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.38.0](https://github.com/kubedb/redis/releases/tag/v0.38.0)
+
+- [6b29c6ab](https://github.com/kubedb/redis/commit/6b29c6ab2) Prepare for release v0.38.0 (#538)
+- [5403c046](https://github.com/kubedb/redis/commit/5403c0460) Prepare for release v0.38.0 (#537)
+- [b9a7cbc7](https://github.com/kubedb/redis/commit/b9a7cbc70) Remove redundant log for monitoring agent not found (#536)
+- [56a9e21f](https://github.com/kubedb/redis/commit/56a9e21f3) Use deps (#535)
+- [37c0f40d](https://github.com/kubedb/redis/commit/37c0f40d7) Use Go 1.22 (#534)
+- [5645fb9b](https://github.com/kubedb/redis/commit/5645fb9bd) Remove License Check from Webhook Server (#533)
+
+
+

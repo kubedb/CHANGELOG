@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:59:38.148363161Z",
+  "release_date": "2024-04-27T12:59:42.967237115Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -145,6 +145,44 @@
             {
               "SHA": "e01cb9ea",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.0.9",
+          "commits": [
+            {
+              "SHA": "5901334",
+              "Subject": "Prepare for release v0.0.9 (#22)"
+            },
+            {
+              "SHA": "c77e449",
+              "Subject": "Prepare for release v0.0.9 (#21)"
+            },
+            {
+              "SHA": "831f543",
+              "Subject": "Set Defaults to db on reconcile (#20)"
+            },
+            {
+              "SHA": "b1ca09c",
+              "Subject": "Use deps (#19)"
+            },
+            {
+              "SHA": "05dd9ca",
+              "Subject": "Use Go 1.22 (#18)"
+            },
+            {
+              "SHA": "6c77255",
+              "Subject": "Add support for monitoring (#13)"
+            },
+            {
+              "SHA": "a834fc5",
+              "Subject": "Remove license check for webhook-server (#17)"
             }
           ]
         }

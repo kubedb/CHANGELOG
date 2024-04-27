@@ -46,6 +46,20 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.0.9](https://github.com/kubedb/druid/releases/tag/v0.0.9)
+
+- [5901334](https://github.com/kubedb/druid/commit/5901334) Prepare for release v0.0.9 (#22)
+- [c77e449](https://github.com/kubedb/druid/commit/c77e449) Prepare for release v0.0.9 (#21)
+- [831f543](https://github.com/kubedb/druid/commit/831f543) Set Defaults to db on reconcile (#20)
+- [b1ca09c](https://github.com/kubedb/druid/commit/b1ca09c) Use deps (#19)
+- [05dd9ca](https://github.com/kubedb/druid/commit/05dd9ca) Use Go 1.22 (#18)
+- [6c77255](https://github.com/kubedb/druid/commit/6c77255) Add support for monitoring (#13)
+- [a834fc5](https://github.com/kubedb/druid/commit/a834fc5) Remove license check for webhook-server (#17)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.45.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.45.0)

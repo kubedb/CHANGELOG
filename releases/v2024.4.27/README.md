@@ -907,6 +907,17 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.21.0](https://github.com/kubedb/webhook-server/releases/tag/v0.21.0)
+
+- [bf41d483](https://github.com/kubedb/webhook-server/commit/bf41d483) Prepare for release v0.21.0 (#105)
+- [ebb428b7](https://github.com/kubedb/webhook-server/commit/ebb428b7) Register RabbitMQ autoscaler & MSSQLServer (#104)
+- [77e54fc3](https://github.com/kubedb/webhook-server/commit/77e54fc3) Use deps (#103)
+- [3c0d0c2e](https://github.com/kubedb/webhook-server/commit/3c0d0c2e) Use Go 1.22 (#102)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.10](https://github.com/kubedb/zookeeper/releases/tag/v0.0.10)

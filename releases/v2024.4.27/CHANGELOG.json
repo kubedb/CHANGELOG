@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:56:52.873114762Z",
+  "release_date": "2024-04-27T12:56:58.894758582Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -163,6 +163,48 @@
             {
               "SHA": "7b3e1a9",
               "Subject": "Add MS SQL Server Provisioner Operator (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.0.9",
+          "commits": [
+            {
+              "SHA": "71982d7",
+              "Subject": "Prepare for release v0.0.9 (#27)"
+            },
+            {
+              "SHA": "544327d",
+              "Subject": "Prepare for release v0.0.9 (#26)"
+            },
+            {
+              "SHA": "dd8144f",
+              "Subject": "Add TLS support (#25)"
+            },
+            {
+              "SHA": "cabc3db",
+              "Subject": "Set Defaults to db on reconcile (#24)"
+            },
+            {
+              "SHA": "8fb6dfe",
+              "Subject": "Add PetSet in daily workflow and makefile (#11)"
+            },
+            {
+              "SHA": "a510bbf",
+              "Subject": "Use deps (#23)"
+            },
+            {
+              "SHA": "89285b1",
+              "Subject": "Use Go 1.22 (#22)"
+            },
+            {
+              "SHA": "279978f",
+              "Subject": "Remove license check for webhook-server (#21)"
             }
           ]
         }

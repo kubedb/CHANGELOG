@@ -55,6 +55,21 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.0.9](https://github.com/kubedb/pgpool/releases/tag/v0.0.9)
+
+- [71982d7](https://github.com/kubedb/pgpool/commit/71982d7) Prepare for release v0.0.9 (#27)
+- [544327d](https://github.com/kubedb/pgpool/commit/544327d) Prepare for release v0.0.9 (#26)
+- [dd8144f](https://github.com/kubedb/pgpool/commit/dd8144f) Add TLS support (#25)
+- [cabc3db](https://github.com/kubedb/pgpool/commit/cabc3db) Set Defaults to db on reconcile (#24)
+- [8fb6dfe](https://github.com/kubedb/pgpool/commit/8fb6dfe) Add PetSet in daily workflow and makefile (#11)
+- [a510bbf](https://github.com/kubedb/pgpool/commit/a510bbf) Use deps (#23)
+- [89285b1](https://github.com/kubedb/pgpool/commit/89285b1) Use Go 1.22 (#22)
+- [279978f](https://github.com/kubedb/pgpool/commit/279978f) Remove license check for webhook-server (#21)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.45.0](https://github.com/kubedb/postgres/releases/tag/v0.45.0)

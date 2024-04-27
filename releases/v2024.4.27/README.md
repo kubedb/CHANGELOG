@@ -660,6 +660,14 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.7.0](https://github.com/kubedb/provider-aws/releases/tag/v0.7.0)
+
+- [f102958](https://github.com/kubedb/provider-aws/commit/f102958) Use Go 1.22 (#14)
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.7.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.7.0)

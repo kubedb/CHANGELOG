@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T13:01:42.401874574Z",
+  "release_date": "2024-04-27T13:01:45.123779135Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -2025,6 +2025,20 @@
             {
               "SHA": "42b6af6",
               "Subject": "Use Go 1.22 (#26)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "f102958",
+              "Subject": "Use Go 1.22 (#14)"
             }
           ]
         }

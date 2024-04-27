@@ -96,3 +96,12 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.32.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.32.0)
+
+- [ead0dae3](https://github.com/kubedb/replication-mode-detector/commit/ead0dae3) Prepare for release v0.32.0 (#267)
+- [803fe52b](https://github.com/kubedb/replication-mode-detector/commit/803fe52b) Use Go 1.22 (#265)
+
+
+

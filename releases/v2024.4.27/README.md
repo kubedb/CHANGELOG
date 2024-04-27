@@ -137,6 +137,16 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.6.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.6.0)
+
+- [145c9e6](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/145c9e6) Prepare for release v0.6.0 (#17)
+- [804abd7](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/804abd7) Prepare for release v0.6.0 (#16)
+- [5dbc6c8](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/5dbc6c8) Use Go 1.22 (#15)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.32.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.32.0)

@@ -206,6 +206,16 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.6.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.6.0)
+
+- [a4916b1](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/a4916b1) Prepare for release v0.6.0 (#26)
+- [1bf318a](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/1bf318a) Prepare for release v0.6.0 (#25)
+- [b3921a5](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/b3921a5) Use Go 1.22 (#24)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.0.11](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.11)

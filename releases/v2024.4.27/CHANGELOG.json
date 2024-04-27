@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T16:19:06.992719338Z",
+  "release_date": "2024-04-27T17:24:04.053497698Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -1859,6 +1859,40 @@
             {
               "SHA": "2e1631a",
               "Subject": "Use Go 1.22 (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "dcea6a223",
+              "Subject": "Prepare for release v0.32.0 (#561)"
+            },
+            {
+              "SHA": "6ebc03dc8",
+              "Subject": "Add vertical scaling and volume expansion opsrequest (#560)"
+            },
+            {
+              "SHA": "722f44d44",
+              "Subject": "Resume DB even if opsReq failed (#559)"
+            },
+            {
+              "SHA": "9db28273f",
+              "Subject": "Add SingleStore TLS (#555)"
+            },
+            {
+              "SHA": "b5e759da6",
+              "Subject": "Add Pgpool TLS (#558)"
+            },
+            {
+              "SHA": "318045819",
+              "Subject": "Remove inlineConfig; Use applyConfig only (#556)"
             }
           ]
         }

@@ -596,6 +596,19 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.32.0](https://github.com/kubedb/ops-manager/releases/tag/v0.32.0)
+
+- [dcea6a22](https://github.com/kubedb/ops-manager/commit/dcea6a223) Prepare for release v0.32.0 (#561)
+- [6ebc03dc](https://github.com/kubedb/ops-manager/commit/6ebc03dc8) Add vertical scaling and volume expansion opsrequest (#560)
+- [722f44d4](https://github.com/kubedb/ops-manager/commit/722f44d44) Resume DB even if opsReq failed (#559)
+- [9db28273](https://github.com/kubedb/ops-manager/commit/9db28273f) Add SingleStore TLS (#555)
+- [b5e759da](https://github.com/kubedb/ops-manager/commit/b5e759da6) Add Pgpool TLS (#558)
+- [31804581](https://github.com/kubedb/ops-manager/commit/318045819) Remove inlineConfig; Use applyConfig only (#556)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.32.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.32.0)

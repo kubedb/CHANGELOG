@@ -111,6 +111,20 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.0.9](https://github.com/kubedb/ferretdb/releases/tag/v0.0.9)
+
+- [b8b2db43](https://github.com/kubedb/ferretdb/commit/b8b2db43) Prepare for release v0.0.9 (#22)
+- [321300f9](https://github.com/kubedb/ferretdb/commit/321300f9) Prepare for release v0.0.9 (#21)
+- [a3552e21](https://github.com/kubedb/ferretdb/commit/a3552e21) Update api (#20)
+- [b15a0032](https://github.com/kubedb/ferretdb/commit/b15a0032) Set Defaults to db on reconcile (#19)
+- [9276d3c6](https://github.com/kubedb/ferretdb/commit/9276d3c6) Use deps (#18)
+- [c38d6ea1](https://github.com/kubedb/ferretdb/commit/c38d6ea1) Use Go 1.22 (#17)
+- [35188b72](https://github.com/kubedb/ferretdb/commit/35188b72) Remove: license check for webhook server (#16)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.16.0](https://github.com/kubedb/kafka/releases/tag/v0.16.0)

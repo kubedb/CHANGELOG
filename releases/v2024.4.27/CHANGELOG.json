@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T13:01:07.286797449Z",
+  "release_date": "2024-04-27T13:01:13.393068842Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -315,6 +315,44 @@
             {
               "SHA": "8f2be78",
               "Subject": "Use Go 1.22 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.0.9",
+          "commits": [
+            {
+              "SHA": "b8b2db43",
+              "Subject": "Prepare for release v0.0.9 (#22)"
+            },
+            {
+              "SHA": "321300f9",
+              "Subject": "Prepare for release v0.0.9 (#21)"
+            },
+            {
+              "SHA": "a3552e21",
+              "Subject": "Update api (#20)"
+            },
+            {
+              "SHA": "b15a0032",
+              "Subject": "Set Defaults to db on reconcile (#19)"
+            },
+            {
+              "SHA": "9276d3c6",
+              "Subject": "Use deps (#18)"
+            },
+            {
+              "SHA": "c38d6ea1",
+              "Subject": "Use Go 1.22 (#17)"
+            },
+            {
+              "SHA": "35188b72",
+              "Subject": "Remove: license check for webhook server (#16)"
             }
           ]
         }

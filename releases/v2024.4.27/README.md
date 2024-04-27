@@ -106,6 +106,17 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.4.27](https://github.com/kubedb/docs/releases/tag/v2024.4.27)
+
+- [c7f117f1](https://github.com/kubedb/docs/commit/c7f117f1) Prepare for release v2024.4.27 (#632)
+- [d95d0de1](https://github.com/kubedb/docs/commit/d95d0de1) Update docs for kubedb/provisioner@564a8ca2 (#630)
+- [1643ade3](https://github.com/kubedb/docs/commit/1643ade3) Update docs for kubedb/webhook-server@ebb428b7 (#631)
+- [7da00657](https://github.com/kubedb/docs/commit/7da00657) Fix all broken schemas, resource-yamls & links (#629)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.0.9](https://github.com/kubedb/druid/releases/tag/v0.0.9)

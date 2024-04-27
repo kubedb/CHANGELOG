@@ -144,3 +144,14 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.0.11](https://github.com/kubedb/solr/releases/tag/v0.0.11)
+
+- [3030c02](https://github.com/kubedb/solr/commit/3030c02) Prepare for release v0.0.11 (#25)
+- [e2d4c78](https://github.com/kubedb/solr/commit/e2d4c78) Set Defaults to db on reconcile (#23)
+- [4566b2c](https://github.com/kubedb/solr/commit/4566b2c) Use deps (#22)
+- [22e3924](https://github.com/kubedb/solr/commit/22e3924) Use Go 1.22 (#21)
+
+
+

@@ -567,6 +567,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.23.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.23.0)
+
+- [2e1631a](https://github.com/kubedb/mysql-router-init/commit/2e1631a) Use Go 1.22 (#42)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.32.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.32.0)

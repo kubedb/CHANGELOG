@@ -73,6 +73,16 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.5.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.5.0)
+
+- [2255429](https://github.com/kubedb/mariadb-archiver/commit/2255429) Prepare for release v0.5.0 (#16)
+- [e638a7b](https://github.com/kubedb/mariadb-archiver/commit/e638a7b) Prepare for release v0.5.0 (#15)
+- [ac5b6d6](https://github.com/kubedb/mariadb-archiver/commit/ac5b6d6) Use Go 1.22 (#14)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.5.0)

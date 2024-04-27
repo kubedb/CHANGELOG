@@ -88,6 +88,16 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.29.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.29.0)
+
+- [33a82733](https://github.com/kubedb/pg-coordinator/commit/33a82733) Prepare for release v0.29.0 (#163)
+- [2deeaed4](https://github.com/kubedb/pg-coordinator/commit/2deeaed4) Prepare for release v0.29.0 (#162)
+- [15139ecf](https://github.com/kubedb/pg-coordinator/commit/15139ecf) Use Go 1.22 (#161)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.9](https://github.com/kubedb/pgpool/releases/tag/v0.0.9)

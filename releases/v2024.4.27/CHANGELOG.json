@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T13:02:01.151647622Z",
+  "release_date": "2024-04-27T14:00:32.487999624Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -167,6 +167,28 @@
             {
               "SHA": "ef190af",
               "Subject": "Update db list"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "b1dc72c1",
+              "Subject": "Prepare for release v0.21.0 (#113)"
+            },
+            {
+              "SHA": "a0ce7e6c",
+              "Subject": "Use deps (#112)"
+            },
+            {
+              "SHA": "fb3f18ba",
+              "Subject": "Use Go 1.22 (#111)"
             }
           ]
         }

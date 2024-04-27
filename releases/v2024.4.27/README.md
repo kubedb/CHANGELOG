@@ -627,6 +627,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.32.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.32.0)
+
+- [8ccd7b74](https://github.com/kubedb/pgbouncer/commit/8ccd7b74) Prepare for release v0.32.0 (#326)
+- [2c84ca8c](https://github.com/kubedb/pgbouncer/commit/2c84ca8c) Use deps (#324)
+- [4bc53222](https://github.com/kubedb/pgbouncer/commit/4bc53222) Use Go 1.22 (#323)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.9](https://github.com/kubedb/pgpool/releases/tag/v0.0.9)

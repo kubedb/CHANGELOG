@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T14:00:32.487999624Z",
+  "release_date": "2024-04-27T14:03:26.405917523Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -1929,6 +1929,28 @@
             {
               "SHA": "15139ecf",
               "Subject": "Use Go 1.22 (#161)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "8ccd7b74",
+              "Subject": "Prepare for release v0.32.0 (#326)"
+            },
+            {
+              "SHA": "2c84ca8c",
+              "Subject": "Use deps (#324)"
+            },
+            {
+              "SHA": "4bc53222",
+              "Subject": "Use Go 1.22 (#323)"
             }
           ]
         }

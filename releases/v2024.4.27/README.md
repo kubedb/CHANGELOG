@@ -250,6 +250,20 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.8.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.8.0)
+
+- [8addbb2](https://github.com/kubedb/postgres-restic-plugin/commit/8addbb2) Prepare for release v0.8.0 (#32)
+- [965f18c](https://github.com/kubedb/postgres-restic-plugin/commit/965f18c) Prepare for release v0.8.0 (#31)
+- [48f21b1](https://github.com/kubedb/postgres-restic-plugin/commit/48f21b1) Add ClientAuthMode MD5 support for TLS (#29)
+- [ef14301](https://github.com/kubedb/postgres-restic-plugin/commit/ef14301) Refactor (#30)
+- [764c43b](https://github.com/kubedb/postgres-restic-plugin/commit/764c43b) Tls Fix (#28)
+- [c717c8c](https://github.com/kubedb/postgres-restic-plugin/commit/c717c8c) Use restic 0.16.4 (#27)
+- [42b6af6](https://github.com/kubedb/postgres-restic-plugin/commit/42b6af6) Use Go 1.22 (#26)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.0.11](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.11)

@@ -147,6 +147,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.25.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.25.0)
+
+- [ebc40587](https://github.com/kubedb/mariadb-coordinator/commit/ebc40587) Prepare for release v0.25.0 (#115)
+- [653202e2](https://github.com/kubedb/mariadb-coordinator/commit/653202e2) Prepare for release v0.25.0 (#114)
+- [15fd803a](https://github.com/kubedb/mariadb-coordinator/commit/15fd803a) Use Go 1.22 (#113)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.5.0)

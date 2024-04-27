@@ -862,6 +862,16 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.21.0](https://github.com/kubedb/ui-server/releases/tag/v0.21.0)
+
+- [bd2a1ab4](https://github.com/kubedb/ui-server/commit/bd2a1ab4) Prepare for release v0.21.0 (#117)
+- [21449110](https://github.com/kubedb/ui-server/commit/21449110) Vendor automaxprocs
+- [c5d30b0c](https://github.com/kubedb/ui-server/commit/c5d30b0c) Use Go 1.22 (#116)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.0.10](https://github.com/kubedb/zookeeper/releases/tag/v0.0.10)

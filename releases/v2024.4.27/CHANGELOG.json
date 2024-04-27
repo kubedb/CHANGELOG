@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:59:51.560259103Z",
+  "release_date": "2024-04-27T12:59:57.001447124Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -855,6 +855,32 @@
             {
               "SHA": "d113503",
               "Subject": "Remove License check from Webhook-Server (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.0.8",
+          "commits": [
+            {
+              "SHA": "f85b392",
+              "Subject": "Prepare for release v0.0.8 (#15)"
+            },
+            {
+              "SHA": "4aa8378",
+              "Subject": "Prepare for release v0.0.8 (#14)"
+            },
+            {
+              "SHA": "265105a",
+              "Subject": "Add SingleStore TLS (#13)"
+            },
+            {
+              "SHA": "123d55b",
+              "Subject": "Use Go 1.22 (#12)"
             }
           ]
         }

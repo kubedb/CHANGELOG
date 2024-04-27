@@ -336,6 +336,17 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.0.8](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.0.8)
+
+- [f85b392](https://github.com/kubedb/singlestore-coordinator/commit/f85b392) Prepare for release v0.0.8 (#15)
+- [4aa8378](https://github.com/kubedb/singlestore-coordinator/commit/4aa8378) Prepare for release v0.0.8 (#14)
+- [265105a](https://github.com/kubedb/singlestore-coordinator/commit/265105a) Add SingleStore TLS (#13)
+- [123d55b](https://github.com/kubedb/singlestore-coordinator/commit/123d55b) Use Go 1.22 (#12)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.3.0)

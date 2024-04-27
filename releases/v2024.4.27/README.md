@@ -128,6 +128,16 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.6.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.6.0)
+
+- [971d27c](https://github.com/kubedb/mysql-archiver/commit/971d27c) Prepare for release v0.6.0 (#29)
+- [9a6f2d1](https://github.com/kubedb/mysql-archiver/commit/9a6f2d1) Prepare for release v0.6.0 (#28)
+- [3309740](https://github.com/kubedb/mysql-archiver/commit/3309740) Use Go 1.22 (#27)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.23.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.23.0)

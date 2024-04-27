@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:59:33.26316201Z",
+  "release_date": "2024-04-27T12:59:38.148363161Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -347,6 +347,28 @@
             {
               "SHA": "7278772d6",
               "Subject": "Use Go 1.22 (#618)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "971d27c",
+              "Subject": "Prepare for release v0.6.0 (#29)"
+            },
+            {
+              "SHA": "9a6f2d1",
+              "Subject": "Prepare for release v0.6.0 (#28)"
+            },
+            {
+              "SHA": "3309740",
+              "Subject": "Use Go 1.22 (#27)"
             }
           ]
         }

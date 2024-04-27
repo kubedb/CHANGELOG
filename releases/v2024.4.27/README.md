@@ -805,6 +805,17 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.0.10](https://github.com/kubedb/zookeeper/releases/tag/v0.0.10)
+
+- [ce8f982](https://github.com/kubedb/zookeeper/commit/ce8f982) Prepare for release v0.0.10 (#22)
+- [4f111a3](https://github.com/kubedb/zookeeper/commit/4f111a3) Set Default From Operator (#21)
+- [1b3ea42](https://github.com/kubedb/zookeeper/commit/1b3ea42) Use deps (#20)
+- [5094c26](https://github.com/kubedb/zookeeper/commit/5094c26) Use Go 1.22 (#19)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.1.0)

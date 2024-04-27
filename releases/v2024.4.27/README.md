@@ -98,6 +98,17 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.29.0](https://github.com/kubedb/mariadb/releases/tag/v0.29.0)
+
+- [cb49215e](https://github.com/kubedb/mariadb/commit/cb49215ee) Prepare for release v0.29.0 (#267)
+- [f709a65e](https://github.com/kubedb/mariadb/commit/f709a65e4) Prepare for release v0.29.0 (#266)
+- [08936bee](https://github.com/kubedb/mariadb/commit/08936bee1) Use deps (#265)
+- [bfdbc178](https://github.com/kubedb/mariadb/commit/bfdbc178d) Use Go 1.22 (#264)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.5.0)

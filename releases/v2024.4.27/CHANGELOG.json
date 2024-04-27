@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:59:57.001447124Z",
+  "release_date": "2024-04-27T13:00:06.783635273Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -281,6 +281,32 @@
             {
               "SHA": "4edccaa",
               "Subject": "Use Go 1.22 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "cb49215ee",
+              "Subject": "Prepare for release v0.29.0 (#267)"
+            },
+            {
+              "SHA": "f709a65e4",
+              "Subject": "Prepare for release v0.29.0 (#266)"
+            },
+            {
+              "SHA": "08936bee1",
+              "Subject": "Use deps (#265)"
+            },
+            {
+              "SHA": "bfdbc178d",
+              "Subject": "Use Go 1.22 (#264)"
             }
           ]
         }

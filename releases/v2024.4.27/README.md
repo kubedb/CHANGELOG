@@ -29,6 +29,23 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.0.9](https://github.com/kubedb/crd-manager/releases/tag/v0.0.9)
+
+- [ebd4310](https://github.com/kubedb/crd-manager/commit/ebd4310) Prepare for release v0.0.9 (#26)
+- [6b411dc](https://github.com/kubedb/crd-manager/commit/6b411dc) Prepare for release v0.0.9 (#25)
+- [a5dc013](https://github.com/kubedb/crd-manager/commit/a5dc013) Ensure RabbitMQ Opsreq and autoscaler CRDs (#24)
+- [3ebea21](https://github.com/kubedb/crd-manager/commit/3ebea21) Update MSSQLServer api (#23)
+- [6f87254](https://github.com/kubedb/crd-manager/commit/6f87254) Add Support for MsSQL (#20)
+- [065bad4](https://github.com/kubedb/crd-manager/commit/065bad4) MicrosoftSQLServer -> MSSQLServer
+- [8cf13f0](https://github.com/kubedb/crd-manager/commit/8cf13f0) Use deps (#22)
+- [9f08ee7](https://github.com/kubedb/crd-manager/commit/9f08ee7) Use Go 1.22 (#21)
+- [c138cd8](https://github.com/kubedb/crd-manager/commit/c138cd8) Update license header
+- [ef190af](https://github.com/kubedb/crd-manager/commit/ef190af) Update db list
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.0.15](https://github.com/kubedb/db-client-go/releases/tag/v0.0.15)

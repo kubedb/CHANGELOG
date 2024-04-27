@@ -542,6 +542,17 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.8.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.8.0)
+
+- [3b2d338](https://github.com/kubedb/mysql-restic-plugin/commit/3b2d338) Prepare for release v0.8.0 (#36)
+- [c684322](https://github.com/kubedb/mysql-restic-plugin/commit/c684322) Prepare for release v0.8.0 (#35)
+- [3cb8489](https://github.com/kubedb/mysql-restic-plugin/commit/3cb8489) Use restic 0.16.4 (#33)
+- [cec2dc5](https://github.com/kubedb/mysql-restic-plugin/commit/cec2dc5) Use Go 1.22 (#32)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.32.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.32.0)

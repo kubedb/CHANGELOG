@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T13:01:02.087963076Z",
+  "release_date": "2024-04-27T13:01:07.286797449Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -1733,6 +1733,32 @@
             {
               "SHA": "5dbc6c8",
               "Subject": "Use Go 1.22 (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "3b2d338",
+              "Subject": "Prepare for release v0.8.0 (#36)"
+            },
+            {
+              "SHA": "c684322",
+              "Subject": "Prepare for release v0.8.0 (#35)"
+            },
+            {
+              "SHA": "3cb8489",
+              "Subject": "Use restic 0.16.4 (#33)"
+            },
+            {
+              "SHA": "cec2dc5",
+              "Subject": "Use Go 1.22 (#32)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:59:47.181488875Z",
+  "release_date": "2024-04-27T12:59:51.560259103Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -255,6 +255,32 @@
             {
               "SHA": "9242c91d",
               "Subject": "Remove license check for webhook-server (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "feeb3e9",
+              "Subject": "Prepare for release v0.8.0 (#51)"
+            },
+            {
+              "SHA": "8ec129f",
+              "Subject": "Prepare for release v0.8.0 (#50)"
+            },
+            {
+              "SHA": "b3c08dd",
+              "Subject": "Use restic 0.16.4 (#49)"
+            },
+            {
+              "SHA": "4edccaa",
+              "Subject": "Use Go 1.22 (#48)"
             }
           ]
         }

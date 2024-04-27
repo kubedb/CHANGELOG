@@ -87,6 +87,17 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.8.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.8.0)
+
+- [feeb3e9](https://github.com/kubedb/kubedb-manifest-plugin/commit/feeb3e9) Prepare for release v0.8.0 (#51)
+- [8ec129f](https://github.com/kubedb/kubedb-manifest-plugin/commit/8ec129f) Prepare for release v0.8.0 (#50)
+- [b3c08dd](https://github.com/kubedb/kubedb-manifest-plugin/commit/b3c08dd) Use restic 0.16.4 (#49)
+- [4edccaa](https://github.com/kubedb/kubedb-manifest-plugin/commit/4edccaa) Use Go 1.22 (#48)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.5.0)

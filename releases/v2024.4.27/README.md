@@ -83,6 +83,20 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.0.11](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.11)
+
+- [b529602](https://github.com/kubedb/rabbitmq/commit/b529602) Prepare for release v0.0.11 (#28)
+- [26b5e6f](https://github.com/kubedb/rabbitmq/commit/26b5e6f) Prepare for release v0.0.11 (#27)
+- [630c0ef](https://github.com/kubedb/rabbitmq/commit/630c0ef) Patch AuthsecretRef to DB yaml (#26)
+- [9248270](https://github.com/kubedb/rabbitmq/commit/9248270) Set Defaults to db on reconcile (#24)
+- [ef00643](https://github.com/kubedb/rabbitmq/commit/ef00643) Add support for PDB and extend default plugin supports (#21)
+- [bf35fcd](https://github.com/kubedb/rabbitmq/commit/bf35fcd) Use deps (#23)
+- [048dbbe](https://github.com/kubedb/rabbitmq/commit/048dbbe) Use Go 1.22 (#22)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.38.0](https://github.com/kubedb/redis/releases/tag/v0.38.0)

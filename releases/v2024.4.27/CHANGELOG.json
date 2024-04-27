@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:57:05.683330095Z",
+  "release_date": "2024-04-27T12:57:13.399002119Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -239,6 +239,44 @@
             {
               "SHA": "e0627ad89",
               "Subject": "Fix WebHook (#726)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.0.11",
+          "commits": [
+            {
+              "SHA": "b529602",
+              "Subject": "Prepare for release v0.0.11 (#28)"
+            },
+            {
+              "SHA": "26b5e6f",
+              "Subject": "Prepare for release v0.0.11 (#27)"
+            },
+            {
+              "SHA": "630c0ef",
+              "Subject": "Patch AuthsecretRef to DB yaml (#26)"
+            },
+            {
+              "SHA": "9248270",
+              "Subject": "Set Defaults to db on reconcile (#24)"
+            },
+            {
+              "SHA": "ef00643",
+              "Subject": "Add support for PDB and extend default plugin supports (#21)"
+            },
+            {
+              "SHA": "bf35fcd",
+              "Subject": "Use deps (#23)"
+            },
+            {
+              "SHA": "048dbbe",
+              "Subject": "Use Go 1.22 (#22)"
             }
           ]
         }

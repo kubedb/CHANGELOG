@@ -6,12 +6,12 @@
   "projects": [
     {
       "github.com/kubedb/apimachinery": {
-        "tag": "v0.45.0"
+        "tag": "v0.45.1"
       }
     },
     {
       "github.com/kubedb/db-client-go": {
-        "tag": "v0.0.14"
+        "tag": "v0.0.15"
       }
     },
     {

@@ -70,6 +70,20 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.38.0](https://github.com/kubedb/memcached/releases/tag/v0.38.0)
+
+- [c60a1ada](https://github.com/kubedb/memcached/commit/c60a1ada) Prepare for release v0.38.0 (#440)
+- [2abd9694](https://github.com/kubedb/memcached/commit/2abd9694) Prepare for release v0.38.0 (#439)
+- [b019d4a5](https://github.com/kubedb/memcached/commit/b019d4a5) Added Memcached Health (#437)
+- [032d1be9](https://github.com/kubedb/memcached/commit/032d1be9) Remove redundant log for monitoring agent not found (#431)
+- [2018e90d](https://github.com/kubedb/memcached/commit/2018e90d) Use deps (#430)
+- [6aadd80d](https://github.com/kubedb/memcached/commit/6aadd80d) Use Go 1.22 (#429)
+- [1521e538](https://github.com/kubedb/memcached/commit/1521e538) Fix webhook server (#428)
+
+
+
 ## [kubedb/mssql](https://github.com/kubedb/mssql)
 
 ### [v0.0.1](https://github.com/kubedb/mssql/releases/tag/v0.0.1)

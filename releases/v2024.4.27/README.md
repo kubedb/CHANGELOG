@@ -723,6 +723,16 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.45.0](https://github.com/kubedb/provisioner/releases/tag/v0.45.0)
+
+- [c73f1e11](https://github.com/kubedb/provisioner/commit/c73f1e111) Prepare for release v0.45.0 (#93)
+- [564a8ca2](https://github.com/kubedb/provisioner/commit/564a8ca20) Register MSSQLServer (#92)
+- [ddc05af4](https://github.com/kubedb/provisioner/commit/ddc05af4e) Initialize default client (#90)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.32.0](https://github.com/kubedb/proxysql/releases/tag/v0.32.0)

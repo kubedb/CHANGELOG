@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T14:16:10.643024606Z",
+  "release_date": "2024-04-27T16:19:06.992719338Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -2151,6 +2151,28 @@
             {
               "SHA": "40683f8",
               "Subject": "Use Go 1.22 (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "c73f1e111",
+              "Subject": "Prepare for release v0.45.0 (#93)"
+            },
+            {
+              "SHA": "564a8ca20",
+              "Subject": "Register MSSQLServer (#92)"
+            },
+            {
+              "SHA": "ddc05af4e",
+              "Subject": "Initialize default client (#90)"
             }
           ]
         }

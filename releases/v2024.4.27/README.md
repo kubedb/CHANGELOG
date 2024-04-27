@@ -660,6 +660,14 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.7.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.7.0)
+
+- [40683f8](https://github.com/kubedb/provider-gcp/commit/40683f8) Use Go 1.22 (#5)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.0.11](https://github.com/kubedb/rabbitmq/releases/tag/v0.0.11)

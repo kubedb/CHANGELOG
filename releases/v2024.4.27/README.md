@@ -171,6 +171,19 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.38.0](https://github.com/kubedb/mongodb/releases/tag/v0.38.0)
+
+- [53dee180](https://github.com/kubedb/mongodb/commit/53dee1806) Prepare for release v0.38.0 (#628)
+- [d4e6f1f2](https://github.com/kubedb/mongodb/commit/d4e6f1f2b) Prepare for release v0.38.0 (#627)
+- [4aa876c0](https://github.com/kubedb/mongodb/commit/4aa876c07) Remove redundant log for monitoring agent not found (#625)
+- [94111489](https://github.com/kubedb/mongodb/commit/94111489c) Use deps (#624)
+- [5ae7a268](https://github.com/kubedb/mongodb/commit/5ae7a2686) Use Go 1.22 (#623)
+- [e35a5838](https://github.com/kubedb/mongodb/commit/e35a58388) Skip license check for webhook-server (#622)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.6.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T13:00:32.28014284Z",
+  "release_date": "2024-04-27T13:00:43.543419777Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -465,6 +465,40 @@
             {
               "SHA": "1521e538",
               "Subject": "Fix webhook server (#428)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "53dee1806",
+              "Subject": "Prepare for release v0.38.0 (#628)"
+            },
+            {
+              "SHA": "d4e6f1f2b",
+              "Subject": "Prepare for release v0.38.0 (#627)"
+            },
+            {
+              "SHA": "4aa876c07",
+              "Subject": "Remove redundant log for monitoring agent not found (#625)"
+            },
+            {
+              "SHA": "94111489c",
+              "Subject": "Use deps (#624)"
+            },
+            {
+              "SHA": "5ae7a2686",
+              "Subject": "Use Go 1.22 (#623)"
+            },
+            {
+              "SHA": "e35a58388",
+              "Subject": "Skip license check for webhook-server (#622)"
             }
           ]
         }

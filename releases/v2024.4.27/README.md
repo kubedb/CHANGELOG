@@ -29,6 +29,18 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.30.0](https://github.com/kubedb/autoscaler/releases/tag/v0.30.0)
+
+- [b5d7a386](https://github.com/kubedb/autoscaler/commit/b5d7a386) Prepare for release v0.30.0 (#203)
+- [e830ed82](https://github.com/kubedb/autoscaler/commit/e830ed82) Trigger VolumeExpansion according to scalingRules (#202)
+- [a5c6c179](https://github.com/kubedb/autoscaler/commit/a5c6c179) Add Autoscaler for RabbitMQ (#200)
+- [ab11f0f4](https://github.com/kubedb/autoscaler/commit/ab11f0f4) Fetch from petsets also (#201)
+- [8f2727f2](https://github.com/kubedb/autoscaler/commit/8f2727f2) Use applyConfig (#199)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.45.0](https://github.com/kubedb/cli/releases/tag/v0.45.0)

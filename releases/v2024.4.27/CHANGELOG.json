@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T17:24:04.053497698Z",
+  "release_date": "2024-04-27T17:30:47.110952639Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -95,6 +95,36 @@
             {
               "SHA": "cfd5a0615",
               "Subject": "Use Go 1.22 (#1179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "b5d7a386",
+              "Subject": "Prepare for release v0.30.0 (#203)"
+            },
+            {
+              "SHA": "e830ed82",
+              "Subject": "Trigger VolumeExpansion according to scalingRules (#202)"
+            },
+            {
+              "SHA": "a5c6c179",
+              "Subject": "Add Autoscaler for RabbitMQ (#200)"
+            },
+            {
+              "SHA": "ab11f0f4",
+              "Subject": "Fetch from petsets also (#201)"
+            },
+            {
+              "SHA": "8f2727f2",
+              "Subject": "Use applyConfig (#199)"
             }
           ]
         }

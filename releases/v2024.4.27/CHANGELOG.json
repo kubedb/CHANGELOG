@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:57:31.624302404Z",
+  "release_date": "2024-04-27T12:57:40.827873914Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -419,6 +419,52 @@
             {
               "SHA": "22e3924",
               "Subject": "Use Go 1.22 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "34a5843d",
+              "Subject": "Prepare for release v0.30.0 (#320)"
+            },
+            {
+              "SHA": "975c6ab2",
+              "Subject": "Prepare for release v0.30.0 (#319)"
+            },
+            {
+              "SHA": "6a301a03",
+              "Subject": "Remove inlineConfig (#318)"
+            },
+            {
+              "SHA": "6101e637",
+              "Subject": "Fix certstore invoker. (#317)"
+            },
+            {
+              "SHA": "1a0556ce",
+              "Subject": "Use Go 1.22 (#316)"
+            },
+            {
+              "SHA": "886fcdf7",
+              "Subject": "add storage-class in pg-logical-replication (#315)"
+            },
+            {
+              "SHA": "a6250835",
+              "Subject": "Add Version Upgrade Test Case for PG (#295)"
+            },
+            {
+              "SHA": "34822e19",
+              "Subject": "Add Pgpool tests (#302)"
+            },
+            {
+              "SHA": "ed294bf0",
+              "Subject": "Fix build (#314)"
             }
           ]
         }

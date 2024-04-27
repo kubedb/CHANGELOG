@@ -155,3 +155,19 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.30.0](https://github.com/kubedb/tests/releases/tag/v0.30.0)
+
+- [34a5843d](https://github.com/kubedb/tests/commit/34a5843d) Prepare for release v0.30.0 (#320)
+- [975c6ab2](https://github.com/kubedb/tests/commit/975c6ab2) Prepare for release v0.30.0 (#319)
+- [6a301a03](https://github.com/kubedb/tests/commit/6a301a03) Remove inlineConfig (#318)
+- [6101e637](https://github.com/kubedb/tests/commit/6101e637) Fix certstore invoker. (#317)
+- [1a0556ce](https://github.com/kubedb/tests/commit/1a0556ce) Use Go 1.22 (#316)
+- [886fcdf7](https://github.com/kubedb/tests/commit/886fcdf7) add storage-class in pg-logical-replication (#315)
+- [a6250835](https://github.com/kubedb/tests/commit/a6250835) Add Version Upgrade Test Case for PG (#295)
+- [34822e19](https://github.com/kubedb/tests/commit/34822e19) Add Pgpool tests (#302)
+- [ed294bf0](https://github.com/kubedb/tests/commit/ed294bf0) Fix build (#314)
+
+
+

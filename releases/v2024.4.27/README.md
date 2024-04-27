@@ -116,6 +116,18 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.38.0](https://github.com/kubedb/mysql/releases/tag/v0.38.0)
+
+- [cf8f4d83](https://github.com/kubedb/mysql/commit/cf8f4d83a) Prepare for release v0.38.0 (#622)
+- [26f4d72b](https://github.com/kubedb/mysql/commit/26f4d72b7) Prepare for release v0.38.0 (#621)
+- [6bcb3ac4](https://github.com/kubedb/mysql/commit/6bcb3ac48) Remove redundant log for monitoring agent not found (#620)
+- [c1593bf8](https://github.com/kubedb/mysql/commit/c1593bf83) Use deps (#619)
+- [7278772d](https://github.com/kubedb/mysql/commit/7278772d6) Use Go 1.22 (#618)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.23.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.23.0)

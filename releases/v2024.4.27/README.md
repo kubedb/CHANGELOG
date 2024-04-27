@@ -183,6 +183,18 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.3.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.3.0)
+
+- [032d33e](https://github.com/kubedb/singlestore-restic-plugin/commit/032d33e) Prepare for release v0.3.0 (#11)
+- [e7cbc0a](https://github.com/kubedb/singlestore-restic-plugin/commit/e7cbc0a) Prepare for release v0.3.0 (#10)
+- [cf1f07e](https://github.com/kubedb/singlestore-restic-plugin/commit/cf1f07e) Add SingleStore TLS (#9)
+- [df11e7f](https://github.com/kubedb/singlestore-restic-plugin/commit/df11e7f) Use deps (#7)
+- [846c188](https://github.com/kubedb/singlestore-restic-plugin/commit/846c188) Use Go 1.22 (#6)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.0.11](https://github.com/kubedb/solr/releases/tag/v0.0.11)

@@ -46,6 +46,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.45.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.45.0)
+
+- [744a4329](https://github.com/kubedb/elasticsearch/commit/744a4329f) Prepare for release v0.45.0 (#718)
+- [6198c23e](https://github.com/kubedb/elasticsearch/commit/6198c23ee) Prepare for release v0.45.0 (#717)
+- [ea61d011](https://github.com/kubedb/elasticsearch/commit/ea61d011d) Remove redundant log for monitoring agent not found (#716)
+- [04ad15dc](https://github.com/kubedb/elasticsearch/commit/04ad15dcf) Use restic 0.16.4 (#715)
+- [4bdd974f](https://github.com/kubedb/elasticsearch/commit/4bdd974f4) Use Go 1.22 (#714)
+- [98dab6a7](https://github.com/kubedb/elasticsearch/commit/98dab6a76) Remove License Check from Webhook Server (#713)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.16.0](https://github.com/kubedb/kafka/releases/tag/v0.16.0)

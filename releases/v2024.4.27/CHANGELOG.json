@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:56:30.336176046Z",
+  "release_date": "2024-04-27T12:56:42.76862055Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -163,6 +163,40 @@
             {
               "SHA": "7b3e1a9",
               "Subject": "Add MS SQL Server Provisioner Operator (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "78cec238a",
+              "Subject": "Prepare for release v0.45.0 (#731)"
+            },
+            {
+              "SHA": "b939cb7f8",
+              "Subject": "Prepare for release v0.45.0 (#730)"
+            },
+            {
+              "SHA": "22617a148",
+              "Subject": "Remove unnecessary log (#729)"
+            },
+            {
+              "SHA": "6627c4628",
+              "Subject": "Use deps (#728)"
+            },
+            {
+              "SHA": "3fcdc899e",
+              "Subject": "Use Go 1.22 (#727)"
+            },
+            {
+              "SHA": "e0627ad89",
+              "Subject": "Fix WebHook (#726)"
             }
           ]
         }

@@ -55,3 +55,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.45.0](https://github.com/kubedb/postgres/releases/tag/v0.45.0)
+
+- [78cec238](https://github.com/kubedb/postgres/commit/78cec238a) Prepare for release v0.45.0 (#731)
+- [b939cb7f](https://github.com/kubedb/postgres/commit/b939cb7f8) Prepare for release v0.45.0 (#730)
+- [22617a14](https://github.com/kubedb/postgres/commit/22617a148) Remove unnecessary log (#729)
+- [6627c462](https://github.com/kubedb/postgres/commit/6627c4628) Use deps (#728)
+- [3fcdc899](https://github.com/kubedb/postgres/commit/3fcdc899e) Use Go 1.22 (#727)
+- [e0627ad8](https://github.com/kubedb/postgres/commit/e0627ad89) Fix WebHook (#726)
+
+
+

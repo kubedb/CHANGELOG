@@ -273,6 +273,20 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.0.9](https://github.com/kubedb/singlestore/releases/tag/v0.0.9)
+
+- [499dfa6](https://github.com/kubedb/singlestore/commit/499dfa6) Prepare for release v0.0.9 (#27)
+- [4082540](https://github.com/kubedb/singlestore/commit/4082540) Prepare for release v0.0.9 (#26)
+- [99b143b](https://github.com/kubedb/singlestore/commit/99b143b) Add SingleStore TLS (#25)
+- [ae86b87](https://github.com/kubedb/singlestore/commit/ae86b87) Set Defaults to db on reconcile (#23)
+- [3c28add](https://github.com/kubedb/singlestore/commit/3c28add) Use deps (#22)
+- [d9cce0e](https://github.com/kubedb/singlestore/commit/d9cce0e) Use Go 1.22 (#21)
+- [d113503](https://github.com/kubedb/singlestore/commit/d113503) Remove License check from Webhook-Server (#20)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.3.0)

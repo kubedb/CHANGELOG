@@ -171,6 +171,18 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.8.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.8.0)
+
+- [9b2f456](https://github.com/kubedb/mongodb-restic-plugin/commit/9b2f456) Prepare for release v0.8.0 (#42)
+- [9c629ed](https://github.com/kubedb/mongodb-restic-plugin/commit/9c629ed) Prepare for release v0.8.0 (#41)
+- [7ed30f3](https://github.com/kubedb/mongodb-restic-plugin/commit/7ed30f3) fix: restoresession running phase (#38)
+- [390b27a](https://github.com/kubedb/mongodb-restic-plugin/commit/390b27a) Use restic 0.16.4 (#40)
+- [e702a1c](https://github.com/kubedb/mongodb-restic-plugin/commit/e702a1c) Use Go 1.22 (#39)
+
+
+
 ## [kubedb/mssql](https://github.com/kubedb/mssql)
 
 ### [v0.0.1](https://github.com/kubedb/mssql/releases/tag/v0.0.1)

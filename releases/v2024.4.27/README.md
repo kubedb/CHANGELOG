@@ -687,6 +687,14 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.7.0](https://github.com/kubedb/provider-azure/releases/tag/v0.7.0)
+
+- [387e3f2](https://github.com/kubedb/provider-azure/commit/387e3f2) Use Go 1.22 (#5)
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.7.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.7.0)

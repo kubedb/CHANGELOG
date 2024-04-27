@@ -79,6 +79,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.23.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.23.0)
+
+- [91dbda5e](https://github.com/kubedb/mysql-coordinator/commit/91dbda5e) Prepare for release v0.23.0 (#110)
+- [8f19e568](https://github.com/kubedb/mysql-coordinator/commit/8f19e568) Use Go 1.22 (#108)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.0.9](https://github.com/kubedb/pgpool/releases/tag/v0.0.9)

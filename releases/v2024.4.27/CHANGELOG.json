@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T12:58:42.758551259Z",
+  "release_date": "2024-04-27T12:58:52.714157319Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -313,6 +313,32 @@
             {
               "SHA": "8f19e568",
               "Subject": "Use Go 1.22 (#108)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "45ed6cba2",
+              "Subject": "Prepare for release v0.32.0 (#365)"
+            },
+            {
+              "SHA": "12ffd594d",
+              "Subject": "Prepare for release v0.32.0 (#364)"
+            },
+            {
+              "SHA": "495e61720",
+              "Subject": "Use deps (#363)"
+            },
+            {
+              "SHA": "0b9f1955a",
+              "Subject": "Use Go 1.22 (#362)"
             }
           ]
         }

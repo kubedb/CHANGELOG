@@ -1,0 +1,104 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.4.27",
+  "release_date": "2024-04-27T09:15:28.536915581Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.4.27",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "104a82097",
+              "Subject": "MSSQL -> MSSQLServer (#1202)"
+            },
+            {
+              "SHA": "f93640fff",
+              "Subject": "Add RabbitMQ Autoscaler API (#1194)"
+            },
+            {
+              "SHA": "06ac2b3b2",
+              "Subject": "Add RabbitMQ OpsRequest API (#1183)"
+            },
+            {
+              "SHA": "7e031847c",
+              "Subject": "Add Memcached Health Check api (#1200)"
+            },
+            {
+              "SHA": "c3b34d027",
+              "Subject": "Update offshoot-api (#1201)"
+            },
+            {
+              "SHA": "7fb3d5619",
+              "Subject": "Add SingleStore TLS (#1196)"
+            },
+            {
+              "SHA": "84398fe4e",
+              "Subject": "Add Pgpool TLS (#1199)"
+            },
+            {
+              "SHA": "6efef42b8",
+              "Subject": "Add MS SQL Server APIs  (#1174)"
+            },
+            {
+              "SHA": "1767aac04",
+              "Subject": "Update druid exporter port (#1191)"
+            },
+            {
+              "SHA": "837bbc4d8",
+              "Subject": "Use `applyConfig` in reconfigure opsReqs; Remove inlineConfig (#1144)"
+            },
+            {
+              "SHA": "1955e7f0a",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "3bdcf426d",
+              "Subject": "Use Go 1.22 (#1192)"
+            },
+            {
+              "SHA": "7386252ce",
+              "Subject": "Add RabbitMQ shovel and federation plugin constants (#1190)"
+            },
+            {
+              "SHA": "39554487f",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "0b85ea377",
+              "Subject": "Add Port Field to NamedURL (#1189)"
+            },
+            {
+              "SHA": "adf39bff0",
+              "Subject": "Use gateway port in db status (#1188)"
+            },
+            {
+              "SHA": "3768ead95",
+              "Subject": "Fix Stash Restore Target Issue (#1185)"
+            },
+            {
+              "SHA": "4c457ff1a",
+              "Subject": "Mutate prometheus exporter. (#1187)"
+            },
+            {
+              "SHA": "c9359d205",
+              "Subject": "Fix Druid resource issue (#1186)"
+            },
+            {
+              "SHA": "eca0297e1",
+              "Subject": "Add metrics emitter path for Druid Monitoring (#1182)"
+            },
+            {
+              "SHA": "cfd5a0615",
+              "Subject": "Use Go 1.22 (#1179)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

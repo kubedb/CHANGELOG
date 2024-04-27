@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T17:39:44.414963489Z",
+  "release_date": "2024-04-27T22:50:22.29776684Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -433,6 +433,15 @@
               "Subject": "Remove: license check for webhook server (#16)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.4.27",
+          "commits": null
         }
       ]
     },

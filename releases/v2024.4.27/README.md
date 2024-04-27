@@ -29,3 +29,20 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.0.15](https://github.com/kubedb/db-client-go/releases/tag/v0.0.15)
+
+- [d3a1eb1c](https://github.com/kubedb/db-client-go/commit/d3a1eb1c) Prepare for release v0.0.15 (#104)
+- [f377b7fd](https://github.com/kubedb/db-client-go/commit/f377b7fd) Fix driver name (#103)
+- [31518cdb](https://github.com/kubedb/db-client-go/commit/31518cdb) MSSQL -> MSSQLServer (#102)
+- [8638376f](https://github.com/kubedb/db-client-go/commit/8638376f) Add tls for Pgpool client (#99)
+- [4edbe630](https://github.com/kubedb/db-client-go/commit/4edbe630) Add SingleStore TLS (#97)
+- [8c73c085](https://github.com/kubedb/db-client-go/commit/8c73c085) Add MS SQL Server DB Client (#88)
+- [4b4e47e1](https://github.com/kubedb/db-client-go/commit/4b4e47e1) Add WithCred() & WithAuthDatabase() builder utility (#98)
+- [deb90f66](https://github.com/kubedb/db-client-go/commit/deb90f66) Add AMQP client Getter for RabbitMQ (#96)
+- [f4fab3d2](https://github.com/kubedb/db-client-go/commit/f4fab3d2) Add create space method for dashboard (#95)
+- [e01cb9ea](https://github.com/kubedb/db-client-go/commit/e01cb9ea) Update deps
+
+
+

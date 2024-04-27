@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.4.27",
-  "release_date": "2024-04-27T09:15:28.536915581Z",
+  "release_date": "2024-04-27T11:08:01.806811523Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.4.27",
   "kubernetes_version": "1.20+",
@@ -95,6 +95,56 @@
             {
               "SHA": "cfd5a0615",
               "Subject": "Use Go 1.22 (#1179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.0.15",
+          "commits": [
+            {
+              "SHA": "d3a1eb1c",
+              "Subject": "Prepare for release v0.0.15 (#104)"
+            },
+            {
+              "SHA": "f377b7fd",
+              "Subject": "Fix driver name (#103)"
+            },
+            {
+              "SHA": "31518cdb",
+              "Subject": "MSSQL -> MSSQLServer (#102)"
+            },
+            {
+              "SHA": "8638376f",
+              "Subject": "Add tls for Pgpool client (#99)"
+            },
+            {
+              "SHA": "4edbe630",
+              "Subject": "Add SingleStore TLS (#97)"
+            },
+            {
+              "SHA": "8c73c085",
+              "Subject": "Add MS SQL Server DB Client (#88)"
+            },
+            {
+              "SHA": "4b4e47e1",
+              "Subject": "Add WithCred() & WithAuthDatabase() builder utility (#98)"
+            },
+            {
+              "SHA": "deb90f66",
+              "Subject": "Add AMQP client Getter for RabbitMQ (#96)"
+            },
+            {
+              "SHA": "f4fab3d2",
+              "Subject": "Add create space method for dashboard (#95)"
+            },
+            {
+              "SHA": "e01cb9ea",
+              "Subject": "Update deps"
             }
           ]
         }

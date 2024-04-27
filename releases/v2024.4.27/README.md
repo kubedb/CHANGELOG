@@ -46,3 +46,12 @@
 
 
 
+## [kubedb/mssql](https://github.com/kubedb/mssql)
+
+### [v0.0.1](https://github.com/kubedb/mssql/releases/tag/v0.0.1)
+
+- [5ec0f33](https://github.com/kubedb/mssql/commit/5ec0f33) Prepare for release v0.0.1 (#6)
+- [7b3e1a9](https://github.com/kubedb/mssql/commit/7b3e1a9) Add MS SQL Server Provisioner Operator (#5)
+
+
+

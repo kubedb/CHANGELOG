@@ -180,6 +180,261 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.0.1](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.0.1)
+
+- [d85fb389](https://github.com/kubedb/mssql-coordinator/commit/d85fb389) Prepare for release v0.0.1 (#3)
+- [ca78acac](https://github.com/kubedb/mssql-coordinator/commit/ca78acac) Prepare for release v0.0.1 (#2)
+- [09ac9814](https://github.com/kubedb/mssql-coordinator/commit/09ac9814) Provision MS SQL Server with Raft (#1)
+- [39120f71](https://github.com/kubedb/mssql-coordinator/commit/39120f71) pg-coordinator -> mssql-coordinator
+- [aba0d83f](https://github.com/kubedb/mssql-coordinator/commit/aba0d83f) Prepare for release v0.26.0 (#155)
+- [e9c0a986](https://github.com/kubedb/mssql-coordinator/commit/e9c0a986) Prepare for release v0.25.0 (#154)
+- [cbdb8698](https://github.com/kubedb/mssql-coordinator/commit/cbdb8698) Prepare for release v0.25.0-rc.1 (#153)
+- [e4042bfd](https://github.com/kubedb/mssql-coordinator/commit/e4042bfd) Update deps (#152)
+- [b9b84db3](https://github.com/kubedb/mssql-coordinator/commit/b9b84db3) Update deps (#151)
+- [e35b556c](https://github.com/kubedb/mssql-coordinator/commit/e35b556c) Prepare for release v0.25.0-rc.0 (#150)
+- [fa77ab4e](https://github.com/kubedb/mssql-coordinator/commit/fa77ab4e) Fixed (#149)
+- [aef2df3c](https://github.com/kubedb/mssql-coordinator/commit/aef2df3c) Prepare for release v0.25.0-beta.1 (#148)
+- [f00e1837](https://github.com/kubedb/mssql-coordinator/commit/f00e1837) Prepare for release v0.25.0-beta.0 (#147)
+- [00ef3cb7](https://github.com/kubedb/mssql-coordinator/commit/00ef3cb7) Update deps (#146)
+- [30783ca6](https://github.com/kubedb/mssql-coordinator/commit/30783ca6) Update deps (#145)
+- [656f9a82](https://github.com/kubedb/mssql-coordinator/commit/656f9a82) Use k8s 1.29 client libs (#144)
+- [8e4c36ec](https://github.com/kubedb/mssql-coordinator/commit/8e4c36ec) Prepare for release v0.24.0 (#143)
+- [0b8239a1](https://github.com/kubedb/mssql-coordinator/commit/0b8239a1) Prepare for release v0.23.0 (#142)
+- [c14f61d1](https://github.com/kubedb/mssql-coordinator/commit/c14f61d1) Prepare for release v0.22.0 (#141)
+- [56e5b1de](https://github.com/kubedb/mssql-coordinator/commit/56e5b1de) Prepare for release v0.22.0-rc.1 (#140)
+- [3379cb47](https://github.com/kubedb/mssql-coordinator/commit/3379cb47) Prepare for release v0.22.0-rc.0 (#139)
+- [1b9d3b30](https://github.com/kubedb/mssql-coordinator/commit/1b9d3b30) Add support for arbiter (#136)
+- [63690f56](https://github.com/kubedb/mssql-coordinator/commit/63690f56) added postgres 16.0 support (#137)
+- [63637c30](https://github.com/kubedb/mssql-coordinator/commit/63637c30) Added & modified logs (#134)
+- [c90d2edc](https://github.com/kubedb/mssql-coordinator/commit/c90d2edc) Prepare for release v0.21.0 (#135)
+- [060d7da9](https://github.com/kubedb/mssql-coordinator/commit/060d7da9) Prepare for release v0.20.0 (#133)
+- [867a5a36](https://github.com/kubedb/mssql-coordinator/commit/867a5a36) Fix standby labeling (#132)
+- [676e2957](https://github.com/kubedb/mssql-coordinator/commit/676e2957) Only cache sibling pods using selector (#131)
+- [9732ad99](https://github.com/kubedb/mssql-coordinator/commit/9732ad99) fix linter issue (#130)
+- [8bf809a2](https://github.com/kubedb/mssql-coordinator/commit/8bf809a2) Prepare for release v0.19.0 (#129)
+- [dd87bd6a](https://github.com/kubedb/mssql-coordinator/commit/dd87bd6a) Update dependencies (#128)
+- [ccd18e6d](https://github.com/kubedb/mssql-coordinator/commit/ccd18e6d) Use cached client (#127)
+- [368c11d9](https://github.com/kubedb/mssql-coordinator/commit/368c11d9) Update dependencies (#126)
+- [36094ae6](https://github.com/kubedb/mssql-coordinator/commit/36094ae6) fix failover and standby sync issue (#125)
+- [8ff1d1a2](https://github.com/kubedb/mssql-coordinator/commit/8ff1d1a2) Prepare for release v0.18.0 (#124)
+- [70423ac2](https://github.com/kubedb/mssql-coordinator/commit/70423ac2) Prepare for release v0.18.0-rc.0 (#123)
+- [6e3f71a9](https://github.com/kubedb/mssql-coordinator/commit/6e3f71a9) Update license verifier (#122)
+- [5a20e0a8](https://github.com/kubedb/mssql-coordinator/commit/5a20e0a8) Update license verifier (#121)
+- [bb781f89](https://github.com/kubedb/mssql-coordinator/commit/bb781f89) Add enableServiceLinks to PodSpec (#120)
+- [9e313041](https://github.com/kubedb/mssql-coordinator/commit/9e313041) Test against K8s 1.27.0 (#119)
+- [abf0822f](https://github.com/kubedb/mssql-coordinator/commit/abf0822f) Prepare for release v0.17.0 (#118)
+- [f6b27009](https://github.com/kubedb/mssql-coordinator/commit/f6b27009) Cleanup CI
+- [c359680e](https://github.com/kubedb/mssql-coordinator/commit/c359680e) Use ghcr.io for appscode/golang-dev (#117)
+- [53afc3f5](https://github.com/kubedb/mssql-coordinator/commit/53afc3f5) Dynamically select runner type
+- [ce64e41a](https://github.com/kubedb/mssql-coordinator/commit/ce64e41a) Update workflows (Go 1.20, k8s 1.26) (#116)
+- [754d2dad](https://github.com/kubedb/mssql-coordinator/commit/754d2dad) Test against Kubernetes 1.26.0 (#114)
+- [773c1e37](https://github.com/kubedb/mssql-coordinator/commit/773c1e37) Prepare for release v0.16.0 (#113)
+- [e160b1c6](https://github.com/kubedb/mssql-coordinator/commit/e160b1c6) Update sidekick dependency (#112)
+- [2835261c](https://github.com/kubedb/mssql-coordinator/commit/2835261c) Read imge pull secret from operator flags (#111)
+- [916f0c37](https://github.com/kubedb/mssql-coordinator/commit/916f0c37) Fix `waiting for the target to be leader` issue (#110)
+- [e28d7b5c](https://github.com/kubedb/mssql-coordinator/commit/e28d7b5c) Prepare for release v0.14.1 (#109)
+- [32cf0205](https://github.com/kubedb/mssql-coordinator/commit/32cf0205) Prepare for release v0.14.0 (#108)
+- [706969bd](https://github.com/kubedb/mssql-coordinator/commit/706969bd) Update dependencies (#107)
+- [02340b1c](https://github.com/kubedb/mssql-coordinator/commit/02340b1c) Prepare for release v0.14.0-rc.1 (#106)
+- [51942bbd](https://github.com/kubedb/mssql-coordinator/commit/51942bbd) Prepare for release v0.14.0-rc.0 (#105)
+- [c14a0d4c](https://github.com/kubedb/mssql-coordinator/commit/c14a0d4c) Update deps (#104)
+- [5e6730a5](https://github.com/kubedb/mssql-coordinator/commit/5e6730a5) Merge pull request #102 from kubedb/leader-switch
+- [e25599f0](https://github.com/kubedb/mssql-coordinator/commit/e25599f0) Merge branch 'master' into leader-switch
+- [2708d012](https://github.com/kubedb/mssql-coordinator/commit/2708d012) Add PG Reset Wal for Single user mode failed #101
+- [4d8bd4c3](https://github.com/kubedb/mssql-coordinator/commit/4d8bd4c3) retry eviction of pod and delete pod if fails
+- [0e09b7ec](https://github.com/kubedb/mssql-coordinator/commit/0e09b7ec) Update deps
+- [404ebc14](https://github.com/kubedb/mssql-coordinator/commit/404ebc14) Refined
+- [c0eaf986](https://github.com/kubedb/mssql-coordinator/commit/c0eaf986) Fix: Transfer Leadership issue fix with pod delete
+- [3ed11903](https://github.com/kubedb/mssql-coordinator/commit/3ed11903) Add PG Reset Wal for Single user mode failed
+- [194c1bcb](https://github.com/kubedb/mssql-coordinator/commit/194c1bcb) Run GH actions on ubuntu-20.04 (#103)
+- [8df98fa1](https://github.com/kubedb/mssql-coordinator/commit/8df98fa1) Prepare for release v0.13.0 (#100)
+- [34c72fda](https://github.com/kubedb/mssql-coordinator/commit/34c72fda) Prepare for release v0.13.0-rc.0 (#99)
+- [0295aeca](https://github.com/kubedb/mssql-coordinator/commit/0295aeca) Update dependencies (#98)
+- [9b371d85](https://github.com/kubedb/mssql-coordinator/commit/9b371d85) Test against Kubernetes 1.25.0 (#97)
+- [1a27ef77](https://github.com/kubedb/mssql-coordinator/commit/1a27ef77) Check for PDB version only once (#95)
+- [04c780bd](https://github.com/kubedb/mssql-coordinator/commit/04c780bd) Handle status conversion for CronJob/VolumeSnapshot (#94)
+- [b71a1118](https://github.com/kubedb/mssql-coordinator/commit/b71a1118) Use Go 1.19 (#93)
+- [6270e67d](https://github.com/kubedb/mssql-coordinator/commit/6270e67d) Use k8s 1.25.1 libs (#92)
+- [84787e88](https://github.com/kubedb/mssql-coordinator/commit/84787e88) Stop using removed apis in Kubernetes 1.25 (#91)
+- [7550a387](https://github.com/kubedb/mssql-coordinator/commit/7550a387) Use health checker types from kmodules (#90)
+- [c53a50ad](https://github.com/kubedb/mssql-coordinator/commit/c53a50ad) Prepare for release v0.12.0 (#89)
+- [ee679735](https://github.com/kubedb/mssql-coordinator/commit/ee679735) Prepare for release v0.12.0-rc.1 (#88)
+- [ca070943](https://github.com/kubedb/mssql-coordinator/commit/ca070943) Update health checker (#86)
+- [c38bf66b](https://github.com/kubedb/mssql-coordinator/commit/c38bf66b) Prepare for release v0.12.0-rc.0 (#85)
+- [ee946044](https://github.com/kubedb/mssql-coordinator/commit/ee946044) Acquire license from license-proxyserver if available (#83)
+- [321e6a8f](https://github.com/kubedb/mssql-coordinator/commit/321e6a8f) Remove role scripts from the coordinator. (#82)
+- [6d679b22](https://github.com/kubedb/mssql-coordinator/commit/6d679b22) Update to k8s 1.24 toolchain (#81)
+- [cde3602d](https://github.com/kubedb/mssql-coordinator/commit/cde3602d) Prepare for release v0.11.0 (#80)
+- [d20975b6](https://github.com/kubedb/mssql-coordinator/commit/d20975b6) Update dependencies (#79)
+- [cb516fbc](https://github.com/kubedb/mssql-coordinator/commit/cb516fbc) Add Raft Metrics And graceful shutdown of Postgres (#74)
+- [e78a2c5b](https://github.com/kubedb/mssql-coordinator/commit/e78a2c5b) Update dependencies(nats client, mongo-driver) (#78)
+- [c4af9ba0](https://github.com/kubedb/mssql-coordinator/commit/c4af9ba0) Fix: Fast Shut-down Postgres server to avoid single-user mode shutdown failure (#73)
+- [a9661653](https://github.com/kubedb/mssql-coordinator/commit/a9661653) Prepare for release v0.10.0 (#72)
+- [3774d5c8](https://github.com/kubedb/mssql-coordinator/commit/3774d5c8) Update dependencies (#71)
+- [f72f0a31](https://github.com/kubedb/mssql-coordinator/commit/f72f0a31) Avoid ExacIntoPod to fix memory leak (#70)
+- [b1d68e3e](https://github.com/kubedb/mssql-coordinator/commit/b1d68e3e) Use Go 1.18 (#68)
+- [dfecf3c7](https://github.com/kubedb/mssql-coordinator/commit/dfecf3c7) make fmt (#67)
+- [389e47ea](https://github.com/kubedb/mssql-coordinator/commit/389e47ea) Prepare for release v0.9.0 (#66)
+- [d6c1b92b](https://github.com/kubedb/mssql-coordinator/commit/d6c1b92b) Cancel concurrent CI runs for same pr/commit (#65)
+- [122e1291](https://github.com/kubedb/mssql-coordinator/commit/122e1291) Update dependencies (#64)
+- [8fab8e7a](https://github.com/kubedb/mssql-coordinator/commit/8fab8e7a) Cancel concurrent CI runs for same pr/commit (#63)
+- [749e8501](https://github.com/kubedb/mssql-coordinator/commit/749e8501) Update SiteInfo (#62)
+- [1b11bc19](https://github.com/kubedb/mssql-coordinator/commit/1b11bc19) Publish GenericResource (#61)
+- [9a256f15](https://github.com/kubedb/mssql-coordinator/commit/9a256f15) Fix custom Auth secret issues (#60)
+- [2b3434ac](https://github.com/kubedb/mssql-coordinator/commit/2b3434ac) Use Postgres CR to get replica count (#59)
+- [8ded7410](https://github.com/kubedb/mssql-coordinator/commit/8ded7410) Recover from panic in reconcilers (#58)
+- [917270b8](https://github.com/kubedb/mssql-coordinator/commit/917270b8) Prepare for release v0.8.0 (#57)
+- [f84a1dc0](https://github.com/kubedb/mssql-coordinator/commit/f84a1dc0) Update dependencies (#56)
+- [076b8ede](https://github.com/kubedb/mssql-coordinator/commit/076b8ede) Check if pods are controlled by kubedb statefulset (#55)
+- [4c55eed6](https://github.com/kubedb/mssql-coordinator/commit/4c55eed6) Prepare for release v0.7.0 (#54)
+- [f98e8947](https://github.com/kubedb/mssql-coordinator/commit/f98e8947) Update kmodules.xyz/monitoring-agent-api (#53)
+- [6f59d29f](https://github.com/kubedb/mssql-coordinator/commit/6f59d29f) Update repository config (#52)
+- [5ff5f4b8](https://github.com/kubedb/mssql-coordinator/commit/5ff5f4b8) Fix: Raft log corrupted issue (#51)
+- [314fd357](https://github.com/kubedb/mssql-coordinator/commit/314fd357) Use DisableAnalytics flag from license (#50)
+- [88b19fcc](https://github.com/kubedb/mssql-coordinator/commit/88b19fcc) Update license-verifier (#49)
+- [06248438](https://github.com/kubedb/mssql-coordinator/commit/06248438) Support custom pod and controller labels (#48)
+- [633bfcac](https://github.com/kubedb/mssql-coordinator/commit/633bfcac) Postgres Server Restart If Sig-Killed (#44)
+- [5047efeb](https://github.com/kubedb/mssql-coordinator/commit/5047efeb) Print logs at Debug level
+- [7d42c4bd](https://github.com/kubedb/mssql-coordinator/commit/7d42c4bd) Log timestamp from zap logger used in raft (#47)
+- [137015d0](https://github.com/kubedb/mssql-coordinator/commit/137015d0) Update xorm dependency (#46)
+- [81f78270](https://github.com/kubedb/mssql-coordinator/commit/81f78270) Fix satori/go.uuid security vulnerability (#45)
+- [b3685227](https://github.com/kubedb/mssql-coordinator/commit/b3685227) Fix jwt-go security vulnerability (#43)
+- [9bfed99c](https://github.com/kubedb/mssql-coordinator/commit/9bfed99c) Fix: Postgres server single user mode start for bullseye image (#42)
+- [f55f8d6e](https://github.com/kubedb/mssql-coordinator/commit/f55f8d6e) Update dependencies to publish SiteInfo (#40)
+- [b82a3d77](https://github.com/kubedb/mssql-coordinator/commit/b82a3d77) Add support for Postgres version v14.0 (#41)
+- [158105b8](https://github.com/kubedb/mssql-coordinator/commit/158105b8) Prepare for release v0.6.0 (#39)
+- [4b7e8593](https://github.com/kubedb/mssql-coordinator/commit/4b7e8593) Log warning if Community License is used with non-demo namespace (#38)
+- [f87aee15](https://github.com/kubedb/mssql-coordinator/commit/f87aee15) Prepare for release v0.5.0 (#37)
+- [4357d0b7](https://github.com/kubedb/mssql-coordinator/commit/4357d0b7) Update dependencies (#36)
+- [a14448cb](https://github.com/kubedb/mssql-coordinator/commit/a14448cb) Fix Rewind And Memory leak Issues (#35)
+- [245fcde9](https://github.com/kubedb/mssql-coordinator/commit/245fcde9) Update repository config (#34)
+- [066da089](https://github.com/kubedb/mssql-coordinator/commit/066da089) Update dependencies (#33)
+- [d2c2ef68](https://github.com/kubedb/mssql-coordinator/commit/d2c2ef68) Prepare for release v0.4.0 (#32)
+- [0f61b36f](https://github.com/kubedb/mssql-coordinator/commit/0f61b36f) Update dependencies (#31)
+- [e98ad26a](https://github.com/kubedb/mssql-coordinator/commit/e98ad26a) Update dependencies (#30)
+- [4421b2ab](https://github.com/kubedb/mssql-coordinator/commit/4421b2ab) Update repository config (#29)
+- [9d4483f5](https://github.com/kubedb/mssql-coordinator/commit/9d4483f5) Update repository config (#28)
+- [adb9f368](https://github.com/kubedb/mssql-coordinator/commit/adb9f368) Update dependencies (#27)
+- [1728412c](https://github.com/kubedb/mssql-coordinator/commit/1728412c) Prepare for release v0.3.0 (#26)
+- [b6d007ff](https://github.com/kubedb/mssql-coordinator/commit/b6d007ff) Prepare for release v0.3.0-rc.0 (#25)
+- [58216f8a](https://github.com/kubedb/mssql-coordinator/commit/58216f8a) Update Client TLS Path for Postgres (#24)
+- [a07d255e](https://github.com/kubedb/mssql-coordinator/commit/a07d255e) Raft Version Update And Ops Request Fix (#23)
+- [1855cecf](https://github.com/kubedb/mssql-coordinator/commit/1855cecf) Use klog/v2 (#19)
+- [727dcc87](https://github.com/kubedb/mssql-coordinator/commit/727dcc87) Use klog/v2
+- [eff1c8f0](https://github.com/kubedb/mssql-coordinator/commit/eff1c8f0) Prepare for release v0.2.0 (#16)
+- [ffb6ee5e](https://github.com/kubedb/mssql-coordinator/commit/ffb6ee5e) Add Support for Custom UID (#15)
+- [72d46511](https://github.com/kubedb/mssql-coordinator/commit/72d46511) Fix spelling
+- [6067a826](https://github.com/kubedb/mssql-coordinator/commit/6067a826) Prepare for release v0.1.1 (#14)
+- [2fd91dc0](https://github.com/kubedb/mssql-coordinator/commit/2fd91dc0) Prepare for release v0.1.0 (#13)
+- [d0eb5419](https://github.com/kubedb/mssql-coordinator/commit/d0eb5419) fix: added basic auth client for raft client http
+- [acb1a2e3](https://github.com/kubedb/mssql-coordinator/commit/acb1a2e3) Update KubeDB api (#12)
+- [cc923be0](https://github.com/kubedb/mssql-coordinator/commit/cc923be0) fix: added basic auth for http client
+- [48204a3d](https://github.com/kubedb/mssql-coordinator/commit/48204a3d) fix: cleanup logs
+- [f0cd88d3](https://github.com/kubedb/mssql-coordinator/commit/f0cd88d3) Use alpine as base for prod docker image (#11)
+- [98837f30](https://github.com/kubedb/mssql-coordinator/commit/98837f30) fix: revendor with api-mechinary
+- [12779aa6](https://github.com/kubedb/mssql-coordinator/commit/12779aa6) fix: updated docker file
+- [414905da](https://github.com/kubedb/mssql-coordinator/commit/414905da) fix: replace rsync with cp
+- [2f1f7994](https://github.com/kubedb/mssql-coordinator/commit/2f1f7994) fix: pg_rewind failed
+- [173bbf94](https://github.com/kubedb/mssql-coordinator/commit/173bbf94) fix: updated server's port 2379 (client),2380 (peer)
+- [ab30d53e](https://github.com/kubedb/mssql-coordinator/commit/ab30d53e) fix: license added
+- [d0bc0a50](https://github.com/kubedb/mssql-coordinator/commit/d0bc0a50) fix: make lint with constant updated
+- [e6dc704b](https://github.com/kubedb/mssql-coordinator/commit/e6dc704b) fix: updated with api-mechinary constant name
+- [80a13a5b](https://github.com/kubedb/mssql-coordinator/commit/80a13a5b) fix: primary & replica have different cluster id
+- [4345dd34](https://github.com/kubedb/mssql-coordinator/commit/4345dd34) fix: initial access denied before final initialize complete
+- [9a68d868](https://github.com/kubedb/mssql-coordinator/commit/9a68d868) fix: working on http basic auth (on progress)
+- [22b37d3e](https://github.com/kubedb/mssql-coordinator/commit/22b37d3e) fix: last leader same as new one
+- [b798ba4d](https://github.com/kubedb/mssql-coordinator/commit/b798ba4d) fix: single user mode read buffer
+- [b7e1f678](https://github.com/kubedb/mssql-coordinator/commit/b7e1f678) fix: make lint
+- [8c106f06](https://github.com/kubedb/mssql-coordinator/commit/8c106f06) fix: make gen fmt
+- [71108b31](https://github.com/kubedb/mssql-coordinator/commit/71108b31) fix: go mod updated
+- [5cdc4e2b](https://github.com/kubedb/mssql-coordinator/commit/5cdc4e2b) fix: error handling fix : log handled
+- [3c57af41](https://github.com/kubedb/mssql-coordinator/commit/3c57af41) fix: working on log and error handling
+- [1de624df](https://github.com/kubedb/mssql-coordinator/commit/1de624df) fix: updated api-machinery
+- [8eb48dbf](https://github.com/kubedb/mssql-coordinator/commit/8eb48dbf) updated sslMode=$SSL_MODE
+- [9c745042](https://github.com/kubedb/mssql-coordinator/commit/9c745042) fix: added scram-sha-256
+- [4a8817e2](https://github.com/kubedb/mssql-coordinator/commit/4a8817e2) fix: typo
+- [f7f3625e](https://github.com/kubedb/mssql-coordinator/commit/f7f3625e) fix: sslMode check done
+- [eae73f6d](https://github.com/kubedb/mssql-coordinator/commit/eae73f6d) fix: CLIENT_AUTH_MODE value updated
+- [a4c8a7fe](https://github.com/kubedb/mssql-coordinator/commit/a4c8a7fe) fix: auth and sslmode
+- [f7e96f1e](https://github.com/kubedb/mssql-coordinator/commit/f7e96f1e) fix ca.crt for client Signed-off-by: Emon46 <emon@appscode.com>
+- [daab4f78](https://github.com/kubedb/mssql-coordinator/commit/daab4f78) fix: set connection string to verify-fulll fix: remove restore.sh from all version
+- [b085140b](https://github.com/kubedb/mssql-coordinator/commit/b085140b) fix: clean up logs
+- [cd1904a3](https://github.com/kubedb/mssql-coordinator/commit/cd1904a3) fix: handle DoReinitialization func returning error in failover
+- [1d188de5](https://github.com/kubedb/mssql-coordinator/commit/1d188de5) fix: api mechinary updated for  removing archiver spec
+- [cc5f7482](https://github.com/kubedb/mssql-coordinator/commit/cc5f7482) fix: added demote immediate function
+- [887eddca](https://github.com/kubedb/mssql-coordinator/commit/887eddca) fix: added pgREcovery check for leader test
+- [beb56969](https://github.com/kubedb/mssql-coordinator/commit/beb56969) fix: removed unnecessary functions fix: scripts Signed-off-by: Emon46 <emon@appscode.com>
+- [24e5e2aa](https://github.com/kubedb/mssql-coordinator/commit/24e5e2aa) fix: script modified
+- [49637489](https://github.com/kubedb/mssql-coordinator/commit/49637489) fix: timeline issue
+- [c418bc0c](https://github.com/kubedb/mssql-coordinator/commit/c418bc0c) Remove .idea folder
+- [75662379](https://github.com/kubedb/mssql-coordinator/commit/75662379) Add license and Makefile (#8)
+- [898f76f0](https://github.com/kubedb/mssql-coordinator/commit/898f76f0) fix: added pass auth for users in pg_hba.conf
+- [50e0ddcd](https://github.com/kubedb/mssql-coordinator/commit/50e0ddcd) working with 9,10,11,12,13
+- [d1318c92](https://github.com/kubedb/mssql-coordinator/commit/d1318c92) added script for 9,10,11,12,13 fix : syntex error issue in 9 fix : updated pg_rewind error message check
+- [f13ea0fd](https://github.com/kubedb/mssql-coordinator/commit/f13ea0fd) fix: working with version 12
+- [6d87091c](https://github.com/kubedb/mssql-coordinator/commit/6d87091c) fixing for updated version 12 and 13
+- [a95e5d97](https://github.com/kubedb/mssql-coordinator/commit/a95e5d97) fix: config recovery after basebackup in normal flow
+- [de14b8b3](https://github.com/kubedb/mssql-coordinator/commit/de14b8b3) update: variable check SSL_MODE
+- [b19426c1](https://github.com/kubedb/mssql-coordinator/commit/b19426c1) added field for hearttick and leadertick
+- [ca1c44af](https://github.com/kubedb/mssql-coordinator/commit/ca1c44af) fix: revondoring done. label updated
+- [e5d59292](https://github.com/kubedb/mssql-coordinator/commit/e5d59292) fix: final working version. fixed: raft vendoring . added vendor from appscode fix: error handled for pg_rewind, pg_dump, start, stop, single user mode
+- [f027542a](https://github.com/kubedb/mssql-coordinator/commit/f027542a) Signed-off-by: Emon331046 <emon@appscode.com>
+- [db071c27](https://github.com/kubedb/mssql-coordinator/commit/db071c27) fix : working version with pg rewind check and other stuffs. note: this is the final one
+- [2f03442a](https://github.com/kubedb/mssql-coordinator/commit/2f03442a) added process check
+- [4cca7bf4](https://github.com/kubedb/mssql-coordinator/commit/4cca7bf4) fix all crush prev-link isssue
+- [dd92164f](https://github.com/kubedb/mssql-coordinator/commit/dd92164f) fixed single user mode start
+- [5980f861](https://github.com/kubedb/mssql-coordinator/commit/5980f861) working with doing always pg_rewind note: needPgRewind is always true here
+- [ca6dabd7](https://github.com/kubedb/mssql-coordinator/commit/ca6dabd7) fixing primary after recover prev-link invalid wal Signed-off-by: Emon46 <emon@appscode.com>
+- [8e678581](https://github.com/kubedb/mssql-coordinator/commit/8e678581) fixing prev-link record error
+- [c5518602](https://github.com/kubedb/mssql-coordinator/commit/c5518602) fix ... Signed-off-by: Emon331046 <emon@appscode.com>
+- [6c5c31ae](https://github.com/kubedb/mssql-coordinator/commit/6c5c31ae) fix some pg_rewind issue
+- [ef9cdb17](https://github.com/kubedb/mssql-coordinator/commit/ef9cdb17) fix recover demote follower
+- [8345e968](https://github.com/kubedb/mssql-coordinator/commit/8345e968) pg_rewind and status and stop start func fix Signed-off-by: Emon331046 <emon@appscode.com>
+- [8851de41](https://github.com/kubedb/mssql-coordinator/commit/8851de41) debuging codebase Signed-off-by: Emon46 <emon@appscode.com>
+- [657b5c03](https://github.com/kubedb/mssql-coordinator/commit/657b5c03) fix : always delete pod problem
+- [a2e0c15e](https://github.com/kubedb/mssql-coordinator/commit/a2e0c15e) working on pg rewind Signed-off-by: Emon331046 <emon@appscode.com>
+- [692a6f8f](https://github.com/kubedb/mssql-coordinator/commit/692a6f8f) working on do pg rewind Signed-off-by: Emon331046 <emon@appscode.com>
+- [50f34767](https://github.com/kubedb/mssql-coordinator/commit/50f34767) added pg_rewind check
+- [fcaf8261](https://github.com/kubedb/mssql-coordinator/commit/fcaf8261) unifnished : pg_dump and Pg_rewind Signed-off-by: Emon46 <emon@appscode.com>
+- [2c7005ce](https://github.com/kubedb/mssql-coordinator/commit/2c7005ce) adding og_rewind
+- [62372a23](https://github.com/kubedb/mssql-coordinator/commit/62372a23) need a fix
+- [c0459bf4](https://github.com/kubedb/mssql-coordinator/commit/c0459bf4) fix: leader transfer api added Signed-off-by: Emon331046 <emon@appscode.com>
+- [21f016d0](https://github.com/kubedb/mssql-coordinator/commit/21f016d0) need to fix Signed-off-by: Emon331046 <emon@appscode.com>
+- [afea498c](https://github.com/kubedb/mssql-coordinator/commit/afea498c) clean up codebase
+- [3166aa2d](https://github.com/kubedb/mssql-coordinator/commit/3166aa2d) change pg_hba.conf for localhost
+- [af5719eb](https://github.com/kubedb/mssql-coordinator/commit/af5719eb)  need to fix change pg_hba.conf
+- [e91b1214](https://github.com/kubedb/mssql-coordinator/commit/e91b1214) change pghb from root to postgres for certs
+- [97547ff1](https://github.com/kubedb/mssql-coordinator/commit/97547ff1) change owner from root to postgres for certs
+- [72101b53](https://github.com/kubedb/mssql-coordinator/commit/72101b53) need to fix
+- [46119298](https://github.com/kubedb/mssql-coordinator/commit/46119298) fix: vendor updated
+- [5456ed6f](https://github.com/kubedb/mssql-coordinator/commit/5456ed6f) fix: svc for standby
+- [b700c1fe](https://github.com/kubedb/mssql-coordinator/commit/b700c1fe) fix: svc for standby
+- [9299ea6c](https://github.com/kubedb/mssql-coordinator/commit/9299ea6c) fix: vendoring apimachinery for constants
+- [2bee5907](https://github.com/kubedb/mssql-coordinator/commit/2bee5907) fix: added support for v9
+- [5049d829](https://github.com/kubedb/mssql-coordinator/commit/5049d829) fix: added support for v9
+- [273d3ca9](https://github.com/kubedb/mssql-coordinator/commit/273d3ca9) fix: added client for converting a node learner or candidate
+- [cbe5c267](https://github.com/kubedb/mssql-coordinator/commit/cbe5c267) added makeLearner func
+- [b78e4245](https://github.com/kubedb/mssql-coordinator/commit/b78e4245) fix: the trigger-file issue
+- [1b32281c](https://github.com/kubedb/mssql-coordinator/commit/1b32281c) fix: old leader restart fixed
+- [6e79582b](https://github.com/kubedb/mssql-coordinator/commit/6e79582b) fix: crashing after running script fixed
+- [2049963c](https://github.com/kubedb/mssql-coordinator/commit/2049963c) need to fix the script part
+- [6d7985c7](https://github.com/kubedb/mssql-coordinator/commit/6d7985c7) added scripts in leader-election container
+- [df37d25c](https://github.com/kubedb/mssql-coordinator/commit/df37d25c) added leader port
+- [72de772f](https://github.com/kubedb/mssql-coordinator/commit/72de772f) added leader port
+- [746914ff](https://github.com/kubedb/mssql-coordinator/commit/746914ff) leader test
+- [12a635d1](https://github.com/kubedb/mssql-coordinator/commit/12a635d1) leader test
+- [ce3787db](https://github.com/kubedb/mssql-coordinator/commit/ce3787db) leader test
+- [02677281](https://github.com/kubedb/mssql-coordinator/commit/02677281) leader test
+- [b64c6e31](https://github.com/kubedb/mssql-coordinator/commit/b64c6e31) leader test
+- [dd970354](https://github.com/kubedb/mssql-coordinator/commit/dd970354) leader test
+- [84686fc5](https://github.com/kubedb/mssql-coordinator/commit/84686fc5) leader test
+- [57fb4982](https://github.com/kubedb/mssql-coordinator/commit/57fb4982) leader test
+- [eeebe8ff](https://github.com/kubedb/mssql-coordinator/commit/eeebe8ff) leader test
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.38.0](https://github.com/kubedb/mysql/releases/tag/v0.38.0)

@@ -46,6 +46,20 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.16.0](https://github.com/kubedb/kafka/releases/tag/v0.16.0)
+
+- [088b36f0](https://github.com/kubedb/kafka/commit/088b36f0) Prepare for release v0.16.0 (#89)
+- [9151e670](https://github.com/kubedb/kafka/commit/9151e670) Prepare for release v0.16.0 (#88)
+- [dec0a20c](https://github.com/kubedb/kafka/commit/dec0a20c) Set Defaults to db on reconcile (#87)
+- [2b88de4e](https://github.com/kubedb/kafka/commit/2b88de4e) Add Kafka and Connect Cluster PDB (#84)
+- [847c8fe2](https://github.com/kubedb/kafka/commit/847c8fe2) Use deps (#86)
+- [6880da47](https://github.com/kubedb/kafka/commit/6880da47) Use Go 1.22 (#85)
+- [9242c91d](https://github.com/kubedb/kafka/commit/9242c91d) Remove license check for webhook-server (#83)
+
+
+
 ## [kubedb/mssql](https://github.com/kubedb/mssql)
 
 ### [v0.0.1](https://github.com/kubedb/mssql/releases/tag/v0.0.1)

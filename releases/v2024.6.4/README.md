@@ -39,3 +39,20 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.1.0](https://github.com/kubedb/db-client-go/releases/tag/v0.1.0)
+
+- [19480f10](https://github.com/kubedb/db-client-go/commit/19480f10) Prepare for release v0.1.0 (#115)
+- [1942b7bd](https://github.com/kubedb/db-client-go/commit/1942b7bd) client for health check & multiple user reload for pgBouncer (#107)
+- [277b3fb6](https://github.com/kubedb/db-client-go/commit/277b3fb6) Use k8s 1.30 client libs (#114)
+- [78f5e4c4](https://github.com/kubedb/db-client-go/commit/78f5e4c4) Update rabbitmq client methods (#113)
+- [8beb95c5](https://github.com/kubedb/db-client-go/commit/8beb95c5) Update apimachinery module
+- [f25da8ec](https://github.com/kubedb/db-client-go/commit/f25da8ec) Add ClickHouse DB Client (#112)
+- [8c9132a7](https://github.com/kubedb/db-client-go/commit/8c9132a7) Add RabbitMQ PubSub methods (#105)
+- [ed82b008](https://github.com/kubedb/db-client-go/commit/ed82b008) Add Kafka Schema Registry Client (#110)
+- [9c578aba](https://github.com/kubedb/db-client-go/commit/9c578aba) Add MSSQL Server TLS  config  (#111)
+- [94f6f276](https://github.com/kubedb/db-client-go/commit/94f6f276) Update auditor library (#109)
+
+
+

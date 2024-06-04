@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-04T20:35:27.907313285Z",
+  "release_date": "2024-06-04T21:06:09.055315747Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -135,6 +135,56 @@
             {
               "SHA": "62470fd41",
               "Subject": "Add Pgpool AppBinding (#1205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "19480f10",
+              "Subject": "Prepare for release v0.1.0 (#115)"
+            },
+            {
+              "SHA": "1942b7bd",
+              "Subject": "client for health check & multiple user reload for pgBouncer (#107)"
+            },
+            {
+              "SHA": "277b3fb6",
+              "Subject": "Use k8s 1.30 client libs (#114)"
+            },
+            {
+              "SHA": "78f5e4c4",
+              "Subject": "Update rabbitmq client methods (#113)"
+            },
+            {
+              "SHA": "8beb95c5",
+              "Subject": "Update apimachinery module"
+            },
+            {
+              "SHA": "f25da8ec",
+              "Subject": "Add ClickHouse DB Client (#112)"
+            },
+            {
+              "SHA": "8c9132a7",
+              "Subject": "Add RabbitMQ PubSub methods (#105)"
+            },
+            {
+              "SHA": "ed82b008",
+              "Subject": "Add Kafka Schema Registry Client (#110)"
+            },
+            {
+              "SHA": "9c578aba",
+              "Subject": "Add MSSQL Server TLS  config  (#111)"
+            },
+            {
+              "SHA": "94f6f276",
+              "Subject": "Update auditor library (#109)"
             }
           ]
         }

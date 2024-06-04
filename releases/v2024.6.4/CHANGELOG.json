@@ -1,0 +1,144 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.6.4",
+  "release_date": "2024-06-04T20:35:27.907313285Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.6.4",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "acca053ab",
+              "Subject": "Update kubestash api"
+            },
+            {
+              "SHA": "f64ef7785",
+              "Subject": "Add pod placement policy to v1 pod template spec (#1233)"
+            },
+            {
+              "SHA": "7cb055661",
+              "Subject": "Use k8s client libs 1.30.1 (#1232)"
+            },
+            {
+              "SHA": "faac2b8dc",
+              "Subject": "Use DeletionPolicy instead of TerminationPolicy in new dbs (#1231)"
+            },
+            {
+              "SHA": "e387d0c63",
+              "Subject": "Use PodPlacementPolicy from v2 podTemplate (#1230)"
+            },
+            {
+              "SHA": "74e7190f0",
+              "Subject": "Set TLS Defaults for Microsoft SQL Server (#1226)"
+            },
+            {
+              "SHA": "f50d9c109",
+              "Subject": "Refactor Clickhouse Webhook (#1228)"
+            },
+            {
+              "SHA": "049490369",
+              "Subject": "Add TLS constants and defaults for RabbitMQ (#1227)"
+            },
+            {
+              "SHA": "d5eb1d507",
+              "Subject": "Add Druid autoscaler API (#1219)"
+            },
+            {
+              "SHA": "8f7ef3c81",
+              "Subject": "Add Druid ops-request API (#1208)"
+            },
+            {
+              "SHA": "a0277a77e",
+              "Subject": "Add Pgpool Autoscaler API (#1223)"
+            },
+            {
+              "SHA": "b0c77ebe1",
+              "Subject": "Add Pgpool OpsRequest API (#1209)"
+            },
+            {
+              "SHA": "0d84725c8",
+              "Subject": "Add RabbitMQ OpsRequests (#1225)"
+            },
+            {
+              "SHA": "31cc9434f",
+              "Subject": "pgbouncer reload config based on label (#1224)"
+            },
+            {
+              "SHA": "b3797f47c",
+              "Subject": "Add ClickHouse API (#1212)"
+            },
+            {
+              "SHA": "46e50802d",
+              "Subject": "Add Kafka Schema Registry APIs (#1217)"
+            },
+            {
+              "SHA": "5e6b27ed3",
+              "Subject": "Add MSSQL Server TLS related APIs and helpers (#1218)"
+            },
+            {
+              "SHA": "e11115697",
+              "Subject": "Add SingleStore AutoScaler API (#1213)"
+            },
+            {
+              "SHA": "85c1f2a6a",
+              "Subject": "Add SingleStore Ops-Request API (#1211)"
+            },
+            {
+              "SHA": "2c4d34e07",
+              "Subject": "Updated Memcached API (#1214)"
+            },
+            {
+              "SHA": "2321968de",
+              "Subject": "Update druid API for simplifying YAML (#1222)"
+            },
+            {
+              "SHA": "dfb99f1ab",
+              "Subject": "Set default scalingRules (#1220)"
+            },
+            {
+              "SHA": "0744dd0c9",
+              "Subject": "Allow only one database for pgbouncer connection pooling (#1210)"
+            },
+            {
+              "SHA": "08fb210be",
+              "Subject": "Fix error check for ferretdb webhook (#1221)"
+            },
+            {
+              "SHA": "4274e8077",
+              "Subject": "Update auditor library (#1216)"
+            },
+            {
+              "SHA": "7fb9b8c98",
+              "Subject": "Extract databaseInfo from mssql (#1203)"
+            },
+            {
+              "SHA": "945f983c3",
+              "Subject": "Add `syncUsers` field to pgbouncer api (#1206)"
+            },
+            {
+              "SHA": "bf3d0581d",
+              "Subject": "Update kmodules/client-go deps"
+            },
+            {
+              "SHA": "a74eb3db5",
+              "Subject": "Update ZooKeeper CRD (#1207)"
+            },
+            {
+              "SHA": "bcfb3b3da",
+              "Subject": "Add Security Context (#1204)"
+            },
+            {
+              "SHA": "62470fd41",
+              "Subject": "Add Pgpool AppBinding (#1205)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

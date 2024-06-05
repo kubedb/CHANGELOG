@@ -243,6 +243,13 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.8.0](https://github.com/kubedb/provider-azure/releases/tag/v0.8.0)
+
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.8.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.8.0)

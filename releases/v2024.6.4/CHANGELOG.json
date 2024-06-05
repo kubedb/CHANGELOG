@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:17:17.113950176Z",
+  "release_date": "2024-06-05T03:19:55.733076867Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -315,6 +315,36 @@
             {
               "SHA": "f2854c4",
               "Subject": "Use version specific bootstrap configurations (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "0f0958b2",
+              "Subject": "Prepare for release v0.1.0 (#28)"
+            },
+            {
+              "SHA": "a0c3a9c3",
+              "Subject": "Use k8s 1.30 client libs (#27)"
+            },
+            {
+              "SHA": "41f23f5e",
+              "Subject": "Update PodPlacementPolicy (#26)"
+            },
+            {
+              "SHA": "0b3c259f",
+              "Subject": "Add support for PodDisruptionBudget (#25)"
+            },
+            {
+              "SHA": "4139742c",
+              "Subject": "Update auditor library (#24)"
             }
           ]
         }

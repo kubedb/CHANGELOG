@@ -116,3 +116,15 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.1.0](https://github.com/kubedb/zookeeper/releases/tag/v0.1.0)
+
+- [0f0958b2](https://github.com/kubedb/zookeeper/commit/0f0958b2) Prepare for release v0.1.0 (#28)
+- [a0c3a9c3](https://github.com/kubedb/zookeeper/commit/a0c3a9c3) Use k8s 1.30 client libs (#27)
+- [41f23f5e](https://github.com/kubedb/zookeeper/commit/41f23f5e) Update PodPlacementPolicy (#26)
+- [0b3c259f](https://github.com/kubedb/zookeeper/commit/0b3c259f) Add support for PodDisruptionBudget (#25)
+- [4139742c](https://github.com/kubedb/zookeeper/commit/4139742c) Update auditor library (#24)
+
+
+

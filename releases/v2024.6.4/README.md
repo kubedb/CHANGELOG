@@ -39,6 +39,18 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.1.0](https://github.com/kubedb/clickhouse/releases/tag/v0.1.0)
+
+- [4065f54](https://github.com/kubedb/clickhouse/commit/4065f54) Prepare for release v0.1.0 (#2)
+- [7e3dd87](https://github.com/kubedb/clickhouse/commit/7e3dd87) Add Support for Provisioning (#1)
+- [5d37918](https://github.com/kubedb/clickhouse/commit/5d37918) Add ClickHouseVersion API
+- [d5c86a3](https://github.com/kubedb/clickhouse/commit/d5c86a3) Add License
+- [edd9534](https://github.com/kubedb/clickhouse/commit/edd9534) Add API and controller Skeleton
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.1.0](https://github.com/kubedb/db-client-go/releases/tag/v0.1.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:20:26.907954827Z",
+  "release_date": "2024-06-05T03:20:40.918875108Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -135,6 +135,36 @@
             {
               "SHA": "62470fd41",
               "Subject": "Add Pgpool AppBinding (#1205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "4065f54",
+              "Subject": "Prepare for release v0.1.0 (#2)"
+            },
+            {
+              "SHA": "7e3dd87",
+              "Subject": "Add Support for Provisioning (#1)"
+            },
+            {
+              "SHA": "5d37918",
+              "Subject": "Add ClickHouseVersion API"
+            },
+            {
+              "SHA": "d5c86a3",
+              "Subject": "Add License"
+            },
+            {
+              "SHA": "edd9534",
+              "Subject": "Add API and controller Skeleton"
             }
           ]
         }

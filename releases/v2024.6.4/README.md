@@ -210,6 +210,16 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.24.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.24.0)
+
+- [84966dd7](https://github.com/kubedb/mysql-coordinator/commit/84966dd7) Prepare for release v0.24.0 (#113)
+- [ca8f6759](https://github.com/kubedb/mysql-coordinator/commit/ca8f6759) Use k8s 1.30 client libs (#112)
+- [e292c238](https://github.com/kubedb/mysql-coordinator/commit/e292c238) Update auditor library (#111)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.7.0)

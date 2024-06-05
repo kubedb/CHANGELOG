@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:53:13.023631198Z",
+  "release_date": "2024-06-05T03:53:39.107645709Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -548,6 +548,28 @@
             {
               "SHA": "2817c31",
               "Subject": "Refactor ENV and func"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "84966dd7",
+              "Subject": "Prepare for release v0.24.0 (#113)"
+            },
+            {
+              "SHA": "ca8f6759",
+              "Subject": "Use k8s 1.30 client libs (#112)"
+            },
+            {
+              "SHA": "e292c238",
+              "Subject": "Update auditor library (#111)"
             }
           ]
         }

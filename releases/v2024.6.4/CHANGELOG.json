@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T08:12:56.502480075Z",
+  "release_date": "2024-06-05T08:55:05.196248741Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -135,6 +135,40 @@
             {
               "SHA": "62470fd41",
               "Subject": "Add Pgpool AppBinding (#1205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "53c1e362",
+              "Subject": "Prepare for release v0.31.0 (#209)"
+            },
+            {
+              "SHA": "41133bbe",
+              "Subject": "Use k8s 1.30 client libs (#208)"
+            },
+            {
+              "SHA": "72b0ef60",
+              "Subject": "Add Pgpool Autoscaler (#207)"
+            },
+            {
+              "SHA": "dfbc3cfe",
+              "Subject": "Add Druid Autoscaler (#206)"
+            },
+            {
+              "SHA": "bd1b970b",
+              "Subject": "Add SingleStore Autoscaler (#204)"
+            },
+            {
+              "SHA": "cbcf5481",
+              "Subject": "Update auditor library (#205)"
             }
           ]
         }

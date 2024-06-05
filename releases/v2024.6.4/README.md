@@ -39,6 +39,19 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.31.0](https://github.com/kubedb/autoscaler/releases/tag/v0.31.0)
+
+- [53c1e362](https://github.com/kubedb/autoscaler/commit/53c1e362) Prepare for release v0.31.0 (#209)
+- [41133bbe](https://github.com/kubedb/autoscaler/commit/41133bbe) Use k8s 1.30 client libs (#208)
+- [72b0ef60](https://github.com/kubedb/autoscaler/commit/72b0ef60) Add Pgpool Autoscaler (#207)
+- [dfbc3cfe](https://github.com/kubedb/autoscaler/commit/dfbc3cfe) Add Druid Autoscaler (#206)
+- [bd1b970b](https://github.com/kubedb/autoscaler/commit/bd1b970b) Add SingleStore Autoscaler (#204)
+- [cbcf5481](https://github.com/kubedb/autoscaler/commit/cbcf5481) Update auditor library (#205)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.46.0](https://github.com/kubedb/cli/releases/tag/v0.46.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:22:02.618119563Z",
+  "release_date": "2024-06-05T03:22:12.479307187Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -319,6 +319,32 @@
             {
               "SHA": "93633f3",
               "Subject": "Update auditor library (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "a382c4b2b",
+              "Subject": "Prepare for release v0.30.0 (#270)"
+            },
+            {
+              "SHA": "956d17b65",
+              "Subject": "Use k8s 1.30 client libs (#269)"
+            },
+            {
+              "SHA": "c6531c18e",
+              "Subject": "Update auditor library (#268)"
+            },
+            {
+              "SHA": "4add61822",
+              "Subject": "Add Cloud, TLS Support for Archiver Backup and Restore"
             }
           ]
         }

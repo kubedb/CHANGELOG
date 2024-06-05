@@ -145,6 +145,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.26.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.26.0)
+
+- [4160a9a4](https://github.com/kubedb/mariadb-coordinator/commit/4160a9a4) Prepare for release v0.26.0 (#118)
+- [19af6050](https://github.com/kubedb/mariadb-coordinator/commit/19af6050) Use k8s 1.30 client libs (#117)
+- [a90ae803](https://github.com/kubedb/mariadb-coordinator/commit/a90ae803) Update auditor library (#116)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.6.0)

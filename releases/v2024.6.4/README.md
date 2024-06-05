@@ -183,6 +183,18 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.46.0](https://github.com/kubedb/postgres/releases/tag/v0.46.0)
+
+- [575d302b](https://github.com/kubedb/postgres/commit/575d302b2) Prepare for release v0.46.0 (#736)
+- [28b5b86e](https://github.com/kubedb/postgres/commit/28b5b86e6) Use k8s 1.30 client libs (#735)
+- [754de55c](https://github.com/kubedb/postgres/commit/754de55c2) Add remote replica support for pg 13,14 (#734)
+- [34285094](https://github.com/kubedb/postgres/commit/342850945) Remove wait until from operator (#733)
+- [8b995cb6](https://github.com/kubedb/postgres/commit/8b995cb6f) Update auditor library (#732)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.7.0)

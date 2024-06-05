@@ -123,6 +123,17 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.6.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.6.0)
+
+- [dd0a4eb](https://github.com/kubedb/mariadb-archiver/commit/dd0a4eb) Prepare for release v0.6.0 (#19)
+- [1a5d018](https://github.com/kubedb/mariadb-archiver/commit/1a5d018) Use k8s 1.30 client libs (#18)
+- [33c9ef9](https://github.com/kubedb/mariadb-archiver/commit/33c9ef9) Update auditor library (#17)
+- [de771cb](https://github.com/kubedb/mariadb-archiver/commit/de771cb) Add Cloud, TLS Support for Archiver Backup and Restore
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.6.0)

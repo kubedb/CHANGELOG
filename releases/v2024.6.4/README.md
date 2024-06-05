@@ -68,6 +68,16 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.9.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.9.0)
+
+- [adc1b75](https://github.com/kubedb/elasticsearch-restic-plugin/commit/adc1b75) Prepare for release v0.9.0 (#33)
+- [6d90baf](https://github.com/kubedb/elasticsearch-restic-plugin/commit/6d90baf) Use k8s 1.30 client libs (#32)
+- [0f59810](https://github.com/kubedb/elasticsearch-restic-plugin/commit/0f59810) Update auditor library (#31)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.6.0)

@@ -115,6 +115,16 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.25.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.25.0)
+
+- [0afe9b48](https://github.com/kubedb/redis-coordinator/commit/0afe9b48) Prepare for release v0.25.0 (#104)
+- [519a3d70](https://github.com/kubedb/redis-coordinator/commit/519a3d70) Use k8s 1.30 client libs (#103)
+- [585fd8e8](https://github.com/kubedb/redis-coordinator/commit/585fd8e8) Update auditor library (#102)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.1.0](https://github.com/kubedb/solr/releases/tag/v0.1.0)

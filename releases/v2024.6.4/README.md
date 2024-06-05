@@ -104,3 +104,15 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.1.0](https://github.com/kubedb/solr/releases/tag/v0.1.0)
+
+- [de0665a](https://github.com/kubedb/solr/commit/de0665a) Prepare for release v0.1.0 (#32)
+- [4a87cd1](https://github.com/kubedb/solr/commit/4a87cd1) Use podPlacementPolicy from v2 template and use deletionPolicy instead of terminationPolicy. (#30)
+- [bd23006](https://github.com/kubedb/solr/commit/bd23006) Add petset to run tests. (#29)
+- [11e98aa](https://github.com/kubedb/solr/commit/11e98aa) Update auditor library (#28)
+- [f2854c4](https://github.com/kubedb/solr/commit/f2854c4) Use version specific bootstrap configurations (#27)
+
+
+

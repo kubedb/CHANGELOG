@@ -78,6 +78,19 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.9.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.9.0)
+
+- [473e302](https://github.com/kubedb/kubedb-manifest-plugin/commit/473e302) Prepare for release v0.9.0 (#56)
+- [a85da9a](https://github.com/kubedb/kubedb-manifest-plugin/commit/a85da9a) Fix nil pointer ref for manifest options (#55)
+- [ad0bee2](https://github.com/kubedb/kubedb-manifest-plugin/commit/ad0bee2) Add default namespace for restore (#54)
+- [9a503e1](https://github.com/kubedb/kubedb-manifest-plugin/commit/9a503e1) Add Support for Cross Namespace Restore (#45)
+- [e02604f](https://github.com/kubedb/kubedb-manifest-plugin/commit/e02604f) Use k8s 1.30 client libs (#53)
+- [93633f3](https://github.com/kubedb/kubedb-manifest-plugin/commit/93633f3) Update auditor library (#52)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.6.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:58:09.977947072Z",
+  "release_date": "2024-06-05T04:00:19.993022589Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -744,6 +744,28 @@
             {
               "SHA": "8b995cb6f",
               "Subject": "Update auditor library (#732)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "d3ee4020",
+              "Subject": "Prepare for release v0.7.0 (#31)"
+            },
+            {
+              "SHA": "ec608c78",
+              "Subject": "Use k8s 1.30 client libs (#30)"
+            },
+            {
+              "SHA": "0775a40b",
+              "Subject": "Update auditor library (#29)"
             }
           ]
         }

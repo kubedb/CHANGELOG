@@ -295,6 +295,16 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.7.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.7.0)
+
+- [d3ee4020](https://github.com/kubedb/postgres-archiver/commit/d3ee4020) Prepare for release v0.7.0 (#31)
+- [ec608c78](https://github.com/kubedb/postgres-archiver/commit/ec608c78) Use k8s 1.30 client libs (#30)
+- [0775a40b](https://github.com/kubedb/postgres-archiver/commit/0775a40b) Update auditor library (#29)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.7.0)

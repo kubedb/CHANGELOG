@@ -193,6 +193,15 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.24.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.24.0)
+
+- [f1f471e](https://github.com/kubedb/mysql-router-init/commit/f1f471e) Use k8s 1.30 client libs (#44)
+- [10d3c4b](https://github.com/kubedb/mysql-router-init/commit/10d3c4b) Update auditor library (#43)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.1.0](https://github.com/kubedb/pgpool/releases/tag/v0.1.0)

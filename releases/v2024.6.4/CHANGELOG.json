@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T04:06:54.814169003Z",
+  "release_date": "2024-06-05T04:07:27.936367343Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -371,6 +371,40 @@
             {
               "SHA": "0f59810",
               "Subject": "Update auditor library (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "334c999e",
+              "Subject": "Prepare for release v0.1.0 (#29)"
+            },
+            {
+              "SHA": "64f92533",
+              "Subject": "Use k8s 1.30 client libs (#28)"
+            },
+            {
+              "SHA": "f8ba908f",
+              "Subject": "Update TerminationPolicy to DeletionPolicy (#27)"
+            },
+            {
+              "SHA": "34042883",
+              "Subject": "Move TLS to OpsManager,refactor appbinging,makefile (#26)"
+            },
+            {
+              "SHA": "3bf2bd3c",
+              "Subject": "Update auditor library (#24)"
+            },
+            {
+              "SHA": "0168006f",
+              "Subject": "Use kbClient; Fix patching bug; Use custom predicate for postgres watcher (#23)"
             }
           ]
         }

@@ -134,6 +134,19 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.1.0](https://github.com/kubedb/ferretdb/releases/tag/v0.1.0)
+
+- [334c999e](https://github.com/kubedb/ferretdb/commit/334c999e) Prepare for release v0.1.0 (#29)
+- [64f92533](https://github.com/kubedb/ferretdb/commit/64f92533) Use k8s 1.30 client libs (#28)
+- [f8ba908f](https://github.com/kubedb/ferretdb/commit/f8ba908f) Update TerminationPolicy to DeletionPolicy (#27)
+- [34042883](https://github.com/kubedb/ferretdb/commit/34042883) Move TLS to OpsManager,refactor appbinging,makefile (#26)
+- [3bf2bd3c](https://github.com/kubedb/ferretdb/commit/3bf2bd3c) Update auditor library (#24)
+- [0168006f](https://github.com/kubedb/ferretdb/commit/0168006f) Use kbClient; Fix patching bug; Use custom predicate for postgres watcher (#23)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.17.0](https://github.com/kubedb/kafka/releases/tag/v0.17.0)

@@ -611,6 +611,16 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.22.0](https://github.com/kubedb/ui-server/releases/tag/v0.22.0)
+
+- [22148e44](https://github.com/kubedb/ui-server/commit/22148e44) Prepare for release v0.22.0 (#120)
+- [338095fc](https://github.com/kubedb/ui-server/commit/338095fc) Use k8s 1.30 client libs (#119)
+- [eb426684](https://github.com/kubedb/ui-server/commit/eb426684) Update auditor library (#118)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.1.0](https://github.com/kubedb/zookeeper/releases/tag/v0.1.0)

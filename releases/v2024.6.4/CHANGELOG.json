@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T08:55:05.196248741Z",
+  "release_date": "2024-06-05T09:16:20.39138246Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -1614,6 +1614,32 @@
             {
               "SHA": "eb426684",
               "Subject": "Update auditor library (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "648876fc",
+              "Subject": "Prepare for release v0.22.0 (#110)"
+            },
+            {
+              "SHA": "90146eaf",
+              "Subject": "Add ClickHouse, SchemaRegistry, Ops, Autoscaler Webhook (#109)"
+            },
+            {
+              "SHA": "0c1b6f0f",
+              "Subject": "Use k8s 1.30 client libs (#108)"
+            },
+            {
+              "SHA": "d5b3a328",
+              "Subject": "Update auditor library (#106)"
             }
           ]
         }

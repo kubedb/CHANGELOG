@@ -662,6 +662,17 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.22.0](https://github.com/kubedb/webhook-server/releases/tag/v0.22.0)
+
+- [648876fc](https://github.com/kubedb/webhook-server/commit/648876fc) Prepare for release v0.22.0 (#110)
+- [90146eaf](https://github.com/kubedb/webhook-server/commit/90146eaf) Add ClickHouse, SchemaRegistry, Ops, Autoscaler Webhook (#109)
+- [0c1b6f0f](https://github.com/kubedb/webhook-server/commit/0c1b6f0f) Use k8s 1.30 client libs (#108)
+- [d5b3a328](https://github.com/kubedb/webhook-server/commit/d5b3a328) Update auditor library (#106)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.1.0](https://github.com/kubedb/zookeeper/releases/tag/v0.1.0)

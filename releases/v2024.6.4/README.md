@@ -226,6 +226,19 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.39.0](https://github.com/kubedb/mongodb/releases/tag/v0.39.0)
+
+- [f7d28ac2](https://github.com/kubedb/mongodb/commit/f7d28ac21) Prepare for release v0.39.0 (#634)
+- [4160721f](https://github.com/kubedb/mongodb/commit/4160721f1) MongoDB Archiver shard (#631)
+- [6d041566](https://github.com/kubedb/mongodb/commit/6d041566c) Use k8s 1.30 client libs (#633)
+- [4a73b0bc](https://github.com/kubedb/mongodb/commit/4a73b0bc3) Update auditor library (#632)
+- [52f125ad](https://github.com/kubedb/mongodb/commit/52f125adb) Add archiver support for azure (#630)
+- [0bddf18f](https://github.com/kubedb/mongodb/commit/0bddf18f8) Add support for NFS in MongoDB Archiver (#629)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.7.0)

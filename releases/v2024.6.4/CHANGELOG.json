@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:49:19.166670138Z",
+  "release_date": "2024-06-05T03:49:36.019355542Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -857,6 +857,32 @@
             {
               "SHA": "50cc740",
               "Subject": "Update auditor library (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "5b25f8a",
+              "Subject": "Prepare for release v0.1.0 (#18)"
+            },
+            {
+              "SHA": "a6a8f8d",
+              "Subject": "Use k8s 1.30 client libs (#17)"
+            },
+            {
+              "SHA": "84ea1b8",
+              "Subject": "Fixed Petset Name Typo (#16)"
+            },
+            {
+              "SHA": "ea90f1b",
+              "Subject": "Update deps"
             }
           ]
         }

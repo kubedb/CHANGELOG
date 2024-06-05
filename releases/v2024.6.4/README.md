@@ -351,6 +351,17 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.1.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.1.0)
+
+- [5b25f8a](https://github.com/kubedb/singlestore-coordinator/commit/5b25f8a) Prepare for release v0.1.0 (#18)
+- [a6a8f8d](https://github.com/kubedb/singlestore-coordinator/commit/a6a8f8d) Use k8s 1.30 client libs (#17)
+- [84ea1b8](https://github.com/kubedb/singlestore-coordinator/commit/84ea1b8) Fixed Petset Name Typo (#16)
+- [ea90f1b](https://github.com/kubedb/singlestore-coordinator/commit/ea90f1b) Update deps
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.4.0)

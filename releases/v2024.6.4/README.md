@@ -116,6 +116,17 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.31.0](https://github.com/kubedb/tests/releases/tag/v0.31.0)
+
+- [c6f2e4d4](https://github.com/kubedb/tests/commit/c6f2e4d4) Prepare for release v0.31.0 (#325)
+- [5eb32303](https://github.com/kubedb/tests/commit/5eb32303) Use k8s 1.30 client libs (#324)
+- [ff5cbff3](https://github.com/kubedb/tests/commit/ff5cbff3) Add solr tests. (#305)
+- [5f3a802e](https://github.com/kubedb/tests/commit/5f3a802e) Update auditor library (#322)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.1.0](https://github.com/kubedb/zookeeper/releases/tag/v0.1.0)

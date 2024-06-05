@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:19:55.733076867Z",
+  "release_date": "2024-06-05T03:20:07.068402283Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -315,6 +315,32 @@
             {
               "SHA": "f2854c4",
               "Subject": "Use version specific bootstrap configurations (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "c6f2e4d4",
+              "Subject": "Prepare for release v0.31.0 (#325)"
+            },
+            {
+              "SHA": "5eb32303",
+              "Subject": "Use k8s 1.30 client libs (#324)"
+            },
+            {
+              "SHA": "ff5cbff3",
+              "Subject": "Add solr tests. (#305)"
+            },
+            {
+              "SHA": "5f3a802e",
+              "Subject": "Update auditor library (#322)"
             }
           ]
         }

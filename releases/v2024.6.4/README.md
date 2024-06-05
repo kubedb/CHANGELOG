@@ -101,6 +101,18 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.1.0](https://github.com/kubedb/druid/releases/tag/v0.1.0)
+
+- [bbacb4b](https://github.com/kubedb/druid/commit/bbacb4b) Prepare for release v0.1.0 (#29)
+- [98c33ef](https://github.com/kubedb/druid/commit/98c33ef) Use k8s 1.30 client libs (#27)
+- [6bc1c42](https://github.com/kubedb/druid/commit/6bc1c42) Use PodPlacementPolicy from v2 podTemplate (#26)
+- [0358de3](https://github.com/kubedb/druid/commit/0358de3) Fix druid for ops-req and simplifying YAML (#25)
+- [c6d8828](https://github.com/kubedb/druid/commit/c6d8828) Update auditor library (#24)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.46.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.46.0)

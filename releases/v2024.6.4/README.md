@@ -66,3 +66,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.7.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.7.0)
+
+- [9aec804](https://github.com/kubedb/mysql-archiver/commit/9aec804) Prepare for release v0.7.0 (#33)
+- [da8412e](https://github.com/kubedb/mysql-archiver/commit/da8412e) Use k8s 1.30 client libs (#32)
+- [5a5c184](https://github.com/kubedb/mysql-archiver/commit/5a5c184) Update auditor library (#31)
+- [bd8ed03](https://github.com/kubedb/mysql-archiver/commit/bd8ed03) Refactor ENV and Func Name
+- [2817c31](https://github.com/kubedb/mysql-archiver/commit/2817c31) Refactor ENV and func
+
+
+

@@ -78,6 +78,18 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.9.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.9.0)
+
+- [dd3c711](https://github.com/kubedb/mysql-restic-plugin/commit/dd3c711) Prepare for release v0.9.0 (#42)
+- [7adcbdb](https://github.com/kubedb/mysql-restic-plugin/commit/7adcbdb) Update target name and namespace ref for restore (#41)
+- [7f6a752](https://github.com/kubedb/mysql-restic-plugin/commit/7f6a752) Use k8s 1.30 client libs (#40)
+- [5ef953f](https://github.com/kubedb/mysql-restic-plugin/commit/5ef953f) Update auditor library (#39)
+- [e108ece](https://github.com/kubedb/mysql-restic-plugin/commit/e108ece) Wait for db provisioned (#38)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.8.0](https://github.com/kubedb/provider-aws/releases/tag/v0.8.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:17:05.280248476Z",
+  "release_date": "2024-06-05T03:17:11.637049625Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -237,6 +237,36 @@
             {
               "SHA": "2817c31",
               "Subject": "Refactor ENV and func"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "dd3c711",
+              "Subject": "Prepare for release v0.9.0 (#42)"
+            },
+            {
+              "SHA": "7adcbdb",
+              "Subject": "Update target name and namespace ref for restore (#41)"
+            },
+            {
+              "SHA": "7f6a752",
+              "Subject": "Use k8s 1.30 client libs (#40)"
+            },
+            {
+              "SHA": "5ef953f",
+              "Subject": "Update auditor library (#39)"
+            },
+            {
+              "SHA": "e108ece",
+              "Subject": "Wait for db provisioned (#38)"
             }
           ]
         }

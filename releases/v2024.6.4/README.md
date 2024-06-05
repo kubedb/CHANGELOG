@@ -134,6 +134,18 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.17.0](https://github.com/kubedb/kafka/releases/tag/v0.17.0)
+
+- [1214efb9](https://github.com/kubedb/kafka/commit/1214efb9) Prepare for release v0.17.0 (#94)
+- [3c354bb9](https://github.com/kubedb/kafka/commit/3c354bb9) Use k8s 1.30 client libs (#93)
+- [25c78b67](https://github.com/kubedb/kafka/commit/25c78b67) Update TerminationPolicy to DeletionPolicy (#92)
+- [16eece63](https://github.com/kubedb/kafka/commit/16eece63) Add Kafka Schema Registry (#91)
+- [b41a6efe](https://github.com/kubedb/kafka/commit/b41a6efe) Update auditor library (#90)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.9.0)

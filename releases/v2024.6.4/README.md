@@ -78,6 +78,18 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.4.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.4.0)
+
+- [bf9cc17](https://github.com/kubedb/mariadb-restic-plugin/commit/bf9cc17) Prepare for release v0.4.0 (#14)
+- [cdb7954](https://github.com/kubedb/mariadb-restic-plugin/commit/cdb7954) Update target name and namespace ref for restore (#13)
+- [52f4777](https://github.com/kubedb/mariadb-restic-plugin/commit/52f4777) Use k8s 1.30 client libs (#12)
+- [813f1c1](https://github.com/kubedb/mariadb-restic-plugin/commit/813f1c1) Wait for db provisioned (#10)
+- [e5d053a](https://github.com/kubedb/mariadb-restic-plugin/commit/e5d053a) Update auditor library (#11)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.39.0](https://github.com/kubedb/mysql/releases/tag/v0.39.0)

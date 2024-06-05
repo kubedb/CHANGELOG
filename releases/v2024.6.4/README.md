@@ -89,6 +89,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.46.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.46.0)
+
+- [3c94bb71](https://github.com/kubedb/elasticsearch/commit/3c94bb710) Prepare for release v0.46.0 (#722)
+- [0c25a1a9](https://github.com/kubedb/elasticsearch/commit/0c25a1a9e) Use k8s 1.30 client libs (#721)
+- [c2fa3aca](https://github.com/kubedb/elasticsearch/commit/c2fa3acae) Add new version for nightly CI run (#720)
+- [1714633c](https://github.com/kubedb/elasticsearch/commit/1714633c4) Update auditor library (#719)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.9.0)

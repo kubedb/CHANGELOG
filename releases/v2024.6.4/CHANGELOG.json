@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T05:32:11.105907728Z",
+  "release_date": "2024-06-05T06:18:07.367276924Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -730,6 +730,24 @@
         {
           "tag": "v0.1.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "44cac816",
+              "Subject": "Prepare for release v0.1.0 (#6)"
+            },
+            {
+              "SHA": "8c8c4f41",
+              "Subject": "Update helpers and logs (#5)"
+            }
+          ]
         }
       ]
     },

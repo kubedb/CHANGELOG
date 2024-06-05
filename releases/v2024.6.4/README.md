@@ -226,6 +226,18 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.39.0](https://github.com/kubedb/memcached/releases/tag/v0.39.0)
+
+- [410f3b36](https://github.com/kubedb/memcached/commit/410f3b365) Prepare for release v0.39.0 (#448)
+- [918a89c6](https://github.com/kubedb/memcached/commit/918a89c61) Use k8s 1.30 client libs (#447)
+- [cf2d7206](https://github.com/kubedb/memcached/commit/cf2d72064) Fix Ops-Manager Issue (#446)
+- [bdd09321](https://github.com/kubedb/memcached/commit/bdd093216) Add Custom ConfigSecret (#443)
+- [bde05333](https://github.com/kubedb/memcached/commit/bde05333d) Update auditor library (#444)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.39.0](https://github.com/kubedb/mongodb/releases/tag/v0.39.0)

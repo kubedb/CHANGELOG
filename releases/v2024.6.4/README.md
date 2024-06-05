@@ -339,6 +339,18 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.1.0](https://github.com/kubedb/singlestore/releases/tag/v0.1.0)
+
+- [e98ab47](https://github.com/kubedb/singlestore/commit/e98ab47) Prepare for release v0.1.0 (#34)
+- [246ad81](https://github.com/kubedb/singlestore/commit/246ad81) Add Support for DB phase change while restoring using KubeStash (#33)
+- [1a1d0ce](https://github.com/kubedb/singlestore/commit/1a1d0ce) Use k8s 1.30 client libs (#32)
+- [ad24f22](https://github.com/kubedb/singlestore/commit/ad24f22) Change for Ops-manager and Standalone Custom Config (#30)
+- [50cc740](https://github.com/kubedb/singlestore/commit/50cc740) Update auditor library (#29)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.4.0)

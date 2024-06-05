@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:48:12.992606031Z",
+  "release_date": "2024-06-05T03:49:19.166670138Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -827,6 +827,36 @@
             {
               "SHA": "39f43d9",
               "Subject": "Update auditor library (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "e98ab47",
+              "Subject": "Prepare for release v0.1.0 (#34)"
+            },
+            {
+              "SHA": "246ad81",
+              "Subject": "Add Support for DB phase change while restoring using KubeStash (#33)"
+            },
+            {
+              "SHA": "1a1d0ce",
+              "Subject": "Use k8s 1.30 client libs (#32)"
+            },
+            {
+              "SHA": "ad24f22",
+              "Subject": "Change for Ops-manager and Standalone Custom Config (#30)"
+            },
+            {
+              "SHA": "50cc740",
+              "Subject": "Update auditor library (#29)"
             }
           ]
         }

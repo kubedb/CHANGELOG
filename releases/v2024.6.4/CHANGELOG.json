@@ -1,0 +1,1720 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.6.4",
+  "release_date": "2024-06-05T10:50:06.877882611Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.6.4",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "acca053ab",
+              "Subject": "Update kubestash api"
+            },
+            {
+              "SHA": "f64ef7785",
+              "Subject": "Add pod placement policy to v1 pod template spec (#1233)"
+            },
+            {
+              "SHA": "7cb055661",
+              "Subject": "Use k8s client libs 1.30.1 (#1232)"
+            },
+            {
+              "SHA": "faac2b8dc",
+              "Subject": "Use DeletionPolicy instead of TerminationPolicy in new dbs (#1231)"
+            },
+            {
+              "SHA": "e387d0c63",
+              "Subject": "Use PodPlacementPolicy from v2 podTemplate (#1230)"
+            },
+            {
+              "SHA": "74e7190f0",
+              "Subject": "Set TLS Defaults for Microsoft SQL Server (#1226)"
+            },
+            {
+              "SHA": "f50d9c109",
+              "Subject": "Refactor Clickhouse Webhook (#1228)"
+            },
+            {
+              "SHA": "049490369",
+              "Subject": "Add TLS constants and defaults for RabbitMQ (#1227)"
+            },
+            {
+              "SHA": "d5eb1d507",
+              "Subject": "Add Druid autoscaler API (#1219)"
+            },
+            {
+              "SHA": "8f7ef3c81",
+              "Subject": "Add Druid ops-request API (#1208)"
+            },
+            {
+              "SHA": "a0277a77e",
+              "Subject": "Add Pgpool Autoscaler API (#1223)"
+            },
+            {
+              "SHA": "b0c77ebe1",
+              "Subject": "Add Pgpool OpsRequest API (#1209)"
+            },
+            {
+              "SHA": "0d84725c8",
+              "Subject": "Add RabbitMQ OpsRequests (#1225)"
+            },
+            {
+              "SHA": "31cc9434f",
+              "Subject": "pgbouncer reload config based on label (#1224)"
+            },
+            {
+              "SHA": "b3797f47c",
+              "Subject": "Add ClickHouse API (#1212)"
+            },
+            {
+              "SHA": "46e50802d",
+              "Subject": "Add Kafka Schema Registry APIs (#1217)"
+            },
+            {
+              "SHA": "5e6b27ed3",
+              "Subject": "Add MSSQL Server TLS related APIs and helpers (#1218)"
+            },
+            {
+              "SHA": "e11115697",
+              "Subject": "Add SingleStore AutoScaler API (#1213)"
+            },
+            {
+              "SHA": "85c1f2a6a",
+              "Subject": "Add SingleStore Ops-Request API (#1211)"
+            },
+            {
+              "SHA": "2c4d34e07",
+              "Subject": "Updated Memcached API (#1214)"
+            },
+            {
+              "SHA": "2321968de",
+              "Subject": "Update druid API for simplifying YAML (#1222)"
+            },
+            {
+              "SHA": "dfb99f1ab",
+              "Subject": "Set default scalingRules (#1220)"
+            },
+            {
+              "SHA": "0744dd0c9",
+              "Subject": "Allow only one database for pgbouncer connection pooling (#1210)"
+            },
+            {
+              "SHA": "08fb210be",
+              "Subject": "Fix error check for ferretdb webhook (#1221)"
+            },
+            {
+              "SHA": "4274e8077",
+              "Subject": "Update auditor library (#1216)"
+            },
+            {
+              "SHA": "7fb9b8c98",
+              "Subject": "Extract databaseInfo from mssql (#1203)"
+            },
+            {
+              "SHA": "945f983c3",
+              "Subject": "Add `syncUsers` field to pgbouncer api (#1206)"
+            },
+            {
+              "SHA": "bf3d0581d",
+              "Subject": "Update kmodules/client-go deps"
+            },
+            {
+              "SHA": "a74eb3db5",
+              "Subject": "Update ZooKeeper CRD (#1207)"
+            },
+            {
+              "SHA": "bcfb3b3da",
+              "Subject": "Add Security Context (#1204)"
+            },
+            {
+              "SHA": "62470fd41",
+              "Subject": "Add Pgpool AppBinding (#1205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "53c1e362",
+              "Subject": "Prepare for release v0.31.0 (#209)"
+            },
+            {
+              "SHA": "41133bbe",
+              "Subject": "Use k8s 1.30 client libs (#208)"
+            },
+            {
+              "SHA": "72b0ef60",
+              "Subject": "Add Pgpool Autoscaler (#207)"
+            },
+            {
+              "SHA": "dfbc3cfe",
+              "Subject": "Add Druid Autoscaler (#206)"
+            },
+            {
+              "SHA": "bd1b970b",
+              "Subject": "Add SingleStore Autoscaler (#204)"
+            },
+            {
+              "SHA": "cbcf5481",
+              "Subject": "Update auditor library (#205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "1399ee75",
+              "Subject": "Prepare for release v0.46.0 (#769)"
+            },
+            {
+              "SHA": "de6ea578",
+              "Subject": "Use k8s 1.30 client libs (#768)"
+            },
+            {
+              "SHA": "fa28c173",
+              "Subject": "Update auditor library (#767)"
+            },
+            {
+              "SHA": "c12d92b1",
+              "Subject": "Add --only-archiver flag to pause/resume DB archiver (#756)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "4065f54",
+              "Subject": "Prepare for release v0.1.0 (#2)"
+            },
+            {
+              "SHA": "7e3dd87",
+              "Subject": "Add Support for Provisioning (#1)"
+            },
+            {
+              "SHA": "5d37918",
+              "Subject": "Add ClickHouseVersion API"
+            },
+            {
+              "SHA": "d5c86a3",
+              "Subject": "Add License"
+            },
+            {
+              "SHA": "edd9534",
+              "Subject": "Add API and controller Skeleton"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "da4101ef",
+              "Subject": "Prepare for release v0.1.0 (#33)"
+            },
+            {
+              "SHA": "c762bfce",
+              "Subject": "Use k8s 1.30 client libs (#32)"
+            },
+            {
+              "SHA": "eb1ed23f",
+              "Subject": "Add Schema Registry, Ops-Requests and Autoscalers CRD (#30)"
+            },
+            {
+              "SHA": "0e329d08",
+              "Subject": "Add ClickHouse (#28)"
+            },
+            {
+              "SHA": "5ad04861",
+              "Subject": "Update auditor library (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "40f22f3e",
+              "Subject": "Prepare for release v0.22.0 (#117)"
+            },
+            {
+              "SHA": "7e3f9a78",
+              "Subject": "Use k8s 1.30 client libs (#116)"
+            },
+            {
+              "SHA": "6524a4b6",
+              "Subject": "Update auditor library (#115)"
+            },
+            {
+              "SHA": "8b7b25c5",
+              "Subject": "Remove license checker for webhook-server (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "6a55ad2",
+              "Subject": "Prepare for release v0.4.0 (#12)"
+            },
+            {
+              "SHA": "dd3e588",
+              "Subject": "Use k8s 1.30 client libs (#11)"
+            },
+            {
+              "SHA": "8a6f5fc",
+              "Subject": "Update auditor library (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "19480f10",
+              "Subject": "Prepare for release v0.1.0 (#115)"
+            },
+            {
+              "SHA": "1942b7bd",
+              "Subject": "client for health check & multiple user reload for pgBouncer (#107)"
+            },
+            {
+              "SHA": "277b3fb6",
+              "Subject": "Use k8s 1.30 client libs (#114)"
+            },
+            {
+              "SHA": "78f5e4c4",
+              "Subject": "Update rabbitmq client methods (#113)"
+            },
+            {
+              "SHA": "8beb95c5",
+              "Subject": "Update apimachinery module"
+            },
+            {
+              "SHA": "f25da8ec",
+              "Subject": "Add ClickHouse DB Client (#112)"
+            },
+            {
+              "SHA": "8c9132a7",
+              "Subject": "Add RabbitMQ PubSub methods (#105)"
+            },
+            {
+              "SHA": "ed82b008",
+              "Subject": "Add Kafka Schema Registry Client (#110)"
+            },
+            {
+              "SHA": "9c578aba",
+              "Subject": "Add MSSQL Server TLS  config  (#111)"
+            },
+            {
+              "SHA": "94f6f276",
+              "Subject": "Update auditor library (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.6.4",
+          "commits": [
+            {
+              "SHA": "55788519",
+              "Subject": "Prepare for release v2024.6.4 (#643)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "bbacb4b",
+              "Subject": "Prepare for release v0.1.0 (#29)"
+            },
+            {
+              "SHA": "98c33ef",
+              "Subject": "Use k8s 1.30 client libs (#27)"
+            },
+            {
+              "SHA": "6bc1c42",
+              "Subject": "Use PodPlacementPolicy from v2 podTemplate (#26)"
+            },
+            {
+              "SHA": "0358de3",
+              "Subject": "Fix druid for ops-req and simplifying YAML (#25)"
+            },
+            {
+              "SHA": "c6d8828",
+              "Subject": "Update auditor library (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "3c94bb710",
+              "Subject": "Prepare for release v0.46.0 (#722)"
+            },
+            {
+              "SHA": "0c25a1a9e",
+              "Subject": "Use k8s 1.30 client libs (#721)"
+            },
+            {
+              "SHA": "c2fa3acae",
+              "Subject": "Add new version for nightly CI run (#720)"
+            },
+            {
+              "SHA": "1714633c4",
+              "Subject": "Update auditor library (#719)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "adc1b75",
+              "Subject": "Prepare for release v0.9.0 (#33)"
+            },
+            {
+              "SHA": "6d90baf",
+              "Subject": "Use k8s 1.30 client libs (#32)"
+            },
+            {
+              "SHA": "0f59810",
+              "Subject": "Update auditor library (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "334c999e",
+              "Subject": "Prepare for release v0.1.0 (#29)"
+            },
+            {
+              "SHA": "64f92533",
+              "Subject": "Use k8s 1.30 client libs (#28)"
+            },
+            {
+              "SHA": "f8ba908f",
+              "Subject": "Update TerminationPolicy to DeletionPolicy (#27)"
+            },
+            {
+              "SHA": "34042883",
+              "Subject": "Move TLS to OpsManager,refactor appbinging,makefile (#26)"
+            },
+            {
+              "SHA": "3bf2bd3c",
+              "Subject": "Update auditor library (#24)"
+            },
+            {
+              "SHA": "0168006f",
+              "Subject": "Use kbClient; Fix patching bug; Use custom predicate for postgres watcher (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.6.4",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "1214efb9",
+              "Subject": "Prepare for release v0.17.0 (#94)"
+            },
+            {
+              "SHA": "3c354bb9",
+              "Subject": "Use k8s 1.30 client libs (#93)"
+            },
+            {
+              "SHA": "25c78b67",
+              "Subject": "Update TerminationPolicy to DeletionPolicy (#92)"
+            },
+            {
+              "SHA": "16eece63",
+              "Subject": "Add Kafka Schema Registry (#91)"
+            },
+            {
+              "SHA": "b41a6efe",
+              "Subject": "Update auditor library (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "473e302",
+              "Subject": "Prepare for release v0.9.0 (#56)"
+            },
+            {
+              "SHA": "a85da9a",
+              "Subject": "Fix nil pointer ref for manifest options (#55)"
+            },
+            {
+              "SHA": "ad0bee2",
+              "Subject": "Add default namespace for restore (#54)"
+            },
+            {
+              "SHA": "9a503e1",
+              "Subject": "Add Support for Cross Namespace Restore (#45)"
+            },
+            {
+              "SHA": "e02604f",
+              "Subject": "Use k8s 1.30 client libs (#53)"
+            },
+            {
+              "SHA": "93633f3",
+              "Subject": "Update auditor library (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "a382c4b2b",
+              "Subject": "Prepare for release v0.30.0 (#270)"
+            },
+            {
+              "SHA": "956d17b65",
+              "Subject": "Use k8s 1.30 client libs (#269)"
+            },
+            {
+              "SHA": "c6531c18e",
+              "Subject": "Update auditor library (#268)"
+            },
+            {
+              "SHA": "4add61822",
+              "Subject": "Add Cloud, TLS Support for Archiver Backup and Restore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "dd0a4eb",
+              "Subject": "Prepare for release v0.6.0 (#19)"
+            },
+            {
+              "SHA": "1a5d018",
+              "Subject": "Use k8s 1.30 client libs (#18)"
+            },
+            {
+              "SHA": "33c9ef9",
+              "Subject": "Update auditor library (#17)"
+            },
+            {
+              "SHA": "de771cb",
+              "Subject": "Add Cloud, TLS Support for Archiver Backup and Restore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "4160a9a4",
+              "Subject": "Prepare for release v0.26.0 (#118)"
+            },
+            {
+              "SHA": "19af6050",
+              "Subject": "Use k8s 1.30 client libs (#117)"
+            },
+            {
+              "SHA": "a90ae803",
+              "Subject": "Update auditor library (#116)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "24bc92e",
+              "Subject": "Prepare for release v0.6.0 (#22)"
+            },
+            {
+              "SHA": "7e532d3",
+              "Subject": "Use k8s 1.30 client libs (#21)"
+            },
+            {
+              "SHA": "57e689b",
+              "Subject": "Update auditor library (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "bf9cc17",
+              "Subject": "Prepare for release v0.4.0 (#14)"
+            },
+            {
+              "SHA": "cdb7954",
+              "Subject": "Update target name and namespace ref for restore (#13)"
+            },
+            {
+              "SHA": "52f4777",
+              "Subject": "Use k8s 1.30 client libs (#12)"
+            },
+            {
+              "SHA": "813f1c1",
+              "Subject": "Wait for db provisioned (#10)"
+            },
+            {
+              "SHA": "e5d053a",
+              "Subject": "Update auditor library (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "410f3b365",
+              "Subject": "Prepare for release v0.39.0 (#448)"
+            },
+            {
+              "SHA": "918a89c61",
+              "Subject": "Use k8s 1.30 client libs (#447)"
+            },
+            {
+              "SHA": "cf2d72064",
+              "Subject": "Fix Ops-Manager Issue (#446)"
+            },
+            {
+              "SHA": "bdd093216",
+              "Subject": "Add Custom ConfigSecret (#443)"
+            },
+            {
+              "SHA": "bde05333d",
+              "Subject": "Update auditor library (#444)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "f7d28ac21",
+              "Subject": "Prepare for release v0.39.0 (#634)"
+            },
+            {
+              "SHA": "4160721f1",
+              "Subject": "MongoDB Archiver shard (#631)"
+            },
+            {
+              "SHA": "6d041566c",
+              "Subject": "Use k8s 1.30 client libs (#633)"
+            },
+            {
+              "SHA": "4a73b0bc3",
+              "Subject": "Update auditor library (#632)"
+            },
+            {
+              "SHA": "52f125adb",
+              "Subject": "Add archiver support for azure (#630)"
+            },
+            {
+              "SHA": "0bddf18f8",
+              "Subject": "Add support for NFS in MongoDB Archiver (#629)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "abce7be",
+              "Subject": "Prepare for release v0.7.0 (#27)"
+            },
+            {
+              "SHA": "cc35c3c",
+              "Subject": "Use k8s 1.30 client libs (#26)"
+            },
+            {
+              "SHA": "3fec803",
+              "Subject": "Add support for Shard (#18)"
+            },
+            {
+              "SHA": "db7c7a7",
+              "Subject": "Update auditor library (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "05c9180",
+              "Subject": "Prepare for release v0.9.0 (#48)"
+            },
+            {
+              "SHA": "b4e7e31",
+              "Subject": "Update target name and namespace ref for restore (#47)"
+            },
+            {
+              "SHA": "e45acfe",
+              "Subject": "Fix specific component restore support (#43)"
+            },
+            {
+              "SHA": "f88fdef",
+              "Subject": "Use k8s 1.30 client libs (#46)"
+            },
+            {
+              "SHA": "21cfc60",
+              "Subject": "Wait for db provisioned (#44)"
+            },
+            {
+              "SHA": "2a1c819",
+              "Subject": "Update auditor library (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "44cac816",
+              "Subject": "Prepare for release v0.1.0 (#6)"
+            },
+            {
+              "SHA": "8c8c4f41",
+              "Subject": "Update helpers and logs (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "9fb15d4dd",
+              "Subject": "Prepare for release v0.39.0 (#626)"
+            },
+            {
+              "SHA": "b8591a757",
+              "Subject": "Use k8s 1.30 client libs (#625)"
+            },
+            {
+              "SHA": "11d498b82",
+              "Subject": "Update auditor library (#624)"
+            },
+            {
+              "SHA": "297e6f899",
+              "Subject": "Refactor ENV and Func Name"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "9aec804",
+              "Subject": "Prepare for release v0.7.0 (#33)"
+            },
+            {
+              "SHA": "da8412e",
+              "Subject": "Use k8s 1.30 client libs (#32)"
+            },
+            {
+              "SHA": "5a5c184",
+              "Subject": "Update auditor library (#31)"
+            },
+            {
+              "SHA": "bd8ed03",
+              "Subject": "Refactor ENV and Func Name"
+            },
+            {
+              "SHA": "2817c31",
+              "Subject": "Refactor ENV and func"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "84966dd7",
+              "Subject": "Prepare for release v0.24.0 (#113)"
+            },
+            {
+              "SHA": "ca8f6759",
+              "Subject": "Use k8s 1.30 client libs (#112)"
+            },
+            {
+              "SHA": "e292c238",
+              "Subject": "Update auditor library (#111)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "b427a30",
+              "Subject": "Prepare for release v0.7.0 (#20)"
+            },
+            {
+              "SHA": "1bbc1a9",
+              "Subject": "Use k8s 1.30 client libs (#19)"
+            },
+            {
+              "SHA": "a897efa",
+              "Subject": "Update auditor library (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "dd3c711",
+              "Subject": "Prepare for release v0.9.0 (#42)"
+            },
+            {
+              "SHA": "7adcbdb",
+              "Subject": "Update target name and namespace ref for restore (#41)"
+            },
+            {
+              "SHA": "7f6a752",
+              "Subject": "Use k8s 1.30 client libs (#40)"
+            },
+            {
+              "SHA": "5ef953f",
+              "Subject": "Update auditor library (#39)"
+            },
+            {
+              "SHA": "e108ece",
+              "Subject": "Wait for db provisioned (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "f1f471e",
+              "Subject": "Use k8s 1.30 client libs (#44)"
+            },
+            {
+              "SHA": "10d3c4b",
+              "Subject": "Update auditor library (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "9e726183f",
+              "Subject": "Prepare for release v0.33.0 (#586)"
+            },
+            {
+              "SHA": "8febc50fe",
+              "Subject": "Update conditions in Redis and Redis Sentinel retries (#585)"
+            },
+            {
+              "SHA": "8f8a8c846",
+              "Subject": "Update conditions in Elasticsearch retries (#581)"
+            },
+            {
+              "SHA": "0c8cfd833",
+              "Subject": "Update conditions in RabbitMQ retries (#584)"
+            },
+            {
+              "SHA": "4c0cb06a4",
+              "Subject": "Update Conditions in SinglStore, ProxySQL and MySQL retries (#578)"
+            },
+            {
+              "SHA": "9e08e0a53",
+              "Subject": "Update conditions for Druid (#583)"
+            },
+            {
+              "SHA": "3d5ae8ae4",
+              "Subject": "Update Conditions in MariaDB retries (#582)"
+            },
+            {
+              "SHA": "274275c29",
+              "Subject": "Improve Logging (#580)"
+            },
+            {
+              "SHA": "ca93648c2",
+              "Subject": "Update conditions for Pgpool (#579)"
+            },
+            {
+              "SHA": "f4d4d49b8",
+              "Subject": "Improve Kafka Ops Request logging (#577)"
+            },
+            {
+              "SHA": "04e32a776",
+              "Subject": "Update conditions in MongoDB retries (#576)"
+            },
+            {
+              "SHA": "2eaa17422",
+              "Subject": "Use k8s 1.30 client libs (#574)"
+            },
+            {
+              "SHA": "c6f51c1b5",
+              "Subject": "Improve logging (#575)"
+            },
+            {
+              "SHA": "b47c75dbb",
+              "Subject": "Add RabbitMQ OpsRequest and TLS (#573)"
+            },
+            {
+              "SHA": "1090b7b94",
+              "Subject": "Add Singlestore Ops-manager (#562)"
+            },
+            {
+              "SHA": "c41871638",
+              "Subject": "Add Druid vertical scaling and volume expansion ops-requests (#564)"
+            },
+            {
+              "SHA": "bbb39eb19",
+              "Subject": "Add Pgpool ops request (vertical scaling, reconfigure) (#565)"
+            },
+            {
+              "SHA": "2502ea5cc",
+              "Subject": "Add FerretDB TLS (#572)"
+            },
+            {
+              "SHA": "5feab765c",
+              "Subject": "Add MSSQL Server TLS (#571)"
+            },
+            {
+              "SHA": "5a2a61a7b",
+              "Subject": "Add Memcached's Ops Request (Restart + Vertical Scaling + Reconfiguration) (#568)"
+            },
+            {
+              "SHA": "252c0f9c3",
+              "Subject": "Update auditor library (#570)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "9f4ad9f19",
+              "Subject": "Prepare for release v0.33.0 (#368)"
+            },
+            {
+              "SHA": "51457c7f9",
+              "Subject": "Use k8s 1.30 client libs (#367)"
+            },
+            {
+              "SHA": "b2f82795f",
+              "Subject": "Update auditor library (#366)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "502d4f25",
+              "Subject": "Prepare for release v0.19.0 (#73)"
+            },
+            {
+              "SHA": "c89a34cb",
+              "Subject": "Use k8s 1.30 client libs (#72)"
+            },
+            {
+              "SHA": "a13e477d",
+              "Subject": "Update auditor library (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "bf7a8900",
+              "Subject": "Prepare for release v0.30.0 (#166)"
+            },
+            {
+              "SHA": "90f77d71",
+              "Subject": "Use k8s 1.30 client libs (#165)"
+            },
+            {
+              "SHA": "a6fe13f5",
+              "Subject": "Update auditor library (#164)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "4ba7070c",
+              "Subject": "Prepare for release v0.33.0 (#333)"
+            },
+            {
+              "SHA": "aec17eaf",
+              "Subject": "Add health check (#327)"
+            },
+            {
+              "SHA": "87e09f30",
+              "Subject": "Use k8s 1.30 client libs (#332)"
+            },
+            {
+              "SHA": "346a5688",
+              "Subject": "pgbouncer support only one postgres DB (#330)"
+            },
+            {
+              "SHA": "be77042b",
+              "Subject": "Update auditor library (#331)"
+            },
+            {
+              "SHA": "d6cde1dd",
+              "Subject": "Multiple user support (#328)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "3979efd1",
+              "Subject": "Prepare for release v0.1.0 (#33)"
+            },
+            {
+              "SHA": "7f032308",
+              "Subject": "Use k8s 1.30 client libs (#32)"
+            },
+            {
+              "SHA": "7dc03c00",
+              "Subject": "Update deletion and pod placement policy (#31)"
+            },
+            {
+              "SHA": "cc425633",
+              "Subject": "Add pcp port and pdb (#30)"
+            },
+            {
+              "SHA": "f4d0c0f9",
+              "Subject": "Update auditor library (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "575d302b2",
+              "Subject": "Prepare for release v0.46.0 (#736)"
+            },
+            {
+              "SHA": "28b5b86e6",
+              "Subject": "Use k8s 1.30 client libs (#735)"
+            },
+            {
+              "SHA": "754de55c2",
+              "Subject": "Add remote replica support for pg 13,14 (#734)"
+            },
+            {
+              "SHA": "342850945",
+              "Subject": "Remove wait until from operator (#733)"
+            },
+            {
+              "SHA": "8b995cb6f",
+              "Subject": "Update auditor library (#732)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "d3ee4020",
+              "Subject": "Prepare for release v0.7.0 (#31)"
+            },
+            {
+              "SHA": "ec608c78",
+              "Subject": "Use k8s 1.30 client libs (#30)"
+            },
+            {
+              "SHA": "0775a40b",
+              "Subject": "Update auditor library (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "1246683",
+              "Subject": "Prepare for release v0.7.0 (#29)"
+            },
+            {
+              "SHA": "bc60a8e",
+              "Subject": "Use k8s 1.30 client libs (#28)"
+            },
+            {
+              "SHA": "56106ab",
+              "Subject": "Update auditor library (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "07366ba",
+              "Subject": "Prepare for release v0.9.0 (#36)"
+            },
+            {
+              "SHA": "7e2c8cc",
+              "Subject": "Wait for db provisioned (#33)"
+            },
+            {
+              "SHA": "fb986a7",
+              "Subject": "Use k8s 1.30 client libs (#35)"
+            },
+            {
+              "SHA": "5d7b929",
+              "Subject": "Update auditor library (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "b0cb53d82",
+              "Subject": "Prepare for release v0.33.0 (#345)"
+            },
+            {
+              "SHA": "207a8e316",
+              "Subject": "Use k8s 1.30 client libs (#344)"
+            },
+            {
+              "SHA": "d48ceec9b",
+              "Subject": "Update auditor library (#343)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "e5b4e89",
+              "Subject": "Prepare for release v0.1.0 (#32)"
+            },
+            {
+              "SHA": "ec07f9e",
+              "Subject": "Use k8s 1.30 client libs (#31)"
+            },
+            {
+              "SHA": "2a564ae",
+              "Subject": "Use DeletionPolicy instead of TerminationPolicy"
+            },
+            {
+              "SHA": "e9ff804",
+              "Subject": "Use PodPlacementPolicy from v2 podTemplate"
+            },
+            {
+              "SHA": "979f9c0",
+              "Subject": "Add support for TLS (#30)"
+            },
+            {
+              "SHA": "4d5b3b2",
+              "Subject": "Update auditor library (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "0afe9b48",
+              "Subject": "Prepare for release v0.25.0 (#104)"
+            },
+            {
+              "SHA": "519a3d70",
+              "Subject": "Use k8s 1.30 client libs (#103)"
+            },
+            {
+              "SHA": "585fd8e8",
+              "Subject": "Update auditor library (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "3f308fb",
+              "Subject": "Prepare for release v0.9.0 (#35)"
+            },
+            {
+              "SHA": "c5ca569",
+              "Subject": "Use k8s 1.30 client libs (#34)"
+            },
+            {
+              "SHA": "39f43d9",
+              "Subject": "Update auditor library (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "7d8bde2f",
+              "Subject": "Prepare for release v0.33.0 (#270)"
+            },
+            {
+              "SHA": "4107fe7d",
+              "Subject": "Use k8s 1.30 client libs (#269)"
+            },
+            {
+              "SHA": "46a338bc",
+              "Subject": "Update auditor library (#268)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "8ec78e1f",
+              "Subject": "Prepare for release v0.22.0 (#113)"
+            },
+            {
+              "SHA": "3dd18fbe",
+              "Subject": "Use k8s 1.30 client libs (#112)"
+            },
+            {
+              "SHA": "d290e4dc",
+              "Subject": "Update auditor library (#111)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "e98ab47",
+              "Subject": "Prepare for release v0.1.0 (#34)"
+            },
+            {
+              "SHA": "246ad81",
+              "Subject": "Add Support for DB phase change while restoring using KubeStash (#33)"
+            },
+            {
+              "SHA": "1a1d0ce",
+              "Subject": "Use k8s 1.30 client libs (#32)"
+            },
+            {
+              "SHA": "ad24f22",
+              "Subject": "Change for Ops-manager and Standalone Custom Config (#30)"
+            },
+            {
+              "SHA": "50cc740",
+              "Subject": "Update auditor library (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "5b25f8a",
+              "Subject": "Prepare for release v0.1.0 (#18)"
+            },
+            {
+              "SHA": "a6a8f8d",
+              "Subject": "Use k8s 1.30 client libs (#17)"
+            },
+            {
+              "SHA": "84ea1b8",
+              "Subject": "Fixed Petset Name Typo (#16)"
+            },
+            {
+              "SHA": "ea90f1b",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "cac9e60",
+              "Subject": "Prepare for release v0.4.0 (#14)"
+            },
+            {
+              "SHA": "db06087",
+              "Subject": "Use k8s 1.30 client libs (#13)"
+            },
+            {
+              "SHA": "ecff2b2",
+              "Subject": "Update auditor library (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "de0665a",
+              "Subject": "Prepare for release v0.1.0 (#32)"
+            },
+            {
+              "SHA": "4a87cd1",
+              "Subject": "Use podPlacementPolicy from v2 template and use deletionPolicy instead of terminationPolicy. (#30)"
+            },
+            {
+              "SHA": "bd23006",
+              "Subject": "Add petset to run tests. (#29)"
+            },
+            {
+              "SHA": "11e98aa",
+              "Subject": "Update auditor library (#28)"
+            },
+            {
+              "SHA": "f2854c4",
+              "Subject": "Use version specific bootstrap configurations (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "c6f2e4d4",
+              "Subject": "Prepare for release v0.31.0 (#325)"
+            },
+            {
+              "SHA": "5eb32303",
+              "Subject": "Use k8s 1.30 client libs (#324)"
+            },
+            {
+              "SHA": "ff5cbff3",
+              "Subject": "Add solr tests. (#305)"
+            },
+            {
+              "SHA": "5f3a802e",
+              "Subject": "Update auditor library (#322)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "22148e44",
+              "Subject": "Prepare for release v0.22.0 (#120)"
+            },
+            {
+              "SHA": "338095fc",
+              "Subject": "Use k8s 1.30 client libs (#119)"
+            },
+            {
+              "SHA": "eb426684",
+              "Subject": "Update auditor library (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "648876fc",
+              "Subject": "Prepare for release v0.22.0 (#110)"
+            },
+            {
+              "SHA": "90146eaf",
+              "Subject": "Add ClickHouse, SchemaRegistry, Ops, Autoscaler Webhook (#109)"
+            },
+            {
+              "SHA": "0c1b6f0f",
+              "Subject": "Use k8s 1.30 client libs (#108)"
+            },
+            {
+              "SHA": "d5b3a328",
+              "Subject": "Update auditor library (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "0f0958b2",
+              "Subject": "Prepare for release v0.1.0 (#28)"
+            },
+            {
+              "SHA": "a0c3a9c3",
+              "Subject": "Use k8s 1.30 client libs (#27)"
+            },
+            {
+              "SHA": "41f23f5e",
+              "Subject": "Update PodPlacementPolicy (#26)"
+            },
+            {
+              "SHA": "0b3c259f",
+              "Subject": "Add support for PodDisruptionBudget (#25)"
+            },
+            {
+              "SHA": "4139742c",
+              "Subject": "Update auditor library (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "5953888",
+              "Subject": "Prepare for release v0.2.0 (#8)"
+            },
+            {
+              "SHA": "33a7841",
+              "Subject": "Update Makefile"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

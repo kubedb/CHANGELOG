@@ -385,6 +385,19 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.33.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.33.0)
+
+- [4ba7070c](https://github.com/kubedb/pgbouncer/commit/4ba7070c) Prepare for release v0.33.0 (#333)
+- [aec17eaf](https://github.com/kubedb/pgbouncer/commit/aec17eaf) Add health check (#327)
+- [87e09f30](https://github.com/kubedb/pgbouncer/commit/87e09f30) Use k8s 1.30 client libs (#332)
+- [346a5688](https://github.com/kubedb/pgbouncer/commit/346a5688) pgbouncer support only one postgres DB (#330)
+- [be77042b](https://github.com/kubedb/pgbouncer/commit/be77042b) Update auditor library (#331)
+- [d6cde1dd](https://github.com/kubedb/pgbouncer/commit/d6cde1dd) Multiple user support (#328)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.1.0](https://github.com/kubedb/pgpool/releases/tag/v0.1.0)

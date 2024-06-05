@@ -290,6 +290,16 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.4.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.4.0)
+
+- [cac9e60](https://github.com/kubedb/singlestore-restic-plugin/commit/cac9e60) Prepare for release v0.4.0 (#14)
+- [db06087](https://github.com/kubedb/singlestore-restic-plugin/commit/db06087) Use k8s 1.30 client libs (#13)
+- [ecff2b2](https://github.com/kubedb/singlestore-restic-plugin/commit/ecff2b2) Update auditor library (#12)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.1.0](https://github.com/kubedb/solr/releases/tag/v0.1.0)

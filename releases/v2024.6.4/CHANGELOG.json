@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:22:19.013997352Z",
+  "release_date": "2024-06-05T03:22:24.6003169Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -722,6 +722,28 @@
             {
               "SHA": "39f43d9",
               "Subject": "Update auditor library (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "cac9e60",
+              "Subject": "Prepare for release v0.4.0 (#14)"
+            },
+            {
+              "SHA": "db06087",
+              "Subject": "Use k8s 1.30 client libs (#13)"
+            },
+            {
+              "SHA": "ecff2b2",
+              "Subject": "Update auditor library (#12)"
             }
           ]
         }

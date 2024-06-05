@@ -230,6 +230,16 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.9.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.9.0)
+
+- [3f308fb](https://github.com/kubedb/redis-restic-plugin/commit/3f308fb) Prepare for release v0.9.0 (#35)
+- [c5ca569](https://github.com/kubedb/redis-restic-plugin/commit/c5ca569) Use k8s 1.30 client libs (#34)
+- [39f43d9](https://github.com/kubedb/redis-restic-plugin/commit/39f43d9) Update auditor library (#33)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.1.0](https://github.com/kubedb/solr/releases/tag/v0.1.0)

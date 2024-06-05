@@ -74,6 +74,17 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.22.0](https://github.com/kubedb/dashboard/releases/tag/v0.22.0)
+
+- [40f22f3e](https://github.com/kubedb/dashboard/commit/40f22f3e) Prepare for release v0.22.0 (#117)
+- [7e3f9a78](https://github.com/kubedb/dashboard/commit/7e3f9a78) Use k8s 1.30 client libs (#116)
+- [6524a4b6](https://github.com/kubedb/dashboard/commit/6524a4b6) Update auditor library (#115)
+- [8b7b25c5](https://github.com/kubedb/dashboard/commit/8b7b25c5) Remove license checker for webhook-server (#114)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.4.0)

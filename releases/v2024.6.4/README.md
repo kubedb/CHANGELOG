@@ -123,6 +123,19 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.9.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.9.0)
+
+- [05c9180](https://github.com/kubedb/mongodb-restic-plugin/commit/05c9180) Prepare for release v0.9.0 (#48)
+- [b4e7e31](https://github.com/kubedb/mongodb-restic-plugin/commit/b4e7e31) Update target name and namespace ref for restore (#47)
+- [e45acfe](https://github.com/kubedb/mongodb-restic-plugin/commit/e45acfe) Fix specific component restore support (#43)
+- [f88fdef](https://github.com/kubedb/mongodb-restic-plugin/commit/f88fdef) Use k8s 1.30 client libs (#46)
+- [21cfc60](https://github.com/kubedb/mongodb-restic-plugin/commit/21cfc60) Wait for db provisioned (#44)
+- [2a1c819](https://github.com/kubedb/mongodb-restic-plugin/commit/2a1c819) Update auditor library (#45)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.39.0](https://github.com/kubedb/mysql/releases/tag/v0.39.0)

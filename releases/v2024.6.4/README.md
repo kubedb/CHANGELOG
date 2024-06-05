@@ -135,6 +135,18 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.1.0](https://github.com/kubedb/pgpool/releases/tag/v0.1.0)
+
+- [3979efd1](https://github.com/kubedb/pgpool/commit/3979efd1) Prepare for release v0.1.0 (#33)
+- [7f032308](https://github.com/kubedb/pgpool/commit/7f032308) Use k8s 1.30 client libs (#32)
+- [7dc03c00](https://github.com/kubedb/pgpool/commit/7dc03c00) Update deletion and pod placement policy (#31)
+- [cc425633](https://github.com/kubedb/pgpool/commit/cc425633) Add pcp port and pdb (#30)
+- [f4d0c0f9](https://github.com/kubedb/pgpool/commit/f4d0c0f9) Update auditor library (#29)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.7.0)

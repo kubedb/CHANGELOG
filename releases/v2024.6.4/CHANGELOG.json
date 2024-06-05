@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:21:00.602591188Z",
+  "release_date": "2024-06-05T03:21:07.850999709Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -375,6 +375,36 @@
             {
               "SHA": "e108ece",
               "Subject": "Wait for db provisioned (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "3979efd1",
+              "Subject": "Prepare for release v0.1.0 (#33)"
+            },
+            {
+              "SHA": "7f032308",
+              "Subject": "Use k8s 1.30 client libs (#32)"
+            },
+            {
+              "SHA": "7dc03c00",
+              "Subject": "Update deletion and pod placement policy (#31)"
+            },
+            {
+              "SHA": "cc425633",
+              "Subject": "Add pcp port and pdb (#30)"
+            },
+            {
+              "SHA": "f4d0c0f9",
+              "Subject": "Update auditor library (#29)"
             }
           ]
         }

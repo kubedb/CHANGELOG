@@ -538,6 +538,16 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.22.0](https://github.com/kubedb/schema-manager/releases/tag/v0.22.0)
+
+- [8ec78e1f](https://github.com/kubedb/schema-manager/commit/8ec78e1f) Prepare for release v0.22.0 (#113)
+- [3dd18fbe](https://github.com/kubedb/schema-manager/commit/3dd18fbe) Use k8s 1.30 client libs (#112)
+- [d290e4dc](https://github.com/kubedb/schema-manager/commit/d290e4dc) Update auditor library (#111)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.1.0](https://github.com/kubedb/singlestore/releases/tag/v0.1.0)

@@ -158,6 +158,13 @@
 
 
 
+## [kubedb/mssql](https://github.com/kubedb/mssql)
+
+### [v0.1.0](https://github.com/kubedb/mssql/releases/tag/v0.1.0)
+
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.39.0](https://github.com/kubedb/mysql/releases/tag/v0.39.0)

@@ -66,6 +66,17 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.39.0](https://github.com/kubedb/mysql/releases/tag/v0.39.0)
+
+- [9fb15d4d](https://github.com/kubedb/mysql/commit/9fb15d4dd) Prepare for release v0.39.0 (#626)
+- [b8591a75](https://github.com/kubedb/mysql/commit/b8591a757) Use k8s 1.30 client libs (#625)
+- [11d498b8](https://github.com/kubedb/mysql/commit/11d498b82) Update auditor library (#624)
+- [297e6f89](https://github.com/kubedb/mysql/commit/297e6f899) Refactor ENV and Func Name
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.7.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.7.0)

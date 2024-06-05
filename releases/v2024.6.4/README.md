@@ -51,6 +51,16 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.4.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.4.0)
+
+- [6a55ad2](https://github.com/kubedb/dashboard-restic-plugin/commit/6a55ad2) Prepare for release v0.4.0 (#12)
+- [dd3e588](https://github.com/kubedb/dashboard-restic-plugin/commit/dd3e588) Use k8s 1.30 client libs (#11)
+- [8a6f5fc](https://github.com/kubedb/dashboard-restic-plugin/commit/8a6f5fc) Update auditor library (#10)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.1.0](https://github.com/kubedb/db-client-go/releases/tag/v0.1.0)

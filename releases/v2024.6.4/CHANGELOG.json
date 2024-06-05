@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:21:21.285057417Z",
+  "release_date": "2024-06-05T03:21:25.800039887Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -165,6 +165,28 @@
             {
               "SHA": "edd9534",
               "Subject": "Add API and controller Skeleton"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "6a55ad2",
+              "Subject": "Prepare for release v0.4.0 (#12)"
+            },
+            {
+              "SHA": "dd3e588",
+              "Subject": "Use k8s 1.30 client libs (#11)"
+            },
+            {
+              "SHA": "8a6f5fc",
+              "Subject": "Update auditor library (#10)"
             }
           ]
         }

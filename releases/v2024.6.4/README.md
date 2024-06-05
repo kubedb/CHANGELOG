@@ -135,6 +135,16 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.7.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.7.0)
+
+- [1246683](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/1246683) Prepare for release v0.7.0 (#29)
+- [bc60a8e](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/bc60a8e) Use k8s 1.30 client libs (#28)
+- [56106ab](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/56106ab) Update auditor library (#27)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.8.0](https://github.com/kubedb/provider-aws/releases/tag/v0.8.0)

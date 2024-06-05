@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T10:36:56.268103523Z",
+  "release_date": "2024-06-05T10:50:06.877882611Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -353,6 +353,20 @@
             {
               "SHA": "94f6f276",
               "Subject": "Update auditor library (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.6.4",
+          "commits": [
+            {
+              "SHA": "55788519",
+              "Subject": "Prepare for release v2024.6.4 (#643)"
             }
           ]
         }

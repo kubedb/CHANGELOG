@@ -125,6 +125,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.6.4](https://github.com/kubedb/docs/releases/tag/v2024.6.4)
+
+- [55788519](https://github.com/kubedb/docs/commit/55788519) Prepare for release v2024.6.4 (#643)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.1.0](https://github.com/kubedb/druid/releases/tag/v0.1.0)

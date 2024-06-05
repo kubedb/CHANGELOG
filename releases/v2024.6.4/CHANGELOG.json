@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:21:07.850999709Z",
+  "release_date": "2024-06-05T03:21:15.744990454Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -447,6 +447,40 @@
         {
           "tag": "v0.8.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "e5b4e89",
+              "Subject": "Prepare for release v0.1.0 (#32)"
+            },
+            {
+              "SHA": "ec07f9e",
+              "Subject": "Use k8s 1.30 client libs (#31)"
+            },
+            {
+              "SHA": "2a564ae",
+              "Subject": "Use DeletionPolicy instead of TerminationPolicy"
+            },
+            {
+              "SHA": "e9ff804",
+              "Subject": "Use PodPlacementPolicy from v2 podTemplate"
+            },
+            {
+              "SHA": "979f9c0",
+              "Subject": "Add support for TLS (#30)"
+            },
+            {
+              "SHA": "4d5b3b2",
+              "Subject": "Update auditor library (#29)"
+            }
+          ]
         }
       ]
     },

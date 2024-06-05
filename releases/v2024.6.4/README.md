@@ -171,6 +171,19 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.1.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.1.0)
+
+- [e5b4e89](https://github.com/kubedb/rabbitmq/commit/e5b4e89) Prepare for release v0.1.0 (#32)
+- [ec07f9e](https://github.com/kubedb/rabbitmq/commit/ec07f9e) Use k8s 1.30 client libs (#31)
+- [2a564ae](https://github.com/kubedb/rabbitmq/commit/2a564ae) Use DeletionPolicy instead of TerminationPolicy
+- [e9ff804](https://github.com/kubedb/rabbitmq/commit/e9ff804) Use PodPlacementPolicy from v2 podTemplate
+- [979f9c0](https://github.com/kubedb/rabbitmq/commit/979f9c0) Add support for TLS (#30)
+- [4d5b3b2](https://github.com/kubedb/rabbitmq/commit/4d5b3b2) Update auditor library (#29)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.25.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.25.0)

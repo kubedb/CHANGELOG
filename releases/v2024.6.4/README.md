@@ -39,6 +39,17 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.46.0](https://github.com/kubedb/cli/releases/tag/v0.46.0)
+
+- [1399ee75](https://github.com/kubedb/cli/commit/1399ee75) Prepare for release v0.46.0 (#769)
+- [de6ea578](https://github.com/kubedb/cli/commit/de6ea578) Use k8s 1.30 client libs (#768)
+- [fa28c173](https://github.com/kubedb/cli/commit/fa28c173) Update auditor library (#767)
+- [c12d92b1](https://github.com/kubedb/cli/commit/c12d92b1) Add --only-archiver flag to pause/resume DB archiver (#756)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.1.0](https://github.com/kubedb/clickhouse/releases/tag/v0.1.0)

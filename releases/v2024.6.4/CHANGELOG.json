@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:21:50.001216946Z",
+  "release_date": "2024-06-05T03:22:02.618119563Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -135,6 +135,32 @@
             {
               "SHA": "62470fd41",
               "Subject": "Add Pgpool AppBinding (#1205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "1399ee75",
+              "Subject": "Prepare for release v0.46.0 (#769)"
+            },
+            {
+              "SHA": "de6ea578",
+              "Subject": "Use k8s 1.30 client libs (#768)"
+            },
+            {
+              "SHA": "fa28c173",
+              "Subject": "Update auditor library (#767)"
+            },
+            {
+              "SHA": "c12d92b1",
+              "Subject": "Add --only-archiver flag to pause/resume DB archiver (#756)"
             }
           ]
         }

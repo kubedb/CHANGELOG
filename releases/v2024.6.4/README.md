@@ -474,6 +474,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.33.0](https://github.com/kubedb/proxysql/releases/tag/v0.33.0)
+
+- [b0cb53d8](https://github.com/kubedb/proxysql/commit/b0cb53d82) Prepare for release v0.33.0 (#345)
+- [207a8e31](https://github.com/kubedb/proxysql/commit/207a8e316) Use k8s 1.30 client libs (#344)
+- [d48ceec9](https://github.com/kubedb/proxysql/commit/d48ceec9b) Update auditor library (#343)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.1.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.1.0)

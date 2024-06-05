@@ -370,6 +370,16 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.33.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.33.0)
+
+- [7d8bde2f](https://github.com/kubedb/replication-mode-detector/commit/7d8bde2f) Prepare for release v0.33.0 (#270)
+- [4107fe7d](https://github.com/kubedb/replication-mode-detector/commit/4107fe7d) Use k8s 1.30 client libs (#269)
+- [46a338bc](https://github.com/kubedb/replication-mode-detector/commit/46a338bc) Update auditor library (#268)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.1.0](https://github.com/kubedb/singlestore/releases/tag/v0.1.0)

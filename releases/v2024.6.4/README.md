@@ -188,6 +188,16 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.7.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.7.0)
+
+- [b427a30](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/b427a30) Prepare for release v0.7.0 (#20)
+- [1bbc1a9](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/1bbc1a9) Use k8s 1.30 client libs (#19)
+- [a897efa](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/a897efa) Update auditor library (#18)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.9.0)

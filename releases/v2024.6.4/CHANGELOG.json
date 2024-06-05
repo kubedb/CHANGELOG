@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T08:01:16.291004144Z",
+  "release_date": "2024-06-05T08:12:56.502480075Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -920,6 +920,100 @@
             {
               "SHA": "10d3c4b",
               "Subject": "Update auditor library (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "9e726183f",
+              "Subject": "Prepare for release v0.33.0 (#586)"
+            },
+            {
+              "SHA": "8febc50fe",
+              "Subject": "Update conditions in Redis and Redis Sentinel retries (#585)"
+            },
+            {
+              "SHA": "8f8a8c846",
+              "Subject": "Update conditions in Elasticsearch retries (#581)"
+            },
+            {
+              "SHA": "0c8cfd833",
+              "Subject": "Update conditions in RabbitMQ retries (#584)"
+            },
+            {
+              "SHA": "4c0cb06a4",
+              "Subject": "Update Conditions in SinglStore, ProxySQL and MySQL retries (#578)"
+            },
+            {
+              "SHA": "9e08e0a53",
+              "Subject": "Update conditions for Druid (#583)"
+            },
+            {
+              "SHA": "3d5ae8ae4",
+              "Subject": "Update Conditions in MariaDB retries (#582)"
+            },
+            {
+              "SHA": "274275c29",
+              "Subject": "Improve Logging (#580)"
+            },
+            {
+              "SHA": "ca93648c2",
+              "Subject": "Update conditions for Pgpool (#579)"
+            },
+            {
+              "SHA": "f4d4d49b8",
+              "Subject": "Improve Kafka Ops Request logging (#577)"
+            },
+            {
+              "SHA": "04e32a776",
+              "Subject": "Update conditions in MongoDB retries (#576)"
+            },
+            {
+              "SHA": "2eaa17422",
+              "Subject": "Use k8s 1.30 client libs (#574)"
+            },
+            {
+              "SHA": "c6f51c1b5",
+              "Subject": "Improve logging (#575)"
+            },
+            {
+              "SHA": "b47c75dbb",
+              "Subject": "Add RabbitMQ OpsRequest and TLS (#573)"
+            },
+            {
+              "SHA": "1090b7b94",
+              "Subject": "Add Singlestore Ops-manager (#562)"
+            },
+            {
+              "SHA": "c41871638",
+              "Subject": "Add Druid vertical scaling and volume expansion ops-requests (#564)"
+            },
+            {
+              "SHA": "bbb39eb19",
+              "Subject": "Add Pgpool ops request (vertical scaling, reconfigure) (#565)"
+            },
+            {
+              "SHA": "2502ea5cc",
+              "Subject": "Add FerretDB TLS (#572)"
+            },
+            {
+              "SHA": "5feab765c",
+              "Subject": "Add MSSQL Server TLS (#571)"
+            },
+            {
+              "SHA": "5a2a61a7b",
+              "Subject": "Add Memcached's Ops Request (Restart + Vertical Scaling + Reconfiguration) (#568)"
+            },
+            {
+              "SHA": "252c0f9c3",
+              "Subject": "Update auditor library (#570)"
             }
           ]
         }

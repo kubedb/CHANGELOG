@@ -366,6 +366,34 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.33.0](https://github.com/kubedb/ops-manager/releases/tag/v0.33.0)
+
+- [9e726183](https://github.com/kubedb/ops-manager/commit/9e726183f) Prepare for release v0.33.0 (#586)
+- [8febc50f](https://github.com/kubedb/ops-manager/commit/8febc50fe) Update conditions in Redis and Redis Sentinel retries (#585)
+- [8f8a8c84](https://github.com/kubedb/ops-manager/commit/8f8a8c846) Update conditions in Elasticsearch retries (#581)
+- [0c8cfd83](https://github.com/kubedb/ops-manager/commit/0c8cfd833) Update conditions in RabbitMQ retries (#584)
+- [4c0cb06a](https://github.com/kubedb/ops-manager/commit/4c0cb06a4) Update Conditions in SinglStore, ProxySQL and MySQL retries (#578)
+- [9e08e0a5](https://github.com/kubedb/ops-manager/commit/9e08e0a53) Update conditions for Druid (#583)
+- [3d5ae8ae](https://github.com/kubedb/ops-manager/commit/3d5ae8ae4) Update Conditions in MariaDB retries (#582)
+- [274275c2](https://github.com/kubedb/ops-manager/commit/274275c29) Improve Logging (#580)
+- [ca93648c](https://github.com/kubedb/ops-manager/commit/ca93648c2) Update conditions for Pgpool (#579)
+- [f4d4d49b](https://github.com/kubedb/ops-manager/commit/f4d4d49b8) Improve Kafka Ops Request logging (#577)
+- [04e32a77](https://github.com/kubedb/ops-manager/commit/04e32a776) Update conditions in MongoDB retries (#576)
+- [2eaa1742](https://github.com/kubedb/ops-manager/commit/2eaa17422) Use k8s 1.30 client libs (#574)
+- [c6f51c1b](https://github.com/kubedb/ops-manager/commit/c6f51c1b5) Improve logging (#575)
+- [b47c75db](https://github.com/kubedb/ops-manager/commit/b47c75dbb) Add RabbitMQ OpsRequest and TLS (#573)
+- [1090b7b9](https://github.com/kubedb/ops-manager/commit/1090b7b94) Add Singlestore Ops-manager (#562)
+- [c4187163](https://github.com/kubedb/ops-manager/commit/c41871638) Add Druid vertical scaling and volume expansion ops-requests (#564)
+- [bbb39eb1](https://github.com/kubedb/ops-manager/commit/bbb39eb19) Add Pgpool ops request (vertical scaling, reconfigure) (#565)
+- [2502ea5c](https://github.com/kubedb/ops-manager/commit/2502ea5cc) Add FerretDB TLS (#572)
+- [5feab765](https://github.com/kubedb/ops-manager/commit/5feab765c) Add MSSQL Server TLS (#571)
+- [5a2a61a7](https://github.com/kubedb/ops-manager/commit/5a2a61a7b) Add Memcached's Ops Request (Restart + Vertical Scaling + Reconfiguration) (#568)
+- [252c0f9c](https://github.com/kubedb/ops-manager/commit/252c0f9c3) Update auditor library (#570)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.33.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.33.0)

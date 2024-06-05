@@ -209,6 +209,16 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.19.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.19.0)
+
+- [502d4f25](https://github.com/kubedb/percona-xtradb-coordinator/commit/502d4f25) Prepare for release v0.19.0 (#73)
+- [c89a34cb](https://github.com/kubedb/percona-xtradb-coordinator/commit/c89a34cb) Use k8s 1.30 client libs (#72)
+- [a13e477d](https://github.com/kubedb/percona-xtradb-coordinator/commit/a13e477d) Update auditor library (#71)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.1.0](https://github.com/kubedb/pgpool/releases/tag/v0.1.0)

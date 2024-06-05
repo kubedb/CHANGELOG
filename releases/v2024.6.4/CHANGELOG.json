@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:23:09.000880393Z",
+  "release_date": "2024-06-05T03:38:16.845524488Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -544,6 +544,28 @@
             {
               "SHA": "10d3c4b",
               "Subject": "Update auditor library (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "502d4f25",
+              "Subject": "Prepare for release v0.19.0 (#73)"
+            },
+            {
+              "SHA": "c89a34cb",
+              "Subject": "Use k8s 1.30 client libs (#72)"
+            },
+            {
+              "SHA": "a13e477d",
+              "Subject": "Update auditor library (#71)"
             }
           ]
         }

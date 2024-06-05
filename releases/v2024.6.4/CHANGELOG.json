@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T04:04:00.907513456Z",
+  "release_date": "2024-06-05T04:05:35.272642306Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -531,6 +531,32 @@
             {
               "SHA": "e5d053a",
               "Subject": "Update auditor library (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "abce7be",
+              "Subject": "Prepare for release v0.7.0 (#27)"
+            },
+            {
+              "SHA": "cc35c3c",
+              "Subject": "Use k8s 1.30 client libs (#26)"
+            },
+            {
+              "SHA": "3fec803",
+              "Subject": "Add support for Shard (#18)"
+            },
+            {
+              "SHA": "db7c7a7",
+              "Subject": "Update auditor library (#25)"
             }
           ]
         }

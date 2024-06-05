@@ -201,6 +201,17 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.7.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.7.0)
+
+- [abce7be](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/abce7be) Prepare for release v0.7.0 (#27)
+- [cc35c3c](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/cc35c3c) Use k8s 1.30 client libs (#26)
+- [3fec803](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/3fec803) Add support for Shard (#18)
+- [db7c7a7](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/db7c7a7) Update auditor library (#25)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.9.0)

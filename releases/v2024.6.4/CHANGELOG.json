@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-04T21:06:09.055315747Z",
+  "release_date": "2024-06-05T03:16:54.372551746Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -185,6 +185,28 @@
             {
               "SHA": "94f6f276",
               "Subject": "Update auditor library (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "24bc92e",
+              "Subject": "Prepare for release v0.6.0 (#22)"
+            },
+            {
+              "SHA": "7e532d3",
+              "Subject": "Use k8s 1.30 client libs (#21)"
+            },
+            {
+              "SHA": "57e689b",
+              "Subject": "Update auditor library (#20)"
             }
           ]
         }

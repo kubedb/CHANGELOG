@@ -1,4 +1,4 @@
-# KubeDB v2024.6.4 (2024-06-04)
+# KubeDB v2024.6.4 (2024-06-05)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -53,6 +53,16 @@
 - [ed82b008](https://github.com/kubedb/db-client-go/commit/ed82b008) Add Kafka Schema Registry Client (#110)
 - [9c578aba](https://github.com/kubedb/db-client-go/commit/9c578aba) Add MSSQL Server TLS  config  (#111)
 - [94f6f276](https://github.com/kubedb/db-client-go/commit/94f6f276) Update auditor library (#109)
+
+
+
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.6.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.6.0)
+
+- [24bc92e](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/24bc92e) Prepare for release v0.6.0 (#22)
+- [7e532d3](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/7e532d3) Use k8s 1.30 client libs (#21)
+- [57e689b](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/57e689b) Update auditor library (#20)
 
 
 

@@ -236,6 +236,17 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.9.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.9.0)
+
+- [07366ba](https://github.com/kubedb/postgres-restic-plugin/commit/07366ba) Prepare for release v0.9.0 (#36)
+- [7e2c8cc](https://github.com/kubedb/postgres-restic-plugin/commit/7e2c8cc) Wait for db provisioned (#33)
+- [fb986a7](https://github.com/kubedb/postgres-restic-plugin/commit/fb986a7) Use k8s 1.30 client libs (#35)
+- [5d7b929](https://github.com/kubedb/postgres-restic-plugin/commit/5d7b929) Update auditor library (#34)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.8.0](https://github.com/kubedb/provider-aws/releases/tag/v0.8.0)

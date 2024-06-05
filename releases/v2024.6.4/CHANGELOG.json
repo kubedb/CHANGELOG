@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T03:22:24.6003169Z",
+  "release_date": "2024-06-05T03:22:58.591650099Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -617,6 +617,32 @@
             {
               "SHA": "56106ab",
               "Subject": "Update auditor library (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "07366ba",
+              "Subject": "Prepare for release v0.9.0 (#36)"
+            },
+            {
+              "SHA": "7e2c8cc",
+              "Subject": "Wait for db provisioned (#33)"
+            },
+            {
+              "SHA": "fb986a7",
+              "Subject": "Use k8s 1.30 client libs (#35)"
+            },
+            {
+              "SHA": "5d7b929",
+              "Subject": "Update auditor library (#34)"
             }
           ]
         }

@@ -356,6 +356,16 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.30.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.30.0)
+
+- [bf7a8900](https://github.com/kubedb/pg-coordinator/commit/bf7a8900) Prepare for release v0.30.0 (#166)
+- [90f77d71](https://github.com/kubedb/pg-coordinator/commit/90f77d71) Use k8s 1.30 client libs (#165)
+- [a6fe13f5](https://github.com/kubedb/pg-coordinator/commit/a6fe13f5) Update auditor library (#164)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.1.0](https://github.com/kubedb/pgpool/releases/tag/v0.1.0)

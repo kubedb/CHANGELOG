@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.6.4",
-  "release_date": "2024-06-05T05:31:29.581152072Z",
+  "release_date": "2024-06-05T05:32:11.105907728Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.6.4",
   "kubernetes_version": "1.20+",
@@ -898,6 +898,28 @@
             {
               "SHA": "a13e477d",
               "Subject": "Update auditor library (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "bf7a8900",
+              "Subject": "Prepare for release v0.30.0 (#166)"
+            },
+            {
+              "SHA": "90f77d71",
+              "Subject": "Use k8s 1.30 client libs (#165)"
+            },
+            {
+              "SHA": "a6fe13f5",
+              "Subject": "Update auditor library (#164)"
             }
           ]
         }

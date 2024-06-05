@@ -62,6 +62,18 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.1.0](https://github.com/kubedb/crd-manager/releases/tag/v0.1.0)
+
+- [da4101ef](https://github.com/kubedb/crd-manager/commit/da4101ef) Prepare for release v0.1.0 (#33)
+- [c762bfce](https://github.com/kubedb/crd-manager/commit/c762bfce) Use k8s 1.30 client libs (#32)
+- [eb1ed23f](https://github.com/kubedb/crd-manager/commit/eb1ed23f) Add Schema Registry, Ops-Requests and Autoscalers CRD (#30)
+- [0e329d08](https://github.com/kubedb/crd-manager/commit/0e329d08) Add ClickHouse (#28)
+- [5ad04861](https://github.com/kubedb/crd-manager/commit/5ad04861) Update auditor library (#29)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.4.0)

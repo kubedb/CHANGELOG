@@ -28,3 +28,10 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.9.0-rc.0)
+
+
+
+

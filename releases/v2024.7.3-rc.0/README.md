@@ -257,6 +257,15 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.5.0-rc.0)
+
+- [efca7ae](https://github.com/kubedb/singlestore-restic-plugin/commit/efca7ae) Prepare for release v0.5.0-rc.0 (#16)
+- [ae76f5a](https://github.com/kubedb/singlestore-restic-plugin/commit/ae76f5a) Update constants to use kubedb package (#15)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.2.0-rc.0)

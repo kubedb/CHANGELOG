@@ -74,3 +74,12 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.26.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.26.0-rc.0)
+
+- [e206e7ac](https://github.com/kubedb/redis-coordinator/commit/e206e7ac) Prepare for release v0.26.0-rc.0 (#106)
+- [65403ff6](https://github.com/kubedb/redis-coordinator/commit/65403ff6) Use v1 api (#105)
+
+
+

@@ -28,6 +28,15 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.2.0-rc.0)
+
+- [8047a2d](https://github.com/kubedb/druid/commit/8047a2d) Prepare for release v0.2.0-rc.0 (#32)
+- [3a3deb0](https://github.com/kubedb/druid/commit/3a3deb0) Update druid for creating metadata storage and zk (#30)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.10.0-rc.0)

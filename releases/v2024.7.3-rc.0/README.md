@@ -239,6 +239,15 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.2.0-rc.0)
+
+- [38d0c569](https://github.com/kubedb/solr/commit/38d0c569) Prepare for release v0.2.0-rc.0 (#35)
+- [ca47b7be](https://github.com/kubedb/solr/commit/ca47b7be) Update constants to use kubedb package (#34)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.0)

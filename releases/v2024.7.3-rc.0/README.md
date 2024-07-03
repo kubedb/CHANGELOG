@@ -46,6 +46,15 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.2.0-rc.0)
+
+- [56e423f5](https://github.com/kubedb/mssql-coordinator/commit/56e423f5) Prepare for release v0.2.0-rc.0 (#10)
+- [482a349a](https://github.com/kubedb/mssql-coordinator/commit/482a349a) Update constants to use kubedb package (#9)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.25.0-rc.0)

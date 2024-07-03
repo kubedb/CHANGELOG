@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-03T18:54:13.18007392Z",
+  "release_date": "2024-07-03T18:55:41.832716454Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -109,6 +109,24 @@
             {
               "SHA": "10687b97",
               "Subject": "Use v1 api (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "56e423f5",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
+            },
+            {
+              "SHA": "482a349a",
+              "Subject": "Update constants to use kubedb package (#9)"
             }
           ]
         }

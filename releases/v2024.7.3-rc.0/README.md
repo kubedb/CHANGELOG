@@ -19,3 +19,12 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.2.0-rc.0)
+
+- [01905848](https://github.com/kubedb/db-client-go/commit/01905848) Prepare for release v0.2.0-rc.0 (#120)
+- [3b94bb3e](https://github.com/kubedb/db-client-go/commit/3b94bb3e) Add v1 api to db clients (#119)
+
+
+

@@ -46,6 +46,17 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.2.0-rc.0)
+
+- [c9abee71](https://github.com/kubedb/ferretdb/commit/c9abee71) Prepare for release v0.2.0-rc.0 (#32)
+- [0c36fb43](https://github.com/kubedb/ferretdb/commit/0c36fb43) Fix apimachinery constants (#31)
+- [0afda2a8](https://github.com/kubedb/ferretdb/commit/0afda2a8) Add e2e ci (#25)
+- [652e0d81](https://github.com/kubedb/ferretdb/commit/652e0d81) Fix Backend TLS connection (#30)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.7.0-rc.0)

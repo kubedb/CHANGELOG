@@ -1,0 +1,64 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.7.3-rc.0",
+  "release_date": "2024-07-03T18:10:53.65951215Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1302836dc",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "01fcb6683",
+              "Subject": "Introduce v1 api (#1236)"
+            },
+            {
+              "SHA": "42019af5f",
+              "Subject": "Update for release KubeStash@v2024.7.1 (#1245)"
+            },
+            {
+              "SHA": "519c2389b",
+              "Subject": "Fix druid defaulter (#1243)"
+            },
+            {
+              "SHA": "735c4683a",
+              "Subject": "Update Druid API for internally managed metadatastore and zookeeper (#1238)"
+            },
+            {
+              "SHA": "b4f0c7ae5",
+              "Subject": "Add AppBinding PostgresRef in FerretDB API (#1239)"
+            },
+            {
+              "SHA": "b88f519ba",
+              "Subject": "Add Pgpool ops-request api(Horizontal Scaling) (#1241)"
+            },
+            {
+              "SHA": "7a9cbb53c",
+              "Subject": "auth_mode changes (#1235)"
+            },
+            {
+              "SHA": "d9228be31",
+              "Subject": "Make package path match package name"
+            },
+            {
+              "SHA": "dd0bd4e6f",
+              "Subject": "Move feature gates from crd-manager (#1240)"
+            },
+            {
+              "SHA": "c1a2e2745",
+              "Subject": "Reset RabbitMQ default healthcker periodSecond (#1237)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

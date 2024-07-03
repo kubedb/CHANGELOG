@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-03T23:43:57.36577598Z",
+  "release_date": "2024-07-03T23:48:33.085374185Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -499,6 +499,24 @@
             {
               "SHA": "65403ff6",
               "Subject": "Use v1 api (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "11149d9",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "1588d95",
+              "Subject": "Use v1 api (#36)"
             }
           ]
         }

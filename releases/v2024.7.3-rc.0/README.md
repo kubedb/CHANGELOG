@@ -64,6 +64,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.8.0-rc.0)
+
+- [b2e2904b](https://github.com/kubedb/mysql-archiver/commit/b2e2904b) Prepare for release v0.8.0-rc.0 (#35)
+- [3d92a58f](https://github.com/kubedb/mysql-archiver/commit/3d92a58f) Use v1 api (#34)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.25.0-rc.0)

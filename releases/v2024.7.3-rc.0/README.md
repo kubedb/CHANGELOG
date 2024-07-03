@@ -155,6 +155,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.47.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.47.0-rc.0)
+
+- [96a43728](https://github.com/kubedb/postgres/commit/96a43728c) Prepare for release v0.47.0-rc.0 (#737)
+- [9233ae5c](https://github.com/kubedb/postgres/commit/9233ae5c6) Integrate PetSet in Postgres; Use apiv1 (#718)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.8.0-rc.0)

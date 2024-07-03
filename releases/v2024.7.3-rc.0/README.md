@@ -203,6 +203,15 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.2.0-rc.0)
+
+- [06e4926](https://github.com/kubedb/singlestore-coordinator/commit/06e4926) Prepare for release v0.2.0-rc.0 (#21)
+- [458fa6a](https://github.com/kubedb/singlestore-coordinator/commit/458fa6a) Update constants to use kubedb package (#20)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.3.0-rc.0)

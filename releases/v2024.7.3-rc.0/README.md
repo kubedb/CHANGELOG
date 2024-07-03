@@ -212,6 +212,15 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.0)
+
+- [75a1fa49](https://github.com/kubedb/zookeeper/commit/75a1fa49) Prepare for release v0.2.0-rc.0 (#30)
+- [bc8d242d](https://github.com/kubedb/zookeeper/commit/bc8d242d) Update constants to use kubedb package (#29)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.3.0-rc.0)

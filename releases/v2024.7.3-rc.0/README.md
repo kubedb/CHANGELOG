@@ -92,6 +92,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.10.0-rc.0)
+
+- [702d565](https://github.com/kubedb/mongodb-restic-plugin/commit/702d565) Prepare for release v0.10.0-rc.0 (#50)
+- [a10270b](https://github.com/kubedb/mongodb-restic-plugin/commit/a10270b) Use v1 api (#49)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.2.0-rc.0)

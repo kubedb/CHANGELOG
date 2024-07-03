@@ -28,6 +28,15 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.10.0-rc.0)
+
+- [10c7f69](https://github.com/kubedb/elasticsearch-restic-plugin/commit/10c7f69) Prepare for release v0.10.0-rc.0 (#35)
+- [0f742fd](https://github.com/kubedb/elasticsearch-restic-plugin/commit/0f742fd) Use v1 api (#34)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.25.0-rc.0)

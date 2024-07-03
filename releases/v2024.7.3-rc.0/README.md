@@ -71,6 +71,15 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.20.0-rc.0)
+
+- [67e20d0d](https://github.com/kubedb/percona-xtradb-coordinator/commit/67e20d0d) Prepare for release v0.20.0-rc.0 (#75)
+- [6b8544b7](https://github.com/kubedb/percona-xtradb-coordinator/commit/6b8544b7) Use v1 api (#74)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.10.0-rc.0)

@@ -37,6 +37,15 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.7.0-rc.0)
+
+- [9d5d985c](https://github.com/kubedb/mariadb-archiver/commit/9d5d985c) Prepare for release v0.7.0-rc.0 (#21)
+- [10687b97](https://github.com/kubedb/mariadb-archiver/commit/10687b97) Use v1 api (#20)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.25.0-rc.0)

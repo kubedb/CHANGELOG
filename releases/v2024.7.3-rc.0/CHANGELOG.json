@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-03T18:53:51.202632926Z",
+  "release_date": "2024-07-03T18:54:13.18007392Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -91,6 +91,24 @@
             {
               "SHA": "0f742fd",
               "Subject": "Use v1 api (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9d5d985c",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#21)"
+            },
+            {
+              "SHA": "10687b97",
+              "Subject": "Use v1 api (#20)"
             }
           ]
         }

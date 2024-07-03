@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-03T21:26:42.086066015Z",
+  "release_date": "2024-07-03T21:26:57.082085429Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -135,6 +135,20 @@
             {
               "SHA": "652e0d81",
               "Subject": "Fix Backend TLS connection (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7a27d11",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#57)"
             }
           ]
         }

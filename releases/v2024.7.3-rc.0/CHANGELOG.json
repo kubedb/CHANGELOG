@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-03T23:22:56.96646098Z",
+  "release_date": "2024-07-03T23:27:57.98206772Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -310,6 +310,24 @@
             {
               "SHA": "497c9eae",
               "Subject": "Disable clickhouse in makefile (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "78bba5ae",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#33)"
+            },
+            {
+              "SHA": "6d9a8d20",
+              "Subject": "Use v1 api (#32)"
             }
           ]
         }

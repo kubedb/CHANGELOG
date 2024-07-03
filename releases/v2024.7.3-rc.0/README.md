@@ -135,6 +135,17 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.0)
+
+- [fa50af41](https://github.com/kubedb/pgpool/commit/fa50af41) Prepare for release v0.2.0-rc.0 (#37)
+- [64bc921d](https://github.com/kubedb/pgpool/commit/64bc921d) Update constants to use kubedb package (#36)
+- [b1d4d232](https://github.com/kubedb/pgpool/commit/b1d4d232) Remove redundant TLS secret getter and make method Exportable (#35)
+- [497c9eae](https://github.com/kubedb/pgpool/commit/497c9eae) Disable clickhouse in makefile (#34)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.8.0-rc.0)

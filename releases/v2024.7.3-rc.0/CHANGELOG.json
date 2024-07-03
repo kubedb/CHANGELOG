@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-03T21:30:59.863105648Z",
+  "release_date": "2024-07-03T21:31:51.995415142Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -284,6 +284,32 @@
             {
               "SHA": "6b8544b7",
               "Subject": "Use v1 api (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "fa50af41",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "64bc921d",
+              "Subject": "Update constants to use kubedb package (#36)"
+            },
+            {
+              "SHA": "b1d4d232",
+              "Subject": "Remove redundant TLS secret getter and make method Exportable (#35)"
+            },
+            {
+              "SHA": "497c9eae",
+              "Subject": "Disable clickhouse in makefile (#34)"
             }
           ]
         }

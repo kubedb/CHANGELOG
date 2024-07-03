@@ -101,6 +101,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.40.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.40.0-rc.0)
+
+- [2190a3c8](https://github.com/kubedb/memcached/commit/2190a3c8f) Prepare for release v0.40.0-rc.0 (#450)
+- [cf78ad00](https://github.com/kubedb/memcached/commit/cf78ad006) Use v1 api (#449)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.8.0-rc.0)

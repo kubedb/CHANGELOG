@@ -166,6 +166,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.40.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.40.0-rc.0)
+
+- [3ca73ddd](https://github.com/kubedb/mysql/commit/3ca73ddda) Prepare for release v0.40.0-rc.0 (#629)
+- [54cb812e](https://github.com/kubedb/mysql/commit/54cb812ec) Add PetSet and move on V1 API (#628)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.8.0-rc.0)

@@ -273,6 +273,15 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.31.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.31.0-rc.0)
+
+- [a26d4398](https://github.com/kubedb/pg-coordinator/commit/a26d4398) Prepare for release v0.31.0-rc.0 (#167)
+- [cdd1b821](https://github.com/kubedb/pg-coordinator/commit/cdd1b821) Add PetSet Support; Use api-v1 (#156)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.0)

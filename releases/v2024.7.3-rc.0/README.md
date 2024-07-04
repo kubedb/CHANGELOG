@@ -19,6 +19,16 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.2.0-rc.0)
+
+- [205ad288](https://github.com/kubedb/clickhouse/commit/205ad288) Prepare for release v0.2.0-rc.0 (#6)
+- [a763c285](https://github.com/kubedb/clickhouse/commit/a763c285) Update constants to use kubedb package (#5)
+- [d16c8c0b](https://github.com/kubedb/clickhouse/commit/d16c8c0b) Fix Auth Secret Issue (#3)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.2.0-rc.0)

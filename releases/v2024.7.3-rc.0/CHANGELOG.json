@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-04T00:13:07.865017509Z",
+  "release_date": "2024-07-04T00:14:49.816706653Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -55,6 +55,28 @@
             {
               "SHA": "c1a2e2745",
               "Subject": "Reset RabbitMQ default healthcker periodSecond (#1237)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "205ad288",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "a763c285",
+              "Subject": "Update constants to use kubedb package (#5)"
+            },
+            {
+              "SHA": "d16c8c0b",
+              "Subject": "Fix Auth Secret Issue (#3)"
             }
           ]
         }

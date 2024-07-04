@@ -19,6 +19,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.47.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.47.0-rc.0)
+
+- [b4118de7](https://github.com/kubedb/cli/commit/b4118de7) Prepare for release v0.47.0-rc.0 (#770)
+- [2e7131a6](https://github.com/kubedb/cli/commit/2e7131a6) update api to v1 (#771)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.2.0-rc.0)

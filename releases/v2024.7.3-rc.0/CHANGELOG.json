@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-04T02:47:42.545705877Z",
+  "release_date": "2024-07-04T02:55:46.654224436Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -77,6 +77,28 @@
             {
               "SHA": "d16c8c0b",
               "Subject": "Fix Auth Secret Issue (#3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8392c6cd",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#34)"
+            },
+            {
+              "SHA": "a4f9e562",
+              "Subject": "Preserve crd conversion config on update (#31)"
+            },
+            {
+              "SHA": "5c05c9ba",
+              "Subject": "Move features to apimachinery"
             }
           ]
         }

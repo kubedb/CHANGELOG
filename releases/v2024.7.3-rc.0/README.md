@@ -29,6 +29,16 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.2.0-rc.0)
+
+- [8392c6cd](https://github.com/kubedb/crd-manager/commit/8392c6cd) Prepare for release v0.2.0-rc.0 (#34)
+- [a4f9e562](https://github.com/kubedb/crd-manager/commit/a4f9e562) Preserve crd conversion config on update (#31)
+- [5c05c9ba](https://github.com/kubedb/crd-manager/commit/5c05c9ba) Move features to apimachinery
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.2.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-04T06:46:48.981402785Z",
+  "release_date": "2024-07-04T06:46:53.723222515Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -117,6 +117,20 @@
             {
               "SHA": "5c05c9ba",
               "Subject": "Move features to apimachinery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d0c1465",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#13)"
             }
           ]
         }

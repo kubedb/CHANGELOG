@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-04T00:25:23.403710363Z",
+  "release_date": "2024-07-04T02:44:11.87882849Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -581,6 +581,24 @@
         {
           "tag": "v0.9.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ad06e69b",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#35)"
+            },
+            {
+              "SHA": "4d025872",
+              "Subject": "Update constants to use kubedb package (#34)"
+            }
+          ]
         }
       ]
     },

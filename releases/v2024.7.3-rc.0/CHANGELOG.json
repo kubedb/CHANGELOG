@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-04T10:21:42.869590925Z",
+  "release_date": "2024-07-04T14:57:08.541372575Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -249,6 +249,15 @@
               "Subject": "Fix Backend TLS connection (#30)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.7.3-rc.0",
+          "commits": null
         }
       ]
     },

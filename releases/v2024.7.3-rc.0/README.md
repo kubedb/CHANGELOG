@@ -350,6 +350,16 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.2.0-rc.0)
+
+- [7e011ab0](https://github.com/kubedb/singlestore/commit/7e011ab0) Prepare for release v0.2.0-rc.0 (#37)
+- [17623577](https://github.com/kubedb/singlestore/commit/17623577) Update API constants package (#36)
+- [67d1ecb6](https://github.com/kubedb/singlestore/commit/67d1ecb6) Update Makefile and Daily test (#35)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.2.0-rc.0)

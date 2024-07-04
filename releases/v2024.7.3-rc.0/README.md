@@ -146,6 +146,16 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.2.0-rc.0)
+
+- [ed78c962](https://github.com/kubedb/mssqlserver/commit/ed78c962) Prepare for release v0.2.0-rc.0 (#19)
+- [bfe83703](https://github.com/kubedb/mssqlserver/commit/bfe83703) Update constants to use kubedb package (#18)
+- [9cdb65f5](https://github.com/kubedb/mssqlserver/commit/9cdb65f5) Remove license check for webhook-server (#17)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.8.0-rc.0)

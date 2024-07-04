@@ -86,6 +86,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.18.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.18.0-rc.0)
+
+- [c3f92486](https://github.com/kubedb/kafka/commit/c3f92486) Prepare for release v0.18.0-rc.0 (#96)
+- [19b65b86](https://github.com/kubedb/kafka/commit/19b65b86) Update Statefulset with PetSet and apiversion (#95)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0-rc.0)

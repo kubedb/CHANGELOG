@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-04T07:14:05.852490654Z",
+  "release_date": "2024-07-04T07:27:05.063815435Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -117,6 +117,24 @@
             {
               "SHA": "5c05c9ba",
               "Subject": "Move features to apimachinery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cc962aff",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#119)"
+            },
+            {
+              "SHA": "4981533c",
+              "Subject": "Update constants with apiv1 (#118)"
             }
           ]
         }

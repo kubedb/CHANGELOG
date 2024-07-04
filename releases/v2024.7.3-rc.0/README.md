@@ -48,6 +48,15 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/dashboard/releases/tag/v0.23.0-rc.0)
+
+- [cc962aff](https://github.com/kubedb/dashboard/commit/cc962aff) Prepare for release v0.23.0-rc.0 (#119)
+- [4981533c](https://github.com/kubedb/dashboard/commit/4981533c) Update constants with apiv1 (#118)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.5.0-rc.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.5.0-rc.0)

@@ -1,4 +1,4 @@
-# KubeDB v2024.7.3-rc.0 (2024-07-03)
+# KubeDB v2024.7.3-rc.0 (2024-07-04)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -143,6 +143,15 @@
 
 - [b2e2904b](https://github.com/kubedb/mysql-archiver/commit/b2e2904b) Prepare for release v0.8.0-rc.0 (#35)
 - [3d92a58f](https://github.com/kubedb/mysql-archiver/commit/3d92a58f) Use v1 api (#34)
+
+
+
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.25.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.25.0-rc.0)
+
+- [b8c377fd](https://github.com/kubedb/mysql-coordinator/commit/b8c377fd) Prepare for release v0.25.0-rc.0 (#116)
+- [f29b8f56](https://github.com/kubedb/mysql-coordinator/commit/f29b8f56) Update constants to use kubedb package (#115)
 
 
 

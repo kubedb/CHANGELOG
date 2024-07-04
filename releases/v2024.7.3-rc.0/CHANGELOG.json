@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-04T10:11:44.249810621Z",
+  "release_date": "2024-07-04T10:21:42.869590925Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -1023,6 +1023,24 @@
             {
               "SHA": "107fee8b",
               "Subject": "version converted into v1 from v1alpha2 (#121)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d07cc360",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#112)"
+            },
+            {
+              "SHA": "e7b7c671",
+              "Subject": "Add v1 api conversion webhooks (#111)"
             }
           ]
         }

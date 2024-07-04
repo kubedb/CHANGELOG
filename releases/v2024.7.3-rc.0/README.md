@@ -505,6 +505,15 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/webhook-server/releases/tag/v0.23.0-rc.0)
+
+- [d07cc360](https://github.com/kubedb/webhook-server/commit/d07cc360) Prepare for release v0.23.0-rc.0 (#112)
+- [e7b7c671](https://github.com/kubedb/webhook-server/commit/e7b7c671) Add v1 api conversion webhooks (#111)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.0)

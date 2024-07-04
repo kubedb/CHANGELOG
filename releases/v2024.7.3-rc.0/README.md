@@ -386,6 +386,17 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.47.0-rc.0](https://github.com/kubedb/provisioner/releases/tag/v0.47.0-rc.0)
+
+- [986b3657](https://github.com/kubedb/provisioner/commit/986b36574) Prepare for release v0.47.0-rc.0 (#100)
+- [28e4e1af](https://github.com/kubedb/provisioner/commit/28e4e1af3) Update deps
+- [141dbbe9](https://github.com/kubedb/provisioner/commit/141dbbe97) Update deps
+- [41a56a3c](https://github.com/kubedb/provisioner/commit/41a56a3c9) Add petset implementation for postgres (#83)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.34.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.34.0-rc.0)

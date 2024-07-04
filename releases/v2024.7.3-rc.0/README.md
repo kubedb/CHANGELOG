@@ -221,6 +221,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.10.0-rc.0)
+
+- [83efb51](https://github.com/kubedb/mysql-restic-plugin/commit/83efb51) Prepare for release v0.10.0-rc.0 (#45)
+- [fdfd535](https://github.com/kubedb/mysql-restic-plugin/commit/fdfd535) Update API and Skip mysql.user Table (#44)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.25.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.3-rc.0",
-  "release_date": "2024-07-04T06:46:53.723222515Z",
+  "release_date": "2024-07-04T07:13:51.135856753Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.3-rc.0",
   "kubernetes_version": "1.20+",
@@ -616,6 +616,28 @@
             {
               "SHA": "cdd1b821",
               "Subject": "Add PetSet Support; Use api-v1 (#156)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cde85494",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#336)"
+            },
+            {
+              "SHA": "a266f397",
+              "Subject": "Use v1 api (#334)"
+            },
+            {
+              "SHA": "d12eb869",
+              "Subject": "Auth_type md5 hashing fixed (#335)"
             }
           ]
         }

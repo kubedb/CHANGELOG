@@ -299,6 +299,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.34.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.34.0-rc.0)
+
+- [cde85494](https://github.com/kubedb/pgbouncer/commit/cde85494) Prepare for release v0.34.0-rc.0 (#336)
+- [a266f397](https://github.com/kubedb/pgbouncer/commit/a266f397) Use v1 api (#334)
+- [d12eb869](https://github.com/kubedb/pgbouncer/commit/d12eb869) Auth_type md5 hashing fixed (#335)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.0)

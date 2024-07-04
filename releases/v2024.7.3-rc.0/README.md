@@ -74,6 +74,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.7.3-rc.0](https://github.com/kubedb/docs/releases/tag/v2024.7.3-rc.0)
+
+- [e8021d66](https://github.com/kubedb/docs/commit/e8021d66) Prepare for release v2024.7.3-rc.0 (#647)
+- [1e688c49](https://github.com/kubedb/docs/commit/1e688c49) Update docs for kubedb/webhook-server@e7b7c671 (#646)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.2.0-rc.0)

@@ -136,6 +136,16 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.40.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.40.0-rc.1)
+
+- [028b7d98](https://github.com/kubedb/memcached/commit/028b7d98d) Prepare for release v0.40.0-rc.1 (#453)
+- [ba86e1ca](https://github.com/kubedb/memcached/commit/ba86e1ca6) Update Validator (#452)
+- [aa177b55](https://github.com/kubedb/memcached/commit/aa177b551) Fix Webhook Provisioner Restart Issue (#451)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.40.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.40.0-rc.1)

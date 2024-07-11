@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T21:59:27.236878088Z",
+  "release_date": "2024-07-11T22:01:09.556944148Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -367,6 +367,20 @@
             {
               "SHA": "e15adb2d",
               "Subject": "Update StatefulSet to PetSet (#117)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "d289a41",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#23)"
             }
           ]
         }

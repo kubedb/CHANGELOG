@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T21:52:18.495114129Z",
+  "release_date": "2024-07-11T21:55:56.657266936Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -349,6 +349,24 @@
             {
               "SHA": "f7adcd27",
               "Subject": "Prepare for release v0.8.0-rc.1 (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7565022c",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#118)"
+            },
+            {
+              "SHA": "e15adb2d",
+              "Subject": "Update StatefulSet to PetSet (#117)"
             }
           ]
         }

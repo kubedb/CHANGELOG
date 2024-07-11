@@ -178,6 +178,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.25.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.25.0-rc.1)
+
+- [7565022c](https://github.com/kubedb/mysql-coordinator/commit/7565022c) Prepare for release v0.25.0-rc.1 (#118)
+- [e15adb2d](https://github.com/kubedb/mysql-coordinator/commit/e15adb2d) Update StatefulSet to PetSet (#117)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.10.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.10.0-rc.1)

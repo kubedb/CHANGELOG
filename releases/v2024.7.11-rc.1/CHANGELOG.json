@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T21:01:01.580419058Z",
+  "release_date": "2024-07-11T21:02:11.66052858Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -266,6 +266,24 @@
             {
               "SHA": "60867940",
               "Subject": "Prepare for release v0.2.0-rc.1 (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "2bf47c9e4",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#739)"
+            },
+            {
+              "SHA": "bcfe0a488",
+              "Subject": "Fix validator for postgres (#738)"
             }
           ]
         }

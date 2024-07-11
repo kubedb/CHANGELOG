@@ -135,6 +135,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.47.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.47.0-rc.1)
+
+- [2bf47c9e](https://github.com/kubedb/postgres/commit/2bf47c9e4) Prepare for release v0.47.0-rc.1 (#739)
+- [bcfe0a48](https://github.com/kubedb/postgres/commit/bcfe0a488) Fix validator for postgres (#738)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/provider-aws/releases/tag/v0.9.0-rc.1)

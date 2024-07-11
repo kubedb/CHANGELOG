@@ -272,6 +272,21 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.32.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.32.0-rc.1)
+
+- [8b29ad4f](https://github.com/kubedb/tests/commit/8b29ad4f) Prepare for release v0.32.0-rc.1 (#332)
+- [522ce4dd](https://github.com/kubedb/tests/commit/522ce4dd) Add api V1 support for e2e test cases (#330)
+- [074319cb](https://github.com/kubedb/tests/commit/074319cb) Kubestash test (#328)
+- [3d86cc15](https://github.com/kubedb/tests/commit/3d86cc15) Add MS SQL Server Provisioning Tests  (#321)
+- [ac5c8e4a](https://github.com/kubedb/tests/commit/ac5c8e4a) Add FerretDB test (#323)
+- [3b09f127](https://github.com/kubedb/tests/commit/3b09f127) Reprovision test (#311)
+- [cbb366d5](https://github.com/kubedb/tests/commit/cbb366d5) Update SingleStore Tests Regarding API Changes (#327)
+- [7568498c](https://github.com/kubedb/tests/commit/7568498c) Fix Pgpool sync users test (#326)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.3.0-rc.1](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.3.0-rc.1)

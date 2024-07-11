@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T21:43:54.147091133Z",
+  "release_date": "2024-07-11T21:46:34.200842867Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -505,6 +505,48 @@
             {
               "SHA": "9bf8b9c",
               "Subject": "Prepare for release v0.5.0-rc.1 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.32.0-rc.1",
+          "commits": [
+            {
+              "SHA": "8b29ad4f",
+              "Subject": "Prepare for release v0.32.0-rc.1 (#332)"
+            },
+            {
+              "SHA": "522ce4dd",
+              "Subject": "Add api V1 support for e2e test cases (#330)"
+            },
+            {
+              "SHA": "074319cb",
+              "Subject": "Kubestash test (#328)"
+            },
+            {
+              "SHA": "3d86cc15",
+              "Subject": "Add MS SQL Server Provisioning Tests  (#321)"
+            },
+            {
+              "SHA": "ac5c8e4a",
+              "Subject": "Add FerretDB test (#323)"
+            },
+            {
+              "SHA": "3b09f127",
+              "Subject": "Reprovision test (#311)"
+            },
+            {
+              "SHA": "cbb366d5",
+              "Subject": "Update SingleStore Tests Regarding API Changes (#327)"
+            },
+            {
+              "SHA": "7568498c",
+              "Subject": "Fix Pgpool sync users test (#326)"
             }
           ]
         }

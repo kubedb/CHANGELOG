@@ -44,6 +44,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.25.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.25.0-rc.1)
+
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/provider-aws/releases/tag/v0.9.0-rc.1)

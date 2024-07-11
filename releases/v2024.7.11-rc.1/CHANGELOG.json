@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T20:01:28.783974128Z",
+  "release_date": "2024-07-11T20:01:31.944193928Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -103,6 +103,15 @@
               "Subject": "Prepare for release v0.10.0-rc.1 (#46)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.1",
+          "commits": null
         }
       ]
     },

@@ -349,6 +349,14 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.2.0-rc.1)
+
+- [fd637835](https://github.com/kubedb/singlestore/commit/fd637835) Prepare for release v0.2.0-rc.1 (#38)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.2.0-rc.1)

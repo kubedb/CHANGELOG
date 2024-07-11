@@ -60,6 +60,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.40.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.40.0-rc.1)
+
+- [a5a96a7b](https://github.com/kubedb/mongodb/commit/a5a96a7ba) Prepare for release v0.40.0-rc.1 (#640)
+- [87a1e446](https://github.com/kubedb/mongodb/commit/87a1e446f) fix error handling in validator (#639)
+- [bda4f0c8](https://github.com/kubedb/mongodb/commit/bda4f0c85) Add petset to daily CI (#638)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.10.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.10.0-rc.1)

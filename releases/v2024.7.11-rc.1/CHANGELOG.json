@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T20:43:58.265621416Z",
+  "release_date": "2024-07-11T20:44:55.335681222Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -129,6 +129,28 @@
             {
               "SHA": "7af0211",
               "Subject": "Prepare for release v0.5.0-rc.1 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a5a96a7ba",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#640)"
+            },
+            {
+              "SHA": "87a1e446f",
+              "Subject": "fix error handling in validator (#639)"
+            },
+            {
+              "SHA": "bda4f0c85",
+              "Subject": "Add petset to daily CI (#638)"
             }
           ]
         }

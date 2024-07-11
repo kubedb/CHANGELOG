@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T21:31:28.510065444Z",
+  "release_date": "2024-07-11T21:34:42.618090136Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -179,6 +179,20 @@
             {
               "SHA": "bda4f0c85",
               "Subject": "Add petset to daily CI (#638)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "96328df",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#30)"
             }
           ]
         }

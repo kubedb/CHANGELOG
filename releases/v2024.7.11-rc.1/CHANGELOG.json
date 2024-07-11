@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T21:02:11.66052858Z",
+  "release_date": "2024-07-11T21:03:42.998627638Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -284,6 +284,20 @@
             {
               "SHA": "bcfe0a488",
               "Subject": "Fix validator for postgres (#738)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f50a13e",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#39)"
             }
           ]
         }

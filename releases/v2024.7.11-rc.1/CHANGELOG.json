@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T22:11:11.243389897Z",
+  "release_date": "2024-07-11T22:16:04.64037204Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -229,6 +229,24 @@
             {
               "SHA": "599fa89",
               "Subject": "Prepare for release v0.10.0-rc.1 (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c16d25c72",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#274)"
+            },
+            {
+              "SHA": "823748e1a",
+              "Subject": "Fix Env Validation (#273)"
             }
           ]
         }

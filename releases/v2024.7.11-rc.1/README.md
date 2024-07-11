@@ -112,6 +112,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.31.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.31.0-rc.1)
+
+- [c16d25c7](https://github.com/kubedb/mariadb/commit/c16d25c72) Prepare for release v0.31.0-rc.1 (#274)
+- [823748e1](https://github.com/kubedb/mariadb/commit/823748e1a) Fix Env Validation (#273)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.7.0-rc.1)

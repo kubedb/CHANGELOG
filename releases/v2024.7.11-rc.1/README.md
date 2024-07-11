@@ -68,6 +68,14 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.2.0-rc.1)
+
+- [080b930e](https://github.com/kubedb/mssql-coordinator/commit/080b930e) Prepare for release v0.2.0-rc.1 (#11)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.10.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.10.0-rc.1)

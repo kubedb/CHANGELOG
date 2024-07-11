@@ -91,6 +91,14 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.1)
+
+- [60867940](https://github.com/kubedb/pgpool/commit/60867940) Prepare for release v0.2.0-rc.1 (#38)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/provider-aws/releases/tag/v0.9.0-rc.1)

@@ -44,6 +44,14 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.5.0-rc.1](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.5.0-rc.1)
+
+- [7af0211](https://github.com/kubedb/mariadb-restic-plugin/commit/7af0211) Prepare for release v0.5.0-rc.1 (#17)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.10.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.10.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T21:39:18.391495426Z",
+  "release_date": "2024-07-11T21:40:53.574259487Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -115,6 +115,24 @@
             {
               "SHA": "57a5122f",
               "Subject": "Prepare for release v0.2.0-rc.1 (#121)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1f8f6a495",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#726)"
+            },
+            {
+              "SHA": "66d09cc27",
+              "Subject": "Fix error handling for validators (#725)"
             }
           ]
         }

@@ -60,6 +60,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.18.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.18.0-rc.1)
+
+- [b2cc90d4](https://github.com/kubedb/kafka/commit/b2cc90d4) Prepare for release v0.18.0-rc.1 (#98)
+- [7a56e529](https://github.com/kubedb/kafka/commit/7a56e529) Install petset kafka daily (#97)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.10.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0-rc.1)

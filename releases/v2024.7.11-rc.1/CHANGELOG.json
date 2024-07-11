@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T21:49:22.618268793Z",
+  "release_date": "2024-07-11T21:51:59.683672703Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -73,6 +73,20 @@
             {
               "SHA": "a0aab82d",
               "Subject": "Prepare for release v0.47.0-rc.1 (#772)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.1",
+          "commits": [
+            {
+              "SHA": "69f6e117",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#7)"
             }
           ]
         }

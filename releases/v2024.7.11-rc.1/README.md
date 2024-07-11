@@ -112,6 +112,14 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.34.0-rc.1](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.34.0-rc.1)
+
+- [c0197572](https://github.com/kubedb/replication-mode-detector/commit/c0197572) Prepare for release v0.34.0-rc.1 (#273)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.5.0-rc.1](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.5.0-rc.1)

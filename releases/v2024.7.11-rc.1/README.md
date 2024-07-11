@@ -60,6 +60,15 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/ferretdb/releases/tag/v0.2.0-rc.1)
+
+- [fcc68498](https://github.com/kubedb/ferretdb/commit/fcc68498) Prepare for release v0.2.0-rc.1 (#34)
+- [e8dfe581](https://github.com/kubedb/ferretdb/commit/e8dfe581) make client funcs accessible (#33)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.18.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.18.0-rc.1)

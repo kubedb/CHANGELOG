@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T21:37:49.358016163Z",
+  "release_date": "2024-07-11T21:39:18.391495426Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -129,6 +129,24 @@
             {
               "SHA": "5a8fe42",
               "Subject": "Prepare for release v0.10.0-rc.1 (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.1",
+          "commits": [
+            {
+              "SHA": "fcc68498",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#34)"
+            },
+            {
+              "SHA": "e8dfe581",
+              "Subject": "make client funcs accessible (#33)"
             }
           ]
         }

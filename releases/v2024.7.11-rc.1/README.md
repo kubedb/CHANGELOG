@@ -52,6 +52,14 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.10.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.10.0-rc.1)
+
+- [c22ff40](https://github.com/kubedb/mongodb-restic-plugin/commit/c22ff40) Prepare for release v0.10.0-rc.1 (#52)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.10.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.10.0-rc.1)

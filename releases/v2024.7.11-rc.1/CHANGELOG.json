@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T20:40:36.765082258Z",
+  "release_date": "2024-07-11T20:41:09.31013519Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -182,6 +182,24 @@
         {
           "tag": "v0.25.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.1",
+          "commits": [
+            {
+              "SHA": "eded3d05d",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#372)"
+            },
+            {
+              "SHA": "1966d11a3",
+              "Subject": "Fix Env Validation (#371)"
+            }
+          ]
         }
       ]
     },

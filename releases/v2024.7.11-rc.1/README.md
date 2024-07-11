@@ -91,6 +91,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.34.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.34.0-rc.1)
+
+- [eded3d05](https://github.com/kubedb/percona-xtradb/commit/eded3d05d) Prepare for release v0.34.0-rc.1 (#372)
+- [1966d11a](https://github.com/kubedb/percona-xtradb/commit/1966d11a3) Fix Env Validation (#371)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.1)

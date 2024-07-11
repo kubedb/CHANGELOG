@@ -76,6 +76,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.40.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.40.0-rc.1)
+
+- [9801f22d](https://github.com/kubedb/mysql/commit/9801f22db) Prepare for release v0.40.0-rc.1 (#631)
+- [695750a5](https://github.com/kubedb/mysql/commit/695750a55) fix validator for MySQL (#630)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.10.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.10.0-rc.1)

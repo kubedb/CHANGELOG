@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T20:41:09.31013519Z",
+  "release_date": "2024-07-11T20:43:58.265621416Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -157,6 +157,24 @@
             {
               "SHA": "080b930e",
               "Subject": "Prepare for release v0.2.0-rc.1 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9801f22db",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#631)"
+            },
+            {
+              "SHA": "695750a55",
+              "Subject": "fix validator for MySQL (#630)"
             }
           ]
         }

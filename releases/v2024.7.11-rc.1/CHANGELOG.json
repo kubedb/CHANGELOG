@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-11T20:01:34.269496602Z",
+  "release_date": "2024-07-11T20:04:25.750757018Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -87,6 +87,20 @@
             {
               "SHA": "57a5122f",
               "Subject": "Prepare for release v0.2.0-rc.1 (#121)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5a8fe42",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#36)"
             }
           ]
         }

@@ -44,6 +44,14 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.10.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0-rc.1)
+
+- [599fa89](https://github.com/kubedb/kubedb-manifest-plugin/commit/599fa89) Prepare for release v0.10.0-rc.1 (#58)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.5.0-rc.1](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.5.0-rc.1)

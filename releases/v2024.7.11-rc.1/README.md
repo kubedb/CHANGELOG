@@ -60,6 +60,15 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/druid/releases/tag/v0.2.0-rc.1)
+
+- [a72889d](https://github.com/kubedb/druid/commit/a72889d) Prepare for release v0.2.0-rc.1 (#34)
+- [c03ae84](https://github.com/kubedb/druid/commit/c03ae84) Update druid requeuing strategy for waiting (#33)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.47.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.47.0-rc.1)

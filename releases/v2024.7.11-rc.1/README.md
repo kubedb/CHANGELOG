@@ -365,6 +365,15 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/solr/releases/tag/v0.2.0-rc.1)
+
+- [4d896266](https://github.com/kubedb/solr/commit/4d896266) Prepare for release v0.2.0-rc.1 (#37)
+- [d8f02861](https://github.com/kubedb/solr/commit/d8f02861) fix constants (#36)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.32.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.32.0-rc.1)

@@ -1,0 +1,68 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.7.11-rc.1",
+  "release_date": "2024-07-11T19:43:14.068473801Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "d3914aa5e",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "79ca732bd",
+              "Subject": "Update Redis Ops Master -> Shards (#1255)"
+            },
+            {
+              "SHA": "0fdb8074c",
+              "Subject": "Add UI chart info & remove status.gateway from db (#1256)"
+            },
+            {
+              "SHA": "88ec29e74",
+              "Subject": "Set the default resources correctly (#1253)"
+            },
+            {
+              "SHA": "cea4a328b",
+              "Subject": "update scaling field for pgbouncer ops-request (#1244)"
+            },
+            {
+              "SHA": "9809d94ee",
+              "Subject": "Add API for Solr Restart OpsRequest (#1247)"
+            },
+            {
+              "SHA": "abc86bb90",
+              "Subject": "Fix druid by adding Postgres as metadata storage type (#1252)"
+            },
+            {
+              "SHA": "f8063159a",
+              "Subject": "Rename Master -> Shards in Redis (#1249)"
+            },
+            {
+              "SHA": "5760b1e2e",
+              "Subject": "Fix phase tests and  use ensure container utilities (#1250)"
+            },
+            {
+              "SHA": "d03a54a6c",
+              "Subject": "Report control plane and worker node stats"
+            },
+            {
+              "SHA": "2e35ad031",
+              "Subject": "Use v1 api for schema-manager phase calulation (#1248)"
+            },
+            {
+              "SHA": "41c7c89a5",
+              "Subject": "Correctly package up the solr constants (#1246)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

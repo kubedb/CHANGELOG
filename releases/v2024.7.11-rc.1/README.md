@@ -20,6 +20,15 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.32.0-rc.1](https://github.com/kubedb/autoscaler/releases/tag/v0.32.0-rc.1)
+
+- [9aa8ef3a](https://github.com/kubedb/autoscaler/commit/9aa8ef3a) Prepare for release v0.32.0-rc.1 (#212)
+- [ed522899](https://github.com/kubedb/autoscaler/commit/ed522899) Update constants and petset with apiv1 (#211)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.47.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.47.0-rc.1)

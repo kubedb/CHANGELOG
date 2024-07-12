@@ -448,6 +448,14 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/ui-server/releases/tag/v0.23.0-rc.1)
+
+- [4cad3a5d](https://github.com/kubedb/ui-server/commit/4cad3a5d) Prepare for release v0.23.0-rc.1 (#123)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.1)

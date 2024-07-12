@@ -400,6 +400,15 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/schema-manager/releases/tag/v0.23.0-rc.1)
+
+- [3f84503b](https://github.com/kubedb/schema-manager/commit/3f84503b) Prepare for release v0.23.0-rc.1 (#116)
+- [db6996aa](https://github.com/kubedb/schema-manager/commit/db6996aa) Directly use phase from DB status section (#115)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.2.0-rc.1)

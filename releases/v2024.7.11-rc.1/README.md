@@ -350,6 +350,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.34.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.34.0-rc.1)
+
+- [7da3c423](https://github.com/kubedb/proxysql/commit/7da3c4235) Prepare for release v0.34.0-rc.1 (#349)
+- [0ea35fb6](https://github.com/kubedb/proxysql/commit/0ea35fb68) fix validator for ProxySQL (#348)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.2.0-rc.1)

@@ -77,6 +77,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.7.11-rc.1](https://github.com/kubedb/docs/releases/tag/v2024.7.11-rc.1)
+
+- [de414e4d](https://github.com/kubedb/docs/commit/de414e4d) Prepare for release v2024.7.11-rc.1 (#649)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/druid/releases/tag/v0.2.0-rc.1)

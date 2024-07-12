@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-12T01:49:22.164365423Z",
+  "release_date": "2024-07-12T01:56:32.389865544Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -101,6 +101,20 @@
             {
               "SHA": "abdfe6d4",
               "Subject": "Prepare for release v0.2.0-rc.1 (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f47fe1fb",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#120)"
             }
           ]
         }

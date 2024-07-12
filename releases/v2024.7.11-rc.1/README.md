@@ -44,6 +44,14 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/dashboard/releases/tag/v0.23.0-rc.1)
+
+- [f47fe1fb](https://github.com/kubedb/dashboard/commit/f47fe1fb) Prepare for release v0.23.0-rc.1 (#120)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.5.0-rc.1](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.5.0-rc.1)

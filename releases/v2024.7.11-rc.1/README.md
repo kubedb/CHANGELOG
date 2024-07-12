@@ -279,6 +279,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.34.0-rc.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.34.0-rc.1)
+
+- [0f12bc22](https://github.com/kubedb/pgbouncer/commit/0f12bc22) Prepare for release v0.34.0-rc.1 (#338)
+- [3f9a8665](https://github.com/kubedb/pgbouncer/commit/3f9a8665) Signed-off-by: Hiranmoy Das Chowdhury <hiranmoy@appscode.com> (#337)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.1)

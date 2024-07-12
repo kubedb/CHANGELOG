@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-12T01:56:32.389865544Z",
+  "release_date": "2024-07-12T02:00:08.877001217Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -536,6 +536,24 @@
             {
               "SHA": "1c067e4c",
               "Subject": "Prepare for release v0.31.0-rc.1 (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0f12bc22",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#338)"
+            },
+            {
+              "SHA": "3f9a8665",
+              "Subject": "Signed-off-by: Hiranmoy Das Chowdhury <hiranmoy@appscode.com> (#337)"
             }
           ]
         }

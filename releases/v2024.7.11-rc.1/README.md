@@ -1,4 +1,4 @@
-# KubeDB v2024.7.11-rc.1 (2024-07-11)
+# KubeDB v2024.7.11-rc.1 (2024-07-12)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -293,6 +293,14 @@
 ### [v0.8.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.8.0-rc.1)
 
 - [5a8c6ec9](https://github.com/kubedb/postgres-archiver/commit/5a8c6ec9) Prepare for release v0.8.0-rc.1 (#34)
+
+
+
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.8.0-rc.1)
+
+- [624c851](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/624c851) Prepare for release v0.8.0-rc.1 (#32)
 
 
 

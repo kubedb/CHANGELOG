@@ -112,6 +112,34 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2024.7.11-rc.1](https://github.com/kubedb/installer/releases/tag/v2024.7.11-rc.1)
+
+- [16022316](https://github.com/kubedb/installer/commit/16022316) Prepare for release v2024.7.11-rc.1 (#1165)
+- [954cdacc](https://github.com/kubedb/installer/commit/954cdacc) Update cve report 2024-07-11 (#1164)
+- [bd137cca](https://github.com/kubedb/installer/commit/bd137cca) Don't import ui-chart CRDs (#1163)
+- [9e14db28](https://github.com/kubedb/installer/commit/9e14db28) add ui section to postgresversions (#1156)
+- [a72e9a26](https://github.com/kubedb/installer/commit/a72e9a26) Update crds for kubedb/apimachinery@79ca732b (#1162)
+- [6798829a](https://github.com/kubedb/installer/commit/6798829a) add ops apiservice (#1149)
+- [c99972ee](https://github.com/kubedb/installer/commit/c99972ee) Update redis init image for shards replica count changes (#1153)
+- [951ebc5e](https://github.com/kubedb/installer/commit/951ebc5e) fix metrics configuration (#1154)
+- [97dd8e83](https://github.com/kubedb/installer/commit/97dd8e83) Update cve report 2024-07-10 (#1158)
+- [f744756b](https://github.com/kubedb/installer/commit/f744756b) Fix MariaDB Restic Image Version (#1159)
+- [7fca858f](https://github.com/kubedb/installer/commit/7fca858f) Update Memcached Exporter Image & Add Metrics Configuration (#1077)
+- [df73ad95](https://github.com/kubedb/installer/commit/df73ad95) Remove ui charts (#1157)
+- [41d5a8ac](https://github.com/kubedb/installer/commit/41d5a8ac) Disable Pgadmin CSRF Check (#1147)
+- [18699788](https://github.com/kubedb/installer/commit/18699788) Update crds for kubedb/apimachinery@9809d94e (#1155)
+- [739d3e17](https://github.com/kubedb/installer/commit/739d3e17) Check for kubedb-webhook-server.enabled before waiting (#1152)
+- [fc911e3a](https://github.com/kubedb/installer/commit/fc911e3a) Update cve report 2024-07-09 (#1151)
+- [ff44a502](https://github.com/kubedb/installer/commit/ff44a502) Update crds for kubedb/apimachinery@f8063159 (#1150)
+- [7f748314](https://github.com/kubedb/installer/commit/7f748314) Wait for the webhook-server svc to be ready (#1148)
+- [004f3d71](https://github.com/kubedb/installer/commit/004f3d71) Update cve report 2024-07-08 (#1146)
+- [7e91921a](https://github.com/kubedb/installer/commit/7e91921a) Fix ca.crt key for service monitors
+- [6d639777](https://github.com/kubedb/installer/commit/6d639777) Update cve report 2024-07-04 (#1145)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.18.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.18.0-rc.1)

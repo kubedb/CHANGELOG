@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-12T03:01:56.089546357Z",
+  "release_date": "2024-07-12T05:00:44.759748068Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -229,6 +229,100 @@
             {
               "SHA": "e8dfe581",
               "Subject": "make client funcs accessible (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.7.11-rc.1",
+          "commits": [
+            {
+              "SHA": "16022316",
+              "Subject": "Prepare for release v2024.7.11-rc.1 (#1165)"
+            },
+            {
+              "SHA": "954cdacc",
+              "Subject": "Update cve report 2024-07-11 (#1164)"
+            },
+            {
+              "SHA": "bd137cca",
+              "Subject": "Don't import ui-chart CRDs (#1163)"
+            },
+            {
+              "SHA": "9e14db28",
+              "Subject": "add ui section to postgresversions (#1156)"
+            },
+            {
+              "SHA": "a72e9a26",
+              "Subject": "Update crds for kubedb/apimachinery@79ca732b (#1162)"
+            },
+            {
+              "SHA": "6798829a",
+              "Subject": "add ops apiservice (#1149)"
+            },
+            {
+              "SHA": "c99972ee",
+              "Subject": "Update redis init image for shards replica count changes (#1153)"
+            },
+            {
+              "SHA": "951ebc5e",
+              "Subject": "fix metrics configuration (#1154)"
+            },
+            {
+              "SHA": "97dd8e83",
+              "Subject": "Update cve report 2024-07-10 (#1158)"
+            },
+            {
+              "SHA": "f744756b",
+              "Subject": "Fix MariaDB Restic Image Version (#1159)"
+            },
+            {
+              "SHA": "7fca858f",
+              "Subject": "Update Memcached Exporter Image & Add Metrics Configuration (#1077)"
+            },
+            {
+              "SHA": "df73ad95",
+              "Subject": "Remove ui charts (#1157)"
+            },
+            {
+              "SHA": "41d5a8ac",
+              "Subject": "Disable Pgadmin CSRF Check (#1147)"
+            },
+            {
+              "SHA": "18699788",
+              "Subject": "Update crds for kubedb/apimachinery@9809d94e (#1155)"
+            },
+            {
+              "SHA": "739d3e17",
+              "Subject": "Check for kubedb-webhook-server.enabled before waiting (#1152)"
+            },
+            {
+              "SHA": "fc911e3a",
+              "Subject": "Update cve report 2024-07-09 (#1151)"
+            },
+            {
+              "SHA": "ff44a502",
+              "Subject": "Update crds for kubedb/apimachinery@f8063159 (#1150)"
+            },
+            {
+              "SHA": "7f748314",
+              "Subject": "Wait for the webhook-server svc to be ready (#1148)"
+            },
+            {
+              "SHA": "004f3d71",
+              "Subject": "Update cve report 2024-07-08 (#1146)"
+            },
+            {
+              "SHA": "7e91921a",
+              "Subject": "Fix ca.crt key for service monitors"
+            },
+            {
+              "SHA": "6d639777",
+              "Subject": "Update cve report 2024-07-04 (#1145)"
             }
           ]
         }

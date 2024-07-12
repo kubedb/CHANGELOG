@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-12T00:16:18.155374044Z",
+  "release_date": "2024-07-12T01:49:22.164365423Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -637,6 +637,24 @@
             {
               "SHA": "8b6b97bb",
               "Subject": "Prepare for release v0.2.0-rc.1 (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9cb53e470",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#546)"
+            },
+            {
+              "SHA": "8af74f1a0",
+              "Subject": "Update master -> shards and replica count for cluster (#545)"
             }
           ]
         }

@@ -341,6 +341,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.40.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.40.0-rc.1)
+
+- [9cb53e47](https://github.com/kubedb/redis/commit/9cb53e470) Prepare for release v0.40.0-rc.1 (#546)
+- [8af74f1a](https://github.com/kubedb/redis/commit/8af74f1a0) Update master -> shards and replica count for cluster (#545)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.26.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.26.0-rc.1)

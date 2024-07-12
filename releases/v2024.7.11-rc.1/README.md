@@ -494,6 +494,15 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/webhook-server/releases/tag/v0.23.0-rc.1)
+
+- [0ddff1f5](https://github.com/kubedb/webhook-server/commit/0ddff1f5) Prepare for release v0.23.0-rc.1 (#115)
+- [acd7e03f](https://github.com/kubedb/webhook-server/commit/acd7e03f) Fix ops webhook (#114)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.1)

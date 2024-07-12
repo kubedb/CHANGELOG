@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.7.11-rc.1",
-  "release_date": "2024-07-12T02:27:37.179617756Z",
+  "release_date": "2024-07-12T02:40:43.942557268Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.7.11-rc.1",
   "kubernetes_version": "1.20+",
@@ -492,6 +492,32 @@
         {
           "tag": "v0.25.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.1",
+          "commits": [
+            {
+              "SHA": "81eee9696",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#603)"
+            },
+            {
+              "SHA": "d20609cbc",
+              "Subject": "Add support for api V1 (#541)"
+            },
+            {
+              "SHA": "a0612b607",
+              "Subject": "Update Condition in MemcachedRetries (#591)"
+            },
+            {
+              "SHA": "86af04a9f",
+              "Subject": "Add Pgpool ops-request (Horizontal Scaling, Update Version, Reconfigure TLS) (#590)"
+            }
+          ]
         }
       ]
     },

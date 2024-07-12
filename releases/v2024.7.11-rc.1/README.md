@@ -254,6 +254,17 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.34.0-rc.1](https://github.com/kubedb/ops-manager/releases/tag/v0.34.0-rc.1)
+
+- [81eee969](https://github.com/kubedb/ops-manager/commit/81eee9696) Prepare for release v0.34.0-rc.1 (#603)
+- [d20609cb](https://github.com/kubedb/ops-manager/commit/d20609cbc) Add support for api V1 (#541)
+- [a0612b60](https://github.com/kubedb/ops-manager/commit/a0612b607) Update Condition in MemcachedRetries (#591)
+- [86af04a9](https://github.com/kubedb/ops-manager/commit/86af04a9f) Add Pgpool ops-request (Horizontal Scaling, Update Version, Reconfigure TLS) (#590)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.34.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.34.0-rc.1)

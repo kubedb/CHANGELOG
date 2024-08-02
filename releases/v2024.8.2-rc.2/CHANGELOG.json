@@ -1,0 +1,92 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.8.2-rc.2",
+  "release_date": "2024-08-02T20:20:51.299697236Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.2",
+          "commits": [
+            {
+              "SHA": "0f09eedec",
+              "Subject": "Add DefaultUserCredSecretName utility for mssql"
+            },
+            {
+              "SHA": "527c59365",
+              "Subject": "Add MSSQLServer Archiver Backup and Restore API (#1265)"
+            },
+            {
+              "SHA": "6779210b4",
+              "Subject": "Fix build error (#1274)"
+            },
+            {
+              "SHA": "1d9ee37f6",
+              "Subject": "Add Solr ops for vertical scaling and volume expansion (#1261)"
+            },
+            {
+              "SHA": "45c637cc8",
+              "Subject": "Add helpers to get the archiver with maximum priority (#1266)"
+            },
+            {
+              "SHA": "9cb2a3076",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "739f7f6f1",
+              "Subject": "Add MSSQL Server Monitoring APIs (#1271)"
+            },
+            {
+              "SHA": "3f96b9077",
+              "Subject": "Add ExtractDatabaseInfo Func for ClickHouse (#1270)"
+            },
+            {
+              "SHA": "6d44bfc1c",
+              "Subject": "Upsert config-merger initContainer via ES defaults (#1259)"
+            },
+            {
+              "SHA": "67d239489",
+              "Subject": "Add FerretDBOpsManager (#1267)"
+            },
+            {
+              "SHA": "08af58b87",
+              "Subject": "pgbouncerAutoScalerSpec Update and Scheme Register (#1268)"
+            },
+            {
+              "SHA": "c57d4c2bc",
+              "Subject": "Keep the druid dependency references if given (#1272)"
+            },
+            {
+              "SHA": "88b60875b",
+              "Subject": "Add Kafka RestProxy APIs (#1262)"
+            },
+            {
+              "SHA": "4af05fd8b",
+              "Subject": "Add types for all autoscaler CRDs (#1264)"
+            },
+            {
+              "SHA": "bf2f0aeb4",
+              "Subject": "Update Memcached Scaling APIs (#1260)"
+            },
+            {
+              "SHA": "7b594eb14",
+              "Subject": "Use DeletionPolicy in etcd (#1258)"
+            },
+            {
+              "SHA": "844750289",
+              "Subject": "Skip RedisClusterSpec conversion for sentinel and standalone mode (#1257)"
+            },
+            {
+              "SHA": "c028472b9",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

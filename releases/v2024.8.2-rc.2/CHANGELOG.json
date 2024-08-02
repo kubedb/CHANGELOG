@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-02T20:20:51.299697236Z",
+  "release_date": "2024-08-02T20:28:22.67458078Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -83,6 +83,40 @@
             {
               "SHA": "c028472b9",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "99d096fb",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#126)"
+            },
+            {
+              "SHA": "49bebb7e",
+              "Subject": "Add Kafka RestProxy (#123)"
+            },
+            {
+              "SHA": "495ccff1",
+              "Subject": "Add solr client. (#106)"
+            },
+            {
+              "SHA": "01231603",
+              "Subject": "Add method to set database for redis client (#125)"
+            },
+            {
+              "SHA": "877df856",
+              "Subject": "Add ZooKeeper Client (#124)"
+            },
+            {
+              "SHA": "48d0e46f",
+              "Subject": "Add druid client (#122)"
             }
           ]
         }

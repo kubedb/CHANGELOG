@@ -331,6 +331,15 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.2)
+
+- [1051b1db](https://github.com/kubedb/zookeeper/commit/1051b1db) Prepare for release v0.2.0-rc.2 (#34)
+- [2f695af7](https://github.com/kubedb/zookeeper/commit/2f695af7) Add ZooKeeper Client (#33)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.3.0-rc.2](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.3.0-rc.2)

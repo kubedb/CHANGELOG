@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:31:31.1446276Z",
+  "release_date": "2024-08-03T06:31:38.357314518Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -673,6 +673,24 @@
             {
               "SHA": "43aa9e97",
               "Subject": "Fix ES test for V1 changes (#335)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "1051b1db",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#34)"
+            },
+            {
+              "SHA": "2f695af7",
+              "Subject": "Add ZooKeeper Client (#33)"
             }
           ]
         }

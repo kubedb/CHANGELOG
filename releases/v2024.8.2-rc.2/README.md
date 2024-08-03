@@ -26,6 +26,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.47.0-rc.2](https://github.com/kubedb/cli/releases/tag/v0.47.0-rc.2)
+
+- [26dca461](https://github.com/kubedb/cli/commit/26dca461) Prepare for release v0.47.0-rc.2 (#773)
+- [a82c4b22](https://github.com/kubedb/cli/commit/a82c4b22) Make changes to run cli from the appscode/grafana-dashboards CI (#766)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/clickhouse/releases/tag/v0.2.0-rc.2)

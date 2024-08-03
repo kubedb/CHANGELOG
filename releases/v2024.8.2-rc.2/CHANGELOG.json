@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:31:10.029223012Z",
+  "release_date": "2024-08-03T06:31:19.063445977Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -83,6 +83,24 @@
             {
               "SHA": "c028472b9",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.2",
+          "commits": [
+            {
+              "SHA": "26dca461",
+              "Subject": "Prepare for release v0.47.0-rc.2 (#773)"
+            },
+            {
+              "SHA": "a82c4b22",
+              "Subject": "Make changes to run cli from the appscode/grafana-dashboards CI (#766)"
             }
           ]
         }

@@ -49,3 +49,11 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.8.0-rc.2](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.8.0-rc.2)
+
+- [5fd0cf8](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/5fd0cf8) Prepare for release v0.8.0-rc.2 (#31)
+
+
+

@@ -44,6 +44,18 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/crd-manager/releases/tag/v0.2.0-rc.2)
+
+- [6a17ac75](https://github.com/kubedb/crd-manager/commit/6a17ac75) Prepare for release v0.2.0-rc.2 (#40)
+- [2772153d](https://github.com/kubedb/crd-manager/commit/2772153d) Scale Down Provisioner if Older (#38)
+- [f5470e5b](https://github.com/kubedb/crd-manager/commit/f5470e5b) Add Kafka RestProxy CRD (#37)
+- [da1fedc4](https://github.com/kubedb/crd-manager/commit/da1fedc4) Add ferretdb ops-manager CRD (#39)
+- [d7f0c41b](https://github.com/kubedb/crd-manager/commit/d7f0c41b) Install autoscaler CRDs (#36)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.5.0-rc.2](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.5.0-rc.2)

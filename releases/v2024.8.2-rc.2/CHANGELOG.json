@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:32:06.901491294Z",
+  "release_date": "2024-08-03T06:32:14.126435105Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -119,6 +119,36 @@
             {
               "SHA": "06fb2f51",
               "Subject": "Fix Finalizer Removal and Remove PetSet Ready Condition Check (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "6a17ac75",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#40)"
+            },
+            {
+              "SHA": "2772153d",
+              "Subject": "Scale Down Provisioner if Older (#38)"
+            },
+            {
+              "SHA": "f5470e5b",
+              "Subject": "Add Kafka RestProxy CRD (#37)"
+            },
+            {
+              "SHA": "da1fedc4",
+              "Subject": "Add ferretdb ops-manager CRD (#39)"
+            },
+            {
+              "SHA": "d7f0c41b",
+              "Subject": "Install autoscaler CRDs (#36)"
             }
           ]
         }

@@ -1,0 +1,1162 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.8.2-rc.2",
+  "release_date": "2024-08-03T13:15:32.044753515Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.2",
+          "commits": [
+            {
+              "SHA": "0f09eedec",
+              "Subject": "Add DefaultUserCredSecretName utility for mssql"
+            },
+            {
+              "SHA": "527c59365",
+              "Subject": "Add MSSQLServer Archiver Backup and Restore API (#1265)"
+            },
+            {
+              "SHA": "6779210b4",
+              "Subject": "Fix build error (#1274)"
+            },
+            {
+              "SHA": "1d9ee37f6",
+              "Subject": "Add Solr ops for vertical scaling and volume expansion (#1261)"
+            },
+            {
+              "SHA": "45c637cc8",
+              "Subject": "Add helpers to get the archiver with maximum priority (#1266)"
+            },
+            {
+              "SHA": "9cb2a3076",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "739f7f6f1",
+              "Subject": "Add MSSQL Server Monitoring APIs (#1271)"
+            },
+            {
+              "SHA": "3f96b9077",
+              "Subject": "Add ExtractDatabaseInfo Func for ClickHouse (#1270)"
+            },
+            {
+              "SHA": "6d44bfc1c",
+              "Subject": "Upsert config-merger initContainer via ES defaults (#1259)"
+            },
+            {
+              "SHA": "67d239489",
+              "Subject": "Add FerretDBOpsManager (#1267)"
+            },
+            {
+              "SHA": "08af58b87",
+              "Subject": "pgbouncerAutoScalerSpec Update and Scheme Register (#1268)"
+            },
+            {
+              "SHA": "c57d4c2bc",
+              "Subject": "Keep the druid dependency references if given (#1272)"
+            },
+            {
+              "SHA": "88b60875b",
+              "Subject": "Add Kafka RestProxy APIs (#1262)"
+            },
+            {
+              "SHA": "4af05fd8b",
+              "Subject": "Add types for all autoscaler CRDs (#1264)"
+            },
+            {
+              "SHA": "bf2f0aeb4",
+              "Subject": "Update Memcached Scaling APIs (#1260)"
+            },
+            {
+              "SHA": "7b594eb14",
+              "Subject": "Use DeletionPolicy in etcd (#1258)"
+            },
+            {
+              "SHA": "844750289",
+              "Subject": "Skip RedisClusterSpec conversion for sentinel and standalone mode (#1257)"
+            },
+            {
+              "SHA": "c028472b9",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.32.0-rc.2",
+          "commits": [
+            {
+              "SHA": "a03964ec",
+              "Subject": "Prepare for release v0.32.0-rc.2 (#215)"
+            },
+            {
+              "SHA": "fc76bfff",
+              "Subject": "Set db as the OwnerRef in autoscaler CR (#213)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.2",
+          "commits": [
+            {
+              "SHA": "26dca461",
+              "Subject": "Prepare for release v0.47.0-rc.2 (#773)"
+            },
+            {
+              "SHA": "a82c4b22",
+              "Subject": "Make changes to run cli from the appscode/grafana-dashboards CI (#766)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "352d87ca",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#9)"
+            },
+            {
+              "SHA": "06fb2f51",
+              "Subject": "Fix Finalizer Removal and Remove PetSet Ready Condition Check (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "6a17ac75",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#40)"
+            },
+            {
+              "SHA": "2772153d",
+              "Subject": "Scale Down Provisioner if Older (#38)"
+            },
+            {
+              "SHA": "f5470e5b",
+              "Subject": "Add Kafka RestProxy CRD (#37)"
+            },
+            {
+              "SHA": "da1fedc4",
+              "Subject": "Add ferretdb ops-manager CRD (#39)"
+            },
+            {
+              "SHA": "d7f0c41b",
+              "Subject": "Install autoscaler CRDs (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.2",
+          "commits": [
+            {
+              "SHA": "b23df248",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#121)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.2",
+          "commits": [
+            {
+              "SHA": "6188e57",
+              "Subject": "Prepare for release v0.5.0-rc.2 (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "99d096fb",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#126)"
+            },
+            {
+              "SHA": "49bebb7e",
+              "Subject": "Add Kafka RestProxy (#123)"
+            },
+            {
+              "SHA": "495ccff1",
+              "Subject": "Add solr client. (#106)"
+            },
+            {
+              "SHA": "01231603",
+              "Subject": "Add method to set database for redis client (#125)"
+            },
+            {
+              "SHA": "877df856",
+              "Subject": "Add ZooKeeper Client (#124)"
+            },
+            {
+              "SHA": "48d0e46f",
+              "Subject": "Add druid client (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.8.2-rc.2",
+          "commits": [
+            {
+              "SHA": "38afc7c6",
+              "Subject": "Update druid docs for july release (#651)"
+            },
+            {
+              "SHA": "5afd8971",
+              "Subject": "Update release-tracker.yml"
+            },
+            {
+              "SHA": "ebf59e4e",
+              "Subject": "Prepare for release v2024.8.2-rc.2 (#657)"
+            },
+            {
+              "SHA": "2e0f3d00",
+              "Subject": "Clone website repo with submodules"
+            },
+            {
+              "SHA": "f7e8dfdb",
+              "Subject": "Add v1apiVersion yaml in quickstart guide for old dbs (#652)"
+            },
+            {
+              "SHA": "59888c4b",
+              "Subject": "Update docs for kubedb/cli@a82c4b22 (#654)"
+            },
+            {
+              "SHA": "4fdb8c41",
+              "Subject": "Fix schema changes and update for api v1 changes  (#648)"
+            },
+            {
+              "SHA": "0d0448d2",
+              "Subject": "Create petset crds during upgrade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "af49e11",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#37)"
+            },
+            {
+              "SHA": "c0f7a40",
+              "Subject": "Fix druid healthcheck (#36)"
+            },
+            {
+              "SHA": "d0bf458",
+              "Subject": "Update makefile and add druid db-client-go (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.2",
+          "commits": [
+            {
+              "SHA": "fd8abfca3",
+              "Subject": "Prepare for release v0.47.0-rc.2 (#728)"
+            },
+            {
+              "SHA": "be009364b",
+              "Subject": "Fix PodTemplate assignment to config-merger initContainer (#727)"
+            },
+            {
+              "SHA": "28668a0c3",
+              "Subject": "Revert \"Fix podTemplate assignment for init container\""
+            },
+            {
+              "SHA": "9b7e0aa0c",
+              "Subject": "Fix podTemplate assignment for init container"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2fabca1",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "0a38354a",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#36)"
+            },
+            {
+              "SHA": "0d005f64",
+              "Subject": "Make some changes for ops manager (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.8.2-rc.2",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.2",
+          "commits": [
+            {
+              "SHA": "98b8a404",
+              "Subject": "Prepare for release v0.18.0-rc.2 (#100)"
+            },
+            {
+              "SHA": "ced0da95",
+              "Subject": "Add Kafka RestProxy (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "8b1207d",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.2",
+          "commits": [
+            {
+              "SHA": "86038a201",
+              "Subject": "Prepare for release v0.31.0-rc.2 (#276)"
+            },
+            {
+              "SHA": "d66565b29",
+              "Subject": "Fix Archiver BackupConfig Not Ready Issue (#275)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.2",
+          "commits": [
+            {
+              "SHA": "138bcf7c",
+              "Subject": "Prepare for release v0.7.0-rc.2 (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.2",
+          "commits": [
+            {
+              "SHA": "92a607fa",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.2",
+          "commits": [
+            {
+              "SHA": "6df0b0f",
+              "Subject": "Prepare for release v0.7.0-rc.2 (#26)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.2",
+          "commits": [
+            {
+              "SHA": "73a3ff8",
+              "Subject": "Prepare for release v0.5.0-rc.2 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.2",
+          "commits": [
+            {
+              "SHA": "f2ab956b4",
+              "Subject": "Prepare for release v0.40.0-rc.2 (#457)"
+            },
+            {
+              "SHA": "8a4aaac1d",
+              "Subject": "Add Reconciler (#456)"
+            },
+            {
+              "SHA": "7ee577616",
+              "Subject": "Add Rule and Petset Watcher (#455)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2f717399e",
+              "Subject": "Prepare for release v0.40.0-rc.2 (#643)"
+            },
+            {
+              "SHA": "a387e83d1",
+              "Subject": "Modify the archiver selection process (#636)"
+            },
+            {
+              "SHA": "6d8e3468d",
+              "Subject": "Copy secrets to DB namespace; Refactor (#642)"
+            },
+            {
+              "SHA": "88843d22f",
+              "Subject": "Copy Toleration & placementPolicy field to petset (#641)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.2",
+          "commits": [
+            {
+              "SHA": "5fd0cf8",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "9edee3a",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#53)"
+            },
+            {
+              "SHA": "2039750",
+              "Subject": "fix tls enable mongodb ping issue (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "b6e43327",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "76b74614",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "47446bb1",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.2",
+          "commits": [
+            {
+              "SHA": "b2cc7f236",
+              "Subject": "Prepare for release v0.40.0-rc.2 (#632)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.2",
+          "commits": [
+            {
+              "SHA": "a54178b9",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.2",
+          "commits": [
+            {
+              "SHA": "cbae32d4",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.2",
+          "commits": [
+            {
+              "SHA": "1b66901",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "4c64334",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.2",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2cfccf3ec",
+              "Subject": "Prepare for release v0.34.0-rc.2 (#614)"
+            },
+            {
+              "SHA": "597c24a1f",
+              "Subject": "Add solr ops request (#611)"
+            },
+            {
+              "SHA": "9626eaffd",
+              "Subject": "Fix Ops Requests for Redis and Sentinel  (#604)"
+            },
+            {
+              "SHA": "59f17bfe6",
+              "Subject": "Fix ES for PetSet changes (#613)"
+            },
+            {
+              "SHA": "74bb1b19a",
+              "Subject": "Add FerretDB OpsManager (#612)"
+            },
+            {
+              "SHA": "d366a4978",
+              "Subject": "Fix and reorg MongoDB AddTLS and RemoveTLS (#607)"
+            },
+            {
+              "SHA": "0665166a1",
+              "Subject": "Memcached Ops Request (Horizontal Scaling & Version Update) (#609)"
+            },
+            {
+              "SHA": "593dc5227",
+              "Subject": "horizontal and vertical scaling for pgbouncer (#594)"
+            },
+            {
+              "SHA": "fb62665ce",
+              "Subject": "Fix memcached Ops Request (#606)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.2",
+          "commits": [
+            {
+              "SHA": "4db202b76",
+              "Subject": "Prepare for release v0.34.0-rc.2 (#374)"
+            },
+            {
+              "SHA": "4fa06cedc",
+              "Subject": "Fix Init Container Volume Mount Issue (#373)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.2",
+          "commits": [
+            {
+              "SHA": "b43e1a42",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.2",
+          "commits": [
+            {
+              "SHA": "8c6d9de3",
+              "Subject": "Prepare for release v0.31.0-rc.2 (#169)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.2",
+          "commits": [
+            {
+              "SHA": "ff8c5491",
+              "Subject": "Prepare for release v0.34.0-rc.2 (#339)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "7df31597",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.2",
+          "commits": [
+            {
+              "SHA": "25b10bb6e",
+              "Subject": "Prepare for release v0.47.0-rc.2 (#743)"
+            },
+            {
+              "SHA": "2a6b188e7",
+              "Subject": "trgger backup once after appbinding is created from provisioner (#741)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.2",
+          "commits": [
+            {
+              "SHA": "0949ab0c",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.2",
+          "commits": [
+            {
+              "SHA": "744dd4a",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "e27dc68",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#41)"
+            },
+            {
+              "SHA": "67a5b04",
+              "Subject": "Add postgres multiple db version support for kubestash (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.2",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.2",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.2",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.2",
+          "commits": [
+            {
+              "SHA": "f792d7a5a",
+              "Subject": "Prepare for release v0.47.0-rc.2 (#107)"
+            },
+            {
+              "SHA": "fb0271174",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "53179301d",
+              "Subject": "Update deps (#106)"
+            },
+            {
+              "SHA": "8b7a2a6d7",
+              "Subject": "Add Kafka RestProxy (#103)"
+            },
+            {
+              "SHA": "5ff0a5c83",
+              "Subject": "Add Separate controller for Redis sentinel (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.2",
+          "commits": [
+            {
+              "SHA": "c7df11cb2",
+              "Subject": "Prepare for release v0.34.0-rc.2 (#351)"
+            },
+            {
+              "SHA": "c56d021e7",
+              "Subject": "Elevate privilege for monitor user (#350)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "6e8ac555",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.2",
+          "commits": [
+            {
+              "SHA": "7e9c8648c",
+              "Subject": "Prepare for release v0.40.0-rc.2 (#549)"
+            },
+            {
+              "SHA": "38b4b3807",
+              "Subject": "Update deps (#547)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.26.0-rc.2",
+          "commits": [
+            {
+              "SHA": "3a92ab81",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#108)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "15072a8",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.2",
+          "commits": [
+            {
+              "SHA": "77ca2092",
+              "Subject": "Prepare for release v0.34.0-rc.2 (#274)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.2",
+          "commits": [
+            {
+              "SHA": "10ca5613",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#117)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "09de410f",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "33a157b",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.2",
+          "commits": [
+            {
+              "SHA": "1a8b875",
+              "Subject": "Prepare for release v0.5.0-rc.2 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "a7534064",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#39)"
+            },
+            {
+              "SHA": "1dd26676",
+              "Subject": "Changes related to ops manager (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.32.0-rc.2",
+          "commits": [
+            {
+              "SHA": "b279ee9f",
+              "Subject": "Prepare for release v0.32.0-rc.2 (#343)"
+            },
+            {
+              "SHA": "92599f33",
+              "Subject": "Add Druid Tests (#306)"
+            },
+            {
+              "SHA": "d4762475",
+              "Subject": "Fix ES env variable tests for V1 api changes (#336)"
+            },
+            {
+              "SHA": "1d5a9926",
+              "Subject": "Add Resource for PerconaXtraDB, MariaDB when creating object (#334)"
+            },
+            {
+              "SHA": "43aa9e97",
+              "Subject": "Fix ES test for V1 changes (#335)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.2",
+          "commits": [
+            {
+              "SHA": "893dc3ac",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#125)"
+            },
+            {
+              "SHA": "8fa3f1cb",
+              "Subject": "resource matrics dep updation (#124)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.2",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "1051b1db",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#34)"
+            },
+            {
+              "SHA": "2f695af7",
+              "Subject": "Add ZooKeeper Client (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.2",
+          "commits": [
+            {
+              "SHA": "0f2644b",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#11)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -66,6 +66,17 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.40.0-rc.2](https://github.com/kubedb/mongodb/releases/tag/v0.40.0-rc.2)
+
+- [2f717399](https://github.com/kubedb/mongodb/commit/2f717399e) Prepare for release v0.40.0-rc.2 (#643)
+- [a387e83d](https://github.com/kubedb/mongodb/commit/a387e83d1) Modify the archiver selection process (#636)
+- [6d8e3468](https://github.com/kubedb/mongodb/commit/6d8e3468d) Copy secrets to DB namespace; Refactor (#642)
+- [88843d22](https://github.com/kubedb/mongodb/commit/88843d22f) Copy Toleration & placementPolicy field to petset (#641)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.8.0-rc.2](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.8.0-rc.2)

@@ -284,6 +284,14 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.2)
+
+- [7df31597](https://github.com/kubedb/pgpool/commit/7df31597) Prepare for release v0.2.0-rc.2 (#39)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.47.0-rc.2](https://github.com/kubedb/postgres/releases/tag/v0.47.0-rc.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T12:34:46.822878544Z",
+  "release_date": "2024-08-03T13:15:32.044753515Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -229,6 +229,48 @@
             {
               "SHA": "48d0e46f",
               "Subject": "Add druid client (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.8.2-rc.2",
+          "commits": [
+            {
+              "SHA": "38afc7c6",
+              "Subject": "Update druid docs for july release (#651)"
+            },
+            {
+              "SHA": "5afd8971",
+              "Subject": "Update release-tracker.yml"
+            },
+            {
+              "SHA": "ebf59e4e",
+              "Subject": "Prepare for release v2024.8.2-rc.2 (#657)"
+            },
+            {
+              "SHA": "2e0f3d00",
+              "Subject": "Clone website repo with submodules"
+            },
+            {
+              "SHA": "f7e8dfdb",
+              "Subject": "Add v1apiVersion yaml in quickstart guide for old dbs (#652)"
+            },
+            {
+              "SHA": "59888c4b",
+              "Subject": "Update docs for kubedb/cli@a82c4b22 (#654)"
+            },
+            {
+              "SHA": "4fdb8c41",
+              "Subject": "Fix schema changes and update for api v1 changes  (#648)"
+            },
+            {
+              "SHA": "0d0448d2",
+              "Subject": "Create petset crds during upgrade"
             }
           ]
         }

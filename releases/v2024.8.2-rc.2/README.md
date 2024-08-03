@@ -94,6 +94,21 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.8.2-rc.2](https://github.com/kubedb/docs/releases/tag/v2024.8.2-rc.2)
+
+- [38afc7c6](https://github.com/kubedb/docs/commit/38afc7c6) Update druid docs for july release (#651)
+- [5afd8971](https://github.com/kubedb/docs/commit/5afd8971) Update release-tracker.yml
+- [ebf59e4e](https://github.com/kubedb/docs/commit/ebf59e4e) Prepare for release v2024.8.2-rc.2 (#657)
+- [2e0f3d00](https://github.com/kubedb/docs/commit/2e0f3d00) Clone website repo with submodules
+- [f7e8dfdb](https://github.com/kubedb/docs/commit/f7e8dfdb) Add v1apiVersion yaml in quickstart guide for old dbs (#652)
+- [59888c4b](https://github.com/kubedb/docs/commit/59888c4b) Update docs for kubedb/cli@a82c4b22 (#654)
+- [4fdb8c41](https://github.com/kubedb/docs/commit/4fdb8c41) Fix schema changes and update for api v1 changes  (#648)
+- [0d0448d2](https://github.com/kubedb/docs/commit/0d0448d2) Create petset crds during upgrade
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/druid/releases/tag/v0.2.0-rc.2)

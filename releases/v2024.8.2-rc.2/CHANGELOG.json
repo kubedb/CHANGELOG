@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:31:38.357314518Z",
+  "release_date": "2024-08-03T06:31:46.618552472Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -293,6 +293,20 @@
             {
               "SHA": "138bcf7c",
               "Subject": "Prepare for release v0.7.0-rc.2 (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.2",
+          "commits": [
+            {
+              "SHA": "92a607fa",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#122)"
             }
           ]
         }

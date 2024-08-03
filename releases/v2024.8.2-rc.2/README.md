@@ -106,6 +106,15 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/ferretdb/releases/tag/v0.2.0-rc.2)
+
+- [0a38354a](https://github.com/kubedb/ferretdb/commit/0a38354a) Prepare for release v0.2.0-rc.2 (#36)
+- [0d005f64](https://github.com/kubedb/ferretdb/commit/0d005f64) Make some changes for ops manager (#35)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.18.0-rc.2](https://github.com/kubedb/kafka/releases/tag/v0.18.0-rc.2)

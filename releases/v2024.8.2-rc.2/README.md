@@ -1,4 +1,4 @@
-# KubeDB v2024.8.2-rc.2 (2024-08-02)
+# KubeDB v2024.8.2-rc.2 (2024-08-03)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -36,6 +36,16 @@
 - [01231603](https://github.com/kubedb/db-client-go/commit/01231603) Add method to set database for redis client (#125)
 - [877df856](https://github.com/kubedb/db-client-go/commit/877df856) Add ZooKeeper Client (#124)
 - [48d0e46f](https://github.com/kubedb/db-client-go/commit/48d0e46f) Add druid client (#122)
+
+
+
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/druid/releases/tag/v0.2.0-rc.2)
+
+- [af49e11](https://github.com/kubedb/druid/commit/af49e11) Prepare for release v0.2.0-rc.2 (#37)
+- [c0f7a40](https://github.com/kubedb/druid/commit/c0f7a40) Fix druid healthcheck (#36)
+- [d0bf458](https://github.com/kubedb/druid/commit/d0bf458) Update makefile and add druid db-client-go (#35)
 
 
 

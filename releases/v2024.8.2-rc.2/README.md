@@ -173,6 +173,16 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.40.0-rc.2](https://github.com/kubedb/memcached/releases/tag/v0.40.0-rc.2)
+
+- [f2ab956b](https://github.com/kubedb/memcached/commit/f2ab956b4) Prepare for release v0.40.0-rc.2 (#457)
+- [8a4aaac1](https://github.com/kubedb/memcached/commit/8a4aaac1d) Add Reconciler (#456)
+- [7ee57761](https://github.com/kubedb/memcached/commit/7ee577616) Add Rule and Petset Watcher (#455)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.40.0-rc.2](https://github.com/kubedb/mongodb/releases/tag/v0.40.0-rc.2)

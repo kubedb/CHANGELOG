@@ -379,6 +379,18 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.47.0-rc.2](https://github.com/kubedb/provisioner/releases/tag/v0.47.0-rc.2)
+
+- [f792d7a5](https://github.com/kubedb/provisioner/commit/f792d7a5a) Prepare for release v0.47.0-rc.2 (#107)
+- [fb027117](https://github.com/kubedb/provisioner/commit/fb0271174) Update deps
+- [53179301](https://github.com/kubedb/provisioner/commit/53179301d) Update deps (#106)
+- [8b7a2a6d](https://github.com/kubedb/provisioner/commit/8b7a2a6d7) Add Kafka RestProxy (#103)
+- [5ff0a5c8](https://github.com/kubedb/provisioner/commit/5ff0a5c83) Add Separate controller for Redis sentinel (#105)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.34.0-rc.2](https://github.com/kubedb/proxysql/releases/tag/v0.34.0-rc.2)

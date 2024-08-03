@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T07:33:55.720083162Z",
+  "release_date": "2024-08-03T09:27:19.929338007Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -755,6 +755,36 @@
         {
           "tag": "v0.9.0-rc.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.2",
+          "commits": [
+            {
+              "SHA": "f792d7a5a",
+              "Subject": "Prepare for release v0.47.0-rc.2 (#107)"
+            },
+            {
+              "SHA": "fb0271174",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "53179301d",
+              "Subject": "Update deps (#106)"
+            },
+            {
+              "SHA": "8b7a2a6d7",
+              "Subject": "Add Kafka RestProxy (#103)"
+            },
+            {
+              "SHA": "5ff0a5c83",
+              "Subject": "Add Separate controller for Redis sentinel (#105)"
+            }
+          ]
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:26:53.349179478Z",
+  "release_date": "2024-08-03T06:27:02.603407915Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -171,6 +171,20 @@
             {
               "SHA": "2a6b188e7",
               "Subject": "trgger backup once after appbinding is created from provisioner (#741)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "6e8ac555",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#37)"
             }
           ]
         }

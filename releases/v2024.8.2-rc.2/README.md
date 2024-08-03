@@ -66,3 +66,11 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/rabbitmq/releases/tag/v0.2.0-rc.2)
+
+- [6e8ac555](https://github.com/kubedb/rabbitmq/commit/6e8ac555) Prepare for release v0.2.0-rc.2 (#37)
+
+
+

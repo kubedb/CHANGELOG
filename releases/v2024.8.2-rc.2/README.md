@@ -74,6 +74,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.34.0-rc.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.34.0-rc.2)
+
+- [4db202b7](https://github.com/kubedb/percona-xtradb/commit/4db202b76) Prepare for release v0.34.0-rc.2 (#374)
+- [4fa06ced](https://github.com/kubedb/percona-xtradb/commit/4fa06cedc) Fix Init Container Volume Mount Issue (#373)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.47.0-rc.2](https://github.com/kubedb/postgres/releases/tag/v0.47.0-rc.2)

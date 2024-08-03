@@ -308,6 +308,14 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.34.0-rc.2](https://github.com/kubedb/pgbouncer/releases/tag/v0.34.0-rc.2)
+
+- [ff8c5491](https://github.com/kubedb/pgbouncer/commit/ff8c5491) Prepare for release v0.34.0-rc.2 (#339)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.2)

@@ -270,6 +270,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.10.0-rc.2](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.10.0-rc.2)
+
+- [e27dc68](https://github.com/kubedb/postgres-restic-plugin/commit/e27dc68) Prepare for release v0.10.0-rc.2 (#41)
+- [67a5b04](https://github.com/kubedb/postgres-restic-plugin/commit/67a5b04) Add postgres multiple db version support for kubestash (#40)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/rabbitmq/releases/tag/v0.2.0-rc.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:32:14.126435105Z",
+  "release_date": "2024-08-03T06:32:20.629375174Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -733,6 +733,24 @@
             {
               "SHA": "1a8b875",
               "Subject": "Prepare for release v0.5.0-rc.2 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "a7534064",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#39)"
+            },
+            {
+              "SHA": "1dd26676",
+              "Subject": "Changes related to ops manager (#38)"
             }
           ]
         }

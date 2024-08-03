@@ -364,6 +364,15 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/solr/releases/tag/v0.2.0-rc.2)
+
+- [a7534064](https://github.com/kubedb/solr/commit/a7534064) Prepare for release v0.2.0-rc.2 (#39)
+- [1dd26676](https://github.com/kubedb/solr/commit/1dd26676) Changes related to ops manager (#38)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.32.0-rc.2](https://github.com/kubedb/tests/releases/tag/v0.32.0-rc.2)

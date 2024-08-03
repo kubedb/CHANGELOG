@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T07:26:29.206436661Z",
+  "release_date": "2024-08-03T07:30:04.799109982Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -741,6 +741,24 @@
         {
           "tag": "v0.9.0-rc.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.2",
+          "commits": [
+            {
+              "SHA": "c7df11cb2",
+              "Subject": "Prepare for release v0.34.0-rc.2 (#351)"
+            },
+            {
+              "SHA": "c56d021e7",
+              "Subject": "Elevate privilege for monitor user (#350)"
+            }
+          ]
         }
       ]
     },

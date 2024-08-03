@@ -371,6 +371,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.34.0-rc.2](https://github.com/kubedb/proxysql/releases/tag/v0.34.0-rc.2)
+
+- [c7df11cb](https://github.com/kubedb/proxysql/commit/c7df11cb2) Prepare for release v0.34.0-rc.2 (#351)
+- [c56d021e](https://github.com/kubedb/proxysql/commit/c56d021e7) Elevate privilege for monitor user (#350)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/rabbitmq/releases/tag/v0.2.0-rc.2)

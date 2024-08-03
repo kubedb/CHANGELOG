@@ -196,6 +196,14 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.8.0-rc.2](https://github.com/kubedb/mysql-archiver/releases/tag/v0.8.0-rc.2)
+
+- [a54178b9](https://github.com/kubedb/mysql-archiver/commit/a54178b9) Prepare for release v0.8.0-rc.2 (#37)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.25.0-rc.2](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.25.0-rc.2)

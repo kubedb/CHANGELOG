@@ -69,6 +69,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.18.0-rc.2](https://github.com/kubedb/kafka/releases/tag/v0.18.0-rc.2)
+
+- [98b8a404](https://github.com/kubedb/kafka/commit/98b8a404) Prepare for release v0.18.0-rc.2 (#100)
+- [ced0da95](https://github.com/kubedb/kafka/commit/ced0da95) Add Kafka RestProxy (#99)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.10.0-rc.2](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0-rc.2)

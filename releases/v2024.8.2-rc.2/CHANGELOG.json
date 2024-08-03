@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:29:24.159183882Z",
+  "release_date": "2024-08-03T06:29:37.198416441Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -183,6 +183,24 @@
             {
               "SHA": "9b7e0aa0c",
               "Subject": "Fix podTemplate assignment for init container"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.2",
+          "commits": [
+            {
+              "SHA": "98b8a404",
+              "Subject": "Prepare for release v0.18.0-rc.2 (#100)"
+            },
+            {
+              "SHA": "ced0da95",
+              "Subject": "Add Kafka RestProxy (#99)"
             }
           ]
         }

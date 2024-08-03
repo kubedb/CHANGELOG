@@ -204,3 +204,15 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.32.0-rc.2](https://github.com/kubedb/tests/releases/tag/v0.32.0-rc.2)
+
+- [b279ee9f](https://github.com/kubedb/tests/commit/b279ee9f) Prepare for release v0.32.0-rc.2 (#343)
+- [92599f33](https://github.com/kubedb/tests/commit/92599f33) Add Druid Tests (#306)
+- [d4762475](https://github.com/kubedb/tests/commit/d4762475) Fix ES env variable tests for V1 api changes (#336)
+- [1d5a9926](https://github.com/kubedb/tests/commit/1d5a9926) Add Resource for PerconaXtraDB, MariaDB when creating object (#334)
+- [43aa9e97](https://github.com/kubedb/tests/commit/43aa9e97) Fix ES test for V1 changes (#335)
+
+
+

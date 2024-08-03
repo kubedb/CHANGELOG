@@ -219,6 +219,15 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/mssqlserver/releases/tag/v0.2.0-rc.2)
+
+- [76b74614](https://github.com/kubedb/mssqlserver/commit/76b74614) Update deps
+- [47446bb1](https://github.com/kubedb/mssqlserver/commit/47446bb1) Update deps
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.40.0-rc.2](https://github.com/kubedb/mysql/releases/tag/v0.40.0-rc.2)

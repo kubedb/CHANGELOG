@@ -147,6 +147,14 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.40.0-rc.2](https://github.com/kubedb/mysql/releases/tag/v0.40.0-rc.2)
+
+- [b2cc7f23](https://github.com/kubedb/mysql/commit/b2cc7f236) Prepare for release v0.40.0-rc.2 (#632)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.25.0-rc.2](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.25.0-rc.2)

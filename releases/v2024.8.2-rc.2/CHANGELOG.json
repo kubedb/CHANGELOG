@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:30:25.093794678Z",
+  "release_date": "2024-08-03T06:30:36.708410982Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -333,6 +333,20 @@
             {
               "SHA": "2039750",
               "Subject": "fix tls enable mongodb ping issue (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.2",
+          "commits": [
+            {
+              "SHA": "b2cc7f236",
+              "Subject": "Prepare for release v0.40.0-rc.2 (#632)"
             }
           ]
         }

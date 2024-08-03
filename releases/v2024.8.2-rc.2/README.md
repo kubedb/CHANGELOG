@@ -75,6 +75,14 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.5.0-rc.2](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.5.0-rc.2)
+
+- [73a3ff8](https://github.com/kubedb/mariadb-restic-plugin/commit/73a3ff8) Prepare for release v0.5.0-rc.2 (#18)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.40.0-rc.2](https://github.com/kubedb/mongodb/releases/tag/v0.40.0-rc.2)

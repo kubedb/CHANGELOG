@@ -268,6 +268,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.25.0-rc.2](https://github.com/kubedb/mysql-router-init/releases/tag/v0.25.0-rc.2)
+
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.34.0-rc.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.34.0-rc.2)

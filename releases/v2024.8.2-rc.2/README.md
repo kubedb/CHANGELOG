@@ -172,6 +172,14 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.2.0-rc.2)
+
+- [b6e43327](https://github.com/kubedb/mssql-coordinator/commit/b6e43327) Prepare for release v0.2.0-rc.2 (#12)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.40.0-rc.2](https://github.com/kubedb/mysql/releases/tag/v0.40.0-rc.2)

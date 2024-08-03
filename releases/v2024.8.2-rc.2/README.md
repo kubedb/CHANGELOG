@@ -77,6 +77,14 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.10.0-rc.2](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.10.0-rc.2)
+
+- [2fabca1](https://github.com/kubedb/elasticsearch-restic-plugin/commit/2fabca1) Prepare for release v0.10.0-rc.2 (#37)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.18.0-rc.2](https://github.com/kubedb/kafka/releases/tag/v0.18.0-rc.2)

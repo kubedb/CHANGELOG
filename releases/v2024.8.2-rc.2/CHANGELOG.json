@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:30:18.600751551Z",
+  "release_date": "2024-08-03T06:30:25.093794678Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -197,6 +197,20 @@
             {
               "SHA": "9b7e0aa0c",
               "Subject": "Fix podTemplate assignment for init container"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2fabca1",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#37)"
             }
           ]
         }

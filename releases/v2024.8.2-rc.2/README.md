@@ -130,6 +130,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.10.0-rc.2](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.10.0-rc.2)
+
+- [9edee3a](https://github.com/kubedb/mongodb-restic-plugin/commit/9edee3a) Prepare for release v0.10.0-rc.2 (#53)
+- [2039750](https://github.com/kubedb/mongodb-restic-plugin/commit/2039750) fix tls enable mongodb ping issue (#51)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.25.0-rc.2](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.25.0-rc.2)

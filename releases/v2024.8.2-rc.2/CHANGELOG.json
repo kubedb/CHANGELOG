@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:30:06.84611844Z",
+  "release_date": "2024-08-03T06:30:12.231318015Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -301,6 +301,24 @@
             {
               "SHA": "5fd0cf8",
               "Subject": "Prepare for release v0.8.0-rc.2 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "9edee3a",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#53)"
+            },
+            {
+              "SHA": "2039750",
+              "Subject": "fix tls enable mongodb ping issue (#51)"
             }
           ]
         }

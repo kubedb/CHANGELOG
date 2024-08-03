@@ -26,6 +26,15 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/clickhouse/releases/tag/v0.2.0-rc.2)
+
+- [352d87ca](https://github.com/kubedb/clickhouse/commit/352d87ca) Prepare for release v0.2.0-rc.2 (#9)
+- [06fb2f51](https://github.com/kubedb/clickhouse/commit/06fb2f51) Fix Finalizer Removal and Remove PetSet Ready Condition Check (#8)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/db-client-go/releases/tag/v0.2.0-rc.2)

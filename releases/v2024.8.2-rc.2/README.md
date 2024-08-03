@@ -83,6 +83,14 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.20.0-rc.2](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.20.0-rc.2)
+
+- [b43e1a42](https://github.com/kubedb/percona-xtradb-coordinator/commit/b43e1a42) Prepare for release v0.20.0-rc.2 (#77)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.47.0-rc.2](https://github.com/kubedb/postgres/releases/tag/v0.47.0-rc.2)

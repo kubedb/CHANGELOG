@@ -127,3 +127,11 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.10.0-rc.2](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.10.0-rc.2)
+
+- [15072a8](https://github.com/kubedb/redis-restic-plugin/commit/15072a8) Prepare for release v0.10.0-rc.2 (#39)
+
+
+

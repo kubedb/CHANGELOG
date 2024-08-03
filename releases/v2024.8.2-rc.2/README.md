@@ -58,6 +58,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.47.0-rc.2](https://github.com/kubedb/elasticsearch/releases/tag/v0.47.0-rc.2)
+
+- [fd8abfca](https://github.com/kubedb/elasticsearch/commit/fd8abfca3) Prepare for release v0.47.0-rc.2 (#728)
+- [be009364](https://github.com/kubedb/elasticsearch/commit/be009364b) Fix PodTemplate assignment to config-merger initContainer (#727)
+- [28668a0c](https://github.com/kubedb/elasticsearch/commit/28668a0c3) Revert "Fix podTemplate assignment for init container"
+- [9b7e0aa0](https://github.com/kubedb/elasticsearch/commit/9b7e0aa0c) Fix podTemplate assignment for init container
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.10.0-rc.2](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0-rc.2)

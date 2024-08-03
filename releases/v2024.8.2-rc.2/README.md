@@ -155,6 +155,14 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.10.0-rc.2](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.10.0-rc.2)
+
+- [4c64334](https://github.com/kubedb/mysql-restic-plugin/commit/4c64334) Prepare for release v0.10.0-rc.2 (#47)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.34.0-rc.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.34.0-rc.2)

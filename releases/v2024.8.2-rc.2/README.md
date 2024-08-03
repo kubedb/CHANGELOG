@@ -318,6 +318,13 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.9.0-rc.2](https://github.com/kubedb/provider-aws/releases/tag/v0.9.0-rc.2)
+
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/rabbitmq/releases/tag/v0.2.0-rc.2)

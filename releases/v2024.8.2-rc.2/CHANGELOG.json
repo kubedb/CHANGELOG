@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T06:26:37.895849883Z",
+  "release_date": "2024-08-03T06:26:53.349179478Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -153,6 +153,24 @@
             {
               "SHA": "5fd0cf8",
               "Subject": "Prepare for release v0.8.0-rc.2 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.2",
+          "commits": [
+            {
+              "SHA": "25b10bb6e",
+              "Subject": "Prepare for release v0.47.0-rc.2 (#743)"
+            },
+            {
+              "SHA": "2a6b188e7",
+              "Subject": "trgger backup once after appbinding is created from provisioner (#741)"
             }
           ]
         }

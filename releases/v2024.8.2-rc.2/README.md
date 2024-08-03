@@ -57,3 +57,12 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.47.0-rc.2](https://github.com/kubedb/postgres/releases/tag/v0.47.0-rc.2)
+
+- [25b10bb6](https://github.com/kubedb/postgres/commit/25b10bb6e) Prepare for release v0.47.0-rc.2 (#743)
+- [2a6b188e](https://github.com/kubedb/postgres/commit/2a6b188e7) trgger backup once after appbinding is created from provisioner (#741)
+
+
+

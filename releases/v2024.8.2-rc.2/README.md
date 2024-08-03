@@ -26,6 +26,15 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.32.0-rc.2](https://github.com/kubedb/autoscaler/releases/tag/v0.32.0-rc.2)
+
+- [a03964ec](https://github.com/kubedb/autoscaler/commit/a03964ec) Prepare for release v0.32.0-rc.2 (#215)
+- [fc76bfff](https://github.com/kubedb/autoscaler/commit/fc76bfff) Set db as the OwnerRef in autoscaler CR (#213)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.47.0-rc.2](https://github.com/kubedb/cli/releases/tag/v0.47.0-rc.2)

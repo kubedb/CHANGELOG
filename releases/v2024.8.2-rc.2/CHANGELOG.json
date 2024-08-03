@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T09:39:03.03171399Z",
+  "release_date": "2024-08-03T09:46:35.363108347Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -83,6 +83,24 @@
             {
               "SHA": "c028472b9",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.32.0-rc.2",
+          "commits": [
+            {
+              "SHA": "a03964ec",
+              "Subject": "Prepare for release v0.32.0-rc.2 (#215)"
+            },
+            {
+              "SHA": "fc76bfff",
+              "Subject": "Set db as the OwnerRef in autoscaler CR (#213)"
             }
           ]
         }

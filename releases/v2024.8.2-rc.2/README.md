@@ -111,6 +111,14 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.7.0-rc.2](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.7.0-rc.2)
+
+- [138bcf7c](https://github.com/kubedb/mariadb-archiver/commit/138bcf7c) Prepare for release v0.7.0-rc.2 (#23)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.7.0-rc.2)

@@ -486,6 +486,15 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.23.0-rc.2](https://github.com/kubedb/ui-server/releases/tag/v0.23.0-rc.2)
+
+- [893dc3ac](https://github.com/kubedb/ui-server/commit/893dc3ac) Prepare for release v0.23.0-rc.2 (#125)
+- [8fa3f1cb](https://github.com/kubedb/ui-server/commit/8fa3f1cb) resource matrics dep updation (#124)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.2)

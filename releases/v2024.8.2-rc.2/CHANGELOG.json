@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.2-rc.2",
-  "release_date": "2024-08-03T09:27:48.918594765Z",
+  "release_date": "2024-08-03T09:39:03.03171399Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.2-rc.2",
   "kubernetes_version": "1.20+",
@@ -590,6 +590,52 @@
         {
           "tag": "v0.25.0-rc.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2cfccf3ec",
+              "Subject": "Prepare for release v0.34.0-rc.2 (#614)"
+            },
+            {
+              "SHA": "597c24a1f",
+              "Subject": "Add solr ops request (#611)"
+            },
+            {
+              "SHA": "9626eaffd",
+              "Subject": "Fix Ops Requests for Redis and Sentinel  (#604)"
+            },
+            {
+              "SHA": "59f17bfe6",
+              "Subject": "Fix ES for PetSet changes (#613)"
+            },
+            {
+              "SHA": "74bb1b19a",
+              "Subject": "Add FerretDB OpsManager (#612)"
+            },
+            {
+              "SHA": "d366a4978",
+              "Subject": "Fix and reorg MongoDB AddTLS and RemoveTLS (#607)"
+            },
+            {
+              "SHA": "0665166a1",
+              "Subject": "Memcached Ops Request (Horizontal Scaling & Version Update) (#609)"
+            },
+            {
+              "SHA": "593dc5227",
+              "Subject": "horizontal and vertical scaling for pgbouncer (#594)"
+            },
+            {
+              "SHA": "fb62665ce",
+              "Subject": "Fix memcached Ops Request (#606)"
+            }
+          ]
         }
       ]
     },

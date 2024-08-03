@@ -283,6 +283,22 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.34.0-rc.2](https://github.com/kubedb/ops-manager/releases/tag/v0.34.0-rc.2)
+
+- [2cfccf3e](https://github.com/kubedb/ops-manager/commit/2cfccf3ec) Prepare for release v0.34.0-rc.2 (#614)
+- [597c24a1](https://github.com/kubedb/ops-manager/commit/597c24a1f) Add solr ops request (#611)
+- [9626eaff](https://github.com/kubedb/ops-manager/commit/9626eaffd) Fix Ops Requests for Redis and Sentinel  (#604)
+- [59f17bfe](https://github.com/kubedb/ops-manager/commit/59f17bfe6) Fix ES for PetSet changes (#613)
+- [74bb1b19](https://github.com/kubedb/ops-manager/commit/74bb1b19a) Add FerretDB OpsManager (#612)
+- [d366a497](https://github.com/kubedb/ops-manager/commit/d366a4978) Fix and reorg MongoDB AddTLS and RemoveTLS (#607)
+- [0665166a](https://github.com/kubedb/ops-manager/commit/0665166a1) Memcached Ops Request (Horizontal Scaling & Version Update) (#609)
+- [593dc522](https://github.com/kubedb/ops-manager/commit/593dc5227) horizontal and vertical scaling for pgbouncer (#594)
+- [fb62665c](https://github.com/kubedb/ops-manager/commit/fb62665ce) Fix memcached Ops Request (#606)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.34.0-rc.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.34.0-rc.2)

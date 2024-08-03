@@ -66,6 +66,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.31.0-rc.2](https://github.com/kubedb/mariadb/releases/tag/v0.31.0-rc.2)
+
+- [86038a20](https://github.com/kubedb/mariadb/commit/86038a201) Prepare for release v0.31.0-rc.2 (#276)
+- [d66565b2](https://github.com/kubedb/mariadb/commit/d66565b29) Fix Archiver BackupConfig Not Ready Issue (#275)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.40.0-rc.2](https://github.com/kubedb/mongodb/releases/tag/v0.40.0-rc.2)

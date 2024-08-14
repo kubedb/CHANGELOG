@@ -213,6 +213,16 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.40.0-rc.3](https://github.com/kubedb/mysql/releases/tag/v0.40.0-rc.3)
+
+- [715b4713](https://github.com/kubedb/mysql/commit/715b4713d) Prepare for release v0.40.0-rc.3 (#636)
+- [46d5c62c](https://github.com/kubedb/mysql/commit/46d5c62ce) Test against k8s 1.31 (#634)
+- [42a90ae7](https://github.com/kubedb/mysql/commit/42a90ae77) Refactor MySQL Webhook Server (#633)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.8.0-rc.3](https://github.com/kubedb/mysql-archiver/releases/tag/v0.8.0-rc.3)

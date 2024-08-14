@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-14T16:47:30.339553584Z",
+  "release_date": "2024-08-14T16:52:42.557351074Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -79,6 +79,24 @@
             {
               "SHA": "e6aacd8",
               "Subject": "Prepare for release v0.10.0-rc.3 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.3",
+          "commits": [
+            {
+              "SHA": "4b3a6003",
+              "Subject": "Prepare for release v0.7.0-rc.3 (#26)"
+            },
+            {
+              "SHA": "c7230b61",
+              "Subject": "Remove SafeToBootstrapInGrastateFile from Archiver Backup (#25)"
             }
           ]
         }

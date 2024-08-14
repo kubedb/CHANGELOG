@@ -34,6 +34,15 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.7.0-rc.3](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.7.0-rc.3)
+
+- [4b3a6003](https://github.com/kubedb/mariadb-archiver/commit/4b3a6003) Prepare for release v0.7.0-rc.3 (#26)
+- [c7230b61](https://github.com/kubedb/mariadb-archiver/commit/c7230b61) Remove SafeToBootstrapInGrastateFile from Archiver Backup (#25)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.27.0-rc.3](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.27.0-rc.3)

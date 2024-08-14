@@ -1,0 +1,56 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.8.14-rc.3",
+  "release_date": "2024-08-14T15:59:54.706207119Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.3",
+          "commits": [
+            {
+              "SHA": "4b2e48726",
+              "Subject": "Add Halted API Field in ProxySQL and Pgbouncher (#1288)"
+            },
+            {
+              "SHA": "f78136264",
+              "Subject": "SingleStore Ops-Request API (#1287)"
+            },
+            {
+              "SHA": "b7bee7681",
+              "Subject": "Test against k8s 1.31 (#1285)"
+            },
+            {
+              "SHA": "92ab030c5",
+              "Subject": "Add DisabledProtocols API for RabbitMQ (#1282)"
+            },
+            {
+              "SHA": "83f69191f",
+              "Subject": "Add constants for RM additional plugins (#1280)"
+            },
+            {
+              "SHA": "beb194a15",
+              "Subject": "Add Kafka `halted` field & some ops helpers (#1279)"
+            },
+            {
+              "SHA": "7334833b5",
+              "Subject": "Set the catagories correctly (#1277)"
+            },
+            {
+              "SHA": "ddbf74f33",
+              "Subject": "Add missing opsRequests (#1276)"
+            },
+            {
+              "SHA": "6402035de",
+              "Subject": "Fix petset patch issue (#1275)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

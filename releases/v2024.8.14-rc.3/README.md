@@ -77,6 +77,16 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.18.0-rc.3](https://github.com/kubedb/kafka/releases/tag/v0.18.0-rc.3)
+
+- [61da1711](https://github.com/kubedb/kafka/commit/61da1711) Prepare for release v0.18.0-rc.3 (#104)
+- [0d676702](https://github.com/kubedb/kafka/commit/0d676702) Test against k8s 1.31 (#102)
+- [f826ea35](https://github.com/kubedb/kafka/commit/f826ea35) Update ReadinessGate Conditions and remove unncessary logs (#101)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.10.0-rc.3](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0-rc.3)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-14T21:54:21.199797824Z",
+  "release_date": "2024-08-14T21:54:34.320660652Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -160,6 +160,28 @@
             {
               "SHA": "e6aacd8",
               "Subject": "Prepare for release v0.10.0-rc.3 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.3",
+          "commits": [
+            {
+              "SHA": "61da1711",
+              "Subject": "Prepare for release v0.18.0-rc.3 (#104)"
+            },
+            {
+              "SHA": "0d676702",
+              "Subject": "Test against k8s 1.31 (#102)"
+            },
+            {
+              "SHA": "f826ea35",
+              "Subject": "Update ReadinessGate Conditions and remove unncessary logs (#101)"
             }
           ]
         }

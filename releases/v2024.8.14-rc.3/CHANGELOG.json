@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-14T17:46:34.856146682Z",
+  "release_date": "2024-08-14T17:47:24.382414417Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -542,6 +542,32 @@
             {
               "SHA": "5d6204e",
               "Subject": "Wait for Ready condition instead of Provisioned condition (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.3",
+          "commits": [
+            {
+              "SHA": "be3ac6ae",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#44)"
+            },
+            {
+              "SHA": "0ea16467",
+              "Subject": "Improve logs and Fix manager (#43)"
+            },
+            {
+              "SHA": "72322a75",
+              "Subject": "Test against k8s 1.31 (#41)"
+            },
+            {
+              "SHA": "507dbe5a",
+              "Subject": "Update Webhook Server (#40)"
             }
           ]
         }

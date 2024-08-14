@@ -286,6 +286,17 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.2.0-rc.3](https://github.com/kubedb/singlestore/releases/tag/v0.2.0-rc.3)
+
+- [be3ac6ae](https://github.com/kubedb/singlestore/commit/be3ac6ae) Prepare for release v0.2.0-rc.3 (#44)
+- [0ea16467](https://github.com/kubedb/singlestore/commit/0ea16467) Improve logs and Fix manager (#43)
+- [72322a75](https://github.com/kubedb/singlestore/commit/72322a75) Test against k8s 1.31 (#41)
+- [507dbe5a](https://github.com/kubedb/singlestore/commit/507dbe5a) Update Webhook Server (#40)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.2.0-rc.3](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.2.0-rc.3)

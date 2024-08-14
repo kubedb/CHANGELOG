@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-14T15:59:54.706207119Z",
+  "release_date": "2024-08-14T16:07:27.091683991Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -47,6 +47,24 @@
             {
               "SHA": "6402035de",
               "Subject": "Fix petset patch issue (#1275)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.3",
+          "commits": [
+            {
+              "SHA": "b4a5b756",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#131)"
+            },
+            {
+              "SHA": "f17f15a5",
+              "Subject": "Update log verbosity level (#127)"
             }
           ]
         }

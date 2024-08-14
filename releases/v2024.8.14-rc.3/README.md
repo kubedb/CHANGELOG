@@ -174,6 +174,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.10.0-rc.3](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.10.0-rc.3)
+
+- [201ed9f](https://github.com/kubedb/redis-restic-plugin/commit/201ed9f) Prepare for release v0.10.0-rc.3 (#42)
+- [5d6204e](https://github.com/kubedb/redis-restic-plugin/commit/5d6204e) Wait for Ready condition instead of Provisioned condition (#40)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.5.0-rc.3](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.5.0-rc.3)

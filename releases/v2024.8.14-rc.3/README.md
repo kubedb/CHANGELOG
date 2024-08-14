@@ -61,6 +61,14 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.1.0-rc.3](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.1.0-rc.3)
+
+- [7c867e6](https://github.com/kubedb/mssqlserver-archiver/commit/7c867e6) Prepare for release v0.1.0-rc.3 (#2)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.25.0-rc.3](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.25.0-rc.3)

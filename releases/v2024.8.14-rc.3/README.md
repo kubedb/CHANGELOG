@@ -306,6 +306,17 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.32.0-rc.3](https://github.com/kubedb/tests/releases/tag/v0.32.0-rc.3)
+
+- [5f5d899c](https://github.com/kubedb/tests/commit/5f5d899c) Prepare for release v0.32.0-rc.3 (#349)
+- [746fba1f](https://github.com/kubedb/tests/commit/746fba1f) Add Memcached e2e Tests (#346)
+- [7647c955](https://github.com/kubedb/tests/commit/7647c955) Fix Redis Tests (#345)
+- [cd54a2b7](https://github.com/kubedb/tests/commit/cd54a2b7) Add Redis Initialization Script (#342)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.2.0-rc.3](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.3)

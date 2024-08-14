@@ -77,6 +77,16 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.2.0-rc.3](https://github.com/kubedb/mssqlserver/releases/tag/v0.2.0-rc.3)
+
+- [5937734a](https://github.com/kubedb/mssqlserver/commit/5937734a) Prepare for release v0.2.0-rc.3 (#23)
+- [cc70bf74](https://github.com/kubedb/mssqlserver/commit/cc70bf74) Add MSSQL Server Monitoring Support (#11)
+- [00f23687](https://github.com/kubedb/mssqlserver/commit/00f23687) Add PITR backup and restore support by using WAlG (#20)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.1.0-rc.3](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.1.0-rc.3)

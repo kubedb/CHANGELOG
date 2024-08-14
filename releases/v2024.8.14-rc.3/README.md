@@ -190,6 +190,17 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.2.0-rc.3](https://github.com/kubedb/rabbitmq/releases/tag/v0.2.0-rc.3)
+
+- [9e2d1b30](https://github.com/kubedb/rabbitmq/commit/9e2d1b30) Prepare for release v0.2.0-rc.3 (#42)
+- [ea18918d](https://github.com/kubedb/rabbitmq/commit/ea18918d) Update configurations and ports for DisableProtocol Support (#40)
+- [a8f7d00d](https://github.com/kubedb/rabbitmq/commit/a8f7d00d) Add protocol plugins configurations and refactor webhook server (#39)
+- [d0e559c6](https://github.com/kubedb/rabbitmq/commit/d0e559c6) Fix petset patch issue (#38)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.26.0-rc.3](https://github.com/kubedb/redis-coordinator/releases/tag/v0.26.0-rc.3)

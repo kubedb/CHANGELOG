@@ -61,6 +61,14 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.2.0-rc.3](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.2.0-rc.3)
+
+- [2bbe790a](https://github.com/kubedb/mssql-coordinator/commit/2bbe790a) Prepare for release v0.2.0-rc.3 (#14)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.1.0-rc.3](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.1.0-rc.3)

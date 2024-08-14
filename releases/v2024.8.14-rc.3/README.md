@@ -259,6 +259,18 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.2.0-rc.3](https://github.com/kubedb/solr/releases/tag/v0.2.0-rc.3)
+
+- [5dcbfa1d](https://github.com/kubedb/solr/commit/5dcbfa1d) Prepare for release v0.2.0-rc.3 (#45)
+- [02eccb48](https://github.com/kubedb/solr/commit/02eccb48) Improve logs (#44)
+- [82a533c8](https://github.com/kubedb/solr/commit/82a533c8) Test against k8s 1.31 (#42)
+- [4e1ff74a](https://github.com/kubedb/solr/commit/4e1ff74a) Fix chroot issue to configure multiple solr cluster refering single zk (#41)
+- [86526192](https://github.com/kubedb/solr/commit/86526192) Fix petset patch issue (#40)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.2.0-rc.3](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.3)

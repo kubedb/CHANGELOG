@@ -60,6 +60,15 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.5.0-rc.3](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.5.0-rc.3)
+
+- [21c1331](https://github.com/kubedb/mariadb-restic-plugin/commit/21c1331) Prepare for release v0.5.0-rc.3 (#21)
+- [4d22fb4](https://github.com/kubedb/mariadb-restic-plugin/commit/4d22fb4) Wait for ready condition instead Provisioned condition (#19)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.10.0-rc.3](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.10.0-rc.3)

@@ -305,6 +305,14 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.34.0-rc.3](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.34.0-rc.3)
+
+- [fcc68baf](https://github.com/kubedb/replication-mode-detector/commit/fcc68baf) Prepare for release v0.34.0-rc.3 (#276)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.2.0-rc.3](https://github.com/kubedb/singlestore/releases/tag/v0.2.0-rc.3)

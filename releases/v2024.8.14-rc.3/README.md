@@ -262,6 +262,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.34.0-rc.3](https://github.com/kubedb/percona-xtradb/releases/tag/v0.34.0-rc.3)
+
+- [43b7e218](https://github.com/kubedb/percona-xtradb/commit/43b7e2180) Prepare for release v0.34.0-rc.3 (#378)
+- [99a0cb4b](https://github.com/kubedb/percona-xtradb/commit/99a0cb4b6) Test against k8s 1.31 (#376)
+- [bdb89e11](https://github.com/kubedb/percona-xtradb/commit/bdb89e115) Refactor Wekhook (#375)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.20.0-rc.3](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.20.0-rc.3)

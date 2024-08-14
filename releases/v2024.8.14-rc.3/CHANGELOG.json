@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-14T21:55:01.650787497Z",
+  "release_date": "2024-08-14T21:55:13.82164344Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -523,6 +523,28 @@
         {
           "tag": "v0.25.0-rc.3",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.3",
+          "commits": [
+            {
+              "SHA": "43b7e2180",
+              "Subject": "Prepare for release v0.34.0-rc.3 (#378)"
+            },
+            {
+              "SHA": "99a0cb4b6",
+              "Subject": "Test against k8s 1.31 (#376)"
+            },
+            {
+              "SHA": "bdb89e115",
+              "Subject": "Refactor Wekhook (#375)"
+            }
+          ]
         }
       ]
     },

@@ -26,6 +26,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.10.0-rc.3](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.10.0-rc.3)
+
+- [5bedb88](https://github.com/kubedb/mongodb-restic-plugin/commit/5bedb88) Prepare for release v0.10.0-rc.3 (#57)
+- [82148eb](https://github.com/kubedb/mongodb-restic-plugin/commit/82148eb) Fix issues of MongoDB 5.x+ and 6.x+ TLS (#55)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.10.0-rc.3](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.10.0-rc.3)

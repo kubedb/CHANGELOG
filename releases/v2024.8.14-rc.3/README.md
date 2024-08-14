@@ -167,6 +167,16 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.2.0-rc.3](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.3)
+
+- [8c6ad096](https://github.com/kubedb/pgpool/commit/8c6ad096) Prepare for release v0.2.0-rc.3 (#44)
+- [4763f499](https://github.com/kubedb/pgpool/commit/4763f499) Test against k8s 1.31 (#41)
+- [b21f97fc](https://github.com/kubedb/pgpool/commit/b21f97fc) Update webhook server (#40)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.8.0-rc.3](https://github.com/kubedb/postgres-archiver/releases/tag/v0.8.0-rc.3)

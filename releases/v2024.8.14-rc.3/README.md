@@ -366,6 +366,18 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.40.0-rc.3](https://github.com/kubedb/redis/releases/tag/v0.40.0-rc.3)
+
+- [8e1b8b60](https://github.com/kubedb/redis/commit/8e1b8b600) Prepare for release v0.40.0-rc.3 (#555)
+- [19c330c7](https://github.com/kubedb/redis/commit/19c330c78) Test against k8s 1.31 (#553)
+- [e28ec45c](https://github.com/kubedb/redis/commit/e28ec45ca) Update Redis Webhook Server (#551)
+- [89ab2ee1](https://github.com/kubedb/redis/commit/89ab2ee14) Remove Redis Petset Extra Enque (#552)
+- [0dd62824](https://github.com/kubedb/redis/commit/0dd628243) Fix webhook crash issue for sentinel (#550)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.26.0-rc.3](https://github.com/kubedb/redis-coordinator/releases/tag/v0.26.0-rc.3)

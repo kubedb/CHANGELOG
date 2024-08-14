@@ -80,3 +80,11 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.5.0-rc.3](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.5.0-rc.3)
+
+- [99b5c46](https://github.com/kubedb/singlestore-restic-plugin/commit/99b5c46) Prepare for release v0.5.0-rc.3 (#21)
+
+
+

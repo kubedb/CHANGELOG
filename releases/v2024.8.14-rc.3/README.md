@@ -25,6 +25,17 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.2.0-rc.3](https://github.com/kubedb/clickhouse/releases/tag/v0.2.0-rc.3)
+
+- [e722214a](https://github.com/kubedb/clickhouse/commit/e722214a) Prepare for release v0.2.0-rc.3 (#14)
+- [d67b6596](https://github.com/kubedb/clickhouse/commit/d67b6596) Improve logs (#13)
+- [1a78915c](https://github.com/kubedb/clickhouse/commit/1a78915c) Update webhook server (#11)
+- [782c361e](https://github.com/kubedb/clickhouse/commit/782c361e) Fix unnecessary patch (#10)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.2.0-rc.3](https://github.com/kubedb/crd-manager/releases/tag/v0.2.0-rc.3)

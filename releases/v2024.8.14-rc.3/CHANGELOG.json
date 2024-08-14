@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-14T17:47:55.91939736Z",
+  "release_date": "2024-08-14T17:49:43.342749207Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -61,6 +61,32 @@
             {
               "SHA": "39e448d9",
               "Subject": "Prepare for release v0.47.0-rc.3 (#775)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.3",
+          "commits": [
+            {
+              "SHA": "e722214a",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#14)"
+            },
+            {
+              "SHA": "d67b6596",
+              "Subject": "Improve logs (#13)"
+            },
+            {
+              "SHA": "1a78915c",
+              "Subject": "Update webhook server (#11)"
+            },
+            {
+              "SHA": "782c361e",
+              "Subject": "Fix unnecessary patch (#10)"
             }
           ]
         }

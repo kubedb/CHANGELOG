@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-14T17:33:55.024778605Z",
+  "release_date": "2024-08-14T17:34:27.712032265Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -247,6 +247,20 @@
             {
               "SHA": "7c867e6",
               "Subject": "Prepare for release v0.1.0-rc.3 (#2)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.3",
+          "commits": [
+            {
+              "SHA": "2d439cb5",
+              "Subject": "Prepare for release v0.8.0-rc.3 (#39)"
             }
           ]
         }

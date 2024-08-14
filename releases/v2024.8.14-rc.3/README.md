@@ -96,6 +96,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.31.0-rc.3](https://github.com/kubedb/mariadb/releases/tag/v0.31.0-rc.3)
+
+- [211fad73](https://github.com/kubedb/mariadb/commit/211fad731) Prepare for release v0.31.0-rc.3 (#280)
+- [00d8723b](https://github.com/kubedb/mariadb/commit/00d8723bf) Test against k8s 1.31 (#278)
+- [c21a2238](https://github.com/kubedb/mariadb/commit/c21a22387) Mongodb Alike Archiver related changes, refactor webhook (#277)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.7.0-rc.3](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.7.0-rc.3)

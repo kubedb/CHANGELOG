@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-14T21:54:34.320660652Z",
+  "release_date": "2024-08-14T21:54:49.19252732Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -200,6 +200,28 @@
             {
               "SHA": "5053a2b",
               "Subject": "Implement MSSQLServer manifest backup and restore (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.3",
+          "commits": [
+            {
+              "SHA": "211fad731",
+              "Subject": "Prepare for release v0.31.0-rc.3 (#280)"
+            },
+            {
+              "SHA": "00d8723bf",
+              "Subject": "Test against k8s 1.31 (#278)"
+            },
+            {
+              "SHA": "c21a22387",
+              "Subject": "Mongodb Alike Archiver related changes, refactor webhook (#277)"
             }
           ]
         }

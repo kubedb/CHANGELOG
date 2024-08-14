@@ -132,6 +132,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.40.0-rc.3](https://github.com/kubedb/mongodb/releases/tag/v0.40.0-rc.3)
+
+- [490947fc](https://github.com/kubedb/mongodb/commit/490947fc6) Prepare for release v0.40.0-rc.3 (#647)
+- [9308c2fd](https://github.com/kubedb/mongodb/commit/9308c2fd3) Test against k8s 1.31 (#645)
+- [ec0fe7fe](https://github.com/kubedb/mongodb/commit/ec0fe7feb) Refactor MongoDB webhook server (#644)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.8.0-rc.3](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.8.0-rc.3)

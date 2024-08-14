@@ -248,6 +248,17 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.47.0-rc.3](https://github.com/kubedb/postgres/releases/tag/v0.47.0-rc.3)
+
+- [3cce86fd](https://github.com/kubedb/postgres/commit/3cce86fd5) Prepare for release v0.47.0-rc.3 (#749)
+- [ae6fe1b9](https://github.com/kubedb/postgres/commit/ae6fe1b9b) Test against k8s 1.31 (#747)
+- [53972b4f](https://github.com/kubedb/postgres/commit/53972b4f6) Mongodb Alike Archiver related changes (#746)
+- [9c39791e](https://github.com/kubedb/postgres/commit/9c39791e3) Refactor Postgres With changes from Webhook-server (#745)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.8.0-rc.3](https://github.com/kubedb/postgres-archiver/releases/tag/v0.8.0-rc.3)

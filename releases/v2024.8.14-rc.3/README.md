@@ -101,6 +101,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.40.0-rc.3](https://github.com/kubedb/memcached/releases/tag/v0.40.0-rc.3)
+
+- [1a3ed68b](https://github.com/kubedb/memcached/commit/1a3ed68b8) Prepare for release v0.40.0-rc.3 (#462)
+- [93626b1a](https://github.com/kubedb/memcached/commit/93626b1ab) Fix DeletionPolicy Halt (#461)
+- [7ddfc3eb](https://github.com/kubedb/memcached/commit/7ddfc3eb1) Test against k8s 1.31 (#459)
+- [c5a4d6a8](https://github.com/kubedb/memcached/commit/c5a4d6a85) Refactor Memcached Webhook Server (#458)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.8.0-rc.3](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.8.0-rc.3)

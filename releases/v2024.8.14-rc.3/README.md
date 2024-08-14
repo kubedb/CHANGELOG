@@ -26,6 +26,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.10.0-rc.3](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.10.0-rc.3)
+
+- [c1e0b54](https://github.com/kubedb/postgres-restic-plugin/commit/c1e0b54) Prepare for release v0.10.0-rc.3 (#44)
+- [28ee1da](https://github.com/kubedb/postgres-restic-plugin/commit/28ee1da) Wait for ready condition instead Provisioned condition (#42)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.9.0-rc.3](https://github.com/kubedb/provider-aws/releases/tag/v0.9.0-rc.3)

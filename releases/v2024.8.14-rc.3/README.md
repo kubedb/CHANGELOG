@@ -43,6 +43,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.25.0-rc.3](https://github.com/kubedb/mysql-router-init/releases/tag/v0.25.0-rc.3)
+
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.10.0-rc.3](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.10.0-rc.3)

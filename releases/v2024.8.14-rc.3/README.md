@@ -60,6 +60,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.47.0-rc.3](https://github.com/kubedb/elasticsearch/releases/tag/v0.47.0-rc.3)
+
+- [6e5a7875](https://github.com/kubedb/elasticsearch/commit/6e5a78758) Prepare for release v0.47.0-rc.3 (#731)
+- [14079024](https://github.com/kubedb/elasticsearch/commit/140790248) Refactor Elasticsearch webhook server (#729)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.10.0-rc.3](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.10.0-rc.3)

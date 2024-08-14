@@ -26,6 +26,14 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.10.0-rc.3](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.10.0-rc.3)
+
+- [e6aacd8](https://github.com/kubedb/elasticsearch-restic-plugin/commit/e6aacd8) Prepare for release v0.10.0-rc.3 (#39)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.10.0-rc.3](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.10.0-rc.3)

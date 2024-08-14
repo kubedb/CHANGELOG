@@ -80,6 +80,14 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.26.0-rc.3](https://github.com/kubedb/redis-coordinator/releases/tag/v0.26.0-rc.3)
+
+- [de860a65](https://github.com/kubedb/redis-coordinator/commit/de860a65) Prepare for release v0.26.0-rc.3 (#110)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.5.0-rc.3](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.5.0-rc.3)

@@ -50,6 +50,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.10.0-rc.3](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0-rc.3)
+
+- [281d889](https://github.com/kubedb/kubedb-manifest-plugin/commit/281d889) Prepare for release v0.10.0-rc.3 (#63)
+- [5053a2b](https://github.com/kubedb/kubedb-manifest-plugin/commit/5053a2b) Implement MSSQLServer manifest backup and restore (#59)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.7.0-rc.3](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.7.0-rc.3)

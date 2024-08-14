@@ -73,3 +73,10 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.9.0-rc.3](https://github.com/kubedb/provider-gcp/releases/tag/v0.9.0-rc.3)
+
+
+
+

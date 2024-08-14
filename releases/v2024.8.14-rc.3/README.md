@@ -34,6 +34,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.27.0-rc.3](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.27.0-rc.3)
+
+- [53d96b8e](https://github.com/kubedb/mariadb-coordinator/commit/53d96b8e) Prepare for release v0.27.0-rc.3 (#125)
+- [b5384a99](https://github.com/kubedb/mariadb-coordinator/commit/b5384a99) Fix Archiver Restore Issue (#123)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.10.0-rc.3](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.10.0-rc.3)

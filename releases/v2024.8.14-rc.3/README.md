@@ -152,6 +152,14 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.8.0-rc.3](https://github.com/kubedb/postgres-archiver/releases/tag/v0.8.0-rc.3)
+
+- [60125c8e](https://github.com/kubedb/postgres-archiver/commit/60125c8e) Prepare for release v0.8.0-rc.3 (#37)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.10.0-rc.3](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.10.0-rc.3)

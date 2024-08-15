@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-15T03:20:42.317311309Z",
+  "release_date": "2024-08-15T03:29:21.323121069Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -738,6 +738,28 @@
         {
           "tag": "v0.9.0-rc.3",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.3",
+          "commits": [
+            {
+              "SHA": "671164930",
+              "Subject": "Prepare for release v0.34.0-rc.3 (#356)"
+            },
+            {
+              "SHA": "331ad2ae1",
+              "Subject": "Test against k8s 1.31 (#353)"
+            },
+            {
+              "SHA": "c378175f8",
+              "Subject": "Webhook Server Refactor (#352)"
+            }
+          ]
         }
       ]
     },

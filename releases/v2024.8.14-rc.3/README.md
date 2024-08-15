@@ -375,6 +375,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.34.0-rc.3](https://github.com/kubedb/proxysql/releases/tag/v0.34.0-rc.3)
+
+- [67116493](https://github.com/kubedb/proxysql/commit/671164930) Prepare for release v0.34.0-rc.3 (#356)
+- [331ad2ae](https://github.com/kubedb/proxysql/commit/331ad2ae1) Test against k8s 1.31 (#353)
+- [c378175f](https://github.com/kubedb/proxysql/commit/c378175f8) Webhook Server Refactor (#352)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.2.0-rc.3](https://github.com/kubedb/rabbitmq/releases/tag/v0.2.0-rc.3)

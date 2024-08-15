@@ -79,6 +79,17 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.8.14-rc.3](https://github.com/kubedb/docs/releases/tag/v2024.8.14-rc.3)
+
+- [e1e503d6](https://github.com/kubedb/docs/commit/e1e503d6) Prepare for release v2024.8.14-rc.3 (#661)
+- [e19f4b48](https://github.com/kubedb/docs/commit/e19f4b48) Add Pgpool Complete Docs (#650)
+- [70e11030](https://github.com/kubedb/docs/commit/70e11030) Fix postgres archiver doc and change proxyRef -> databaseRef for Proxysql Autoscaler (#659)
+- [0496b01b](https://github.com/kubedb/docs/commit/0496b01b) Add Redis Init Script Doc (#658)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.47.0-rc.3](https://github.com/kubedb/elasticsearch/releases/tag/v0.47.0-rc.3)

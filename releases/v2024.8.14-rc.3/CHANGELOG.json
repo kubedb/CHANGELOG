@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-15T04:48:04.459400342Z",
+  "release_date": "2024-08-15T05:17:37.678935339Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -47,6 +47,28 @@
             {
               "SHA": "6402035de",
               "Subject": "Fix petset patch issue (#1275)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.32.0-rc.3",
+          "commits": [
+            {
+              "SHA": "8b1eb269",
+              "Subject": "Prepare for release v0.32.0-rc.3 (#218)"
+            },
+            {
+              "SHA": "7c61bf9e",
+              "Subject": "Implement autoscaling for pgbouncer (#214)"
+            },
+            {
+              "SHA": "0ce4541c",
+              "Subject": "Add Readinessgate Condition (#216)"
             }
           ]
         }

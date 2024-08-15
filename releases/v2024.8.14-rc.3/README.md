@@ -17,6 +17,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.32.0-rc.3](https://github.com/kubedb/autoscaler/releases/tag/v0.32.0-rc.3)
+
+- [8b1eb269](https://github.com/kubedb/autoscaler/commit/8b1eb269) Prepare for release v0.32.0-rc.3 (#218)
+- [7c61bf9e](https://github.com/kubedb/autoscaler/commit/7c61bf9e) Implement autoscaling for pgbouncer (#214)
+- [0ce4541c](https://github.com/kubedb/autoscaler/commit/0ce4541c) Add Readinessgate Condition (#216)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.47.0-rc.3](https://github.com/kubedb/cli/releases/tag/v0.47.0-rc.3)

@@ -1,4 +1,4 @@
-# KubeDB v2024.8.14-rc.3 (2024-08-14)
+# KubeDB v2024.8.14-rc.3 (2024-08-15)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -74,6 +74,17 @@
 ### [v0.10.0-rc.3](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.10.0-rc.3)
 
 - [e6aacd8](https://github.com/kubedb/elasticsearch-restic-plugin/commit/e6aacd8) Prepare for release v0.10.0-rc.3 (#39)
+
+
+
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.2.0-rc.3](https://github.com/kubedb/ferretdb/releases/tag/v0.2.0-rc.3)
+
+- [7c5d6d1c](https://github.com/kubedb/ferretdb/commit/7c5d6d1c) Prepare for release v0.2.0-rc.3 (#41)
+- [b6223cab](https://github.com/kubedb/ferretdb/commit/b6223cab) Test against k8s 1.31 (#39)
+- [933d5b0d](https://github.com/kubedb/ferretdb/commit/933d5b0d) update server (#37)
+- [a587c29d](https://github.com/kubedb/ferretdb/commit/a587c29d) pass context properly (#38)
 
 
 

@@ -107,6 +107,13 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2024.8.14-rc.3](https://github.com/kubedb/installer/releases/tag/v2024.8.14-rc.3)
+
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.18.0-rc.3](https://github.com/kubedb/kafka/releases/tag/v0.18.0-rc.3)

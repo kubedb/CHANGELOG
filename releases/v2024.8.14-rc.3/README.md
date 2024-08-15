@@ -282,6 +282,19 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.34.0-rc.3](https://github.com/kubedb/ops-manager/releases/tag/v0.34.0-rc.3)
+
+- [483ae746](https://github.com/kubedb/ops-manager/commit/483ae746e) Prepare for release v0.34.0-rc.3 (#623)
+- [24cb3616](https://github.com/kubedb/ops-manager/commit/24cb3616b) Fix reconfigure ops request for postgres (#615)
+- [f39cc6be](https://github.com/kubedb/ops-manager/commit/f39cc6be4) SingleStore VersionUpdate, Reconfigure TLS, Horizontal Scale Ops-Request (#622)
+- [909661fe](https://github.com/kubedb/ops-manager/commit/909661fea) Test against k8s 1.31 (#620)
+- [0c8104dc](https://github.com/kubedb/ops-manager/commit/0c8104dca) Add exporter container in vertical scaling (#619)
+- [efd37edd](https://github.com/kubedb/ops-manager/commit/efd37edd9) Add readiness gate condition before webhook server starts (#617)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.34.0-rc.3](https://github.com/kubedb/percona-xtradb/releases/tag/v0.34.0-rc.3)

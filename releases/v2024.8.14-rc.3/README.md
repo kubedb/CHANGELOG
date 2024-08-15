@@ -43,6 +43,15 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.23.0-rc.3](https://github.com/kubedb/dashboard/releases/tag/v0.23.0-rc.3)
+
+- [838503eb](https://github.com/kubedb/dashboard/commit/838503eb) Prepare for release v0.23.0-rc.3 (#124)
+- [08560e23](https://github.com/kubedb/dashboard/commit/08560e23) Use serviceTemplate provided specs for primary svc (#122)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.5.0-rc.3](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.5.0-rc.3)

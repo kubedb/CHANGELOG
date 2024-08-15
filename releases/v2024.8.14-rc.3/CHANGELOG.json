@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-15T02:49:20.888637169Z",
+  "release_date": "2024-08-15T03:20:42.317311309Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -98,6 +98,24 @@
         {
           "tag": "v0.2.0-rc.3",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.3",
+          "commits": [
+            {
+              "SHA": "838503eb",
+              "Subject": "Prepare for release v0.23.0-rc.3 (#124)"
+            },
+            {
+              "SHA": "08560e23",
+              "Subject": "Use serviceTemplate provided specs for primary svc (#122)"
+            }
+          ]
         }
       ]
     },

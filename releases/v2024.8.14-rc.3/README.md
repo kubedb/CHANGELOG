@@ -494,6 +494,14 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.23.0-rc.3](https://github.com/kubedb/ui-server/releases/tag/v0.23.0-rc.3)
+
+- [717efd76](https://github.com/kubedb/ui-server/commit/717efd76) Prepare for release v0.23.0-rc.3 (#127)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.2.0-rc.3](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0-rc.3)

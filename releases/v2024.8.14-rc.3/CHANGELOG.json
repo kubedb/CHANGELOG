@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.14-rc.3",
-  "release_date": "2024-08-15T04:22:57.400393451Z",
+  "release_date": "2024-08-15T04:23:34.843028624Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.14-rc.3",
   "kubernetes_version": "1.20+",
@@ -886,6 +886,20 @@
             {
               "SHA": "fcc68baf",
               "Subject": "Prepare for release v0.34.0-rc.3 (#276)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.3",
+          "commits": [
+            {
+              "SHA": "10068069",
+              "Subject": "Prepare for release v0.23.0-rc.3 (#119)"
             }
           ]
         }

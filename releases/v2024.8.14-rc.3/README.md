@@ -308,6 +308,17 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.34.0-rc.3](https://github.com/kubedb/pgbouncer/releases/tag/v0.34.0-rc.3)
+
+- [98209762](https://github.com/kubedb/pgbouncer/commit/98209762) Prepare for release v0.34.0-rc.3 (#343)
+- [c777b369](https://github.com/kubedb/pgbouncer/commit/c777b369) Use common DeletionPolicy
+- [2984f4f6](https://github.com/kubedb/pgbouncer/commit/2984f4f6) Test against k8s 1.31 (#341)
+- [fe1786b2](https://github.com/kubedb/pgbouncer/commit/fe1786b2) refactor webhook server (#340)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.2.0-rc.3](https://github.com/kubedb/pgpool/releases/tag/v0.2.0-rc.3)

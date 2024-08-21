@@ -355,6 +355,13 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.40.0](https://github.com/kubedb/mongodb/releases/tag/v0.40.0)
+
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.8.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.8.0)

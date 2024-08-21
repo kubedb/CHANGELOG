@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:30:40.948896662Z",
+  "release_date": "2024-08-21T23:31:06.01139841Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -1702,6 +1702,48 @@
             {
               "SHA": "65403ff6",
               "Subject": "Use v1 api (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "a807bf7",
+              "Subject": "Prepare for release v0.10.0 (#43)"
+            },
+            {
+              "SHA": "47e07e0",
+              "Subject": "Use Go 1.23 (#41)"
+            },
+            {
+              "SHA": "201ed9f",
+              "Subject": "Prepare for release v0.10.0-rc.3 (#42)"
+            },
+            {
+              "SHA": "5d6204e",
+              "Subject": "Wait for Ready condition instead of Provisioned condition (#40)"
+            },
+            {
+              "SHA": "15072a8",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#39)"
+            },
+            {
+              "SHA": "95dd894",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#38)"
+            },
+            {
+              "SHA": "11149d9",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "1588d95",
+              "Subject": "Use v1 api (#36)"
             }
           ]
         }

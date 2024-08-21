@@ -589,6 +589,21 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.10.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.10.0)
+
+- [a807bf7](https://github.com/kubedb/redis-restic-plugin/commit/a807bf7) Prepare for release v0.10.0 (#43)
+- [47e07e0](https://github.com/kubedb/redis-restic-plugin/commit/47e07e0) Use Go 1.23 (#41)
+- [201ed9f](https://github.com/kubedb/redis-restic-plugin/commit/201ed9f) Prepare for release v0.10.0-rc.3 (#42)
+- [5d6204e](https://github.com/kubedb/redis-restic-plugin/commit/5d6204e) Wait for Ready condition instead of Provisioned condition (#40)
+- [15072a8](https://github.com/kubedb/redis-restic-plugin/commit/15072a8) Prepare for release v0.10.0-rc.2 (#39)
+- [95dd894](https://github.com/kubedb/redis-restic-plugin/commit/95dd894) Prepare for release v0.10.0-rc.1 (#38)
+- [11149d9](https://github.com/kubedb/redis-restic-plugin/commit/11149d9) Prepare for release v0.10.0-rc.0 (#37)
+- [1588d95](https://github.com/kubedb/redis-restic-plugin/commit/1588d95) Use v1 api (#36)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.34.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.34.0)

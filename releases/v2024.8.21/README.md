@@ -220,3 +220,17 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.2.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.2.0)
+
+- [e431786](https://github.com/kubedb/singlestore-coordinator/commit/e431786) Prepare for release v0.2.0 (#26)
+- [2eb12f2](https://github.com/kubedb/singlestore-coordinator/commit/2eb12f2) Use Go 1.23 (#24)
+- [379e303](https://github.com/kubedb/singlestore-coordinator/commit/379e303) Prepare for release v0.2.0-rc.3 (#25)
+- [33a157b](https://github.com/kubedb/singlestore-coordinator/commit/33a157b) Prepare for release v0.2.0-rc.2 (#23)
+- [e0bc384](https://github.com/kubedb/singlestore-coordinator/commit/e0bc384) Prepare for release v0.2.0-rc.1 (#22)
+- [06e4926](https://github.com/kubedb/singlestore-coordinator/commit/06e4926) Prepare for release v0.2.0-rc.0 (#21)
+- [458fa6a](https://github.com/kubedb/singlestore-coordinator/commit/458fa6a) Update constants to use kubedb package (#20)
+
+
+

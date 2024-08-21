@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:36:48.285038449Z",
+  "release_date": "2024-08-21T16:37:16.97954171Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -622,6 +622,44 @@
             {
               "SHA": "65403ff6",
               "Subject": "Use v1 api (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e431786",
+              "Subject": "Prepare for release v0.2.0 (#26)"
+            },
+            {
+              "SHA": "2eb12f2",
+              "Subject": "Use Go 1.23 (#24)"
+            },
+            {
+              "SHA": "379e303",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#25)"
+            },
+            {
+              "SHA": "33a157b",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#23)"
+            },
+            {
+              "SHA": "e0bc384",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#22)"
+            },
+            {
+              "SHA": "06e4926",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#21)"
+            },
+            {
+              "SHA": "458fa6a",
+              "Subject": "Update constants to use kubedb package (#20)"
             }
           ]
         }

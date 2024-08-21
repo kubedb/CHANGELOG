@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:34:08.078243514Z",
+  "release_date": "2024-08-21T23:34:15.4826829Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -1667,6 +1667,64 @@
             {
               "SHA": "cdd1b821",
               "Subject": "Add PetSet Support; Use api-v1 (#156)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "0517ebc2",
+              "Subject": "Prepare for release v0.2.0 (#45)"
+            },
+            {
+              "SHA": "58277470",
+              "Subject": "Use Go 1.23 (#42)"
+            },
+            {
+              "SHA": "fef1f1bb",
+              "Subject": "Improve logs and fix (#43)"
+            },
+            {
+              "SHA": "8c6ad096",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#44)"
+            },
+            {
+              "SHA": "4763f499",
+              "Subject": "Test against k8s 1.31 (#41)"
+            },
+            {
+              "SHA": "b21f97fc",
+              "Subject": "Update webhook server (#40)"
+            },
+            {
+              "SHA": "7df31597",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#39)"
+            },
+            {
+              "SHA": "60867940",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#38)"
+            },
+            {
+              "SHA": "fa50af41",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "64bc921d",
+              "Subject": "Update constants to use kubedb package (#36)"
+            },
+            {
+              "SHA": "b1d4d232",
+              "Subject": "Remove redundant TLS secret getter and make method Exportable (#35)"
+            },
+            {
+              "SHA": "497c9eae",
+              "Subject": "Disable clickhouse in makefile (#34)"
             }
           ]
         }

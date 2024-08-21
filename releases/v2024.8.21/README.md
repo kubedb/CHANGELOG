@@ -566,6 +566,25 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.2.0](https://github.com/kubedb/pgpool/releases/tag/v0.2.0)
+
+- [0517ebc2](https://github.com/kubedb/pgpool/commit/0517ebc2) Prepare for release v0.2.0 (#45)
+- [58277470](https://github.com/kubedb/pgpool/commit/58277470) Use Go 1.23 (#42)
+- [fef1f1bb](https://github.com/kubedb/pgpool/commit/fef1f1bb) Improve logs and fix (#43)
+- [8c6ad096](https://github.com/kubedb/pgpool/commit/8c6ad096) Prepare for release v0.2.0-rc.3 (#44)
+- [4763f499](https://github.com/kubedb/pgpool/commit/4763f499) Test against k8s 1.31 (#41)
+- [b21f97fc](https://github.com/kubedb/pgpool/commit/b21f97fc) Update webhook server (#40)
+- [7df31597](https://github.com/kubedb/pgpool/commit/7df31597) Prepare for release v0.2.0-rc.2 (#39)
+- [60867940](https://github.com/kubedb/pgpool/commit/60867940) Prepare for release v0.2.0-rc.1 (#38)
+- [fa50af41](https://github.com/kubedb/pgpool/commit/fa50af41) Prepare for release v0.2.0-rc.0 (#37)
+- [64bc921d](https://github.com/kubedb/pgpool/commit/64bc921d) Update constants to use kubedb package (#36)
+- [b1d4d232](https://github.com/kubedb/pgpool/commit/b1d4d232) Remove redundant TLS secret getter and make method Exportable (#35)
+- [497c9eae](https://github.com/kubedb/pgpool/commit/497c9eae) Disable clickhouse in makefile (#34)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.47.0](https://github.com/kubedb/postgres/releases/tag/v0.47.0)

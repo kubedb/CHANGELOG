@@ -157,6 +157,20 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.8.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.8.0)
+
+- [aa34bec](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/aa34bec) Prepare for release v0.8.0 (#36)
+- [5dd5f10](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/5dd5f10) Use Go 1.23 (#34)
+- [68f40d9](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/68f40d9) Prepare for release v0.8.0-rc.3 (#35)
+- [744dd4a](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/744dd4a) Prepare for release v0.8.0-rc.2 (#33)
+- [624c851](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/624c851) Prepare for release v0.8.0-rc.1 (#32)
+- [5167fac](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/5167fac) Prepare for release v0.8.0-rc.0 (#31)
+- [9cbbfce](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/9cbbfce) Use v1 api (#30)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.9.0](https://github.com/kubedb/provider-aws/releases/tag/v0.9.0)

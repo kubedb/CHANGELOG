@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:35:23.248653968Z",
+  "release_date": "2024-08-21T16:35:43.055594264Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -481,6 +481,44 @@
             {
               "SHA": "e87d6c6",
               "Subject": "Use Go 1.23 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "aa34bec",
+              "Subject": "Prepare for release v0.8.0 (#36)"
+            },
+            {
+              "SHA": "5dd5f10",
+              "Subject": "Use Go 1.23 (#34)"
+            },
+            {
+              "SHA": "68f40d9",
+              "Subject": "Prepare for release v0.8.0-rc.3 (#35)"
+            },
+            {
+              "SHA": "744dd4a",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#33)"
+            },
+            {
+              "SHA": "624c851",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#32)"
+            },
+            {
+              "SHA": "5167fac",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "9cbbfce",
+              "Subject": "Use v1 api (#30)"
             }
           ]
         }

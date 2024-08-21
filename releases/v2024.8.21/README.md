@@ -588,6 +588,25 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.34.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.34.0)
+
+- [3fb01f22](https://github.com/kubedb/pgbouncer/commit/3fb01f22) Prepare for release v0.34.0 (#344)
+- [f6c0f760](https://github.com/kubedb/pgbouncer/commit/f6c0f760) Use Go 1.23 (#342)
+- [98209762](https://github.com/kubedb/pgbouncer/commit/98209762) Prepare for release v0.34.0-rc.3 (#343)
+- [c777b369](https://github.com/kubedb/pgbouncer/commit/c777b369) Use common DeletionPolicy
+- [2984f4f6](https://github.com/kubedb/pgbouncer/commit/2984f4f6) Test against k8s 1.31 (#341)
+- [fe1786b2](https://github.com/kubedb/pgbouncer/commit/fe1786b2) refactor webhook server (#340)
+- [ff8c5491](https://github.com/kubedb/pgbouncer/commit/ff8c5491) Prepare for release v0.34.0-rc.2 (#339)
+- [0f12bc22](https://github.com/kubedb/pgbouncer/commit/0f12bc22) Prepare for release v0.34.0-rc.1 (#338)
+- [3f9a8665](https://github.com/kubedb/pgbouncer/commit/3f9a8665) Signed-off-by: Hiranmoy Das Chowdhury <hiranmoy@appscode.com> (#337)
+- [cde85494](https://github.com/kubedb/pgbouncer/commit/cde85494) Prepare for release v0.34.0-rc.0 (#336)
+- [a266f397](https://github.com/kubedb/pgbouncer/commit/a266f397) Use v1 api (#334)
+- [d12eb869](https://github.com/kubedb/pgbouncer/commit/d12eb869) Auth_type md5 hashing fixed (#335)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.2.0](https://github.com/kubedb/pgpool/releases/tag/v0.2.0)

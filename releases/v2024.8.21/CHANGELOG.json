@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:46:24.732367291Z",
+  "release_date": "2024-08-21T23:56:37.34518563Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -1718,6 +1718,64 @@
             {
               "SHA": "cdd1b821",
               "Subject": "Add PetSet Support; Use api-v1 (#156)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "3fb01f22",
+              "Subject": "Prepare for release v0.34.0 (#344)"
+            },
+            {
+              "SHA": "f6c0f760",
+              "Subject": "Use Go 1.23 (#342)"
+            },
+            {
+              "SHA": "98209762",
+              "Subject": "Prepare for release v0.34.0-rc.3 (#343)"
+            },
+            {
+              "SHA": "c777b369",
+              "Subject": "Use common DeletionPolicy"
+            },
+            {
+              "SHA": "2984f4f6",
+              "Subject": "Test against k8s 1.31 (#341)"
+            },
+            {
+              "SHA": "fe1786b2",
+              "Subject": "refactor webhook server (#340)"
+            },
+            {
+              "SHA": "ff8c5491",
+              "Subject": "Prepare for release v0.34.0-rc.2 (#339)"
+            },
+            {
+              "SHA": "0f12bc22",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#338)"
+            },
+            {
+              "SHA": "3f9a8665",
+              "Subject": "Signed-off-by: Hiranmoy Das Chowdhury <hiranmoy@appscode.com> (#337)"
+            },
+            {
+              "SHA": "cde85494",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#336)"
+            },
+            {
+              "SHA": "a266f397",
+              "Subject": "Use v1 api (#334)"
+            },
+            {
+              "SHA": "d12eb869",
+              "Subject": "Auth_type md5 hashing fixed (#335)"
             }
           ]
         }

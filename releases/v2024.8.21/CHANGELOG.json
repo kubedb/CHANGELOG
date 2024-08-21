@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:30:36.522549772Z",
+  "release_date": "2024-08-21T23:30:40.948896662Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -397,6 +397,72 @@
             {
               "SHA": "3b94bb3e",
               "Subject": "Add v1 api to db clients (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "dc2d64b",
+              "Subject": "Prepare for release v0.2.0 (#44)"
+            },
+            {
+              "SHA": "a10f19e",
+              "Subject": "Fix internal zookeeper name setting (#43)"
+            },
+            {
+              "SHA": "6e9d176",
+              "Subject": "Use Go 1.23 (#40)"
+            },
+            {
+              "SHA": "4e96a5f",
+              "Subject": "Improve logs and fix (#41)"
+            },
+            {
+              "SHA": "99fa356",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#42)"
+            },
+            {
+              "SHA": "d66d6e1",
+              "Subject": "Test against k8s 1.31 (#39)"
+            },
+            {
+              "SHA": "de9cdce",
+              "Subject": "Update Webhook Server (#38)"
+            },
+            {
+              "SHA": "af49e11",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#37)"
+            },
+            {
+              "SHA": "c0f7a40",
+              "Subject": "Fix druid healthcheck (#36)"
+            },
+            {
+              "SHA": "d0bf458",
+              "Subject": "Update makefile and add druid db-client-go (#35)"
+            },
+            {
+              "SHA": "a72889d",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#34)"
+            },
+            {
+              "SHA": "c03ae84",
+              "Subject": "Update druid requeuing strategy for waiting (#33)"
+            },
+            {
+              "SHA": "8047a2d",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#32)"
+            },
+            {
+              "SHA": "3a3deb0",
+              "Subject": "Update druid for creating metadata storage and zk (#30)"
             }
           ]
         }

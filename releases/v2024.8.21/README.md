@@ -118,6 +118,27 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.2.0](https://github.com/kubedb/druid/releases/tag/v0.2.0)
+
+- [dc2d64b](https://github.com/kubedb/druid/commit/dc2d64b) Prepare for release v0.2.0 (#44)
+- [a10f19e](https://github.com/kubedb/druid/commit/a10f19e) Fix internal zookeeper name setting (#43)
+- [6e9d176](https://github.com/kubedb/druid/commit/6e9d176) Use Go 1.23 (#40)
+- [4e96a5f](https://github.com/kubedb/druid/commit/4e96a5f) Improve logs and fix (#41)
+- [99fa356](https://github.com/kubedb/druid/commit/99fa356) Prepare for release v0.2.0-rc.3 (#42)
+- [d66d6e1](https://github.com/kubedb/druid/commit/d66d6e1) Test against k8s 1.31 (#39)
+- [de9cdce](https://github.com/kubedb/druid/commit/de9cdce) Update Webhook Server (#38)
+- [af49e11](https://github.com/kubedb/druid/commit/af49e11) Prepare for release v0.2.0-rc.2 (#37)
+- [c0f7a40](https://github.com/kubedb/druid/commit/c0f7a40) Fix druid healthcheck (#36)
+- [d0bf458](https://github.com/kubedb/druid/commit/d0bf458) Update makefile and add druid db-client-go (#35)
+- [a72889d](https://github.com/kubedb/druid/commit/a72889d) Prepare for release v0.2.0-rc.1 (#34)
+- [c03ae84](https://github.com/kubedb/druid/commit/c03ae84) Update druid requeuing strategy for waiting (#33)
+- [8047a2d](https://github.com/kubedb/druid/commit/8047a2d) Prepare for release v0.2.0-rc.0 (#32)
+- [3a3deb0](https://github.com/kubedb/druid/commit/3a3deb0) Update druid for creating metadata storage and zk (#30)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.47.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.47.0)

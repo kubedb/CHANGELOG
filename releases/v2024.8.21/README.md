@@ -78,6 +78,25 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.2.0](https://github.com/kubedb/clickhouse/releases/tag/v0.2.0)
+
+- [4535a662](https://github.com/kubedb/clickhouse/commit/4535a662) Prepare for release v0.2.0 (#15)
+- [18fd762a](https://github.com/kubedb/clickhouse/commit/18fd762a) Use Go 1.23 (#12)
+- [e722214a](https://github.com/kubedb/clickhouse/commit/e722214a) Prepare for release v0.2.0-rc.3 (#14)
+- [d67b6596](https://github.com/kubedb/clickhouse/commit/d67b6596) Improve logs (#13)
+- [1a78915c](https://github.com/kubedb/clickhouse/commit/1a78915c) Update webhook server (#11)
+- [782c361e](https://github.com/kubedb/clickhouse/commit/782c361e) Fix unnecessary patch (#10)
+- [352d87ca](https://github.com/kubedb/clickhouse/commit/352d87ca) Prepare for release v0.2.0-rc.2 (#9)
+- [06fb2f51](https://github.com/kubedb/clickhouse/commit/06fb2f51) Fix Finalizer Removal and Remove PetSet Ready Condition Check (#8)
+- [69f6e117](https://github.com/kubedb/clickhouse/commit/69f6e117) Prepare for release v0.2.0-rc.1 (#7)
+- [205ad288](https://github.com/kubedb/clickhouse/commit/205ad288) Prepare for release v0.2.0-rc.0 (#6)
+- [a763c285](https://github.com/kubedb/clickhouse/commit/a763c285) Update constants to use kubedb package (#5)
+- [d16c8c0b](https://github.com/kubedb/clickhouse/commit/d16c8c0b) Fix Auth Secret Issue (#3)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.2.0](https://github.com/kubedb/crd-manager/releases/tag/v0.2.0)

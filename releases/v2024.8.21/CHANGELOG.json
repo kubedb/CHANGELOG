@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:32:36.860448884Z",
+  "release_date": "2024-08-21T23:32:42.13297213Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -273,6 +273,64 @@
             {
               "SHA": "2e7131a6",
               "Subject": "update api to v1 (#771)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "4535a662",
+              "Subject": "Prepare for release v0.2.0 (#15)"
+            },
+            {
+              "SHA": "18fd762a",
+              "Subject": "Use Go 1.23 (#12)"
+            },
+            {
+              "SHA": "e722214a",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#14)"
+            },
+            {
+              "SHA": "d67b6596",
+              "Subject": "Improve logs (#13)"
+            },
+            {
+              "SHA": "1a78915c",
+              "Subject": "Update webhook server (#11)"
+            },
+            {
+              "SHA": "782c361e",
+              "Subject": "Fix unnecessary patch (#10)"
+            },
+            {
+              "SHA": "352d87ca",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#9)"
+            },
+            {
+              "SHA": "06fb2f51",
+              "Subject": "Fix Finalizer Removal and Remove PetSet Ready Condition Check (#8)"
+            },
+            {
+              "SHA": "69f6e117",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#7)"
+            },
+            {
+              "SHA": "205ad288",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "a763c285",
+              "Subject": "Update constants to use kubedb package (#5)"
+            },
+            {
+              "SHA": "d16c8c0b",
+              "Subject": "Fix Auth Secret Issue (#3)"
             }
           ]
         }

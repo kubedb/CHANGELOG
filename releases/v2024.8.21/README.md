@@ -131,6 +131,23 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.40.0](https://github.com/kubedb/mysql/releases/tag/v0.40.0)
+
+- [e4002e3c](https://github.com/kubedb/mysql/commit/e4002e3ca) Prepare for release v0.40.0 (#637)
+- [fec33196](https://github.com/kubedb/mysql/commit/fec331965) Use Go 1.23 (#635)
+- [715b4713](https://github.com/kubedb/mysql/commit/715b4713d) Prepare for release v0.40.0-rc.3 (#636)
+- [46d5c62c](https://github.com/kubedb/mysql/commit/46d5c62ce) Test against k8s 1.31 (#634)
+- [42a90ae7](https://github.com/kubedb/mysql/commit/42a90ae77) Refactor MySQL Webhook Server (#633)
+- [b2cc7f23](https://github.com/kubedb/mysql/commit/b2cc7f236) Prepare for release v0.40.0-rc.2 (#632)
+- [9801f22d](https://github.com/kubedb/mysql/commit/9801f22db) Prepare for release v0.40.0-rc.1 (#631)
+- [695750a5](https://github.com/kubedb/mysql/commit/695750a55) fix validator for MySQL (#630)
+- [3ca73ddd](https://github.com/kubedb/mysql/commit/3ca73ddda) Prepare for release v0.40.0-rc.0 (#629)
+- [54cb812e](https://github.com/kubedb/mysql/commit/54cb812ec) Add PetSet and move on V1 API (#628)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.8.0)

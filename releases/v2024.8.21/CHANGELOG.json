@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:41:03.865626636Z",
+  "release_date": "2024-08-21T16:41:42.991935356Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -413,6 +413,56 @@
             {
               "SHA": "47b5046",
               "Subject": "Prepare for release v0.1.0-rc.3 (#4)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "e4002e3ca",
+              "Subject": "Prepare for release v0.40.0 (#637)"
+            },
+            {
+              "SHA": "fec331965",
+              "Subject": "Use Go 1.23 (#635)"
+            },
+            {
+              "SHA": "715b4713d",
+              "Subject": "Prepare for release v0.40.0-rc.3 (#636)"
+            },
+            {
+              "SHA": "46d5c62ce",
+              "Subject": "Test against k8s 1.31 (#634)"
+            },
+            {
+              "SHA": "42a90ae77",
+              "Subject": "Refactor MySQL Webhook Server (#633)"
+            },
+            {
+              "SHA": "b2cc7f236",
+              "Subject": "Prepare for release v0.40.0-rc.2 (#632)"
+            },
+            {
+              "SHA": "9801f22db",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#631)"
+            },
+            {
+              "SHA": "695750a55",
+              "Subject": "fix validator for MySQL (#630)"
+            },
+            {
+              "SHA": "3ca73ddda",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#629)"
+            },
+            {
+              "SHA": "54cb812ec",
+              "Subject": "Add PetSet and move on V1 API (#628)"
             }
           ]
         }

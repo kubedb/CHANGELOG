@@ -325,6 +325,26 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.2.0](https://github.com/kubedb/solr/releases/tag/v0.2.0)
+
+- [e1ba977a](https://github.com/kubedb/solr/commit/e1ba977a) Prepare for release v0.2.0 (#46)
+- [ef089cf4](https://github.com/kubedb/solr/commit/ef089cf4) Use Go 1.23 (#43)
+- [5dcbfa1d](https://github.com/kubedb/solr/commit/5dcbfa1d) Prepare for release v0.2.0-rc.3 (#45)
+- [02eccb48](https://github.com/kubedb/solr/commit/02eccb48) Improve logs (#44)
+- [82a533c8](https://github.com/kubedb/solr/commit/82a533c8) Test against k8s 1.31 (#42)
+- [4e1ff74a](https://github.com/kubedb/solr/commit/4e1ff74a) Fix chroot issue to configure multiple solr cluster refering single zk (#41)
+- [86526192](https://github.com/kubedb/solr/commit/86526192) Fix petset patch issue (#40)
+- [a7534064](https://github.com/kubedb/solr/commit/a7534064) Prepare for release v0.2.0-rc.2 (#39)
+- [1dd26676](https://github.com/kubedb/solr/commit/1dd26676) Changes related to ops manager (#38)
+- [4d896266](https://github.com/kubedb/solr/commit/4d896266) Prepare for release v0.2.0-rc.1 (#37)
+- [d8f02861](https://github.com/kubedb/solr/commit/d8f02861) fix constants (#36)
+- [38d0c569](https://github.com/kubedb/solr/commit/38d0c569) Prepare for release v0.2.0-rc.0 (#35)
+- [ca47b7be](https://github.com/kubedb/solr/commit/ca47b7be) Update constants to use kubedb package (#34)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.32.0](https://github.com/kubedb/tests/releases/tag/v0.32.0)

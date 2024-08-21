@@ -173,6 +173,20 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.20.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.20.0)
+
+- [2d9941e4](https://github.com/kubedb/percona-xtradb-coordinator/commit/2d9941e4) Prepare for release v0.20.0 (#80)
+- [93829115](https://github.com/kubedb/percona-xtradb-coordinator/commit/93829115) Use Go 1.23 (#78)
+- [c15480fc](https://github.com/kubedb/percona-xtradb-coordinator/commit/c15480fc) Prepare for release v0.20.0-rc.3 (#79)
+- [b43e1a42](https://github.com/kubedb/percona-xtradb-coordinator/commit/b43e1a42) Prepare for release v0.20.0-rc.2 (#77)
+- [fc57007d](https://github.com/kubedb/percona-xtradb-coordinator/commit/fc57007d) Prepare for release v0.20.0-rc.1 (#76)
+- [67e20d0d](https://github.com/kubedb/percona-xtradb-coordinator/commit/67e20d0d) Prepare for release v0.20.0-rc.0 (#75)
+- [6b8544b7](https://github.com/kubedb/percona-xtradb-coordinator/commit/6b8544b7) Use v1 api (#74)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.8.0)

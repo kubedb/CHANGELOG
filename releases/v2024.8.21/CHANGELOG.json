@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:37:42.764265573Z",
+  "release_date": "2024-08-21T16:38:00.69110499Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -527,6 +527,44 @@
             {
               "SHA": "e87d6c6",
               "Subject": "Use Go 1.23 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "2d9941e4",
+              "Subject": "Prepare for release v0.20.0 (#80)"
+            },
+            {
+              "SHA": "93829115",
+              "Subject": "Use Go 1.23 (#78)"
+            },
+            {
+              "SHA": "c15480fc",
+              "Subject": "Prepare for release v0.20.0-rc.3 (#79)"
+            },
+            {
+              "SHA": "b43e1a42",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#77)"
+            },
+            {
+              "SHA": "fc57007d",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#76)"
+            },
+            {
+              "SHA": "67e20d0d",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#75)"
+            },
+            {
+              "SHA": "6b8544b7",
+              "Subject": "Use v1 api (#74)"
             }
           ]
         }

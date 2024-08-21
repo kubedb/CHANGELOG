@@ -104,6 +104,24 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.18.0](https://github.com/kubedb/kafka/releases/tag/v0.18.0)
+
+- [81d379d0](https://github.com/kubedb/kafka/commit/81d379d0) Prepare for release v0.18.0 (#105)
+- [db65ea0d](https://github.com/kubedb/kafka/commit/db65ea0d) Use Go 1.23 (#103)
+- [61da1711](https://github.com/kubedb/kafka/commit/61da1711) Prepare for release v0.18.0-rc.3 (#104)
+- [0d676702](https://github.com/kubedb/kafka/commit/0d676702) Test against k8s 1.31 (#102)
+- [f826ea35](https://github.com/kubedb/kafka/commit/f826ea35) Update ReadinessGate Conditions and remove unncessary logs (#101)
+- [98b8a404](https://github.com/kubedb/kafka/commit/98b8a404) Prepare for release v0.18.0-rc.2 (#100)
+- [ced0da95](https://github.com/kubedb/kafka/commit/ced0da95) Add Kafka RestProxy (#99)
+- [b2cc90d4](https://github.com/kubedb/kafka/commit/b2cc90d4) Prepare for release v0.18.0-rc.1 (#98)
+- [7a56e529](https://github.com/kubedb/kafka/commit/7a56e529) Install petset kafka daily (#97)
+- [c3f92486](https://github.com/kubedb/kafka/commit/c3f92486) Prepare for release v0.18.0-rc.0 (#96)
+- [19b65b86](https://github.com/kubedb/kafka/commit/19b65b86) Update Statefulset with PetSet and apiversion (#95)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0)

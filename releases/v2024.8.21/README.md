@@ -372,6 +372,20 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.2.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.2.0)
+
+- [656c097d](https://github.com/kubedb/mssql-coordinator/commit/656c097d) Prepare for release v0.2.0 (#15)
+- [220f9504](https://github.com/kubedb/mssql-coordinator/commit/220f9504) Use Go 1.23 (#13)
+- [2bbe790a](https://github.com/kubedb/mssql-coordinator/commit/2bbe790a) Prepare for release v0.2.0-rc.3 (#14)
+- [b6e43327](https://github.com/kubedb/mssql-coordinator/commit/b6e43327) Prepare for release v0.2.0-rc.2 (#12)
+- [080b930e](https://github.com/kubedb/mssql-coordinator/commit/080b930e) Prepare for release v0.2.0-rc.1 (#11)
+- [56e423f5](https://github.com/kubedb/mssql-coordinator/commit/56e423f5) Prepare for release v0.2.0-rc.0 (#10)
+- [482a349a](https://github.com/kubedb/mssql-coordinator/commit/482a349a) Update constants to use kubedb package (#9)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.2.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.2.0)

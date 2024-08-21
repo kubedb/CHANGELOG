@@ -63,3 +63,23 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.2.0](https://github.com/kubedb/db-client-go/releases/tag/v0.2.0)
+
+- [ccd70e6f](https://github.com/kubedb/db-client-go/commit/ccd70e6f) Prepare for release v0.2.0 (#132)
+- [2088c88e](https://github.com/kubedb/db-client-go/commit/2088c88e) Use Go 1.23 (#129)
+- [b4a5b756](https://github.com/kubedb/db-client-go/commit/b4a5b756) Prepare for release v0.2.0-rc.3 (#131)
+- [f17f15a5](https://github.com/kubedb/db-client-go/commit/f17f15a5) Update log verbosity level (#127)
+- [99d096fb](https://github.com/kubedb/db-client-go/commit/99d096fb) Prepare for release v0.2.0-rc.2 (#126)
+- [49bebb7e](https://github.com/kubedb/db-client-go/commit/49bebb7e) Add Kafka RestProxy (#123)
+- [495ccff1](https://github.com/kubedb/db-client-go/commit/495ccff1) Add solr client. (#106)
+- [01231603](https://github.com/kubedb/db-client-go/commit/01231603) Add method to set database for redis client (#125)
+- [877df856](https://github.com/kubedb/db-client-go/commit/877df856) Add ZooKeeper Client (#124)
+- [48d0e46f](https://github.com/kubedb/db-client-go/commit/48d0e46f) Add druid client (#122)
+- [57a5122f](https://github.com/kubedb/db-client-go/commit/57a5122f) Prepare for release v0.2.0-rc.1 (#121)
+- [01905848](https://github.com/kubedb/db-client-go/commit/01905848) Prepare for release v0.2.0-rc.0 (#120)
+- [3b94bb3e](https://github.com/kubedb/db-client-go/commit/3b94bb3e) Add v1 api to db clients (#119)
+
+
+

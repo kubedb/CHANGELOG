@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:15:04.4268379Z",
+  "release_date": "2024-08-21T16:23:31.234725164Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -231,6 +231,68 @@
             {
               "SHA": "c1a2e2745",
               "Subject": "Reset RabbitMQ default healthcker periodSecond (#1237)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "ccd70e6f",
+              "Subject": "Prepare for release v0.2.0 (#132)"
+            },
+            {
+              "SHA": "2088c88e",
+              "Subject": "Use Go 1.23 (#129)"
+            },
+            {
+              "SHA": "b4a5b756",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#131)"
+            },
+            {
+              "SHA": "f17f15a5",
+              "Subject": "Update log verbosity level (#127)"
+            },
+            {
+              "SHA": "99d096fb",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#126)"
+            },
+            {
+              "SHA": "49bebb7e",
+              "Subject": "Add Kafka RestProxy (#123)"
+            },
+            {
+              "SHA": "495ccff1",
+              "Subject": "Add solr client. (#106)"
+            },
+            {
+              "SHA": "01231603",
+              "Subject": "Add method to set database for redis client (#125)"
+            },
+            {
+              "SHA": "877df856",
+              "Subject": "Add ZooKeeper Client (#124)"
+            },
+            {
+              "SHA": "48d0e46f",
+              "Subject": "Add druid client (#122)"
+            },
+            {
+              "SHA": "57a5122f",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#121)"
+            },
+            {
+              "SHA": "01905848",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#120)"
+            },
+            {
+              "SHA": "3b94bb3e",
+              "Subject": "Add v1 api to db clients (#119)"
             }
           ]
         }

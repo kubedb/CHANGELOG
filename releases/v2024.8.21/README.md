@@ -98,6 +98,15 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.1.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.1.0)
+
+- [7c04349](https://github.com/kubedb/mssqlserver-archiver/commit/7c04349) Use Go 1.23 (#3)
+- [7c867e6](https://github.com/kubedb/mssqlserver-archiver/commit/7c867e6) Prepare for release v0.1.0-rc.3 (#2)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.8.0)

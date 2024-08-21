@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:41:48.3936984Z",
+  "release_date": "2024-08-21T16:42:28.944353679Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -742,6 +742,68 @@
         {
           "tag": "v0.9.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "847f59c57",
+              "Subject": "Prepare for release v0.40.0 (#556)"
+            },
+            {
+              "SHA": "a2cb2a098",
+              "Subject": "Use Go 1.23 (#554)"
+            },
+            {
+              "SHA": "8e1b8b600",
+              "Subject": "Prepare for release v0.40.0-rc.3 (#555)"
+            },
+            {
+              "SHA": "19c330c78",
+              "Subject": "Test against k8s 1.31 (#553)"
+            },
+            {
+              "SHA": "e28ec45ca",
+              "Subject": "Update Redis Webhook Server (#551)"
+            },
+            {
+              "SHA": "89ab2ee14",
+              "Subject": "Remove Redis Petset Extra Enque (#552)"
+            },
+            {
+              "SHA": "0dd628243",
+              "Subject": "Fix webhook crash issue for sentinel (#550)"
+            },
+            {
+              "SHA": "7e9c8648c",
+              "Subject": "Prepare for release v0.40.0-rc.2 (#549)"
+            },
+            {
+              "SHA": "38b4b3807",
+              "Subject": "Update deps (#547)"
+            },
+            {
+              "SHA": "9cb53e470",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#546)"
+            },
+            {
+              "SHA": "8af74f1a0",
+              "Subject": "Update master -> shards and replica count for cluster (#545)"
+            },
+            {
+              "SHA": "824f81d9b",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#544)"
+            },
+            {
+              "SHA": "5fadc9404",
+              "Subject": "Use v1 api (#542)"
+            }
+          ]
         }
       ]
     },

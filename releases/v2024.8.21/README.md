@@ -263,6 +263,26 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.40.0](https://github.com/kubedb/redis/releases/tag/v0.40.0)
+
+- [847f59c5](https://github.com/kubedb/redis/commit/847f59c57) Prepare for release v0.40.0 (#556)
+- [a2cb2a09](https://github.com/kubedb/redis/commit/a2cb2a098) Use Go 1.23 (#554)
+- [8e1b8b60](https://github.com/kubedb/redis/commit/8e1b8b600) Prepare for release v0.40.0-rc.3 (#555)
+- [19c330c7](https://github.com/kubedb/redis/commit/19c330c78) Test against k8s 1.31 (#553)
+- [e28ec45c](https://github.com/kubedb/redis/commit/e28ec45ca) Update Redis Webhook Server (#551)
+- [89ab2ee1](https://github.com/kubedb/redis/commit/89ab2ee14) Remove Redis Petset Extra Enque (#552)
+- [0dd62824](https://github.com/kubedb/redis/commit/0dd628243) Fix webhook crash issue for sentinel (#550)
+- [7e9c8648](https://github.com/kubedb/redis/commit/7e9c8648c) Prepare for release v0.40.0-rc.2 (#549)
+- [38b4b380](https://github.com/kubedb/redis/commit/38b4b3807) Update deps (#547)
+- [9cb53e47](https://github.com/kubedb/redis/commit/9cb53e470) Prepare for release v0.40.0-rc.1 (#546)
+- [8af74f1a](https://github.com/kubedb/redis/commit/8af74f1a0) Update master -> shards and replica count for cluster (#545)
+- [824f81d9](https://github.com/kubedb/redis/commit/824f81d9b) Prepare for release v0.40.0-rc.0 (#544)
+- [5fadc940](https://github.com/kubedb/redis/commit/5fadc9404) Use v1 api (#542)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.26.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.26.0)

@@ -137,6 +137,20 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.10.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.10.0)
+
+- [aad5d42](https://github.com/kubedb/elasticsearch-restic-plugin/commit/aad5d42) Prepare for release v0.10.0 (#40)
+- [bda2eb3](https://github.com/kubedb/elasticsearch-restic-plugin/commit/bda2eb3) Use Go 1.23 (#38)
+- [e6aacd8](https://github.com/kubedb/elasticsearch-restic-plugin/commit/e6aacd8) Prepare for release v0.10.0-rc.3 (#39)
+- [2fabca1](https://github.com/kubedb/elasticsearch-restic-plugin/commit/2fabca1) Prepare for release v0.10.0-rc.2 (#37)
+- [5a8fe42](https://github.com/kubedb/elasticsearch-restic-plugin/commit/5a8fe42) Prepare for release v0.10.0-rc.1 (#36)
+- [10c7f69](https://github.com/kubedb/elasticsearch-restic-plugin/commit/10c7f69) Prepare for release v0.10.0-rc.0 (#35)
+- [0f742fd](https://github.com/kubedb/elasticsearch-restic-plugin/commit/0f742fd) Use v1 api (#34)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.2.0](https://github.com/kubedb/ferretdb/releases/tag/v0.2.0)

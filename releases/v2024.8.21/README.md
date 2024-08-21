@@ -279,6 +279,21 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.25.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.25.0)
+
+- [6e595bee](https://github.com/kubedb/mysql-coordinator/commit/6e595bee) Prepare for release v0.25.0 (#122)
+- [97ada282](https://github.com/kubedb/mysql-coordinator/commit/97ada282) Use Go 1.23 (#120)
+- [486d06e4](https://github.com/kubedb/mysql-coordinator/commit/486d06e4) Prepare for release v0.25.0-rc.3 (#121)
+- [cbae32d4](https://github.com/kubedb/mysql-coordinator/commit/cbae32d4) Prepare for release v0.25.0-rc.2 (#119)
+- [7565022c](https://github.com/kubedb/mysql-coordinator/commit/7565022c) Prepare for release v0.25.0-rc.1 (#118)
+- [e15adb2d](https://github.com/kubedb/mysql-coordinator/commit/e15adb2d) Update StatefulSet to PetSet (#117)
+- [b8c377fd](https://github.com/kubedb/mysql-coordinator/commit/b8c377fd) Prepare for release v0.25.0-rc.0 (#116)
+- [f29b8f56](https://github.com/kubedb/mysql-coordinator/commit/f29b8f56) Update constants to use kubedb package (#115)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.8.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.8.0)

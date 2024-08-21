@@ -117,6 +117,21 @@
 
 
 
+## [kubedb/dashboard](https://github.com/kubedb/dashboard)
+
+### [v0.23.0](https://github.com/kubedb/dashboard/releases/tag/v0.23.0)
+
+- [e49b6c5e](https://github.com/kubedb/dashboard/commit/e49b6c5e) Prepare for release v0.23.0 (#125)
+- [4e1438c2](https://github.com/kubedb/dashboard/commit/4e1438c2) Use Go 1.23 (#123)
+- [838503eb](https://github.com/kubedb/dashboard/commit/838503eb) Prepare for release v0.23.0-rc.3 (#124)
+- [08560e23](https://github.com/kubedb/dashboard/commit/08560e23) Use serviceTemplate provided specs for primary svc (#122)
+- [b23df248](https://github.com/kubedb/dashboard/commit/b23df248) Prepare for release v0.23.0-rc.2 (#121)
+- [f47fe1fb](https://github.com/kubedb/dashboard/commit/f47fe1fb) Prepare for release v0.23.0-rc.1 (#120)
+- [cc962aff](https://github.com/kubedb/dashboard/commit/cc962aff) Prepare for release v0.23.0-rc.0 (#119)
+- [4981533c](https://github.com/kubedb/dashboard/commit/4981533c) Update constants with apiv1 (#118)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.5.0)

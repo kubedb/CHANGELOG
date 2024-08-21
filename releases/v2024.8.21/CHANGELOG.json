@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:34:56.14144901Z",
+  "release_date": "2024-08-21T23:46:24.732367291Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -393,6 +393,48 @@
             {
               "SHA": "5c05c9ba",
               "Subject": "Move features to apimachinery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "e49b6c5e",
+              "Subject": "Prepare for release v0.23.0 (#125)"
+            },
+            {
+              "SHA": "4e1438c2",
+              "Subject": "Use Go 1.23 (#123)"
+            },
+            {
+              "SHA": "838503eb",
+              "Subject": "Prepare for release v0.23.0-rc.3 (#124)"
+            },
+            {
+              "SHA": "08560e23",
+              "Subject": "Use serviceTemplate provided specs for primary svc (#122)"
+            },
+            {
+              "SHA": "b23df248",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#121)"
+            },
+            {
+              "SHA": "f47fe1fb",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#120)"
+            },
+            {
+              "SHA": "cc962aff",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#119)"
+            },
+            {
+              "SHA": "4981533c",
+              "Subject": "Update constants with apiv1 (#118)"
             }
           ]
         }

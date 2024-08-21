@@ -505,6 +505,26 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.47.0](https://github.com/kubedb/postgres/releases/tag/v0.47.0)
+
+- [d088609f](https://github.com/kubedb/postgres/commit/d088609f0) Prepare for release v0.47.0 (#751)
+- [f3f25627](https://github.com/kubedb/postgres/commit/f3f256279) Move archive recovery and set archiver function to workqueue (#750)
+- [43c394ac](https://github.com/kubedb/postgres/commit/43c394ac5) Use Go 1.23 (#748)
+- [3cce86fd](https://github.com/kubedb/postgres/commit/3cce86fd5) Prepare for release v0.47.0-rc.3 (#749)
+- [ae6fe1b9](https://github.com/kubedb/postgres/commit/ae6fe1b9b) Test against k8s 1.31 (#747)
+- [53972b4f](https://github.com/kubedb/postgres/commit/53972b4f6) Mongodb Alike Archiver related changes (#746)
+- [9c39791e](https://github.com/kubedb/postgres/commit/9c39791e3) Refactor Postgres With changes from Webhook-server (#745)
+- [25b10bb6](https://github.com/kubedb/postgres/commit/25b10bb6e) Prepare for release v0.47.0-rc.2 (#743)
+- [2a6b188e](https://github.com/kubedb/postgres/commit/2a6b188e7) trgger backup once after appbinding is created from provisioner (#741)
+- [2bf47c9e](https://github.com/kubedb/postgres/commit/2bf47c9e4) Prepare for release v0.47.0-rc.1 (#739)
+- [bcfe0a48](https://github.com/kubedb/postgres/commit/bcfe0a488) Fix validator for postgres (#738)
+- [96a43728](https://github.com/kubedb/postgres/commit/96a43728c) Prepare for release v0.47.0-rc.0 (#737)
+- [9233ae5c](https://github.com/kubedb/postgres/commit/9233ae5c6) Integrate PetSet in Postgres; Use apiv1 (#718)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.8.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:32:22.497536773Z",
+  "release_date": "2024-08-21T23:32:36.860448884Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -1495,6 +1495,68 @@
             {
               "SHA": "cdd1b821",
               "Subject": "Add PetSet Support; Use api-v1 (#156)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "d088609f0",
+              "Subject": "Prepare for release v0.47.0 (#751)"
+            },
+            {
+              "SHA": "f3f256279",
+              "Subject": "Move archive recovery and set archiver function to workqueue (#750)"
+            },
+            {
+              "SHA": "43c394ac5",
+              "Subject": "Use Go 1.23 (#748)"
+            },
+            {
+              "SHA": "3cce86fd5",
+              "Subject": "Prepare for release v0.47.0-rc.3 (#749)"
+            },
+            {
+              "SHA": "ae6fe1b9b",
+              "Subject": "Test against k8s 1.31 (#747)"
+            },
+            {
+              "SHA": "53972b4f6",
+              "Subject": "Mongodb Alike Archiver related changes (#746)"
+            },
+            {
+              "SHA": "9c39791e3",
+              "Subject": "Refactor Postgres With changes from Webhook-server (#745)"
+            },
+            {
+              "SHA": "25b10bb6e",
+              "Subject": "Prepare for release v0.47.0-rc.2 (#743)"
+            },
+            {
+              "SHA": "2a6b188e7",
+              "Subject": "trgger backup once after appbinding is created from provisioner (#741)"
+            },
+            {
+              "SHA": "2bf47c9e4",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#739)"
+            },
+            {
+              "SHA": "bcfe0a488",
+              "Subject": "Fix validator for postgres (#738)"
+            },
+            {
+              "SHA": "96a43728c",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#737)"
+            },
+            {
+              "SHA": "9233ae5c6",
+              "Subject": "Integrate PetSet in Postgres; Use apiv1 (#718)"
             }
           ]
         }

@@ -459,6 +459,21 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.5.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.5.0)
+
+- [4146dcd](https://github.com/kubedb/singlestore-restic-plugin/commit/4146dcd) Prepare for release v0.5.0 (#22)
+- [d01b066](https://github.com/kubedb/singlestore-restic-plugin/commit/d01b066) Use Go 1.23 (#20)
+- [b811edc](https://github.com/kubedb/singlestore-restic-plugin/commit/b811edc) Remove provision condition and add ready condition (#19)
+- [99b5c46](https://github.com/kubedb/singlestore-restic-plugin/commit/99b5c46) Prepare for release v0.5.0-rc.3 (#21)
+- [1a8b875](https://github.com/kubedb/singlestore-restic-plugin/commit/1a8b875) Prepare for release v0.5.0-rc.2 (#18)
+- [9bf8b9c](https://github.com/kubedb/singlestore-restic-plugin/commit/9bf8b9c) Prepare for release v0.5.0-rc.1 (#17)
+- [efca7ae](https://github.com/kubedb/singlestore-restic-plugin/commit/efca7ae) Prepare for release v0.5.0-rc.0 (#16)
+- [ae76f5a](https://github.com/kubedb/singlestore-restic-plugin/commit/ae76f5a) Update constants to use kubedb package (#15)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.2.0](https://github.com/kubedb/solr/releases/tag/v0.2.0)

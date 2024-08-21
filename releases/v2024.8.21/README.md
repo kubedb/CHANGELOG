@@ -121,6 +121,16 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.1.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.1.0)
+
+- [2f8ad13](https://github.com/kubedb/mssqlserver-walg-plugin/commit/2f8ad13) Prepare for release v0.1.0 (#5)
+- [23da1d4](https://github.com/kubedb/mssqlserver-walg-plugin/commit/23da1d4) Use Go 1.23 (#3)
+- [47b5046](https://github.com/kubedb/mssqlserver-walg-plugin/commit/47b5046) Prepare for release v0.1.0-rc.3 (#4)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.8.0)

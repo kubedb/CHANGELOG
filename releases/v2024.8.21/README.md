@@ -459,6 +459,24 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.34.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.34.0)
+
+- [142029cb](https://github.com/kubedb/percona-xtradb/commit/142029cb9) Prepare for release v0.34.0 (#379)
+- [d01b600e](https://github.com/kubedb/percona-xtradb/commit/d01b600ed) Use Go 1.23 (#377)
+- [43b7e218](https://github.com/kubedb/percona-xtradb/commit/43b7e2180) Prepare for release v0.34.0-rc.3 (#378)
+- [99a0cb4b](https://github.com/kubedb/percona-xtradb/commit/99a0cb4b6) Test against k8s 1.31 (#376)
+- [bdb89e11](https://github.com/kubedb/percona-xtradb/commit/bdb89e115) Refactor Wekhook (#375)
+- [4db202b7](https://github.com/kubedb/percona-xtradb/commit/4db202b76) Prepare for release v0.34.0-rc.2 (#374)
+- [4fa06ced](https://github.com/kubedb/percona-xtradb/commit/4fa06cedc) Fix Init Container Volume Mount Issue (#373)
+- [eded3d05](https://github.com/kubedb/percona-xtradb/commit/eded3d05d) Prepare for release v0.34.0-rc.1 (#372)
+- [1966d11a](https://github.com/kubedb/percona-xtradb/commit/1966d11a3) Fix Env Validation (#371)
+- [e65c886f](https://github.com/kubedb/percona-xtradb/commit/e65c886f8) Prepare for release v0.34.0-rc.0 (#370)
+- [9e8f5c8b](https://github.com/kubedb/percona-xtradb/commit/9e8f5c8b7) Use v1 api (#369)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.20.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.20.0)

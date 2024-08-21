@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:31:47.013783235Z",
+  "release_date": "2024-08-21T23:32:22.497536773Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -1365,6 +1365,60 @@
             {
               "SHA": "e87d6c6",
               "Subject": "Use Go 1.23 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "142029cb9",
+              "Subject": "Prepare for release v0.34.0 (#379)"
+            },
+            {
+              "SHA": "d01b600ed",
+              "Subject": "Use Go 1.23 (#377)"
+            },
+            {
+              "SHA": "43b7e2180",
+              "Subject": "Prepare for release v0.34.0-rc.3 (#378)"
+            },
+            {
+              "SHA": "99a0cb4b6",
+              "Subject": "Test against k8s 1.31 (#376)"
+            },
+            {
+              "SHA": "bdb89e115",
+              "Subject": "Refactor Wekhook (#375)"
+            },
+            {
+              "SHA": "4db202b76",
+              "Subject": "Prepare for release v0.34.0-rc.2 (#374)"
+            },
+            {
+              "SHA": "4fa06cedc",
+              "Subject": "Fix Init Container Volume Mount Issue (#373)"
+            },
+            {
+              "SHA": "eded3d05d",
+              "Subject": "Prepare for release v0.34.0-rc.1 (#372)"
+            },
+            {
+              "SHA": "1966d11a3",
+              "Subject": "Fix Env Validation (#371)"
+            },
+            {
+              "SHA": "e65c886f8",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#370)"
+            },
+            {
+              "SHA": "9e8f5c8b7",
+              "Subject": "Use v1 api (#369)"
             }
           ]
         }

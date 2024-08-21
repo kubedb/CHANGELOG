@@ -83,6 +83,27 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.2.0](https://github.com/kubedb/ferretdb/releases/tag/v0.2.0)
+
+- [86949d6c](https://github.com/kubedb/ferretdb/commit/86949d6c) Prepare for release v0.2.0 (#42)
+- [a6955947](https://github.com/kubedb/ferretdb/commit/a6955947) Use Go 1.23 (#40)
+- [7c5d6d1c](https://github.com/kubedb/ferretdb/commit/7c5d6d1c) Prepare for release v0.2.0-rc.3 (#41)
+- [b6223cab](https://github.com/kubedb/ferretdb/commit/b6223cab) Test against k8s 1.31 (#39)
+- [933d5b0d](https://github.com/kubedb/ferretdb/commit/933d5b0d) update server (#37)
+- [a587c29d](https://github.com/kubedb/ferretdb/commit/a587c29d) pass context properly (#38)
+- [0a38354a](https://github.com/kubedb/ferretdb/commit/0a38354a) Prepare for release v0.2.0-rc.2 (#36)
+- [0d005f64](https://github.com/kubedb/ferretdb/commit/0d005f64) Make some changes for ops manager (#35)
+- [fcc68498](https://github.com/kubedb/ferretdb/commit/fcc68498) Prepare for release v0.2.0-rc.1 (#34)
+- [e8dfe581](https://github.com/kubedb/ferretdb/commit/e8dfe581) make client funcs accessible (#33)
+- [c9abee71](https://github.com/kubedb/ferretdb/commit/c9abee71) Prepare for release v0.2.0-rc.0 (#32)
+- [0c36fb43](https://github.com/kubedb/ferretdb/commit/0c36fb43) Fix apimachinery constants (#31)
+- [0afda2a8](https://github.com/kubedb/ferretdb/commit/0afda2a8) Add e2e ci (#25)
+- [652e0d81](https://github.com/kubedb/ferretdb/commit/652e0d81) Fix Backend TLS connection (#30)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0)

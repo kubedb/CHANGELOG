@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:42:34.705314605Z",
+  "release_date": "2024-08-21T16:43:06.21394682Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -293,6 +293,72 @@
             {
               "SHA": "3b94bb3e",
               "Subject": "Add v1 api to db clients (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "86949d6c",
+              "Subject": "Prepare for release v0.2.0 (#42)"
+            },
+            {
+              "SHA": "a6955947",
+              "Subject": "Use Go 1.23 (#40)"
+            },
+            {
+              "SHA": "7c5d6d1c",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#41)"
+            },
+            {
+              "SHA": "b6223cab",
+              "Subject": "Test against k8s 1.31 (#39)"
+            },
+            {
+              "SHA": "933d5b0d",
+              "Subject": "update server (#37)"
+            },
+            {
+              "SHA": "a587c29d",
+              "Subject": "pass context properly (#38)"
+            },
+            {
+              "SHA": "0a38354a",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#36)"
+            },
+            {
+              "SHA": "0d005f64",
+              "Subject": "Make some changes for ops manager (#35)"
+            },
+            {
+              "SHA": "fcc68498",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#34)"
+            },
+            {
+              "SHA": "e8dfe581",
+              "Subject": "make client funcs accessible (#33)"
+            },
+            {
+              "SHA": "c9abee71",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#32)"
+            },
+            {
+              "SHA": "0c36fb43",
+              "Subject": "Fix apimachinery constants (#31)"
+            },
+            {
+              "SHA": "0afda2a8",
+              "Subject": "Add e2e ci (#25)"
+            },
+            {
+              "SHA": "652e0d81",
+              "Subject": "Fix Backend TLS connection (#30)"
             }
           ]
         }

@@ -118,6 +118,24 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.31.0](https://github.com/kubedb/mariadb/releases/tag/v0.31.0)
+
+- [691ffd6c](https://github.com/kubedb/mariadb/commit/691ffd6cd) Prepare for release v0.31.0 (#281)
+- [d48899e7](https://github.com/kubedb/mariadb/commit/d48899e79) Use Go 1.23 (#279)
+- [211fad73](https://github.com/kubedb/mariadb/commit/211fad731) Prepare for release v0.31.0-rc.3 (#280)
+- [00d8723b](https://github.com/kubedb/mariadb/commit/00d8723bf) Test against k8s 1.31 (#278)
+- [c21a2238](https://github.com/kubedb/mariadb/commit/c21a22387) Mongodb Alike Archiver related changes, refactor webhook (#277)
+- [86038a20](https://github.com/kubedb/mariadb/commit/86038a201) Prepare for release v0.31.0-rc.2 (#276)
+- [d66565b2](https://github.com/kubedb/mariadb/commit/d66565b29) Fix Archiver BackupConfig Not Ready Issue (#275)
+- [c16d25c7](https://github.com/kubedb/mariadb/commit/c16d25c72) Prepare for release v0.31.0-rc.1 (#274)
+- [823748e1](https://github.com/kubedb/mariadb/commit/823748e1a) Fix Env Validation (#273)
+- [63504dc0](https://github.com/kubedb/mariadb/commit/63504dc0d) Prepare for release v0.31.0-rc.0 (#272)
+- [1bf03c34](https://github.com/kubedb/mariadb/commit/1bf03c34d) Use v1 api (#271)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.5.0)

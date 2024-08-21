@@ -731,6 +731,24 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.2.0](https://github.com/kubedb/singlestore/releases/tag/v0.2.0)
+
+- [3c548c53](https://github.com/kubedb/singlestore/commit/3c548c53) Prepare for release v0.2.0 (#45)
+- [efc85866](https://github.com/kubedb/singlestore/commit/efc85866) Use Go 1.23 (#42)
+- [be3ac6ae](https://github.com/kubedb/singlestore/commit/be3ac6ae) Prepare for release v0.2.0-rc.3 (#44)
+- [0ea16467](https://github.com/kubedb/singlestore/commit/0ea16467) Improve logs and Fix manager (#43)
+- [72322a75](https://github.com/kubedb/singlestore/commit/72322a75) Test against k8s 1.31 (#41)
+- [507dbe5a](https://github.com/kubedb/singlestore/commit/507dbe5a) Update Webhook Server (#40)
+- [09de410f](https://github.com/kubedb/singlestore/commit/09de410f) Prepare for release v0.2.0-rc.2 (#39)
+- [fd637835](https://github.com/kubedb/singlestore/commit/fd637835) Prepare for release v0.2.0-rc.1 (#38)
+- [7e011ab0](https://github.com/kubedb/singlestore/commit/7e011ab0) Prepare for release v0.2.0-rc.0 (#37)
+- [17623577](https://github.com/kubedb/singlestore/commit/17623577) Update API constants package (#36)
+- [67d1ecb6](https://github.com/kubedb/singlestore/commit/67d1ecb6) Update Makefile and Daily test (#35)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.2.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.2.0)

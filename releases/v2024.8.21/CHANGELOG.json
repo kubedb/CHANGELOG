@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:33:16.183452459Z",
+  "release_date": "2024-08-21T23:34:08.078243514Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -2108,6 +2108,60 @@
             {
               "SHA": "915f548e",
               "Subject": "Use v1 api (#271)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "3c548c53",
+              "Subject": "Prepare for release v0.2.0 (#45)"
+            },
+            {
+              "SHA": "efc85866",
+              "Subject": "Use Go 1.23 (#42)"
+            },
+            {
+              "SHA": "be3ac6ae",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#44)"
+            },
+            {
+              "SHA": "0ea16467",
+              "Subject": "Improve logs and Fix manager (#43)"
+            },
+            {
+              "SHA": "72322a75",
+              "Subject": "Test against k8s 1.31 (#41)"
+            },
+            {
+              "SHA": "507dbe5a",
+              "Subject": "Update Webhook Server (#40)"
+            },
+            {
+              "SHA": "09de410f",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#39)"
+            },
+            {
+              "SHA": "fd637835",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#38)"
+            },
+            {
+              "SHA": "7e011ab0",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "17623577",
+              "Subject": "Update API constants package (#36)"
+            },
+            {
+              "SHA": "67d1ecb6",
+              "Subject": "Update Makefile and Daily test (#35)"
             }
           ]
         }

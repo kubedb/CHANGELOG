@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:27:24.938953669Z",
+  "release_date": "2024-08-21T23:27:44.949638558Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -1036,6 +1036,56 @@
         {
           "tag": "v0.9.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "683f8eb4",
+              "Subject": "Prepare for release v0.2.0 (#43)"
+            },
+            {
+              "SHA": "0d2360c8",
+              "Subject": "Use Go 1.23 (#41)"
+            },
+            {
+              "SHA": "9e2d1b30",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#42)"
+            },
+            {
+              "SHA": "ea18918d",
+              "Subject": "Update configurations and ports for DisableProtocol Support (#40)"
+            },
+            {
+              "SHA": "a8f7d00d",
+              "Subject": "Add protocol plugins configurations and refactor webhook server (#39)"
+            },
+            {
+              "SHA": "d0e559c6",
+              "Subject": "Fix petset patch issue (#38)"
+            },
+            {
+              "SHA": "6e8ac555",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#37)"
+            },
+            {
+              "SHA": "8b6b97bb",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#36)"
+            },
+            {
+              "SHA": "ad06e69b",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#35)"
+            },
+            {
+              "SHA": "4d025872",
+              "Subject": "Update constants to use kubedb package (#34)"
+            }
+          ]
         }
       ]
     },

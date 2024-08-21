@@ -63,6 +63,21 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.47.0](https://github.com/kubedb/cli/releases/tag/v0.47.0)
+
+- [1f3de4b1](https://github.com/kubedb/cli/commit/1f3de4b1) Prepare for release v0.47.0 (#776)
+- [22d2876b](https://github.com/kubedb/cli/commit/22d2876b) Use Go 1.23 (#774)
+- [39e448d9](https://github.com/kubedb/cli/commit/39e448d9) Prepare for release v0.47.0-rc.3 (#775)
+- [26dca461](https://github.com/kubedb/cli/commit/26dca461) Prepare for release v0.47.0-rc.2 (#773)
+- [a82c4b22](https://github.com/kubedb/cli/commit/a82c4b22) Make changes to run cli from the appscode/grafana-dashboards CI (#766)
+- [a0aab82d](https://github.com/kubedb/cli/commit/a0aab82d) Prepare for release v0.47.0-rc.1 (#772)
+- [b4118de7](https://github.com/kubedb/cli/commit/b4118de7) Prepare for release v0.47.0-rc.0 (#770)
+- [2e7131a6](https://github.com/kubedb/cli/commit/2e7131a6) update api to v1 (#771)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.2.0](https://github.com/kubedb/crd-manager/releases/tag/v0.2.0)

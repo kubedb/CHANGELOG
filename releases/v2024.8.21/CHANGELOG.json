@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:41:42.991935356Z",
+  "release_date": "2024-08-21T16:41:48.3936984Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -960,6 +960,52 @@
             {
               "SHA": "7568498c",
               "Subject": "Fix Pgpool sync users test (#326)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "c07151b1",
+              "Subject": "Prepare for release v0.2.0 (#38)"
+            },
+            {
+              "SHA": "edbbf11e",
+              "Subject": "Use Go 1.23 (#35)"
+            },
+            {
+              "SHA": "3c7a8b4d",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#37)"
+            },
+            {
+              "SHA": "6d9f2a50",
+              "Subject": "Improve logging and fix manager (#36)"
+            },
+            {
+              "SHA": "1051b1db",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#34)"
+            },
+            {
+              "SHA": "2f695af7",
+              "Subject": "Add ZooKeeper Client (#33)"
+            },
+            {
+              "SHA": "68219ffe",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#31)"
+            },
+            {
+              "SHA": "75a1fa49",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#30)"
+            },
+            {
+              "SHA": "bc8d242d",
+              "Subject": "Update constants to use kubedb package (#29)"
             }
           ]
         }

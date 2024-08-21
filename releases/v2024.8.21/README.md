@@ -336,6 +336,22 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.2.0](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0)
+
+- [c07151b1](https://github.com/kubedb/zookeeper/commit/c07151b1) Prepare for release v0.2.0 (#38)
+- [edbbf11e](https://github.com/kubedb/zookeeper/commit/edbbf11e) Use Go 1.23 (#35)
+- [3c7a8b4d](https://github.com/kubedb/zookeeper/commit/3c7a8b4d) Prepare for release v0.2.0-rc.3 (#37)
+- [6d9f2a50](https://github.com/kubedb/zookeeper/commit/6d9f2a50) Improve logging and fix manager (#36)
+- [1051b1db](https://github.com/kubedb/zookeeper/commit/1051b1db) Prepare for release v0.2.0-rc.2 (#34)
+- [2f695af7](https://github.com/kubedb/zookeeper/commit/2f695af7) Add ZooKeeper Client (#33)
+- [68219ffe](https://github.com/kubedb/zookeeper/commit/68219ffe) Prepare for release v0.2.0-rc.1 (#31)
+- [75a1fa49](https://github.com/kubedb/zookeeper/commit/75a1fa49) Prepare for release v0.2.0-rc.0 (#30)
+- [bc8d242d](https://github.com/kubedb/zookeeper/commit/bc8d242d) Update constants to use kubedb package (#29)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.3.0)

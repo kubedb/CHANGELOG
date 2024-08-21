@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:47:28.794041317Z",
+  "release_date": "2024-08-21T23:27:24.938953669Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -231,6 +231,68 @@
             {
               "SHA": "c1a2e2745",
               "Subject": "Reset RabbitMQ default healthcker periodSecond (#1237)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e0532ce0",
+              "Subject": "Prepare for release v0.2.0 (#46)"
+            },
+            {
+              "SHA": "224e4f86",
+              "Subject": "Use Go 1.23 (#42)"
+            },
+            {
+              "SHA": "4fd0fdd5",
+              "Subject": "Prepare for release v0.2.0-rc.3 (#44)"
+            },
+            {
+              "SHA": "2820d09e",
+              "Subject": "Add MSSQLServer archiver crd (#43)"
+            },
+            {
+              "SHA": "6a17ac75",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#40)"
+            },
+            {
+              "SHA": "2772153d",
+              "Subject": "Scale Down Provisioner if Older (#38)"
+            },
+            {
+              "SHA": "f5470e5b",
+              "Subject": "Add Kafka RestProxy CRD (#37)"
+            },
+            {
+              "SHA": "da1fedc4",
+              "Subject": "Add ferretdb ops-manager CRD (#39)"
+            },
+            {
+              "SHA": "d7f0c41b",
+              "Subject": "Install autoscaler CRDs (#36)"
+            },
+            {
+              "SHA": "abdfe6d4",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#35)"
+            },
+            {
+              "SHA": "8392c6cd",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#34)"
+            },
+            {
+              "SHA": "a4f9e562",
+              "Subject": "Preserve crd conversion config on update (#31)"
+            },
+            {
+              "SHA": "5c05c9ba",
+              "Subject": "Move features to apimachinery"
             }
           ]
         }

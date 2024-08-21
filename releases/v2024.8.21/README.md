@@ -63,6 +63,26 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.2.0](https://github.com/kubedb/crd-manager/releases/tag/v0.2.0)
+
+- [e0532ce0](https://github.com/kubedb/crd-manager/commit/e0532ce0) Prepare for release v0.2.0 (#46)
+- [224e4f86](https://github.com/kubedb/crd-manager/commit/224e4f86) Use Go 1.23 (#42)
+- [4fd0fdd5](https://github.com/kubedb/crd-manager/commit/4fd0fdd5) Prepare for release v0.2.0-rc.3 (#44)
+- [2820d09e](https://github.com/kubedb/crd-manager/commit/2820d09e) Add MSSQLServer archiver crd (#43)
+- [6a17ac75](https://github.com/kubedb/crd-manager/commit/6a17ac75) Prepare for release v0.2.0-rc.2 (#40)
+- [2772153d](https://github.com/kubedb/crd-manager/commit/2772153d) Scale Down Provisioner if Older (#38)
+- [f5470e5b](https://github.com/kubedb/crd-manager/commit/f5470e5b) Add Kafka RestProxy CRD (#37)
+- [da1fedc4](https://github.com/kubedb/crd-manager/commit/da1fedc4) Add ferretdb ops-manager CRD (#39)
+- [d7f0c41b](https://github.com/kubedb/crd-manager/commit/d7f0c41b) Install autoscaler CRDs (#36)
+- [abdfe6d4](https://github.com/kubedb/crd-manager/commit/abdfe6d4) Prepare for release v0.2.0-rc.1 (#35)
+- [8392c6cd](https://github.com/kubedb/crd-manager/commit/8392c6cd) Prepare for release v0.2.0-rc.0 (#34)
+- [a4f9e562](https://github.com/kubedb/crd-manager/commit/a4f9e562) Preserve crd conversion config on update (#31)
+- [5c05c9ba](https://github.com/kubedb/crd-manager/commit/5c05c9ba) Move features to apimachinery
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.2.0](https://github.com/kubedb/db-client-go/releases/tag/v0.2.0)

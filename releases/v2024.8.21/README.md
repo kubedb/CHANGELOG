@@ -264,3 +264,16 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.3.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.3.0)
+
+- [fcd21a9](https://github.com/kubedb/zookeeper-restic-plugin/commit/fcd21a9) Prepare for release v0.3.0 (#14)
+- [9cb3a5c](https://github.com/kubedb/zookeeper-restic-plugin/commit/9cb3a5c) Use Go 1.23 (#12)
+- [0ef0eb0](https://github.com/kubedb/zookeeper-restic-plugin/commit/0ef0eb0) Prepare for release v0.3.0-rc.3 (#13)
+- [0f2644b](https://github.com/kubedb/zookeeper-restic-plugin/commit/0f2644b) Prepare for release v0.3.0-rc.2 (#11)
+- [6333dd9](https://github.com/kubedb/zookeeper-restic-plugin/commit/6333dd9) Prepare for release v0.3.0-rc.1 (#10)
+- [3235ccf](https://github.com/kubedb/zookeeper-restic-plugin/commit/3235ccf) Prepare for release v0.3.0-rc.0 (#9)
+
+
+

@@ -208,6 +208,27 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.40.0](https://github.com/kubedb/memcached/releases/tag/v0.40.0)
+
+- [00f29772](https://github.com/kubedb/memcached/commit/00f297726) Prepare for release v0.40.0 (#463)
+- [f698842e](https://github.com/kubedb/memcached/commit/f698842e1) Use Go 1.23 (#460)
+- [1a3ed68b](https://github.com/kubedb/memcached/commit/1a3ed68b8) Prepare for release v0.40.0-rc.3 (#462)
+- [93626b1a](https://github.com/kubedb/memcached/commit/93626b1ab) Fix DeletionPolicy Halt (#461)
+- [7ddfc3eb](https://github.com/kubedb/memcached/commit/7ddfc3eb1) Test against k8s 1.31 (#459)
+- [c5a4d6a8](https://github.com/kubedb/memcached/commit/c5a4d6a85) Refactor Memcached Webhook Server (#458)
+- [f2ab956b](https://github.com/kubedb/memcached/commit/f2ab956b4) Prepare for release v0.40.0-rc.2 (#457)
+- [8a4aaac1](https://github.com/kubedb/memcached/commit/8a4aaac1d) Add Reconciler (#456)
+- [7ee57761](https://github.com/kubedb/memcached/commit/7ee577616) Add Rule and Petset Watcher (#455)
+- [028b7d98](https://github.com/kubedb/memcached/commit/028b7d98d) Prepare for release v0.40.0-rc.1 (#453)
+- [ba86e1ca](https://github.com/kubedb/memcached/commit/ba86e1ca6) Update Validator (#452)
+- [aa177b55](https://github.com/kubedb/memcached/commit/aa177b551) Fix Webhook Provisioner Restart Issue (#451)
+- [2190a3c8](https://github.com/kubedb/memcached/commit/2190a3c8f) Prepare for release v0.40.0-rc.0 (#450)
+- [cf78ad00](https://github.com/kubedb/memcached/commit/cf78ad006) Use v1 api (#449)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.1.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.1.0)

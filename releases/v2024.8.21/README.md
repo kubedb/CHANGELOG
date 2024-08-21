@@ -277,6 +277,21 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.27.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.27.0)
+
+- [ec6e80c6](https://github.com/kubedb/mariadb-coordinator/commit/ec6e80c6) Prepare for release v0.27.0 (#126)
+- [e7d004e1](https://github.com/kubedb/mariadb-coordinator/commit/e7d004e1) Use Go 1.23 (#124)
+- [53d96b8e](https://github.com/kubedb/mariadb-coordinator/commit/53d96b8e) Prepare for release v0.27.0-rc.3 (#125)
+- [b5384a99](https://github.com/kubedb/mariadb-coordinator/commit/b5384a99) Fix Archiver Restore Issue (#123)
+- [92a607fa](https://github.com/kubedb/mariadb-coordinator/commit/92a607fa) Prepare for release v0.27.0-rc.2 (#122)
+- [ca636ee2](https://github.com/kubedb/mariadb-coordinator/commit/ca636ee2) Prepare for release v0.27.0-rc.1 (#121)
+- [30064e39](https://github.com/kubedb/mariadb-coordinator/commit/30064e39) Prepare for release v0.27.0-rc.0 (#120)
+- [f5a9ceda](https://github.com/kubedb/mariadb-coordinator/commit/f5a9ceda) Use v1 api (#119)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.7.0)

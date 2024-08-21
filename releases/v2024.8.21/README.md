@@ -135,6 +135,20 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.8.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.8.0)
+
+- [305d265](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/305d265) Prepare for release v0.8.0 (#27)
+- [4c7c011](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/4c7c011) Use Go 1.23 (#25)
+- [6136a15](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/6136a15) Prepare for release v0.8.0-rc.3 (#26)
+- [1b66901](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/1b66901) Prepare for release v0.8.0-rc.2 (#24)
+- [d289a41](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/d289a41) Prepare for release v0.8.0-rc.1 (#23)
+- [10e977c](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/10e977c) Prepare for release v0.8.0-rc.0 (#22)
+- [94ec3c9](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/94ec3c9) Use v1 api (#21)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.9.0](https://github.com/kubedb/provider-aws/releases/tag/v0.9.0)

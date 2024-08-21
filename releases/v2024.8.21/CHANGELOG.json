@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:45:09.142299255Z",
+  "release_date": "2024-08-21T16:47:28.794041317Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -293,6 +293,64 @@
             {
               "SHA": "3b94bb3e",
               "Subject": "Add v1 api to db clients (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "720429d49",
+              "Subject": "Prepare for release v0.47.0 (#732)"
+            },
+            {
+              "SHA": "5725feddb",
+              "Subject": "Use Go 1.23 (#730)"
+            },
+            {
+              "SHA": "6e5a78758",
+              "Subject": "Prepare for release v0.47.0-rc.3 (#731)"
+            },
+            {
+              "SHA": "140790248",
+              "Subject": "Refactor Elasticsearch webhook server (#729)"
+            },
+            {
+              "SHA": "fd8abfca3",
+              "Subject": "Prepare for release v0.47.0-rc.2 (#728)"
+            },
+            {
+              "SHA": "be009364b",
+              "Subject": "Fix PodTemplate assignment to config-merger initContainer (#727)"
+            },
+            {
+              "SHA": "28668a0c3",
+              "Subject": "Revert \"Fix podTemplate assignment for init container\""
+            },
+            {
+              "SHA": "9b7e0aa0c",
+              "Subject": "Fix podTemplate assignment for init container"
+            },
+            {
+              "SHA": "1f8f6a495",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#726)"
+            },
+            {
+              "SHA": "66d09cc27",
+              "Subject": "Fix error handling for validators (#725)"
+            },
+            {
+              "SHA": "f3bd7f56f",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#724)"
+            },
+            {
+              "SHA": "051422532",
+              "Subject": "Use v1 api (#723)"
             }
           ]
         }

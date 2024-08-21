@@ -83,6 +83,25 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.47.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.47.0)
+
+- [720429d4](https://github.com/kubedb/elasticsearch/commit/720429d49) Prepare for release v0.47.0 (#732)
+- [5725fedd](https://github.com/kubedb/elasticsearch/commit/5725feddb) Use Go 1.23 (#730)
+- [6e5a7875](https://github.com/kubedb/elasticsearch/commit/6e5a78758) Prepare for release v0.47.0-rc.3 (#731)
+- [14079024](https://github.com/kubedb/elasticsearch/commit/140790248) Refactor Elasticsearch webhook server (#729)
+- [fd8abfca](https://github.com/kubedb/elasticsearch/commit/fd8abfca3) Prepare for release v0.47.0-rc.2 (#728)
+- [be009364](https://github.com/kubedb/elasticsearch/commit/be009364b) Fix PodTemplate assignment to config-merger initContainer (#727)
+- [28668a0c](https://github.com/kubedb/elasticsearch/commit/28668a0c3) Revert "Fix podTemplate assignment for init container"
+- [9b7e0aa0](https://github.com/kubedb/elasticsearch/commit/9b7e0aa0c) Fix podTemplate assignment for init container
+- [1f8f6a49](https://github.com/kubedb/elasticsearch/commit/1f8f6a495) Prepare for release v0.47.0-rc.1 (#726)
+- [66d09cc2](https://github.com/kubedb/elasticsearch/commit/66d09cc27) Fix error handling for validators (#725)
+- [f3bd7f56](https://github.com/kubedb/elasticsearch/commit/f3bd7f56f) Prepare for release v0.47.0-rc.0 (#724)
+- [05142253](https://github.com/kubedb/elasticsearch/commit/051422532) Use v1 api (#723)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.2.0](https://github.com/kubedb/ferretdb/releases/tag/v0.2.0)

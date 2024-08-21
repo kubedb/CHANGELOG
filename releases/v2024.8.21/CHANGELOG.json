@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:37:16.97954171Z",
+  "release_date": "2024-08-21T16:37:42.764265573Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -467,6 +467,52 @@
             {
               "SHA": "94ec3c9",
               "Subject": "Use v1 api (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "2ceada6",
+              "Subject": "Prepare for release v0.10.0 (#53)"
+            },
+            {
+              "SHA": "105ac83",
+              "Subject": "Fixed `WaitForDBReady` check method for `waitForInitialRestore` (#52)"
+            },
+            {
+              "SHA": "4546c98",
+              "Subject": "Use Go 1.23 (#49)"
+            },
+            {
+              "SHA": "cddbf96",
+              "Subject": "Remove Provision condition and Add Ready condition (#48)"
+            },
+            {
+              "SHA": "79412f1",
+              "Subject": "Prepare for release v0.10.0-rc.3 (#50)"
+            },
+            {
+              "SHA": "4c64334",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#47)"
+            },
+            {
+              "SHA": "ab39345",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#46)"
+            },
+            {
+              "SHA": "83efb51",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "fdfd535",
+              "Subject": "Update API and Skip mysql.user Table (#44)"
             }
           ]
         }

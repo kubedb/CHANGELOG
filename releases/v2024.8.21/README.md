@@ -149,6 +149,22 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.10.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.10.0)
+
+- [2ceada6](https://github.com/kubedb/mysql-restic-plugin/commit/2ceada6) Prepare for release v0.10.0 (#53)
+- [105ac83](https://github.com/kubedb/mysql-restic-plugin/commit/105ac83) Fixed `WaitForDBReady` check method for `waitForInitialRestore` (#52)
+- [4546c98](https://github.com/kubedb/mysql-restic-plugin/commit/4546c98) Use Go 1.23 (#49)
+- [cddbf96](https://github.com/kubedb/mysql-restic-plugin/commit/cddbf96) Remove Provision condition and Add Ready condition (#48)
+- [79412f1](https://github.com/kubedb/mysql-restic-plugin/commit/79412f1) Prepare for release v0.10.0-rc.3 (#50)
+- [4c64334](https://github.com/kubedb/mysql-restic-plugin/commit/4c64334) Prepare for release v0.10.0-rc.2 (#47)
+- [ab39345](https://github.com/kubedb/mysql-restic-plugin/commit/ab39345) Prepare for release v0.10.0-rc.1 (#46)
+- [83efb51](https://github.com/kubedb/mysql-restic-plugin/commit/83efb51) Prepare for release v0.10.0-rc.0 (#45)
+- [fdfd535](https://github.com/kubedb/mysql-restic-plugin/commit/fdfd535) Update API and Skip mysql.user Table (#44)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.25.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.25.0)

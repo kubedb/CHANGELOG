@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:28:54.113866111Z",
+  "release_date": "2024-08-21T23:29:09.025427894Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -1169,6 +1169,52 @@
             {
               "SHA": "9cbbfce",
               "Subject": "Use v1 api (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "2762cef",
+              "Subject": "Prepare for release v0.10.0 (#45)"
+            },
+            {
+              "SHA": "7fb8134",
+              "Subject": "Use Go 1.23 (#43)"
+            },
+            {
+              "SHA": "c1e0b54",
+              "Subject": "Prepare for release v0.10.0-rc.3 (#44)"
+            },
+            {
+              "SHA": "28ee1da",
+              "Subject": "Wait for ready condition instead Provisioned condition (#42)"
+            },
+            {
+              "SHA": "e27dc68",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#41)"
+            },
+            {
+              "SHA": "67a5b04",
+              "Subject": "Add postgres multiple db version support for kubestash (#40)"
+            },
+            {
+              "SHA": "f50a13e",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#39)"
+            },
+            {
+              "SHA": "c55dd9c",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "5de7901",
+              "Subject": "Use v1 api (#37)"
             }
           ]
         }

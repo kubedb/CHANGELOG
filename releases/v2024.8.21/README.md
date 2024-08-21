@@ -392,6 +392,22 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.10.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.10.0)
+
+- [2762cef](https://github.com/kubedb/postgres-restic-plugin/commit/2762cef) Prepare for release v0.10.0 (#45)
+- [7fb8134](https://github.com/kubedb/postgres-restic-plugin/commit/7fb8134) Use Go 1.23 (#43)
+- [c1e0b54](https://github.com/kubedb/postgres-restic-plugin/commit/c1e0b54) Prepare for release v0.10.0-rc.3 (#44)
+- [28ee1da](https://github.com/kubedb/postgres-restic-plugin/commit/28ee1da) Wait for ready condition instead Provisioned condition (#42)
+- [e27dc68](https://github.com/kubedb/postgres-restic-plugin/commit/e27dc68) Prepare for release v0.10.0-rc.2 (#41)
+- [67a5b04](https://github.com/kubedb/postgres-restic-plugin/commit/67a5b04) Add postgres multiple db version support for kubestash (#40)
+- [f50a13e](https://github.com/kubedb/postgres-restic-plugin/commit/f50a13e) Prepare for release v0.10.0-rc.1 (#39)
+- [c55dd9c](https://github.com/kubedb/postgres-restic-plugin/commit/c55dd9c) Prepare for release v0.10.0-rc.0 (#38)
+- [5de7901](https://github.com/kubedb/postgres-restic-plugin/commit/5de7901) Use v1 api (#37)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.9.0](https://github.com/kubedb/provider-aws/releases/tag/v0.9.0)

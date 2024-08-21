@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:35:02.433008819Z",
+  "release_date": "2024-08-21T16:35:06.924522252Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -293,6 +293,44 @@
             {
               "SHA": "3b94bb3e",
               "Subject": "Add v1 api to db clients (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "13a03d8",
+              "Subject": "Prepare for release v0.10.0 (#64)"
+            },
+            {
+              "SHA": "41f4e91",
+              "Subject": "Use Go 1.23 (#62)"
+            },
+            {
+              "SHA": "281d889",
+              "Subject": "Prepare for release v0.10.0-rc.3 (#63)"
+            },
+            {
+              "SHA": "5053a2b",
+              "Subject": "Implement MSSQLServer manifest backup and restore (#59)"
+            },
+            {
+              "SHA": "8b1207d",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#60)"
+            },
+            {
+              "SHA": "599fa89",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#58)"
+            },
+            {
+              "SHA": "7a27d11",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#57)"
             }
           ]
         }

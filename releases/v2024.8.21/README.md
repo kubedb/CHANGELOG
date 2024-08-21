@@ -83,6 +83,20 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.10.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.10.0)
+
+- [13a03d8](https://github.com/kubedb/kubedb-manifest-plugin/commit/13a03d8) Prepare for release v0.10.0 (#64)
+- [41f4e91](https://github.com/kubedb/kubedb-manifest-plugin/commit/41f4e91) Use Go 1.23 (#62)
+- [281d889](https://github.com/kubedb/kubedb-manifest-plugin/commit/281d889) Prepare for release v0.10.0-rc.3 (#63)
+- [5053a2b](https://github.com/kubedb/kubedb-manifest-plugin/commit/5053a2b) Implement MSSQLServer manifest backup and restore (#59)
+- [8b1207d](https://github.com/kubedb/kubedb-manifest-plugin/commit/8b1207d) Prepare for release v0.10.0-rc.2 (#60)
+- [599fa89](https://github.com/kubedb/kubedb-manifest-plugin/commit/599fa89) Prepare for release v0.10.0-rc.1 (#58)
+- [7a27d11](https://github.com/kubedb/kubedb-manifest-plugin/commit/7a27d11) Prepare for release v0.10.0-rc.0 (#57)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.5.0)

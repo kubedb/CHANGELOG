@@ -473,6 +473,20 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.31.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.31.0)
+
+- [aec1952b](https://github.com/kubedb/pg-coordinator/commit/aec1952b) Prepare for release v0.31.0 (#172)
+- [b3028ed2](https://github.com/kubedb/pg-coordinator/commit/b3028ed2) Use Go 1.23 (#170)
+- [6f7c70bc](https://github.com/kubedb/pg-coordinator/commit/6f7c70bc) Prepare for release v0.31.0-rc.3 (#171)
+- [8c6d9de3](https://github.com/kubedb/pg-coordinator/commit/8c6d9de3) Prepare for release v0.31.0-rc.2 (#169)
+- [1c067e4c](https://github.com/kubedb/pg-coordinator/commit/1c067e4c) Prepare for release v0.31.0-rc.1 (#168)
+- [a26d4398](https://github.com/kubedb/pg-coordinator/commit/a26d4398) Prepare for release v0.31.0-rc.0 (#167)
+- [cdd1b821](https://github.com/kubedb/pg-coordinator/commit/cdd1b821) Add PetSet Support; Use api-v1 (#156)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.8.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:31:06.01139841Z",
+  "release_date": "2024-08-21T23:31:47.013783235Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -1403,6 +1403,44 @@
             {
               "SHA": "6b8544b7",
               "Subject": "Use v1 api (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "aec1952b",
+              "Subject": "Prepare for release v0.31.0 (#172)"
+            },
+            {
+              "SHA": "b3028ed2",
+              "Subject": "Use Go 1.23 (#170)"
+            },
+            {
+              "SHA": "6f7c70bc",
+              "Subject": "Prepare for release v0.31.0-rc.3 (#171)"
+            },
+            {
+              "SHA": "8c6d9de3",
+              "Subject": "Prepare for release v0.31.0-rc.2 (#169)"
+            },
+            {
+              "SHA": "1c067e4c",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#168)"
+            },
+            {
+              "SHA": "a26d4398",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#167)"
+            },
+            {
+              "SHA": "cdd1b821",
+              "Subject": "Add PetSet Support; Use api-v1 (#156)"
             }
           ]
         }

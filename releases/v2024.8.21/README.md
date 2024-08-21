@@ -229,6 +229,24 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.2.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.2.0)
+
+- [399e2283](https://github.com/kubedb/mssqlserver/commit/399e2283) Prepare for release v0.2.0 (#25)
+- [7e00eaf2](https://github.com/kubedb/mssqlserver/commit/7e00eaf2) Use Go 1.23 (#21)
+- [5937734a](https://github.com/kubedb/mssqlserver/commit/5937734a) Prepare for release v0.2.0-rc.3 (#23)
+- [cc70bf74](https://github.com/kubedb/mssqlserver/commit/cc70bf74) Add MSSQL Server Monitoring Support (#11)
+- [00f23687](https://github.com/kubedb/mssqlserver/commit/00f23687) Add PITR backup and restore support by using WAlG (#20)
+- [76b74614](https://github.com/kubedb/mssqlserver/commit/76b74614) Update deps
+- [47446bb1](https://github.com/kubedb/mssqlserver/commit/47446bb1) Update deps
+- [f1d949c0](https://github.com/kubedb/mssqlserver/commit/f1d949c0) Match module path match package path
+- [ed78c962](https://github.com/kubedb/mssqlserver/commit/ed78c962) Prepare for release v0.2.0-rc.0 (#19)
+- [bfe83703](https://github.com/kubedb/mssqlserver/commit/bfe83703) Update constants to use kubedb package (#18)
+- [9cdb65f5](https://github.com/kubedb/mssqlserver/commit/9cdb65f5) Remove license check for webhook-server (#17)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.1.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.1.0)

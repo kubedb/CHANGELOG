@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T23:30:03.389238002Z",
+  "release_date": "2024-08-21T23:30:08.104324136Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -667,6 +667,48 @@
             {
               "SHA": "1bf03c34d",
               "Subject": "Use v1 api (#271)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "d5b05614",
+              "Subject": "Prepare for release v0.7.0 (#27)"
+            },
+            {
+              "SHA": "dd3a3686",
+              "Subject": "Use Go 1.23 (#24)"
+            },
+            {
+              "SHA": "4b3a6003",
+              "Subject": "Prepare for release v0.7.0-rc.3 (#26)"
+            },
+            {
+              "SHA": "c7230b61",
+              "Subject": "Remove SafeToBootstrapInGrastateFile from Archiver Backup (#25)"
+            },
+            {
+              "SHA": "138bcf7c",
+              "Subject": "Prepare for release v0.7.0-rc.2 (#23)"
+            },
+            {
+              "SHA": "9e93d807",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#22)"
+            },
+            {
+              "SHA": "9d5d985c",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#21)"
+            },
+            {
+              "SHA": "10687b97",
+              "Subject": "Use v1 api (#20)"
             }
           ]
         }

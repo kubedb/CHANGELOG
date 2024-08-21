@@ -208,6 +208,21 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.7.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.7.0)
+
+- [d5b05614](https://github.com/kubedb/mariadb-archiver/commit/d5b05614) Prepare for release v0.7.0 (#27)
+- [dd3a3686](https://github.com/kubedb/mariadb-archiver/commit/dd3a3686) Use Go 1.23 (#24)
+- [4b3a6003](https://github.com/kubedb/mariadb-archiver/commit/4b3a6003) Prepare for release v0.7.0-rc.3 (#26)
+- [c7230b61](https://github.com/kubedb/mariadb-archiver/commit/c7230b61) Remove SafeToBootstrapInGrastateFile from Archiver Backup (#25)
+- [138bcf7c](https://github.com/kubedb/mariadb-archiver/commit/138bcf7c) Prepare for release v0.7.0-rc.2 (#23)
+- [9e93d807](https://github.com/kubedb/mariadb-archiver/commit/9e93d807) Prepare for release v0.7.0-rc.1 (#22)
+- [9d5d985c](https://github.com/kubedb/mariadb-archiver/commit/9d5d985c) Prepare for release v0.7.0-rc.0 (#21)
+- [10687b97](https://github.com/kubedb/mariadb-archiver/commit/10687b97) Use v1 api (#20)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.7.0)

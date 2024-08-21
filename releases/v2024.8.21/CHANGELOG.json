@@ -1,0 +1,240 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.8.21",
+  "release_date": "2024-08-21T16:15:04.4268379Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.8.21",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "30dcf8b2c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b9b126925",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "dd5bdc219",
+              "Subject": "Use Go 1.23 (#1286)"
+            },
+            {
+              "SHA": "9206f6ff7",
+              "Subject": "Fix clustermetadata helper"
+            },
+            {
+              "SHA": "5928a28c9",
+              "Subject": "Update for release KubeStash@v2024.8.14 (#1289)"
+            },
+            {
+              "SHA": "4b2e48726",
+              "Subject": "Add Halted API Field in ProxySQL and Pgbouncher (#1288)"
+            },
+            {
+              "SHA": "f78136264",
+              "Subject": "SingleStore Ops-Request API (#1287)"
+            },
+            {
+              "SHA": "b7bee7681",
+              "Subject": "Test against k8s 1.31 (#1285)"
+            },
+            {
+              "SHA": "92ab030c5",
+              "Subject": "Add DisabledProtocols API for RabbitMQ (#1282)"
+            },
+            {
+              "SHA": "83f69191f",
+              "Subject": "Add constants for RM additional plugins (#1280)"
+            },
+            {
+              "SHA": "beb194a15",
+              "Subject": "Add Kafka `halted` field & some ops helpers (#1279)"
+            },
+            {
+              "SHA": "7334833b5",
+              "Subject": "Set the catagories correctly (#1277)"
+            },
+            {
+              "SHA": "ddbf74f33",
+              "Subject": "Add missing opsRequests (#1276)"
+            },
+            {
+              "SHA": "6402035de",
+              "Subject": "Fix petset patch issue (#1275)"
+            },
+            {
+              "SHA": "0f09eedec",
+              "Subject": "Add DefaultUserCredSecretName utility for mssql"
+            },
+            {
+              "SHA": "527c59365",
+              "Subject": "Add MSSQLServer Archiver Backup and Restore API (#1265)"
+            },
+            {
+              "SHA": "6779210b4",
+              "Subject": "Fix build error (#1274)"
+            },
+            {
+              "SHA": "1d9ee37f6",
+              "Subject": "Add Solr ops for vertical scaling and volume expansion (#1261)"
+            },
+            {
+              "SHA": "45c637cc8",
+              "Subject": "Add helpers to get the archiver with maximum priority (#1266)"
+            },
+            {
+              "SHA": "9cb2a3076",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "739f7f6f1",
+              "Subject": "Add MSSQL Server Monitoring APIs (#1271)"
+            },
+            {
+              "SHA": "3f96b9077",
+              "Subject": "Add ExtractDatabaseInfo Func for ClickHouse (#1270)"
+            },
+            {
+              "SHA": "6d44bfc1c",
+              "Subject": "Upsert config-merger initContainer via ES defaults (#1259)"
+            },
+            {
+              "SHA": "67d239489",
+              "Subject": "Add FerretDBOpsManager (#1267)"
+            },
+            {
+              "SHA": "08af58b87",
+              "Subject": "pgbouncerAutoScalerSpec Update and Scheme Register (#1268)"
+            },
+            {
+              "SHA": "c57d4c2bc",
+              "Subject": "Keep the druid dependency references if given (#1272)"
+            },
+            {
+              "SHA": "88b60875b",
+              "Subject": "Add Kafka RestProxy APIs (#1262)"
+            },
+            {
+              "SHA": "4af05fd8b",
+              "Subject": "Add types for all autoscaler CRDs (#1264)"
+            },
+            {
+              "SHA": "bf2f0aeb4",
+              "Subject": "Update Memcached Scaling APIs (#1260)"
+            },
+            {
+              "SHA": "7b594eb14",
+              "Subject": "Use DeletionPolicy in etcd (#1258)"
+            },
+            {
+              "SHA": "844750289",
+              "Subject": "Skip RedisClusterSpec conversion for sentinel and standalone mode (#1257)"
+            },
+            {
+              "SHA": "c028472b9",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d3914aa5e",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "79ca732bd",
+              "Subject": "Update Redis Ops Master -> Shards (#1255)"
+            },
+            {
+              "SHA": "0fdb8074c",
+              "Subject": "Add UI chart info & remove status.gateway from db (#1256)"
+            },
+            {
+              "SHA": "88ec29e74",
+              "Subject": "Set the default resources correctly (#1253)"
+            },
+            {
+              "SHA": "cea4a328b",
+              "Subject": "update scaling field for pgbouncer ops-request (#1244)"
+            },
+            {
+              "SHA": "9809d94ee",
+              "Subject": "Add API for Solr Restart OpsRequest (#1247)"
+            },
+            {
+              "SHA": "abc86bb90",
+              "Subject": "Fix druid by adding Postgres as metadata storage type (#1252)"
+            },
+            {
+              "SHA": "f8063159a",
+              "Subject": "Rename Master -> Shards in Redis (#1249)"
+            },
+            {
+              "SHA": "5760b1e2e",
+              "Subject": "Fix phase tests and  use ensure container utilities (#1250)"
+            },
+            {
+              "SHA": "d03a54a6c",
+              "Subject": "Report control plane and worker node stats"
+            },
+            {
+              "SHA": "2e35ad031",
+              "Subject": "Use v1 api for schema-manager phase calulation (#1248)"
+            },
+            {
+              "SHA": "41c7c89a5",
+              "Subject": "Correctly package up the solr constants (#1246)"
+            },
+            {
+              "SHA": "1302836dc",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "01fcb6683",
+              "Subject": "Introduce v1 api (#1236)"
+            },
+            {
+              "SHA": "42019af5f",
+              "Subject": "Update for release KubeStash@v2024.7.1 (#1245)"
+            },
+            {
+              "SHA": "519c2389b",
+              "Subject": "Fix druid defaulter (#1243)"
+            },
+            {
+              "SHA": "735c4683a",
+              "Subject": "Update Druid API for internally managed metadatastore and zookeeper (#1238)"
+            },
+            {
+              "SHA": "b4f0c7ae5",
+              "Subject": "Add AppBinding PostgresRef in FerretDB API (#1239)"
+            },
+            {
+              "SHA": "b88f519ba",
+              "Subject": "Add Pgpool ops-request api(Horizontal Scaling) (#1241)"
+            },
+            {
+              "SHA": "7a9cbb53c",
+              "Subject": "auth_mode changes (#1235)"
+            },
+            {
+              "SHA": "d9228be31",
+              "Subject": "Make package path match package name"
+            },
+            {
+              "SHA": "dd0bd4e6f",
+              "Subject": "Move feature gates from crd-manager (#1240)"
+            },
+            {
+              "SHA": "c1a2e2745",
+              "Subject": "Reset RabbitMQ default healthcker periodSecond (#1237)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

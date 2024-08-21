@@ -258,6 +258,22 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.10.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.10.0)
+
+- [c481bd0](https://github.com/kubedb/mongodb-restic-plugin/commit/c481bd0) Prepare for release v0.10.0 (#59)
+- [5ea0c23](https://github.com/kubedb/mongodb-restic-plugin/commit/5ea0c23) Use Go 1.23 (#56)
+- [5bedb88](https://github.com/kubedb/mongodb-restic-plugin/commit/5bedb88) Prepare for release v0.10.0-rc.3 (#57)
+- [82148eb](https://github.com/kubedb/mongodb-restic-plugin/commit/82148eb) Fix issues of MongoDB 5.x+ and 6.x+ TLS (#55)
+- [9edee3a](https://github.com/kubedb/mongodb-restic-plugin/commit/9edee3a) Prepare for release v0.10.0-rc.2 (#53)
+- [2039750](https://github.com/kubedb/mongodb-restic-plugin/commit/2039750) fix tls enable mongodb ping issue (#51)
+- [c22ff40](https://github.com/kubedb/mongodb-restic-plugin/commit/c22ff40) Prepare for release v0.10.0-rc.1 (#52)
+- [702d565](https://github.com/kubedb/mongodb-restic-plugin/commit/702d565) Prepare for release v0.10.0-rc.0 (#50)
+- [a10270b](https://github.com/kubedb/mongodb-restic-plugin/commit/a10270b) Use v1 api (#49)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.2.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.2.0)

@@ -264,6 +264,37 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.32.0](https://github.com/kubedb/tests/releases/tag/v0.32.0)
+
+- [fb607c82](https://github.com/kubedb/tests/commit/fb607c82) Prepare for release v0.32.0 (#356)
+- [b7edced0](https://github.com/kubedb/tests/commit/b7edced0) Add missing Autoscaler tests for Redis (#338)
+- [dd13814b](https://github.com/kubedb/tests/commit/dd13814b) Fix Postgres Reconfigure test cases (#351)
+- [34213383](https://github.com/kubedb/tests/commit/34213383) Use Go 1.23 (#347)
+- [5c37c7ac](https://github.com/kubedb/tests/commit/5c37c7ac) set podTemplate for Arbiter and Hidden correctly (#352)
+- [0f1153f5](https://github.com/kubedb/tests/commit/0f1153f5) Add Redis Exporter test (#348)
+- [6ff529ee](https://github.com/kubedb/tests/commit/6ff529ee) Unfocus Redis Horizontal Scling Test (#350)
+- [5f5d899c](https://github.com/kubedb/tests/commit/5f5d899c) Prepare for release v0.32.0-rc.3 (#349)
+- [746fba1f](https://github.com/kubedb/tests/commit/746fba1f) Add Memcached e2e Tests (#346)
+- [7647c955](https://github.com/kubedb/tests/commit/7647c955) Fix Redis Tests (#345)
+- [cd54a2b7](https://github.com/kubedb/tests/commit/cd54a2b7) Add Redis Initialization Script (#342)
+- [b279ee9f](https://github.com/kubedb/tests/commit/b279ee9f) Prepare for release v0.32.0-rc.2 (#343)
+- [92599f33](https://github.com/kubedb/tests/commit/92599f33) Add Druid Tests (#306)
+- [d4762475](https://github.com/kubedb/tests/commit/d4762475) Fix ES env variable tests for V1 api changes (#336)
+- [1d5a9926](https://github.com/kubedb/tests/commit/1d5a9926) Add Resource for PerconaXtraDB, MariaDB when creating object (#334)
+- [43aa9e97](https://github.com/kubedb/tests/commit/43aa9e97) Fix ES test for V1 changes (#335)
+- [8b29ad4f](https://github.com/kubedb/tests/commit/8b29ad4f) Prepare for release v0.32.0-rc.1 (#332)
+- [522ce4dd](https://github.com/kubedb/tests/commit/522ce4dd) Add api V1 support for e2e test cases (#330)
+- [074319cb](https://github.com/kubedb/tests/commit/074319cb) Kubestash test (#328)
+- [3d86cc15](https://github.com/kubedb/tests/commit/3d86cc15) Add MS SQL Server Provisioning Tests  (#321)
+- [ac5c8e4a](https://github.com/kubedb/tests/commit/ac5c8e4a) Add FerretDB test (#323)
+- [3b09f127](https://github.com/kubedb/tests/commit/3b09f127) Reprovision test (#311)
+- [cbb366d5](https://github.com/kubedb/tests/commit/cbb366d5) Update SingleStore Tests Regarding API Changes (#327)
+- [7568498c](https://github.com/kubedb/tests/commit/7568498c) Fix Pgpool sync users test (#326)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.3.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-21T16:38:48.69882378Z",
+  "release_date": "2024-08-21T16:39:55.533875643Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -744,6 +744,112 @@
             {
               "SHA": "458fa6a",
               "Subject": "Update constants to use kubedb package (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "fb607c82",
+              "Subject": "Prepare for release v0.32.0 (#356)"
+            },
+            {
+              "SHA": "b7edced0",
+              "Subject": "Add missing Autoscaler tests for Redis (#338)"
+            },
+            {
+              "SHA": "dd13814b",
+              "Subject": "Fix Postgres Reconfigure test cases (#351)"
+            },
+            {
+              "SHA": "34213383",
+              "Subject": "Use Go 1.23 (#347)"
+            },
+            {
+              "SHA": "5c37c7ac",
+              "Subject": "set podTemplate for Arbiter and Hidden correctly (#352)"
+            },
+            {
+              "SHA": "0f1153f5",
+              "Subject": "Add Redis Exporter test (#348)"
+            },
+            {
+              "SHA": "6ff529ee",
+              "Subject": "Unfocus Redis Horizontal Scling Test (#350)"
+            },
+            {
+              "SHA": "5f5d899c",
+              "Subject": "Prepare for release v0.32.0-rc.3 (#349)"
+            },
+            {
+              "SHA": "746fba1f",
+              "Subject": "Add Memcached e2e Tests (#346)"
+            },
+            {
+              "SHA": "7647c955",
+              "Subject": "Fix Redis Tests (#345)"
+            },
+            {
+              "SHA": "cd54a2b7",
+              "Subject": "Add Redis Initialization Script (#342)"
+            },
+            {
+              "SHA": "b279ee9f",
+              "Subject": "Prepare for release v0.32.0-rc.2 (#343)"
+            },
+            {
+              "SHA": "92599f33",
+              "Subject": "Add Druid Tests (#306)"
+            },
+            {
+              "SHA": "d4762475",
+              "Subject": "Fix ES env variable tests for V1 api changes (#336)"
+            },
+            {
+              "SHA": "1d5a9926",
+              "Subject": "Add Resource for PerconaXtraDB, MariaDB when creating object (#334)"
+            },
+            {
+              "SHA": "43aa9e97",
+              "Subject": "Fix ES test for V1 changes (#335)"
+            },
+            {
+              "SHA": "8b29ad4f",
+              "Subject": "Prepare for release v0.32.0-rc.1 (#332)"
+            },
+            {
+              "SHA": "522ce4dd",
+              "Subject": "Add api V1 support for e2e test cases (#330)"
+            },
+            {
+              "SHA": "074319cb",
+              "Subject": "Kubestash test (#328)"
+            },
+            {
+              "SHA": "3d86cc15",
+              "Subject": "Add MS SQL Server Provisioning Tests  (#321)"
+            },
+            {
+              "SHA": "ac5c8e4a",
+              "Subject": "Add FerretDB test (#323)"
+            },
+            {
+              "SHA": "3b09f127",
+              "Subject": "Reprovision test (#311)"
+            },
+            {
+              "SHA": "cbb366d5",
+              "Subject": "Update SingleStore Tests Regarding API Changes (#327)"
+            },
+            {
+              "SHA": "7568498c",
+              "Subject": "Fix Pgpool sync users test (#326)"
             }
           ]
         }

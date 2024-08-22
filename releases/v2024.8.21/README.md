@@ -910,6 +910,21 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.23.0](https://github.com/kubedb/ui-server/releases/tag/v0.23.0)
+
+- [64f10569](https://github.com/kubedb/ui-server/commit/64f10569) Prepare for release v0.23.0 (#128)
+- [b8178d20](https://github.com/kubedb/ui-server/commit/b8178d20) Use Go 1.23 (#126)
+- [717efd76](https://github.com/kubedb/ui-server/commit/717efd76) Prepare for release v0.23.0-rc.3 (#127)
+- [893dc3ac](https://github.com/kubedb/ui-server/commit/893dc3ac) Prepare for release v0.23.0-rc.2 (#125)
+- [8fa3f1cb](https://github.com/kubedb/ui-server/commit/8fa3f1cb) resource matrics dep updation (#124)
+- [4cad3a5d](https://github.com/kubedb/ui-server/commit/4cad3a5d) Prepare for release v0.23.0-rc.1 (#123)
+- [c1d29bcb](https://github.com/kubedb/ui-server/commit/c1d29bcb) Prepare for release v0.23.0-rc.0 (#122)
+- [107fee8b](https://github.com/kubedb/ui-server/commit/107fee8b) version converted into v1 from v1alpha2 (#121)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.2.0](https://github.com/kubedb/zookeeper/releases/tag/v0.2.0)

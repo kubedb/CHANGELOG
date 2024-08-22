@@ -1,4 +1,4 @@
-# KubeDB v2024.8.21 (2024-08-21)
+# KubeDB v2024.8.21 (2024-08-22)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -707,6 +707,13 @@
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.9.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.9.0)
+
+
+
+
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.34.0](https://github.com/kubedb/proxysql/releases/tag/v0.34.0)
 
 
 

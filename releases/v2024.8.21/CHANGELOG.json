@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-22T00:00:38.384256707Z",
+  "release_date": "2024-08-22T00:09:48.815580506Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -2284,6 +2284,44 @@
             {
               "SHA": "915f548e",
               "Subject": "Use v1 api (#271)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "e7efc21e",
+              "Subject": "Prepare for release v0.23.0 (#120)"
+            },
+            {
+              "SHA": "cb8d33b9",
+              "Subject": "Use Go 1.23 (#118)"
+            },
+            {
+              "SHA": "10068069",
+              "Subject": "Prepare for release v0.23.0-rc.3 (#119)"
+            },
+            {
+              "SHA": "10ca5613",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#117)"
+            },
+            {
+              "SHA": "3f84503b",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#116)"
+            },
+            {
+              "SHA": "db6996aa",
+              "Subject": "Directly use phase from DB status section (#115)"
+            },
+            {
+              "SHA": "cd898070",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#114)"
             }
           ]
         }

@@ -798,6 +798,20 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.23.0](https://github.com/kubedb/schema-manager/releases/tag/v0.23.0)
+
+- [e7efc21e](https://github.com/kubedb/schema-manager/commit/e7efc21e) Prepare for release v0.23.0 (#120)
+- [cb8d33b9](https://github.com/kubedb/schema-manager/commit/cb8d33b9) Use Go 1.23 (#118)
+- [10068069](https://github.com/kubedb/schema-manager/commit/10068069) Prepare for release v0.23.0-rc.3 (#119)
+- [10ca5613](https://github.com/kubedb/schema-manager/commit/10ca5613) Prepare for release v0.23.0-rc.2 (#117)
+- [3f84503b](https://github.com/kubedb/schema-manager/commit/3f84503b) Prepare for release v0.23.0-rc.1 (#116)
+- [db6996aa](https://github.com/kubedb/schema-manager/commit/db6996aa) Directly use phase from DB status section (#115)
+- [cd898070](https://github.com/kubedb/schema-manager/commit/cd898070) Prepare for release v0.23.0-rc.0 (#114)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.2.0](https://github.com/kubedb/singlestore/releases/tag/v0.2.0)

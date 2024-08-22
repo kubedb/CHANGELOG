@@ -63,6 +63,22 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.32.0](https://github.com/kubedb/autoscaler/releases/tag/v0.32.0)
+
+- [a999c420](https://github.com/kubedb/autoscaler/commit/a999c420) Prepare for release v0.32.0 (#220)
+- [04c05180](https://github.com/kubedb/autoscaler/commit/04c05180) Use Go 1.23 (#217)
+- [8b1eb269](https://github.com/kubedb/autoscaler/commit/8b1eb269) Prepare for release v0.32.0-rc.3 (#218)
+- [7c61bf9e](https://github.com/kubedb/autoscaler/commit/7c61bf9e) Implement autoscaling for pgbouncer (#214)
+- [0ce4541c](https://github.com/kubedb/autoscaler/commit/0ce4541c) Add Readinessgate Condition (#216)
+- [a03964ec](https://github.com/kubedb/autoscaler/commit/a03964ec) Prepare for release v0.32.0-rc.2 (#215)
+- [fc76bfff](https://github.com/kubedb/autoscaler/commit/fc76bfff) Set db as the OwnerRef in autoscaler CR (#213)
+- [9aa8ef3a](https://github.com/kubedb/autoscaler/commit/9aa8ef3a) Prepare for release v0.32.0-rc.1 (#212)
+- [ed522899](https://github.com/kubedb/autoscaler/commit/ed522899) Update constants and petset with apiv1 (#211)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.47.0](https://github.com/kubedb/cli/releases/tag/v0.47.0)

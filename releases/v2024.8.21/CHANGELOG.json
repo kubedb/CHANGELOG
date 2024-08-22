@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-22T00:24:20.922011545Z",
+  "release_date": "2024-08-22T00:32:48.522780477Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -231,6 +231,52 @@
             {
               "SHA": "c1a2e2745",
               "Subject": "Reset RabbitMQ default healthcker periodSecond (#1237)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "a999c420",
+              "Subject": "Prepare for release v0.32.0 (#220)"
+            },
+            {
+              "SHA": "04c05180",
+              "Subject": "Use Go 1.23 (#217)"
+            },
+            {
+              "SHA": "8b1eb269",
+              "Subject": "Prepare for release v0.32.0-rc.3 (#218)"
+            },
+            {
+              "SHA": "7c61bf9e",
+              "Subject": "Implement autoscaling for pgbouncer (#214)"
+            },
+            {
+              "SHA": "0ce4541c",
+              "Subject": "Add Readinessgate Condition (#216)"
+            },
+            {
+              "SHA": "a03964ec",
+              "Subject": "Prepare for release v0.32.0-rc.2 (#215)"
+            },
+            {
+              "SHA": "fc76bfff",
+              "Subject": "Set db as the OwnerRef in autoscaler CR (#213)"
+            },
+            {
+              "SHA": "9aa8ef3a",
+              "Subject": "Prepare for release v0.32.0-rc.1 (#212)"
+            },
+            {
+              "SHA": "ed522899",
+              "Subject": "Update constants and petset with apiv1 (#211)"
             }
           ]
         }

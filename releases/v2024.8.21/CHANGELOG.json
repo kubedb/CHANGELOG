@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.8.21",
-  "release_date": "2024-08-22T00:13:12.877792939Z",
+  "release_date": "2024-08-22T00:24:20.922011545Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.8.21",
   "kubernetes_version": "1.20+",
@@ -1590,6 +1590,15 @@
               "Subject": "Use Go 1.23 (#46)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": null
         }
       ]
     },

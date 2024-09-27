@@ -51,6 +51,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.3.0](https://github.com/kubedb/ferretdb/releases/tag/v0.3.0)
+
+- [19802a3f](https://github.com/kubedb/ferretdb/commit/19802a3f) Prepare for release v0.3.0 (#45)
+- [2d9b8382](https://github.com/kubedb/ferretdb/commit/2d9b8382) Add Support for NetworkPolicy (#44)
+- [9c12274c](https://github.com/kubedb/ferretdb/commit/9c12274c) make version accessible (#43)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.11.0)

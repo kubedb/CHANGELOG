@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T04:39:08.866213424Z",
+  "release_date": "2024-09-27T04:39:18.02635189Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -119,6 +119,24 @@
             {
               "SHA": "27985f4eb",
               "Subject": "Add monitoring defaults for mssqlserver (#1290)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "6d82a893",
+              "Subject": "Prepare for release v0.48.0 (#778)"
+            },
+            {
+              "SHA": "0d6782c0",
+              "Subject": "add mssql and (#777)"
             }
           ]
         }

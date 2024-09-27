@@ -35,6 +35,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.48.0](https://github.com/kubedb/cli/releases/tag/v0.48.0)
+
+- [6d82a893](https://github.com/kubedb/cli/commit/6d82a893) Prepare for release v0.48.0 (#778)
+- [0d6782c0](https://github.com/kubedb/cli/commit/0d6782c0) add mssql and (#777)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.3.0](https://github.com/kubedb/db-client-go/releases/tag/v0.3.0)

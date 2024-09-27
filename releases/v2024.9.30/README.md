@@ -392,6 +392,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.35.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.35.0)
+
+- [4d644e52](https://github.com/kubedb/pgbouncer/commit/4d644e52) Prepare for release v0.35.0 (#347)
+- [db6b6365](https://github.com/kubedb/pgbouncer/commit/db6b6365) Add Support for NetworkPolicy (#346)
+- [24c2cb96](https://github.com/kubedb/pgbouncer/commit/24c2cb96) config secret merging and using the new merged secret (#345)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.3.0](https://github.com/kubedb/pgpool/releases/tag/v0.3.0)

@@ -196,6 +196,14 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.35.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.35.0)
+
+- [941e7a2a](https://github.com/kubedb/replication-mode-detector/commit/941e7a2a) Prepare for release v0.35.0 (#278)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.4.0)

@@ -108,3 +108,13 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.4.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.4.0)
+
+- [c64eefc](https://github.com/kubedb/zookeeper-restic-plugin/commit/c64eefc) Prepare for release v0.4.0 (#17)
+- [db28c83](https://github.com/kubedb/zookeeper-restic-plugin/commit/db28c83) Update helper method and refactor code (#16)
+- [175447e](https://github.com/kubedb/zookeeper-restic-plugin/commit/175447e) Add timeout for backup and restore (#15)
+
+
+

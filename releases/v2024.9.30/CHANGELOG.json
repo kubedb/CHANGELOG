@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T06:05:02.441337575Z",
+  "release_date": "2024-09-27T06:09:12.817779554Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -1054,6 +1054,24 @@
             {
               "SHA": "941e7a2a",
               "Subject": "Prepare for release v0.35.0 (#278)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "78c83807",
+              "Subject": "Prepare for release v0.3.0 (#47)"
+            },
+            {
+              "SHA": "56f2bf71",
+              "Subject": "Add Network Policy (#46)"
             }
           ]
         }

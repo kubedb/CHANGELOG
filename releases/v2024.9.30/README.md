@@ -468,6 +468,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.3.0](https://github.com/kubedb/singlestore/releases/tag/v0.3.0)
+
+- [78c83807](https://github.com/kubedb/singlestore/commit/78c83807) Prepare for release v0.3.0 (#47)
+- [56f2bf71](https://github.com/kubedb/singlestore/commit/56f2bf71) Add Network Policy (#46)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.3.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.3.0)

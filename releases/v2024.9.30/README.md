@@ -75,6 +75,14 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.28.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.28.0)
+
+- [9a921621](https://github.com/kubedb/mariadb-coordinator/commit/9a921621) Prepare for release v0.28.0 (#127)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.11.0)

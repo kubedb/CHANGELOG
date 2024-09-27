@@ -176,6 +176,17 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.3.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.3.0)
+
+- [4638e298](https://github.com/kubedb/rabbitmq/commit/4638e298) Prepare for release v0.3.0 (#48)
+- [4cbfc8a6](https://github.com/kubedb/rabbitmq/commit/4cbfc8a6) Add network policy (#47)
+- [be9417ca](https://github.com/kubedb/rabbitmq/commit/be9417ca) Use KIND v0.24.0 (#46)
+- [e38f3735](https://github.com/kubedb/rabbitmq/commit/e38f3735) Fix dasboard svc port for http with TLS (#45)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.4.0)

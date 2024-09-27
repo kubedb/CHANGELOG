@@ -193,6 +193,19 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.3.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.3.0)
+
+- [68177328](https://github.com/kubedb/mssqlserver/commit/68177328) Prepare for release v0.3.0 (#30)
+- [b3ad0719](https://github.com/kubedb/mssqlserver/commit/b3ad0719) Add Network Policy (#29)
+- [0ceb7e2e](https://github.com/kubedb/mssqlserver/commit/0ceb7e2e) New version 2022-CU14 related changes (#28)
+- [9b56906d](https://github.com/kubedb/mssqlserver/commit/9b56906d) Add application backup/restore support (#27)
+- [9ed0de02](https://github.com/kubedb/mssqlserver/commit/9ed0de02) Export variables and add Custom Configuration  (#24)
+- [4ddadb8f](https://github.com/kubedb/mssqlserver/commit/4ddadb8f) Use KIND v0.24.0 (#26)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.2.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.2.0)

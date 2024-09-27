@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:10:19.704211326Z",
+  "release_date": "2024-09-27T05:10:54.947305713Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -540,6 +540,40 @@
             {
               "SHA": "81532b9",
               "Subject": "Fix Snapshot Fail Status not Updating (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "ea38abb",
+              "Subject": "Prepare for release v0.11.0 (#58)"
+            },
+            {
+              "SHA": "b83f066",
+              "Subject": "Refactor code (#57)"
+            },
+            {
+              "SHA": "7c0df0b",
+              "Subject": "Add druid logical backup (#51)"
+            },
+            {
+              "SHA": "ca89c9a",
+              "Subject": "Add External Databases Backup/Restore support (#55)"
+            },
+            {
+              "SHA": "a3e6482",
+              "Subject": "Add timeout for backup and restore (#56)"
+            },
+            {
+              "SHA": "163d4fb",
+              "Subject": "Use restic 0.17.1 (#54)"
             }
           ]
         }

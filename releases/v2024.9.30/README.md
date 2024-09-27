@@ -226,6 +226,19 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.11.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.11.0)
+
+- [ea38abb](https://github.com/kubedb/mysql-restic-plugin/commit/ea38abb) Prepare for release v0.11.0 (#58)
+- [b83f066](https://github.com/kubedb/mysql-restic-plugin/commit/b83f066) Refactor code (#57)
+- [7c0df0b](https://github.com/kubedb/mysql-restic-plugin/commit/7c0df0b) Add druid logical backup (#51)
+- [ca89c9a](https://github.com/kubedb/mysql-restic-plugin/commit/ca89c9a) Add External Databases Backup/Restore support (#55)
+- [a3e6482](https://github.com/kubedb/mysql-restic-plugin/commit/a3e6482) Add timeout for backup and restore (#56)
+- [163d4fb](https://github.com/kubedb/mysql-restic-plugin/commit/163d4fb) Use restic 0.17.1 (#54)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.26.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.26.0)

@@ -161,6 +161,15 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.2.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.2.0)
+
+- [d4fc0aa](https://github.com/kubedb/mssqlserver-walg-plugin/commit/d4fc0aa) Prepare for release v0.2.0 (#7)
+- [4692e18](https://github.com/kubedb/mssqlserver-walg-plugin/commit/4692e18) Add Application level backup/restore support (#6)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.41.0](https://github.com/kubedb/mysql/releases/tag/v0.41.0)

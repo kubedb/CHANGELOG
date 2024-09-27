@@ -44,6 +44,17 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.3.0](https://github.com/kubedb/clickhouse/releases/tag/v0.3.0)
+
+- [df41f2d1](https://github.com/kubedb/clickhouse/commit/df41f2d1) Prepare for release v0.3.0 (#20)
+- [1d883404](https://github.com/kubedb/clickhouse/commit/1d883404) Add Support for NetworkPolicy (#19)
+- [f0e4114c](https://github.com/kubedb/clickhouse/commit/f0e4114c) Add Internally Managed Keeper, Custom Config, Monitoring Support (#4)
+- [d32f7df6](https://github.com/kubedb/clickhouse/commit/d32f7df6) Use KIND v0.24.0 (#18)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.3.0](https://github.com/kubedb/crd-manager/releases/tag/v0.3.0)

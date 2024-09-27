@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:21:26.660822634Z",
+  "release_date": "2024-09-27T05:24:36.44806298Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -137,6 +137,32 @@
             {
               "SHA": "0d6782c0",
               "Subject": "add mssql and (#777)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "df41f2d1",
+              "Subject": "Prepare for release v0.3.0 (#20)"
+            },
+            {
+              "SHA": "1d883404",
+              "Subject": "Add Support for NetworkPolicy (#19)"
+            },
+            {
+              "SHA": "f0e4114c",
+              "Subject": "Add Internally Managed Keeper, Custom Config, Monitoring Support (#4)"
+            },
+            {
+              "SHA": "d32f7df6",
+              "Subject": "Use KIND v0.24.0 (#18)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T09:17:54.657247884Z",
+  "release_date": "2024-09-27T09:46:35.734416435Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -1421,6 +1421,15 @@
     },
     {
       "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
       "releases": [
         {
           "tag": "v0.24.0",

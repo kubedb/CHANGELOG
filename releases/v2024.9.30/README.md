@@ -633,6 +633,13 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.24.0](https://github.com/kubedb/webhook-server/releases/tag/v0.24.0)
+
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.3.0](https://github.com/kubedb/zookeeper/releases/tag/v0.3.0)

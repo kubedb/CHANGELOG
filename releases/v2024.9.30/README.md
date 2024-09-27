@@ -51,6 +51,20 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.11.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.11.0)
+
+- [9e2894b](https://github.com/kubedb/kubedb-manifest-plugin/commit/9e2894b) Prepare for release v0.11.0 (#71)
+- [5018874](https://github.com/kubedb/kubedb-manifest-plugin/commit/5018874) Fix druid external dependencies defaulting for restore (#70)
+- [5fd90bf](https://github.com/kubedb/kubedb-manifest-plugin/commit/5fd90bf) Add SingleStore Manifest Backup (#69)
+- [da14505](https://github.com/kubedb/kubedb-manifest-plugin/commit/da14505) Refactor (#68)
+- [bac2445](https://github.com/kubedb/kubedb-manifest-plugin/commit/bac2445) Add druid manifest backup (#61)
+- [775288e](https://github.com/kubedb/kubedb-manifest-plugin/commit/775288e) Use v1 api; Reset podTemplate properly on restore (#66)
+- [a02b671](https://github.com/kubedb/kubedb-manifest-plugin/commit/a02b671) Add timeout for backup and restore (#65)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.11.0)

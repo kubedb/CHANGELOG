@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T02:28:01.915065942Z",
+  "release_date": "2024-09-27T02:29:41.238483437Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -165,6 +165,44 @@
             {
               "SHA": "b8c278df",
               "Subject": "Fix RabbitMQ client for default Vhost setup (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "9e2894b",
+              "Subject": "Prepare for release v0.11.0 (#71)"
+            },
+            {
+              "SHA": "5018874",
+              "Subject": "Fix druid external dependencies defaulting for restore (#70)"
+            },
+            {
+              "SHA": "5fd90bf",
+              "Subject": "Add SingleStore Manifest Backup (#69)"
+            },
+            {
+              "SHA": "da14505",
+              "Subject": "Refactor (#68)"
+            },
+            {
+              "SHA": "bac2445",
+              "Subject": "Add druid manifest backup (#61)"
+            },
+            {
+              "SHA": "775288e",
+              "Subject": "Use v1 api; Reset podTemplate properly on restore (#66)"
+            },
+            {
+              "SHA": "a02b671",
+              "Subject": "Add timeout for backup and restore (#65)"
             }
           ]
         }

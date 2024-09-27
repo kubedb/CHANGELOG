@@ -204,6 +204,17 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.6.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.6.0)
+
+- [1ff32bb](https://github.com/kubedb/singlestore-restic-plugin/commit/1ff32bb) Prepare for release v0.6.0 (#26)
+- [c242852](https://github.com/kubedb/singlestore-restic-plugin/commit/c242852) Update helper method and refactor code (#25)
+- [0c2b37f](https://github.com/kubedb/singlestore-restic-plugin/commit/0c2b37f) Add timeout for backup and restore (#24)
+- [38ef8d4](https://github.com/kubedb/singlestore-restic-plugin/commit/38ef8d4) Use restic 0.17.1 (#23)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.4.0)

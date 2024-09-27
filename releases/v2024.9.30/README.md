@@ -35,6 +35,19 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.1.0](https://github.com/kubedb/cassandra/releases/tag/v0.1.0)
+
+- [3f30b40f](https://github.com/kubedb/cassandra/commit/3f30b40f) Prepare for release v0.1.0 (#4)
+- [64cc246e](https://github.com/kubedb/cassandra/commit/64cc246e) Add support for NetworkPolicy (#3)
+- [1a175919](https://github.com/kubedb/cassandra/commit/1a175919) Use KIND v0.24.0 (#2)
+- [c63d5269](https://github.com/kubedb/cassandra/commit/c63d5269) Add Cassandra Controller (#1)
+- [f6700853](https://github.com/kubedb/cassandra/commit/f6700853) Setup initial skeleton
+- [ed868ab3](https://github.com/kubedb/cassandra/commit/ed868ab3) Add License and readme
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.48.0](https://github.com/kubedb/cli/releases/tag/v0.48.0)

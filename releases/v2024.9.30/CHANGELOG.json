@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:24:36.44806298Z",
+  "release_date": "2024-09-27T05:56:24.548257336Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -119,6 +119,40 @@
             {
               "SHA": "27985f4eb",
               "Subject": "Add monitoring defaults for mssqlserver (#1290)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "3f30b40f",
+              "Subject": "Prepare for release v0.1.0 (#4)"
+            },
+            {
+              "SHA": "64cc246e",
+              "Subject": "Add support for NetworkPolicy (#3)"
+            },
+            {
+              "SHA": "1a175919",
+              "Subject": "Use KIND v0.24.0 (#2)"
+            },
+            {
+              "SHA": "c63d5269",
+              "Subject": "Add Cassandra Controller (#1)"
+            },
+            {
+              "SHA": "f6700853",
+              "Subject": "Setup initial skeleton"
+            },
+            {
+              "SHA": "ed868ab3",
+              "Subject": "Add License and readme"
             }
           ]
         }

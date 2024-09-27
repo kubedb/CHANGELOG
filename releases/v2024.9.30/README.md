@@ -60,6 +60,18 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.11.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.11.0)
+
+- [d248b00](https://github.com/kubedb/elasticsearch-restic-plugin/commit/d248b00) Prepare for release v0.11.0 (#45)
+- [d319899](https://github.com/kubedb/elasticsearch-restic-plugin/commit/d319899) Update helper method and refactor code (#44)
+- [095aeb8](https://github.com/kubedb/elasticsearch-restic-plugin/commit/095aeb8) Undo `DBReady` condition check for external database backup (#42)
+- [b068c4b](https://github.com/kubedb/elasticsearch-restic-plugin/commit/b068c4b) Add timeout for backup and restore (#43)
+- [ee77367](https://github.com/kubedb/elasticsearch-restic-plugin/commit/ee77367) Use restic 0.17.1 (#41)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.3.0](https://github.com/kubedb/ferretdb/releases/tag/v0.3.0)

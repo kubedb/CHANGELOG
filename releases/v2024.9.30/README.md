@@ -255,6 +255,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.41.0](https://github.com/kubedb/redis/releases/tag/v0.41.0)
+
+- [8283bb57](https://github.com/kubedb/redis/commit/8283bb57f) Prepare for release v0.41.0 (#560)
+- [391e9b6d](https://github.com/kubedb/redis/commit/391e9b6d0) Add support for NetworkPolicy (#559)
+- [55c69812](https://github.com/kubedb/redis/commit/55c698121) Add all utility installation-commands in makefile (#558)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.35.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.35.0)

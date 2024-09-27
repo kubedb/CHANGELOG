@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T04:41:42.458423688Z",
+  "release_date": "2024-09-27T04:41:49.331695711Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -542,6 +542,28 @@
             {
               "SHA": "38ef8d4",
               "Subject": "Use restic 0.17.1 (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "1e52e5c3",
+              "Subject": "Prepare for release v0.3.0 (#49)"
+            },
+            {
+              "SHA": "7c22876e",
+              "Subject": "Add Network Policy (#48)"
+            },
+            {
+              "SHA": "01c3c56c",
+              "Subject": "Add tls for solr (#47)"
             }
           ]
         }

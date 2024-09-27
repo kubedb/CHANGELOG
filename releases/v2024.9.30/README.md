@@ -241,6 +241,16 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.3.0](https://github.com/kubedb/solr/releases/tag/v0.3.0)
+
+- [1e52e5c3](https://github.com/kubedb/solr/commit/1e52e5c3) Prepare for release v0.3.0 (#49)
+- [7c22876e](https://github.com/kubedb/solr/commit/7c22876e) Add Network Policy (#48)
+- [01c3c56c](https://github.com/kubedb/solr/commit/01c3c56c) Add tls for solr (#47)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.4.0)

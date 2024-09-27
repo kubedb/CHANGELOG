@@ -200,6 +200,15 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.9.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.9.0)
+
+- [fac9428f](https://github.com/kubedb/postgres-archiver/commit/fac9428f) Prepare for release v0.9.0 (#40)
+- [53d7ba6e](https://github.com/kubedb/postgres-archiver/commit/53d7ba6e) Fix slow wal push issue (#39)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.9.0)

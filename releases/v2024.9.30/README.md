@@ -154,6 +154,15 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.3.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.3.0)
+
+- [af0e9071](https://github.com/kubedb/mssql-coordinator/commit/af0e9071) Prepare for release v0.3.0 (#17)
+- [ede4a4a8](https://github.com/kubedb/mssql-coordinator/commit/ede4a4a8) Refactor (#16)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.2.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.2.0)

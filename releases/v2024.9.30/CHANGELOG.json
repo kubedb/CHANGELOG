@@ -1,0 +1,128 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.9.30",
+  "release_date": "2024-09-27T02:02:49.426422324Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.9.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "52824a32c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ce1269f7a",
+              "Subject": "Add DB Connection api for UI (#1300)"
+            },
+            {
+              "SHA": "270c350d4",
+              "Subject": "Add support for NetworkPolicy (#1309)"
+            },
+            {
+              "SHA": "1a812915f",
+              "Subject": "Update api to configure tls for solr (#1297)"
+            },
+            {
+              "SHA": "83aa723b3",
+              "Subject": "Fix DB's restoring phase for application-level restore (#1306)"
+            },
+            {
+              "SHA": "706baeb42",
+              "Subject": "Change default wal_keep_size for postgres (#1310)"
+            },
+            {
+              "SHA": "42f85a6e3",
+              "Subject": "Add Support of Monitoring to ClickHouse (#1302)"
+            },
+            {
+              "SHA": "027fb9041",
+              "Subject": "Add Support for ClickHouse Custom Config (#1299)"
+            },
+            {
+              "SHA": "8657958fe",
+              "Subject": "Update Kibana API (#1301)"
+            },
+            {
+              "SHA": "2c9d3953d",
+              "Subject": "Add ClickHouse Keeper Api (#1278)"
+            },
+            {
+              "SHA": "9349421ec",
+              "Subject": "Add update constraints to Pgpool api (#1295)"
+            },
+            {
+              "SHA": "1d90d680f",
+              "Subject": "Add MS SQL Ops Requests APIs (#1198)"
+            },
+            {
+              "SHA": "adf7fe76c",
+              "Subject": "Add Kafka Scram Constants (#1304)"
+            },
+            {
+              "SHA": "88b051c92",
+              "Subject": "Add init field in druid api for backup (#1305)"
+            },
+            {
+              "SHA": "38154e492",
+              "Subject": "Reconfigure PGBouncer (#1291)"
+            },
+            {
+              "SHA": "639cafff0",
+              "Subject": "Add ZooKeeper Ops Request (#1263)"
+            },
+            {
+              "SHA": "f622d2d3c",
+              "Subject": "Add Cassandra Autoscaler Api (#1308)"
+            },
+            {
+              "SHA": "5a256e688",
+              "Subject": "Dont use kube-ui-server to detect rancher project namespaces (#1307)"
+            },
+            {
+              "SHA": "c4598e143",
+              "Subject": "Add Cassandra API (#1283)"
+            },
+            {
+              "SHA": "e32b81a82",
+              "Subject": "Use KIND v0.24.0 (#1303)"
+            },
+            {
+              "SHA": "9ed3d95a4",
+              "Subject": "Add UpdateVersion API for pgbouncer (#1284)"
+            },
+            {
+              "SHA": "f4c829bda",
+              "Subject": "Add updateConstraints in Memcached Api (#1298)"
+            },
+            {
+              "SHA": "ecd23db43",
+              "Subject": "Update for release KubeStash@v2024.8.30 (#1296)"
+            },
+            {
+              "SHA": "ceb03dd8b",
+              "Subject": "Remove config secret check from Pgpool webhook (#1294)"
+            },
+            {
+              "SHA": "eb51db0d7",
+              "Subject": "Update for release Stash@v2024.8.27 (#1293)"
+            },
+            {
+              "SHA": "60f4751e3",
+              "Subject": "Ignore Postgres reference when deleting Pgpool (#1292)"
+            },
+            {
+              "SHA": "27985f4eb",
+              "Subject": "Add monitoring defaults for mssqlserver (#1290)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

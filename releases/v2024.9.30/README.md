@@ -1,0 +1,37 @@
+# KubeDB v2024.9.30 (2024-09-27)
+
+
+## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+
+### [v0.48.0](https://github.com/kubedb/apimachinery/releases/tag/v0.48.0)
+
+- [52824a32](https://github.com/kubedb/apimachinery/commit/52824a32c) Update deps
+- [ce1269f7](https://github.com/kubedb/apimachinery/commit/ce1269f7a) Add DB Connection api for UI (#1300)
+- [270c350d](https://github.com/kubedb/apimachinery/commit/270c350d4) Add support for NetworkPolicy (#1309)
+- [1a812915](https://github.com/kubedb/apimachinery/commit/1a812915f) Update api to configure tls for solr (#1297)
+- [83aa723b](https://github.com/kubedb/apimachinery/commit/83aa723b3) Fix DB's restoring phase for application-level restore (#1306)
+- [706baeb4](https://github.com/kubedb/apimachinery/commit/706baeb42) Change default wal_keep_size for postgres (#1310)
+- [42f85a6e](https://github.com/kubedb/apimachinery/commit/42f85a6e3) Add Support of Monitoring to ClickHouse (#1302)
+- [027fb904](https://github.com/kubedb/apimachinery/commit/027fb9041) Add Support for ClickHouse Custom Config (#1299)
+- [8657958f](https://github.com/kubedb/apimachinery/commit/8657958fe) Update Kibana API (#1301)
+- [2c9d3953](https://github.com/kubedb/apimachinery/commit/2c9d3953d) Add ClickHouse Keeper Api (#1278)
+- [9349421e](https://github.com/kubedb/apimachinery/commit/9349421ec) Add update constraints to Pgpool api (#1295)
+- [1d90d680](https://github.com/kubedb/apimachinery/commit/1d90d680f) Add MS SQL Ops Requests APIs (#1198)
+- [adf7fe76](https://github.com/kubedb/apimachinery/commit/adf7fe76c) Add Kafka Scram Constants (#1304)
+- [88b051c9](https://github.com/kubedb/apimachinery/commit/88b051c92) Add init field in druid api for backup (#1305)
+- [38154e49](https://github.com/kubedb/apimachinery/commit/38154e492) Reconfigure PGBouncer (#1291)
+- [639cafff](https://github.com/kubedb/apimachinery/commit/639cafff0) Add ZooKeeper Ops Request (#1263)
+- [f622d2d3](https://github.com/kubedb/apimachinery/commit/f622d2d3c) Add Cassandra Autoscaler Api (#1308)
+- [5a256e68](https://github.com/kubedb/apimachinery/commit/5a256e688) Dont use kube-ui-server to detect rancher project namespaces (#1307)
+- [c4598e14](https://github.com/kubedb/apimachinery/commit/c4598e143) Add Cassandra API (#1283)
+- [e32b81a8](https://github.com/kubedb/apimachinery/commit/e32b81a82) Use KIND v0.24.0 (#1303)
+- [9ed3d95a](https://github.com/kubedb/apimachinery/commit/9ed3d95a4) Add UpdateVersion API for pgbouncer (#1284)
+- [f4c829bd](https://github.com/kubedb/apimachinery/commit/f4c829bda) Add updateConstraints in Memcached Api (#1298)
+- [ecd23db4](https://github.com/kubedb/apimachinery/commit/ecd23db43) Update for release KubeStash@v2024.8.30 (#1296)
+- [ceb03dd8](https://github.com/kubedb/apimachinery/commit/ceb03dd8b) Remove config secret check from Pgpool webhook (#1294)
+- [eb51db0d](https://github.com/kubedb/apimachinery/commit/eb51db0d7) Update for release Stash@v2024.8.27 (#1293)
+- [60f4751e](https://github.com/kubedb/apimachinery/commit/60f4751e3) Ignore Postgres reference when deleting Pgpool (#1292)
+- [27985f4e](https://github.com/kubedb/apimachinery/commit/27985f4eb) Add monitoring defaults for mssqlserver (#1290)
+
+
+

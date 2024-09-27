@@ -44,6 +44,16 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.6.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.6.0)
+
+- [f78d04f](https://github.com/kubedb/dashboard-restic-plugin/commit/f78d04f) Prepare for release v0.6.0 (#21)
+- [de78d66](https://github.com/kubedb/dashboard-restic-plugin/commit/de78d66) Add timeout for backup and restore (#20)
+- [d7eddc2](https://github.com/kubedb/dashboard-restic-plugin/commit/d7eddc2) Use restic 0.17.1 (#19)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.3.0](https://github.com/kubedb/db-client-go/releases/tag/v0.3.0)

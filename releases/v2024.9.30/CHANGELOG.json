@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T04:46:24.774116258Z",
+  "release_date": "2024-09-27T04:48:48.567341095Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -137,6 +137,28 @@
             {
               "SHA": "0d6782c0",
               "Subject": "add mssql and (#777)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "f78d04f",
+              "Subject": "Prepare for release v0.6.0 (#21)"
+            },
+            {
+              "SHA": "de78d66",
+              "Subject": "Add timeout for backup and restore (#20)"
+            },
+            {
+              "SHA": "d7eddc2",
+              "Subject": "Use restic 0.17.1 (#19)"
             }
           ]
         }

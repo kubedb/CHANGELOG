@@ -465,6 +465,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.35.0](https://github.com/kubedb/proxysql/releases/tag/v0.35.0)
+
+- [6398c68f](https://github.com/kubedb/proxysql/commit/6398c68fc) Prepare for release v0.35.0 (#360)
+- [4a877c76](https://github.com/kubedb/proxysql/commit/4a877c763) Add Support for NetworkPolicy (#359)
+- [be4c0011](https://github.com/kubedb/proxysql/commit/be4c00117) Use KIND v0.24.0 (#358)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.3.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.3.0)

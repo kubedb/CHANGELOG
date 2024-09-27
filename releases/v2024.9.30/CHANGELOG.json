@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T07:06:15.217574447Z",
+  "release_date": "2024-09-27T08:03:08.368426586Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -1062,6 +1062,28 @@
         {
           "tag": "v0.10.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "6398c68fc",
+              "Subject": "Prepare for release v0.35.0 (#360)"
+            },
+            {
+              "SHA": "4a877c763",
+              "Subject": "Add Support for NetworkPolicy (#359)"
+            },
+            {
+              "SHA": "be4c00117",
+              "Subject": "Use KIND v0.24.0 (#358)"
+            }
+          ]
         }
       ]
     },

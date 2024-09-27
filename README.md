@@ -2,6 +2,7 @@
 
 | KubeDB Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2024.9.30](https:/github.com/kubedb/CHANGELOG/releases/tag/v2024.9.30) | 2024-09-27 | [User Guide](https://kubedb.com/docs/v2024.9.30) | [CHANGELOG](/releases/v2024.9.30/README.md) | 1.26+ |
 | [v2024.8.21](https:/github.com/kubedb/CHANGELOG/releases/tag/v2024.8.21) | 2024-08-22 | [User Guide](https://kubedb.com/docs/v2024.8.21) | [CHANGELOG](/releases/v2024.8.21/README.md) | 1.20+ |
 | [v2024.8.14-rc.3](https:/github.com/kubedb/CHANGELOG/releases/tag/v2024.8.14-rc.3) | 2024-08-15 | [User Guide](https://kubedb.com/docs/v2024.8.14-rc.3) | [CHANGELOG](/releases/v2024.8.14-rc.3/README.md) | 1.20+ |
 | [v2024.8.2-rc.2](https:/github.com/kubedb/CHANGELOG/releases/tag/v2024.8.2-rc.2) | 2024-08-03 | [User Guide](https://kubedb.com/docs/v2024.8.2-rc.2) | [CHANGELOG](/releases/v2024.8.2-rc.2/README.md) | 1.20+ |

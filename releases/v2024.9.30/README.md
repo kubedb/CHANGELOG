@@ -85,6 +85,17 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.41.0](https://github.com/kubedb/mysql/releases/tag/v0.41.0)
+
+- [adff4b59](https://github.com/kubedb/mysql/commit/adff4b592) Prepare for release v0.41.0 (#642)
+- [7c215328](https://github.com/kubedb/mysql/commit/7c2153284) Add Support for NetworkPolicy (#641)
+- [3b411bb7](https://github.com/kubedb/mysql/commit/3b411bb75) Remove Initial Trigger Backup and Refactor RestoreNamespace Field (#640)
+- [0150b29c](https://github.com/kubedb/mysql/commit/0150b29cc) Add  Env and Health Check Condition for v8.4.2 (#639)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.9.0)

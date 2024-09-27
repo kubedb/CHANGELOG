@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T06:09:12.817779554Z",
+  "release_date": "2024-09-27T06:30:58.879749429Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -1040,6 +1040,32 @@
             {
               "SHA": "1abf13d5",
               "Subject": "Prepare for release v0.27.0 (#112)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "e965823",
+              "Subject": "Prepare for release v0.11.0 (#48)"
+            },
+            {
+              "SHA": "bacecc1",
+              "Subject": "Update helper method and refactor code (#47)"
+            },
+            {
+              "SHA": "e1c4d47",
+              "Subject": "Add timeout for backup and restore (#45)"
+            },
+            {
+              "SHA": "5dc4ec2",
+              "Subject": "Use restic 0.17.1 (#44)"
             }
           ]
         }

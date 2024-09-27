@@ -460,6 +460,17 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.11.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.11.0)
+
+- [e965823](https://github.com/kubedb/redis-restic-plugin/commit/e965823) Prepare for release v0.11.0 (#48)
+- [bacecc1](https://github.com/kubedb/redis-restic-plugin/commit/bacecc1) Update helper method and refactor code (#47)
+- [e1c4d47](https://github.com/kubedb/redis-restic-plugin/commit/e1c4d47) Add timeout for backup and restore (#45)
+- [5dc4ec2](https://github.com/kubedb/redis-restic-plugin/commit/5dc4ec2) Use restic 0.17.1 (#44)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.35.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.35.0)

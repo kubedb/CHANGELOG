@@ -114,6 +114,27 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.9.30](https://github.com/kubedb/docs/releases/tag/v2024.9.30)
+
+- [c1674236](https://github.com/kubedb/docs/commit/c1674236) Prepare for release v2024.9.30 (#689)
+- [d7f7094c](https://github.com/kubedb/docs/commit/d7f7094c) Add MariaDB PITR, KubeStash Backup/Restore (#674)
+- [e6f65f49](https://github.com/kubedb/docs/commit/e6f65f49) Update docs for kubedb/provisioner@bba4d968 (#688)
+- [fe79252b](https://github.com/kubedb/docs/commit/fe79252b) Add Postgres Arbiter, Reconfigure, Reconfigure TLS, Auto Scaler related doc (#662)
+- [a54edce5](https://github.com/kubedb/docs/commit/a54edce5) Update docs for kubedb/cli@0d6782c0 (#687)
+- [a7be7137](https://github.com/kubedb/docs/commit/a7be7137) Fix Deletion Policy Halt (#683)
+- [da6b5098](https://github.com/kubedb/docs/commit/da6b5098) Add Memcached doc (#671)
+- [35e3f023](https://github.com/kubedb/docs/commit/35e3f023) Add documentation for backup and restore elasticsearch using kubestash (#678)
+- [2af21a5f](https://github.com/kubedb/docs/commit/2af21a5f) Add `MySQL` backup/restore process by using KubeStash  (#668)
+- [dc4d44c4](https://github.com/kubedb/docs/commit/dc4d44c4) Add ZooKeeper KubeStash Backup/Restore Docs (#679)
+- [b6851e5f](https://github.com/kubedb/docs/commit/b6851e5f) Add Druid Kubestash backup & restore docs (#676)
+- [707e73ea](https://github.com/kubedb/docs/commit/707e73ea) Add PostgreSQL backup/restore process by using KubeStash (#670)
+- [6272f9b9](https://github.com/kubedb/docs/commit/6272f9b9) Add shard PITR and application level backup page in MongoDB (#677)
+- [d1e864cc](https://github.com/kubedb/docs/commit/d1e864cc) Add Redis backup restore doc for KubeStash (#675)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.3.0](https://github.com/kubedb/druid/releases/tag/v0.3.0)

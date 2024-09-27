@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T11:56:34.93861802Z",
+  "release_date": "2024-09-27T12:13:28.986116036Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -309,6 +309,72 @@
             {
               "SHA": "b8c278df",
               "Subject": "Fix RabbitMQ client for default Vhost setup (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "c1674236",
+              "Subject": "Prepare for release v2024.9.30 (#689)"
+            },
+            {
+              "SHA": "d7f7094c",
+              "Subject": "Add MariaDB PITR, KubeStash Backup/Restore (#674)"
+            },
+            {
+              "SHA": "e6f65f49",
+              "Subject": "Update docs for kubedb/provisioner@bba4d968 (#688)"
+            },
+            {
+              "SHA": "fe79252b",
+              "Subject": "Add Postgres Arbiter, Reconfigure, Reconfigure TLS, Auto Scaler related doc (#662)"
+            },
+            {
+              "SHA": "a54edce5",
+              "Subject": "Update docs for kubedb/cli@0d6782c0 (#687)"
+            },
+            {
+              "SHA": "a7be7137",
+              "Subject": "Fix Deletion Policy Halt (#683)"
+            },
+            {
+              "SHA": "da6b5098",
+              "Subject": "Add Memcached doc (#671)"
+            },
+            {
+              "SHA": "35e3f023",
+              "Subject": "Add documentation for backup and restore elasticsearch using kubestash (#678)"
+            },
+            {
+              "SHA": "2af21a5f",
+              "Subject": "Add `MySQL` backup/restore process by using KubeStash  (#668)"
+            },
+            {
+              "SHA": "dc4d44c4",
+              "Subject": "Add ZooKeeper KubeStash Backup/Restore Docs (#679)"
+            },
+            {
+              "SHA": "b6851e5f",
+              "Subject": "Add Druid Kubestash backup & restore docs (#676)"
+            },
+            {
+              "SHA": "707e73ea",
+              "Subject": "Add PostgreSQL backup/restore process by using KubeStash (#670)"
+            },
+            {
+              "SHA": "6272f9b9",
+              "Subject": "Add shard PITR and application level backup page in MongoDB (#677)"
+            },
+            {
+              "SHA": "d1e864cc",
+              "Subject": "Add Redis backup restore doc for KubeStash (#675)"
             }
           ]
         }

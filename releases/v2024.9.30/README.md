@@ -217,6 +217,21 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.41.0](https://github.com/kubedb/mongodb/releases/tag/v0.41.0)
+
+- [8d48e934](https://github.com/kubedb/mongodb/commit/8d48e934e) Prepare for release v0.41.0 (#658)
+- [3bd0132f](https://github.com/kubedb/mongodb/commit/3bd0132f9) Add support for NetworkPolicy (#657)
+- [7499a272](https://github.com/kubedb/mongodb/commit/7499a272a) update kubestash deps (#655)
+- [81734ed3](https://github.com/kubedb/mongodb/commit/81734ed3a) use `-f` instead of `--config` for custom config (#654)
+- [f2d4f5a2](https://github.com/kubedb/mongodb/commit/f2d4f5a20) Add all utility installation-commands in makefile (#653)
+- [682903ca](https://github.com/kubedb/mongodb/commit/682903caa) Copy storageSecret on walg-restore (#652)
+- [cfdd1aa9](https://github.com/kubedb/mongodb/commit/cfdd1aa9b) Fix trigger backup once and restore path issue (#651)
+- [6f0cb14d](https://github.com/kubedb/mongodb/commit/6f0cb14d9) Make granular packages (#650)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.9.0)

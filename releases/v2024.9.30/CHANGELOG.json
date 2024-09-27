@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T06:44:45.032442177Z",
+  "release_date": "2024-09-27T06:54:35.907355923Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -541,6 +541,48 @@
             {
               "SHA": "930620948",
               "Subject": "Add Ensure Memcached Config (#464)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "8d48e934e",
+              "Subject": "Prepare for release v0.41.0 (#658)"
+            },
+            {
+              "SHA": "3bd0132f9",
+              "Subject": "Add support for NetworkPolicy (#657)"
+            },
+            {
+              "SHA": "7499a272a",
+              "Subject": "update kubestash deps (#655)"
+            },
+            {
+              "SHA": "81734ed3a",
+              "Subject": "use `-f` instead of `--config` for custom config (#654)"
+            },
+            {
+              "SHA": "f2d4f5a20",
+              "Subject": "Add all utility installation-commands in makefile (#653)"
+            },
+            {
+              "SHA": "682903caa",
+              "Subject": "Copy storageSecret on walg-restore (#652)"
+            },
+            {
+              "SHA": "cfdd1aa9b",
+              "Subject": "Fix trigger backup once and restore path issue (#651)"
+            },
+            {
+              "SHA": "6f0cb14d9",
+              "Subject": "Make granular packages (#650)"
             }
           ]
         }

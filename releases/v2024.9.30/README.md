@@ -80,6 +80,16 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.3.0](https://github.com/kubedb/druid/releases/tag/v0.3.0)
+
+- [2b6a780e](https://github.com/kubedb/druid/commit/2b6a780e) Prepare for release v0.3.0 (#50)
+- [18ef77fc](https://github.com/kubedb/druid/commit/18ef77fc) Add Support for NetworkPolicy (#49)
+- [e13d968f](https://github.com/kubedb/druid/commit/e13d968f) Use KIND v0.24.0 (#46)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.11.0)

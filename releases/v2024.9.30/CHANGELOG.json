@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:20:43.146224264Z",
+  "release_date": "2024-09-27T05:21:26.660822634Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -227,6 +227,28 @@
             {
               "SHA": "b8c278df",
               "Subject": "Fix RabbitMQ client for default Vhost setup (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "2b6a780e",
+              "Subject": "Prepare for release v0.3.0 (#50)"
+            },
+            {
+              "SHA": "18ef77fc",
+              "Subject": "Add Support for NetworkPolicy (#49)"
+            },
+            {
+              "SHA": "e13d968f",
+              "Subject": "Use KIND v0.24.0 (#46)"
             }
           ]
         }

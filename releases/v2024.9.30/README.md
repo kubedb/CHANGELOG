@@ -517,6 +517,29 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.33.0](https://github.com/kubedb/tests/releases/tag/v0.33.0)
+
+- [2f79ea6b](https://github.com/kubedb/tests/commit/2f79ea6b) Prepare for release v0.33.0 (#379)
+- [abf5bbf2](https://github.com/kubedb/tests/commit/abf5bbf2) Add backup and restore CI for MongoDB (#376)
+- [bffe9f51](https://github.com/kubedb/tests/commit/bffe9f51) Add Kafka metrics exporter tests (#369)
+- [cc8b9e7c](https://github.com/kubedb/tests/commit/cc8b9e7c) Refactor Redis Tests (#360)
+- [c22d1ab1](https://github.com/kubedb/tests/commit/c22d1ab1) Add Memcached Autoscaling e2e Test (#354)
+- [dcc52bef](https://github.com/kubedb/tests/commit/dcc52bef) Change replica range (#370)
+- [c64ef036](https://github.com/kubedb/tests/commit/c64ef036) Add Druid metrics exporter tests (#367)
+- [3b43466a](https://github.com/kubedb/tests/commit/3b43466a) Update BackupConfiguration auto-trigger and fix in MongoDB, MariaDB (#365)
+- [ce203ceb](https://github.com/kubedb/tests/commit/ce203ceb) Add mssql exporter (#353)
+- [f734ec8c](https://github.com/kubedb/tests/commit/f734ec8c) Redis ssl fix exporter (#357)
+- [0b8eca92](https://github.com/kubedb/tests/commit/0b8eca92) Add Pgbouncer tests for scaling (#340)
+- [bc560566](https://github.com/kubedb/tests/commit/bc560566) Update Debugging printing function (#363)
+- [f7b2eae1](https://github.com/kubedb/tests/commit/f7b2eae1) Kafka autoscaling (#359)
+- [deec4378](https://github.com/kubedb/tests/commit/deec4378) Add MongoDB Backup-Restore test using KubeStash (#333)
+- [e896042c](https://github.com/kubedb/tests/commit/e896042c) Add MariaDB backup-restore test using KubeStash (#337)
+- [6b790e6b](https://github.com/kubedb/tests/commit/6b790e6b) Add Pgpool tests (TLS, Ops-requets, Autoscaler, Configuration) (#358)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.3.0](https://github.com/kubedb/zookeeper/releases/tag/v0.3.0)

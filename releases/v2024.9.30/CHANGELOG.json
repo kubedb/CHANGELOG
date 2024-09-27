@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T06:30:58.879749429Z",
+  "release_date": "2024-09-27T06:44:45.032442177Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -1160,6 +1160,80 @@
             {
               "SHA": "01c3c56c",
               "Subject": "Add tls for solr (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "2f79ea6b",
+              "Subject": "Prepare for release v0.33.0 (#379)"
+            },
+            {
+              "SHA": "abf5bbf2",
+              "Subject": "Add backup and restore CI for MongoDB (#376)"
+            },
+            {
+              "SHA": "bffe9f51",
+              "Subject": "Add Kafka metrics exporter tests (#369)"
+            },
+            {
+              "SHA": "cc8b9e7c",
+              "Subject": "Refactor Redis Tests (#360)"
+            },
+            {
+              "SHA": "c22d1ab1",
+              "Subject": "Add Memcached Autoscaling e2e Test (#354)"
+            },
+            {
+              "SHA": "dcc52bef",
+              "Subject": "Change replica range (#370)"
+            },
+            {
+              "SHA": "c64ef036",
+              "Subject": "Add Druid metrics exporter tests (#367)"
+            },
+            {
+              "SHA": "3b43466a",
+              "Subject": "Update BackupConfiguration auto-trigger and fix in MongoDB, MariaDB (#365)"
+            },
+            {
+              "SHA": "ce203ceb",
+              "Subject": "Add mssql exporter (#353)"
+            },
+            {
+              "SHA": "f734ec8c",
+              "Subject": "Redis ssl fix exporter (#357)"
+            },
+            {
+              "SHA": "0b8eca92",
+              "Subject": "Add Pgbouncer tests for scaling (#340)"
+            },
+            {
+              "SHA": "bc560566",
+              "Subject": "Update Debugging printing function (#363)"
+            },
+            {
+              "SHA": "f7b2eae1",
+              "Subject": "Kafka autoscaling (#359)"
+            },
+            {
+              "SHA": "deec4378",
+              "Subject": "Add MongoDB Backup-Restore test using KubeStash (#333)"
+            },
+            {
+              "SHA": "e896042c",
+              "Subject": "Add MariaDB backup-restore test using KubeStash (#337)"
+            },
+            {
+              "SHA": "6b790e6b",
+              "Subject": "Add Pgpool tests (TLS, Ops-requets, Autoscaler, Configuration) (#358)"
             }
           ]
         }

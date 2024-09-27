@@ -132,6 +132,15 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.8.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.8.0)
+
+- [c9f7a01](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/c9f7a01) Prepare for release v0.8.0 (#31)
+- [23e6751](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/23e6751) Fix Snapshot Fail Status not Updating (#30)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.6.0)

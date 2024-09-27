@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T02:59:43.091597965Z",
+  "release_date": "2024-09-27T04:37:41.044738598Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -294,6 +294,20 @@
             {
               "SHA": "0150b29cc",
               "Subject": "Add  Env and Health Check Condition for v8.4.2 (#639)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "812086aa",
+              "Subject": "Prepare for release v0.9.0 (#41)"
             }
           ]
         }

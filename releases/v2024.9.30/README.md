@@ -106,6 +106,14 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.9.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.9.0)
+
+- [812086aa](https://github.com/kubedb/mysql-archiver/commit/812086aa) Prepare for release v0.9.0 (#41)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.9.0)

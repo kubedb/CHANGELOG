@@ -78,3 +78,10 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.10.0](https://github.com/kubedb/provider-aws/releases/tag/v0.10.0)
+
+
+
+

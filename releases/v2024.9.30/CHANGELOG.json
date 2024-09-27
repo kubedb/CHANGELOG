@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T02:02:49.426422324Z",
+  "release_date": "2024-09-27T02:10:20.52619591Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -119,6 +119,52 @@
             {
               "SHA": "27985f4eb",
               "Subject": "Add monitoring defaults for mssqlserver (#1290)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "c1fd8329",
+              "Subject": "Prepare for release v0.3.0 (#140)"
+            },
+            {
+              "SHA": "5f1c5482",
+              "Subject": "Add tls for solr (#135)"
+            },
+            {
+              "SHA": "2182ff59",
+              "Subject": "Add DisableSecurity Support for ClickHouse (#137)"
+            },
+            {
+              "SHA": "f15802ff",
+              "Subject": "update zk client (#128)"
+            },
+            {
+              "SHA": "51823940",
+              "Subject": "Pass containerPort as parameter (#134)"
+            },
+            {
+              "SHA": "e11cb0a2",
+              "Subject": "Add Cassandra Client (#130)"
+            },
+            {
+              "SHA": "392630ba",
+              "Subject": "Fix rabbitmq client builder for disable auth (#138)"
+            },
+            {
+              "SHA": "2af340c4",
+              "Subject": "Fix RabbitMQ HTTP client with TLS (#136)"
+            },
+            {
+              "SHA": "b8c278df",
+              "Subject": "Fix RabbitMQ client for default Vhost setup (#133)"
             }
           ]
         }

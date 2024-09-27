@@ -35,3 +35,19 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.3.0](https://github.com/kubedb/db-client-go/releases/tag/v0.3.0)
+
+- [c1fd8329](https://github.com/kubedb/db-client-go/commit/c1fd8329) Prepare for release v0.3.0 (#140)
+- [5f1c5482](https://github.com/kubedb/db-client-go/commit/5f1c5482) Add tls for solr (#135)
+- [2182ff59](https://github.com/kubedb/db-client-go/commit/2182ff59) Add DisableSecurity Support for ClickHouse (#137)
+- [f15802ff](https://github.com/kubedb/db-client-go/commit/f15802ff) update zk client (#128)
+- [51823940](https://github.com/kubedb/db-client-go/commit/51823940) Pass containerPort as parameter (#134)
+- [e11cb0a2](https://github.com/kubedb/db-client-go/commit/e11cb0a2) Add Cassandra Client (#130)
+- [392630ba](https://github.com/kubedb/db-client-go/commit/392630ba) Fix rabbitmq client builder for disable auth (#138)
+- [2af340c4](https://github.com/kubedb/db-client-go/commit/2af340c4) Fix RabbitMQ HTTP client with TLS (#136)
+- [b8c278df](https://github.com/kubedb/db-client-go/commit/b8c278df) Fix RabbitMQ client for default Vhost setup (#133)
+
+
+

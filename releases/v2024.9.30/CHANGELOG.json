@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:57:56.452079073Z",
+  "release_date": "2024-09-27T06:05:02.441337575Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -425,6 +425,28 @@
             {
               "SHA": "a02b671",
               "Subject": "Add timeout for backup and restore (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "bd16acf10",
+              "Subject": "Prepare for release v0.32.0 (#285)"
+            },
+            {
+              "SHA": "8506ab7a1",
+              "Subject": "Add Support for NetworkPolicy (#284)"
+            },
+            {
+              "SHA": "842b2f501",
+              "Subject": "Remove Initial Trigger Backup (#283)"
             }
           ]
         }

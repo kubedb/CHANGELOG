@@ -161,6 +161,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.32.0](https://github.com/kubedb/mariadb/releases/tag/v0.32.0)
+
+- [bd16acf1](https://github.com/kubedb/mariadb/commit/bd16acf10) Prepare for release v0.32.0 (#285)
+- [8506ab7a](https://github.com/kubedb/mariadb/commit/8506ab7a1) Add Support for NetworkPolicy (#284)
+- [842b2f50](https://github.com/kubedb/mariadb/commit/842b2f501) Remove Initial Trigger Backup (#283)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.8.0)

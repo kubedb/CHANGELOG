@@ -78,6 +78,15 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.9.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.9.0)
+
+- [0f4f483](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/0f4f483) Prepare for release v0.9.0 (#38)
+- [1415a86](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/1415a86) Remove return error on backup fail (#37)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.10.0](https://github.com/kubedb/provider-aws/releases/tag/v0.10.0)

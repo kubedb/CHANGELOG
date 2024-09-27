@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T06:57:41.334556221Z",
+  "release_date": "2024-09-27T07:06:15.217574447Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -405,6 +405,28 @@
             {
               "SHA": "7981d5b4",
               "Subject": "Use KIND v0.24.0 (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "3546f26e",
+              "Subject": "Prepare for release v0.24.0 (#127)"
+            },
+            {
+              "SHA": "a6bac65e",
+              "Subject": "Fix healthcheck and refactor repository (#126)"
+            },
+            {
+              "SHA": "00962224",
+              "Subject": "Rename repo to kibana"
             }
           ]
         }

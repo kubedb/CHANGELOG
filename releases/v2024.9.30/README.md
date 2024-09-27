@@ -156,6 +156,16 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.24.0](https://github.com/kubedb/kibana/releases/tag/v0.24.0)
+
+- [3546f26e](https://github.com/kubedb/kibana/commit/3546f26e) Prepare for release v0.24.0 (#127)
+- [a6bac65e](https://github.com/kubedb/kibana/commit/a6bac65e) Fix healthcheck and refactor repository (#126)
+- [00962224](https://github.com/kubedb/kibana/commit/00962224) Rename repo to kibana
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.11.0)

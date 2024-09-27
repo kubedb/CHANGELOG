@@ -309,7 +309,8 @@
           "make chart-kubedb-provider-aws CHART_VERSION=${RELEASE} APP_VERSION=${KUBEDB_PROVIDER_AWS_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
           "make chart-kubedb-provider-azure CHART_VERSION=${RELEASE} APP_VERSION=${KUBEDB_PROVIDER_AZURE_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
           "make chart-kubedb-provider-gcp CHART_VERSION=${RELEASE} APP_VERSION=${KUBEDB_PROVIDER_GCP_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
-          "./hack/scripts/update-chart-dependencies.sh"
+          "./hack/scripts/update-chart-dependencies.sh",
+          "image-packer list --root-dir=charts --output-dir=catalog"
         ],
         "release_branch": "release-${TAG}"
       }

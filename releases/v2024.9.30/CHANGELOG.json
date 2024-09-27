@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T04:39:18.02635189Z",
+  "release_date": "2024-09-27T04:41:36.383778871Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -387,6 +387,24 @@
         {
           "tag": "v0.26.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "2a0bd4644",
+              "Subject": "Prepare for release v0.35.0 (#381)"
+            },
+            {
+              "SHA": "0c3572b7c",
+              "Subject": "Add Support for NetworkPolicy (#380)"
+            }
+          ]
         }
       ]
     },

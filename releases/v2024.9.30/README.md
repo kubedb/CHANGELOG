@@ -156,6 +156,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.35.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.35.0)
+
+- [2a0bd464](https://github.com/kubedb/percona-xtradb/commit/2a0bd4644) Prepare for release v0.35.0 (#381)
+- [0c3572b7](https://github.com/kubedb/percona-xtradb/commit/0c3572b7c) Add Support for NetworkPolicy (#380)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.21.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.21.0)

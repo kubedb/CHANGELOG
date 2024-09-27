@@ -101,6 +101,14 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.21.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.21.0)
+
+- [0dbbf87d](https://github.com/kubedb/percona-xtradb-coordinator/commit/0dbbf87d) Prepare for release v0.21.0 (#81)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.9.0)

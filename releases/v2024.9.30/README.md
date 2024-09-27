@@ -190,6 +190,20 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.11.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.11.0)
+
+- [e75a130](https://github.com/kubedb/postgres-restic-plugin/commit/e75a130) Prepare for release v0.11.0 (#53)
+- [d7b516b](https://github.com/kubedb/postgres-restic-plugin/commit/d7b516b) Add Physical backup and restore support for postgres (#51)
+- [848bf53](https://github.com/kubedb/postgres-restic-plugin/commit/848bf53) Refactor code (#52)
+- [7d3fac6](https://github.com/kubedb/postgres-restic-plugin/commit/7d3fac6) Add druid logical backup (#47)
+- [43e6a41](https://github.com/kubedb/postgres-restic-plugin/commit/43e6a41) Undo `DBReady` condition check for external database backup (#49)
+- [e335e3e](https://github.com/kubedb/postgres-restic-plugin/commit/e335e3e) Add timeout for backup and restore (#50)
+- [d2e8650](https://github.com/kubedb/postgres-restic-plugin/commit/d2e8650) Use restic 0.17.1 (#48)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.10.0](https://github.com/kubedb/provider-aws/releases/tag/v0.10.0)

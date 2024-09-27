@@ -155,6 +155,13 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2024.9.30](https://github.com/kubedb/installer/releases/tag/v2024.9.30)
+
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.19.0](https://github.com/kubedb/kafka/releases/tag/v0.19.0)

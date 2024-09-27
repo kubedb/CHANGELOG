@@ -100,6 +100,14 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.9.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.9.0)
+
+- [94a4768](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/94a4768) Prepare for release v0.9.0 (#35)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.11.0)

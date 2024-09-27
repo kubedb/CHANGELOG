@@ -100,6 +100,17 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.6.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.6.0)
+
+- [76729c2](https://github.com/kubedb/mariadb-restic-plugin/commit/76729c2) Prepare for release v0.6.0 (#26)
+- [b259caa](https://github.com/kubedb/mariadb-restic-plugin/commit/b259caa) Update helper method and refactor code (#25)
+- [3edea46](https://github.com/kubedb/mariadb-restic-plugin/commit/3edea46) Add timeout for backup and restore (#24)
+- [d4633a1](https://github.com/kubedb/mariadb-restic-plugin/commit/d4633a1) Use restic 0.17.1 (#23)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.9.0)

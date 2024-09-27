@@ -102,6 +102,17 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.19.0](https://github.com/kubedb/kafka/releases/tag/v0.19.0)
+
+- [9810e653](https://github.com/kubedb/kafka/commit/9810e653) Prepare for release v0.19.0 (#109)
+- [119eeac9](https://github.com/kubedb/kafka/commit/119eeac9) add network policy support for kafka (#108)
+- [b3cc4075](https://github.com/kubedb/kafka/commit/b3cc4075) Add Kafka Security Scram (#107)
+- [7981d5b4](https://github.com/kubedb/kafka/commit/7981d5b4) Use KIND v0.24.0 (#106)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.11.0)

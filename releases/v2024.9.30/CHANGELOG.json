@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:17:02.893517486Z",
+  "release_date": "2024-09-27T05:19:20.679884759Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -279,6 +279,32 @@
             {
               "SHA": "9c12274c",
               "Subject": "make version accessible (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "9810e653",
+              "Subject": "Prepare for release v0.19.0 (#109)"
+            },
+            {
+              "SHA": "119eeac9",
+              "Subject": "add network policy support for kafka (#108)"
+            },
+            {
+              "SHA": "b3cc4075",
+              "Subject": "Add Kafka Security Scram (#107)"
+            },
+            {
+              "SHA": "7981d5b4",
+              "Subject": "Use KIND v0.24.0 (#106)"
             }
           ]
         }

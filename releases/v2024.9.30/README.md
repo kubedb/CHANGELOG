@@ -231,6 +231,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.48.0](https://github.com/kubedb/postgres/releases/tag/v0.48.0)
+
+- [a7f61f7f](https://github.com/kubedb/postgres/commit/a7f61f7f6) Prepare for release v0.48.0 (#754)
+- [cb2b30a1](https://github.com/kubedb/postgres/commit/cb2b30a14) Add network policy support (#753)
+- [09b14dea](https://github.com/kubedb/postgres/commit/09b14dea4) Add Restic Driver support for postgres archiver (#752)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.9.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.9.0)

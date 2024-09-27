@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T04:52:50.912419091Z",
+  "release_date": "2024-09-27T04:53:05.441148249Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -541,6 +541,28 @@
             {
               "SHA": "0dbbf87d",
               "Subject": "Prepare for release v0.21.0 (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "a7f61f7f6",
+              "Subject": "Prepare for release v0.48.0 (#754)"
+            },
+            {
+              "SHA": "cb2b30a14",
+              "Subject": "Add network policy support (#753)"
+            },
+            {
+              "SHA": "09b14dea4",
+              "Subject": "Add Restic Driver support for postgres archiver (#752)"
             }
           ]
         }

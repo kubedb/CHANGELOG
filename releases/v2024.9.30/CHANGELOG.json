@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:04:58.466396156Z",
+  "release_date": "2024-09-27T05:10:19.704211326Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -864,6 +864,32 @@
             {
               "SHA": "01c3c56c",
               "Subject": "Add tls for solr (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "46451567",
+              "Subject": "Prepare for release v0.3.0 (#41)"
+            },
+            {
+              "SHA": "b0f16147",
+              "Subject": "Add network policy (#40)"
+            },
+            {
+              "SHA": "d4dd7f50",
+              "Subject": "Add ZooKeeper Ops Request Changes (#32)"
+            },
+            {
+              "SHA": "f4af8e59",
+              "Subject": "Use KIND v0.24.0 (#39)"
             }
           ]
         }

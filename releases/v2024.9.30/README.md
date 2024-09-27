@@ -389,6 +389,17 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.3.0](https://github.com/kubedb/zookeeper/releases/tag/v0.3.0)
+
+- [46451567](https://github.com/kubedb/zookeeper/commit/46451567) Prepare for release v0.3.0 (#41)
+- [b0f16147](https://github.com/kubedb/zookeeper/commit/b0f16147) Add network policy (#40)
+- [d4dd7f50](https://github.com/kubedb/zookeeper/commit/d4dd7f50) Add ZooKeeper Ops Request Changes (#32)
+- [f4af8e59](https://github.com/kubedb/zookeeper/commit/f4af8e59) Use KIND v0.24.0 (#39)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.4.0)

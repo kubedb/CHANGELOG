@@ -114,6 +114,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.48.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.48.0)
+
+- [9cf7cb80](https://github.com/kubedb/elasticsearch/commit/9cf7cb801) Prepare for release v0.48.0 (#734)
+- [d948222d](https://github.com/kubedb/elasticsearch/commit/d948222d9) Add network policy support (#733)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.11.0)

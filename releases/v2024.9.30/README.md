@@ -44,6 +44,16 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.3.0](https://github.com/kubedb/crd-manager/releases/tag/v0.3.0)
+
+- [00607da6](https://github.com/kubedb/crd-manager/commit/00607da6) Prepare for release v0.3.0 (#50)
+- [dce1d519](https://github.com/kubedb/crd-manager/commit/dce1d519) Add mssqlserver ops-request crd (#49)
+- [a08b59b8](https://github.com/kubedb/crd-manager/commit/a08b59b8) Add support for Cassandra (#45)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.6.0)

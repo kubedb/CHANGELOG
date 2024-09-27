@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T04:58:57.752039073Z",
+  "release_date": "2024-09-27T05:03:37.175574636Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -137,6 +137,28 @@
             {
               "SHA": "0d6782c0",
               "Subject": "add mssql and (#777)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "00607da6",
+              "Subject": "Prepare for release v0.3.0 (#50)"
+            },
+            {
+              "SHA": "dce1d519",
+              "Subject": "Add mssqlserver ops-request crd (#49)"
+            },
+            {
+              "SHA": "a08b59b8",
+              "Subject": "Add support for Cassandra (#45)"
             }
           ]
         }

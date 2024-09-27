@@ -85,6 +85,15 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.9.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.9.0)
+
+- [9c987dd](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/9c987dd) Prepare for release v0.9.0 (#29)
+- [81532b9](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/81532b9) Fix Snapshot Fail Status not Updating (#28)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.26.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.26.0)

@@ -15,6 +15,9 @@
       }
     },
     {
+      "github.com/kubedb/cassandra": {
+        "tag": "v0.1.0"
+      },
       "github.com/kubedb/cli": {
         "key": "kubedb-cli",
         "tag": "v0.48.0"

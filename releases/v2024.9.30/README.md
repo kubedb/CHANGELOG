@@ -35,6 +35,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.33.0](https://github.com/kubedb/autoscaler/releases/tag/v0.33.0)
+
+- [ba8c02d9](https://github.com/kubedb/autoscaler/commit/ba8c02d9) Prepare for release v0.33.0 (#224)
+- [fce8a02b](https://github.com/kubedb/autoscaler/commit/fce8a02b) Add Microsoft SQL Server Autoscaler (#223)
+- [326587f5](https://github.com/kubedb/autoscaler/commit/326587f5) Add FerretDB autoscaler (#221)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.1.0](https://github.com/kubedb/cassandra/releases/tag/v0.1.0)

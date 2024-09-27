@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T09:04:06.782375481Z",
+  "release_date": "2024-09-27T09:17:54.657247884Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -119,6 +119,28 @@
             {
               "SHA": "27985f4eb",
               "Subject": "Add monitoring defaults for mssqlserver (#1290)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "ba8c02d9",
+              "Subject": "Prepare for release v0.33.0 (#224)"
+            },
+            {
+              "SHA": "fce8a02b",
+              "Subject": "Add Microsoft SQL Server Autoscaler (#223)"
+            },
+            {
+              "SHA": "326587f5",
+              "Subject": "Add FerretDB autoscaler (#221)"
             }
           ]
         }

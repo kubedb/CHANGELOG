@@ -122,6 +122,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.26.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.26.0)
+
+- [f145403c](https://github.com/kubedb/mysql-coordinator/commit/f145403c) Prepare for release v0.26.0 (#124)
+- [bdb20c37](https://github.com/kubedb/mysql-coordinator/commit/bdb20c37) Add MySQL New Version 8.4.2 (#123)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.9.0)

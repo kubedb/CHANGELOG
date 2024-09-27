@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T02:10:20.52619591Z",
+  "release_date": "2024-09-27T02:22:31.225714101Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -165,6 +165,40 @@
             {
               "SHA": "b8c278df",
               "Subject": "Fix RabbitMQ client for default Vhost setup (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "85fa28e",
+              "Subject": "Prepare for release v0.11.0 (#66)"
+            },
+            {
+              "SHA": "3bbb7ed",
+              "Subject": "print mongodb output if get error (#64)"
+            },
+            {
+              "SHA": "7cc56b2",
+              "Subject": "Update helper method and refactor code (#65)"
+            },
+            {
+              "SHA": "5af3981",
+              "Subject": "Add timeout for backup and restore (#62)"
+            },
+            {
+              "SHA": "fb269f3",
+              "Subject": "Initialize the restic components only (#63)"
+            },
+            {
+              "SHA": "2173316",
+              "Subject": "Use restic 0.17.1 (#61)"
             }
           ]
         }

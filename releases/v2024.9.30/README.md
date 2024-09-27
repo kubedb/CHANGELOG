@@ -51,3 +51,16 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.11.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.11.0)
+
+- [85fa28e](https://github.com/kubedb/mongodb-restic-plugin/commit/85fa28e) Prepare for release v0.11.0 (#66)
+- [3bbb7ed](https://github.com/kubedb/mongodb-restic-plugin/commit/3bbb7ed) print mongodb output if get error (#64)
+- [7cc56b2](https://github.com/kubedb/mongodb-restic-plugin/commit/7cc56b2) Update helper method and refactor code (#65)
+- [5af3981](https://github.com/kubedb/mongodb-restic-plugin/commit/5af3981) Add timeout for backup and restore (#62)
+- [fb269f3](https://github.com/kubedb/mongodb-restic-plugin/commit/fb269f3) Initialize the restic components only (#63)
+- [2173316](https://github.com/kubedb/mongodb-restic-plugin/commit/2173316) Use restic 0.17.1 (#61)
+
+
+

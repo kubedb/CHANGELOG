@@ -250,6 +250,16 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.3.0](https://github.com/kubedb/pgpool/releases/tag/v0.3.0)
+
+- [5703b7bc](https://github.com/kubedb/pgpool/commit/5703b7bc) Prepare for release v0.3.0 (#48)
+- [5331e699](https://github.com/kubedb/pgpool/commit/5331e699) Add network policy (#47)
+- [e8d0477d](https://github.com/kubedb/pgpool/commit/e8d0477d) Add updated apimachinery (#46)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.48.0](https://github.com/kubedb/postgres/releases/tag/v0.48.0)

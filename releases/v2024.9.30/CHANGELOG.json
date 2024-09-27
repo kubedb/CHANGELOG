@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:03:37.175574636Z",
+  "release_date": "2024-09-27T05:04:58.466396156Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -581,6 +581,28 @@
             {
               "SHA": "0dbbf87d",
               "Subject": "Prepare for release v0.21.0 (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "5703b7bc",
+              "Subject": "Prepare for release v0.3.0 (#48)"
+            },
+            {
+              "SHA": "5331e699",
+              "Subject": "Add network policy (#47)"
+            },
+            {
+              "SHA": "e8d0477d",
+              "Subject": "Add updated apimachinery (#46)"
             }
           ]
         }

@@ -197,6 +197,16 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.41.0](https://github.com/kubedb/memcached/releases/tag/v0.41.0)
+
+- [0d034542](https://github.com/kubedb/memcached/commit/0d0345422) Prepare for release v0.41.0 (#466)
+- [cbb3473d](https://github.com/kubedb/memcached/commit/cbb3473df) Add network policy support (#465)
+- [93062094](https://github.com/kubedb/memcached/commit/930620948) Add Ensure Memcached Config (#464)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.9.0)

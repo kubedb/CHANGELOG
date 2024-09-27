@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T05:56:24.548257336Z",
+  "release_date": "2024-09-27T05:57:56.452079073Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -497,6 +497,28 @@
             {
               "SHA": "d4633a1",
               "Subject": "Use restic 0.17.1 (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "0d0345422",
+              "Subject": "Prepare for release v0.41.0 (#466)"
+            },
+            {
+              "SHA": "cbb3473df",
+              "Subject": "Add network policy support (#465)"
+            },
+            {
+              "SHA": "930620948",
+              "Subject": "Add Ensure Memcached Config (#464)"
             }
           ]
         }

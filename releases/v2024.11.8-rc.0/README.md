@@ -103,6 +103,15 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.3.0-rc.0)
+
+- [e05e217](https://github.com/kubedb/mssqlserver-walg-plugin/commit/e05e217) Prepare for release v0.3.0-rc.0 (#9)
+- [4a9db7b](https://github.com/kubedb/mssqlserver-walg-plugin/commit/4a9db7b) Use debian:12 base image (#8)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.10.0-rc.0)

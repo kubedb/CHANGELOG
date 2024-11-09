@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:38:58.154959091Z",
+  "release_date": "2024-11-09T08:39:04.115575514Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -228,6 +228,24 @@
             {
               "SHA": "39de8531",
               "Subject": "Skip creating extra initial backup session for pitr (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e05e217",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#9)"
+            },
+            {
+              "SHA": "4a9db7b",
+              "Subject": "Use debian:12 base image (#8)"
             }
           ]
         }

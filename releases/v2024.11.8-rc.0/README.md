@@ -120,6 +120,14 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.12.0-rc.0)
+
+- [3f6d291](https://github.com/kubedb/mongodb-restic-plugin/commit/3f6d291) Prepare for release v0.12.0-rc.0 (#68)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.4.0-rc.0)

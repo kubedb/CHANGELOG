@@ -269,6 +269,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.27.0-rc.0)
+
+- [a0ee1f6](https://github.com/kubedb/mysql-router-init/commit/a0ee1f6) Use debian:12 base image (#47)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.36.0-rc.0)

@@ -24,6 +24,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.49.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.49.0-rc.0)
+
+- [d3aaacf3](https://github.com/kubedb/elasticsearch/commit/d3aaacf37) Prepare for release v0.49.0-rc.0 (#738)
+- [57de6b5e](https://github.com/kubedb/elasticsearch/commit/57de6b5e6) Fix local Webhook Registration (#737)
+- [494c5f03](https://github.com/kubedb/elasticsearch/commit/494c5f03b) Use debian:12 base image (#736)
+- [986f6f22](https://github.com/kubedb/elasticsearch/commit/986f6f224) Use debian:12 base image (#735)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.9.0-rc.0)

@@ -110,6 +110,17 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.20.0-rc.0)
+
+- [c80ff7a2](https://github.com/kubedb/kafka/commit/c80ff7a2) Prepare for release v0.20.0-rc.0 (#116)
+- [96e3de84](https://github.com/kubedb/kafka/commit/96e3de84) Prepare for release v0.42.0-rc.0
+- [6f702d94](https://github.com/kubedb/kafka/commit/6f702d94) Fix breaking helper functions (#115)
+- [7e43c33f](https://github.com/kubedb/kafka/commit/7e43c33f) Use debian:12 base image (#111)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.12.0-rc.0)

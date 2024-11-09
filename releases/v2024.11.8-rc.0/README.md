@@ -92,6 +92,17 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.4.0-rc.0)
+
+- [b43a0b19](https://github.com/kubedb/mssqlserver/commit/b43a0b19) Prepare for release v0.4.0-rc.0 (#37)
+- [69c1a4de](https://github.com/kubedb/mssqlserver/commit/69c1a4de) Use debian:12 base image (#35)
+- [c243e70b](https://github.com/kubedb/mssqlserver/commit/c243e70b) Add some fixes: Validate user envs  (#33)
+- [39de8531](https://github.com/kubedb/mssqlserver/commit/39de8531) Skip creating extra initial backup session for pitr (#34)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.10.0-rc.0)

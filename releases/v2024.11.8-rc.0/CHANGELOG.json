@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:39:44.693438491Z",
+  "release_date": "2024-11-09T08:39:51.869525732Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -336,6 +336,24 @@
             {
               "SHA": "86853e65",
               "Subject": "Use debian:12 base image (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5422557f",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "b1e214ca",
+              "Subject": "Use debian:12 base image (#49)"
             }
           ]
         }

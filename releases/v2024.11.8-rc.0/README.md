@@ -157,6 +157,15 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.4.0-rc.0)
+
+- [5422557f](https://github.com/kubedb/pgpool/commit/5422557f) Prepare for release v0.4.0-rc.0 (#50)
+- [b1e214ca](https://github.com/kubedb/pgpool/commit/b1e214ca) Use debian:12 base image (#49)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.49.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.49.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:37:52.660225596Z",
+  "release_date": "2024-11-09T08:37:58.044349846Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -118,6 +118,24 @@
             {
               "SHA": "8498c843",
               "Subject": "Prepare for release v0.9.0-rc.0 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d9af547",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#28)"
+            },
+            {
+              "SHA": "610dab6",
+              "Subject": "Add external databases backup/restore support (#27)"
             }
           ]
         }

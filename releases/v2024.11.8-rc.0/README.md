@@ -53,6 +53,15 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.7.0-rc.0)
+
+- [d9af547](https://github.com/kubedb/mariadb-restic-plugin/commit/d9af547) Prepare for release v0.7.0-rc.0 (#28)
+- [610dab6](https://github.com/kubedb/mariadb-restic-plugin/commit/610dab6) Add external databases backup/restore support (#27)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.22.0-rc.0)

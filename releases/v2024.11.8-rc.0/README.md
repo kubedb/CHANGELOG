@@ -65,6 +65,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.4.0-rc.0)
+
+- [46e66e54](https://github.com/kubedb/ferretdb/commit/46e66e54) Prepare for release v0.4.0-rc.0 (#49)
+- [d6dbb82a](https://github.com/kubedb/ferretdb/commit/d6dbb82a) Update pg tp v1 (#47)
+- [498cf1e3](https://github.com/kubedb/ferretdb/commit/498cf1e3) Use debian:12 base image (#46)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.9.0-rc.0)

@@ -306,6 +306,24 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/ops-manager/releases/tag/v0.36.0-rc.0)
+
+- [eb4dfe2f](https://github.com/kubedb/ops-manager/commit/eb4dfe2fe) Prepare for release v0.36.0-rc.0 (#656)
+- [a03bb54e](https://github.com/kubedb/ops-manager/commit/a03bb54e3) Update all db deps
+- [6b0cf17f](https://github.com/kubedb/ops-manager/commit/6b0cf17fa) Fix recommendation (#642)
+- [1b049295](https://github.com/kubedb/ops-manager/commit/1b0492953) Add support for Druid TLS and Ops-Requests (#629)
+- [e72ae41d](https://github.com/kubedb/ops-manager/commit/e72ae41dc) Fix reconfigure tls mg patch issue (#650)
+- [5d328f00](https://github.com/kubedb/ops-manager/commit/5d328f00b) Use debian:12 base image (#647)
+- [1f32a6cf](https://github.com/kubedb/ops-manager/commit/1f32a6cf0) Use debian:12 base image (#646)
+- [3d69bbcc](https://github.com/kubedb/ops-manager/commit/3d69bbcc7) Update zk deps (#645)
+- [c71245eb](https://github.com/kubedb/ops-manager/commit/c71245eb4) Add TLS for ZooKeeper (#640)
+- [0624ed34](https://github.com/kubedb/ops-manager/commit/0624ed346) Update deps (#643)
+- [0c2abc62](https://github.com/kubedb/ops-manager/commit/0c2abc62f) Fix Ops Request Reconfiguration and Version Update (#641)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.36.0-rc.0)

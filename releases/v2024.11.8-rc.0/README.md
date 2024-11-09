@@ -37,6 +37,15 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.7.0-rc.0)
+
+- [7672ced](https://github.com/kubedb/dashboard-restic-plugin/commit/7672ced) Prepare for release v0.7.0-rc.0 (#23)
+- [504cae4](https://github.com/kubedb/dashboard-restic-plugin/commit/504cae4) Use debian:12 base image (#22)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.4.0-rc.0)

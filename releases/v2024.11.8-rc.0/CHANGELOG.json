@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:41:07.52081378Z",
+  "release_date": "2024-11-09T08:41:12.820815084Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -72,6 +72,24 @@
             {
               "SHA": "f45b9afd",
               "Subject": "Use debian:12 base image (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7672ced",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#23)"
+            },
+            {
+              "SHA": "504cae4",
+              "Subject": "Use debian:12 base image (#22)"
             }
           ]
         }

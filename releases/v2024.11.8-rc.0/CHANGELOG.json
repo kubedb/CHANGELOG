@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:41:48.761687684Z",
+  "release_date": "2024-11-09T08:41:57.644745838Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -570,6 +570,32 @@
             {
               "SHA": "7393bf4",
               "Subject": "Use debian:12 base image (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3eabf7e9",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "bb92e142",
+              "Subject": "Revert \"Add ReconcileState struct as reconcile methods receiver (#50)\""
+            },
+            {
+              "SHA": "208e2ebc",
+              "Subject": "Add ReconcileState struct as reconcile methods receiver (#50)"
+            },
+            {
+              "SHA": "c62f41c0",
+              "Subject": "Use debian:12 base image (#49)"
             }
           ]
         }

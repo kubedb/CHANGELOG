@@ -18,6 +18,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.49.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.49.0-rc.0)
+
+- [a10a51fa](https://github.com/kubedb/cli/commit/a10a51fa) Prepare for release v0.49.0-rc.0 (#780)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.4.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:38:45.426091995Z",
+  "release_date": "2024-11-09T08:38:50.897712775Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -256,6 +256,20 @@
             {
               "SHA": "be0d9cba1",
               "Subject": "Use debian:12 base image (#761)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9fa2492a",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#41)"
             }
           ]
         }

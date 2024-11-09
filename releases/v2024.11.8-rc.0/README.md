@@ -8,6 +8,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.34.0-rc.0](https://github.com/kubedb/autoscaler/releases/tag/v0.34.0-rc.0)
+
+- [0e555ac9](https://github.com/kubedb/autoscaler/commit/0e555ac9) Prepare for release v0.34.0-rc.0 (#228)
+- [9a723b6e](https://github.com/kubedb/autoscaler/commit/9a723b6e) Add autoscaler for solr (#227)
+- [6fa6ac10](https://github.com/kubedb/autoscaler/commit/6fa6ac10) Use debian:12 base image (#226)
+- [7b4b559f](https://github.com/kubedb/autoscaler/commit/7b4b559f) Use debian:12 base image (#225)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.2.0-rc.0)

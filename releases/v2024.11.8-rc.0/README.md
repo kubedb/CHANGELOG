@@ -18,6 +18,15 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.4.0-rc.0)
+
+- [c3e50828](https://github.com/kubedb/clickhouse/commit/c3e50828) Prepare for release v0.4.0-rc.0 (#24)
+- [8dd25781](https://github.com/kubedb/clickhouse/commit/8dd25781) Use debian:12 base image (#21)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.4.0-rc.0)

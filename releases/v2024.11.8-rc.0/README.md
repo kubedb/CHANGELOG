@@ -24,6 +24,15 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.22.0-rc.0)
+
+- [23075738](https://github.com/kubedb/percona-xtradb-coordinator/commit/23075738) Prepare for release v0.22.0-rc.0 (#83)
+- [86853e65](https://github.com/kubedb/percona-xtradb-coordinator/commit/86853e65) Use debian:12 base image (#82)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.28.0-rc.0)

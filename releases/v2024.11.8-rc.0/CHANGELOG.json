@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T12:41:19.673453467Z",
+  "release_date": "2024-11-09T12:41:37.544117281Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -930,6 +930,28 @@
             {
               "SHA": "002dffe1",
               "Subject": "Use debian:12 base image (#279)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b96dc475",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#124)"
+            },
+            {
+              "SHA": "6b295a6b",
+              "Subject": "Use debian:12 base image (#123)"
+            },
+            {
+              "SHA": "095be7c6",
+              "Subject": "Use debian:12 base image (#122)"
             }
           ]
         }

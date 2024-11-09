@@ -102,6 +102,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.29.0-rc.0)
+
+- [f1a7ed08](https://github.com/kubedb/mariadb-coordinator/commit/f1a7ed08) Prepare for release v0.29.0-rc.0 (#129)
+- [896d4206](https://github.com/kubedb/mariadb-coordinator/commit/896d4206) Use debian:12 base image (#128)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.7.0-rc.0)

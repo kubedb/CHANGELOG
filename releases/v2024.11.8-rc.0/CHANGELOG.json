@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:40:47.478443708Z",
+  "release_date": "2024-11-09T08:40:53.534805391Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -318,6 +318,28 @@
             {
               "SHA": "3f6d291",
               "Subject": "Prepare for release v0.12.0-rc.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ae1c7c69",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#20)"
+            },
+            {
+              "SHA": "395372a7",
+              "Subject": "Check AG Database exists before resume, clean LSN string (#18)"
+            },
+            {
+              "SHA": "505f0d8e",
+              "Subject": "Use debian:12 base image (#19)"
             }
           ]
         }

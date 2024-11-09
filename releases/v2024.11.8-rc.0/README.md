@@ -148,6 +148,16 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.4.0-rc.0)
+
+- [ae1c7c69](https://github.com/kubedb/mssql-coordinator/commit/ae1c7c69) Prepare for release v0.4.0-rc.0 (#20)
+- [395372a7](https://github.com/kubedb/mssql-coordinator/commit/395372a7) Check AG Database exists before resume, clean LSN string (#18)
+- [505f0d8e](https://github.com/kubedb/mssql-coordinator/commit/505f0d8e) Use debian:12 base image (#19)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.4.0-rc.0)

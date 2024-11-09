@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:42:34.392206794Z",
+  "release_date": "2024-11-09T08:42:44.706809693Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -308,6 +308,15 @@
               "Subject": "Add external databases backup/restore support (#27)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.42.0-rc.0",
+          "commits": null
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T13:33:17.533787121Z",
+  "release_date": "2024-11-09T14:06:40.435182758Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -1250,6 +1250,24 @@
             {
               "SHA": "ee26c6b4",
               "Subject": "Prepare for release v0.25.0-rc.0 (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "781984da",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "fa8b1b2f",
+              "Subject": "Use debian:12 base image (#134)"
             }
           ]
         }

@@ -220,6 +220,14 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.3.0-rc.0)
+
+- [8ab2080](https://github.com/kubedb/mssqlserver-archiver/commit/8ab2080) Use debian:12 base image (#4)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.3.0-rc.0)

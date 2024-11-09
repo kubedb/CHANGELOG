@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:43:58.62832428Z",
+  "release_date": "2024-11-09T08:44:02.328187171Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -461,6 +461,20 @@
             {
               "SHA": "39de8531",
               "Subject": "Skip creating extra initial backup session for pitr (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8ab2080",
+              "Subject": "Use debian:12 base image (#4)"
             }
           ]
         }

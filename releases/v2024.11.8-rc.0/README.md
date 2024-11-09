@@ -432,3 +432,12 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.5.0-rc.0)
+
+- [18c68cd](https://github.com/kubedb/zookeeper-restic-plugin/commit/18c68cd) Prepare for release v0.5.0-rc.0 (#19)
+- [e5240ed](https://github.com/kubedb/zookeeper-restic-plugin/commit/e5240ed) Use debian:12 base image (#18)
+
+
+

@@ -339,6 +339,37 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.34.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.34.0-rc.0)
+
+- [ec82963a](https://github.com/kubedb/tests/commit/ec82963a) Prepare for release v0.34.0-rc.0 (#401)
+- [ddfac099](https://github.com/kubedb/tests/commit/ddfac099) Add Health Check Test (#329)
+- [cfb52cc6](https://github.com/kubedb/tests/commit/cfb52cc6) Add Druid Restart Test (#397)
+- [69f18704](https://github.com/kubedb/tests/commit/69f18704) Add Druid  AutoScaling Test (#396)
+- [d846af1b](https://github.com/kubedb/tests/commit/d846af1b) Add Postgres AutoScaling Tests (#364)
+- [d67c3869](https://github.com/kubedb/tests/commit/d67c3869) Kubestash Backup-Restore Test for Postgres (#388)
+- [4eafce8f](https://github.com/kubedb/tests/commit/4eafce8f) Add Pgpool metrics exporter tests (#377)
+- [eaa4499a](https://github.com/kubedb/tests/commit/eaa4499a) Add Postgres metrics exporter tests (#368)
+- [564d1cde](https://github.com/kubedb/tests/commit/564d1cde) Add Pgbouncer metrics exporter test (#385)
+- [4ffa3df4](https://github.com/kubedb/tests/commit/4ffa3df4) Add Solr metrics exporter test (#390)
+- [4183f879](https://github.com/kubedb/tests/commit/4183f879) working well (#381)
+- [a3eb7976](https://github.com/kubedb/tests/commit/a3eb7976) Use debian:12 base image (#392)
+- [ec4d737f](https://github.com/kubedb/tests/commit/ec4d737f) Add zookeeper metrics exporter test (#391)
+- [be48f627](https://github.com/kubedb/tests/commit/be48f627) Add ops manager to CI (#386)
+- [fa41180f](https://github.com/kubedb/tests/commit/fa41180f) remove branch from checkout (#380)
+- [ac4d8455](https://github.com/kubedb/tests/commit/ac4d8455) Remove extra print (#384)
+- [b26e740e](https://github.com/kubedb/tests/commit/b26e740e) Add ElasticSearch metrics exporter tests (#373)
+- [f15066fb](https://github.com/kubedb/tests/commit/f15066fb) Add Singlestore metrics exporter tests (#378)
+- [f5765a67](https://github.com/kubedb/tests/commit/f5765a67) mysql exporter unfocus (#382)
+- [a873ff4a](https://github.com/kubedb/tests/commit/a873ff4a) Add Perconaxtradb metrics exporter tests (#375)
+- [dc7c42c9](https://github.com/kubedb/tests/commit/dc7c42c9) Add MySQL metrics exporter tests  (#371)
+- [46189f39](https://github.com/kubedb/tests/commit/46189f39) Add MariaDB metrics exporter tests (#366)
+- [4b4fa18d](https://github.com/kubedb/tests/commit/4b4fa18d) Add PGBouncer update-version, reconfiguration, custom-config and auto-scaling test (#372)
+- [fe911856](https://github.com/kubedb/tests/commit/fe911856) Add kubestash-Backupstorage Phase (#374)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.4.0-rc.0)

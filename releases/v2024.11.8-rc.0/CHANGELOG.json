@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:41:38.44898142Z",
+  "release_date": "2024-11-09T08:41:48.761687684Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -704,6 +704,112 @@
             {
               "SHA": "c5fb9263",
               "Subject": "Use debian:12 base image (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ec82963a",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#401)"
+            },
+            {
+              "SHA": "ddfac099",
+              "Subject": "Add Health Check Test (#329)"
+            },
+            {
+              "SHA": "cfb52cc6",
+              "Subject": "Add Druid Restart Test (#397)"
+            },
+            {
+              "SHA": "69f18704",
+              "Subject": "Add Druid  AutoScaling Test (#396)"
+            },
+            {
+              "SHA": "d846af1b",
+              "Subject": "Add Postgres AutoScaling Tests (#364)"
+            },
+            {
+              "SHA": "d67c3869",
+              "Subject": "Kubestash Backup-Restore Test for Postgres (#388)"
+            },
+            {
+              "SHA": "4eafce8f",
+              "Subject": "Add Pgpool metrics exporter tests (#377)"
+            },
+            {
+              "SHA": "eaa4499a",
+              "Subject": "Add Postgres metrics exporter tests (#368)"
+            },
+            {
+              "SHA": "564d1cde",
+              "Subject": "Add Pgbouncer metrics exporter test (#385)"
+            },
+            {
+              "SHA": "4ffa3df4",
+              "Subject": "Add Solr metrics exporter test (#390)"
+            },
+            {
+              "SHA": "4183f879",
+              "Subject": "working well (#381)"
+            },
+            {
+              "SHA": "a3eb7976",
+              "Subject": "Use debian:12 base image (#392)"
+            },
+            {
+              "SHA": "ec4d737f",
+              "Subject": "Add zookeeper metrics exporter test (#391)"
+            },
+            {
+              "SHA": "be48f627",
+              "Subject": "Add ops manager to CI (#386)"
+            },
+            {
+              "SHA": "fa41180f",
+              "Subject": "remove branch from checkout (#380)"
+            },
+            {
+              "SHA": "ac4d8455",
+              "Subject": "Remove extra print (#384)"
+            },
+            {
+              "SHA": "b26e740e",
+              "Subject": "Add ElasticSearch metrics exporter tests (#373)"
+            },
+            {
+              "SHA": "f15066fb",
+              "Subject": "Add Singlestore metrics exporter tests (#378)"
+            },
+            {
+              "SHA": "f5765a67",
+              "Subject": "mysql exporter unfocus (#382)"
+            },
+            {
+              "SHA": "a873ff4a",
+              "Subject": "Add Perconaxtradb metrics exporter tests (#375)"
+            },
+            {
+              "SHA": "dc7c42c9",
+              "Subject": "Add MySQL metrics exporter tests  (#371)"
+            },
+            {
+              "SHA": "46189f39",
+              "Subject": "Add MariaDB metrics exporter tests (#366)"
+            },
+            {
+              "SHA": "4b4fa18d",
+              "Subject": "Add PGBouncer update-version, reconfiguration, custom-config and auto-scaling test (#372)"
+            },
+            {
+              "SHA": "fe911856",
+              "Subject": "Add kubestash-Backupstorage Phase (#374)"
             }
           ]
         }

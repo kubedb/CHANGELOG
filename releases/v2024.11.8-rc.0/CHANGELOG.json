@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T02:48:02.24109476Z",
+  "release_date": "2024-11-09T08:37:14.340100695Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -56,6 +56,36 @@
             {
               "SHA": "7b28debe",
               "Subject": "Add DeleteCollection method for Solr (#141)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b337c65c",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#55)"
+            },
+            {
+              "SHA": "71366144",
+              "Subject": "Revert \"Add ReconcileState struct to pass reconciling objects as parameter (#54)\""
+            },
+            {
+              "SHA": "ca96f684",
+              "Subject": "Add ReconcileState struct to pass reconciling objects as parameter (#54)"
+            },
+            {
+              "SHA": "ef5fecdb",
+              "Subject": "Update deps & fix authsecret mutation (#53)"
+            },
+            {
+              "SHA": "c5fb9263",
+              "Subject": "Use debian:12 base image (#52)"
             }
           ]
         }

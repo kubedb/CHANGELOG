@@ -24,3 +24,15 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.4.0-rc.0)
+
+- [b337c65c](https://github.com/kubedb/solr/commit/b337c65c) Prepare for release v0.4.0-rc.0 (#55)
+- [71366144](https://github.com/kubedb/solr/commit/71366144) Revert "Add ReconcileState struct to pass reconciling objects as parameter (#54)"
+- [ca96f684](https://github.com/kubedb/solr/commit/ca96f684) Add ReconcileState struct to pass reconciling objects as parameter (#54)
+- [ef5fecdb](https://github.com/kubedb/solr/commit/ef5fecdb) Update deps & fix authsecret mutation (#53)
+- [c5fb9263](https://github.com/kubedb/solr/commit/c5fb9263) Use debian:12 base image (#52)
+
+
+

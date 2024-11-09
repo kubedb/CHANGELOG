@@ -43,6 +43,17 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.4.0-rc.0)
+
+- [73e2f14b](https://github.com/kubedb/druid/commit/73e2f14b) Prepare for release v0.4.0-rc.0 (#55)
+- [cb3fc57a](https://github.com/kubedb/druid/commit/cb3fc57a) Fix druid auth secret name (#52)
+- [20da2c3a](https://github.com/kubedb/druid/commit/20da2c3a) Add druid TLS (#45)
+- [9f72c688](https://github.com/kubedb/druid/commit/9f72c688) Use debian:12 base image (#51)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.49.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.49.0-rc.0)

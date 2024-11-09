@@ -256,3 +256,14 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.4.0-rc.0)
+
+- [258b140f](https://github.com/kubedb/zookeeper/commit/258b140f) Prepare for release v0.4.0-rc.0 (#46)
+- [04989850](https://github.com/kubedb/zookeeper/commit/04989850) Fix Auth-Secret Name (#45)
+- [108a5495](https://github.com/kubedb/zookeeper/commit/108a5495) Use debian:12 base image (#44)
+- [f275c44a](https://github.com/kubedb/zookeeper/commit/f275c44a) Add TLS for ZooKeeper (#42)
+
+
+

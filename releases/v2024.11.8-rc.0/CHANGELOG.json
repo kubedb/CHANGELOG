@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:39:04.115575514Z",
+  "release_date": "2024-11-09T08:39:15.95149988Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -170,6 +170,24 @@
             {
               "SHA": "498cf1e3",
               "Subject": "Use debian:12 base image (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b73a732ad",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#290)"
+            },
+            {
+              "SHA": "bd9c114a4",
+              "Subject": "Use debian:12 base image (#288)"
             }
           ]
         }

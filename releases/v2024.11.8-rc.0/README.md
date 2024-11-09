@@ -184,6 +184,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.4.0-rc.0)
+
+- [143ac48c](https://github.com/kubedb/singlestore/commit/143ac48c) Prepare for release v0.4.0-rc.0 (#50)
+- [c6d41c61](https://github.com/kubedb/singlestore/commit/c6d41c61) Use debian:12 base image (#48)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.4.0-rc.0)

@@ -24,6 +24,15 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.28.0-rc.0)
+
+- [9bbeb8af](https://github.com/kubedb/redis-coordinator/commit/9bbeb8af) Prepare for release v0.28.0-rc.0 (#114)
+- [81465dcd](https://github.com/kubedb/redis-coordinator/commit/81465dcd) Use debian:12 base image (#113)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.4.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:42:55.352325479Z",
+  "release_date": "2024-11-09T08:43:15.452175236Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -585,6 +585,28 @@
             {
               "SHA": "86853e65",
               "Subject": "Use debian:12 base image (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f8d96212",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#176)"
+            },
+            {
+              "SHA": "0e372546",
+              "Subject": "Add PITR modes support (#175)"
+            },
+            {
+              "SHA": "87ab3dfe",
+              "Subject": "Use debian:12 base image (#174)"
             }
           ]
         }

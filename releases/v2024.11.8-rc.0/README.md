@@ -92,6 +92,14 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.10.0-rc.0)
+
+- [be7cf34](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/be7cf34) Prepare for release v0.10.0-rc.0 (#33)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.22.0-rc.0)

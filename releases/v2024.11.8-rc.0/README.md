@@ -146,6 +146,15 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.9.0-rc.0)
+
+- [92594f3](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/92594f3) Prepare for release v0.9.0-rc.0 (#33)
+- [cdc664f](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/cdc664f) Use debian:12 base image (#32)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.7.0-rc.0)

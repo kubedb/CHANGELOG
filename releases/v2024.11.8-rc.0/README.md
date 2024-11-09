@@ -8,6 +8,16 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.2.0-rc.0)
+
+- [c8344e76](https://github.com/kubedb/cassandra/commit/c8344e76) Prepare for release v0.2.0-rc.0 (#10)
+- [49bea527](https://github.com/kubedb/cassandra/commit/49bea527) Fix Petset observedGeneration issue & Add Monitoring Support  (#7)
+- [08e51996](https://github.com/kubedb/cassandra/commit/08e51996) Use debian:12 base image (#8)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.4.0-rc.0)

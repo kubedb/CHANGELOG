@@ -24,6 +24,14 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.9.0-rc.0)
+
+- [8498c843](https://github.com/kubedb/mariadb-archiver/commit/8498c843) Prepare for release v0.9.0-rc.0 (#30)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.22.0-rc.0)

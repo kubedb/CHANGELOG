@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:37:27.8695477Z",
+  "release_date": "2024-11-09T08:37:34.819618117Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -56,6 +56,20 @@
             {
               "SHA": "7b28debe",
               "Subject": "Add DeleteCollection method for Solr (#141)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8498c843",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#30)"
             }
           ]
         }

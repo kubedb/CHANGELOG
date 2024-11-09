@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.8-rc.0",
-  "release_date": "2024-11-09T08:38:09.875602175Z",
+  "release_date": "2024-11-09T08:38:25.119383577Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.8-rc.0",
   "kubernetes_version": "1.26+",
@@ -172,6 +172,28 @@
             {
               "SHA": "86853e65",
               "Subject": "Use debian:12 base image (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a8a62aea3",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#764)"
+            },
+            {
+              "SHA": "c39cd034f",
+              "Subject": "Fix cross region restore issue (#763)"
+            },
+            {
+              "SHA": "be0d9cba1",
+              "Subject": "Use debian:12 base image (#761)"
             }
           ]
         }

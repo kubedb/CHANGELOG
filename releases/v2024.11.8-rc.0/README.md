@@ -80,6 +80,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.49.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.49.0-rc.0)
+
+- [a8a62aea](https://github.com/kubedb/postgres/commit/a8a62aea3) Prepare for release v0.49.0-rc.0 (#764)
+- [c39cd034](https://github.com/kubedb/postgres/commit/c39cd034f) Fix cross region restore issue (#763)
+- [be0d9cba](https://github.com/kubedb/postgres/commit/be0d9cba1) Use debian:12 base image (#761)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.28.0-rc.0)

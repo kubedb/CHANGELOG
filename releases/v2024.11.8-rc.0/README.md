@@ -409,6 +409,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.36.0-rc.0)
+
+- [a6c29b60](https://github.com/kubedb/proxysql/commit/a6c29b60b) Prepare for release v0.36.0-rc.0 (#364)
+- [ad781b1e](https://github.com/kubedb/proxysql/commit/ad781b1ec) Use debian:12 base image (#362)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.4.0-rc.0)

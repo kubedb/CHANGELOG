@@ -81,6 +81,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.11.8-rc.0](https://github.com/kubedb/docs/releases/tag/v2024.11.8-rc.0)
+
+- [d416e874](https://github.com/kubedb/docs/commit/d416e874) Prepare for release v2024.11.8-rc.0 (#712)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.4.0-rc.0)

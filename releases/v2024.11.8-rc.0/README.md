@@ -27,6 +27,16 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.4.0-rc.0)
+
+- [71f313ce](https://github.com/kubedb/crd-manager/commit/71f313ce) Prepare for release v0.4.0-rc.0 (#54)
+- [27c3d99b](https://github.com/kubedb/crd-manager/commit/27c3d99b) Use debian:12 base image (#53)
+- [f45b9afd](https://github.com/kubedb/crd-manager/commit/f45b9afd) Use debian:12 base image (#52)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.4.0-rc.0)

@@ -82,6 +82,18 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.42.0](https://github.com/kubedb/mongodb/releases/tag/v0.42.0)
+
+- [92b2774e](https://github.com/kubedb/mongodb/commit/92b2774e6) Prepare for release v0.42.0 (#666)
+- [520bbe55](https://github.com/kubedb/mongodb/commit/520bbe55a) Add `basic-auth-active-from` annotation in auth secret (#665)
+- [df91f37e](https://github.com/kubedb/mongodb/commit/df91f37e3) Prepare for release v0.42.0-rc.0 (#664)
+- [decf3281](https://github.com/kubedb/mongodb/commit/decf32819) Fix MongoDBArchiver for Minio TLS backend  (#659)
+- [d1b57cfe](https://github.com/kubedb/mongodb/commit/d1b57cfe0) Use debian:12 base image (#663)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.12.0)

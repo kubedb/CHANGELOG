@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T15:00:53.590957615Z",
+  "release_date": "2024-11-19T15:01:31.687047647Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -198,6 +198,36 @@
             {
               "SHA": "8498c843",
               "Subject": "Prepare for release v0.9.0-rc.0 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "92b2774e6",
+              "Subject": "Prepare for release v0.42.0 (#666)"
+            },
+            {
+              "SHA": "520bbe55a",
+              "Subject": "Add `basic-auth-active-from` annotation in auth secret (#665)"
+            },
+            {
+              "SHA": "df91f37e3",
+              "Subject": "Prepare for release v0.42.0-rc.0 (#664)"
+            },
+            {
+              "SHA": "decf32819",
+              "Subject": "Fix MongoDBArchiver for Minio TLS backend  (#659)"
+            },
+            {
+              "SHA": "d1b57cfe0",
+              "Subject": "Use debian:12 base image (#663)"
             }
           ]
         }

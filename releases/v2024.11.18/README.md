@@ -554,6 +554,17 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.25.0](https://github.com/kubedb/schema-manager/releases/tag/v0.25.0)
+
+- [86824c75](https://github.com/kubedb/schema-manager/commit/86824c75) Prepare for release v0.25.0 (#125)
+- [b96dc475](https://github.com/kubedb/schema-manager/commit/b96dc475) Prepare for release v0.25.0-rc.0 (#124)
+- [6b295a6b](https://github.com/kubedb/schema-manager/commit/6b295a6b) Use debian:12 base image (#123)
+- [095be7c6](https://github.com/kubedb/schema-manager/commit/095be7c6) Use debian:12 base image (#122)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.4.0](https://github.com/kubedb/singlestore/releases/tag/v0.4.0)

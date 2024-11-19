@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T21:51:42.324160387Z",
+  "release_date": "2024-11-19T22:02:04.156720485Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -12,6 +12,36 @@
         {
           "tag": "v0.49.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "a67ba7eb",
+              "Subject": "Prepare for release v0.34.0 (#229)"
+            },
+            {
+              "SHA": "0e555ac9",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#228)"
+            },
+            {
+              "SHA": "9a723b6e",
+              "Subject": "Add autoscaler for solr (#227)"
+            },
+            {
+              "SHA": "6fa6ac10",
+              "Subject": "Use debian:12 base image (#226)"
+            },
+            {
+              "SHA": "7b4b559f",
+              "Subject": "Use debian:12 base image (#225)"
+            }
+          ]
         }
       ]
     },

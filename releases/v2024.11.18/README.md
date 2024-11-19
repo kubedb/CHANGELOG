@@ -153,6 +153,17 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.25.0](https://github.com/kubedb/kibana/releases/tag/v0.25.0)
+
+- [f2a01a30](https://github.com/kubedb/kibana/commit/f2a01a30) Prepare for release v0.25.0 (#131)
+- [772026c0](https://github.com/kubedb/kibana/commit/772026c0) Prepare for release v0.25.0-rc.0 (#130)
+- [ffd6e402](https://github.com/kubedb/kibana/commit/ffd6e402) Use debian:12 base image (#129)
+- [0dc26c52](https://github.com/kubedb/kibana/commit/0dc26c52) Use debian:12 base image (#128)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.12.0)

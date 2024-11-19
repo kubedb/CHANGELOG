@@ -8,6 +8,19 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.2.0](https://github.com/kubedb/cassandra/releases/tag/v0.2.0)
+
+- [a22e35fe](https://github.com/kubedb/cassandra/commit/a22e35fe) Prepare for release v0.2.0 (#12)
+- [98f26f87](https://github.com/kubedb/cassandra/commit/98f26f87) Use kind v0.25.0 (#11)
+- [2a6da5c4](https://github.com/kubedb/cassandra/commit/2a6da5c4) Add ReconcileState struct to pass reconciling objects as parameter (#9)
+- [c8344e76](https://github.com/kubedb/cassandra/commit/c8344e76) Prepare for release v0.2.0-rc.0 (#10)
+- [49bea527](https://github.com/kubedb/cassandra/commit/49bea527) Fix Petset observedGeneration issue & Add Monitoring Support  (#7)
+- [08e51996](https://github.com/kubedb/cassandra/commit/08e51996) Use debian:12 base image (#8)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.49.0](https://github.com/kubedb/cli/releases/tag/v0.49.0)

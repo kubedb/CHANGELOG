@@ -34,3 +34,13 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.7.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.7.0)
+
+- [60f3c5a](https://github.com/kubedb/singlestore-restic-plugin/commit/60f3c5a) Prepare for release v0.7.0 (#29)
+- [4fa6223](https://github.com/kubedb/singlestore-restic-plugin/commit/4fa6223) Use debian:12 base image (#28)
+- [fe8a465](https://github.com/kubedb/singlestore-restic-plugin/commit/fe8a465) Prepare for release v0.7.0-rc.0 (#27)
+
+
+

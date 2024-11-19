@@ -377,6 +377,18 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.4.0](https://github.com/kubedb/singlestore/releases/tag/v0.4.0)
+
+- [6882b6b0](https://github.com/kubedb/singlestore/commit/6882b6b0) Prepare for release v0.4.0 (#52)
+- [f240110a](https://github.com/kubedb/singlestore/commit/f240110a) Add ReconcileState struct to pass reconciling objects as parameter (#49)
+- [c77349d7](https://github.com/kubedb/singlestore/commit/c77349d7) Update dep (#51)
+- [143ac48c](https://github.com/kubedb/singlestore/commit/143ac48c) Prepare for release v0.4.0-rc.0 (#50)
+- [c6d41c61](https://github.com/kubedb/singlestore/commit/c6d41c61) Use debian:12 base image (#48)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.4.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.4.0)

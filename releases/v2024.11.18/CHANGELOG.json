@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T19:56:51.076638569Z",
+  "release_date": "2024-11-19T19:57:19.908004645Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -889,6 +889,36 @@
             {
               "SHA": "c62f41c0",
               "Subject": "Use debian:12 base image (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "6882b6b0",
+              "Subject": "Prepare for release v0.4.0 (#52)"
+            },
+            {
+              "SHA": "f240110a",
+              "Subject": "Add ReconcileState struct to pass reconciling objects as parameter (#49)"
+            },
+            {
+              "SHA": "c77349d7",
+              "Subject": "Update dep (#51)"
+            },
+            {
+              "SHA": "143ac48c",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "c6d41c61",
+              "Subject": "Use debian:12 base image (#48)"
             }
           ]
         }

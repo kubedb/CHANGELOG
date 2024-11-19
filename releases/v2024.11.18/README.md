@@ -369,6 +369,47 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.36.0](https://github.com/kubedb/ops-manager/releases/tag/v0.36.0)
+
+- [8777963d](https://github.com/kubedb/ops-manager/commit/8777963df) Prepare for release v0.36.0 (#672)
+- [6c406557](https://github.com/kubedb/ops-manager/commit/6c4065573) Add rotateauth ops request for elasticsearch (#671)
+- [c2e7bdc2](https://github.com/kubedb/ops-manager/commit/c2e7bdc23) Restart For PgBouncer (#651)
+- [e0357528](https://github.com/kubedb/ops-manager/commit/e03575284) Add rotateauth ops request for solr (#670)
+- [9480d0dd](https://github.com/kubedb/ops-manager/commit/9480d0ddc) Add Druid Rotate-Auth OpsRequest (#653)
+- [26d26e0f](https://github.com/kubedb/ops-manager/commit/26d26e0f5) Add RotateAuth support for MongoDBOpsRequest (#664)
+- [4ab4f623](https://github.com/kubedb/ops-manager/commit/4ab4f6233) Add mssqlserver ops request reconfigure tls (#652)
+- [482ced11](https://github.com/kubedb/ops-manager/commit/482ced11d) Add Rotate Auth Secret Support for Postgres and fix arbiter spec (#669)
+- [a35a08e5](https://github.com/kubedb/ops-manager/commit/a35a08e5a) Add Memcached TLS and OpsRequest Reconfigure TLS (#654)
+- [fe04070b](https://github.com/kubedb/ops-manager/commit/fe04070b4) Update Pgpool operator reconcile struct changes (#668)
+- [29edd77d](https://github.com/kubedb/ops-manager/commit/29edd77d5) Update SingleStore for ReconcilerState Change (#666)
+- [53a7941a](https://github.com/kubedb/ops-manager/commit/53a7941a2) Fix Keystore Secret reference for Kafka ReconfigureTLS (#663)
+- [b01a8869](https://github.com/kubedb/ops-manager/commit/b01a88698) Add Validator for Druid Ops-Requests (#665)
+- [8275c2a5](https://github.com/kubedb/ops-manager/commit/8275c2a51) Updates for Druid ReconcileState Structure (#667)
+- [545bd0c0](https://github.com/kubedb/ops-manager/commit/545bd0c08) Add Kafka Rotate Auth Ops Request (#644)
+- [5bc565e4](https://github.com/kubedb/ops-manager/commit/5bc565e4a) Sync ReconcileState changes for RabbitMQ (#658)
+- [fb456387](https://github.com/kubedb/ops-manager/commit/fb456387c) Add MSSQLServer Reconfigure Ops request (#634)
+- [03af4451](https://github.com/kubedb/ops-manager/commit/03af4451a) Update Zookeeper for Reconcile Changes (#662)
+- [7ab6c269](https://github.com/kubedb/ops-manager/commit/7ab6c2694) Fix Druid ReconcileState Changes (#661)
+- [250cd5c2](https://github.com/kubedb/ops-manager/commit/250cd5c22) Update FerretDB operator reconcile struct changes (#655)
+- [0b0ad7cd](https://github.com/kubedb/ops-manager/commit/0b0ad7cdf) Add ReconcilerState changes in solr (#659)
+- [f0ac65c8](https://github.com/kubedb/ops-manager/commit/f0ac65c84) Fix Kafka ReconcileState Changes (#657)
+- [370b9f98](https://github.com/kubedb/ops-manager/commit/370b9f98f) Fix Fastspeed standalone postgres db upgrade issue (#648)
+- [eb4dfe2f](https://github.com/kubedb/ops-manager/commit/eb4dfe2fe) Prepare for release v0.36.0-rc.0 (#656)
+- [a03bb54e](https://github.com/kubedb/ops-manager/commit/a03bb54e3) Update all db deps
+- [6b0cf17f](https://github.com/kubedb/ops-manager/commit/6b0cf17fa) Fix recommendation (#642)
+- [1b049295](https://github.com/kubedb/ops-manager/commit/1b0492953) Add support for Druid TLS and Ops-Requests (#629)
+- [e72ae41d](https://github.com/kubedb/ops-manager/commit/e72ae41dc) Fix reconfigure tls mg patch issue (#650)
+- [5d328f00](https://github.com/kubedb/ops-manager/commit/5d328f00b) Use debian:12 base image (#647)
+- [1f32a6cf](https://github.com/kubedb/ops-manager/commit/1f32a6cf0) Use debian:12 base image (#646)
+- [3d69bbcc](https://github.com/kubedb/ops-manager/commit/3d69bbcc7) Update zk deps (#645)
+- [c71245eb](https://github.com/kubedb/ops-manager/commit/c71245eb4) Add TLS for ZooKeeper (#640)
+- [0624ed34](https://github.com/kubedb/ops-manager/commit/0624ed346) Update deps (#643)
+- [0c2abc62](https://github.com/kubedb/ops-manager/commit/0c2abc62f) Fix Ops Request Reconfiguration and Version Update (#641)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.36.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.36.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T15:02:20.144673647Z",
+  "release_date": "2024-11-19T15:02:27.439934447Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -551,6 +551,52 @@
             {
               "SHA": "fe8a465",
               "Subject": "Prepare for release v0.7.0-rc.0 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "ec8d69d6",
+              "Subject": "Prepare for release v0.4.0 (#59)"
+            },
+            {
+              "SHA": "9e1bbf8f",
+              "Subject": "Update authconfig secret to implement rotateauth ops request (#58)"
+            },
+            {
+              "SHA": "0e3da42b",
+              "Subject": "Update dep (#57)"
+            },
+            {
+              "SHA": "9203993c",
+              "Subject": "Add Solr ReconcileState as receiver from Reconcile (#56)"
+            },
+            {
+              "SHA": "b337c65c",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#55)"
+            },
+            {
+              "SHA": "71366144",
+              "Subject": "Revert \"Add ReconcileState struct to pass reconciling objects as parameter (#54)\""
+            },
+            {
+              "SHA": "ca96f684",
+              "Subject": "Add ReconcileState struct to pass reconciling objects as parameter (#54)"
+            },
+            {
+              "SHA": "ef5fecdb",
+              "Subject": "Update deps & fix authsecret mutation (#53)"
+            },
+            {
+              "SHA": "c5fb9263",
+              "Subject": "Use debian:12 base image (#52)"
             }
           ]
         }

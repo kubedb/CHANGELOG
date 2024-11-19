@@ -192,6 +192,13 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.42.0](https://github.com/kubedb/memcached/releases/tag/v0.42.0)
+
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.42.0](https://github.com/kubedb/mongodb/releases/tag/v0.42.0)

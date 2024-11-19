@@ -470,6 +470,16 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.36.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.36.0)
+
+- [a7aa00b6](https://github.com/kubedb/replication-mode-detector/commit/a7aa00b6) Prepare for release v0.36.0 (#281)
+- [637b35b0](https://github.com/kubedb/replication-mode-detector/commit/637b35b0) Prepare for release v0.36.0-rc.0 (#280)
+- [002dffe1](https://github.com/kubedb/replication-mode-detector/commit/002dffe1) Use debian:12 base image (#279)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.4.0](https://github.com/kubedb/singlestore/releases/tag/v0.4.0)

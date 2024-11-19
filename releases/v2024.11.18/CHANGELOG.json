@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T19:56:02.247194717Z",
+  "release_date": "2024-11-19T19:56:37.631522333Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -394,6 +394,32 @@
             {
               "SHA": "d1b57cfe0",
               "Subject": "Use debian:12 base image (#663)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "a1eefb7",
+              "Subject": "Prepare for release v0.10.0 (#39)"
+            },
+            {
+              "SHA": "c84b8c0",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "bca72d6",
+              "Subject": "Use debian:12 base image (#37)"
+            },
+            {
+              "SHA": "780554d",
+              "Subject": "Use debian:12 base image (#36)"
             }
           ]
         }

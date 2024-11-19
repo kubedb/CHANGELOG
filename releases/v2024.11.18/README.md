@@ -158,6 +158,17 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.10.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.10.0)
+
+- [a1eefb7](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/a1eefb7) Prepare for release v0.10.0 (#39)
+- [c84b8c0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/c84b8c0) Prepare for release v0.10.0-rc.0 (#38)
+- [bca72d6](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/bca72d6) Use debian:12 base image (#37)
+- [780554d](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/780554d) Use debian:12 base image (#36)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.12.0)

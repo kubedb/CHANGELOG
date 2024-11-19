@@ -128,6 +128,16 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.12.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.12.0)
+
+- [b71f30a](https://github.com/kubedb/postgres-restic-plugin/commit/b71f30a) Prepare for release v0.12.0 (#57)
+- [77b0c1b](https://github.com/kubedb/postgres-restic-plugin/commit/77b0c1b) Use debian:12 base image (#56)
+- [f744dce](https://github.com/kubedb/postgres-restic-plugin/commit/f744dce) Prepare for release v0.12.0-rc.0 (#55)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.11.0](https://github.com/kubedb/provider-aws/releases/tag/v0.11.0)

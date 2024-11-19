@@ -153,6 +153,18 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.12.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.12.0)
+
+- [2dcc07c](https://github.com/kubedb/kubedb-manifest-plugin/commit/2dcc07c) Prepare for release v0.12.0 (#78)
+- [dce514e](https://github.com/kubedb/kubedb-manifest-plugin/commit/dce514e) Use debian:12 base image (#77)
+- [7021daa](https://github.com/kubedb/kubedb-manifest-plugin/commit/7021daa) Prepare for release v0.12.0-rc.0 (#76)
+- [bea1697](https://github.com/kubedb/kubedb-manifest-plugin/commit/bea1697) Use debian:12 base image (#75)
+- [dd34241](https://github.com/kubedb/kubedb-manifest-plugin/commit/dd34241) Add Manifest backup/restore support for redis (#74)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.33.0](https://github.com/kubedb/mariadb/releases/tag/v0.33.0)

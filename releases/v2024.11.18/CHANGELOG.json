@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T20:02:56.00149911Z",
+  "release_date": "2024-11-19T20:30:57.162533192Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -392,6 +392,36 @@
             {
               "SHA": "7e43c33f",
               "Subject": "Use debian:12 base image (#111)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "2dcc07c",
+              "Subject": "Prepare for release v0.12.0 (#78)"
+            },
+            {
+              "SHA": "dce514e",
+              "Subject": "Use debian:12 base image (#77)"
+            },
+            {
+              "SHA": "7021daa",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#76)"
+            },
+            {
+              "SHA": "bea1697",
+              "Subject": "Use debian:12 base image (#75)"
+            },
+            {
+              "SHA": "dd34241",
+              "Subject": "Add Manifest backup/restore support for redis (#74)"
             }
           ]
         }

@@ -67,6 +67,16 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.3.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.3.0)
+
+- [2364689](https://github.com/kubedb/mssqlserver-walg-plugin/commit/2364689) Prepare for release v0.3.0 (#10)
+- [e05e217](https://github.com/kubedb/mssqlserver-walg-plugin/commit/e05e217) Prepare for release v0.3.0-rc.0 (#9)
+- [4a9db7b](https://github.com/kubedb/mssqlserver-walg-plugin/commit/4a9db7b) Use debian:12 base image (#8)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.27.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.27.0)

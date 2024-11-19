@@ -58,6 +58,17 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.12.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.12.0)
+
+- [b1f1881](https://github.com/kubedb/mongodb-restic-plugin/commit/b1f1881) Prepare for release v0.12.0 (#70)
+- [1eb3fe7](https://github.com/kubedb/mongodb-restic-plugin/commit/1eb3fe7) Add support for MongoDB version 8.0.0 (#67)
+- [09ee7f4](https://github.com/kubedb/mongodb-restic-plugin/commit/09ee7f4) Use debian:12 base image (#69)
+- [3f6d291](https://github.com/kubedb/mongodb-restic-plugin/commit/3f6d291) Prepare for release v0.12.0-rc.0 (#68)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.3.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.3.0)

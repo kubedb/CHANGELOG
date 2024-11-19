@@ -38,6 +38,16 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.12.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.12.0)
+
+- [1d9e4a2](https://github.com/kubedb/elasticsearch-restic-plugin/commit/1d9e4a2) Prepare for release v0.12.0 (#48)
+- [dd617de](https://github.com/kubedb/elasticsearch-restic-plugin/commit/dd617de) Use debian:12 base image (#47)
+- [3e60416](https://github.com/kubedb/elasticsearch-restic-plugin/commit/3e60416) Prepare for release v0.12.0-rc.0 (#46)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.9.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.9.0)

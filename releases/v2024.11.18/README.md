@@ -195,6 +195,22 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.4.0](https://github.com/kubedb/zookeeper/releases/tag/v0.4.0)
+
+- [7de2e276](https://github.com/kubedb/zookeeper/commit/7de2e276) Prepare for release v0.4.0 (#51)
+- [4fdb8ff7](https://github.com/kubedb/zookeeper/commit/4fdb8ff7) Use kind v0.25.0 (#50)
+- [627161bf](https://github.com/kubedb/zookeeper/commit/627161bf) Fix Resource Name Change (#48)
+- [6b1ce481](https://github.com/kubedb/zookeeper/commit/6b1ce481) Update dep (#49)
+- [8aed4ed2](https://github.com/kubedb/zookeeper/commit/8aed4ed2) Add ReconcileState as receiver from Reconcile (#47)
+- [258b140f](https://github.com/kubedb/zookeeper/commit/258b140f) Prepare for release v0.4.0-rc.0 (#46)
+- [04989850](https://github.com/kubedb/zookeeper/commit/04989850) Fix Auth-Secret Name (#45)
+- [108a5495](https://github.com/kubedb/zookeeper/commit/108a5495) Use debian:12 base image (#44)
+- [f275c44a](https://github.com/kubedb/zookeeper/commit/f275c44a) Add TLS for ZooKeeper (#42)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.5.0)

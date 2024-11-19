@@ -82,6 +82,17 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.7.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.7.0)
+
+- [bf019c5](https://github.com/kubedb/mariadb-restic-plugin/commit/bf019c5) Prepare for release v0.7.0 (#30)
+- [8583fb5](https://github.com/kubedb/mariadb-restic-plugin/commit/8583fb5) Use debian:12 base image (#29)
+- [d9af547](https://github.com/kubedb/mariadb-restic-plugin/commit/d9af547) Prepare for release v0.7.0-rc.0 (#28)
+- [610dab6](https://github.com/kubedb/mariadb-restic-plugin/commit/610dab6) Add external databases backup/restore support (#27)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.42.0](https://github.com/kubedb/mongodb/releases/tag/v0.42.0)

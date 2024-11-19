@@ -138,6 +138,16 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.4.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.4.0)
+
+- [abb99f4](https://github.com/kubedb/singlestore-coordinator/commit/abb99f4) Prepare for release v0.4.0 (#30)
+- [2c8c88b](https://github.com/kubedb/singlestore-coordinator/commit/2c8c88b) Prepare for release v0.4.0-rc.0 (#29)
+- [6414517](https://github.com/kubedb/singlestore-coordinator/commit/6414517) Use debian:12 base image (#28)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.7.0)

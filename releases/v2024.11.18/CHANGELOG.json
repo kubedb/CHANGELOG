@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T14:58:06.862126598Z",
+  "release_date": "2024-11-19T14:58:46.003764737Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -295,6 +295,28 @@
         {
           "tag": "v0.11.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "abb99f4",
+              "Subject": "Prepare for release v0.4.0 (#30)"
+            },
+            {
+              "SHA": "2c8c88b",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "6414517",
+              "Subject": "Use debian:12 base image (#28)"
+            }
+          ]
         }
       ]
     },

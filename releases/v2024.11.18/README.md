@@ -153,6 +153,18 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.4.0](https://github.com/kubedb/pgpool/releases/tag/v0.4.0)
+
+- [3d42bf8c](https://github.com/kubedb/pgpool/commit/3d42bf8c) Prepare for release v0.4.0 (#53)
+- [5e4336fe](https://github.com/kubedb/pgpool/commit/5e4336fe) Reconciler state (#52)
+- [e2bfcc3a](https://github.com/kubedb/pgpool/commit/e2bfcc3a) Update dep (#51)
+- [5422557f](https://github.com/kubedb/pgpool/commit/5422557f) Prepare for release v0.4.0-rc.0 (#50)
+- [b1e214ca](https://github.com/kubedb/pgpool/commit/b1e214ca) Use debian:12 base image (#49)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.49.0](https://github.com/kubedb/postgres/releases/tag/v0.49.0)

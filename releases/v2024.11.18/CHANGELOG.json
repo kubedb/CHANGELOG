@@ -1,0 +1,19 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.11.18",
+  "release_date": "2024-11-19T14:32:30.403575094Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.11.18",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": null
+        }
+      ]
+    }
+  ]
+}

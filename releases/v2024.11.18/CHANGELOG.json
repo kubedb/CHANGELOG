@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T15:00:44.315609291Z",
+  "release_date": "2024-11-19T15:00:53.590957615Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -142,6 +142,40 @@
             {
               "SHA": "3e60416",
               "Subject": "Prepare for release v0.12.0-rc.0 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "c955d034",
+              "Subject": "Prepare for release v0.4.0 (#52)"
+            },
+            {
+              "SHA": "f79f7989",
+              "Subject": "Update deps (#51)"
+            },
+            {
+              "SHA": "41f5baba",
+              "Subject": "Add ReconcileState as receiver from Reconcile (#50)"
+            },
+            {
+              "SHA": "46e66e54",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#49)"
+            },
+            {
+              "SHA": "d6dbb82a",
+              "Subject": "Update pg tp v1 (#47)"
+            },
+            {
+              "SHA": "498cf1e3",
+              "Subject": "Use debian:12 base image (#46)"
             }
           ]
         }

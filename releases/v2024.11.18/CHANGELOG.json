@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T21:28:56.547734985Z",
+  "release_date": "2024-11-19T21:30:17.904643936Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -1570,6 +1570,24 @@
             {
               "SHA": "fe911856",
               "Subject": "Add kubestash-Backupstorage Phase (#374)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "e6c5e7d8",
+              "Subject": "Prepare for release v0.25.0 (#139)"
+            },
+            {
+              "SHA": "ee26c6b4",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#138)"
             }
           ]
         }

@@ -723,6 +723,16 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.25.0](https://github.com/kubedb/webhook-server/releases/tag/v0.25.0)
+
+- [4e27b4e3](https://github.com/kubedb/webhook-server/commit/4e27b4e3) Prepare for release v0.25.0 (#136)
+- [781984da](https://github.com/kubedb/webhook-server/commit/781984da) Prepare for release v0.25.0-rc.0 (#135)
+- [fa8b1b2f](https://github.com/kubedb/webhook-server/commit/fa8b1b2f) Use debian:12 base image (#134)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.4.0](https://github.com/kubedb/zookeeper/releases/tag/v0.4.0)

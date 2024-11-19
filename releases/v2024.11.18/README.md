@@ -161,6 +161,21 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.4.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.4.0)
+
+- [034c2045](https://github.com/kubedb/mssqlserver/commit/034c2045) Prepare for release v0.4.0 (#40)
+- [239a842f](https://github.com/kubedb/mssqlserver/commit/239a842f) Add Reconfigure TLS changes (#38)
+- [244921e8](https://github.com/kubedb/mssqlserver/commit/244921e8) Use kind v0.25.0 (#39)
+- [e7609913](https://github.com/kubedb/mssqlserver/commit/e7609913) Add ReconcileState struct as reconcile methods receiver (#36)
+- [b43a0b19](https://github.com/kubedb/mssqlserver/commit/b43a0b19) Prepare for release v0.4.0-rc.0 (#37)
+- [69c1a4de](https://github.com/kubedb/mssqlserver/commit/69c1a4de) Use debian:12 base image (#35)
+- [c243e70b](https://github.com/kubedb/mssqlserver/commit/c243e70b) Add some fixes: Validate user envs  (#33)
+- [39de8531](https://github.com/kubedb/mssqlserver/commit/39de8531) Skip creating extra initial backup session for pitr (#34)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.3.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.3.0)

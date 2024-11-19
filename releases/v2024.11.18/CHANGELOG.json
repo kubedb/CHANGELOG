@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T19:53:28.558664144Z",
+  "release_date": "2024-11-19T19:54:02.665973296Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -406,6 +406,48 @@
             {
               "SHA": "505f0d8e",
               "Subject": "Use debian:12 base image (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "034c2045",
+              "Subject": "Prepare for release v0.4.0 (#40)"
+            },
+            {
+              "SHA": "239a842f",
+              "Subject": "Add Reconfigure TLS changes (#38)"
+            },
+            {
+              "SHA": "244921e8",
+              "Subject": "Use kind v0.25.0 (#39)"
+            },
+            {
+              "SHA": "e7609913",
+              "Subject": "Add ReconcileState struct as reconcile methods receiver (#36)"
+            },
+            {
+              "SHA": "b43a0b19",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "69c1a4de",
+              "Subject": "Use debian:12 base image (#35)"
+            },
+            {
+              "SHA": "c243e70b",
+              "Subject": "Add some fixes: Validate user envs  (#33)"
+            },
+            {
+              "SHA": "39de8531",
+              "Subject": "Skip creating extra initial backup session for pitr (#34)"
             }
           ]
         }

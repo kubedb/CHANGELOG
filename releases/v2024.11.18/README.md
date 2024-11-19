@@ -311,6 +311,20 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.4.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.4.0)
+
+- [9115622a](https://github.com/kubedb/rabbitmq/commit/9115622a) Prepare for release v0.4.0 (#54)
+- [0b692417](https://github.com/kubedb/rabbitmq/commit/0b692417) Use kind v0.25.0 (#53)
+- [0209b44a](https://github.com/kubedb/rabbitmq/commit/0209b44a) Add ReconcileState as receiver from Reconcile (#52)
+- [3eabf7e9](https://github.com/kubedb/rabbitmq/commit/3eabf7e9) Prepare for release v0.4.0-rc.0 (#51)
+- [bb92e142](https://github.com/kubedb/rabbitmq/commit/bb92e142) Revert "Add ReconcileState struct as reconcile methods receiver (#50)"
+- [208e2ebc](https://github.com/kubedb/rabbitmq/commit/208e2ebc) Add ReconcileState struct as reconcile methods receiver (#50)
+- [c62f41c0](https://github.com/kubedb/rabbitmq/commit/c62f41c0) Use debian:12 base image (#49)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.4.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.4.0)

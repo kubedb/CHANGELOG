@@ -49,6 +49,23 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.4.0](https://github.com/kubedb/druid/releases/tag/v0.4.0)
+
+- [00c82ce5](https://github.com/kubedb/druid/commit/00c82ce5) Prepare for release v0.4.0 (#60)
+- [bbdc017f](https://github.com/kubedb/druid/commit/bbdc017f) Update RotateAuth Ops based changes (#58)
+- [a8ef93f3](https://github.com/kubedb/druid/commit/a8ef93f3) Use kind v0.25.0 (#59)
+- [fbfafa4c](https://github.com/kubedb/druid/commit/fbfafa4c) Update Structure of ReconcileState (#57)
+- [7826e04a](https://github.com/kubedb/druid/commit/7826e04a) Update dep (#56)
+- [3cb337c4](https://github.com/kubedb/druid/commit/3cb337c4) Add Druid ReconcileState as receiver from Reconcile (#54)
+- [73e2f14b](https://github.com/kubedb/druid/commit/73e2f14b) Prepare for release v0.4.0-rc.0 (#55)
+- [cb3fc57a](https://github.com/kubedb/druid/commit/cb3fc57a) Fix druid auth secret name (#52)
+- [20da2c3a](https://github.com/kubedb/druid/commit/20da2c3a) Add druid TLS (#45)
+- [9f72c688](https://github.com/kubedb/druid/commit/9f72c688) Use debian:12 base image (#51)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.12.0)

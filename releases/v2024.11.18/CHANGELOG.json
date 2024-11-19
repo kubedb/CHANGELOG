@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T15:02:27.439934447Z",
+  "release_date": "2024-11-19T15:03:10.776423701Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -120,6 +120,56 @@
             {
               "SHA": "7b28debe",
               "Subject": "Add DeleteCollection method for Solr (#141)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "00c82ce5",
+              "Subject": "Prepare for release v0.4.0 (#60)"
+            },
+            {
+              "SHA": "bbdc017f",
+              "Subject": "Update RotateAuth Ops based changes (#58)"
+            },
+            {
+              "SHA": "a8ef93f3",
+              "Subject": "Use kind v0.25.0 (#59)"
+            },
+            {
+              "SHA": "fbfafa4c",
+              "Subject": "Update Structure of ReconcileState (#57)"
+            },
+            {
+              "SHA": "7826e04a",
+              "Subject": "Update dep (#56)"
+            },
+            {
+              "SHA": "3cb337c4",
+              "Subject": "Add Druid ReconcileState as receiver from Reconcile (#54)"
+            },
+            {
+              "SHA": "73e2f14b",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#55)"
+            },
+            {
+              "SHA": "cb3fc57a",
+              "Subject": "Fix druid auth secret name (#52)"
+            },
+            {
+              "SHA": "20da2c3a",
+              "Subject": "Add druid TLS (#45)"
+            },
+            {
+              "SHA": "9f72c688",
+              "Subject": "Use debian:12 base image (#51)"
             }
           ]
         }

@@ -449,6 +449,16 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.28.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.28.0)
+
+- [c1a3dfa7](https://github.com/kubedb/redis-coordinator/commit/c1a3dfa7) Prepare for release v0.28.0 (#115)
+- [9bbeb8af](https://github.com/kubedb/redis-coordinator/commit/9bbeb8af) Prepare for release v0.28.0-rc.0 (#114)
+- [81465dcd](https://github.com/kubedb/redis-coordinator/commit/81465dcd) Use debian:12 base image (#113)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.4.0](https://github.com/kubedb/singlestore/releases/tag/v0.4.0)

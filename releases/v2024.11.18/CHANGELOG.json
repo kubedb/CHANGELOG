@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T20:00:13.58883173Z",
+  "release_date": "2024-11-19T20:00:20.404008274Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -1051,6 +1051,28 @@
             {
               "SHA": "60db928f4",
               "Subject": "Use debian:12 base image (#563)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "c1a3dfa7",
+              "Subject": "Prepare for release v0.28.0 (#115)"
+            },
+            {
+              "SHA": "9bbeb8af",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "81465dcd",
+              "Subject": "Use debian:12 base image (#113)"
             }
           ]
         }

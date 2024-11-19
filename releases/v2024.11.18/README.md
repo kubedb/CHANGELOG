@@ -27,6 +27,16 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.9.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.9.0)
+
+- [c645ef42](https://github.com/kubedb/mariadb-archiver/commit/c645ef42) Prepare for release v0.9.0 (#31)
+- [e661da41](https://github.com/kubedb/mariadb-archiver/commit/e661da41) Add all required const for archiver (#29)
+- [8498c843](https://github.com/kubedb/mariadb-archiver/commit/8498c843) Prepare for release v0.9.0-rc.0 (#30)
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.11.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.11.0)

@@ -117,6 +117,22 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.49.0](https://github.com/kubedb/postgres/releases/tag/v0.49.0)
+
+- [51becf1b](https://github.com/kubedb/postgres/commit/51becf1bb) Prepare for release v0.49.0 (#770)
+- [0fee8ec5](https://github.com/kubedb/postgres/commit/0fee8ec5c) Fix arbiter spec on odd replicas and support for rotate auth secret with activeFrom api (#766)
+- [990c6130](https://github.com/kubedb/postgres/commit/990c6130e) Use separate steps for Autoscaler, Healthchecker, Customization profile in Daily testing (#767)
+- [887ad3de](https://github.com/kubedb/postgres/commit/887ad3dee) Fix RunAsGroup (#768)
+- [cda07c6c](https://github.com/kubedb/postgres/commit/cda07c6ca) Fix daily CI name
+- [a40ef294](https://github.com/kubedb/postgres/commit/a40ef2949) Add Exporters test prerequisites in Daily CI (#765)
+- [a8a62aea](https://github.com/kubedb/postgres/commit/a8a62aea3) Prepare for release v0.49.0-rc.0 (#764)
+- [c39cd034](https://github.com/kubedb/postgres/commit/c39cd034f) Fix cross region restore issue (#763)
+- [be0d9cba](https://github.com/kubedb/postgres/commit/be0d9cba1) Use debian:12 base image (#761)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.10.0)

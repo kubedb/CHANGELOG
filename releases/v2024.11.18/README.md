@@ -400,6 +400,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.36.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.36.0)
+
+- [34d3b17f](https://github.com/kubedb/pgbouncer/commit/34d3b17f) Prepare for release v0.36.0 (#351)
+- [5b075c85](https://github.com/kubedb/pgbouncer/commit/5b075c85) Prepare for release v0.36.0-rc.0 (#350)
+- [5780e16a](https://github.com/kubedb/pgbouncer/commit/5780e16a) Use debian:12 base image (#348)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.4.0](https://github.com/kubedb/pgpool/releases/tag/v0.4.0)

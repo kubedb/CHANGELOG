@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T14:32:30.403575094Z",
+  "release_date": "2024-11-19T14:40:20.203538401Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -12,6 +12,64 @@
         {
           "tag": "v0.49.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "1138af27",
+              "Subject": "Prepare for release v0.4.0 (#152)"
+            },
+            {
+              "SHA": "25a03892",
+              "Subject": "Add Support for Updating Druid Credential dynamically (#148)"
+            },
+            {
+              "SHA": "e5ed4c59",
+              "Subject": "Use pointer clientTLS filed (#151)"
+            },
+            {
+              "SHA": "bc1b92c5",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#150)"
+            },
+            {
+              "SHA": "e8210401",
+              "Subject": "Update Cassandra/client.go (#143)"
+            },
+            {
+              "SHA": "8f470859",
+              "Subject": "adding tls for pgbouncer (#149)"
+            },
+            {
+              "SHA": "7e70d363",
+              "Subject": "Fix druid auth name (#147)"
+            },
+            {
+              "SHA": "234b5778",
+              "Subject": "Update apimachinery Dependency (#146)"
+            },
+            {
+              "SHA": "8b8905b9",
+              "Subject": "Update deps & fix authsecret mutation (#145)"
+            },
+            {
+              "SHA": "db011c56",
+              "Subject": "Add TLS config to druid client (#139)"
+            },
+            {
+              "SHA": "fbbd601a",
+              "Subject": "Use debian:12 base image (#144)"
+            },
+            {
+              "SHA": "7b28debe",
+              "Subject": "Add DeleteCollection method for Solr (#141)"
+            }
+          ]
         }
       ]
     }

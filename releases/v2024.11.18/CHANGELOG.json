@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T14:54:58.262242388Z",
+  "release_date": "2024-11-19T14:55:06.213051836Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -192,6 +192,28 @@
             {
               "SHA": "a0ee1f6",
               "Subject": "Use debian:12 base image (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "00f8797c",
+              "Subject": "Prepare for release v0.22.0 (#84)"
+            },
+            {
+              "SHA": "23075738",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#83)"
+            },
+            {
+              "SHA": "86853e65",
+              "Subject": "Use debian:12 base image (#82)"
             }
           ]
         }

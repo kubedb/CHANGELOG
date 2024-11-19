@@ -389,6 +389,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.42.0](https://github.com/kubedb/redis/releases/tag/v0.42.0)
+
+- [67b02743](https://github.com/kubedb/redis/commit/67b027437) Prepare for release v0.42.0 (#565)
+- [1869d651](https://github.com/kubedb/redis/commit/1869d6514) Prepare for release v0.42.0-rc.0 (#564)
+- [60db928f](https://github.com/kubedb/redis/commit/60db928f4) Use debian:12 base image (#563)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.4.0](https://github.com/kubedb/singlestore/releases/tag/v0.4.0)

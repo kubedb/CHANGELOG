@@ -180,6 +180,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.10.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.10.0)
+
+- [120c9ffc](https://github.com/kubedb/mysql-archiver/commit/120c9ffc) Prepare for release v0.10.0 (#44)
+- [beb27b22](https://github.com/kubedb/mysql-archiver/commit/beb27b22) Prepare for release v0.10.0-rc.0 (#43)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.27.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.27.0)

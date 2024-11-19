@@ -8,6 +8,17 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.4.0](https://github.com/kubedb/crd-manager/releases/tag/v0.4.0)
+
+- [de8bb2d1](https://github.com/kubedb/crd-manager/commit/de8bb2d1) Prepare for release v0.4.0 (#55)
+- [71f313ce](https://github.com/kubedb/crd-manager/commit/71f313ce) Prepare for release v0.4.0-rc.0 (#54)
+- [27c3d99b](https://github.com/kubedb/crd-manager/commit/27c3d99b) Use debian:12 base image (#53)
+- [f45b9afd](https://github.com/kubedb/crd-manager/commit/f45b9afd) Use debian:12 base image (#52)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.7.0)

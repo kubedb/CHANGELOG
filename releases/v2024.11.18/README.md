@@ -470,6 +470,16 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.12.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.12.0)
+
+- [1354aef](https://github.com/kubedb/redis-restic-plugin/commit/1354aef) Prepare for release v0.12.0 (#52)
+- [5d370f4](https://github.com/kubedb/redis-restic-plugin/commit/5d370f4) Use debian:12 base image (#51)
+- [ce0f2c5](https://github.com/kubedb/redis-restic-plugin/commit/ce0f2c5) Prepare for release v0.12.0-rc.0 (#50)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.36.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.36.0)

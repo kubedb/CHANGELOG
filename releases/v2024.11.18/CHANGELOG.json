@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T21:16:22.161414157Z",
+  "release_date": "2024-11-19T21:19:53.41117989Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -1118,6 +1118,32 @@
         {
           "tag": "v0.11.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "195ba40da",
+              "Subject": "Prepare for release v0.36.0 (#366)"
+            },
+            {
+              "SHA": "bce09dcfe",
+              "Subject": "Use kind v0.25.0 (#365)"
+            },
+            {
+              "SHA": "a6c29b60b",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#364)"
+            },
+            {
+              "SHA": "ad781b1ec",
+              "Subject": "Use debian:12 base image (#362)"
+            }
+          ]
         }
       ]
     },

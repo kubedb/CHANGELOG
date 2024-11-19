@@ -89,6 +89,23 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.20.0](https://github.com/kubedb/kafka/releases/tag/v0.20.0)
+
+- [cff9ac07](https://github.com/kubedb/kafka/commit/cff9ac07) Prepare for release v0.20.0 (#120)
+- [122c28db](https://github.com/kubedb/kafka/commit/122c28db) Use kind v0.25.0 (#119)
+- [03868d66](https://github.com/kubedb/kafka/commit/03868d66) Update annotations name with constants (#117)
+- [0cfb8df3](https://github.com/kubedb/kafka/commit/0cfb8df3) Update RotateAuth Ops based changes (#112)
+- [f767cdbf](https://github.com/kubedb/kafka/commit/f767cdbf) Add Kafka ReconcileState as receiver from Reconcile (#114)
+- [9a007bb4](https://github.com/kubedb/kafka/commit/9a007bb4) Install monitoring stuffs in the daily (#113)
+- [c80ff7a2](https://github.com/kubedb/kafka/commit/c80ff7a2) Prepare for release v0.20.0-rc.0 (#116)
+- [96e3de84](https://github.com/kubedb/kafka/commit/96e3de84) Prepare for release v0.42.0-rc.0
+- [6f702d94](https://github.com/kubedb/kafka/commit/6f702d94) Fix breaking helper functions (#115)
+- [7e43c33f](https://github.com/kubedb/kafka/commit/7e43c33f) Use debian:12 base image (#111)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.9.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.9.0)

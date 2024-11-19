@@ -75,6 +75,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.49.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.49.0)
+
+- [32a036e1](https://github.com/kubedb/elasticsearch/commit/32a036e19) Prepare for release v0.49.0 (#740)
+- [a10a337e](https://github.com/kubedb/elasticsearch/commit/a10a337e3) Fix authsecret name and validator to configure rotateauth ops request (#739)
+- [d3aaacf3](https://github.com/kubedb/elasticsearch/commit/d3aaacf37) Prepare for release v0.49.0-rc.0 (#738)
+- [57de6b5e](https://github.com/kubedb/elasticsearch/commit/57de6b5e6) Fix local Webhook Registration (#737)
+- [494c5f03](https://github.com/kubedb/elasticsearch/commit/494c5f03b) Use debian:12 base image (#736)
+- [986f6f22](https://github.com/kubedb/elasticsearch/commit/986f6f224) Use debian:12 base image (#735)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.12.0)

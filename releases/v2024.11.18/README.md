@@ -17,6 +17,18 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.4.0](https://github.com/kubedb/clickhouse/releases/tag/v0.4.0)
+
+- [7b61f24f](https://github.com/kubedb/clickhouse/commit/7b61f24f) Prepare for release v0.4.0 (#26)
+- [4c83f38b](https://github.com/kubedb/clickhouse/commit/4c83f38b) Use kind v0.25.0 (#25)
+- [4710110d](https://github.com/kubedb/clickhouse/commit/4710110d) Add ReconcileState struct to pass reconciling objects as parameter (#23)
+- [c3e50828](https://github.com/kubedb/clickhouse/commit/c3e50828) Prepare for release v0.4.0-rc.0 (#24)
+- [8dd25781](https://github.com/kubedb/clickhouse/commit/8dd25781) Use debian:12 base image (#21)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.4.0](https://github.com/kubedb/crd-manager/releases/tag/v0.4.0)

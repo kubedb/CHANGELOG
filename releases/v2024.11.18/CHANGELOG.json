@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T19:57:19.908004645Z",
+  "release_date": "2024-11-19T19:57:26.265538295Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -28,6 +28,36 @@
             {
               "SHA": "a10a51fa",
               "Subject": "Prepare for release v0.49.0-rc.0 (#780)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "7b61f24f",
+              "Subject": "Prepare for release v0.4.0 (#26)"
+            },
+            {
+              "SHA": "4c83f38b",
+              "Subject": "Use kind v0.25.0 (#25)"
+            },
+            {
+              "SHA": "4710110d",
+              "Subject": "Add ReconcileState struct to pass reconciling objects as parameter (#23)"
+            },
+            {
+              "SHA": "c3e50828",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#24)"
+            },
+            {
+              "SHA": "8dd25781",
+              "Subject": "Use debian:12 base image (#21)"
             }
           ]
         }

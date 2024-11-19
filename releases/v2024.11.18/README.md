@@ -95,6 +95,17 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.10.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.10.0)
+
+- [08fe128](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/08fe128) Prepare for release v0.10.0 (#42)
+- [a48321d](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/a48321d) Prepare for release v0.10.0-rc.0 (#41)
+- [1571bab](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/1571bab) Use debian:12 base image (#40)
+- [7393bf4](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/7393bf4) Use debian:12 base image (#39)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.11.0](https://github.com/kubedb/provider-aws/releases/tag/v0.11.0)

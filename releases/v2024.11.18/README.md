@@ -58,6 +58,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.27.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.27.0)
+
+- [a0ee1f6](https://github.com/kubedb/mysql-router-init/commit/a0ee1f6) Use debian:12 base image (#47)
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.11.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.11.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T21:30:17.904643936Z",
+  "release_date": "2024-11-19T21:39:04.13886069Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -1140,6 +1140,28 @@
         {
           "tag": "v0.11.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "3e2cb3538",
+              "Subject": "Prepare for release v0.49.0 (#122)"
+            },
+            {
+              "SHA": "1fec33545",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#121)"
+            },
+            {
+              "SHA": "ad392149a",
+              "Subject": "Update all db deps"
+            }
+          ]
         }
       ]
     },

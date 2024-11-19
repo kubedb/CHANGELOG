@@ -140,6 +140,17 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.33.0](https://github.com/kubedb/mariadb/releases/tag/v0.33.0)
+
+- [9435f6ee](https://github.com/kubedb/mariadb/commit/9435f6eec) Prepare for release v0.33.0 (#291)
+- [db75a3f5](https://github.com/kubedb/mariadb/commit/db75a3f5e) Add all required const for archiver (#289)
+- [b73a732a](https://github.com/kubedb/mariadb/commit/b73a732ad) Prepare for release v0.33.0-rc.0 (#290)
+- [bd9c114a](https://github.com/kubedb/mariadb/commit/bd9c114a4) Use debian:12 base image (#288)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.9.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.9.0)

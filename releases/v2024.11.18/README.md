@@ -250,6 +250,15 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.10.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.10.0)
+
+- [03d67011](https://github.com/kubedb/postgres-archiver/commit/03d67011) Prepare for release v0.10.0 (#42)
+- [9fa2492a](https://github.com/kubedb/postgres-archiver/commit/9fa2492a) Prepare for release v0.10.0-rc.0 (#41)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.10.0)

@@ -326,6 +326,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.36.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.36.0)
+
+- [c32a5a7b](https://github.com/kubedb/percona-xtradb/commit/c32a5a7bf) Prepare for release v0.36.0 (#384)
+- [de5d228a](https://github.com/kubedb/percona-xtradb/commit/de5d228ac) Prepare for release v0.36.0-rc.0 (#383)
+- [23f321d4](https://github.com/kubedb/percona-xtradb/commit/23f321d42) Use debian:12 base image (#382)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.22.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.22.0)

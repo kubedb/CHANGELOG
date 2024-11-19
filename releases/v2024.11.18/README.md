@@ -346,6 +346,17 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.33.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.33.0)
+
+- [5fc9ab78](https://github.com/kubedb/pg-coordinator/commit/5fc9ab78) Prepare for release v0.33.0 (#177)
+- [f8d96212](https://github.com/kubedb/pg-coordinator/commit/f8d96212) Prepare for release v0.33.0-rc.0 (#176)
+- [0e372546](https://github.com/kubedb/pg-coordinator/commit/0e372546) Add PITR modes support (#175)
+- [87ab3dfe](https://github.com/kubedb/pg-coordinator/commit/87ab3dfe) Use debian:12 base image (#174)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.4.0](https://github.com/kubedb/pgpool/releases/tag/v0.4.0)

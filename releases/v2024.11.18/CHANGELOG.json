@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-19T22:15:45.572981327Z",
+  "release_date": "2024-11-20T00:52:02.44572224Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -374,6 +374,15 @@
               "Subject": "Use debian:12 base image (#46)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.11.18",
+          "commits": null
         }
       ]
     },

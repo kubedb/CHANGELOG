@@ -1,4 +1,4 @@
-# KubeDB v2024.11.18 (2024-11-19)
+# KubeDB v2024.11.18 (2024-11-20)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -145,6 +145,13 @@
 - [46e66e54](https://github.com/kubedb/ferretdb/commit/46e66e54) Prepare for release v0.4.0-rc.0 (#49)
 - [d6dbb82a](https://github.com/kubedb/ferretdb/commit/d6dbb82a) Update pg tp v1 (#47)
 - [498cf1e3](https://github.com/kubedb/ferretdb/commit/498cf1e3) Use debian:12 base image (#46)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2024.11.18](https://github.com/kubedb/installer/releases/tag/v2024.11.18)
+
 
 
 

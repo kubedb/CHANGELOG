@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.11.18",
-  "release_date": "2024-11-20T00:52:02.44572224Z",
+  "release_date": "2024-11-20T01:14:06.756603643Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.11.18",
   "kubernetes_version": "1.26+",
@@ -234,6 +234,15 @@
               "Subject": "Add DeleteCollection method for Solr (#141)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.11.18",
+          "commits": null
         }
       ]
     },

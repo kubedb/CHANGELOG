@@ -1,0 +1,1907 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.11.18",
+  "release_date": "2024-11-20T01:14:06.756603643Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.11.18",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "a67ba7eb",
+              "Subject": "Prepare for release v0.34.0 (#229)"
+            },
+            {
+              "SHA": "0e555ac9",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#228)"
+            },
+            {
+              "SHA": "9a723b6e",
+              "Subject": "Add autoscaler for solr (#227)"
+            },
+            {
+              "SHA": "6fa6ac10",
+              "Subject": "Use debian:12 base image (#226)"
+            },
+            {
+              "SHA": "7b4b559f",
+              "Subject": "Use debian:12 base image (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "a22e35fe",
+              "Subject": "Prepare for release v0.2.0 (#12)"
+            },
+            {
+              "SHA": "98f26f87",
+              "Subject": "Use kind v0.25.0 (#11)"
+            },
+            {
+              "SHA": "2a6da5c4",
+              "Subject": "Add ReconcileState struct to pass reconciling objects as parameter (#9)"
+            },
+            {
+              "SHA": "c8344e76",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
+            },
+            {
+              "SHA": "49bea527",
+              "Subject": "Fix Petset observedGeneration issue & Add Monitoring Support  (#7)"
+            },
+            {
+              "SHA": "08e51996",
+              "Subject": "Use debian:12 base image (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "ce5dc68e",
+              "Subject": "Prepare for release v0.49.0 (#781)"
+            },
+            {
+              "SHA": "a10a51fa",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#780)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "7b61f24f",
+              "Subject": "Prepare for release v0.4.0 (#26)"
+            },
+            {
+              "SHA": "4c83f38b",
+              "Subject": "Use kind v0.25.0 (#25)"
+            },
+            {
+              "SHA": "4710110d",
+              "Subject": "Add ReconcileState struct to pass reconciling objects as parameter (#23)"
+            },
+            {
+              "SHA": "c3e50828",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#24)"
+            },
+            {
+              "SHA": "8dd25781",
+              "Subject": "Use debian:12 base image (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "de8bb2d1",
+              "Subject": "Prepare for release v0.4.0 (#55)"
+            },
+            {
+              "SHA": "71f313ce",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#54)"
+            },
+            {
+              "SHA": "27c3d99b",
+              "Subject": "Use debian:12 base image (#53)"
+            },
+            {
+              "SHA": "f45b9afd",
+              "Subject": "Use debian:12 base image (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "75460de",
+              "Subject": "Prepare for release v0.7.0 (#25)"
+            },
+            {
+              "SHA": "b3a729b",
+              "Subject": "Use debian:12 base image (#24)"
+            },
+            {
+              "SHA": "7672ced",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#23)"
+            },
+            {
+              "SHA": "504cae4",
+              "Subject": "Use debian:12 base image (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "1138af27",
+              "Subject": "Prepare for release v0.4.0 (#152)"
+            },
+            {
+              "SHA": "25a03892",
+              "Subject": "Add Support for Updating Druid Credential dynamically (#148)"
+            },
+            {
+              "SHA": "e5ed4c59",
+              "Subject": "Use pointer clientTLS filed (#151)"
+            },
+            {
+              "SHA": "bc1b92c5",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#150)"
+            },
+            {
+              "SHA": "e8210401",
+              "Subject": "Update Cassandra/client.go (#143)"
+            },
+            {
+              "SHA": "8f470859",
+              "Subject": "adding tls for pgbouncer (#149)"
+            },
+            {
+              "SHA": "7e70d363",
+              "Subject": "Fix druid auth name (#147)"
+            },
+            {
+              "SHA": "234b5778",
+              "Subject": "Update apimachinery Dependency (#146)"
+            },
+            {
+              "SHA": "8b8905b9",
+              "Subject": "Update deps & fix authsecret mutation (#145)"
+            },
+            {
+              "SHA": "db011c56",
+              "Subject": "Add TLS config to druid client (#139)"
+            },
+            {
+              "SHA": "fbbd601a",
+              "Subject": "Use debian:12 base image (#144)"
+            },
+            {
+              "SHA": "7b28debe",
+              "Subject": "Add DeleteCollection method for Solr (#141)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.11.18",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "00c82ce5",
+              "Subject": "Prepare for release v0.4.0 (#60)"
+            },
+            {
+              "SHA": "bbdc017f",
+              "Subject": "Update RotateAuth Ops based changes (#58)"
+            },
+            {
+              "SHA": "a8ef93f3",
+              "Subject": "Use kind v0.25.0 (#59)"
+            },
+            {
+              "SHA": "fbfafa4c",
+              "Subject": "Update Structure of ReconcileState (#57)"
+            },
+            {
+              "SHA": "7826e04a",
+              "Subject": "Update dep (#56)"
+            },
+            {
+              "SHA": "3cb337c4",
+              "Subject": "Add Druid ReconcileState as receiver from Reconcile (#54)"
+            },
+            {
+              "SHA": "73e2f14b",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#55)"
+            },
+            {
+              "SHA": "cb3fc57a",
+              "Subject": "Fix druid auth secret name (#52)"
+            },
+            {
+              "SHA": "20da2c3a",
+              "Subject": "Add druid TLS (#45)"
+            },
+            {
+              "SHA": "9f72c688",
+              "Subject": "Use debian:12 base image (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "32a036e19",
+              "Subject": "Prepare for release v0.49.0 (#740)"
+            },
+            {
+              "SHA": "a10a337e3",
+              "Subject": "Fix authsecret name and validator to configure rotateauth ops request (#739)"
+            },
+            {
+              "SHA": "d3aaacf37",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#738)"
+            },
+            {
+              "SHA": "57de6b5e6",
+              "Subject": "Fix local Webhook Registration (#737)"
+            },
+            {
+              "SHA": "494c5f03b",
+              "Subject": "Use debian:12 base image (#736)"
+            },
+            {
+              "SHA": "986f6f224",
+              "Subject": "Use debian:12 base image (#735)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "1d9e4a2",
+              "Subject": "Prepare for release v0.12.0 (#48)"
+            },
+            {
+              "SHA": "dd617de",
+              "Subject": "Use debian:12 base image (#47)"
+            },
+            {
+              "SHA": "3e60416",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "c955d034",
+              "Subject": "Prepare for release v0.4.0 (#52)"
+            },
+            {
+              "SHA": "f79f7989",
+              "Subject": "Update deps (#51)"
+            },
+            {
+              "SHA": "41f5baba",
+              "Subject": "Add ReconcileState as receiver from Reconcile (#50)"
+            },
+            {
+              "SHA": "46e66e54",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#49)"
+            },
+            {
+              "SHA": "d6dbb82a",
+              "Subject": "Update pg tp v1 (#47)"
+            },
+            {
+              "SHA": "498cf1e3",
+              "Subject": "Use debian:12 base image (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2024.11.18",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "cff9ac07",
+              "Subject": "Prepare for release v0.20.0 (#120)"
+            },
+            {
+              "SHA": "122c28db",
+              "Subject": "Use kind v0.25.0 (#119)"
+            },
+            {
+              "SHA": "03868d66",
+              "Subject": "Update annotations name with constants (#117)"
+            },
+            {
+              "SHA": "0cfb8df3",
+              "Subject": "Update RotateAuth Ops based changes (#112)"
+            },
+            {
+              "SHA": "f767cdbf",
+              "Subject": "Add Kafka ReconcileState as receiver from Reconcile (#114)"
+            },
+            {
+              "SHA": "9a007bb4",
+              "Subject": "Install monitoring stuffs in the daily (#113)"
+            },
+            {
+              "SHA": "c80ff7a2",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#116)"
+            },
+            {
+              "SHA": "96e3de84",
+              "Subject": "Prepare for release v0.42.0-rc.0"
+            },
+            {
+              "SHA": "6f702d94",
+              "Subject": "Fix breaking helper functions (#115)"
+            },
+            {
+              "SHA": "7e43c33f",
+              "Subject": "Use debian:12 base image (#111)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "f2a01a30",
+              "Subject": "Prepare for release v0.25.0 (#131)"
+            },
+            {
+              "SHA": "772026c0",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#130)"
+            },
+            {
+              "SHA": "ffd6e402",
+              "Subject": "Use debian:12 base image (#129)"
+            },
+            {
+              "SHA": "0dc26c52",
+              "Subject": "Use debian:12 base image (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "2dcc07c",
+              "Subject": "Prepare for release v0.12.0 (#78)"
+            },
+            {
+              "SHA": "dce514e",
+              "Subject": "Use debian:12 base image (#77)"
+            },
+            {
+              "SHA": "7021daa",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#76)"
+            },
+            {
+              "SHA": "bea1697",
+              "Subject": "Use debian:12 base image (#75)"
+            },
+            {
+              "SHA": "dd34241",
+              "Subject": "Add Manifest backup/restore support for redis (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "9435f6eec",
+              "Subject": "Prepare for release v0.33.0 (#291)"
+            },
+            {
+              "SHA": "db75a3f5e",
+              "Subject": "Add all required const for archiver (#289)"
+            },
+            {
+              "SHA": "b73a732ad",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#290)"
+            },
+            {
+              "SHA": "bd9c114a4",
+              "Subject": "Use debian:12 base image (#288)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "c645ef42",
+              "Subject": "Prepare for release v0.9.0 (#31)"
+            },
+            {
+              "SHA": "e661da41",
+              "Subject": "Add all required const for archiver (#29)"
+            },
+            {
+              "SHA": "8498c843",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "eae4bd98",
+              "Subject": "Prepare for release v0.29.0 (#130)"
+            },
+            {
+              "SHA": "f1a7ed08",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#129)"
+            },
+            {
+              "SHA": "896d4206",
+              "Subject": "Use debian:12 base image (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "3096d80",
+              "Subject": "Prepare for release v0.9.0 (#34)"
+            },
+            {
+              "SHA": "92594f3",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#33)"
+            },
+            {
+              "SHA": "cdc664f",
+              "Subject": "Use debian:12 base image (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "bf019c5",
+              "Subject": "Prepare for release v0.7.0 (#30)"
+            },
+            {
+              "SHA": "8583fb5",
+              "Subject": "Use debian:12 base image (#29)"
+            },
+            {
+              "SHA": "d9af547",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#28)"
+            },
+            {
+              "SHA": "610dab6",
+              "Subject": "Add external databases backup/restore support (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "92b2774e6",
+              "Subject": "Prepare for release v0.42.0 (#666)"
+            },
+            {
+              "SHA": "520bbe55a",
+              "Subject": "Add `basic-auth-active-from` annotation in auth secret (#665)"
+            },
+            {
+              "SHA": "df91f37e3",
+              "Subject": "Prepare for release v0.42.0-rc.0 (#664)"
+            },
+            {
+              "SHA": "decf32819",
+              "Subject": "Fix MongoDBArchiver for Minio TLS backend  (#659)"
+            },
+            {
+              "SHA": "d1b57cfe0",
+              "Subject": "Use debian:12 base image (#663)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "a1eefb7",
+              "Subject": "Prepare for release v0.10.0 (#39)"
+            },
+            {
+              "SHA": "c84b8c0",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "bca72d6",
+              "Subject": "Use debian:12 base image (#37)"
+            },
+            {
+              "SHA": "780554d",
+              "Subject": "Use debian:12 base image (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "b1f1881",
+              "Subject": "Prepare for release v0.12.0 (#70)"
+            },
+            {
+              "SHA": "1eb3fe7",
+              "Subject": "Add support for MongoDB version 8.0.0 (#67)"
+            },
+            {
+              "SHA": "09ee7f4",
+              "Subject": "Use debian:12 base image (#69)"
+            },
+            {
+              "SHA": "3f6d291",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "9e567ec3",
+              "Subject": "Prepare for release v0.4.0 (#21)"
+            },
+            {
+              "SHA": "ae1c7c69",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#20)"
+            },
+            {
+              "SHA": "395372a7",
+              "Subject": "Check AG Database exists before resume, clean LSN string (#18)"
+            },
+            {
+              "SHA": "505f0d8e",
+              "Subject": "Use debian:12 base image (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "034c2045",
+              "Subject": "Prepare for release v0.4.0 (#40)"
+            },
+            {
+              "SHA": "239a842f",
+              "Subject": "Add Reconfigure TLS changes (#38)"
+            },
+            {
+              "SHA": "244921e8",
+              "Subject": "Use kind v0.25.0 (#39)"
+            },
+            {
+              "SHA": "e7609913",
+              "Subject": "Add ReconcileState struct as reconcile methods receiver (#36)"
+            },
+            {
+              "SHA": "b43a0b19",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "69c1a4de",
+              "Subject": "Use debian:12 base image (#35)"
+            },
+            {
+              "SHA": "c243e70b",
+              "Subject": "Add some fixes: Validate user envs  (#33)"
+            },
+            {
+              "SHA": "39de8531",
+              "Subject": "Skip creating extra initial backup session for pitr (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "6e67fd4",
+              "Subject": "Remove matrix build"
+            },
+            {
+              "SHA": "8ab2080",
+              "Subject": "Use debian:12 base image (#4)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "2364689",
+              "Subject": "Prepare for release v0.3.0 (#10)"
+            },
+            {
+              "SHA": "e05e217",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#9)"
+            },
+            {
+              "SHA": "4a9db7b",
+              "Subject": "Use debian:12 base image (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "a32968b9c",
+              "Subject": "Prepare for release v0.42.0 (#651)"
+            },
+            {
+              "SHA": "de1936692",
+              "Subject": "Add Multi Primary Mode Support for V8.4.2 (#650)"
+            },
+            {
+              "SHA": "1ab34fa2e",
+              "Subject": "Prepare for release v0.42.0-rc.0 (#649)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "120c9ffc",
+              "Subject": "Prepare for release v0.10.0 (#44)"
+            },
+            {
+              "SHA": "beb27b22",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "31e0281e",
+              "Subject": "Prepare for release v0.27.0 (#128)"
+            },
+            {
+              "SHA": "81d40c27",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#127)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "8fcb3eb",
+              "Subject": "Prepare for release v0.10.0 (#34)"
+            },
+            {
+              "SHA": "be7cf34",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "e08ce0c",
+              "Subject": "Prepare for release v0.12.0 (#62)"
+            },
+            {
+              "SHA": "54c8bc8",
+              "Subject": "Use debian:12 base image (#60)"
+            },
+            {
+              "SHA": "310725e",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "a0ee1f6",
+              "Subject": "Use debian:12 base image (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "8777963df",
+              "Subject": "Prepare for release v0.36.0 (#672)"
+            },
+            {
+              "SHA": "6c4065573",
+              "Subject": "Add rotateauth ops request for elasticsearch (#671)"
+            },
+            {
+              "SHA": "c2e7bdc23",
+              "Subject": "Restart For PgBouncer (#651)"
+            },
+            {
+              "SHA": "e03575284",
+              "Subject": "Add rotateauth ops request for solr (#670)"
+            },
+            {
+              "SHA": "9480d0ddc",
+              "Subject": "Add Druid Rotate-Auth OpsRequest (#653)"
+            },
+            {
+              "SHA": "26d26e0f5",
+              "Subject": "Add RotateAuth support for MongoDBOpsRequest (#664)"
+            },
+            {
+              "SHA": "4ab4f6233",
+              "Subject": "Add mssqlserver ops request reconfigure tls (#652)"
+            },
+            {
+              "SHA": "482ced11d",
+              "Subject": "Add Rotate Auth Secret Support for Postgres and fix arbiter spec (#669)"
+            },
+            {
+              "SHA": "a35a08e5a",
+              "Subject": "Add Memcached TLS and OpsRequest Reconfigure TLS (#654)"
+            },
+            {
+              "SHA": "fe04070b4",
+              "Subject": "Update Pgpool operator reconcile struct changes (#668)"
+            },
+            {
+              "SHA": "29edd77d5",
+              "Subject": "Update SingleStore for ReconcilerState Change (#666)"
+            },
+            {
+              "SHA": "53a7941a2",
+              "Subject": "Fix Keystore Secret reference for Kafka ReconfigureTLS (#663)"
+            },
+            {
+              "SHA": "b01a88698",
+              "Subject": "Add Validator for Druid Ops-Requests (#665)"
+            },
+            {
+              "SHA": "8275c2a51",
+              "Subject": "Updates for Druid ReconcileState Structure (#667)"
+            },
+            {
+              "SHA": "545bd0c08",
+              "Subject": "Add Kafka Rotate Auth Ops Request (#644)"
+            },
+            {
+              "SHA": "5bc565e4a",
+              "Subject": "Sync ReconcileState changes for RabbitMQ (#658)"
+            },
+            {
+              "SHA": "fb456387c",
+              "Subject": "Add MSSQLServer Reconfigure Ops request (#634)"
+            },
+            {
+              "SHA": "03af4451a",
+              "Subject": "Update Zookeeper for Reconcile Changes (#662)"
+            },
+            {
+              "SHA": "7ab6c2694",
+              "Subject": "Fix Druid ReconcileState Changes (#661)"
+            },
+            {
+              "SHA": "250cd5c22",
+              "Subject": "Update FerretDB operator reconcile struct changes (#655)"
+            },
+            {
+              "SHA": "0b0ad7cdf",
+              "Subject": "Add ReconcilerState changes in solr (#659)"
+            },
+            {
+              "SHA": "f0ac65c84",
+              "Subject": "Fix Kafka ReconcileState Changes (#657)"
+            },
+            {
+              "SHA": "370b9f98f",
+              "Subject": "Fix Fastspeed standalone postgres db upgrade issue (#648)"
+            },
+            {
+              "SHA": "eb4dfe2fe",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#656)"
+            },
+            {
+              "SHA": "a03bb54e3",
+              "Subject": "Update all db deps"
+            },
+            {
+              "SHA": "6b0cf17fa",
+              "Subject": "Fix recommendation (#642)"
+            },
+            {
+              "SHA": "1b0492953",
+              "Subject": "Add support for Druid TLS and Ops-Requests (#629)"
+            },
+            {
+              "SHA": "e72ae41dc",
+              "Subject": "Fix reconfigure tls mg patch issue (#650)"
+            },
+            {
+              "SHA": "5d328f00b",
+              "Subject": "Use debian:12 base image (#647)"
+            },
+            {
+              "SHA": "1f32a6cf0",
+              "Subject": "Use debian:12 base image (#646)"
+            },
+            {
+              "SHA": "3d69bbcc7",
+              "Subject": "Update zk deps (#645)"
+            },
+            {
+              "SHA": "c71245eb4",
+              "Subject": "Add TLS for ZooKeeper (#640)"
+            },
+            {
+              "SHA": "0624ed346",
+              "Subject": "Update deps (#643)"
+            },
+            {
+              "SHA": "0c2abc62f",
+              "Subject": "Fix Ops Request Reconfiguration and Version Update (#641)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "c32a5a7bf",
+              "Subject": "Prepare for release v0.36.0 (#384)"
+            },
+            {
+              "SHA": "de5d228ac",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#383)"
+            },
+            {
+              "SHA": "23f321d42",
+              "Subject": "Use debian:12 base image (#382)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "00f8797c",
+              "Subject": "Prepare for release v0.22.0 (#84)"
+            },
+            {
+              "SHA": "23075738",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#83)"
+            },
+            {
+              "SHA": "86853e65",
+              "Subject": "Use debian:12 base image (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "5fc9ab78",
+              "Subject": "Prepare for release v0.33.0 (#177)"
+            },
+            {
+              "SHA": "f8d96212",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#176)"
+            },
+            {
+              "SHA": "0e372546",
+              "Subject": "Add PITR modes support (#175)"
+            },
+            {
+              "SHA": "87ab3dfe",
+              "Subject": "Use debian:12 base image (#174)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "34d3b17f",
+              "Subject": "Prepare for release v0.36.0 (#351)"
+            },
+            {
+              "SHA": "5b075c85",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#350)"
+            },
+            {
+              "SHA": "5780e16a",
+              "Subject": "Use debian:12 base image (#348)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "3d42bf8c",
+              "Subject": "Prepare for release v0.4.0 (#53)"
+            },
+            {
+              "SHA": "5e4336fe",
+              "Subject": "Reconciler state (#52)"
+            },
+            {
+              "SHA": "e2bfcc3a",
+              "Subject": "Update dep (#51)"
+            },
+            {
+              "SHA": "5422557f",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "b1e214ca",
+              "Subject": "Use debian:12 base image (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "51becf1bb",
+              "Subject": "Prepare for release v0.49.0 (#770)"
+            },
+            {
+              "SHA": "0fee8ec5c",
+              "Subject": "Fix arbiter spec on odd replicas and support for rotate auth secret with activeFrom api (#766)"
+            },
+            {
+              "SHA": "990c6130e",
+              "Subject": "Use separate steps for Autoscaler, Healthchecker, Customization profile in Daily testing (#767)"
+            },
+            {
+              "SHA": "887ad3dee",
+              "Subject": "Fix RunAsGroup (#768)"
+            },
+            {
+              "SHA": "cda07c6ca",
+              "Subject": "Fix daily CI name"
+            },
+            {
+              "SHA": "a40ef2949",
+              "Subject": "Add Exporters test prerequisites in Daily CI (#765)"
+            },
+            {
+              "SHA": "a8a62aea3",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#764)"
+            },
+            {
+              "SHA": "c39cd034f",
+              "Subject": "Fix cross region restore issue (#763)"
+            },
+            {
+              "SHA": "be0d9cba1",
+              "Subject": "Use debian:12 base image (#761)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "03d67011",
+              "Subject": "Prepare for release v0.10.0 (#42)"
+            },
+            {
+              "SHA": "9fa2492a",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "08fe128",
+              "Subject": "Prepare for release v0.10.0 (#42)"
+            },
+            {
+              "SHA": "a48321d",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "1571bab",
+              "Subject": "Use debian:12 base image (#40)"
+            },
+            {
+              "SHA": "7393bf4",
+              "Subject": "Use debian:12 base image (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "b71f30a",
+              "Subject": "Prepare for release v0.12.0 (#57)"
+            },
+            {
+              "SHA": "77b0c1b",
+              "Subject": "Use debian:12 base image (#56)"
+            },
+            {
+              "SHA": "f744dce",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "3e2cb3538",
+              "Subject": "Prepare for release v0.49.0 (#122)"
+            },
+            {
+              "SHA": "1fec33545",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#121)"
+            },
+            {
+              "SHA": "ad392149a",
+              "Subject": "Update all db deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "195ba40da",
+              "Subject": "Prepare for release v0.36.0 (#366)"
+            },
+            {
+              "SHA": "bce09dcfe",
+              "Subject": "Use kind v0.25.0 (#365)"
+            },
+            {
+              "SHA": "a6c29b60b",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#364)"
+            },
+            {
+              "SHA": "ad781b1ec",
+              "Subject": "Use debian:12 base image (#362)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "9115622a",
+              "Subject": "Prepare for release v0.4.0 (#54)"
+            },
+            {
+              "SHA": "0b692417",
+              "Subject": "Use kind v0.25.0 (#53)"
+            },
+            {
+              "SHA": "0209b44a",
+              "Subject": "Add ReconcileState as receiver from Reconcile (#52)"
+            },
+            {
+              "SHA": "3eabf7e9",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "bb92e142",
+              "Subject": "Revert \"Add ReconcileState struct as reconcile methods receiver (#50)\""
+            },
+            {
+              "SHA": "208e2ebc",
+              "Subject": "Add ReconcileState struct as reconcile methods receiver (#50)"
+            },
+            {
+              "SHA": "c62f41c0",
+              "Subject": "Use debian:12 base image (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "67b027437",
+              "Subject": "Prepare for release v0.42.0 (#565)"
+            },
+            {
+              "SHA": "1869d6514",
+              "Subject": "Prepare for release v0.42.0-rc.0 (#564)"
+            },
+            {
+              "SHA": "60db928f4",
+              "Subject": "Use debian:12 base image (#563)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "c1a3dfa7",
+              "Subject": "Prepare for release v0.28.0 (#115)"
+            },
+            {
+              "SHA": "9bbeb8af",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "81465dcd",
+              "Subject": "Use debian:12 base image (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "1354aef",
+              "Subject": "Prepare for release v0.12.0 (#52)"
+            },
+            {
+              "SHA": "5d370f4",
+              "Subject": "Use debian:12 base image (#51)"
+            },
+            {
+              "SHA": "ce0f2c5",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "a7aa00b6",
+              "Subject": "Prepare for release v0.36.0 (#281)"
+            },
+            {
+              "SHA": "637b35b0",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#280)"
+            },
+            {
+              "SHA": "002dffe1",
+              "Subject": "Use debian:12 base image (#279)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "86824c75",
+              "Subject": "Prepare for release v0.25.0 (#125)"
+            },
+            {
+              "SHA": "b96dc475",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#124)"
+            },
+            {
+              "SHA": "6b295a6b",
+              "Subject": "Use debian:12 base image (#123)"
+            },
+            {
+              "SHA": "095be7c6",
+              "Subject": "Use debian:12 base image (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "6882b6b0",
+              "Subject": "Prepare for release v0.4.0 (#52)"
+            },
+            {
+              "SHA": "f240110a",
+              "Subject": "Add ReconcileState struct to pass reconciling objects as parameter (#49)"
+            },
+            {
+              "SHA": "c77349d7",
+              "Subject": "Update dep (#51)"
+            },
+            {
+              "SHA": "143ac48c",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "c6d41c61",
+              "Subject": "Use debian:12 base image (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "abb99f4",
+              "Subject": "Prepare for release v0.4.0 (#30)"
+            },
+            {
+              "SHA": "2c8c88b",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "6414517",
+              "Subject": "Use debian:12 base image (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "60f3c5a",
+              "Subject": "Prepare for release v0.7.0 (#29)"
+            },
+            {
+              "SHA": "4fa6223",
+              "Subject": "Use debian:12 base image (#28)"
+            },
+            {
+              "SHA": "fe8a465",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "ec8d69d6",
+              "Subject": "Prepare for release v0.4.0 (#59)"
+            },
+            {
+              "SHA": "9e1bbf8f",
+              "Subject": "Update authconfig secret to implement rotateauth ops request (#58)"
+            },
+            {
+              "SHA": "0e3da42b",
+              "Subject": "Update dep (#57)"
+            },
+            {
+              "SHA": "9203993c",
+              "Subject": "Add Solr ReconcileState as receiver from Reconcile (#56)"
+            },
+            {
+              "SHA": "b337c65c",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#55)"
+            },
+            {
+              "SHA": "71366144",
+              "Subject": "Revert \"Add ReconcileState struct to pass reconciling objects as parameter (#54)\""
+            },
+            {
+              "SHA": "ca96f684",
+              "Subject": "Add ReconcileState struct to pass reconciling objects as parameter (#54)"
+            },
+            {
+              "SHA": "ef5fecdb",
+              "Subject": "Update deps & fix authsecret mutation (#53)"
+            },
+            {
+              "SHA": "c5fb9263",
+              "Subject": "Use debian:12 base image (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "34b0b93f",
+              "Subject": "Prepare for release v0.34.0 (#413)"
+            },
+            {
+              "SHA": "95f5d160",
+              "Subject": "Update Solr and MSSQL api (#412)"
+            },
+            {
+              "SHA": "5f40689f",
+              "Subject": "Exclude autoscaler,healthchecker,customizations from PG Provisioner test (#404)"
+            },
+            {
+              "SHA": "80fb6025",
+              "Subject": "Fix Resource's name (#389)"
+            },
+            {
+              "SHA": "d56b0310",
+              "Subject": "Add mysql backup-restore test using kubestash (#344)"
+            },
+            {
+              "SHA": "82a5166b",
+              "Subject": "Add Health Check test for Druid, PgBouncer, mysql innodb (#399)"
+            },
+            {
+              "SHA": "a203fd39",
+              "Subject": "fix linter issue for release v0.34.0-rc.0 (#402)"
+            },
+            {
+              "SHA": "ec82963a",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#401)"
+            },
+            {
+              "SHA": "ddfac099",
+              "Subject": "Add Health Check Test (#329)"
+            },
+            {
+              "SHA": "cfb52cc6",
+              "Subject": "Add Druid Restart Test (#397)"
+            },
+            {
+              "SHA": "69f18704",
+              "Subject": "Add Druid  AutoScaling Test (#396)"
+            },
+            {
+              "SHA": "d846af1b",
+              "Subject": "Add Postgres AutoScaling Tests (#364)"
+            },
+            {
+              "SHA": "d67c3869",
+              "Subject": "Kubestash Backup-Restore Test for Postgres (#388)"
+            },
+            {
+              "SHA": "4eafce8f",
+              "Subject": "Add Pgpool metrics exporter tests (#377)"
+            },
+            {
+              "SHA": "eaa4499a",
+              "Subject": "Add Postgres metrics exporter tests (#368)"
+            },
+            {
+              "SHA": "564d1cde",
+              "Subject": "Add Pgbouncer metrics exporter test (#385)"
+            },
+            {
+              "SHA": "4ffa3df4",
+              "Subject": "Add Solr metrics exporter test (#390)"
+            },
+            {
+              "SHA": "4183f879",
+              "Subject": "working well (#381)"
+            },
+            {
+              "SHA": "a3eb7976",
+              "Subject": "Use debian:12 base image (#392)"
+            },
+            {
+              "SHA": "ec4d737f",
+              "Subject": "Add zookeeper metrics exporter test (#391)"
+            },
+            {
+              "SHA": "be48f627",
+              "Subject": "Add ops manager to CI (#386)"
+            },
+            {
+              "SHA": "fa41180f",
+              "Subject": "remove branch from checkout (#380)"
+            },
+            {
+              "SHA": "ac4d8455",
+              "Subject": "Remove extra print (#384)"
+            },
+            {
+              "SHA": "b26e740e",
+              "Subject": "Add ElasticSearch metrics exporter tests (#373)"
+            },
+            {
+              "SHA": "f15066fb",
+              "Subject": "Add Singlestore metrics exporter tests (#378)"
+            },
+            {
+              "SHA": "f5765a67",
+              "Subject": "mysql exporter unfocus (#382)"
+            },
+            {
+              "SHA": "a873ff4a",
+              "Subject": "Add Perconaxtradb metrics exporter tests (#375)"
+            },
+            {
+              "SHA": "dc7c42c9",
+              "Subject": "Add MySQL metrics exporter tests  (#371)"
+            },
+            {
+              "SHA": "46189f39",
+              "Subject": "Add MariaDB metrics exporter tests (#366)"
+            },
+            {
+              "SHA": "4b4fa18d",
+              "Subject": "Add PGBouncer update-version, reconfiguration, custom-config and auto-scaling test (#372)"
+            },
+            {
+              "SHA": "fe911856",
+              "Subject": "Add kubestash-Backupstorage Phase (#374)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "e6c5e7d8",
+              "Subject": "Prepare for release v0.25.0 (#139)"
+            },
+            {
+              "SHA": "ee26c6b4",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "4e27b4e3",
+              "Subject": "Prepare for release v0.25.0 (#136)"
+            },
+            {
+              "SHA": "781984da",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "fa8b1b2f",
+              "Subject": "Use debian:12 base image (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "7de2e276",
+              "Subject": "Prepare for release v0.4.0 (#51)"
+            },
+            {
+              "SHA": "4fdb8ff7",
+              "Subject": "Use kind v0.25.0 (#50)"
+            },
+            {
+              "SHA": "627161bf",
+              "Subject": "Fix Resource Name Change (#48)"
+            },
+            {
+              "SHA": "6b1ce481",
+              "Subject": "Update dep (#49)"
+            },
+            {
+              "SHA": "8aed4ed2",
+              "Subject": "Add ReconcileState as receiver from Reconcile (#47)"
+            },
+            {
+              "SHA": "258b140f",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#46)"
+            },
+            {
+              "SHA": "04989850",
+              "Subject": "Fix Auth-Secret Name (#45)"
+            },
+            {
+              "SHA": "108a5495",
+              "Subject": "Use debian:12 base image (#44)"
+            },
+            {
+              "SHA": "f275c44a",
+              "Subject": "Add TLS for ZooKeeper (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "fff6c0a",
+              "Subject": "Prepare for release v0.5.0 (#21)"
+            },
+            {
+              "SHA": "eba9823",
+              "Subject": "Use debian:12 base image (#20)"
+            },
+            {
+              "SHA": "18c68cd",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#19)"
+            },
+            {
+              "SHA": "e5240ed",
+              "Subject": "Use debian:12 base image (#18)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

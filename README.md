@@ -2,7 +2,7 @@
 
 | KubeDB Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
-| [v2024.11.18](https:/github.com/kubedb/CHANGELOG/releases/tag/v2024.11.18) | 2024-11-19 | [User Guide](https://kubedb.com/docs/v2024.11.18) | [CHANGELOG](/releases/v2024.11.18/README.md) | 1.26+ |
+| [v2024.11.18](https:/github.com/kubedb/CHANGELOG/releases/tag/v2024.11.18) | 2024-11-20 | [User Guide](https://kubedb.com/docs/v2024.11.18) | [CHANGELOG](/releases/v2024.11.18/README.md) | 1.26+ |
 | [v2024.11.8-rc.0](https:/github.com/kubedb/CHANGELOG/releases/tag/v2024.11.8-rc.0) | 2024-11-09 | [User Guide](https://kubedb.com/docs/v2024.11.8-rc.0) | [CHANGELOG](/releases/v2024.11.8-rc.0/README.md) | 1.26+ |
 | [v2024.9.30](https:/github.com/kubedb/CHANGELOG/releases/tag/v2024.9.30) | 2024-09-27 | [User Guide](https://kubedb.com/docs/v2024.9.30) | [CHANGELOG](/releases/v2024.9.30/README.md) | 1.26+ |
 | [v2024.8.21](https:/github.com/kubedb/CHANGELOG/releases/tag/v2024.8.21) | 2024-08-22 | [User Guide](https://kubedb.com/docs/v2024.8.21) | [CHANGELOG](/releases/v2024.8.21/README.md) | 1.20+ |

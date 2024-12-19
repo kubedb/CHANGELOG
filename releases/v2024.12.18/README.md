@@ -31,3 +31,12 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.5.0](https://github.com/kubedb/db-client-go/releases/tag/v0.5.0)
+
+- [d6abb5b9](https://github.com/kubedb/db-client-go/commit/d6abb5b9) Prepare for release v0.5.0 (#154)
+- [61b1dcbb](https://github.com/kubedb/db-client-go/commit/61b1dcbb) Return amqp channel with RabbitMQ client (#153)
+
+
+

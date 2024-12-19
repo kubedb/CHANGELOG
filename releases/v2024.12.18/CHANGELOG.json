@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:27:14.540964664Z",
+  "release_date": "2024-12-19T19:35:02.714815084Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -103,6 +103,24 @@
             {
               "SHA": "6ec77631d",
               "Subject": "Add ExtractDatabaseInfo Func for Cassandra (#1351)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "d6abb5b9",
+              "Subject": "Prepare for release v0.5.0 (#154)"
+            },
+            {
+              "SHA": "61b1dcbb",
+              "Subject": "Return amqp channel with RabbitMQ client (#153)"
             }
           ]
         }

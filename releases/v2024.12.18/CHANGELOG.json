@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:55:50.392648535Z",
+  "release_date": "2024-12-19T19:56:40.245050675Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -346,6 +346,24 @@
             {
               "SHA": "1c679aac3",
               "Subject": "Add Support for Rotate Auth  (#385)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "c05b8ff9",
+              "Subject": "Prepare for release v0.34.0 (#179)"
+            },
+            {
+              "SHA": "04b387c5",
+              "Subject": "Update LSN position in raft continuously  (#178)"
             }
           ]
         }

@@ -146,6 +146,15 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.34.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.34.0)
+
+- [c05b8ff9](https://github.com/kubedb/pg-coordinator/commit/c05b8ff9) Prepare for release v0.34.0 (#179)
+- [04b387c5](https://github.com/kubedb/pg-coordinator/commit/04b387c5) Update LSN position in raft continuously  (#178)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.5.0](https://github.com/kubedb/pgpool/releases/tag/v0.5.0)

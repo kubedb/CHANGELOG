@@ -146,6 +146,14 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.5.0](https://github.com/kubedb/pgpool/releases/tag/v0.5.0)
+
+- [258de2d9](https://github.com/kubedb/pgpool/commit/258de2d9) Prepare for release v0.5.0 (#54)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.50.0](https://github.com/kubedb/postgres/releases/tag/v0.50.0)

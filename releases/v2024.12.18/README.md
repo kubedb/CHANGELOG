@@ -122,6 +122,20 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.43.0](https://github.com/kubedb/mysql/releases/tag/v0.43.0)
+
+- [f825bfbc](https://github.com/kubedb/mysql/commit/f825bfbc6) Prepare for release v0.43.0 (#657)
+- [c5c16712](https://github.com/kubedb/mysql/commit/c5c167123) Stop checking archiver allowness if ref given
+- [c5b77115](https://github.com/kubedb/mysql/commit/c5b771157) Add Increamental Snapshot (#656)
+- [f0234d44](https://github.com/kubedb/mysql/commit/f0234d449) Update CI for Daily Test (#655)
+- [9eceaab8](https://github.com/kubedb/mysql/commit/9eceaab8a) Set PITR_RESTORE env to InitContainer (#654)
+- [7ed83cc1](https://github.com/kubedb/mysql/commit/7ed83cc11) Add XtraBackup Base Backup Support for Archiver (#647)
+- [e2bb04af](https://github.com/kubedb/mysql/commit/e2bb04afd) Use different labels for sidekick (#652)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.28.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.28.0)

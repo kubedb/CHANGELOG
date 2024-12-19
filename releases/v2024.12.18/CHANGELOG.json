@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:56:40.245050675Z",
+  "release_date": "2024-12-19T19:57:33.984131396Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -305,6 +305,44 @@
             {
               "SHA": "bc4c5a9",
               "Subject": "Update log push start/end time in incremental snapshot (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "f825bfbc6",
+              "Subject": "Prepare for release v0.43.0 (#657)"
+            },
+            {
+              "SHA": "c5c167123",
+              "Subject": "Stop checking archiver allowness if ref given"
+            },
+            {
+              "SHA": "c5b771157",
+              "Subject": "Add Increamental Snapshot (#656)"
+            },
+            {
+              "SHA": "f0234d449",
+              "Subject": "Update CI for Daily Test (#655)"
+            },
+            {
+              "SHA": "9eceaab8a",
+              "Subject": "Set PITR_RESTORE env to InitContainer (#654)"
+            },
+            {
+              "SHA": "7ed83cc11",
+              "Subject": "Add XtraBackup Base Backup Support for Archiver (#647)"
+            },
+            {
+              "SHA": "e2bb04afd",
+              "Subject": "Use different labels for sidekick (#652)"
             }
           ]
         }

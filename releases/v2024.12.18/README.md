@@ -59,6 +59,18 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.34.0](https://github.com/kubedb/mariadb/releases/tag/v0.34.0)
+
+- [b0d77276](https://github.com/kubedb/mariadb/commit/b0d77276d) Prepare for release v0.34.0 (#299)
+- [6c3d91ef](https://github.com/kubedb/mariadb/commit/6c3d91efc) Stop checking archiver allowness if ref given (#298)
+- [c8213ab5](https://github.com/kubedb/mariadb/commit/c8213ab58) Add Increamental Snapshot (#297)
+- [d4e04a2a](https://github.com/kubedb/mariadb/commit/d4e04a2a2) Use different labels for sidekick (#293)
+- [dbda72bb](https://github.com/kubedb/mariadb/commit/dbda72bb3) Add Support for Rotate Auth  (#292)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.11.0)

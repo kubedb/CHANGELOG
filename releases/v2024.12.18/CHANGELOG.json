@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:52:54.551094326Z",
+  "release_date": "2024-12-19T19:53:34.811663269Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -161,6 +161,36 @@
             {
               "SHA": "039004a7",
               "Subject": "Fix Druid active-from Annotation check in Auth Secret (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "b0d77276d",
+              "Subject": "Prepare for release v0.34.0 (#299)"
+            },
+            {
+              "SHA": "6c3d91efc",
+              "Subject": "Stop checking archiver allowness if ref given (#298)"
+            },
+            {
+              "SHA": "c8213ab58",
+              "Subject": "Add Increamental Snapshot (#297)"
+            },
+            {
+              "SHA": "d4e04a2a2",
+              "Subject": "Use different labels for sidekick (#293)"
+            },
+            {
+              "SHA": "dbda72bb3",
+              "Subject": "Add Support for Rotate Auth  (#292)"
             }
           ]
         }

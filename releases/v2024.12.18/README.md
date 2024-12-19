@@ -59,6 +59,18 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.21.0](https://github.com/kubedb/kafka/releases/tag/v0.21.0)
+
+- [f07497c0](https://github.com/kubedb/kafka/commit/f07497c0) Prepare for release v0.21.0 (#126)
+- [a4216f60](https://github.com/kubedb/kafka/commit/a4216f60) Fix .spec.authSecret Patch overriding user provided rotateAfter (#125)
+- [d65a2fff](https://github.com/kubedb/kafka/commit/d65a2fff) Update configuration for new version and improve logs (#123)
+- [f0762832](https://github.com/kubedb/kafka/commit/f0762832) Fix kafka connector deletion panic (#122)
+- [01081fc9](https://github.com/kubedb/kafka/commit/01081fc9) Update auth active from annotations (#121)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.34.0](https://github.com/kubedb/mariadb/releases/tag/v0.34.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:54:51.653458396Z",
+  "release_date": "2024-12-19T19:55:26.935582816Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -161,6 +161,36 @@
             {
               "SHA": "039004a7",
               "Subject": "Fix Druid active-from Annotation check in Auth Secret (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "f07497c0",
+              "Subject": "Prepare for release v0.21.0 (#126)"
+            },
+            {
+              "SHA": "a4216f60",
+              "Subject": "Fix .spec.authSecret Patch overriding user provided rotateAfter (#125)"
+            },
+            {
+              "SHA": "d65a2fff",
+              "Subject": "Update configuration for new version and improve logs (#123)"
+            },
+            {
+              "SHA": "f0762832",
+              "Subject": "Fix kafka connector deletion panic (#122)"
+            },
+            {
+              "SHA": "01081fc9",
+              "Subject": "Update auth active from annotations (#121)"
             }
           ]
         }

@@ -71,6 +71,19 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.43.0](https://github.com/kubedb/mongodb/releases/tag/v0.43.0)
+
+- [2c7aeb18](https://github.com/kubedb/mongodb/commit/2c7aeb186) Prepare for release v0.43.0 (#673)
+- [c7aa9063](https://github.com/kubedb/mongodb/commit/c7aa90638) update snapshot comps phase to succeed before database and arch deletion (#672)
+- [e751b02a](https://github.com/kubedb/mongodb/commit/e751b02af) pass inc. snapshot limit as args to wal-g (#671)
+- [9f301c9c](https://github.com/kubedb/mongodb/commit/9f301c9c7) fix auth secret panic in mongodb archiver manifest restore (#669)
+- [44777c86](https://github.com/kubedb/mongodb/commit/44777c86a) Use different labels for sidekick (#668)
+- [d69f0f40](https://github.com/kubedb/mongodb/commit/d69f0f405) update `AuthActiveFromAnnotation` const in secret (#667)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.11.0)

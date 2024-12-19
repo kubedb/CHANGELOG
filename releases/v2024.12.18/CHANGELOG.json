@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:53:34.811663269Z",
+  "release_date": "2024-12-19T19:53:58.898522712Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -191,6 +191,40 @@
             {
               "SHA": "dbda72bb3",
               "Subject": "Add Support for Rotate Auth  (#292)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "2c7aeb186",
+              "Subject": "Prepare for release v0.43.0 (#673)"
+            },
+            {
+              "SHA": "c7aa90638",
+              "Subject": "update snapshot comps phase to succeed before database and arch deletion (#672)"
+            },
+            {
+              "SHA": "e751b02af",
+              "Subject": "pass inc. snapshot limit as args to wal-g (#671)"
+            },
+            {
+              "SHA": "9f301c9c7",
+              "Subject": "fix auth secret panic in mongodb archiver manifest restore (#669)"
+            },
+            {
+              "SHA": "44777c86a",
+              "Subject": "Use different labels for sidekick (#668)"
+            },
+            {
+              "SHA": "d69f0f405",
+              "Subject": "update `AuthActiveFromAnnotation` const in secret (#667)"
             }
           ]
         }

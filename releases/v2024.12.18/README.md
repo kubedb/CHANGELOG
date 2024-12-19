@@ -48,6 +48,16 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.4.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.4.0)
+
+- [a2ce047](https://github.com/kubedb/mssqlserver-archiver/commit/a2ce047) Update deps (#7)
+- [503c917](https://github.com/kubedb/mssqlserver-archiver/commit/503c917) Update wal-g to v2024.12.18 (#6)
+- [bc4c5a9](https://github.com/kubedb/mssqlserver-archiver/commit/bc4c5a9) Update log push start/end time in incremental snapshot (#5)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.28.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.28.0)

@@ -87,6 +87,14 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.29.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.29.0)
+
+- [f2264e1e](https://github.com/kubedb/redis-coordinator/commit/f2264e1e) Prepare for release v0.29.0 (#116)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.6.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:54:30.687318713Z",
+  "release_date": "2024-12-19T19:54:51.653458396Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -286,6 +286,24 @@
         {
           "tag": "v0.28.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "2eaf102ae",
+              "Subject": "Prepare for release v0.37.0 (#387)"
+            },
+            {
+              "SHA": "1c679aac3",
+              "Subject": "Add Support for Rotate Auth  (#385)"
+            }
+          ]
         }
       ]
     },

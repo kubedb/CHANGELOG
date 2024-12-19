@@ -117,6 +117,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.37.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.37.0)
+
+- [2eaf102a](https://github.com/kubedb/percona-xtradb/commit/2eaf102ae) Prepare for release v0.37.0 (#387)
+- [1c679aac](https://github.com/kubedb/percona-xtradb/commit/1c679aac3) Add Support for Rotate Auth  (#385)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.50.0](https://github.com/kubedb/postgres/releases/tag/v0.50.0)

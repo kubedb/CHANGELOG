@@ -84,6 +84,21 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.50.0](https://github.com/kubedb/postgres/releases/tag/v0.50.0)
+
+- [cdd642cf](https://github.com/kubedb/postgres/commit/cdd642cf1) Prepare for release v0.50.0 (#778)
+- [213338de](https://github.com/kubedb/postgres/commit/213338dea) Add support for pitr restore to the latest point (#776)
+- [d5b49d54](https://github.com/kubedb/postgres/commit/d5b49d544) Only use patch call when patching active from annotations (#777)
+- [49471781](https://github.com/kubedb/postgres/commit/494717817) Add User in manifest restore (#774)
+- [37a0cbba](https://github.com/kubedb/postgres/commit/37a0cbba6) Fix Daily (#769)
+- [686c6240](https://github.com/kubedb/postgres/commit/686c62408) Use different labels for sidekick (#773)
+- [3213e090](https://github.com/kubedb/postgres/commit/3213e0902) Update rotate auth annotation (#772)
+- [99cb90f1](https://github.com/kubedb/postgres/commit/99cb90f17) Fix Archiver for Minio Backend (#771)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.12.0](https://github.com/kubedb/provider-aws/releases/tag/v0.12.0)

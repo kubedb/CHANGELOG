@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:52:03.463753352Z",
+  "release_date": "2024-12-19T19:52:54.551094326Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -208,6 +208,48 @@
         {
           "tag": "v0.28.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "cdd642cf1",
+              "Subject": "Prepare for release v0.50.0 (#778)"
+            },
+            {
+              "SHA": "213338dea",
+              "Subject": "Add support for pitr restore to the latest point (#776)"
+            },
+            {
+              "SHA": "d5b49d544",
+              "Subject": "Only use patch call when patching active from annotations (#777)"
+            },
+            {
+              "SHA": "494717817",
+              "Subject": "Add User in manifest restore (#774)"
+            },
+            {
+              "SHA": "37a0cbba6",
+              "Subject": "Fix Daily (#769)"
+            },
+            {
+              "SHA": "686c62408",
+              "Subject": "Use different labels for sidekick (#773)"
+            },
+            {
+              "SHA": "3213e0902",
+              "Subject": "Update rotate auth annotation (#772)"
+            },
+            {
+              "SHA": "99cb90f17",
+              "Subject": "Fix Archiver for Minio Backend (#771)"
+            }
+          ]
         }
       ]
     },

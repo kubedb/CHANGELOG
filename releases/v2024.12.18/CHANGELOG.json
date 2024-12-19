@@ -1,0 +1,112 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2024.12.18",
+  "release_date": "2024-12-19T19:27:14.540964664Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2024.12.18",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "34e3d3f1f",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "61e95e454",
+              "Subject": "Add available database list in connection (#1371)"
+            },
+            {
+              "SHA": "e9eda10ca",
+              "Subject": "Fix availabilityGroup panic; Set defults to logBackupOptions (#1370)"
+            },
+            {
+              "SHA": "a471a5b03",
+              "Subject": "Update RabitMQ Constants (#1365)"
+            },
+            {
+              "SHA": "e677abc2b",
+              "Subject": "Add WAl backup failed and success history limit field (#1368)"
+            },
+            {
+              "SHA": "d35054f53",
+              "Subject": "Add opensearch rotateauth constants (#1369)"
+            },
+            {
+              "SHA": "52bb83407",
+              "Subject": "Fix RabbitMQ Default Authsecret name (#1367)"
+            },
+            {
+              "SHA": "886ff3903",
+              "Subject": "Add kafka controller quorum constant (#1366)"
+            },
+            {
+              "SHA": "f9bb8f9d8",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "90dd367e0",
+              "Subject": "add remote to group replication ops request (#1359)"
+            },
+            {
+              "SHA": "fb7e8ddf6",
+              "Subject": "Remove redundant database phase (#1358)"
+            },
+            {
+              "SHA": "5c754b01e",
+              "Subject": "Set Default Postgres StandbyMode (#1364)"
+            },
+            {
+              "SHA": "97a0eb7c1",
+              "Subject": "Add const for ES Master node shard allocation disabling (#1361)"
+            },
+            {
+              "SHA": "9ab2b7bdd",
+              "Subject": "Add AutoOps for Kafka (#1362)"
+            },
+            {
+              "SHA": "cac99cb95",
+              "Subject": "Update for release KubeStash@v2024.12.9 (#1360)"
+            },
+            {
+              "SHA": "392b6fe3e",
+              "Subject": "Add ReplicationStrategy Default Value for MySQL (#1356)"
+            },
+            {
+              "SHA": "2198d9109",
+              "Subject": "Add helpers to use different labels in sidekick (#1357)"
+            },
+            {
+              "SHA": "cfbad6a2d",
+              "Subject": "Add Memcahced Authentication Constant (#1355)"
+            },
+            {
+              "SHA": "5c29840da",
+              "Subject": "Add archiver contants (#1352)"
+            },
+            {
+              "SHA": "d61bcdd70",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "074821090",
+              "Subject": "Update sidekick"
+            },
+            {
+              "SHA": "1e6df9713",
+              "Subject": "Rename auth-active-from annotation (#1354)"
+            },
+            {
+              "SHA": "6ec77631d",
+              "Subject": "Add ExtractDatabaseInfo Func for Cassandra (#1351)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

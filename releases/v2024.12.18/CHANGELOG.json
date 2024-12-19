@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:49:57.377185135Z",
+  "release_date": "2024-12-19T19:52:03.463753352Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -135,6 +135,32 @@
             {
               "SHA": "61b1dcbb",
               "Subject": "Return amqp channel with RabbitMQ client (#153)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "0504c4f6",
+              "Subject": "Prepare for release v0.5.0 (#64)"
+            },
+            {
+              "SHA": "498b668c",
+              "Subject": "Use `DatabasePhase` instead of `DruidPhase` (#63)"
+            },
+            {
+              "SHA": "678142c7",
+              "Subject": "Update `AuthActiveFromAnnotation` const (#62)"
+            },
+            {
+              "SHA": "039004a7",
+              "Subject": "Fix Druid active-from Annotation check in Auth Secret (#61)"
             }
           ]
         }

@@ -48,6 +48,17 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.5.0](https://github.com/kubedb/druid/releases/tag/v0.5.0)
+
+- [0504c4f6](https://github.com/kubedb/druid/commit/0504c4f6) Prepare for release v0.5.0 (#64)
+- [498b668c](https://github.com/kubedb/druid/commit/498b668c) Use `DatabasePhase` instead of `DruidPhase` (#63)
+- [678142c7](https://github.com/kubedb/druid/commit/678142c7) Update `AuthActiveFromAnnotation` const (#62)
+- [039004a7](https://github.com/kubedb/druid/commit/039004a7) Fix Druid active-from Annotation check in Auth Secret (#61)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.11.0)

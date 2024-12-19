@@ -59,6 +59,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.50.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.50.0)
+
+- [b616d048](https://github.com/kubedb/elasticsearch/commit/b616d0488) Prepare for release v0.50.0 (#744)
+- [21a3fb0f](https://github.com/kubedb/elasticsearch/commit/21a3fb0ff) Add method to get internal config for opensearch (#743)
+- [c1e9afd3](https://github.com/kubedb/elasticsearch/commit/c1e9afd34) Updated annotation name (#742)
+- [f302a147](https://github.com/kubedb/elasticsearch/commit/f302a1479) Remove old statefulset (#741)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.21.0](https://github.com/kubedb/kafka/releases/tag/v0.21.0)

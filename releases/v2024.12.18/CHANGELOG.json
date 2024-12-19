@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:57:33.984131396Z",
+  "release_date": "2024-12-19T19:58:10.135540193Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -161,6 +161,32 @@
             {
               "SHA": "039004a7",
               "Subject": "Fix Druid active-from Annotation check in Auth Secret (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "b616d0488",
+              "Subject": "Prepare for release v0.50.0 (#744)"
+            },
+            {
+              "SHA": "21a3fb0ff",
+              "Subject": "Add method to get internal config for opensearch (#743)"
+            },
+            {
+              "SHA": "c1e9afd34",
+              "Subject": "Updated annotation name (#742)"
+            },
+            {
+              "SHA": "f302a1479",
+              "Subject": "Remove old statefulset (#741)"
             }
           ]
         }

@@ -39,6 +39,14 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.5.0](https://github.com/kubedb/crd-manager/releases/tag/v0.5.0)
+
+- [debe8b5f](https://github.com/kubedb/crd-manager/commit/debe8b5f) Prepare for release v0.5.0 (#57)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.8.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.8.0)

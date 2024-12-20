@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:40:47.712543714Z",
+  "release_date": "2024-12-20T04:50:34.347271233Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -471,6 +471,24 @@
             {
               "SHA": "1a813ed",
               "Subject": "Prepare for release v0.13.0 (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "80570f6a",
+              "Subject": "Prepare for release v0.5.0 (#23)"
+            },
+            {
+              "SHA": "3c1d7695",
+              "Subject": "Update the database object at the beginning of each iteration (#22)"
             }
           ]
         }

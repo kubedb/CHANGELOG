@@ -213,6 +213,15 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.5.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.5.0)
+
+- [80570f6a](https://github.com/kubedb/mssql-coordinator/commit/80570f6a) Prepare for release v0.5.0 (#23)
+- [3c1d7695](https://github.com/kubedb/mssql-coordinator/commit/3c1d7695) Update the database object at the beginning of each iteration (#22)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.5.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.5.0)

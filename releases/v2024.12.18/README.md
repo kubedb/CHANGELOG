@@ -86,6 +86,14 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.5.0](https://github.com/kubedb/ferretdb/releases/tag/v0.5.0)
+
+- [d25c38ce](https://github.com/kubedb/ferretdb/commit/d25c38ce) Prepare for release v0.5.0 (#53)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.21.0](https://github.com/kubedb/kafka/releases/tag/v0.21.0)

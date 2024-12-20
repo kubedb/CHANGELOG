@@ -181,6 +181,19 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.5.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.5.0)
+
+- [d584daa9](https://github.com/kubedb/mssqlserver/commit/d584daa9) Prepare for release v0.5.0 (#49)
+- [ff81045d](https://github.com/kubedb/mssqlserver/commit/ff81045d) Add incremental snapshot feature for last log archive time  (#48)
+- [72c4eee5](https://github.com/kubedb/mssqlserver/commit/72c4eee5) Add RotateAuth related changes (#42)
+- [492a76e3](https://github.com/kubedb/mssqlserver/commit/492a76e3) Use different labels for sidekick (#44)
+- [f2b6e388](https://github.com/kubedb/mssqlserver/commit/f2b6e388) Use Archiver constants from apimachinery (#41)
+- [80259ceb](https://github.com/kubedb/mssqlserver/commit/80259ceb) Fix Availability Group Databases adding log (#43)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.4.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.4.0)

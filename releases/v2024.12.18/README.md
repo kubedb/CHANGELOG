@@ -270,6 +270,14 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.13.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.13.0)
+
+- [da314e7](https://github.com/kubedb/mysql-restic-plugin/commit/da314e7) Prepare for release v0.13.0 (#63)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.28.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.28.0)

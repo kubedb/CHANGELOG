@@ -250,6 +250,15 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.11.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.11.0)
+
+- [0dad487](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/0dad487) Prepare for release v0.11.0 (#36)
+- [111ada4](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/111ada4) Add Support for Standalone (#35)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.28.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.28.0)

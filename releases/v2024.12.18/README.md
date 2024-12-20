@@ -31,6 +31,14 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.3.0](https://github.com/kubedb/cassandra/releases/tag/v0.3.0)
+
+- [f9865ce8](https://github.com/kubedb/cassandra/commit/f9865ce8) Prepare for release v0.3.0 (#13)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.50.0](https://github.com/kubedb/cli/releases/tag/v0.50.0)

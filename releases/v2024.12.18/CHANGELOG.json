@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:40:30.254372037Z",
+  "release_date": "2024-12-20T04:40:47.712543714Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -103,6 +103,20 @@
             {
               "SHA": "6ec77631d",
               "Subject": "Add ExtractDatabaseInfo Func for Cassandra (#1351)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "f9865ce8",
+              "Subject": "Prepare for release v0.3.0 (#13)"
             }
           ]
         }

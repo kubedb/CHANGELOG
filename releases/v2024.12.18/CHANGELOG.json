@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:36:54.618756975Z",
+  "release_date": "2024-12-20T04:37:01.865125276Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -730,6 +730,20 @@
             {
               "SHA": "f2264e1e",
               "Subject": "Prepare for release v0.29.0 (#116)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "9421cbe6",
+              "Subject": "Prepare for release v0.37.0 (#282)"
             }
           ]
         }

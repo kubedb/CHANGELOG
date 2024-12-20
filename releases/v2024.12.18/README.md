@@ -374,6 +374,19 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.5.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.5.0)
+
+- [88965dca](https://github.com/kubedb/rabbitmq/commit/88965dca) Prepare for release v0.5.0 (#60)
+- [199afd73](https://github.com/kubedb/rabbitmq/commit/199afd73) Add support for RabbitMQ v4.x.x (#59)
+- [4ab000f8](https://github.com/kubedb/rabbitmq/commit/4ab000f8) Use Single channel for health checking and Update logger (#58)
+- [ac0c09a0](https://github.com/kubedb/rabbitmq/commit/ac0c09a0) Use `DatabasePhase` instead of `RabbitMQPhase` (#57)
+- [c2124756](https://github.com/kubedb/rabbitmq/commit/c2124756) Fix configSecret patch issue due to unsorted configs (#56)
+- [94584794](https://github.com/kubedb/rabbitmq/commit/94584794) Add Daily test CI (#55)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.43.0](https://github.com/kubedb/redis/releases/tag/v0.43.0)

@@ -399,6 +399,14 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.37.0](https://github.com/kubedb/proxysql/releases/tag/v0.37.0)
+
+- [8a1f6058](https://github.com/kubedb/proxysql/commit/8a1f6058b) Prepare for release v0.37.0 (#369)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.5.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.5.0)

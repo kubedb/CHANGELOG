@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:38:32.293182715Z",
+  "release_date": "2024-12-20T04:39:08.17318951Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -972,6 +972,20 @@
             {
               "SHA": "3bf65c00",
               "Subject": "Add Postgres TLS enabled(md5) part for TerminationPolicy (#411)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "ae4d951c",
+              "Subject": "Prepare for release v0.5.0 (#52)"
             }
           ]
         }

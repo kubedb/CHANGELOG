@@ -318,6 +318,20 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.37.0](https://github.com/kubedb/ops-manager/releases/tag/v0.37.0)
+
+- [626de627](https://github.com/kubedb/ops-manager/commit/626de6273) Prepare for release v0.37.0 (#692)
+- [4f6c6473](https://github.com/kubedb/ops-manager/commit/4f6c6473f) Fix postgres version upgrade, reconfigure, reconfigure tls (#684)
+- [6a9280e5](https://github.com/kubedb/ops-manager/commit/6a9280e56) Fix opensearch rotateauth issue (#690)
+- [a1fcd3a7](https://github.com/kubedb/ops-manager/commit/a1fcd3a7b) Add RotateAuth ops request for mssqlserver (#673)
+- [c739da4f](https://github.com/kubedb/ops-manager/commit/c739da4f4) Fix Semi Sync SQL syntax for v8.4.2 (#689)
+- [fae25715](https://github.com/kubedb/ops-manager/commit/fae257156) Add MySQL Replication Mode Transformation Ops-request (#686)
+- [9105a353](https://github.com/kubedb/ops-manager/commit/9105a353f) Fix RabbitMQ and Druid phase const (#688)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.37.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.37.0)

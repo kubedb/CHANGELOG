@@ -292,6 +292,15 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.5.0](https://github.com/kubedb/solr/releases/tag/v0.5.0)
+
+- [b20a5a32](https://github.com/kubedb/solr/commit/b20a5a32) Prepare for release v0.5.0 (#61)
+- [6d2fce5c](https://github.com/kubedb/solr/commit/6d2fce5c) Update annotation name (#60)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.6.0)

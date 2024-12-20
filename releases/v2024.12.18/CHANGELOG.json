@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:34:25.676386752Z",
+  "release_date": "2024-12-20T04:34:55.832097854Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -590,6 +590,20 @@
             {
               "SHA": "99cb90f17",
               "Subject": "Fix Archiver for Minio Backend (#771)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "757d2fb",
+              "Subject": "Prepare for release v0.13.0 (#58)"
             }
           ]
         }

@@ -300,6 +300,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.5.0](https://github.com/kubedb/singlestore/releases/tag/v0.5.0)
+
+- [caf5065b](https://github.com/kubedb/singlestore/commit/caf5065b) Prepare for release v0.5.0 (#54)
+- [f9edc334](https://github.com/kubedb/singlestore/commit/f9edc334) Update Auth Secret Name (#53)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.5.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.5.0)

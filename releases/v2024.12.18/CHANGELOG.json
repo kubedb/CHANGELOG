@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:34:55.832097854Z",
+  "release_date": "2024-12-20T04:35:04.839809278Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -654,6 +654,24 @@
             {
               "SHA": "f2264e1e",
               "Subject": "Prepare for release v0.29.0 (#116)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "caf5065b",
+              "Subject": "Prepare for release v0.5.0 (#54)"
+            },
+            {
+              "SHA": "f9edc334",
+              "Subject": "Update Auth Secret Name (#53)"
             }
           ]
         }

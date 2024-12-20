@@ -336,6 +336,14 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.37.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.37.0)
+
+- [a5139b71](https://github.com/kubedb/pgbouncer/commit/a5139b71) Prepare for release v0.37.0 (#353)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.5.0](https://github.com/kubedb/pgpool/releases/tag/v0.5.0)

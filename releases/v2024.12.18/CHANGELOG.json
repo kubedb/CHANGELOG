@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T05:57:15.115777523Z",
+  "release_date": "2024-12-20T05:57:41.675015739Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -728,6 +728,20 @@
             {
               "SHA": "04b387c5",
               "Subject": "Update LSN position in raft continuously  (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "a5139b71",
+              "Subject": "Prepare for release v0.37.0 (#353)"
             }
           ]
         }

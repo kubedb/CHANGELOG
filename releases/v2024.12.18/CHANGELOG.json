@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:37:59.349344392Z",
+  "release_date": "2024-12-20T04:38:18.071034687Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -551,6 +551,32 @@
             {
               "SHA": "e2bb04afd",
               "Subject": "Use different labels for sidekick (#652)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "5e43ade5",
+              "Subject": "Prepare for release v0.11.0 (#47)"
+            },
+            {
+              "SHA": "3e469aa5",
+              "Subject": "Update wal-g to v2024.12.18 (#46)"
+            },
+            {
+              "SHA": "d8e596e7",
+              "Subject": "Update Binlog Push Time to Snapshot (#45)"
+            },
+            {
+              "SHA": "0bd79d60",
+              "Subject": "Add XtraBackup Base Backup Support for Archiver (#42)"
             }
           ]
         }

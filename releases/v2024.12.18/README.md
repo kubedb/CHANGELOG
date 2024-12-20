@@ -242,6 +242,17 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.11.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.11.0)
+
+- [5e43ade5](https://github.com/kubedb/mysql-archiver/commit/5e43ade5) Prepare for release v0.11.0 (#47)
+- [3e469aa5](https://github.com/kubedb/mysql-archiver/commit/3e469aa5) Update wal-g to v2024.12.18 (#46)
+- [d8e596e7](https://github.com/kubedb/mysql-archiver/commit/d8e596e7) Update Binlog Push Time to Snapshot (#45)
+- [0bd79d60](https://github.com/kubedb/mysql-archiver/commit/0bd79d60) Add XtraBackup Base Backup Support for Archiver (#42)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.28.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.28.0)

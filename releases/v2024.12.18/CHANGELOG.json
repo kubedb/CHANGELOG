@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T05:58:19.972981891Z",
+  "release_date": "2024-12-20T06:22:21.503974091Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -1122,6 +1122,24 @@
             {
               "SHA": "3bf65c00",
               "Subject": "Add Postgres TLS enabled(md5) part for TerminationPolicy (#411)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "0fc8de68",
+              "Subject": "Prepare for release v0.26.0 (#142)"
+            },
+            {
+              "SHA": "92a52ad9",
+              "Subject": "Set available database list for connection (#141)"
             }
           ]
         }

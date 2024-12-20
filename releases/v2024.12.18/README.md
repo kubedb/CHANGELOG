@@ -525,6 +525,15 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.26.0](https://github.com/kubedb/ui-server/releases/tag/v0.26.0)
+
+- [0fc8de68](https://github.com/kubedb/ui-server/commit/0fc8de68) Prepare for release v0.26.0 (#142)
+- [92a52ad9](https://github.com/kubedb/ui-server/commit/92a52ad9) Set available database list for connection (#141)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.5.0](https://github.com/kubedb/zookeeper/releases/tag/v0.5.0)

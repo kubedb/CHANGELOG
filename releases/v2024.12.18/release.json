@@ -49,6 +49,9 @@
       "github.com/kubedb/kubedb-manifest-plugin": {
         "tag": "v0.13.0"
       },
+      "github.com/kubedb/kubedb-verifier": {
+        "tag": "v0.1.0"
+      },
       "github.com/kubedb/mariadb": {
         "tag": "v0.34.0"
       },

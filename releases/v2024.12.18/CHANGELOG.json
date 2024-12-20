@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T11:38:47.714174026Z",
+  "release_date": "2024-12-20T11:58:27.689919681Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -205,6 +205,44 @@
             {
               "SHA": "61b1dcbb",
               "Subject": "Return amqp channel with RabbitMQ client (#153)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2024.12.18",
+          "commits": [
+            {
+              "SHA": "99118c03",
+              "Subject": "Prepare for release v2024.12.18 (#727)"
+            },
+            {
+              "SHA": "4c26ec47",
+              "Subject": "Update docs for kubedb/provisioner@a3014bcd (#726)"
+            },
+            {
+              "SHA": "42e87878",
+              "Subject": "FerretDB Complete Doc (#696)"
+            },
+            {
+              "SHA": "7786905e",
+              "Subject": "Add Reconfigure, UpdateVersion, Reconfigure TLS for SQL Server (#714)"
+            },
+            {
+              "SHA": "6d67a6ef",
+              "Subject": "Add Complete PgBouncer Docs (#718)"
+            },
+            {
+              "SHA": "0440c8f3",
+              "Subject": "Add MySQL Archiver Restic Physical Backup/Restore Support (#724)"
+            },
+            {
+              "SHA": "b5bf2c4e",
+              "Subject": "Add solr docs (#715)"
             }
           ]
         }

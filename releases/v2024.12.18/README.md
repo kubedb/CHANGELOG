@@ -88,6 +88,20 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2024.12.18](https://github.com/kubedb/docs/releases/tag/v2024.12.18)
+
+- [99118c03](https://github.com/kubedb/docs/commit/99118c03) Prepare for release v2024.12.18 (#727)
+- [4c26ec47](https://github.com/kubedb/docs/commit/4c26ec47) Update docs for kubedb/provisioner@a3014bcd (#726)
+- [42e87878](https://github.com/kubedb/docs/commit/42e87878) FerretDB Complete Doc (#696)
+- [7786905e](https://github.com/kubedb/docs/commit/7786905e) Add Reconfigure, UpdateVersion, Reconfigure TLS for SQL Server (#714)
+- [6d67a6ef](https://github.com/kubedb/docs/commit/6d67a6ef) Add Complete PgBouncer Docs (#718)
+- [0440c8f3](https://github.com/kubedb/docs/commit/0440c8f3) Add MySQL Archiver Restic Physical Backup/Restore Support (#724)
+- [b5bf2c4e](https://github.com/kubedb/docs/commit/b5bf2c4e) Add solr docs (#715)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.5.0](https://github.com/kubedb/druid/releases/tag/v0.5.0)

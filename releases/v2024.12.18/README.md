@@ -326,6 +326,28 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.35.0](https://github.com/kubedb/tests/releases/tag/v0.35.0)
+
+- [59be12e0](https://github.com/kubedb/tests/commit/59be12e0) Prepare for release v0.35.0 (#424)
+- [12bd698c](https://github.com/kubedb/tests/commit/12bd698c) Fix MongoDB forbidden env variable panic (#394)
+- [1763ba5a](https://github.com/kubedb/tests/commit/1763ba5a) Add e2e-test for  MSSQL custom-config, env_var, health-check, generic changes (#405)
+- [0951fa8e](https://github.com/kubedb/tests/commit/0951fa8e) Add MongoDB Archiver Backup-Restore Test (replicaset, shard) (#387)
+- [ba878d7c](https://github.com/kubedb/tests/commit/ba878d7c) Add es test profile  fix (#410)
+- [433ca25b](https://github.com/kubedb/tests/commit/433ca25b) Add Mysql test profile Fix (#409)
+- [9547ab1a](https://github.com/kubedb/tests/commit/9547ab1a) cleanup issue fix for backup-restore tests (#421)
+- [47cba329](https://github.com/kubedb/tests/commit/47cba329) Add Druid version upgrade (#415)
+- [e3e7523c](https://github.com/kubedb/tests/commit/e3e7523c) Fix connect cluster deletion policy test (#419)
+- [ed10d935](https://github.com/kubedb/tests/commit/ed10d935) Druid reconfigure custom config (#418)
+- [1ea737fb](https://github.com/kubedb/tests/commit/1ea737fb) Add Druid Reconfigure TLS Test (#416)
+- [37e4ab1b](https://github.com/kubedb/tests/commit/37e4ab1b) Add RabbitMQ tests (#361)
+- [540ec432](https://github.com/kubedb/tests/commit/540ec432) Disable Pg Exporter test with ssl test when ssl is disabled (#414)
+- [44c197dc](https://github.com/kubedb/tests/commit/44c197dc) Make common function for SetEnvs, fix panic cases (MongoDB) (#417)
+- [3bf65c00](https://github.com/kubedb/tests/commit/3bf65c00) Add Postgres TLS enabled(md5) part for TerminationPolicy (#411)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.6.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.6.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:35:04.839809278Z",
+  "release_date": "2024-12-20T04:35:23.277558535Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -704,6 +704,76 @@
             {
               "SHA": "6d2fce5c",
               "Subject": "Update annotation name (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "59be12e0",
+              "Subject": "Prepare for release v0.35.0 (#424)"
+            },
+            {
+              "SHA": "12bd698c",
+              "Subject": "Fix MongoDB forbidden env variable panic (#394)"
+            },
+            {
+              "SHA": "1763ba5a",
+              "Subject": "Add e2e-test for  MSSQL custom-config, env_var, health-check, generic changes (#405)"
+            },
+            {
+              "SHA": "0951fa8e",
+              "Subject": "Add MongoDB Archiver Backup-Restore Test (replicaset, shard) (#387)"
+            },
+            {
+              "SHA": "ba878d7c",
+              "Subject": "Add es test profile  fix (#410)"
+            },
+            {
+              "SHA": "433ca25b",
+              "Subject": "Add Mysql test profile Fix (#409)"
+            },
+            {
+              "SHA": "9547ab1a",
+              "Subject": "cleanup issue fix for backup-restore tests (#421)"
+            },
+            {
+              "SHA": "47cba329",
+              "Subject": "Add Druid version upgrade (#415)"
+            },
+            {
+              "SHA": "e3e7523c",
+              "Subject": "Fix connect cluster deletion policy test (#419)"
+            },
+            {
+              "SHA": "ed10d935",
+              "Subject": "Druid reconfigure custom config (#418)"
+            },
+            {
+              "SHA": "1ea737fb",
+              "Subject": "Add Druid Reconfigure TLS Test (#416)"
+            },
+            {
+              "SHA": "37e4ab1b",
+              "Subject": "Add RabbitMQ tests (#361)"
+            },
+            {
+              "SHA": "540ec432",
+              "Subject": "Disable Pg Exporter test with ssl test when ssl is disabled (#414)"
+            },
+            {
+              "SHA": "44c197dc",
+              "Subject": "Make common function for SetEnvs, fix panic cases (MongoDB) (#417)"
+            },
+            {
+              "SHA": "3bf65c00",
+              "Subject": "Add Postgres TLS enabled(md5) part for TerminationPolicy (#411)"
             }
           ]
         }

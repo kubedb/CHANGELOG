@@ -191,6 +191,14 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.4.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.4.0)
+
+- [075fdbc](https://github.com/kubedb/mssqlserver-walg-plugin/commit/075fdbc) Prepare for release v0.4.0 (#11)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.43.0](https://github.com/kubedb/mysql/releases/tag/v0.43.0)

@@ -143,6 +143,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.43.0](https://github.com/kubedb/memcached/releases/tag/v0.43.0)
+
+- [05dd3217](https://github.com/kubedb/memcached/commit/05dd3217e) Prepare for release v0.43.0 (#476)
+- [6ce84f7b](https://github.com/kubedb/memcached/commit/6ce84f7bc) Add Rotate Auth Stuffs (#474)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.43.0](https://github.com/kubedb/mongodb/releases/tag/v0.43.0)

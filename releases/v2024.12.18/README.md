@@ -573,6 +573,15 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.26.0](https://github.com/kubedb/webhook-server/releases/tag/v0.26.0)
+
+- [aa70196e](https://github.com/kubedb/webhook-server/commit/aa70196e) Prepare for release v0.26.0 (#137)
+- [8d4cf8c8](https://github.com/kubedb/webhook-server/commit/8d4cf8c8) Remove go.sum
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.5.0](https://github.com/kubedb/zookeeper/releases/tag/v0.5.0)

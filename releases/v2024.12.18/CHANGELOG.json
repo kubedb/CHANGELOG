@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T07:36:58.278867663Z",
+  "release_date": "2024-12-20T08:35:31.746203104Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -1224,6 +1224,24 @@
             {
               "SHA": "92a52ad9",
               "Subject": "Set available database list for connection (#141)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "aa70196e",
+              "Subject": "Prepare for release v0.26.0 (#137)"
+            },
+            {
+              "SHA": "8d4cf8c8",
+              "Subject": "Remove go.sum"
             }
           ]
         }

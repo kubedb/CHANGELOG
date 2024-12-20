@@ -94,6 +94,14 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.30.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.30.0)
+
+- [449d50d8](https://github.com/kubedb/mariadb-coordinator/commit/449d50d8) Prepare for release v0.30.0 (#131)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.43.0](https://github.com/kubedb/mongodb/releases/tag/v0.43.0)

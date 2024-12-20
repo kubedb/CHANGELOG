@@ -261,6 +261,14 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.11.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.11.0)
+
+- [ebc6acf](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/ebc6acf) Prepare for release v0.11.0 (#44)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.13.0)

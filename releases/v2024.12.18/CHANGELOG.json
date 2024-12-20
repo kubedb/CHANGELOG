@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:35:23.277558535Z",
+  "release_date": "2024-12-20T04:35:51.111747733Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -590,6 +590,20 @@
             {
               "SHA": "99cb90f17",
               "Subject": "Fix Archiver for Minio Backend (#771)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "ebc6acf",
+              "Subject": "Prepare for release v0.11.0 (#44)"
             }
           ]
         }

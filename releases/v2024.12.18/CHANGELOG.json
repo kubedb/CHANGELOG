@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:37:01.865125276Z",
+  "release_date": "2024-12-20T04:37:07.238514421Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -652,6 +652,28 @@
             {
               "SHA": "99cb90f17",
               "Subject": "Fix Archiver for Minio Backend (#771)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "e105966d",
+              "Subject": "Prepare for release v0.11.0 (#45)"
+            },
+            {
+              "SHA": "7cf65461",
+              "Subject": "Update wal-g to v2024.12.18 (#44)"
+            },
+            {
+              "SHA": "2186a7fd",
+              "Subject": "Add last commit timestamp for pitr recovery (#43)"
             }
           ]
         }

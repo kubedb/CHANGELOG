@@ -290,6 +290,16 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.11.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.11.0)
+
+- [e105966d](https://github.com/kubedb/postgres-archiver/commit/e105966d) Prepare for release v0.11.0 (#45)
+- [7cf65461](https://github.com/kubedb/postgres-archiver/commit/7cf65461) Update wal-g to v2024.12.18 (#44)
+- [2186a7fd](https://github.com/kubedb/postgres-archiver/commit/2186a7fd) Add last commit timestamp for pitr recovery (#43)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.11.0)

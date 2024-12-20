@@ -1,4 +1,4 @@
-# KubeDB v2024.12.18 (2024-12-19)
+# KubeDB v2024.12.18 (2024-12-20)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -214,6 +214,15 @@
 
 ### [v0.12.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.12.0)
 
+
+
+
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.43.0](https://github.com/kubedb/redis/releases/tag/v0.43.0)
+
+- [e0e75e30](https://github.com/kubedb/redis/commit/e0e75e30a) Prepare for release v0.43.0 (#566)
+- [157bd04a](https://github.com/kubedb/redis/commit/157bd04a7) Improve log (#562)
 
 
 

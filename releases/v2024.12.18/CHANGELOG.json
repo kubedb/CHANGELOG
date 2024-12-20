@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-19T19:58:10.135540193Z",
+  "release_date": "2024-12-20T04:31:21.047740999Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -504,6 +504,24 @@
         {
           "tag": "v0.12.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "e0e75e30a",
+              "Subject": "Prepare for release v0.43.0 (#566)"
+            },
+            {
+              "SHA": "157bd04a7",
+              "Subject": "Improve log (#562)"
+            }
+          ]
         }
       ]
     },

@@ -126,6 +126,62 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2024.12.18](https://github.com/kubedb/installer/releases/tag/v2024.12.18)
+
+- [eccf9762](https://github.com/kubedb/installer/commit/eccf9762) Prepare for release v2024.12.18 (#1480)
+- [d7bae1ed](https://github.com/kubedb/installer/commit/d7bae1ed) Add MysQL 8.4.3 & 9.1.0 (#1477)
+- [4a14d08d](https://github.com/kubedb/installer/commit/4a14d08d) Update wal-g image for mongo (#1458)
+- [e5cda56a](https://github.com/kubedb/installer/commit/e5cda56a) Add mongo 8.0.4 (#1476)
+- [4c8df0a5](https://github.com/kubedb/installer/commit/4c8df0a5) Add kafka connector version (#1474)
+- [a6a9317c](https://github.com/kubedb/installer/commit/a6a9317c) Update cve report (#1473)
+- [ed4bca04](https://github.com/kubedb/installer/commit/ed4bca04) Use postgres init 0.17.0
+- [9f421c0b](https://github.com/kubedb/installer/commit/9f421c0b) Add druid version 31.0.0 (#1472)
+- [65a4fd96](https://github.com/kubedb/installer/commit/65a4fd96) Update crds for kubedb/apimachinery@e677abc2 (#1471)
+- [bd60d90c](https://github.com/kubedb/installer/commit/bd60d90c) Update init images for ES & OS (#1469)
+- [1e10e58c](https://github.com/kubedb/installer/commit/1e10e58c) Fix Kafka updateConstraints allowList (#1470)
+- [c3611296](https://github.com/kubedb/installer/commit/c3611296) Update cve report (#1468)
+- [73609f81](https://github.com/kubedb/installer/commit/73609f81) Add new redis versions (#1425)
+- [b4e15c46](https://github.com/kubedb/installer/commit/b4e15c46) Add RabbitMQ v4.0.4 and Memcached v1.6.33 (#1454)
+- [97abfca7](https://github.com/kubedb/installer/commit/97abfca7) Add MariaDB 11.6.2 Version Support (#1466)
+- [8b9aac45](https://github.com/kubedb/installer/commit/8b9aac45) Add MySQL and SingleStore new Version (#1467)
+- [5e27a293](https://github.com/kubedb/installer/commit/5e27a293) Add mssql new version: 2022-cu16 (#1449)
+- [1a894a77](https://github.com/kubedb/installer/commit/1a894a77) Update crds for kubedb/apimachinery@52bb8340 (#1465)
+- [de09e33d](https://github.com/kubedb/installer/commit/de09e33d) Update opensearch init image for openshift (#1462)
+- [9e94042e](https://github.com/kubedb/installer/commit/9e94042e) Add/Deprecate Kafka Versions (#1456)
+- [aca49c1d](https://github.com/kubedb/installer/commit/aca49c1d) Update crds for kubedb/apimachinery@886ff390 (#1464)
+- [6d574d16](https://github.com/kubedb/installer/commit/6d574d16) Update cve report (#1463)
+- [eaff2a8a](https://github.com/kubedb/installer/commit/eaff2a8a) Update deps
+- [f9c4d04d](https://github.com/kubedb/installer/commit/f9c4d04d) Update cve report (#1461)
+- [7c90c55f](https://github.com/kubedb/installer/commit/7c90c55f) Update cve report (#1460)
+- [4d396b83](https://github.com/kubedb/installer/commit/4d396b83) Add verification function (#1426)
+- [8a7412fb](https://github.com/kubedb/installer/commit/8a7412fb) Update cve report (#1455)
+- [373544f4](https://github.com/kubedb/installer/commit/373544f4) Add FerretDB version 1.24.0 (#1428)
+- [f3ab9862](https://github.com/kubedb/installer/commit/f3ab9862) Add new version for ES, OS & Solr (#1429)
+- [519d3e3c](https://github.com/kubedb/installer/commit/519d3e3c) Update crds for kubedb/apimachinery@fb7e8ddf (#1452)
+- [dab84f58](https://github.com/kubedb/installer/commit/dab84f58) Update cve report (#1451)
+- [c230da3a](https://github.com/kubedb/installer/commit/c230da3a) Update crds for kubedb/apimachinery@9ab2b7bd (#1450)
+- [6f943d37](https://github.com/kubedb/installer/commit/6f943d37) Update cve report (#1448)
+- [47efe72a](https://github.com/kubedb/installer/commit/47efe72a) Update deps
+- [dda9a5b3](https://github.com/kubedb/installer/commit/dda9a5b3) Check for image architecture (#1446)
+- [76ca0d85](https://github.com/kubedb/installer/commit/76ca0d85) Update cve report (#1447)
+- [f069d099](https://github.com/kubedb/installer/commit/f069d099) Update cve report (#1445)
+- [22795fd1](https://github.com/kubedb/installer/commit/22795fd1) Update toybox images to v0.8.11 with ARM64 support (#1444)
+- [76b7bd4c](https://github.com/kubedb/installer/commit/76b7bd4c) Update cve report (#1443)
+- [31567515](https://github.com/kubedb/installer/commit/31567515) Update cve report (#1442)
+- [164ed05d](https://github.com/kubedb/installer/commit/164ed05d) Update cve report (#1441)
+- [9b3ca184](https://github.com/kubedb/installer/commit/9b3ca184) Update cve report (#1440)
+- [7bc3619b](https://github.com/kubedb/installer/commit/7bc3619b) Update cve report (#1438)
+- [5ae176a2](https://github.com/kubedb/installer/commit/5ae176a2) Update cve report (#1437)
+- [4732ae81](https://github.com/kubedb/installer/commit/4732ae81) Update cve report (#1436)
+- [f3c8c57d](https://github.com/kubedb/installer/commit/f3c8c57d) Update cve report (#1435)
+- [19ace325](https://github.com/kubedb/installer/commit/19ace325) Update cve report (#1434)
+- [6c8bb627](https://github.com/kubedb/installer/commit/6c8bb627) Update cve report (#1433)
+- [9f1c07e1](https://github.com/kubedb/installer/commit/9f1c07e1) Update cve report (#1432)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.21.0](https://github.com/kubedb/kafka/releases/tag/v0.21.0)

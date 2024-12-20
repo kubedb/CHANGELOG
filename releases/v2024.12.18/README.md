@@ -98,6 +98,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.13.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.13.0)
+
+- [b9ef54b](https://github.com/kubedb/kubedb-manifest-plugin/commit/b9ef54b) Prepare for release v0.13.0 (#81)
+- [cbe4eac](https://github.com/kubedb/kubedb-manifest-plugin/commit/cbe4eac) Add `os.Stat` error check and unnecessary boolean init (#79)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.34.0](https://github.com/kubedb/mariadb/releases/tag/v0.34.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:32:20.33884825Z",
+  "release_date": "2024-12-20T04:32:25.085346817Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -245,6 +245,24 @@
             {
               "SHA": "01081fc9",
               "Subject": "Update auth active from annotations (#121)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "b9ef54b",
+              "Subject": "Prepare for release v0.13.0 (#81)"
+            },
+            {
+              "SHA": "cbe4eac",
+              "Subject": "Add `os.Stat` error check and unnecessary boolean init (#79)"
             }
           ]
         }

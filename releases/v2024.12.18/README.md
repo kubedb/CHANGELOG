@@ -155,6 +155,20 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.1.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.1.0)
+
+- [ba99265](https://github.com/kubedb/kubedb-verifier/commit/ba99265) Make scripts executable (#7)
+- [7ce9481](https://github.com/kubedb/kubedb-verifier/commit/7ce9481) Prepare for release v0.1.0 (#6)
+- [5aaf694](https://github.com/kubedb/kubedb-verifier/commit/5aaf694) Update pkg name (#5)
+- [d251cc0](https://github.com/kubedb/kubedb-verifier/commit/d251cc0) Use kind v0.25.0 (#4)
+- [4921a00](https://github.com/kubedb/kubedb-verifier/commit/4921a00) Update plugin name (#3)
+- [484c28c](https://github.com/kubedb/kubedb-verifier/commit/484c28c) Remove cherry-pick workflow (#2)
+- [e9e4d82](https://github.com/kubedb/kubedb-verifier/commit/e9e4d82) Add support for backup verification (#1)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.34.0](https://github.com/kubedb/mariadb/releases/tag/v0.34.0)

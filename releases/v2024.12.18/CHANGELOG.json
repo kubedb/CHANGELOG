@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T08:35:31.746203104Z",
+  "release_date": "2024-12-20T09:50:45.146819005Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -347,6 +347,44 @@
             {
               "SHA": "cbe4eac",
               "Subject": "Add `os.Stat` error check and unnecessary boolean init (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "ba99265",
+              "Subject": "Make scripts executable (#7)"
+            },
+            {
+              "SHA": "7ce9481",
+              "Subject": "Prepare for release v0.1.0 (#6)"
+            },
+            {
+              "SHA": "5aaf694",
+              "Subject": "Update pkg name (#5)"
+            },
+            {
+              "SHA": "d251cc0",
+              "Subject": "Use kind v0.25.0 (#4)"
+            },
+            {
+              "SHA": "4921a00",
+              "Subject": "Update plugin name (#3)"
+            },
+            {
+              "SHA": "484c28c",
+              "Subject": "Remove cherry-pick workflow (#2)"
+            },
+            {
+              "SHA": "e9e4d82",
+              "Subject": "Add support for backup verification (#1)"
             }
           ]
         }

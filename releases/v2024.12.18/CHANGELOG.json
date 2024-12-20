@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2024.12.18",
-  "release_date": "2024-12-20T04:39:08.17318951Z",
+  "release_date": "2024-12-20T04:39:22.69791943Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -884,6 +884,20 @@
             {
               "SHA": "0a1d843",
               "Subject": "Prepare for release v0.5.0 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "197f322",
+              "Subject": "Prepare for release v0.8.0 (#30)"
             }
           ]
         }

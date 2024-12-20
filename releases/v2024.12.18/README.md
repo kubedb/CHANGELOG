@@ -415,6 +415,15 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.50.0](https://github.com/kubedb/provisioner/releases/tag/v0.50.0)
+
+- [6fa74bc8](https://github.com/kubedb/provisioner/commit/6fa74bc8f) Prepare for release v0.50.0 (#127)
+- [a3014bcd](https://github.com/kubedb/provisioner/commit/a3014bcd9) Parse verbosity flag and use it for RabbitMQ controller (#126)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.37.0](https://github.com/kubedb/proxysql/releases/tag/v0.37.0)

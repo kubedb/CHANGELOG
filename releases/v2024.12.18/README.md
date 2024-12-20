@@ -31,6 +31,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.50.0](https://github.com/kubedb/cli/releases/tag/v0.50.0)
+
+- [f7e7b8fd](https://github.com/kubedb/cli/commit/f7e7b8fd) Prepare for release v0.50.0 (#782)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.8.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.8.0)

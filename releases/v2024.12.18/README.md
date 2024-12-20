@@ -39,6 +39,14 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.5.0](https://github.com/kubedb/clickhouse/releases/tag/v0.5.0)
+
+- [bf104e52](https://github.com/kubedb/clickhouse/commit/bf104e52) Prepare for release v0.5.0 (#27)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.5.0](https://github.com/kubedb/crd-manager/releases/tag/v0.5.0)

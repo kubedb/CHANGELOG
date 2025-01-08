@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:33:26.100038909Z",
+  "release_date": "2025-01-08T16:34:03.38263955Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -251,6 +251,24 @@
             {
               "SHA": "0952931d",
               "Subject": "Update github action modules (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "c029f5e1",
+              "Subject": "Prepare for release v0.6.0 (#57)"
+            },
+            {
+              "SHA": "2ae35af8",
+              "Subject": "Update github action modules (#55)"
             }
           ]
         }

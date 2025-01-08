@@ -122,6 +122,15 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.6.0](https://github.com/kubedb/pgpool/releases/tag/v0.6.0)
+
+- [c029f5e1](https://github.com/kubedb/pgpool/commit/c029f5e1) Prepare for release v0.6.0 (#57)
+- [2ae35af8](https://github.com/kubedb/pgpool/commit/2ae35af8) Update github action modules (#55)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.12.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.12.0)

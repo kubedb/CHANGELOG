@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T19:25:04.586019657Z",
+  "release_date": "2025-01-08T19:25:36.379598249Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -249,6 +249,24 @@
             {
               "SHA": "f67701ca",
               "Subject": "Update github action modules (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "0352d8be",
+              "Subject": "Prepare for release v0.27.0 (#134)"
+            },
+            {
+              "SHA": "8a4fa19e",
+              "Subject": "Update github action modules (#133)"
             }
           ]
         }

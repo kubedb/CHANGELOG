@@ -356,6 +356,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.6.0](https://github.com/kubedb/singlestore/releases/tag/v0.6.0)
+
+- [e6c6c715](https://github.com/kubedb/singlestore/commit/e6c6c715) Prepare for release v0.6.0 (#56)
+- [6157e138](https://github.com/kubedb/singlestore/commit/6157e138) Update github action modules (#55)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.6.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.6.0)

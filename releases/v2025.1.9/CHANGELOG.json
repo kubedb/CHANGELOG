@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T18:03:21.682472798Z",
+  "release_date": "2025-01-08T18:04:19.007562965Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -716,6 +716,24 @@
             {
               "SHA": "0f212e7",
               "Subject": "Update github action modules (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "e6c6c715",
+              "Subject": "Prepare for release v0.6.0 (#56)"
+            },
+            {
+              "SHA": "6157e138",
+              "Subject": "Update github action modules (#55)"
             }
           ]
         }

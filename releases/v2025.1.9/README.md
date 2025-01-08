@@ -89,6 +89,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.35.0](https://github.com/kubedb/mariadb/releases/tag/v0.35.0)
+
+- [458e99dc](https://github.com/kubedb/mariadb/commit/458e99dc2) Prepare for release v0.35.0 (#301)
+- [b0e88a50](https://github.com/kubedb/mariadb/commit/b0e88a502) Update github action modules (#300)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.31.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.31.0)

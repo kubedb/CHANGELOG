@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T17:44:26.304181598Z",
+  "release_date": "2025-01-08T17:51:26.070476637Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -191,6 +191,24 @@
             {
               "SHA": "996460e",
               "Subject": "Update github action modules (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "458e99dc2",
+              "Subject": "Prepare for release v0.35.0 (#301)"
+            },
+            {
+              "SHA": "b0e88a502",
+              "Subject": "Update github action modules (#300)"
             }
           ]
         }

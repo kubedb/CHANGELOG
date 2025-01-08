@@ -333,6 +333,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.38.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.38.0)
+
+- [fa9b2dad](https://github.com/kubedb/pgbouncer/commit/fa9b2dad) Prepare for release v0.38.0 (#355)
+- [03a67630](https://github.com/kubedb/pgbouncer/commit/03a67630) Update github action modules (#354)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.6.0](https://github.com/kubedb/pgpool/releases/tag/v0.6.0)

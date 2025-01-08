@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T18:50:04.132536789Z",
+  "release_date": "2025-01-08T19:25:04.586019657Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -681,6 +681,24 @@
             {
               "SHA": "fd03be43",
               "Subject": "Prepare for release v0.35.0 (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "fa9b2dad",
+              "Subject": "Prepare for release v0.38.0 (#355)"
+            },
+            {
+              "SHA": "03a67630",
+              "Subject": "Update github action modules (#354)"
             }
           ]
         }

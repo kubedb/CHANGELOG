@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:31:00.895179748Z",
+  "release_date": "2025-01-08T16:33:26.100038909Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -151,6 +151,24 @@
             {
               "SHA": "a1fa7e06",
               "Subject": "Update github action modules (#132)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "a8cb071ca",
+              "Subject": "Prepare for release v0.44.0 (#478)"
+            },
+            {
+              "SHA": "916ec5455",
+              "Subject": "Update github action modules (#477)"
             }
           ]
         }

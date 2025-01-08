@@ -70,6 +70,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.44.0](https://github.com/kubedb/memcached/releases/tag/v0.44.0)
+
+- [a8cb071c](https://github.com/kubedb/memcached/commit/a8cb071ca) Prepare for release v0.44.0 (#478)
+- [916ec545](https://github.com/kubedb/memcached/commit/916ec5455) Update github action modules (#477)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.5.0)

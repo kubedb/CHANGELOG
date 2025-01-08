@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:23:05.160279205Z",
+  "release_date": "2025-01-08T16:26:29.640213203Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -61,6 +61,24 @@
             {
               "SHA": "681e7075",
               "Subject": "Update github action modules (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "9fbabd31",
+              "Subject": "Prepare for release v0.6.0 (#66)"
+            },
+            {
+              "SHA": "57e41476",
+              "Subject": "Update github action modules (#65)"
             }
           ]
         }

@@ -382,6 +382,15 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.6.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.6.0)
+
+- [95d560ff](https://github.com/kubedb/rabbitmq/commit/95d560ff) Prepare for release v0.6.0 (#62)
+- [c62683d7](https://github.com/kubedb/rabbitmq/commit/c62683d7) Update github action modules (#61)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.44.0](https://github.com/kubedb/redis/releases/tag/v0.44.0)

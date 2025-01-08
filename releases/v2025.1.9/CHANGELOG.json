@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:30:23.280360404Z",
+  "release_date": "2025-01-08T16:31:00.895179748Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -304,6 +304,24 @@
             {
               "SHA": "262dfd9c7",
               "Subject": "Update github action modules (#567)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "a8ed8aa",
+              "Subject": "Prepare for release v0.6.0 (#33)"
+            },
+            {
+              "SHA": "63f46cc",
+              "Subject": "Update github action modules (#32)"
             }
           ]
         }

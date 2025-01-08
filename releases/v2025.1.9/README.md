@@ -154,6 +154,15 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.6.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.6.0)
+
+- [a8ed8aa](https://github.com/kubedb/singlestore-coordinator/commit/a8ed8aa) Prepare for release v0.6.0 (#33)
+- [63f46cc](https://github.com/kubedb/singlestore-coordinator/commit/63f46cc) Update github action modules (#32)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.6.0](https://github.com/kubedb/solr/releases/tag/v0.6.0)

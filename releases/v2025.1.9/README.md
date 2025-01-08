@@ -15,6 +15,16 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.51.0](https://github.com/kubedb/cli/releases/tag/v0.51.0)
+
+- [c7e3ab8a](https://github.com/kubedb/cli/commit/c7e3ab8a) Prepare for release v0.51.0 (#785)
+- [b8861821](https://github.com/kubedb/cli/commit/b8861821) Update github action modules (#784)
+- [d69c5d99](https://github.com/kubedb/cli/commit/d69c5d99) Update github action modules (#783)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.6.0](https://github.com/kubedb/db-client-go/releases/tag/v0.6.0)

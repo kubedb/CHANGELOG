@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T15:52:07.392927537Z",
+  "release_date": "2025-01-08T16:02:38.05137627Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -79,6 +79,24 @@
             {
               "SHA": "3c9437f2",
               "Subject": "Update github action modules (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "eb92631",
+              "Subject": "Prepare for release v0.2.0 (#9)"
+            },
+            {
+              "SHA": "996460e",
+              "Subject": "Update github action modules (#8)"
             }
           ]
         }

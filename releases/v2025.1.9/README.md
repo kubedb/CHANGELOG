@@ -34,6 +34,15 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.2.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.2.0)
+
+- [eb92631](https://github.com/kubedb/kubedb-verifier/commit/eb92631) Prepare for release v0.2.0 (#9)
+- [996460e](https://github.com/kubedb/kubedb-verifier/commit/996460e) Update github action modules (#8)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.5.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T15:26:24.108454793Z",
+  "release_date": "2025-01-08T15:34:10.029110837Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -39,6 +39,28 @@
             {
               "SHA": "08b21d025",
               "Subject": "Update github action modules (#1374)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "3866811f",
+              "Subject": "Prepare for release v0.6.0 (#157)"
+            },
+            {
+              "SHA": "aa26ffc7",
+              "Subject": "Update github action modules (#156)"
+            },
+            {
+              "SHA": "681e7075",
+              "Subject": "Update github action modules (#155)"
             }
           ]
         }

@@ -15,3 +15,13 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.6.0](https://github.com/kubedb/db-client-go/releases/tag/v0.6.0)
+
+- [3866811f](https://github.com/kubedb/db-client-go/commit/3866811f) Prepare for release v0.6.0 (#157)
+- [aa26ffc7](https://github.com/kubedb/db-client-go/commit/aa26ffc7) Update github action modules (#156)
+- [681e7075](https://github.com/kubedb/db-client-go/commit/681e7075) Update github action modules (#155)
+
+
+

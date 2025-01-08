@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T20:16:01.474654357Z",
+  "release_date": "2025-01-08T20:28:55.390312639Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -1146,6 +1146,24 @@
             {
               "SHA": "7a873c0d",
               "Subject": "Update github action modules (#143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "d9703947",
+              "Subject": "Prepare for release v0.27.0 (#140)"
+            },
+            {
+              "SHA": "d5ebf56c",
+              "Subject": "Update github action modules (#139)"
             }
           ]
         }

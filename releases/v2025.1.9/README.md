@@ -567,6 +567,15 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.27.0](https://github.com/kubedb/webhook-server/releases/tag/v0.27.0)
+
+- [d9703947](https://github.com/kubedb/webhook-server/commit/d9703947) Prepare for release v0.27.0 (#140)
+- [d5ebf56c](https://github.com/kubedb/webhook-server/commit/d5ebf56c) Update github action modules (#139)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.6.0](https://github.com/kubedb/zookeeper/releases/tag/v0.6.0)

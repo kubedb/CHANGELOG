@@ -25,6 +25,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.29.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.29.0)
+
+- [05a92e2](https://github.com/kubedb/mysql-router-init/commit/05a92e2) Update github action modules (#48)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.13.0](https://github.com/kubedb/provider-aws/releases/tag/v0.13.0)

@@ -79,6 +79,15 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.12.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.12.0)
+
+- [672ca95](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/672ca95) Prepare for release v0.12.0 (#42)
+- [de8dc7b](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/de8dc7b) Update github action modules (#41)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.5.0)

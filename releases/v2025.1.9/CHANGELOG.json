@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T18:09:36.066421942Z",
+  "release_date": "2025-01-08T18:11:14.720674522Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -39,6 +39,24 @@
             {
               "SHA": "08b21d025",
               "Subject": "Update github action modules (#1374)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "9f593cba",
+              "Subject": "Prepare for release v0.4.0 (#15)"
+            },
+            {
+              "SHA": "b8e55c8a",
+              "Subject": "Update github action modules (#14)"
             }
           ]
         }

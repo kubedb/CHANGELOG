@@ -15,6 +15,15 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.4.0](https://github.com/kubedb/cassandra/releases/tag/v0.4.0)
+
+- [9f593cba](https://github.com/kubedb/cassandra/commit/9f593cba) Prepare for release v0.4.0 (#15)
+- [b8e55c8a](https://github.com/kubedb/cassandra/commit/b8e55c8a) Update github action modules (#14)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.51.0](https://github.com/kubedb/cli/releases/tag/v0.51.0)

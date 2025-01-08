@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:29:04.881400752Z",
+  "release_date": "2025-01-08T16:30:23.280360404Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -233,6 +233,28 @@
             {
               "SHA": "0952931d",
               "Subject": "Update github action modules (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "ebcaeedd",
+              "Subject": "Prepare for release v0.12.0 (#51)"
+            },
+            {
+              "SHA": "7ffc8f22",
+              "Subject": "Update github action modules (#49)"
+            },
+            {
+              "SHA": "e71fc319",
+              "Subject": "Update github action modules (#47)"
             }
           ]
         }

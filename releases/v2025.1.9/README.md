@@ -113,6 +113,16 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.12.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.12.0)
+
+- [ebcaeedd](https://github.com/kubedb/postgres-archiver/commit/ebcaeedd) Prepare for release v0.12.0 (#51)
+- [7ffc8f22](https://github.com/kubedb/postgres-archiver/commit/7ffc8f22) Update github action modules (#49)
+- [e71fc319](https://github.com/kubedb/postgres-archiver/commit/e71fc319) Update github action modules (#47)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.13.0](https://github.com/kubedb/provider-aws/releases/tag/v0.13.0)

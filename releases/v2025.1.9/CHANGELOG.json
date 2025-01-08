@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T18:07:51.129733175Z",
+  "release_date": "2025-01-08T18:09:36.066421942Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -379,6 +379,24 @@
             {
               "SHA": "30171f67",
               "Subject": "Update github action modules (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "06e3e47b",
+              "Subject": "Prepare for release v0.6.0 (#52)"
+            },
+            {
+              "SHA": "90a154a5",
+              "Subject": "Update github action modules (#51)"
             }
           ]
         }

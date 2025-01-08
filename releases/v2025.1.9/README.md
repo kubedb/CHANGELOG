@@ -181,6 +181,15 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.6.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.6.0)
+
+- [06e3e47b](https://github.com/kubedb/mssqlserver/commit/06e3e47b) Prepare for release v0.6.0 (#52)
+- [90a154a5](https://github.com/kubedb/mssqlserver/commit/90a154a5) Update github action modules (#51)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.5.0)

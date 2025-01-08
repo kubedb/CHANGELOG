@@ -187,6 +187,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.51.0](https://github.com/kubedb/postgres/releases/tag/v0.51.0)
+
+- [0ac15c2c](https://github.com/kubedb/postgres/commit/0ac15c2c3) Prepare for release v0.51.0 (#781)
+- [7187f979](https://github.com/kubedb/postgres/commit/7187f9794) Update github action modules (#779)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.12.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.12.0)

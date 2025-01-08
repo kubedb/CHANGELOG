@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:49:34.72825945Z",
+  "release_date": "2025-01-08T16:50:15.111736062Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -385,6 +385,24 @@
             {
               "SHA": "2ae35af8",
               "Subject": "Update github action modules (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "0ac15c2c3",
+              "Subject": "Prepare for release v0.51.0 (#781)"
+            },
+            {
+              "SHA": "7187f9794",
+              "Subject": "Update github action modules (#779)"
             }
           ]
         }

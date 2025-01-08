@@ -61,6 +61,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.31.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.31.0)
+
+- [520b9d50](https://github.com/kubedb/mariadb-coordinator/commit/520b9d50) Prepare for release v0.31.0 (#133)
+- [a1fa7e06](https://github.com/kubedb/mariadb-coordinator/commit/a1fa7e06) Update github action modules (#132)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.5.0)

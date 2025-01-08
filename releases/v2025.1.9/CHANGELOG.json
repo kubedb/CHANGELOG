@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:51:11.233927124Z",
+  "release_date": "2025-01-08T16:54:10.638434047Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -524,6 +524,24 @@
             {
               "SHA": "262dfd9c7",
               "Subject": "Update github action modules (#567)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "b1c1602",
+              "Subject": "Prepare for release v0.14.0 (#55)"
+            },
+            {
+              "SHA": "0f212e7",
+              "Subject": "Update github action modules (#54)"
             }
           ]
         }

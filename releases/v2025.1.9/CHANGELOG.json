@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:50:19.827437631Z",
+  "release_date": "2025-01-08T16:50:47.195396585Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -443,6 +443,20 @@
             {
               "SHA": "e71fc319",
               "Subject": "Update github action modules (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "1e06dda",
+              "Subject": "Prepare for release v0.14.0 (#61)"
             }
           ]
         }

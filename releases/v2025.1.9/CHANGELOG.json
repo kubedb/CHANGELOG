@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:16:23.197293487Z",
+  "release_date": "2025-01-08T16:22:28.424729787Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -79,6 +79,24 @@
             {
               "SHA": "3c9437f2",
               "Subject": "Update github action modules (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "8c19ca3e",
+              "Subject": "Prepare for release v0.22.0 (#131)"
+            },
+            {
+              "SHA": "f67701ca",
+              "Subject": "Update github action modules (#129)"
             }
           ]
         }

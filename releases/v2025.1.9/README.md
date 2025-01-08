@@ -34,6 +34,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.22.0](https://github.com/kubedb/kafka/releases/tag/v0.22.0)
+
+- [8c19ca3e](https://github.com/kubedb/kafka/commit/8c19ca3e) Prepare for release v0.22.0 (#131)
+- [f67701ca](https://github.com/kubedb/kafka/commit/f67701ca) Update github action modules (#129)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.2.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.2.0)

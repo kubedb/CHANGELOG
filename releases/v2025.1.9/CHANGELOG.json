@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T17:59:56.173147263Z",
+  "release_date": "2025-01-08T18:01:17.748388746Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -591,6 +591,28 @@
             {
               "SHA": "e71fc319",
               "Subject": "Update github action modules (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "a812501",
+              "Subject": "Prepare for release v0.12.0 (#48)"
+            },
+            {
+              "SHA": "4a6acc9",
+              "Subject": "Update github action modules (#47)"
+            },
+            {
+              "SHA": "3a568ff",
+              "Subject": "Update github action modules (#45)"
             }
           ]
         }

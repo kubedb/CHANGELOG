@@ -1,0 +1,48 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.1.9",
+  "release_date": "2025-01-08T15:26:24.108454793Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.1.9",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "9d7551766",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ad765a4c3",
+              "Subject": "Update for release KubeStash@v2025.1.9 (#1379)"
+            },
+            {
+              "SHA": "d2f3f115f",
+              "Subject": "Print license expiration timestamp"
+            },
+            {
+              "SHA": "cb0045560",
+              "Subject": "Fix patching"
+            },
+            {
+              "SHA": "207816521",
+              "Subject": "Update github action modules (#1376)"
+            },
+            {
+              "SHA": "bb87939ac",
+              "Subject": "Update github action modules (#1375)"
+            },
+            {
+              "SHA": "08b21d025",
+              "Subject": "Update github action modules (#1374)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

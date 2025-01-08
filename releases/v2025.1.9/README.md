@@ -69,6 +69,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.44.0](https://github.com/kubedb/mysql/releases/tag/v0.44.0)
+
+- [9ee5640a](https://github.com/kubedb/mysql/commit/9ee5640a2) Prepare for release v0.44.0 (#660)
+- [b0429276](https://github.com/kubedb/mysql/commit/b04292766) Update github action modules (#658)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.12.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.12.0)

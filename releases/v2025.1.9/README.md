@@ -134,6 +134,15 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.6.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.6.0)
+
+- [a0b1ab4b](https://github.com/kubedb/mssql-coordinator/commit/a0b1ab4b) Prepare for release v0.6.0 (#26)
+- [30171f67](https://github.com/kubedb/mssql-coordinator/commit/30171f67) Update github action modules (#25)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.5.0)

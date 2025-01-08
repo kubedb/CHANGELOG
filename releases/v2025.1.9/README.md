@@ -71,6 +71,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.6.0](https://github.com/kubedb/ferretdb/releases/tag/v0.6.0)
+
+- [5b2c092e](https://github.com/kubedb/ferretdb/commit/5b2c092e) Prepare for release v0.6.0 (#56)
+- [f7e85570](https://github.com/kubedb/ferretdb/commit/f7e85570) Update github action modules (#55)
+- [d48f5be9](https://github.com/kubedb/ferretdb/commit/d48f5be9) Update github action modules (#54)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.22.0](https://github.com/kubedb/kafka/releases/tag/v0.22.0)

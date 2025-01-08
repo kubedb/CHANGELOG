@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T17:57:12.732932348Z",
+  "release_date": "2025-01-08T17:57:49.638530789Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -155,6 +155,28 @@
             {
               "SHA": "3c9437f2",
               "Subject": "Update github action modules (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "5b2c092e",
+              "Subject": "Prepare for release v0.6.0 (#56)"
+            },
+            {
+              "SHA": "f7e85570",
+              "Subject": "Update github action modules (#55)"
+            },
+            {
+              "SHA": "d48f5be9",
+              "Subject": "Update github action modules (#54)"
             }
           ]
         }

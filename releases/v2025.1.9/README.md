@@ -51,6 +51,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.12.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.12.0)
+
+- [0fab1a47](https://github.com/kubedb/mysql-archiver/commit/0fab1a47) Prepare for release v0.12.0 (#50)
+- [715640b1](https://github.com/kubedb/mysql-archiver/commit/715640b1) Update github action modules (#48)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.29.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.29.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:02:38.05137627Z",
+  "release_date": "2025-01-08T16:07:03.504029272Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -111,6 +111,24 @@
             {
               "SHA": "01de86c",
               "Subject": "Update github action modules (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "0fab1a47",
+              "Subject": "Prepare for release v0.12.0 (#50)"
+            },
+            {
+              "SHA": "715640b1",
+              "Subject": "Update github action modules (#48)"
             }
           ]
         }

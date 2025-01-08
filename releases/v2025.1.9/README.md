@@ -223,6 +223,14 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.35.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.35.0)
+
+- [fd03be43](https://github.com/kubedb/pg-coordinator/commit/fd03be43) Prepare for release v0.35.0 (#183)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.6.0](https://github.com/kubedb/pgpool/releases/tag/v0.6.0)

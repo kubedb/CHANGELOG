@@ -68,6 +68,15 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.24.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.24.0)
+
+- [7b378bbd](https://github.com/kubedb/percona-xtradb-coordinator/commit/7b378bbd) Prepare for release v0.24.0 (#87)
+- [0952931d](https://github.com/kubedb/percona-xtradb-coordinator/commit/0952931d) Update github action modules (#86)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.13.0](https://github.com/kubedb/provider-aws/releases/tag/v0.13.0)

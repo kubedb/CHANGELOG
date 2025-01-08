@@ -25,6 +25,14 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.5.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.5.0)
+
+- [01de86c](https://github.com/kubedb/mssqlserver-archiver/commit/01de86c) Update github action modules (#8)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.29.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.29.0)

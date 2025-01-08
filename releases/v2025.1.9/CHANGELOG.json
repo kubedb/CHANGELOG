@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T18:44:10.830809484Z",
+  "release_date": "2025-01-08T18:47:06.664040626Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -173,6 +173,24 @@
             {
               "SHA": "57e41476",
               "Subject": "Update github action modules (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "b7e8c0249",
+              "Subject": "Prepare for release v0.51.0 (#746)"
+            },
+            {
+              "SHA": "e08b8e603",
+              "Subject": "Update github action modules (#745)"
             }
           ]
         }

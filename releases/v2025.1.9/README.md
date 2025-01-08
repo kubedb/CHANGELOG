@@ -80,6 +80,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.51.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.51.0)
+
+- [b7e8c024](https://github.com/kubedb/elasticsearch/commit/b7e8c0249) Prepare for release v0.51.0 (#746)
+- [e08b8e60](https://github.com/kubedb/elasticsearch/commit/e08b8e603) Update github action modules (#745)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.14.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.14.0)

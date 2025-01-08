@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T18:47:06.664040626Z",
+  "release_date": "2025-01-08T18:50:04.132536789Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -397,6 +397,24 @@
             {
               "SHA": "916ec5455",
               "Subject": "Update github action modules (#477)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "a298af18c",
+              "Subject": "Prepare for release v0.44.0 (#676)"
+            },
+            {
+              "SHA": "4e7f9233b",
+              "Subject": "Update github action modules (#675)"
             }
           ]
         }

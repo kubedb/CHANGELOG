@@ -190,6 +190,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.44.0](https://github.com/kubedb/mongodb/releases/tag/v0.44.0)
+
+- [a298af18](https://github.com/kubedb/mongodb/commit/a298af18c) Prepare for release v0.44.0 (#676)
+- [4e7f9233](https://github.com/kubedb/mongodb/commit/4e7f9233b) Update github action modules (#675)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.12.0)

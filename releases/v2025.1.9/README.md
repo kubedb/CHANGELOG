@@ -315,6 +315,14 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.38.0](https://github.com/kubedb/ops-manager/releases/tag/v0.38.0)
+
+- [7333aed1](https://github.com/kubedb/ops-manager/commit/7333aed13) Prepare for release v0.38.0 (#699)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.38.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.38.0)

@@ -418,6 +418,16 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.51.0](https://github.com/kubedb/provisioner/releases/tag/v0.51.0)
+
+- [39000c34](https://github.com/kubedb/provisioner/commit/39000c342) Prepare for release v0.51.0 (#131)
+- [d75d6279](https://github.com/kubedb/provisioner/commit/d75d6279c) Update github action modules (#130)
+- [0e96443f](https://github.com/kubedb/provisioner/commit/0e96443f1) Update github action modules (#128)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.38.0](https://github.com/kubedb/proxysql/releases/tag/v0.38.0)

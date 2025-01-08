@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T19:26:27.334907286Z",
+  "release_date": "2025-01-08T19:35:43.331131197Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -950,6 +950,24 @@
             {
               "SHA": "9c437e88",
               "Subject": "Update github action modules (#283)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "70ae7333",
+              "Subject": "Prepare for release v0.27.0 (#128)"
+            },
+            {
+              "SHA": "6927781a",
+              "Subject": "Update github action modules (#127)"
             }
           ]
         }

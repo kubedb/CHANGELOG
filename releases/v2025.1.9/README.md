@@ -473,6 +473,15 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.27.0](https://github.com/kubedb/schema-manager/releases/tag/v0.27.0)
+
+- [70ae7333](https://github.com/kubedb/schema-manager/commit/70ae7333) Prepare for release v0.27.0 (#128)
+- [6927781a](https://github.com/kubedb/schema-manager/commit/6927781a) Update github action modules (#127)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.6.0](https://github.com/kubedb/singlestore/releases/tag/v0.6.0)

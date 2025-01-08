@@ -98,6 +98,15 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.9.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.9.0)
+
+- [f277695](https://github.com/kubedb/mariadb-restic-plugin/commit/f277695) Prepare for release v0.9.0 (#34)
+- [78fb004](https://github.com/kubedb/mariadb-restic-plugin/commit/78fb004) Update github action modules (#33)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.44.0](https://github.com/kubedb/memcached/releases/tag/v0.44.0)

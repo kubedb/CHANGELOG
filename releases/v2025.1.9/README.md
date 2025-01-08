@@ -107,6 +107,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.44.0](https://github.com/kubedb/redis/releases/tag/v0.44.0)
+
+- [0535751e](https://github.com/kubedb/redis/commit/0535751ee) Prepare for release v0.44.0 (#570)
+- [f26cefc6](https://github.com/kubedb/redis/commit/f26cefc62) Update github action modules (#569)
+- [262dfd9c](https://github.com/kubedb/redis/commit/262dfd9c7) Update github action modules (#567)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.6.0](https://github.com/kubedb/solr/releases/tag/v0.6.0)

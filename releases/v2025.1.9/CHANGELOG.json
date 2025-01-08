@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T16:22:28.424729787Z",
+  "release_date": "2025-01-08T16:23:05.160279205Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -208,6 +208,28 @@
         {
           "tag": "v0.13.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "0535751ee",
+              "Subject": "Prepare for release v0.44.0 (#570)"
+            },
+            {
+              "SHA": "f26cefc62",
+              "Subject": "Update github action modules (#569)"
+            },
+            {
+              "SHA": "262dfd9c7",
+              "Subject": "Update github action modules (#567)"
+            }
+          ]
         }
       ]
     },

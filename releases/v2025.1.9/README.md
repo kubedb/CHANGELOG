@@ -464,6 +464,19 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.36.0](https://github.com/kubedb/tests/releases/tag/v0.36.0)
+
+- [5ce809da](https://github.com/kubedb/tests/commit/5ce809da) Prepare for release v0.36.0 (#430)
+- [7ab26162](https://github.com/kubedb/tests/commit/7ab26162) Add Rotate OpsRequest Test (#420)
+- [9245b237](https://github.com/kubedb/tests/commit/9245b237) Update github action modules (#426)
+- [7964d1d0](https://github.com/kubedb/tests/commit/7964d1d0) Add Druid horizontal scaling (#406)
+- [a12a2c0d](https://github.com/kubedb/tests/commit/a12a2c0d) Add Druid Vertical Scaling and Volume Expantion tests (#400)
+- [c050d1e0](https://github.com/kubedb/tests/commit/c050d1e0) Remove kafka from appendtocleanuplist (#425)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.6.0](https://github.com/kubedb/zookeeper/releases/tag/v0.6.0)

@@ -62,6 +62,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.14.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.14.0)
+
+- [462aeed](https://github.com/kubedb/kubedb-manifest-plugin/commit/462aeed) Prepare for release v0.14.0 (#83)
+- [2012ca0](https://github.com/kubedb/kubedb-manifest-plugin/commit/2012ca0) Update github action modules (#82)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.2.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.2.0)

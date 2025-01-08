@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T17:51:26.070476637Z",
+  "release_date": "2025-01-08T17:56:20.283618333Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -61,6 +61,24 @@
             {
               "SHA": "d69c5d99",
               "Subject": "Update github action modules (#783)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "ce83843a",
+              "Subject": "Prepare for release v0.6.0 (#59)"
+            },
+            {
+              "SHA": "31d35f51",
+              "Subject": "Update github action modules (#58)"
             }
           ]
         }

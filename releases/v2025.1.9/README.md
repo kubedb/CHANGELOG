@@ -25,6 +25,15 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.6.0](https://github.com/kubedb/crd-manager/releases/tag/v0.6.0)
+
+- [ce83843a](https://github.com/kubedb/crd-manager/commit/ce83843a) Prepare for release v0.6.0 (#59)
+- [31d35f51](https://github.com/kubedb/crd-manager/commit/31d35f51) Update github action modules (#58)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.9.0)

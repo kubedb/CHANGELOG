@@ -34,6 +34,15 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.6.0](https://github.com/kubedb/clickhouse/releases/tag/v0.6.0)
+
+- [b6468d41](https://github.com/kubedb/clickhouse/commit/b6468d41) Prepare for release v0.6.0 (#29)
+- [a9efd726](https://github.com/kubedb/clickhouse/commit/a9efd726) Update github action modules (#28)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.6.0](https://github.com/kubedb/crd-manager/releases/tag/v0.6.0)

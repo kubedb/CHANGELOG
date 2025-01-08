@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T18:11:14.720674522Z",
+  "release_date": "2025-01-08T18:11:46.450229366Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -79,6 +79,24 @@
             {
               "SHA": "d69c5d99",
               "Subject": "Update github action modules (#783)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "b6468d41",
+              "Subject": "Prepare for release v0.6.0 (#29)"
+            },
+            {
+              "SHA": "a9efd726",
+              "Subject": "Update github action modules (#28)"
             }
           ]
         }

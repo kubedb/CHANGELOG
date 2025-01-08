@@ -418,6 +418,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.38.0](https://github.com/kubedb/proxysql/releases/tag/v0.38.0)
+
+- [ab482443](https://github.com/kubedb/proxysql/commit/ab4824432) Prepare for release v0.38.0 (#371)
+- [52add947](https://github.com/kubedb/proxysql/commit/52add9471) Update github action modules (#370)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.6.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.6.0)

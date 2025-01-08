@@ -25,6 +25,15 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.14.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.14.0)
+
+- [51e627d9](https://github.com/kubedb/elasticsearch-restic-plugin/commit/51e627d9) Prepare for release v0.14.0 (#52)
+- [3c9437f2](https://github.com/kubedb/elasticsearch-restic-plugin/commit/3c9437f2) Update github action modules (#51)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.5.0)

@@ -15,6 +15,15 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.36.0](https://github.com/kubedb/autoscaler/releases/tag/v0.36.0)
+
+- [cae9cabe](https://github.com/kubedb/autoscaler/commit/cae9cabe) Prepare for release v0.36.0 (#234)
+- [f627082e](https://github.com/kubedb/autoscaler/commit/f627082e) Update github action modules (#233)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.4.0](https://github.com/kubedb/cassandra/releases/tag/v0.4.0)

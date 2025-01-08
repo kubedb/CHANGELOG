@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T19:53:10.664374768Z",
+  "release_date": "2025-01-08T20:16:01.474654357Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -39,6 +39,24 @@
             {
               "SHA": "08b21d025",
               "Subject": "Update github action modules (#1374)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "cae9cabe",
+              "Subject": "Prepare for release v0.36.0 (#234)"
+            },
+            {
+              "SHA": "f627082e",
+              "Subject": "Update github action modules (#233)"
             }
           ]
         }

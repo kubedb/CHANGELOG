@@ -233,6 +233,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.38.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.38.0)
+
+- [4c003572](https://github.com/kubedb/percona-xtradb/commit/4c0035725) Prepare for release v0.38.0 (#391)
+- [dc2d9715](https://github.com/kubedb/percona-xtradb/commit/dc2d9715b) Update github action modules (#390)
+- [68e6689f](https://github.com/kubedb/percona-xtradb/commit/68e6689fe) Update github action modules (#388)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.24.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.24.0)

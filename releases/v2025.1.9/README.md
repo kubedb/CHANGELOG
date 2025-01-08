@@ -199,3 +199,12 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.7.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.7.0)
+
+- [d8afbeb](https://github.com/kubedb/zookeeper-restic-plugin/commit/d8afbeb) Prepare for release v0.7.0 (#24)
+- [1599f4b](https://github.com/kubedb/zookeeper-restic-plugin/commit/1599f4b) Update github action modules (#23)
+
+
+

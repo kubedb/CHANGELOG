@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T18:12:23.753170583Z",
+  "release_date": "2025-01-08T18:12:58.258993618Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -824,6 +824,24 @@
             {
               "SHA": "0f212e7",
               "Subject": "Update github action modules (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "1525e27b",
+              "Subject": "Prepare for release v0.38.0 (#284)"
+            },
+            {
+              "SHA": "9c437e88",
+              "Subject": "Update github action modules (#283)"
             }
           ]
         }

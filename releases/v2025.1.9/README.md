@@ -410,6 +410,15 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.38.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.38.0)
+
+- [1525e27b](https://github.com/kubedb/replication-mode-detector/commit/1525e27b) Prepare for release v0.38.0 (#284)
+- [9c437e88](https://github.com/kubedb/replication-mode-detector/commit/9c437e88) Update github action modules (#283)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.6.0](https://github.com/kubedb/singlestore/releases/tag/v0.6.0)

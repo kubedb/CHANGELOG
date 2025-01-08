@@ -88,6 +88,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.14.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.14.0)
+
+- [a572332](https://github.com/kubedb/mongodb-restic-plugin/commit/a572332) Prepare for release v0.14.0 (#74)
+- [b42f1b1](https://github.com/kubedb/mongodb-restic-plugin/commit/b42f1b1) Update github action modules (#73)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.5.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.5.0)

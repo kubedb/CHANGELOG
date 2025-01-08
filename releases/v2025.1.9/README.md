@@ -531,6 +531,15 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.27.0](https://github.com/kubedb/ui-server/releases/tag/v0.27.0)
+
+- [ce0daab1](https://github.com/kubedb/ui-server/commit/ce0daab1) Prepare for release v0.27.0 (#144)
+- [7a873c0d](https://github.com/kubedb/ui-server/commit/7a873c0d) Update github action modules (#143)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.6.0](https://github.com/kubedb/zookeeper/releases/tag/v0.6.0)

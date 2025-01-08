@@ -89,3 +89,12 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.6.0](https://github.com/kubedb/solr/releases/tag/v0.6.0)
+
+- [2cc22dac](https://github.com/kubedb/solr/commit/2cc22dac) Prepare for release v0.6.0 (#63)
+- [9430ec64](https://github.com/kubedb/solr/commit/9430ec64) Update github action modules (#62)
+
+
+

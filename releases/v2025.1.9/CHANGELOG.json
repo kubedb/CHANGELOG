@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T15:34:10.029110837Z",
+  "release_date": "2025-01-08T15:46:47.300951676Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -63,6 +63,15 @@
               "Subject": "Update github action modules (#155)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": null
         }
       ]
     }

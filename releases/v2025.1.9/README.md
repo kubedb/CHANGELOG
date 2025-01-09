@@ -1,4 +1,4 @@
-# KubeDB v2025.1.9 (2025-01-08)
+# KubeDB v2025.1.9 (2025-01-09)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -114,6 +114,20 @@
 - [5b2c092e](https://github.com/kubedb/ferretdb/commit/5b2c092e) Prepare for release v0.6.0 (#56)
 - [f7e85570](https://github.com/kubedb/ferretdb/commit/f7e85570) Update github action modules (#55)
 - [d48f5be9](https://github.com/kubedb/ferretdb/commit/d48f5be9) Update github action modules (#54)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2025.1.9](https://github.com/kubedb/installer/releases/tag/v2025.1.9)
+
+- [ed4734a9](https://github.com/kubedb/installer/commit/ed4734a9) Prepare for release v2025.1.9 (#1497)
+- [24c19b90](https://github.com/kubedb/installer/commit/24c19b90) Fix es update constraints (#1501)
+- [d27e29c6](https://github.com/kubedb/installer/commit/d27e29c6) added updateConstrain for pgbouncer (#1500)
+- [911e9985](https://github.com/kubedb/installer/commit/911e9985) Update constraints for MariaDB (#1499)
+- [2716657d](https://github.com/kubedb/installer/commit/2716657d) Update constraints for mongodb (#1495)
+- [3bb62f22](https://github.com/kubedb/installer/commit/3bb62f22) Generate version update matrix (#1498)
+- [1893caed](https://github.com/kubedb/installer/commit/1893caed) Update deps
 
 
 

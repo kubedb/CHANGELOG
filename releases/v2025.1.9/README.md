@@ -80,6 +80,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.1.9](https://github.com/kubedb/docs/releases/tag/v2025.1.9)
+
+- [1f77b4ba](https://github.com/kubedb/docs/commit/1f77b4ba) Prepare for release v2025.1.9 (#734)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.6.0](https://github.com/kubedb/druid/releases/tag/v0.6.0)

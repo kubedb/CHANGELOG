@@ -1,0 +1,1261 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.1.9",
+  "release_date": "2025-01-09T07:50:39.385120668Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.1.9",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "9d7551766",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ad765a4c3",
+              "Subject": "Update for release KubeStash@v2025.1.9 (#1379)"
+            },
+            {
+              "SHA": "d2f3f115f",
+              "Subject": "Print license expiration timestamp"
+            },
+            {
+              "SHA": "cb0045560",
+              "Subject": "Fix patching"
+            },
+            {
+              "SHA": "207816521",
+              "Subject": "Update github action modules (#1376)"
+            },
+            {
+              "SHA": "bb87939ac",
+              "Subject": "Update github action modules (#1375)"
+            },
+            {
+              "SHA": "08b21d025",
+              "Subject": "Update github action modules (#1374)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "cae9cabe",
+              "Subject": "Prepare for release v0.36.0 (#234)"
+            },
+            {
+              "SHA": "f627082e",
+              "Subject": "Update github action modules (#233)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "9f593cba",
+              "Subject": "Prepare for release v0.4.0 (#15)"
+            },
+            {
+              "SHA": "b8e55c8a",
+              "Subject": "Update github action modules (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "c7e3ab8a",
+              "Subject": "Prepare for release v0.51.0 (#785)"
+            },
+            {
+              "SHA": "b8861821",
+              "Subject": "Update github action modules (#784)"
+            },
+            {
+              "SHA": "d69c5d99",
+              "Subject": "Update github action modules (#783)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "b6468d41",
+              "Subject": "Prepare for release v0.6.0 (#29)"
+            },
+            {
+              "SHA": "a9efd726",
+              "Subject": "Update github action modules (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "ce83843a",
+              "Subject": "Prepare for release v0.6.0 (#59)"
+            },
+            {
+              "SHA": "31d35f51",
+              "Subject": "Update github action modules (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "c3ab76d",
+              "Subject": "Prepare for release v0.9.0 (#28)"
+            },
+            {
+              "SHA": "8dc7721",
+              "Subject": "Update github action modules (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "3866811f",
+              "Subject": "Prepare for release v0.6.0 (#157)"
+            },
+            {
+              "SHA": "aa26ffc7",
+              "Subject": "Update github action modules (#156)"
+            },
+            {
+              "SHA": "681e7075",
+              "Subject": "Update github action modules (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.1.9",
+          "commits": [
+            {
+              "SHA": "1f77b4ba",
+              "Subject": "Prepare for release v2025.1.9 (#734)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "9fbabd31",
+              "Subject": "Prepare for release v0.6.0 (#66)"
+            },
+            {
+              "SHA": "57e41476",
+              "Subject": "Update github action modules (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "b7e8c0249",
+              "Subject": "Prepare for release v0.51.0 (#746)"
+            },
+            {
+              "SHA": "e08b8e603",
+              "Subject": "Update github action modules (#745)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "51e627d9",
+              "Subject": "Prepare for release v0.14.0 (#52)"
+            },
+            {
+              "SHA": "3c9437f2",
+              "Subject": "Update github action modules (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "5b2c092e",
+              "Subject": "Prepare for release v0.6.0 (#56)"
+            },
+            {
+              "SHA": "f7e85570",
+              "Subject": "Update github action modules (#55)"
+            },
+            {
+              "SHA": "d48f5be9",
+              "Subject": "Update github action modules (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.1.9",
+          "commits": [
+            {
+              "SHA": "ed4734a9",
+              "Subject": "Prepare for release v2025.1.9 (#1497)"
+            },
+            {
+              "SHA": "24c19b90",
+              "Subject": "Fix es update constraints (#1501)"
+            },
+            {
+              "SHA": "d27e29c6",
+              "Subject": "added updateConstrain for pgbouncer (#1500)"
+            },
+            {
+              "SHA": "911e9985",
+              "Subject": "Update constraints for MariaDB (#1499)"
+            },
+            {
+              "SHA": "2716657d",
+              "Subject": "Update constraints for mongodb (#1495)"
+            },
+            {
+              "SHA": "3bb62f22",
+              "Subject": "Generate version update matrix (#1498)"
+            },
+            {
+              "SHA": "1893caed",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "8c19ca3e",
+              "Subject": "Prepare for release v0.22.0 (#131)"
+            },
+            {
+              "SHA": "f67701ca",
+              "Subject": "Update github action modules (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "0352d8be",
+              "Subject": "Prepare for release v0.27.0 (#134)"
+            },
+            {
+              "SHA": "8a4fa19e",
+              "Subject": "Update github action modules (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "462aeed",
+              "Subject": "Prepare for release v0.14.0 (#83)"
+            },
+            {
+              "SHA": "2012ca0",
+              "Subject": "Update github action modules (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "eb92631",
+              "Subject": "Prepare for release v0.2.0 (#9)"
+            },
+            {
+              "SHA": "996460e",
+              "Subject": "Update github action modules (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "458e99dc2",
+              "Subject": "Prepare for release v0.35.0 (#301)"
+            },
+            {
+              "SHA": "b0e88a502",
+              "Subject": "Update github action modules (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "cf07e426",
+              "Subject": "Prepare for release v0.11.0 (#38)"
+            },
+            {
+              "SHA": "00efc652",
+              "Subject": "Update github action modules (#37)"
+            },
+            {
+              "SHA": "b2152c04",
+              "Subject": "Update github action modules (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "520b9d50",
+              "Subject": "Prepare for release v0.31.0 (#133)"
+            },
+            {
+              "SHA": "a1fa7e06",
+              "Subject": "Update github action modules (#132)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "58e6245",
+              "Subject": "Prepare for release v0.11.0 (#37)"
+            },
+            {
+              "SHA": "0efce43",
+              "Subject": "Update github action modules (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "f277695",
+              "Subject": "Prepare for release v0.9.0 (#34)"
+            },
+            {
+              "SHA": "78fb004",
+              "Subject": "Update github action modules (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "a8cb071ca",
+              "Subject": "Prepare for release v0.44.0 (#478)"
+            },
+            {
+              "SHA": "916ec5455",
+              "Subject": "Update github action modules (#477)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "a298af18c",
+              "Subject": "Prepare for release v0.44.0 (#676)"
+            },
+            {
+              "SHA": "4e7f9233b",
+              "Subject": "Update github action modules (#675)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "672ca95",
+              "Subject": "Prepare for release v0.12.0 (#42)"
+            },
+            {
+              "SHA": "de8dc7b",
+              "Subject": "Update github action modules (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "a572332",
+              "Subject": "Prepare for release v0.14.0 (#74)"
+            },
+            {
+              "SHA": "b42f1b1",
+              "Subject": "Update github action modules (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "a0b1ab4b",
+              "Subject": "Prepare for release v0.6.0 (#26)"
+            },
+            {
+              "SHA": "30171f67",
+              "Subject": "Update github action modules (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "06e3e47b",
+              "Subject": "Prepare for release v0.6.0 (#52)"
+            },
+            {
+              "SHA": "90a154a5",
+              "Subject": "Update github action modules (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "01de86c",
+              "Subject": "Update github action modules (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "ab5e490",
+              "Subject": "Prepare for release v0.5.0 (#15)"
+            },
+            {
+              "SHA": "b63c5e0",
+              "Subject": "Update github action modules (#14)"
+            },
+            {
+              "SHA": "bd69aed",
+              "Subject": "Update github action modules (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "9ee5640a2",
+              "Subject": "Prepare for release v0.44.0 (#660)"
+            },
+            {
+              "SHA": "b04292766",
+              "Subject": "Update github action modules (#658)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "0fab1a47",
+              "Subject": "Prepare for release v0.12.0 (#50)"
+            },
+            {
+              "SHA": "715640b1",
+              "Subject": "Update github action modules (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "70436079",
+              "Subject": "Prepare for release v0.29.0 (#131)"
+            },
+            {
+              "SHA": "ae4a76f4",
+              "Subject": "Update github action modules (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "3c5d2f7",
+              "Subject": "Prepare for release v0.12.0 (#38)"
+            },
+            {
+              "SHA": "1f60220",
+              "Subject": "Update github action modules (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "032f02a",
+              "Subject": "Prepare for release v0.14.0 (#65)"
+            },
+            {
+              "SHA": "ce376f3",
+              "Subject": "Update github action modules (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "05a92e2",
+              "Subject": "Update github action modules (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "7333aed13",
+              "Subject": "Prepare for release v0.38.0 (#699)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "4c0035725",
+              "Subject": "Prepare for release v0.38.0 (#391)"
+            },
+            {
+              "SHA": "dc2d9715b",
+              "Subject": "Update github action modules (#390)"
+            },
+            {
+              "SHA": "68e6689fe",
+              "Subject": "Update github action modules (#388)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "7b378bbd",
+              "Subject": "Prepare for release v0.24.0 (#87)"
+            },
+            {
+              "SHA": "0952931d",
+              "Subject": "Update github action modules (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "fd03be43",
+              "Subject": "Prepare for release v0.35.0 (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "fa9b2dad",
+              "Subject": "Prepare for release v0.38.0 (#355)"
+            },
+            {
+              "SHA": "03a67630",
+              "Subject": "Update github action modules (#354)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "c029f5e1",
+              "Subject": "Prepare for release v0.6.0 (#57)"
+            },
+            {
+              "SHA": "2ae35af8",
+              "Subject": "Update github action modules (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "0ac15c2c3",
+              "Subject": "Prepare for release v0.51.0 (#781)"
+            },
+            {
+              "SHA": "7187f9794",
+              "Subject": "Update github action modules (#779)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "ebcaeedd",
+              "Subject": "Prepare for release v0.12.0 (#51)"
+            },
+            {
+              "SHA": "7ffc8f22",
+              "Subject": "Update github action modules (#49)"
+            },
+            {
+              "SHA": "e71fc319",
+              "Subject": "Update github action modules (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "a812501",
+              "Subject": "Prepare for release v0.12.0 (#48)"
+            },
+            {
+              "SHA": "4a6acc9",
+              "Subject": "Update github action modules (#47)"
+            },
+            {
+              "SHA": "3a568ff",
+              "Subject": "Update github action modules (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "1e06dda",
+              "Subject": "Prepare for release v0.14.0 (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "39000c342",
+              "Subject": "Prepare for release v0.51.0 (#131)"
+            },
+            {
+              "SHA": "d75d6279c",
+              "Subject": "Update github action modules (#130)"
+            },
+            {
+              "SHA": "0e96443f1",
+              "Subject": "Update github action modules (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "ab4824432",
+              "Subject": "Prepare for release v0.38.0 (#371)"
+            },
+            {
+              "SHA": "52add9471",
+              "Subject": "Update github action modules (#370)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "95d560ff",
+              "Subject": "Prepare for release v0.6.0 (#62)"
+            },
+            {
+              "SHA": "c62683d7",
+              "Subject": "Update github action modules (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "0535751ee",
+              "Subject": "Prepare for release v0.44.0 (#570)"
+            },
+            {
+              "SHA": "f26cefc62",
+              "Subject": "Update github action modules (#569)"
+            },
+            {
+              "SHA": "262dfd9c7",
+              "Subject": "Update github action modules (#567)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "e7ccd8c3",
+              "Subject": "Prepare for release v0.30.0 (#118)"
+            },
+            {
+              "SHA": "27299223",
+              "Subject": "Update github action modules (#117)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "b1c1602",
+              "Subject": "Prepare for release v0.14.0 (#55)"
+            },
+            {
+              "SHA": "0f212e7",
+              "Subject": "Update github action modules (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "1525e27b",
+              "Subject": "Prepare for release v0.38.0 (#284)"
+            },
+            {
+              "SHA": "9c437e88",
+              "Subject": "Update github action modules (#283)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "70ae7333",
+              "Subject": "Prepare for release v0.27.0 (#128)"
+            },
+            {
+              "SHA": "6927781a",
+              "Subject": "Update github action modules (#127)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "e6c6c715",
+              "Subject": "Prepare for release v0.6.0 (#56)"
+            },
+            {
+              "SHA": "6157e138",
+              "Subject": "Update github action modules (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "a8ed8aa",
+              "Subject": "Prepare for release v0.6.0 (#33)"
+            },
+            {
+              "SHA": "63f46cc",
+              "Subject": "Update github action modules (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "df7eb0e",
+              "Subject": "Prepare for release v0.9.0 (#32)"
+            },
+            {
+              "SHA": "5d8845b",
+              "Subject": "Update github action modules (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "2cc22dac",
+              "Subject": "Prepare for release v0.6.0 (#63)"
+            },
+            {
+              "SHA": "9430ec64",
+              "Subject": "Update github action modules (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "5ce809da",
+              "Subject": "Prepare for release v0.36.0 (#430)"
+            },
+            {
+              "SHA": "7ab26162",
+              "Subject": "Add Rotate OpsRequest Test (#420)"
+            },
+            {
+              "SHA": "9245b237",
+              "Subject": "Update github action modules (#426)"
+            },
+            {
+              "SHA": "7964d1d0",
+              "Subject": "Add Druid horizontal scaling (#406)"
+            },
+            {
+              "SHA": "a12a2c0d",
+              "Subject": "Add Druid Vertical Scaling and Volume Expantion tests (#400)"
+            },
+            {
+              "SHA": "c050d1e0",
+              "Subject": "Remove kafka from appendtocleanuplist (#425)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "ce0daab1",
+              "Subject": "Prepare for release v0.27.0 (#144)"
+            },
+            {
+              "SHA": "7a873c0d",
+              "Subject": "Update github action modules (#143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "d9703947",
+              "Subject": "Prepare for release v0.27.0 (#140)"
+            },
+            {
+              "SHA": "d5ebf56c",
+              "Subject": "Update github action modules (#139)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "21eeb4cd",
+              "Subject": "Prepare for release v0.6.0 (#54)"
+            },
+            {
+              "SHA": "6a1412ed",
+              "Subject": "Update github action modules (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "d8afbeb",
+              "Subject": "Prepare for release v0.7.0 (#24)"
+            },
+            {
+              "SHA": "1599f4b",
+              "Subject": "Update github action modules (#23)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

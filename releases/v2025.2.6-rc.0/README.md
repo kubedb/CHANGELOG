@@ -171,6 +171,16 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.13.0-rc.0)
+
+- [b7bee766](https://github.com/kubedb/postgres-archiver/commit/b7bee766) Prepare for release v0.13.0-rc.0 (#55)
+- [7b34eeba](https://github.com/kubedb/postgres-archiver/commit/7b34eeba) Disable image caching in setup-qemu action (#54)
+- [47ea5469](https://github.com/kubedb/postgres-archiver/commit/47ea5469) Update Logstats, update wal archive support for standby (#52)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.15.0-rc.0)

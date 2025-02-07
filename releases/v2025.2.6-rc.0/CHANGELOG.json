@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:10:50.585817376Z",
+  "release_date": "2025-02-07T06:10:56.461959343Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -411,6 +411,28 @@
             {
               "SHA": "eaf5b26c0",
               "Subject": "Add license restrictions (#782)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b7bee766",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#55)"
+            },
+            {
+              "SHA": "7b34eeba",
+              "Subject": "Disable image caching in setup-qemu action (#54)"
+            },
+            {
+              "SHA": "47ea5469",
+              "Subject": "Update Logstats, update wal archive support for standby (#52)"
             }
           ]
         }

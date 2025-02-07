@@ -64,6 +64,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.45.0-rc.0)
+
+- [1d14d49c](https://github.com/kubedb/memcached/commit/1d14d49c6) Prepare for release v0.45.0-rc.0 (#482)
+- [1d3054df](https://github.com/kubedb/memcached/commit/1d3054dfa) Disable image caching in setup-qemu action (#483)
+- [90fd0801](https://github.com/kubedb/memcached/commit/90fd08014) Add client billing event support (#480)
+- [2e569244](https://github.com/kubedb/memcached/commit/2e5692449) Fix memcached config secret issue (#479)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.7.0-rc.0)

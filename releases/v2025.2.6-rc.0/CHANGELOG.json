@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:05:37.873908431Z",
+  "release_date": "2025-02-07T06:05:48.785296689Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -163,6 +163,32 @@
             {
               "SHA": "e7cfb82",
               "Subject": "Add Stdin Backup Leaf Command support (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1d14d49c6",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#482)"
+            },
+            {
+              "SHA": "1d3054dfa",
+              "Subject": "Disable image caching in setup-qemu action (#483)"
+            },
+            {
+              "SHA": "90fd08014",
+              "Subject": "Add client billing event support (#480)"
+            },
+            {
+              "SHA": "2e5692449",
+              "Subject": "Fix memcached config secret issue (#479)"
             }
           ]
         }

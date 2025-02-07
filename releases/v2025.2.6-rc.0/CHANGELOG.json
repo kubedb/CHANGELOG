@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:10:21.738470933Z",
+  "release_date": "2025-02-07T06:10:37.86922469Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -83,6 +83,24 @@
             {
               "SHA": "7dd4fbe3f",
               "Subject": "Pass different ca for gateway & inCluster (#1380)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6682c895",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#789)"
+            },
+            {
+              "SHA": "ae68ef49",
+              "Subject": "Disable image caching in setup-qemu action (#788)"
             }
           ]
         }

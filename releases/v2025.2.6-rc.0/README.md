@@ -26,6 +26,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.52.0-rc.0)
+
+- [6682c895](https://github.com/kubedb/cli/commit/6682c895) Prepare for release v0.52.0-rc.0 (#789)
+- [ae68ef49](https://github.com/kubedb/cli/commit/ae68ef49) Disable image caching in setup-qemu action (#788)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.7.0-rc.0)

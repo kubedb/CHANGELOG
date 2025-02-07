@@ -55,6 +55,15 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.7.0-rc.0)
+
+- [84909469](https://github.com/kubedb/ferretdb/commit/84909469) Prepare for release v0.7.0-rc.0 (#58)
+- [b158b789](https://github.com/kubedb/ferretdb/commit/b158b789) Disable image caching in setup-qemu action (#57)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.15.0-rc.0)

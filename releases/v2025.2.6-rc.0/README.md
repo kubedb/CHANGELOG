@@ -94,6 +94,16 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.2.6-rc.0](https://github.com/kubedb/docs/releases/tag/v2025.2.6-rc.0)
+
+- [2366860f](https://github.com/kubedb/docs/commit/2366860f) Prepare for release v2025.2.6-rc.0 (#742)
+- [5df67ba3](https://github.com/kubedb/docs/commit/5df67ba3) Fix es backup images for kubestash (#739)
+- [334af951](https://github.com/kubedb/docs/commit/334af951) Add PGBouncer TLS & Reconfigure TLS (#736)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.7.0-rc.0)

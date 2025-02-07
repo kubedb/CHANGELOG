@@ -75,6 +75,18 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.45.0-rc.0)
+
+- [5fb8819c](https://github.com/kubedb/mongodb/commit/5fb8819ca) Prepare for release v0.45.0-rc.0 (#683)
+- [38062196](https://github.com/kubedb/mongodb/commit/380621967) Disable image caching in setup-qemu action (#682)
+- [9d9dfdae](https://github.com/kubedb/mongodb/commit/9d9dfdaea) Enable license restriction and client billing (#681)
+- [9d6457c8](https://github.com/kubedb/mongodb/commit/9d6457c82) Added archiver and init-script manifest restore support (#679)
+- [d295e56a](https://github.com/kubedb/mongodb/commit/d295e56a9) remove `replicas >= 1` validation from replicaset (#677)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.7.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:11:43.439662585Z",
+  "release_date": "2025-02-07T06:11:48.831263778Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -83,6 +83,32 @@
             {
               "SHA": "7dd4fbe3f",
               "Subject": "Pass different ca for gateway & inCluster (#1380)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "85d398f0",
+              "Subject": "Fix lister creation for client billing"
+            },
+            {
+              "SHA": "e5b0f6ac",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#17)"
+            },
+            {
+              "SHA": "75936904",
+              "Subject": "Disable image caching in setup-qemu action (#18)"
+            },
+            {
+              "SHA": "282fb04e",
+              "Subject": "Add client billing support (#16)"
             }
           ]
         }

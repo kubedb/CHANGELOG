@@ -26,6 +26,17 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.5.0-rc.0)
+
+- [85d398f0](https://github.com/kubedb/cassandra/commit/85d398f0) Fix lister creation for client billing
+- [e5b0f6ac](https://github.com/kubedb/cassandra/commit/e5b0f6ac) Prepare for release v0.5.0-rc.0 (#17)
+- [75936904](https://github.com/kubedb/cassandra/commit/75936904) Disable image caching in setup-qemu action (#18)
+- [282fb04e](https://github.com/kubedb/cassandra/commit/282fb04e) Add client billing support (#16)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.52.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.52.0-rc.0)

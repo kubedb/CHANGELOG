@@ -118,6 +118,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.7.0-rc.0)
+
+- [c22e7c86](https://github.com/kubedb/singlestore/commit/c22e7c86) Prepare for release v0.7.0-rc.0 (#58)
+- [ebb993be](https://github.com/kubedb/singlestore/commit/ebb993be) Disable image caching in setup-qemu action (#57)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.7.0-rc.0)

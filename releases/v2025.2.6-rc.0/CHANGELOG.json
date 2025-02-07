@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:14:51.475554753Z",
+  "release_date": "2025-02-07T06:15:26.105599528Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -1107,6 +1107,44 @@
             {
               "SHA": "fe9b60d8",
               "Subject": "Add client billing event support (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.0",
+          "commits": [
+            {
+              "SHA": "34cb745f",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#437)"
+            },
+            {
+              "SHA": "751cbfb3",
+              "Subject": "Disable image caching in setup-qemu action (#436)"
+            },
+            {
+              "SHA": "579aa5f0",
+              "Subject": "Add Postgres Archiver Backup-Restore (#427)"
+            },
+            {
+              "SHA": "d0da32f9",
+              "Subject": "Fix TLS enabled secret part for Postgres (#432)"
+            },
+            {
+              "SHA": "6aa80b8d",
+              "Subject": "MongoDB EndTime fix (Disaster Time Scenario) (#429)"
+            },
+            {
+              "SHA": "9c288453",
+              "Subject": "Add Solr OpsRequest Tests (#428)"
+            },
+            {
+              "SHA": "3729dd68",
+              "Subject": "MariaDB version 11.6.2 check (all) (#431)"
             }
           ]
         }

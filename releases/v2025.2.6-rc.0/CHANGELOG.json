@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:14:05.632880824Z",
+  "release_date": "2025-02-07T06:14:11.078096975Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -883,6 +883,28 @@
             {
               "SHA": "2539e4b4",
               "Subject": "Disable image caching in setup-qemu action (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cd65bb3",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#60)"
+            },
+            {
+              "SHA": "a1e6dfa",
+              "Subject": "Disable image caching in setup-qemu action (#59)"
+            },
+            {
+              "SHA": "7cacd68",
+              "Subject": "Add Stdin Backup Leaf Command support (#57)"
             }
           ]
         }

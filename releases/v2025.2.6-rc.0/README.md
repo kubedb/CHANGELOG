@@ -379,6 +379,16 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.15.0-rc.0)
+
+- [cd65bb3](https://github.com/kubedb/redis-restic-plugin/commit/cd65bb3) Prepare for release v0.15.0-rc.0 (#60)
+- [a1e6dfa](https://github.com/kubedb/redis-restic-plugin/commit/a1e6dfa) Disable image caching in setup-qemu action (#59)
+- [7cacd68](https://github.com/kubedb/redis-restic-plugin/commit/7cacd68) Add Stdin Backup Leaf Command support (#57)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.39.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.39.0-rc.0)

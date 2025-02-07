@@ -184,6 +184,19 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.45.0-rc.0)
+
+- [c670388e](https://github.com/kubedb/mysql/commit/c670388e0) Prepare for release v0.45.0-rc.0 (#665)
+- [fc288a35](https://github.com/kubedb/mysql/commit/fc288a35b) Disable image caching in setup-qemu action (#666)
+- [4453af61](https://github.com/kubedb/mysql/commit/4453af610) Update BinLog Snapshot status (#659)
+- [5cea0f13](https://github.com/kubedb/mysql/commit/5cea0f13f) Add client billing event support (#663)
+- [e8c264e1](https://github.com/kubedb/mysql/commit/e8c264e1b) Added archiver and init-script manifest restore support (#661)
+- [174fdd9e](https://github.com/kubedb/mysql/commit/174fdd9ed) Add --all-databases arg for v5.7.x (#662)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.13.0-rc.0)

@@ -1,4 +1,4 @@
-# KubeDB v2025.2.6-rc.0 (2025-02-06)
+# KubeDB v2025.2.6-rc.0 (2025-02-07)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -32,6 +32,17 @@
 
 - [7deb14c1](https://github.com/kubedb/db-client-go/commit/7deb14c1) Prepare for release v0.7.0-rc.0 (#161)
 - [4790577b](https://github.com/kubedb/db-client-go/commit/4790577b) cert remove from pgbouncer (#158)
+
+
+
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.7.0-rc.0)
+
+- [4ed69176](https://github.com/kubedb/pgpool/commit/4ed69176) Prepare for release v0.7.0-rc.0 (#60)
+- [a4735c17](https://github.com/kubedb/pgpool/commit/a4735c17) Disable image caching in setup-qemu action (#59)
+- [c1bf6d9a](https://github.com/kubedb/pgpool/commit/c1bf6d9a) Enable license restriction and client billing (#58)
+- [0c326d14](https://github.com/kubedb/pgpool/commit/0c326d14) Add basic-auth-active-from annotation in auth secret & Config secret separation  & PID file location added (#56)
 
 
 

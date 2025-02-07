@@ -140,6 +140,18 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.7.0-rc.0)
+
+- [7e6e1cca](https://github.com/kubedb/rabbitmq/commit/7e6e1cca) Fix lister creation for client billing
+- [71d4a65d](https://github.com/kubedb/rabbitmq/commit/71d4a65d) Prepare for release v0.7.0-rc.0 (#66)
+- [4dad3584](https://github.com/kubedb/rabbitmq/commit/4dad3584) Disable image caching in setup-qemu action (#67)
+- [5ae024d8](https://github.com/kubedb/rabbitmq/commit/5ae024d8) Add client billing event support (#64)
+- [a179e524](https://github.com/kubedb/rabbitmq/commit/a179e524) Fix RabbitMQ Deletion Issue (#63)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.45.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.45.0-rc.0)

@@ -598,6 +598,15 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/ui-server/releases/tag/v0.28.0-rc.0)
+
+- [b0032db9](https://github.com/kubedb/ui-server/commit/b0032db9) Prepare for release v0.28.0-rc.0 (#150)
+- [61eff458](https://github.com/kubedb/ui-server/commit/61eff458) Disable image caching in setup-qemu action (#149)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.7.0-rc.0)

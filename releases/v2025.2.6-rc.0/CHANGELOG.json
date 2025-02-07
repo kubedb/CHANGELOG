@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T10:03:31.845131923Z",
+  "release_date": "2025-02-07T10:15:37.383404319Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -1341,6 +1341,24 @@
             {
               "SHA": "3729dd68",
               "Subject": "MariaDB version 11.6.2 check (all) (#431)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b0032db9",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#150)"
+            },
+            {
+              "SHA": "61eff458",
+              "Subject": "Disable image caching in setup-qemu action (#149)"
             }
           ]
         }

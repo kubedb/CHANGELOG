@@ -127,6 +127,14 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.3.0-rc.0)
+
+- [3648382](https://github.com/kubedb/kubedb-verifier/commit/3648382) Prepare for release v0.3.0-rc.0 (#11)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.36.0-rc.0)

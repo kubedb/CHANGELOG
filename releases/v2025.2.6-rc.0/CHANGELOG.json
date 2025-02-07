@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:14:25.235973512Z",
+  "release_date": "2025-02-07T06:14:30.032446366Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -307,6 +307,20 @@
             {
               "SHA": "e64809f",
               "Subject": "Incorporate with `go-sh` leaf command execution (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3648382",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#11)"
             }
           ]
         }

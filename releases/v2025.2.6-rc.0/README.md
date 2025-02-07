@@ -311,6 +311,16 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.10.0-rc.0)
+
+- [1b36229](https://github.com/kubedb/singlestore-restic-plugin/commit/1b36229) Prepare for release v0.10.0-rc.0 (#36)
+- [4c9a228](https://github.com/kubedb/singlestore-restic-plugin/commit/4c9a228) Disable image caching in setup-qemu action (#35)
+- [98dfeae](https://github.com/kubedb/singlestore-restic-plugin/commit/98dfeae) Add Stdin Backup Leaf Command support (#33)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.7.0-rc.0)

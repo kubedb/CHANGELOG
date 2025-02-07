@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:16:41.492204334Z",
+  "release_date": "2025-02-07T06:16:44.839908567Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -975,6 +975,15 @@
               "Subject": "Add Stdin Backup Leaf Command support (#62)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": null
         }
       ]
     },

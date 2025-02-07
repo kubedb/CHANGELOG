@@ -104,6 +104,18 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.36.0-rc.0)
+
+- [b4aa7696](https://github.com/kubedb/mariadb/commit/b4aa76961) Prepare for release v0.36.0-rc.0 (#308)
+- [35f8872b](https://github.com/kubedb/mariadb/commit/35f8872bb) Disable image caching in setup-qemu action (#309)
+- [1ae948a1](https://github.com/kubedb/mariadb/commit/1ae948a15) Add client billing event support (#306)
+- [163d01c1](https://github.com/kubedb/mariadb/commit/163d01c11) Added archiver and init-script manifest restore support (#305)
+- [c32d1af6](https://github.com/kubedb/mariadb/commit/c32d1af68) Fix AuthSecret Check (#296)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.12.0-rc.0)

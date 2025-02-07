@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:13:43.505924032Z",
+  "release_date": "2025-02-07T06:13:59.149468215Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -225,6 +225,36 @@
             {
               "SHA": "b158b789",
               "Subject": "Disable image caching in setup-qemu action (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "70d1c5ba",
+              "Subject": "Update listers for client billing (#136)"
+            },
+            {
+              "SHA": "a9324d11",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "b19380dd",
+              "Subject": "Disable image caching in setup-qemu action (#134)"
+            },
+            {
+              "SHA": "3b96d82d",
+              "Subject": "Add client billing event support (#132)"
+            },
+            {
+              "SHA": "b948518b",
+              "Subject": "Add SchemaRegistry with Rest Proxy  (#128)"
             }
           ]
         }

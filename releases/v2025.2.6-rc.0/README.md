@@ -93,6 +93,18 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.23.0-rc.0)
+
+- [70d1c5ba](https://github.com/kubedb/kafka/commit/70d1c5ba) Update listers for client billing (#136)
+- [a9324d11](https://github.com/kubedb/kafka/commit/a9324d11) Prepare for release v0.23.0-rc.0 (#135)
+- [b19380dd](https://github.com/kubedb/kafka/commit/b19380dd) Disable image caching in setup-qemu action (#134)
+- [3b96d82d](https://github.com/kubedb/kafka/commit/3b96d82d) Add client billing event support (#132)
+- [b948518b](https://github.com/kubedb/kafka/commit/b948518b) Add SchemaRegistry with Rest Proxy  (#128)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.15.0-rc.0)

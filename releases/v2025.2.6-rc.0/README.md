@@ -117,6 +117,16 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.13.0-rc.0)
+
+- [11c6e83c](https://github.com/kubedb/mysql-archiver/commit/11c6e83c) Prepare for release v0.13.0-rc.0 (#52)
+- [364b3500](https://github.com/kubedb/mysql-archiver/commit/364b3500) Disable image caching in setup-qemu action (#53)
+- [f7833baf](https://github.com/kubedb/mysql-archiver/commit/f7833baf) Update Inc Snapshot status (#49)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.30.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.30.0-rc.0)

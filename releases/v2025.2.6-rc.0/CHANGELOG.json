@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:10:56.461959343Z",
+  "release_date": "2025-02-07T06:11:02.704929787Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -285,6 +285,28 @@
             {
               "SHA": "e285bb2c",
               "Subject": "Add Arbiter node support (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "11c6e83c",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "364b3500",
+              "Subject": "Disable image caching in setup-qemu action (#53)"
+            },
+            {
+              "SHA": "f7833baf",
+              "Subject": "Update Inc Snapshot status (#49)"
             }
           ]
         }

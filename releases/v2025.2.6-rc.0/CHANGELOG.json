@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:11:09.553658391Z",
+  "release_date": "2025-02-07T06:11:15.658070828Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -145,6 +145,32 @@
             {
               "SHA": "4790577b",
               "Subject": "cert remove from pgbouncer (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f85c4ee",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#88)"
+            },
+            {
+              "SHA": "155aea8",
+              "Subject": "Disable image caching in setup-qemu action (#87)"
+            },
+            {
+              "SHA": "1c168b9",
+              "Subject": "Archiver and InitScript support added for backup and restore (#84)"
+            },
+            {
+              "SHA": "e64809f",
+              "Subject": "Incorporate with `go-sh` leaf command execution (#85)"
             }
           ]
         }

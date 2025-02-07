@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:13:59.149468215Z",
+  "release_date": "2025-02-07T06:14:05.632880824Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -207,6 +207,32 @@
             {
               "SHA": "4790577b",
               "Subject": "cert remove from pgbouncer (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "31e2f5d6",
+              "Subject": "Update listers for client billing"
+            },
+            {
+              "SHA": "a2c96244",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "61806784",
+              "Subject": "Disable image caching in setup-qemu action (#68)"
+            },
+            {
+              "SHA": "2f632333",
+              "Subject": "Add client billing event support (#67)"
             }
           ]
         }

@@ -84,6 +84,17 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.7.0-rc.0)
+
+- [31e2f5d6](https://github.com/kubedb/druid/commit/31e2f5d6) Update listers for client billing
+- [a2c96244](https://github.com/kubedb/druid/commit/a2c96244) Prepare for release v0.7.0-rc.0 (#69)
+- [61806784](https://github.com/kubedb/druid/commit/61806784) Disable image caching in setup-qemu action (#68)
+- [2f632333](https://github.com/kubedb/druid/commit/2f632333) Add client billing event support (#67)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.7.0-rc.0)

@@ -177,6 +177,16 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.15.0-rc.0)
+
+- [c06b10a](https://github.com/kubedb/mongodb-restic-plugin/commit/c06b10a) Prepare for release v0.15.0-rc.0 (#78)
+- [c1892f4](https://github.com/kubedb/mongodb-restic-plugin/commit/c1892f4) Disable image caching in setup-qemu action (#77)
+- [c37543b](https://github.com/kubedb/mongodb-restic-plugin/commit/c37543b) Add Stdin Backup Leaf Command support (#75)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.7.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:12:59.759053972Z",
+  "release_date": "2025-02-07T06:13:22.355964075Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -417,6 +417,28 @@
             {
               "SHA": "d295e56a9",
               "Subject": "remove `replicas >= 1` validation from replicaset (#677)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c06b10a",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "c1892f4",
+              "Subject": "Disable image caching in setup-qemu action (#77)"
+            },
+            {
+              "SHA": "c37543b",
+              "Subject": "Add Stdin Backup Leaf Command support (#75)"
             }
           ]
         }

@@ -45,6 +45,16 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.7.0-rc.0)
+
+- [f5dd10a7](https://github.com/kubedb/mssql-coordinator/commit/f5dd10a7) Prepare for release v0.7.0-rc.0 (#29)
+- [c570b028](https://github.com/kubedb/mssql-coordinator/commit/c570b028) Disable image caching in setup-qemu action (#28)
+- [e285bb2c](https://github.com/kubedb/mssql-coordinator/commit/e285bb2c) Add Arbiter node support (#24)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.7.0-rc.0)

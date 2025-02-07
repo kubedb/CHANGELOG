@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:04:09.367472853Z",
+  "release_date": "2025-02-07T06:04:16.301086683Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -123,6 +123,28 @@
             {
               "SHA": "c156d207",
               "Subject": "Disable image caching in setup-qemu action (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f5dd10a7",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "c570b028",
+              "Subject": "Disable image caching in setup-qemu action (#28)"
+            },
+            {
+              "SHA": "e285bb2c",
+              "Subject": "Add Arbiter node support (#24)"
             }
           ]
         }

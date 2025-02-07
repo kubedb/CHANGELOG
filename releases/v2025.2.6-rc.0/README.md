@@ -320,6 +320,16 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.15.0-rc.0)
+
+- [8acee3b](https://github.com/kubedb/mysql-restic-plugin/commit/8acee3b) Prepare for release v0.15.0-rc.0 (#67)
+- [b2144fb](https://github.com/kubedb/mysql-restic-plugin/commit/b2144fb) Disable image caching in setup-qemu action (#68)
+- [6830436](https://github.com/kubedb/mysql-restic-plugin/commit/6830436) Add Stdin Backup Leaf Command support (#61)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.30.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.30.0-rc.0)

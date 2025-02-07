@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T10:16:13.284303488Z",
+  "release_date": "2025-02-07T11:16:40.949694378Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -813,6 +813,60 @@
             {
               "SHA": "0ba8326",
               "Subject": "Disable image caching in setup-qemu action (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.39.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f8bc59dde",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#708)"
+            },
+            {
+              "SHA": "f6b05657e",
+              "Subject": "Fix nats initialization"
+            },
+            {
+              "SHA": "ad10ad5a1",
+              "Subject": "Disable image caching in setup-qemu action (#707)"
+            },
+            {
+              "SHA": "5545b2dc6",
+              "Subject": "Add Recommendation Improvement and Bug Fixes (#704)"
+            },
+            {
+              "SHA": "81a08203b",
+              "Subject": "Allow Postgres Failover While Ops Request Progressing (#703)"
+            },
+            {
+              "SHA": "f2d98a46d",
+              "Subject": "add reconfigure-tls to PgBouncer (#701)"
+            },
+            {
+              "SHA": "b7300c6e2",
+              "Subject": "Add Arbiter Node Support, update restart for SQL Server (#649)"
+            },
+            {
+              "SHA": "b513e9e1d",
+              "Subject": "Fix RabbitMQ Version Update (#702)"
+            },
+            {
+              "SHA": "0abc08163",
+              "Subject": "Bug Fix in Reconfiguration(pgpool) (#698)"
+            },
+            {
+              "SHA": "1fd029ff3",
+              "Subject": "add pgpool rotate auth (#697)"
+            },
+            {
+              "SHA": "6e732fc7c",
+              "Subject": "Add Rotate auth for pgbouncer (#693)"
             }
           ]
         }

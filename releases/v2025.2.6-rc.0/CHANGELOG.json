@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:14:11.078096975Z",
+  "release_date": "2025-02-07T06:14:19.441830662Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -535,6 +535,44 @@
             {
               "SHA": "e285bb2c",
               "Subject": "Add Arbiter node support (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "25d9ee44",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "3a9b02e7",
+              "Subject": "Update listers for client billing (#58)"
+            },
+            {
+              "SHA": "4bb771b1",
+              "Subject": "Disable image caching in setup-qemu action (#57)"
+            },
+            {
+              "SHA": "bdf3175d",
+              "Subject": "Enable license restriction and client billing (#55)"
+            },
+            {
+              "SHA": "721f3cfe",
+              "Subject": "Added archiver and init-script manifest restore support (#54)"
+            },
+            {
+              "SHA": "fd1c8cfb",
+              "Subject": "Add arbiter node support for quorum in even-sized clusters (#46)"
+            },
+            {
+              "SHA": "d95108ae",
+              "Subject": "Set archiver ref into db while label set (#53)"
             }
           ]
         }

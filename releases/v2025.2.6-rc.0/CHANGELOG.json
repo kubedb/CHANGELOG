@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:13:37.559933982Z",
+  "release_date": "2025-02-07T06:13:43.505924032Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -417,6 +417,24 @@
             {
               "SHA": "d295e56a9",
               "Subject": "remove `replicas >= 1` validation from replicaset (#677)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9871552",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "92999f5",
+              "Subject": "Disable image caching in setup-qemu action (#44)"
             }
           ]
         }

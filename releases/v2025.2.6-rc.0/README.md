@@ -177,6 +177,15 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.13.0-rc.0)
+
+- [9871552](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/9871552) Prepare for release v0.13.0-rc.0 (#45)
+- [92999f5](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/92999f5) Disable image caching in setup-qemu action (#44)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.15.0-rc.0)

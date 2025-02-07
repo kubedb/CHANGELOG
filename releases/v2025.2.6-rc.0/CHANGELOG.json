@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:16:44.839908567Z",
+  "release_date": "2025-02-07T06:16:50.623641865Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -737,6 +737,24 @@
             {
               "SHA": "6b61ec27",
               "Subject": "Disable image caching in setup-qemu action (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "33f6918",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#40)"
+            },
+            {
+              "SHA": "9f91792",
+              "Subject": "Disable image caching in setup-qemu action (#41)"
             }
           ]
         }

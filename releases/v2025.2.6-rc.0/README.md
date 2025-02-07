@@ -225,6 +225,15 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.31.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.31.0-rc.0)
+
+- [e56c4c25](https://github.com/kubedb/redis-coordinator/commit/e56c4c25) Prepare for release v0.31.0-rc.0 (#121)
+- [2539e4b4](https://github.com/kubedb/redis-coordinator/commit/2539e4b4) Disable image caching in setup-qemu action (#120)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.7.0-rc.0)

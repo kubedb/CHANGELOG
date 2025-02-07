@@ -466,6 +466,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.39.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.39.0-rc.0)
+
+- [15e87ca7](https://github.com/kubedb/proxysql/commit/15e87ca70) Prepare for release v0.39.0-rc.0 (#375)
+- [ade37da5](https://github.com/kubedb/proxysql/commit/ade37da53) Disable image caching in setup-qemu action (#374)
+- [22a4b65a](https://github.com/kubedb/proxysql/commit/22a4b65af) Add client billing event support (#372)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.7.0-rc.0)

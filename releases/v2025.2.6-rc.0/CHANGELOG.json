@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T09:50:42.894779722Z",
+  "release_date": "2025-02-07T09:51:18.685181035Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -1050,6 +1050,28 @@
         {
           "tag": "v0.14.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.39.0-rc.0",
+          "commits": [
+            {
+              "SHA": "15e87ca70",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#375)"
+            },
+            {
+              "SHA": "ade37da53",
+              "Subject": "Disable image caching in setup-qemu action (#374)"
+            },
+            {
+              "SHA": "22a4b65af",
+              "Subject": "Add client billing event support (#372)"
+            }
+          ]
         }
       ]
     },

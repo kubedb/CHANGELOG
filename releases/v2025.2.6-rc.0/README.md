@@ -66,3 +66,17 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.52.0-rc.0)
+
+- [18f17d97](https://github.com/kubedb/postgres/commit/18f17d974) Prepare for release v0.52.0-rc.0 (#790)
+- [db644a80](https://github.com/kubedb/postgres/commit/db644a803) Disable image caching in setup-qemu action (#789)
+- [6ad420f9](https://github.com/kubedb/postgres/commit/6ad420f93) Add client billing event support (#783)
+- [e056f480](https://github.com/kubedb/postgres/commit/e056f4800) Added archiver and init-script manifest restore support (#787)
+- [8ed11d08](https://github.com/kubedb/postgres/commit/8ed11d084) Archive mode related changes and add startTime-endTime in incremental snapshot (#784)
+- [fe0e2ac0](https://github.com/kubedb/postgres/commit/fe0e2ac0e) Parse license restrictions
+- [eaf5b26c](https://github.com/kubedb/postgres/commit/eaf5b26c0) Add license restrictions (#782)
+
+
+

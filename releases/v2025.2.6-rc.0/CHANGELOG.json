@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:04:16.301086683Z",
+  "release_date": "2025-02-07T06:04:31.549522937Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -171,6 +171,44 @@
             {
               "SHA": "0c326d14",
               "Subject": "Add basic-auth-active-from annotation in auth secret & Config secret separation  & PID file location added (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.0",
+          "commits": [
+            {
+              "SHA": "18f17d974",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#790)"
+            },
+            {
+              "SHA": "db644a803",
+              "Subject": "Disable image caching in setup-qemu action (#789)"
+            },
+            {
+              "SHA": "6ad420f93",
+              "Subject": "Add client billing event support (#783)"
+            },
+            {
+              "SHA": "e056f4800",
+              "Subject": "Added archiver and init-script manifest restore support (#787)"
+            },
+            {
+              "SHA": "8ed11d084",
+              "Subject": "Archive mode related changes and add startTime-endTime in incremental snapshot (#784)"
+            },
+            {
+              "SHA": "fe0e2ac0e",
+              "Subject": "Parse license restrictions"
+            },
+            {
+              "SHA": "eaf5b26c0",
+              "Subject": "Add license restrictions (#782)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:16:50.623641865Z",
+  "release_date": "2025-02-07T09:50:42.894779722Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -861,6 +861,36 @@
             {
               "SHA": "8c0d12da",
               "Subject": "Enhance Archive WAL Management and Improve Failover Stability (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.39.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d2893e64",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#359)"
+            },
+            {
+              "SHA": "6b985c2c",
+              "Subject": "Disable image caching in setup-qemu action (#358)"
+            },
+            {
+              "SHA": "eb7d008e",
+              "Subject": "Enable license restriction and client billing (#357)"
+            },
+            {
+              "SHA": "2b4ee8f5",
+              "Subject": "reconfigure-tls changes and cert remove (#356)"
+            },
+            {
+              "SHA": "4cf2f0bc",
+              "Subject": "Update AuthActiveAnnotation const in secret (#352)"
             }
           ]
         }

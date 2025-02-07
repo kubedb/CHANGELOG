@@ -378,6 +378,18 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.39.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.39.0-rc.0)
+
+- [d2893e64](https://github.com/kubedb/pgbouncer/commit/d2893e64) Prepare for release v0.39.0-rc.0 (#359)
+- [6b985c2c](https://github.com/kubedb/pgbouncer/commit/6b985c2c) Disable image caching in setup-qemu action (#358)
+- [eb7d008e](https://github.com/kubedb/pgbouncer/commit/eb7d008e) Enable license restriction and client billing (#357)
+- [2b4ee8f5](https://github.com/kubedb/pgbouncer/commit/2b4ee8f5) reconfigure-tls changes and cert remove (#356)
+- [4cf2f0bc](https://github.com/kubedb/pgbouncer/commit/4cf2f0bc) Update AuthActiveAnnotation const in secret (#352)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.7.0-rc.0)

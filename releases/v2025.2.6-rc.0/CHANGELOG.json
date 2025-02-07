@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:14:30.032446366Z",
+  "release_date": "2025-02-07T06:14:51.475554753Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -233,6 +233,32 @@
             {
               "SHA": "2f632333",
               "Subject": "Add client billing event support (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7be7d7282",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#749)"
+            },
+            {
+              "SHA": "953e8b529",
+              "Subject": "Add restriction for client billing (#750)"
+            },
+            {
+              "SHA": "c22f60990",
+              "Subject": "Disable image caching in setup-qemu action (#748)"
+            },
+            {
+              "SHA": "39d728289",
+              "Subject": "Add client billing event support (#747)"
             }
           ]
         }

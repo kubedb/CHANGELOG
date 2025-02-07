@@ -95,6 +95,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.52.0-rc.0)
+
+- [7be7d728](https://github.com/kubedb/elasticsearch/commit/7be7d7282) Prepare for release v0.52.0-rc.0 (#749)
+- [953e8b52](https://github.com/kubedb/elasticsearch/commit/953e8b529) Add restriction for client billing (#750)
+- [c22f6099](https://github.com/kubedb/elasticsearch/commit/c22f60990) Disable image caching in setup-qemu action (#748)
+- [39d72828](https://github.com/kubedb/elasticsearch/commit/39d728289) Add client billing event support (#747)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.7.0-rc.0)

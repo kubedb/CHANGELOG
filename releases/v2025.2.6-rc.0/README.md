@@ -65,6 +65,15 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.25.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.25.0-rc.0)
+
+- [3e09a9ad](https://github.com/kubedb/percona-xtradb-coordinator/commit/3e09a9ad) Prepare for release v0.25.0-rc.0 (#89)
+- [4013787c](https://github.com/kubedb/percona-xtradb-coordinator/commit/4013787c) Disable image caching in setup-qemu action (#90)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.7.0-rc.0)

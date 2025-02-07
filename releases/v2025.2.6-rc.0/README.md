@@ -136,6 +136,16 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/kibana/releases/tag/v0.28.0-rc.0)
+
+- [b447af9a](https://github.com/kubedb/kibana/commit/b447af9a) Prepare for release v0.28.0-rc.0 (#137)
+- [e1c3a494](https://github.com/kubedb/kibana/commit/e1c3a494) Update reconcilestate and billing restrictions (#138)
+- [82f37250](https://github.com/kubedb/kibana/commit/82f37250) Disable image caching in setup-qemu action (#136)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.15.0-rc.0)

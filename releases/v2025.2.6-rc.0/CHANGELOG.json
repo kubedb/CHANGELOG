@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T09:51:18.685181035Z",
+  "release_date": "2025-02-07T09:52:56.861686405Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -325,6 +325,28 @@
             {
               "SHA": "b948518b",
               "Subject": "Add SchemaRegistry with Rest Proxy  (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b447af9a",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#137)"
+            },
+            {
+              "SHA": "e1c3a494",
+              "Subject": "Update reconcilestate and billing restrictions (#138)"
+            },
+            {
+              "SHA": "82f37250",
+              "Subject": "Disable image caching in setup-qemu action (#136)"
             }
           ]
         }

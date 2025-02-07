@@ -83,6 +83,17 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.36.0-rc.0)
+
+- [0bc3ed8d](https://github.com/kubedb/pg-coordinator/commit/0bc3ed8d) Prepare for release v0.36.0-rc.0 (#187)
+- [e5aabf68](https://github.com/kubedb/pg-coordinator/commit/e5aabf68) Disable image caching in setup-qemu action (#188)
+- [a286040e](https://github.com/kubedb/pg-coordinator/commit/a286040e) Allow failover with data loss (#186)
+- [8c0d12da](https://github.com/kubedb/pg-coordinator/commit/8c0d12da) Enhance Archive WAL Management and Improve Failover Stability (#184)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.7.0-rc.0)

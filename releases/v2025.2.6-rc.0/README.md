@@ -45,6 +45,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.32.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.32.0-rc.0)
+
+- [ff0a938a](https://github.com/kubedb/mariadb-coordinator/commit/ff0a938a) Prepare for release v0.32.0-rc.0 (#137)
+- [efb48fb1](https://github.com/kubedb/mariadb-coordinator/commit/efb48fb1) Disable image caching in setup-qemu action (#136)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.10.0-rc.0)

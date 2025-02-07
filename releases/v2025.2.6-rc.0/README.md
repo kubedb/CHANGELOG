@@ -45,6 +45,16 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.10.0-rc.0)
+
+- [1838e52](https://github.com/kubedb/mariadb-restic-plugin/commit/1838e52) Prepare for release v0.10.0-rc.0 (#38)
+- [ed072cc](https://github.com/kubedb/mariadb-restic-plugin/commit/ed072cc) Disable image caching in setup-qemu action (#39)
+- [e7cfb82](https://github.com/kubedb/mariadb-restic-plugin/commit/e7cfb82) Add Stdin Backup Leaf Command support (#36)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.7.0-rc.0)

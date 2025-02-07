@@ -320,6 +320,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.30.0-rc.0)
+
+- [0ba8326](https://github.com/kubedb/mysql-router-init/commit/0ba8326) Disable image caching in setup-qemu action (#50)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.39.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.39.0-rc.0)

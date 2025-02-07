@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:13:22.355964075Z",
+  "release_date": "2025-02-07T06:13:37.559933982Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -553,6 +553,32 @@
             {
               "SHA": "6b61ec27",
               "Subject": "Disable image caching in setup-qemu action (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.39.0-rc.0",
+          "commits": [
+            {
+              "SHA": "add342c62",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#394)"
+            },
+            {
+              "SHA": "bbe09606f",
+              "Subject": "Fix AuthSecret Check (#386)"
+            },
+            {
+              "SHA": "4f888fbfe",
+              "Subject": "Disable image caching in setup-qemu action (#393)"
+            },
+            {
+              "SHA": "ebe98bef2",
+              "Subject": "Add client billing event support (#392)"
             }
           ]
         }

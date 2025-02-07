@@ -238,6 +238,17 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.39.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.39.0-rc.0)
+
+- [add342c6](https://github.com/kubedb/percona-xtradb/commit/add342c62) Prepare for release v0.39.0-rc.0 (#394)
+- [bbe09606](https://github.com/kubedb/percona-xtradb/commit/bbe09606f) Fix AuthSecret Check (#386)
+- [4f888fbf](https://github.com/kubedb/percona-xtradb/commit/4f888fbfe) Disable image caching in setup-qemu action (#393)
+- [ebe98bef](https://github.com/kubedb/percona-xtradb/commit/ebe98bef2) Add client billing event support (#392)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.25.0-rc.0)

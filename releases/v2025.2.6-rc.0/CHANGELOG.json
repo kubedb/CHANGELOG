@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T11:53:19.619513356Z",
+  "release_date": "2025-02-07T12:47:29.272161804Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -1457,6 +1457,24 @@
             {
               "SHA": "61eff458",
               "Subject": "Disable image caching in setup-qemu action (#149)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b3b3c562",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#143)"
+            },
+            {
+              "SHA": "f5cfed8f",
+              "Subject": "Disable image caching in setup-qemu action (#142)"
             }
           ]
         }

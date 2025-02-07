@@ -106,6 +106,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.30.0-rc.0)
+
+- [40e90068](https://github.com/kubedb/mysql-coordinator/commit/40e90068) Prepare for release v0.30.0-rc.0 (#133)
+- [6b61ec27](https://github.com/kubedb/mysql-coordinator/commit/6b61ec27) Disable image caching in setup-qemu action (#134)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.25.0-rc.0)

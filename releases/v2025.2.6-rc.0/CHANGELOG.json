@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:05:02.82370657Z",
+  "release_date": "2025-02-07T06:05:07.730823759Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -267,6 +267,28 @@
             {
               "SHA": "eaf5b26c0",
               "Subject": "Add license restrictions (#782)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "91d569b",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#65)"
+            },
+            {
+              "SHA": "87c8e45",
+              "Subject": "Disable image caching in setup-qemu action (#64)"
+            },
+            {
+              "SHA": "b287099",
+              "Subject": "Add Stdin Backup Leaf Command support (#62)"
             }
           ]
         }

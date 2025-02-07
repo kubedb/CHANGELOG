@@ -128,6 +128,15 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.6.0-rc.0)
+
+- [41265e0](https://github.com/kubedb/mssqlserver-walg-plugin/commit/41265e0) Prepare for release v0.6.0-rc.0 (#18)
+- [cc57300](https://github.com/kubedb/mssqlserver-walg-plugin/commit/cc57300) Disable image caching in setup-qemu action (#17)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.13.0-rc.0)

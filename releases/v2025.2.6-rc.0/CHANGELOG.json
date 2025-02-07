@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:11:48.831263778Z",
+  "release_date": "2025-02-07T06:11:54.152310724Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -153,6 +153,28 @@
             {
               "SHA": "60c715bf",
               "Subject": "Add client billing event support (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3c2aa0a",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#32)"
+            },
+            {
+              "SHA": "3a34720",
+              "Subject": "Disable image caching in setup-qemu action (#31)"
+            },
+            {
+              "SHA": "f189381",
+              "Subject": "Incorporate with go-sh leaf command execution (#29)"
             }
           ]
         }

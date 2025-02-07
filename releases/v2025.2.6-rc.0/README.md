@@ -57,6 +57,16 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.10.0-rc.0)
+
+- [3c2aa0a](https://github.com/kubedb/dashboard-restic-plugin/commit/3c2aa0a) Prepare for release v0.10.0-rc.0 (#32)
+- [3a34720](https://github.com/kubedb/dashboard-restic-plugin/commit/3a34720) Disable image caching in setup-qemu action (#31)
+- [f189381](https://github.com/kubedb/dashboard-restic-plugin/commit/f189381) Incorporate with go-sh leaf command execution (#29)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.7.0-rc.0)

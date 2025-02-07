@@ -140,6 +140,18 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.45.0-rc.0)
+
+- [57992fa9](https://github.com/kubedb/redis/commit/57992fa92) Prepare for release v0.45.0-rc.0 (#575)
+- [01332fde](https://github.com/kubedb/redis/commit/01332fdeb) Disable image caching in setup-qemu action (#576)
+- [67e0e092](https://github.com/kubedb/redis/commit/67e0e0923) Enable license restriction and client billing (#574)
+- [d9140fd6](https://github.com/kubedb/redis/commit/d9140fd65) Enable license restriction and client billing (#572)
+- [1e8f2763](https://github.com/kubedb/redis/commit/1e8f27634) Move mutator defaults to SetDefaults() (#571)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.7.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:05:48.785296689Z",
+  "release_date": "2025-02-07T06:06:00.658171584Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -341,6 +341,36 @@
             {
               "SHA": "b287099",
               "Subject": "Add Stdin Backup Leaf Command support (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.0",
+          "commits": [
+            {
+              "SHA": "57992fa92",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#575)"
+            },
+            {
+              "SHA": "01332fdeb",
+              "Subject": "Disable image caching in setup-qemu action (#576)"
+            },
+            {
+              "SHA": "67e0e0923",
+              "Subject": "Enable license restriction and client billing (#574)"
+            },
+            {
+              "SHA": "d9140fd65",
+              "Subject": "Enable license restriction and client billing (#572)"
+            },
+            {
+              "SHA": "1e8f27634",
+              "Subject": "Move mutator defaults to SetDefaults() (#571)"
             }
           ]
         }

@@ -80,3 +80,14 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.7.0-rc.0)
+
+- [700ce01b](https://github.com/kubedb/solr/commit/700ce01b) Prepare for release v0.7.0-rc.0 (#67)
+- [9216caea](https://github.com/kubedb/solr/commit/9216caea) Fix lister creation for client billing (#66)
+- [43fdf9b2](https://github.com/kubedb/solr/commit/43fdf9b2) Disable image caching in setup-qemu action (#65)
+- [fe9b60d8](https://github.com/kubedb/solr/commit/fe9b60d8) Add client billing event support (#64)
+
+
+

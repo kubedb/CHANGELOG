@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:04:31.549522937Z",
+  "release_date": "2025-02-07T06:04:38.416610741Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -209,6 +209,32 @@
             {
               "SHA": "eaf5b26c0",
               "Subject": "Add license restrictions (#782)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "700ce01b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "9216caea",
+              "Subject": "Fix lister creation for client billing (#66)"
+            },
+            {
+              "SHA": "43fdf9b2",
+              "Subject": "Disable image caching in setup-qemu action (#65)"
+            },
+            {
+              "SHA": "fe9b60d8",
+              "Subject": "Add client billing event support (#64)"
             }
           ]
         }

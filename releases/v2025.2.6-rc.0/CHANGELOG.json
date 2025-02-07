@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T10:15:37.383404319Z",
+  "release_date": "2025-02-07T10:16:13.284303488Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -1219,6 +1219,28 @@
             {
               "SHA": "fce9f58c",
               "Subject": "Disable image caching in setup-qemu action (#287)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c5649c28",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#131)"
+            },
+            {
+              "SHA": "4f52fd34",
+              "Subject": "Fix nats initialization"
+            },
+            {
+              "SHA": "49e83a00",
+              "Subject": "Disable image caching in setup-qemu action (#130)"
             }
           ]
         }

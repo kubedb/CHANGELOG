@@ -545,6 +545,16 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/schema-manager/releases/tag/v0.28.0-rc.0)
+
+- [c5649c28](https://github.com/kubedb/schema-manager/commit/c5649c28) Prepare for release v0.28.0-rc.0 (#131)
+- [4f52fd34](https://github.com/kubedb/schema-manager/commit/4f52fd34) Fix nats initialization
+- [49e83a00](https://github.com/kubedb/schema-manager/commit/49e83a00) Disable image caching in setup-qemu action (#130)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.7.0-rc.0)

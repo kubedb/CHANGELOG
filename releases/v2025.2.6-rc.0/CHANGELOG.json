@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:15:26.105599528Z",
+  "release_date": "2025-02-07T06:15:31.681674704Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -259,6 +259,24 @@
             {
               "SHA": "39d728289",
               "Subject": "Add client billing event support (#747)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6a087679",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#56)"
+            },
+            {
+              "SHA": "e06c0877",
+              "Subject": "Add Stdin Backup Leaf Command Support (#54)"
             }
           ]
         }

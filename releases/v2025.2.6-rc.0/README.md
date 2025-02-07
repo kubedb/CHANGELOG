@@ -106,6 +106,15 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.15.0-rc.0)
+
+- [6a087679](https://github.com/kubedb/elasticsearch-restic-plugin/commit/6a087679) Prepare for release v0.15.0-rc.0 (#56)
+- [e06c0877](https://github.com/kubedb/elasticsearch-restic-plugin/commit/e06c0877) Add Stdin Backup Leaf Command Support (#54)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.7.0-rc.0)

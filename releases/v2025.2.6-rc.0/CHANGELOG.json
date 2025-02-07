@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T06:15:36.633910428Z",
+  "release_date": "2025-02-07T06:16:19.031491324Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -631,6 +631,20 @@
             {
               "SHA": "d95108ae",
               "Subject": "Set archiver ref into db while label set (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cea73fd",
+              "Subject": "Disable image caching in setup-qemu action (#10)"
             }
           ]
         }

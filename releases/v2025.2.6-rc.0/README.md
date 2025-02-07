@@ -271,6 +271,14 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.6.0-rc.0)
+
+- [cea73fd](https://github.com/kubedb/mssqlserver-archiver/commit/cea73fd) Disable image caching in setup-qemu action (#10)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.6.0-rc.0)

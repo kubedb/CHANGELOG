@@ -115,6 +115,15 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.12.0-rc.0)
+
+- [b94da98](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/b94da98) Prepare for release v0.12.0-rc.0 (#40)
+- [2106e19](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/2106e19) Disable image caching in setup-qemu action (#39)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.10.0-rc.0)

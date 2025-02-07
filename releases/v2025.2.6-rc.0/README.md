@@ -511,6 +511,16 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.7.0-rc.0)
+
+- [ace3a6dd](https://github.com/kubedb/zookeeper/commit/ace3a6dd) Prepare for release v0.7.0-rc.0 (#57)
+- [89699f8d](https://github.com/kubedb/zookeeper/commit/89699f8d) Disable image caching in setup-qemu action (#56)
+- [9a81250c](https://github.com/kubedb/zookeeper/commit/9a81250c) Add client billing event support (#55)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.8.0-rc.0)

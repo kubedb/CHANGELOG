@@ -26,6 +26,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.37.0-rc.0](https://github.com/kubedb/autoscaler/releases/tag/v0.37.0-rc.0)
+
+- [281f1a30](https://github.com/kubedb/autoscaler/commit/281f1a30) Prepare for release v0.37.0-rc.0 (#238)
+- [750466be](https://github.com/kubedb/autoscaler/commit/750466be) Fix nats initialization (#237)
+- [51b090f7](https://github.com/kubedb/autoscaler/commit/51b090f7) Disable image caching in setup-qemu action (#236)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.5.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.5.0-rc.0)

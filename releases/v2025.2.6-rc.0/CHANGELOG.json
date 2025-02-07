@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.6-rc.0",
-  "release_date": "2025-02-07T11:16:40.949694378Z",
+  "release_date": "2025-02-07T11:53:19.619513356Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.6-rc.0",
   "kubernetes_version": "1.26+",
@@ -83,6 +83,28 @@
             {
               "SHA": "7dd4fbe3f",
               "Subject": "Pass different ca for gateway & inCluster (#1380)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.0",
+          "commits": [
+            {
+              "SHA": "281f1a30",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#238)"
+            },
+            {
+              "SHA": "750466be",
+              "Subject": "Fix nats initialization (#237)"
+            },
+            {
+              "SHA": "51b090f7",
+              "Subject": "Disable image caching in setup-qemu action (#236)"
             }
           ]
         }

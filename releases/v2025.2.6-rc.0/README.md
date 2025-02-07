@@ -263,6 +263,15 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.39.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.39.0-rc.0)
+
+- [43e19c32](https://github.com/kubedb/replication-mode-detector/commit/43e19c32) Prepare for release v0.39.0-rc.0 (#286)
+- [fce9f58c](https://github.com/kubedb/replication-mode-detector/commit/fce9f58c) Disable image caching in setup-qemu action (#287)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.7.0-rc.0)

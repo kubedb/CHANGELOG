@@ -275,6 +275,17 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.30.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.30.0)
+
+- [f00b8511](https://github.com/kubedb/mysql-coordinator/commit/f00b8511) Prepare for release v0.30.0 (#136)
+- [1611bdf9](https://github.com/kubedb/mysql-coordinator/commit/1611bdf9) Use Go 1.24 (#135)
+- [40e90068](https://github.com/kubedb/mysql-coordinator/commit/40e90068) Prepare for release v0.30.0-rc.0 (#133)
+- [6b61ec27](https://github.com/kubedb/mysql-coordinator/commit/6b61ec27) Disable image caching in setup-qemu action (#134)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.13.0)

@@ -695,6 +695,24 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.7.0](https://github.com/kubedb/solr/releases/tag/v0.7.0)
+
+- [3cd88780](https://github.com/kubedb/solr/commit/3cd88780) Prepare for release v0.7.0 (#74)
+- [9ae38877](https://github.com/kubedb/solr/commit/9ae38877) Test against k8s 1.32 (#73)
+- [7db0eee6](https://github.com/kubedb/solr/commit/7db0eee6) Use Go 1.24 (#72)
+- [bd805cac](https://github.com/kubedb/solr/commit/bd805cac) Configure internal zookeeper (#71)
+- [32d513cd](https://github.com/kubedb/solr/commit/32d513cd) Update petset defaulter for security context (#70)
+- [b405f209](https://github.com/kubedb/solr/commit/b405f209) Update workflow and license restriction log (#69)
+- [9370cec9](https://github.com/kubedb/solr/commit/9370cec9) Add restriction in client billing (#68)
+- [700ce01b](https://github.com/kubedb/solr/commit/700ce01b) Prepare for release v0.7.0-rc.0 (#67)
+- [9216caea](https://github.com/kubedb/solr/commit/9216caea) Fix lister creation for client billing (#66)
+- [43fdf9b2](https://github.com/kubedb/solr/commit/43fdf9b2) Disable image caching in setup-qemu action (#65)
+- [fe9b60d8](https://github.com/kubedb/solr/commit/fe9b60d8) Add client billing event support (#64)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.7.0](https://github.com/kubedb/zookeeper/releases/tag/v0.7.0)

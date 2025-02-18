@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T20:31:39.919204039Z",
+  "release_date": "2025-02-18T20:47:31.756305181Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -1874,6 +1874,60 @@
             {
               "SHA": "98dfeae",
               "Subject": "Add Stdin Backup Leaf Command support (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "3cd88780",
+              "Subject": "Prepare for release v0.7.0 (#74)"
+            },
+            {
+              "SHA": "9ae38877",
+              "Subject": "Test against k8s 1.32 (#73)"
+            },
+            {
+              "SHA": "7db0eee6",
+              "Subject": "Use Go 1.24 (#72)"
+            },
+            {
+              "SHA": "bd805cac",
+              "Subject": "Configure internal zookeeper (#71)"
+            },
+            {
+              "SHA": "32d513cd",
+              "Subject": "Update petset defaulter for security context (#70)"
+            },
+            {
+              "SHA": "b405f209",
+              "Subject": "Update workflow and license restriction log (#69)"
+            },
+            {
+              "SHA": "9370cec9",
+              "Subject": "Add restriction in client billing (#68)"
+            },
+            {
+              "SHA": "700ce01b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "9216caea",
+              "Subject": "Fix lister creation for client billing (#66)"
+            },
+            {
+              "SHA": "43fdf9b2",
+              "Subject": "Disable image caching in setup-qemu action (#65)"
+            },
+            {
+              "SHA": "fe9b60d8",
+              "Subject": "Add client billing event support (#64)"
             }
           ]
         }

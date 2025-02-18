@@ -808,6 +808,19 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.28.0](https://github.com/kubedb/ui-server/releases/tag/v0.28.0)
+
+- [abd96e20](https://github.com/kubedb/ui-server/commit/abd96e20) Prepare for release v0.28.0 (#154)
+- [4322b8a2](https://github.com/kubedb/ui-server/commit/4322b8a2) Use Go 1.24 (#153)
+- [615bb4c6](https://github.com/kubedb/ui-server/commit/615bb4c6) Close client connections (#152)
+- [3a688ab0](https://github.com/kubedb/ui-server/commit/3a688ab0) Re-design databaseConnection api (#151)
+- [b0032db9](https://github.com/kubedb/ui-server/commit/b0032db9) Prepare for release v0.28.0-rc.0 (#150)
+- [61eff458](https://github.com/kubedb/ui-server/commit/61eff458) Disable image caching in setup-qemu action (#149)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.7.0](https://github.com/kubedb/zookeeper/releases/tag/v0.7.0)

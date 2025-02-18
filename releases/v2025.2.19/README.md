@@ -414,6 +414,18 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.10.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.10.0)
+
+- [b3b6b4b](https://github.com/kubedb/singlestore-restic-plugin/commit/b3b6b4b) Prepare for release v0.10.0 (#38)
+- [4cc4d3d](https://github.com/kubedb/singlestore-restic-plugin/commit/4cc4d3d) Use Go 1.24 (#37)
+- [1b36229](https://github.com/kubedb/singlestore-restic-plugin/commit/1b36229) Prepare for release v0.10.0-rc.0 (#36)
+- [4c9a228](https://github.com/kubedb/singlestore-restic-plugin/commit/4c9a228) Disable image caching in setup-qemu action (#35)
+- [98dfeae](https://github.com/kubedb/singlestore-restic-plugin/commit/98dfeae) Add Stdin Backup Leaf Command support (#33)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.8.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.8.0)

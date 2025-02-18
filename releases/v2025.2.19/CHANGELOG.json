@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:56:44.876762096Z",
+  "release_date": "2025-02-18T19:57:02.00808293Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -1092,6 +1092,36 @@
             {
               "SHA": "ebb993be",
               "Subject": "Disable image caching in setup-qemu action (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "b3b6b4b",
+              "Subject": "Prepare for release v0.10.0 (#38)"
+            },
+            {
+              "SHA": "4cc4d3d",
+              "Subject": "Use Go 1.24 (#37)"
+            },
+            {
+              "SHA": "1b36229",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#36)"
+            },
+            {
+              "SHA": "4c9a228",
+              "Subject": "Disable image caching in setup-qemu action (#35)"
+            },
+            {
+              "SHA": "98dfeae",
+              "Subject": "Add Stdin Backup Leaf Command support (#33)"
             }
           ]
         }

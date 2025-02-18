@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:39:47.433409724Z",
+  "release_date": "2025-02-18T19:41:47.689556235Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -237,6 +237,60 @@
             {
               "SHA": "e06c0877",
               "Subject": "Add Stdin Backup Leaf Command Support (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "5aae329ea",
+              "Subject": "Prepare for release v0.36.0 (#314)"
+            },
+            {
+              "SHA": "2102f5992",
+              "Subject": "Test against k8s 1.32 (#313)"
+            },
+            {
+              "SHA": "c48e29b67",
+              "Subject": "Use Go 1.24 (#312)"
+            },
+            {
+              "SHA": "c2df3bc9b",
+              "Subject": "Report namespace info with billing event (#311)"
+            },
+            {
+              "SHA": "d72a123ca",
+              "Subject": "Show the reason for not satifying license restriction (#310)"
+            },
+            {
+              "SHA": "d586b5689",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "b4aa76961",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#308)"
+            },
+            {
+              "SHA": "35f8872bb",
+              "Subject": "Disable image caching in setup-qemu action (#309)"
+            },
+            {
+              "SHA": "1ae948a15",
+              "Subject": "Add client billing event support (#306)"
+            },
+            {
+              "SHA": "163d01c11",
+              "Subject": "Added archiver and init-script manifest restore support (#305)"
+            },
+            {
+              "SHA": "c32d1af68",
+              "Subject": "Fix AuthSecret Check (#296)"
             }
           ]
         }

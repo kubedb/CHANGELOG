@@ -136,6 +136,21 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.7.0](https://github.com/kubedb/ferretdb/releases/tag/v0.7.0)
+
+- [175f1523](https://github.com/kubedb/ferretdb/commit/175f1523) Prepare for release v0.7.0 (#64)
+- [15975b72](https://github.com/kubedb/ferretdb/commit/15975b72) Test against k8s 1.32 (#63)
+- [4e2c27ee](https://github.com/kubedb/ferretdb/commit/4e2c27ee) Use Go 1.24 (#62)
+- [2b50a0d6](https://github.com/kubedb/ferretdb/commit/2b50a0d6) Report namespace info with billing event (#61)
+- [98674271](https://github.com/kubedb/ferretdb/commit/98674271) Update license log & e2e machine
+- [413b1108](https://github.com/kubedb/ferretdb/commit/413b1108) Add license restriction (#59)
+- [84909469](https://github.com/kubedb/ferretdb/commit/84909469) Prepare for release v0.7.0-rc.0 (#58)
+- [b158b789](https://github.com/kubedb/ferretdb/commit/b158b789) Disable image caching in setup-qemu action (#57)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.15.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.15.0)

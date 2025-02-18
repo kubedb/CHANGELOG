@@ -731,6 +731,25 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.37.0](https://github.com/kubedb/tests/releases/tag/v0.37.0)
+
+- [f165f126](https://github.com/kubedb/tests/commit/f165f126) Prepare for release v0.37.0 (#443)
+- [3b5fada0](https://github.com/kubedb/tests/commit/3b5fada0) Test against k8s 1.32 (#441)
+- [892d8c3d](https://github.com/kubedb/tests/commit/892d8c3d) Use Go 1.24 (#440)
+- [0b3ececa](https://github.com/kubedb/tests/commit/0b3ececa) fix backupstorage, release v2025.2.10 (#439)
+- [0bfee605](https://github.com/kubedb/tests/commit/0bfee605) fix mongo package (#435)
+- [34cb745f](https://github.com/kubedb/tests/commit/34cb745f) Prepare for release v0.37.0-rc.0 (#437)
+- [751cbfb3](https://github.com/kubedb/tests/commit/751cbfb3) Disable image caching in setup-qemu action (#436)
+- [579aa5f0](https://github.com/kubedb/tests/commit/579aa5f0) Add Postgres Archiver Backup-Restore (#427)
+- [d0da32f9](https://github.com/kubedb/tests/commit/d0da32f9) Fix TLS enabled secret part for Postgres (#432)
+- [6aa80b8d](https://github.com/kubedb/tests/commit/6aa80b8d) MongoDB EndTime fix (Disaster Time Scenario) (#429)
+- [9c288453](https://github.com/kubedb/tests/commit/9c288453) Add Solr OpsRequest Tests (#428)
+- [3729dd68](https://github.com/kubedb/tests/commit/3729dd68) MariaDB version 11.6.2 check (all) (#431)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.7.0](https://github.com/kubedb/zookeeper/releases/tag/v0.7.0)

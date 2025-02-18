@@ -65,6 +65,17 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.13.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.13.0)
+
+- [d5b6acb](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/d5b6acb) Prepare for release v0.13.0 (#47)
+- [feff5cc](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/feff5cc) Use Go 1.24 (#46)
+- [9871552](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/9871552) Prepare for release v0.13.0-rc.0 (#45)
+- [92999f5](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/92999f5) Disable image caching in setup-qemu action (#44)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.6.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.6.0)

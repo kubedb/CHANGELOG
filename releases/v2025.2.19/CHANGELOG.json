@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:34:01.214461691Z",
+  "release_date": "2025-02-18T19:36:37.603646082Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -391,6 +391,36 @@
             {
               "SHA": "cc57300",
               "Subject": "Disable image caching in setup-qemu action (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "39107a7b",
+              "Subject": "Prepare for release v0.13.0 (#55)"
+            },
+            {
+              "SHA": "ef00cd3b",
+              "Subject": "Use Go 1.24 (#54)"
+            },
+            {
+              "SHA": "11c6e83c",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "364b3500",
+              "Subject": "Disable image caching in setup-qemu action (#53)"
+            },
+            {
+              "SHA": "f7833baf",
+              "Subject": "Update Inc Snapshot status (#49)"
             }
           ]
         }

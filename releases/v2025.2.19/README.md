@@ -139,6 +139,18 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.13.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.13.0)
+
+- [39107a7b](https://github.com/kubedb/mysql-archiver/commit/39107a7b) Prepare for release v0.13.0 (#55)
+- [ef00cd3b](https://github.com/kubedb/mysql-archiver/commit/ef00cd3b) Use Go 1.24 (#54)
+- [11c6e83c](https://github.com/kubedb/mysql-archiver/commit/11c6e83c) Prepare for release v0.13.0-rc.0 (#52)
+- [364b3500](https://github.com/kubedb/mysql-archiver/commit/364b3500) Disable image caching in setup-qemu action (#53)
+- [f7833baf](https://github.com/kubedb/mysql-archiver/commit/f7833baf) Update Inc Snapshot status (#49)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.13.0)

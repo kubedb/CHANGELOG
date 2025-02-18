@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T20:31:17.157515167Z",
+  "release_date": "2025-02-18T20:31:39.919204039Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -941,6 +941,68 @@
             {
               "SHA": "e285bb2c",
               "Subject": "Add Arbiter node support (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "74c75813",
+              "Subject": "Prepare for release v0.7.0 (#66)"
+            },
+            {
+              "SHA": "b2681864",
+              "Subject": "Test against k8s 1.32 (#65)"
+            },
+            {
+              "SHA": "5d060a01",
+              "Subject": "Use Go 1.24 (#64)"
+            },
+            {
+              "SHA": "82fa1293",
+              "Subject": "Report namespace info with billing event (#63)"
+            },
+            {
+              "SHA": "dde24b69",
+              "Subject": "Add daily.yml for running e2e tests daily (#62)"
+            },
+            {
+              "SHA": "fb508368",
+              "Subject": "Show the reason for not satifying license restriction (#61)"
+            },
+            {
+              "SHA": "25d9ee44",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "3a9b02e7",
+              "Subject": "Update listers for client billing (#58)"
+            },
+            {
+              "SHA": "4bb771b1",
+              "Subject": "Disable image caching in setup-qemu action (#57)"
+            },
+            {
+              "SHA": "bdf3175d",
+              "Subject": "Enable license restriction and client billing (#55)"
+            },
+            {
+              "SHA": "721f3cfe",
+              "Subject": "Added archiver and init-script manifest restore support (#54)"
+            },
+            {
+              "SHA": "fd1c8cfb",
+              "Subject": "Add arbiter node support for quorum in even-sized clusters (#46)"
+            },
+            {
+              "SHA": "d95108ae",
+              "Subject": "Set archiver ref into db while label set (#53)"
             }
           ]
         }

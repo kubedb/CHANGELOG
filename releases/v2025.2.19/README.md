@@ -335,6 +335,26 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.7.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.7.0)
+
+- [74c75813](https://github.com/kubedb/mssqlserver/commit/74c75813) Prepare for release v0.7.0 (#66)
+- [b2681864](https://github.com/kubedb/mssqlserver/commit/b2681864) Test against k8s 1.32 (#65)
+- [5d060a01](https://github.com/kubedb/mssqlserver/commit/5d060a01) Use Go 1.24 (#64)
+- [82fa1293](https://github.com/kubedb/mssqlserver/commit/82fa1293) Report namespace info with billing event (#63)
+- [dde24b69](https://github.com/kubedb/mssqlserver/commit/dde24b69) Add daily.yml for running e2e tests daily (#62)
+- [fb508368](https://github.com/kubedb/mssqlserver/commit/fb508368) Show the reason for not satifying license restriction (#61)
+- [25d9ee44](https://github.com/kubedb/mssqlserver/commit/25d9ee44) Prepare for release v0.7.0-rc.0 (#59)
+- [3a9b02e7](https://github.com/kubedb/mssqlserver/commit/3a9b02e7) Update listers for client billing (#58)
+- [4bb771b1](https://github.com/kubedb/mssqlserver/commit/4bb771b1) Disable image caching in setup-qemu action (#57)
+- [bdf3175d](https://github.com/kubedb/mssqlserver/commit/bdf3175d) Enable license restriction and client billing (#55)
+- [721f3cfe](https://github.com/kubedb/mssqlserver/commit/721f3cfe) Added archiver and init-script manifest restore support (#54)
+- [fd1c8cfb](https://github.com/kubedb/mssqlserver/commit/fd1c8cfb) Add arbiter node support for quorum in even-sized clusters (#46)
+- [d95108ae](https://github.com/kubedb/mssqlserver/commit/d95108ae) Set archiver ref into db while label set (#53)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.6.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.6.0)

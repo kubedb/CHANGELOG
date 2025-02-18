@@ -125,6 +125,24 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.7.0](https://github.com/kubedb/druid/releases/tag/v0.7.0)
+
+- [8dc34f78](https://github.com/kubedb/druid/commit/8dc34f78) Prepare for release v0.7.0 (#75)
+- [507e27de](https://github.com/kubedb/druid/commit/507e27de) Test against k8s 1.32 (#74)
+- [ec664f20](https://github.com/kubedb/druid/commit/ec664f20) Use Go 1.24 (#73)
+- [bf3ae1d8](https://github.com/kubedb/druid/commit/bf3ae1d8) Fix druid security context issue (#71)
+- [88e4905c](https://github.com/kubedb/druid/commit/88e4905c) Report namespace info with billing event (#72)
+- [4f4062b6](https://github.com/kubedb/druid/commit/4f4062b6) Update license log & e2e machine
+- [17876788](https://github.com/kubedb/druid/commit/17876788) Add license restriction (#70)
+- [31e2f5d6](https://github.com/kubedb/druid/commit/31e2f5d6) Update listers for client billing
+- [a2c96244](https://github.com/kubedb/druid/commit/a2c96244) Prepare for release v0.7.0-rc.0 (#69)
+- [61806784](https://github.com/kubedb/druid/commit/61806784) Disable image caching in setup-qemu action (#68)
+- [2f632333](https://github.com/kubedb/druid/commit/2f632333) Add client billing event support (#67)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.52.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.52.0)

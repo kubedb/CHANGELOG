@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T20:47:31.756305181Z",
+  "release_date": "2025-02-18T22:46:04.483356579Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -371,6 +371,60 @@
             {
               "SHA": "4790577b",
               "Subject": "cert remove from pgbouncer (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "8dc34f78",
+              "Subject": "Prepare for release v0.7.0 (#75)"
+            },
+            {
+              "SHA": "507e27de",
+              "Subject": "Test against k8s 1.32 (#74)"
+            },
+            {
+              "SHA": "ec664f20",
+              "Subject": "Use Go 1.24 (#73)"
+            },
+            {
+              "SHA": "bf3ae1d8",
+              "Subject": "Fix druid security context issue (#71)"
+            },
+            {
+              "SHA": "88e4905c",
+              "Subject": "Report namespace info with billing event (#72)"
+            },
+            {
+              "SHA": "4f4062b6",
+              "Subject": "Update license log & e2e machine"
+            },
+            {
+              "SHA": "17876788",
+              "Subject": "Add license restriction (#70)"
+            },
+            {
+              "SHA": "31e2f5d6",
+              "Subject": "Update listers for client billing"
+            },
+            {
+              "SHA": "a2c96244",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "61806784",
+              "Subject": "Disable image caching in setup-qemu action (#68)"
+            },
+            {
+              "SHA": "2f632333",
+              "Subject": "Add client billing event support (#67)"
             }
           ]
         }

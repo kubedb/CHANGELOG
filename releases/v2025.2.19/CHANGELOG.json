@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:50:39.898614685Z",
+  "release_date": "2025-02-18T19:52:18.239276351Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -920,6 +920,36 @@
             {
               "SHA": "ebb993be",
               "Subject": "Disable image caching in setup-qemu action (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "e9459f4",
+              "Subject": "Prepare for release v0.8.0 (#30)"
+            },
+            {
+              "SHA": "739367c",
+              "Subject": "Use Go 1.24 (#29)"
+            },
+            {
+              "SHA": "52085d1",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#27)"
+            },
+            {
+              "SHA": "7323969",
+              "Subject": "Disable image caching in setup-qemu action (#28)"
+            },
+            {
+              "SHA": "096f163",
+              "Subject": "Add Stdin Backup Leaf Command support (#25)"
             }
           ]
         }

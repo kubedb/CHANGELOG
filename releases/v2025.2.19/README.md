@@ -344,3 +344,15 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.8.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.8.0)
+
+- [e9459f4](https://github.com/kubedb/zookeeper-restic-plugin/commit/e9459f4) Prepare for release v0.8.0 (#30)
+- [739367c](https://github.com/kubedb/zookeeper-restic-plugin/commit/739367c) Use Go 1.24 (#29)
+- [52085d1](https://github.com/kubedb/zookeeper-restic-plugin/commit/52085d1) Prepare for release v0.8.0-rc.0 (#27)
+- [7323969](https://github.com/kubedb/zookeeper-restic-plugin/commit/7323969) Disable image caching in setup-qemu action (#28)
+- [096f163](https://github.com/kubedb/zookeeper-restic-plugin/commit/096f163) Add Stdin Backup Leaf Command support (#25)
+
+
+

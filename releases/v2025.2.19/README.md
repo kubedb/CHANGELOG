@@ -206,6 +206,20 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.28.0](https://github.com/kubedb/kibana/releases/tag/v0.28.0)
+
+- [59eca516](https://github.com/kubedb/kibana/commit/59eca516) Prepare for release v0.28.0 (#142)
+- [57b32ae0](https://github.com/kubedb/kibana/commit/57b32ae0) Use Go 1.24 (#141)
+- [87fce12a](https://github.com/kubedb/kibana/commit/87fce12a) Report namespace info with billing event (#140)
+- [07ce140e](https://github.com/kubedb/kibana/commit/07ce140e) Update license restriction log (#139)
+- [b447af9a](https://github.com/kubedb/kibana/commit/b447af9a) Prepare for release v0.28.0-rc.0 (#137)
+- [e1c3a494](https://github.com/kubedb/kibana/commit/e1c3a494) Update reconcilestate and billing restrictions (#138)
+- [82f37250](https://github.com/kubedb/kibana/commit/82f37250) Disable image caching in setup-qemu action (#136)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.15.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.15.0)

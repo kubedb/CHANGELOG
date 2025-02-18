@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T22:46:42.693363583Z",
+  "release_date": "2025-02-18T22:52:33.830702875Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -605,6 +605,44 @@
             {
               "SHA": "b948518b",
               "Subject": "Add SchemaRegistry with Rest Proxy  (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "59eca516",
+              "Subject": "Prepare for release v0.28.0 (#142)"
+            },
+            {
+              "SHA": "57b32ae0",
+              "Subject": "Use Go 1.24 (#141)"
+            },
+            {
+              "SHA": "87fce12a",
+              "Subject": "Report namespace info with billing event (#140)"
+            },
+            {
+              "SHA": "07ce140e",
+              "Subject": "Update license restriction log (#139)"
+            },
+            {
+              "SHA": "b447af9a",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#137)"
+            },
+            {
+              "SHA": "e1c3a494",
+              "Subject": "Update reconcilestate and billing restrictions (#138)"
+            },
+            {
+              "SHA": "82f37250",
+              "Subject": "Disable image caching in setup-qemu action (#136)"
             }
           ]
         }

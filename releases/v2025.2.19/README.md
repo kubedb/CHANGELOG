@@ -510,6 +510,22 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.7.0](https://github.com/kubedb/zookeeper/releases/tag/v0.7.0)
+
+- [a3a96c3b](https://github.com/kubedb/zookeeper/commit/a3a96c3b) Prepare for release v0.7.0 (#64)
+- [432282ec](https://github.com/kubedb/zookeeper/commit/432282ec) Test against k8s 1.32 (#63)
+- [575e88a7](https://github.com/kubedb/zookeeper/commit/575e88a7) Use Go 1.24 (#62)
+- [0a05aa4a](https://github.com/kubedb/zookeeper/commit/0a05aa4a) Report namespace info with billing event (#61)
+- [0c0110cf](https://github.com/kubedb/zookeeper/commit/0c0110cf) Show the reason for not satifying license restriction (#60)
+- [96dc0790](https://github.com/kubedb/zookeeper/commit/96dc0790) Add license restriction (#59)
+- [ace3a6dd](https://github.com/kubedb/zookeeper/commit/ace3a6dd) Prepare for release v0.7.0-rc.0 (#57)
+- [89699f8d](https://github.com/kubedb/zookeeper/commit/89699f8d) Disable image caching in setup-qemu action (#56)
+- [9a81250c](https://github.com/kubedb/zookeeper/commit/9a81250c) Add client billing event support (#55)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.8.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.8.0)

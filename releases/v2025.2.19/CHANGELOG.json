@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T20:22:46.550658515Z",
+  "release_date": "2025-02-18T20:24:25.247126548Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -1332,6 +1332,52 @@
             {
               "SHA": "98dfeae",
               "Subject": "Add Stdin Backup Leaf Command support (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "a3a96c3b",
+              "Subject": "Prepare for release v0.7.0 (#64)"
+            },
+            {
+              "SHA": "432282ec",
+              "Subject": "Test against k8s 1.32 (#63)"
+            },
+            {
+              "SHA": "575e88a7",
+              "Subject": "Use Go 1.24 (#62)"
+            },
+            {
+              "SHA": "0a05aa4a",
+              "Subject": "Report namespace info with billing event (#61)"
+            },
+            {
+              "SHA": "0c0110cf",
+              "Subject": "Show the reason for not satifying license restriction (#60)"
+            },
+            {
+              "SHA": "96dc0790",
+              "Subject": "Add license restriction (#59)"
+            },
+            {
+              "SHA": "ace3a6dd",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#57)"
+            },
+            {
+              "SHA": "89699f8d",
+              "Subject": "Disable image caching in setup-qemu action (#56)"
+            },
+            {
+              "SHA": "9a81250c",
+              "Subject": "Add client billing event support (#55)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:57:02.00808293Z",
+  "release_date": "2025-02-18T20:14:29.87906864Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -651,6 +651,36 @@
             {
               "SHA": "c37543b",
               "Subject": "Add Stdin Backup Leaf Command support (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "1d9c6500",
+              "Subject": "Prepare for release v0.7.0 (#31)"
+            },
+            {
+              "SHA": "374ddac6",
+              "Subject": "Use Go 1.24 (#30)"
+            },
+            {
+              "SHA": "f5dd10a7",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "c570b028",
+              "Subject": "Disable image caching in setup-qemu action (#28)"
+            },
+            {
+              "SHA": "e285bb2c",
+              "Subject": "Add Arbiter node support (#24)"
             }
           ]
         }

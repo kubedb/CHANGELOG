@@ -231,6 +231,18 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.7.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.7.0)
+
+- [1d9c6500](https://github.com/kubedb/mssql-coordinator/commit/1d9c6500) Prepare for release v0.7.0 (#31)
+- [374ddac6](https://github.com/kubedb/mssql-coordinator/commit/374ddac6) Use Go 1.24 (#30)
+- [f5dd10a7](https://github.com/kubedb/mssql-coordinator/commit/f5dd10a7) Prepare for release v0.7.0-rc.0 (#29)
+- [c570b028](https://github.com/kubedb/mssql-coordinator/commit/c570b028) Disable image caching in setup-qemu action (#28)
+- [e285bb2c](https://github.com/kubedb/mssql-coordinator/commit/e285bb2c) Add Arbiter node support (#24)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.6.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.6.0)

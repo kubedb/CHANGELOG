@@ -178,6 +178,18 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.12.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.12.0)
+
+- [70edd7d5](https://github.com/kubedb/mariadb-archiver/commit/70edd7d5) Prepare for release v0.12.0 (#44)
+- [fabf49b0](https://github.com/kubedb/mariadb-archiver/commit/fabf49b0) Use Go 1.24 (#43)
+- [e9ac111d](https://github.com/kubedb/mariadb-archiver/commit/e9ac111d) Prepare for release v0.12.0-rc.0 (#42)
+- [40d97244](https://github.com/kubedb/mariadb-archiver/commit/40d97244) Prepare for release v0.12.0-rc.0 (#41)
+- [c156d207](https://github.com/kubedb/mariadb-archiver/commit/c156d207) Disable image caching in setup-qemu action (#40)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.32.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.32.0)

@@ -436,6 +436,23 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.7.0](https://github.com/kubedb/pgpool/releases/tag/v0.7.0)
+
+- [8eb95eaf](https://github.com/kubedb/pgpool/commit/8eb95eaf) Prepare for release v0.7.0 (#66)
+- [845d2edf](https://github.com/kubedb/pgpool/commit/845d2edf) Test against k8s 1.32 (#65)
+- [f04be287](https://github.com/kubedb/pgpool/commit/f04be287) Use Go 1.24 (#64)
+- [4c2e65b2](https://github.com/kubedb/pgpool/commit/4c2e65b2) Pgpool get fixed & Report namespace info with billing event (#63)
+- [56d97ff5](https://github.com/kubedb/pgpool/commit/56d97ff5) Run e2e tests on testrig & Show the reason for not satifying license restriction (#62)
+- [7a4617cf](https://github.com/kubedb/pgpool/commit/7a4617cf) Add license restriction (#61)
+- [4ed69176](https://github.com/kubedb/pgpool/commit/4ed69176) Prepare for release v0.7.0-rc.0 (#60)
+- [a4735c17](https://github.com/kubedb/pgpool/commit/a4735c17) Disable image caching in setup-qemu action (#59)
+- [c1bf6d9a](https://github.com/kubedb/pgpool/commit/c1bf6d9a) Enable license restriction and client billing (#58)
+- [0c326d14](https://github.com/kubedb/pgpool/commit/0c326d14) Add basic-auth-active-from annotation in auth secret & Config secret separation  & PID file location added (#56)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.52.0](https://github.com/kubedb/postgres/releases/tag/v0.52.0)

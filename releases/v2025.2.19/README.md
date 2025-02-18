@@ -216,6 +216,17 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.12.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.12.0)
+
+- [616f213](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/616f213) Prepare for release v0.12.0 (#42)
+- [1c16b34](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/1c16b34) Use Go 1.24 (#41)
+- [b94da98](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/b94da98) Prepare for release v0.12.0-rc.0 (#40)
+- [2106e19](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/2106e19) Disable image caching in setup-qemu action (#39)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.45.0](https://github.com/kubedb/memcached/releases/tag/v0.45.0)

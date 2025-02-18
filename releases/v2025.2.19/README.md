@@ -73,6 +73,17 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.13.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.13.0)
+
+- [1511498](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/1511498) Prepare for release v0.13.0 (#43)
+- [d1c7f1b](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/d1c7f1b) Use Go 1.24 (#42)
+- [33f6918](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/33f6918) Prepare for release v0.13.0-rc.0 (#40)
+- [9f91792](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/9f91792) Disable image caching in setup-qemu action (#41)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.30.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.30.0)

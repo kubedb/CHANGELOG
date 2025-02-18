@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:22:53.733209145Z",
+  "release_date": "2025-02-18T19:23:39.043107025Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -217,6 +217,32 @@
             {
               "SHA": "cc57300",
               "Subject": "Disable image caching in setup-qemu action (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "1511498",
+              "Subject": "Prepare for release v0.13.0 (#43)"
+            },
+            {
+              "SHA": "d1c7f1b",
+              "Subject": "Use Go 1.24 (#42)"
+            },
+            {
+              "SHA": "33f6918",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#40)"
+            },
+            {
+              "SHA": "9f91792",
+              "Subject": "Disable image caching in setup-qemu action (#41)"
             }
           ]
         }

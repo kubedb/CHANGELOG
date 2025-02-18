@@ -280,3 +280,18 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.7.0](https://github.com/kubedb/singlestore/releases/tag/v0.7.0)
+
+- [2781fd58](https://github.com/kubedb/singlestore/commit/2781fd58) Prepare for release v0.7.0 (#63)
+- [e7c24277](https://github.com/kubedb/singlestore/commit/e7c24277) Test against k8s 1.32 (#62)
+- [a043af3d](https://github.com/kubedb/singlestore/commit/a043af3d) Use Go 1.24 (#61)
+- [d3c90016](https://github.com/kubedb/singlestore/commit/d3c90016) Report namespace info with billing event (#60)
+- [25728a9e](https://github.com/kubedb/singlestore/commit/25728a9e) Update license log & e2e machine
+- [cf355d20](https://github.com/kubedb/singlestore/commit/cf355d20) fix license restriction checking (#59)
+- [c22e7c86](https://github.com/kubedb/singlestore/commit/c22e7c86) Prepare for release v0.7.0-rc.0 (#58)
+- [ebb993be](https://github.com/kubedb/singlestore/commit/ebb993be) Disable image caching in setup-qemu action (#57)
+
+
+

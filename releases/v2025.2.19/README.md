@@ -96,6 +96,19 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.15.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.15.0)
+
+- [01b12a7](https://github.com/kubedb/kubedb-manifest-plugin/commit/01b12a7) Prepare for release v0.15.0 (#90)
+- [891e1ea](https://github.com/kubedb/kubedb-manifest-plugin/commit/891e1ea) Use Go 1.24 (#89)
+- [f85c4ee](https://github.com/kubedb/kubedb-manifest-plugin/commit/f85c4ee) Prepare for release v0.15.0-rc.0 (#88)
+- [155aea8](https://github.com/kubedb/kubedb-manifest-plugin/commit/155aea8) Disable image caching in setup-qemu action (#87)
+- [1c168b9](https://github.com/kubedb/kubedb-manifest-plugin/commit/1c168b9) Archiver and InitScript support added for backup and restore (#84)
+- [e64809f](https://github.com/kubedb/kubedb-manifest-plugin/commit/e64809f) Incorporate with `go-sh` leaf command execution (#85)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.36.0](https://github.com/kubedb/mariadb/releases/tag/v0.36.0)

@@ -1,0 +1,152 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.2.19",
+  "release_date": "2025-02-18T19:01:21.70514159Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.2.19",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "a75252a4e",
+              "Subject": "Add PostgresOpsRequest ReconnectStandby, ForceFailover, SetRaftKeyPair (#1404)"
+            },
+            {
+              "SHA": "75a4e2b5a",
+              "Subject": "Test against k8s 1.32 (#1403)"
+            },
+            {
+              "SHA": "d38a170fe",
+              "Subject": "Use Go 1.24 (#1401)"
+            },
+            {
+              "SHA": "6d24fef28",
+              "Subject": "Use Go 1.24 (#1400)"
+            },
+            {
+              "SHA": "bd6cc66bd",
+              "Subject": "Defaulting DB namespace to init archiver fields (#1399)"
+            },
+            {
+              "SHA": "39cd66e47",
+              "Subject": "Fix druid security context issue (#1396)"
+            },
+            {
+              "SHA": "471390290",
+              "Subject": "Defaulting internal zookeper (#1398)"
+            },
+            {
+              "SHA": "2f6d49a92",
+              "Subject": "security-context for pgbouncer (#1339)"
+            },
+            {
+              "SHA": "60581b73b",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b51e119e3",
+              "Subject": "make some defaulting funcs public (#1395)"
+            },
+            {
+              "SHA": "00ea2f07f",
+              "Subject": "Update for release KubeStash@v2025.2.10 (#1397)"
+            },
+            {
+              "SHA": "023d2f628",
+              "Subject": "Update security context defaulting for solr (#1394)"
+            },
+            {
+              "SHA": "3a00131dd",
+              "Subject": "Update Kafka Default Resource to Memory Intensive (#1393)"
+            },
+            {
+              "SHA": "1b380ea04",
+              "Subject": "Seperate up the connectOptions for gw & inCluster (#1391)"
+            },
+            {
+              "SHA": "7f58d0390",
+              "Subject": "Return the reason for not allowing license restrictions (#1392)"
+            },
+            {
+              "SHA": "d3ee4caa7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f68a76c7d",
+              "Subject": "make fmt"
+            },
+            {
+              "SHA": "1ba01a7de",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b05f97094",
+              "Subject": "Add DisableSSLSessionResumption field in PostgresVersion CRD (#1390)"
+            },
+            {
+              "SHA": "47fd90caf",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f435670c9",
+              "Subject": "Add InitScript restore option into manifest restore (#1388)"
+            },
+            {
+              "SHA": "e37dc985f",
+              "Subject": "Set maxscale Field Optional (#1389)"
+            },
+            {
+              "SHA": "e5366d526",
+              "Subject": "Add Support for MariaDB Replication (#1383)"
+            },
+            {
+              "SHA": "7ad439250",
+              "Subject": "Add MS SQL Server Arbiter APIs (#1363)"
+            },
+            {
+              "SHA": "affa6dc53",
+              "Subject": "Add RabbitMQ EnableAllFeatureFlags Constant (#1386)"
+            },
+            {
+              "SHA": "7f9ee3e6b",
+              "Subject": "Add apis for archiver manifest recovery (#1387)"
+            },
+            {
+              "SHA": "85c4437b1",
+              "Subject": "Add Pgpool hba and pcp file name Constant (#1377)"
+            },
+            {
+              "SHA": "2e163519e",
+              "Subject": "add reconfigure-tls for pgbouncer (#1384)"
+            },
+            {
+              "SHA": "a79005204",
+              "Subject": "Add SchemaRegistry with RestProxy API (#1372)"
+            },
+            {
+              "SHA": "bdae9dd4c",
+              "Subject": "Move Redis mutator defaults to SetDefaults() (#1385)"
+            },
+            {
+              "SHA": "ce659b3fc",
+              "Subject": "Add license restrictions (#1382)"
+            },
+            {
+              "SHA": "051792b4b",
+              "Subject": "Implement DBBindInterface for generic bindings (#1381)"
+            },
+            {
+              "SHA": "7dd4fbe3f",
+              "Subject": "Pass different ca for gateway & inCluster (#1380)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

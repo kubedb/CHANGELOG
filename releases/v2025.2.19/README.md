@@ -307,6 +307,17 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.25.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.25.0)
+
+- [5dfc6dd5](https://github.com/kubedb/percona-xtradb-coordinator/commit/5dfc6dd5) Prepare for release v0.25.0 (#92)
+- [52e1530a](https://github.com/kubedb/percona-xtradb-coordinator/commit/52e1530a) Use Go 1.24 (#91)
+- [3e09a9ad](https://github.com/kubedb/percona-xtradb-coordinator/commit/3e09a9ad) Prepare for release v0.25.0-rc.0 (#89)
+- [4013787c](https://github.com/kubedb/percona-xtradb-coordinator/commit/4013787c) Disable image caching in setup-qemu action (#90)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.36.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.36.0)

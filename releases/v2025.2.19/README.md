@@ -66,6 +66,24 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.52.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.52.0)
+
+- [01aa7b63](https://github.com/kubedb/elasticsearch/commit/01aa7b63f) Prepare for release v0.52.0 (#756)
+- [0ce1d5a2](https://github.com/kubedb/elasticsearch/commit/0ce1d5a23) Test against k8s 1.32 (#755)
+- [a5a3c257](https://github.com/kubedb/elasticsearch/commit/a5a3c2576) Use Go 1.24 (#754)
+- [2600d5bd](https://github.com/kubedb/elasticsearch/commit/2600d5bd5) Report namespace info with billing event (#753)
+- [19980821](https://github.com/kubedb/elasticsearch/commit/19980821a) Update license restriction log (#752)
+- [19ea3a94](https://github.com/kubedb/elasticsearch/commit/19ea3a942) Use testrig
+- [a60b0c13](https://github.com/kubedb/elasticsearch/commit/a60b0c134) Update reconcile method (#751)
+- [7be7d728](https://github.com/kubedb/elasticsearch/commit/7be7d7282) Prepare for release v0.52.0-rc.0 (#749)
+- [953e8b52](https://github.com/kubedb/elasticsearch/commit/953e8b529) Add restriction for client billing (#750)
+- [c22f6099](https://github.com/kubedb/elasticsearch/commit/c22f60990) Disable image caching in setup-qemu action (#748)
+- [39d72828](https://github.com/kubedb/elasticsearch/commit/39d728289) Add client billing event support (#747)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.15.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.15.0)

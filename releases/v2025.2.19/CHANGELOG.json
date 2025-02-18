@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:41:47.689556235Z",
+  "release_date": "2025-02-18T19:42:31.462675408Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -207,6 +207,60 @@
             {
               "SHA": "4790577b",
               "Subject": "cert remove from pgbouncer (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "01aa7b63f",
+              "Subject": "Prepare for release v0.52.0 (#756)"
+            },
+            {
+              "SHA": "0ce1d5a23",
+              "Subject": "Test against k8s 1.32 (#755)"
+            },
+            {
+              "SHA": "a5a3c2576",
+              "Subject": "Use Go 1.24 (#754)"
+            },
+            {
+              "SHA": "2600d5bd5",
+              "Subject": "Report namespace info with billing event (#753)"
+            },
+            {
+              "SHA": "19980821a",
+              "Subject": "Update license restriction log (#752)"
+            },
+            {
+              "SHA": "19ea3a942",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "a60b0c134",
+              "Subject": "Update reconcile method (#751)"
+            },
+            {
+              "SHA": "7be7d7282",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#749)"
+            },
+            {
+              "SHA": "953e8b529",
+              "Subject": "Add restriction for client billing (#750)"
+            },
+            {
+              "SHA": "c22f60990",
+              "Subject": "Disable image caching in setup-qemu action (#748)"
+            },
+            {
+              "SHA": "39d728289",
+              "Subject": "Add client billing event support (#747)"
             }
           ]
         }

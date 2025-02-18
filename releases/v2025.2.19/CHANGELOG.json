@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:29:57.409681677Z",
+  "release_date": "2025-02-18T19:31:29.994236888Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -229,6 +229,64 @@
             {
               "SHA": "efb48fb1",
               "Subject": "Disable image caching in setup-qemu action (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "7d7c28790",
+              "Subject": "Prepare for release v0.45.0 (#689)"
+            },
+            {
+              "SHA": "4009564ef",
+              "Subject": "Test against k8s 1.32 (#688)"
+            },
+            {
+              "SHA": "b0f421864",
+              "Subject": "Use Go 1.24 (#687)"
+            },
+            {
+              "SHA": "f8093b115",
+              "Subject": "Create super user before oplog-restore (#686)"
+            },
+            {
+              "SHA": "12d97bb19",
+              "Subject": "Report namespace info with billing event (#685)"
+            },
+            {
+              "SHA": "82d112ae2",
+              "Subject": "Show the reason for not satifying license restriction (#684)"
+            },
+            {
+              "SHA": "03e6623d6",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "5fb8819ca",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#683)"
+            },
+            {
+              "SHA": "380621967",
+              "Subject": "Disable image caching in setup-qemu action (#682)"
+            },
+            {
+              "SHA": "9d9dfdaea",
+              "Subject": "Enable license restriction and client billing (#681)"
+            },
+            {
+              "SHA": "9d6457c82",
+              "Subject": "Added archiver and init-script manifest restore support (#679)"
+            },
+            {
+              "SHA": "d295e56a9",
+              "Subject": "remove `replicas >= 1` validation from replicaset (#677)"
             }
           ]
         }

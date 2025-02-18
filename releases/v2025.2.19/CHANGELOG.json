@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:23:39.043107025Z",
+  "release_date": "2025-02-18T19:24:41.947919074Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -173,6 +173,36 @@
             {
               "SHA": "4790577b",
               "Subject": "cert remove from pgbouncer (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "dd7dd4b8",
+              "Subject": "Prepare for release v0.15.0 (#59)"
+            },
+            {
+              "SHA": "9e05f686",
+              "Subject": "Use Go 1.24 (#58)"
+            },
+            {
+              "SHA": "bbdc55c7",
+              "Subject": "Disable image caching in setup-qemu action (#57)"
+            },
+            {
+              "SHA": "6a087679",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#56)"
+            },
+            {
+              "SHA": "e06c0877",
+              "Subject": "Add Stdin Backup Leaf Command Support (#54)"
             }
           ]
         }

@@ -53,6 +53,18 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.15.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.15.0)
+
+- [dd7dd4b8](https://github.com/kubedb/elasticsearch-restic-plugin/commit/dd7dd4b8) Prepare for release v0.15.0 (#59)
+- [9e05f686](https://github.com/kubedb/elasticsearch-restic-plugin/commit/9e05f686) Use Go 1.24 (#58)
+- [bbdc55c7](https://github.com/kubedb/elasticsearch-restic-plugin/commit/bbdc55c7) Disable image caching in setup-qemu action (#57)
+- [6a087679](https://github.com/kubedb/elasticsearch-restic-plugin/commit/6a087679) Prepare for release v0.15.0-rc.0 (#56)
+- [e06c0877](https://github.com/kubedb/elasticsearch-restic-plugin/commit/e06c0877) Add Stdin Backup Leaf Command Support (#54)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.6.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.6.0)

@@ -73,6 +73,15 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.30.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.30.0)
+
+- [a41de94](https://github.com/kubedb/mysql-router-init/commit/a41de94) Use Go 1.24 (#51)
+- [0ba8326](https://github.com/kubedb/mysql-router-init/commit/0ba8326) Disable image caching in setup-qemu action (#50)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.13.0)

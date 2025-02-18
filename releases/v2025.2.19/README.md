@@ -482,6 +482,24 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.45.0](https://github.com/kubedb/redis/releases/tag/v0.45.0)
+
+- [1bd0ce8e](https://github.com/kubedb/redis/commit/1bd0ce8ed) Prepare for release v0.45.0 (#582)
+- [6bceb509](https://github.com/kubedb/redis/commit/6bceb5097) Test against k8s 1.32 (#581)
+- [d09543ec](https://github.com/kubedb/redis/commit/d09543ec0) Use Go 1.24 (#580)
+- [69b304d7](https://github.com/kubedb/redis/commit/69b304d7a) Fix and Improve Cluster Health Check + Add Cluster Pod Role Label (#578)
+- [029f1ade](https://github.com/kubedb/redis/commit/029f1ade0) Report namespace info with billing event (#579)
+- [50b6b3b8](https://github.com/kubedb/redis/commit/50b6b3b84) Run e2e tests on testrig & Show the reason for not satifying license (#577)
+- [57992fa9](https://github.com/kubedb/redis/commit/57992fa92) Prepare for release v0.45.0-rc.0 (#575)
+- [01332fde](https://github.com/kubedb/redis/commit/01332fdeb) Disable image caching in setup-qemu action (#576)
+- [67e0e092](https://github.com/kubedb/redis/commit/67e0e0923) Enable license restriction and client billing (#574)
+- [d9140fd6](https://github.com/kubedb/redis/commit/d9140fd65) Enable license restriction and client billing (#572)
+- [1e8f2763](https://github.com/kubedb/redis/commit/1e8f27634) Move mutator defaults to SetDefaults() (#571)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.31.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.31.0)

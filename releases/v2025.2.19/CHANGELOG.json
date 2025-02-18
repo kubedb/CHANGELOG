@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T20:26:02.480530621Z",
+  "release_date": "2025-02-18T20:26:41.71155219Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -1276,6 +1276,60 @@
         {
           "tag": "v0.14.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "1bd0ce8ed",
+              "Subject": "Prepare for release v0.45.0 (#582)"
+            },
+            {
+              "SHA": "6bceb5097",
+              "Subject": "Test against k8s 1.32 (#581)"
+            },
+            {
+              "SHA": "d09543ec0",
+              "Subject": "Use Go 1.24 (#580)"
+            },
+            {
+              "SHA": "69b304d7a",
+              "Subject": "Fix and Improve Cluster Health Check + Add Cluster Pod Role Label (#578)"
+            },
+            {
+              "SHA": "029f1ade0",
+              "Subject": "Report namespace info with billing event (#579)"
+            },
+            {
+              "SHA": "50b6b3b84",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license (#577)"
+            },
+            {
+              "SHA": "57992fa92",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#575)"
+            },
+            {
+              "SHA": "01332fdeb",
+              "Subject": "Disable image caching in setup-qemu action (#576)"
+            },
+            {
+              "SHA": "67e0e0923",
+              "Subject": "Enable license restriction and client billing (#574)"
+            },
+            {
+              "SHA": "d9140fd65",
+              "Subject": "Enable license restriction and client billing (#572)"
+            },
+            {
+              "SHA": "1e8f27634",
+              "Subject": "Move mutator defaults to SetDefaults() (#571)"
+            }
+          ]
         }
       ]
     },

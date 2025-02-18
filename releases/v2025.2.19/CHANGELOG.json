@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T20:30:38.717948891Z",
+  "release_date": "2025-02-18T20:31:17.157515167Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -1526,6 +1526,60 @@
         {
           "tag": "v0.14.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "ebf4ee3c",
+              "Subject": "Prepare for release v0.7.0 (#73)"
+            },
+            {
+              "SHA": "eff526ac",
+              "Subject": "Test against k8s 1.32 (#72)"
+            },
+            {
+              "SHA": "3c10a317",
+              "Subject": "Use Go 1.24 (#71)"
+            },
+            {
+              "SHA": "a4bbf73b",
+              "Subject": "Report namespace info with billing event (#70)"
+            },
+            {
+              "SHA": "3f881093",
+              "Subject": "Run e2e Tests on testrig & show the reason for not satisfying license… (#69)"
+            },
+            {
+              "SHA": "70782af2",
+              "Subject": "Fix license restriction checking (#68)"
+            },
+            {
+              "SHA": "7e6e1cca",
+              "Subject": "Fix lister creation for client billing"
+            },
+            {
+              "SHA": "71d4a65d",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#66)"
+            },
+            {
+              "SHA": "4dad3584",
+              "Subject": "Disable image caching in setup-qemu action (#67)"
+            },
+            {
+              "SHA": "5ae024d8",
+              "Subject": "Add client billing event support (#64)"
+            },
+            {
+              "SHA": "a179e524",
+              "Subject": "Fix RabbitMQ Deletion Issue (#63)"
+            }
+          ]
         }
       ]
     },

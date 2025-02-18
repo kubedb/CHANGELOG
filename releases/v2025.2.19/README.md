@@ -52,6 +52,23 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.7.0](https://github.com/kubedb/clickhouse/releases/tag/v0.7.0)
+
+- [d05435b4](https://github.com/kubedb/clickhouse/commit/d05435b4) Prepare for release v0.7.0 (#38)
+- [e58da497](https://github.com/kubedb/clickhouse/commit/e58da497) Test against k8s 1.32 (#37)
+- [add88aa4](https://github.com/kubedb/clickhouse/commit/add88aa4) Use Go 1.24 (#36)
+- [11003b23](https://github.com/kubedb/clickhouse/commit/11003b23) Report namespace info with billing event (#35)
+- [5f69479d](https://github.com/kubedb/clickhouse/commit/5f69479d) Show the reason for not satifying license restriction (#34)
+- [3d058bb1](https://github.com/kubedb/clickhouse/commit/3d058bb1) Add license restriction (#33)
+- [14822270](https://github.com/kubedb/clickhouse/commit/14822270) Fix lister creation for client billing
+- [4ead52f5](https://github.com/kubedb/clickhouse/commit/4ead52f5) Prepare for release v0.7.0-rc.0 (#31)
+- [62144b2f](https://github.com/kubedb/clickhouse/commit/62144b2f) Disable image caching in setup-qemu action (#32)
+- [60c715bf](https://github.com/kubedb/clickhouse/commit/60c715bf) Add client billing event support (#30)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.7.0](https://github.com/kubedb/crd-manager/releases/tag/v0.7.0)

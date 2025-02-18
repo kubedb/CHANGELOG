@@ -448,6 +448,17 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.7.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.7.0)
+
+- [3383f6e](https://github.com/kubedb/singlestore-coordinator/commit/3383f6e) Prepare for release v0.7.0 (#38)
+- [3fe4c70](https://github.com/kubedb/singlestore-coordinator/commit/3fe4c70) Use Go 1.24 (#37)
+- [3ab10f5](https://github.com/kubedb/singlestore-coordinator/commit/3ab10f5) Prepare for release v0.7.0-rc.0 (#36)
+- [f7271dd](https://github.com/kubedb/singlestore-coordinator/commit/f7271dd) Disable image caching in setup-qemu action (#35)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.10.0)

@@ -76,3 +76,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.15.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.15.0)
+
+- [4219198](https://github.com/kubedb/postgres-restic-plugin/commit/4219198) Prepare for release v0.15.0 (#67)
+- [3773695](https://github.com/kubedb/postgres-restic-plugin/commit/3773695) Use Go 1.24 (#66)
+- [91d569b](https://github.com/kubedb/postgres-restic-plugin/commit/91d569b) Prepare for release v0.15.0-rc.0 (#65)
+- [87c8e45](https://github.com/kubedb/postgres-restic-plugin/commit/87c8e45) Disable image caching in setup-qemu action (#64)
+- [b287099](https://github.com/kubedb/postgres-restic-plugin/commit/b287099) Add Stdin Backup Leaf Command support (#62)
+
+
+

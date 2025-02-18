@@ -116,6 +116,21 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.36.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.36.0)
+
+- [421d91d6](https://github.com/kubedb/pg-coordinator/commit/421d91d6) Prepare for release v0.36.0 (#192)
+- [1488a1d9](https://github.com/kubedb/pg-coordinator/commit/1488a1d9) Fix a bug for force failover (#191)
+- [b04c16fd](https://github.com/kubedb/pg-coordinator/commit/b04c16fd) Use Go 1.24 (#190)
+- [35382941](https://github.com/kubedb/pg-coordinator/commit/35382941) Reduce API Server Load by Adding Wait Interval When DB Is In Not Ready State (#189)
+- [0bc3ed8d](https://github.com/kubedb/pg-coordinator/commit/0bc3ed8d) Prepare for release v0.36.0-rc.0 (#187)
+- [e5aabf68](https://github.com/kubedb/pg-coordinator/commit/e5aabf68) Disable image caching in setup-qemu action (#188)
+- [a286040e](https://github.com/kubedb/pg-coordinator/commit/a286040e) Allow failover with data loss (#186)
+- [8c0d12da](https://github.com/kubedb/pg-coordinator/commit/8c0d12da) Enhance Archive WAL Management and Improve Failover Stability (#184)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.52.0](https://github.com/kubedb/postgres/releases/tag/v0.52.0)

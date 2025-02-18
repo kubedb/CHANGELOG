@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T23:48:03.114809049Z",
+  "release_date": "2025-02-18T23:59:51.232289358Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -1331,6 +1331,84 @@
             {
               "SHA": "0ba8326",
               "Subject": "Disable image caching in setup-qemu action (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "429376f16",
+              "Subject": "Prepare for release v0.39.0 (#712)"
+            },
+            {
+              "SHA": "2db83b1f7",
+              "Subject": "Add PgOps ReconnectStandby, ForceFailover, SetRaftKeyPair (#709)"
+            },
+            {
+              "SHA": "d2921d296",
+              "Subject": "Test against k8s 1.32 (#711)"
+            },
+            {
+              "SHA": "3c5e484be",
+              "Subject": "Use Go 1.24 (#710)"
+            },
+            {
+              "SHA": "79b563e37",
+              "Subject": "Improve license logging"
+            },
+            {
+              "SHA": "b90bb8002",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "f8bc59dde",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#708)"
+            },
+            {
+              "SHA": "f6b05657e",
+              "Subject": "Fix nats initialization"
+            },
+            {
+              "SHA": "ad10ad5a1",
+              "Subject": "Disable image caching in setup-qemu action (#707)"
+            },
+            {
+              "SHA": "5545b2dc6",
+              "Subject": "Add Recommendation Improvement and Bug Fixes (#704)"
+            },
+            {
+              "SHA": "81a08203b",
+              "Subject": "Allow Postgres Failover While Ops Request Progressing (#703)"
+            },
+            {
+              "SHA": "f2d98a46d",
+              "Subject": "add reconfigure-tls to PgBouncer (#701)"
+            },
+            {
+              "SHA": "b7300c6e2",
+              "Subject": "Add Arbiter Node Support, update restart for SQL Server (#649)"
+            },
+            {
+              "SHA": "b513e9e1d",
+              "Subject": "Fix RabbitMQ Version Update (#702)"
+            },
+            {
+              "SHA": "0abc08163",
+              "Subject": "Bug Fix in Reconfiguration(pgpool) (#698)"
+            },
+            {
+              "SHA": "1fd029ff3",
+              "Subject": "add pgpool rotate auth (#697)"
+            },
+            {
+              "SHA": "6e732fc7c",
+              "Subject": "Add Rotate auth for pgbouncer (#693)"
             }
           ]
         }

@@ -482,6 +482,30 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.39.0](https://github.com/kubedb/ops-manager/releases/tag/v0.39.0)
+
+- [429376f1](https://github.com/kubedb/ops-manager/commit/429376f16) Prepare for release v0.39.0 (#712)
+- [2db83b1f](https://github.com/kubedb/ops-manager/commit/2db83b1f7) Add PgOps ReconnectStandby, ForceFailover, SetRaftKeyPair (#709)
+- [d2921d29](https://github.com/kubedb/ops-manager/commit/d2921d296) Test against k8s 1.32 (#711)
+- [3c5e484b](https://github.com/kubedb/ops-manager/commit/3c5e484be) Use Go 1.24 (#710)
+- [79b563e3](https://github.com/kubedb/ops-manager/commit/79b563e37) Improve license logging
+- [b90bb800](https://github.com/kubedb/ops-manager/commit/b90bb8002) Use testrig
+- [f8bc59dd](https://github.com/kubedb/ops-manager/commit/f8bc59dde) Prepare for release v0.39.0-rc.0 (#708)
+- [f6b05657](https://github.com/kubedb/ops-manager/commit/f6b05657e) Fix nats initialization
+- [ad10ad5a](https://github.com/kubedb/ops-manager/commit/ad10ad5a1) Disable image caching in setup-qemu action (#707)
+- [5545b2dc](https://github.com/kubedb/ops-manager/commit/5545b2dc6) Add Recommendation Improvement and Bug Fixes (#704)
+- [81a08203](https://github.com/kubedb/ops-manager/commit/81a08203b) Allow Postgres Failover While Ops Request Progressing (#703)
+- [f2d98a46](https://github.com/kubedb/ops-manager/commit/f2d98a46d) add reconfigure-tls to PgBouncer (#701)
+- [b7300c6e](https://github.com/kubedb/ops-manager/commit/b7300c6e2) Add Arbiter Node Support, update restart for SQL Server (#649)
+- [b513e9e1](https://github.com/kubedb/ops-manager/commit/b513e9e1d) Fix RabbitMQ Version Update (#702)
+- [0abc0816](https://github.com/kubedb/ops-manager/commit/0abc08163) Bug Fix in Reconfiguration(pgpool) (#698)
+- [1fd029ff](https://github.com/kubedb/ops-manager/commit/1fd029ff3) add pgpool rotate auth (#697)
+- [6e732fc7](https://github.com/kubedb/ops-manager/commit/6e732fc7c) Add Rotate auth for pgbouncer (#693)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.39.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.39.0)

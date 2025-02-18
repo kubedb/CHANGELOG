@@ -619,6 +619,21 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.39.0](https://github.com/kubedb/proxysql/releases/tag/v0.39.0)
+
+- [6db7137f](https://github.com/kubedb/proxysql/commit/6db7137fe) Prepare for release v0.39.0 (#380)
+- [dab8c50c](https://github.com/kubedb/proxysql/commit/dab8c50c5) Test against k8s 1.32 (#379)
+- [3830a15e](https://github.com/kubedb/proxysql/commit/3830a15e5) Use Go 1.24 (#378)
+- [3328ea01](https://github.com/kubedb/proxysql/commit/3328ea01d) Report namespace info with billing event (#377)
+- [d8f61f12](https://github.com/kubedb/proxysql/commit/d8f61f127) Show the reason for not satifying license restriction (#376)
+- [15e87ca7](https://github.com/kubedb/proxysql/commit/15e87ca70) Prepare for release v0.39.0-rc.0 (#375)
+- [ade37da5](https://github.com/kubedb/proxysql/commit/ade37da53) Disable image caching in setup-qemu action (#374)
+- [22a4b65a](https://github.com/kubedb/proxysql/commit/22a4b65af) Add client billing event support (#372)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.7.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.7.0)

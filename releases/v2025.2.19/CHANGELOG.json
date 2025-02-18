@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:56:24.54226112Z",
+  "release_date": "2025-02-18T19:56:44.876762096Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -751,6 +751,36 @@
             {
               "SHA": "9f91792",
               "Subject": "Disable image caching in setup-qemu action (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "a19fa28",
+              "Subject": "Prepare for release v0.15.0 (#70)"
+            },
+            {
+              "SHA": "78dcba1",
+              "Subject": "Use Go 1.24 (#69)"
+            },
+            {
+              "SHA": "8acee3b",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "b2144fb",
+              "Subject": "Disable image caching in setup-qemu action (#68)"
+            },
+            {
+              "SHA": "6830436",
+              "Subject": "Add Stdin Backup Leaf Command support (#61)"
             }
           ]
         }

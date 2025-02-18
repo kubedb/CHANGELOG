@@ -41,6 +41,19 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.7.0](https://github.com/kubedb/crd-manager/releases/tag/v0.7.0)
+
+- [665eda53](https://github.com/kubedb/crd-manager/commit/665eda53) Prepare for release v0.7.0 (#66)
+- [66947bf4](https://github.com/kubedb/crd-manager/commit/66947bf4) Use Go 1.24 (#65)
+- [b31b8762](https://github.com/kubedb/crd-manager/commit/b31b8762) Delete only the self-CRDs for depandants (#64)
+- [14ffaaf3](https://github.com/kubedb/crd-manager/commit/14ffaaf3) Implement safe-deletion for CRDs (#63)
+- [39b99af6](https://github.com/kubedb/crd-manager/commit/39b99af6) Disable image caching in setup-qemu action (#62)
+- [07576a67](https://github.com/kubedb/crd-manager/commit/07576a67) Prepare for release v0.7.0-rc.0 (#61)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.7.0](https://github.com/kubedb/db-client-go/releases/tag/v0.7.0)

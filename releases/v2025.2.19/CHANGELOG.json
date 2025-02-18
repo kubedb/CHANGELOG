@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:01:21.70514159Z",
+  "release_date": "2025-02-18T19:09:26.298911551Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -143,6 +143,36 @@
             {
               "SHA": "7dd4fbe3f",
               "Subject": "Pass different ca for gateway & inCluster (#1380)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "b3fa7654",
+              "Subject": "Prepare for release v0.7.0 (#163)"
+            },
+            {
+              "SHA": "993a561c",
+              "Subject": "Add method to get shard information for ES (#160)"
+            },
+            {
+              "SHA": "3fa565a9",
+              "Subject": "Use Go 1.24 (#162)"
+            },
+            {
+              "SHA": "7deb14c1",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "4790577b",
+              "Subject": "cert remove from pgbouncer (#158)"
             }
           ]
         }

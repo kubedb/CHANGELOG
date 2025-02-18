@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T19:24:41.947919074Z",
+  "release_date": "2025-02-18T19:27:42.058608179Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -291,6 +291,68 @@
             {
               "SHA": "0ba8326",
               "Subject": "Disable image caching in setup-qemu action (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "776585018",
+              "Subject": "Prepare for release v0.52.0 (#796)"
+            },
+            {
+              "SHA": "5a24b48ed",
+              "Subject": "Test against k8s 1.32 (#795)"
+            },
+            {
+              "SHA": "ad5ada201",
+              "Subject": "Use Go 1.24 (#794)"
+            },
+            {
+              "SHA": "9fd8f70ae",
+              "Subject": "Report namespace info with billing event (#793)"
+            },
+            {
+              "SHA": "f3158b9de",
+              "Subject": "update log (#792)"
+            },
+            {
+              "SHA": "a2fe345e3",
+              "Subject": "Run e2e tests on testrig (#791)"
+            },
+            {
+              "SHA": "18f17d974",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#790)"
+            },
+            {
+              "SHA": "db644a803",
+              "Subject": "Disable image caching in setup-qemu action (#789)"
+            },
+            {
+              "SHA": "6ad420f93",
+              "Subject": "Add client billing event support (#783)"
+            },
+            {
+              "SHA": "e056f4800",
+              "Subject": "Added archiver and init-script manifest restore support (#787)"
+            },
+            {
+              "SHA": "8ed11d084",
+              "Subject": "Archive mode related changes and add startTime-endTime in incremental snapshot (#784)"
+            },
+            {
+              "SHA": "fe0e2ac0e",
+              "Subject": "Parse license restrictions"
+            },
+            {
+              "SHA": "eaf5b26c0",
+              "Subject": "Add license restrictions (#782)"
             }
           ]
         }

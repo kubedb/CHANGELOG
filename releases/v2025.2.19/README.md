@@ -41,6 +41,25 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.5.0](https://github.com/kubedb/cassandra/releases/tag/v0.5.0)
+
+- [f8c20588](https://github.com/kubedb/cassandra/commit/f8c20588) Prepare for release v0.5.0 (#24)
+- [d8682ce7](https://github.com/kubedb/cassandra/commit/d8682ce7) Test against k8s 1.32 (#23)
+- [1683194c](https://github.com/kubedb/cassandra/commit/1683194c) Use Go 1.24 (#22)
+- [5a9efd1a](https://github.com/kubedb/cassandra/commit/5a9efd1a) Merge pull request #21 from kubedb/ns
+- [89c1e37c](https://github.com/kubedb/cassandra/commit/89c1e37c) Report namespace info with billing event
+- [5d389517](https://github.com/kubedb/cassandra/commit/5d389517) Update license log & e2e machine
+- [4eb08463](https://github.com/kubedb/cassandra/commit/4eb08463) Fix reconcile order (#20)
+- [caa25811](https://github.com/kubedb/cassandra/commit/caa25811) Fix license restriction checking (#19)
+- [85d398f0](https://github.com/kubedb/cassandra/commit/85d398f0) Fix lister creation for client billing
+- [e5b0f6ac](https://github.com/kubedb/cassandra/commit/e5b0f6ac) Prepare for release v0.5.0-rc.0 (#17)
+- [75936904](https://github.com/kubedb/cassandra/commit/75936904) Disable image caching in setup-qemu action (#18)
+- [282fb04e](https://github.com/kubedb/cassandra/commit/282fb04e) Add client billing support (#16)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.52.0](https://github.com/kubedb/cli/releases/tag/v0.52.0)

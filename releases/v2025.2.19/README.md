@@ -53,3 +53,15 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.13.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.13.0)
+
+- [63ba8c9](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/63ba8c9) Prepare for release v0.13.0 (#53)
+- [c4b928f](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/c4b928f) Use Go 1.24 (#52)
+- [bbe21c0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/bbe21c0) Prepare for release v0.13.0-rc.0 (#51)
+- [f088e55](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/f088e55) Disable image caching in setup-qemu action (#50)
+- [3db1026](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/3db1026) Update volumeSnapshotTime when volumeSnapshot is ready to use and add support for standalone volume snapshot (#43)
+
+
+

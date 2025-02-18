@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T20:26:41.71155219Z",
+  "release_date": "2025-02-18T20:28:12.642681832Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -847,6 +847,68 @@
             {
               "SHA": "cc57300",
               "Subject": "Disable image caching in setup-qemu action (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "7cb701700",
+              "Subject": "Prepare for release v0.45.0 (#672)"
+            },
+            {
+              "SHA": "78f18ebc2",
+              "Subject": "Test against k8s 1.32 (#671)"
+            },
+            {
+              "SHA": "7b8439cf1",
+              "Subject": "Use Go 1.24 (#670)"
+            },
+            {
+              "SHA": "c7c9ffec3",
+              "Subject": "Report namespace info with billing event (#669)"
+            },
+            {
+              "SHA": "1db638462",
+              "Subject": "Show the reason for not satifying license restriction (#668)"
+            },
+            {
+              "SHA": "8c49a6eae",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "2cd44d411",
+              "Subject": "Fix license restriction (#667)"
+            },
+            {
+              "SHA": "c670388e0",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#665)"
+            },
+            {
+              "SHA": "fc288a35b",
+              "Subject": "Disable image caching in setup-qemu action (#666)"
+            },
+            {
+              "SHA": "4453af610",
+              "Subject": "Update BinLog Snapshot status (#659)"
+            },
+            {
+              "SHA": "5cea0f13f",
+              "Subject": "Add client billing event support (#663)"
+            },
+            {
+              "SHA": "e8c264e1b",
+              "Subject": "Added archiver and init-script manifest restore support (#661)"
+            },
+            {
+              "SHA": "174fdd9ed",
+              "Subject": "Add --all-databases arg for v5.7.x (#662)"
             }
           ]
         }

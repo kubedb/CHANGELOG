@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-18T20:21:48.993157859Z",
+  "release_date": "2025-02-18T20:22:46.550658515Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -1154,6 +1154,32 @@
         {
           "tag": "v0.14.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "ad30d0f4",
+              "Subject": "Prepare for release v0.31.0 (#123)"
+            },
+            {
+              "SHA": "ba9e3036",
+              "Subject": "Use Go 1.24 (#122)"
+            },
+            {
+              "SHA": "e56c4c25",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#121)"
+            },
+            {
+              "SHA": "2539e4b4",
+              "Subject": "Disable image caching in setup-qemu action (#120)"
+            }
+          ]
         }
       ]
     },

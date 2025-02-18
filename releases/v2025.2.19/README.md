@@ -438,6 +438,17 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.31.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.31.0)
+
+- [ad30d0f4](https://github.com/kubedb/redis-coordinator/commit/ad30d0f4) Prepare for release v0.31.0 (#123)
+- [ba9e3036](https://github.com/kubedb/redis-coordinator/commit/ba9e3036) Use Go 1.24 (#122)
+- [e56c4c25](https://github.com/kubedb/redis-coordinator/commit/e56c4c25) Prepare for release v0.31.0-rc.0 (#121)
+- [2539e4b4](https://github.com/kubedb/redis-coordinator/commit/2539e4b4) Disable image caching in setup-qemu action (#120)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.15.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.15.0)

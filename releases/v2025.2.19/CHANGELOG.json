@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.2.19",
-  "release_date": "2025-02-19T01:32:39.328443932Z",
+  "release_date": "2025-02-19T01:49:05.805785849Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.2.19",
   "kubernetes_version": "1.26+",
@@ -405,6 +405,56 @@
             {
               "SHA": "4790577b",
               "Subject": "cert remove from pgbouncer (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.2.19",
+          "commits": [
+            {
+              "SHA": "007d5659",
+              "Subject": "Prepare for release v2025.2.19 (#748)"
+            },
+            {
+              "SHA": "c8e8288b",
+              "Subject": "Test against k8s 1.32 (#745)"
+            },
+            {
+              "SHA": "e5b95444",
+              "Subject": "Use Go 1.24 (#744)"
+            },
+            {
+              "SHA": "be7e9e8f",
+              "Subject": "Add Archiver Feature in MySQL, MariaDB (#741)"
+            },
+            {
+              "SHA": "8f9cd7ba",
+              "Subject": "Pgpool docs update (#740)"
+            },
+            {
+              "SHA": "7b1d26fa",
+              "Subject": "pgbouncer version 1.24.0 added (#743)"
+            },
+            {
+              "SHA": "7a9d04e1",
+              "Subject": "chore: remove redundant words (#735)"
+            },
+            {
+              "SHA": "2366860f",
+              "Subject": "Prepare for release v2025.2.6-rc.0 (#742)"
+            },
+            {
+              "SHA": "5df67ba3",
+              "Subject": "Fix es backup images for kubestash (#739)"
+            },
+            {
+              "SHA": "334af951",
+              "Subject": "Add PGBouncer TLS & Reconfigure TLS (#736)"
             }
           ]
         }

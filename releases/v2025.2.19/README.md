@@ -138,6 +138,23 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.2.19](https://github.com/kubedb/docs/releases/tag/v2025.2.19)
+
+- [007d5659](https://github.com/kubedb/docs/commit/007d5659) Prepare for release v2025.2.19 (#748)
+- [c8e8288b](https://github.com/kubedb/docs/commit/c8e8288b) Test against k8s 1.32 (#745)
+- [e5b95444](https://github.com/kubedb/docs/commit/e5b95444) Use Go 1.24 (#744)
+- [be7e9e8f](https://github.com/kubedb/docs/commit/be7e9e8f) Add Archiver Feature in MySQL, MariaDB (#741)
+- [8f9cd7ba](https://github.com/kubedb/docs/commit/8f9cd7ba) Pgpool docs update (#740)
+- [7b1d26fa](https://github.com/kubedb/docs/commit/7b1d26fa) pgbouncer version 1.24.0 added (#743)
+- [7a9d04e1](https://github.com/kubedb/docs/commit/7a9d04e1) chore: remove redundant words (#735)
+- [2366860f](https://github.com/kubedb/docs/commit/2366860f) Prepare for release v2025.2.6-rc.0 (#742)
+- [5df67ba3](https://github.com/kubedb/docs/commit/5df67ba3) Fix es backup images for kubestash (#739)
+- [334af951](https://github.com/kubedb/docs/commit/334af951) Add PGBouncer TLS & Reconfigure TLS (#736)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.7.0](https://github.com/kubedb/druid/releases/tag/v0.7.0)

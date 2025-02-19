@@ -1,4 +1,4 @@
-# KubeDB v2025.2.19 (2025-02-18)
+# KubeDB v2025.2.19 (2025-02-19)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -38,6 +38,19 @@
 - [ce659b3f](https://github.com/kubedb/apimachinery/commit/ce659b3fc) Add license restrictions (#1382)
 - [051792b4](https://github.com/kubedb/apimachinery/commit/051792b4b) Implement DBBindInterface for generic bindings (#1381)
 - [7dd4fbe3](https://github.com/kubedb/apimachinery/commit/7dd4fbe3f) Pass different ca for gateway & inCluster (#1380)
+
+
+
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.37.0](https://github.com/kubedb/autoscaler/releases/tag/v0.37.0)
+
+- [34248ff9](https://github.com/kubedb/autoscaler/commit/34248ff9) Prepare for release v0.37.0 (#240)
+- [e05a087b](https://github.com/kubedb/autoscaler/commit/e05a087b) Use Go 1.24 (#239)
+- [21604090](https://github.com/kubedb/autoscaler/commit/21604090) Set minimum of 0.3Gi wiredTiger storage
+- [281f1a30](https://github.com/kubedb/autoscaler/commit/281f1a30) Prepare for release v0.37.0-rc.0 (#238)
+- [750466be](https://github.com/kubedb/autoscaler/commit/750466be) Fix nats initialization (#237)
+- [51b090f7](https://github.com/kubedb/autoscaler/commit/51b090f7) Disable image caching in setup-qemu action (#236)
 
 
 

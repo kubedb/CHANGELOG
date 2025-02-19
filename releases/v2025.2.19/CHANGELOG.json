@@ -1,0 +1,2533 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.2.19",
+  "release_date": "2025-02-19T01:49:05.805785849Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.2.19",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "a75252a4e",
+              "Subject": "Add PostgresOpsRequest ReconnectStandby, ForceFailover, SetRaftKeyPair (#1404)"
+            },
+            {
+              "SHA": "75a4e2b5a",
+              "Subject": "Test against k8s 1.32 (#1403)"
+            },
+            {
+              "SHA": "d38a170fe",
+              "Subject": "Use Go 1.24 (#1401)"
+            },
+            {
+              "SHA": "6d24fef28",
+              "Subject": "Use Go 1.24 (#1400)"
+            },
+            {
+              "SHA": "bd6cc66bd",
+              "Subject": "Defaulting DB namespace to init archiver fields (#1399)"
+            },
+            {
+              "SHA": "39cd66e47",
+              "Subject": "Fix druid security context issue (#1396)"
+            },
+            {
+              "SHA": "471390290",
+              "Subject": "Defaulting internal zookeper (#1398)"
+            },
+            {
+              "SHA": "2f6d49a92",
+              "Subject": "security-context for pgbouncer (#1339)"
+            },
+            {
+              "SHA": "60581b73b",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b51e119e3",
+              "Subject": "make some defaulting funcs public (#1395)"
+            },
+            {
+              "SHA": "00ea2f07f",
+              "Subject": "Update for release KubeStash@v2025.2.10 (#1397)"
+            },
+            {
+              "SHA": "023d2f628",
+              "Subject": "Update security context defaulting for solr (#1394)"
+            },
+            {
+              "SHA": "3a00131dd",
+              "Subject": "Update Kafka Default Resource to Memory Intensive (#1393)"
+            },
+            {
+              "SHA": "1b380ea04",
+              "Subject": "Seperate up the connectOptions for gw & inCluster (#1391)"
+            },
+            {
+              "SHA": "7f58d0390",
+              "Subject": "Return the reason for not allowing license restrictions (#1392)"
+            },
+            {
+              "SHA": "d3ee4caa7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f68a76c7d",
+              "Subject": "make fmt"
+            },
+            {
+              "SHA": "1ba01a7de",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b05f97094",
+              "Subject": "Add DisableSSLSessionResumption field in PostgresVersion CRD (#1390)"
+            },
+            {
+              "SHA": "47fd90caf",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f435670c9",
+              "Subject": "Add InitScript restore option into manifest restore (#1388)"
+            },
+            {
+              "SHA": "e37dc985f",
+              "Subject": "Set maxscale Field Optional (#1389)"
+            },
+            {
+              "SHA": "e5366d526",
+              "Subject": "Add Support for MariaDB Replication (#1383)"
+            },
+            {
+              "SHA": "7ad439250",
+              "Subject": "Add MS SQL Server Arbiter APIs (#1363)"
+            },
+            {
+              "SHA": "affa6dc53",
+              "Subject": "Add RabbitMQ EnableAllFeatureFlags Constant (#1386)"
+            },
+            {
+              "SHA": "7f9ee3e6b",
+              "Subject": "Add apis for archiver manifest recovery (#1387)"
+            },
+            {
+              "SHA": "85c4437b1",
+              "Subject": "Add Pgpool hba and pcp file name Constant (#1377)"
+            },
+            {
+              "SHA": "2e163519e",
+              "Subject": "add reconfigure-tls for pgbouncer (#1384)"
+            },
+            {
+              "SHA": "a79005204",
+              "Subject": "Add SchemaRegistry with RestProxy API (#1372)"
+            },
+            {
+              "SHA": "bdae9dd4c",
+              "Subject": "Move Redis mutator defaults to SetDefaults() (#1385)"
+            },
+            {
+              "SHA": "ce659b3fc",
+              "Subject": "Add license restrictions (#1382)"
+            },
+            {
+              "SHA": "051792b4b",
+              "Subject": "Implement DBBindInterface for generic bindings (#1381)"
+            },
+            {
+              "SHA": "7dd4fbe3f",
+              "Subject": "Pass different ca for gateway & inCluster (#1380)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "34248ff9",
+              "Subject": "Prepare for release v0.37.0 (#240)"
+            },
+            {
+              "SHA": "e05a087b",
+              "Subject": "Use Go 1.24 (#239)"
+            },
+            {
+              "SHA": "21604090",
+              "Subject": "Set minimum of 0.3Gi wiredTiger storage"
+            },
+            {
+              "SHA": "281f1a30",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#238)"
+            },
+            {
+              "SHA": "750466be",
+              "Subject": "Fix nats initialization (#237)"
+            },
+            {
+              "SHA": "51b090f7",
+              "Subject": "Disable image caching in setup-qemu action (#236)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "f8c20588",
+              "Subject": "Prepare for release v0.5.0 (#24)"
+            },
+            {
+              "SHA": "d8682ce7",
+              "Subject": "Test against k8s 1.32 (#23)"
+            },
+            {
+              "SHA": "1683194c",
+              "Subject": "Use Go 1.24 (#22)"
+            },
+            {
+              "SHA": "5a9efd1a",
+              "Subject": "Merge pull request #21 from kubedb/ns"
+            },
+            {
+              "SHA": "89c1e37c",
+              "Subject": "Report namespace info with billing event"
+            },
+            {
+              "SHA": "5d389517",
+              "Subject": "Update license log & e2e machine"
+            },
+            {
+              "SHA": "4eb08463",
+              "Subject": "Fix reconcile order (#20)"
+            },
+            {
+              "SHA": "caa25811",
+              "Subject": "Fix license restriction checking (#19)"
+            },
+            {
+              "SHA": "85d398f0",
+              "Subject": "Fix lister creation for client billing"
+            },
+            {
+              "SHA": "e5b0f6ac",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#17)"
+            },
+            {
+              "SHA": "75936904",
+              "Subject": "Disable image caching in setup-qemu action (#18)"
+            },
+            {
+              "SHA": "282fb04e",
+              "Subject": "Add client billing support (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "9b59b8bc",
+              "Subject": "Prepare for release v0.52.0 (#791)"
+            },
+            {
+              "SHA": "71231655",
+              "Subject": "Use Go 1.24 (#790)"
+            },
+            {
+              "SHA": "6682c895",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#789)"
+            },
+            {
+              "SHA": "ae68ef49",
+              "Subject": "Disable image caching in setup-qemu action (#788)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "d05435b4",
+              "Subject": "Prepare for release v0.7.0 (#38)"
+            },
+            {
+              "SHA": "e58da497",
+              "Subject": "Test against k8s 1.32 (#37)"
+            },
+            {
+              "SHA": "add88aa4",
+              "Subject": "Use Go 1.24 (#36)"
+            },
+            {
+              "SHA": "11003b23",
+              "Subject": "Report namespace info with billing event (#35)"
+            },
+            {
+              "SHA": "5f69479d",
+              "Subject": "Show the reason for not satifying license restriction (#34)"
+            },
+            {
+              "SHA": "3d058bb1",
+              "Subject": "Add license restriction (#33)"
+            },
+            {
+              "SHA": "14822270",
+              "Subject": "Fix lister creation for client billing"
+            },
+            {
+              "SHA": "4ead52f5",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "62144b2f",
+              "Subject": "Disable image caching in setup-qemu action (#32)"
+            },
+            {
+              "SHA": "60c715bf",
+              "Subject": "Add client billing event support (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "665eda53",
+              "Subject": "Prepare for release v0.7.0 (#66)"
+            },
+            {
+              "SHA": "66947bf4",
+              "Subject": "Use Go 1.24 (#65)"
+            },
+            {
+              "SHA": "b31b8762",
+              "Subject": "Delete only the self-CRDs for depandants (#64)"
+            },
+            {
+              "SHA": "14ffaaf3",
+              "Subject": "Implement safe-deletion for CRDs (#63)"
+            },
+            {
+              "SHA": "39b99af6",
+              "Subject": "Disable image caching in setup-qemu action (#62)"
+            },
+            {
+              "SHA": "07576a67",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "cff8f60",
+              "Subject": "Prepare for release v0.10.0 (#34)"
+            },
+            {
+              "SHA": "d357bdc",
+              "Subject": "Use Go 1.24 (#33)"
+            },
+            {
+              "SHA": "3c2aa0a",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#32)"
+            },
+            {
+              "SHA": "3a34720",
+              "Subject": "Disable image caching in setup-qemu action (#31)"
+            },
+            {
+              "SHA": "f189381",
+              "Subject": "Incorporate with go-sh leaf command execution (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "b3fa7654",
+              "Subject": "Prepare for release v0.7.0 (#163)"
+            },
+            {
+              "SHA": "993a561c",
+              "Subject": "Add method to get shard information for ES (#160)"
+            },
+            {
+              "SHA": "3fa565a9",
+              "Subject": "Use Go 1.24 (#162)"
+            },
+            {
+              "SHA": "7deb14c1",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "4790577b",
+              "Subject": "cert remove from pgbouncer (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.2.19",
+          "commits": [
+            {
+              "SHA": "007d5659",
+              "Subject": "Prepare for release v2025.2.19 (#748)"
+            },
+            {
+              "SHA": "c8e8288b",
+              "Subject": "Test against k8s 1.32 (#745)"
+            },
+            {
+              "SHA": "e5b95444",
+              "Subject": "Use Go 1.24 (#744)"
+            },
+            {
+              "SHA": "be7e9e8f",
+              "Subject": "Add Archiver Feature in MySQL, MariaDB (#741)"
+            },
+            {
+              "SHA": "8f9cd7ba",
+              "Subject": "Pgpool docs update (#740)"
+            },
+            {
+              "SHA": "7b1d26fa",
+              "Subject": "pgbouncer version 1.24.0 added (#743)"
+            },
+            {
+              "SHA": "7a9d04e1",
+              "Subject": "chore: remove redundant words (#735)"
+            },
+            {
+              "SHA": "2366860f",
+              "Subject": "Prepare for release v2025.2.6-rc.0 (#742)"
+            },
+            {
+              "SHA": "5df67ba3",
+              "Subject": "Fix es backup images for kubestash (#739)"
+            },
+            {
+              "SHA": "334af951",
+              "Subject": "Add PGBouncer TLS & Reconfigure TLS (#736)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "8dc34f78",
+              "Subject": "Prepare for release v0.7.0 (#75)"
+            },
+            {
+              "SHA": "507e27de",
+              "Subject": "Test against k8s 1.32 (#74)"
+            },
+            {
+              "SHA": "ec664f20",
+              "Subject": "Use Go 1.24 (#73)"
+            },
+            {
+              "SHA": "bf3ae1d8",
+              "Subject": "Fix druid security context issue (#71)"
+            },
+            {
+              "SHA": "88e4905c",
+              "Subject": "Report namespace info with billing event (#72)"
+            },
+            {
+              "SHA": "4f4062b6",
+              "Subject": "Update license log & e2e machine"
+            },
+            {
+              "SHA": "17876788",
+              "Subject": "Add license restriction (#70)"
+            },
+            {
+              "SHA": "31e2f5d6",
+              "Subject": "Update listers for client billing"
+            },
+            {
+              "SHA": "a2c96244",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "61806784",
+              "Subject": "Disable image caching in setup-qemu action (#68)"
+            },
+            {
+              "SHA": "2f632333",
+              "Subject": "Add client billing event support (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "01aa7b63f",
+              "Subject": "Prepare for release v0.52.0 (#756)"
+            },
+            {
+              "SHA": "0ce1d5a23",
+              "Subject": "Test against k8s 1.32 (#755)"
+            },
+            {
+              "SHA": "a5a3c2576",
+              "Subject": "Use Go 1.24 (#754)"
+            },
+            {
+              "SHA": "2600d5bd5",
+              "Subject": "Report namespace info with billing event (#753)"
+            },
+            {
+              "SHA": "19980821a",
+              "Subject": "Update license restriction log (#752)"
+            },
+            {
+              "SHA": "19ea3a942",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "a60b0c134",
+              "Subject": "Update reconcile method (#751)"
+            },
+            {
+              "SHA": "7be7d7282",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#749)"
+            },
+            {
+              "SHA": "953e8b529",
+              "Subject": "Add restriction for client billing (#750)"
+            },
+            {
+              "SHA": "c22f60990",
+              "Subject": "Disable image caching in setup-qemu action (#748)"
+            },
+            {
+              "SHA": "39d728289",
+              "Subject": "Add client billing event support (#747)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "dd7dd4b8",
+              "Subject": "Prepare for release v0.15.0 (#59)"
+            },
+            {
+              "SHA": "9e05f686",
+              "Subject": "Use Go 1.24 (#58)"
+            },
+            {
+              "SHA": "bbdc55c7",
+              "Subject": "Disable image caching in setup-qemu action (#57)"
+            },
+            {
+              "SHA": "6a087679",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#56)"
+            },
+            {
+              "SHA": "e06c0877",
+              "Subject": "Add Stdin Backup Leaf Command Support (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "175f1523",
+              "Subject": "Prepare for release v0.7.0 (#64)"
+            },
+            {
+              "SHA": "15975b72",
+              "Subject": "Test against k8s 1.32 (#63)"
+            },
+            {
+              "SHA": "4e2c27ee",
+              "Subject": "Use Go 1.24 (#62)"
+            },
+            {
+              "SHA": "2b50a0d6",
+              "Subject": "Report namespace info with billing event (#61)"
+            },
+            {
+              "SHA": "98674271",
+              "Subject": "Update license log & e2e machine"
+            },
+            {
+              "SHA": "413b1108",
+              "Subject": "Add license restriction (#59)"
+            },
+            {
+              "SHA": "84909469",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "b158b789",
+              "Subject": "Disable image caching in setup-qemu action (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.2.19",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "5760f6ef",
+              "Subject": "Prepare for release v0.23.0 (#141)"
+            },
+            {
+              "SHA": "cecd7700",
+              "Subject": "Test against k8s 1.32 (#140)"
+            },
+            {
+              "SHA": "77970b06",
+              "Subject": "Use Go 1.24 (#139)"
+            },
+            {
+              "SHA": "e63d1571",
+              "Subject": "Report namespace info with billing event (#138)"
+            },
+            {
+              "SHA": "256409b5",
+              "Subject": "Show the reason for not satifying license restriction (#137)"
+            },
+            {
+              "SHA": "5d530b62",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "70d1c5ba",
+              "Subject": "Update listers for client billing (#136)"
+            },
+            {
+              "SHA": "a9324d11",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "b19380dd",
+              "Subject": "Disable image caching in setup-qemu action (#134)"
+            },
+            {
+              "SHA": "3b96d82d",
+              "Subject": "Add client billing event support (#132)"
+            },
+            {
+              "SHA": "b948518b",
+              "Subject": "Add SchemaRegistry with Rest Proxy  (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "59eca516",
+              "Subject": "Prepare for release v0.28.0 (#142)"
+            },
+            {
+              "SHA": "57b32ae0",
+              "Subject": "Use Go 1.24 (#141)"
+            },
+            {
+              "SHA": "87fce12a",
+              "Subject": "Report namespace info with billing event (#140)"
+            },
+            {
+              "SHA": "07ce140e",
+              "Subject": "Update license restriction log (#139)"
+            },
+            {
+              "SHA": "b447af9a",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#137)"
+            },
+            {
+              "SHA": "e1c3a494",
+              "Subject": "Update reconcilestate and billing restrictions (#138)"
+            },
+            {
+              "SHA": "82f37250",
+              "Subject": "Disable image caching in setup-qemu action (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "01b12a7",
+              "Subject": "Prepare for release v0.15.0 (#90)"
+            },
+            {
+              "SHA": "891e1ea",
+              "Subject": "Use Go 1.24 (#89)"
+            },
+            {
+              "SHA": "f85c4ee",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#88)"
+            },
+            {
+              "SHA": "155aea8",
+              "Subject": "Disable image caching in setup-qemu action (#87)"
+            },
+            {
+              "SHA": "1c168b9",
+              "Subject": "Archiver and InitScript support added for backup and restore (#84)"
+            },
+            {
+              "SHA": "e64809f",
+              "Subject": "Incorporate with `go-sh` leaf command execution (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "1033b54",
+              "Subject": "Prepare for release v0.3.0 (#14)"
+            },
+            {
+              "SHA": "7a08962",
+              "Subject": "Use Go 1.24 (#13)"
+            },
+            {
+              "SHA": "1e55a38",
+              "Subject": "Disable image caching in setup-qemu action (#12)"
+            },
+            {
+              "SHA": "3648382",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "5aae329ea",
+              "Subject": "Prepare for release v0.36.0 (#314)"
+            },
+            {
+              "SHA": "2102f5992",
+              "Subject": "Test against k8s 1.32 (#313)"
+            },
+            {
+              "SHA": "c48e29b67",
+              "Subject": "Use Go 1.24 (#312)"
+            },
+            {
+              "SHA": "c2df3bc9b",
+              "Subject": "Report namespace info with billing event (#311)"
+            },
+            {
+              "SHA": "d72a123ca",
+              "Subject": "Show the reason for not satifying license restriction (#310)"
+            },
+            {
+              "SHA": "d586b5689",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "b4aa76961",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#308)"
+            },
+            {
+              "SHA": "35f8872bb",
+              "Subject": "Disable image caching in setup-qemu action (#309)"
+            },
+            {
+              "SHA": "1ae948a15",
+              "Subject": "Add client billing event support (#306)"
+            },
+            {
+              "SHA": "163d01c11",
+              "Subject": "Added archiver and init-script manifest restore support (#305)"
+            },
+            {
+              "SHA": "c32d1af68",
+              "Subject": "Fix AuthSecret Check (#296)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "70edd7d5",
+              "Subject": "Prepare for release v0.12.0 (#44)"
+            },
+            {
+              "SHA": "fabf49b0",
+              "Subject": "Use Go 1.24 (#43)"
+            },
+            {
+              "SHA": "e9ac111d",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#42)"
+            },
+            {
+              "SHA": "40d97244",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "c156d207",
+              "Subject": "Disable image caching in setup-qemu action (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "24eeb621",
+              "Subject": "Prepare for release v0.32.0 (#139)"
+            },
+            {
+              "SHA": "a8c8f873",
+              "Subject": "Use Go 1.24 (#138)"
+            },
+            {
+              "SHA": "ff0a938a",
+              "Subject": "Prepare for release v0.32.0-rc.0 (#137)"
+            },
+            {
+              "SHA": "efb48fb1",
+              "Subject": "Disable image caching in setup-qemu action (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "616f213",
+              "Subject": "Prepare for release v0.12.0 (#42)"
+            },
+            {
+              "SHA": "1c16b34",
+              "Subject": "Use Go 1.24 (#41)"
+            },
+            {
+              "SHA": "b94da98",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#40)"
+            },
+            {
+              "SHA": "2106e19",
+              "Subject": "Disable image caching in setup-qemu action (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "d0bf662b4",
+              "Subject": "Prepare for release v0.45.0 (#489)"
+            },
+            {
+              "SHA": "dc8343bce",
+              "Subject": "Test against k8s 1.32 (#488)"
+            },
+            {
+              "SHA": "273994640",
+              "Subject": "Use Go 1.24 (#487)"
+            },
+            {
+              "SHA": "5757ac2ca",
+              "Subject": "Report namespace info with billing event (#486)"
+            },
+            {
+              "SHA": "ae26c91e7",
+              "Subject": "Run e2e Tests on testrig & show the reason for not satisfying license restriction (#485)"
+            },
+            {
+              "SHA": "761e9c145",
+              "Subject": "Fix License Restriction Checking (#484)"
+            },
+            {
+              "SHA": "1d14d49c6",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#482)"
+            },
+            {
+              "SHA": "1d3054dfa",
+              "Subject": "Disable image caching in setup-qemu action (#483)"
+            },
+            {
+              "SHA": "90fd08014",
+              "Subject": "Add client billing event support (#480)"
+            },
+            {
+              "SHA": "2e5692449",
+              "Subject": "Fix memcached config secret issue (#479)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "7d7c28790",
+              "Subject": "Prepare for release v0.45.0 (#689)"
+            },
+            {
+              "SHA": "4009564ef",
+              "Subject": "Test against k8s 1.32 (#688)"
+            },
+            {
+              "SHA": "b0f421864",
+              "Subject": "Use Go 1.24 (#687)"
+            },
+            {
+              "SHA": "f8093b115",
+              "Subject": "Create super user before oplog-restore (#686)"
+            },
+            {
+              "SHA": "12d97bb19",
+              "Subject": "Report namespace info with billing event (#685)"
+            },
+            {
+              "SHA": "82d112ae2",
+              "Subject": "Show the reason for not satifying license restriction (#684)"
+            },
+            {
+              "SHA": "03e6623d6",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "5fb8819ca",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#683)"
+            },
+            {
+              "SHA": "380621967",
+              "Subject": "Disable image caching in setup-qemu action (#682)"
+            },
+            {
+              "SHA": "9d9dfdaea",
+              "Subject": "Enable license restriction and client billing (#681)"
+            },
+            {
+              "SHA": "9d6457c82",
+              "Subject": "Added archiver and init-script manifest restore support (#679)"
+            },
+            {
+              "SHA": "d295e56a9",
+              "Subject": "remove `replicas >= 1` validation from replicaset (#677)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "d5b6acb",
+              "Subject": "Prepare for release v0.13.0 (#47)"
+            },
+            {
+              "SHA": "feff5cc",
+              "Subject": "Use Go 1.24 (#46)"
+            },
+            {
+              "SHA": "9871552",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "92999f5",
+              "Subject": "Disable image caching in setup-qemu action (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "9afda5c",
+              "Subject": "Prepare for release v0.15.0 (#80)"
+            },
+            {
+              "SHA": "6f5b57b",
+              "Subject": "Use Go 1.24 (#79)"
+            },
+            {
+              "SHA": "c06b10a",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "c1892f4",
+              "Subject": "Disable image caching in setup-qemu action (#77)"
+            },
+            {
+              "SHA": "c37543b",
+              "Subject": "Add Stdin Backup Leaf Command support (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "1d9c6500",
+              "Subject": "Prepare for release v0.7.0 (#31)"
+            },
+            {
+              "SHA": "374ddac6",
+              "Subject": "Use Go 1.24 (#30)"
+            },
+            {
+              "SHA": "f5dd10a7",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "c570b028",
+              "Subject": "Disable image caching in setup-qemu action (#28)"
+            },
+            {
+              "SHA": "e285bb2c",
+              "Subject": "Add Arbiter node support (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "74c75813",
+              "Subject": "Prepare for release v0.7.0 (#66)"
+            },
+            {
+              "SHA": "b2681864",
+              "Subject": "Test against k8s 1.32 (#65)"
+            },
+            {
+              "SHA": "5d060a01",
+              "Subject": "Use Go 1.24 (#64)"
+            },
+            {
+              "SHA": "82fa1293",
+              "Subject": "Report namespace info with billing event (#63)"
+            },
+            {
+              "SHA": "dde24b69",
+              "Subject": "Add daily.yml for running e2e tests daily (#62)"
+            },
+            {
+              "SHA": "fb508368",
+              "Subject": "Show the reason for not satifying license restriction (#61)"
+            },
+            {
+              "SHA": "25d9ee44",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "3a9b02e7",
+              "Subject": "Update listers for client billing (#58)"
+            },
+            {
+              "SHA": "4bb771b1",
+              "Subject": "Disable image caching in setup-qemu action (#57)"
+            },
+            {
+              "SHA": "bdf3175d",
+              "Subject": "Enable license restriction and client billing (#55)"
+            },
+            {
+              "SHA": "721f3cfe",
+              "Subject": "Added archiver and init-script manifest restore support (#54)"
+            },
+            {
+              "SHA": "fd1c8cfb",
+              "Subject": "Add arbiter node support for quorum in even-sized clusters (#46)"
+            },
+            {
+              "SHA": "d95108ae",
+              "Subject": "Set archiver ref into db while label set (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "dc3364c",
+              "Subject": "Use Go 1.24 (#11)"
+            },
+            {
+              "SHA": "cea73fd",
+              "Subject": "Disable image caching in setup-qemu action (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "4b98360",
+              "Subject": "Prepare for release v0.6.0 (#20)"
+            },
+            {
+              "SHA": "ca44e86",
+              "Subject": "Use Go 1.24 (#19)"
+            },
+            {
+              "SHA": "41265e0",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#18)"
+            },
+            {
+              "SHA": "cc57300",
+              "Subject": "Disable image caching in setup-qemu action (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "7cb701700",
+              "Subject": "Prepare for release v0.45.0 (#672)"
+            },
+            {
+              "SHA": "78f18ebc2",
+              "Subject": "Test against k8s 1.32 (#671)"
+            },
+            {
+              "SHA": "7b8439cf1",
+              "Subject": "Use Go 1.24 (#670)"
+            },
+            {
+              "SHA": "c7c9ffec3",
+              "Subject": "Report namespace info with billing event (#669)"
+            },
+            {
+              "SHA": "1db638462",
+              "Subject": "Show the reason for not satifying license restriction (#668)"
+            },
+            {
+              "SHA": "8c49a6eae",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "2cd44d411",
+              "Subject": "Fix license restriction (#667)"
+            },
+            {
+              "SHA": "c670388e0",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#665)"
+            },
+            {
+              "SHA": "fc288a35b",
+              "Subject": "Disable image caching in setup-qemu action (#666)"
+            },
+            {
+              "SHA": "4453af610",
+              "Subject": "Update BinLog Snapshot status (#659)"
+            },
+            {
+              "SHA": "5cea0f13f",
+              "Subject": "Add client billing event support (#663)"
+            },
+            {
+              "SHA": "e8c264e1b",
+              "Subject": "Added archiver and init-script manifest restore support (#661)"
+            },
+            {
+              "SHA": "174fdd9ed",
+              "Subject": "Add --all-databases arg for v5.7.x (#662)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "39107a7b",
+              "Subject": "Prepare for release v0.13.0 (#55)"
+            },
+            {
+              "SHA": "ef00cd3b",
+              "Subject": "Use Go 1.24 (#54)"
+            },
+            {
+              "SHA": "11c6e83c",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "364b3500",
+              "Subject": "Disable image caching in setup-qemu action (#53)"
+            },
+            {
+              "SHA": "f7833baf",
+              "Subject": "Update Inc Snapshot status (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "f00b8511",
+              "Subject": "Prepare for release v0.30.0 (#136)"
+            },
+            {
+              "SHA": "1611bdf9",
+              "Subject": "Use Go 1.24 (#135)"
+            },
+            {
+              "SHA": "40e90068",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#133)"
+            },
+            {
+              "SHA": "6b61ec27",
+              "Subject": "Disable image caching in setup-qemu action (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "1511498",
+              "Subject": "Prepare for release v0.13.0 (#43)"
+            },
+            {
+              "SHA": "d1c7f1b",
+              "Subject": "Use Go 1.24 (#42)"
+            },
+            {
+              "SHA": "33f6918",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#40)"
+            },
+            {
+              "SHA": "9f91792",
+              "Subject": "Disable image caching in setup-qemu action (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "a19fa28",
+              "Subject": "Prepare for release v0.15.0 (#70)"
+            },
+            {
+              "SHA": "78dcba1",
+              "Subject": "Use Go 1.24 (#69)"
+            },
+            {
+              "SHA": "8acee3b",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "b2144fb",
+              "Subject": "Disable image caching in setup-qemu action (#68)"
+            },
+            {
+              "SHA": "6830436",
+              "Subject": "Add Stdin Backup Leaf Command support (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "a41de94",
+              "Subject": "Use Go 1.24 (#51)"
+            },
+            {
+              "SHA": "0ba8326",
+              "Subject": "Disable image caching in setup-qemu action (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "429376f16",
+              "Subject": "Prepare for release v0.39.0 (#712)"
+            },
+            {
+              "SHA": "2db83b1f7",
+              "Subject": "Add PgOps ReconnectStandby, ForceFailover, SetRaftKeyPair (#709)"
+            },
+            {
+              "SHA": "d2921d296",
+              "Subject": "Test against k8s 1.32 (#711)"
+            },
+            {
+              "SHA": "3c5e484be",
+              "Subject": "Use Go 1.24 (#710)"
+            },
+            {
+              "SHA": "79b563e37",
+              "Subject": "Improve license logging"
+            },
+            {
+              "SHA": "b90bb8002",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "f8bc59dde",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#708)"
+            },
+            {
+              "SHA": "f6b05657e",
+              "Subject": "Fix nats initialization"
+            },
+            {
+              "SHA": "ad10ad5a1",
+              "Subject": "Disable image caching in setup-qemu action (#707)"
+            },
+            {
+              "SHA": "5545b2dc6",
+              "Subject": "Add Recommendation Improvement and Bug Fixes (#704)"
+            },
+            {
+              "SHA": "81a08203b",
+              "Subject": "Allow Postgres Failover While Ops Request Progressing (#703)"
+            },
+            {
+              "SHA": "f2d98a46d",
+              "Subject": "add reconfigure-tls to PgBouncer (#701)"
+            },
+            {
+              "SHA": "b7300c6e2",
+              "Subject": "Add Arbiter Node Support, update restart for SQL Server (#649)"
+            },
+            {
+              "SHA": "b513e9e1d",
+              "Subject": "Fix RabbitMQ Version Update (#702)"
+            },
+            {
+              "SHA": "0abc08163",
+              "Subject": "Bug Fix in Reconfiguration(pgpool) (#698)"
+            },
+            {
+              "SHA": "1fd029ff3",
+              "Subject": "add pgpool rotate auth (#697)"
+            },
+            {
+              "SHA": "6e732fc7c",
+              "Subject": "Add Rotate auth for pgbouncer (#693)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "04e2466a3",
+              "Subject": "Prepare for release v0.39.0 (#400)"
+            },
+            {
+              "SHA": "29cda5511",
+              "Subject": "Test against k8s 1.32 (#399)"
+            },
+            {
+              "SHA": "45ce72c71",
+              "Subject": "Use Go 1.24 (#398)"
+            },
+            {
+              "SHA": "672219b81",
+              "Subject": "Report namespace info with billing event (#397)"
+            },
+            {
+              "SHA": "2370ef834",
+              "Subject": "Wait for PVC restoration by stash (#396)"
+            },
+            {
+              "SHA": "01e39d5fe",
+              "Subject": "Show the reason for not satifying license restriction (#395)"
+            },
+            {
+              "SHA": "add342c62",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#394)"
+            },
+            {
+              "SHA": "bbe09606f",
+              "Subject": "Fix AuthSecret Check (#386)"
+            },
+            {
+              "SHA": "4f888fbfe",
+              "Subject": "Disable image caching in setup-qemu action (#393)"
+            },
+            {
+              "SHA": "ebe98bef2",
+              "Subject": "Add client billing event support (#392)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "5dfc6dd5",
+              "Subject": "Prepare for release v0.25.0 (#92)"
+            },
+            {
+              "SHA": "52e1530a",
+              "Subject": "Use Go 1.24 (#91)"
+            },
+            {
+              "SHA": "3e09a9ad",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#89)"
+            },
+            {
+              "SHA": "4013787c",
+              "Subject": "Disable image caching in setup-qemu action (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "421d91d6",
+              "Subject": "Prepare for release v0.36.0 (#192)"
+            },
+            {
+              "SHA": "1488a1d9",
+              "Subject": "Fix a bug for force failover (#191)"
+            },
+            {
+              "SHA": "b04c16fd",
+              "Subject": "Use Go 1.24 (#190)"
+            },
+            {
+              "SHA": "35382941",
+              "Subject": "Reduce API Server Load by Adding Wait Interval When DB Is In Not Ready State (#189)"
+            },
+            {
+              "SHA": "0bc3ed8d",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#187)"
+            },
+            {
+              "SHA": "e5aabf68",
+              "Subject": "Disable image caching in setup-qemu action (#188)"
+            },
+            {
+              "SHA": "a286040e",
+              "Subject": "Allow failover with data loss (#186)"
+            },
+            {
+              "SHA": "8c0d12da",
+              "Subject": "Enhance Archive WAL Management and Improve Failover Stability (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "aca1631f",
+              "Subject": "Prepare for release v0.39.0 (#363)"
+            },
+            {
+              "SHA": "e7b8f063",
+              "Subject": "Test against k8s 1.32 (#362)"
+            },
+            {
+              "SHA": "d5c51d30",
+              "Subject": "Use Go 1.24 (#361)"
+            },
+            {
+              "SHA": "439a21ed",
+              "Subject": "Security Context & Report namespace info with billing event (#349)"
+            },
+            {
+              "SHA": "4f86b577",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license restriction (#360)"
+            },
+            {
+              "SHA": "d2893e64",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#359)"
+            },
+            {
+              "SHA": "6b985c2c",
+              "Subject": "Disable image caching in setup-qemu action (#358)"
+            },
+            {
+              "SHA": "eb7d008e",
+              "Subject": "Enable license restriction and client billing (#357)"
+            },
+            {
+              "SHA": "2b4ee8f5",
+              "Subject": "reconfigure-tls changes and cert remove (#356)"
+            },
+            {
+              "SHA": "4cf2f0bc",
+              "Subject": "Update AuthActiveAnnotation const in secret (#352)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "8eb95eaf",
+              "Subject": "Prepare for release v0.7.0 (#66)"
+            },
+            {
+              "SHA": "845d2edf",
+              "Subject": "Test against k8s 1.32 (#65)"
+            },
+            {
+              "SHA": "f04be287",
+              "Subject": "Use Go 1.24 (#64)"
+            },
+            {
+              "SHA": "4c2e65b2",
+              "Subject": "Pgpool get fixed & Report namespace info with billing event (#63)"
+            },
+            {
+              "SHA": "56d97ff5",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license restriction (#62)"
+            },
+            {
+              "SHA": "7a4617cf",
+              "Subject": "Add license restriction (#61)"
+            },
+            {
+              "SHA": "4ed69176",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#60)"
+            },
+            {
+              "SHA": "a4735c17",
+              "Subject": "Disable image caching in setup-qemu action (#59)"
+            },
+            {
+              "SHA": "c1bf6d9a",
+              "Subject": "Enable license restriction and client billing (#58)"
+            },
+            {
+              "SHA": "0c326d14",
+              "Subject": "Add basic-auth-active-from annotation in auth secret & Config secret separation  & PID file location added (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "776585018",
+              "Subject": "Prepare for release v0.52.0 (#796)"
+            },
+            {
+              "SHA": "5a24b48ed",
+              "Subject": "Test against k8s 1.32 (#795)"
+            },
+            {
+              "SHA": "ad5ada201",
+              "Subject": "Use Go 1.24 (#794)"
+            },
+            {
+              "SHA": "9fd8f70ae",
+              "Subject": "Report namespace info with billing event (#793)"
+            },
+            {
+              "SHA": "f3158b9de",
+              "Subject": "update log (#792)"
+            },
+            {
+              "SHA": "a2fe345e3",
+              "Subject": "Run e2e tests on testrig (#791)"
+            },
+            {
+              "SHA": "18f17d974",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#790)"
+            },
+            {
+              "SHA": "db644a803",
+              "Subject": "Disable image caching in setup-qemu action (#789)"
+            },
+            {
+              "SHA": "6ad420f93",
+              "Subject": "Add client billing event support (#783)"
+            },
+            {
+              "SHA": "e056f4800",
+              "Subject": "Added archiver and init-script manifest restore support (#787)"
+            },
+            {
+              "SHA": "8ed11d084",
+              "Subject": "Archive mode related changes and add startTime-endTime in incremental snapshot (#784)"
+            },
+            {
+              "SHA": "fe0e2ac0e",
+              "Subject": "Parse license restrictions"
+            },
+            {
+              "SHA": "eaf5b26c0",
+              "Subject": "Add license restrictions (#782)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "c40544c2",
+              "Subject": "Prepare for release v0.13.0 (#57)"
+            },
+            {
+              "SHA": "4cc8a8e7",
+              "Subject": "Use Go 1.24 (#56)"
+            },
+            {
+              "SHA": "b7bee766",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#55)"
+            },
+            {
+              "SHA": "7b34eeba",
+              "Subject": "Disable image caching in setup-qemu action (#54)"
+            },
+            {
+              "SHA": "47ea5469",
+              "Subject": "Update Logstats, update wal archive support for standby (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "63ba8c9",
+              "Subject": "Prepare for release v0.13.0 (#53)"
+            },
+            {
+              "SHA": "c4b928f",
+              "Subject": "Use Go 1.24 (#52)"
+            },
+            {
+              "SHA": "bbe21c0",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "f088e55",
+              "Subject": "Disable image caching in setup-qemu action (#50)"
+            },
+            {
+              "SHA": "3db1026",
+              "Subject": "Update volumeSnapshotTime when volumeSnapshot is ready to use and add support for standalone volume snapshot (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "4219198",
+              "Subject": "Prepare for release v0.15.0 (#67)"
+            },
+            {
+              "SHA": "3773695",
+              "Subject": "Use Go 1.24 (#66)"
+            },
+            {
+              "SHA": "91d569b",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#65)"
+            },
+            {
+              "SHA": "87c8e45",
+              "Subject": "Disable image caching in setup-qemu action (#64)"
+            },
+            {
+              "SHA": "b287099",
+              "Subject": "Add Stdin Backup Leaf Command support (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "6db7137fe",
+              "Subject": "Prepare for release v0.39.0 (#380)"
+            },
+            {
+              "SHA": "dab8c50c5",
+              "Subject": "Test against k8s 1.32 (#379)"
+            },
+            {
+              "SHA": "3830a15e5",
+              "Subject": "Use Go 1.24 (#378)"
+            },
+            {
+              "SHA": "3328ea01d",
+              "Subject": "Report namespace info with billing event (#377)"
+            },
+            {
+              "SHA": "d8f61f127",
+              "Subject": "Show the reason for not satifying license restriction (#376)"
+            },
+            {
+              "SHA": "15e87ca70",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#375)"
+            },
+            {
+              "SHA": "ade37da53",
+              "Subject": "Disable image caching in setup-qemu action (#374)"
+            },
+            {
+              "SHA": "22a4b65af",
+              "Subject": "Add client billing event support (#372)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "ebf4ee3c",
+              "Subject": "Prepare for release v0.7.0 (#73)"
+            },
+            {
+              "SHA": "eff526ac",
+              "Subject": "Test against k8s 1.32 (#72)"
+            },
+            {
+              "SHA": "3c10a317",
+              "Subject": "Use Go 1.24 (#71)"
+            },
+            {
+              "SHA": "a4bbf73b",
+              "Subject": "Report namespace info with billing event (#70)"
+            },
+            {
+              "SHA": "3f881093",
+              "Subject": "Run e2e Tests on testrig & show the reason for not satisfying license… (#69)"
+            },
+            {
+              "SHA": "70782af2",
+              "Subject": "Fix license restriction checking (#68)"
+            },
+            {
+              "SHA": "7e6e1cca",
+              "Subject": "Fix lister creation for client billing"
+            },
+            {
+              "SHA": "71d4a65d",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#66)"
+            },
+            {
+              "SHA": "4dad3584",
+              "Subject": "Disable image caching in setup-qemu action (#67)"
+            },
+            {
+              "SHA": "5ae024d8",
+              "Subject": "Add client billing event support (#64)"
+            },
+            {
+              "SHA": "a179e524",
+              "Subject": "Fix RabbitMQ Deletion Issue (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "1bd0ce8ed",
+              "Subject": "Prepare for release v0.45.0 (#582)"
+            },
+            {
+              "SHA": "6bceb5097",
+              "Subject": "Test against k8s 1.32 (#581)"
+            },
+            {
+              "SHA": "d09543ec0",
+              "Subject": "Use Go 1.24 (#580)"
+            },
+            {
+              "SHA": "69b304d7a",
+              "Subject": "Fix and Improve Cluster Health Check + Add Cluster Pod Role Label (#578)"
+            },
+            {
+              "SHA": "029f1ade0",
+              "Subject": "Report namespace info with billing event (#579)"
+            },
+            {
+              "SHA": "50b6b3b84",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license (#577)"
+            },
+            {
+              "SHA": "57992fa92",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#575)"
+            },
+            {
+              "SHA": "01332fdeb",
+              "Subject": "Disable image caching in setup-qemu action (#576)"
+            },
+            {
+              "SHA": "67e0e0923",
+              "Subject": "Enable license restriction and client billing (#574)"
+            },
+            {
+              "SHA": "d9140fd65",
+              "Subject": "Enable license restriction and client billing (#572)"
+            },
+            {
+              "SHA": "1e8f27634",
+              "Subject": "Move mutator defaults to SetDefaults() (#571)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "ad30d0f4",
+              "Subject": "Prepare for release v0.31.0 (#123)"
+            },
+            {
+              "SHA": "ba9e3036",
+              "Subject": "Use Go 1.24 (#122)"
+            },
+            {
+              "SHA": "e56c4c25",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#121)"
+            },
+            {
+              "SHA": "2539e4b4",
+              "Subject": "Disable image caching in setup-qemu action (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "84059cf",
+              "Subject": "Prepare for release v0.15.0 (#62)"
+            },
+            {
+              "SHA": "1ef930f",
+              "Subject": "Use Go 1.24 (#61)"
+            },
+            {
+              "SHA": "cd65bb3",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#60)"
+            },
+            {
+              "SHA": "a1e6dfa",
+              "Subject": "Disable image caching in setup-qemu action (#59)"
+            },
+            {
+              "SHA": "7cacd68",
+              "Subject": "Add Stdin Backup Leaf Command support (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "feb3420a",
+              "Subject": "Prepare for release v0.39.0 (#289)"
+            },
+            {
+              "SHA": "b42c020d",
+              "Subject": "Use Go 1.24 (#288)"
+            },
+            {
+              "SHA": "43e19c32",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#286)"
+            },
+            {
+              "SHA": "fce9f58c",
+              "Subject": "Disable image caching in setup-qemu action (#287)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "c341b252",
+              "Subject": "Prepare for release v0.28.0 (#133)"
+            },
+            {
+              "SHA": "6e285723",
+              "Subject": "Use Go 1.24 (#132)"
+            },
+            {
+              "SHA": "c5649c28",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#131)"
+            },
+            {
+              "SHA": "4f52fd34",
+              "Subject": "Fix nats initialization"
+            },
+            {
+              "SHA": "49e83a00",
+              "Subject": "Disable image caching in setup-qemu action (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "2781fd58",
+              "Subject": "Prepare for release v0.7.0 (#63)"
+            },
+            {
+              "SHA": "e7c24277",
+              "Subject": "Test against k8s 1.32 (#62)"
+            },
+            {
+              "SHA": "a043af3d",
+              "Subject": "Use Go 1.24 (#61)"
+            },
+            {
+              "SHA": "d3c90016",
+              "Subject": "Report namespace info with billing event (#60)"
+            },
+            {
+              "SHA": "25728a9e",
+              "Subject": "Update license log & e2e machine"
+            },
+            {
+              "SHA": "cf355d20",
+              "Subject": "fix license restriction checking (#59)"
+            },
+            {
+              "SHA": "c22e7c86",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "ebb993be",
+              "Subject": "Disable image caching in setup-qemu action (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "3383f6e",
+              "Subject": "Prepare for release v0.7.0 (#38)"
+            },
+            {
+              "SHA": "3fe4c70",
+              "Subject": "Use Go 1.24 (#37)"
+            },
+            {
+              "SHA": "3ab10f5",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#36)"
+            },
+            {
+              "SHA": "f7271dd",
+              "Subject": "Disable image caching in setup-qemu action (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "b3b6b4b",
+              "Subject": "Prepare for release v0.10.0 (#38)"
+            },
+            {
+              "SHA": "4cc4d3d",
+              "Subject": "Use Go 1.24 (#37)"
+            },
+            {
+              "SHA": "1b36229",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#36)"
+            },
+            {
+              "SHA": "4c9a228",
+              "Subject": "Disable image caching in setup-qemu action (#35)"
+            },
+            {
+              "SHA": "98dfeae",
+              "Subject": "Add Stdin Backup Leaf Command support (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "3cd88780",
+              "Subject": "Prepare for release v0.7.0 (#74)"
+            },
+            {
+              "SHA": "9ae38877",
+              "Subject": "Test against k8s 1.32 (#73)"
+            },
+            {
+              "SHA": "7db0eee6",
+              "Subject": "Use Go 1.24 (#72)"
+            },
+            {
+              "SHA": "bd805cac",
+              "Subject": "Configure internal zookeeper (#71)"
+            },
+            {
+              "SHA": "32d513cd",
+              "Subject": "Update petset defaulter for security context (#70)"
+            },
+            {
+              "SHA": "b405f209",
+              "Subject": "Update workflow and license restriction log (#69)"
+            },
+            {
+              "SHA": "9370cec9",
+              "Subject": "Add restriction in client billing (#68)"
+            },
+            {
+              "SHA": "700ce01b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "9216caea",
+              "Subject": "Fix lister creation for client billing (#66)"
+            },
+            {
+              "SHA": "43fdf9b2",
+              "Subject": "Disable image caching in setup-qemu action (#65)"
+            },
+            {
+              "SHA": "fe9b60d8",
+              "Subject": "Add client billing event support (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "f165f126",
+              "Subject": "Prepare for release v0.37.0 (#443)"
+            },
+            {
+              "SHA": "3b5fada0",
+              "Subject": "Test against k8s 1.32 (#441)"
+            },
+            {
+              "SHA": "892d8c3d",
+              "Subject": "Use Go 1.24 (#440)"
+            },
+            {
+              "SHA": "0b3ececa",
+              "Subject": "fix backupstorage, release v2025.2.10 (#439)"
+            },
+            {
+              "SHA": "0bfee605",
+              "Subject": "fix mongo package (#435)"
+            },
+            {
+              "SHA": "34cb745f",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#437)"
+            },
+            {
+              "SHA": "751cbfb3",
+              "Subject": "Disable image caching in setup-qemu action (#436)"
+            },
+            {
+              "SHA": "579aa5f0",
+              "Subject": "Add Postgres Archiver Backup-Restore (#427)"
+            },
+            {
+              "SHA": "d0da32f9",
+              "Subject": "Fix TLS enabled secret part for Postgres (#432)"
+            },
+            {
+              "SHA": "6aa80b8d",
+              "Subject": "MongoDB EndTime fix (Disaster Time Scenario) (#429)"
+            },
+            {
+              "SHA": "9c288453",
+              "Subject": "Add Solr OpsRequest Tests (#428)"
+            },
+            {
+              "SHA": "3729dd68",
+              "Subject": "MariaDB version 11.6.2 check (all) (#431)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "abd96e20",
+              "Subject": "Prepare for release v0.28.0 (#154)"
+            },
+            {
+              "SHA": "4322b8a2",
+              "Subject": "Use Go 1.24 (#153)"
+            },
+            {
+              "SHA": "615bb4c6",
+              "Subject": "Close client connections (#152)"
+            },
+            {
+              "SHA": "3a688ab0",
+              "Subject": "Re-design databaseConnection api (#151)"
+            },
+            {
+              "SHA": "b0032db9",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#150)"
+            },
+            {
+              "SHA": "61eff458",
+              "Subject": "Disable image caching in setup-qemu action (#149)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "6f2040e4",
+              "Subject": "Prepare for release v0.28.0 (#146)"
+            },
+            {
+              "SHA": "b96f329a",
+              "Subject": "Test against k8s 1.32 (#145)"
+            },
+            {
+              "SHA": "5285151d",
+              "Subject": "Use Go 1.24 (#144)"
+            },
+            {
+              "SHA": "2f36666b",
+              "Subject": "Improve license logging"
+            },
+            {
+              "SHA": "b3b3c562",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#143)"
+            },
+            {
+              "SHA": "f5cfed8f",
+              "Subject": "Disable image caching in setup-qemu action (#142)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "a3a96c3b",
+              "Subject": "Prepare for release v0.7.0 (#64)"
+            },
+            {
+              "SHA": "432282ec",
+              "Subject": "Test against k8s 1.32 (#63)"
+            },
+            {
+              "SHA": "575e88a7",
+              "Subject": "Use Go 1.24 (#62)"
+            },
+            {
+              "SHA": "0a05aa4a",
+              "Subject": "Report namespace info with billing event (#61)"
+            },
+            {
+              "SHA": "0c0110cf",
+              "Subject": "Show the reason for not satifying license restriction (#60)"
+            },
+            {
+              "SHA": "96dc0790",
+              "Subject": "Add license restriction (#59)"
+            },
+            {
+              "SHA": "ace3a6dd",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#57)"
+            },
+            {
+              "SHA": "89699f8d",
+              "Subject": "Disable image caching in setup-qemu action (#56)"
+            },
+            {
+              "SHA": "9a81250c",
+              "Subject": "Add client billing event support (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "e9459f4",
+              "Subject": "Prepare for release v0.8.0 (#30)"
+            },
+            {
+              "SHA": "739367c",
+              "Subject": "Use Go 1.24 (#29)"
+            },
+            {
+              "SHA": "52085d1",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#27)"
+            },
+            {
+              "SHA": "7323969",
+              "Subject": "Disable image caching in setup-qemu action (#28)"
+            },
+            {
+              "SHA": "096f163",
+              "Subject": "Add Stdin Backup Leaf Command support (#25)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

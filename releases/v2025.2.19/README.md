@@ -865,6 +865,19 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.28.0](https://github.com/kubedb/webhook-server/releases/tag/v0.28.0)
+
+- [6f2040e4](https://github.com/kubedb/webhook-server/commit/6f2040e4) Prepare for release v0.28.0 (#146)
+- [b96f329a](https://github.com/kubedb/webhook-server/commit/b96f329a) Test against k8s 1.32 (#145)
+- [5285151d](https://github.com/kubedb/webhook-server/commit/5285151d) Use Go 1.24 (#144)
+- [2f36666b](https://github.com/kubedb/webhook-server/commit/2f36666b) Improve license logging
+- [b3b3c562](https://github.com/kubedb/webhook-server/commit/b3b3c562) Prepare for release v0.28.0-rc.0 (#143)
+- [f5cfed8f](https://github.com/kubedb/webhook-server/commit/f5cfed8f) Disable image caching in setup-qemu action (#142)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.7.0](https://github.com/kubedb/zookeeper/releases/tag/v0.7.0)

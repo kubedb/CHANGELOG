@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:24:23.483048685Z",
+  "release_date": "2025-03-19T23:24:28.777688548Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -593,6 +593,28 @@
             {
               "SHA": "fabf49b0",
               "Subject": "Use Go 1.24 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6d1a6a2e",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#43)"
+            },
+            {
+              "SHA": "616f2134",
+              "Subject": "Prepare for release v0.12.0 (#42)"
+            },
+            {
+              "SHA": "1c16b342",
+              "Subject": "Use Go 1.24 (#41)"
             }
           ]
         }

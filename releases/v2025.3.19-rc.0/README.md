@@ -203,6 +203,16 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.13.0-rc.0)
+
+- [6d1a6a2e](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/6d1a6a2e) Prepare for release v0.13.0-rc.0 (#43)
+- [616f2134](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/616f2134) Prepare for release v0.12.0 (#42)
+- [1c16b342](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/1c16b342) Use Go 1.24 (#41)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.11.0-rc.0)

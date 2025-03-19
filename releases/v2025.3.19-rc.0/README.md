@@ -194,6 +194,16 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.8.0-rc.0)
+
+- [cbb75c6a](https://github.com/kubedb/mssql-coordinator/commit/cbb75c6a) Prepare for release v0.8.0-rc.0 (#32)
+- [1d9c6500](https://github.com/kubedb/mssql-coordinator/commit/1d9c6500) Prepare for release v0.7.0 (#31)
+- [374ddac6](https://github.com/kubedb/mssql-coordinator/commit/374ddac6) Use Go 1.24 (#30)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.8.0-rc.0)

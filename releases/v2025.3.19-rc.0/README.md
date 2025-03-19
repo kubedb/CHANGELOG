@@ -68,6 +68,22 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.8.0-rc.0)
+
+- [e58549bc](https://github.com/kubedb/clickhouse/commit/e58549bc) Prepare for release v0.8.0-rc.0 (#43)
+- [3f65aac1](https://github.com/kubedb/clickhouse/commit/3f65aac1) update webhook path (#42)
+- [ad3d79cf](https://github.com/kubedb/clickhouse/commit/ad3d79cf) Add Operator Sharding Support (#41)
+- [205feb39](https://github.com/kubedb/clickhouse/commit/205feb39) Update to k8s v32 (#40)
+- [d05435b4](https://github.com/kubedb/clickhouse/commit/d05435b4) Prepare for release v0.7.0 (#38)
+- [e58da497](https://github.com/kubedb/clickhouse/commit/e58da497) Test against k8s 1.32 (#37)
+- [add88aa4](https://github.com/kubedb/clickhouse/commit/add88aa4) Use Go 1.24 (#36)
+- [11003b23](https://github.com/kubedb/clickhouse/commit/11003b23) Report namespace info with billing event (#35)
+- [5f69479d](https://github.com/kubedb/clickhouse/commit/5f69479d) Show the reason for not satifying license restriction (#34)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.8.0-rc.0)

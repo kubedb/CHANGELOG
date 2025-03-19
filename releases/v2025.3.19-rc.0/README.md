@@ -320,6 +320,22 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.8.0-rc.0)
+
+- [271e6a67](https://github.com/kubedb/rabbitmq/commit/271e6a67) Prepare for release v0.8.0-rc.0 (#78)
+- [b07d95d7](https://github.com/kubedb/rabbitmq/commit/b07d95d7) Update webhook dependency (#77)
+- [e93d9ac2](https://github.com/kubedb/rabbitmq/commit/e93d9ac2) Add Operator Sharding Support For RabbitMQ (#75)
+- [a5da5f57](https://github.com/kubedb/rabbitmq/commit/a5da5f57) Setup new webhook style; Update to k8s v1.32 (#76)
+- [ebf4ee3c](https://github.com/kubedb/rabbitmq/commit/ebf4ee3c) Prepare for release v0.7.0 (#73)
+- [eff526ac](https://github.com/kubedb/rabbitmq/commit/eff526ac) Test against k8s 1.32 (#72)
+- [3c10a317](https://github.com/kubedb/rabbitmq/commit/3c10a317) Use Go 1.24 (#71)
+- [a4bbf73b](https://github.com/kubedb/rabbitmq/commit/a4bbf73b) Report namespace info with billing event (#70)
+- [3f881093](https://github.com/kubedb/rabbitmq/commit/3f881093) Run e2e Tests on testrig & show the reason for not satisfying license… (#69)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.46.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.46.0-rc.0)

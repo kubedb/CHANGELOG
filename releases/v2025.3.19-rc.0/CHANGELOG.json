@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:23:10.938455087Z",
+  "release_date": "2025-03-19T23:23:20.999467804Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -935,6 +935,52 @@
             {
               "SHA": "a2fe345e3",
               "Subject": "Run e2e tests on testrig (#791)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "271e6a67",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "b07d95d7",
+              "Subject": "Update webhook dependency (#77)"
+            },
+            {
+              "SHA": "e93d9ac2",
+              "Subject": "Add Operator Sharding Support For RabbitMQ (#75)"
+            },
+            {
+              "SHA": "a5da5f57",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#76)"
+            },
+            {
+              "SHA": "ebf4ee3c",
+              "Subject": "Prepare for release v0.7.0 (#73)"
+            },
+            {
+              "SHA": "eff526ac",
+              "Subject": "Test against k8s 1.32 (#72)"
+            },
+            {
+              "SHA": "3c10a317",
+              "Subject": "Use Go 1.24 (#71)"
+            },
+            {
+              "SHA": "a4bbf73b",
+              "Subject": "Report namespace info with billing event (#70)"
+            },
+            {
+              "SHA": "3f881093",
+              "Subject": "Run e2e Tests on testrig & show the reason for not satisfying license… (#69)"
             }
           ]
         }

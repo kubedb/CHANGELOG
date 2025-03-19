@@ -120,6 +120,16 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.13.0-rc.0)
+
+- [a7e37d89](https://github.com/kubedb/mariadb-archiver/commit/a7e37d89) Prepare for release v0.13.0-rc.0 (#45)
+- [70edd7d5](https://github.com/kubedb/mariadb-archiver/commit/70edd7d5) Prepare for release v0.12.0 (#44)
+- [fabf49b0](https://github.com/kubedb/mariadb-archiver/commit/fabf49b0) Use Go 1.24 (#43)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.46.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.46.0-rc.0)

@@ -65,3 +65,34 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.46.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.46.0-rc.0)
+
+- [d81d312a](https://github.com/kubedb/mongodb/commit/d81d312a8) Prepare for release v0.46.0-rc.0 (#697)
+- [ce969181](https://github.com/kubedb/mongodb/commit/ce969181d) Restructure admission webhook (#696)
+- [ce4b97c8](https://github.com/kubedb/mongodb/commit/ce4b97c87) Implement operator-sharding; Add IRSA annotation in sideick (#694)
+- [68a81a75](https://github.com/kubedb/mongodb/commit/68a81a756) Update to k8s v32 (#692)
+- [f9fe924e](https://github.com/kubedb/mongodb/commit/f9fe924e7) Merge pull request #690 from kubedb/mongo-ci-fix
+- [77483bab](https://github.com/kubedb/mongodb/commit/77483bab5) change manual trigger, default case
+- [ae1291b1](https://github.com/kubedb/mongodb/commit/ae1291b1b) add dropdown options to input sections
+- [6a0a313a](https://github.com/kubedb/mongodb/commit/6a0a313a9) check after matrix profile remove
+- [e80ca10f](https://github.com/kubedb/mongodb/commit/e80ca10f7) review changes done
+- [3c14acc9](https://github.com/kubedb/mongodb/commit/3c14acc97) separate dynamic profiles
+- [2aa206d8](https://github.com/kubedb/mongodb/commit/2aa206d8b) nhasdg
+- [30555b40](https://github.com/kubedb/mongodb/commit/30555b400) fix checkout repo
+- [0374303a](https://github.com/kubedb/mongodb/commit/0374303ae) checkout from test to working repo
+- [47616663](https://github.com/kubedb/mongodb/commit/47616663a) add db_mode
+- [5a261d5b](https://github.com/kubedb/mongodb/commit/5a261d5bf) wip
+- [fad5ac51](https://github.com/kubedb/mongodb/commit/fad5ac51d) Set default resources on the walg container
+- [5d6bedb4](https://github.com/kubedb/mongodb/commit/5d6bedb47) Install ace-user-roles; Run tests twice a week (#691)
+- [7d7c2879](https://github.com/kubedb/mongodb/commit/7d7c28790) Prepare for release v0.45.0 (#689)
+- [4009564e](https://github.com/kubedb/mongodb/commit/4009564ef) Test against k8s 1.32 (#688)
+- [b0f42186](https://github.com/kubedb/mongodb/commit/b0f421864) Use Go 1.24 (#687)
+- [f8093b11](https://github.com/kubedb/mongodb/commit/f8093b115) Create super user before oplog-restore (#686)
+- [12d97bb1](https://github.com/kubedb/mongodb/commit/12d97bb19) Report namespace info with billing event (#685)
+- [82d112ae](https://github.com/kubedb/mongodb/commit/82d112ae2) Show the reason for not satifying license restriction (#684)
+- [03e6623d](https://github.com/kubedb/mongodb/commit/03e6623d6) Use testrig
+
+
+

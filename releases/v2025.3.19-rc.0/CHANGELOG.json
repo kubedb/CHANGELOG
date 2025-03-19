@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T21:13:59.19679525Z",
+  "release_date": "2025-03-19T23:19:42.250597716Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -221,6 +221,112 @@
             {
               "SHA": "3fa565a9",
               "Subject": "Use Go 1.24 (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d81d312a8",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#697)"
+            },
+            {
+              "SHA": "ce969181d",
+              "Subject": "Restructure admission webhook (#696)"
+            },
+            {
+              "SHA": "ce4b97c87",
+              "Subject": "Implement operator-sharding; Add IRSA annotation in sideick (#694)"
+            },
+            {
+              "SHA": "68a81a756",
+              "Subject": "Update to k8s v32 (#692)"
+            },
+            {
+              "SHA": "f9fe924e7",
+              "Subject": "Merge pull request #690 from kubedb/mongo-ci-fix"
+            },
+            {
+              "SHA": "77483bab5",
+              "Subject": "change manual trigger, default case"
+            },
+            {
+              "SHA": "ae1291b1b",
+              "Subject": "add dropdown options to input sections"
+            },
+            {
+              "SHA": "6a0a313a9",
+              "Subject": "check after matrix profile remove"
+            },
+            {
+              "SHA": "e80ca10f7",
+              "Subject": "review changes done"
+            },
+            {
+              "SHA": "3c14acc97",
+              "Subject": "separate dynamic profiles"
+            },
+            {
+              "SHA": "2aa206d8b",
+              "Subject": "nhasdg"
+            },
+            {
+              "SHA": "30555b400",
+              "Subject": "fix checkout repo"
+            },
+            {
+              "SHA": "0374303ae",
+              "Subject": "checkout from test to working repo"
+            },
+            {
+              "SHA": "47616663a",
+              "Subject": "add db_mode"
+            },
+            {
+              "SHA": "5a261d5bf",
+              "Subject": "wip"
+            },
+            {
+              "SHA": "fad5ac51d",
+              "Subject": "Set default resources on the walg container"
+            },
+            {
+              "SHA": "5d6bedb47",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#691)"
+            },
+            {
+              "SHA": "7d7c28790",
+              "Subject": "Prepare for release v0.45.0 (#689)"
+            },
+            {
+              "SHA": "4009564ef",
+              "Subject": "Test against k8s 1.32 (#688)"
+            },
+            {
+              "SHA": "b0f421864",
+              "Subject": "Use Go 1.24 (#687)"
+            },
+            {
+              "SHA": "f8093b115",
+              "Subject": "Create super user before oplog-restore (#686)"
+            },
+            {
+              "SHA": "12d97bb19",
+              "Subject": "Report namespace info with billing event (#685)"
+            },
+            {
+              "SHA": "82d112ae2",
+              "Subject": "Show the reason for not satifying license restriction (#684)"
+            },
+            {
+              "SHA": "03e6623d6",
+              "Subject": "Use testrig"
             }
           ]
         }

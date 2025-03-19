@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:22:29.895011699Z",
+  "release_date": "2025-03-19T23:22:41.976637524Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -833,6 +833,60 @@
             {
               "SHA": "a2fe345e3",
               "Subject": "Run e2e tests on testrig (#791)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "abbcc8962",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#588)"
+            },
+            {
+              "SHA": "7f66d703b",
+              "Subject": "Restructure admission webhook (#587)"
+            },
+            {
+              "SHA": "5bcfeff71",
+              "Subject": "Add Operator Sharding Support (#586)"
+            },
+            {
+              "SHA": "03f9ebd54",
+              "Subject": "Update to k8s v32 (#585)"
+            },
+            {
+              "SHA": "b5a67c907",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#583)"
+            },
+            {
+              "SHA": "1bd0ce8ed",
+              "Subject": "Prepare for release v0.45.0 (#582)"
+            },
+            {
+              "SHA": "6bceb5097",
+              "Subject": "Test against k8s 1.32 (#581)"
+            },
+            {
+              "SHA": "d09543ec0",
+              "Subject": "Use Go 1.24 (#580)"
+            },
+            {
+              "SHA": "69b304d7a",
+              "Subject": "Fix and Improve Cluster Health Check + Add Cluster Pod Role Label (#578)"
+            },
+            {
+              "SHA": "029f1ade0",
+              "Subject": "Report namespace info with billing event (#579)"
+            },
+            {
+              "SHA": "50b6b3b84",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license (#577)"
             }
           ]
         }

@@ -281,6 +281,24 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.46.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.46.0-rc.0)
+
+- [abbcc896](https://github.com/kubedb/redis/commit/abbcc8962) Prepare for release v0.46.0-rc.0 (#588)
+- [7f66d703](https://github.com/kubedb/redis/commit/7f66d703b) Restructure admission webhook (#587)
+- [5bcfeff7](https://github.com/kubedb/redis/commit/5bcfeff71) Add Operator Sharding Support (#586)
+- [03f9ebd5](https://github.com/kubedb/redis/commit/03f9ebd54) Update to k8s v32 (#585)
+- [b5a67c90](https://github.com/kubedb/redis/commit/b5a67c907) Install ace-user-roles; Run tests twice a week (#583)
+- [1bd0ce8e](https://github.com/kubedb/redis/commit/1bd0ce8ed) Prepare for release v0.45.0 (#582)
+- [6bceb509](https://github.com/kubedb/redis/commit/6bceb5097) Test against k8s 1.32 (#581)
+- [d09543ec](https://github.com/kubedb/redis/commit/d09543ec0) Use Go 1.24 (#580)
+- [69b304d7](https://github.com/kubedb/redis/commit/69b304d7a) Fix and Improve Cluster Health Check + Add Cluster Pod Role Label (#578)
+- [029f1ade](https://github.com/kubedb/redis/commit/029f1ade0) Report namespace info with billing event (#579)
+- [50b6b3b8](https://github.com/kubedb/redis/commit/50b6b3b84) Run e2e tests on testrig & Show the reason for not satifying license (#577)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.8.0-rc.0)

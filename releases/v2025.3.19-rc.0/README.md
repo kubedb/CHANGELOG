@@ -51,6 +51,23 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.6.0-rc.0)
+
+- [47f7e4fe](https://github.com/kubedb/cassandra/commit/47f7e4fe) Prepare for release v0.6.0-rc.0 (#29)
+- [458feaa9](https://github.com/kubedb/cassandra/commit/458feaa9) Update webhook path (#28)
+- [b592f3d3](https://github.com/kubedb/cassandra/commit/b592f3d3) Install ace-user-roles and Add Operator Sharding (#25)
+- [a931ee8b](https://github.com/kubedb/cassandra/commit/a931ee8b) Update to k8s v1.32 (#27)
+- [f8c20588](https://github.com/kubedb/cassandra/commit/f8c20588) Prepare for release v0.5.0 (#24)
+- [d8682ce7](https://github.com/kubedb/cassandra/commit/d8682ce7) Test against k8s 1.32 (#23)
+- [1683194c](https://github.com/kubedb/cassandra/commit/1683194c) Use Go 1.24 (#22)
+- [5a9efd1a](https://github.com/kubedb/cassandra/commit/5a9efd1a) Merge pull request #21 from kubedb/ns
+- [89c1e37c](https://github.com/kubedb/cassandra/commit/89c1e37c) Report namespace info with billing event
+- [5d389517](https://github.com/kubedb/cassandra/commit/5d389517) Update license log & e2e machine
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.11.0-rc.0)

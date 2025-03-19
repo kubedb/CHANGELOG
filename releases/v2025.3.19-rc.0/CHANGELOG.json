@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T20:39:53.119550619Z",
+  "release_date": "2025-03-19T21:13:59.19679525Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -183,6 +183,44 @@
             {
               "SHA": "7f58d0390",
               "Subject": "Return the reason for not allowing license restrictions (#1392)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2beb4691",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#167)"
+            },
+            {
+              "SHA": "214a0339",
+              "Subject": "Remove decoding of data (#166)"
+            },
+            {
+              "SHA": "0303ed1c",
+              "Subject": "Updates for integrating `Virtual-Secrets` (#165)"
+            },
+            {
+              "SHA": "056c3ddf",
+              "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#164)"
+            },
+            {
+              "SHA": "b3fa7654",
+              "Subject": "Prepare for release v0.7.0 (#163)"
+            },
+            {
+              "SHA": "993a561c",
+              "Subject": "Add method to get shard information for ES (#160)"
+            },
+            {
+              "SHA": "3fa565a9",
+              "Subject": "Use Go 1.24 (#162)"
             }
           ]
         }

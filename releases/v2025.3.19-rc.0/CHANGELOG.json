@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:21:04.31860731Z",
+  "release_date": "2025-03-19T23:21:11.12621995Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -589,6 +589,28 @@
             {
               "SHA": "25728a9e",
               "Subject": "Update license log & e2e machine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e939734",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "b3b6b4b",
+              "Subject": "Prepare for release v0.10.0 (#38)"
+            },
+            {
+              "SHA": "4cc4d3d",
+              "Subject": "Use Go 1.24 (#37)"
             }
           ]
         }

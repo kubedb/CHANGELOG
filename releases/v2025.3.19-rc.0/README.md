@@ -193,6 +193,16 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.11.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.11.0-rc.0)
+
+- [e939734](https://github.com/kubedb/singlestore-restic-plugin/commit/e939734) Prepare for release v0.11.0-rc.0 (#39)
+- [b3b6b4b](https://github.com/kubedb/singlestore-restic-plugin/commit/b3b6b4b) Prepare for release v0.10.0 (#38)
+- [4cc4d3d](https://github.com/kubedb/singlestore-restic-plugin/commit/4cc4d3d) Use Go 1.24 (#37)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.8.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:24:41.746059895Z",
+  "release_date": "2025-03-19T23:24:44.579492489Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -997,6 +997,20 @@
             {
               "SHA": "1611bdf9",
               "Subject": "Use Go 1.24 (#135)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a41de94",
+              "Subject": "Use Go 1.24 (#51)"
             }
           ]
         }

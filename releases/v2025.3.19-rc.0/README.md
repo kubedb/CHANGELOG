@@ -349,6 +349,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.31.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.31.0-rc.0)
+
+- [a41de94](https://github.com/kubedb/mysql-router-init/commit/a41de94) Use Go 1.24 (#51)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.8.0-rc.0)

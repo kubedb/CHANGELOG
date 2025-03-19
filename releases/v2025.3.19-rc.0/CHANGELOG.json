@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:20:28.139479754Z",
+  "release_date": "2025-03-19T23:20:37.185295085Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -467,6 +467,56 @@
             {
               "SHA": "25728a9e",
               "Subject": "Update license log & e2e machine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a2a12869",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "a68d5e84",
+              "Subject": "Fix dependency for webhook (#77)"
+            },
+            {
+              "SHA": "2322338c",
+              "Subject": "Add operator sharding support for solr (#76)"
+            },
+            {
+              "SHA": "792ceb13",
+              "Subject": "Webhook changes for k8s 1.32 (#75)"
+            },
+            {
+              "SHA": "3cd88780",
+              "Subject": "Prepare for release v0.7.0 (#74)"
+            },
+            {
+              "SHA": "9ae38877",
+              "Subject": "Test against k8s 1.32 (#73)"
+            },
+            {
+              "SHA": "7db0eee6",
+              "Subject": "Use Go 1.24 (#72)"
+            },
+            {
+              "SHA": "bd805cac",
+              "Subject": "Configure internal zookeeper (#71)"
+            },
+            {
+              "SHA": "32d513cd",
+              "Subject": "Update petset defaulter for security context (#70)"
+            },
+            {
+              "SHA": "b405f209",
+              "Subject": "Update workflow and license restriction log (#69)"
             }
           ]
         }

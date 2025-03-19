@@ -149,6 +149,23 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.8.0-rc.0)
+
+- [a2a12869](https://github.com/kubedb/solr/commit/a2a12869) Prepare for release v0.8.0-rc.0 (#78)
+- [a68d5e84](https://github.com/kubedb/solr/commit/a68d5e84) Fix dependency for webhook (#77)
+- [2322338c](https://github.com/kubedb/solr/commit/2322338c) Add operator sharding support for solr (#76)
+- [792ceb13](https://github.com/kubedb/solr/commit/792ceb13) Webhook changes for k8s 1.32 (#75)
+- [3cd88780](https://github.com/kubedb/solr/commit/3cd88780) Prepare for release v0.7.0 (#74)
+- [9ae38877](https://github.com/kubedb/solr/commit/9ae38877) Test against k8s 1.32 (#73)
+- [7db0eee6](https://github.com/kubedb/solr/commit/7db0eee6) Use Go 1.24 (#72)
+- [bd805cac](https://github.com/kubedb/solr/commit/bd805cac) Configure internal zookeeper (#71)
+- [32d513cd](https://github.com/kubedb/solr/commit/32d513cd) Update petset defaulter for security context (#70)
+- [b405f209](https://github.com/kubedb/solr/commit/b405f209) Update workflow and license restriction log (#69)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.2.0-rc.0)

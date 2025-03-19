@@ -96,3 +96,19 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.8.0-rc.0)
+
+- [78123100](https://github.com/kubedb/singlestore/commit/78123100) Prepare for release v0.8.0-rc.0 (#67)
+- [4b4ca182](https://github.com/kubedb/singlestore/commit/4b4ca182) update deps (#66)
+- [52126e70](https://github.com/kubedb/singlestore/commit/52126e70) Install ace-user-roles and Add Operator Sharding (#64)
+- [9d9e89a6](https://github.com/kubedb/singlestore/commit/9d9e89a6) Update to k8s v1.32 (#65)
+- [2781fd58](https://github.com/kubedb/singlestore/commit/2781fd58) Prepare for release v0.7.0 (#63)
+- [e7c24277](https://github.com/kubedb/singlestore/commit/e7c24277) Test against k8s 1.32 (#62)
+- [a043af3d](https://github.com/kubedb/singlestore/commit/a043af3d) Use Go 1.24 (#61)
+- [d3c90016](https://github.com/kubedb/singlestore/commit/d3c90016) Report namespace info with billing event (#60)
+- [25728a9e](https://github.com/kubedb/singlestore/commit/25728a9e) Update license log & e2e machine
+
+
+

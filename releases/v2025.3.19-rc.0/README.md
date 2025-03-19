@@ -126,6 +126,17 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.1.0-rc.0)
+
+- [643d32d5](https://github.com/kubedb/gitops/commit/643d32d5) Prepare for release v0.1.0-rc.0 (#8)
+- [79c495f8](https://github.com/kubedb/gitops/commit/79c495f8) Add Initial Setup for Dbs (#6)
+- [466aad87](https://github.com/kubedb/gitops/commit/466aad87) Use firecracker runners for ci
+- [741059fa](https://github.com/kubedb/gitops/commit/741059fa) Add license header
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.4.0-rc.0)

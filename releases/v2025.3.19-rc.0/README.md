@@ -231,6 +231,27 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.53.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.53.0-rc.0)
+
+- [d794ce54](https://github.com/kubedb/postgres/commit/d794ce54c) Prepare for release v0.53.0-rc.0 (#805)
+- [4c1923e2](https://github.com/kubedb/postgres/commit/4c1923e25) Refactor Postgres Webhook (#804)
+- [4d1e1989](https://github.com/kubedb/postgres/commit/4d1e19894) Integrate virtual-secret in postgres (#799)
+- [e22f77c4](https://github.com/kubedb/postgres/commit/e22f77c42) Update IRSA annotations (#802)
+- [bc42a794](https://github.com/kubedb/postgres/commit/bc42a7947) Update Postgres With ShardConfiguration Related Changes (#800)
+- [aca0e41e](https://github.com/kubedb/postgres/commit/aca0e41e7) support for kubernetes v1.32.x (#801)
+- [3bdacec0](https://github.com/kubedb/postgres/commit/3bdacec07) Run Provisioner Tests On Monday + Friday, Fix Makefile (#797)
+- [a9165b82](https://github.com/kubedb/postgres/commit/a9165b828) Lower Sidekick Default Resource (#798)
+- [77658501](https://github.com/kubedb/postgres/commit/776585018) Prepare for release v0.52.0 (#796)
+- [5a24b48e](https://github.com/kubedb/postgres/commit/5a24b48ed) Test against k8s 1.32 (#795)
+- [ad5ada20](https://github.com/kubedb/postgres/commit/ad5ada201) Use Go 1.24 (#794)
+- [9fd8f70a](https://github.com/kubedb/postgres/commit/9fd8f70ae) Report namespace info with billing event (#793)
+- [f3158b9d](https://github.com/kubedb/postgres/commit/f3158b9de) update log (#792)
+- [a2fe345e](https://github.com/kubedb/postgres/commit/a2fe345e3) Run e2e tests on testrig (#791)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.8.0-rc.0)

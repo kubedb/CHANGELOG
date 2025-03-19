@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:21:55.458037021Z",
+  "release_date": "2025-03-19T23:22:14.144603936Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -687,6 +687,72 @@
             {
               "SHA": "56d97ff5",
               "Subject": "Run e2e tests on testrig & Show the reason for not satifying license restriction (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d794ce54c",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#805)"
+            },
+            {
+              "SHA": "4c1923e25",
+              "Subject": "Refactor Postgres Webhook (#804)"
+            },
+            {
+              "SHA": "4d1e19894",
+              "Subject": "Integrate virtual-secret in postgres (#799)"
+            },
+            {
+              "SHA": "e22f77c42",
+              "Subject": "Update IRSA annotations (#802)"
+            },
+            {
+              "SHA": "bc42a7947",
+              "Subject": "Update Postgres With ShardConfiguration Related Changes (#800)"
+            },
+            {
+              "SHA": "aca0e41e7",
+              "Subject": "support for kubernetes v1.32.x (#801)"
+            },
+            {
+              "SHA": "3bdacec07",
+              "Subject": "Run Provisioner Tests On Monday + Friday, Fix Makefile (#797)"
+            },
+            {
+              "SHA": "a9165b828",
+              "Subject": "Lower Sidekick Default Resource (#798)"
+            },
+            {
+              "SHA": "776585018",
+              "Subject": "Prepare for release v0.52.0 (#796)"
+            },
+            {
+              "SHA": "5a24b48ed",
+              "Subject": "Test against k8s 1.32 (#795)"
+            },
+            {
+              "SHA": "ad5ada201",
+              "Subject": "Use Go 1.24 (#794)"
+            },
+            {
+              "SHA": "9fd8f70ae",
+              "Subject": "Report namespace info with billing event (#793)"
+            },
+            {
+              "SHA": "f3158b9de",
+              "Subject": "update log (#792)"
+            },
+            {
+              "SHA": "a2fe345e3",
+              "Subject": "Run e2e tests on testrig (#791)"
             }
           ]
         }

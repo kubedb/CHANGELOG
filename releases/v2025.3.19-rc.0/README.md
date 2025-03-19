@@ -176,6 +176,16 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.11.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.11.0-rc.0)
+
+- [bc5977d](https://github.com/kubedb/mariadb-restic-plugin/commit/bc5977d) Prepare for release v0.11.0-rc.0 (#42)
+- [1f77e53](https://github.com/kubedb/mariadb-restic-plugin/commit/1f77e53) Prepare for release v0.10.0 (#41)
+- [d567f5f](https://github.com/kubedb/mariadb-restic-plugin/commit/d567f5f) Use Go 1.24 (#40)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.46.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.46.0-rc.0)

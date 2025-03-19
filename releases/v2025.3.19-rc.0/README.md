@@ -106,6 +106,22 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.8.0-rc.0)
+
+- [f6639b78](https://github.com/kubedb/pgpool/commit/f6639b78) Prepare for release v0.8.0-rc.0 (#70)
+- [683a8a1f](https://github.com/kubedb/pgpool/commit/683a8a1f) update webhook path (#69)
+- [f8a989de](https://github.com/kubedb/pgpool/commit/f8a989de) Implement operator-sharding; Install ace-user-roles (#67)
+- [6aee4ccc](https://github.com/kubedb/pgpool/commit/6aee4ccc) Setup new webhook style; Update to k8s v1.32 (#68)
+- [8eb95eaf](https://github.com/kubedb/pgpool/commit/8eb95eaf) Prepare for release v0.7.0 (#66)
+- [845d2edf](https://github.com/kubedb/pgpool/commit/845d2edf) Test against k8s 1.32 (#65)
+- [f04be287](https://github.com/kubedb/pgpool/commit/f04be287) Use Go 1.24 (#64)
+- [4c2e65b2](https://github.com/kubedb/pgpool/commit/4c2e65b2) Pgpool get fixed & Report namespace info with billing event (#63)
+- [56d97ff5](https://github.com/kubedb/pgpool/commit/56d97ff5) Run e2e tests on testrig & Show the reason for not satifying license restriction (#62)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.8.0-rc.0)

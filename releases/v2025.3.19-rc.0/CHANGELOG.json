@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:20:12.15237062Z",
+  "release_date": "2025-03-19T23:20:21.575998302Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -349,6 +349,52 @@
             {
               "SHA": "03e6623d6",
               "Subject": "Use testrig"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f6639b78",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#70)"
+            },
+            {
+              "SHA": "683a8a1f",
+              "Subject": "update webhook path (#69)"
+            },
+            {
+              "SHA": "f8a989de",
+              "Subject": "Implement operator-sharding; Install ace-user-roles (#67)"
+            },
+            {
+              "SHA": "6aee4ccc",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#68)"
+            },
+            {
+              "SHA": "8eb95eaf",
+              "Subject": "Prepare for release v0.7.0 (#66)"
+            },
+            {
+              "SHA": "845d2edf",
+              "Subject": "Test against k8s 1.32 (#65)"
+            },
+            {
+              "SHA": "f04be287",
+              "Subject": "Use Go 1.24 (#64)"
+            },
+            {
+              "SHA": "4c2e65b2",
+              "Subject": "Pgpool get fixed & Report namespace info with billing event (#63)"
+            },
+            {
+              "SHA": "56d97ff5",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license restriction (#62)"
             }
           ]
         }

@@ -68,6 +68,17 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.8.0-rc.0)
+
+- [f6bf57e7](https://github.com/kubedb/crd-manager/commit/f6bf57e7) Prepare for release v0.8.0-rc.0 (#68)
+- [235b872d](https://github.com/kubedb/crd-manager/commit/235b872d) Update to k8s v0.32 (#67)
+- [665eda53](https://github.com/kubedb/crd-manager/commit/665eda53) Prepare for release v0.7.0 (#66)
+- [66947bf4](https://github.com/kubedb/crd-manager/commit/66947bf4) Use Go 1.24 (#65)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.11.0-rc.0)

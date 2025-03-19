@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:23:20.999467804Z",
+  "release_date": "2025-03-19T23:23:31.102157702Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -233,6 +233,32 @@
             {
               "SHA": "5d389517",
               "Subject": "Update license log & e2e machine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f6bf57e7",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "235b872d",
+              "Subject": "Update to k8s v0.32 (#67)"
+            },
+            {
+              "SHA": "665eda53",
+              "Subject": "Prepare for release v0.7.0 (#66)"
+            },
+            {
+              "SHA": "66947bf4",
+              "Subject": "Use Go 1.24 (#65)"
             }
           ]
         }

@@ -233,6 +233,16 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.7.0-rc.0)
+
+- [2d7f303](https://github.com/kubedb/mssqlserver-walg-plugin/commit/2d7f303) Prepare for release v0.7.0-rc.0 (#21)
+- [4b98360](https://github.com/kubedb/mssqlserver-walg-plugin/commit/4b98360) Prepare for release v0.6.0 (#20)
+- [ca44e86](https://github.com/kubedb/mssqlserver-walg-plugin/commit/ca44e86) Use Go 1.24 (#19)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.31.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.31.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:21:46.801090558Z",
+  "release_date": "2025-03-19T23:21:55.458037021Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -615,6 +615,32 @@
             {
               "SHA": "374ddac6",
               "Subject": "Use Go 1.24 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8750fb07",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#138)"
+            },
+            {
+              "SHA": "026cf350",
+              "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#137)"
+            },
+            {
+              "SHA": "f00b8511",
+              "Subject": "Prepare for release v0.30.0 (#136)"
+            },
+            {
+              "SHA": "1611bdf9",
+              "Subject": "Use Go 1.24 (#135)"
             }
           ]
         }

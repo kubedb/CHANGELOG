@@ -92,6 +92,23 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.53.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.53.0-rc.0)
+
+- [0884a60d](https://github.com/kubedb/elasticsearch/commit/0884a60de) Prepare for release v0.53.0-rc.0 (#760)
+- [3790689f](https://github.com/kubedb/elasticsearch/commit/3790689f4) Restructure elasticsearch webhook (#759)
+- [bc877df4](https://github.com/kubedb/elasticsearch/commit/bc877df46) Add operator sharding for Elasticsearch (#758)
+- [b8937d5b](https://github.com/kubedb/elasticsearch/commit/b8937d5b2) Webhook changes for k8s 1.32 (#757)
+- [01aa7b63](https://github.com/kubedb/elasticsearch/commit/01aa7b63f) Prepare for release v0.52.0 (#756)
+- [0ce1d5a2](https://github.com/kubedb/elasticsearch/commit/0ce1d5a23) Test against k8s 1.32 (#755)
+- [a5a3c257](https://github.com/kubedb/elasticsearch/commit/a5a3c2576) Use Go 1.24 (#754)
+- [2600d5bd](https://github.com/kubedb/elasticsearch/commit/2600d5bd5) Report namespace info with billing event (#753)
+- [19980821](https://github.com/kubedb/elasticsearch/commit/19980821a) Update license restriction log (#752)
+- [19ea3a94](https://github.com/kubedb/elasticsearch/commit/19ea3a942) Use testrig
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.8.0-rc.0)

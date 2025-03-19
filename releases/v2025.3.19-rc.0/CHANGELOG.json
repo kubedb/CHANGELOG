@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:21:11.12621995Z",
+  "release_date": "2025-03-19T23:21:26.61646006Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -293,6 +293,56 @@
             {
               "SHA": "3fa565a9",
               "Subject": "Use Go 1.24 (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0884a60de",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#760)"
+            },
+            {
+              "SHA": "3790689f4",
+              "Subject": "Restructure elasticsearch webhook (#759)"
+            },
+            {
+              "SHA": "bc877df46",
+              "Subject": "Add operator sharding for Elasticsearch (#758)"
+            },
+            {
+              "SHA": "b8937d5b2",
+              "Subject": "Webhook changes for k8s 1.32 (#757)"
+            },
+            {
+              "SHA": "01aa7b63f",
+              "Subject": "Prepare for release v0.52.0 (#756)"
+            },
+            {
+              "SHA": "0ce1d5a23",
+              "Subject": "Test against k8s 1.32 (#755)"
+            },
+            {
+              "SHA": "a5a3c2576",
+              "Subject": "Use Go 1.24 (#754)"
+            },
+            {
+              "SHA": "2600d5bd5",
+              "Subject": "Report namespace info with billing event (#753)"
+            },
+            {
+              "SHA": "19980821a",
+              "Subject": "Update license restriction log (#752)"
+            },
+            {
+              "SHA": "19ea3a942",
+              "Subject": "Use testrig"
             }
           ]
         }

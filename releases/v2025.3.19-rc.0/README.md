@@ -75,6 +75,17 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.4.0-rc.0)
+
+- [8b3a5e6](https://github.com/kubedb/kubedb-verifier/commit/8b3a5e6) Prepare for release v0.4.0-rc.0 (#15)
+- [1033b54](https://github.com/kubedb/kubedb-verifier/commit/1033b54) Prepare for release v0.3.0 (#14)
+- [7a08962](https://github.com/kubedb/kubedb-verifier/commit/7a08962) Use Go 1.24 (#13)
+- [1e55a38](https://github.com/kubedb/kubedb-verifier/commit/1e55a38) Disable image caching in setup-qemu action (#12)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.46.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.46.0-rc.0)

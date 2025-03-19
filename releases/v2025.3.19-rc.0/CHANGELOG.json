@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:20:21.575998302Z",
+  "release_date": "2025-03-19T23:20:28.139479754Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -243,6 +243,32 @@
             {
               "SHA": "3fa565a9",
               "Subject": "Use Go 1.24 (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8b3a5e6",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "1033b54",
+              "Subject": "Prepare for release v0.3.0 (#14)"
+            },
+            {
+              "SHA": "7a08962",
+              "Subject": "Use Go 1.24 (#13)"
+            },
+            {
+              "SHA": "1e55a38",
+              "Subject": "Disable image caching in setup-qemu action (#12)"
             }
           ]
         }

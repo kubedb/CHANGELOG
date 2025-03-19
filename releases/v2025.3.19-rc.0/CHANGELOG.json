@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:24:17.161091424Z",
+  "release_date": "2025-03-19T23:24:23.483048685Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -1258,6 +1258,52 @@
         {
           "tag": "v0.2.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e26b5b6b",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "30850f54",
+              "Subject": "update webhook path (#68)"
+            },
+            {
+              "SHA": "aef92815",
+              "Subject": "add operator sharding support (#67)"
+            },
+            {
+              "SHA": "9fe3244d",
+              "Subject": "Update to k8s v1.32 (#66)"
+            },
+            {
+              "SHA": "a3a96c3b",
+              "Subject": "Prepare for release v0.7.0 (#64)"
+            },
+            {
+              "SHA": "432282ec",
+              "Subject": "Test against k8s 1.32 (#63)"
+            },
+            {
+              "SHA": "575e88a7",
+              "Subject": "Use Go 1.24 (#62)"
+            },
+            {
+              "SHA": "0a05aa4a",
+              "Subject": "Report namespace info with billing event (#61)"
+            },
+            {
+              "SHA": "0c0110cf",
+              "Subject": "Show the reason for not satifying license restriction (#60)"
+            }
+          ]
         }
       ]
     },

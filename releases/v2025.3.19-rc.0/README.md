@@ -441,6 +441,22 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.8.0-rc.0)
+
+- [e26b5b6b](https://github.com/kubedb/zookeeper/commit/e26b5b6b) Prepare for release v0.8.0-rc.0 (#69)
+- [30850f54](https://github.com/kubedb/zookeeper/commit/30850f54) update webhook path (#68)
+- [aef92815](https://github.com/kubedb/zookeeper/commit/aef92815) add operator sharding support (#67)
+- [9fe3244d](https://github.com/kubedb/zookeeper/commit/9fe3244d) Update to k8s v1.32 (#66)
+- [a3a96c3b](https://github.com/kubedb/zookeeper/commit/a3a96c3b) Prepare for release v0.7.0 (#64)
+- [432282ec](https://github.com/kubedb/zookeeper/commit/432282ec) Test against k8s 1.32 (#63)
+- [575e88a7](https://github.com/kubedb/zookeeper/commit/575e88a7) Use Go 1.24 (#62)
+- [0a05aa4a](https://github.com/kubedb/zookeeper/commit/0a05aa4a) Report namespace info with billing event (#61)
+- [0c0110cf](https://github.com/kubedb/zookeeper/commit/0c0110cf) Show the reason for not satifying license restriction (#60)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.9.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:22:50.154290742Z",
+  "release_date": "2025-03-19T23:23:03.761219473Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -717,6 +717,64 @@
             {
               "SHA": "ca44e86",
               "Subject": "Use Go 1.24 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "aa15539f5",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#677)"
+            },
+            {
+              "SHA": "7e9aa0564",
+              "Subject": "Restructure admission webhook (#676)"
+            },
+            {
+              "SHA": "04e0c7f07",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#674)"
+            },
+            {
+              "SHA": "d107c3614",
+              "Subject": "Update to k8s v32 (#675)"
+            },
+            {
+              "SHA": "8f36148eb",
+              "Subject": "Lower Sidekick Default Resource (#673)"
+            },
+            {
+              "SHA": "7cb701700",
+              "Subject": "Prepare for release v0.45.0 (#672)"
+            },
+            {
+              "SHA": "78f18ebc2",
+              "Subject": "Test against k8s 1.32 (#671)"
+            },
+            {
+              "SHA": "7b8439cf1",
+              "Subject": "Use Go 1.24 (#670)"
+            },
+            {
+              "SHA": "c7c9ffec3",
+              "Subject": "Report namespace info with billing event (#669)"
+            },
+            {
+              "SHA": "1db638462",
+              "Subject": "Show the reason for not satifying license restriction (#668)"
+            },
+            {
+              "SHA": "8c49a6eae",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "2cd44d411",
+              "Subject": "Fix license restriction (#667)"
             }
           ]
         }

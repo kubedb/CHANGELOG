@@ -243,6 +243,25 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.46.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.46.0-rc.0)
+
+- [aa15539f](https://github.com/kubedb/mysql/commit/aa15539f5) Prepare for release v0.46.0-rc.0 (#677)
+- [7e9aa056](https://github.com/kubedb/mysql/commit/7e9aa0564) Restructure admission webhook (#676)
+- [04e0c7f0](https://github.com/kubedb/mysql/commit/04e0c7f07) Install ace-user-roles; Run tests twice a week (#674)
+- [d107c361](https://github.com/kubedb/mysql/commit/d107c3614) Update to k8s v32 (#675)
+- [8f36148e](https://github.com/kubedb/mysql/commit/8f36148eb) Lower Sidekick Default Resource (#673)
+- [7cb70170](https://github.com/kubedb/mysql/commit/7cb701700) Prepare for release v0.45.0 (#672)
+- [78f18ebc](https://github.com/kubedb/mysql/commit/78f18ebc2) Test against k8s 1.32 (#671)
+- [7b8439cf](https://github.com/kubedb/mysql/commit/7b8439cf1) Use Go 1.24 (#670)
+- [c7c9ffec](https://github.com/kubedb/mysql/commit/c7c9ffec3) Report namespace info with billing event (#669)
+- [1db63846](https://github.com/kubedb/mysql/commit/1db638462) Show the reason for not satifying license restriction (#668)
+- [8c49a6ea](https://github.com/kubedb/mysql/commit/8c49a6eae) Use testrig
+- [2cd44d41](https://github.com/kubedb/mysql/commit/2cd44d411) Fix license restriction (#667)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.31.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.31.0-rc.0)

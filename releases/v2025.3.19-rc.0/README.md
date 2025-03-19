@@ -68,6 +68,16 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.53.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.53.0-rc.0)
+
+- [6a2800b1](https://github.com/kubedb/cli/commit/6a2800b19) Prepare for release v0.53.0-rc.0 (#792)
+- [9b59b8bc](https://github.com/kubedb/cli/commit/9b59b8bcb) Prepare for release v0.52.0 (#791)
+- [71231655](https://github.com/kubedb/cli/commit/71231655f) Use Go 1.24 (#790)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.8.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:40:04.135622724Z",
+  "release_date": "2025-03-19T23:55:17.713412702Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -567,6 +567,48 @@
             {
               "SHA": "741059fa",
               "Subject": "Add license header"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "027a3bd0",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#146)"
+            },
+            {
+              "SHA": "10a89f00",
+              "Subject": "Fix dependency for kibana (#145)"
+            },
+            {
+              "SHA": "a9c6e233",
+              "Subject": "Add operator sharding support for kibana (#144)"
+            },
+            {
+              "SHA": "71b978a9",
+              "Subject": "Webhook changes for k8s 1.32 (#143)"
+            },
+            {
+              "SHA": "59eca516",
+              "Subject": "Prepare for release v0.28.0 (#142)"
+            },
+            {
+              "SHA": "57b32ae0",
+              "Subject": "Use Go 1.24 (#141)"
+            },
+            {
+              "SHA": "87fce12a",
+              "Subject": "Report namespace info with billing event (#140)"
+            },
+            {
+              "SHA": "07ce140e",
+              "Subject": "Update license restriction log (#139)"
             }
           ]
         }

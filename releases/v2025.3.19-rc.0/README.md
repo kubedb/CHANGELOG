@@ -192,6 +192,21 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/kibana/releases/tag/v0.29.0-rc.0)
+
+- [027a3bd0](https://github.com/kubedb/kibana/commit/027a3bd0) Prepare for release v0.29.0-rc.0 (#146)
+- [10a89f00](https://github.com/kubedb/kibana/commit/10a89f00) Fix dependency for kibana (#145)
+- [a9c6e233](https://github.com/kubedb/kibana/commit/a9c6e233) Add operator sharding support for kibana (#144)
+- [71b978a9](https://github.com/kubedb/kibana/commit/71b978a9) Webhook changes for k8s 1.32 (#143)
+- [59eca516](https://github.com/kubedb/kibana/commit/59eca516) Prepare for release v0.28.0 (#142)
+- [57b32ae0](https://github.com/kubedb/kibana/commit/57b32ae0) Use Go 1.24 (#141)
+- [87fce12a](https://github.com/kubedb/kibana/commit/87fce12a) Report namespace info with billing event (#140)
+- [07ce140e](https://github.com/kubedb/kibana/commit/07ce140e) Update license restriction log (#139)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.4.0-rc.0)

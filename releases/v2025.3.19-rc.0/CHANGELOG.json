@@ -1,0 +1,192 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.3.19-rc.0",
+  "release_date": "2025-03-19T20:39:53.119550619Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c1c97c5d7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "e7fb1125f",
+              "Subject": "Move & convert oldDB validators to new-webhook signature (#1428)"
+            },
+            {
+              "SHA": "d82a3f17c",
+              "Subject": "Register cassandra autoscaler types"
+            },
+            {
+              "SHA": "4d0febcc5",
+              "Subject": "Rename SecretSource -> SecretStore"
+            },
+            {
+              "SHA": "f80d5dc74",
+              "Subject": "Move webhooks folder inside pkg"
+            },
+            {
+              "SHA": "5e31d6825",
+              "Subject": "update ferretdb autoscaler api (#1427)"
+            },
+            {
+              "SHA": "5d295e374",
+              "Subject": "Move & convert opsRequest validator files to new webhook style (#1425)"
+            },
+            {
+              "SHA": "051711da2",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "70c28b34c",
+              "Subject": "Update autoscaler webhooks (#1424)"
+            },
+            {
+              "SHA": "a9caf6acf",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "999c0b803",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ee5186618",
+              "Subject": "Fix build (#1423)"
+            },
+            {
+              "SHA": "28f8a1d6d",
+              "Subject": "Add FerretDB replication support (#1420)"
+            },
+            {
+              "SHA": "4fcb10d1c",
+              "Subject": "Integrate virtual-secret in `authSecret` (#1414)"
+            },
+            {
+              "SHA": "7b3b2d57a",
+              "Subject": "Remove defaultclient from kafka api group (#1419)"
+            },
+            {
+              "SHA": "3b730ac81",
+              "Subject": "Add Engine-type in Redis-Version to distinguish valkey version (#1410)"
+            },
+            {
+              "SHA": "f5d0d929f",
+              "Subject": "Fix ChangeRequest Status type (#1411)"
+            },
+            {
+              "SHA": "9493bd16d",
+              "Subject": "Update schema manager to new webhook style (#1421)"
+            },
+            {
+              "SHA": "dc851d6fb",
+              "Subject": "Increate MSSQL CPU Request (#1412)"
+            },
+            {
+              "SHA": "38bb7a72c",
+              "Subject": "Add Operator Sharding Support (#1415)"
+            },
+            {
+              "SHA": "5db581f54",
+              "Subject": "Use k8s 1.32 client libs (#1405)"
+            },
+            {
+              "SHA": "64f266165",
+              "Subject": "Set securityContext for exporter containers (#1418)"
+            },
+            {
+              "SHA": "8673786aa",
+              "Subject": "Add IsCluster inside Replication (#1416)"
+            },
+            {
+              "SHA": "d57315cdf",
+              "Subject": "Add regex to kubedb object names (#1417)"
+            },
+            {
+              "SHA": "c3871c5de",
+              "Subject": "Test against k8s 1.32 (#1409)"
+            },
+            {
+              "SHA": "5065873e2",
+              "Subject": "Test against k8s 1.32 (#1407)"
+            },
+            {
+              "SHA": "93b6bea8a",
+              "Subject": "Fix CI (#1408)"
+            },
+            {
+              "SHA": "d685cb862",
+              "Subject": "Add gitops apis (#1406)"
+            },
+            {
+              "SHA": "a75252a4e",
+              "Subject": "Add PostgresOpsRequest ReconnectStandby, ForceFailover, SetRaftKeyPair (#1404)"
+            },
+            {
+              "SHA": "75a4e2b5a",
+              "Subject": "Test against k8s 1.32 (#1403)"
+            },
+            {
+              "SHA": "d38a170fe",
+              "Subject": "Use Go 1.24 (#1401)"
+            },
+            {
+              "SHA": "6d24fef28",
+              "Subject": "Use Go 1.24 (#1400)"
+            },
+            {
+              "SHA": "bd6cc66bd",
+              "Subject": "Defaulting DB namespace to init archiver fields (#1399)"
+            },
+            {
+              "SHA": "39cd66e47",
+              "Subject": "Fix druid security context issue (#1396)"
+            },
+            {
+              "SHA": "471390290",
+              "Subject": "Defaulting internal zookeper (#1398)"
+            },
+            {
+              "SHA": "2f6d49a92",
+              "Subject": "security-context for pgbouncer (#1339)"
+            },
+            {
+              "SHA": "60581b73b",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b51e119e3",
+              "Subject": "make some defaulting funcs public (#1395)"
+            },
+            {
+              "SHA": "00ea2f07f",
+              "Subject": "Update for release KubeStash@v2025.2.10 (#1397)"
+            },
+            {
+              "SHA": "023d2f628",
+              "Subject": "Update security context defaulting for solr (#1394)"
+            },
+            {
+              "SHA": "3a00131dd",
+              "Subject": "Update Kafka Default Resource to Memory Intensive (#1393)"
+            },
+            {
+              "SHA": "1b380ea04",
+              "Subject": "Seperate up the connectOptions for gw & inCluster (#1391)"
+            },
+            {
+              "SHA": "7f58d0390",
+              "Subject": "Return the reason for not allowing license restrictions (#1392)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

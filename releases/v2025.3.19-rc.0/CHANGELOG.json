@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:20:37.185295085Z",
+  "release_date": "2025-03-19T23:20:48.176801681Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -243,6 +243,56 @@
             {
               "SHA": "3fa565a9",
               "Subject": "Use Go 1.24 (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "178a987c",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "aa8bb0a9",
+              "Subject": "Fix backend init scripts and labels-selectors (#67)"
+            },
+            {
+              "SHA": "9a5064dc",
+              "Subject": "Add FerretDB replication support (#66)"
+            },
+            {
+              "SHA": "6b72cb54",
+              "Subject": "Fix security context for backend pg and add operator sharding (#60)"
+            },
+            {
+              "SHA": "cfd63de6",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#65)"
+            },
+            {
+              "SHA": "175f1523",
+              "Subject": "Prepare for release v0.7.0 (#64)"
+            },
+            {
+              "SHA": "15975b72",
+              "Subject": "Test against k8s 1.32 (#63)"
+            },
+            {
+              "SHA": "4e2c27ee",
+              "Subject": "Use Go 1.24 (#62)"
+            },
+            {
+              "SHA": "2b50a0d6",
+              "Subject": "Report namespace info with billing event (#61)"
+            },
+            {
+              "SHA": "98674271",
+              "Subject": "Update license log & e2e machine"
             }
           ]
         }

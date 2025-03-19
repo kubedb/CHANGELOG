@@ -75,6 +75,23 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.8.0-rc.0)
+
+- [178a987c](https://github.com/kubedb/ferretdb/commit/178a987c) Prepare for release v0.8.0-rc.0 (#68)
+- [aa8bb0a9](https://github.com/kubedb/ferretdb/commit/aa8bb0a9) Fix backend init scripts and labels-selectors (#67)
+- [9a5064dc](https://github.com/kubedb/ferretdb/commit/9a5064dc) Add FerretDB replication support (#66)
+- [6b72cb54](https://github.com/kubedb/ferretdb/commit/6b72cb54) Fix security context for backend pg and add operator sharding (#60)
+- [cfd63de6](https://github.com/kubedb/ferretdb/commit/cfd63de6) Setup new webhook style; Update to k8s v1.32 (#65)
+- [175f1523](https://github.com/kubedb/ferretdb/commit/175f1523) Prepare for release v0.7.0 (#64)
+- [15975b72](https://github.com/kubedb/ferretdb/commit/15975b72) Test against k8s 1.32 (#63)
+- [4e2c27ee](https://github.com/kubedb/ferretdb/commit/4e2c27ee) Use Go 1.24 (#62)
+- [2b50a0d6](https://github.com/kubedb/ferretdb/commit/2b50a0d6) Report namespace info with billing event (#61)
+- [98674271](https://github.com/kubedb/ferretdb/commit/98674271) Update license log & e2e machine
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.4.0-rc.0)

@@ -280,6 +280,26 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.8.0-rc.0)
+
+- [e499126b](https://github.com/kubedb/mssqlserver/commit/e499126b) Prepare for release v0.8.0-rc.0 (#72)
+- [cc54e87d](https://github.com/kubedb/mssqlserver/commit/cc54e87d) Update deps (#71)
+- [de2304b7](https://github.com/kubedb/mssqlserver/commit/de2304b7) Add Operator Sharding Support; Add IRSA annotation in Sidekick (#70)
+- [4bf06b68](https://github.com/kubedb/mssqlserver/commit/4bf06b68) Setup new webhook style; Update to k8s v1.32 (#69)
+- [04686b68](https://github.com/kubedb/mssqlserver/commit/04686b68) Don't PublishNotReadyAddresses for non Headless services (#68)
+- [b9da2f24](https://github.com/kubedb/mssqlserver/commit/b9da2f24) Install ace-user-roles; Run tests twice a week (#67)
+- [b9d4c52b](https://github.com/kubedb/mssqlserver/commit/b9d4c52b) Set default resources on the walg container
+- [74c75813](https://github.com/kubedb/mssqlserver/commit/74c75813) Prepare for release v0.7.0 (#66)
+- [b2681864](https://github.com/kubedb/mssqlserver/commit/b2681864) Test against k8s 1.32 (#65)
+- [5d060a01](https://github.com/kubedb/mssqlserver/commit/5d060a01) Use Go 1.24 (#64)
+- [82fa1293](https://github.com/kubedb/mssqlserver/commit/82fa1293) Report namespace info with billing event (#63)
+- [dde24b69](https://github.com/kubedb/mssqlserver/commit/dde24b69) Add daily.yml for running e2e tests daily (#62)
+- [fb508368](https://github.com/kubedb/mssqlserver/commit/fb508368) Show the reason for not satifying license restriction (#61)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.7.0-rc.0)

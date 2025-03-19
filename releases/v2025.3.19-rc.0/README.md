@@ -147,6 +147,22 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.46.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.46.0-rc.0)
+
+- [b5ddb698](https://github.com/kubedb/memcached/commit/b5ddb698e) Prepare for release v0.46.0-rc.0 (#493)
+- [816d7472](https://github.com/kubedb/memcached/commit/816d7472e) Restructure admission webhook (#492)
+- [5ee33f9c](https://github.com/kubedb/memcached/commit/5ee33f9c3) Add operator sharding support; Update ci & makefile (#490)
+- [93a42e71](https://github.com/kubedb/memcached/commit/93a42e718) Update to k8s v32 (#491)
+- [d0bf662b](https://github.com/kubedb/memcached/commit/d0bf662b4) Prepare for release v0.45.0 (#489)
+- [dc8343bc](https://github.com/kubedb/memcached/commit/dc8343bce) Test against k8s 1.32 (#488)
+- [27399464](https://github.com/kubedb/memcached/commit/273994640) Use Go 1.24 (#487)
+- [5757ac2c](https://github.com/kubedb/memcached/commit/5757ac2ca) Report namespace info with billing event (#486)
+- [ae26c91e](https://github.com/kubedb/memcached/commit/ae26c91e7) Run e2e Tests on testrig & show the reason for not satisfying license restriction (#485)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.46.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.46.0-rc.0)

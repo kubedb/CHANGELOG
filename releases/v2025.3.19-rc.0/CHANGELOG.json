@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:21:26.61646006Z",
+  "release_date": "2025-03-19T23:21:38.741597621Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -441,6 +441,52 @@
             {
               "SHA": "fabf49b0",
               "Subject": "Use Go 1.24 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b5ddb698e",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#493)"
+            },
+            {
+              "SHA": "816d7472e",
+              "Subject": "Restructure admission webhook (#492)"
+            },
+            {
+              "SHA": "5ee33f9c3",
+              "Subject": "Add operator sharding support; Update ci & makefile (#490)"
+            },
+            {
+              "SHA": "93a42e718",
+              "Subject": "Update to k8s v32 (#491)"
+            },
+            {
+              "SHA": "d0bf662b4",
+              "Subject": "Prepare for release v0.45.0 (#489)"
+            },
+            {
+              "SHA": "dc8343bce",
+              "Subject": "Test against k8s 1.32 (#488)"
+            },
+            {
+              "SHA": "273994640",
+              "Subject": "Use Go 1.24 (#487)"
+            },
+            {
+              "SHA": "5757ac2ca",
+              "Subject": "Report namespace info with billing event (#486)"
+            },
+            {
+              "SHA": "ae26c91e7",
+              "Subject": "Run e2e Tests on testrig & show the reason for not satisfying license restriction (#485)"
             }
           ]
         }

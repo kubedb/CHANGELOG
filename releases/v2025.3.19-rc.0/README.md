@@ -129,3 +129,13 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.9.0-rc.0)
+
+- [deb7075](https://github.com/kubedb/zookeeper-restic-plugin/commit/deb7075) Prepare for release v0.9.0-rc.0 (#31)
+- [e9459f4](https://github.com/kubedb/zookeeper-restic-plugin/commit/e9459f4) Prepare for release v0.8.0 (#30)
+- [739367c](https://github.com/kubedb/zookeeper-restic-plugin/commit/739367c) Use Go 1.24 (#29)
+
+
+

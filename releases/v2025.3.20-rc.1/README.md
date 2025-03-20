@@ -398,6 +398,16 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.40.0-rc.1](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.40.0-rc.1)
+
+- [e7943024](https://github.com/kubedb/replication-mode-detector/commit/e7943024) Prepare for release v0.40.0-rc.1 (#290)
+- [feb3420a](https://github.com/kubedb/replication-mode-detector/commit/feb3420a) Prepare for release v0.39.0 (#289)
+- [b42c020d](https://github.com/kubedb/replication-mode-detector/commit/b42c020d) Use Go 1.24 (#288)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.8.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T05:21:38.184404645Z",
+  "release_date": "2025-03-20T05:24:14.538347032Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -827,6 +827,28 @@
             {
               "SHA": "1ef930f",
               "Subject": "Use Go 1.24 (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e7943024",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#290)"
+            },
+            {
+              "SHA": "feb3420a",
+              "Subject": "Prepare for release v0.39.0 (#289)"
+            },
+            {
+              "SHA": "b42c020d",
+              "Subject": "Use Go 1.24 (#288)"
             }
           ]
         }

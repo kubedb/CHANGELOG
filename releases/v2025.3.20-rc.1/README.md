@@ -16,6 +16,14 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.4.0-rc.1](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.4.0-rc.1)
+
+- [cb903bb](https://github.com/kubedb/kubedb-verifier/commit/cb903bb) Prepare for release v0.4.0-rc.1 (#16)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.13.0-rc.1](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.13.0-rc.1)

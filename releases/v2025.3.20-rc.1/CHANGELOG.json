@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T04:56:38.255747956Z",
+  "release_date": "2025-03-20T04:57:07.158728905Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -537,6 +537,64 @@
             {
               "SHA": "a2f3abd6",
               "Subject": "Prepare for release v0.8.0-rc.1 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.38.0-rc.1",
+          "commits": [
+            {
+              "SHA": "065abf8a",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#451)"
+            },
+            {
+              "SHA": "d3aec073",
+              "Subject": "Update go.mod with k8s v0.32.2 (#449)"
+            },
+            {
+              "SHA": "7181a2ab",
+              "Subject": "Fix MongoDB restic backup CI (#438)"
+            },
+            {
+              "SHA": "8780cccd",
+              "Subject": "MongoDB Test Profile Divide (#442)"
+            },
+            {
+              "SHA": "1576dbf8",
+              "Subject": "rabbitmq test log fix (#445)"
+            },
+            {
+              "SHA": "86e04cc1",
+              "Subject": "Test against k8s 1.32 (#444)"
+            },
+            {
+              "SHA": "ac643c07",
+              "Subject": "Add Postgres CI (restic-backup) (#434)"
+            },
+            {
+              "SHA": "f165f126",
+              "Subject": "Prepare for release v0.37.0 (#443)"
+            },
+            {
+              "SHA": "3b5fada0",
+              "Subject": "Test against k8s 1.32 (#441)"
+            },
+            {
+              "SHA": "892d8c3d",
+              "Subject": "Use Go 1.24 (#440)"
+            },
+            {
+              "SHA": "0b3ececa",
+              "Subject": "fix backupstorage, release v2025.2.10 (#439)"
+            },
+            {
+              "SHA": "0bfee605",
+              "Subject": "fix mongo package (#435)"
             }
           ]
         }

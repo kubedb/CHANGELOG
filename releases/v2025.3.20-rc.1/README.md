@@ -276,6 +276,25 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.38.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.38.0-rc.1)
+
+- [065abf8a](https://github.com/kubedb/tests/commit/065abf8a) Prepare for release v0.38.0-rc.1 (#451)
+- [d3aec073](https://github.com/kubedb/tests/commit/d3aec073) Update go.mod with k8s v0.32.2 (#449)
+- [7181a2ab](https://github.com/kubedb/tests/commit/7181a2ab) Fix MongoDB restic backup CI (#438)
+- [8780cccd](https://github.com/kubedb/tests/commit/8780cccd) MongoDB Test Profile Divide (#442)
+- [1576dbf8](https://github.com/kubedb/tests/commit/1576dbf8) rabbitmq test log fix (#445)
+- [86e04cc1](https://github.com/kubedb/tests/commit/86e04cc1) Test against k8s 1.32 (#444)
+- [ac643c07](https://github.com/kubedb/tests/commit/ac643c07) Add Postgres CI (restic-backup) (#434)
+- [f165f126](https://github.com/kubedb/tests/commit/f165f126) Prepare for release v0.37.0 (#443)
+- [3b5fada0](https://github.com/kubedb/tests/commit/3b5fada0) Test against k8s 1.32 (#441)
+- [892d8c3d](https://github.com/kubedb/tests/commit/892d8c3d) Use Go 1.24 (#440)
+- [0b3ececa](https://github.com/kubedb/tests/commit/0b3ececa) fix backupstorage, release v2025.2.10 (#439)
+- [0bfee605](https://github.com/kubedb/tests/commit/0bfee605) fix mongo package (#435)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.9.0-rc.1)

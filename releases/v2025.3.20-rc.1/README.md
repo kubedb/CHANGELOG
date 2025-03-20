@@ -525,6 +525,14 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.29.0-rc.1](https://github.com/kubedb/ui-server/releases/tag/v0.29.0-rc.1)
+
+- [683a6c9d](https://github.com/kubedb/ui-server/commit/683a6c9d) Prepare for release v0.29.0-rc.1 (#156)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.2.0-rc.1)

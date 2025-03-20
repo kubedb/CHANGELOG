@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T04:58:11.907494364Z",
+  "release_date": "2025-03-20T04:59:27.166565111Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -623,6 +623,20 @@
             {
               "SHA": "0bfee605",
               "Subject": "fix mongo package (#435)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0e1c903",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#10)"
             }
           ]
         }

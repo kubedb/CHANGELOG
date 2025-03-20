@@ -311,6 +311,14 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.2.0-rc.1)
+
+- [0e1c903](https://github.com/kubedb/xtrabackup-restic-plugin/commit/0e1c903) Prepare for release v0.2.0-rc.1 (#10)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.9.0-rc.1)

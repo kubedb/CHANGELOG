@@ -118,6 +118,16 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.16.0-rc.1)
+
+- [849d2e4](https://github.com/kubedb/mongodb-restic-plugin/commit/849d2e4) Prepare for release v0.16.0-rc.1 (#81)
+- [9afda5c](https://github.com/kubedb/mongodb-restic-plugin/commit/9afda5c) Prepare for release v0.15.0 (#80)
+- [6f5b57b](https://github.com/kubedb/mongodb-restic-plugin/commit/6f5b57b) Use Go 1.24 (#79)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.8.0-rc.1)

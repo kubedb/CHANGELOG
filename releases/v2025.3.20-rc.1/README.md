@@ -420,6 +420,21 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.53.0-rc.1](https://github.com/kubedb/provisioner/releases/tag/v0.53.0-rc.1)
+
+- [f3804631](https://github.com/kubedb/provisioner/commit/f38046310) Prepare for release v0.53.0-rc.1 (#144)
+- [c2f93ed2](https://github.com/kubedb/provisioner/commit/c2f93ed2c) Add Sharding Ability To Provisioner (#140)
+- [4a037775](https://github.com/kubedb/provisioner/commit/4a037775a) Update to k8s v0.32 (#141)
+- [511ae726](https://github.com/kubedb/provisioner/commit/511ae7263) Set default resources on the walg container
+- [1649d46c](https://github.com/kubedb/provisioner/commit/1649d46cd) Prepare for release v0.52.0 (#139)
+- [2aa0d9cf](https://github.com/kubedb/provisioner/commit/2aa0d9cfa) Add stash scheme
+- [f7815d07](https://github.com/kubedb/provisioner/commit/f7815d079) Test against k8s 1.32 (#138)
+- [c98910cd](https://github.com/kubedb/provisioner/commit/c98910cd8) Use Go 1.24 (#137)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.40.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.40.0-rc.1)

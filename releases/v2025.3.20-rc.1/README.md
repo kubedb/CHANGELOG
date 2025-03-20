@@ -307,6 +307,20 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.37.0-rc.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.37.0-rc.1)
+
+- [f676b187](https://github.com/kubedb/pg-coordinator/commit/f676b187) Prepare for release v0.37.0-rc.1 (#195)
+- [7655688f](https://github.com/kubedb/pg-coordinator/commit/7655688f) Set Raft Role Correctly (#194)
+- [7542383e](https://github.com/kubedb/pg-coordinator/commit/7542383e) Do Checkpoint on primary before running pg_rewind (#193)
+- [421d91d6](https://github.com/kubedb/pg-coordinator/commit/421d91d6) Prepare for release v0.36.0 (#192)
+- [1488a1d9](https://github.com/kubedb/pg-coordinator/commit/1488a1d9) Fix a bug for force failover (#191)
+- [b04c16fd](https://github.com/kubedb/pg-coordinator/commit/b04c16fd) Use Go 1.24 (#190)
+- [35382941](https://github.com/kubedb/pg-coordinator/commit/35382941) Reduce API Server Load by Adding Wait Interval When DB Is In Not Ready State (#189)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.8.0-rc.1)

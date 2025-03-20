@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T05:19:55.426561867Z",
+  "release_date": "2025-03-20T05:21:38.184404645Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -646,6 +646,44 @@
             {
               "SHA": "52e1530a",
               "Subject": "Use Go 1.24 (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f676b187",
+              "Subject": "Prepare for release v0.37.0-rc.1 (#195)"
+            },
+            {
+              "SHA": "7655688f",
+              "Subject": "Set Raft Role Correctly (#194)"
+            },
+            {
+              "SHA": "7542383e",
+              "Subject": "Do Checkpoint on primary before running pg_rewind (#193)"
+            },
+            {
+              "SHA": "421d91d6",
+              "Subject": "Prepare for release v0.36.0 (#192)"
+            },
+            {
+              "SHA": "1488a1d9",
+              "Subject": "Fix a bug for force failover (#191)"
+            },
+            {
+              "SHA": "b04c16fd",
+              "Subject": "Use Go 1.24 (#190)"
+            },
+            {
+              "SHA": "35382941",
+              "Subject": "Reduce API Server Load by Adding Wait Interval When DB Is In Not Ready State (#189)"
             }
           ]
         }

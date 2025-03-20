@@ -31,6 +31,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.31.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.31.0-rc.1)
+
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.8.0-rc.1)

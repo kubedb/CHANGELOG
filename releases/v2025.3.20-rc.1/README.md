@@ -117,6 +117,14 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.29.0-rc.1](https://github.com/kubedb/kibana/releases/tag/v0.29.0-rc.1)
+
+- [2ca1a410](https://github.com/kubedb/kibana/commit/2ca1a410) Prepare for release v0.29.0-rc.1 (#147)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.16.0-rc.1)

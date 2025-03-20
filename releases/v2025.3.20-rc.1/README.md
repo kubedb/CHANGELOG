@@ -94,6 +94,28 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.37.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.37.0-rc.1)
+
+- [f6bad15c](https://github.com/kubedb/mariadb/commit/f6bad15c0) Prepare for release v0.37.0-rc.1 (#323)
+- [12653892](https://github.com/kubedb/mariadb/commit/126538929) Restructure admission webhook (#322)
+- [c858218f](https://github.com/kubedb/mariadb/commit/c858218f2) Run Maxscale as Non Root User (#321)
+- [9aaa179a](https://github.com/kubedb/mariadb/commit/9aaa179ad) Add MaxScale Cluster Support (#318)
+- [84f8d44c](https://github.com/kubedb/mariadb/commit/84f8d44c8) Update IRSA annotations (#320)
+- [510aeb7a](https://github.com/kubedb/mariadb/commit/510aeb7a8) ShardConfiguration, Install ace-user-roles, Run tests twice a week,  (#316)
+- [b4fc4ddc](https://github.com/kubedb/mariadb/commit/b4fc4ddc7) Update to k8s v32 (#319)
+- [08554f66](https://github.com/kubedb/mariadb/commit/08554f660) Add MariaDB Replication Support (#303)
+- [e2212de1](https://github.com/kubedb/mariadb/commit/e2212de15) Lower Sidekick Default Resource (#315)
+- [5aae329e](https://github.com/kubedb/mariadb/commit/5aae329ea) Prepare for release v0.36.0 (#314)
+- [2102f599](https://github.com/kubedb/mariadb/commit/2102f5992) Test against k8s 1.32 (#313)
+- [c48e29b6](https://github.com/kubedb/mariadb/commit/c48e29b67) Use Go 1.24 (#312)
+- [c2df3bc9](https://github.com/kubedb/mariadb/commit/c2df3bc9b) Report namespace info with billing event (#311)
+- [d72a123c](https://github.com/kubedb/mariadb/commit/d72a123ca) Show the reason for not satifying license restriction (#310)
+- [d586b568](https://github.com/kubedb/mariadb/commit/d586b5689) Use testrig
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.13.0-rc.1](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.13.0-rc.1)

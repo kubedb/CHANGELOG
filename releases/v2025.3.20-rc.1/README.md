@@ -38,6 +38,23 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.40.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.40.0-rc.1)
+
+- [b9354d4d](https://github.com/kubedb/percona-xtradb/commit/b9354d4d7) Prepare for release v0.40.0-rc.1 (#404)
+- [3cfd53c5](https://github.com/kubedb/percona-xtradb/commit/3cfd53c55) Restructure admission webhook (#403)
+- [d6174a69](https://github.com/kubedb/percona-xtradb/commit/d6174a69c) Add operator-sharding; Install ace-user-roles (#401)
+- [fd5c0af1](https://github.com/kubedb/percona-xtradb/commit/fd5c0af1f) Update to k8s v32 (#402)
+- [04e2466a](https://github.com/kubedb/percona-xtradb/commit/04e2466a3) Prepare for release v0.39.0 (#400)
+- [29cda551](https://github.com/kubedb/percona-xtradb/commit/29cda5511) Test against k8s 1.32 (#399)
+- [45ce72c7](https://github.com/kubedb/percona-xtradb/commit/45ce72c71) Use Go 1.24 (#398)
+- [672219b8](https://github.com/kubedb/percona-xtradb/commit/672219b81) Report namespace info with billing event (#397)
+- [2370ef83](https://github.com/kubedb/percona-xtradb/commit/2370ef834) Wait for PVC restoration by stash (#396)
+- [01e39d5f](https://github.com/kubedb/percona-xtradb/commit/01e39d5fe) Show the reason for not satifying license restriction (#395)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.8.0-rc.1)

@@ -270,6 +270,16 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.14.0-rc.1)
+
+- [96f5fde6](https://github.com/kubedb/postgres-archiver/commit/96f5fde6) Prepare for release v0.14.0-rc.1 (#58)
+- [c40544c2](https://github.com/kubedb/postgres-archiver/commit/c40544c2) Prepare for release v0.13.0 (#57)
+- [4cc8a8e7](https://github.com/kubedb/postgres-archiver/commit/4cc8a8e7) Use Go 1.24 (#56)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.16.0-rc.1)

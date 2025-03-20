@@ -1,4 +1,4 @@
-# KubeDB v2025.3.19-rc.0 (2025-03-19)
+# KubeDB v2025.3.19-rc.0 (2025-03-20)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -450,6 +450,18 @@
 - [69b304d7](https://github.com/kubedb/redis/commit/69b304d7a) Fix and Improve Cluster Health Check + Add Cluster Pod Role Label (#578)
 - [029f1ade](https://github.com/kubedb/redis/commit/029f1ade0) Report namespace info with billing event (#579)
 - [50b6b3b8](https://github.com/kubedb/redis/commit/50b6b3b84) Run e2e tests on testrig & Show the reason for not satifying license (#577)
+
+
+
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/schema-manager/releases/tag/v0.29.0-rc.0)
+
+- [eccaede6](https://github.com/kubedb/schema-manager/commit/eccaede6) Prepare for release v0.29.0-rc.0 (#135)
+- [a328302c](https://github.com/kubedb/schema-manager/commit/a328302c) Update deps
+- [46d62873](https://github.com/kubedb/schema-manager/commit/46d62873) k8s 1.32 and webhook related changes (#134)
+- [c341b252](https://github.com/kubedb/schema-manager/commit/c341b252) Prepare for release v0.28.0 (#133)
+- [6e285723](https://github.com/kubedb/schema-manager/commit/6e285723) Use Go 1.24 (#132)
 
 
 

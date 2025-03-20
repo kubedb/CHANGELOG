@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-19T23:55:17.713412702Z",
+  "release_date": "2025-03-20T01:55:06.321571268Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -1287,6 +1287,36 @@
             {
               "SHA": "50b6b3b84",
               "Subject": "Run e2e tests on testrig & Show the reason for not satifying license (#577)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "eccaede6",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "a328302c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "46d62873",
+              "Subject": "k8s 1.32 and webhook related changes (#134)"
+            },
+            {
+              "SHA": "c341b252",
+              "Subject": "Prepare for release v0.28.0 (#133)"
+            },
+            {
+              "SHA": "6e285723",
+              "Subject": "Use Go 1.24 (#132)"
             }
           ]
         }

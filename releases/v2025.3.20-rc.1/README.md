@@ -234,6 +234,16 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.16.0-rc.1)
+
+- [a535e54](https://github.com/kubedb/redis-restic-plugin/commit/a535e54) Prepare for release v0.16.0-rc.1 (#63)
+- [84059cf](https://github.com/kubedb/redis-restic-plugin/commit/84059cf) Prepare for release v0.15.0 (#62)
+- [1ef930f](https://github.com/kubedb/redis-restic-plugin/commit/1ef930f) Use Go 1.24 (#61)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.8.0-rc.1)

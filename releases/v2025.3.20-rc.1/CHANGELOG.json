@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T04:56:20.672535726Z",
+  "release_date": "2025-03-20T04:56:38.255747956Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -459,6 +459,28 @@
             {
               "SHA": "ba9e3036",
               "Subject": "Use Go 1.24 (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a535e54",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#63)"
+            },
+            {
+              "SHA": "84059cf",
+              "Subject": "Prepare for release v0.15.0 (#62)"
+            },
+            {
+              "SHA": "1ef930f",
+              "Subject": "Use Go 1.24 (#61)"
             }
           ]
         }

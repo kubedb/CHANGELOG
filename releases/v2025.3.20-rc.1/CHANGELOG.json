@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T03:38:47.612311334Z",
+  "release_date": "2025-03-20T03:38:55.524783033Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -125,6 +125,20 @@
             {
               "SHA": "821d775",
               "Subject": "Prepare for release v0.8.0-rc.1 (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a2f3abd6",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#79)"
             }
           ]
         }

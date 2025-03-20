@@ -8,6 +8,14 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/clickhouse/releases/tag/v0.8.0-rc.1)
+
+- [db836fa8](https://github.com/kubedb/clickhouse/commit/db836fa8) Prepare for release v0.8.0-rc.1 (#45)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/db-client-go/releases/tag/v0.8.0-rc.1)

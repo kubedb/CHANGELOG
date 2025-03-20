@@ -159,6 +159,16 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.14.0-rc.1)
+
+- [f23ef219](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/f23ef219) Prepare for release v0.14.0-rc.1 (#48)
+- [d5b6acbe](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/d5b6acbe) Prepare for release v0.13.0 (#47)
+- [feff5cc7](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/feff5cc7) Use Go 1.24 (#46)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.16.0-rc.1)

@@ -24,6 +24,24 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.24.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.24.0-rc.1)
+
+- [9f2b6c69](https://github.com/kubedb/kafka/commit/9f2b6c69) Prepare for release v0.24.0-rc.1 (#146)
+- [e8195ac4](https://github.com/kubedb/kafka/commit/e8195ac4) Update webhook dependency (#145)
+- [1714ea67](https://github.com/kubedb/kafka/commit/1714ea67) Add Kafka Operator Shading Support (#144)
+- [a5d76b95](https://github.com/kubedb/kafka/commit/a5d76b95) Setup new webhook style; Update to k8s v1.32 (#143)
+- [bb875226](https://github.com/kubedb/kafka/commit/bb875226) Install ace-user-roles; Run tests twice a week (#142)
+- [5760f6ef](https://github.com/kubedb/kafka/commit/5760f6ef) Prepare for release v0.23.0 (#141)
+- [cecd7700](https://github.com/kubedb/kafka/commit/cecd7700) Test against k8s 1.32 (#140)
+- [77970b06](https://github.com/kubedb/kafka/commit/77970b06) Use Go 1.24 (#139)
+- [e63d1571](https://github.com/kubedb/kafka/commit/e63d1571) Report namespace info with billing event (#138)
+- [256409b5](https://github.com/kubedb/kafka/commit/256409b5) Show the reason for not satifying license restriction (#137)
+- [5d530b62](https://github.com/kubedb/kafka/commit/5d530b62) Use testrig
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.16.0-rc.1)

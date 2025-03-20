@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T04:49:21.440334139Z",
+  "release_date": "2025-03-20T04:49:31.508010264Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -38,6 +38,60 @@
             {
               "SHA": "ca0ff72d",
               "Subject": "Prepare for release v0.8.0-rc.1 (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9f2b6c69",
+              "Subject": "Prepare for release v0.24.0-rc.1 (#146)"
+            },
+            {
+              "SHA": "e8195ac4",
+              "Subject": "Update webhook dependency (#145)"
+            },
+            {
+              "SHA": "1714ea67",
+              "Subject": "Add Kafka Operator Shading Support (#144)"
+            },
+            {
+              "SHA": "a5d76b95",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#143)"
+            },
+            {
+              "SHA": "bb875226",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#142)"
+            },
+            {
+              "SHA": "5760f6ef",
+              "Subject": "Prepare for release v0.23.0 (#141)"
+            },
+            {
+              "SHA": "cecd7700",
+              "Subject": "Test against k8s 1.32 (#140)"
+            },
+            {
+              "SHA": "77970b06",
+              "Subject": "Use Go 1.24 (#139)"
+            },
+            {
+              "SHA": "e63d1571",
+              "Subject": "Report namespace info with billing event (#138)"
+            },
+            {
+              "SHA": "256409b5",
+              "Subject": "Show the reason for not satifying license restriction (#137)"
+            },
+            {
+              "SHA": "5d530b62",
+              "Subject": "Use testrig"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T05:17:11.396819747Z",
+  "release_date": "2025-03-20T05:17:48.471609011Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -430,6 +430,20 @@
             {
               "SHA": "d2e1774a",
               "Subject": "Prepare for release v0.8.0-rc.1 (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9798e329",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#73)"
             }
           ]
         }

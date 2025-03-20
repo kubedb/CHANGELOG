@@ -203,6 +203,14 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.8.0-rc.1)
+
+- [9798e329](https://github.com/kubedb/mssqlserver/commit/9798e329) Prepare for release v0.8.0-rc.1 (#73)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.7.0-rc.1)

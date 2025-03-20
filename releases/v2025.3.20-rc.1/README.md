@@ -253,6 +253,16 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.14.0-rc.1)
+
+- [1215a3d1](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/1215a3d1) Prepare for release v0.14.0-rc.1 (#44)
+- [1511498e](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/1511498e) Prepare for release v0.13.0 (#43)
+- [d1c7f1b1](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/d1c7f1b1) Use Go 1.24 (#42)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.16.0-rc.1)

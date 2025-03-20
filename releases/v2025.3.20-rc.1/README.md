@@ -24,6 +24,15 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/crd-manager/releases/tag/v0.8.0-rc.1)
+
+- [e5b58c7d](https://github.com/kubedb/crd-manager/commit/e5b58c7d) Prepare for release v0.8.0-rc.1 (#69)
+- [e3384a94](https://github.com/kubedb/crd-manager/commit/e3384a94) Add gitops CRDs (#70)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.11.0-rc.1)

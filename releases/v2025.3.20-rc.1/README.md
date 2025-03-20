@@ -125,6 +125,16 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.16.0-rc.1)
+
+- [a1a92a6](https://github.com/kubedb/mysql-restic-plugin/commit/a1a92a6) Prepare for release v0.16.0-rc.1 (#71)
+- [a19fa28](https://github.com/kubedb/mysql-restic-plugin/commit/a19fa28) Prepare for release v0.15.0 (#70)
+- [78dcba1](https://github.com/kubedb/mysql-restic-plugin/commit/78dcba1) Use Go 1.24 (#69)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.31.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.31.0-rc.1)

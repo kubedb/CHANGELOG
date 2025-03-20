@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T05:00:49.441708267Z",
+  "release_date": "2025-03-20T05:06:34.804503546Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -206,6 +206,32 @@
             {
               "SHA": "ea393fb4",
               "Subject": "Prepare for release v0.13.0-rc.1 (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.1",
+          "commits": [
+            {
+              "SHA": "fe289242",
+              "Subject": "Prepare for release v0.33.0-rc.1 (#140)"
+            },
+            {
+              "SHA": "a19d30bf",
+              "Subject": "Add Support for MariaDB Replication (#134)"
+            },
+            {
+              "SHA": "24eeb621",
+              "Subject": "Prepare for release v0.32.0 (#139)"
+            },
+            {
+              "SHA": "a8c8f873",
+              "Subject": "Use Go 1.24 (#138)"
             }
           ]
         }

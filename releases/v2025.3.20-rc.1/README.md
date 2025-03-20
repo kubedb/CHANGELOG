@@ -102,6 +102,17 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.33.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.33.0-rc.1)
+
+- [fe289242](https://github.com/kubedb/mariadb-coordinator/commit/fe289242) Prepare for release v0.33.0-rc.1 (#140)
+- [a19d30bf](https://github.com/kubedb/mariadb-coordinator/commit/a19d30bf) Add Support for MariaDB Replication (#134)
+- [24eeb621](https://github.com/kubedb/mariadb-coordinator/commit/24eeb621) Prepare for release v0.32.0 (#139)
+- [a8c8f873](https://github.com/kubedb/mariadb-coordinator/commit/a8c8f873) Use Go 1.24 (#138)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.11.0-rc.1)

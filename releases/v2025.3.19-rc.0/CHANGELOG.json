@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-20T02:08:03.656786367Z",
+  "release_date": "2025-03-20T02:31:12.776828369Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -1187,6 +1187,64 @@
             {
               "SHA": "a2fe345e3",
               "Subject": "Run e2e tests on testrig (#791)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.0",
+          "commits": [
+            {
+              "SHA": "12932712e",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#388)"
+            },
+            {
+              "SHA": "ca0c5be1c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f20352b2e",
+              "Subject": "Restructure admission webhook (#387)"
+            },
+            {
+              "SHA": "d39f73d59",
+              "Subject": "Add Operator Sharding Support (#385)"
+            },
+            {
+              "SHA": "37380c51e",
+              "Subject": "Update to k8s v32 (#384)"
+            },
+            {
+              "SHA": "27edacd70",
+              "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#382)"
+            },
+            {
+              "SHA": "e6ae715fe",
+              "Subject": "Install ace-user-roles; Run tests twice a week;Don't ins all CRDs (#381)"
+            },
+            {
+              "SHA": "6db7137fe",
+              "Subject": "Prepare for release v0.39.0 (#380)"
+            },
+            {
+              "SHA": "dab8c50c5",
+              "Subject": "Test against k8s 1.32 (#379)"
+            },
+            {
+              "SHA": "3830a15e5",
+              "Subject": "Use Go 1.24 (#378)"
+            },
+            {
+              "SHA": "3328ea01d",
+              "Subject": "Report namespace info with billing event (#377)"
+            },
+            {
+              "SHA": "d8f61f127",
+              "Subject": "Show the reason for not satifying license restriction (#376)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T06:48:52.066069055Z",
+  "release_date": "2025-03-20T07:03:53.344452118Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -618,6 +618,60 @@
         {
           "tag": "v0.31.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.39.0-rc.1",
+          "commits": [
+            {
+              "SHA": "2933d1cef",
+              "Subject": "Prepare for release v0.39.0-rc.1 (#719)"
+            },
+            {
+              "SHA": "ce00c9392",
+              "Subject": "Move all ops valiadators to apimachinery (#718)"
+            },
+            {
+              "SHA": "9a963c896",
+              "Subject": "Update db machineProfiles from ops annotation (#717)"
+            },
+            {
+              "SHA": "a28a1df8f",
+              "Subject": "FerretDB replication support (#716)"
+            },
+            {
+              "SHA": "416df7a57",
+              "Subject": "Add MariaDB Replication Support (#706)"
+            },
+            {
+              "SHA": "c9f66bffd",
+              "Subject": "Update to k8s v0.32 (#715)"
+            },
+            {
+              "SHA": "491e4de03",
+              "Subject": "Fix existing rotateauth getting getting ignored when TLS enabled (#713)"
+            },
+            {
+              "SHA": "429376f16",
+              "Subject": "Prepare for release v0.39.0 (#712)"
+            },
+            {
+              "SHA": "2db83b1f7",
+              "Subject": "Add PgOps ReconnectStandby, ForceFailover, SetRaftKeyPair (#709)"
+            },
+            {
+              "SHA": "d2921d296",
+              "Subject": "Test against k8s 1.32 (#711)"
+            },
+            {
+              "SHA": "3c5e484be",
+              "Subject": "Use Go 1.24 (#710)"
+            }
+          ]
         }
       ]
     },

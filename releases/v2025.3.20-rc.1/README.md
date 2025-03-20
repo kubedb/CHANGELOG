@@ -304,6 +304,24 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.39.0-rc.1](https://github.com/kubedb/ops-manager/releases/tag/v0.39.0-rc.1)
+
+- [2933d1ce](https://github.com/kubedb/ops-manager/commit/2933d1cef) Prepare for release v0.39.0-rc.1 (#719)
+- [ce00c939](https://github.com/kubedb/ops-manager/commit/ce00c9392) Move all ops valiadators to apimachinery (#718)
+- [9a963c89](https://github.com/kubedb/ops-manager/commit/9a963c896) Update db machineProfiles from ops annotation (#717)
+- [a28a1df8](https://github.com/kubedb/ops-manager/commit/a28a1df8f) FerretDB replication support (#716)
+- [416df7a5](https://github.com/kubedb/ops-manager/commit/416df7a57) Add MariaDB Replication Support (#706)
+- [c9f66bff](https://github.com/kubedb/ops-manager/commit/c9f66bffd) Update to k8s v0.32 (#715)
+- [491e4de0](https://github.com/kubedb/ops-manager/commit/491e4de03) Fix existing rotateauth getting getting ignored when TLS enabled (#713)
+- [429376f1](https://github.com/kubedb/ops-manager/commit/429376f16) Prepare for release v0.39.0 (#712)
+- [2db83b1f](https://github.com/kubedb/ops-manager/commit/2db83b1f7) Add PgOps ReconnectStandby, ForceFailover, SetRaftKeyPair (#709)
+- [d2921d29](https://github.com/kubedb/ops-manager/commit/d2921d296) Test against k8s 1.32 (#711)
+- [3c5e484b](https://github.com/kubedb/ops-manager/commit/3c5e484be) Use Go 1.24 (#710)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.40.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.40.0-rc.1)

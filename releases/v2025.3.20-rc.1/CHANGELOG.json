@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T06:39:56.327987146Z",
+  "release_date": "2025-03-20T06:41:09.999997023Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -969,6 +969,20 @@
             {
               "SHA": "b42c020d",
               "Subject": "Use Go 1.24 (#288)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b7094850",
+              "Subject": "Prepare for release v0.29.0-rc.1 (#136)"
             }
           ]
         }

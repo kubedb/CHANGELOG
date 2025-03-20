@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-20T01:55:06.321571268Z",
+  "release_date": "2025-03-20T02:08:03.656786367Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -1459,6 +1459,15 @@
               "Subject": "Update workflow and license restriction log (#69)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": null
         }
       ]
     },

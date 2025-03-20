@@ -16,6 +16,13 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.7.0-rc.1](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.7.0-rc.1)
+
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.14.0-rc.1](https://github.com/kubedb/provider-gcp/releases/tag/v0.14.0-rc.1)

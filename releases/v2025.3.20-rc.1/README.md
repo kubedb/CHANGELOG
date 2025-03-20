@@ -363,6 +363,16 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.14.0-rc.1)
+
+- [c910645a](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/c910645a) Prepare for release v0.14.0-rc.1 (#54)
+- [63ba8c91](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/63ba8c91) Prepare for release v0.13.0 (#53)
+- [c4b928f2](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/c4b928f2) Use Go 1.24 (#52)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.16.0-rc.1)

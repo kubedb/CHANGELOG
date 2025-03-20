@@ -176,6 +176,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.46.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.46.0-rc.1)
+
+- [ca7ab019](https://github.com/kubedb/memcached/commit/ca7ab0190) Prepare for release v0.46.0-rc.1 (#494)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.46.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.46.0-rc.1)

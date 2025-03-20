@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T05:25:32.084256434Z",
+  "release_date": "2025-03-20T05:26:47.465597242Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -376,6 +376,20 @@
             {
               "SHA": "d525ec1",
               "Subject": "Prepare for release v0.11.0-rc.1 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.1",
+          "commits": [
+            {
+              "SHA": "ca7ab0190",
+              "Subject": "Prepare for release v0.46.0-rc.1 (#494)"
             }
           ]
         }

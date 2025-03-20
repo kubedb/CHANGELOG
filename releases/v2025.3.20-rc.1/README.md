@@ -46,3 +46,11 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.8.0-rc.1)
+
+- [821d775](https://github.com/kubedb/singlestore-coordinator/commit/821d775) Prepare for release v0.8.0-rc.1 (#40)
+
+
+

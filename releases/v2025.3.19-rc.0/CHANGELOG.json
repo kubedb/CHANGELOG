@@ -1,0 +1,1660 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.3.19-rc.0",
+  "release_date": "2025-03-20T02:31:56.016164623Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c1c97c5d7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "e7fb1125f",
+              "Subject": "Move & convert oldDB validators to new-webhook signature (#1428)"
+            },
+            {
+              "SHA": "d82a3f17c",
+              "Subject": "Register cassandra autoscaler types"
+            },
+            {
+              "SHA": "4d0febcc5",
+              "Subject": "Rename SecretSource -> SecretStore"
+            },
+            {
+              "SHA": "f80d5dc74",
+              "Subject": "Move webhooks folder inside pkg"
+            },
+            {
+              "SHA": "5e31d6825",
+              "Subject": "update ferretdb autoscaler api (#1427)"
+            },
+            {
+              "SHA": "5d295e374",
+              "Subject": "Move & convert opsRequest validator files to new webhook style (#1425)"
+            },
+            {
+              "SHA": "051711da2",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "70c28b34c",
+              "Subject": "Update autoscaler webhooks (#1424)"
+            },
+            {
+              "SHA": "a9caf6acf",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "999c0b803",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "ee5186618",
+              "Subject": "Fix build (#1423)"
+            },
+            {
+              "SHA": "28f8a1d6d",
+              "Subject": "Add FerretDB replication support (#1420)"
+            },
+            {
+              "SHA": "4fcb10d1c",
+              "Subject": "Integrate virtual-secret in `authSecret` (#1414)"
+            },
+            {
+              "SHA": "7b3b2d57a",
+              "Subject": "Remove defaultclient from kafka api group (#1419)"
+            },
+            {
+              "SHA": "3b730ac81",
+              "Subject": "Add Engine-type in Redis-Version to distinguish valkey version (#1410)"
+            },
+            {
+              "SHA": "f5d0d929f",
+              "Subject": "Fix ChangeRequest Status type (#1411)"
+            },
+            {
+              "SHA": "9493bd16d",
+              "Subject": "Update schema manager to new webhook style (#1421)"
+            },
+            {
+              "SHA": "dc851d6fb",
+              "Subject": "Increate MSSQL CPU Request (#1412)"
+            },
+            {
+              "SHA": "38bb7a72c",
+              "Subject": "Add Operator Sharding Support (#1415)"
+            },
+            {
+              "SHA": "5db581f54",
+              "Subject": "Use k8s 1.32 client libs (#1405)"
+            },
+            {
+              "SHA": "64f266165",
+              "Subject": "Set securityContext for exporter containers (#1418)"
+            },
+            {
+              "SHA": "8673786aa",
+              "Subject": "Add IsCluster inside Replication (#1416)"
+            },
+            {
+              "SHA": "d57315cdf",
+              "Subject": "Add regex to kubedb object names (#1417)"
+            },
+            {
+              "SHA": "c3871c5de",
+              "Subject": "Test against k8s 1.32 (#1409)"
+            },
+            {
+              "SHA": "5065873e2",
+              "Subject": "Test against k8s 1.32 (#1407)"
+            },
+            {
+              "SHA": "93b6bea8a",
+              "Subject": "Fix CI (#1408)"
+            },
+            {
+              "SHA": "d685cb862",
+              "Subject": "Add gitops apis (#1406)"
+            },
+            {
+              "SHA": "a75252a4e",
+              "Subject": "Add PostgresOpsRequest ReconnectStandby, ForceFailover, SetRaftKeyPair (#1404)"
+            },
+            {
+              "SHA": "75a4e2b5a",
+              "Subject": "Test against k8s 1.32 (#1403)"
+            },
+            {
+              "SHA": "d38a170fe",
+              "Subject": "Use Go 1.24 (#1401)"
+            },
+            {
+              "SHA": "6d24fef28",
+              "Subject": "Use Go 1.24 (#1400)"
+            },
+            {
+              "SHA": "bd6cc66bd",
+              "Subject": "Defaulting DB namespace to init archiver fields (#1399)"
+            },
+            {
+              "SHA": "39cd66e47",
+              "Subject": "Fix druid security context issue (#1396)"
+            },
+            {
+              "SHA": "471390290",
+              "Subject": "Defaulting internal zookeper (#1398)"
+            },
+            {
+              "SHA": "2f6d49a92",
+              "Subject": "security-context for pgbouncer (#1339)"
+            },
+            {
+              "SHA": "60581b73b",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b51e119e3",
+              "Subject": "make some defaulting funcs public (#1395)"
+            },
+            {
+              "SHA": "00ea2f07f",
+              "Subject": "Update for release KubeStash@v2025.2.10 (#1397)"
+            },
+            {
+              "SHA": "023d2f628",
+              "Subject": "Update security context defaulting for solr (#1394)"
+            },
+            {
+              "SHA": "3a00131dd",
+              "Subject": "Update Kafka Default Resource to Memory Intensive (#1393)"
+            },
+            {
+              "SHA": "1b380ea04",
+              "Subject": "Seperate up the connectOptions for gw & inCluster (#1391)"
+            },
+            {
+              "SHA": "7f58d0390",
+              "Subject": "Return the reason for not allowing license restrictions (#1392)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "47f7e4fe",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "458feaa9",
+              "Subject": "Update webhook path (#28)"
+            },
+            {
+              "SHA": "b592f3d3",
+              "Subject": "Install ace-user-roles and Add Operator Sharding (#25)"
+            },
+            {
+              "SHA": "a931ee8b",
+              "Subject": "Update to k8s v1.32 (#27)"
+            },
+            {
+              "SHA": "f8c20588",
+              "Subject": "Prepare for release v0.5.0 (#24)"
+            },
+            {
+              "SHA": "d8682ce7",
+              "Subject": "Test against k8s 1.32 (#23)"
+            },
+            {
+              "SHA": "1683194c",
+              "Subject": "Use Go 1.24 (#22)"
+            },
+            {
+              "SHA": "5a9efd1a",
+              "Subject": "Merge pull request #21 from kubedb/ns"
+            },
+            {
+              "SHA": "89c1e37c",
+              "Subject": "Report namespace info with billing event"
+            },
+            {
+              "SHA": "5d389517",
+              "Subject": "Update license log & e2e machine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6a2800b19",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#792)"
+            },
+            {
+              "SHA": "9b59b8bcb",
+              "Subject": "Prepare for release v0.52.0 (#791)"
+            },
+            {
+              "SHA": "71231655f",
+              "Subject": "Use Go 1.24 (#790)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e58549bc",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#43)"
+            },
+            {
+              "SHA": "3f65aac1",
+              "Subject": "update webhook path (#42)"
+            },
+            {
+              "SHA": "ad3d79cf",
+              "Subject": "Add Operator Sharding Support (#41)"
+            },
+            {
+              "SHA": "205feb39",
+              "Subject": "Update to k8s v32 (#40)"
+            },
+            {
+              "SHA": "d05435b4",
+              "Subject": "Prepare for release v0.7.0 (#38)"
+            },
+            {
+              "SHA": "e58da497",
+              "Subject": "Test against k8s 1.32 (#37)"
+            },
+            {
+              "SHA": "add88aa4",
+              "Subject": "Use Go 1.24 (#36)"
+            },
+            {
+              "SHA": "11003b23",
+              "Subject": "Report namespace info with billing event (#35)"
+            },
+            {
+              "SHA": "5f69479d",
+              "Subject": "Show the reason for not satifying license restriction (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f6bf57e7",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "235b872d",
+              "Subject": "Update to k8s v0.32 (#67)"
+            },
+            {
+              "SHA": "665eda53",
+              "Subject": "Prepare for release v0.7.0 (#66)"
+            },
+            {
+              "SHA": "66947bf4",
+              "Subject": "Use Go 1.24 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0-rc.0",
+          "commits": [
+            {
+              "SHA": "bdd5aa5",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#35)"
+            },
+            {
+              "SHA": "cff8f60",
+              "Subject": "Prepare for release v0.10.0 (#34)"
+            },
+            {
+              "SHA": "d357bdc",
+              "Subject": "Use Go 1.24 (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2beb4691",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#167)"
+            },
+            {
+              "SHA": "214a0339",
+              "Subject": "Remove decoding of data (#166)"
+            },
+            {
+              "SHA": "0303ed1c",
+              "Subject": "Updates for integrating `Virtual-Secrets` (#165)"
+            },
+            {
+              "SHA": "056c3ddf",
+              "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#164)"
+            },
+            {
+              "SHA": "b3fa7654",
+              "Subject": "Prepare for release v0.7.0 (#163)"
+            },
+            {
+              "SHA": "993a561c",
+              "Subject": "Add method to get shard information for ES (#160)"
+            },
+            {
+              "SHA": "3fa565a9",
+              "Subject": "Use Go 1.24 (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "bb2ae901",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#79)"
+            },
+            {
+              "SHA": "eb2421c5",
+              "Subject": "Update webhook path (#78)"
+            },
+            {
+              "SHA": "2a8160d1",
+              "Subject": "Add Operator Sharding Support (#77)"
+            },
+            {
+              "SHA": "1408db1d",
+              "Subject": "Fix webhook call"
+            },
+            {
+              "SHA": "f6b65aeb",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#76)"
+            },
+            {
+              "SHA": "8dc34f78",
+              "Subject": "Prepare for release v0.7.0 (#75)"
+            },
+            {
+              "SHA": "507e27de",
+              "Subject": "Test against k8s 1.32 (#74)"
+            },
+            {
+              "SHA": "ec664f20",
+              "Subject": "Use Go 1.24 (#73)"
+            },
+            {
+              "SHA": "bf3ae1d8",
+              "Subject": "Fix druid security context issue (#71)"
+            },
+            {
+              "SHA": "88e4905c",
+              "Subject": "Report namespace info with billing event (#72)"
+            },
+            {
+              "SHA": "4f4062b6",
+              "Subject": "Update license log & e2e machine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0884a60de",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#760)"
+            },
+            {
+              "SHA": "3790689f4",
+              "Subject": "Restructure elasticsearch webhook (#759)"
+            },
+            {
+              "SHA": "bc877df46",
+              "Subject": "Add operator sharding for Elasticsearch (#758)"
+            },
+            {
+              "SHA": "b8937d5b2",
+              "Subject": "Webhook changes for k8s 1.32 (#757)"
+            },
+            {
+              "SHA": "01aa7b63f",
+              "Subject": "Prepare for release v0.52.0 (#756)"
+            },
+            {
+              "SHA": "0ce1d5a23",
+              "Subject": "Test against k8s 1.32 (#755)"
+            },
+            {
+              "SHA": "a5a3c2576",
+              "Subject": "Use Go 1.24 (#754)"
+            },
+            {
+              "SHA": "2600d5bd5",
+              "Subject": "Report namespace info with billing event (#753)"
+            },
+            {
+              "SHA": "19980821a",
+              "Subject": "Update license restriction log (#752)"
+            },
+            {
+              "SHA": "19ea3a942",
+              "Subject": "Use testrig"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "178a987c",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "aa8bb0a9",
+              "Subject": "Fix backend init scripts and labels-selectors (#67)"
+            },
+            {
+              "SHA": "9a5064dc",
+              "Subject": "Add FerretDB replication support (#66)"
+            },
+            {
+              "SHA": "6b72cb54",
+              "Subject": "Fix security context for backend pg and add operator sharding (#60)"
+            },
+            {
+              "SHA": "cfd63de6",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#65)"
+            },
+            {
+              "SHA": "175f1523",
+              "Subject": "Prepare for release v0.7.0 (#64)"
+            },
+            {
+              "SHA": "15975b72",
+              "Subject": "Test against k8s 1.32 (#63)"
+            },
+            {
+              "SHA": "4e2c27ee",
+              "Subject": "Use Go 1.24 (#62)"
+            },
+            {
+              "SHA": "2b50a0d6",
+              "Subject": "Report namespace info with billing event (#61)"
+            },
+            {
+              "SHA": "98674271",
+              "Subject": "Update license log & e2e machine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "643d32d5",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#8)"
+            },
+            {
+              "SHA": "79c495f8",
+              "Subject": "Add Initial Setup for Dbs (#6)"
+            },
+            {
+              "SHA": "466aad87",
+              "Subject": "Use firecracker runners for ci"
+            },
+            {
+              "SHA": "741059fa",
+              "Subject": "Add license header"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "027a3bd0",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#146)"
+            },
+            {
+              "SHA": "10a89f00",
+              "Subject": "Fix dependency for kibana (#145)"
+            },
+            {
+              "SHA": "a9c6e233",
+              "Subject": "Add operator sharding support for kibana (#144)"
+            },
+            {
+              "SHA": "71b978a9",
+              "Subject": "Webhook changes for k8s 1.32 (#143)"
+            },
+            {
+              "SHA": "59eca516",
+              "Subject": "Prepare for release v0.28.0 (#142)"
+            },
+            {
+              "SHA": "57b32ae0",
+              "Subject": "Use Go 1.24 (#141)"
+            },
+            {
+              "SHA": "87fce12a",
+              "Subject": "Report namespace info with billing event (#140)"
+            },
+            {
+              "SHA": "07ce140e",
+              "Subject": "Update license restriction log (#139)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8b3a5e6",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "1033b54",
+              "Subject": "Prepare for release v0.3.0 (#14)"
+            },
+            {
+              "SHA": "7a08962",
+              "Subject": "Use Go 1.24 (#13)"
+            },
+            {
+              "SHA": "1e55a38",
+              "Subject": "Disable image caching in setup-qemu action (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a7e37d89",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "70edd7d5",
+              "Subject": "Prepare for release v0.12.0 (#44)"
+            },
+            {
+              "SHA": "fabf49b0",
+              "Subject": "Use Go 1.24 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6d1a6a2e",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#43)"
+            },
+            {
+              "SHA": "616f2134",
+              "Subject": "Prepare for release v0.12.0 (#42)"
+            },
+            {
+              "SHA": "1c16b342",
+              "Subject": "Use Go 1.24 (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0-rc.0",
+          "commits": [
+            {
+              "SHA": "bc5977d",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#42)"
+            },
+            {
+              "SHA": "1f77e53",
+              "Subject": "Prepare for release v0.10.0 (#41)"
+            },
+            {
+              "SHA": "d567f5f",
+              "Subject": "Use Go 1.24 (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b5ddb698e",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#493)"
+            },
+            {
+              "SHA": "816d7472e",
+              "Subject": "Restructure admission webhook (#492)"
+            },
+            {
+              "SHA": "5ee33f9c3",
+              "Subject": "Add operator sharding support; Update ci & makefile (#490)"
+            },
+            {
+              "SHA": "93a42e718",
+              "Subject": "Update to k8s v32 (#491)"
+            },
+            {
+              "SHA": "d0bf662b4",
+              "Subject": "Prepare for release v0.45.0 (#489)"
+            },
+            {
+              "SHA": "dc8343bce",
+              "Subject": "Test against k8s 1.32 (#488)"
+            },
+            {
+              "SHA": "273994640",
+              "Subject": "Use Go 1.24 (#487)"
+            },
+            {
+              "SHA": "5757ac2ca",
+              "Subject": "Report namespace info with billing event (#486)"
+            },
+            {
+              "SHA": "ae26c91e7",
+              "Subject": "Run e2e Tests on testrig & show the reason for not satisfying license restriction (#485)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d81d312a8",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#697)"
+            },
+            {
+              "SHA": "ce969181d",
+              "Subject": "Restructure admission webhook (#696)"
+            },
+            {
+              "SHA": "ce4b97c87",
+              "Subject": "Implement operator-sharding; Add IRSA annotation in sideick (#694)"
+            },
+            {
+              "SHA": "68a81a756",
+              "Subject": "Update to k8s v32 (#692)"
+            },
+            {
+              "SHA": "f9fe924e7",
+              "Subject": "Merge pull request #690 from kubedb/mongo-ci-fix"
+            },
+            {
+              "SHA": "77483bab5",
+              "Subject": "change manual trigger, default case"
+            },
+            {
+              "SHA": "ae1291b1b",
+              "Subject": "add dropdown options to input sections"
+            },
+            {
+              "SHA": "6a0a313a9",
+              "Subject": "check after matrix profile remove"
+            },
+            {
+              "SHA": "e80ca10f7",
+              "Subject": "review changes done"
+            },
+            {
+              "SHA": "3c14acc97",
+              "Subject": "separate dynamic profiles"
+            },
+            {
+              "SHA": "2aa206d8b",
+              "Subject": "nhasdg"
+            },
+            {
+              "SHA": "30555b400",
+              "Subject": "fix checkout repo"
+            },
+            {
+              "SHA": "0374303ae",
+              "Subject": "checkout from test to working repo"
+            },
+            {
+              "SHA": "47616663a",
+              "Subject": "add db_mode"
+            },
+            {
+              "SHA": "5a261d5bf",
+              "Subject": "wip"
+            },
+            {
+              "SHA": "fad5ac51d",
+              "Subject": "Set default resources on the walg container"
+            },
+            {
+              "SHA": "5d6bedb47",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#691)"
+            },
+            {
+              "SHA": "7d7c28790",
+              "Subject": "Prepare for release v0.45.0 (#689)"
+            },
+            {
+              "SHA": "4009564ef",
+              "Subject": "Test against k8s 1.32 (#688)"
+            },
+            {
+              "SHA": "b0f421864",
+              "Subject": "Use Go 1.24 (#687)"
+            },
+            {
+              "SHA": "f8093b115",
+              "Subject": "Create super user before oplog-restore (#686)"
+            },
+            {
+              "SHA": "12d97bb19",
+              "Subject": "Report namespace info with billing event (#685)"
+            },
+            {
+              "SHA": "82d112ae2",
+              "Subject": "Show the reason for not satifying license restriction (#684)"
+            },
+            {
+              "SHA": "03e6623d6",
+              "Subject": "Use testrig"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cbb75c6a",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#32)"
+            },
+            {
+              "SHA": "1d9c6500",
+              "Subject": "Prepare for release v0.7.0 (#31)"
+            },
+            {
+              "SHA": "374ddac6",
+              "Subject": "Use Go 1.24 (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e499126b",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "cc54e87d",
+              "Subject": "Update deps (#71)"
+            },
+            {
+              "SHA": "de2304b7",
+              "Subject": "Add Operator Sharding Support; Add IRSA annotation in Sidekick (#70)"
+            },
+            {
+              "SHA": "4bf06b68",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#69)"
+            },
+            {
+              "SHA": "04686b68",
+              "Subject": "Don't PublishNotReadyAddresses for non Headless services (#68)"
+            },
+            {
+              "SHA": "b9da2f24",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#67)"
+            },
+            {
+              "SHA": "b9d4c52b",
+              "Subject": "Set default resources on the walg container"
+            },
+            {
+              "SHA": "74c75813",
+              "Subject": "Prepare for release v0.7.0 (#66)"
+            },
+            {
+              "SHA": "b2681864",
+              "Subject": "Test against k8s 1.32 (#65)"
+            },
+            {
+              "SHA": "5d060a01",
+              "Subject": "Use Go 1.24 (#64)"
+            },
+            {
+              "SHA": "82fa1293",
+              "Subject": "Report namespace info with billing event (#63)"
+            },
+            {
+              "SHA": "dde24b69",
+              "Subject": "Add daily.yml for running e2e tests daily (#62)"
+            },
+            {
+              "SHA": "fb508368",
+              "Subject": "Show the reason for not satifying license restriction (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "dd513fd",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "dc3364c",
+              "Subject": "Use Go 1.24 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2d7f303",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#21)"
+            },
+            {
+              "SHA": "4b98360",
+              "Subject": "Prepare for release v0.6.0 (#20)"
+            },
+            {
+              "SHA": "ca44e86",
+              "Subject": "Use Go 1.24 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "aa15539f5",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#677)"
+            },
+            {
+              "SHA": "7e9aa0564",
+              "Subject": "Restructure admission webhook (#676)"
+            },
+            {
+              "SHA": "04e0c7f07",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#674)"
+            },
+            {
+              "SHA": "d107c3614",
+              "Subject": "Update to k8s v32 (#675)"
+            },
+            {
+              "SHA": "8f36148eb",
+              "Subject": "Lower Sidekick Default Resource (#673)"
+            },
+            {
+              "SHA": "7cb701700",
+              "Subject": "Prepare for release v0.45.0 (#672)"
+            },
+            {
+              "SHA": "78f18ebc2",
+              "Subject": "Test against k8s 1.32 (#671)"
+            },
+            {
+              "SHA": "7b8439cf1",
+              "Subject": "Use Go 1.24 (#670)"
+            },
+            {
+              "SHA": "c7c9ffec3",
+              "Subject": "Report namespace info with billing event (#669)"
+            },
+            {
+              "SHA": "1db638462",
+              "Subject": "Show the reason for not satifying license restriction (#668)"
+            },
+            {
+              "SHA": "8c49a6eae",
+              "Subject": "Use testrig"
+            },
+            {
+              "SHA": "2cd44d411",
+              "Subject": "Fix license restriction (#667)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8750fb07",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#138)"
+            },
+            {
+              "SHA": "026cf350",
+              "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#137)"
+            },
+            {
+              "SHA": "f00b8511",
+              "Subject": "Prepare for release v0.30.0 (#136)"
+            },
+            {
+              "SHA": "1611bdf9",
+              "Subject": "Use Go 1.24 (#135)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a41de94",
+              "Subject": "Use Go 1.24 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.0",
+          "commits": [
+            {
+              "SHA": "eb30f5ef",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#367)"
+            },
+            {
+              "SHA": "60375a15",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "39fe5cea",
+              "Subject": "Restructure admission webhook (#366)"
+            },
+            {
+              "SHA": "5d7615b6",
+              "Subject": "Install ace-user-roles; Run tests twice a week & operator sharding (#364)"
+            },
+            {
+              "SHA": "dee41bca",
+              "Subject": "Update to k8s v32 (#365)"
+            },
+            {
+              "SHA": "aca1631f",
+              "Subject": "Prepare for release v0.39.0 (#363)"
+            },
+            {
+              "SHA": "e7b8f063",
+              "Subject": "Test against k8s 1.32 (#362)"
+            },
+            {
+              "SHA": "d5c51d30",
+              "Subject": "Use Go 1.24 (#361)"
+            },
+            {
+              "SHA": "439a21ed",
+              "Subject": "Security Context & Report namespace info with billing event (#349)"
+            },
+            {
+              "SHA": "4f86b577",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license restriction (#360)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f6639b78",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#70)"
+            },
+            {
+              "SHA": "683a8a1f",
+              "Subject": "update webhook path (#69)"
+            },
+            {
+              "SHA": "f8a989de",
+              "Subject": "Implement operator-sharding; Install ace-user-roles (#67)"
+            },
+            {
+              "SHA": "6aee4ccc",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#68)"
+            },
+            {
+              "SHA": "8eb95eaf",
+              "Subject": "Prepare for release v0.7.0 (#66)"
+            },
+            {
+              "SHA": "845d2edf",
+              "Subject": "Test against k8s 1.32 (#65)"
+            },
+            {
+              "SHA": "f04be287",
+              "Subject": "Use Go 1.24 (#64)"
+            },
+            {
+              "SHA": "4c2e65b2",
+              "Subject": "Pgpool get fixed & Report namespace info with billing event (#63)"
+            },
+            {
+              "SHA": "56d97ff5",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license restriction (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d794ce54c",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#805)"
+            },
+            {
+              "SHA": "4c1923e25",
+              "Subject": "Refactor Postgres Webhook (#804)"
+            },
+            {
+              "SHA": "4d1e19894",
+              "Subject": "Integrate virtual-secret in postgres (#799)"
+            },
+            {
+              "SHA": "e22f77c42",
+              "Subject": "Update IRSA annotations (#802)"
+            },
+            {
+              "SHA": "bc42a7947",
+              "Subject": "Update Postgres With ShardConfiguration Related Changes (#800)"
+            },
+            {
+              "SHA": "aca0e41e7",
+              "Subject": "support for kubernetes v1.32.x (#801)"
+            },
+            {
+              "SHA": "3bdacec07",
+              "Subject": "Run Provisioner Tests On Monday + Friday, Fix Makefile (#797)"
+            },
+            {
+              "SHA": "a9165b828",
+              "Subject": "Lower Sidekick Default Resource (#798)"
+            },
+            {
+              "SHA": "776585018",
+              "Subject": "Prepare for release v0.52.0 (#796)"
+            },
+            {
+              "SHA": "5a24b48ed",
+              "Subject": "Test against k8s 1.32 (#795)"
+            },
+            {
+              "SHA": "ad5ada201",
+              "Subject": "Use Go 1.24 (#794)"
+            },
+            {
+              "SHA": "9fd8f70ae",
+              "Subject": "Report namespace info with billing event (#793)"
+            },
+            {
+              "SHA": "f3158b9de",
+              "Subject": "update log (#792)"
+            },
+            {
+              "SHA": "a2fe345e3",
+              "Subject": "Run e2e tests on testrig (#791)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.0",
+          "commits": [
+            {
+              "SHA": "12932712e",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#388)"
+            },
+            {
+              "SHA": "ca0c5be1c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f20352b2e",
+              "Subject": "Restructure admission webhook (#387)"
+            },
+            {
+              "SHA": "d39f73d59",
+              "Subject": "Add Operator Sharding Support (#385)"
+            },
+            {
+              "SHA": "37380c51e",
+              "Subject": "Update to k8s v32 (#384)"
+            },
+            {
+              "SHA": "27edacd70",
+              "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#382)"
+            },
+            {
+              "SHA": "e6ae715fe",
+              "Subject": "Install ace-user-roles; Run tests twice a week;Don't ins all CRDs (#381)"
+            },
+            {
+              "SHA": "6db7137fe",
+              "Subject": "Prepare for release v0.39.0 (#380)"
+            },
+            {
+              "SHA": "dab8c50c5",
+              "Subject": "Test against k8s 1.32 (#379)"
+            },
+            {
+              "SHA": "3830a15e5",
+              "Subject": "Use Go 1.24 (#378)"
+            },
+            {
+              "SHA": "3328ea01d",
+              "Subject": "Report namespace info with billing event (#377)"
+            },
+            {
+              "SHA": "d8f61f127",
+              "Subject": "Show the reason for not satifying license restriction (#376)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "271e6a67",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "b07d95d7",
+              "Subject": "Update webhook dependency (#77)"
+            },
+            {
+              "SHA": "e93d9ac2",
+              "Subject": "Add Operator Sharding Support For RabbitMQ (#75)"
+            },
+            {
+              "SHA": "a5da5f57",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#76)"
+            },
+            {
+              "SHA": "ebf4ee3c",
+              "Subject": "Prepare for release v0.7.0 (#73)"
+            },
+            {
+              "SHA": "eff526ac",
+              "Subject": "Test against k8s 1.32 (#72)"
+            },
+            {
+              "SHA": "3c10a317",
+              "Subject": "Use Go 1.24 (#71)"
+            },
+            {
+              "SHA": "a4bbf73b",
+              "Subject": "Report namespace info with billing event (#70)"
+            },
+            {
+              "SHA": "3f881093",
+              "Subject": "Run e2e Tests on testrig & show the reason for not satisfying license… (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "abbcc8962",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#588)"
+            },
+            {
+              "SHA": "7f66d703b",
+              "Subject": "Restructure admission webhook (#587)"
+            },
+            {
+              "SHA": "5bcfeff71",
+              "Subject": "Add Operator Sharding Support (#586)"
+            },
+            {
+              "SHA": "03f9ebd54",
+              "Subject": "Update to k8s v32 (#585)"
+            },
+            {
+              "SHA": "b5a67c907",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#583)"
+            },
+            {
+              "SHA": "1bd0ce8ed",
+              "Subject": "Prepare for release v0.45.0 (#582)"
+            },
+            {
+              "SHA": "6bceb5097",
+              "Subject": "Test against k8s 1.32 (#581)"
+            },
+            {
+              "SHA": "d09543ec0",
+              "Subject": "Use Go 1.24 (#580)"
+            },
+            {
+              "SHA": "69b304d7a",
+              "Subject": "Fix and Improve Cluster Health Check + Add Cluster Pod Role Label (#578)"
+            },
+            {
+              "SHA": "029f1ade0",
+              "Subject": "Report namespace info with billing event (#579)"
+            },
+            {
+              "SHA": "50b6b3b84",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license (#577)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "eccaede6",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "a328302c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "46d62873",
+              "Subject": "k8s 1.32 and webhook related changes (#134)"
+            },
+            {
+              "SHA": "c341b252",
+              "Subject": "Prepare for release v0.28.0 (#133)"
+            },
+            {
+              "SHA": "6e285723",
+              "Subject": "Use Go 1.24 (#132)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "78123100",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "4b4ca182",
+              "Subject": "update deps (#66)"
+            },
+            {
+              "SHA": "52126e70",
+              "Subject": "Install ace-user-roles and Add Operator Sharding (#64)"
+            },
+            {
+              "SHA": "9d9e89a6",
+              "Subject": "Update to k8s v1.32 (#65)"
+            },
+            {
+              "SHA": "2781fd58",
+              "Subject": "Prepare for release v0.7.0 (#63)"
+            },
+            {
+              "SHA": "e7c24277",
+              "Subject": "Test against k8s 1.32 (#62)"
+            },
+            {
+              "SHA": "a043af3d",
+              "Subject": "Use Go 1.24 (#61)"
+            },
+            {
+              "SHA": "d3c90016",
+              "Subject": "Report namespace info with billing event (#60)"
+            },
+            {
+              "SHA": "25728a9e",
+              "Subject": "Update license log & e2e machine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cfedcc0",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "3383f6e",
+              "Subject": "Prepare for release v0.7.0 (#38)"
+            },
+            {
+              "SHA": "3fe4c70",
+              "Subject": "Use Go 1.24 (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e939734",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "b3b6b4b",
+              "Subject": "Prepare for release v0.10.0 (#38)"
+            },
+            {
+              "SHA": "4cc4d3d",
+              "Subject": "Use Go 1.24 (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a2a12869",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "a68d5e84",
+              "Subject": "Fix dependency for webhook (#77)"
+            },
+            {
+              "SHA": "2322338c",
+              "Subject": "Add operator sharding support for solr (#76)"
+            },
+            {
+              "SHA": "792ceb13",
+              "Subject": "Webhook changes for k8s 1.32 (#75)"
+            },
+            {
+              "SHA": "3cd88780",
+              "Subject": "Prepare for release v0.7.0 (#74)"
+            },
+            {
+              "SHA": "9ae38877",
+              "Subject": "Test against k8s 1.32 (#73)"
+            },
+            {
+              "SHA": "7db0eee6",
+              "Subject": "Use Go 1.24 (#72)"
+            },
+            {
+              "SHA": "bd805cac",
+              "Subject": "Configure internal zookeeper (#71)"
+            },
+            {
+              "SHA": "32d513cd",
+              "Subject": "Update petset defaulter for security context (#70)"
+            },
+            {
+              "SHA": "b405f209",
+              "Subject": "Update workflow and license restriction log (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e26b5b6b",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "30850f54",
+              "Subject": "update webhook path (#68)"
+            },
+            {
+              "SHA": "aef92815",
+              "Subject": "add operator sharding support (#67)"
+            },
+            {
+              "SHA": "9fe3244d",
+              "Subject": "Update to k8s v1.32 (#66)"
+            },
+            {
+              "SHA": "a3a96c3b",
+              "Subject": "Prepare for release v0.7.0 (#64)"
+            },
+            {
+              "SHA": "432282ec",
+              "Subject": "Test against k8s 1.32 (#63)"
+            },
+            {
+              "SHA": "575e88a7",
+              "Subject": "Use Go 1.24 (#62)"
+            },
+            {
+              "SHA": "0a05aa4a",
+              "Subject": "Report namespace info with billing event (#61)"
+            },
+            {
+              "SHA": "0c0110cf",
+              "Subject": "Show the reason for not satifying license restriction (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "deb7075",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "e9459f4",
+              "Subject": "Prepare for release v0.8.0 (#30)"
+            },
+            {
+              "SHA": "739367c",
+              "Subject": "Use Go 1.24 (#29)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

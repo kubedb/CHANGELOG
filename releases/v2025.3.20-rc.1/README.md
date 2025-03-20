@@ -16,6 +16,16 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.16.0-rc.1)
+
+- [8dbc92d0](https://github.com/kubedb/kubedb-manifest-plugin/commit/8dbc92d0) Prepare for release v0.16.0-rc.1 (#91)
+- [01b12a7a](https://github.com/kubedb/kubedb-manifest-plugin/commit/01b12a7a) Prepare for release v0.15.0 (#90)
+- [891e1ea9](https://github.com/kubedb/kubedb-manifest-plugin/commit/891e1ea9) Use Go 1.24 (#89)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.4.0-rc.1](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.4.0-rc.1)

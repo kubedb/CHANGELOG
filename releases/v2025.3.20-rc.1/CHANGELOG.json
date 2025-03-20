@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T04:48:39.20580085Z",
+  "release_date": "2025-03-20T04:49:02.954722537Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -24,6 +24,28 @@
             {
               "SHA": "ca0ff72d",
               "Subject": "Prepare for release v0.8.0-rc.1 (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.1",
+          "commits": [
+            {
+              "SHA": "8dbc92d0",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#91)"
+            },
+            {
+              "SHA": "01b12a7a",
+              "Subject": "Prepare for release v0.15.0 (#90)"
+            },
+            {
+              "SHA": "891e1ea9",
+              "Subject": "Use Go 1.24 (#89)"
             }
           ]
         }

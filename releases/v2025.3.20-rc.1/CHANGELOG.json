@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T03:13:10.18627127Z",
+  "release_date": "2025-03-20T03:22:14.605170207Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -12,6 +12,20 @@
         {
           "tag": "v0.53.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "ca0ff72d",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#168)"
+            }
+          ]
         }
       ]
     }

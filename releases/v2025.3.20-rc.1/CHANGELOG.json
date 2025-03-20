@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T05:26:58.654044544Z",
+  "release_date": "2025-03-20T05:28:35.042926305Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -813,6 +813,20 @@
         {
           "tag": "v0.14.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "74769b6b",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#79)"
+            }
+          ]
         }
       ]
     },

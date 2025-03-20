@@ -585,6 +585,19 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.29.0-rc.1](https://github.com/kubedb/webhook-server/releases/tag/v0.29.0-rc.1)
+
+- [32299e12](https://github.com/kubedb/webhook-server/commit/32299e12) Prepare for release v0.29.0-rc.1 (#149)
+- [a18927dc](https://github.com/kubedb/webhook-server/commit/a18927dc) Remove old-db & ops-manager deps for webhooks (#148)
+- [4eab5c8e](https://github.com/kubedb/webhook-server/commit/4eab5c8e) Rewrite webhook calls; Update to k8s v32 (#147)
+- [6f2040e4](https://github.com/kubedb/webhook-server/commit/6f2040e4) Prepare for release v0.28.0 (#146)
+- [b96f329a](https://github.com/kubedb/webhook-server/commit/b96f329a) Test against k8s 1.32 (#145)
+- [5285151d](https://github.com/kubedb/webhook-server/commit/5285151d) Use Go 1.24 (#144)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.2.0-rc.1)

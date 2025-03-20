@@ -31,6 +31,14 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.53.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.53.0-rc.1)
+
+- [79de1743](https://github.com/kubedb/postgres/commit/79de17436) Prepare for release v0.53.0-rc.1 (#806)
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.14.0-rc.1](https://github.com/kubedb/provider-gcp/releases/tag/v0.14.0-rc.1)

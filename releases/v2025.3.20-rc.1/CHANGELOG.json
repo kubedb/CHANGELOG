@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T04:49:31.508010264Z",
+  "release_date": "2025-03-20T04:50:00.238268947Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -12,6 +12,20 @@
         {
           "tag": "v0.53.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.1",
+          "commits": [
+            {
+              "SHA": "3085c9cdd",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#793)"
+            }
+          ]
         }
       ]
     },

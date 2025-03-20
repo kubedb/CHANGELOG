@@ -32,6 +32,14 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.46.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.46.0-rc.1)
+
+- [6da8b44f](https://github.com/kubedb/mongodb/commit/6da8b44fd) Prepare for release v0.46.0-rc.1 (#698)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.7.0-rc.1)

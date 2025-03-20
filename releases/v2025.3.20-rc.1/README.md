@@ -16,6 +16,14 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.13.0-rc.1](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.13.0-rc.1)
+
+- [ea393fb4](https://github.com/kubedb/mariadb-archiver/commit/ea393fb4) Prepare for release v0.13.0-rc.1 (#46)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.7.0-rc.1)

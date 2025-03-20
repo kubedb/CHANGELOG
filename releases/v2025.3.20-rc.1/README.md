@@ -8,6 +8,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.37.0-rc.1](https://github.com/kubedb/autoscaler/releases/tag/v0.37.0-rc.1)
+
+- [9f61207e](https://github.com/kubedb/autoscaler/commit/9f61207e) Prepare for release v0.37.0-rc.1 (#242)
+- [02c7d33b](https://github.com/kubedb/autoscaler/commit/02c7d33b) Implement new-style webhook; Update to k8s v32 (#241)
+- [34248ff9](https://github.com/kubedb/autoscaler/commit/34248ff9) Prepare for release v0.37.0 (#240)
+- [e05a087b](https://github.com/kubedb/autoscaler/commit/e05a087b) Use Go 1.24 (#239)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/cassandra/releases/tag/v0.6.0-rc.1)

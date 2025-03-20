@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T07:03:53.344452118Z",
+  "release_date": "2025-03-20T07:12:56.226455101Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -12,6 +12,32 @@
         {
           "tag": "v0.53.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9f61207e",
+              "Subject": "Prepare for release v0.37.0-rc.1 (#242)"
+            },
+            {
+              "SHA": "02c7d33b",
+              "Subject": "Implement new-style webhook; Update to k8s v32 (#241)"
+            },
+            {
+              "SHA": "34248ff9",
+              "Subject": "Prepare for release v0.37.0 (#240)"
+            },
+            {
+              "SHA": "e05a087b",
+              "Subject": "Use Go 1.24 (#239)"
+            }
+          ]
         }
       ]
     },

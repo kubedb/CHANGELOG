@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.19-rc.0",
-  "release_date": "2025-03-20T02:31:12.776828369Z",
+  "release_date": "2025-03-20T02:31:56.016164623Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.19-rc.0",
   "kubernetes_version": "1.26+",
@@ -1075,6 +1075,56 @@
             {
               "SHA": "a41de94",
               "Subject": "Use Go 1.24 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.0",
+          "commits": [
+            {
+              "SHA": "eb30f5ef",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#367)"
+            },
+            {
+              "SHA": "60375a15",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "39fe5cea",
+              "Subject": "Restructure admission webhook (#366)"
+            },
+            {
+              "SHA": "5d7615b6",
+              "Subject": "Install ace-user-roles; Run tests twice a week & operator sharding (#364)"
+            },
+            {
+              "SHA": "dee41bca",
+              "Subject": "Update to k8s v32 (#365)"
+            },
+            {
+              "SHA": "aca1631f",
+              "Subject": "Prepare for release v0.39.0 (#363)"
+            },
+            {
+              "SHA": "e7b8f063",
+              "Subject": "Test against k8s 1.32 (#362)"
+            },
+            {
+              "SHA": "d5c51d30",
+              "Subject": "Use Go 1.24 (#361)"
+            },
+            {
+              "SHA": "439a21ed",
+              "Subject": "Security Context & Report namespace info with billing event (#349)"
+            },
+            {
+              "SHA": "4f86b577",
+              "Subject": "Run e2e tests on testrig & Show the reason for not satifying license restriction (#360)"
             }
           ]
         }

@@ -382,6 +382,23 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.40.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.40.0-rc.0)
+
+- [eb30f5ef](https://github.com/kubedb/pgbouncer/commit/eb30f5ef) Prepare for release v0.40.0-rc.0 (#367)
+- [60375a15](https://github.com/kubedb/pgbouncer/commit/60375a15) Update deps
+- [39fe5cea](https://github.com/kubedb/pgbouncer/commit/39fe5cea) Restructure admission webhook (#366)
+- [5d7615b6](https://github.com/kubedb/pgbouncer/commit/5d7615b6) Install ace-user-roles; Run tests twice a week & operator sharding (#364)
+- [dee41bca](https://github.com/kubedb/pgbouncer/commit/dee41bca) Update to k8s v32 (#365)
+- [aca1631f](https://github.com/kubedb/pgbouncer/commit/aca1631f) Prepare for release v0.39.0 (#363)
+- [e7b8f063](https://github.com/kubedb/pgbouncer/commit/e7b8f063) Test against k8s 1.32 (#362)
+- [d5c51d30](https://github.com/kubedb/pgbouncer/commit/d5c51d30) Use Go 1.24 (#361)
+- [439a21ed](https://github.com/kubedb/pgbouncer/commit/439a21ed) Security Context & Report namespace info with billing event (#349)
+- [4f86b577](https://github.com/kubedb/pgbouncer/commit/4f86b577) Run e2e tests on testrig & Show the reason for not satifying license restriction (#360)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.8.0-rc.0)

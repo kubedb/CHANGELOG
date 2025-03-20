@@ -74,6 +74,14 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/gitops/releases/tag/v0.1.0-rc.1)
+
+- [b9208aa9](https://github.com/kubedb/gitops/commit/b9208aa9) Prepare for release v0.1.0-rc.1 (#9)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.24.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.24.0-rc.1)

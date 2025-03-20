@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T19:52:04.342622321Z",
+  "release_date": "2025-03-20T21:22:59.083141426Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -124,6 +124,24 @@
             {
               "SHA": "ca0ff72d",
               "Subject": "Prepare for release v0.8.0-rc.1 (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.3.20-rc.1",
+          "commits": [
+            {
+              "SHA": "b4cc1f9f",
+              "Subject": "Prepare for release v2025.3.20-rc.1 (#755)"
+            },
+            {
+              "SHA": "143eea67",
+              "Subject": "Update docs for kubedb/webhook-server@a18927dc (#753)"
             }
           ]
         }

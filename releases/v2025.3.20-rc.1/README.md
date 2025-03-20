@@ -133,6 +133,14 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.46.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.46.0-rc.1)
+
+- [7d3e6468](https://github.com/kubedb/mysql/commit/7d3e64685) Prepare for release v0.46.0-rc.1 (#678)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.31.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.31.0-rc.1)

@@ -40,6 +40,16 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.16.0-rc.1)
+
+- [1e2569f5](https://github.com/kubedb/elasticsearch-restic-plugin/commit/1e2569f5) Prepare for release v0.16.0-rc.1 (#60)
+- [dd7dd4b8](https://github.com/kubedb/elasticsearch-restic-plugin/commit/dd7dd4b8) Prepare for release v0.15.0 (#59)
+- [9e05f686](https://github.com/kubedb/elasticsearch-restic-plugin/commit/9e05f686) Use Go 1.24 (#58)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.24.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.24.0-rc.1)

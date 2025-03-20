@@ -224,6 +224,16 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.32.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.32.0-rc.1)
+
+- [0b85ddde](https://github.com/kubedb/redis-coordinator/commit/0b85ddde) Prepare for release v0.32.0-rc.1 (#125)
+- [ad30d0f4](https://github.com/kubedb/redis-coordinator/commit/ad30d0f4) Prepare for release v0.31.0 (#123)
+- [ba9e3036](https://github.com/kubedb/redis-coordinator/commit/ba9e3036) Use Go 1.24 (#122)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.8.0-rc.1)

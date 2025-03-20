@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.20-rc.1",
-  "release_date": "2025-03-20T04:55:36.745222281Z",
+  "release_date": "2025-03-20T04:56:20.672535726Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.20-rc.1",
   "kubernetes_version": "1.26+",
@@ -439,6 +439,28 @@
         {
           "tag": "v0.14.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.32.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0b85ddde",
+              "Subject": "Prepare for release v0.32.0-rc.1 (#125)"
+            },
+            {
+              "SHA": "ad30d0f4",
+              "Subject": "Prepare for release v0.31.0 (#123)"
+            },
+            {
+              "SHA": "ba9e3036",
+              "Subject": "Use Go 1.24 (#122)"
+            }
+          ]
         }
       ]
     },

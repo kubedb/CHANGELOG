@@ -59,6 +59,22 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.8.0](https://github.com/kubedb/ferretdb/releases/tag/v0.8.0)
+
+- [58965013](https://github.com/kubedb/ferretdb/commit/58965013) Prepare for release v0.8.0 (#72)
+- [065e8623](https://github.com/kubedb/ferretdb/commit/065e8623) Update webhook setup (#71)
+- [621c6430](https://github.com/kubedb/ferretdb/commit/621c6430) Remove backend externally managed feature (#70)
+- [5e59d781](https://github.com/kubedb/ferretdb/commit/5e59d781) Prepare for release v0.8.0-rc.1 (#69)
+- [178a987c](https://github.com/kubedb/ferretdb/commit/178a987c) Prepare for release v0.8.0-rc.0 (#68)
+- [aa8bb0a9](https://github.com/kubedb/ferretdb/commit/aa8bb0a9) Fix backend init scripts and labels-selectors (#67)
+- [9a5064dc](https://github.com/kubedb/ferretdb/commit/9a5064dc) Add FerretDB replication support (#66)
+- [6b72cb54](https://github.com/kubedb/ferretdb/commit/6b72cb54) Fix security context for backend pg and add operator sharding (#60)
+- [cfd63de6](https://github.com/kubedb/ferretdb/commit/cfd63de6) Setup new webhook style; Update to k8s v1.32 (#65)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.16.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T19:50:53.575610127Z",
+  "release_date": "2025-03-24T19:59:28.116934034Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -197,6 +197,52 @@
             {
               "SHA": "056c3ddf",
               "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#164)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "58965013",
+              "Subject": "Prepare for release v0.8.0 (#72)"
+            },
+            {
+              "SHA": "065e8623",
+              "Subject": "Update webhook setup (#71)"
+            },
+            {
+              "SHA": "621c6430",
+              "Subject": "Remove backend externally managed feature (#70)"
+            },
+            {
+              "SHA": "5e59d781",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#69)"
+            },
+            {
+              "SHA": "178a987c",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "aa8bb0a9",
+              "Subject": "Fix backend init scripts and labels-selectors (#67)"
+            },
+            {
+              "SHA": "9a5064dc",
+              "Subject": "Add FerretDB replication support (#66)"
+            },
+            {
+              "SHA": "6b72cb54",
+              "Subject": "Fix security context for backend pg and add operator sharding (#60)"
+            },
+            {
+              "SHA": "cfd63de6",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#65)"
             }
           ]
         }

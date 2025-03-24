@@ -367,6 +367,19 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.8.0](https://github.com/kubedb/pgpool/releases/tag/v0.8.0)
+
+- [4faa72dd](https://github.com/kubedb/pgpool/commit/4faa72dd) Prepare for release v0.8.0 (#72)
+- [23eb8dbb](https://github.com/kubedb/pgpool/commit/23eb8dbb) Prepare for release v0.8.0-rc.1 (#71)
+- [f6639b78](https://github.com/kubedb/pgpool/commit/f6639b78) Prepare for release v0.8.0-rc.0 (#70)
+- [683a8a1f](https://github.com/kubedb/pgpool/commit/683a8a1f) update webhook path (#69)
+- [f8a989de](https://github.com/kubedb/pgpool/commit/f8a989de) Implement operator-sharding; Install ace-user-roles (#67)
+- [6aee4ccc](https://github.com/kubedb/pgpool/commit/6aee4ccc) Setup new webhook style; Update to k8s v1.32 (#68)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.53.0](https://github.com/kubedb/postgres/releases/tag/v0.53.0)

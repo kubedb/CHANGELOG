@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:11:42.048530699Z",
+  "release_date": "2025-03-24T21:12:47.986734549Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -941,6 +941,40 @@
             {
               "SHA": "20479694",
               "Subject": "Prepare for release v0.26.0-rc.1 (#93)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "4faa72dd",
+              "Subject": "Prepare for release v0.8.0 (#72)"
+            },
+            {
+              "SHA": "23eb8dbb",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#71)"
+            },
+            {
+              "SHA": "f6639b78",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#70)"
+            },
+            {
+              "SHA": "683a8a1f",
+              "Subject": "update webhook path (#69)"
+            },
+            {
+              "SHA": "f8a989de",
+              "Subject": "Implement operator-sharding; Install ace-user-roles (#67)"
+            },
+            {
+              "SHA": "6aee4ccc",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#68)"
             }
           ]
         }

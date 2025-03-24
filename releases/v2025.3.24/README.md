@@ -104,6 +104,17 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.31.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.31.0)
+
+- [fecf1748](https://github.com/kubedb/mysql-coordinator/commit/fecf1748) Prepare for release v0.31.0 (#140)
+- [d4bc9ecb](https://github.com/kubedb/mysql-coordinator/commit/d4bc9ecb) Prepare for release v0.31.0-rc.1 (#139)
+- [8750fb07](https://github.com/kubedb/mysql-coordinator/commit/8750fb07) Prepare for release v0.31.0-rc.0 (#138)
+- [026cf350](https://github.com/kubedb/mysql-coordinator/commit/026cf350) Fix TLS Handshake Issue for MySQL 5.7.x (#137)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.31.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.31.0)

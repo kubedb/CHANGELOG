@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T19:42:09.81537839Z",
+  "release_date": "2025-03-24T19:44:48.445455167Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -288,6 +288,32 @@
         {
           "tag": "v0.7.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "fecf1748",
+              "Subject": "Prepare for release v0.31.0 (#140)"
+            },
+            {
+              "SHA": "d4bc9ecb",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#139)"
+            },
+            {
+              "SHA": "8750fb07",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#138)"
+            },
+            {
+              "SHA": "026cf350",
+              "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#137)"
+            }
+          ]
         }
       ]
     },

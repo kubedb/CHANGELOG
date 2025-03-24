@@ -46,6 +46,19 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.6.0](https://github.com/kubedb/cassandra/releases/tag/v0.6.0)
+
+- [dfcd0bec](https://github.com/kubedb/cassandra/commit/dfcd0bec) Prepare for release v0.6.0 (#31)
+- [9288c65b](https://github.com/kubedb/cassandra/commit/9288c65b) Prepare for release v0.6.0-rc.1 (#30)
+- [47f7e4fe](https://github.com/kubedb/cassandra/commit/47f7e4fe) Prepare for release v0.6.0-rc.0 (#29)
+- [458feaa9](https://github.com/kubedb/cassandra/commit/458feaa9) Update webhook path (#28)
+- [b592f3d3](https://github.com/kubedb/cassandra/commit/b592f3d3) Install ace-user-roles and Add Operator Sharding (#25)
+- [a931ee8b](https://github.com/kubedb/cassandra/commit/a931ee8b) Update to k8s v1.32 (#27)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.53.0](https://github.com/kubedb/cli/releases/tag/v0.53.0)

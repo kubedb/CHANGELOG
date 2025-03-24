@@ -311,6 +311,24 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.8.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.8.0)
+
+- [3c2620e3](https://github.com/kubedb/mssqlserver/commit/3c2620e3) Prepare for release v0.8.0 (#76)
+- [eaa936d6](https://github.com/kubedb/mssqlserver/commit/eaa936d6) Update webhook setup (#74)
+- [8fe96c25](https://github.com/kubedb/mssqlserver/commit/8fe96c25) Configure restore session controller name
+- [9798e329](https://github.com/kubedb/mssqlserver/commit/9798e329) Prepare for release v0.8.0-rc.1 (#73)
+- [e499126b](https://github.com/kubedb/mssqlserver/commit/e499126b) Prepare for release v0.8.0-rc.0 (#72)
+- [cc54e87d](https://github.com/kubedb/mssqlserver/commit/cc54e87d) Update deps (#71)
+- [de2304b7](https://github.com/kubedb/mssqlserver/commit/de2304b7) Add Operator Sharding Support; Add IRSA annotation in Sidekick (#70)
+- [4bf06b68](https://github.com/kubedb/mssqlserver/commit/4bf06b68) Setup new webhook style; Update to k8s v1.32 (#69)
+- [04686b68](https://github.com/kubedb/mssqlserver/commit/04686b68) Don't PublishNotReadyAddresses for non Headless services (#68)
+- [b9da2f24](https://github.com/kubedb/mssqlserver/commit/b9da2f24) Install ace-user-roles; Run tests twice a week (#67)
+- [b9d4c52b](https://github.com/kubedb/mssqlserver/commit/b9d4c52b) Set default resources on the walg container
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.7.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.7.0)

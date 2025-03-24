@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:21:24.58974047Z",
+  "release_date": "2025-03-24T21:23:26.212493703Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -845,6 +845,60 @@
             {
               "SHA": "cbb75c6a",
               "Subject": "Prepare for release v0.8.0-rc.0 (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "3c2620e3",
+              "Subject": "Prepare for release v0.8.0 (#76)"
+            },
+            {
+              "SHA": "eaa936d6",
+              "Subject": "Update webhook setup (#74)"
+            },
+            {
+              "SHA": "8fe96c25",
+              "Subject": "Configure restore session controller name"
+            },
+            {
+              "SHA": "9798e329",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#73)"
+            },
+            {
+              "SHA": "e499126b",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "cc54e87d",
+              "Subject": "Update deps (#71)"
+            },
+            {
+              "SHA": "de2304b7",
+              "Subject": "Add Operator Sharding Support; Add IRSA annotation in Sidekick (#70)"
+            },
+            {
+              "SHA": "4bf06b68",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#69)"
+            },
+            {
+              "SHA": "04686b68",
+              "Subject": "Don't PublishNotReadyAddresses for non Headless services (#68)"
+            },
+            {
+              "SHA": "b9da2f24",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#67)"
+            },
+            {
+              "SHA": "b9d4c52b",
+              "Subject": "Set default resources on the walg container"
             }
           ]
         }

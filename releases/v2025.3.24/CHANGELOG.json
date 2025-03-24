@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T23:50:55.055899909Z",
+  "release_date": "2025-03-24T23:59:33.453549886Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -165,6 +165,15 @@
               "Subject": "Add gitops apis (#1406)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": null
         }
       ]
     },

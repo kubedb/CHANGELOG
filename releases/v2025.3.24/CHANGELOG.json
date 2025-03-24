@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:15:28.10662071Z",
+  "release_date": "2025-03-24T21:16:02.011993004Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1185,6 +1185,48 @@
             {
               "SHA": "e939734",
               "Subject": "Prepare for release v0.11.0-rc.0 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "4d35f4c4",
+              "Subject": "Prepare for release v0.8.0 (#82)"
+            },
+            {
+              "SHA": "f6f0d2db",
+              "Subject": "Fix webhook configs (#81)"
+            },
+            {
+              "SHA": "3598e015",
+              "Subject": "create petset after zookeeper ready (#80)"
+            },
+            {
+              "SHA": "a2f3abd6",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#79)"
+            },
+            {
+              "SHA": "a2a12869",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "a68d5e84",
+              "Subject": "Fix dependency for webhook (#77)"
+            },
+            {
+              "SHA": "2322338c",
+              "Subject": "Add operator sharding support for solr (#76)"
+            },
+            {
+              "SHA": "792ceb13",
+              "Subject": "Webhook changes for k8s 1.32 (#75)"
             }
           ]
         }

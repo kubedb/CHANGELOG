@@ -473,6 +473,21 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.8.0](https://github.com/kubedb/solr/releases/tag/v0.8.0)
+
+- [4d35f4c4](https://github.com/kubedb/solr/commit/4d35f4c4) Prepare for release v0.8.0 (#82)
+- [f6f0d2db](https://github.com/kubedb/solr/commit/f6f0d2db) Fix webhook configs (#81)
+- [3598e015](https://github.com/kubedb/solr/commit/3598e015) create petset after zookeeper ready (#80)
+- [a2f3abd6](https://github.com/kubedb/solr/commit/a2f3abd6) Prepare for release v0.8.0-rc.1 (#79)
+- [a2a12869](https://github.com/kubedb/solr/commit/a2a12869) Prepare for release v0.8.0-rc.0 (#78)
+- [a68d5e84](https://github.com/kubedb/solr/commit/a68d5e84) Fix dependency for webhook (#77)
+- [2322338c](https://github.com/kubedb/solr/commit/2322338c) Add operator sharding support for solr (#76)
+- [792ceb13](https://github.com/kubedb/solr/commit/792ceb13) Webhook changes for k8s 1.32 (#75)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.38.0](https://github.com/kubedb/tests/releases/tag/v0.38.0)

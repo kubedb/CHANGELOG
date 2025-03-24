@@ -491,6 +491,20 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.40.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.40.0)
+
+- [c74520b2](https://github.com/kubedb/pgbouncer/commit/c74520b2) Prepare for release v0.40.0 (#369)
+- [45eac53c](https://github.com/kubedb/pgbouncer/commit/45eac53c) Prepare for release v0.40.0-rc.1 (#368)
+- [eb30f5ef](https://github.com/kubedb/pgbouncer/commit/eb30f5ef) Prepare for release v0.40.0-rc.0 (#367)
+- [60375a15](https://github.com/kubedb/pgbouncer/commit/60375a15) Update deps
+- [39fe5cea](https://github.com/kubedb/pgbouncer/commit/39fe5cea) Restructure admission webhook (#366)
+- [5d7615b6](https://github.com/kubedb/pgbouncer/commit/5d7615b6) Install ace-user-roles; Run tests twice a week & operator sharding (#364)
+- [dee41bca](https://github.com/kubedb/pgbouncer/commit/dee41bca) Update to k8s v32 (#365)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.8.0](https://github.com/kubedb/pgpool/releases/tag/v0.8.0)

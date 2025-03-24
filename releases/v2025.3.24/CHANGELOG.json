@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T22:55:36.399354976Z",
+  "release_date": "2025-03-24T22:57:42.600496302Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1275,6 +1275,44 @@
             {
               "SHA": "f676b187",
               "Subject": "Prepare for release v0.37.0-rc.1 (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "c74520b2",
+              "Subject": "Prepare for release v0.40.0 (#369)"
+            },
+            {
+              "SHA": "45eac53c",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#368)"
+            },
+            {
+              "SHA": "eb30f5ef",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#367)"
+            },
+            {
+              "SHA": "60375a15",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "39fe5cea",
+              "Subject": "Restructure admission webhook (#366)"
+            },
+            {
+              "SHA": "5d7615b6",
+              "Subject": "Install ace-user-roles; Run tests twice a week & operator sharding (#364)"
+            },
+            {
+              "SHA": "dee41bca",
+              "Subject": "Update to k8s v32 (#365)"
             }
           ]
         }

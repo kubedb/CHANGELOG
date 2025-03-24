@@ -113,6 +113,16 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.4.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.4.0)
+
+- [92cdf9b](https://github.com/kubedb/kubedb-verifier/commit/92cdf9b) Prepare for release v0.4.0 (#17)
+- [cb903bb](https://github.com/kubedb/kubedb-verifier/commit/cb903bb) Prepare for release v0.4.0-rc.1 (#16)
+- [8b3a5e6](https://github.com/kubedb/kubedb-verifier/commit/8b3a5e6) Prepare for release v0.4.0-rc.0 (#15)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.37.0](https://github.com/kubedb/mariadb/releases/tag/v0.37.0)

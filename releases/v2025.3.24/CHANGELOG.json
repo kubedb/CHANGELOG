@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T20:04:22.568927023Z",
+  "release_date": "2025-03-24T20:05:15.37637649Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -323,6 +323,28 @@
             {
               "SHA": "8dbc92d0",
               "Subject": "Prepare for release v0.16.0-rc.1 (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "92cdf9b",
+              "Subject": "Prepare for release v0.4.0 (#17)"
+            },
+            {
+              "SHA": "cb903bb",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#16)"
+            },
+            {
+              "SHA": "8b3a5e6",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#15)"
             }
           ]
         }

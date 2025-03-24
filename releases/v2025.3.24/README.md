@@ -119,6 +119,22 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.8.0](https://github.com/kubedb/druid/releases/tag/v0.8.0)
+
+- [cece32a5](https://github.com/kubedb/druid/commit/cece32a5) Prepare for release v0.8.0 (#83)
+- [3cdf6fc4](https://github.com/kubedb/druid/commit/3cdf6fc4) Configure restore session controller (#82)
+- [6d86f999](https://github.com/kubedb/druid/commit/6d86f999) Update Webhook Setup (#81)
+- [795a8bb0](https://github.com/kubedb/druid/commit/795a8bb0) Prepare for release v0.8.0-rc.1 (#80)
+- [bb2ae901](https://github.com/kubedb/druid/commit/bb2ae901) Prepare for release v0.8.0-rc.0 (#79)
+- [eb2421c5](https://github.com/kubedb/druid/commit/eb2421c5) Update webhook path (#78)
+- [2a8160d1](https://github.com/kubedb/druid/commit/2a8160d1) Add Operator Sharding Support (#77)
+- [1408db1d](https://github.com/kubedb/druid/commit/1408db1d) Fix webhook call
+- [f6b65aeb](https://github.com/kubedb/druid/commit/f6b65aeb) Setup new webhook style; Update to k8s v1.32 (#76)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.53.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.53.0)

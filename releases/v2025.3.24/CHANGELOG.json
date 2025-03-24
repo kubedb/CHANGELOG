@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:26:33.426398393Z",
+  "release_date": "2025-03-24T21:29:34.923281359Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1345,6 +1345,44 @@
             {
               "SHA": "a047ea7",
               "Subject": "Prepare for release v0.16.0-rc.1 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "a79d50ed",
+              "Subject": "Prepare for release v0.8.0 (#81)"
+            },
+            {
+              "SHA": "0bdf2587",
+              "Subject": "Update Webhook Setup (#80)"
+            },
+            {
+              "SHA": "74769b6b",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#79)"
+            },
+            {
+              "SHA": "271e6a67",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "b07d95d7",
+              "Subject": "Update webhook dependency (#77)"
+            },
+            {
+              "SHA": "e93d9ac2",
+              "Subject": "Add Operator Sharding Support For RabbitMQ (#75)"
+            },
+            {
+              "SHA": "a5da5f57",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#76)"
             }
           ]
         }

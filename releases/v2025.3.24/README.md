@@ -367,6 +367,15 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.37.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.37.0)
+
+- [7edc6d33](https://github.com/kubedb/pg-coordinator/commit/7edc6d33) Prepare for release v0.37.0 (#198)
+- [f676b187](https://github.com/kubedb/pg-coordinator/commit/f676b187) Prepare for release v0.37.0-rc.1 (#195)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.8.0](https://github.com/kubedb/pgpool/releases/tag/v0.8.0)

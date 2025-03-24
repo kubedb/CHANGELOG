@@ -213,6 +213,16 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.11.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.11.0)
+
+- [35285d9](https://github.com/kubedb/singlestore-restic-plugin/commit/35285d9) Prepare for release v0.11.0 (#41)
+- [ae4805f](https://github.com/kubedb/singlestore-restic-plugin/commit/ae4805f) Prepare for release v0.11.0-rc.1 (#40)
+- [e939734](https://github.com/kubedb/singlestore-restic-plugin/commit/e939734) Prepare for release v0.11.0-rc.0 (#39)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.2.0)

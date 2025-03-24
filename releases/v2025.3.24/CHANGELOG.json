@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:19:54.860334336Z",
+  "release_date": "2025-03-24T21:21:24.58974047Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -876,6 +876,52 @@
             {
               "SHA": "2d7f303",
               "Subject": "Prepare for release v0.7.0-rc.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "7fd4cf1a3",
+              "Subject": "Prepare for release v0.46.0 (#681)"
+            },
+            {
+              "SHA": "f94b30458",
+              "Subject": "Cleanup restoresession reconciler (#679)"
+            },
+            {
+              "SHA": "6a5b7deca",
+              "Subject": "Configure restore session controller name"
+            },
+            {
+              "SHA": "7d3e64685",
+              "Subject": "Prepare for release v0.46.0-rc.1 (#678)"
+            },
+            {
+              "SHA": "aa15539f5",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#677)"
+            },
+            {
+              "SHA": "7e9aa0564",
+              "Subject": "Restructure admission webhook (#676)"
+            },
+            {
+              "SHA": "04e0c7f07",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#674)"
+            },
+            {
+              "SHA": "d107c3614",
+              "Subject": "Update to k8s v32 (#675)"
+            },
+            {
+              "SHA": "8f36148eb",
+              "Subject": "Lower Sidekick Default Resource (#673)"
             }
           ]
         }

@@ -328,6 +328,22 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.46.0](https://github.com/kubedb/mysql/releases/tag/v0.46.0)
+
+- [7fd4cf1a](https://github.com/kubedb/mysql/commit/7fd4cf1a3) Prepare for release v0.46.0 (#681)
+- [f94b3045](https://github.com/kubedb/mysql/commit/f94b30458) Cleanup restoresession reconciler (#679)
+- [6a5b7dec](https://github.com/kubedb/mysql/commit/6a5b7deca) Configure restore session controller name
+- [7d3e6468](https://github.com/kubedb/mysql/commit/7d3e64685) Prepare for release v0.46.0-rc.1 (#678)
+- [aa15539f](https://github.com/kubedb/mysql/commit/aa15539f5) Prepare for release v0.46.0-rc.0 (#677)
+- [7e9aa056](https://github.com/kubedb/mysql/commit/7e9aa0564) Restructure admission webhook (#676)
+- [04e0c7f0](https://github.com/kubedb/mysql/commit/04e0c7f07) Install ace-user-roles; Run tests twice a week (#674)
+- [d107c361](https://github.com/kubedb/mysql/commit/d107c3614) Update to k8s v32 (#675)
+- [8f36148e](https://github.com/kubedb/mysql/commit/8f36148eb) Lower Sidekick Default Resource (#673)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.14.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.14.0)

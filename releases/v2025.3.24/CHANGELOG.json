@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T19:48:11.467660235Z",
+  "release_date": "2025-03-24T19:50:53.575610127Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -215,6 +215,64 @@
             {
               "SHA": "8dbc92d0",
               "Subject": "Prepare for release v0.16.0-rc.1 (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "45a9741e3",
+              "Subject": "Prepare for release v0.37.0 (#326)"
+            },
+            {
+              "SHA": "d8aa6c5cc",
+              "Subject": "Cleanup restoresession reconciler (#325)"
+            },
+            {
+              "SHA": "90add00e1",
+              "Subject": "Fix Standalone Mode, Init Container Security Context for Maxscale (#324)"
+            },
+            {
+              "SHA": "f6bad15c0",
+              "Subject": "Prepare for release v0.37.0-rc.1 (#323)"
+            },
+            {
+              "SHA": "126538929",
+              "Subject": "Restructure admission webhook (#322)"
+            },
+            {
+              "SHA": "c858218f2",
+              "Subject": "Run Maxscale as Non Root User (#321)"
+            },
+            {
+              "SHA": "9aaa179ad",
+              "Subject": "Add MaxScale Cluster Support (#318)"
+            },
+            {
+              "SHA": "84f8d44c8",
+              "Subject": "Update IRSA annotations (#320)"
+            },
+            {
+              "SHA": "510aeb7a8",
+              "Subject": "ShardConfiguration, Install ace-user-roles, Run tests twice a week,  (#316)"
+            },
+            {
+              "SHA": "b4fc4ddc7",
+              "Subject": "Update to k8s v32 (#319)"
+            },
+            {
+              "SHA": "08554f660",
+              "Subject": "Add MariaDB Replication Support (#303)"
+            },
+            {
+              "SHA": "e2212de15",
+              "Subject": "Lower Sidekick Default Resource (#315)"
             }
           ]
         }

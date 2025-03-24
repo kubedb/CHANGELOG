@@ -68,6 +68,25 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.37.0](https://github.com/kubedb/mariadb/releases/tag/v0.37.0)
+
+- [45a9741e](https://github.com/kubedb/mariadb/commit/45a9741e3) Prepare for release v0.37.0 (#326)
+- [d8aa6c5c](https://github.com/kubedb/mariadb/commit/d8aa6c5cc) Cleanup restoresession reconciler (#325)
+- [90add00e](https://github.com/kubedb/mariadb/commit/90add00e1) Fix Standalone Mode, Init Container Security Context for Maxscale (#324)
+- [f6bad15c](https://github.com/kubedb/mariadb/commit/f6bad15c0) Prepare for release v0.37.0-rc.1 (#323)
+- [12653892](https://github.com/kubedb/mariadb/commit/126538929) Restructure admission webhook (#322)
+- [c858218f](https://github.com/kubedb/mariadb/commit/c858218f2) Run Maxscale as Non Root User (#321)
+- [9aaa179a](https://github.com/kubedb/mariadb/commit/9aaa179ad) Add MaxScale Cluster Support (#318)
+- [84f8d44c](https://github.com/kubedb/mariadb/commit/84f8d44c8) Update IRSA annotations (#320)
+- [510aeb7a](https://github.com/kubedb/mariadb/commit/510aeb7a8) ShardConfiguration, Install ace-user-roles, Run tests twice a week,  (#316)
+- [b4fc4ddc](https://github.com/kubedb/mariadb/commit/b4fc4ddc7) Update to k8s v32 (#319)
+- [08554f66](https://github.com/kubedb/mariadb/commit/08554f660) Add MariaDB Replication Support (#303)
+- [e2212de1](https://github.com/kubedb/mariadb/commit/e2212de15) Lower Sidekick Default Resource (#315)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.13.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.13.0)

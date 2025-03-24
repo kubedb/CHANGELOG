@@ -309,6 +309,18 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.40.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.40.0)
+
+- [5a3c9251](https://github.com/kubedb/percona-xtradb/commit/5a3c92513) Prepare for release v0.40.0 (#405)
+- [b9354d4d](https://github.com/kubedb/percona-xtradb/commit/b9354d4d7) Prepare for release v0.40.0-rc.1 (#404)
+- [3cfd53c5](https://github.com/kubedb/percona-xtradb/commit/3cfd53c55) Restructure admission webhook (#403)
+- [d6174a69](https://github.com/kubedb/percona-xtradb/commit/d6174a69c) Add operator-sharding; Install ace-user-roles (#401)
+- [fd5c0af1](https://github.com/kubedb/percona-xtradb/commit/fd5c0af1f) Update to k8s v32 (#402)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.26.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.26.0)

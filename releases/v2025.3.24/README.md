@@ -59,6 +59,16 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.13.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.13.0)
+
+- [e31a2586](https://github.com/kubedb/mariadb-archiver/commit/e31a2586) Prepare for release v0.13.0 (#47)
+- [ea393fb4](https://github.com/kubedb/mariadb-archiver/commit/ea393fb4) Prepare for release v0.13.0-rc.1 (#46)
+- [a7e37d89](https://github.com/kubedb/mariadb-archiver/commit/a7e37d89) Prepare for release v0.13.0-rc.0 (#45)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.14.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.14.0)

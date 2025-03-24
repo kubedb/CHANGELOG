@@ -383,6 +383,24 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.38.0](https://github.com/kubedb/tests/releases/tag/v0.38.0)
+
+- [7be6ac4d](https://github.com/kubedb/tests/commit/7be6ac4d) Prepare for release v0.38.0 (#453)
+- [ca56e5d1](https://github.com/kubedb/tests/commit/ca56e5d1) Remove externally managed backend from ferretdb (#452)
+- [8edab841](https://github.com/kubedb/tests/commit/8edab841) Divide MariaDB Test Profiles (#446)
+- [b4e5e71b](https://github.com/kubedb/tests/commit/b4e5e71b) Divide Test Profiles for Postgres (#447)
+- [065abf8a](https://github.com/kubedb/tests/commit/065abf8a) Prepare for release v0.38.0-rc.1 (#451)
+- [d3aec073](https://github.com/kubedb/tests/commit/d3aec073) Update go.mod with k8s v0.32.2 (#449)
+- [7181a2ab](https://github.com/kubedb/tests/commit/7181a2ab) Fix MongoDB restic backup CI (#438)
+- [8780cccd](https://github.com/kubedb/tests/commit/8780cccd) MongoDB Test Profile Divide (#442)
+- [1576dbf8](https://github.com/kubedb/tests/commit/1576dbf8) rabbitmq test log fix (#445)
+- [86e04cc1](https://github.com/kubedb/tests/commit/86e04cc1) Test against k8s 1.32 (#444)
+- [ac643c07](https://github.com/kubedb/tests/commit/ac643c07) Add Postgres CI (restic-backup) (#434)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.2.0)

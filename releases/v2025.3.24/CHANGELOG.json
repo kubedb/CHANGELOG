@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:03:49.03995253Z",
+  "release_date": "2025-03-24T21:06:18.771635276Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -951,6 +951,60 @@
             {
               "SHA": "e939734",
               "Subject": "Prepare for release v0.11.0-rc.0 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "7be6ac4d",
+              "Subject": "Prepare for release v0.38.0 (#453)"
+            },
+            {
+              "SHA": "ca56e5d1",
+              "Subject": "Remove externally managed backend from ferretdb (#452)"
+            },
+            {
+              "SHA": "8edab841",
+              "Subject": "Divide MariaDB Test Profiles (#446)"
+            },
+            {
+              "SHA": "b4e5e71b",
+              "Subject": "Divide Test Profiles for Postgres (#447)"
+            },
+            {
+              "SHA": "065abf8a",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#451)"
+            },
+            {
+              "SHA": "d3aec073",
+              "Subject": "Update go.mod with k8s v0.32.2 (#449)"
+            },
+            {
+              "SHA": "7181a2ab",
+              "Subject": "Fix MongoDB restic backup CI (#438)"
+            },
+            {
+              "SHA": "8780cccd",
+              "Subject": "MongoDB Test Profile Divide (#442)"
+            },
+            {
+              "SHA": "1576dbf8",
+              "Subject": "rabbitmq test log fix (#445)"
+            },
+            {
+              "SHA": "86e04cc1",
+              "Subject": "Test against k8s 1.32 (#444)"
+            },
+            {
+              "SHA": "ac643c07",
+              "Subject": "Add Postgres CI (restic-backup) (#434)"
             }
           ]
         }

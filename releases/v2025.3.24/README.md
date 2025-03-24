@@ -184,6 +184,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.16.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.16.0)
+
+- [80232ae](https://github.com/kubedb/postgres-restic-plugin/commit/80232ae) Prepare for release v0.16.0 (#69)
+- [a047ea7](https://github.com/kubedb/postgres-restic-plugin/commit/a047ea7) Prepare for release v0.16.0-rc.1 (#68)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.2.0)

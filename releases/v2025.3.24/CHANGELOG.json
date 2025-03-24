@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T22:57:42.600496302Z",
+  "release_date": "2025-03-24T22:57:57.626287698Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1459,6 +1459,52 @@
             {
               "SHA": "a047ea7",
               "Subject": "Prepare for release v0.16.0-rc.1 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "46f7f34f7",
+              "Subject": "Prepare for release v0.40.0 (#390)"
+            },
+            {
+              "SHA": "7f5bb28aa",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#389)"
+            },
+            {
+              "SHA": "12932712e",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#388)"
+            },
+            {
+              "SHA": "ca0c5be1c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f20352b2e",
+              "Subject": "Restructure admission webhook (#387)"
+            },
+            {
+              "SHA": "d39f73d59",
+              "Subject": "Add Operator Sharding Support (#385)"
+            },
+            {
+              "SHA": "37380c51e",
+              "Subject": "Update to k8s v32 (#384)"
+            },
+            {
+              "SHA": "27edacd70",
+              "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#382)"
+            },
+            {
+              "SHA": "e6ae715fe",
+              "Subject": "Install ace-user-roles; Run tests twice a week;Don't ins all CRDs (#381)"
             }
           ]
         }

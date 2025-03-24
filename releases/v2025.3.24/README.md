@@ -564,6 +564,22 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.40.0](https://github.com/kubedb/proxysql/releases/tag/v0.40.0)
+
+- [46f7f34f](https://github.com/kubedb/proxysql/commit/46f7f34f7) Prepare for release v0.40.0 (#390)
+- [7f5bb28a](https://github.com/kubedb/proxysql/commit/7f5bb28aa) Prepare for release v0.40.0-rc.1 (#389)
+- [12932712](https://github.com/kubedb/proxysql/commit/12932712e) Prepare for release v0.40.0-rc.0 (#388)
+- [ca0c5be1](https://github.com/kubedb/proxysql/commit/ca0c5be1c) Update deps
+- [f20352b2](https://github.com/kubedb/proxysql/commit/f20352b2e) Restructure admission webhook (#387)
+- [d39f73d5](https://github.com/kubedb/proxysql/commit/d39f73d59) Add Operator Sharding Support (#385)
+- [37380c51](https://github.com/kubedb/proxysql/commit/37380c51e) Update to k8s v32 (#384)
+- [27edacd7](https://github.com/kubedb/proxysql/commit/27edacd70) Fix TLS Handshake Issue for MySQL 5.7.x (#382)
+- [e6ae715f](https://github.com/kubedb/proxysql/commit/e6ae715fe) Install ace-user-roles; Run tests twice a week;Don't ins all CRDs (#381)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.8.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.8.0)

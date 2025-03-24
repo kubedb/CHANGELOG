@@ -522,6 +522,22 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.46.0](https://github.com/kubedb/redis/releases/tag/v0.46.0)
+
+- [2f94dfdf](https://github.com/kubedb/redis/commit/2f94dfdf4) Prepare for release v0.46.0 (#590)
+- [4d36462e](https://github.com/kubedb/redis/commit/4d36462ee) Cleanup restoresession reconciler
+- [9d66d6d5](https://github.com/kubedb/redis/commit/9d66d6d5b) Configure restore session controller name
+- [0385fa3c](https://github.com/kubedb/redis/commit/0385fa3cc) Prepare for release v0.46.0-rc.1 (#589)
+- [abbcc896](https://github.com/kubedb/redis/commit/abbcc8962) Prepare for release v0.46.0-rc.0 (#588)
+- [7f66d703](https://github.com/kubedb/redis/commit/7f66d703b) Restructure admission webhook (#587)
+- [5bcfeff7](https://github.com/kubedb/redis/commit/5bcfeff71) Add Operator Sharding Support (#586)
+- [03f9ebd5](https://github.com/kubedb/redis/commit/03f9ebd54) Update to k8s v32 (#585)
+- [b5a67c90](https://github.com/kubedb/redis/commit/b5a67c907) Install ace-user-roles; Run tests twice a week (#583)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.32.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.32.0)

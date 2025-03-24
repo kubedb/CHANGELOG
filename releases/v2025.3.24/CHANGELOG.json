@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:25:59.580925413Z",
+  "release_date": "2025-03-24T21:26:33.426398393Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1345,6 +1345,52 @@
             {
               "SHA": "a047ea7",
               "Subject": "Prepare for release v0.16.0-rc.1 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "2f94dfdf4",
+              "Subject": "Prepare for release v0.46.0 (#590)"
+            },
+            {
+              "SHA": "4d36462ee",
+              "Subject": "Cleanup restoresession reconciler"
+            },
+            {
+              "SHA": "9d66d6d5b",
+              "Subject": "Configure restore session controller name"
+            },
+            {
+              "SHA": "0385fa3cc",
+              "Subject": "Prepare for release v0.46.0-rc.1 (#589)"
+            },
+            {
+              "SHA": "abbcc8962",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#588)"
+            },
+            {
+              "SHA": "7f66d703b",
+              "Subject": "Restructure admission webhook (#587)"
+            },
+            {
+              "SHA": "5bcfeff71",
+              "Subject": "Add Operator Sharding Support (#586)"
+            },
+            {
+              "SHA": "03f9ebd54",
+              "Subject": "Update to k8s v32 (#585)"
+            },
+            {
+              "SHA": "b5a67c907",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#583)"
             }
           ]
         }

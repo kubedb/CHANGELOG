@@ -56,6 +56,19 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.8.0](https://github.com/kubedb/crd-manager/releases/tag/v0.8.0)
+
+- [ed428dd4](https://github.com/kubedb/crd-manager/commit/ed428dd4) Prepare for release v0.8.0 (#73)
+- [4782903b](https://github.com/kubedb/crd-manager/commit/4782903b) Fix for ferret crd changes (#71)
+- [e5b58c7d](https://github.com/kubedb/crd-manager/commit/e5b58c7d) Prepare for release v0.8.0-rc.1 (#69)
+- [e3384a94](https://github.com/kubedb/crd-manager/commit/e3384a94) Add gitops CRDs (#70)
+- [f6bf57e7](https://github.com/kubedb/crd-manager/commit/f6bf57e7) Prepare for release v0.8.0-rc.0 (#68)
+- [235b872d](https://github.com/kubedb/crd-manager/commit/235b872d) Update to k8s v0.32 (#67)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.11.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:03:03.320344813Z",
+  "release_date": "2025-03-24T21:03:49.03995253Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -185,6 +185,40 @@
             {
               "SHA": "6a2800b19",
               "Subject": "Prepare for release v0.53.0-rc.0 (#792)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "ed428dd4",
+              "Subject": "Prepare for release v0.8.0 (#73)"
+            },
+            {
+              "SHA": "4782903b",
+              "Subject": "Fix for ferret crd changes (#71)"
+            },
+            {
+              "SHA": "e5b58c7d",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#69)"
+            },
+            {
+              "SHA": "e3384a94",
+              "Subject": "Add gitops CRDs (#70)"
+            },
+            {
+              "SHA": "f6bf57e7",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "235b872d",
+              "Subject": "Update to k8s v0.32 (#67)"
             }
           ]
         }

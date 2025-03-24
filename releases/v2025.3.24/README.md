@@ -56,6 +56,20 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.8.0](https://github.com/kubedb/clickhouse/releases/tag/v0.8.0)
+
+- [5ebe6b91](https://github.com/kubedb/clickhouse/commit/5ebe6b91) Prepare for release v0.8.0 (#47)
+- [a1a9f411](https://github.com/kubedb/clickhouse/commit/a1a9f411) Update webhook setup (#46)
+- [db836fa8](https://github.com/kubedb/clickhouse/commit/db836fa8) Prepare for release v0.8.0-rc.1 (#45)
+- [e58549bc](https://github.com/kubedb/clickhouse/commit/e58549bc) Prepare for release v0.8.0-rc.0 (#43)
+- [3f65aac1](https://github.com/kubedb/clickhouse/commit/3f65aac1) update webhook path (#42)
+- [ad3d79cf](https://github.com/kubedb/clickhouse/commit/ad3d79cf) Add Operator Sharding Support (#41)
+- [205feb39](https://github.com/kubedb/clickhouse/commit/205feb39) Update to k8s v32 (#40)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.8.0](https://github.com/kubedb/crd-manager/releases/tag/v0.8.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:18:50.587539153Z",
+  "release_date": "2025-03-24T21:19:37.038889159Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -185,6 +185,44 @@
             {
               "SHA": "6a2800b19",
               "Subject": "Prepare for release v0.53.0-rc.0 (#792)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "5ebe6b91",
+              "Subject": "Prepare for release v0.8.0 (#47)"
+            },
+            {
+              "SHA": "a1a9f411",
+              "Subject": "Update webhook setup (#46)"
+            },
+            {
+              "SHA": "db836fa8",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#45)"
+            },
+            {
+              "SHA": "e58549bc",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#43)"
+            },
+            {
+              "SHA": "3f65aac1",
+              "Subject": "update webhook path (#42)"
+            },
+            {
+              "SHA": "ad3d79cf",
+              "Subject": "Add Operator Sharding Support (#41)"
+            },
+            {
+              "SHA": "205feb39",
+              "Subject": "Update to k8s v32 (#40)"
             }
           ]
         }

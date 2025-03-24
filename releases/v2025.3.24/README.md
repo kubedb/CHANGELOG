@@ -579,6 +579,21 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.8.0](https://github.com/kubedb/singlestore/releases/tag/v0.8.0)
+
+- [f190f8ac](https://github.com/kubedb/singlestore/commit/f190f8ac) Prepare for release v0.8.0 (#69)
+- [66f1745a](https://github.com/kubedb/singlestore/commit/66f1745a) Cleanup restoresession reconciler
+- [7fecb62a](https://github.com/kubedb/singlestore/commit/7fecb62a) Configure restore session controller name
+- [0272fc4d](https://github.com/kubedb/singlestore/commit/0272fc4d) Prepare for release v0.8.0-rc.1 (#68)
+- [78123100](https://github.com/kubedb/singlestore/commit/78123100) Prepare for release v0.8.0-rc.0 (#67)
+- [4b4ca182](https://github.com/kubedb/singlestore/commit/4b4ca182) update deps (#66)
+- [52126e70](https://github.com/kubedb/singlestore/commit/52126e70) Install ace-user-roles and Add Operator Sharding (#64)
+- [9d9e89a6](https://github.com/kubedb/singlestore/commit/9d9e89a6) Update to k8s v1.32 (#65)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.8.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.8.0)

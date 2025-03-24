@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:29:34.923281359Z",
+  "release_date": "2025-03-24T21:29:58.955956736Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1483,6 +1483,48 @@
             {
               "SHA": "e7943024",
               "Subject": "Prepare for release v0.40.0-rc.1 (#290)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "f190f8ac",
+              "Subject": "Prepare for release v0.8.0 (#69)"
+            },
+            {
+              "SHA": "66f1745a",
+              "Subject": "Cleanup restoresession reconciler"
+            },
+            {
+              "SHA": "7fecb62a",
+              "Subject": "Configure restore session controller name"
+            },
+            {
+              "SHA": "0272fc4d",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#68)"
+            },
+            {
+              "SHA": "78123100",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "4b4ca182",
+              "Subject": "update deps (#66)"
+            },
+            {
+              "SHA": "52126e70",
+              "Subject": "Install ace-user-roles and Add Operator Sharding (#64)"
+            },
+            {
+              "SHA": "9d9e89a6",
+              "Subject": "Update to k8s v1.32 (#65)"
             }
           ]
         }

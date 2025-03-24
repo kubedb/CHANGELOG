@@ -79,6 +79,21 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.53.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.53.0)
+
+- [93f4f6f5](https://github.com/kubedb/elasticsearch/commit/93f4f6f56) Prepare for release v0.53.0 (#763)
+- [869d96ff](https://github.com/kubedb/elasticsearch/commit/869d96ffc) Cleanup restoresession controller (#762)
+- [373f9b40](https://github.com/kubedb/elasticsearch/commit/373f9b404) Fix restore session controller name
+- [b5e9c2e5](https://github.com/kubedb/elasticsearch/commit/b5e9c2e5b) Prepare for release v0.53.0-rc.1 (#761)
+- [0884a60d](https://github.com/kubedb/elasticsearch/commit/0884a60de) Prepare for release v0.53.0-rc.0 (#760)
+- [3790689f](https://github.com/kubedb/elasticsearch/commit/3790689f4) Restructure elasticsearch webhook (#759)
+- [bc877df4](https://github.com/kubedb/elasticsearch/commit/bc877df46) Add operator sharding for Elasticsearch (#758)
+- [b8937d5b](https://github.com/kubedb/elasticsearch/commit/b8937d5b2) Webhook changes for k8s 1.32 (#757)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.16.0)

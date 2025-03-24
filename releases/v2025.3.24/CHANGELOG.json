@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:00:31.542961551Z",
+  "release_date": "2025-03-24T21:03:03.320344813Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -241,6 +241,48 @@
             {
               "SHA": "056c3ddf",
               "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#164)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "93f4f6f56",
+              "Subject": "Prepare for release v0.53.0 (#763)"
+            },
+            {
+              "SHA": "869d96ffc",
+              "Subject": "Cleanup restoresession controller (#762)"
+            },
+            {
+              "SHA": "373f9b404",
+              "Subject": "Fix restore session controller name"
+            },
+            {
+              "SHA": "b5e9c2e5b",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#761)"
+            },
+            {
+              "SHA": "0884a60de",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#760)"
+            },
+            {
+              "SHA": "3790689f4",
+              "Subject": "Restructure elasticsearch webhook (#759)"
+            },
+            {
+              "SHA": "bc877df46",
+              "Subject": "Add operator sharding for Elasticsearch (#758)"
+            },
+            {
+              "SHA": "b8937d5b2",
+              "Subject": "Webhook changes for k8s 1.32 (#757)"
             }
           ]
         }

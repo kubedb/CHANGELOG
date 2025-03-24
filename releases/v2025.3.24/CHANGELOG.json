@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T20:16:12.042513497Z",
+  "release_date": "2025-03-24T20:26:38.440228234Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -607,6 +607,64 @@
             {
               "SHA": "20479694",
               "Subject": "Prepare for release v0.26.0-rc.1 (#93)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "cc5a9f3df",
+              "Subject": "Prepare for release v0.53.0 (#808)"
+            },
+            {
+              "SHA": "c99472374",
+              "Subject": "Update Restoresession deps (#807)"
+            },
+            {
+              "SHA": "87c239632",
+              "Subject": "Configure restore session controller name"
+            },
+            {
+              "SHA": "79de17436",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#806)"
+            },
+            {
+              "SHA": "d794ce54c",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#805)"
+            },
+            {
+              "SHA": "4c1923e25",
+              "Subject": "Refactor Postgres Webhook (#804)"
+            },
+            {
+              "SHA": "4d1e19894",
+              "Subject": "Integrate virtual-secret in postgres (#799)"
+            },
+            {
+              "SHA": "e22f77c42",
+              "Subject": "Update IRSA annotations (#802)"
+            },
+            {
+              "SHA": "bc42a7947",
+              "Subject": "Update Postgres With ShardConfiguration Related Changes (#800)"
+            },
+            {
+              "SHA": "aca0e41e7",
+              "Subject": "support for kubernetes v1.32.x (#801)"
+            },
+            {
+              "SHA": "3bdacec07",
+              "Subject": "Run Provisioner Tests On Monday + Friday, Fix Makefile (#797)"
+            },
+            {
+              "SHA": "a9165b828",
+              "Subject": "Lower Sidekick Default Resource (#798)"
             }
           ]
         }

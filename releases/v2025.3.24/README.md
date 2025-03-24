@@ -235,6 +235,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.33.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.33.0)
+
+- [2e94e104](https://github.com/kubedb/mariadb-coordinator/commit/2e94e104) Prepare for release v0.33.0 (#141)
+- [fe289242](https://github.com/kubedb/mariadb-coordinator/commit/fe289242) Prepare for release v0.33.0-rc.1 (#140)
+- [a19d30bf](https://github.com/kubedb/mariadb-coordinator/commit/a19d30bf) Add Support for MariaDB Replication (#134)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.13.0)

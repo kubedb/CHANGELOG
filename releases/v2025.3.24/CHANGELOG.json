@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T19:14:26.054698138Z",
+  "release_date": "2025-03-24T19:23:03.566597891Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -163,6 +163,40 @@
             {
               "SHA": "d685cb862",
               "Subject": "Add gitops apis (#1406)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "a9aa5a3e",
+              "Subject": "Prepare for release v0.8.0 (#169)"
+            },
+            {
+              "SHA": "ca0ff72d",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#168)"
+            },
+            {
+              "SHA": "2beb4691",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#167)"
+            },
+            {
+              "SHA": "214a0339",
+              "Subject": "Remove decoding of data (#166)"
+            },
+            {
+              "SHA": "0303ed1c",
+              "Subject": "Updates for integrating `Virtual-Secrets` (#165)"
+            },
+            {
+              "SHA": "056c3ddf",
+              "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#164)"
             }
           ]
         }

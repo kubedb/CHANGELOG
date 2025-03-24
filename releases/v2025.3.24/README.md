@@ -46,3 +46,16 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.8.0](https://github.com/kubedb/db-client-go/releases/tag/v0.8.0)
+
+- [a9aa5a3e](https://github.com/kubedb/db-client-go/commit/a9aa5a3e) Prepare for release v0.8.0 (#169)
+- [ca0ff72d](https://github.com/kubedb/db-client-go/commit/ca0ff72d) Prepare for release v0.8.0-rc.1 (#168)
+- [2beb4691](https://github.com/kubedb/db-client-go/commit/2beb4691) Prepare for release v0.8.0-rc.0 (#167)
+- [214a0339](https://github.com/kubedb/db-client-go/commit/214a0339) Remove decoding of data (#166)
+- [0303ed1c](https://github.com/kubedb/db-client-go/commit/0303ed1c) Updates for integrating `Virtual-Secrets` (#165)
+- [056c3ddf](https://github.com/kubedb/db-client-go/commit/056c3ddf) Fix TLS Handshake Issue for MySQL 5.7.x (#164)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T20:57:30.646166277Z",
+  "release_date": "2025-03-24T20:59:36.726445107Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -305,6 +305,44 @@
             {
               "SHA": "cfd63de6",
               "Subject": "Setup new webhook style; Update to k8s v1.32 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "b90aee61",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "59222995",
+              "Subject": "Standardize the codebase (#10)"
+            },
+            {
+              "SHA": "b9208aa9",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "643d32d5",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#8)"
+            },
+            {
+              "SHA": "79c495f8",
+              "Subject": "Add Initial Setup for Dbs (#6)"
+            },
+            {
+              "SHA": "466aad87",
+              "Subject": "Use firecracker runners for ci"
+            },
+            {
+              "SHA": "741059fa",
+              "Subject": "Add license header"
             }
           ]
         }

@@ -104,6 +104,20 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.1.0](https://github.com/kubedb/gitops/releases/tag/v0.1.0)
+
+- [b90aee61](https://github.com/kubedb/gitops/commit/b90aee61) Prepare for release v0.1.0 (#11)
+- [59222995](https://github.com/kubedb/gitops/commit/59222995) Standardize the codebase (#10)
+- [b9208aa9](https://github.com/kubedb/gitops/commit/b9208aa9) Prepare for release v0.1.0-rc.1 (#9)
+- [643d32d5](https://github.com/kubedb/gitops/commit/643d32d5) Prepare for release v0.1.0-rc.0 (#8)
+- [79c495f8](https://github.com/kubedb/gitops/commit/79c495f8) Add Initial Setup for Dbs (#6)
+- [466aad87](https://github.com/kubedb/gitops/commit/466aad87) Use firecracker runners for ci
+- [741059fa](https://github.com/kubedb/gitops/commit/741059fa) Add license header
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.24.0](https://github.com/kubedb/kafka/releases/tag/v0.24.0)

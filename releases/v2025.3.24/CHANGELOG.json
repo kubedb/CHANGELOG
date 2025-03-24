@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:09:31.290676731Z",
+  "release_date": "2025-03-24T21:09:56.649948778Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -848,6 +848,24 @@
             {
               "SHA": "026cf350",
               "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "9070f090",
+              "Subject": "Prepare for release v0.14.0 (#45)"
+            },
+            {
+              "SHA": "1215a3d1",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#44)"
             }
           ]
         }

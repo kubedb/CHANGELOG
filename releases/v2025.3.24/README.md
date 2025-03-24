@@ -281,6 +281,19 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.46.0](https://github.com/kubedb/memcached/releases/tag/v0.46.0)
+
+- [2c6dff64](https://github.com/kubedb/memcached/commit/2c6dff64e) Prepare for release v0.46.0 (#496)
+- [ca7ab019](https://github.com/kubedb/memcached/commit/ca7ab0190) Prepare for release v0.46.0-rc.1 (#494)
+- [b5ddb698](https://github.com/kubedb/memcached/commit/b5ddb698e) Prepare for release v0.46.0-rc.0 (#493)
+- [816d7472](https://github.com/kubedb/memcached/commit/816d7472e) Restructure admission webhook (#492)
+- [5ee33f9c](https://github.com/kubedb/memcached/commit/5ee33f9c3) Add operator sharding support; Update ci & makefile (#490)
+- [93a42e71](https://github.com/kubedb/memcached/commit/93a42e718) Update to k8s v32 (#491)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.46.0](https://github.com/kubedb/mongodb/releases/tag/v0.46.0)

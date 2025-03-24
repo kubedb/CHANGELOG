@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T20:03:24.65312132Z",
+  "release_date": "2025-03-24T20:04:09.528800712Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -522,6 +522,24 @@
             {
               "SHA": "026cf350",
               "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "24a5160",
+              "Subject": "Prepare for release v0.16.0 (#72)"
+            },
+            {
+              "SHA": "a1a92a6",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#71)"
             }
           ]
         }

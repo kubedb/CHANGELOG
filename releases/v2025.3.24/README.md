@@ -59,6 +59,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.16.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.16.0)
+
+- [e14d1611](https://github.com/kubedb/kubedb-manifest-plugin/commit/e14d1611) Prepare for release v0.16.0 (#92)
+- [8dbc92d0](https://github.com/kubedb/kubedb-manifest-plugin/commit/8dbc92d0) Prepare for release v0.16.0-rc.1 (#91)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.13.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.13.0)

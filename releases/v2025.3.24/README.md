@@ -637,6 +637,18 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.29.0](https://github.com/kubedb/schema-manager/releases/tag/v0.29.0)
+
+- [77cdc6c5](https://github.com/kubedb/schema-manager/commit/77cdc6c5) Prepare for release v0.29.0 (#137)
+- [b7094850](https://github.com/kubedb/schema-manager/commit/b7094850) Prepare for release v0.29.0-rc.1 (#136)
+- [eccaede6](https://github.com/kubedb/schema-manager/commit/eccaede6) Prepare for release v0.29.0-rc.0 (#135)
+- [a328302c](https://github.com/kubedb/schema-manager/commit/a328302c) Update deps
+- [46d62873](https://github.com/kubedb/schema-manager/commit/46d62873) k8s 1.32 and webhook related changes (#134)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.8.0](https://github.com/kubedb/singlestore/releases/tag/v0.8.0)

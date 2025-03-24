@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T22:57:57.626287698Z",
+  "release_date": "2025-03-24T23:06:12.346007187Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1643,6 +1643,36 @@
             {
               "SHA": "e7943024",
               "Subject": "Prepare for release v0.40.0-rc.1 (#290)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "77cdc6c5",
+              "Subject": "Prepare for release v0.29.0 (#137)"
+            },
+            {
+              "SHA": "b7094850",
+              "Subject": "Prepare for release v0.29.0-rc.1 (#136)"
+            },
+            {
+              "SHA": "eccaede6",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "a328302c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "46d62873",
+              "Subject": "k8s 1.32 and webhook related changes (#134)"
             }
           ]
         }

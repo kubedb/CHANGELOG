@@ -92,3 +92,10 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.2.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.2.0)
+
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T19:37:18.56405524Z",
+  "release_date": "2025-03-24T19:37:21.699963251Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -199,6 +199,15 @@
               "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#164)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": null
         }
       ]
     },

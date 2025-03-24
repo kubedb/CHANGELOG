@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T23:06:34.746423742Z",
+  "release_date": "2025-03-24T23:38:48.020164448Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1461,6 +1461,15 @@
               "Subject": "Prepare for release v0.16.0-rc.1 (#68)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": null
         }
       ]
     },

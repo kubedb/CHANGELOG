@@ -104,6 +104,20 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.24.0](https://github.com/kubedb/kafka/releases/tag/v0.24.0)
+
+- [6d23084d](https://github.com/kubedb/kafka/commit/6d23084d) Prepare for release v0.24.0 (#148)
+- [a5a7cb40](https://github.com/kubedb/kafka/commit/a5a7cb40) Restructure admission webhook (#147)
+- [9f2b6c69](https://github.com/kubedb/kafka/commit/9f2b6c69) Prepare for release v0.24.0-rc.1 (#146)
+- [e8195ac4](https://github.com/kubedb/kafka/commit/e8195ac4) Update webhook dependency (#145)
+- [1714ea67](https://github.com/kubedb/kafka/commit/1714ea67) Add Kafka Operator Shading Support (#144)
+- [a5d76b95](https://github.com/kubedb/kafka/commit/a5d76b95) Setup new webhook style; Update to k8s v1.32 (#143)
+- [bb875226](https://github.com/kubedb/kafka/commit/bb875226) Install ace-user-roles; Run tests twice a week (#142)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.16.0)

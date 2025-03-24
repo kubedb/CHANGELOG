@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T20:51:25.467323209Z",
+  "release_date": "2025-03-24T20:57:30.646166277Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -305,6 +305,44 @@
             {
               "SHA": "cfd63de6",
               "Subject": "Setup new webhook style; Update to k8s v1.32 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "6d23084d",
+              "Subject": "Prepare for release v0.24.0 (#148)"
+            },
+            {
+              "SHA": "a5a7cb40",
+              "Subject": "Restructure admission webhook (#147)"
+            },
+            {
+              "SHA": "9f2b6c69",
+              "Subject": "Prepare for release v0.24.0-rc.1 (#146)"
+            },
+            {
+              "SHA": "e8195ac4",
+              "Subject": "Update webhook dependency (#145)"
+            },
+            {
+              "SHA": "1714ea67",
+              "Subject": "Add Kafka Operator Shading Support (#144)"
+            },
+            {
+              "SHA": "a5d76b95",
+              "Subject": "Setup new webhook style; Update to k8s v1.32 (#143)"
+            },
+            {
+              "SHA": "bb875226",
+              "Subject": "Install ace-user-roles; Run tests twice a week (#142)"
             }
           ]
         }

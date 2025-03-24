@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T21:18:10.744839037Z",
+  "release_date": "2025-03-24T21:18:50.587539153Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1310,6 +1310,40 @@
         {
           "tag": "v0.2.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "3b71bca3",
+              "Subject": "Prepare for release v0.8.0 (#72)"
+            },
+            {
+              "SHA": "66198a06",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#70)"
+            },
+            {
+              "SHA": "e26b5b6b",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "30850f54",
+              "Subject": "update webhook path (#68)"
+            },
+            {
+              "SHA": "aef92815",
+              "Subject": "add operator sharding support (#67)"
+            },
+            {
+              "SHA": "9fe3244d",
+              "Subject": "Update to k8s v1.32 (#66)"
+            }
+          ]
         }
       ]
     },

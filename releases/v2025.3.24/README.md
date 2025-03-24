@@ -522,6 +522,19 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.8.0](https://github.com/kubedb/zookeeper/releases/tag/v0.8.0)
+
+- [3b71bca3](https://github.com/kubedb/zookeeper/commit/3b71bca3) Prepare for release v0.8.0 (#72)
+- [66198a06](https://github.com/kubedb/zookeeper/commit/66198a06) Prepare for release v0.8.0-rc.1 (#70)
+- [e26b5b6b](https://github.com/kubedb/zookeeper/commit/e26b5b6b) Prepare for release v0.8.0-rc.0 (#69)
+- [30850f54](https://github.com/kubedb/zookeeper/commit/30850f54) update webhook path (#68)
+- [aef92815](https://github.com/kubedb/zookeeper/commit/aef92815) add operator sharding support (#67)
+- [9fe3244d](https://github.com/kubedb/zookeeper/commit/9fe3244d) Update to k8s v1.32 (#66)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.9.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.9.0)

@@ -178,6 +178,16 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.7.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.7.0)
+
+- [35c239b](https://github.com/kubedb/mssqlserver-walg-plugin/commit/35c239b) Prepare for release v0.7.0 (#23)
+- [86c049a](https://github.com/kubedb/mssqlserver-walg-plugin/commit/86c049a) Prepare for release v0.7.0-rc.1 (#22)
+- [2d7f303](https://github.com/kubedb/mssqlserver-walg-plugin/commit/2d7f303) Prepare for release v0.7.0-rc.0 (#21)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.31.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.31.0)

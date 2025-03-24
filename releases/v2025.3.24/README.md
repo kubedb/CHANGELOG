@@ -203,6 +203,21 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.29.0](https://github.com/kubedb/kibana/releases/tag/v0.29.0)
+
+- [1763629f](https://github.com/kubedb/kibana/commit/1763629f) Prepare for release v0.29.0 (#150)
+- [b6d66c62](https://github.com/kubedb/kibana/commit/b6d66c62) Configure restoresession controller (#149)
+- [5647fe5c](https://github.com/kubedb/kibana/commit/5647fe5c) Update webhook setup (#148)
+- [2ca1a410](https://github.com/kubedb/kibana/commit/2ca1a410) Prepare for release v0.29.0-rc.1 (#147)
+- [027a3bd0](https://github.com/kubedb/kibana/commit/027a3bd0) Prepare for release v0.29.0-rc.0 (#146)
+- [10a89f00](https://github.com/kubedb/kibana/commit/10a89f00) Fix dependency for kibana (#145)
+- [a9c6e233](https://github.com/kubedb/kibana/commit/a9c6e233) Add operator sharding support for kibana (#144)
+- [71b978a9](https://github.com/kubedb/kibana/commit/71b978a9) Webhook changes for k8s 1.32 (#143)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.16.0)

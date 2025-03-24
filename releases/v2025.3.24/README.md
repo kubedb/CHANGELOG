@@ -123,6 +123,16 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.11.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.11.0)
+
+- [a1ac3ce](https://github.com/kubedb/mariadb-restic-plugin/commit/a1ac3ce) Prepare for release v0.11.0 (#44)
+- [d525ec1](https://github.com/kubedb/mariadb-restic-plugin/commit/d525ec1) Prepare for release v0.11.0-rc.1 (#43)
+- [bc5977d](https://github.com/kubedb/mariadb-restic-plugin/commit/bc5977d) Prepare for release v0.11.0-rc.0 (#42)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.14.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.14.0)

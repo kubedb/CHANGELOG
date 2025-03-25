@@ -126,6 +126,16 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.3.24](https://github.com/kubedb/docs/releases/tag/v2025.3.24)
+
+- [11d523f0](https://github.com/kubedb/docs/commit/11d523f0) Prepare for release v2025.3.24 (#759)
+- [b4cc1f9f](https://github.com/kubedb/docs/commit/b4cc1f9f) Prepare for release v2025.3.20-rc.1 (#755)
+- [143eea67](https://github.com/kubedb/docs/commit/143eea67) Update docs for kubedb/webhook-server@a18927dc (#753)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.8.0](https://github.com/kubedb/druid/releases/tag/v0.8.0)

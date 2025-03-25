@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-25T03:30:51.942931222Z",
+  "release_date": "2025-03-25T03:49:25.148802867Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -356,6 +356,28 @@
             {
               "SHA": "056c3ddf",
               "Subject": "Fix TLS Handshake Issue for MySQL 5.7.x (#164)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.3.24",
+          "commits": [
+            {
+              "SHA": "11d523f0",
+              "Subject": "Prepare for release v2025.3.24 (#759)"
+            },
+            {
+              "SHA": "b4cc1f9f",
+              "Subject": "Prepare for release v2025.3.20-rc.1 (#755)"
+            },
+            {
+              "SHA": "143eea67",
+              "Subject": "Update docs for kubedb/webhook-server@a18927dc (#753)"
             }
           ]
         }

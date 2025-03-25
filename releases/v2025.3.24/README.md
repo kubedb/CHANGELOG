@@ -196,6 +196,13 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2025.3.24](https://github.com/kubedb/installer/releases/tag/v2025.3.24)
+
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.24.0](https://github.com/kubedb/kafka/releases/tag/v0.24.0)

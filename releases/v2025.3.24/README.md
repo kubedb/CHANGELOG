@@ -1,4 +1,4 @@
-# KubeDB v2025.3.24 (2025-03-24)
+# KubeDB v2025.3.24 (2025-03-25)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -745,6 +745,20 @@
 - [e5d9a3ec](https://github.com/kubedb/ui-server/commit/e5d9a3ec) Prepare for release v0.29.0 (#157)
 - [683a6c9d](https://github.com/kubedb/ui-server/commit/683a6c9d) Prepare for release v0.29.0-rc.1 (#156)
 - [8b3fbf94](https://github.com/kubedb/ui-server/commit/8b3fbf94) Prepare for release v0.29.0-rc.0 (#155)
+
+
+
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.29.0](https://github.com/kubedb/webhook-server/releases/tag/v0.29.0)
+
+- [8988f1e4](https://github.com/kubedb/webhook-server/commit/8988f1e4) Prepare for release v0.29.0 (#152)
+- [29ca05cc](https://github.com/kubedb/webhook-server/commit/29ca05cc) Fix for sl,md (#151)
+- [cf06ba55](https://github.com/kubedb/webhook-server/commit/cf06ba55) Set PerconaXtraDB Default Replica to 3 (#150)
+- [bc3f46fa](https://github.com/kubedb/webhook-server/commit/bc3f46fa) Use port 443 instead of 9443
+- [32299e12](https://github.com/kubedb/webhook-server/commit/32299e12) Prepare for release v0.29.0-rc.1 (#149)
+- [a18927dc](https://github.com/kubedb/webhook-server/commit/a18927dc) Remove old-db & ops-manager deps for webhooks (#148)
+- [4eab5c8e](https://github.com/kubedb/webhook-server/commit/4eab5c8e) Rewrite webhook calls; Update to k8s v32 (#147)
 
 
 

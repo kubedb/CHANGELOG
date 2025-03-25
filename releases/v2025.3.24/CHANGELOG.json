@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.3.24",
-  "release_date": "2025-03-24T23:59:33.453549886Z",
+  "release_date": "2025-03-25T00:06:36.407153335Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.3.24",
   "kubernetes_version": "1.26+",
@@ -1904,6 +1904,44 @@
             {
               "SHA": "8b3fbf94",
               "Subject": "Prepare for release v0.29.0-rc.0 (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "8988f1e4",
+              "Subject": "Prepare for release v0.29.0 (#152)"
+            },
+            {
+              "SHA": "29ca05cc",
+              "Subject": "Fix for sl,md (#151)"
+            },
+            {
+              "SHA": "cf06ba55",
+              "Subject": "Set PerconaXtraDB Default Replica to 3 (#150)"
+            },
+            {
+              "SHA": "bc3f46fa",
+              "Subject": "Use port 443 instead of 9443"
+            },
+            {
+              "SHA": "32299e12",
+              "Subject": "Prepare for release v0.29.0-rc.1 (#149)"
+            },
+            {
+              "SHA": "a18927dc",
+              "Subject": "Remove old-db & ops-manager deps for webhooks (#148)"
+            },
+            {
+              "SHA": "4eab5c8e",
+              "Subject": "Rewrite webhook calls; Update to k8s v32 (#147)"
             }
           ]
         }

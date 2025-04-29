@@ -59,6 +59,17 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.47.0](https://github.com/kubedb/mongodb/releases/tag/v0.47.0)
+
+- [41e22e2a](https://github.com/kubedb/mongodb/commit/41e22e2a5) Prepare for release v0.47.0 (#704)
+- [d4e2e085](https://github.com/kubedb/mongodb/commit/d4e2e085b) Use primary pod for creating role in repl in archiver resotre (#702)
+- [8edd009a](https://github.com/kubedb/mongodb/commit/8edd009a3) Move renaming-related codes on archiver-restore to a seperate file
+- [13da2f49](https://github.com/kubedb/mongodb/commit/13da2f496) Fix shard reconciliation (#701)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.8.0)

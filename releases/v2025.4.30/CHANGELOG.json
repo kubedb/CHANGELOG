@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T22:27:27.029942611Z",
+  "release_date": "2025-04-29T22:29:12.982202995Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -115,6 +115,20 @@
             {
               "SHA": "8141b087",
               "Subject": "Add Memcached Client (#170)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "ba37ce8a",
+              "Subject": "Prepare for release v0.17.0 (#62)"
             }
           ]
         }

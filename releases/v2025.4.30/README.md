@@ -43,6 +43,14 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.17.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.17.0)
+
+- [ba37ce8a](https://github.com/kubedb/elasticsearch-restic-plugin/commit/ba37ce8a) Prepare for release v0.17.0 (#62)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.12.0)

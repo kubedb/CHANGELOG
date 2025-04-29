@@ -65,6 +65,14 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.38.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.38.0)
+
+- [72911d92](https://github.com/kubedb/pg-coordinator/commit/72911d92) Prepare for release v0.38.0 (#199)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.15.0](https://github.com/kubedb/provider-aws/releases/tag/v0.15.0)

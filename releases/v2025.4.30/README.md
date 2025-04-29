@@ -81,6 +81,18 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.54.0](https://github.com/kubedb/postgres/releases/tag/v0.54.0)
+
+- [b8f06227](https://github.com/kubedb/postgres/commit/b8f062272) Prepare for release v0.54.0 (#812)
+- [450a8b08](https://github.com/kubedb/postgres/commit/450a8b085) Fix virtual secrets deletion (#810)
+- [db351f9b](https://github.com/kubedb/postgres/commit/db351f9b5) CI-FIX test repo checkout command (#811)
+- [e2963887](https://github.com/kubedb/postgres/commit/e2963887d) Add db_mode, separate daily tests (#803)
+- [92f7f153](https://github.com/kubedb/postgres/commit/92f7f1534) Fix restore issue (#809)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.15.0](https://github.com/kubedb/provider-aws/releases/tag/v0.15.0)

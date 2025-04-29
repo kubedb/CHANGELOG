@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T22:29:12.982202995Z",
+  "release_date": "2025-04-29T22:31:35.729426545Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -175,6 +175,36 @@
             {
               "SHA": "72911d92",
               "Subject": "Prepare for release v0.38.0 (#199)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.54.0",
+          "commits": [
+            {
+              "SHA": "b8f062272",
+              "Subject": "Prepare for release v0.54.0 (#812)"
+            },
+            {
+              "SHA": "450a8b085",
+              "Subject": "Fix virtual secrets deletion (#810)"
+            },
+            {
+              "SHA": "db351f9b5",
+              "Subject": "CI-FIX test repo checkout command (#811)"
+            },
+            {
+              "SHA": "e2963887d",
+              "Subject": "Add db_mode, separate daily tests (#803)"
+            },
+            {
+              "SHA": "92f7f1534",
+              "Subject": "Fix restore issue (#809)"
             }
           ]
         }

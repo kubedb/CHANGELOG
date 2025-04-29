@@ -122,3 +122,11 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.9.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.9.0)
+
+- [1a302d6](https://github.com/kubedb/singlestore-coordinator/commit/1a302d6) Prepare for release v0.9.0 (#42)
+
+
+

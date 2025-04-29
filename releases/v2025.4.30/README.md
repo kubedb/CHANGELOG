@@ -93,6 +93,14 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.15.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.15.0)
+
+- [838f1dd7](https://github.com/kubedb/postgres-archiver/commit/838f1dd7) Prepare for release v0.15.0 (#60)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.15.0](https://github.com/kubedb/provider-aws/releases/tag/v0.15.0)

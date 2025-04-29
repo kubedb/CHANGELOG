@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T22:31:35.729426545Z",
+  "release_date": "2025-04-29T22:34:29.827230544Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -205,6 +205,20 @@
             {
               "SHA": "92f7f1534",
               "Subject": "Fix restore issue (#809)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "838f1dd7",
+              "Subject": "Prepare for release v0.15.0 (#60)"
             }
           ]
         }

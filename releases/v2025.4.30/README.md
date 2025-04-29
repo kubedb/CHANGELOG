@@ -35,6 +35,13 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.8.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.8.0)
+
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.32.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.32.0)

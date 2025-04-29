@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T22:25:42.690922355Z",
+  "release_date": "2025-04-29T22:25:47.446746134Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -103,6 +103,15 @@
               "Subject": "Add Memcached Client (#170)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": null
         }
       ]
     },

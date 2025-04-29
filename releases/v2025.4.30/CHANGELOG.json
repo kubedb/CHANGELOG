@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T22:26:05.343742668Z",
+  "release_date": "2025-04-29T22:26:08.98336016Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -148,6 +148,15 @@
       "releases": [
         {
           "tag": "v0.32.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.15.0",
           "commits": null
         }
       ]

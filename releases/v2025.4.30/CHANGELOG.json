@@ -1,0 +1,84 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.4.30",
+  "release_date": "2025-04-29T22:04:11.325934376Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.4.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.54.0",
+          "commits": [
+            {
+              "SHA": "7da7ab313",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b5f3a997d",
+              "Subject": "Add Ignite APIs (#1439)"
+            },
+            {
+              "SHA": "7b89c0706",
+              "Subject": "SetDefault for Valkey (#1431)"
+            },
+            {
+              "SHA": "a8ed2b157",
+              "Subject": "Update Cassandra Version API field for backup (#1448)"
+            },
+            {
+              "SHA": "6c6eea72a",
+              "Subject": "Add mssql helpers for SecondaryAccessMode (#1452)"
+            },
+            {
+              "SHA": "0f3f9fb61",
+              "Subject": "Distribution Redis -> Official (#1446)"
+            },
+            {
+              "SHA": "1411575b8",
+              "Subject": "Add MySQL topology defaults to SetDefaults() (#1442)"
+            },
+            {
+              "SHA": "9071b547d",
+              "Subject": "Support multiple license restrictions (#1445)"
+            },
+            {
+              "SHA": "739c294bc",
+              "Subject": "SecondaryAccess -> SecondaryAccessMode (#1451)"
+            },
+            {
+              "SHA": "853d2ab63",
+              "Subject": "Add horizons field in mg & mgOps (#1447)"
+            },
+            {
+              "SHA": "9310d2f43",
+              "Subject": "Add SecondaryAccess field to specify whether to use active or passive secondaries for SQL Server AG (#1450)"
+            },
+            {
+              "SHA": "50acd5129",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "f9c9734e0",
+              "Subject": "Fix defaulting solrAutoscaler (#1444)"
+            },
+            {
+              "SHA": "693605d3c",
+              "Subject": "Enquque petsets conditionally: standardization (#1441)"
+            },
+            {
+              "SHA": "437d5e8e4",
+              "Subject": "Update Owner Name (#1440)"
+            },
+            {
+              "SHA": "ba449cf3b",
+              "Subject": "Fix Memcached validate (#1438)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

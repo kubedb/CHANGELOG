@@ -51,6 +51,14 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.25.0](https://github.com/kubedb/kafka/releases/tag/v0.25.0)
+
+- [ee707865](https://github.com/kubedb/kafka/commit/ee707865) Prepare for release v0.25.0 (#149)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.12.0)

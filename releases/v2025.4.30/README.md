@@ -59,6 +59,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.38.0](https://github.com/kubedb/mariadb/releases/tag/v0.38.0)
+
+- [e7b961fd](https://github.com/kubedb/mariadb/commit/e7b961fd5) Prepare for release v0.38.0 (#328)
+- [7d84f316](https://github.com/kubedb/mariadb/commit/7d84f3169) Nightly Test CI Fix (#317)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.12.0)

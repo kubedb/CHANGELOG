@@ -35,6 +35,14 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.12.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.12.0)
+
+- [99425c9](https://github.com/kubedb/mariadb-restic-plugin/commit/99425c9) Prepare for release v0.12.0 (#45)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.8.0)

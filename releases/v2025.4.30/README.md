@@ -24,3 +24,14 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.9.0](https://github.com/kubedb/db-client-go/releases/tag/v0.9.0)
+
+- [7d3f54b7](https://github.com/kubedb/db-client-go/commit/7d3f54b7) Prepare for release v0.9.0 (#173)
+- [a9b612da](https://github.com/kubedb/db-client-go/commit/a9b612da) fix ignite sqlClient (#172)
+- [86f1d163](https://github.com/kubedb/db-client-go/commit/86f1d163) Add Ignite Client (#171)
+- [8141b087](https://github.com/kubedb/db-client-go/commit/8141b087) Add Memcached Client (#170)
+
+
+

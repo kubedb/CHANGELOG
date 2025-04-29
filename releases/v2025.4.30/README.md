@@ -35,3 +35,10 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.32.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.32.0)
+
+
+
+

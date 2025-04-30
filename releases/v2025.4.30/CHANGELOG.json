@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T03:36:35.729012014Z",
+  "release_date": "2025-04-30T03:39:41.798054744Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -368,6 +368,32 @@
             {
               "SHA": "1b092f1",
               "Subject": "Prepare for release v0.8.0 (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "ec5c6e21b",
+              "Subject": "Prepare for release v0.47.0 (#684)"
+            },
+            {
+              "SHA": "52f0a8e1c",
+              "Subject": "Add MySQL topology defaults to SetDefaults() (#683)"
+            },
+            {
+              "SHA": "fea6344e5",
+              "Subject": "Make InnoDB Buffer Pool Size Dynamic (#680)"
+            },
+            {
+              "SHA": "aacb82173",
+              "Subject": "Divide CI along with db_mode (#682)"
             }
           ]
         }

@@ -183,6 +183,17 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.47.0](https://github.com/kubedb/mysql/releases/tag/v0.47.0)
+
+- [ec5c6e21](https://github.com/kubedb/mysql/commit/ec5c6e21b) Prepare for release v0.47.0 (#684)
+- [52f0a8e1](https://github.com/kubedb/mysql/commit/52f0a8e1c) Add MySQL topology defaults to SetDefaults() (#683)
+- [fea6344e](https://github.com/kubedb/mysql/commit/fea6344e5) Make InnoDB Buffer Pool Size Dynamic (#680)
+- [aacb8217](https://github.com/kubedb/mysql/commit/aacb82173) Divide CI along with db_mode (#682)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.15.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.15.0)

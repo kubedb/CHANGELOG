@@ -150,6 +150,14 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.14.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.14.0)
+
+- [5aa23344](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/5aa23344) Prepare for release v0.14.0 (#46)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.12.0)

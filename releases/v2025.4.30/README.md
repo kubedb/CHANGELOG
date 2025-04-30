@@ -119,6 +119,14 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.17.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.17.0)
+
+- [accf597](https://github.com/kubedb/mongodb-restic-plugin/commit/accf597) Prepare for release v0.17.0 (#83)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.8.0)

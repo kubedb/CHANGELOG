@@ -34,6 +34,19 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.1.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.1.0)
+
+- [6991226](https://github.com/kubedb/cassandra-medusa-plugin/commit/6991226) Prepare for release v0.1.0 (#4)
+- [3f4c98a](https://github.com/kubedb/cassandra-medusa-plugin/commit/3f4c98a) Fix license issues
+- [45abd2c](https://github.com/kubedb/cassandra-medusa-plugin/commit/45abd2c) Merge pull request #2 from kubedb/cass-backup
+- [c779cfb](https://github.com/kubedb/cassandra-medusa-plugin/commit/c779cfb) Merge pull request #3 from kubedb/gha-up
+- [354dcfd](https://github.com/kubedb/cassandra-medusa-plugin/commit/354dcfd) Use Go 1.24
+- [30b207e](https://github.com/kubedb/cassandra-medusa-plugin/commit/30b207e) Disable image caching in setup-qemu action (#1)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.54.0](https://github.com/kubedb/cli/releases/tag/v0.54.0)

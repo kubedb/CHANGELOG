@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T04:33:48.456646181Z",
+  "release_date": "2025-04-30T06:36:10.18918Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -97,6 +97,40 @@
             {
               "SHA": "54d2f8c8",
               "Subject": "Add support for Backup (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "6991226",
+              "Subject": "Prepare for release v0.1.0 (#4)"
+            },
+            {
+              "SHA": "3f4c98a",
+              "Subject": "Fix license issues"
+            },
+            {
+              "SHA": "45abd2c",
+              "Subject": "Merge pull request #2 from kubedb/cass-backup"
+            },
+            {
+              "SHA": "c779cfb",
+              "Subject": "Merge pull request #3 from kubedb/gha-up"
+            },
+            {
+              "SHA": "354dcfd",
+              "Subject": "Use Go 1.24"
+            },
+            {
+              "SHA": "30b207e",
+              "Subject": "Disable image caching in setup-qemu action (#1)"
             }
           ]
         }

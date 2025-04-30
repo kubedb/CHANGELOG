@@ -311,6 +311,16 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.9.0](https://github.com/kubedb/zookeeper/releases/tag/v0.9.0)
+
+- [5ec85425](https://github.com/kubedb/zookeeper/commit/5ec85425) Prepare for release v0.9.0 (#75)
+- [458caade](https://github.com/kubedb/zookeeper/commit/458caade) Use PatchStatus to avoid timing issues on db deletion (#74)
+- [097d6bd3](https://github.com/kubedb/zookeeper/commit/097d6bd3) Fix webhook config and Configure restore session controller (#73)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.10.0)

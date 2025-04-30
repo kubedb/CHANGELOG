@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T03:09:03.819557Z",
+  "release_date": "2025-04-30T03:11:47.143697861Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -588,6 +588,28 @@
             {
               "SHA": "95889ff",
               "Subject": "Prepare for release v0.3.0 (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "5ec85425",
+              "Subject": "Prepare for release v0.9.0 (#75)"
+            },
+            {
+              "SHA": "458caade",
+              "Subject": "Use PatchStatus to avoid timing issues on db deletion (#74)"
+            },
+            {
+              "SHA": "097d6bd3",
+              "Subject": "Fix webhook config and Configure restore session controller (#73)"
             }
           ]
         }

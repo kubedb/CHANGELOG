@@ -169,6 +169,14 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.17.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.17.0)
+
+- [03c4dbf](https://github.com/kubedb/postgres-restic-plugin/commit/03c4dbf) Prepare for release v0.17.0 (#70)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.15.0](https://github.com/kubedb/provider-aws/releases/tag/v0.15.0)

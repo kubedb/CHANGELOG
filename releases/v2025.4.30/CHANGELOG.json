@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T07:30:39.334259931Z",
+  "release_date": "2025-04-30T07:32:57.553116917Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -1058,6 +1058,24 @@
             {
               "SHA": "265b6250",
               "Subject": "Fix BackupConfigDeletionPolicy, CI issues (#455)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "7fc6654b",
+              "Subject": "Prepare for release v0.30.0 (#162)"
+            },
+            {
+              "SHA": "fa8ad21a",
+              "Subject": "Add connection support for es,fr,sl (#161)"
             }
           ]
         }

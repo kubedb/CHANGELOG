@@ -541,6 +541,15 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.30.0](https://github.com/kubedb/ui-server/releases/tag/v0.30.0)
+
+- [7fc6654b](https://github.com/kubedb/ui-server/commit/7fc6654b) Prepare for release v0.30.0 (#162)
+- [fa8ad21a](https://github.com/kubedb/ui-server/commit/fa8ad21a) Add connection support for es,fr,sl (#161)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.3.0)

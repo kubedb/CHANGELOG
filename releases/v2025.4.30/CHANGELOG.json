@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T03:26:51.35833937Z",
+  "release_date": "2025-04-30T03:27:47.224418846Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -648,6 +648,36 @@
             {
               "SHA": "e8bc7698",
               "Subject": "Prepare for release v0.9.0 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "5aa1d756",
+              "Subject": "Prepare for release v0.39.0 (#459)"
+            },
+            {
+              "SHA": "04acb1ea",
+              "Subject": "MySQL Test Config, fix profiles (#458)"
+            },
+            {
+              "SHA": "4297ee65",
+              "Subject": "Add DB_Mode and Divide test profiles for MySQL (#450)"
+            },
+            {
+              "SHA": "eb2e0520",
+              "Subject": "Postgres Archiver  - Standalone (#454)"
+            },
+            {
+              "SHA": "265b6250",
+              "Subject": "Fix BackupConfigDeletionPolicy, CI issues (#455)"
             }
           ]
         }

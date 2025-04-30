@@ -344,6 +344,18 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.39.0](https://github.com/kubedb/tests/releases/tag/v0.39.0)
+
+- [5aa1d756](https://github.com/kubedb/tests/commit/5aa1d756) Prepare for release v0.39.0 (#459)
+- [04acb1ea](https://github.com/kubedb/tests/commit/04acb1ea) MySQL Test Config, fix profiles (#458)
+- [4297ee65](https://github.com/kubedb/tests/commit/4297ee65) Add DB_Mode and Divide test profiles for MySQL (#450)
+- [eb2e0520](https://github.com/kubedb/tests/commit/eb2e0520) Postgres Archiver  - Standalone (#454)
+- [265b6250](https://github.com/kubedb/tests/commit/265b6250) Fix BackupConfigDeletionPolicy, CI issues (#455)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.3.0)

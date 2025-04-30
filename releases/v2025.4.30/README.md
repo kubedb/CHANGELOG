@@ -104,6 +104,16 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.4.30](https://github.com/kubedb/docs/releases/tag/v2025.4.30)
+
+- [9a210d95](https://github.com/kubedb/docs/commit/9a210d95) Prepare for release v2025.4.30 (#767)
+- [19da5aed](https://github.com/kubedb/docs/commit/19da5aed) MariaDB Standard Replication using Maxscale (#762)
+- [c30bbf19](https://github.com/kubedb/docs/commit/c30bbf19) Add kafka rest proxy with schemaregistry docs (#760)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.9.0](https://github.com/kubedb/druid/releases/tag/v0.9.0)

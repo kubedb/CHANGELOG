@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T08:53:33.564148729Z",
+  "release_date": "2025-04-30T10:18:16.40602789Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -251,6 +251,28 @@
             {
               "SHA": "8141b087",
               "Subject": "Add Memcached Client (#170)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "9a210d95",
+              "Subject": "Prepare for release v2025.4.30 (#767)"
+            },
+            {
+              "SHA": "19da5aed",
+              "Subject": "MariaDB Standard Replication using Maxscale (#762)"
+            },
+            {
+              "SHA": "c30bbf19",
+              "Subject": "Add kafka rest proxy with schemaregistry docs (#760)"
             }
           ]
         }

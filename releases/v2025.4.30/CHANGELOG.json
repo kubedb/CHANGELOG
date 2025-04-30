@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T07:16:19.811039913Z",
+  "release_date": "2025-04-30T07:17:21.615103286Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -842,6 +842,28 @@
         {
           "tag": "v0.15.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "5e55f9684",
+              "Subject": "Prepare for release v0.41.0 (#392)"
+            },
+            {
+              "SHA": "131b3bd51",
+              "Subject": "Add PerconaXtraDB Galera Cluster suport (#391)"
+            },
+            {
+              "SHA": "05cdca0fb",
+              "Subject": "Add MariaDB suport for ProxySQL, pod dns for mysql_servers config (#383)"
+            }
+          ]
         }
       ]
     },

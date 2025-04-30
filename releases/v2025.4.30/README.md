@@ -428,6 +428,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.41.0](https://github.com/kubedb/proxysql/releases/tag/v0.41.0)
+
+- [5e55f968](https://github.com/kubedb/proxysql/commit/5e55f9684) Prepare for release v0.41.0 (#392)
+- [131b3bd5](https://github.com/kubedb/proxysql/commit/131b3bd51) Add PerconaXtraDB Galera Cluster suport (#391)
+- [05cdca0f](https://github.com/kubedb/proxysql/commit/05cdca0fb) Add MariaDB suport for ProxySQL, pod dns for mysql_servers config (#383)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.9.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.9.0)

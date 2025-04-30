@@ -2,7 +2,7 @@
 
 | KubeDB Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
-| [v2025.4.30](https:/github.com/kubedb/CHANGELOG/releases/tag/v2025.4.30) | 2025-04-29 | [User Guide](https://kubedb.com/docs/v2025.4.30) | [CHANGELOG](/releases/v2025.4.30/README.md) | 1.26+ |
+| [v2025.4.30](https:/github.com/kubedb/CHANGELOG/releases/tag/v2025.4.30) | 2025-04-30 | [User Guide](https://kubedb.com/docs/v2025.4.30) | [CHANGELOG](/releases/v2025.4.30/README.md) | 1.26+ |
 | [v2025.3.24](https:/github.com/kubedb/CHANGELOG/releases/tag/v2025.3.24) | 2025-03-25 | [User Guide](https://kubedb.com/docs/v2025.3.24) | [CHANGELOG](/releases/v2025.3.24/README.md) | 1.26+ |
 | [v2025.3.20-rc.1](https:/github.com/kubedb/CHANGELOG/releases/tag/v2025.3.20-rc.1) | 2025-03-20 | [User Guide](https://kubedb.com/docs/v2025.3.20-rc.1) | [CHANGELOG](/releases/v2025.3.20-rc.1/README.md) | 1.26+ |
 | [v2025.3.19-rc.0](https:/github.com/kubedb/CHANGELOG/releases/tag/v2025.3.19-rc.0) | 2025-03-20 | [User Guide](https://kubedb.com/docs/v2025.3.19-rc.0) | [CHANGELOG](/releases/v2025.3.19-rc.0/README.md) | 1.26+ |

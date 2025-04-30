@@ -394,6 +394,14 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.9.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.9.0)
+
+- [f938f3f8](https://github.com/kubedb/rabbitmq/commit/f938f3f8) Prepare for release v0.9.0 (#82)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.47.0](https://github.com/kubedb/redis/releases/tag/v0.47.0)

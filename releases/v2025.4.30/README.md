@@ -32,6 +32,15 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.9.0](https://github.com/kubedb/clickhouse/releases/tag/v0.9.0)
+
+- [0ff896fe](https://github.com/kubedb/clickhouse/commit/0ff896fe) Prepare for release v0.9.0 (#50)
+- [3b26faef](https://github.com/kubedb/clickhouse/commit/3b26faef) Fix ClickHouse Keeper Selector (#48)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.12.0)

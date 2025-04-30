@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T03:46:27.5464574Z",
+  "release_date": "2025-04-30T04:15:20.027428247Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -89,6 +89,24 @@
             {
               "SHA": "a04f28b4f",
               "Subject": "Prepare for release v0.54.0 (#795)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "0ff896fe",
+              "Subject": "Prepare for release v0.9.0 (#50)"
+            },
+            {
+              "SHA": "3b26faef",
+              "Subject": "Fix ClickHouse Keeper Selector (#48)"
             }
           ]
         }

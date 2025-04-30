@@ -127,6 +127,15 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.9.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.9.0)
+
+- [e450a03b](https://github.com/kubedb/mssql-coordinator/commit/e450a03b) Prepare for release v0.9.0 (#36)
+- [0a45cf12](https://github.com/kubedb/mssql-coordinator/commit/0a45cf12) Use option to specify whether to use active or passive secondaries for SQL Server AG (#35)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.8.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T02:37:45.190130884Z",
+  "release_date": "2025-04-30T02:54:36.203449429Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -271,6 +271,24 @@
             {
               "SHA": "accf597",
               "Subject": "Prepare for release v0.17.0 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "e450a03b",
+              "Subject": "Prepare for release v0.9.0 (#36)"
+            },
+            {
+              "SHA": "0a45cf12",
+              "Subject": "Use option to specify whether to use active or passive secondaries for SQL Server AG (#35)"
             }
           ]
         }

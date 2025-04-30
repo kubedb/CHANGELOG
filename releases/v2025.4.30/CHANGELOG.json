@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T07:49:55.166508066Z",
+  "release_date": "2025-04-30T07:58:50.07404467Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -75,6 +75,32 @@
             {
               "SHA": "ba449cf3b",
               "Subject": "Fix Memcached validate (#1438)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "02241a78",
+              "Subject": "Prepare for release v0.39.0 (#249)"
+            },
+            {
+              "SHA": "32dfd236",
+              "Subject": "Hardcode node typ for es,kf,mg,sl,sdb (#248)"
+            },
+            {
+              "SHA": "480ed1ff",
+              "Subject": "Implement machineProfiles with nodeTopology for all dbs (#247)"
+            },
+            {
+              "SHA": "1bf90192",
+              "Subject": "Implement machineProfiles with nodeTopology (#246)"
             }
           ]
         }

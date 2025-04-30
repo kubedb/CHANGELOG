@@ -24,6 +24,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.39.0](https://github.com/kubedb/autoscaler/releases/tag/v0.39.0)
+
+- [02241a78](https://github.com/kubedb/autoscaler/commit/02241a78) Prepare for release v0.39.0 (#249)
+- [32dfd236](https://github.com/kubedb/autoscaler/commit/32dfd236) Hardcode node typ for es,kf,mg,sl,sdb (#248)
+- [480ed1ff](https://github.com/kubedb/autoscaler/commit/480ed1ff) Implement machineProfiles with nodeTopology for all dbs (#247)
+- [1bf90192](https://github.com/kubedb/autoscaler/commit/1bf90192) Implement machineProfiles with nodeTopology (#246)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.7.0](https://github.com/kubedb/cassandra/releases/tag/v0.7.0)

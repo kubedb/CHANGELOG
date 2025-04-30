@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T07:34:07.312633832Z",
+  "release_date": "2025-04-30T07:49:55.166508066Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -687,6 +687,44 @@
         {
           "tag": "v0.32.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "076344f48",
+              "Subject": "Prepare for release v0.41.0 (#731)"
+            },
+            {
+              "SHA": "6e6fc7b81",
+              "Subject": "Add Valkey distribution  (#727)"
+            },
+            {
+              "SHA": "e769c0656",
+              "Subject": "Fix webhook for local deployment (#728)"
+            },
+            {
+              "SHA": "3d82ca3b0",
+              "Subject": "Update for proxysql controller changes (#730)"
+            },
+            {
+              "SHA": "b5f673375",
+              "Subject": "Use option to specify whether to use active or passive secondaries for SQL Server AG (#726)"
+            },
+            {
+              "SHA": "071e805a9",
+              "Subject": "Implement horizons for MongoDB replicaset (#724)"
+            },
+            {
+              "SHA": "59dcdac78",
+              "Subject": "Update Kafka ops request daily schedule (#714)"
+            }
+          ]
         }
       ]
     },

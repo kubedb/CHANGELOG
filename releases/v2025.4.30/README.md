@@ -339,6 +339,20 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.41.0](https://github.com/kubedb/ops-manager/releases/tag/v0.41.0)
+
+- [076344f4](https://github.com/kubedb/ops-manager/commit/076344f48) Prepare for release v0.41.0 (#731)
+- [6e6fc7b8](https://github.com/kubedb/ops-manager/commit/6e6fc7b81) Add Valkey distribution  (#727)
+- [e769c065](https://github.com/kubedb/ops-manager/commit/e769c0656) Fix webhook for local deployment (#728)
+- [3d82ca3b](https://github.com/kubedb/ops-manager/commit/3d82ca3b0) Update for proxysql controller changes (#730)
+- [b5f67337](https://github.com/kubedb/ops-manager/commit/b5f673375) Use option to specify whether to use active or passive secondaries for SQL Server AG (#726)
+- [071e805a](https://github.com/kubedb/ops-manager/commit/071e805a9) Implement horizons for MongoDB replicaset (#724)
+- [59dcdac7](https://github.com/kubedb/ops-manager/commit/59dcdac78) Update Kafka ops request daily schedule (#714)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.41.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.41.0)

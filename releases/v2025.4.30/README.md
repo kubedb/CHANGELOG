@@ -67,6 +67,14 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.2.0](https://github.com/kubedb/gitops/releases/tag/v0.2.0)
+
+- [a01846f2](https://github.com/kubedb/gitops/commit/a01846f2) Prepare for release v0.2.0 (#14)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.25.0](https://github.com/kubedb/kafka/releases/tag/v0.25.0)

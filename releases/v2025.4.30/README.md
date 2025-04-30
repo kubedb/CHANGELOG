@@ -295,6 +295,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.47.0](https://github.com/kubedb/redis/releases/tag/v0.47.0)
+
+- [75318363](https://github.com/kubedb/redis/commit/75318363b) Prepare for release v0.47.0 (#591)
+- [d0ba7016](https://github.com/kubedb/redis/commit/d0ba7016a) Remove replace
+- [155af1e2](https://github.com/kubedb/redis/commit/155af1e24) Add Valkey support (#584)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.33.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.33.0)

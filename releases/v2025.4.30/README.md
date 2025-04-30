@@ -126,6 +126,14 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.8.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.8.0)
+
+- [1b092f1](https://github.com/kubedb/mssqlserver-walg-plugin/commit/1b092f1) Prepare for release v0.8.0 (#24)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.17.0)

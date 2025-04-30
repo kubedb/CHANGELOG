@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T03:31:23.978961485Z",
+  "release_date": "2025-04-30T03:33:37.94883265Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -421,6 +421,20 @@
         {
           "tag": "v0.32.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "7bbf390d5",
+              "Subject": "Prepare for release v0.41.0 (#406)"
+            }
+          ]
         }
       ]
     },

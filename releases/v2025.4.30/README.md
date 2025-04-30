@@ -214,6 +214,14 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.41.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.41.0)
+
+- [7bbf390d](https://github.com/kubedb/percona-xtradb/commit/7bbf390d5) Prepare for release v0.41.0 (#406)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.27.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.27.0)

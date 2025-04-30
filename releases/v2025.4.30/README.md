@@ -279,6 +279,14 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.9.0](https://github.com/kubedb/singlestore/releases/tag/v0.9.0)
+
+- [2122d0f9](https://github.com/kubedb/singlestore/commit/2122d0f9) Prepare for release v0.9.0 (#70)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.9.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.9.0)

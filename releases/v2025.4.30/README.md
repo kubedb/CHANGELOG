@@ -132,6 +132,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.47.0](https://github.com/kubedb/memcached/releases/tag/v0.47.0)
+
+- [933a5aaf](https://github.com/kubedb/memcached/commit/933a5aafa) Prepare for release v0.47.0 (#498)
+- [59215715](https://github.com/kubedb/memcached/commit/59215715d) Update Healthcheck (#497)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.47.0](https://github.com/kubedb/mongodb/releases/tag/v0.47.0)

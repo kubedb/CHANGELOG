@@ -24,6 +24,16 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.7.0](https://github.com/kubedb/cassandra/releases/tag/v0.7.0)
+
+- [48b908c7](https://github.com/kubedb/cassandra/commit/48b908c7) Prepare for release v0.7.0 (#33)
+- [4d654a13](https://github.com/kubedb/cassandra/commit/4d654a13) Don't PublishNotReadyAddresses for non Headless services (#26)
+- [54d2f8c8](https://github.com/kubedb/cassandra/commit/54d2f8c8) Add support for Backup (#32)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.54.0](https://github.com/kubedb/cli/releases/tag/v0.54.0)

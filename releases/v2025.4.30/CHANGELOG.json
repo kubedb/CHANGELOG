@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T04:19:40.91847976Z",
+  "release_date": "2025-04-30T04:21:17.551663984Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -75,6 +75,28 @@
             {
               "SHA": "ba449cf3b",
               "Subject": "Fix Memcached validate (#1438)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "48b908c7",
+              "Subject": "Prepare for release v0.7.0 (#33)"
+            },
+            {
+              "SHA": "4d654a13",
+              "Subject": "Don't PublishNotReadyAddresses for non Headless services (#26)"
+            },
+            {
+              "SHA": "54d2f8c8",
+              "Subject": "Add support for Backup (#32)"
             }
           ]
         }

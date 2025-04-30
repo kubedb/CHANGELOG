@@ -436,6 +436,15 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.54.0](https://github.com/kubedb/provisioner/releases/tag/v0.54.0)
+
+- [992fd429](https://github.com/kubedb/provisioner/commit/992fd429e) Prepare for release v0.54.0 (#150)
+- [68487083](https://github.com/kubedb/provisioner/commit/684870838) Add Ignite (#149)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.41.0](https://github.com/kubedb/proxysql/releases/tag/v0.41.0)

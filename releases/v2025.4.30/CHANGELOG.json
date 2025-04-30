@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T03:40:32.760991832Z",
+  "release_date": "2025-04-30T03:45:54.766036984Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -157,6 +157,24 @@
             {
               "SHA": "ba37ce8a",
               "Subject": "Prepare for release v0.17.0 (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "fd85af44",
+              "Subject": "Prepare for release v0.9.0 (#74)"
+            },
+            {
+              "SHA": "3340af01",
+              "Subject": "fix stats service selector (#73)"
             }
           ]
         }

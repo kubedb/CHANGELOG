@@ -67,6 +67,15 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.9.0](https://github.com/kubedb/ferretdb/releases/tag/v0.9.0)
+
+- [fd85af44](https://github.com/kubedb/ferretdb/commit/fd85af44) Prepare for release v0.9.0 (#74)
+- [3340af01](https://github.com/kubedb/ferretdb/commit/3340af01) fix stats service selector (#73)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.2.0](https://github.com/kubedb/gitops/releases/tag/v0.2.0)

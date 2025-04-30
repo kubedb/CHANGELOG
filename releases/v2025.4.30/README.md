@@ -134,6 +134,19 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.1.0](https://github.com/kubedb/ignite/releases/tag/v0.1.0)
+
+- [5583cbdb](https://github.com/kubedb/ignite/commit/5583cbdb) Fix script permission (#5)
+- [3f103f76](https://github.com/kubedb/ignite/commit/3f103f76) Prepare for release v0.1.0 (#4)
+- [0800cfc7](https://github.com/kubedb/ignite/commit/0800cfc7) Cleanup ci
+- [428b7dd3](https://github.com/kubedb/ignite/commit/428b7dd3) Test against k8s 1.32 (#2)
+- [611f01a8](https://github.com/kubedb/ignite/commit/611f01a8) Add Ignite Operator Bootstrap (#3)
+- [eb2b1097](https://github.com/kubedb/ignite/commit/eb2b1097) Add skeleton controller
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.25.0](https://github.com/kubedb/kafka/releases/tag/v0.25.0)

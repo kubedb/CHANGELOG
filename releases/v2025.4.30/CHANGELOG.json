@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T06:58:47.978237014Z",
+  "release_date": "2025-04-30T07:07:51.677666208Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -299,6 +299,40 @@
             {
               "SHA": "a01846f2",
               "Subject": "Prepare for release v0.2.0 (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "5583cbdb",
+              "Subject": "Fix script permission (#5)"
+            },
+            {
+              "SHA": "3f103f76",
+              "Subject": "Prepare for release v0.1.0 (#4)"
+            },
+            {
+              "SHA": "0800cfc7",
+              "Subject": "Cleanup ci"
+            },
+            {
+              "SHA": "428b7dd3",
+              "Subject": "Test against k8s 1.32 (#2)"
+            },
+            {
+              "SHA": "611f01a8",
+              "Subject": "Add Ignite Operator Bootstrap (#3)"
+            },
+            {
+              "SHA": "eb2b1097",
+              "Subject": "Add skeleton controller"
             }
           ]
         }

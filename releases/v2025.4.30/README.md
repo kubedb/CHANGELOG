@@ -231,6 +231,15 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.9.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.9.0)
+
+- [8c19feb3](https://github.com/kubedb/mssqlserver/commit/8c19feb3) Prepare for release v0.9.0 (#77)
+- [35f43968](https://github.com/kubedb/mssqlserver/commit/35f43968) Accept certificates with negative serial number (#75)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.8.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.8.0)

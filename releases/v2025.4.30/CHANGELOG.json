@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T04:25:08.072063718Z",
+  "release_date": "2025-04-30T04:30:32.587143154Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -471,6 +471,24 @@
             {
               "SHA": "0a45cf12",
               "Subject": "Use option to specify whether to use active or passive secondaries for SQL Server AG (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "8c19feb3",
+              "Subject": "Prepare for release v0.9.0 (#77)"
+            },
+            {
+              "SHA": "35f43968",
+              "Subject": "Accept certificates with negative serial number (#75)"
             }
           ]
         }

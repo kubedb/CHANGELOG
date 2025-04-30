@@ -584,6 +584,15 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.30.0](https://github.com/kubedb/webhook-server/releases/tag/v0.30.0)
+
+- [f259b5de](https://github.com/kubedb/webhook-server/commit/f259b5de) Prepare for release v0.30.0 (#154)
+- [08138276](https://github.com/kubedb/webhook-server/commit/08138276) Add ignite
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.3.0)

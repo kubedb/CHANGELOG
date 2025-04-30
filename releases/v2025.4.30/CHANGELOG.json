@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T07:58:50.07404467Z",
+  "release_date": "2025-04-30T08:06:09.485821901Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -1158,6 +1158,24 @@
             {
               "SHA": "fa8ad21a",
               "Subject": "Add connection support for es,fr,sl (#161)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "f259b5de",
+              "Subject": "Prepare for release v0.30.0 (#154)"
+            },
+            {
+              "SHA": "08138276",
+              "Subject": "Add ignite"
             }
           ]
         }

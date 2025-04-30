@@ -279,6 +279,15 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.33.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.33.0)
+
+- [3bd07eb1](https://github.com/kubedb/redis-coordinator/commit/3bd07eb1) Prepare for release v0.33.0 (#127)
+- [f3566c1e](https://github.com/kubedb/redis-coordinator/commit/f3566c1e) valkey integration (#124)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.41.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.41.0)

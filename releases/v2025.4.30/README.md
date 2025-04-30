@@ -43,6 +43,14 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.9.0](https://github.com/kubedb/druid/releases/tag/v0.9.0)
+
+- [644653c6](https://github.com/kubedb/druid/commit/644653c6) Prepare for release v0.9.0 (#84)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.17.0)

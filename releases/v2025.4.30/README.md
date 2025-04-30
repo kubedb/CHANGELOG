@@ -158,6 +158,26 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2025.4.30](https://github.com/kubedb/installer/releases/tag/v2025.4.30)
+
+- [090b8588](https://github.com/kubedb/installer/commit/090b8588a) Prepare for release v2025.4.30 (#1680)
+- [d8676aac](https://github.com/kubedb/installer/commit/d8676aacf) Redis Official distribution added (#1679)
+- [9872281e](https://github.com/kubedb/installer/commit/9872281e1) Add Ignite (#1643)
+- [b86dbf1e](https://github.com/kubedb/installer/commit/b86dbf1e9) Add ValKey Versions (#1677)
+- [e87a2659](https://github.com/kubedb/installer/commit/e87a26598) Update catalog
+- [8c6ea49f](https://github.com/kubedb/installer/commit/8c6ea49f9) Update cve report 2025-04-28 (#1665)
+- [3303d562](https://github.com/kubedb/installer/commit/3303d5624) Add support for Cassandra backup (#1676)
+- [455bf1b5](https://github.com/kubedb/installer/commit/455bf1b51) Add New ProxySQL Version 2.7.3 (#1666)
+- [9270d064](https://github.com/kubedb/installer/commit/9270d064c) Add '--install-gitops-crds' flag (#1661)
+- [0b28a1fa](https://github.com/kubedb/installer/commit/0b28a1fa8) Add Valkey to Redis license restriction (#1660)
+- [fa9e198b](https://github.com/kubedb/installer/commit/fa9e198b8) Update crds for kubedb/apimachinery@b5f3a997 (#1675)
+- [0d658935](https://github.com/kubedb/installer/commit/0d6589353) Update MySQL Init Image (#1667)
+- [ca728491](https://github.com/kubedb/installer/commit/ca728491d) Update cve report (#1664)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.25.0](https://github.com/kubedb/kafka/releases/tag/v0.25.0)

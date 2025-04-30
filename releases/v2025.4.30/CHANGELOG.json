@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T08:06:09.485821901Z",
+  "release_date": "2025-04-30T08:53:33.564148729Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -359,6 +359,68 @@
             {
               "SHA": "eb2b1097",
               "Subject": "Add skeleton controller"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.4.30",
+          "commits": [
+            {
+              "SHA": "090b8588a",
+              "Subject": "Prepare for release v2025.4.30 (#1680)"
+            },
+            {
+              "SHA": "d8676aacf",
+              "Subject": "Redis Official distribution added (#1679)"
+            },
+            {
+              "SHA": "9872281e1",
+              "Subject": "Add Ignite (#1643)"
+            },
+            {
+              "SHA": "b86dbf1e9",
+              "Subject": "Add ValKey Versions (#1677)"
+            },
+            {
+              "SHA": "e87a26598",
+              "Subject": "Update catalog"
+            },
+            {
+              "SHA": "8c6ea49f9",
+              "Subject": "Update cve report 2025-04-28 (#1665)"
+            },
+            {
+              "SHA": "3303d5624",
+              "Subject": "Add support for Cassandra backup (#1676)"
+            },
+            {
+              "SHA": "455bf1b51",
+              "Subject": "Add New ProxySQL Version 2.7.3 (#1666)"
+            },
+            {
+              "SHA": "9270d064c",
+              "Subject": "Add '--install-gitops-crds' flag (#1661)"
+            },
+            {
+              "SHA": "0b28a1fa8",
+              "Subject": "Add Valkey to Redis license restriction (#1660)"
+            },
+            {
+              "SHA": "fa9e198b8",
+              "Subject": "Update crds for kubedb/apimachinery@b5f3a997 (#1675)"
+            },
+            {
+              "SHA": "0d6589353",
+              "Subject": "Update MySQL Init Image (#1667)"
+            },
+            {
+              "SHA": "ca728491d",
+              "Subject": "Update cve report (#1664)"
             }
           ]
         }

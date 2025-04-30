@@ -151,6 +151,14 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.15.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.15.0)
+
+- [611a1cfd](https://github.com/kubedb/mysql-archiver/commit/611a1cfd) Prepare for release v0.15.0 (#58)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.17.0)

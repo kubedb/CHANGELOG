@@ -51,6 +51,16 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.9.0](https://github.com/kubedb/crd-manager/releases/tag/v0.9.0)
+
+- [4362bceb](https://github.com/kubedb/crd-manager/commit/4362bceb) Prepare for release v0.9.0 (#76)
+- [869f231f](https://github.com/kubedb/crd-manager/commit/869f231f) Add Ignite (#74)
+- [625d5bf3](https://github.com/kubedb/crd-manager/commit/625d5bf3) Install gitops crds only if the flag is on (#75)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.12.0)

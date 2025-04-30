@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-30T04:21:17.551663984Z",
+  "release_date": "2025-04-30T04:25:08.072063718Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -129,6 +129,28 @@
             {
               "SHA": "3b26faef",
               "Subject": "Fix ClickHouse Keeper Selector (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "4362bceb",
+              "Subject": "Prepare for release v0.9.0 (#76)"
+            },
+            {
+              "SHA": "869f231f",
+              "Subject": "Add Ignite (#74)"
+            },
+            {
+              "SHA": "625d5bf3",
+              "Subject": "Install gitops crds only if the flag is on (#75)"
             }
           ]
         }

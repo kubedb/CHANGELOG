@@ -1,4 +1,4 @@
-# KubeDB v2025.4.30 (2025-04-29)
+# KubeDB v2025.4.30 (2025-04-30)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -56,6 +56,14 @@
 ### [v0.25.0](https://github.com/kubedb/kafka/releases/tag/v0.25.0)
 
 - [ee707865](https://github.com/kubedb/kafka/commit/ee707865) Prepare for release v0.25.0 (#149)
+
+
+
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.17.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.17.0)
+
+- [1e74db51](https://github.com/kubedb/kubedb-manifest-plugin/commit/1e74db51) Prepare for release v0.17.0 (#93)
 
 
 

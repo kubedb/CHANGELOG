@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.4.30",
-  "release_date": "2025-04-29T23:08:41.188915071Z",
+  "release_date": "2025-04-30T02:29:17.092147788Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.4.30",
   "kubernetes_version": "1.26+",
@@ -143,6 +143,20 @@
             {
               "SHA": "ee707865",
               "Subject": "Prepare for release v0.25.0 (#149)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "1e74db51",
+              "Subject": "Prepare for release v0.17.0 (#93)"
             }
           ]
         }

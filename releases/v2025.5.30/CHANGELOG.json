@@ -1,0 +1,76 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.5.30",
+  "release_date": "2025-05-30T21:28:59.565770926Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.5.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.55.0",
+          "commits": [
+            {
+              "SHA": "e711ccbd7",
+              "Subject": "Report cluster mode in billing event (#1467)"
+            },
+            {
+              "SHA": "d84b0ec51",
+              "Subject": "Add zap logger (#1466)"
+            },
+            {
+              "SHA": "5cb035464",
+              "Subject": "Add Clickhouse opsreq: restart,vertical scale (#1456)"
+            },
+            {
+              "SHA": "e9f8cabaa",
+              "Subject": "Oracle API (#1464)"
+            },
+            {
+              "SHA": "de1412fcb",
+              "Subject": "Add hazelcast api (#1413)"
+            },
+            {
+              "SHA": "02cb3e121",
+              "Subject": "Add support for Cassandra UpdateVersion and Vertical Scale (#1458)"
+            },
+            {
+              "SHA": "fc30e50e2",
+              "Subject": "Add RotateAuth opsrequest validator for Redis (#1459)"
+            },
+            {
+              "SHA": "33f103be5",
+              "Subject": "Add ferretdb 'backend' spec (#1462)"
+            },
+            {
+              "SHA": "8b490644a",
+              "Subject": "Add RabbitMQ RotateAuth Validation (#1461)"
+            },
+            {
+              "SHA": "6dba2e99e",
+              "Subject": "Add ignite's monitor field (#1460)"
+            },
+            {
+              "SHA": "02d581ccd",
+              "Subject": "Redis Validation code added in webhook (#1457)"
+            },
+            {
+              "SHA": "bd55299ce",
+              "Subject": "Add Client Certificate API to ClickHouse (#1455)"
+            },
+            {
+              "SHA": "b555d3030",
+              "Subject": "Fix conversion for mg & kf (#1454)"
+            },
+            {
+              "SHA": "8d88b2b04",
+              "Subject": "Fix Replicas Ready Check (#1453)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

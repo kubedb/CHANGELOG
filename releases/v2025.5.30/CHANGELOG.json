@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-30T21:28:59.565770926Z",
+  "release_date": "2025-05-30T21:38:08.906376819Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -67,6 +67,40 @@
             {
               "SHA": "8d88b2b04",
               "Subject": "Fix Replicas Ready Check (#1453)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "999446c9",
+              "Subject": "Prepare for release v0.10.0 (#180)"
+            },
+            {
+              "SHA": "0c501494",
+              "Subject": "Update virtual secrets implementation (#174)"
+            },
+            {
+              "SHA": "7d604391",
+              "Subject": "Export pgbouncer.KubeDBClientBuilder's \"getBackendAuth\" method (#175)"
+            },
+            {
+              "SHA": "e91e0389",
+              "Subject": "Fix config (#178)"
+            },
+            {
+              "SHA": "564ffcc7",
+              "Subject": "Add hazelcast client (#177)"
+            },
+            {
+              "SHA": "e4ea3665",
+              "Subject": "Add oracle db client (#176)"
             }
           ]
         }

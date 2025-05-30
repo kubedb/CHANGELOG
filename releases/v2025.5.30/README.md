@@ -22,3 +22,16 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.10.0](https://github.com/kubedb/db-client-go/releases/tag/v0.10.0)
+
+- [999446c9](https://github.com/kubedb/db-client-go/commit/999446c9) Prepare for release v0.10.0 (#180)
+- [0c501494](https://github.com/kubedb/db-client-go/commit/0c501494) Update virtual secrets implementation (#174)
+- [7d604391](https://github.com/kubedb/db-client-go/commit/7d604391) Export pgbouncer.KubeDBClientBuilder's "getBackendAuth" method (#175)
+- [e91e0389](https://github.com/kubedb/db-client-go/commit/e91e0389) Fix config (#178)
+- [564ffcc7](https://github.com/kubedb/db-client-go/commit/564ffcc7) Add hazelcast client (#177)
+- [e4ea3665](https://github.com/kubedb/db-client-go/commit/e4ea3665) Add oracle db client (#176)
+
+
+

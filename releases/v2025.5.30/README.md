@@ -87,6 +87,15 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.1.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.1.0)
+
+- [c31da55](https://github.com/kubedb/oracle-coordinator/commit/c31da55) Prepare for release v0.1.0 (#3)
+- [be2d18f](https://github.com/kubedb/oracle-coordinator/commit/be2d18f) Oracle Coordinator For DataGuard Mode (#2)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.42.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.42.0)

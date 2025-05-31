@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:00:49.429859293Z",
+  "release_date": "2025-05-31T01:00:53.283116812Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -201,6 +201,24 @@
             {
               "SHA": "dc35ad0e",
               "Subject": "Prepare for release v0.10.0 (#78)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "c31da55",
+              "Subject": "Prepare for release v0.1.0 (#3)"
+            },
+            {
+              "SHA": "be2d18f",
+              "Subject": "Oracle Coordinator For DataGuard Mode (#2)"
             }
           ]
         }

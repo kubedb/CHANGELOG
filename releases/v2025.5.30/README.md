@@ -87,6 +87,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.48.0](https://github.com/kubedb/mysql/releases/tag/v0.48.0)
+
+- [a07d4e9e](https://github.com/kubedb/mysql/commit/a07d4e9ed) Prepare for release v0.48.0 (#687)
+- [864661fc](https://github.com/kubedb/mysql/commit/864661fc5) Fix Archiver for TLS Enabled Minio Backend (#685)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.1.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.1.0)

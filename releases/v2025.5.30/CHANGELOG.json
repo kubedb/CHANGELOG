@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-30T21:38:08.906376819Z",
+  "release_date": "2025-05-31T00:42:48.340365739Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -101,6 +101,20 @@
             {
               "SHA": "e4ea3665",
               "Subject": "Add oracle db client (#176)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "ff3a2edc",
+              "Subject": "Prepare for release v0.10.0 (#37)"
             }
           ]
         }

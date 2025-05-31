@@ -1,4 +1,4 @@
-# KubeDB v2025.5.30 (2025-05-30)
+# KubeDB v2025.5.30 (2025-05-31)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -32,6 +32,14 @@
 - [e91e0389](https://github.com/kubedb/db-client-go/commit/e91e0389) Fix config (#178)
 - [564ffcc7](https://github.com/kubedb/db-client-go/commit/564ffcc7) Add hazelcast client (#177)
 - [e4ea3665](https://github.com/kubedb/db-client-go/commit/e4ea3665) Add oracle db client (#176)
+
+
+
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.10.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.10.0)
+
+- [ff3a2edc](https://github.com/kubedb/mssql-coordinator/commit/ff3a2edc) Prepare for release v0.10.0 (#37)
 
 
 

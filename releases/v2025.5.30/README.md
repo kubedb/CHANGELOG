@@ -81,6 +81,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.10.0](https://github.com/kubedb/ferretdb/releases/tag/v0.10.0)
+
+- [5ef56625](https://github.com/kubedb/ferretdb/commit/5ef56625) Prepare for release v0.10.0 (#77)
+- [047b5538](https://github.com/kubedb/ferretdb/commit/047b5538) Set backend pg resources (#76)
+- [d99de6d1](https://github.com/kubedb/ferretdb/commit/d99de6d1) Add max-concurrent-reconciles flag and update shedule (#75)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.3.0](https://github.com/kubedb/gitops/releases/tag/v0.3.0)

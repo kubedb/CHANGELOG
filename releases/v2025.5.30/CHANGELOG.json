@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:04:31.982939113Z",
+  "release_date": "2025-05-31T01:04:42.084585516Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -195,6 +195,28 @@
             {
               "SHA": "fff278ee5",
               "Subject": "Add max-concurrent-reconciles flag (#765)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "5ef56625",
+              "Subject": "Prepare for release v0.10.0 (#77)"
+            },
+            {
+              "SHA": "047b5538",
+              "Subject": "Set backend pg resources (#76)"
+            },
+            {
+              "SHA": "d99de6d1",
+              "Subject": "Add max-concurrent-reconciles flag and update shedule (#75)"
             }
           ]
         }

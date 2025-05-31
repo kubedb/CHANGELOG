@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:02:36.886540914Z",
+  "release_date": "2025-05-31T01:02:49.504070723Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -133,6 +133,24 @@
             {
               "SHA": "07cd0d7e",
               "Subject": "Add max-concurrent-reconciles flag (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.55.0",
+          "commits": [
+            {
+              "SHA": "78daed93c",
+              "Subject": "Prepare for release v0.55.0 (#766)"
+            },
+            {
+              "SHA": "fff278ee5",
+              "Subject": "Add max-concurrent-reconciles flag (#765)"
             }
           ]
         }

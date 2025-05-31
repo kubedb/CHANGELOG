@@ -52,6 +52,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.55.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.55.0)
+
+- [78daed93](https://github.com/kubedb/elasticsearch/commit/78daed93c) Prepare for release v0.55.0 (#766)
+- [fff278ee](https://github.com/kubedb/elasticsearch/commit/fff278ee5) Add max-concurrent-reconciles flag (#765)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.3.0](https://github.com/kubedb/gitops/releases/tag/v0.3.0)

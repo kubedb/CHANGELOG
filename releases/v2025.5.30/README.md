@@ -213,6 +213,14 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.16.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.16.0)
+
+- [9fa95203](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/9fa95203) Prepare for release v0.16.0 (#51)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.10.0)

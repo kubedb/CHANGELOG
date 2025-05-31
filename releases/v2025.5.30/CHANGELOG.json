@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:01:59.433974185Z",
+  "release_date": "2025-05-31T01:02:17.434309749Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -401,6 +401,20 @@
             {
               "SHA": "4f454ea2",
               "Subject": "Add Tests for MariaDB Replication Topology (#456)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "f793b7d",
+              "Subject": "Prepare for release v0.4.0 (#13)"
             }
           ]
         }

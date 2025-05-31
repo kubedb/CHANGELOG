@@ -182,3 +182,11 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.4.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.4.0)
+
+- [f793b7d](https://github.com/kubedb/xtrabackup-restic-plugin/commit/f793b7d) Prepare for release v0.4.0 (#13)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:03:58.416332045Z",
+  "release_date": "2025-05-31T01:04:10.602340994Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -531,6 +531,28 @@
             {
               "SHA": "bc8cf613",
               "Subject": "Add max-concurrent-reconciles flag (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "b932e9925",
+              "Subject": "Prepare for release v0.48.0 (#594)"
+            },
+            {
+              "SHA": "42cddee89",
+              "Subject": "Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com> (#593)"
+            },
+            {
+              "SHA": "c470ef7c9",
+              "Subject": "Add REDISCLI_AUTH env for valkey (#592)"
             }
           ]
         }

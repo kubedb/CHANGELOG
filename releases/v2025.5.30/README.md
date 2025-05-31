@@ -255,6 +255,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.48.0](https://github.com/kubedb/redis/releases/tag/v0.48.0)
+
+- [b932e992](https://github.com/kubedb/redis/commit/b932e9925) Prepare for release v0.48.0 (#594)
+- [42cddee8](https://github.com/kubedb/redis/commit/42cddee89) Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com> (#593)
+- [c470ef7c](https://github.com/kubedb/redis/commit/c470ef7c9) Add REDISCLI_AUTH env for valkey (#592)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.18.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.18.0)

@@ -166,6 +166,14 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.16.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.16.0)
+
+- [a70cb81b](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/a70cb81b) Prepare for release v0.16.0 (#47)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.1.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.1.0)

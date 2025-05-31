@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:05:49.244544669Z",
+  "release_date": "2025-05-31T01:06:02.712085843Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -353,6 +353,28 @@
             {
               "SHA": "a2a2fde",
               "Subject": "Prepare for release v0.6.0 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "3181d1868",
+              "Subject": "Prepare for release v0.39.0 (#332)"
+            },
+            {
+              "SHA": "f5d6d7ccd",
+              "Subject": "Add TLS Support to Maxscale (#327)"
+            },
+            {
+              "SHA": "b9689cb47",
+              "Subject": "Fix Archiver for TLS Enabled Minio Backend (#330)"
             }
           ]
         }

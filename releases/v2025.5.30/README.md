@@ -161,6 +161,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.39.0](https://github.com/kubedb/mariadb/releases/tag/v0.39.0)
+
+- [3181d186](https://github.com/kubedb/mariadb/commit/3181d1868) Prepare for release v0.39.0 (#332)
+- [f5d6d7cc](https://github.com/kubedb/mariadb/commit/f5d6d7ccd) Add TLS Support to Maxscale (#327)
+- [b9689cb4](https://github.com/kubedb/mariadb/commit/b9689cb47) Fix Archiver for TLS Enabled Minio Backend (#330)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.15.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.15.0)

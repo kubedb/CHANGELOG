@@ -44,6 +44,16 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.2.0](https://github.com/kubedb/ignite/releases/tag/v0.2.0)
+
+- [991ee23d](https://github.com/kubedb/ignite/commit/991ee23d) Prepare for release v0.2.0 (#8)
+- [6d00303c](https://github.com/kubedb/ignite/commit/6d00303c) Add monitoring Support (#7)
+- [998cfa31](https://github.com/kubedb/ignite/commit/998cfa31) Fix v2.17.0 issue (#6)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.10.0)

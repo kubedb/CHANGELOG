@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:00:17.068384471Z",
+  "release_date": "2025-05-31T01:00:22.73052973Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -119,6 +119,28 @@
             {
               "SHA": "07cd0d7e",
               "Subject": "Add max-concurrent-reconciles flag (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "991ee23d",
+              "Subject": "Prepare for release v0.2.0 (#8)"
+            },
+            {
+              "SHA": "6d00303c",
+              "Subject": "Add monitoring Support (#7)"
+            },
+            {
+              "SHA": "998cfa31",
+              "Subject": "Fix v2.17.0 issue (#6)"
             }
           ]
         }

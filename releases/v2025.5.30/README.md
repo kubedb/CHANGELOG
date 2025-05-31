@@ -182,6 +182,15 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.10.0](https://github.com/kubedb/pgpool/releases/tag/v0.10.0)
+
+- [af86700f](https://github.com/kubedb/pgpool/commit/af86700f) Prepare for release v0.10.0 (#75)
+- [d8f1db30](https://github.com/kubedb/pgpool/commit/d8f1db30) Add max-concurrent-reconciles flag (#74)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.55.0](https://github.com/kubedb/postgres/releases/tag/v0.55.0)

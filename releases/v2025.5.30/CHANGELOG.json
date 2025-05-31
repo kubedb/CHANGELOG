@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:03:07.17672313Z",
+  "release_date": "2025-05-31T01:03:16.031046044Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -383,6 +383,24 @@
             {
               "SHA": "58ac9747",
               "Subject": "Prepare for release v0.28.0 (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "af86700f",
+              "Subject": "Prepare for release v0.10.0 (#75)"
+            },
+            {
+              "SHA": "d8f1db30",
+              "Subject": "Add max-concurrent-reconciles flag (#74)"
             }
           ]
         }

@@ -119,6 +119,14 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.18.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.18.0)
+
+- [427c40ee](https://github.com/kubedb/kubedb-manifest-plugin/commit/427c40ee) Prepare for release v0.18.0 (#94)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.6.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.6.0)

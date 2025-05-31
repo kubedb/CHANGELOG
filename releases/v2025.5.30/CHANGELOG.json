@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T04:24:28.567868998Z",
+  "release_date": "2025-05-31T04:38:22.488192063Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -862,6 +862,24 @@
         {
           "tag": "v0.16.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "6ff3d865b",
+              "Subject": "Prepare for release v0.42.0 (#394)"
+            },
+            {
+              "SHA": "e73b19b17",
+              "Subject": "Pass proxyql version for mysql new auth plugin setup (#393)"
+            }
+          ]
         }
       ]
     },

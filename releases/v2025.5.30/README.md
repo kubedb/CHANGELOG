@@ -442,6 +442,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.42.0](https://github.com/kubedb/proxysql/releases/tag/v0.42.0)
+
+- [6ff3d865](https://github.com/kubedb/proxysql/commit/6ff3d865b) Prepare for release v0.42.0 (#394)
+- [e73b19b1](https://github.com/kubedb/proxysql/commit/e73b19b17) Pass proxyql version for mysql new auth plugin setup (#393)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.10.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.10.0)

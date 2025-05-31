@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T05:07:43.157455794Z",
+  "release_date": "2025-05-31T05:49:45.598502711Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -876,6 +876,28 @@
         {
           "tag": "v0.16.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.55.0",
+          "commits": [
+            {
+              "SHA": "591de3a4e",
+              "Subject": "Prepare for release v0.55.0 (#152)"
+            },
+            {
+              "SHA": "0047c550e",
+              "Subject": "Add Oracle Database Support (#151)"
+            },
+            {
+              "SHA": "e8e345bbb",
+              "Subject": "Remove .DS_Store"
+            }
+          ]
         }
       ]
     },

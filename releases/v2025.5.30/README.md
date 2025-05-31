@@ -450,6 +450,16 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.55.0](https://github.com/kubedb/provisioner/releases/tag/v0.55.0)
+
+- [591de3a4](https://github.com/kubedb/provisioner/commit/591de3a4e) Prepare for release v0.55.0 (#152)
+- [0047c550](https://github.com/kubedb/provisioner/commit/0047c550e) Add Oracle Database Support (#151)
+- [e8e345bb](https://github.com/kubedb/provisioner/commit/e8e345bbb) Remove .DS_Store
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.42.0](https://github.com/kubedb/proxysql/releases/tag/v0.42.0)

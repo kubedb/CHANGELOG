@@ -35,6 +35,15 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.10.0](https://github.com/kubedb/druid/releases/tag/v0.10.0)
+
+- [02c68fa7](https://github.com/kubedb/druid/commit/02c68fa7) Prepare for release v0.10.0 (#86)
+- [07cd0d7e](https://github.com/kubedb/druid/commit/07cd0d7e) Add max-concurrent-reconciles flag (#85)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.10.0)

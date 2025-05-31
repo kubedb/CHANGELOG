@@ -160,6 +160,38 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2025.5.30](https://github.com/kubedb/installer/releases/tag/v2025.5.30)
+
+- [2443b351](https://github.com/kubedb/installer/commit/2443b3518) Prepare for release v2025.5.30 (#1722)
+- [79bfb53a](https://github.com/kubedb/installer/commit/79bfb53ae) Update init images; make gen fmt; Update catalog (#1719)
+- [da9b4329](https://github.com/kubedb/installer/commit/da9b4329c) Add Oracle Database Support (#1711)
+- [867da9ef](https://github.com/kubedb/installer/commit/867da9ef1) Add hazelcast support (#1626)
+- [650bb7b6](https://github.com/kubedb/installer/commit/650bb7b68) Update crds for kubedb/apimachinery@d84b0ec5 (#1718)
+- [70ad4934](https://github.com/kubedb/installer/commit/70ad4934f) Add updateConstraints for Cassandra (#1696)
+- [ec6d0f5d](https://github.com/kubedb/installer/commit/ec6d0f5d2) Add Postgres New Versions 17.5, 16.9, 15.13, 14.18, 13.21 (#1702)
+- [b5d2b884](https://github.com/kubedb/installer/commit/b5d2b884b) Add Cassandra addons (#1686)
+- [16420f46](https://github.com/kubedb/installer/commit/16420f46d) Add Ignite Dashboards (#1701)
+- [b855d983](https://github.com/kubedb/installer/commit/b855d983b) Add New ProxySQL Version 3.0.1 (#1699)
+- [5a747db3](https://github.com/kubedb/installer/commit/5a747db33) Add databases flag for singlestore addon (#1688)
+- [22379995](https://github.com/kubedb/installer/commit/223799959) Update crds for kubedb/apimachinery@e9f8caba (#1715)
+- [feff483b](https://github.com/kubedb/installer/commit/feff483b8) Update cve report (#1708)
+- [24e5e470](https://github.com/kubedb/installer/commit/24e5e4708) Update crds for kubedb/apimachinery@02cb3e12 (#1713)
+- [0a7e2dec](https://github.com/kubedb/installer/commit/0a7e2decb) Update crds for kubedb/apimachinery@fc30e50e (#1712)
+- [0481aed1](https://github.com/kubedb/installer/commit/0481aed1c) Update crds for kubedb/apimachinery@6dba2e99 (#1709)
+- [132e9fcd](https://github.com/kubedb/installer/commit/132e9fcd1) Update cve report (#1707)
+- [82c0ac76](https://github.com/kubedb/installer/commit/82c0ac769) Update cve report (#1706)
+- [1e659c45](https://github.com/kubedb/installer/commit/1e659c45d) Update cve report (#1705)
+- [fba10bbb](https://github.com/kubedb/installer/commit/fba10bbbc) Update cve report (#1704)
+- [7f21fadc](https://github.com/kubedb/installer/commit/7f21fadca) Update cve report (#1700)
+- [1cb4a04e](https://github.com/kubedb/installer/commit/1cb4a04e2) Add SideKick, Kubestash Storage Permission (#1703)
+- [5e96cf86](https://github.com/kubedb/installer/commit/5e96cf862) Update cve report (#1698)
+- [7de684e6](https://github.com/kubedb/installer/commit/7de684e62) Update cve report (#1697)
+- [cf862da6](https://github.com/kubedb/installer/commit/cf862da6b) Update cve report (#1695)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.26.0](https://github.com/kubedb/kafka/releases/tag/v0.26.0)

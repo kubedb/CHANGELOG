@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T06:19:58.593087756Z",
+  "release_date": "2025-05-31T08:44:04.380040504Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -349,6 +349,116 @@
             {
               "SHA": "998cfa31",
               "Subject": "Fix v2.17.0 issue (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.5.30",
+          "commits": [
+            {
+              "SHA": "2443b3518",
+              "Subject": "Prepare for release v2025.5.30 (#1722)"
+            },
+            {
+              "SHA": "79bfb53ae",
+              "Subject": "Update init images; make gen fmt; Update catalog (#1719)"
+            },
+            {
+              "SHA": "da9b4329c",
+              "Subject": "Add Oracle Database Support (#1711)"
+            },
+            {
+              "SHA": "867da9ef1",
+              "Subject": "Add hazelcast support (#1626)"
+            },
+            {
+              "SHA": "650bb7b68",
+              "Subject": "Update crds for kubedb/apimachinery@d84b0ec5 (#1718)"
+            },
+            {
+              "SHA": "70ad4934f",
+              "Subject": "Add updateConstraints for Cassandra (#1696)"
+            },
+            {
+              "SHA": "ec6d0f5d2",
+              "Subject": "Add Postgres New Versions 17.5, 16.9, 15.13, 14.18, 13.21 (#1702)"
+            },
+            {
+              "SHA": "b5d2b884b",
+              "Subject": "Add Cassandra addons (#1686)"
+            },
+            {
+              "SHA": "16420f46d",
+              "Subject": "Add Ignite Dashboards (#1701)"
+            },
+            {
+              "SHA": "b855d983b",
+              "Subject": "Add New ProxySQL Version 3.0.1 (#1699)"
+            },
+            {
+              "SHA": "5a747db33",
+              "Subject": "Add databases flag for singlestore addon (#1688)"
+            },
+            {
+              "SHA": "223799959",
+              "Subject": "Update crds for kubedb/apimachinery@e9f8caba (#1715)"
+            },
+            {
+              "SHA": "feff483b8",
+              "Subject": "Update cve report (#1708)"
+            },
+            {
+              "SHA": "24e5e4708",
+              "Subject": "Update crds for kubedb/apimachinery@02cb3e12 (#1713)"
+            },
+            {
+              "SHA": "0a7e2decb",
+              "Subject": "Update crds for kubedb/apimachinery@fc30e50e (#1712)"
+            },
+            {
+              "SHA": "0481aed1c",
+              "Subject": "Update crds for kubedb/apimachinery@6dba2e99 (#1709)"
+            },
+            {
+              "SHA": "132e9fcd1",
+              "Subject": "Update cve report (#1707)"
+            },
+            {
+              "SHA": "82c0ac769",
+              "Subject": "Update cve report (#1706)"
+            },
+            {
+              "SHA": "1e659c45d",
+              "Subject": "Update cve report (#1705)"
+            },
+            {
+              "SHA": "fba10bbbc",
+              "Subject": "Update cve report (#1704)"
+            },
+            {
+              "SHA": "7f21fadca",
+              "Subject": "Update cve report (#1700)"
+            },
+            {
+              "SHA": "1cb4a04e2",
+              "Subject": "Add SideKick, Kubestash Storage Permission (#1703)"
+            },
+            {
+              "SHA": "5e96cf862",
+              "Subject": "Update cve report (#1698)"
+            },
+            {
+              "SHA": "7de684e62",
+              "Subject": "Update cve report (#1697)"
+            },
+            {
+              "SHA": "cf862da6b",
+              "Subject": "Update cve report (#1695)"
             }
           ]
         }

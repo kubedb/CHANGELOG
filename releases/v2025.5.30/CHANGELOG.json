@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T06:10:59.008145592Z",
+  "release_date": "2025-05-31T06:19:58.593087756Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -1218,6 +1218,24 @@
             {
               "SHA": "08c7ea52",
               "Subject": "Prepare for release v0.31.0 (#163)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "2e1a0c20",
+              "Subject": "Prepare for release v0.31.0 (#157)"
+            },
+            {
+              "SHA": "b972d532",
+              "Subject": "Add Oracle & Hazlecast Webhook Support (#156)"
             }
           ]
         }

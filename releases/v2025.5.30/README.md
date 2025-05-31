@@ -608,6 +608,15 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.31.0](https://github.com/kubedb/webhook-server/releases/tag/v0.31.0)
+
+- [2e1a0c20](https://github.com/kubedb/webhook-server/commit/2e1a0c20) Prepare for release v0.31.0 (#157)
+- [b972d532](https://github.com/kubedb/webhook-server/commit/b972d532) Add Oracle & Hazlecast Webhook Support (#156)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.4.0)

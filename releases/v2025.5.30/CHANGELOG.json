@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T08:44:04.380040504Z",
+  "release_date": "2025-05-31T09:01:42.856924669Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -219,6 +219,36 @@
             {
               "SHA": "e4ea3665",
               "Subject": "Add oracle db client (#176)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.5.30",
+          "commits": [
+            {
+              "SHA": "df3974ab",
+              "Subject": "Prepare for release v2025.5.30 (#773)"
+            },
+            {
+              "SHA": "0410ad6a",
+              "Subject": "ferretdb `storage` -> `backend.storage` (#772)"
+            },
+            {
+              "SHA": "a3c467e4",
+              "Subject": "Add percona-xtradb proxy with sync users and solution of  mbind: Operation not permitted issue (#770)"
+            },
+            {
+              "SHA": "76fc9085",
+              "Subject": "Add Kafka RotateAuth OpsRequest Docs (#771)"
+            },
+            {
+              "SHA": "97629dd8",
+              "Subject": "Fix redis cluster shards' replicas count (#766)"
             }
           ]
         }

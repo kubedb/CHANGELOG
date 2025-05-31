@@ -96,6 +96,18 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.5.30](https://github.com/kubedb/docs/releases/tag/v2025.5.30)
+
+- [df3974ab](https://github.com/kubedb/docs/commit/df3974ab) Prepare for release v2025.5.30 (#773)
+- [0410ad6a](https://github.com/kubedb/docs/commit/0410ad6a) ferretdb `storage` -> `backend.storage` (#772)
+- [a3c467e4](https://github.com/kubedb/docs/commit/a3c467e4) Add percona-xtradb proxy with sync users and solution of  mbind: Operation not permitted issue (#770)
+- [76fc9085](https://github.com/kubedb/docs/commit/76fc9085) Add Kafka RotateAuth OpsRequest Docs (#771)
+- [97629dd8](https://github.com/kubedb/docs/commit/97629dd8) Fix redis cluster shards' replicas count (#766)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.10.0](https://github.com/kubedb/druid/releases/tag/v0.10.0)

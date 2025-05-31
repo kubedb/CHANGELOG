@@ -43,6 +43,14 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.10.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.10.0)
+
+- [dc35ad0e](https://github.com/kubedb/mssqlserver/commit/dc35ad0e) Prepare for release v0.10.0 (#78)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.28.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.28.0)

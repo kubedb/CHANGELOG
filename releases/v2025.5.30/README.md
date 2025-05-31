@@ -378,6 +378,14 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.10.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.10.0)
+
+- [5269ad4](https://github.com/kubedb/singlestore-coordinator/commit/5269ad4) Prepare for release v0.10.0 (#43)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.13.0)

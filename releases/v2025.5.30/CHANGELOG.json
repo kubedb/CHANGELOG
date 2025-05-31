@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T00:42:54.915802875Z",
+  "release_date": "2025-05-31T01:00:01.294674167Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -129,6 +129,52 @@
             {
               "SHA": "58ac9747",
               "Subject": "Prepare for release v0.28.0 (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "1c24b4ef",
+              "Subject": "Prepare for release v0.40.0 (#464)"
+            },
+            {
+              "SHA": "ae1e8e90",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d854f970",
+              "Subject": "Add pgbouncer tls (#398)"
+            },
+            {
+              "SHA": "8ec76bc1",
+              "Subject": "kakfa change completed (#408)"
+            },
+            {
+              "SHA": "fab46597",
+              "Subject": "Fix MySQL semi-sync ops-request, general (#423)"
+            },
+            {
+              "SHA": "202542ef",
+              "Subject": "Add Archiver to backup-restore CI (#457)"
+            },
+            {
+              "SHA": "ddbf9c5f",
+              "Subject": "Add restic backup-restore e2e test for mysql innodb, semi-sync mode (#422)"
+            },
+            {
+              "SHA": "3ae387db",
+              "Subject": "Add Redis Cluster Health Test (#448)"
+            },
+            {
+              "SHA": "4f454ea2",
+              "Subject": "Add Tests for MariaDB Replication Topology (#456)"
             }
           ]
         }

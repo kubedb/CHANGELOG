@@ -51,3 +51,19 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.40.0](https://github.com/kubedb/tests/releases/tag/v0.40.0)
+
+- [1c24b4ef](https://github.com/kubedb/tests/commit/1c24b4ef) Prepare for release v0.40.0 (#464)
+- [ae1e8e90](https://github.com/kubedb/tests/commit/ae1e8e90) Update deps
+- [d854f970](https://github.com/kubedb/tests/commit/d854f970) Add pgbouncer tls (#398)
+- [8ec76bc1](https://github.com/kubedb/tests/commit/8ec76bc1) kakfa change completed (#408)
+- [fab46597](https://github.com/kubedb/tests/commit/fab46597) Fix MySQL semi-sync ops-request, general (#423)
+- [202542ef](https://github.com/kubedb/tests/commit/202542ef) Add Archiver to backup-restore CI (#457)
+- [ddbf9c5f](https://github.com/kubedb/tests/commit/ddbf9c5f) Add restic backup-restore e2e test for mysql innodb, semi-sync mode (#422)
+- [3ae387db](https://github.com/kubedb/tests/commit/3ae387db) Add Redis Cluster Health Test (#448)
+- [4f454ea2](https://github.com/kubedb/tests/commit/4f454ea2) Add Tests for MariaDB Replication Topology (#456)
+
+
+

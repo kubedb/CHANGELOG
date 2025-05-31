@@ -112,6 +112,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.33.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.33.0)
+
+- [b08856d0](https://github.com/kubedb/mysql-coordinator/commit/b08856d0) Prepare for release v0.33.0 (#143)
+- [8e3a873c](https://github.com/kubedb/mysql-coordinator/commit/8e3a873c) Fix semi sync version upgrade issue for version <8.4.2 to >=8.4.2 (#142)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.1.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.1.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:02:24.617830507Z",
+  "release_date": "2025-05-31T01:02:30.946967657Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -247,6 +247,24 @@
             {
               "SHA": "864661fc5",
               "Subject": "Fix Archiver for TLS Enabled Minio Backend (#685)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "b08856d0",
+              "Subject": "Prepare for release v0.33.0 (#143)"
+            },
+            {
+              "SHA": "8e3a873c",
+              "Subject": "Fix semi sync version upgrade issue for version <8.4.2 to >=8.4.2 (#142)"
             }
           ]
         }

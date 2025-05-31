@@ -369,6 +369,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.42.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.42.0)
+
+- [9caa0b59](https://github.com/kubedb/pgbouncer/commit/9caa0b59) Prepare for release v0.42.0 (#372)
+- [13d97001](https://github.com/kubedb/pgbouncer/commit/13d97001) Add max-concurrent-reconciles flag (#371)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.10.0](https://github.com/kubedb/pgpool/releases/tag/v0.10.0)

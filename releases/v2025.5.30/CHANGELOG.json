@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T06:02:08.163428923Z",
+  "release_date": "2025-05-31T06:10:59.008145592Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -67,6 +67,20 @@
             {
               "SHA": "8d88b2b04",
               "Subject": "Fix Replicas Ready Check (#1453)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "ae84f9ec",
+              "Subject": "Prepare for release v0.40.0 (#250)"
             }
           ]
         }

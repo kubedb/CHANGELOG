@@ -22,6 +22,14 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.40.0](https://github.com/kubedb/autoscaler/releases/tag/v0.40.0)
+
+- [ae84f9ec](https://github.com/kubedb/autoscaler/commit/ae84f9ec) Prepare for release v0.40.0 (#250)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.8.0](https://github.com/kubedb/cassandra/releases/tag/v0.8.0)

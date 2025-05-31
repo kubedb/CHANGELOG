@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T05:06:55.727431228Z",
+  "release_date": "2025-05-31T05:07:43.157455794Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -1106,6 +1106,20 @@
             {
               "SHA": "4f454ea2",
               "Subject": "Add Tests for MariaDB Replication Topology (#456)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "08c7ea52",
+              "Subject": "Prepare for release v0.31.0 (#163)"
             }
           ]
         }

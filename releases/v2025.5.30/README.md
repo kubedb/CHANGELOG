@@ -160,6 +160,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.48.0](https://github.com/kubedb/memcached/releases/tag/v0.48.0)
+
+- [0a5ca5b9](https://github.com/kubedb/memcached/commit/0a5ca5b99) Prepare for release v0.48.0 (#500)
+- [be261477](https://github.com/kubedb/memcached/commit/be261477b) Add max-concurrent-reconciles flag (#499)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.10.0)

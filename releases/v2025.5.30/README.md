@@ -63,6 +63,14 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.15.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.15.0)
+
+- [a9f0a3ed](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/a9f0a3ed) Prepare for release v0.15.0 (#47)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.10.0)

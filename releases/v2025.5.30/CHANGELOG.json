@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:00:53.283116812Z",
+  "release_date": "2025-05-31T01:01:11.700023677Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -251,6 +251,28 @@
             {
               "SHA": "58ac9747",
               "Subject": "Prepare for release v0.28.0 (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.55.0",
+          "commits": [
+            {
+              "SHA": "2cff2ac00",
+              "Subject": "Prepare for release v0.55.0 (#816)"
+            },
+            {
+              "SHA": "f719b8598",
+              "Subject": "Update Virtual-Secrets Implementation (#813)"
+            },
+            {
+              "SHA": "3169b5653",
+              "Subject": "Add max-concurrent-reconciles flag (#815)"
             }
           ]
         }

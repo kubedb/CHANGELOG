@@ -113,6 +113,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.55.0](https://github.com/kubedb/postgres/releases/tag/v0.55.0)
+
+- [2cff2ac0](https://github.com/kubedb/postgres/commit/2cff2ac00) Prepare for release v0.55.0 (#816)
+- [f719b859](https://github.com/kubedb/postgres/commit/f719b8598) Update Virtual-Secrets Implementation (#813)
+- [3169b565](https://github.com/kubedb/postgres/commit/3169b5653) Add max-concurrent-reconciles flag (#815)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.40.0](https://github.com/kubedb/tests/releases/tag/v0.40.0)

@@ -227,6 +227,14 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.18.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.18.0)
+
+- [38e3457](https://github.com/kubedb/postgres-restic-plugin/commit/38e3457) Prepare for release v0.18.0 (#71)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.10.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.10.0)

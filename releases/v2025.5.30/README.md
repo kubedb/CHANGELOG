@@ -98,6 +98,14 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.18.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.18.0)
+
+- [079b86d4](https://github.com/kubedb/elasticsearch-restic-plugin/commit/079b86d4) Prepare for release v0.18.0 (#63)
+
+
+
 ## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
 
 ### [v0.10.0](https://github.com/kubedb/ferretdb/releases/tag/v0.10.0)

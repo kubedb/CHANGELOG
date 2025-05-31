@@ -202,6 +202,15 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.1.0](https://github.com/kubedb/oracle/releases/tag/v0.1.0)
+
+- [228096cc](https://github.com/kubedb/oracle/commit/228096cc) Prepare for release v0.1.0 (#3)
+- [fef9cee2](https://github.com/kubedb/oracle/commit/fef9cee2) Implement Oracle
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.1.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.1.0)

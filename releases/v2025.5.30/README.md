@@ -281,6 +281,16 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.10.0](https://github.com/kubedb/singlestore/releases/tag/v0.10.0)
+
+- [39ed6595](https://github.com/kubedb/singlestore/commit/39ed6595) Prepare for release v0.10.0 (#73)
+- [036f3e00](https://github.com/kubedb/singlestore/commit/036f3e00) Update Schedule in daily.yml (#72)
+- [107e9c8b](https://github.com/kubedb/singlestore/commit/107e9c8b) Update Webhook Setup (#71)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.13.0)

@@ -79,6 +79,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.42.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.42.0)
+
+- [744acb1f](https://github.com/kubedb/percona-xtradb/commit/744acb1fa) Prepare for release v0.42.0 (#408)
+- [6d1d5228](https://github.com/kubedb/percona-xtradb/commit/6d1d5228c) Add max-concurrent-reconciles flag to operator (#407)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.28.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.28.0)

@@ -334,6 +334,26 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.42.0](https://github.com/kubedb/ops-manager/releases/tag/v0.42.0)
+
+- [1b5ecc78](https://github.com/kubedb/ops-manager/commit/1b5ecc780) Prepare for release v0.42.0 (#744)
+- [fdaa591b](https://github.com/kubedb/ops-manager/commit/fdaa591b0) Use zap logger from apimachinery (#743)
+- [1b34a52b](https://github.com/kubedb/ops-manager/commit/1b34a52b3) Change status of Redis Ops Request failed condition False (#738)
+- [1031fed2](https://github.com/kubedb/ops-manager/commit/1031fed24) Hazelcast cert methods (#741)
+- [0eeeace2](https://github.com/kubedb/ops-manager/commit/0eeeace2d) Add rotateauth opsrequest for redis (#736)
+- [14fdfd75](https://github.com/kubedb/ops-manager/commit/14fdfd756) Add RedisSentinel Rotate Auth (#740)
+- [e2222861](https://github.com/kubedb/ops-manager/commit/e22228618) Don't enable client tls in mssql reconfigure tls (#742)
+- [757ec88e](https://github.com/kubedb/ops-manager/commit/757ec88ec) Add ClickHous Restart & verticalScaling (#725)
+- [2053ac54](https://github.com/kubedb/ops-manager/commit/2053ac54e) Add TLS Reconfigure Support to MariaDBReplication (#735)
+- [43507f00](https://github.com/kubedb/ops-manager/commit/43507f00c) Fix semi sync version upgrade issue for version <8.4.2 to >=8.4.2 (#733)
+- [ba32a084](https://github.com/kubedb/ops-manager/commit/ba32a084b) Add support for Cassandra UpdateVersion & VerticalScaling (#737)
+- [75db9507](https://github.com/kubedb/ops-manager/commit/75db95074) Add RabbitMQ auth rotate (#734)
+- [1f7a50a9](https://github.com/kubedb/ops-manager/commit/1f7a50a9a) Set backend pg resources
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.1.0](https://github.com/kubedb/oracle/releases/tag/v0.1.0)

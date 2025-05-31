@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T05:49:45.598502711Z",
+  "release_date": "2025-05-31T06:02:08.163428923Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -667,6 +667,68 @@
         {
           "tag": "v0.33.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "1b5ecc780",
+              "Subject": "Prepare for release v0.42.0 (#744)"
+            },
+            {
+              "SHA": "fdaa591b0",
+              "Subject": "Use zap logger from apimachinery (#743)"
+            },
+            {
+              "SHA": "1b34a52b3",
+              "Subject": "Change status of Redis Ops Request failed condition False (#738)"
+            },
+            {
+              "SHA": "1031fed24",
+              "Subject": "Hazelcast cert methods (#741)"
+            },
+            {
+              "SHA": "0eeeace2d",
+              "Subject": "Add rotateauth opsrequest for redis (#736)"
+            },
+            {
+              "SHA": "14fdfd756",
+              "Subject": "Add RedisSentinel Rotate Auth (#740)"
+            },
+            {
+              "SHA": "e22228618",
+              "Subject": "Don't enable client tls in mssql reconfigure tls (#742)"
+            },
+            {
+              "SHA": "757ec88ec",
+              "Subject": "Add ClickHous Restart & verticalScaling (#725)"
+            },
+            {
+              "SHA": "2053ac54e",
+              "Subject": "Add TLS Reconfigure Support to MariaDBReplication (#735)"
+            },
+            {
+              "SHA": "43507f00c",
+              "Subject": "Fix semi sync version upgrade issue for version <8.4.2 to >=8.4.2 (#733)"
+            },
+            {
+              "SHA": "ba32a084b",
+              "Subject": "Add support for Cassandra UpdateVersion & VerticalScaling (#737)"
+            },
+            {
+              "SHA": "75db95074",
+              "Subject": "Add RabbitMQ auth rotate (#734)"
+            },
+            {
+              "SHA": "1f7a50a9a",
+              "Subject": "Set backend pg resources"
+            }
+          ]
         }
       ]
     },

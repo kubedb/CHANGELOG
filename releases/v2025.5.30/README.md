@@ -227,6 +227,15 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.13.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.13.0)
+
+- [74866f9](https://github.com/kubedb/singlestore-restic-plugin/commit/74866f9) Prepare for release v0.13.0 (#44)
+- [33e171a](https://github.com/kubedb/singlestore-restic-plugin/commit/33e171a) Fix for empty database (#43)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.10.0](https://github.com/kubedb/solr/releases/tag/v0.10.0)

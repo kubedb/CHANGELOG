@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:05:11.621979229Z",
+  "release_date": "2025-05-31T01:05:18.245218142Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -67,6 +67,20 @@
             {
               "SHA": "8d88b2b04",
               "Subject": "Fix Replicas Ready Check (#1453)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e6d035b",
+              "Subject": "Prepare for release v0.2.0 (#5)"
             }
           ]
         }

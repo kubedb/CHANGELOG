@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:06:16.645212769Z",
+  "release_date": "2025-05-31T01:06:24.111743237Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -393,6 +393,20 @@
             {
               "SHA": "7fa5ec27",
               "Subject": "Fix Archiver for TLS Enabled Minio Backend (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "a9088109",
+              "Subject": "Prepare for release v0.35.0 (#143)"
             }
           ]
         }

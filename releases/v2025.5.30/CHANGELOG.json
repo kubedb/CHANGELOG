@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:07:05.811674108Z",
+  "release_date": "2025-05-31T01:07:27.888353769Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -701,6 +701,20 @@
             {
               "SHA": "58ac9747",
               "Subject": "Prepare for release v0.28.0 (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "c0856f18",
+              "Subject": "Prepare for release v0.39.0 (#200)"
             }
           ]
         }

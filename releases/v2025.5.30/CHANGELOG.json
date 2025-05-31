@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:06:30.601383329Z",
+  "release_date": "2025-05-31T01:06:35.82093834Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -959,6 +959,20 @@
             {
               "SHA": "2c0d2bc3",
               "Subject": "Add flag to configure max concurrent reconciles (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "46d762e",
+              "Subject": "Prepare for release v0.11.0 (#35)"
             }
           ]
         }

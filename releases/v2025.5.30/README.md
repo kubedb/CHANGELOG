@@ -470,3 +470,11 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.11.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.11.0)
+
+- [46d762e](https://github.com/kubedb/zookeeper-restic-plugin/commit/46d762e) Prepare for release v0.11.0 (#35)
+
+
+

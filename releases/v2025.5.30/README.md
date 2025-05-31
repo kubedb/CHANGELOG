@@ -132,6 +132,16 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.10.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.10.0)
+
+- [3b744fc5](https://github.com/kubedb/rabbitmq/commit/3b744fc5) Prepare for release v0.10.0 (#85)
+- [2615eeb9](https://github.com/kubedb/rabbitmq/commit/2615eeb9) Ensure RabbitMQadminCredSecret (#83)
+- [bc8cf613](https://github.com/kubedb/rabbitmq/commit/bc8cf613) Add max-concurrent-reconciles flag (#84)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.40.0](https://github.com/kubedb/tests/releases/tag/v0.40.0)

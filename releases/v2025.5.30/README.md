@@ -80,6 +80,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.26.0](https://github.com/kubedb/kafka/releases/tag/v0.26.0)
+
+- [3a1234c5](https://github.com/kubedb/kafka/commit/3a1234c5) Prepare for release v0.26.0 (#151)
+- [f21ca6e8](https://github.com/kubedb/kafka/commit/f21ca6e8) Add `max-concurrent-reconciles` flag (#150)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.15.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.15.0)

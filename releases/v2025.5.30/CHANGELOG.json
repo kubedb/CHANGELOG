@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:05:18.245218142Z",
+  "release_date": "2025-05-31T01:05:24.379571132Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -67,6 +67,24 @@
             {
               "SHA": "8d88b2b04",
               "Subject": "Fix Replicas Ready Check (#1453)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "add86028",
+              "Subject": "Prepare for release v0.8.0 (#36)"
+            },
+            {
+              "SHA": "7b462ed1",
+              "Subject": "Export methods and Update Webhook Setup (#34)"
             }
           ]
         }

@@ -22,6 +22,15 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.8.0](https://github.com/kubedb/cassandra/releases/tag/v0.8.0)
+
+- [add86028](https://github.com/kubedb/cassandra/commit/add86028) Prepare for release v0.8.0 (#36)
+- [7b462ed1](https://github.com/kubedb/cassandra/commit/7b462ed1) Export methods and Update Webhook Setup (#34)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.2.0)

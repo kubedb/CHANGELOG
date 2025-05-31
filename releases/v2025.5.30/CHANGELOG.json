@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:05:35.778006588Z",
+  "release_date": "2025-05-31T01:05:43.175742069Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -721,6 +721,20 @@
             {
               "SHA": "c470ef7c9",
               "Subject": "Add REDISCLI_AUTH env for valkey (#592)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "66c710e3",
+              "Subject": "Prepare for release v0.34.0 (#128)"
             }
           ]
         }

@@ -437,3 +437,12 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.10.0](https://github.com/kubedb/zookeeper/releases/tag/v0.10.0)
+
+- [da5c78d6](https://github.com/kubedb/zookeeper/commit/da5c78d6) Prepare for release v0.10.0 (#77)
+- [2c0d2bc3](https://github.com/kubedb/zookeeper/commit/2c0d2bc3) Add flag to configure max concurrent reconciles (#76)
+
+
+

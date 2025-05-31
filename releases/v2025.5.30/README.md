@@ -134,6 +134,14 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.13.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.13.0)
+
+- [4c92acc](https://github.com/kubedb/mariadb-restic-plugin/commit/4c92acc) Prepare for release v0.13.0 (#46)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.10.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:01:39.886546472Z",
+  "release_date": "2025-05-31T01:01:47.445748367Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -305,6 +305,20 @@
             {
               "SHA": "3169b5653",
               "Subject": "Add max-concurrent-reconciles flag (#815)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "dbee5a03",
+              "Subject": "Prepare for release v0.16.0 (#57)"
             }
           ]
         }

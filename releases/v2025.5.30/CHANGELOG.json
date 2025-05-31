@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:03:16.031046044Z",
+  "release_date": "2025-05-31T01:03:23.27993969Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -459,6 +459,20 @@
             {
               "SHA": "bc8cf613",
               "Subject": "Add max-concurrent-reconciles flag (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "05a57a5",
+              "Subject": "Prepare for release v0.18.0 (#66)"
             }
           ]
         }

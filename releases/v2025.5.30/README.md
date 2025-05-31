@@ -219,6 +219,14 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.18.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.18.0)
+
+- [05a57a5](https://github.com/kubedb/redis-restic-plugin/commit/05a57a5) Prepare for release v0.18.0 (#66)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.10.0](https://github.com/kubedb/solr/releases/tag/v0.10.0)

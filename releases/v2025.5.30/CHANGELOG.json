@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:03:48.062518664Z",
+  "release_date": "2025-05-31T01:03:58.416332045Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -89,6 +89,28 @@
             {
               "SHA": "e3d9a3cf",
               "Subject": "Add Client Certificate (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "24d7c90e",
+              "Subject": "Prepare for release v0.10.0 (#78)"
+            },
+            {
+              "SHA": "fe37b349",
+              "Subject": "Add Oracle Crds (#77)"
+            },
+            {
+              "SHA": "d024dc2a",
+              "Subject": "Configure hazelcast for crd manager (#72)"
             }
           ]
         }

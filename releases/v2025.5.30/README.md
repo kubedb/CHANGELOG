@@ -32,6 +32,16 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.10.0](https://github.com/kubedb/crd-manager/releases/tag/v0.10.0)
+
+- [24d7c90e](https://github.com/kubedb/crd-manager/commit/24d7c90e) Prepare for release v0.10.0 (#78)
+- [fe37b349](https://github.com/kubedb/crd-manager/commit/fe37b349) Add Oracle Crds (#77)
+- [d024dc2a](https://github.com/kubedb/crd-manager/commit/d024dc2a) Configure hazelcast for crd manager (#72)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.13.0)

@@ -254,6 +254,14 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.18.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.18.0)
+
+- [418db6c](https://github.com/kubedb/mysql-restic-plugin/commit/418db6c) Prepare for release v0.18.0 (#74)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.1.0](https://github.com/kubedb/oracle/releases/tag/v0.1.0)

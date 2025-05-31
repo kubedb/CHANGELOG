@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:05:29.996435293Z",
+  "release_date": "2025-05-31T01:05:35.778006588Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -527,6 +527,20 @@
             {
               "SHA": "a70cb81b",
               "Subject": "Prepare for release v0.16.0 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "418db6c",
+              "Subject": "Prepare for release v0.18.0 (#74)"
             }
           ]
         }

@@ -117,6 +117,15 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.1.0](https://github.com/kubedb/hazelcast/releases/tag/v0.1.0)
+
+- [5861b0f3](https://github.com/kubedb/hazelcast/commit/5861b0f3) Prepare for release v0.1.0 (#2)
+- [776a2847](https://github.com/kubedb/hazelcast/commit/776a2847) Hazelcast Bootstrap (#1)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.2.0](https://github.com/kubedb/ignite/releases/tag/v0.2.0)

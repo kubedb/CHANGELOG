@@ -54,6 +54,15 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.15.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.15.0)
+
+- [881ed377](https://github.com/kubedb/mariadb-archiver/commit/881ed377) Prepare for release v0.15.0 (#50)
+- [7fa5ec27](https://github.com/kubedb/mariadb-archiver/commit/7fa5ec27) Fix Archiver for TLS Enabled Minio Backend (#49)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.10.0)

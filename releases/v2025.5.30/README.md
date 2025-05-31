@@ -22,6 +22,16 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.10.0](https://github.com/kubedb/clickhouse/releases/tag/v0.10.0)
+
+- [2c1ca884](https://github.com/kubedb/clickhouse/commit/2c1ca884) Prepare for release v0.10.0 (#53)
+- [ab75c636](https://github.com/kubedb/clickhouse/commit/ab75c636) Update Health Check for Pod Joining in Cluster  (#49)
+- [e3d9a3cf](https://github.com/kubedb/clickhouse/commit/e3d9a3cf) Add Client Certificate (#51)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.13.0)

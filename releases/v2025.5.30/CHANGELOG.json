@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:03:29.48597583Z",
+  "release_date": "2025-05-31T01:03:36.476466294Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -67,6 +67,28 @@
             {
               "SHA": "8d88b2b04",
               "Subject": "Fix Replicas Ready Check (#1453)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "2c1ca884",
+              "Subject": "Prepare for release v0.10.0 (#53)"
+            },
+            {
+              "SHA": "ab75c636",
+              "Subject": "Update Health Check for Pod Joining in Cluster  (#49)"
+            },
+            {
+              "SHA": "e3d9a3cf",
+              "Subject": "Add Client Certificate (#51)"
             }
           ]
         }

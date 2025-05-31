@@ -52,6 +52,15 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.3.0](https://github.com/kubedb/gitops/releases/tag/v0.3.0)
+
+- [e7a6421a](https://github.com/kubedb/gitops/commit/e7a6421a) Prepare for release v0.3.0 (#16)
+- [0f6c5a8a](https://github.com/kubedb/gitops/commit/0f6c5a8a) Add MySQL, MSSQLServer and Elasticsearch Support (#15)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.2.0](https://github.com/kubedb/ignite/releases/tag/v0.2.0)

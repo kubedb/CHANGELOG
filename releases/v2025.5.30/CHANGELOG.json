@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.5.30",
-  "release_date": "2025-05-31T01:05:05.002444526Z",
+  "release_date": "2025-05-31T01:05:11.621979229Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.5.30",
   "kubernetes_version": "1.26+",
@@ -427,6 +427,24 @@
             {
               "SHA": "864661fc5",
               "Subject": "Fix Archiver for TLS Enabled Minio Backend (#685)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "47cd4436",
+              "Subject": "Prepare for release v0.16.0 (#60)"
+            },
+            {
+              "SHA": "1bc6de63",
+              "Subject": "Fix TLS Enabled Minio S3 (#59)"
             }
           ]
         }

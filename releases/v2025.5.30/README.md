@@ -202,6 +202,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.16.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.16.0)
+
+- [47cd4436](https://github.com/kubedb/mysql-archiver/commit/47cd4436) Prepare for release v0.16.0 (#60)
+- [1bc6de63](https://github.com/kubedb/mysql-archiver/commit/1bc6de63) Fix TLS Enabled Minio S3 (#59)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.33.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.33.0)

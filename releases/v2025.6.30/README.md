@@ -202,6 +202,15 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.16.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.16.0)
+
+- [816b7a85](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/816b7a85) Update deps
+- [2147ed2b](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/2147ed2b) Merge pull request #48 from kubedb/maxscale
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.14.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.14.0)

@@ -89,6 +89,14 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.19.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.19.0)
+
+- [39813bf](https://github.com/kubedb/mongodb-restic-plugin/commit/39813bf) Prepare for release v0.19.0 (#85)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.10.0)

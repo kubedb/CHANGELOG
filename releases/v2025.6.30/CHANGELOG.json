@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:24:37.815622031Z",
+  "release_date": "2025-07-01T20:25:15.22716565Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -259,6 +259,28 @@
             {
               "SHA": "0b1934a2",
               "Subject": "Prepare for release v0.35.0 (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "5b2bf0d3",
+              "Subject": "Prepare for release v0.41.0 (#467)"
+            },
+            {
+              "SHA": "7527283a",
+              "Subject": "Postgres Restic backup CI (add k3s cluster setup) (#465)"
+            },
+            {
+              "SHA": "75ecca1f",
+              "Subject": "add arbiter mode (#466)"
             }
           ]
         }

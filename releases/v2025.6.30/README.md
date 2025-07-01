@@ -115,6 +115,16 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.41.0](https://github.com/kubedb/tests/releases/tag/v0.41.0)
+
+- [5b2bf0d3](https://github.com/kubedb/tests/commit/5b2bf0d3) Prepare for release v0.41.0 (#467)
+- [7527283a](https://github.com/kubedb/tests/commit/7527283a) Postgres Restic backup CI (add k3s cluster setup) (#465)
+- [75ecca1f](https://github.com/kubedb/tests/commit/75ecca1f) add arbiter mode (#466)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.5.0)

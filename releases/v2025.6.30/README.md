@@ -343,6 +343,23 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.43.0](https://github.com/kubedb/ops-manager/releases/tag/v0.43.0)
+
+- [da8fdefe](https://github.com/kubedb/ops-manager/commit/da8fdefee) Prepare for release v0.43.0 (#757)
+- [6f824976](https://github.com/kubedb/ops-manager/commit/6f824976f) Add DAG mode changes (#750)
+- [3d224462](https://github.com/kubedb/ops-manager/commit/3d2244622) Add Announce for Redis (#752)
+- [23d5c41a](https://github.com/kubedb/ops-manager/commit/23d5c41a8) add tls support (#748)
+- [5879e1fb](https://github.com/kubedb/ops-manager/commit/5879e1fba) Add hazelcast opsrequest (#756)
+- [1cc09df5](https://github.com/kubedb/ops-manager/commit/1cc09df57) Add  Cassandra TLS & Ops requests (#751)
+- [ccb42fe4](https://github.com/kubedb/ops-manager/commit/ccb42fe48) Add Ignite TLS (#754)
+- [5052c649](https://github.com/kubedb/ops-manager/commit/5052c649f) Allow scaling down Postgres Database to Standalone (#755)
+- [f026ff13](https://github.com/kubedb/ops-manager/commit/f026ff132) Add Recommendation Engine support for Druid (#753)
+- [28792d2f](https://github.com/kubedb/ops-manager/commit/28792d2f2) Add Scaling and Volume Expansion Support for MaxScale Server (#749)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.2.0](https://github.com/kubedb/oracle/releases/tag/v0.2.0)

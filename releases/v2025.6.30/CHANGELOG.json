@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T23:04:49.707359644Z",
+  "release_date": "2025-07-01T23:17:02.357369776Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -685,6 +685,56 @@
         {
           "tag": "v0.34.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "da8fdefee",
+              "Subject": "Prepare for release v0.43.0 (#757)"
+            },
+            {
+              "SHA": "6f824976f",
+              "Subject": "Add DAG mode changes (#750)"
+            },
+            {
+              "SHA": "3d2244622",
+              "Subject": "Add Announce for Redis (#752)"
+            },
+            {
+              "SHA": "23d5c41a8",
+              "Subject": "add tls support (#748)"
+            },
+            {
+              "SHA": "5879e1fba",
+              "Subject": "Add hazelcast opsrequest (#756)"
+            },
+            {
+              "SHA": "1cc09df57",
+              "Subject": "Add  Cassandra TLS & Ops requests (#751)"
+            },
+            {
+              "SHA": "ccb42fe48",
+              "Subject": "Add Ignite TLS (#754)"
+            },
+            {
+              "SHA": "5052c649f",
+              "Subject": "Allow scaling down Postgres Database to Standalone (#755)"
+            },
+            {
+              "SHA": "f026ff132",
+              "Subject": "Add Recommendation Engine support for Druid (#753)"
+            },
+            {
+              "SHA": "28792d2f2",
+              "Subject": "Add Scaling and Volume Expansion Support for MaxScale Server (#749)"
+            }
+          ]
         }
       ]
     },

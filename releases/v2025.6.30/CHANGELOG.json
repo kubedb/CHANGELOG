@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:27:06.280002754Z",
+  "release_date": "2025-07-01T20:27:15.278358061Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -127,6 +127,24 @@
             {
               "SHA": "5786aaf4",
               "Subject": "Add solr metrics client apis (#179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "5a6d8a5a",
+              "Subject": "Prepare for release v0.11.0 (#88)"
+            },
+            {
+              "SHA": "4f66c8e3",
+              "Subject": "Fixed patching db for authSecret reference (#87)"
             }
           ]
         }

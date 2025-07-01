@@ -46,6 +46,15 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.11.0](https://github.com/kubedb/druid/releases/tag/v0.11.0)
+
+- [5a6d8a5a](https://github.com/kubedb/druid/commit/5a6d8a5a) Prepare for release v0.11.0 (#88)
+- [4f66c8e3](https://github.com/kubedb/druid/commit/4f66c8e3) Fixed patching db for authSecret reference (#87)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.56.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.56.0)

@@ -211,6 +211,15 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.11.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.11.0)
+
+- [241028ea](https://github.com/kubedb/mssqlserver/commit/241028ea) Prepare for release v0.11.0 (#81)
+- [e3a8001d](https://github.com/kubedb/mssqlserver/commit/e3a8001d) Add SQL Server Distributed AG Support (#79)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.10.0)

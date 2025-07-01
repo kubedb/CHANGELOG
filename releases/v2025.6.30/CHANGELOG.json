@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:29:39.300333031Z",
+  "release_date": "2025-07-01T20:29:50.013394128Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -445,6 +445,24 @@
             {
               "SHA": "873a0e2a",
               "Subject": "Add Distributed AG Support  (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "241028ea",
+              "Subject": "Prepare for release v0.11.0 (#81)"
+            },
+            {
+              "SHA": "e3a8001d",
+              "Subject": "Add SQL Server Distributed AG Support (#79)"
             }
           ]
         }

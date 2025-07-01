@@ -201,6 +201,14 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.34.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.34.0)
+
+- [b6b87ddc](https://github.com/kubedb/mysql-coordinator/commit/b6b87ddc) Prepare for release v0.34.0 (#144)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.2.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.2.0)

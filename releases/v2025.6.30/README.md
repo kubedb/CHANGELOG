@@ -54,6 +54,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.49.0](https://github.com/kubedb/memcached/releases/tag/v0.49.0)
+
+- [4ddfa95e](https://github.com/kubedb/memcached/commit/4ddfa95ef) Prepare for release v0.49.0 (#501)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.49.0](https://github.com/kubedb/mongodb/releases/tag/v0.49.0)

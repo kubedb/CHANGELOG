@@ -276,6 +276,14 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.17.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.17.0)
+
+- [5a8a9f88](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/5a8a9f88) Prepare for release v0.17.0 (#58)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.49.0](https://github.com/kubedb/redis/releases/tag/v0.49.0)

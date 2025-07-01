@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T22:52:44.708680619Z",
+  "release_date": "2025-07-01T22:58:56.135306292Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -1046,6 +1046,20 @@
             {
               "SHA": "75ecca1f",
               "Subject": "add arbiter mode (#466)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "b9ccc61d",
+              "Subject": "Prepare for release v0.32.0 (#164)"
             }
           ]
         }

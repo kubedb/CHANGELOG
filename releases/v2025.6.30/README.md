@@ -54,6 +54,15 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.10.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.10.0)
+
+- [574cc4c](https://github.com/kubedb/mssqlserver-walg-plugin/commit/574cc4c) Prepare for release v0.10.0 (#27)
+- [f034cd9](https://github.com/kubedb/mssqlserver-walg-plugin/commit/f034cd9) Add Backup Support for Local Storage
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.49.0](https://github.com/kubedb/mysql/releases/tag/v0.49.0)

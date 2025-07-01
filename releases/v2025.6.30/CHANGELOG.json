@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:23:49.293097248Z",
+  "release_date": "2025-07-01T20:24:00.356023788Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -141,6 +141,24 @@
             {
               "SHA": "d4ff7543",
               "Subject": "Prepare for release v0.17.0 (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "574cc4c",
+              "Subject": "Prepare for release v0.10.0 (#27)"
+            },
+            {
+              "SHA": "f034cd9",
+              "Subject": "Add Backup Support for Local Storage"
             }
           ]
         }

@@ -42,6 +42,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.56.0](https://github.com/kubedb/cli/releases/tag/v0.56.0)
+
+- [0eab26b0](https://github.com/kubedb/cli/commit/0eab26b04) Prepare for release v0.56.0 (#798)
+- [a99fd338](https://github.com/kubedb/cli/commit/a99fd338a) Add mssql server dag config command (#797)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.11.0](https://github.com/kubedb/clickhouse/releases/tag/v0.11.0)

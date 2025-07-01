@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:31:46.339447876Z",
+  "release_date": "2025-07-01T20:31:57.054141797Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -111,6 +111,24 @@
             {
               "SHA": "794a7a2",
               "Subject": "Prepare for release v0.3.0 (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.56.0",
+          "commits": [
+            {
+              "SHA": "0eab26b04",
+              "Subject": "Prepare for release v0.56.0 (#798)"
+            },
+            {
+              "SHA": "a99fd338a",
+              "Subject": "Add mssql server dag config command (#797)"
             }
           ]
         }

@@ -38,6 +38,14 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.19.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.19.0)
+
+- [0ae7afa2](https://github.com/kubedb/elasticsearch-restic-plugin/commit/0ae7afa2) Prepare for release v0.19.0 (#64)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.49.0](https://github.com/kubedb/redis/releases/tag/v0.49.0)

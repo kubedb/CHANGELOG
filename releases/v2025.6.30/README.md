@@ -81,6 +81,14 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.7.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.7.0)
+
+- [f7e6a32](https://github.com/kubedb/kubedb-verifier/commit/f7e6a32) Prepare for release v0.7.0 (#20)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.36.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.36.0)

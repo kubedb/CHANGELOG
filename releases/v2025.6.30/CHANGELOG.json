@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:32:43.205633667Z",
+  "release_date": "2025-07-01T20:32:47.94324776Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -529,6 +529,15 @@
               "Subject": "Add SQL Server Distributed AG Support (#79)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": null
         }
       ]
     },

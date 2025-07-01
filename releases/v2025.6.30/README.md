@@ -46,6 +46,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.49.0](https://github.com/kubedb/mysql/releases/tag/v0.49.0)
+
+- [9bdf8e80](https://github.com/kubedb/mysql/commit/9bdf8e808) Prepare for release v0.49.0 (#689)
+- [21378cc3](https://github.com/kubedb/mysql/commit/21378cc34) Do not default securityContext for backupConfig jobTemplate (#688)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.49.0](https://github.com/kubedb/redis/releases/tag/v0.49.0)

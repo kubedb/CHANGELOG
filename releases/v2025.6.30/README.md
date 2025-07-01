@@ -38,3 +38,12 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.49.0](https://github.com/kubedb/redis/releases/tag/v0.49.0)
+
+- [a8c565fe](https://github.com/kubedb/redis/commit/a8c565fe0) Prepare for release v0.49.0 (#596)
+- [de478eef](https://github.com/kubedb/redis/commit/de478eefc) Expose busport via standby service (#595)
+
+
+

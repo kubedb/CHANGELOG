@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:31:04.399219982Z",
+  "release_date": "2025-07-01T20:31:11.753790988Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -245,6 +245,20 @@
             {
               "SHA": "e4246d4f",
               "Subject": "Set containers & annotations from backend podTemplate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "66ba799e",
+              "Subject": "Prepare for release v0.4.0 (#17)"
             }
           ]
         }

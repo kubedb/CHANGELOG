@@ -107,6 +107,14 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.4.0](https://github.com/kubedb/gitops/releases/tag/v0.4.0)
+
+- [66ba799e](https://github.com/kubedb/gitops/commit/66ba799e) Prepare for release v0.4.0 (#17)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.2.0](https://github.com/kubedb/hazelcast/releases/tag/v0.2.0)

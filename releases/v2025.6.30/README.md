@@ -97,6 +97,15 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.11.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.11.0)
+
+- [ecd5f1f0](https://github.com/kubedb/mssql-coordinator/commit/ecd5f1f0) Prepare for release v0.11.0 (#39)
+- [873a0e2a](https://github.com/kubedb/mssql-coordinator/commit/873a0e2a) Add Distributed AG Support  (#38)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.10.0)

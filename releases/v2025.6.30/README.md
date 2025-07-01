@@ -46,6 +46,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.27.0](https://github.com/kubedb/kafka/releases/tag/v0.27.0)
+
+- [22c04abb](https://github.com/kubedb/kafka/commit/22c04abb) Prepare for release v0.27.0 (#153)
+- [47ec6ebf](https://github.com/kubedb/kafka/commit/47ec6ebf) Add Kafka Init Container changes for v4.0.0 (#152)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.36.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.36.0)

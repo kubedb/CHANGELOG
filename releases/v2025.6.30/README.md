@@ -55,3 +55,11 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.35.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.35.0)
+
+- [0b1934a2](https://github.com/kubedb/redis-coordinator/commit/0b1934a2) Prepare for release v0.35.0 (#129)
+
+
+

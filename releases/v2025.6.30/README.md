@@ -24,6 +24,14 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.3.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.3.0)
+
+- [794a7a2](https://github.com/kubedb/cassandra-medusa-plugin/commit/794a7a2) Prepare for release v0.3.0 (#6)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.11.0](https://github.com/kubedb/db-client-go/releases/tag/v0.11.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:26:57.611668499Z",
+  "release_date": "2025-07-01T20:27:06.280002754Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -383,6 +383,20 @@
             {
               "SHA": "7719e231",
               "Subject": "Prepare for release v0.11.0 (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "dc133d1e",
+              "Subject": "Prepare for release v0.17.0 (#62)"
             }
           ]
         }

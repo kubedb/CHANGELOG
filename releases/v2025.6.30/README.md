@@ -182,6 +182,14 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.17.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.17.0)
+
+- [dc133d1e](https://github.com/kubedb/postgres-archiver/commit/dc133d1e) Prepare for release v0.17.0 (#62)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.49.0](https://github.com/kubedb/redis/releases/tag/v0.49.0)

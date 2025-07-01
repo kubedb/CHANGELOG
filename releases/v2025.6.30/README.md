@@ -158,6 +158,14 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.11.0](https://github.com/kubedb/solr/releases/tag/v0.11.0)
+
+- [c8257fce](https://github.com/kubedb/solr/commit/c8257fce) Prepare for release v0.11.0 (#86)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.41.0](https://github.com/kubedb/tests/releases/tag/v0.41.0)

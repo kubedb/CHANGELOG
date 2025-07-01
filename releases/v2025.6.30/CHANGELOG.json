@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:30:12.180582064Z",
+  "release_date": "2025-07-01T20:30:31.313980318Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -611,6 +611,28 @@
             {
               "SHA": "7719e231",
               "Subject": "Prepare for release v0.11.0 (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.56.0",
+          "commits": [
+            {
+              "SHA": "c51c8797e",
+              "Subject": "Prepare for release v0.56.0 (#819)"
+            },
+            {
+              "SHA": "e6a4e2753",
+              "Subject": "Requeue if virtualSecret get/mount call error 'already exists' (#818)"
+            },
+            {
+              "SHA": "495a88895",
+              "Subject": "Do not default securityContext for backupConfig jobTemplate (#817)"
             }
           ]
         }

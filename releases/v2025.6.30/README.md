@@ -302,6 +302,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.56.0](https://github.com/kubedb/postgres/releases/tag/v0.56.0)
+
+- [c51c8797](https://github.com/kubedb/postgres/commit/c51c8797e) Prepare for release v0.56.0 (#819)
+- [e6a4e275](https://github.com/kubedb/postgres/commit/e6a4e2753) Requeue if virtualSecret get/mount call error 'already exists' (#818)
+- [495a8889](https://github.com/kubedb/postgres/commit/495a88895) Do not default securityContext for backupConfig jobTemplate (#817)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.17.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.17.0)

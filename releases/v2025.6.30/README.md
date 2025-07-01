@@ -42,6 +42,15 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.11.0](https://github.com/kubedb/clickhouse/releases/tag/v0.11.0)
+
+- [196b4433](https://github.com/kubedb/clickhouse/commit/196b4433) Prepare for release v0.11.0 (#55)
+- [079952e5](https://github.com/kubedb/clickhouse/commit/079952e5) Add TLS (#54)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.11.0](https://github.com/kubedb/db-client-go/releases/tag/v0.11.0)

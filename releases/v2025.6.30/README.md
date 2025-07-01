@@ -394,6 +394,14 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.43.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.43.0)
+
+- [cf06bc84](https://github.com/kubedb/replication-mode-detector/commit/cf06bc84) Prepare for release v0.43.0 (#294)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.11.0](https://github.com/kubedb/singlestore/releases/tag/v0.11.0)

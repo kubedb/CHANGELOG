@@ -276,6 +276,14 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.11.0](https://github.com/kubedb/singlestore/releases/tag/v0.11.0)
+
+- [59ec2aa4](https://github.com/kubedb/singlestore/commit/59ec2aa4) Prepare for release v0.11.0 (#74)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.11.0](https://github.com/kubedb/solr/releases/tag/v0.11.0)

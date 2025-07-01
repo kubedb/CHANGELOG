@@ -46,6 +46,14 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.17.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.17.0)
+
+- [d4ff7543](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/d4ff7543) Prepare for release v0.17.0 (#52)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.49.0](https://github.com/kubedb/mysql/releases/tag/v0.49.0)

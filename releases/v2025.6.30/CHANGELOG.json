@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:32:51.866945557Z",
+  "release_date": "2025-07-01T20:33:03.341701027Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -147,6 +147,20 @@
             {
               "SHA": "079952e5",
               "Subject": "Add TLS (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "cde2301d",
+              "Subject": "Prepare for release v0.11.0 (#83)"
             }
           ]
         }

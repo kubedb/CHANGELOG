@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:29:32.348466958Z",
+  "release_date": "2025-07-01T20:29:39.300333031Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -129,6 +129,20 @@
             {
               "SHA": "079952e5",
               "Subject": "Add TLS (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "2adcbef",
+              "Subject": "Prepare for release v0.14.0 (#40)"
             }
           ]
         }

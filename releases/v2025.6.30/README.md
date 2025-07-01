@@ -116,6 +116,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.40.0](https://github.com/kubedb/mariadb/releases/tag/v0.40.0)
+
+- [8f03696f](https://github.com/kubedb/mariadb/commit/8f03696fe) Prepare for release v0.40.0 (#334)
+- [cd2f4f2e](https://github.com/kubedb/mariadb/commit/cd2f4f2ee) Set DB User as Default SecurityContext for Restore JobTemplate (#333)
+- [35a47efa](https://github.com/kubedb/mariadb/commit/35a47efa2) add max-concurrent-reconciles flag to operator (#331)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.36.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.36.0)

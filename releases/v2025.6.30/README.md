@@ -99,6 +99,15 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.2.0](https://github.com/kubedb/hazelcast/releases/tag/v0.2.0)
+
+- [3a24d061](https://github.com/kubedb/hazelcast/commit/3a24d061) Prepare for release v0.2.0 (#4)
+- [e5d96b31](https://github.com/kubedb/hazelcast/commit/e5d96b31) Changes for integrating with Ops manager (#3)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.3.0](https://github.com/kubedb/ignite/releases/tag/v0.3.0)

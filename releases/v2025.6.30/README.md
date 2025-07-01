@@ -177,6 +177,15 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.16.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.16.0)
+
+- [428cea2e](https://github.com/kubedb/mariadb-archiver/commit/428cea2e) Prepare for release v0.16.0 (#52)
+- [ca24ffbf](https://github.com/kubedb/mariadb-archiver/commit/ca24ffbf) Add MariaDB Replication Support (#51)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.36.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.36.0)

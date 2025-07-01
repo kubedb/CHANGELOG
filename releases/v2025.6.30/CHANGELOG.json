@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:27:42.297440737Z",
+  "release_date": "2025-07-01T20:27:49.35046711Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -255,6 +255,20 @@
             {
               "SHA": "cf404a16",
               "Subject": "Prepare for release v0.36.0 (#144)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "afb59a5",
+              "Subject": "Prepare for release v0.14.0 (#47)"
             }
           ]
         }

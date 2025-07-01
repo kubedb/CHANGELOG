@@ -455,6 +455,16 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.56.0](https://github.com/kubedb/provisioner/releases/tag/v0.56.0)
+
+- [edffbd95](https://github.com/kubedb/provisioner/commit/edffbd95a) Prepare for release v0.56.0 (#155)
+- [dc514ac6](https://github.com/kubedb/provisioner/commit/dc514ac62) Fix archiver security context (#153)
+- [9bfdea4f](https://github.com/kubedb/provisioner/commit/9bfdea4fd) Add virtual secret scheme; Remove Zap Logger (#154)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.43.0](https://github.com/kubedb/proxysql/releases/tag/v0.43.0)

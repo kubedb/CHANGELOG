@@ -159,6 +159,14 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.32.0](https://github.com/kubedb/kibana/releases/tag/v0.32.0)
+
+- [ceff9782](https://github.com/kubedb/kibana/commit/ceff9782) Prepare for release v0.32.0 (#153)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.19.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.19.0)

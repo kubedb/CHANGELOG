@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T22:35:55.761287692Z",
+  "release_date": "2025-07-01T22:40:28.103674574Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -345,6 +345,20 @@
             {
               "SHA": "47ec6ebf",
               "Subject": "Add Kafka Init Container changes for v4.0.0 (#152)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "ceff9782",
+              "Subject": "Prepare for release v0.32.0 (#153)"
             }
           ]
         }

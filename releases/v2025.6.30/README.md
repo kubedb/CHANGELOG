@@ -63,6 +63,15 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.3.0](https://github.com/kubedb/ignite/releases/tag/v0.3.0)
+
+- [d2868afc](https://github.com/kubedb/ignite/commit/d2868afc) Prepare for release v0.3.0 (#10)
+- [c5380059](https://github.com/kubedb/ignite/commit/c5380059) Add Ignite TLS (#9)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.27.0](https://github.com/kubedb/kafka/releases/tag/v0.27.0)

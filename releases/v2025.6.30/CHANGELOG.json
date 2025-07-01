@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:26:24.28175228Z",
+  "release_date": "2025-07-01T20:26:31.915849659Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -159,6 +159,24 @@
             {
               "SHA": "e4246d4f",
               "Subject": "Set containers & annotations from backend podTemplate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "d2868afc",
+              "Subject": "Prepare for release v0.3.0 (#10)"
+            },
+            {
+              "SHA": "c5380059",
+              "Subject": "Add Ignite TLS (#9)"
             }
           ]
         }

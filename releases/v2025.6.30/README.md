@@ -24,3 +24,17 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.11.0](https://github.com/kubedb/db-client-go/releases/tag/v0.11.0)
+
+- [3c7982b7](https://github.com/kubedb/db-client-go/commit/3c7982b7) Prepare for release v0.11.0 (#186)
+- [cd33436c](https://github.com/kubedb/db-client-go/commit/cd33436c) Add resty client (#185)
+- [332d74bd](https://github.com/kubedb/db-client-go/commit/332d74bd) Add tls for ignite (#184)
+- [95952fe8](https://github.com/kubedb/db-client-go/commit/95952fe8) Add TLS support for Cassandra (#183)
+- [524e2679](https://github.com/kubedb/db-client-go/commit/524e2679) Update Kafka version configuration (#182)
+- [f948e1d2](https://github.com/kubedb/db-client-go/commit/f948e1d2) Add druid apis for monitoring (#181)
+- [5786aaf4](https://github.com/kubedb/db-client-go/commit/5786aaf4) Add solr metrics client apis (#179)
+
+
+

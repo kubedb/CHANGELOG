@@ -286,6 +286,15 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.2.0](https://github.com/kubedb/oracle/releases/tag/v0.2.0)
+
+- [77566893](https://github.com/kubedb/oracle/commit/77566893) Prepare for release v0.2.0 (#5)
+- [90e857e1](https://github.com/kubedb/oracle/commit/90e857e1) Remove Zap Logger (#4)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.2.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.2.0)

@@ -115,6 +115,14 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.17.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.17.0)
+
+- [fe7e924d](https://github.com/kubedb/mysql-archiver/commit/fe7e924d) Prepare for release v0.17.0 (#61)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.49.0](https://github.com/kubedb/redis/releases/tag/v0.49.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:25:33.296897737Z",
+  "release_date": "2025-07-01T20:25:41.485322012Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -259,6 +259,20 @@
             {
               "SHA": "21378cc34",
               "Subject": "Do not default securityContext for backupConfig jobTemplate (#688)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "fe7e924d",
+              "Subject": "Prepare for release v0.17.0 (#61)"
             }
           ]
         }

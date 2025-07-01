@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:31:36.301905545Z",
+  "release_date": "2025-07-01T20:31:46.339447876Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -735,6 +735,24 @@
             {
               "SHA": "fc8f11d",
               "Subject": "Prepare for release v0.19.0 (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "28c55813",
+              "Subject": "Prepare for release v0.11.0 (#88)"
+            },
+            {
+              "SHA": "6b779a8e",
+              "Subject": "Remove Zap Logger (#87)"
             }
           ]
         }

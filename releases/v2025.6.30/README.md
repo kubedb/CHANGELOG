@@ -369,6 +369,15 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.11.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.11.0)
+
+- [28c55813](https://github.com/kubedb/rabbitmq/commit/28c55813) Prepare for release v0.11.0 (#88)
+- [6b779a8e](https://github.com/kubedb/rabbitmq/commit/6b779a8e) Remove Zap Logger (#87)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.49.0](https://github.com/kubedb/redis/releases/tag/v0.49.0)

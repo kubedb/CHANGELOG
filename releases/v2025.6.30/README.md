@@ -158,6 +158,14 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.11.0](https://github.com/kubedb/pgpool/releases/tag/v0.11.0)
+
+- [7719e231](https://github.com/kubedb/pgpool/commit/7719e231) Prepare for release v0.11.0 (#76)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.49.0](https://github.com/kubedb/redis/releases/tag/v0.49.0)

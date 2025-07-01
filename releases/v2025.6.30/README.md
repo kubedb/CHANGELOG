@@ -46,6 +46,15 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.11.0](https://github.com/kubedb/ferretdb/releases/tag/v0.11.0)
+
+- [cefd46bd](https://github.com/kubedb/ferretdb/commit/cefd46bd) Prepare for release v0.11.0 (#78)
+- [e4246d4f](https://github.com/kubedb/ferretdb/commit/e4246d4f) Set containers & annotations from backend podTemplate
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.27.0](https://github.com/kubedb/kafka/releases/tag/v0.27.0)

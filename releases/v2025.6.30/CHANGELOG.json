@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-01T20:27:49.35046711Z",
+  "release_date": "2025-07-01T20:27:57.806765778Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -75,6 +75,28 @@
             {
               "SHA": "cd795a57b",
               "Subject": "Update openapi schema (#1468)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "c702826b",
+              "Subject": "Prepare for release v0.9.0 (#38)"
+            },
+            {
+              "SHA": "433299d7",
+              "Subject": "Add TLS support (#35)"
+            },
+            {
+              "SHA": "e10d1904",
+              "Subject": "Remove verbosity flag (#37)"
             }
           ]
         }

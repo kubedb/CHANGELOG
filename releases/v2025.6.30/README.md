@@ -24,6 +24,16 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.9.0](https://github.com/kubedb/cassandra/releases/tag/v0.9.0)
+
+- [c702826b](https://github.com/kubedb/cassandra/commit/c702826b) Prepare for release v0.9.0 (#38)
+- [433299d7](https://github.com/kubedb/cassandra/commit/433299d7) Add TLS support (#35)
+- [e10d1904](https://github.com/kubedb/cassandra/commit/e10d1904) Remove verbosity flag (#37)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.3.0)

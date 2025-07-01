@@ -310,6 +310,14 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.19.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.19.0)
+
+- [fc8f11d](https://github.com/kubedb/postgres-restic-plugin/commit/fc8f11d) Prepare for release v0.19.0 (#72)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.49.0](https://github.com/kubedb/redis/releases/tag/v0.49.0)

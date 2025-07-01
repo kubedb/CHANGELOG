@@ -46,6 +46,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.49.0](https://github.com/kubedb/mongodb/releases/tag/v0.49.0)
+
+- [0ebe664b](https://github.com/kubedb/mongodb/commit/0ebe664be) Prepare for release v0.49.0 (#709)
+- [fa641f59](https://github.com/kubedb/mongodb/commit/fa641f594) remove replicaCount=3 (#708)
+- [451525f6](https://github.com/kubedb/mongodb/commit/451525f64) Set DB User as Default SecurityContext for Restore JobTemplate (#707)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.17.0)

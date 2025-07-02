@@ -1,4 +1,4 @@
-# KubeDB v2025.6.30 (2025-07-01)
+# KubeDB v2025.6.30 (2025-07-02)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -155,6 +155,13 @@
 
 - [d2868afc](https://github.com/kubedb/ignite/commit/d2868afc) Prepare for release v0.3.0 (#10)
 - [c5380059](https://github.com/kubedb/ignite/commit/c5380059) Add Ignite TLS (#9)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2025.6.30](https://github.com/kubedb/installer/releases/tag/v2025.6.30)
+
 
 
 

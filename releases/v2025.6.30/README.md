@@ -98,6 +98,21 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.6.30](https://github.com/kubedb/docs/releases/tag/v2025.6.30)
+
+- [b2c8303e](https://github.com/kubedb/docs/commit/b2c8303e) Prepare for release v2025.6.30 (#783)
+- [450d7a0b](https://github.com/kubedb/docs/commit/450d7a0b) Update docs for kubedb/cli@a99fd338 (#781)
+- [8a8f4d96](https://github.com/kubedb/docs/commit/8a8f4d96) Update docs for kubedb/provisioner@9bfdea4f (#780)
+- [9a132942](https://github.com/kubedb/docs/commit/9a132942) Add MongoDB external connections(horizons) Docs (#769)
+- [fc7263af](https://github.com/kubedb/docs/commit/fc7263af) Add docs for Ignite (#774)
+- [aacdd1af](https://github.com/kubedb/docs/commit/aacdd1af) Add MySQL Replication Mode Transform Ops-Request (#733)
+- [2e822912](https://github.com/kubedb/docs/commit/2e822912) Update Failover part for remote replica (#779)
+- [de5df521](https://github.com/kubedb/docs/commit/de5df521) Add podPlacementPolicy reference for all dbs (#776)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.11.0](https://github.com/kubedb/druid/releases/tag/v0.11.0)

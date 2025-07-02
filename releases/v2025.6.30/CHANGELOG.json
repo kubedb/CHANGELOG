@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.6.30",
-  "release_date": "2025-07-02T00:56:18.53607898Z",
+  "release_date": "2025-07-02T04:18:33.708283406Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -227,6 +227,48 @@
             {
               "SHA": "5786aaf4",
               "Subject": "Add solr metrics client apis (#179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "b2c8303e",
+              "Subject": "Prepare for release v2025.6.30 (#783)"
+            },
+            {
+              "SHA": "450d7a0b",
+              "Subject": "Update docs for kubedb/cli@a99fd338 (#781)"
+            },
+            {
+              "SHA": "8a8f4d96",
+              "Subject": "Update docs for kubedb/provisioner@9bfdea4f (#780)"
+            },
+            {
+              "SHA": "9a132942",
+              "Subject": "Add MongoDB external connections(horizons) Docs (#769)"
+            },
+            {
+              "SHA": "fc7263af",
+              "Subject": "Add docs for Ignite (#774)"
+            },
+            {
+              "SHA": "aacdd1af",
+              "Subject": "Add MySQL Replication Mode Transform Ops-Request (#733)"
+            },
+            {
+              "SHA": "2e822912",
+              "Subject": "Update Failover part for remote replica (#779)"
+            },
+            {
+              "SHA": "de5df521",
+              "Subject": "Add podPlacementPolicy reference for all dbs (#776)"
             }
           ]
         }

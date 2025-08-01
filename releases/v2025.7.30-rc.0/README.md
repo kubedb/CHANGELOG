@@ -181,6 +181,14 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.12.0-rc.0)
+
+- [2a81caa0](https://github.com/kubedb/mssql-coordinator/commit/2a81caa0) Prepare for release v0.12.0-rc.0 (#40)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.12.0-rc.0)

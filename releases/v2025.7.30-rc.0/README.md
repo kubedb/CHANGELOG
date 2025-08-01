@@ -21,6 +21,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.42.0-rc.0](https://github.com/kubedb/autoscaler/releases/tag/v0.42.0-rc.0)
+
+- [356eb7af](https://github.com/kubedb/autoscaler/commit/356eb7af) Prepare for release v0.42.0-rc.0 (#254)
+- [08d73d72](https://github.com/kubedb/autoscaler/commit/08d73d72) Add support for Cassandra (#252)
+- [3edb10e3](https://github.com/kubedb/autoscaler/commit/3edb10e3) Add Autoscaler for Hazelcast (#253)
+- [9dfa1fcc](https://github.com/kubedb/autoscaler/commit/9dfa1fcc) Fix crashing if refered db not found
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.10.0-rc.0)

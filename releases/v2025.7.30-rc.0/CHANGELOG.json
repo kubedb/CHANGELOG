@@ -1,0 +1,72 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.7.30-rc.0",
+  "release_date": "2025-08-01T15:27:39.98612717Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c6c60155a",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "6888d138a",
+              "Subject": "Setup Manifestwork Watcher (#1492)"
+            },
+            {
+              "SHA": "73c19cfe3",
+              "Subject": "Add Hazelcast autoscaling webhook (#1493)"
+            },
+            {
+              "SHA": "ccd67105f",
+              "Subject": "Fix PVCName (#1491)"
+            },
+            {
+              "SHA": "a1f8ed009",
+              "Subject": "Add custom config field for maxscale (#1484)"
+            },
+            {
+              "SHA": "c0c0e6b7b",
+              "Subject": "Add Clickhouse Ops-req support (#1474)"
+            },
+            {
+              "SHA": "b67dcb132",
+              "Subject": "Horizontal Scaling Ops Request for Redis Hostname (#1486)"
+            },
+            {
+              "SHA": "4b62f2618",
+              "Subject": "add  hazelcast autoscalling crd (#1489)"
+            },
+            {
+              "SHA": "a416271da",
+              "Subject": "Add support for Cassandra Rotate Auth (#1485)"
+            },
+            {
+              "SHA": "2a430ba32",
+              "Subject": "Update ignite constants (#1490)"
+            },
+            {
+              "SHA": "19a3bbd48",
+              "Subject": "Add support for cross zone archiver restore (#1488)"
+            },
+            {
+              "SHA": "b9a3506e4",
+              "Subject": "Allow mongo shards to have only one replica"
+            },
+            {
+              "SHA": "e4feb7d0e",
+              "Subject": "Test against k8s 1.33 (#1483)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

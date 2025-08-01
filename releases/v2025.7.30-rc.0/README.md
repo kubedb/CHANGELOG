@@ -340,6 +340,15 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.12.0-rc.0)
+
+- [74164cf8](https://github.com/kubedb/rabbitmq/commit/74164cf8) Prepare for release v0.12.0-rc.0 (#90)
+- [462aa28e](https://github.com/kubedb/rabbitmq/commit/462aa28e) Test against k8s 1.33 (#89)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.50.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.50.0-rc.0)

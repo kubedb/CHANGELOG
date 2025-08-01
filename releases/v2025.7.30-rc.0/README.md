@@ -75,6 +75,14 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.11.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.11.0-rc.0)
+
+- [6a85654](https://github.com/kubedb/mssqlserver-walg-plugin/commit/6a85654) Prepare for release v0.11.0-rc.0 (#28)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.18.0-rc.0)

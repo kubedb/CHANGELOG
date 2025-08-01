@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T17:50:32.93820787Z",
+  "release_date": "2025-08-01T17:50:40.226610045Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -107,6 +107,28 @@
             {
               "SHA": "26efd7e5",
               "Subject": "Test against k8s 1.33 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5f380116",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#14)"
+            },
+            {
+              "SHA": "9d476909",
+              "Subject": "Fix persistence issue (#12)"
+            },
+            {
+              "SHA": "0273ed45",
+              "Subject": "Test against k8s 1.33 (#11)"
             }
           ]
         }

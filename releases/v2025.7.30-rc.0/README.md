@@ -41,6 +41,16 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.4.0-rc.0)
+
+- [5f380116](https://github.com/kubedb/ignite/commit/5f380116) Prepare for release v0.4.0-rc.0 (#14)
+- [9d476909](https://github.com/kubedb/ignite/commit/9d476909) Fix persistence issue (#12)
+- [0273ed45](https://github.com/kubedb/ignite/commit/0273ed45) Test against k8s 1.33 (#11)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.17.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.17.0-rc.0)

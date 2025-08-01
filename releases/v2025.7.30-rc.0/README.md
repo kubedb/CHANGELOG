@@ -164,6 +164,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.50.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.50.0-rc.0)
+
+- [9c7cb565](https://github.com/kubedb/memcached/commit/9c7cb5654) Prepare for release v0.50.0-rc.0 (#503)
+- [55609e30](https://github.com/kubedb/memcached/commit/55609e30e) Test against k8s 1.33 (#502)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.50.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.50.0-rc.0)

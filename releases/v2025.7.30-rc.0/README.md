@@ -84,6 +84,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.50.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.50.0-rc.0)
+
+- [b4c09d93](https://github.com/kubedb/mongodb/commit/b4c09d93e) Prepare for release v0.50.0-rc.0 (#711)
+- [26720bfc](https://github.com/kubedb/mongodb/commit/26720bfcf) Test against k8s 1.33 (#710)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.11.0-rc.0)

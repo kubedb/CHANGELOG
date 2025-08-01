@@ -73,3 +73,12 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.12.0-rc.0)
+
+- [687f318a](https://github.com/kubedb/solr/commit/687f318a) Prepare for release v0.12.0-rc.0 (#90)
+- [1a5534f9](https://github.com/kubedb/solr/commit/1a5534f9) Test against k8s 1.33 (#87)
+
+
+

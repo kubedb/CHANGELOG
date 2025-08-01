@@ -248,3 +248,12 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.12.0-rc.0)
+
+- [aa9b5b0a](https://github.com/kubedb/zookeeper/commit/aa9b5b0a) Prepare for release v0.12.0-rc.0 (#81)
+- [fddd3804](https://github.com/kubedb/zookeeper/commit/fddd3804) Test against k8s 1.33 (#79)
+
+
+

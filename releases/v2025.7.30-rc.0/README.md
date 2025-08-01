@@ -153,6 +153,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.50.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.50.0-rc.0)
+
+- [444f71bf](https://github.com/kubedb/redis/commit/444f71bf1) Prepare for release v0.50.0-rc.0 (#598)
+- [02232f6c](https://github.com/kubedb/redis/commit/02232f6c8) Test against k8s 1.33 (#597)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.36.0-rc.0)

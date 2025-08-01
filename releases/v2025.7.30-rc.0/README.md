@@ -57,6 +57,15 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.3.0-rc.0)
+
+- [eeea106d](https://github.com/kubedb/hazelcast/commit/eeea106d) Prepare for release v0.3.0-rc.0 (#7)
+- [68cb321a](https://github.com/kubedb/hazelcast/commit/68cb321a) Merge pull request #5 from kubedb/gha-up
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.4.0-rc.0)

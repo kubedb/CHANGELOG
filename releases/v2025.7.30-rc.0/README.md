@@ -430,6 +430,16 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.15.0-rc.0)
+
+- [1c216d8](https://github.com/kubedb/singlestore-restic-plugin/commit/1c216d8) Prepare for release v0.15.0-rc.0 (#48)
+- [da671fc](https://github.com/kubedb/singlestore-restic-plugin/commit/da671fc) Test against k8s 1.33 (#47)
+- [fc53bcb](https://github.com/kubedb/singlestore-restic-plugin/commit/fc53bcb) Add Automatic Restic Unlock feature (#46)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.12.0-rc.0)

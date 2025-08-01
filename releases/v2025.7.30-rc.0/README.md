@@ -286,6 +286,15 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.12.0-rc.0)
+
+- [fc054ccd](https://github.com/kubedb/pgpool/commit/fc054ccd) Prepare for release v0.12.0-rc.0 (#78)
+- [58e9fafb](https://github.com/kubedb/pgpool/commit/58e9fafb) Test against k8s 1.33 (#77)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.57.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.57.0-rc.0)

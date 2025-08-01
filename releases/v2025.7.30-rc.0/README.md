@@ -75,6 +75,15 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.15.0-rc.0)
+
+- [b178010](https://github.com/kubedb/mariadb-restic-plugin/commit/b178010) Prepare for release v0.15.0-rc.0 (#49)
+- [8995cb0](https://github.com/kubedb/mariadb-restic-plugin/commit/8995cb0) Add Automatic Restic Unlock Feature (#48)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.11.0-rc.0)

@@ -103,6 +103,15 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.12.0-rc.0)
+
+- [e8f362c9](https://github.com/kubedb/ferretdb/commit/e8f362c9) Prepare for release v0.12.0-rc.0 (#80)
+- [00808e7e](https://github.com/kubedb/ferretdb/commit/00808e7e) Test against k8s 1.33 (#79)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.5.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.5.0-rc.0)

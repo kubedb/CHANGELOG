@@ -374,6 +374,14 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.12.0-rc.0)
+
+- [2822921](https://github.com/kubedb/singlestore-coordinator/commit/2822921) Prepare for release v0.12.0-rc.0 (#45)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.12.0-rc.0)

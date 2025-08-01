@@ -128,6 +128,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.20.0-rc.0)
+
+- [1e1dd930](https://github.com/kubedb/mongodb-restic-plugin/commit/1e1dd930) Prepare for release v0.20.0-rc.0 (#87)
+- [c22d6f05](https://github.com/kubedb/mongodb-restic-plugin/commit/c22d6f05) Add Automatic Restic Unlock feature (#86)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.11.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T19:57:32.367149607Z",
+  "release_date": "2025-08-01T20:03:35.002006363Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -922,6 +922,24 @@
         {
           "tag": "v0.18.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "af72f8a39",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#158)"
+            },
+            {
+              "SHA": "2610cb806",
+              "Subject": "Add Distributed Postgres and MariaDB Support (#157)"
+            }
+          ]
         }
       ]
     },

@@ -466,6 +466,15 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.57.0-rc.0](https://github.com/kubedb/provisioner/releases/tag/v0.57.0-rc.0)
+
+- [af72f8a3](https://github.com/kubedb/provisioner/commit/af72f8a39) Prepare for release v0.57.0-rc.0 (#158)
+- [2610cb80](https://github.com/kubedb/provisioner/commit/2610cb806) Add Distributed Postgres and MariaDB Support (#157)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.44.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.44.0-rc.0)

@@ -100,6 +100,15 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.3.0-rc.0)
+
+- [0e520420](https://github.com/kubedb/oracle/commit/0e520420) Prepare for release v0.3.0-rc.0 (#7)
+- [df62795d](https://github.com/kubedb/oracle/commit/df62795d) Test against k8s 1.33 (#6)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.3.0-rc.0)

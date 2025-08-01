@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T20:03:35.002006363Z",
+  "release_date": "2025-08-01T20:17:02.427362781Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -705,6 +705,52 @@
         {
           "tag": "v0.35.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b7d5dc906",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#773)"
+            },
+            {
+              "SHA": "1e7063dec",
+              "Subject": "Add MariaDB MultiCluster Support (#770)"
+            },
+            {
+              "SHA": "4b574394a",
+              "Subject": "Horizontal scaling for redis (#767)"
+            },
+            {
+              "SHA": "b82654f58",
+              "Subject": "update in same-version-update-recommendation (#758)"
+            },
+            {
+              "SHA": "c006f3405",
+              "Subject": "Improve & Fix Mssql rotate auth with new secret (#772)"
+            },
+            {
+              "SHA": "5cf861610",
+              "Subject": "Add Ignite OpsRequest Rotate Auth reconfigureTLS & version update (#769)"
+            },
+            {
+              "SHA": "0e8f24161",
+              "Subject": "Add Cassandra Rotate Auth (#761)"
+            },
+            {
+              "SHA": "a7642f3f5",
+              "Subject": "Add Clickhouse Ops-Req (#763)"
+            },
+            {
+              "SHA": "c2dffe06c",
+              "Subject": "Add rotate auth support for mysql and mariadb replication mode (#760)"
+            }
+          ]
         }
       ]
     },

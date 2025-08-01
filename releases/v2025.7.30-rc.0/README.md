@@ -348,6 +348,22 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.44.0-rc.0](https://github.com/kubedb/ops-manager/releases/tag/v0.44.0-rc.0)
+
+- [b7d5dc90](https://github.com/kubedb/ops-manager/commit/b7d5dc906) Prepare for release v0.44.0-rc.0 (#773)
+- [1e7063de](https://github.com/kubedb/ops-manager/commit/1e7063dec) Add MariaDB MultiCluster Support (#770)
+- [4b574394](https://github.com/kubedb/ops-manager/commit/4b574394a) Horizontal scaling for redis (#767)
+- [b82654f5](https://github.com/kubedb/ops-manager/commit/b82654f58) update in same-version-update-recommendation (#758)
+- [c006f340](https://github.com/kubedb/ops-manager/commit/c006f3405) Improve & Fix Mssql rotate auth with new secret (#772)
+- [5cf86161](https://github.com/kubedb/ops-manager/commit/5cf861610) Add Ignite OpsRequest Rotate Auth reconfigureTLS & version update (#769)
+- [0e8f2416](https://github.com/kubedb/ops-manager/commit/0e8f24161) Add Cassandra Rotate Auth (#761)
+- [a7642f3f](https://github.com/kubedb/ops-manager/commit/a7642f3f5) Add Clickhouse Ops-Req (#763)
+- [c2dffe06](https://github.com/kubedb/ops-manager/commit/c2dffe06c) Add rotate auth support for mysql and mariadb replication mode (#760)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.3.0-rc.0)

@@ -249,6 +249,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.20.0-rc.0)
+
+- [5dbf0dd](https://github.com/kubedb/redis-restic-plugin/commit/5dbf0dd) Prepare for release v0.20.0-rc.0 (#69)
+- [975bb58](https://github.com/kubedb/redis-restic-plugin/commit/975bb58) Add Automatic Restic Unlock feature (#68)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.44.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.44.0-rc.0)

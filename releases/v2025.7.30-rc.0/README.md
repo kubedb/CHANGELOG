@@ -104,6 +104,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.20.0-rc.0)
+
+- [de61847a](https://github.com/kubedb/kubedb-manifest-plugin/commit/de61847a) Prepare for release v0.20.0-rc.0 (#98)
+- [2a560940](https://github.com/kubedb/kubedb-manifest-plugin/commit/2a560940) Add Automatic Restic Unlock feature (#97)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.8.0-rc.0)

@@ -108,6 +108,14 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.18.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.18.0-rc.0)
+
+- [7d2b4455](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/7d2b4455) Prepare for release v0.18.0-rc.0 (#59)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.36.0-rc.0)

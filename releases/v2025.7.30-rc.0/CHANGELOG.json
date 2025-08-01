@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T15:27:39.98612717Z",
+  "release_date": "2025-08-01T15:36:20.982907191Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -63,6 +63,32 @@
             {
               "SHA": "e4feb7d0e",
               "Subject": "Test against k8s 1.33 (#1483)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4ea2ed88",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#190)"
+            },
+            {
+              "SHA": "f70a3871",
+              "Subject": "Update ignite client (#188)"
+            },
+            {
+              "SHA": "e73f8f69",
+              "Subject": "Fix es client generation from kubedb/ui-server"
+            },
+            {
+              "SHA": "7b20b24d",
+              "Subject": "Fix config version for kafka sarama (#187)"
             }
           ]
         }

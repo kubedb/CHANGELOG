@@ -40,6 +40,14 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.18.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.18.0-rc.0)
+
+- [95608b82](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/95608b82) Prepare for release v0.18.0-rc.0 (#49)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.36.0-rc.0)

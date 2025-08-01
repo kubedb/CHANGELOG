@@ -466,6 +466,15 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.44.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.44.0-rc.0)
+
+- [1a5396e8](https://github.com/kubedb/proxysql/commit/1a5396e8e) Prepare for release v0.44.0-rc.0 (#397)
+- [2bb2d02f](https://github.com/kubedb/proxysql/commit/2bb2d02f4) Test against k8s 1.33 (#396)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.12.0-rc.0)

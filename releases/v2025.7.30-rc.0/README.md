@@ -38,6 +38,16 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.12.0-rc.0)
+
+- [0c3b51ae](https://github.com/kubedb/clickhouse/commit/0c3b51ae) Prepare for release v0.12.0-rc.0 (#58)
+- [815c95ee](https://github.com/kubedb/clickhouse/commit/815c95ee) Add ClickHouse Ops-req (#57)
+- [360fe315](https://github.com/kubedb/clickhouse/commit/360fe315) Test against k8s 1.33 (#56)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.12.0-rc.0)

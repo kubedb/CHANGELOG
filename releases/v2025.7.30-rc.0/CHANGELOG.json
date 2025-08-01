@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T17:54:47.569997627Z",
+  "release_date": "2025-08-01T17:54:56.021343777Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -95,6 +95,28 @@
             {
               "SHA": "e6bb628",
               "Subject": "Prepare for release v0.4.0-rc.0 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0c3b51ae",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "815c95ee",
+              "Subject": "Add ClickHouse Ops-req (#57)"
+            },
+            {
+              "SHA": "360fe315",
+              "Subject": "Test against k8s 1.33 (#56)"
             }
           ]
         }

@@ -32,3 +32,11 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.17.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.17.0-rc.0)
+
+- [af4a00ce](https://github.com/kubedb/mariadb-archiver/commit/af4a00ce) Prepare for release v0.17.0-rc.0 (#54)
+
+
+

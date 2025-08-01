@@ -141,6 +141,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.12.0-rc.0)
+
+- [65038345](https://github.com/kubedb/singlestore/commit/65038345) Prepare for release v0.12.0-rc.0 (#77)
+- [a0bc041a](https://github.com/kubedb/singlestore/commit/a0bc041a) Test against k8s 1.33 (#75)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.12.0-rc.0)

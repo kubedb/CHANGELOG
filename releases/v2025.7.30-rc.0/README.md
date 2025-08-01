@@ -38,6 +38,14 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.57.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.57.0-rc.0)
+
+- [f584c273](https://github.com/kubedb/cli/commit/f584c2733) Prepare for release v0.57.0-rc.0 (#799)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.12.0-rc.0)

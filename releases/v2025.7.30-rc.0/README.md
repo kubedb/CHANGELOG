@@ -265,6 +265,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.35.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.35.0-rc.0)
+
+- [255642b6](https://github.com/kubedb/mysql-coordinator/commit/255642b6) Prepare for release v0.35.0-rc.0 (#146)
+- [93c3754d](https://github.com/kubedb/mysql-coordinator/commit/93c3754d) Get root password from secret instead of env variable (#145)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.18.0-rc.0)

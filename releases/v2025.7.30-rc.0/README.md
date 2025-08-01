@@ -134,6 +134,17 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.57.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.57.0-rc.0)
+
+- [3cb475c3](https://github.com/kubedb/postgres/commit/3cb475c30) Prepare for release v0.57.0-rc.0 (#822)
+- [68119e3e](https://github.com/kubedb/postgres/commit/68119e3e3) Allow Postgres Clusterring On Multiple Kubernetes Clusters (#821)
+- [ae5ac199](https://github.com/kubedb/postgres/commit/ae5ac1999) Fix in CI (add ops-manager, change cron-schedule) (#814)
+- [e7622ac2](https://github.com/kubedb/postgres/commit/e7622ac26) Test against k8s 1.33 (#820)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.18.0-rc.0)

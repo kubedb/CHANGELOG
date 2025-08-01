@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T17:52:08.491243448Z",
+  "release_date": "2025-08-01T17:52:28.102104675Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -281,6 +281,32 @@
             {
               "SHA": "ed3fbb81",
               "Subject": "Add Grpc Server and Add Support for Distributed Petset (#202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3cb475c30",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#822)"
+            },
+            {
+              "SHA": "68119e3e3",
+              "Subject": "Allow Postgres Clusterring On Multiple Kubernetes Clusters (#821)"
+            },
+            {
+              "SHA": "ae5ac1999",
+              "Subject": "Fix in CI (add ops-manager, change cron-schedule) (#814)"
+            },
+            {
+              "SHA": "e7622ac26",
+              "Subject": "Test against k8s 1.33 (#820)"
             }
           ]
         }

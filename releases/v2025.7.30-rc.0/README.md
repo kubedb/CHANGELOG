@@ -169,6 +169,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.37.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.37.0-rc.0)
+
+- [bb0f9013](https://github.com/kubedb/mariadb-coordinator/commit/bb0f9013) Prepare for release v0.37.0-rc.0 (#146)
+- [a1f65df7](https://github.com/kubedb/mariadb-coordinator/commit/a1f65df7) Add MultiCluster Support (#145)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.17.0-rc.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.17.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T17:58:30.288827426Z",
+  "release_date": "2025-08-01T17:58:50.505080819Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -539,6 +539,20 @@
             {
               "SHA": "40d65e643",
               "Subject": "Test against k8s 1.33 (#690)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b847d6d8",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#62)"
             }
           ]
         }

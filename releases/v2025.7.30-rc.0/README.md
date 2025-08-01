@@ -171,6 +171,14 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.18.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.18.0-rc.0)
+
+- [54158927](https://github.com/kubedb/postgres-archiver/commit/54158927) Prepare for release v0.18.0-rc.0 (#63)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.18.0-rc.0)

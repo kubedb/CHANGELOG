@@ -616,6 +616,15 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.33.0-rc.0](https://github.com/kubedb/webhook-server/releases/tag/v0.33.0-rc.0)
+
+- [9ddc27d5](https://github.com/kubedb/webhook-server/commit/9ddc27d5) Prepare for release v0.33.0-rc.0 (#161)
+- [38ab286a](https://github.com/kubedb/webhook-server/commit/38ab286a) setup hazelcast weebhook manager (#160)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.6.0-rc.0)

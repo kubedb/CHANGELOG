@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T20:25:17.678921335Z",
+  "release_date": "2025-08-01T20:31:45.15397356Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -1232,6 +1232,24 @@
             {
               "SHA": "976c6624",
               "Subject": "Prepare for release v0.33.0-rc.0 (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9ddc27d5",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "38ab286a",
+              "Subject": "setup hazelcast weebhook manager (#160)"
             }
           ]
         }

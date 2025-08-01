@@ -48,6 +48,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.44.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.44.0-rc.0)
+
+- [ca075aa5](https://github.com/kubedb/percona-xtradb/commit/ca075aa5a) Prepare for release v0.44.0-rc.0 (#411)
+- [2ddd3843](https://github.com/kubedb/percona-xtradb/commit/2ddd3843f) Test against k8s 1.33 (#410)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.36.0-rc.0)

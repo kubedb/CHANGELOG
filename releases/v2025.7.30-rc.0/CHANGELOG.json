@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T17:57:52.651705957Z",
+  "release_date": "2025-08-01T17:58:30.288827426Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -319,6 +319,40 @@
             {
               "SHA": "bf5a26b",
               "Subject": "Prepare for release v0.8.0-rc.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9203d564e",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#340)"
+            },
+            {
+              "SHA": "5dacea536",
+              "Subject": "Add Distributed MariaDB Support (#338)"
+            },
+            {
+              "SHA": "cff8f52d9",
+              "Subject": "Add custom config support for maxscale server (#336)"
+            },
+            {
+              "SHA": "02a5b30f8",
+              "Subject": "Fix Unnecessary DB Container Patch Issue (#339)"
+            },
+            {
+              "SHA": "8d7cfeef8",
+              "Subject": "Fix MariaDB Local PVC BS Panic Issue (#337)"
+            },
+            {
+              "SHA": "e6d6fe2b1",
+              "Subject": "Test against k8s 1.33 (#335)"
             }
           ]
         }

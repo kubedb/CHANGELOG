@@ -384,6 +384,15 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.6.0-rc.0)
+
+- [ec90e55](https://github.com/kubedb/xtrabackup-restic-plugin/commit/ec90e55) Prepare for release v0.6.0-rc.0 (#16)
+- [281eabf](https://github.com/kubedb/xtrabackup-restic-plugin/commit/281eabf) Add Automatic Restic Unlock Feature (#15)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.12.0-rc.0)

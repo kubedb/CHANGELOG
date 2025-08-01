@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T18:00:34.234535248Z",
+  "release_date": "2025-08-01T19:48:09.645391015Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -337,6 +337,20 @@
             {
               "SHA": "24e806ab",
               "Subject": "Test against k8s 1.33 (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9ddffbf9",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#154)"
             }
           ]
         }

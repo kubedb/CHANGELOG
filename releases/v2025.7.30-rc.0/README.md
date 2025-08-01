@@ -32,6 +32,15 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.5.0-rc.0)
+
+- [9868d099](https://github.com/kubedb/gitops/commit/9868d099) Prepare for release v0.5.0-rc.0 (#19)
+- [26efd7e5](https://github.com/kubedb/gitops/commit/26efd7e5) Test against k8s 1.33 (#18)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.17.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.17.0-rc.0)

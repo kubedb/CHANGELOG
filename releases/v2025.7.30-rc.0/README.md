@@ -126,6 +126,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.20.0-rc.0)
+
+- [63528f1](https://github.com/kubedb/mysql-restic-plugin/commit/63528f1) Prepare for release v0.20.0-rc.0 (#77)
+- [1940e43](https://github.com/kubedb/mysql-restic-plugin/commit/1940e43) Add Automatic Restic Unlock feature (#76)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.3.0-rc.0)

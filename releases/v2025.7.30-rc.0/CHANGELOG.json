@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.30-rc.0",
-  "release_date": "2025-08-01T20:31:45.15397356Z",
+  "release_date": "2025-08-02T04:50:49.998857711Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.30-rc.0",
   "kubernetes_version": "1.26+",
@@ -345,6 +345,48 @@
             {
               "SHA": "0273ed45",
               "Subject": "Test against k8s 1.33 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.7.30-rc.0",
+          "commits": [
+            {
+              "SHA": "749bce509",
+              "Subject": "Prepare for release v2025.7.30-rc.0 (#1790)"
+            },
+            {
+              "SHA": "0d0e855c9",
+              "Subject": "Fix expression for disk usage (#1777)"
+            },
+            {
+              "SHA": "fbea58d3f",
+              "Subject": "Update crds for kubedb/apimachinery@6888d138 (#1788)"
+            },
+            {
+              "SHA": "3694a9563",
+              "Subject": "Add ManifestWork ClusterRole to Provisioner, OpsManager (#1779)"
+            },
+            {
+              "SHA": "bb4ddf150",
+              "Subject": "Re-write recommendation flags; Add deadline (#1776)"
+            },
+            {
+              "SHA": "74f731b0c",
+              "Subject": "Update cve report 2025-07-31 (#1775)"
+            },
+            {
+              "SHA": "dba697ea2",
+              "Subject": "Add Clickhouse Version 25.7.1 (#1778)"
+            },
+            {
+              "SHA": "d32f771c8",
+              "Subject": "Add webhook configuration for hazelcast autoscaler and ops-manager (#1786)"
             }
           ]
         }

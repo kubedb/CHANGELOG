@@ -1,4 +1,4 @@
-# KubeDB v2025.7.30-rc.0 (2025-08-01)
+# KubeDB v2025.7.30-rc.0 (2025-08-02)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -156,6 +156,21 @@
 - [5f380116](https://github.com/kubedb/ignite/commit/5f380116) Prepare for release v0.4.0-rc.0 (#14)
 - [9d476909](https://github.com/kubedb/ignite/commit/9d476909) Fix persistence issue (#12)
 - [0273ed45](https://github.com/kubedb/ignite/commit/0273ed45) Test against k8s 1.33 (#11)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2025.7.30-rc.0](https://github.com/kubedb/installer/releases/tag/v2025.7.30-rc.0)
+
+- [749bce50](https://github.com/kubedb/installer/commit/749bce509) Prepare for release v2025.7.30-rc.0 (#1790)
+- [0d0e855c](https://github.com/kubedb/installer/commit/0d0e855c9) Fix expression for disk usage (#1777)
+- [fbea58d3](https://github.com/kubedb/installer/commit/fbea58d3f) Update crds for kubedb/apimachinery@6888d138 (#1788)
+- [3694a956](https://github.com/kubedb/installer/commit/3694a9563) Add ManifestWork ClusterRole to Provisioner, OpsManager (#1779)
+- [bb4ddf15](https://github.com/kubedb/installer/commit/bb4ddf150) Re-write recommendation flags; Add deadline (#1776)
+- [74f731b0](https://github.com/kubedb/installer/commit/74f731b0c) Update cve report 2025-07-31 (#1775)
+- [dba697ea](https://github.com/kubedb/installer/commit/dba697ea2) Add Clickhouse Version 25.7.1 (#1778)
+- [d32f771c](https://github.com/kubedb/installer/commit/d32f771c8) Add webhook configuration for hazelcast autoscaler and ops-manager (#1786)
 
 
 

@@ -95,6 +95,15 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.7.30-rc.0](https://github.com/kubedb/docs/releases/tag/v2025.7.30-rc.0)
+
+- [7056bfbe](https://github.com/kubedb/docs/commit/7056bfbe) Prepare for release v2025.7.30-rc.0 (#796)
+- [7c3f8a95](https://github.com/kubedb/docs/commit/7c3f8a95) Update petset tag in kubedb-upgrade process
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.12.0-rc.0)

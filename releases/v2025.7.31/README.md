@@ -1,0 +1,27 @@
+# KubeDB v2025.7.31 (2025-08-07)
+
+
+## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+
+### [v0.57.0](https://github.com/kubedb/apimachinery/releases/tag/v0.57.0)
+
+- [ed84b233](https://github.com/kubedb/apimachinery/commit/ed84b2330) Use KubeStash v2025.7.31 (#1499)
+- [3837d7a2](https://github.com/kubedb/apimachinery/commit/3837d7a28) Postgres GRPC TLS Secret  (#1497)
+- [d432a1eb](https://github.com/kubedb/apimachinery/commit/d432a1eb7) Add MSSQL Init Database Contants (#1494)
+- [d5817eb1](https://github.com/kubedb/apimachinery/commit/d5817eb18) fix-hazelcast-ops-api (#1495)
+- [c6c60155](https://github.com/kubedb/apimachinery/commit/c6c60155a) Update deps
+- [6888d138](https://github.com/kubedb/apimachinery/commit/6888d138a) Setup Manifestwork Watcher (#1492)
+- [73c19cfe](https://github.com/kubedb/apimachinery/commit/73c19cfe3) Add Hazelcast autoscaling webhook (#1493)
+- [ccd67105](https://github.com/kubedb/apimachinery/commit/ccd67105f) Fix PVCName (#1491)
+- [a1f8ed00](https://github.com/kubedb/apimachinery/commit/a1f8ed009) Add custom config field for maxscale (#1484)
+- [c0c0e6b7](https://github.com/kubedb/apimachinery/commit/c0c0e6b7b) Add Clickhouse Ops-req support (#1474)
+- [b67dcb13](https://github.com/kubedb/apimachinery/commit/b67dcb132) Horizontal Scaling Ops Request for Redis Hostname (#1486)
+- [4b62f261](https://github.com/kubedb/apimachinery/commit/4b62f2618) add  hazelcast autoscalling crd (#1489)
+- [a416271d](https://github.com/kubedb/apimachinery/commit/a416271da) Add support for Cassandra Rotate Auth (#1485)
+- [2a430ba3](https://github.com/kubedb/apimachinery/commit/2a430ba32) Update ignite constants (#1490)
+- [19a3bbd4](https://github.com/kubedb/apimachinery/commit/19a3bbd48) Add support for cross zone archiver restore (#1488)
+- [b9a3506e](https://github.com/kubedb/apimachinery/commit/b9a3506e4) Allow mongo shards to have only one replica
+- [e4feb7d0](https://github.com/kubedb/apimachinery/commit/e4feb7d0e) Test against k8s 1.33 (#1483)
+
+
+

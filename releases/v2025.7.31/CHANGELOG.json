@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:28:43.715302516Z",
+  "release_date": "2025-08-07T17:28:50.170055134Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -109,6 +109,32 @@
             {
               "SHA": "7b20b24d",
               "Subject": "Fix config version for kafka sarama (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "71fbc350",
+              "Subject": "Prepare for release v0.4.0 (#15)"
+            },
+            {
+              "SHA": "5f380116",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#14)"
+            },
+            {
+              "SHA": "9d476909",
+              "Subject": "Fix persistence issue (#12)"
+            },
+            {
+              "SHA": "0273ed45",
+              "Subject": "Test against k8s 1.33 (#11)"
             }
           ]
         }

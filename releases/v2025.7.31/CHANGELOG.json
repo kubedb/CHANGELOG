@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:31:33.677749293Z",
+  "release_date": "2025-08-07T17:31:54.996163139Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -341,6 +341,32 @@
             {
               "SHA": "2ddd3843f",
               "Subject": "Test against k8s 1.33 (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "0fcd5662",
+              "Subject": "Prepare for release v0.41.0 (#205)"
+            },
+            {
+              "SHA": "ae5d1d71",
+              "Subject": "Add GRPC Support and Fix Arbiter (#204)"
+            },
+            {
+              "SHA": "48a00fdc",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#203)"
+            },
+            {
+              "SHA": "ed3fbb81",
+              "Subject": "Add Grpc Server and Add Support for Distributed Petset (#202)"
             }
           ]
         }

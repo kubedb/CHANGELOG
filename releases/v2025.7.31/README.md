@@ -140,6 +140,17 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.41.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.41.0)
+
+- [0fcd5662](https://github.com/kubedb/pg-coordinator/commit/0fcd5662) Prepare for release v0.41.0 (#205)
+- [ae5d1d71](https://github.com/kubedb/pg-coordinator/commit/ae5d1d71) Add GRPC Support and Fix Arbiter (#204)
+- [48a00fdc](https://github.com/kubedb/pg-coordinator/commit/48a00fdc) Prepare for release v0.41.0-rc.0 (#203)
+- [ed3fbb81](https://github.com/kubedb/pg-coordinator/commit/ed3fbb81) Add Grpc Server and Add Support for Distributed Petset (#202)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.18.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.18.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:33:39.120057969Z",
+  "release_date": "2025-08-07T17:33:45.837896195Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -345,6 +345,28 @@
             {
               "SHA": "e6d6fe2b1",
               "Subject": "Test against k8s 1.33 (#335)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "73654241",
+              "Subject": "Prepare for release v0.37.0 (#147)"
+            },
+            {
+              "SHA": "bb0f9013",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#146)"
+            },
+            {
+              "SHA": "a1f65df7",
+              "Subject": "Add MultiCluster Support (#145)"
             }
           ]
         }

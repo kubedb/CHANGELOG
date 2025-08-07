@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:34:07.266309969Z",
+  "release_date": "2025-08-07T17:34:14.636957692Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -473,6 +473,24 @@
             {
               "SHA": "c22d6f05",
               "Subject": "Add Automatic Restic Unlock feature (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "600317db",
+              "Subject": "Prepare for release v0.12.0 (#41)"
+            },
+            {
+              "SHA": "2a81caa0",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#40)"
             }
           ]
         }

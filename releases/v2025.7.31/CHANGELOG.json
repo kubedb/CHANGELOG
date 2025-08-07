@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:35:03.772348398Z",
+  "release_date": "2025-08-07T17:35:11.938659146Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -755,6 +755,28 @@
             {
               "SHA": "ed3fbb81",
               "Subject": "Add Grpc Server and Add Support for Distributed Petset (#202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "f8517f13",
+              "Subject": "Prepare for release v0.12.0 (#79)"
+            },
+            {
+              "SHA": "fc054ccd",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "58e9fafb",
+              "Subject": "Test against k8s 1.33 (#77)"
             }
           ]
         }

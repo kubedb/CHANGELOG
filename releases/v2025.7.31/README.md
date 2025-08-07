@@ -329,6 +329,16 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.12.0](https://github.com/kubedb/pgpool/releases/tag/v0.12.0)
+
+- [f8517f13](https://github.com/kubedb/pgpool/commit/f8517f13) Prepare for release v0.12.0 (#79)
+- [fc054ccd](https://github.com/kubedb/pgpool/commit/fc054ccd) Prepare for release v0.12.0-rc.0 (#78)
+- [58e9fafb](https://github.com/kubedb/pgpool/commit/58e9fafb) Test against k8s 1.33 (#77)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.18.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.18.0)

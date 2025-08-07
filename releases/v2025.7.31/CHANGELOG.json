@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:33:58.770999991Z",
+  "release_date": "2025-08-07T17:34:07.266309969Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -857,6 +857,28 @@
             {
               "SHA": "fc53bcb",
               "Subject": "Add Automatic Restic Unlock feature (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "99ea9c43",
+              "Subject": "Prepare for release v0.12.0 (#91)"
+            },
+            {
+              "SHA": "687f318a",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "1a5534f9",
+              "Subject": "Test against k8s 1.33 (#87)"
             }
           ]
         }

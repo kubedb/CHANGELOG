@@ -96,6 +96,15 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.18.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.18.0)
+
+- [af6f0218](https://github.com/kubedb/postgres-archiver/commit/af6f0218) Prepare for release v0.18.0 (#64)
+- [54158927](https://github.com/kubedb/postgres-archiver/commit/54158927) Prepare for release v0.18.0-rc.0 (#63)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.12.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.12.0)

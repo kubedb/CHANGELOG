@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:33:45.837896195Z",
+  "release_date": "2025-08-07T17:33:52.610936449Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -649,6 +649,24 @@
             {
               "SHA": "54158927",
               "Subject": "Prepare for release v0.18.0-rc.0 (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "050bdf83",
+              "Subject": "Prepare for release v0.18.0 (#60)"
+            },
+            {
+              "SHA": "7d2b4455",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#59)"
             }
           ]
         }

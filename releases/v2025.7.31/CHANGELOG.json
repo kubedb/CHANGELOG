@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:33:16.156232294Z",
+  "release_date": "2025-08-07T17:33:22.934702115Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -79,6 +79,28 @@
             {
               "SHA": "e4feb7d0e",
               "Subject": "Test against k8s 1.33 (#1483)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "25fe3b50",
+              "Subject": "Prepare for release v0.10.0 (#42)"
+            },
+            {
+              "SHA": "9819b1b4",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "a5e74a21",
+              "Subject": "Test against k8s 1.33 (#39)"
             }
           ]
         }

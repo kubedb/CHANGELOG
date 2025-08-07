@@ -57,6 +57,16 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.12.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.12.0)
+
+- [3861b737](https://github.com/kubedb/rabbitmq/commit/3861b737) Prepare for release v0.12.0 (#91)
+- [74164cf8](https://github.com/kubedb/rabbitmq/commit/74164cf8) Prepare for release v0.12.0-rc.0 (#90)
+- [462aa28e](https://github.com/kubedb/rabbitmq/commit/462aa28e) Test against k8s 1.33 (#89)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.44.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.44.0)

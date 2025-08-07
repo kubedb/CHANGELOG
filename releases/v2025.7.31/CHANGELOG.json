@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:28:50.170055134Z",
+  "release_date": "2025-08-07T17:28:59.820005804Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -153,6 +153,28 @@
             {
               "SHA": "6a85654",
               "Subject": "Prepare for release v0.11.0-rc.0 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "3861b737",
+              "Subject": "Prepare for release v0.12.0 (#91)"
+            },
+            {
+              "SHA": "74164cf8",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "462aa28e",
+              "Subject": "Test against k8s 1.33 (#89)"
             }
           ]
         }

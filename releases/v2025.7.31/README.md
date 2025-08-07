@@ -141,6 +141,17 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.12.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.12.0)
+
+- [81f0538a](https://github.com/kubedb/mssqlserver/commit/81f0538a) Prepare for release v0.12.0 (#85)
+- [98dd099b](https://github.com/kubedb/mssqlserver/commit/98dd099b) Add MSSQL Init Database Support via Scripts (#84)
+- [7bab2549](https://github.com/kubedb/mssqlserver/commit/7bab2549) Prepare for release v0.12.0-rc.0 (#83)
+- [4cd91b76](https://github.com/kubedb/mssqlserver/commit/4cd91b76) Test against k8s 1.33 (#82)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.11.0)

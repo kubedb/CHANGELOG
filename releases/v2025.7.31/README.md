@@ -140,6 +140,18 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.50.0](https://github.com/kubedb/mysql/releases/tag/v0.50.0)
+
+- [1ce49fab](https://github.com/kubedb/mysql/commit/1ce49fabd) Prepare for release v0.50.0 (#694)
+- [bb520cdf](https://github.com/kubedb/mysql/commit/bb520cdf7) Prepare for release v0.50.0-rc.0 (#693)
+- [74f97c84](https://github.com/kubedb/mysql/commit/74f97c841) Fix Container Env Insertion (#691)
+- [1c58c870](https://github.com/kubedb/mysql/commit/1c58c8704) Fix Unnecessary DB Container Patch Issue (#692)
+- [40d65e64](https://github.com/kubedb/mysql/commit/40d65e643) Test against k8s 1.33 (#690)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.3.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.3.0)

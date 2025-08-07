@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:32:09.37512037Z",
+  "release_date": "2025-08-07T17:32:23.124564753Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -341,6 +341,36 @@
             {
               "SHA": "6a85654",
               "Subject": "Prepare for release v0.11.0-rc.0 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "1ce49fabd",
+              "Subject": "Prepare for release v0.50.0 (#694)"
+            },
+            {
+              "SHA": "bb520cdf7",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#693)"
+            },
+            {
+              "SHA": "74f97c841",
+              "Subject": "Fix Container Env Insertion (#691)"
+            },
+            {
+              "SHA": "1c58c8704",
+              "Subject": "Fix Unnecessary DB Container Patch Issue (#692)"
+            },
+            {
+              "SHA": "40d65e643",
+              "Subject": "Test against k8s 1.33 (#690)"
             }
           ]
         }

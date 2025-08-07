@@ -479,6 +479,13 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.18.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.18.0)
+
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.12.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.12.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T21:32:56.761965567Z",
+  "release_date": "2025-08-07T21:46:39.189871378Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -263,6 +263,28 @@
             {
               "SHA": "7b20b24d",
               "Subject": "Fix config version for kafka sarama (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "59066b24",
+              "Subject": "Prepare for release v2025.7.31 (#799)"
+            },
+            {
+              "SHA": "7056bfbe",
+              "Subject": "Prepare for release v2025.7.30-rc.0 (#796)"
+            },
+            {
+              "SHA": "7c3f8a95",
+              "Subject": "Update petset tag in kubedb-upgrade process"
             }
           ]
         }

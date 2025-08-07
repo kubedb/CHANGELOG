@@ -135,6 +135,16 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.5.0](https://github.com/kubedb/gitops/releases/tag/v0.5.0)
+
+- [e51dc17a](https://github.com/kubedb/gitops/commit/e51dc17a) Prepare for release v0.5.0 (#20)
+- [9868d099](https://github.com/kubedb/gitops/commit/9868d099) Prepare for release v0.5.0-rc.0 (#19)
+- [26efd7e5](https://github.com/kubedb/gitops/commit/26efd7e5) Test against k8s 1.33 (#18)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.3.0](https://github.com/kubedb/hazelcast/releases/tag/v0.3.0)

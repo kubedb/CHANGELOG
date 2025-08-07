@@ -58,6 +58,15 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.17.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.17.0)
+
+- [21dda36d](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/21dda36d) Prepare for release v0.17.0 (#50)
+- [36397d20](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/36397d20) Prepare for release v0.17.0-rc.0 (#49)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.11.0)

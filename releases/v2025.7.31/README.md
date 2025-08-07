@@ -372,6 +372,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.35.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.35.0)
+
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.3.0](https://github.com/kubedb/oracle/releases/tag/v0.3.0)

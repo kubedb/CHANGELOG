@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:29:37.637840005Z",
+  "release_date": "2025-08-07T17:29:43.211597075Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -299,6 +299,28 @@
             {
               "SHA": "a0bc041a",
               "Subject": "Test against k8s 1.33 (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "12e5093",
+              "Subject": "Prepare for release v0.13.0 (#39)"
+            },
+            {
+              "SHA": "06daf14",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "e9c8c7c",
+              "Subject": "Add Automatic Restic Unlock feature (#37)"
             }
           ]
         }

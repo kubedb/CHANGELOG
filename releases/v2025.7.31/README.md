@@ -125,3 +125,13 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.13.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.13.0)
+
+- [12e5093](https://github.com/kubedb/zookeeper-restic-plugin/commit/12e5093) Prepare for release v0.13.0 (#39)
+- [06daf14](https://github.com/kubedb/zookeeper-restic-plugin/commit/06daf14) Prepare for release v0.13.0-rc.0 (#38)
+- [e9c8c7c](https://github.com/kubedb/zookeeper-restic-plugin/commit/e9c8c7c) Add Automatic Restic Unlock feature (#37)
+
+
+

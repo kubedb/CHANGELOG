@@ -147,6 +147,16 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.28.0](https://github.com/kubedb/kafka/releases/tag/v0.28.0)
+
+- [1b7314b0](https://github.com/kubedb/kafka/commit/1b7314b0) Prepare for release v0.28.0 (#156)
+- [a62d4125](https://github.com/kubedb/kafka/commit/a62d4125) Prepare for release v0.28.0-rc.0 (#155)
+- [24e806ab](https://github.com/kubedb/kafka/commit/24e806ab) Test against k8s 1.33 (#154)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.20.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.20.0)

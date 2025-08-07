@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:31:22.435599479Z",
+  "release_date": "2025-08-07T17:31:26.634832851Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -301,6 +301,24 @@
             {
               "SHA": "6a85654",
               "Subject": "Prepare for release v0.11.0-rc.0 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "0050013",
+              "Subject": "Prepare for release v0.3.0 (#6)"
+            },
+            {
+              "SHA": "bfc05a1",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#5)"
             }
           ]
         }

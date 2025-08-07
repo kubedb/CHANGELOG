@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:28:35.891381888Z",
+  "release_date": "2025-08-07T17:28:43.715302516Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -109,6 +109,24 @@
             {
               "SHA": "7b20b24d",
               "Subject": "Fix config version for kafka sarama (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "85f65fe",
+              "Subject": "Prepare for release v0.11.0 (#29)"
+            },
+            {
+              "SHA": "6a85654",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#28)"
             }
           ]
         }

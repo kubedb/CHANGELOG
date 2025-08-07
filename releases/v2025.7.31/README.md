@@ -37,6 +37,15 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.11.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.11.0)
+
+- [85f65fe](https://github.com/kubedb/mssqlserver-walg-plugin/commit/85f65fe) Prepare for release v0.11.0 (#29)
+- [6a85654](https://github.com/kubedb/mssqlserver-walg-plugin/commit/6a85654) Prepare for release v0.11.0-rc.0 (#28)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.44.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.44.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:33:03.051560345Z",
+  "release_date": "2025-08-07T17:33:08.882391484Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -345,6 +345,28 @@
             {
               "SHA": "55609e30e",
               "Subject": "Test against k8s 1.33 (#502)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "c2debfb9",
+              "Subject": "Prepare for release v0.20.0 (#88)"
+            },
+            {
+              "SHA": "1e1dd930",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#87)"
+            },
+            {
+              "SHA": "c22d6f05",
+              "Subject": "Add Automatic Restic Unlock feature (#86)"
             }
           ]
         }

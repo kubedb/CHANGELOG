@@ -37,6 +37,16 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.12.0](https://github.com/kubedb/druid/releases/tag/v0.12.0)
+
+- [b5c8b0ea](https://github.com/kubedb/druid/commit/b5c8b0ea) Prepare for release v0.12.0 (#92)
+- [88a643f1](https://github.com/kubedb/druid/commit/88a643f1) Prepare for release v0.12.0-rc.0 (#91)
+- [3e59d167](https://github.com/kubedb/druid/commit/3e59d167) Test against k8s 1.33 (#89)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.4.0](https://github.com/kubedb/ignite/releases/tag/v0.4.0)

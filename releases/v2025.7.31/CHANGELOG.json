@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:28:59.820005804Z",
+  "release_date": "2025-08-07T17:29:07.147814279Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -109,6 +109,28 @@
             {
               "SHA": "7b20b24d",
               "Subject": "Fix config version for kafka sarama (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "b5c8b0ea",
+              "Subject": "Prepare for release v0.12.0 (#92)"
+            },
+            {
+              "SHA": "88a643f1",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "3e59d167",
+              "Subject": "Test against k8s 1.33 (#89)"
             }
           ]
         }

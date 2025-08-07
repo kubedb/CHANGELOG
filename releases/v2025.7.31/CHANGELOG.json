@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:36:18.834703971Z",
+  "release_date": "2025-08-07T17:36:25.339928063Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -593,6 +593,24 @@
             {
               "SHA": "26720bfcf",
               "Subject": "Test against k8s 1.33 (#710)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "582a18b3",
+              "Subject": "Prepare for release v0.18.0 (#54)"
+            },
+            {
+              "SHA": "cb811e0c",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#53)"
             }
           ]
         }

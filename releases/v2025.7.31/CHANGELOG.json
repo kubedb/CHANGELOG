@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T18:52:56.07356422Z",
+  "release_date": "2025-08-07T18:53:29.558655056Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -1388,6 +1388,24 @@
             {
               "SHA": "9e4d0a64",
               "Subject": "Test against k8s 1.33 (#468)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "c7426a91",
+              "Subject": "Prepare for release v0.33.0 (#169)"
+            },
+            {
+              "SHA": "976c6624",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#168)"
             }
           ]
         }

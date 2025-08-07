@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T19:09:28.345333344Z",
+  "release_date": "2025-08-07T19:17:30.616590732Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -79,6 +79,36 @@
             {
               "SHA": "e4feb7d0e",
               "Subject": "Test against k8s 1.33 (#1483)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "0b7fc20b",
+              "Subject": "Prepare for release v0.42.0 (#255)"
+            },
+            {
+              "SHA": "356eb7af",
+              "Subject": "Prepare for release v0.42.0-rc.0 (#254)"
+            },
+            {
+              "SHA": "08d73d72",
+              "Subject": "Add support for Cassandra (#252)"
+            },
+            {
+              "SHA": "3edb10e3",
+              "Subject": "Add Autoscaler for Hazelcast (#253)"
+            },
+            {
+              "SHA": "9dfa1fcc",
+              "Subject": "Fix crashing if refered db not found"
             }
           ]
         }

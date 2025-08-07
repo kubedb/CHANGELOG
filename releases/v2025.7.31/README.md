@@ -125,6 +125,17 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.42.0](https://github.com/kubedb/tests/releases/tag/v0.42.0)
+
+- [6bf4f554](https://github.com/kubedb/tests/commit/6bf4f554) Prepare for release v0.42.0 (#474)
+- [426563d0](https://github.com/kubedb/tests/commit/426563d0) Prepare for release v0.42.0-rc.0 (#472)
+- [9c3418da](https://github.com/kubedb/tests/commit/9c3418da) Add MySQL Archiver Test (#460)
+- [9e4d0a64](https://github.com/kubedb/tests/commit/9e4d0a64) Test against k8s 1.33 (#468)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.13.0)

@@ -247,6 +247,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.50.0](https://github.com/kubedb/mongodb/releases/tag/v0.50.0)
+
+- [7fdaafad](https://github.com/kubedb/mongodb/commit/7fdaafad7) Prepare for release v0.50.0 (#712)
+- [b4c09d93](https://github.com/kubedb/mongodb/commit/b4c09d93e) Prepare for release v0.50.0-rc.0 (#711)
+- [26720bfc](https://github.com/kubedb/mongodb/commit/26720bfcf) Test against k8s 1.33 (#710)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.20.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.20.0)

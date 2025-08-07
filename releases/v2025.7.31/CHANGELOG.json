@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T16:21:25.118013332Z",
+  "release_date": "2025-08-07T17:28:35.891381888Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -109,6 +109,24 @@
             {
               "SHA": "7b20b24d",
               "Subject": "Fix config version for kafka sarama (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "c2ebe7ab",
+              "Subject": "Prepare for release v0.44.0 (#296)"
+            },
+            {
+              "SHA": "dde5e4a1",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#295)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:32:56.808787891Z",
+  "release_date": "2025-08-07T17:33:03.051560345Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -667,6 +667,32 @@
             {
               "SHA": "2822921",
               "Subject": "Prepare for release v0.12.0-rc.0 (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "6c108f8",
+              "Subject": "Prepare for release v0.15.0 (#49)"
+            },
+            {
+              "SHA": "1c216d8",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#48)"
+            },
+            {
+              "SHA": "da671fc",
+              "Subject": "Test against k8s 1.33 (#47)"
+            },
+            {
+              "SHA": "fc53bcb",
+              "Subject": "Add Automatic Restic Unlock feature (#46)"
             }
           ]
         }

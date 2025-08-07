@@ -45,6 +45,16 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.15.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.15.0)
+
+- [244fa70](https://github.com/kubedb/dashboard-restic-plugin/commit/244fa70) Prepare for release v0.15.0 (#43)
+- [ae4dc6b](https://github.com/kubedb/dashboard-restic-plugin/commit/ae4dc6b) Prepare for release v0.15.0-rc.0 (#42)
+- [41c5309](https://github.com/kubedb/dashboard-restic-plugin/commit/41c5309) Add Automatic Restic Unlock feature (#41)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.12.0](https://github.com/kubedb/db-client-go/releases/tag/v0.12.0)

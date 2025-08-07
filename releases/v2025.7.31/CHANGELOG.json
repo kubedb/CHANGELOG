@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:32:23.124564753Z",
+  "release_date": "2025-08-07T17:32:28.820391618Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -123,6 +123,28 @@
             {
               "SHA": "360fe315",
               "Subject": "Test against k8s 1.33 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "244fa70",
+              "Subject": "Prepare for release v0.15.0 (#43)"
+            },
+            {
+              "SHA": "ae4dc6b",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#42)"
+            },
+            {
+              "SHA": "41c5309",
+              "Subject": "Add Automatic Restic Unlock feature (#41)"
             }
           ]
         }

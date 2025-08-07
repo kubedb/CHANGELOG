@@ -279,6 +279,16 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.35.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.35.0)
+
+- [c07dbef0](https://github.com/kubedb/mysql-coordinator/commit/c07dbef0) Prepare for release v0.35.0 (#147)
+- [255642b6](https://github.com/kubedb/mysql-coordinator/commit/255642b6) Prepare for release v0.35.0-rc.0 (#146)
+- [93c3754d](https://github.com/kubedb/mysql-coordinator/commit/93c3754d) Get root password from secret instead of env variable (#145)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.20.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.20.0)

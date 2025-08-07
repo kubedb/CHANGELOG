@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:35:17.276333518Z",
+  "release_date": "2025-08-07T17:35:23.688856897Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -645,6 +645,28 @@
             {
               "SHA": "b847d6d8",
               "Subject": "Prepare for release v0.18.0-rc.0 (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "c07dbef0",
+              "Subject": "Prepare for release v0.35.0 (#147)"
+            },
+            {
+              "SHA": "255642b6",
+              "Subject": "Prepare for release v0.35.0-rc.0 (#146)"
+            },
+            {
+              "SHA": "93c3754d",
+              "Subject": "Get root password from secret instead of env variable (#145)"
             }
           ]
         }

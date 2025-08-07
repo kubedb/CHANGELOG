@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:34:44.400032242Z",
+  "release_date": "2025-08-07T17:34:50.809469339Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -411,6 +411,24 @@
             {
               "SHA": "e6d6fe2b1",
               "Subject": "Test against k8s 1.33 (#335)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "eb59c6ff",
+              "Subject": "Prepare for release v0.17.0 (#55)"
+            },
+            {
+              "SHA": "af4a00ce",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#54)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:32:28.820391618Z",
+  "release_date": "2025-08-07T17:32:34.193614708Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -583,6 +583,24 @@
             {
               "SHA": "a0bc041a",
               "Subject": "Test against k8s 1.33 (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "763497b",
+              "Subject": "Prepare for release v0.12.0 (#46)"
+            },
+            {
+              "SHA": "2822921",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#45)"
             }
           ]
         }

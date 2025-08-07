@@ -250,6 +250,15 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.12.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.12.0)
+
+- [763497b](https://github.com/kubedb/singlestore-coordinator/commit/763497b) Prepare for release v0.12.0 (#46)
+- [2822921](https://github.com/kubedb/singlestore-coordinator/commit/2822921) Prepare for release v0.12.0-rc.0 (#45)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.42.0](https://github.com/kubedb/tests/releases/tag/v0.42.0)

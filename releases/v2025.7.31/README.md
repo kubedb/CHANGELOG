@@ -25,3 +25,15 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.12.0](https://github.com/kubedb/db-client-go/releases/tag/v0.12.0)
+
+- [f20de9e7](https://github.com/kubedb/db-client-go/commit/f20de9e7) Prepare for release v0.12.0 (#191)
+- [4ea2ed88](https://github.com/kubedb/db-client-go/commit/4ea2ed88) Prepare for release v0.12.0-rc.0 (#190)
+- [f70a3871](https://github.com/kubedb/db-client-go/commit/f70a3871) Update ignite client (#188)
+- [e73f8f69](https://github.com/kubedb/db-client-go/commit/e73f8f69) Fix es client generation from kubedb/ui-server
+- [7b20b24d](https://github.com/kubedb/db-client-go/commit/7b20b24d) Fix config version for kafka sarama (#187)
+
+
+

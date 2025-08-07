@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:31:54.996163139Z",
+  "release_date": "2025-08-07T17:32:02.836561761Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -157,6 +157,28 @@
             {
               "SHA": "3e59d167",
               "Subject": "Test against k8s 1.33 (#89)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "b80fd437",
+              "Subject": "Prepare for release v0.20.0 (#67)"
+            },
+            {
+              "SHA": "df4ea2e2",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#66)"
+            },
+            {
+              "SHA": "d4476789",
+              "Subject": "Add Automatic Restic Unlock Feature (#65)"
             }
           ]
         }

@@ -58,6 +58,16 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.20.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.20.0)
+
+- [b80fd437](https://github.com/kubedb/elasticsearch-restic-plugin/commit/b80fd437) Prepare for release v0.20.0 (#67)
+- [df4ea2e2](https://github.com/kubedb/elasticsearch-restic-plugin/commit/df4ea2e2) Prepare for release v0.20.0-rc.0 (#66)
+- [d4476789](https://github.com/kubedb/elasticsearch-restic-plugin/commit/d4476789) Add Automatic Restic Unlock Feature (#65)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.4.0](https://github.com/kubedb/ignite/releases/tag/v0.4.0)

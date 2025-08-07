@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:34:34.143571732Z",
+  "release_date": "2025-08-07T17:34:44.400032242Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -281,6 +281,28 @@
             {
               "SHA": "d4476789",
               "Subject": "Add Automatic Restic Unlock Feature (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "260d686b",
+              "Subject": "Prepare for release v0.12.0 (#81)"
+            },
+            {
+              "SHA": "e8f362c9",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#80)"
+            },
+            {
+              "SHA": "00808e7e",
+              "Subject": "Test against k8s 1.33 (#79)"
             }
           ]
         }

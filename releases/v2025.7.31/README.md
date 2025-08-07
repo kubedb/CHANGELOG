@@ -116,6 +116,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.12.0](https://github.com/kubedb/ferretdb/releases/tag/v0.12.0)
+
+- [260d686b](https://github.com/kubedb/ferretdb/commit/260d686b) Prepare for release v0.12.0 (#81)
+- [e8f362c9](https://github.com/kubedb/ferretdb/commit/e8f362c9) Prepare for release v0.12.0-rc.0 (#80)
+- [00808e7e](https://github.com/kubedb/ferretdb/commit/00808e7e) Test against k8s 1.33 (#79)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.3.0](https://github.com/kubedb/hazelcast/releases/tag/v0.3.0)

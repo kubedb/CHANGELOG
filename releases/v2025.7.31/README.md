@@ -69,6 +69,20 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.41.0](https://github.com/kubedb/mariadb/releases/tag/v0.41.0)
+
+- [c4380c8e](https://github.com/kubedb/mariadb/commit/c4380c8ef) Prepare for release v0.41.0 (#341)
+- [9203d564](https://github.com/kubedb/mariadb/commit/9203d564e) Prepare for release v0.41.0-rc.0 (#340)
+- [5dacea53](https://github.com/kubedb/mariadb/commit/5dacea536) Add Distributed MariaDB Support (#338)
+- [cff8f52d](https://github.com/kubedb/mariadb/commit/cff8f52d9) Add custom config support for maxscale server (#336)
+- [02a5b30f](https://github.com/kubedb/mariadb/commit/02a5b30f8) Fix Unnecessary DB Container Patch Issue (#339)
+- [8d7cfeef](https://github.com/kubedb/mariadb/commit/8d7cfeef8) Fix MariaDB Local PVC BS Panic Issue (#337)
+- [e6d6fe2b](https://github.com/kubedb/mariadb/commit/e6d6fe2b1) Test against k8s 1.33 (#335)
+
+
+
 ## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.17.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:36:46.71853311Z",
+  "release_date": "2025-08-07T17:37:05.953363758Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -933,6 +933,40 @@
             {
               "SHA": "58e9fafb",
               "Subject": "Test against k8s 1.33 (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.57.0",
+          "commits": [
+            {
+              "SHA": "402509914",
+              "Subject": "Prepare for release v0.57.0 (#824)"
+            },
+            {
+              "SHA": "8183702eb",
+              "Subject": "Add TLS support for GRPC (#823)"
+            },
+            {
+              "SHA": "3cb475c30",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#822)"
+            },
+            {
+              "SHA": "68119e3e3",
+              "Subject": "Allow Postgres Clusterring On Multiple Kubernetes Clusters (#821)"
+            },
+            {
+              "SHA": "ae5ac1999",
+              "Subject": "Fix in CI (add ops-manager, change cron-schedule) (#814)"
+            },
+            {
+              "SHA": "e7622ac26",
+              "Subject": "Test against k8s 1.33 (#820)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T19:17:30.616590732Z",
+  "release_date": "2025-08-07T19:24:08.066952667Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -1524,6 +1524,32 @@
             {
               "SHA": "976c6624",
               "Subject": "Prepare for release v0.33.0-rc.0 (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "97f7ce19",
+              "Subject": "Prepare for release v0.33.0 (#163)"
+            },
+            {
+              "SHA": "034d8712",
+              "Subject": "Add Petset Scheme (#162)"
+            },
+            {
+              "SHA": "9ddc27d5",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "38ab286a",
+              "Subject": "setup hazelcast weebhook manager (#160)"
             }
           ]
         }

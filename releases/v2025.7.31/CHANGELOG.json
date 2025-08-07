@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:32:50.746583148Z",
+  "release_date": "2025-08-07T17:32:56.808787891Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -437,6 +437,28 @@
             {
               "SHA": "b847d6d8",
               "Subject": "Prepare for release v0.18.0-rc.0 (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "039a6a8",
+              "Subject": "Prepare for release v0.20.0 (#78)"
+            },
+            {
+              "SHA": "63528f1",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#77)"
+            },
+            {
+              "SHA": "1940e43",
+              "Subject": "Add Automatic Restic Unlock feature (#76)"
             }
           ]
         }

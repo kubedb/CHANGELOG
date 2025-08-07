@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T18:57:09.985491201Z",
+  "release_date": "2025-08-07T19:09:28.345333344Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -865,6 +865,68 @@
         {
           "tag": "v0.35.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "a2d396e00",
+              "Subject": "Prepare for release v0.44.0 (#778)"
+            },
+            {
+              "SHA": "2003a7c9b",
+              "Subject": "Add TLS Secret For Postgres GRPC Server and Client (#775)"
+            },
+            {
+              "SHA": "7d57ff5a7",
+              "Subject": "Horizontal Fix for Redis (#774)"
+            },
+            {
+              "SHA": "4735de907",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "b7d5dc906",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#773)"
+            },
+            {
+              "SHA": "1e7063dec",
+              "Subject": "Add MariaDB MultiCluster Support (#770)"
+            },
+            {
+              "SHA": "4b574394a",
+              "Subject": "Horizontal scaling for redis (#767)"
+            },
+            {
+              "SHA": "b82654f58",
+              "Subject": "update in same-version-update-recommendation (#758)"
+            },
+            {
+              "SHA": "c006f3405",
+              "Subject": "Improve & Fix Mssql rotate auth with new secret (#772)"
+            },
+            {
+              "SHA": "5cf861610",
+              "Subject": "Add Ignite OpsRequest Rotate Auth reconfigureTLS & version update (#769)"
+            },
+            {
+              "SHA": "0e8f24161",
+              "Subject": "Add Cassandra Rotate Auth (#761)"
+            },
+            {
+              "SHA": "a7642f3f5",
+              "Subject": "Add Clickhouse Ops-Req (#763)"
+            },
+            {
+              "SHA": "c2dffe06c",
+              "Subject": "Add rotate auth support for mysql and mariadb replication mode (#760)"
+            }
+          ]
         }
       ]
     },

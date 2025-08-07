@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:31:04.000867487Z",
+  "release_date": "2025-08-07T17:31:09.876011619Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -303,6 +303,28 @@
             {
               "SHA": "54158927",
               "Subject": "Prepare for release v0.18.0-rc.0 (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "44ec9e0",
+              "Subject": "Prepare for release v0.20.0 (#75)"
+            },
+            {
+              "SHA": "73cedc9",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#74)"
+            },
+            {
+              "SHA": "4a83f61",
+              "Subject": "Add Automatic Restic Unlock feature (#73)"
             }
           ]
         }

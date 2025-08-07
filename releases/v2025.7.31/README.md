@@ -126,6 +126,16 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.20.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.20.0)
+
+- [44ec9e0](https://github.com/kubedb/postgres-restic-plugin/commit/44ec9e0) Prepare for release v0.20.0 (#75)
+- [73cedc9](https://github.com/kubedb/postgres-restic-plugin/commit/73cedc9) Prepare for release v0.20.0-rc.0 (#74)
+- [4a83f61](https://github.com/kubedb/postgres-restic-plugin/commit/4a83f61) Add Automatic Restic Unlock feature (#73)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.12.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.12.0)

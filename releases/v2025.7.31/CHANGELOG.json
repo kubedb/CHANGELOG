@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.7.31",
-  "release_date": "2025-08-07T17:31:26.634832851Z",
+  "release_date": "2025-08-07T17:31:33.677749293Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.7.31",
   "kubernetes_version": "1.26+",
@@ -491,6 +491,28 @@
             {
               "SHA": "9e4d0a64",
               "Subject": "Test against k8s 1.33 (#468)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "a6377217",
+              "Subject": "Prepare for release v0.12.0 (#82)"
+            },
+            {
+              "SHA": "aa9b5b0a",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#81)"
+            },
+            {
+              "SHA": "fddd3804",
+              "Subject": "Test against k8s 1.33 (#79)"
             }
           ]
         }

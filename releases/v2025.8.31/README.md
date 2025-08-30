@@ -93,3 +93,12 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.7.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.7.0)
+
+- [999e4a0](https://github.com/kubedb/xtrabackup-restic-plugin/commit/999e4a0) Prepare for release v0.7.0 (#20)
+- [b90b267](https://github.com/kubedb/xtrabackup-restic-plugin/commit/b90b267) Use Go 1.25 (#19)
+
+
+

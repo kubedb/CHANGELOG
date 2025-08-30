@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T17:40:05.600389658Z",
+  "release_date": "2025-08-30T20:45:24.622485769Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -81,6 +81,28 @@
             {
               "SHA": "435a48d0",
               "Subject": "Use Go 1.25 (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "d2de8d3e",
+              "Subject": "Prepare for release v0.21.0 (#102)"
+            },
+            {
+              "SHA": "cdcf6609",
+              "Subject": "Use Go 1.25 (#101)"
+            },
+            {
+              "SHA": "487f185c",
+              "Subject": "Test against k8s 1.33.2 (#100)"
             }
           ]
         }

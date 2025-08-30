@@ -30,3 +30,13 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.21.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.21.0)
+
+- [d2de8d3e](https://github.com/kubedb/kubedb-manifest-plugin/commit/d2de8d3e) Prepare for release v0.21.0 (#102)
+- [cdcf6609](https://github.com/kubedb/kubedb-manifest-plugin/commit/cdcf6609) Use Go 1.25 (#101)
+- [487f185c](https://github.com/kubedb/kubedb-manifest-plugin/commit/487f185c) Test against k8s 1.33.2 (#100)
+
+
+

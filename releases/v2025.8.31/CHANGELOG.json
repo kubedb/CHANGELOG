@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:54:04.394329601Z",
+  "release_date": "2025-08-30T20:54:11.651044418Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -273,6 +273,36 @@
             {
               "SHA": "ca143ff8",
               "Subject": "Test against k8s 1.33.2 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "72293e6b",
+              "Subject": "Prepare for release v0.5.0 (#20)"
+            },
+            {
+              "SHA": "a22235d9",
+              "Subject": "Ignore notFound error on deletion (#19)"
+            },
+            {
+              "SHA": "ea7cd18c",
+              "Subject": "Use Go 1.25 (#17)"
+            },
+            {
+              "SHA": "657dab56",
+              "Subject": "Add PodPlacementPolicy field (#18)"
+            },
+            {
+              "SHA": "d9d8ccb8",
+              "Subject": "Test against k8s 1.33.2 (#16)"
             }
           ]
         }

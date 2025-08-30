@@ -114,6 +114,18 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.5.0](https://github.com/kubedb/ignite/releases/tag/v0.5.0)
+
+- [72293e6b](https://github.com/kubedb/ignite/commit/72293e6b) Prepare for release v0.5.0 (#20)
+- [a22235d9](https://github.com/kubedb/ignite/commit/a22235d9) Ignore notFound error on deletion (#19)
+- [ea7cd18c](https://github.com/kubedb/ignite/commit/ea7cd18c) Use Go 1.25 (#17)
+- [657dab56](https://github.com/kubedb/ignite/commit/657dab56) Add PodPlacementPolicy field (#18)
+- [d9d8ccb8](https://github.com/kubedb/ignite/commit/d9d8ccb8) Test against k8s 1.33.2 (#16)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.29.0](https://github.com/kubedb/kafka/releases/tag/v0.29.0)

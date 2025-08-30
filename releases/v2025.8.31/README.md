@@ -69,6 +69,17 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.58.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.58.0)
+
+- [7a5ebc5d](https://github.com/kubedb/elasticsearch/commit/7a5ebc5d6) Prepare for release v0.58.0 (#774)
+- [9381bab2](https://github.com/kubedb/elasticsearch/commit/9381bab20) Ignore notFound error on deletion (#773)
+- [3ec57f3a](https://github.com/kubedb/elasticsearch/commit/3ec57f3ab) Use Go 1.25 (#772)
+- [98484d3c](https://github.com/kubedb/elasticsearch/commit/98484d3ce) Test against k8s 1.33.2 (#771)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.21.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.21.0)

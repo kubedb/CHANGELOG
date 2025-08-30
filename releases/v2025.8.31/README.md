@@ -100,6 +100,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.38.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.38.0)
+
+- [fc568c63](https://github.com/kubedb/mariadb-coordinator/commit/fc568c63) Prepare for release v0.38.0 (#150)
+- [41e55cd0](https://github.com/kubedb/mariadb-coordinator/commit/41e55cd0) Add gRPC Server (#148)
+- [91446b3a](https://github.com/kubedb/mariadb-coordinator/commit/91446b3a) Use Go 1.25 (#149)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.51.0](https://github.com/kubedb/mysql/releases/tag/v0.51.0)

@@ -237,6 +237,16 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.42.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.42.0)
+
+- [f95f4f7a](https://github.com/kubedb/pg-coordinator/commit/f95f4f7a) Prepare for release v0.42.0 (#209)
+- [497bd29b](https://github.com/kubedb/pg-coordinator/commit/497bd29b) Use FindDomain function (#208)
+- [c6edd36e](https://github.com/kubedb/pg-coordinator/commit/c6edd36e) Use Go 1.25 (#206)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.13.0](https://github.com/kubedb/pgpool/releases/tag/v0.13.0)

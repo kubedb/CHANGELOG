@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:50:00.443150175Z",
+  "release_date": "2025-08-30T20:50:24.245002935Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -549,6 +549,28 @@
             {
               "SHA": "bd56d458",
               "Subject": "Test against k8s 1.33.2 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "f95f4f7a",
+              "Subject": "Prepare for release v0.42.0 (#209)"
+            },
+            {
+              "SHA": "497bd29b",
+              "Subject": "Use FindDomain function (#208)"
+            },
+            {
+              "SHA": "c6edd36e",
+              "Subject": "Use Go 1.25 (#206)"
             }
           ]
         }

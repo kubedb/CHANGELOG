@@ -289,6 +289,16 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.4.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.4.0)
+
+- [79dc50e](https://github.com/kubedb/oracle-coordinator/commit/79dc50e) Prepare for release v0.4.0 (#9)
+- [d277aa4](https://github.com/kubedb/oracle-coordinator/commit/d277aa4) Use domain utils (#8)
+- [8f23d88](https://github.com/kubedb/oracle-coordinator/commit/8f23d88) Use Go 1.25 (#7)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.45.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.45.0)

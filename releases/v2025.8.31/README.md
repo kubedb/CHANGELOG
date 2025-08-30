@@ -111,6 +111,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.21.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.21.0)
+
+- [e06b074](https://github.com/kubedb/mysql-restic-plugin/commit/e06b074) Prepare for release v0.21.0 (#81)
+- [772df9c](https://github.com/kubedb/mysql-restic-plugin/commit/772df9c) Use Go 1.25 (#80)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.16.0)

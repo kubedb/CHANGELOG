@@ -415,6 +415,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.21.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.21.0)
+
+- [227f7aa](https://github.com/kubedb/redis-restic-plugin/commit/227f7aa) Prepare for release v0.21.0 (#73)
+- [7cb3f3b](https://github.com/kubedb/redis-restic-plugin/commit/7cb3f3b) Use Go 1.25 (#72)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.45.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.45.0)

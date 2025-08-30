@@ -114,6 +114,17 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.4.0](https://github.com/kubedb/hazelcast/releases/tag/v0.4.0)
+
+- [d7db99da](https://github.com/kubedb/hazelcast/commit/d7db99da) Prepare for release v0.4.0 (#12)
+- [a9c28eab](https://github.com/kubedb/hazelcast/commit/a9c28eab) Various changes (#9)
+- [afa2f105](https://github.com/kubedb/hazelcast/commit/afa2f105) Use Go 1.25 (#11)
+- [d208a416](https://github.com/kubedb/hazelcast/commit/d208a416) Test against k8s 1.33.2 (#10)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.5.0](https://github.com/kubedb/ignite/releases/tag/v0.5.0)

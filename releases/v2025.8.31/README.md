@@ -20,6 +20,16 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.16.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.16.0)
+
+- [e42a773](https://github.com/kubedb/dashboard-restic-plugin/commit/e42a773) Prepare for release v0.16.0 (#46)
+- [7922ad9](https://github.com/kubedb/dashboard-restic-plugin/commit/7922ad9) Use Go 1.25 (#45)
+- [3bfebe8](https://github.com/kubedb/dashboard-restic-plugin/commit/3bfebe8) Test against k8s 1.33.2 (#44)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.13.0](https://github.com/kubedb/db-client-go/releases/tag/v0.13.0)

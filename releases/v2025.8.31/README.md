@@ -352,6 +352,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.36.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.36.0)
+
+- [b75f385](https://github.com/kubedb/mysql-router-init/commit/b75f385) Use Go 1.25 (#52)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.4.0](https://github.com/kubedb/oracle/releases/tag/v0.4.0)

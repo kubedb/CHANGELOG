@@ -199,6 +199,16 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.51.0](https://github.com/kubedb/memcached/releases/tag/v0.51.0)
+
+- [dec0b55c](https://github.com/kubedb/memcached/commit/dec0b55c9) Prepare for release v0.51.0 (#508)
+- [e5c0f387](https://github.com/kubedb/memcached/commit/e5c0f387c) Use Go 1.25 (#506)
+- [0d4493d8](https://github.com/kubedb/memcached/commit/0d4493d87) Test against k8s 1.33.2 (#505)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.51.0](https://github.com/kubedb/mongodb/releases/tag/v0.51.0)

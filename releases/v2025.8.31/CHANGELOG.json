@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:53:25.761304745Z",
+  "release_date": "2025-08-30T20:53:39.399625168Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -469,6 +469,28 @@
             {
               "SHA": "a918a98",
               "Subject": "Test against k8s 1.33.2 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "dec0b55c9",
+              "Subject": "Prepare for release v0.51.0 (#508)"
+            },
+            {
+              "SHA": "e5c0f387c",
+              "Subject": "Use Go 1.25 (#506)"
+            },
+            {
+              "SHA": "0d4493d87",
+              "Subject": "Test against k8s 1.33.2 (#505)"
             }
           ]
         }

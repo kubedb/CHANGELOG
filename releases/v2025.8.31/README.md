@@ -20,6 +20,16 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.13.0](https://github.com/kubedb/crd-manager/releases/tag/v0.13.0)
+
+- [659181fe](https://github.com/kubedb/crd-manager/commit/659181fe) Prepare for release v0.13.0 (#87)
+- [237fba02](https://github.com/kubedb/crd-manager/commit/237fba02) Register clickhouse binding crd
+- [f6c95628](https://github.com/kubedb/crd-manager/commit/f6c95628) Use Go 1.25 (#86)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.16.0)

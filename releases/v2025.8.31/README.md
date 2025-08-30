@@ -90,6 +90,15 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.9.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.9.0)
+
+- [15926d6](https://github.com/kubedb/kubedb-verifier/commit/15926d6) Prepare for release v0.9.0 (#24)
+- [05e675e](https://github.com/kubedb/kubedb-verifier/commit/05e675e) Use Go 1.25 (#23)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.18.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.18.0)

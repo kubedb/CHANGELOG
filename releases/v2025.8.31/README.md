@@ -141,3 +141,14 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.13.0](https://github.com/kubedb/zookeeper/releases/tag/v0.13.0)
+
+- [1242283e](https://github.com/kubedb/zookeeper/commit/1242283e) Prepare for release v0.13.0 (#86)
+- [350e875e](https://github.com/kubedb/zookeeper/commit/350e875e) Ignore notFound error on monitor deletion (#85)
+- [c0b52734](https://github.com/kubedb/zookeeper/commit/c0b52734) Use Go 1.25 (#84)
+- [4cc59e87](https://github.com/kubedb/zookeeper/commit/4cc59e87) Test against k8s 1.33.2 (#83)
+
+
+

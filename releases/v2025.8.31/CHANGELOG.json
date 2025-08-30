@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:47:26.883144671Z",
+  "release_date": "2025-08-30T20:47:35.290648429Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -327,6 +327,32 @@
             {
               "SHA": "b90b267",
               "Subject": "Use Go 1.25 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "1242283e",
+              "Subject": "Prepare for release v0.13.0 (#86)"
+            },
+            {
+              "SHA": "350e875e",
+              "Subject": "Ignore notFound error on monitor deletion (#85)"
+            },
+            {
+              "SHA": "c0b52734",
+              "Subject": "Use Go 1.25 (#84)"
+            },
+            {
+              "SHA": "4cc59e87",
+              "Subject": "Test against k8s 1.33.2 (#83)"
             }
           ]
         }

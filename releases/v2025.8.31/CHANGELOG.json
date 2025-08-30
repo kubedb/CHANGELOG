@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:52:17.99463183Z",
+  "release_date": "2025-08-30T20:52:28.773434695Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -799,6 +799,44 @@
             {
               "SHA": "5e1f68b",
               "Subject": "Use Go 1.25 (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "852448e6",
+              "Subject": "Prepare for release v0.13.0 (#96)"
+            },
+            {
+              "SHA": "5865b721",
+              "Subject": "Use Go 1.25 (#95)"
+            },
+            {
+              "SHA": "4075bef9",
+              "Subject": "Run Provisioner Tests On Monday + Friday, Update MakeFile (#74)"
+            },
+            {
+              "SHA": "5580dc0e",
+              "Subject": "set domain (#94)"
+            },
+            {
+              "SHA": "91720f8f",
+              "Subject": "Disable mtls by default (#86)"
+            },
+            {
+              "SHA": "446d6729",
+              "Subject": "Use Go 1.25 (#93)"
+            },
+            {
+              "SHA": "9841c20a",
+              "Subject": "Test against k8s 1.33.2 (#92)"
             }
           ]
         }

@@ -349,6 +349,20 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.13.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.13.0)
+
+- [852448e6](https://github.com/kubedb/rabbitmq/commit/852448e6) Prepare for release v0.13.0 (#96)
+- [5865b721](https://github.com/kubedb/rabbitmq/commit/5865b721) Use Go 1.25 (#95)
+- [4075bef9](https://github.com/kubedb/rabbitmq/commit/4075bef9) Run Provisioner Tests On Monday + Friday, Update MakeFile (#74)
+- [5580dc0e](https://github.com/kubedb/rabbitmq/commit/5580dc0e) set domain (#94)
+- [91720f8f](https://github.com/kubedb/rabbitmq/commit/91720f8f) Disable mtls by default (#86)
+- [446d6729](https://github.com/kubedb/rabbitmq/commit/446d6729) Use Go 1.25 (#93)
+- [9841c20a](https://github.com/kubedb/rabbitmq/commit/9841c20a) Test against k8s 1.33.2 (#92)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.51.0](https://github.com/kubedb/redis/releases/tag/v0.51.0)

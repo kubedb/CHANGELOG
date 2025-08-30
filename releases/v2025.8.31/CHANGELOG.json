@@ -1,0 +1,68 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.8.31",
+  "release_date": "2025-08-30T16:16:53.977973769Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.8.31",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.58.0",
+          "commits": [
+            {
+              "SHA": "ce48b0d05",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "079f96043",
+              "Subject": "Add spec for MySQL & postgres StorageClassMigration opsrequest (#1498)"
+            },
+            {
+              "SHA": "09a35f28d",
+              "Subject": "Find the domain from resolve.conf file (#1508)"
+            },
+            {
+              "SHA": "96d4d2fd3",
+              "Subject": "Update petset api related changes (#1505)"
+            },
+            {
+              "SHA": "b8bdbe2c9",
+              "Subject": "Add git-sync in redis pgbouncer pgpool  (#1506)"
+            },
+            {
+              "SHA": "dc61a0432",
+              "Subject": "Deploy multiple clickhouse CR if multi cluster needed (#1507)"
+            },
+            {
+              "SHA": "f56c4f014",
+              "Subject": "Add Ignite autoscaler (#1502)"
+            },
+            {
+              "SHA": "e310bc751",
+              "Subject": "Add clickhouse ReconfigureTLS, RotateAuth (#1496)"
+            },
+            {
+              "SHA": "6608a4ccf",
+              "Subject": "Use Go 1.25 (#1504)"
+            },
+            {
+              "SHA": "e962b44b1",
+              "Subject": "Test against k8s 1.33.2 (#1503)"
+            },
+            {
+              "SHA": "0ae8b7dae",
+              "Subject": "Fix memcached buggy code (#1501)"
+            },
+            {
+              "SHA": "b314b1ab6",
+              "Subject": "Add RotateAuth OPS Validation (#1500)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

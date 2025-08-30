@@ -331,6 +331,15 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.31.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.31.0)
+
+- [72259ff7](https://github.com/kubedb/percona-xtradb-coordinator/commit/72259ff7) Prepare for release v0.31.0 (#101)
+- [176770ef](https://github.com/kubedb/percona-xtradb-coordinator/commit/176770ef) Use Go 1.25 (#100)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.42.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.42.0)

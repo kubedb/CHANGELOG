@@ -285,6 +285,15 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.13.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.13.0)
+
+- [f0dbf80](https://github.com/kubedb/singlestore-coordinator/commit/f0dbf80) Prepare for release v0.13.0 (#48)
+- [3ea792a](https://github.com/kubedb/singlestore-coordinator/commit/3ea792a) Use Go 1.25 (#47)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.16.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:46:47.179779422Z",
+  "release_date": "2025-08-30T20:46:55.272974379Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -195,6 +195,20 @@
             {
               "SHA": "c7a8956f",
               "Subject": "Test against k8s 1.33.2 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "44aeb425",
+              "Subject": "Prepare for release v0.36.0 (#150)"
             }
           ]
         }

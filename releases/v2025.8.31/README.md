@@ -81,6 +81,14 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.36.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.36.0)
+
+- [44aeb425](https://github.com/kubedb/mysql-coordinator/commit/44aeb425) Prepare for release v0.36.0 (#150)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.43.0](https://github.com/kubedb/tests/releases/tag/v0.43.0)

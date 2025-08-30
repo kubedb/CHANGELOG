@@ -330,6 +330,15 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.37.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.37.0)
+
+- [8355b01d](https://github.com/kubedb/redis-coordinator/commit/8355b01d) Prepare for release v0.37.0 (#134)
+- [db2b37f0](https://github.com/kubedb/redis-coordinator/commit/db2b37f0) Use Go 1.25 (#133)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.13.0](https://github.com/kubedb/singlestore/releases/tag/v0.13.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:53:05.690977991Z",
+  "release_date": "2025-08-30T20:53:17.101517359Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -539,6 +539,32 @@
             {
               "SHA": "a69b17df",
               "Subject": "Use Go 1.25 (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "0dd2b786",
+              "Subject": "Prepare for release v0.13.0 (#89)"
+            },
+            {
+              "SHA": "2dbba7e0",
+              "Subject": "Set domain (#88)"
+            },
+            {
+              "SHA": "c7907819",
+              "Subject": "Use Go 1.25 (#87)"
+            },
+            {
+              "SHA": "f08da8ea",
+              "Subject": "Test against k8s 1.33.2 (#86)"
             }
           ]
         }

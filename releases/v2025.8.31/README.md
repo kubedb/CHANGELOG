@@ -230,6 +230,17 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.13.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.13.0)
+
+- [0dd2b786](https://github.com/kubedb/mssqlserver/commit/0dd2b786) Prepare for release v0.13.0 (#89)
+- [2dbba7e0](https://github.com/kubedb/mssqlserver/commit/2dbba7e0) Set domain (#88)
+- [c7907819](https://github.com/kubedb/mssqlserver/commit/c7907819) Use Go 1.25 (#87)
+- [f08da8ea](https://github.com/kubedb/mssqlserver/commit/f08da8ea) Test against k8s 1.33.2 (#86)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.12.0)

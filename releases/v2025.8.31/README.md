@@ -275,6 +275,16 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.13.0](https://github.com/kubedb/singlestore/releases/tag/v0.13.0)
+
+- [c0e6f76a](https://github.com/kubedb/singlestore/commit/c0e6f76a) Prepare for release v0.13.0 (#82)
+- [422669e4](https://github.com/kubedb/singlestore/commit/422669e4) Use Go 1.25 (#81)
+- [ca01869b](https://github.com/kubedb/singlestore/commit/ca01869b) Test against k8s 1.33.2 (#80)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.16.0)

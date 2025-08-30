@@ -81,3 +81,15 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.43.0](https://github.com/kubedb/tests/releases/tag/v0.43.0)
+
+- [c20305de](https://github.com/kubedb/tests/commit/c20305de) Prepare for release v0.43.0 (#478)
+- [655060a3](https://github.com/kubedb/tests/commit/655060a3) MSSQLServer Ops Request Tests (#461)
+- [07637efe](https://github.com/kubedb/tests/commit/07637efe) Use Go 1.25 (#476)
+- [02756ec1](https://github.com/kubedb/tests/commit/02756ec1) Test against k8s 1.33.2 (#475)
+- [ba7c73ac](https://github.com/kubedb/tests/commit/ba7c73ac) MySQL TLS Configuration Fix for 5.7.44 (#471)
+
+
+

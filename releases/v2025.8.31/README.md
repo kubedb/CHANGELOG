@@ -20,6 +20,18 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.11.0](https://github.com/kubedb/cassandra/releases/tag/v0.11.0)
+
+- [d669103e](https://github.com/kubedb/cassandra/commit/d669103e) Prepare for release v0.11.0 (#47)
+- [09a394ca](https://github.com/kubedb/cassandra/commit/09a394ca) Set domain (#46)
+- [acb70c4e](https://github.com/kubedb/cassandra/commit/acb70c4e) Ignore notFound error on deletion (#45)
+- [8ef5360d](https://github.com/kubedb/cassandra/commit/8ef5360d) Use Go 1.25 (#44)
+- [33039dd4](https://github.com/kubedb/cassandra/commit/33039dd4) Test against k8s 1.33.2 (#43)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.5.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T21:18:58.197795985Z",
+  "release_date": "2025-08-30T21:19:06.371834162Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -59,6 +59,36 @@
             {
               "SHA": "b314b1ab6",
               "Subject": "Add RotateAuth OPS Validation (#1500)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "d669103e",
+              "Subject": "Prepare for release v0.11.0 (#47)"
+            },
+            {
+              "SHA": "09a394ca",
+              "Subject": "Set domain (#46)"
+            },
+            {
+              "SHA": "acb70c4e",
+              "Subject": "Ignore notFound error on deletion (#45)"
+            },
+            {
+              "SHA": "8ef5360d",
+              "Subject": "Use Go 1.25 (#44)"
+            },
+            {
+              "SHA": "33039dd4",
+              "Subject": "Test against k8s 1.33.2 (#43)"
             }
           ]
         }

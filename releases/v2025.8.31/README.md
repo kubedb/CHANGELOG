@@ -213,6 +213,16 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.13.0](https://github.com/kubedb/pgpool/releases/tag/v0.13.0)
+
+- [9d3edd94](https://github.com/kubedb/pgpool/commit/9d3edd94) Prepare for release v0.13.0 (#83)
+- [535d110b](https://github.com/kubedb/pgpool/commit/535d110b) Use Go 1.25 (#81)
+- [92925a00](https://github.com/kubedb/pgpool/commit/92925a00) Test against k8s 1.33.2 (#80)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.19.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.19.0)

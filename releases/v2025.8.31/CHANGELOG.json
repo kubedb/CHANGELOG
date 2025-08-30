@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:49:19.905045454Z",
+  "release_date": "2025-08-30T20:49:29.507493804Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -489,6 +489,28 @@
             {
               "SHA": "bd56d458",
               "Subject": "Test against k8s 1.33.2 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "9d3edd94",
+              "Subject": "Prepare for release v0.13.0 (#83)"
+            },
+            {
+              "SHA": "535d110b",
+              "Subject": "Use Go 1.25 (#81)"
+            },
+            {
+              "SHA": "92925a00",
+              "Subject": "Test against k8s 1.33.2 (#80)"
             }
           ]
         }

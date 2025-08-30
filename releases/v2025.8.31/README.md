@@ -203,6 +203,15 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.19.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.19.0)
+
+- [29ae7ceb](https://github.com/kubedb/postgres-archiver/commit/29ae7ceb) Prepare for release v0.19.0 (#67)
+- [4df4f154](https://github.com/kubedb/postgres-archiver/commit/4df4f154) Use Go 1.25 (#66)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.19.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.19.0)

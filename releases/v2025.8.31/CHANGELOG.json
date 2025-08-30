@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:49:04.05539438Z",
+  "release_date": "2025-08-30T20:49:12.636602116Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -467,6 +467,24 @@
             {
               "SHA": "bd56d458",
               "Subject": "Test against k8s 1.33.2 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "29ae7ceb",
+              "Subject": "Prepare for release v0.19.0 (#67)"
+            },
+            {
+              "SHA": "4df4f154",
+              "Subject": "Use Go 1.25 (#66)"
             }
           ]
         }

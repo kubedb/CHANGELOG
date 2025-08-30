@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:48:43.125747214Z",
+  "release_date": "2025-08-30T20:48:49.993328506Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -419,6 +419,32 @@
             {
               "SHA": "772df9c",
               "Subject": "Use Go 1.25 (#80)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "f0c77e1f",
+              "Subject": "Prepare for release v0.4.0 (#12)"
+            },
+            {
+              "SHA": "ba6a9bb1",
+              "Subject": "Use domain (#11)"
+            },
+            {
+              "SHA": "95008420",
+              "Subject": "Use Go 1.25 (#10)"
+            },
+            {
+              "SHA": "bd56d458",
+              "Subject": "Test against k8s 1.33.2 (#9)"
             }
           ]
         }

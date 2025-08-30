@@ -182,6 +182,17 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.4.0](https://github.com/kubedb/oracle/releases/tag/v0.4.0)
+
+- [f0c77e1f](https://github.com/kubedb/oracle/commit/f0c77e1f) Prepare for release v0.4.0 (#12)
+- [ba6a9bb1](https://github.com/kubedb/oracle/commit/ba6a9bb1) Use domain (#11)
+- [95008420](https://github.com/kubedb/oracle/commit/95008420) Use Go 1.25 (#10)
+- [bd56d458](https://github.com/kubedb/oracle/commit/bd56d458) Test against k8s 1.33.2 (#9)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.19.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.19.0)

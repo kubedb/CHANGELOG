@@ -40,3 +40,13 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.18.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.18.0)
+
+- [0b44200f](https://github.com/kubedb/mariadb-archiver/commit/0b44200f) Prepare for release v0.18.0 (#58)
+- [b7ef933c](https://github.com/kubedb/mariadb-archiver/commit/b7ef933c) Use Go 1.25 (#57)
+- [c7a8956f](https://github.com/kubedb/mariadb-archiver/commit/c7a8956f) Test against k8s 1.33.2 (#56)
+
+
+

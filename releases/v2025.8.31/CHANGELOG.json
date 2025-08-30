@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:48:12.629755838Z",
+  "release_date": "2025-08-30T20:48:21.370807293Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -297,6 +297,24 @@
             {
               "SHA": "91446b3a",
               "Subject": "Use Go 1.25 (#149)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "4bf6ee1",
+              "Subject": "Prepare for release v0.12.0 (#32)"
+            },
+            {
+              "SHA": "85d2ed4",
+              "Subject": "Use Go 1.25 (#31)"
             }
           ]
         }

@@ -20,6 +20,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.58.0](https://github.com/kubedb/cli/releases/tag/v0.58.0)
+
+- [cbed3e12](https://github.com/kubedb/cli/commit/cbed3e123) Prepare for release v0.58.0 (#802)
+- [1595907f](https://github.com/kubedb/cli/commit/1595907f3) Use Go 1.25 (#801)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.13.0](https://github.com/kubedb/crd-manager/releases/tag/v0.13.0)

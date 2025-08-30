@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:45:39.447747693Z",
+  "release_date": "2025-08-30T20:45:46.701453708Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -103,6 +103,32 @@
             {
               "SHA": "435a48d0",
               "Subject": "Use Go 1.25 (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "ee522eb9",
+              "Subject": "Prepare for release v0.6.0 (#24)"
+            },
+            {
+              "SHA": "46e0e8c7",
+              "Subject": "Use Go 1.25 (#23)"
+            },
+            {
+              "SHA": "b40b2928",
+              "Subject": "Test against k8s 1.33.2 (#22)"
+            },
+            {
+              "SHA": "ca143ff8",
+              "Subject": "Test against k8s 1.33.2 (#21)"
             }
           ]
         }

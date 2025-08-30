@@ -40,6 +40,17 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.6.0](https://github.com/kubedb/gitops/releases/tag/v0.6.0)
+
+- [ee522eb9](https://github.com/kubedb/gitops/commit/ee522eb9) Prepare for release v0.6.0 (#24)
+- [46e0e8c7](https://github.com/kubedb/gitops/commit/46e0e8c7) Use Go 1.25 (#23)
+- [b40b2928](https://github.com/kubedb/gitops/commit/b40b2928) Test against k8s 1.33.2 (#22)
+- [ca143ff8](https://github.com/kubedb/gitops/commit/ca143ff8) Test against k8s 1.33.2 (#21)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.21.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.21.0)

@@ -168,6 +168,15 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.19.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.19.0)
+
+- [518abd3c](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/518abd3c) Prepare for release v0.19.0 (#63)
+- [f95399ad](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/f95399ad) Use Go 1.25 (#62)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.16.0)

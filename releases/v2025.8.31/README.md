@@ -340,6 +340,17 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.51.0](https://github.com/kubedb/redis/releases/tag/v0.51.0)
+
+- [dc60b5d3](https://github.com/kubedb/redis/commit/dc60b5d38) Prepare for release v0.51.0 (#603)
+- [d48fd534](https://github.com/kubedb/redis/commit/d48fd5348) Redis git-sync (#602)
+- [8a463626](https://github.com/kubedb/redis/commit/8a4636265) Use Go 1.25 (#601)
+- [6203f72e](https://github.com/kubedb/redis/commit/6203f72ec) Test against k8s 1.33.2 (#600)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.37.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.37.0)

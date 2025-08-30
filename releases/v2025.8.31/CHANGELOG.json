@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:51:12.32879503Z",
+  "release_date": "2025-08-30T20:51:32.809565887Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -671,6 +671,40 @@
             {
               "SHA": "92925a00",
               "Subject": "Test against k8s 1.33.2 (#80)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.58.0",
+          "commits": [
+            {
+              "SHA": "67233a879",
+              "Subject": "Prepare for release v0.58.0 (#831)"
+            },
+            {
+              "SHA": "d26d4d404",
+              "Subject": "Incorporate new petset api changes (#830)"
+            },
+            {
+              "SHA": "fb69ef802",
+              "Subject": "Use FindDomain Func (#829)"
+            },
+            {
+              "SHA": "a050ff263",
+              "Subject": "Fix arbiter storage spec (#826)"
+            },
+            {
+              "SHA": "46c13e2f1",
+              "Subject": "Use Go 1.25 (#828)"
+            },
+            {
+              "SHA": "c6cae10d8",
+              "Subject": "Test against k8s 1.33.2 (#827)"
             }
           ]
         }

@@ -290,6 +290,19 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.58.0](https://github.com/kubedb/postgres/releases/tag/v0.58.0)
+
+- [67233a87](https://github.com/kubedb/postgres/commit/67233a879) Prepare for release v0.58.0 (#831)
+- [d26d4d40](https://github.com/kubedb/postgres/commit/d26d4d404) Incorporate new petset api changes (#830)
+- [fb69ef80](https://github.com/kubedb/postgres/commit/fb69ef802) Use FindDomain Func (#829)
+- [a050ff26](https://github.com/kubedb/postgres/commit/a050ff263) Fix arbiter storage spec (#826)
+- [46c13e2f](https://github.com/kubedb/postgres/commit/46c13e2f1) Use Go 1.25 (#828)
+- [c6cae10d](https://github.com/kubedb/postgres/commit/c6cae10d8) Test against k8s 1.33.2 (#827)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.19.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.19.0)

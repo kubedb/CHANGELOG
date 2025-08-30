@@ -143,6 +143,16 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.16.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.16.0)
+
+- [dc88d18](https://github.com/kubedb/mariadb-restic-plugin/commit/dc88d18) Prepare for release v0.16.0 (#53)
+- [7e5afc1](https://github.com/kubedb/mariadb-restic-plugin/commit/7e5afc1) Use Go 1.25 (#52)
+- [a918a98](https://github.com/kubedb/mariadb-restic-plugin/commit/a918a98) Test against k8s 1.33.2 (#51)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.12.0)

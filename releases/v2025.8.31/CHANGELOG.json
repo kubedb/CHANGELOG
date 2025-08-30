@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:47:12.537509644Z",
+  "release_date": "2025-08-30T20:47:26.883144671Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -213,6 +213,40 @@
             {
               "SHA": "c7a8956f",
               "Subject": "Test against k8s 1.33.2 (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "586931448",
+              "Subject": "Prepare for release v0.51.0 (#699)"
+            },
+            {
+              "SHA": "f24ca9719",
+              "Subject": "Adjust git-sync mountpath constant (#698)"
+            },
+            {
+              "SHA": "b0b7b95d5",
+              "Subject": "Ignore notFound error on monitor deletion (#697)"
+            },
+            {
+              "SHA": "2ff5ec27d",
+              "Subject": "Add Ops-Manager to CI (#686)"
+            },
+            {
+              "SHA": "73cc0a5f1",
+              "Subject": "Use Go 1.25 (#696)"
+            },
+            {
+              "SHA": "b8d33dbb4",
+              "Subject": "Test against k8s 1.33.2 (#695)"
             }
           ]
         }

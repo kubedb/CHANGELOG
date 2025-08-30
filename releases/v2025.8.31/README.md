@@ -90,6 +90,19 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.51.0](https://github.com/kubedb/mysql/releases/tag/v0.51.0)
+
+- [58693144](https://github.com/kubedb/mysql/commit/586931448) Prepare for release v0.51.0 (#699)
+- [f24ca971](https://github.com/kubedb/mysql/commit/f24ca9719) Adjust git-sync mountpath constant (#698)
+- [b0b7b95d](https://github.com/kubedb/mysql/commit/b0b7b95d5) Ignore notFound error on monitor deletion (#697)
+- [2ff5ec27](https://github.com/kubedb/mysql/commit/2ff5ec27d) Add Ops-Manager to CI (#686)
+- [73cc0a5f](https://github.com/kubedb/mysql/commit/73cc0a5f1) Use Go 1.25 (#696)
+- [b8d33dbb](https://github.com/kubedb/mysql/commit/b8d33dbb4) Test against k8s 1.33.2 (#695)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.36.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.36.0)

@@ -115,6 +115,17 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.13.0](https://github.com/kubedb/ferretdb/releases/tag/v0.13.0)
+
+- [2e5bd231](https://github.com/kubedb/ferretdb/commit/2e5bd231) Prepare for release v0.13.0 (#84)
+- [962f0bdf](https://github.com/kubedb/ferretdb/commit/962f0bdf) Ignore notFound error on deletion
+- [f2ea8316](https://github.com/kubedb/ferretdb/commit/f2ea8316) Use Go 1.25 (#83)
+- [22b52b26](https://github.com/kubedb/ferretdb/commit/22b52b26) Test against k8s 1.33.2 (#82)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.6.0](https://github.com/kubedb/gitops/releases/tag/v0.6.0)

@@ -20,3 +20,13 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.13.0](https://github.com/kubedb/db-client-go/releases/tag/v0.13.0)
+
+- [981dd5ed](https://github.com/kubedb/db-client-go/commit/981dd5ed) Prepare for release v0.13.0 (#194)
+- [68321723](https://github.com/kubedb/db-client-go/commit/68321723) Update dynamic k8s host (#193)
+- [435a48d0](https://github.com/kubedb/db-client-go/commit/435a48d0) Use Go 1.25 (#192)
+
+
+

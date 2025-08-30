@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:49:29.507493804Z",
+  "release_date": "2025-08-30T20:49:44.199110678Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -213,6 +213,36 @@
             {
               "SHA": "ca143ff8",
               "Subject": "Test against k8s 1.33.2 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "e367577d",
+              "Subject": "Prepare for release v0.29.0 (#161)"
+            },
+            {
+              "SHA": "40fdcf94",
+              "Subject": "Update dynamic k8s domain (#160)"
+            },
+            {
+              "SHA": "3ad3d393",
+              "Subject": "Handle monitor not found error (#159)"
+            },
+            {
+              "SHA": "bfd1b42c",
+              "Subject": "Use Go 1.25 (#158)"
+            },
+            {
+              "SHA": "fd1f4975",
+              "Subject": "Test against k8s 1.33.2 (#157)"
             }
           ]
         }

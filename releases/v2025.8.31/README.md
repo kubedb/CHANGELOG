@@ -90,6 +90,18 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.29.0](https://github.com/kubedb/kafka/releases/tag/v0.29.0)
+
+- [e367577d](https://github.com/kubedb/kafka/commit/e367577d) Prepare for release v0.29.0 (#161)
+- [40fdcf94](https://github.com/kubedb/kafka/commit/40fdcf94) Update dynamic k8s domain (#160)
+- [3ad3d393](https://github.com/kubedb/kafka/commit/3ad3d393) Handle monitor not found error (#159)
+- [bfd1b42c](https://github.com/kubedb/kafka/commit/bfd1b42c) Use Go 1.25 (#158)
+- [fd1f4975](https://github.com/kubedb/kafka/commit/fd1f4975) Test against k8s 1.33.2 (#157)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.21.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.21.0)

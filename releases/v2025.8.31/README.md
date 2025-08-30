@@ -340,6 +340,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.21.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.21.0)
+
+- [0ebc088](https://github.com/kubedb/postgres-restic-plugin/commit/0ebc088) Prepare for release v0.21.0 (#78)
+- [5e1f68b](https://github.com/kubedb/postgres-restic-plugin/commit/5e1f68b) Use Go 1.25 (#77)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.51.0](https://github.com/kubedb/redis/releases/tag/v0.51.0)

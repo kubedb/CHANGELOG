@@ -240,6 +240,15 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.13.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.13.0)
+
+- [778ee906](https://github.com/kubedb/mssql-coordinator/commit/778ee906) Prepare for release v0.13.0 (#43)
+- [e4ec2ecb](https://github.com/kubedb/mssql-coordinator/commit/e4ec2ecb) Use Go 1.25 (#42)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.13.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.13.0)

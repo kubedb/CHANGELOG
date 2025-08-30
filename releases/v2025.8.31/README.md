@@ -211,6 +211,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.21.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.21.0)
+
+- [3ab2ede4](https://github.com/kubedb/mongodb-restic-plugin/commit/3ab2ede4) Prepare for release v0.21.0 (#91)
+- [a69b17df](https://github.com/kubedb/mongodb-restic-plugin/commit/a69b17df) Use Go 1.25 (#90)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.12.0)

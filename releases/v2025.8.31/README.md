@@ -98,6 +98,15 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.16.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.16.0)
+
+- [b8cd8be](https://github.com/kubedb/singlestore-restic-plugin/commit/b8cd8be) Prepare for release v0.16.0 (#52)
+- [3835009](https://github.com/kubedb/singlestore-restic-plugin/commit/3835009) Use Go 1.25 (#51)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.43.0](https://github.com/kubedb/tests/releases/tag/v0.43.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T21:19:21.567286159Z",
+  "release_date": "2025-08-30T21:19:30.498683064Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -129,6 +129,36 @@
             {
               "SHA": "1595907f3",
               "Subject": "Use Go 1.25 (#801)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "f2f4e546",
+              "Subject": "Prepare for release v0.13.0 (#64)"
+            },
+            {
+              "SHA": "dac8281d",
+              "Subject": "Deploy multiple clickhouse CR if multi cluster needed (#63)"
+            },
+            {
+              "SHA": "28f74f35",
+              "Subject": "Export EnsureSecrets (#59)"
+            },
+            {
+              "SHA": "c69becf2",
+              "Subject": "Use Go 1.25 (#62)"
+            },
+            {
+              "SHA": "dd1342e7",
+              "Subject": "Test against k8s 1.33.2 (#61)"
             }
           ]
         }

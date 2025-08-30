@@ -51,6 +51,18 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.13.0](https://github.com/kubedb/clickhouse/releases/tag/v0.13.0)
+
+- [f2f4e546](https://github.com/kubedb/clickhouse/commit/f2f4e546) Prepare for release v0.13.0 (#64)
+- [dac8281d](https://github.com/kubedb/clickhouse/commit/dac8281d) Deploy multiple clickhouse CR if multi cluster needed (#63)
+- [28f74f35](https://github.com/kubedb/clickhouse/commit/28f74f35) Export EnsureSecrets (#59)
+- [c69becf2](https://github.com/kubedb/clickhouse/commit/c69becf2) Use Go 1.25 (#62)
+- [dd1342e7](https://github.com/kubedb/clickhouse/commit/dd1342e7) Test against k8s 1.33.2 (#61)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.13.0](https://github.com/kubedb/crd-manager/releases/tag/v0.13.0)

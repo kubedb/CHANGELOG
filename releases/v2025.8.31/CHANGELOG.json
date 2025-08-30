@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T21:19:37.18888688Z",
+  "release_date": "2025-08-30T21:19:41.744493014Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -747,6 +747,20 @@
             {
               "SHA": "f08da8ea",
               "Subject": "Test against k8s 1.33.2 (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "6eb46c0",
+              "Subject": "Use Go 1.25 (#13)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:48:29.232201964Z",
+  "release_date": "2025-08-30T20:48:43.125747214Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -253,6 +253,44 @@
             {
               "SHA": "05e675e",
               "Subject": "Use Go 1.25 (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "d2f2eeb43",
+              "Subject": "Prepare for release v0.42.0 (#348)"
+            },
+            {
+              "SHA": "fe8ae3805",
+              "Subject": "Add mariadb git-sync feature (#346)"
+            },
+            {
+              "SHA": "68044b2f9",
+              "Subject": "Split Distributed MariaDB Primary ServiceExport(Ops-TLS) (#344)"
+            },
+            {
+              "SHA": "cb1eea241",
+              "Subject": "set domain (#347)"
+            },
+            {
+              "SHA": "eabab36f4",
+              "Subject": "Ignore notFound error on monitor deletion (#345)"
+            },
+            {
+              "SHA": "b1e5701fa",
+              "Subject": "Use Go 1.25 (#343)"
+            },
+            {
+              "SHA": "632b070d6",
+              "Subject": "Test against k8s 1.33.2 (#342)"
             }
           ]
         }

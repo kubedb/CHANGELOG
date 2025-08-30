@@ -109,6 +109,20 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.42.0](https://github.com/kubedb/mariadb/releases/tag/v0.42.0)
+
+- [d2f2eeb4](https://github.com/kubedb/mariadb/commit/d2f2eeb43) Prepare for release v0.42.0 (#348)
+- [fe8ae380](https://github.com/kubedb/mariadb/commit/fe8ae3805) Add mariadb git-sync feature (#346)
+- [68044b2f](https://github.com/kubedb/mariadb/commit/68044b2f9) Split Distributed MariaDB Primary ServiceExport(Ops-TLS) (#344)
+- [cb1eea24](https://github.com/kubedb/mariadb/commit/cb1eea241) set domain (#347)
+- [eabab36f](https://github.com/kubedb/mariadb/commit/eabab36f4) Ignore notFound error on monitor deletion (#345)
+- [b1e5701f](https://github.com/kubedb/mariadb/commit/b1e5701fa) Use Go 1.25 (#343)
+- [632b070d](https://github.com/kubedb/mariadb/commit/632b070d6) Test against k8s 1.33.2 (#342)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.18.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.18.0)

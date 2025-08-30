@@ -69,6 +69,19 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.13.0](https://github.com/kubedb/druid/releases/tag/v0.13.0)
+
+- [86748406](https://github.com/kubedb/druid/commit/86748406) Prepare for release v0.13.0 (#98)
+- [25f08469](https://github.com/kubedb/druid/commit/25f08469) set domain (#97)
+- [b6f7df3d](https://github.com/kubedb/druid/commit/b6f7df3d) make fmt (#96)
+- [9b02466b](https://github.com/kubedb/druid/commit/9b02466b) Ignore notFound error on deletion (#95)
+- [83957046](https://github.com/kubedb/druid/commit/83957046) Use Go 1.25 (#94)
+- [9e4adb30](https://github.com/kubedb/druid/commit/9e4adb30) Test against k8s 1.33.2 (#93)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.58.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.58.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:49:44.199110678Z",
+  "release_date": "2025-08-30T20:50:00.443150175Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -409,6 +409,36 @@
             {
               "SHA": "a918a98",
               "Subject": "Test against k8s 1.33.2 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "34997974c",
+              "Subject": "Prepare for release v0.51.0 (#716)"
+            },
+            {
+              "SHA": "ea449c6ef",
+              "Subject": "Update for gitsync const"
+            },
+            {
+              "SHA": "c1a02a2c7",
+              "Subject": "Set domain (#715)"
+            },
+            {
+              "SHA": "1b50cb253",
+              "Subject": "Use Go 1.25 (#714)"
+            },
+            {
+              "SHA": "d524b37d1",
+              "Subject": "Test against k8s 1.33.2 (#713)"
             }
           ]
         }

@@ -175,6 +175,18 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.51.0](https://github.com/kubedb/mongodb/releases/tag/v0.51.0)
+
+- [34997974](https://github.com/kubedb/mongodb/commit/34997974c) Prepare for release v0.51.0 (#716)
+- [ea449c6e](https://github.com/kubedb/mongodb/commit/ea449c6ef) Update for gitsync const
+- [c1a02a2c](https://github.com/kubedb/mongodb/commit/c1a02a2c7) Set domain (#715)
+- [1b50cb25](https://github.com/kubedb/mongodb/commit/1b50cb253) Use Go 1.25 (#714)
+- [d524b37d](https://github.com/kubedb/mongodb/commit/d524b37d1) Test against k8s 1.33.2 (#713)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.12.0)

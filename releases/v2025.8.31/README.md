@@ -289,6 +289,17 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.45.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.45.0)
+
+- [01f946c7](https://github.com/kubedb/percona-xtradb/commit/01f946c76) Prepare for release v0.45.0 (#416)
+- [b5b0681a](https://github.com/kubedb/percona-xtradb/commit/b5b0681ae) Ignore notFound error on monitor deletion (#415)
+- [46e3394f](https://github.com/kubedb/percona-xtradb/commit/46e3394f9) Use Go 1.25 (#414)
+- [b9795106](https://github.com/kubedb/percona-xtradb/commit/b9795106a) Test against k8s 1.33.2 (#413)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.42.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.42.0)

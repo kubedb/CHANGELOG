@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:52:28.773434695Z",
+  "release_date": "2025-08-30T20:52:41.413136418Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -667,6 +667,32 @@
             {
               "SHA": "bd56d458",
               "Subject": "Test against k8s 1.33.2 (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "01f946c76",
+              "Subject": "Prepare for release v0.45.0 (#416)"
+            },
+            {
+              "SHA": "b5b0681ae",
+              "Subject": "Ignore notFound error on monitor deletion (#415)"
+            },
+            {
+              "SHA": "46e3394f9",
+              "Subject": "Use Go 1.25 (#414)"
+            },
+            {
+              "SHA": "b9795106a",
+              "Subject": "Test against k8s 1.33.2 (#413)"
             }
           ]
         }

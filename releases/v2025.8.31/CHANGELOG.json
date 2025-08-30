@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:48:57.02950851Z",
+  "release_date": "2025-08-30T20:49:04.05539438Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -577,6 +577,24 @@
             {
               "SHA": "4cc59e87",
               "Subject": "Test against k8s 1.33.2 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "ed4e17b",
+              "Subject": "Prepare for release v0.14.0 (#42)"
+            },
+            {
+              "SHA": "2d04379",
+              "Subject": "Use Go 1.25 (#41)"
             }
           ]
         }

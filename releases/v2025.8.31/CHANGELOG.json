@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:47:42.664545845Z",
+  "release_date": "2025-08-30T20:47:50.4202078Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -143,6 +143,28 @@
             {
               "SHA": "435a48d0",
               "Subject": "Use Go 1.25 (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6d83b242",
+              "Subject": "Prepare for release v0.21.0 (#70)"
+            },
+            {
+              "SHA": "7ae5f210",
+              "Subject": "Use Go 1.25 (#69)"
+            },
+            {
+              "SHA": "c19e72ec",
+              "Subject": "Test against k8s 1.33.2 (#68)"
             }
           ]
         }

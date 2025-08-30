@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-30T20:52:51.808713061Z",
+  "release_date": "2025-08-30T20:53:00.337938917Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -983,6 +983,36 @@
             {
               "SHA": "3835009",
               "Subject": "Use Go 1.25 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "6def247b",
+              "Subject": "Prepare for release v0.13.0 (#96)"
+            },
+            {
+              "SHA": "2460042e",
+              "Subject": "Replaced hardcoded cluster.local with dynamic cluster domain (#95)"
+            },
+            {
+              "SHA": "beda554f",
+              "Subject": "Fix Delete Monitor  (#94)"
+            },
+            {
+              "SHA": "ac90d42b",
+              "Subject": "Use Go 1.25 (#93)"
+            },
+            {
+              "SHA": "e94509e2",
+              "Subject": "Test against k8s 1.33.2 (#92)"
             }
           ]
         }

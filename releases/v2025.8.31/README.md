@@ -431,6 +431,18 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.13.0](https://github.com/kubedb/solr/releases/tag/v0.13.0)
+
+- [6def247b](https://github.com/kubedb/solr/commit/6def247b) Prepare for release v0.13.0 (#96)
+- [2460042e](https://github.com/kubedb/solr/commit/2460042e) Replaced hardcoded cluster.local with dynamic cluster domain (#95)
+- [beda554f](https://github.com/kubedb/solr/commit/beda554f) Fix Delete Monitor  (#94)
+- [ac90d42b](https://github.com/kubedb/solr/commit/ac90d42b) Use Go 1.25 (#93)
+- [e94509e2](https://github.com/kubedb/solr/commit/e94509e2) Test against k8s 1.33.2 (#92)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.43.0](https://github.com/kubedb/tests/releases/tag/v0.43.0)

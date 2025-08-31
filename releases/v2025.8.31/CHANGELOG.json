@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-31T05:28:40.705139175Z",
+  "release_date": "2025-08-31T08:53:53.671934224Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -437,6 +437,72 @@
             {
               "SHA": "d9d8ccb8",
               "Subject": "Test against k8s 1.33.2 (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.8.31",
+          "commits": [
+            {
+              "SHA": "91447ebdb",
+              "Subject": "Prepare for release v2025.8.31 (#1821)"
+            },
+            {
+              "SHA": "ed3d2ff45",
+              "Subject": "Update cve report (#1819)"
+            },
+            {
+              "SHA": "6cb86bec0",
+              "Subject": "Update petset operator v2025.8.31 (#1820)"
+            },
+            {
+              "SHA": "d75eaee70",
+              "Subject": "Git-Sync for redis pgpool pgbouncer (#1817)"
+            },
+            {
+              "SHA": "ae70c072c",
+              "Subject": "Update crds for kubedb/apimachinery@079f9604 (#1818)"
+            },
+            {
+              "SHA": "a11c50fc4",
+              "Subject": "Add  git-sync image to mariadb  (#1815)"
+            },
+            {
+              "SHA": "e55958df0",
+              "Subject": "Fix CRD install fail issue for KubeSlice enabled namespace (#1816)"
+            },
+            {
+              "SHA": "8502e4615",
+              "Subject": "Update cve report (#1814)"
+            },
+            {
+              "SHA": "cb1c7722c",
+              "Subject": "Introduce \"security.enableNetworkPolicy\" (#1813)"
+            },
+            {
+              "SHA": "8c931dab7",
+              "Subject": "Update crds for kubedb/apimachinery@b8bdbe2c (#1812)"
+            },
+            {
+              "SHA": "d6207051a",
+              "Subject": "Update crds for kubedb/apimachinery@dc61a043 (#1811)"
+            },
+            {
+              "SHA": "649c09a74",
+              "Subject": "Update cve report (#1810)"
+            },
+            {
+              "SHA": "a05171b73",
+              "Subject": "Update crds for kubedb/apimachinery@f56c4f01 (#1809)"
+            },
+            {
+              "SHA": "5d3aacf1b",
+              "Subject": "Update cve report (#1807)"
             }
           ]
         }

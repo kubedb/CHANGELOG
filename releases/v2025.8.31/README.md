@@ -182,6 +182,27 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2025.8.31](https://github.com/kubedb/installer/releases/tag/v2025.8.31)
+
+- [91447ebd](https://github.com/kubedb/installer/commit/91447ebdb) Prepare for release v2025.8.31 (#1821)
+- [ed3d2ff4](https://github.com/kubedb/installer/commit/ed3d2ff45) Update cve report (#1819)
+- [6cb86bec](https://github.com/kubedb/installer/commit/6cb86bec0) Update petset operator v2025.8.31 (#1820)
+- [d75eaee7](https://github.com/kubedb/installer/commit/d75eaee70) Git-Sync for redis pgpool pgbouncer (#1817)
+- [ae70c072](https://github.com/kubedb/installer/commit/ae70c072c) Update crds for kubedb/apimachinery@079f9604 (#1818)
+- [a11c50fc](https://github.com/kubedb/installer/commit/a11c50fc4) Add  git-sync image to mariadb  (#1815)
+- [e55958df](https://github.com/kubedb/installer/commit/e55958df0) Fix CRD install fail issue for KubeSlice enabled namespace (#1816)
+- [8502e461](https://github.com/kubedb/installer/commit/8502e4615) Update cve report (#1814)
+- [cb1c7722](https://github.com/kubedb/installer/commit/cb1c7722c) Introduce "security.enableNetworkPolicy" (#1813)
+- [8c931dab](https://github.com/kubedb/installer/commit/8c931dab7) Update crds for kubedb/apimachinery@b8bdbe2c (#1812)
+- [d6207051](https://github.com/kubedb/installer/commit/d6207051a) Update crds for kubedb/apimachinery@dc61a043 (#1811)
+- [649c09a7](https://github.com/kubedb/installer/commit/649c09a74) Update cve report (#1810)
+- [a05171b7](https://github.com/kubedb/installer/commit/a05171b73) Update crds for kubedb/apimachinery@f56c4f01 (#1809)
+- [5d3aacf1](https://github.com/kubedb/installer/commit/5d3aacf1b) Update cve report (#1807)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.29.0](https://github.com/kubedb/kafka/releases/tag/v0.29.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-31T08:53:53.671934224Z",
+  "release_date": "2025-08-31T09:18:39.688442656Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -247,6 +247,48 @@
             {
               "SHA": "435a48d0",
               "Subject": "Use Go 1.25 (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.8.31",
+          "commits": [
+            {
+              "SHA": "385bafcd",
+              "Subject": "Prepare for release v2025.8.31 (#808)"
+            },
+            {
+              "SHA": "26fdf0b9",
+              "Subject": "mssql failover (#794)"
+            },
+            {
+              "SHA": "dba2a07f",
+              "Subject": "Add Clickhouse (#728)"
+            },
+            {
+              "SHA": "a8be03d7",
+              "Subject": "Failover for mysql (#792)"
+            },
+            {
+              "SHA": "877844ed",
+              "Subject": "Mariadb failover (#801)"
+            },
+            {
+              "SHA": "cdbb8909",
+              "Subject": "MongoDB failover (#793)"
+            },
+            {
+              "SHA": "89225fc6",
+              "Subject": "Add reference of the Deletionpolicy blog (#784)"
+            },
+            {
+              "SHA": "3a1f3bcd",
+              "Subject": "Use Go 1.25 (#800)"
             }
           ]
         }

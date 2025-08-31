@@ -103,6 +103,21 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.8.31](https://github.com/kubedb/docs/releases/tag/v2025.8.31)
+
+- [385bafcd](https://github.com/kubedb/docs/commit/385bafcd) Prepare for release v2025.8.31 (#808)
+- [26fdf0b9](https://github.com/kubedb/docs/commit/26fdf0b9) mssql failover (#794)
+- [dba2a07f](https://github.com/kubedb/docs/commit/dba2a07f) Add Clickhouse (#728)
+- [a8be03d7](https://github.com/kubedb/docs/commit/a8be03d7) Failover for mysql (#792)
+- [877844ed](https://github.com/kubedb/docs/commit/877844ed) Mariadb failover (#801)
+- [cdbb8909](https://github.com/kubedb/docs/commit/cdbb8909) MongoDB failover (#793)
+- [89225fc6](https://github.com/kubedb/docs/commit/89225fc6) Add reference of the Deletionpolicy blog (#784)
+- [3a1f3bcd](https://github.com/kubedb/docs/commit/3a1f3bcd) Use Go 1.25 (#800)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.13.0](https://github.com/kubedb/druid/releases/tag/v0.13.0)

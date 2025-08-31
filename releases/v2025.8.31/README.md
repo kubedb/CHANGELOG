@@ -401,6 +401,21 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.45.0](https://github.com/kubedb/ops-manager/releases/tag/v0.45.0)
+
+- [f9af4d9e](https://github.com/kubedb/ops-manager/commit/f9af4d9e0) Prepare for release v0.45.0 (#790)
+- [732c00e2](https://github.com/kubedb/ops-manager/commit/732c00e26) Hazelcast rotate auth, reconfigure TLS, Recommendation Engine (#777)
+- [6c5afbe1](https://github.com/kubedb/ops-manager/commit/6c5afbe1a) Distributed MariaDB TLS reconfigure, version upgrade, rotate auth (#779)
+- [bf00b3f4](https://github.com/kubedb/ops-manager/commit/bf00b3f4e) Recommandation for PgBouncer and Pgpool (#785)
+- [c80e6e44](https://github.com/kubedb/ops-manager/commit/c80e6e447) Add Clickhouse Rotate-Auth,Reconfigure-TLS (#776)
+- [13f5085b](https://github.com/kubedb/ops-manager/commit/13f5085b2) Set Domain properly (#788)
+- [ac400d32](https://github.com/kubedb/ops-manager/commit/ac400d329) Update Offline Volume Expansion flow  (#786)
+- [7bc3a659](https://github.com/kubedb/ops-manager/commit/7bc3a6591) Update cluster.local (#787)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.4.0](https://github.com/kubedb/oracle/releases/tag/v0.4.0)

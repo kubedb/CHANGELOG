@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-31T04:54:24.961247492Z",
+  "release_date": "2025-08-31T05:09:34.013577814Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -917,6 +917,48 @@
             {
               "SHA": "b75f385",
               "Subject": "Use Go 1.25 (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "f9af4d9e0",
+              "Subject": "Prepare for release v0.45.0 (#790)"
+            },
+            {
+              "SHA": "732c00e26",
+              "Subject": "Hazelcast rotate auth, reconfigure TLS, Recommendation Engine (#777)"
+            },
+            {
+              "SHA": "6c5afbe1a",
+              "Subject": "Distributed MariaDB TLS reconfigure, version upgrade, rotate auth (#779)"
+            },
+            {
+              "SHA": "bf00b3f4e",
+              "Subject": "Recommandation for PgBouncer and Pgpool (#785)"
+            },
+            {
+              "SHA": "c80e6e447",
+              "Subject": "Add Clickhouse Rotate-Auth,Reconfigure-TLS (#776)"
+            },
+            {
+              "SHA": "13f5085b2",
+              "Subject": "Set Domain properly (#788)"
+            },
+            {
+              "SHA": "ac400d329",
+              "Subject": "Update Offline Volume Expansion flow  (#786)"
+            },
+            {
+              "SHA": "7bc3a6591",
+              "Subject": "Update cluster.local (#787)"
             }
           ]
         }

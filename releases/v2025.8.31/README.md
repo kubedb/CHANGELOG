@@ -1,4 +1,4 @@
-# KubeDB v2025.8.31 (2025-08-30)
+# KubeDB v2025.8.31 (2025-08-31)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -439,6 +439,17 @@
 - [f95f4f7a](https://github.com/kubedb/pg-coordinator/commit/f95f4f7a) Prepare for release v0.42.0 (#209)
 - [497bd29b](https://github.com/kubedb/pg-coordinator/commit/497bd29b) Use FindDomain function (#208)
 - [c6edd36e](https://github.com/kubedb/pg-coordinator/commit/c6edd36e) Use Go 1.25 (#206)
+
+
+
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.45.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.45.0)
+
+- [50f78972](https://github.com/kubedb/pgbouncer/commit/50f78972) Prepare for release v0.45.0 (#380)
+- [f37f96fb](https://github.com/kubedb/pgbouncer/commit/f37f96fb) Add Init script and script from git-sync (#379)
+- [69c72451](https://github.com/kubedb/pgbouncer/commit/69c72451) Use Go 1.25 (#378)
+- [04e8bbe5](https://github.com/kubedb/pgbouncer/commit/04e8bbe5) Test against k8s 1.33.2 (#377)
 
 
 

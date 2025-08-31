@@ -649,6 +649,16 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.34.0](https://github.com/kubedb/ui-server/releases/tag/v0.34.0)
+
+- [e7d6c916](https://github.com/kubedb/ui-server/commit/e7d6c916) Prepare for release v0.34.0 (#172)
+- [affa1102](https://github.com/kubedb/ui-server/commit/affa1102) Set Domain (#171)
+- [bad1998c](https://github.com/kubedb/ui-server/commit/bad1998c) Use Go 1.25 (#170)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.7.0)

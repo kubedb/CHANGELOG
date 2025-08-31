@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-31T04:37:42.154492217Z",
+  "release_date": "2025-08-31T04:47:19.906552481Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -1456,6 +1456,28 @@
             {
               "SHA": "ba7c73ac",
               "Subject": "MySQL TLS Configuration Fix for 5.7.44 (#471)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "e7d6c916",
+              "Subject": "Prepare for release v0.34.0 (#172)"
+            },
+            {
+              "SHA": "affa1102",
+              "Subject": "Set Domain (#171)"
+            },
+            {
+              "SHA": "bad1998c",
+              "Subject": "Use Go 1.25 (#170)"
             }
           ]
         }

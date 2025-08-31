@@ -701,6 +701,16 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.34.0](https://github.com/kubedb/webhook-server/releases/tag/v0.34.0)
+
+- [c8b29cff](https://github.com/kubedb/webhook-server/commit/c8b29cff) Prepare for release v0.34.0 (#168)
+- [28888a41](https://github.com/kubedb/webhook-server/commit/28888a41) Use Go 1.25 (#167)
+- [c8f19b6a](https://github.com/kubedb/webhook-server/commit/c8f19b6a) Test against k8s 1.33.2 (#166)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.7.0)

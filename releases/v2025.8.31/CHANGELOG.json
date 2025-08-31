@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-31T05:20:16.514064444Z",
+  "release_date": "2025-08-31T05:28:40.705139175Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -1574,6 +1574,28 @@
             {
               "SHA": "bad1998c",
               "Subject": "Use Go 1.25 (#170)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "c8b29cff",
+              "Subject": "Prepare for release v0.34.0 (#168)"
+            },
+            {
+              "SHA": "28888a41",
+              "Subject": "Use Go 1.25 (#167)"
+            },
+            {
+              "SHA": "c8f19b6a",
+              "Subject": "Test against k8s 1.33.2 (#166)"
             }
           ]
         }

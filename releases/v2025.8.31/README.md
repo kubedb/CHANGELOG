@@ -184,6 +184,16 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.34.0](https://github.com/kubedb/kibana/releases/tag/v0.34.0)
+
+- [6a4afa04](https://github.com/kubedb/kibana/commit/6a4afa04) Prepare for release v0.34.0 (#158)
+- [08d16c5b](https://github.com/kubedb/kibana/commit/08d16c5b) Use Go 1.25 (#157)
+- [a9ee0b96](https://github.com/kubedb/kibana/commit/a9ee0b96) Test against k8s 1.33.2 (#156)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.21.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.21.0)

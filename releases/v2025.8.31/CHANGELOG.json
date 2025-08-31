@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-31T05:09:34.013577814Z",
+  "release_date": "2025-08-31T05:20:16.514064444Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -59,6 +59,28 @@
             {
               "SHA": "b314b1ab6",
               "Subject": "Add RotateAuth OPS Validation (#1500)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "41eca2aa",
+              "Subject": "Prepare for release v0.43.0 (#258)"
+            },
+            {
+              "SHA": "ab213e24",
+              "Subject": "Add support for Ignite (#256)"
+            },
+            {
+              "SHA": "fbba3a3f",
+              "Subject": "Use Go 1.25 (#257)"
             }
           ]
         }

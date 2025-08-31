@@ -20,6 +20,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.43.0](https://github.com/kubedb/autoscaler/releases/tag/v0.43.0)
+
+- [41eca2aa](https://github.com/kubedb/autoscaler/commit/41eca2aa) Prepare for release v0.43.0 (#258)
+- [ab213e24](https://github.com/kubedb/autoscaler/commit/ab213e24) Add support for Ignite (#256)
+- [fbba3a3f](https://github.com/kubedb/autoscaler/commit/fbba3a3f) Use Go 1.25 (#257)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.11.0](https://github.com/kubedb/cassandra/releases/tag/v0.11.0)

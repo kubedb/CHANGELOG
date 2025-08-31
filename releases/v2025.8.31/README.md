@@ -597,6 +597,15 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.34.0](https://github.com/kubedb/schema-manager/releases/tag/v0.34.0)
+
+- [a9ed20f3](https://github.com/kubedb/schema-manager/commit/a9ed20f3) Prepare for release v0.34.0 (#145)
+- [baafc879](https://github.com/kubedb/schema-manager/commit/baafc879) Use Go 1.25 (#144)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.13.0](https://github.com/kubedb/singlestore/releases/tag/v0.13.0)

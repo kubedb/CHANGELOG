@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.8.31",
-  "release_date": "2025-08-31T04:36:57.911520231Z",
+  "release_date": "2025-08-31T04:37:42.154492217Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.8.31",
   "kubernetes_version": "1.26+",
@@ -1196,6 +1196,32 @@
         {
           "tag": "v0.19.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "a63df1787",
+              "Subject": "Prepare for release v0.45.0 (#402)"
+            },
+            {
+              "SHA": "eaf0e0031",
+              "Subject": "Ignore not found error on deletion (#401)"
+            },
+            {
+              "SHA": "1aa6b5196",
+              "Subject": "Use Go 1.25 (#400)"
+            },
+            {
+              "SHA": "7d08c5ab6",
+              "Subject": "Test against k8s 1.33.2 (#399)"
+            }
+          ]
         }
       ]
     },

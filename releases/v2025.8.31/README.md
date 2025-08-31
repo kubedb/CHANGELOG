@@ -534,6 +534,17 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.45.0](https://github.com/kubedb/proxysql/releases/tag/v0.45.0)
+
+- [a63df178](https://github.com/kubedb/proxysql/commit/a63df1787) Prepare for release v0.45.0 (#402)
+- [eaf0e003](https://github.com/kubedb/proxysql/commit/eaf0e0031) Ignore not found error on deletion (#401)
+- [1aa6b519](https://github.com/kubedb/proxysql/commit/1aa6b5196) Use Go 1.25 (#400)
+- [7d08c5ab](https://github.com/kubedb/proxysql/commit/7d08c5ab6) Test against k8s 1.33.2 (#399)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.13.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.13.0)

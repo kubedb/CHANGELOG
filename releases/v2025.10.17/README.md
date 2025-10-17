@@ -101,6 +101,17 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.52.0](https://github.com/kubedb/mongodb/releases/tag/v0.52.0)
+
+- [2022597d](https://github.com/kubedb/mongodb/commit/2022597d4) Prepare for release v0.52.0 (#720)
+- [1cfa8ff4](https://github.com/kubedb/mongodb/commit/1cfa8ff49) Remove VSAPI dependency; import from kubestash (#719)
+- [942dee48](https://github.com/kubedb/mongodb/commit/942dee488) Update for local obj reference (#718)
+- [c47ba613](https://github.com/kubedb/mongodb/commit/c47ba6138) Test against k8s 1.34 (#717)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.20.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.20.0)

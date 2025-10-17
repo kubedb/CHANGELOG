@@ -134,6 +134,16 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.5.0](https://github.com/kubedb/oracle/releases/tag/v0.5.0)
+
+- [cc7cfbae](https://github.com/kubedb/oracle/commit/cc7cfbae) Prepare for release v0.5.0 (#15)
+- [1557f281](https://github.com/kubedb/oracle/commit/1557f281) Update Secret Type (#14)
+- [b4c5a88b](https://github.com/kubedb/oracle/commit/b4c5a88b) Test against k8s 1.34 (#13)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.20.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.20.0)

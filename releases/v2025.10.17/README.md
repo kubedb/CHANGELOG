@@ -183,6 +183,14 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.37.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.37.0)
+
+- [83a2eb80](https://github.com/kubedb/mysql-coordinator/commit/83a2eb80) Prepare for release v0.37.0 (#151)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.22.0)

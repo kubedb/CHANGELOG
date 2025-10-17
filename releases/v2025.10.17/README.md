@@ -108,6 +108,16 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.17.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.17.0)
+
+- [d906ca7](https://github.com/kubedb/mariadb-restic-plugin/commit/d906ca7) Prepare for release v0.17.0 (#55)
+- [39e4050](https://github.com/kubedb/mariadb-restic-plugin/commit/39e4050) Add Physical Base Backup Support (#31)
+- [5935501](https://github.com/kubedb/mariadb-restic-plugin/commit/5935501) Stop 'cmd-nsc' container after backup done (#54)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.52.0](https://github.com/kubedb/memcached/releases/tag/v0.52.0)

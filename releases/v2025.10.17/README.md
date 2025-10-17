@@ -53,6 +53,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.14.0](https://github.com/kubedb/ferretdb/releases/tag/v0.14.0)
+
+- [1569bbf0](https://github.com/kubedb/ferretdb/commit/1569bbf0) Prepare for release v0.14.0 (#87)
+- [8ca0a015](https://github.com/kubedb/ferretdb/commit/8ca0a015) Update secret type (#86)
+- [c543b719](https://github.com/kubedb/ferretdb/commit/c543b719) Test against k8s 1.34 (#85)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.7.0](https://github.com/kubedb/gitops/releases/tag/v0.7.0)

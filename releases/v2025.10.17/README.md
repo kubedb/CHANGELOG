@@ -67,6 +67,14 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.22.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.22.0)
+
+- [ab761664](https://github.com/kubedb/mongodb-restic-plugin/commit/ab761664) Prepare for release v0.22.0 (#92)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.20.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.20.0)

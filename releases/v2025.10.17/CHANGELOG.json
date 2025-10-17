@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T18:57:48.992280581Z",
+  "release_date": "2025-10-17T19:22:59.732882907Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -927,6 +927,20 @@
         {
           "tag": "v0.20.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.59.0",
+          "commits": [
+            {
+              "SHA": "dd40254d9",
+              "Subject": "Prepare for release v0.59.0 (#166)"
+            }
+          ]
         }
       ]
     },

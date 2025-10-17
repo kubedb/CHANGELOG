@@ -378,6 +378,13 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.46.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.46.0)
+
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.14.0](https://github.com/kubedb/pgpool/releases/tag/v0.14.0)

@@ -48,3 +48,11 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.22.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.22.0)
+
+- [722d80f](https://github.com/kubedb/redis-restic-plugin/commit/722d80f) Prepare for release v0.22.0 (#74)
+
+
+

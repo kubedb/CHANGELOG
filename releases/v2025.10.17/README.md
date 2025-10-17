@@ -126,6 +126,16 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.14.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.14.0)
+
+- [7ead4162](https://github.com/kubedb/mssqlserver/commit/7ead4162) Prepare for release v0.14.0 (#92)
+- [5a1110cd](https://github.com/kubedb/mssqlserver/commit/5a1110cd) Update secret type to TypedLocalObjectReference (#91)
+- [713b0075](https://github.com/kubedb/mssqlserver/commit/713b0075) Test against k8s 1.34 (#90)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.20.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.20.0)

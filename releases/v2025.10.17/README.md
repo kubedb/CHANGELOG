@@ -143,3 +143,13 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.14.0](https://github.com/kubedb/singlestore/releases/tag/v0.14.0)
+
+- [c2d2f697](https://github.com/kubedb/singlestore/commit/c2d2f697) Prepare for release v0.14.0 (#85)
+- [925a9e63](https://github.com/kubedb/singlestore/commit/925a9e63) Update secret type (#84)
+- [ddf3430c](https://github.com/kubedb/singlestore/commit/ddf3430c) Test against k8s 1.34 (#83)
+
+
+

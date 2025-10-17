@@ -54,6 +54,13 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.14.0](https://github.com/kubedb/crd-manager/releases/tag/v0.14.0)
+
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.14.0](https://github.com/kubedb/db-client-go/releases/tag/v0.14.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:41:45.718219347Z",
+  "release_date": "2025-10-17T16:42:17.948769892Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -423,6 +423,44 @@
             {
               "SHA": "ddf3430c",
               "Subject": "Test against k8s 1.34 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "47b8059c",
+              "Subject": "Prepare for release v0.44.0 (#486)"
+            },
+            {
+              "SHA": "9b0071e4",
+              "Subject": "MySQL Rotate Authentication (#485)"
+            },
+            {
+              "SHA": "0d4e3bcc",
+              "Subject": "Log Reduce for All Tests (#469)"
+            },
+            {
+              "SHA": "761dd390",
+              "Subject": "MySQL Restic Backup-Restore CI (#477)"
+            },
+            {
+              "SHA": "ed974836",
+              "Subject": "MSSQLServer Arbiter Node (#482)"
+            },
+            {
+              "SHA": "99b6a972",
+              "Subject": "Add MSSQL AutoScale (#470)"
+            },
+            {
+              "SHA": "9fb77603",
+              "Subject": "Test against k8s 1.34 (#479)"
             }
           ]
         }

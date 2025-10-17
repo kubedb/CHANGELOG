@@ -201,3 +201,17 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.44.0](https://github.com/kubedb/tests/releases/tag/v0.44.0)
+
+- [47b8059c](https://github.com/kubedb/tests/commit/47b8059c) Prepare for release v0.44.0 (#486)
+- [9b0071e4](https://github.com/kubedb/tests/commit/9b0071e4) MySQL Rotate Authentication (#485)
+- [0d4e3bcc](https://github.com/kubedb/tests/commit/0d4e3bcc) Log Reduce for All Tests (#469)
+- [761dd390](https://github.com/kubedb/tests/commit/761dd390) MySQL Restic Backup-Restore CI (#477)
+- [ed974836](https://github.com/kubedb/tests/commit/ed974836) MSSQLServer Arbiter Node (#482)
+- [99b6a972](https://github.com/kubedb/tests/commit/99b6a972) Add MSSQL AutoScale (#470)
+- [9fb77603](https://github.com/kubedb/tests/commit/9fb77603) Test against k8s 1.34 (#479)
+
+
+

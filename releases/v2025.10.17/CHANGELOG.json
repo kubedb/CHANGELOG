@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:45:41.40198995Z",
+  "release_date": "2025-10-17T16:45:49.071585492Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -101,6 +101,28 @@
             {
               "SHA": "1b87111e5",
               "Subject": "Prepare for release v0.59.0 (#803)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "b019bf16",
+              "Subject": "Prepare for release v0.14.0 (#70)"
+            },
+            {
+              "SHA": "387ee641",
+              "Subject": "Add user provided Init Script (#68)"
+            },
+            {
+              "SHA": "7f16fa47",
+              "Subject": "Add secret Annotation  (#66)"
             }
           ]
         }

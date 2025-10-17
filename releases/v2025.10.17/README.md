@@ -44,6 +44,16 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.14.0](https://github.com/kubedb/clickhouse/releases/tag/v0.14.0)
+
+- [b019bf16](https://github.com/kubedb/clickhouse/commit/b019bf16) Prepare for release v0.14.0 (#70)
+- [387ee641](https://github.com/kubedb/clickhouse/commit/387ee641) Add user provided Init Script (#68)
+- [7f16fa47](https://github.com/kubedb/clickhouse/commit/7f16fa47) Add secret Annotation  (#66)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.14.0](https://github.com/kubedb/db-client-go/releases/tag/v0.14.0)

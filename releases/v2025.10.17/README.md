@@ -27,6 +27,16 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.7.0](https://github.com/kubedb/gitops/releases/tag/v0.7.0)
+
+- [1c538254](https://github.com/kubedb/gitops/commit/1c538254) Prepare for release v0.7.0 (#27)
+- [f9026477](https://github.com/kubedb/gitops/commit/f9026477) Update SecretReference Api Change (#26)
+- [48ae7392](https://github.com/kubedb/gitops/commit/48ae7392) Test against k8s 1.34 (#25)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.30.0](https://github.com/kubedb/kafka/releases/tag/v0.30.0)

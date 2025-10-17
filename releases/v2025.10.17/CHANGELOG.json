@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:38:43.154553269Z",
+  "release_date": "2025-10-17T16:38:49.748100509Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -69,6 +69,28 @@
             {
               "SHA": "5a22d695",
               "Subject": "changes for es 9.1 version (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "1c538254",
+              "Subject": "Prepare for release v0.7.0 (#27)"
+            },
+            {
+              "SHA": "f9026477",
+              "Subject": "Update SecretReference Api Change (#26)"
+            },
+            {
+              "SHA": "48ae7392",
+              "Subject": "Test against k8s 1.34 (#25)"
             }
           ]
         }

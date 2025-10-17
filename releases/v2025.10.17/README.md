@@ -281,6 +281,17 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.14.0](https://github.com/kubedb/solr/releases/tag/v0.14.0)
+
+- [0aaa1ab7](https://github.com/kubedb/solr/commit/0aaa1ab7) Prepare for release v0.14.0 (#99)
+- [710306af](https://github.com/kubedb/solr/commit/710306af) Update secret type (#98)
+- [f6a1455d](https://github.com/kubedb/solr/commit/f6a1455d) Add shardconfig flag (#84)
+- [378308db](https://github.com/kubedb/solr/commit/378308db) Test against k8s 1.34 (#97)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.44.0](https://github.com/kubedb/tests/releases/tag/v0.44.0)

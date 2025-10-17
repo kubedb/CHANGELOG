@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T19:27:25.540894229Z",
+  "release_date": "2025-10-17T20:01:03.371305918Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -720,6 +720,36 @@
         {
           "tag": "v0.37.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "0780580ba",
+              "Subject": "Prepare for release v0.46.0 (#798)"
+            },
+            {
+              "SHA": "a15f34465",
+              "Subject": "Update ACL configuration For Redis API changes  (#796)"
+            },
+            {
+              "SHA": "12a09397e",
+              "Subject": "\"MariaDB Distributed\" Shift gRPC proto to Apimachinery (#793)"
+            },
+            {
+              "SHA": "f26ed3b33",
+              "Subject": "Add ClickHouse Recommendation (#795)"
+            },
+            {
+              "SHA": "1c0c8f73e",
+              "Subject": "Update for local obj reference (#797)"
+            }
+          ]
         }
       ]
     },

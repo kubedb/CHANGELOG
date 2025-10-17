@@ -352,6 +352,18 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.46.0](https://github.com/kubedb/ops-manager/releases/tag/v0.46.0)
+
+- [0780580b](https://github.com/kubedb/ops-manager/commit/0780580ba) Prepare for release v0.46.0 (#798)
+- [a15f3446](https://github.com/kubedb/ops-manager/commit/a15f34465) Update ACL configuration For Redis API changes  (#796)
+- [12a09397](https://github.com/kubedb/ops-manager/commit/12a09397e) "MariaDB Distributed" Shift gRPC proto to Apimachinery (#793)
+- [f26ed3b3](https://github.com/kubedb/ops-manager/commit/f26ed3b33) Add ClickHouse Recommendation (#795)
+- [1c0c8f73](https://github.com/kubedb/ops-manager/commit/1c0c8f73e) Update for local obj reference (#797)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.5.0](https://github.com/kubedb/oracle/releases/tag/v0.5.0)

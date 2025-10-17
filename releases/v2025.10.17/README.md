@@ -254,6 +254,15 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.14.0](https://github.com/kubedb/pgpool/releases/tag/v0.14.0)
+
+- [b7e64eec](https://github.com/kubedb/pgpool/commit/b7e64eec) Prepare for release v0.14.0 (#86)
+- [1426bc67](https://github.com/kubedb/pgpool/commit/1426bc67) Updated Secret Reference (#85)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.59.0](https://github.com/kubedb/postgres/releases/tag/v0.59.0)

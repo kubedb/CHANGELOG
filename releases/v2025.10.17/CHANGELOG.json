@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:44:38.203018086Z",
+  "release_date": "2025-10-17T16:44:46.000595416Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -528,6 +528,24 @@
         {
           "tag": "v0.43.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "b7e64eec",
+              "Subject": "Prepare for release v0.14.0 (#86)"
+            },
+            {
+              "SHA": "1426bc67",
+              "Subject": "Updated Secret Reference (#85)"
+            }
+          ]
         }
       ]
     },

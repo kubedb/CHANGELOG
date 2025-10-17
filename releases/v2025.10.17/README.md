@@ -48,6 +48,14 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.20.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.20.0)
+
+- [8e4b5556](https://github.com/kubedb/postgres-archiver/commit/8e4b5556) Prepare for release v0.20.0 (#68)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.22.0)

@@ -18,6 +18,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.44.0](https://github.com/kubedb/autoscaler/releases/tag/v0.44.0)
+
+- [2c20574d](https://github.com/kubedb/autoscaler/commit/2c20574d) Prepare for release v0.44.0 (#261)
+- [741ffd0c](https://github.com/kubedb/autoscaler/commit/741ffd0c) Add Distributed MariaDB Support (#259)
+- [205e745e](https://github.com/kubedb/autoscaler/commit/205e745e) Add ClickHouse (#260)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.12.0](https://github.com/kubedb/cassandra/releases/tag/v0.12.0)

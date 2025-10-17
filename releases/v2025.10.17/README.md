@@ -430,6 +430,13 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.20.0](https://github.com/kubedb/provider-azure/releases/tag/v0.20.0)
+
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.14.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.14.0)

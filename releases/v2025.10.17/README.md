@@ -185,6 +185,17 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.59.0](https://github.com/kubedb/postgres/releases/tag/v0.59.0)
+
+- [4a48d93d](https://github.com/kubedb/postgres/commit/4a48d93d2) Prepare for release v0.59.0 (#835)
+- [29f79005](https://github.com/kubedb/postgres/commit/29f790059) Change Postgre Write Check Code for Minimizing LSN Movement (#834)
+- [78218c9a](https://github.com/kubedb/postgres/commit/78218c9a0) Use LocalObjectRef as auth secret (#833)
+- [0592bc32](https://github.com/kubedb/postgres/commit/0592bc329) Test against k8s 1.34 (#832)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.20.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.20.0)

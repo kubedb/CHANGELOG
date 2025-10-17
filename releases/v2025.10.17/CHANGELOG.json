@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:42:45.32800152Z",
+  "release_date": "2025-10-17T16:43:12.522799562Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -395,6 +395,32 @@
             {
               "SHA": "ba94e68c5",
               "Subject": "Test against k8s 1.34 (#417)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.59.0",
+          "commits": [
+            {
+              "SHA": "4a48d93d2",
+              "Subject": "Prepare for release v0.59.0 (#835)"
+            },
+            {
+              "SHA": "29f790059",
+              "Subject": "Change Postgre Write Check Code for Minimizing LSN Movement (#834)"
+            },
+            {
+              "SHA": "78218c9a0",
+              "Subject": "Use LocalObjectRef as auth secret (#833)"
+            },
+            {
+              "SHA": "0592bc329",
+              "Subject": "Test against k8s 1.34 (#832)"
             }
           ]
         }

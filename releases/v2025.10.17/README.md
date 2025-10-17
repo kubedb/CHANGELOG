@@ -119,6 +119,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.43.0](https://github.com/kubedb/mariadb/releases/tag/v0.43.0)
+
+- [e829b572](https://github.com/kubedb/mariadb/commit/e829b5725) Prepare for release v0.43.0 (#352)
+- [56624f27](https://github.com/kubedb/mariadb/commit/56624f276) Add Physical Base Backup Support (#295)
+- [9d900340](https://github.com/kubedb/mariadb/commit/9d900340a) Add PodMetrics Get Perimission (#351)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.19.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.19.0)

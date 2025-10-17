@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:44:53.752219238Z",
+  "release_date": "2025-10-17T16:45:06.79751535Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -257,6 +257,28 @@
             {
               "SHA": "e52f395a",
               "Subject": "Prepare for release v0.10.0 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "e829b5725",
+              "Subject": "Prepare for release v0.43.0 (#352)"
+            },
+            {
+              "SHA": "56624f276",
+              "Subject": "Add Physical Base Backup Support (#295)"
+            },
+            {
+              "SHA": "9d900340a",
+              "Subject": "Add PodMetrics Get Perimission (#351)"
             }
           ]
         }

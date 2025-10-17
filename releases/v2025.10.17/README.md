@@ -18,3 +18,12 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.14.0](https://github.com/kubedb/db-client-go/releases/tag/v0.14.0)
+
+- [20801110](https://github.com/kubedb/db-client-go/commit/20801110) Prepare for release v0.14.0 (#196)
+- [5a22d695](https://github.com/kubedb/db-client-go/commit/5a22d695) changes for es 9.1 version (#195)
+
+
+

@@ -224,6 +224,17 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.13.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.13.0)
+
+- [638bf26](https://github.com/kubedb/mssqlserver-walg-plugin/commit/638bf26) Prepare for release v0.13.0 (#34)
+- [2342c2e](https://github.com/kubedb/mssqlserver-walg-plugin/commit/2342c2e) Make s3 path style to true for s3 compatible storage
+- [4c09999](https://github.com/kubedb/mssqlserver-walg-plugin/commit/4c09999) Add caCertPath to walg envs
+- [ab7ea53](https://github.com/kubedb/mssqlserver-walg-plugin/commit/ab7ea53) make s3 path style to true
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.20.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.20.0)

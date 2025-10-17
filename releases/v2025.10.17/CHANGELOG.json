@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:45:54.808478796Z",
+  "release_date": "2025-10-17T16:46:11.775902685Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -479,6 +479,32 @@
             {
               "SHA": "713b0075",
               "Subject": "Test against k8s 1.34 (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "638bf26",
+              "Subject": "Prepare for release v0.13.0 (#34)"
+            },
+            {
+              "SHA": "2342c2e",
+              "Subject": "Make s3 path style to true for s3 compatible storage"
+            },
+            {
+              "SHA": "4c09999",
+              "Subject": "Add caCertPath to walg envs"
+            },
+            {
+              "SHA": "ab7ea53",
+              "Subject": "make s3 path style to true"
             }
           ]
         }

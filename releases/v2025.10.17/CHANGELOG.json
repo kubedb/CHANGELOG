@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T20:29:19.783998449Z",
+  "release_date": "2025-10-17T20:37:14.271344141Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -1243,6 +1243,15 @@
               "Subject": "Prepare for release v0.35.0 (#173)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": null
         }
       ]
     },

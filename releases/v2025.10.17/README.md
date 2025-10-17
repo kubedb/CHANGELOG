@@ -35,6 +35,16 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.14.0](https://github.com/kubedb/druid/releases/tag/v0.14.0)
+
+- [19e02546](https://github.com/kubedb/druid/commit/19e02546) Prepare for release v0.14.0 (#101)
+- [0a72e448](https://github.com/kubedb/druid/commit/0a72e448) Use LocalObjectRef as auth secret (#100)
+- [3aeb1e7b](https://github.com/kubedb/druid/commit/3aeb1e7b) Test against k8s 1.34 (#99)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.7.0](https://github.com/kubedb/gitops/releases/tag/v0.7.0)

@@ -73,9 +73,6 @@
       "github.com/kubedb/mariadb-coordinator": {
         "tag": "v0.39.0"
       },
-      "github.com/kubedb/mariadb-csi-snapshotter-plugin": {
-        "tag": "v0.19.0"
-      },
       "github.com/kubedb/mariadb-restic-plugin": {
         "tag": "v0.17.0"
       },
@@ -207,6 +204,9 @@
         "chartNames": [
           "kubedb-dashboard"
         ]
+      },
+      "github.com/kubedb/mariadb-csi-snapshotter-plugin": {
+        "tag": "v0.19.0"
       },
       "github.com/kubedb/pgbouncer": {
         "tag": "v0.46.0",

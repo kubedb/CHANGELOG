@@ -48,6 +48,14 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.20.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.20.0)
+
+- [cba87352](https://github.com/kubedb/mysql-archiver/commit/cba87352) Prepare for release v0.20.0 (#67)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.20.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.20.0)

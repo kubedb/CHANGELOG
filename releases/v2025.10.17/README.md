@@ -83,6 +83,14 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.14.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.14.0)
+
+- [105a2fc5](https://github.com/kubedb/mssql-coordinator/commit/105a2fc5) Prepare for release v0.14.0 (#44)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.20.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.20.0)

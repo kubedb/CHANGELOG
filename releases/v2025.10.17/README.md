@@ -116,6 +116,16 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.5.0](https://github.com/kubedb/hazelcast/releases/tag/v0.5.0)
+
+- [3be5850b](https://github.com/kubedb/hazelcast/commit/3be5850b) Prepare for release v0.5.0 (#15)
+- [b9e90272](https://github.com/kubedb/hazelcast/commit/b9e90272) enterprise rest enable (#14)
+- [e82548c1](https://github.com/kubedb/hazelcast/commit/e82548c1) Test against k8s 1.34 (#13)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.6.0](https://github.com/kubedb/ignite/releases/tag/v0.6.0)

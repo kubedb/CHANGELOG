@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:38:08.523552778Z",
+  "release_date": "2025-10-17T16:38:21.819362585Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -91,6 +91,32 @@
             {
               "SHA": "13b29001",
               "Subject": "Test against k8s 1.34 (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "fd7ae3016",
+              "Subject": "Prepare for release v0.52.0 (#511)"
+            },
+            {
+              "SHA": "5089ddb58",
+              "Subject": "Ensure auth secret before petset and fix health check condition update (#507)"
+            },
+            {
+              "SHA": "69ffb5502",
+              "Subject": "Update secret type to TypedLocalObjectReference (#510)"
+            },
+            {
+              "SHA": "b1b9752ce",
+              "Subject": "Test against k8s 1.34 (#509)"
             }
           ]
         }

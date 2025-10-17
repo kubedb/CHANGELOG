@@ -37,3 +37,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.52.0](https://github.com/kubedb/memcached/releases/tag/v0.52.0)
+
+- [fd7ae301](https://github.com/kubedb/memcached/commit/fd7ae3016) Prepare for release v0.52.0 (#511)
+- [5089ddb5](https://github.com/kubedb/memcached/commit/5089ddb58) Ensure auth secret before petset and fix health check condition update (#507)
+- [69ffb550](https://github.com/kubedb/memcached/commit/69ffb5502) Update secret type to TypedLocalObjectReference (#510)
+- [b1b9752c](https://github.com/kubedb/memcached/commit/b1b9752ce) Test against k8s 1.34 (#509)
+
+
+

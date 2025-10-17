@@ -101,6 +101,15 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.20.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.20.0)
+
+- [7370838b](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/7370838b) Prepare for release v0.20.0 (#59)
+- [4bf89909](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/4bf89909) Remove VSAPI dependency (#58)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.22.0)

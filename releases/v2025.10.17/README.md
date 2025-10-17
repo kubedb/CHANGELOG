@@ -107,6 +107,16 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.14.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.14.0)
+
+- [9ca998d9](https://github.com/kubedb/rabbitmq/commit/9ca998d9) Prepare for release v0.14.0 (#99)
+- [35f07ead](https://github.com/kubedb/rabbitmq/commit/35f07ead) update secret type to TypedLocalObjectReference (#98)
+- [3ce6a4f1](https://github.com/kubedb/rabbitmq/commit/3ce6a4f1) Test against k8s 1.34 (#97)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.22.0)

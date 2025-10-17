@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:40:19.57044255Z",
+  "release_date": "2025-10-17T16:40:28.960778197Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -227,6 +227,28 @@
             {
               "SHA": "8e4b5556",
               "Subject": "Prepare for release v0.20.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "9ca998d9",
+              "Subject": "Prepare for release v0.14.0 (#99)"
+            },
+            {
+              "SHA": "35f07ead",
+              "Subject": "update secret type to TypedLocalObjectReference (#98)"
+            },
+            {
+              "SHA": "3ce6a4f1",
+              "Subject": "Test against k8s 1.34 (#97)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:44:46.000595416Z",
+  "release_date": "2025-10-17T16:44:53.752219238Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -720,6 +720,28 @@
             {
               "SHA": "9fb77603",
               "Subject": "Test against k8s 1.34 (#479)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "438119f0",
+              "Subject": "Prepare for release v0.14.0 (#89)"
+            },
+            {
+              "SHA": "4a404486",
+              "Subject": "Update secret type to TypedLocalObjectReference (#88)"
+            },
+            {
+              "SHA": "5bbfc66f",
+              "Subject": "Test against k8s 1.34 (#87)"
             }
           ]
         }

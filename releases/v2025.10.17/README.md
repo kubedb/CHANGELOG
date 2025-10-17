@@ -343,3 +343,13 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.14.0](https://github.com/kubedb/zookeeper/releases/tag/v0.14.0)
+
+- [438119f0](https://github.com/kubedb/zookeeper/commit/438119f0) Prepare for release v0.14.0 (#89)
+- [4a404486](https://github.com/kubedb/zookeeper/commit/4a404486) Update secret type to TypedLocalObjectReference (#88)
+- [5bbfc66f](https://github.com/kubedb/zookeeper/commit/5bbfc66f) Test against k8s 1.34 (#87)
+
+
+

@@ -468,6 +468,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.46.0](https://github.com/kubedb/proxysql/releases/tag/v0.46.0)
+
+- [d5bcb8b0](https://github.com/kubedb/proxysql/commit/d5bcb8b0c) Prepare for release v0.46.0 (#405)
+- [b38a92ad](https://github.com/kubedb/proxysql/commit/b38a92ad3) Update secret type to TypedLocalObjectReference (#404)
+- [1d76e745](https://github.com/kubedb/proxysql/commit/1d76e745d) Test against k8s 1.34 (#403)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.14.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.14.0)

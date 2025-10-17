@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T18:42:43.756891833Z",
+  "release_date": "2025-10-17T18:49:05.376798252Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -927,6 +927,28 @@
         {
           "tag": "v0.20.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "d5bcb8b0c",
+              "Subject": "Prepare for release v0.46.0 (#405)"
+            },
+            {
+              "SHA": "b38a92ad3",
+              "Subject": "Update secret type to TypedLocalObjectReference (#404)"
+            },
+            {
+              "SHA": "1d76e745d",
+              "Subject": "Test against k8s 1.34 (#403)"
+            }
+          ]
         }
       ]
     },

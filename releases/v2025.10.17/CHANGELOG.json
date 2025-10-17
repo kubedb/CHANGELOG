@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:45:36.417839968Z",
+  "release_date": "2025-10-17T16:45:41.40198995Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -485,6 +485,24 @@
             {
               "SHA": "83a2eb80",
               "Subject": "Prepare for release v0.37.0 (#151)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "5afd0844",
+              "Subject": "Prepare for release v0.20.0 (#55)"
+            },
+            {
+              "SHA": "c9e1be64",
+              "Subject": "Fix VolumeSnapshot Kind not Found (#54)"
             }
           ]
         }

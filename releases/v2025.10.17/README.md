@@ -230,6 +230,15 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.20.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.20.0)
+
+- [5afd0844](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/5afd0844) Prepare for release v0.20.0 (#55)
+- [c9e1be64](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/c9e1be64) Fix VolumeSnapshot Kind not Found (#54)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.22.0)

@@ -47,6 +47,15 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.19.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.19.0)
+
+- [2102109a](https://github.com/kubedb/mariadb-archiver/commit/2102109a) Prepare for release v0.19.0 (#59)
+- [dd809009](https://github.com/kubedb/mariadb-archiver/commit/dd809009) Add Physical Base Backup Support (#32)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.52.0](https://github.com/kubedb/memcached/releases/tag/v0.52.0)

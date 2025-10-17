@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:44:23.36633917Z",
+  "release_date": "2025-10-17T16:44:38.203018086Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -185,6 +185,28 @@
             {
               "SHA": "48ae7392",
               "Subject": "Test against k8s 1.34 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "3d0e22bf",
+              "Subject": "Prepare for release v0.6.0 (#23)"
+            },
+            {
+              "SHA": "57319cfb",
+              "Subject": "Update secret type to TypedLocalObjectReference (#22)"
+            },
+            {
+              "SHA": "e7447f1c",
+              "Subject": "Test against k8s 1.34 (#21)"
             }
           ]
         }

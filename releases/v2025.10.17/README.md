@@ -349,6 +349,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.52.0](https://github.com/kubedb/redis/releases/tag/v0.52.0)
+
+- [317956d4](https://github.com/kubedb/redis/commit/317956d4a) Prepare for release v0.52.0 (#608)
+- [04abe883](https://github.com/kubedb/redis/commit/04abe8832) Add new secret ref And Revise ACL (#607)
+- [f60be213](https://github.com/kubedb/redis/commit/f60be2137) Add Configure Auth and Change Secret Reference (#606)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.38.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.38.0)

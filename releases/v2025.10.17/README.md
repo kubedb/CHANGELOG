@@ -193,6 +193,13 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.43.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.43.0)
+
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.59.0](https://github.com/kubedb/postgres/releases/tag/v0.59.0)

@@ -208,6 +208,15 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.19.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.19.0)
+
+- [db46623b](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/db46623b) Prepare for release v0.19.0 (#55)
+- [66f0373e](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/66f0373e) Fix VolumeSnapshot Kind not Found Issue (#54)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.17.0)

@@ -392,6 +392,15 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.20.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.20.0)
+
+- [165fcc3b](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/165fcc3b) Prepare for release v0.20.0 (#65)
+- [a72b28ad](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/a72b28ad) Fix VolumeSnapshot Kind not Found Issue (#64)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.22.0)

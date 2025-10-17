@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:42:17.948769892Z",
+  "release_date": "2025-10-17T16:42:29.999290265Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -351,6 +351,28 @@
             {
               "SHA": "b4c5a88b",
               "Subject": "Test against k8s 1.34 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "acf28f1ef",
+              "Subject": "Prepare for release v0.46.0 (#419)"
+            },
+            {
+              "SHA": "b4029c1cb",
+              "Subject": "Update Secret type to TypedLocalObjectReference (#418)"
+            },
+            {
+              "SHA": "ba94e68c5",
+              "Subject": "Test against k8s 1.34 (#417)"
             }
           ]
         }

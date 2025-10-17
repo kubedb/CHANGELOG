@@ -165,6 +165,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.46.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.46.0)
+
+- [acf28f1e](https://github.com/kubedb/percona-xtradb/commit/acf28f1ef) Prepare for release v0.46.0 (#419)
+- [b4029c1c](https://github.com/kubedb/percona-xtradb/commit/b4029c1cb) Update Secret type to TypedLocalObjectReference (#418)
+- [ba94e68c](https://github.com/kubedb/percona-xtradb/commit/ba94e68c5) Test against k8s 1.34 (#417)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.20.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.20.0)

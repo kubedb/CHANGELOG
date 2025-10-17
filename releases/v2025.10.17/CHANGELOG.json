@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:48:31.064002088Z",
+  "release_date": "2025-10-17T16:48:33.725644182Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -873,6 +873,15 @@
     },
     {
       "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
       "releases": [
         {
           "tag": "v0.20.0",

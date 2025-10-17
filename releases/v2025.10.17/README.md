@@ -173,6 +173,14 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.22.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.22.0)
+
+- [200d560](https://github.com/kubedb/mysql-restic-plugin/commit/200d560) Prepare for release v0.22.0 (#82)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.5.0](https://github.com/kubedb/oracle/releases/tag/v0.5.0)

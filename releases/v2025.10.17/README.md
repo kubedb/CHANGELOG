@@ -27,3 +27,13 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.30.0](https://github.com/kubedb/kafka/releases/tag/v0.30.0)
+
+- [19c34d52](https://github.com/kubedb/kafka/commit/19c34d52) Prepare for release v0.30.0 (#164)
+- [33d2eaff](https://github.com/kubedb/kafka/commit/33d2eaff) Add kafka rack (#163)
+- [13b29001](https://github.com/kubedb/kafka/commit/13b29001) Test against k8s 1.34 (#162)
+
+
+

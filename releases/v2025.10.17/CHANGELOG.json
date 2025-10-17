@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:47:04.444363839Z",
+  "release_date": "2025-10-17T16:47:10.752225155Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -134,6 +134,20 @@
         {
           "tag": "v0.14.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "9c938da",
+              "Subject": "Prepare for release v0.17.0 (#47)"
+            }
+          ]
         }
       ]
     },

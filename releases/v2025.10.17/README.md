@@ -156,6 +156,14 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.35.0](https://github.com/kubedb/kibana/releases/tag/v0.35.0)
+
+- [8fd82617](https://github.com/kubedb/kibana/commit/8fd82617) Prepare for release v0.35.0 (#159)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.22.0)

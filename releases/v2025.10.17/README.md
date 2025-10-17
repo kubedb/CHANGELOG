@@ -88,6 +88,16 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.59.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.59.0)
+
+- [bf4e772f](https://github.com/kubedb/elasticsearch/commit/bf4e772ff) Prepare for release v0.59.0 (#777)
+- [58b6388f](https://github.com/kubedb/elasticsearch/commit/58b6388fb) update secret type to TypedLocalObjectReference (#776)
+- [5a5e54f3](https://github.com/kubedb/elasticsearch/commit/5a5e54f30) Test against k8s 1.34 (#775)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.22.0)

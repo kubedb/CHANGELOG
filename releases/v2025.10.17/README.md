@@ -242,6 +242,16 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.52.0](https://github.com/kubedb/mysql/releases/tag/v0.52.0)
+
+- [9e17f785](https://github.com/kubedb/mysql/commit/9e17f7857) Prepare for release v0.52.0 (#702)
+- [1873a00c](https://github.com/kubedb/mysql/commit/1873a00c5) Update secret type to TypedLocalObjectReference (#701)
+- [34c78926](https://github.com/kubedb/mysql/commit/34c789267) Test against k8s 1.34 (#700)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.20.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.20.0)

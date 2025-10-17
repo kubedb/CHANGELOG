@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-17T16:45:14.100262896Z",
+  "release_date": "2025-10-17T16:45:20.826916463Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -297,6 +297,24 @@
             {
               "SHA": "dd809009",
               "Subject": "Add Physical Base Backup Support (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "c76ee61d",
+              "Subject": "Prepare for release v0.39.0 (#152)"
+            },
+            {
+              "SHA": "42cb515a",
+              "Subject": "Add Get PodMetrics to gRPC API (#151)"
             }
           ]
         }

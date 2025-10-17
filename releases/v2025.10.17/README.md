@@ -138,6 +138,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.39.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.39.0)
+
+- [c76ee61d](https://github.com/kubedb/mariadb-coordinator/commit/c76ee61d) Prepare for release v0.39.0 (#152)
+- [42cb515a](https://github.com/kubedb/mariadb-coordinator/commit/42cb515a) Add Get PodMetrics to gRPC API (#151)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.17.0)

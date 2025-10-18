@@ -1,4 +1,4 @@
-# KubeDB v2025.10.17 (2025-10-17)
+# KubeDB v2025.10.17 (2025-10-18)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -153,6 +153,13 @@
 - [3d0e22bf](https://github.com/kubedb/ignite/commit/3d0e22bf) Prepare for release v0.6.0 (#23)
 - [57319cfb](https://github.com/kubedb/ignite/commit/57319cfb) Update secret type to TypedLocalObjectReference (#22)
 - [e7447f1c](https://github.com/kubedb/ignite/commit/e7447f1c) Test against k8s 1.34 (#21)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2025.10.17](https://github.com/kubedb/installer/releases/tag/v2025.10.17)
+
 
 
 

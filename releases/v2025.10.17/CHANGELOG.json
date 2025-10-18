@@ -1,0 +1,1340 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.10.17",
+  "release_date": "2025-10-18T17:54:03.272020497Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.10.17",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.59.0",
+          "commits": [
+            {
+              "SHA": "414bc2151",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "e7a179ae9",
+              "Subject": "Cleaned up grpc extra code"
+            },
+            {
+              "SHA": "6cc4af815",
+              "Subject": "Revise redis acl spec (#1523)"
+            },
+            {
+              "SHA": "fbdf8aa72",
+              "Subject": "Add Monitoring In ClickHouse SetDefaults (#1525)"
+            },
+            {
+              "SHA": "c0a1dfe58",
+              "Subject": "Add Distributed MariaDB gRPC Utils (#1512)"
+            },
+            {
+              "SHA": "b98924596",
+              "Subject": "Add ClickHouse SetTLSDefaults (#1520)"
+            },
+            {
+              "SHA": "c072d874e",
+              "Subject": "Add Kafka Broker Rack API (#1514)"
+            },
+            {
+              "SHA": "14c6e6b7f",
+              "Subject": "Defaulting for authSecret field (#1521)"
+            },
+            {
+              "SHA": "289a5cb76",
+              "Subject": "Add Redis Configure Auth (#1518)"
+            },
+            {
+              "SHA": "02c435b58",
+              "Subject": "Use LocalObjectRef as auth secret (#1519)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "2c20574d",
+              "Subject": "Prepare for release v0.44.0 (#261)"
+            },
+            {
+              "SHA": "741ffd0c",
+              "Subject": "Add Distributed MariaDB Support (#259)"
+            },
+            {
+              "SHA": "205e745e",
+              "Subject": "Add ClickHouse (#260)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "d26b8805",
+              "Subject": "Prepare for release v0.12.0 (#50)"
+            },
+            {
+              "SHA": "f5aa7b01",
+              "Subject": "Update secret type (#49)"
+            },
+            {
+              "SHA": "ba08206c",
+              "Subject": "Test against k8s 1.34 (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "481a899",
+              "Subject": "Prepare for release v0.6.0 (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.59.0",
+          "commits": [
+            {
+              "SHA": "1b87111e5",
+              "Subject": "Prepare for release v0.59.0 (#803)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "b019bf16",
+              "Subject": "Prepare for release v0.14.0 (#70)"
+            },
+            {
+              "SHA": "387ee641",
+              "Subject": "Add user provided Init Script (#68)"
+            },
+            {
+              "SHA": "7f16fa47",
+              "Subject": "Add secret Annotation  (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "9c938da",
+              "Subject": "Prepare for release v0.17.0 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "20801110",
+              "Subject": "Prepare for release v0.14.0 (#196)"
+            },
+            {
+              "SHA": "5a22d695",
+              "Subject": "changes for es 9.1 version (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "7e3d36de",
+              "Subject": "Prepare for release v2025.10.17 (#824)"
+            },
+            {
+              "SHA": "a1bc0079",
+              "Subject": "Fix ServiceTemplate docs for MariaDB (#820)"
+            },
+            {
+              "SHA": "5d105236",
+              "Subject": "Set kind for auth secret (#817)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "19e02546",
+              "Subject": "Prepare for release v0.14.0 (#101)"
+            },
+            {
+              "SHA": "0a72e448",
+              "Subject": "Use LocalObjectRef as auth secret (#100)"
+            },
+            {
+              "SHA": "3aeb1e7b",
+              "Subject": "Test against k8s 1.34 (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.59.0",
+          "commits": [
+            {
+              "SHA": "bf4e772ff",
+              "Subject": "Prepare for release v0.59.0 (#777)"
+            },
+            {
+              "SHA": "58b6388fb",
+              "Subject": "update secret type to TypedLocalObjectReference (#776)"
+            },
+            {
+              "SHA": "5a5e54f30",
+              "Subject": "Test against k8s 1.34 (#775)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "8eb741d5",
+              "Subject": "Prepare for release v0.22.0 (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "1569bbf0",
+              "Subject": "Prepare for release v0.14.0 (#87)"
+            },
+            {
+              "SHA": "8ca0a015",
+              "Subject": "Update secret type (#86)"
+            },
+            {
+              "SHA": "c543b719",
+              "Subject": "Test against k8s 1.34 (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "1c538254",
+              "Subject": "Prepare for release v0.7.0 (#27)"
+            },
+            {
+              "SHA": "f9026477",
+              "Subject": "Update SecretReference Api Change (#26)"
+            },
+            {
+              "SHA": "48ae7392",
+              "Subject": "Test against k8s 1.34 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "3be5850b",
+              "Subject": "Prepare for release v0.5.0 (#15)"
+            },
+            {
+              "SHA": "b9e90272",
+              "Subject": "enterprise rest enable (#14)"
+            },
+            {
+              "SHA": "e82548c1",
+              "Subject": "Test against k8s 1.34 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "3d0e22bf",
+              "Subject": "Prepare for release v0.6.0 (#23)"
+            },
+            {
+              "SHA": "57319cfb",
+              "Subject": "Update secret type to TypedLocalObjectReference (#22)"
+            },
+            {
+              "SHA": "e7447f1c",
+              "Subject": "Test against k8s 1.34 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "19c34d52",
+              "Subject": "Prepare for release v0.30.0 (#164)"
+            },
+            {
+              "SHA": "33d2eaff",
+              "Subject": "Add kafka rack (#163)"
+            },
+            {
+              "SHA": "13b29001",
+              "Subject": "Test against k8s 1.34 (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "8fd82617",
+              "Subject": "Prepare for release v0.35.0 (#159)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "d0f73542",
+              "Subject": "Prepare for release v0.22.0 (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "e52f395a",
+              "Subject": "Prepare for release v0.10.0 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "e829b5725",
+              "Subject": "Prepare for release v0.43.0 (#352)"
+            },
+            {
+              "SHA": "56624f276",
+              "Subject": "Add Physical Base Backup Support (#295)"
+            },
+            {
+              "SHA": "9d900340a",
+              "Subject": "Add PodMetrics Get Perimission (#351)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "2102109a",
+              "Subject": "Prepare for release v0.19.0 (#59)"
+            },
+            {
+              "SHA": "dd809009",
+              "Subject": "Add Physical Base Backup Support (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "c76ee61d",
+              "Subject": "Prepare for release v0.39.0 (#152)"
+            },
+            {
+              "SHA": "42cb515a",
+              "Subject": "Add Get PodMetrics to gRPC API (#151)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "db46623b",
+              "Subject": "Prepare for release v0.19.0 (#55)"
+            },
+            {
+              "SHA": "66f0373e",
+              "Subject": "Fix VolumeSnapshot Kind not Found Issue (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "d906ca7",
+              "Subject": "Prepare for release v0.17.0 (#55)"
+            },
+            {
+              "SHA": "39e4050",
+              "Subject": "Add Physical Base Backup Support (#31)"
+            },
+            {
+              "SHA": "5935501",
+              "Subject": "Stop 'cmd-nsc' container after backup done (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "fd7ae3016",
+              "Subject": "Prepare for release v0.52.0 (#511)"
+            },
+            {
+              "SHA": "5089ddb58",
+              "Subject": "Ensure auth secret before petset and fix health check condition update (#507)"
+            },
+            {
+              "SHA": "69ffb5502",
+              "Subject": "Update secret type to TypedLocalObjectReference (#510)"
+            },
+            {
+              "SHA": "b1b9752ce",
+              "Subject": "Test against k8s 1.34 (#509)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "2022597d4",
+              "Subject": "Prepare for release v0.52.0 (#720)"
+            },
+            {
+              "SHA": "1cfa8ff49",
+              "Subject": "Remove VSAPI dependency; import from kubestash (#719)"
+            },
+            {
+              "SHA": "942dee488",
+              "Subject": "Update for local obj reference (#718)"
+            },
+            {
+              "SHA": "c47ba6138",
+              "Subject": "Test against k8s 1.34 (#717)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "7370838b",
+              "Subject": "Prepare for release v0.20.0 (#59)"
+            },
+            {
+              "SHA": "4bf89909",
+              "Subject": "Remove VSAPI dependency (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "ab761664",
+              "Subject": "Prepare for release v0.22.0 (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "105a2fc5",
+              "Subject": "Prepare for release v0.14.0 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "7ead4162",
+              "Subject": "Prepare for release v0.14.0 (#92)"
+            },
+            {
+              "SHA": "5a1110cd",
+              "Subject": "Update secret type to TypedLocalObjectReference (#91)"
+            },
+            {
+              "SHA": "713b0075",
+              "Subject": "Test against k8s 1.34 (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "638bf26",
+              "Subject": "Prepare for release v0.13.0 (#34)"
+            },
+            {
+              "SHA": "2342c2e",
+              "Subject": "Make s3 path style to true for s3 compatible storage"
+            },
+            {
+              "SHA": "4c09999",
+              "Subject": "Add caCertPath to walg envs"
+            },
+            {
+              "SHA": "ab7ea53",
+              "Subject": "make s3 path style to true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "9e17f7857",
+              "Subject": "Prepare for release v0.52.0 (#702)"
+            },
+            {
+              "SHA": "1873a00c5",
+              "Subject": "Update secret type to TypedLocalObjectReference (#701)"
+            },
+            {
+              "SHA": "34c789267",
+              "Subject": "Test against k8s 1.34 (#700)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "cba87352",
+              "Subject": "Prepare for release v0.20.0 (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "83a2eb80",
+              "Subject": "Prepare for release v0.37.0 (#151)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "5afd0844",
+              "Subject": "Prepare for release v0.20.0 (#55)"
+            },
+            {
+              "SHA": "c9e1be64",
+              "Subject": "Fix VolumeSnapshot Kind not Found (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "200d560",
+              "Subject": "Prepare for release v0.22.0 (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "0780580ba",
+              "Subject": "Prepare for release v0.46.0 (#798)"
+            },
+            {
+              "SHA": "a15f34465",
+              "Subject": "Update ACL configuration For Redis API changes  (#796)"
+            },
+            {
+              "SHA": "12a09397e",
+              "Subject": "\"MariaDB Distributed\" Shift gRPC proto to Apimachinery (#793)"
+            },
+            {
+              "SHA": "f26ed3b33",
+              "Subject": "Add ClickHouse Recommendation (#795)"
+            },
+            {
+              "SHA": "1c0c8f73e",
+              "Subject": "Update for local obj reference (#797)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "cc7cfbae",
+              "Subject": "Prepare for release v0.5.0 (#15)"
+            },
+            {
+              "SHA": "1557f281",
+              "Subject": "Update Secret Type (#14)"
+            },
+            {
+              "SHA": "b4c5a88b",
+              "Subject": "Test against k8s 1.34 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "ce4557a",
+              "Subject": "Prepare for release v0.5.0 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "acf28f1ef",
+              "Subject": "Prepare for release v0.46.0 (#419)"
+            },
+            {
+              "SHA": "b4029c1cb",
+              "Subject": "Update Secret type to TypedLocalObjectReference (#418)"
+            },
+            {
+              "SHA": "ba94e68c5",
+              "Subject": "Test against k8s 1.34 (#417)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "b76e45a2",
+              "Subject": "Prepare for release v0.32.0 (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "b7e64eec",
+              "Subject": "Prepare for release v0.14.0 (#86)"
+            },
+            {
+              "SHA": "1426bc67",
+              "Subject": "Updated Secret Reference (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.59.0",
+          "commits": [
+            {
+              "SHA": "4a48d93d2",
+              "Subject": "Prepare for release v0.59.0 (#835)"
+            },
+            {
+              "SHA": "29f790059",
+              "Subject": "Change Postgre Write Check Code for Minimizing LSN Movement (#834)"
+            },
+            {
+              "SHA": "78218c9a0",
+              "Subject": "Use LocalObjectRef as auth secret (#833)"
+            },
+            {
+              "SHA": "0592bc329",
+              "Subject": "Test against k8s 1.34 (#832)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "8e4b5556",
+              "Subject": "Prepare for release v0.20.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "165fcc3b",
+              "Subject": "Prepare for release v0.20.0 (#65)"
+            },
+            {
+              "SHA": "a72b28ad",
+              "Subject": "Fix VolumeSnapshot Kind not Found Issue (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "04c0e84",
+              "Subject": "Prepare for release v0.22.0 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.59.0",
+          "commits": [
+            {
+              "SHA": "dd40254d9",
+              "Subject": "Prepare for release v0.59.0 (#166)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "d5bcb8b0c",
+              "Subject": "Prepare for release v0.46.0 (#405)"
+            },
+            {
+              "SHA": "b38a92ad3",
+              "Subject": "Update secret type to TypedLocalObjectReference (#404)"
+            },
+            {
+              "SHA": "1d76e745d",
+              "Subject": "Test against k8s 1.34 (#403)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "9ca998d9",
+              "Subject": "Prepare for release v0.14.0 (#99)"
+            },
+            {
+              "SHA": "35f07ead",
+              "Subject": "update secret type to TypedLocalObjectReference (#98)"
+            },
+            {
+              "SHA": "3ce6a4f1",
+              "Subject": "Test against k8s 1.34 (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "317956d4a",
+              "Subject": "Prepare for release v0.52.0 (#608)"
+            },
+            {
+              "SHA": "04abe8832",
+              "Subject": "Add new secret ref And Revise ACL (#607)"
+            },
+            {
+              "SHA": "f60be2137",
+              "Subject": "Add Configure Auth and Change Secret Reference (#606)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "bae104c0",
+              "Subject": "Prepare for release v0.38.0 (#135)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "722d80f",
+              "Subject": "Prepare for release v0.22.0 (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "d23f1424",
+              "Subject": "Prepare for release v0.46.0 (#299)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "06227ca4",
+              "Subject": "Prepare for release v0.35.0 (#146)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "c2d2f697",
+              "Subject": "Prepare for release v0.14.0 (#85)"
+            },
+            {
+              "SHA": "925a9e63",
+              "Subject": "Update secret type (#84)"
+            },
+            {
+              "SHA": "ddf3430c",
+              "Subject": "Test against k8s 1.34 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "4138aa1",
+              "Subject": "Prepare for release v0.14.0 (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "117395a",
+              "Subject": "Prepare for release v0.17.0 (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "0aaa1ab7",
+              "Subject": "Prepare for release v0.14.0 (#99)"
+            },
+            {
+              "SHA": "710306af",
+              "Subject": "Update secret type (#98)"
+            },
+            {
+              "SHA": "f6a1455d",
+              "Subject": "Add shardconfig flag (#84)"
+            },
+            {
+              "SHA": "378308db",
+              "Subject": "Test against k8s 1.34 (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "47b8059c",
+              "Subject": "Prepare for release v0.44.0 (#486)"
+            },
+            {
+              "SHA": "9b0071e4",
+              "Subject": "MySQL Rotate Authentication (#485)"
+            },
+            {
+              "SHA": "0d4e3bcc",
+              "Subject": "Log Reduce for All Tests (#469)"
+            },
+            {
+              "SHA": "761dd390",
+              "Subject": "MySQL Restic Backup-Restore CI (#477)"
+            },
+            {
+              "SHA": "ed974836",
+              "Subject": "MSSQLServer Arbiter Node (#482)"
+            },
+            {
+              "SHA": "99b6a972",
+              "Subject": "Add MSSQL AutoScale (#470)"
+            },
+            {
+              "SHA": "9fb77603",
+              "Subject": "Test against k8s 1.34 (#479)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "8ca638a2",
+              "Subject": "Prepare for release v0.35.0 (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "4da8a68",
+              "Subject": "Prepare for release v0.8.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "438119f0",
+              "Subject": "Prepare for release v0.14.0 (#89)"
+            },
+            {
+              "SHA": "4a404486",
+              "Subject": "Update secret type to TypedLocalObjectReference (#88)"
+            },
+            {
+              "SHA": "5bbfc66f",
+              "Subject": "Test against k8s 1.34 (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "780e5b4",
+              "Subject": "Prepare for release v0.15.0 (#43)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

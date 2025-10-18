@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.10.17",
-  "release_date": "2025-10-18T17:29:06.443163364Z",
+  "release_date": "2025-10-18T17:54:03.272020497Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.10.17",
   "kubernetes_version": "1.26+",
@@ -186,6 +186,28 @@
             {
               "SHA": "5a22d695",
               "Subject": "changes for es 9.1 version (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "7e3d36de",
+              "Subject": "Prepare for release v2025.10.17 (#824)"
+            },
+            {
+              "SHA": "a1bc0079",
+              "Subject": "Fix ServiceTemplate docs for MariaDB (#820)"
+            },
+            {
+              "SHA": "5d105236",
+              "Subject": "Set kind for auth secret (#817)"
             }
           ]
         }

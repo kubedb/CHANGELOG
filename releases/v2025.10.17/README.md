@@ -88,6 +88,16 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.10.17](https://github.com/kubedb/docs/releases/tag/v2025.10.17)
+
+- [7e3d36de](https://github.com/kubedb/docs/commit/7e3d36de) Prepare for release v2025.10.17 (#824)
+- [a1bc0079](https://github.com/kubedb/docs/commit/a1bc0079) Fix ServiceTemplate docs for MariaDB (#820)
+- [5d105236](https://github.com/kubedb/docs/commit/5d105236) Set kind for auth secret (#817)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.14.0](https://github.com/kubedb/druid/releases/tag/v0.14.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:13:41.399979019Z",
+  "release_date": "2025-12-09T13:13:49.764862567Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -373,6 +373,28 @@
             {
               "SHA": "1de4f8105",
               "Subject": "move ops code to db repo (#778)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "da511bd8",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#75)"
+            },
+            {
+              "SHA": "f8bc69f1",
+              "Subject": "change to 1.25 (#74)"
+            },
+            {
+              "SHA": "e5a1b21d",
+              "Subject": "update-deps (#73)"
             }
           ]
         }

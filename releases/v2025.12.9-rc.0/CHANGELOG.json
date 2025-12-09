@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:09:40.313773672Z",
+  "release_date": "2025-12-09T13:09:47.4011783Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -477,6 +477,24 @@
             {
               "SHA": "47f4fd3",
               "Subject": "push images for physical backup (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "75b334b9",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#62)"
+            },
+            {
+              "SHA": "2e658828",
+              "Subject": "Fix linter (#61)"
             }
           ]
         }

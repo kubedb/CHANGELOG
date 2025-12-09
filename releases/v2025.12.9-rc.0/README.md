@@ -212,6 +212,18 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.53.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.53.0-rc.0)
+
+- [f73a7159](https://github.com/kubedb/mongodb/commit/f73a7159f) Prepare for release v0.53.0-rc.0 (#724)
+- [4a27317f](https://github.com/kubedb/mongodb/commit/4a27317f1) Update golang version
+- [3b46da51](https://github.com/kubedb/mongodb/commit/3b46da516) Fix linter (#723)
+- [75045740](https://github.com/kubedb/mongodb/commit/75045740a) Fix multiple restart issue by introducing parallelismController (#722)
+- [d42b514f](https://github.com/kubedb/mongodb/commit/d42b514f8) Move ops code to db repo (#721)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.0)

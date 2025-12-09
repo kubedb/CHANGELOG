@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:11:02.259319133Z",
+  "release_date": "2025-12-09T13:11:20.286534525Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -539,6 +539,36 @@
             {
               "SHA": "1e26cc416",
               "Subject": "Move ops to db repo (#512)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f73a7159f",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#724)"
+            },
+            {
+              "SHA": "4a27317f1",
+              "Subject": "Update golang version"
+            },
+            {
+              "SHA": "3b46da516",
+              "Subject": "Fix linter (#723)"
+            },
+            {
+              "SHA": "75045740a",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#722)"
+            },
+            {
+              "SHA": "d42b514f8",
+              "Subject": "Move ops code to db repo (#721)"
             }
           ]
         }

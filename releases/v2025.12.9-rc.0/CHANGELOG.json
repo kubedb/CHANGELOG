@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:06:54.467893646Z",
+  "release_date": "2025-12-09T13:07:00.967455227Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -457,6 +457,32 @@
             {
               "SHA": "8919aabd",
               "Subject": "Move in Ops-manager code to Solr (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "074b334",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#26)"
+            },
+            {
+              "SHA": "84dae3a",
+              "Subject": "update go version in makefile (#25)"
+            },
+            {
+              "SHA": "37d546d",
+              "Subject": "Use golangci-lint 2.x (#24)"
+            },
+            {
+              "SHA": "4255c2f",
+              "Subject": "Fix makefile for ubi images (#23)"
             }
           ]
         }

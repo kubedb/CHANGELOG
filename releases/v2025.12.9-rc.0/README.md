@@ -169,6 +169,17 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.8.0-rc.0)
+
+- [074b334](https://github.com/kubedb/xtrabackup-restic-plugin/commit/074b334) Prepare for release v0.8.0-rc.0 (#26)
+- [84dae3a](https://github.com/kubedb/xtrabackup-restic-plugin/commit/84dae3a) update go version in makefile (#25)
+- [37d546d](https://github.com/kubedb/xtrabackup-restic-plugin/commit/37d546d) Use golangci-lint 2.x (#24)
+- [4255c2f](https://github.com/kubedb/xtrabackup-restic-plugin/commit/4255c2f) Fix makefile for ubi images (#23)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.16.0-rc.0)

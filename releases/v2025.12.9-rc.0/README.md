@@ -773,6 +773,16 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/ui-server/releases/tag/v0.36.0-rc.0)
+
+- [f5d4d79e](https://github.com/kubedb/ui-server/commit/f5d4d79e) Prepare for release v0.36.0-rc.0 (#178)
+- [3563951b](https://github.com/kubedb/ui-server/commit/3563951b) Update Lint (#177)
+- [072090b3](https://github.com/kubedb/ui-server/commit/072090b3) make lint update (#176)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.1.0-rc.0)

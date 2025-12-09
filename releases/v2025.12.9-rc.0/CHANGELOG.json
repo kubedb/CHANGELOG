@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T14:52:13.683123443Z",
+  "release_date": "2025-12-09T14:52:44.085131412Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -1826,6 +1826,28 @@
             {
               "SHA": "a635b1eb",
               "Subject": "add rotate-auth for semi-sync, innodb (#487)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f5d4d79e",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#178)"
+            },
+            {
+              "SHA": "3563951b",
+              "Subject": "Update Lint (#177)"
+            },
+            {
+              "SHA": "072090b3",
+              "Subject": "make lint update (#176)"
             }
           ]
         }

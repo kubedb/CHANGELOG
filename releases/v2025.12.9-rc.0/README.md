@@ -202,6 +202,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.23.0-rc.0)
+
+- [ecc63fec](https://github.com/kubedb/mongodb-restic-plugin/commit/ecc63fec) Prepare for release v0.23.0-rc.0 (#95)
+- [821c386c](https://github.com/kubedb/mongodb-restic-plugin/commit/821c386c) Fix makefile for ubi images (#94)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.53.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.53.0-rc.0)

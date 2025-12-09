@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:10:02.87635157Z",
+  "release_date": "2025-12-09T13:10:09.714988127Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -517,6 +517,24 @@
             {
               "SHA": "2e658828",
               "Subject": "Fix linter (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ecc63fec",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#95)"
+            },
+            {
+              "SHA": "821c386c",
+              "Subject": "Fix makefile for ubi images (#94)"
             }
           ]
         }

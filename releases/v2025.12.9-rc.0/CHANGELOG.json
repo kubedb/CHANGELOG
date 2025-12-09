@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:13:49.764862567Z",
+  "release_date": "2025-12-09T13:14:00.169426534Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -1013,6 +1013,32 @@
             {
               "SHA": "618be9b7",
               "Subject": "Use golangci-lint 2.x (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "536c4368",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "ce38a201",
+              "Subject": "Add golangci (#89)"
+            },
+            {
+              "SHA": "92bf292e",
+              "Subject": "add virtual secret and update lint (#88)"
+            },
+            {
+              "SHA": "66cfd1c1",
+              "Subject": "Move ops code to db repo (#87)"
             }
           ]
         }

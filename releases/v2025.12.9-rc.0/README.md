@@ -416,6 +416,17 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.15.0-rc.0)
+
+- [536c4368](https://github.com/kubedb/pgpool/commit/536c4368) Prepare for release v0.15.0-rc.0 (#90)
+- [ce38a201](https://github.com/kubedb/pgpool/commit/ce38a201) Add golangci (#89)
+- [92bf292e](https://github.com/kubedb/pgpool/commit/92bf292e) add virtual secret and update lint (#88)
+- [66cfd1c1](https://github.com/kubedb/pgpool/commit/66cfd1c1) Move ops code to db repo (#87)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.60.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.60.0-rc.0)

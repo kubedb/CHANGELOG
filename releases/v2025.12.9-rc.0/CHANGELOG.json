@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:07:30.263815044Z",
+  "release_date": "2025-12-09T13:07:45.891910309Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -327,6 +327,36 @@
             {
               "SHA": "47f4fd3",
               "Subject": "push images for physical backup (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "613bbbe19",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#707)"
+            },
+            {
+              "SHA": "6f1a6f0ea",
+              "Subject": "Change Makefile GO Version (#706)"
+            },
+            {
+              "SHA": "1f037c8e4",
+              "Subject": "Use golangci-lint 2.x (#705)"
+            },
+            {
+              "SHA": "6b649dec9",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#704)"
+            },
+            {
+              "SHA": "57998a04b",
+              "Subject": "move ops code to db repo (#703)"
             }
           ]
         }

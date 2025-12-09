@@ -114,6 +114,18 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.53.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.53.0-rc.0)
+
+- [613bbbe1](https://github.com/kubedb/mysql/commit/613bbbe19) Prepare for release v0.53.0-rc.0 (#707)
+- [6f1a6f0e](https://github.com/kubedb/mysql/commit/6f1a6f0ea) Change Makefile GO Version (#706)
+- [1f037c8e](https://github.com/kubedb/mysql/commit/1f037c8e4) Use golangci-lint 2.x (#705)
+- [6b649dec](https://github.com/kubedb/mysql/commit/6b649dec9) Fix multiple restart issue by introducing parallelismController (#704)
+- [57998a04](https://github.com/kubedb/mysql/commit/57998a04b) move ops code to db repo (#703)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:07:53.600086361Z",
+  "release_date": "2025-12-09T13:08:03.155146237Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -107,6 +107,32 @@
             {
               "SHA": "9ae5deaaa",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "49c77055",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#74)"
+            },
+            {
+              "SHA": "876fb0be",
+              "Subject": "Fix go version (#73)"
+            },
+            {
+              "SHA": "2bcf4461",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#72)"
+            },
+            {
+              "SHA": "d3ebb6df",
+              "Subject": "Move in Ops-manager code to ClickHouse (#71)"
             }
           ]
         }

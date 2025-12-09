@@ -32,6 +32,17 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.15.0-rc.0)
+
+- [49c77055](https://github.com/kubedb/clickhouse/commit/49c77055) Prepare for release v0.15.0-rc.0 (#74)
+- [876fb0be](https://github.com/kubedb/clickhouse/commit/876fb0be) Fix go version (#73)
+- [2bcf4461](https://github.com/kubedb/clickhouse/commit/2bcf4461) Fix multiple restart issue by introducing parallelismController (#72)
+- [d3ebb6df](https://github.com/kubedb/clickhouse/commit/d3ebb6df) Move in Ops-manager code to ClickHouse (#71)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.15.0-rc.0)

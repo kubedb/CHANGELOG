@@ -181,6 +181,17 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.18.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.18.0-rc.0)
+
+- [88634e7](https://github.com/kubedb/singlestore-restic-plugin/commit/88634e7) Prepare for release v0.18.0-rc.0 (#58)
+- [285e464](https://github.com/kubedb/singlestore-restic-plugin/commit/285e464) update go version in makefile (#57)
+- [25bff27](https://github.com/kubedb/singlestore-restic-plugin/commit/25bff27) Use golangci-lint 2.x (#56)
+- [25f1e62](https://github.com/kubedb/singlestore-restic-plugin/commit/25f1e62) Fix makefile for ubi images (#55)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.15.0-rc.0)

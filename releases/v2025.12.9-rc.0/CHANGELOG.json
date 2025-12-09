@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:07:23.143145853Z",
+  "release_date": "2025-12-09T13:07:30.263815044Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -487,6 +487,32 @@
             {
               "SHA": "994b34ece",
               "Subject": "Move ops code to db repo (#609)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": [
+            {
+              "SHA": "88634e7",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "285e464",
+              "Subject": "update go version in makefile (#57)"
+            },
+            {
+              "SHA": "25bff27",
+              "Subject": "Use golangci-lint 2.x (#56)"
+            },
+            {
+              "SHA": "25f1e62",
+              "Subject": "Fix makefile for ubi images (#55)"
             }
           ]
         }

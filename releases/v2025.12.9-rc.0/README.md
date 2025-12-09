@@ -76,6 +76,16 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.0)
+
+- [64893d8b](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/64893d8b) Prepare for release v0.21.0-rc.0 (#59)
+- [48a23ce5](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/48a23ce5) Change Makefile GO Version (#58)
+- [d1732152](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/d1732152) Add golangci (#57)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.44.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.44.0-rc.0)

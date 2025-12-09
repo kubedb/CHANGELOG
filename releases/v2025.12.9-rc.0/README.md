@@ -702,6 +702,15 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/schema-manager/releases/tag/v0.36.0-rc.0)
+
+- [1ebf2d05](https://github.com/kubedb/schema-manager/commit/1ebf2d05) Prepare for release v0.36.0-rc.0 (#149)
+- [f58a1650](https://github.com/kubedb/schema-manager/commit/f58a1650) Fix linter (#148)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.15.0-rc.0)

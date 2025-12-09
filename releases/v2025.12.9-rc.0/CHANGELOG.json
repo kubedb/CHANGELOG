@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:09:16.848871427Z",
+  "release_date": "2025-12-09T13:09:32.498475705Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -303,6 +303,28 @@
             {
               "SHA": "b824c01d",
               "Subject": "move go_es file to db-client (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f75c70d09",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#780)"
+            },
+            {
+              "SHA": "da2901102",
+              "Subject": "move go_es file to db-client-go (#779)"
+            },
+            {
+              "SHA": "1de4f8105",
+              "Subject": "move ops code to db repo (#778)"
             }
           ]
         }

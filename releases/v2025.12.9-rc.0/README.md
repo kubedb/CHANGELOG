@@ -483,6 +483,18 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.15.0-rc.0)
+
+- [4be45687](https://github.com/kubedb/zookeeper/commit/4be45687) Prepare for release v0.15.0-rc.0 (#94)
+- [c1da0e5f](https://github.com/kubedb/zookeeper/commit/c1da0e5f) replace go1.25.5 to go1.25 (#93)
+- [55fe861b](https://github.com/kubedb/zookeeper/commit/55fe861b) Fix multiple restart issue by introducing parallelismController (#91)
+- [c75acf90](https://github.com/kubedb/zookeeper/commit/c75acf90) Make Update go version and lint fix (#92)
+- [23219262](https://github.com/kubedb/zookeeper/commit/23219262) Move ops code to db repo (#90)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.16.0-rc.0)

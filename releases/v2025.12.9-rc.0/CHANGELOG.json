@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:11:34.112940187Z",
+  "release_date": "2025-12-09T13:11:43.101499557Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -1173,6 +1173,36 @@
             {
               "SHA": "4255c2f",
               "Subject": "Fix makefile for ubi images (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4be45687",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#94)"
+            },
+            {
+              "SHA": "c1da0e5f",
+              "Subject": "replace go1.25.5 to go1.25 (#93)"
+            },
+            {
+              "SHA": "55fe861b",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#91)"
+            },
+            {
+              "SHA": "c75acf90",
+              "Subject": "Make Update go version and lint fix (#92)"
+            },
+            {
+              "SHA": "23219262",
+              "Subject": "Move ops code to db repo (#90)"
             }
           ]
         }

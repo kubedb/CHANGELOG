@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:09:00.858726668Z",
+  "release_date": "2025-12-09T13:09:08.707320158Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -467,6 +467,28 @@
             {
               "SHA": "57998a04b",
               "Subject": "move ops code to db repo (#703)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.38.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4f0b448e",
+              "Subject": "Prepare for release v0.38.0-rc.0 (#154)"
+            },
+            {
+              "SHA": "78c11d72",
+              "Subject": "Build ubi image (#153)"
+            },
+            {
+              "SHA": "c4ae8e49",
+              "Subject": "Use golangci-lint 2.x (#152)"
             }
           ]
         }

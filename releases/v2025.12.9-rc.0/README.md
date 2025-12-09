@@ -176,6 +176,16 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.38.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.38.0-rc.0)
+
+- [4f0b448e](https://github.com/kubedb/mysql-coordinator/commit/4f0b448e) Prepare for release v0.38.0-rc.0 (#154)
+- [78c11d72](https://github.com/kubedb/mysql-coordinator/commit/78c11d72) Build ubi image (#153)
+- [c4ae8e49](https://github.com/kubedb/mysql-coordinator/commit/c4ae8e49) Use golangci-lint 2.x (#152)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.0)

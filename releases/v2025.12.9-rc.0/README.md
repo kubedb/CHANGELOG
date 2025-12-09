@@ -186,6 +186,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.23.0-rc.0)
+
+- [4552f5f7](https://github.com/kubedb/mysql-restic-plugin/commit/4552f5f7) Prepare for release v0.23.0-rc.0 (#85)
+- [1358b920](https://github.com/kubedb/mysql-restic-plugin/commit/1358b920) Fix makefile for ubi images (#84)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.6.0-rc.0)

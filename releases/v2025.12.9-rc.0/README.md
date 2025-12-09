@@ -42,6 +42,15 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.7.0-rc.0)
+
+- [dd6cbb1](https://github.com/kubedb/cassandra-medusa-plugin/commit/dd6cbb1) Prepare for release v0.7.0-rc.0 (#15)
+- [b2132d1](https://github.com/kubedb/cassandra-medusa-plugin/commit/b2132d1) update deps (#14)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.15.0-rc.0)

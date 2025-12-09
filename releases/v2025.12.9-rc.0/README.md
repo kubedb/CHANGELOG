@@ -32,6 +32,16 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.13.0-rc.0)
+
+- [78213d47](https://github.com/kubedb/cassandra/commit/78213d47) Prepare for release v0.13.0-rc.0 (#53)
+- [8f8458f1](https://github.com/kubedb/cassandra/commit/8f8458f1) Fix multiple restart issue by introducing parallelismController (#52)
+- [5563cf24](https://github.com/kubedb/cassandra/commit/5563cf24) Moved ops code to dev repo (#51)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.15.0-rc.0)

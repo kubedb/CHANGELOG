@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:08:24.685595589Z",
+  "release_date": "2025-12-09T13:08:33.244774874Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -107,6 +107,28 @@
             {
               "SHA": "9ae5deaaa",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "78213d47",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "8f8458f1",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#52)"
+            },
+            {
+              "SHA": "5563cf24",
+              "Subject": "Moved ops code to dev repo (#51)"
             }
           ]
         }

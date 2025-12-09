@@ -568,6 +568,13 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/provider-aws/releases/tag/v0.21.0-rc.0)
+
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.1.0-rc.0)

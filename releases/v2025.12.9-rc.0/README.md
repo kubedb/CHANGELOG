@@ -264,6 +264,17 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.15.0-rc.0)
+
+- [0fe5c82](https://github.com/kubedb/singlestore-coordinator/commit/0fe5c82) Prepare for release v0.15.0-rc.0 (#52)
+- [4fd8963](https://github.com/kubedb/singlestore-coordinator/commit/4fd8963) Update Dockerfile label from 'External DNS Operator' to 'Singlestore Coordinator'
+- [2115237](https://github.com/kubedb/singlestore-coordinator/commit/2115237) Build ubi image (#51)
+- [a2c1fa5](https://github.com/kubedb/singlestore-coordinator/commit/a2c1fa5) Use golangci-lint 2.x (#50)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.18.0-rc.0)

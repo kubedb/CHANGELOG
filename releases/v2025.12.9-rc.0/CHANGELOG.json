@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:08:47.105658995Z",
+  "release_date": "2025-12-09T13:08:54.082221593Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -675,6 +675,32 @@
             {
               "SHA": "927601ab",
               "Subject": "Update make lint and Add Virtual Secret (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0fe5c82",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "4fd8963",
+              "Subject": "Update Dockerfile label from 'External DNS Operator' to 'Singlestore Coordinator'"
+            },
+            {
+              "SHA": "2115237",
+              "Subject": "Build ubi image (#51)"
+            },
+            {
+              "SHA": "a2c1fa5",
+              "Subject": "Use golangci-lint 2.x (#50)"
             }
           ]
         }

@@ -363,6 +363,16 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.23.0-rc.0)
+
+- [397396b](https://github.com/kubedb/postgres-restic-plugin/commit/397396b) Prepare for release v0.23.0-rc.0 (#83)
+- [b53cd1b](https://github.com/kubedb/postgres-restic-plugin/commit/b53cd1b) Update Go version (#82)
+- [cfe4796](https://github.com/kubedb/postgres-restic-plugin/commit/cfe4796) Update linter (#81)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.1.0-rc.0)

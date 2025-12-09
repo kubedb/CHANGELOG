@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:11:51.273171144Z",
+  "release_date": "2025-12-09T13:11:59.110772387Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -605,6 +605,24 @@
             {
               "SHA": "821c386c",
               "Subject": "Fix makefile for ubi images (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "93cd25f",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "677dc46",
+              "Subject": "Use golangci-lint 2.x (#36)"
             }
           ]
         }

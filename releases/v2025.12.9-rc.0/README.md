@@ -242,6 +242,15 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.14.0-rc.0)
+
+- [93cd25f](https://github.com/kubedb/mssqlserver-walg-plugin/commit/93cd25f) Prepare for release v0.14.0-rc.0 (#37)
+- [677dc46](https://github.com/kubedb/mssqlserver-walg-plugin/commit/677dc46) Use golangci-lint 2.x (#36)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.53.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.53.0-rc.0)

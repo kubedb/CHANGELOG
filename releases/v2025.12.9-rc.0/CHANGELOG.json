@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:12:11.035432713Z",
+  "release_date": "2025-12-09T13:12:33.598341121Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -943,6 +943,32 @@
             {
               "SHA": "618be9b7",
               "Subject": "Use golangci-lint 2.x (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.0",
+          "commits": [
+            {
+              "SHA": "43ab70768",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#842)"
+            },
+            {
+              "SHA": "1f118af2f",
+              "Subject": "Fix postgres split brain | Add auto config tuning support |   (#841)"
+            },
+            {
+              "SHA": "73418b2f8",
+              "Subject": "Virtual Secret further bug fix (#836)"
+            },
+            {
+              "SHA": "57e8114ed",
+              "Subject": "Move in Ops-manager code to Postgres (#837)"
             }
           ]
         }

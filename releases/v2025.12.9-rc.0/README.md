@@ -522,6 +522,17 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.47.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.47.0-rc.0)
+
+- [f90f38f4](https://github.com/kubedb/pgbouncer/commit/f90f38f40) Prepare for release v0.47.0-rc.0 (#388)
+- [d8410281](https://github.com/kubedb/pgbouncer/commit/d84102818) Add golnagci (#387)
+- [2b58993f](https://github.com/kubedb/pgbouncer/commit/2b58993f3) Add virtual secret and update Lint (#383)
+- [6396e383](https://github.com/kubedb/pgbouncer/commit/6396e383b) Move ops code to db repo (#386)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.15.0-rc.0)

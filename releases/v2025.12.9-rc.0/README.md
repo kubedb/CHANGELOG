@@ -483,6 +483,17 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.47.0-rc.0](https://github.com/kubedb/ops-manager/releases/tag/v0.47.0-rc.0)
+
+- [cb3b4b33](https://github.com/kubedb/ops-manager/commit/cb3b4b332) Prepare for release v0.47.0-rc.0 (#809)
+- [5bdccf30](https://github.com/kubedb/ops-manager/commit/5bdccf30f) Skip controller activation in certification mode (#808)
+- [3eb8519f](https://github.com/kubedb/ops-manager/commit/3eb8519f1) Fix linter warning
+- [4f15899d](https://github.com/kubedb/ops-manager/commit/4f15899d1) Use golangci-lint 2.x (#807)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.6.0-rc.0)

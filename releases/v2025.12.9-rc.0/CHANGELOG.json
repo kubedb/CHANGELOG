@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:10:28.138669205Z",
+  "release_date": "2025-12-09T13:10:41.373771741Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -675,6 +675,36 @@
             {
               "SHA": "f0b4cbb",
               "Subject": "Support TLS (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.0",
+          "commits": [
+            {
+              "SHA": "528043c17",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#424)"
+            },
+            {
+              "SHA": "c3cb6155c",
+              "Subject": "update go version in makefile (#423)"
+            },
+            {
+              "SHA": "654c6464e",
+              "Subject": "Use golangci-lint 2.x (#422)"
+            },
+            {
+              "SHA": "0ec479776",
+              "Subject": "fix multiple restart issue by introducing parallelism controller (#421)"
+            },
+            {
+              "SHA": "4208a065f",
+              "Subject": "move ops code to db repo (#420)"
             }
           ]
         }

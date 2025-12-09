@@ -273,6 +273,18 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.47.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.47.0-rc.0)
+
+- [528043c1](https://github.com/kubedb/percona-xtradb/commit/528043c17) Prepare for release v0.47.0-rc.0 (#424)
+- [c3cb6155](https://github.com/kubedb/percona-xtradb/commit/c3cb6155c) update go version in makefile (#423)
+- [654c6464](https://github.com/kubedb/percona-xtradb/commit/654c6464e) Use golangci-lint 2.x (#422)
+- [0ec47977](https://github.com/kubedb/percona-xtradb/commit/0ec479776) fix multiple restart issue by introducing parallelism controller (#421)
+- [4208a065](https://github.com/kubedb/percona-xtradb/commit/4208a065f) move ops code to db repo (#420)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.33.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.33.0-rc.0)

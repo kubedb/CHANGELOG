@@ -1,0 +1,116 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.12.9-rc.0",
+  "release_date": "2025-12-09T07:57:04.336197396Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.0",
+          "commits": [
+            {
+              "SHA": "bd9997041",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "fac813c78",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "e58fe916a",
+              "Subject": "Update license libraries"
+            },
+            {
+              "SHA": "0562e8d15",
+              "Subject": "Use golangci-lint 2.x (#1549)"
+            },
+            {
+              "SHA": "3d10db600",
+              "Subject": "Implement upgradability helpers (#1536)"
+            },
+            {
+              "SHA": "9131dc317",
+              "Subject": "Add milvus apis (#1533)"
+            },
+            {
+              "SHA": "7d56b3e6c",
+              "Subject": "Virtual secret for pgbouncer pgpool redis (#1516)"
+            },
+            {
+              "SHA": "e1143b591",
+              "Subject": "Add MaxRetries api (#1547)"
+            },
+            {
+              "SHA": "b8b8a9030",
+              "Subject": "Fix webhook: postgres volume exp ops, memcached auth secret spec (#1548)"
+            },
+            {
+              "SHA": "56ba059d8",
+              "Subject": "Add oracle tls api (#1545)"
+            },
+            {
+              "SHA": "0c8e327b1",
+              "Subject": "Allow Force Failover with data loss | add tuning api (#1542)"
+            },
+            {
+              "SHA": "e34d1088a",
+              "Subject": "Add Weaviate APIs (#1528)"
+            },
+            {
+              "SHA": "8059bb8b7",
+              "Subject": "Add DB2 APIs (#1530)"
+            },
+            {
+              "SHA": "285acd8bd",
+              "Subject": "Add Neo4j API (#1544)"
+            },
+            {
+              "SHA": "7e98c3f00",
+              "Subject": "Update skipper and webhook for config merger (#1535)"
+            },
+            {
+              "SHA": "e3c8ce90f",
+              "Subject": "Add Hanadb (#1527)"
+            },
+            {
+              "SHA": "f56bbc3a4",
+              "Subject": "Fix MySQL reconfigure apply config (#1534)"
+            },
+            {
+              "SHA": "2ed241d26",
+              "Subject": "Add hazelcast binding implementation (#1540)"
+            },
+            {
+              "SHA": "2bbafe54f",
+              "Subject": "Add Qdrant (#1524)"
+            },
+            {
+              "SHA": "4de23d6d3",
+              "Subject": "Update vulnerable deps (#1541)"
+            },
+            {
+              "SHA": "832e8ff48",
+              "Subject": "Move lib pkg from ops-manager (#1532)"
+            },
+            {
+              "SHA": "bf32e8fca",
+              "Subject": "Remove redundant print column `Type` in DB CRs.  (#1531)"
+            },
+            {
+              "SHA": "bbc014087",
+              "Subject": "make gen fmt (#1529)"
+            },
+            {
+              "SHA": "9ae5deaaa",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

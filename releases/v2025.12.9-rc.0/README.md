@@ -32,6 +32,16 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/autoscaler/releases/tag/v0.45.0-rc.0)
+
+- [7765b291](https://github.com/kubedb/autoscaler/commit/7765b291) Prepare for release v0.45.0-rc.0 (#268)
+- [9a7f1096](https://github.com/kubedb/autoscaler/commit/9a7f1096) Skip controller activation in certification mode (#267)
+- [d8119820](https://github.com/kubedb/autoscaler/commit/d8119820) Use golangci-lint 2.x (#266)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.13.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T15:20:19.543678511Z",
+  "release_date": "2025-12-09T16:08:04.558383927Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -107,6 +107,28 @@
             {
               "SHA": "9ae5deaaa",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7765b291",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#268)"
+            },
+            {
+              "SHA": "9a7f1096",
+              "Subject": "Skip controller activation in certification mode (#267)"
+            },
+            {
+              "SHA": "d8119820",
+              "Subject": "Use golangci-lint 2.x (#266)"
             }
           ]
         }

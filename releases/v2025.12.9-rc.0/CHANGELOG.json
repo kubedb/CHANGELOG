@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:06:10.962055677Z",
+  "release_date": "2025-12-09T13:06:23.692126285Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -107,6 +107,52 @@
             {
               "SHA": "9ae5deaaa",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d4dd9b8c",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#101)"
+            },
+            {
+              "SHA": "8347e307",
+              "Subject": "replace go1.25.5 to go1.25 (#100)"
+            },
+            {
+              "SHA": "34895de8",
+              "Subject": "Add neo4j"
+            },
+            {
+              "SHA": "c89068f3",
+              "Subject": "HanaDB (#90)"
+            },
+            {
+              "SHA": "1245ee00",
+              "Subject": "Add milvus crd-manager (#94)"
+            },
+            {
+              "SHA": "da01d86e",
+              "Subject": "Add Weaviate Crds (#97)"
+            },
+            {
+              "SHA": "521fbd57",
+              "Subject": "Add Db2 Crds (#96)"
+            },
+            {
+              "SHA": "1cf9a782",
+              "Subject": "Add Neo4j Crds (#98)"
+            },
+            {
+              "SHA": "80e2bc36",
+              "Subject": "Add Qdrant CRD (#92)"
             }
           ]
         }

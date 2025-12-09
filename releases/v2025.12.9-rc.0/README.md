@@ -224,6 +224,16 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.23.0-rc.0)
+
+- [7dfce486](https://github.com/kubedb/redis-restic-plugin/commit/7dfce486) Prepare for release v0.23.0-rc.0 (#78)
+- [fec65710](https://github.com/kubedb/redis-restic-plugin/commit/fec65710) Update linter (#77)
+- [927601ab](https://github.com/kubedb/redis-restic-plugin/commit/927601ab) Update make lint and Add Virtual Secret (#76)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.18.0-rc.0)

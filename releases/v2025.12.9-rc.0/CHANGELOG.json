@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:10:41.373771741Z",
+  "release_date": "2025-12-09T13:10:48.114790111Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -409,6 +409,24 @@
             {
               "SHA": "3f7bf918",
               "Subject": "Move ops-manager code to base repo (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1a10c291",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "75d723c8",
+              "Subject": "update-dep (#105)"
             }
           ]
         }

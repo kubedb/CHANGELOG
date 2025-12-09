@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:15:56.570800272Z",
+  "release_date": "2025-12-09T13:15:59.636987451Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -911,6 +911,20 @@
             {
               "SHA": "b02aeeb3",
               "Subject": "Move ops to DB repo (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c65e2ae",
+              "Subject": "Use golangci-lint 2.x (#15)"
             }
           ]
         }

@@ -368,6 +368,14 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.14.0-rc.0)
+
+- [c65e2ae](https://github.com/kubedb/mssqlserver-archiver/commit/c65e2ae) Use golangci-lint 2.x (#15)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.14.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.14.0-rc.0)

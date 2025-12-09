@@ -444,6 +444,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.38.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.38.0-rc.0)
+
+- [57d25a8](https://github.com/kubedb/mysql-router-init/commit/57d25a8) Use k8s 1.32 client libs (#53)
+
+
+
 ## [kubedb/neo4j](https://github.com/kubedb/neo4j)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/neo4j/releases/tag/v0.1.0-rc.0)

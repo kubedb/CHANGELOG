@@ -301,6 +301,19 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/milvus/releases/tag/v0.1.0-rc.0)
+
+- [cc2ca53d](https://github.com/kubedb/milvus/commit/cc2ca53d) Prepare for release v0.1.0-rc.0 (#6)
+- [796f5386](https://github.com/kubedb/milvus/commit/796f5386) Downgrade k8s version (#5)
+- [d1cf5ee0](https://github.com/kubedb/milvus/commit/d1cf5ee0) goversion modified (#3)
+- [9317ea0f](https://github.com/kubedb/milvus/commit/9317ea0f) Test against k8s 1.34 (#2)
+- [88031d6a](https://github.com/kubedb/milvus/commit/88031d6a) Add milvus provisioner (standalone) (#1)
+- [9f7923b8](https://github.com/kubedb/milvus/commit/9f7923b8) Update .gitignore
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.53.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.53.0-rc.0)

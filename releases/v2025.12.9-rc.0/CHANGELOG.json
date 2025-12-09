@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:08:17.1965772Z",
+  "release_date": "2025-12-09T13:08:24.685595589Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -281,6 +281,28 @@
             {
               "SHA": "9de37946",
               "Subject": "Fix vertical scaling ops creation for storage resouce changes (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "35277e58",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#27)"
+            },
+            {
+              "SHA": "c642d15e",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#26)"
+            },
+            {
+              "SHA": "371c83df",
+              "Subject": "Move ops to db repo (#24)"
             }
           ]
         }

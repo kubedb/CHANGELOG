@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:10:09.714988127Z",
+  "release_date": "2025-12-09T13:10:18.711847968Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -843,6 +843,36 @@
             {
               "SHA": "994b34ece",
               "Subject": "Move ops code to db repo (#609)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.39.0-rc.0",
+          "commits": [
+            {
+              "SHA": "75f9f5d9",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#139)"
+            },
+            {
+              "SHA": "5f7ce82b",
+              "Subject": "Virtual Secret added and Make Lint update (#138)"
+            },
+            {
+              "SHA": "520f67f2",
+              "Subject": "Update Dockerfile label for Redis Coordinator"
+            },
+            {
+              "SHA": "a190c965",
+              "Subject": "Build ubi image (#137)"
+            },
+            {
+              "SHA": "1d673b73",
+              "Subject": "Use golangci-lint 2.x (#136)"
             }
           ]
         }

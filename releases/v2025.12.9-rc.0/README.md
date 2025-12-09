@@ -129,6 +129,17 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.15.0-rc.0)
+
+- [d1e1b108](https://github.com/kubedb/druid/commit/d1e1b108) Prepare for release v0.15.0-rc.0 (#105)
+- [5632cb2f](https://github.com/kubedb/druid/commit/5632cb2f) Fix multiple restart issue by introducing parallelismController (#104)
+- [5f237f3c](https://github.com/kubedb/druid/commit/5f237f3c) fixed some mistake (#103)
+- [23ad9f70](https://github.com/kubedb/druid/commit/23ad9f70) move ops code to db repo (#102)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.60.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.60.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:15:19.548363577Z",
+  "release_date": "2025-12-09T13:15:28.160912301Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -351,6 +351,32 @@
             {
               "SHA": "cbe78ad6",
               "Subject": "Add vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d1e1b108",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#105)"
+            },
+            {
+              "SHA": "5632cb2f",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#104)"
+            },
+            {
+              "SHA": "5f237f3c",
+              "Subject": "fixed some mistake (#103)"
+            },
+            {
+              "SHA": "23ad9f70",
+              "Subject": "move ops code to db repo (#102)"
             }
           ]
         }

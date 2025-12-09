@@ -828,6 +828,19 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/webhook-server/releases/tag/v0.36.0-rc.0)
+
+- [4f47d8c3](https://github.com/kubedb/webhook-server/commit/4f47d8c3) Prepare for release v0.36.0-rc.0 (#180)
+- [31fbaa00](https://github.com/kubedb/webhook-server/commit/31fbaa00) Fix build
+- [6e256028](https://github.com/kubedb/webhook-server/commit/6e256028) Add missing new dbs in client-setup
+- [b90632db](https://github.com/kubedb/webhook-server/commit/b90632db) added milvus webhook-server (#177)
+- [9d58f0c3](https://github.com/kubedb/webhook-server/commit/9d58f0c3) Add Qdrant (#176)
+- [0ce55e0a](https://github.com/kubedb/webhook-server/commit/0ce55e0a) Add HanaDB (#178)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.8.0-rc.0)

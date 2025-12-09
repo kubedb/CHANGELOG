@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T16:08:04.558383927Z",
+  "release_date": "2025-12-09T16:37:25.348525378Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -1956,6 +1956,40 @@
             {
               "SHA": "1b27e93",
               "Subject": "Add vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4f47d8c3",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#180)"
+            },
+            {
+              "SHA": "31fbaa00",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "6e256028",
+              "Subject": "Add missing new dbs in client-setup"
+            },
+            {
+              "SHA": "b90632db",
+              "Subject": "added milvus webhook-server (#177)"
+            },
+            {
+              "SHA": "9d58f0c3",
+              "Subject": "Add Qdrant (#176)"
+            },
+            {
+              "SHA": "0ce55e0a",
+              "Subject": "Add HanaDB (#178)"
             }
           ]
         }

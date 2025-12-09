@@ -129,6 +129,14 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.1.0-rc.0)
+
+- [e44da80](https://github.com/kubedb/db2-coordinator/commit/e44da80) Use golangci-lint 2.x (#1)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.15.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:06:48.341915616Z",
+  "release_date": "2025-12-09T13:06:54.467893646Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -457,6 +457,28 @@
             {
               "SHA": "8919aabd",
               "Subject": "Move in Ops-manager code to Solr (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8970e4d",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "079fdca",
+              "Subject": "Go version update (#46)"
+            },
+            {
+              "SHA": "4c5f81a",
+              "Subject": "linter fix (#45)"
             }
           ]
         }

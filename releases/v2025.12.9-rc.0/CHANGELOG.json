@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:12:45.352892434Z",
+  "release_date": "2025-12-09T13:12:58.091960089Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -1199,6 +1199,40 @@
             {
               "SHA": "fd4f2bb5",
               "Subject": "Use golangci-lint 2.x (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f3529d24",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "5378a876",
+              "Subject": "update go version in makefile (#90)"
+            },
+            {
+              "SHA": "57f14b26",
+              "Subject": "Use golangci-lint 2.x (#89)"
+            },
+            {
+              "SHA": "d2c074b5",
+              "Subject": "fix multiple restart issue by introducing parallelism controller (#87)"
+            },
+            {
+              "SHA": "4fe9d994",
+              "Subject": "Fix frequent db patch and requeue issue (#88)"
+            },
+            {
+              "SHA": "d771a53e",
+              "Subject": "move ops code to db repo (#86)"
             }
           ]
         }

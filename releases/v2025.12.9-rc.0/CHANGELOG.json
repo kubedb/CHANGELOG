@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:07:00.967455227Z",
+  "release_date": "2025-12-09T13:07:07.816583316Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -297,6 +297,36 @@
             {
               "SHA": "0b95dc57",
               "Subject": "Use golangci-lint 2.x (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3951117",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#62)"
+            },
+            {
+              "SHA": "8ddff19",
+              "Subject": "Fix  Host Missing, Restore Issue (#61)"
+            },
+            {
+              "SHA": "ddb84e4",
+              "Subject": "Change Makefile GO Version (#60)"
+            },
+            {
+              "SHA": "8db3131",
+              "Subject": "Add golangci (#59)"
+            },
+            {
+              "SHA": "47f4fd3",
+              "Subject": "push images for physical backup (#58)"
             }
           ]
         }

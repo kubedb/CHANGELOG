@@ -102,6 +102,18 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.18.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.18.0-rc.0)
+
+- [3951117](https://github.com/kubedb/mariadb-restic-plugin/commit/3951117) Prepare for release v0.18.0-rc.0 (#62)
+- [8ddff19](https://github.com/kubedb/mariadb-restic-plugin/commit/8ddff19) Fix  Host Missing, Restore Issue (#61)
+- [ddb84e4](https://github.com/kubedb/mariadb-restic-plugin/commit/ddb84e4) Change Makefile GO Version (#60)
+- [8db3131](https://github.com/kubedb/mariadb-restic-plugin/commit/8db3131) Add golangci (#59)
+- [47f4fd3](https://github.com/kubedb/mariadb-restic-plugin/commit/47f4fd3) push images for physical backup (#58)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.0)

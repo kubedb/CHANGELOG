@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:08:03.155146237Z",
+  "release_date": "2025-12-09T13:08:09.231275366Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -423,6 +423,32 @@
             {
               "SHA": "d1732152",
               "Subject": "Add golangci (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6ca661e",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "f3d4752",
+              "Subject": "Build ubi image (#14)"
+            },
+            {
+              "SHA": "c141fa7",
+              "Subject": "Use golangci-lint 2.x (#13)"
+            },
+            {
+              "SHA": "f0b4cbb",
+              "Subject": "Support TLS (#12)"
             }
           ]
         }

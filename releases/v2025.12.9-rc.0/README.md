@@ -156,6 +156,17 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.6.0-rc.0)
+
+- [6ca661e](https://github.com/kubedb/oracle-coordinator/commit/6ca661e) Prepare for release v0.6.0-rc.0 (#15)
+- [f3d4752](https://github.com/kubedb/oracle-coordinator/commit/f3d4752) Build ubi image (#14)
+- [c141fa7](https://github.com/kubedb/oracle-coordinator/commit/c141fa7) Use golangci-lint 2.x (#13)
+- [f0b4cbb](https://github.com/kubedb/oracle-coordinator/commit/f0b4cbb) Support TLS (#12)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.33.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.33.0-rc.0)

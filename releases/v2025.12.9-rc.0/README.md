@@ -242,6 +242,19 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.15.0-rc.0)
+
+- [ac4cbed6](https://github.com/kubedb/mssqlserver/commit/ac4cbed6) Prepare for release v0.15.0-rc.0 (#98)
+- [0c591eba](https://github.com/kubedb/mssqlserver/commit/0c591eba) Add ReconfigureOps merger (#96)
+- [e3ad8e20](https://github.com/kubedb/mssqlserver/commit/e3ad8e20) Improve codebase by refactoring (#93)
+- [01ab5c30](https://github.com/kubedb/mssqlserver/commit/01ab5c30) Fix multiple restart issue by introducing parallelismController (#97)
+- [2f9976d3](https://github.com/kubedb/mssqlserver/commit/2f9976d3) Fix archiver issue for TLS secure Minio (#94)
+- [b02aeeb3](https://github.com/kubedb/mssqlserver/commit/b02aeeb3) Move ops to DB repo (#95)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.14.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.14.0-rc.0)

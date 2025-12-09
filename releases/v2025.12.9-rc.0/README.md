@@ -51,6 +51,17 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.60.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.60.0-rc.0)
+
+- [fe2da356](https://github.com/kubedb/cli/commit/fe2da3569) Prepare for release v0.60.0-rc.0 (#807)
+- [3fc4051c](https://github.com/kubedb/cli/commit/3fc4051ca) Add gitops CLI (#804)
+- [8749544b](https://github.com/kubedb/cli/commit/8749544bc) Update Lint (#806)
+- [41a390a6](https://github.com/kubedb/cli/commit/41a390a60) Make the debug cli common (#805)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.15.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:12:33.598341121Z",
+  "release_date": "2025-12-09T13:12:45.352892434Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -147,6 +147,32 @@
             {
               "SHA": "b2132d1",
               "Subject": "update deps (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.0",
+          "commits": [
+            {
+              "SHA": "fe2da3569",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#807)"
+            },
+            {
+              "SHA": "3fc4051ca",
+              "Subject": "Add gitops CLI (#804)"
+            },
+            {
+              "SHA": "8749544bc",
+              "Subject": "Update Lint (#806)"
+            },
+            {
+              "SHA": "41a390a60",
+              "Subject": "Make the debug cli common (#805)"
             }
           ]
         }

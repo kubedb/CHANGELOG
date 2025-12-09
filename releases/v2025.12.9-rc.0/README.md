@@ -119,6 +119,16 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/db2/releases/tag/v0.1.0-rc.0)
+
+- [c61ee118](https://github.com/kubedb/db2/commit/c61ee118) Prepare for release v0.1.0-rc.0 (#3)
+- [e5dd65e7](https://github.com/kubedb/db2/commit/e5dd65e7) Implement db2 controller
+- [cbe78ad6](https://github.com/kubedb/db2/commit/cbe78ad6) Add vendor
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.60.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.60.0-rc.0)

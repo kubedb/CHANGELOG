@@ -232,6 +232,15 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/kibana/releases/tag/v0.36.0-rc.0)
+
+- [92ca7ab3](https://github.com/kubedb/kibana/commit/92ca7ab3) Prepare for release v0.36.0-rc.0 (#161)
+- [529d7301](https://github.com/kubedb/kibana/commit/529d7301) update deps (#160)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.23.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.23.0-rc.0)

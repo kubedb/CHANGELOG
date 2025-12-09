@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T14:38:00.642727345Z",
+  "release_date": "2025-12-09T14:38:33.502103676Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -583,6 +583,24 @@
             {
               "SHA": "3f7bf918",
               "Subject": "Move ops-manager code to base repo (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.0",
+          "commits": [
+            {
+              "SHA": "92ca7ab3",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "529d7301",
+              "Subject": "update deps (#160)"
             }
           ]
         }

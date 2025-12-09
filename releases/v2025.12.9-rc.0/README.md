@@ -158,6 +158,18 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.1.0-rc.0)
+
+- [3fc76f7e](https://github.com/kubedb/hanadb/commit/3fc76f7e) Prepare for release v0.1.0-rc.0 (#5)
+- [67f88948](https://github.com/kubedb/hanadb/commit/67f88948) Modify go.mod (#4)
+- [c440319c](https://github.com/kubedb/hanadb/commit/c440319c) Modify Go version (#3)
+- [aa961389](https://github.com/kubedb/hanadb/commit/aa961389) Test against k8s 1.34 (#2)
+- [a5a5049f](https://github.com/kubedb/hanadb/commit/a5a5049f) Add HanaDB provisioner (#1)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.6.0-rc.0)

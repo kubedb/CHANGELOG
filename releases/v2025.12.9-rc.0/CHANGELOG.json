@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:14:33.021378282Z",
+  "release_date": "2025-12-09T13:14:47.926904841Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -527,6 +527,40 @@
             {
               "SHA": "75d723c8",
               "Subject": "update-dep (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ea4d4a69a",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#358)"
+            },
+            {
+              "SHA": "d9257a6ea",
+              "Subject": "Change Makefile GO Version (#357)"
+            },
+            {
+              "SHA": "4f419cbec",
+              "Subject": "Add golangci (#356)"
+            },
+            {
+              "SHA": "96a12452c",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#355)"
+            },
+            {
+              "SHA": "c1fccdd74",
+              "Subject": "Fi Archiver Version Compatibility (#354)"
+            },
+            {
+              "SHA": "b95f58e69",
+              "Subject": "move ops code to db repo (#353)"
             }
           ]
         }

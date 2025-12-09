@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:10:48.114790111Z",
+  "release_date": "2025-12-09T13:11:02.259319133Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -517,6 +517,28 @@
             {
               "SHA": "47f4fd3",
               "Subject": "push images for physical backup (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "dc1dc137f",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#514)"
+            },
+            {
+              "SHA": "aa8446d99",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#513)"
+            },
+            {
+              "SHA": "1e26cc416",
+              "Subject": "Move ops to db repo (#512)"
             }
           ]
         }

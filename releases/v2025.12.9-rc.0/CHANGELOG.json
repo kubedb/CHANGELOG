@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:08:33.244774874Z",
+  "release_date": "2025-12-09T13:08:47.105658995Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -325,6 +325,28 @@
             {
               "SHA": "371c83df",
               "Subject": "Move ops to db repo (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1003c37f",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#167)"
+            },
+            {
+              "SHA": "e270d3e6",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#166)"
+            },
+            {
+              "SHA": "3f7bf918",
+              "Subject": "Move ops-manager code to base repo (#165)"
             }
           ]
         }

@@ -52,6 +52,18 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.40.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.40.0-rc.0)
+
+- [e007307f](https://github.com/kubedb/mariadb-coordinator/commit/e007307f) Prepare for release v0.40.0-rc.0 (#156)
+- [67015617](https://github.com/kubedb/mariadb-coordinator/commit/67015617) Simplify code
+- [8a015658](https://github.com/kubedb/mariadb-coordinator/commit/8a015658) format grpc package
+- [810d7607](https://github.com/kubedb/mariadb-coordinator/commit/810d7607) Build ubi image (#155)
+- [0b95dc57](https://github.com/kubedb/mariadb-coordinator/commit/0b95dc57) Use golangci-lint 2.x (#154)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:09:47.4011783Z",
+  "release_date": "2025-12-09T13:09:55.915431792Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -343,6 +343,28 @@
             {
               "SHA": "9de37946",
               "Subject": "Fix vertical scaling ops creation for storage resouce changes (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "37277ce1",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#18)"
+            },
+            {
+              "SHA": "dbfe579c",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#17)"
+            },
+            {
+              "SHA": "da33d710",
+              "Subject": "move ops code to db repo (#16)"
             }
           ]
         }

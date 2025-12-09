@@ -127,6 +127,16 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.6.0-rc.0)
+
+- [37277ce1](https://github.com/kubedb/hazelcast/commit/37277ce1) Prepare for release v0.6.0-rc.0 (#18)
+- [dbfe579c](https://github.com/kubedb/hazelcast/commit/dbfe579c) Fix multiple restart issue by introducing parallelismController (#17)
+- [da33d710](https://github.com/kubedb/hazelcast/commit/da33d710) move ops code to db repo (#16)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.7.0-rc.0)

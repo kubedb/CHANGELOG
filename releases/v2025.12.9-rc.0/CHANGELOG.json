@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:11:26.499802257Z",
+  "release_date": "2025-12-09T13:11:34.112940187Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -697,6 +697,36 @@
             {
               "SHA": "1358b920",
               "Subject": "Fix makefile for ubi images (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "669b8b79",
+              "Subject": "Use k8s 1.32 client libraries (#6)"
+            },
+            {
+              "SHA": "3d0c2f6f",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#5)"
+            },
+            {
+              "SHA": "b2f7e8f0",
+              "Subject": "Fix Readme"
+            },
+            {
+              "SHA": "63ee24ca",
+              "Subject": "replace go1.25.5 to go1.25 (#3)"
+            },
+            {
+              "SHA": "78e8ae36",
+              "Subject": "Neo4j Operator"
             }
           ]
         }

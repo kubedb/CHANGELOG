@@ -52,3 +52,13 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.0)
+
+- [0b38fae9](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/0b38fae9) Prepare for release v0.21.0-rc.0 (#69)
+- [6a3af86c](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/6a3af86c) Update golang version (#68)
+- [3ad4fd33](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/3ad4fd33) update lint (#67)
+
+
+

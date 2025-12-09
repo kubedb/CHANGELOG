@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T08:09:51.820207696Z",
+  "release_date": "2025-12-09T13:05:16.385249749Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -169,6 +169,28 @@
             {
               "SHA": "b824c01d",
               "Subject": "move go_es file to db-client (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0b38fae9",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "6a3af86c",
+              "Subject": "Update golang version (#68)"
+            },
+            {
+              "SHA": "3ad4fd33",
+              "Subject": "update lint (#67)"
             }
           ]
         }

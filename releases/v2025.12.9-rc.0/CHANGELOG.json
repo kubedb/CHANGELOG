@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:10:18.711847968Z",
+  "release_date": "2025-12-09T13:10:28.138669205Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -895,6 +895,32 @@
             {
               "SHA": "927601ab",
               "Subject": "Update make lint and Add Virtual Secret (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7c77bd18",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#302)"
+            },
+            {
+              "SHA": "5a586bb3",
+              "Subject": "Update Dockerfile label for application name"
+            },
+            {
+              "SHA": "09bc4ae6",
+              "Subject": "Build ubi image (#301)"
+            },
+            {
+              "SHA": "fd4f2bb5",
+              "Subject": "Use golangci-lint 2.x (#300)"
             }
           ]
         }

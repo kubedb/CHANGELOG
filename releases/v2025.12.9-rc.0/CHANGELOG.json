@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:05:33.807782447Z",
+  "release_date": "2025-12-09T13:05:57.810189221Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -229,6 +229,44 @@
             {
               "SHA": "0b95dc57",
               "Subject": "Use golangci-lint 2.x (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.0",
+          "commits": [
+            {
+              "SHA": "452097bc",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#219)"
+            },
+            {
+              "SHA": "9c1eeec7",
+              "Subject": "Increase High availabilty of cluster (#211)"
+            },
+            {
+              "SHA": "5ea8f8d1",
+              "Subject": "Fix linter warning"
+            },
+            {
+              "SHA": "b3b8080a",
+              "Subject": "Fix linter warnings (#218)"
+            },
+            {
+              "SHA": "0d13c636",
+              "Subject": "Fix container build command"
+            },
+            {
+              "SHA": "97da5fdf",
+              "Subject": "Build ubi image (#217)"
+            },
+            {
+              "SHA": "618be9b7",
+              "Subject": "Use golangci-lint 2.x (#216)"
             }
           ]
         }

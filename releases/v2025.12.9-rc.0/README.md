@@ -76,6 +76,20 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.44.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.44.0-rc.0)
+
+- [452097bc](https://github.com/kubedb/pg-coordinator/commit/452097bc) Prepare for release v0.44.0-rc.0 (#219)
+- [9c1eeec7](https://github.com/kubedb/pg-coordinator/commit/9c1eeec7) Increase High availabilty of cluster (#211)
+- [5ea8f8d1](https://github.com/kubedb/pg-coordinator/commit/5ea8f8d1) Fix linter warning
+- [b3b8080a](https://github.com/kubedb/pg-coordinator/commit/b3b8080a) Fix linter warnings (#218)
+- [0d13c636](https://github.com/kubedb/pg-coordinator/commit/0d13c636) Fix container build command
+- [97da5fdf](https://github.com/kubedb/pg-coordinator/commit/97da5fdf) Build ubi image (#217)
+- [618be9b7](https://github.com/kubedb/pg-coordinator/commit/618be9b7) Use golangci-lint 2.x (#216)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.0)

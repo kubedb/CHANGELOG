@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T14:52:44.085131412Z",
+  "release_date": "2025-12-09T14:57:42.346521045Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -1478,6 +1478,44 @@
         {
           "tag": "v0.21.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8bae571d5",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#177)"
+            },
+            {
+              "SHA": "478389968",
+              "Subject": "Add new DBs (#176)"
+            },
+            {
+              "SHA": "029d1c60c",
+              "Subject": "added milvus provisioner (#171)"
+            },
+            {
+              "SHA": "00ec61f1c",
+              "Subject": "Add Qdrant (#170)"
+            },
+            {
+              "SHA": "b8abc67f1",
+              "Subject": "Skip controller activation in certification mode (#174)"
+            },
+            {
+              "SHA": "b2ecb2f89",
+              "Subject": "Update deps (#173)"
+            },
+            {
+              "SHA": "f83d0339b",
+              "Subject": "Use golangci-lint 2.x (#172)"
+            }
+          ]
         }
       ]
     },

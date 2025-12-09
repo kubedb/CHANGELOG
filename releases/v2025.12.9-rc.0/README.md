@@ -627,6 +627,20 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.60.0-rc.0](https://github.com/kubedb/provisioner/releases/tag/v0.60.0-rc.0)
+
+- [8bae571d](https://github.com/kubedb/provisioner/commit/8bae571d5) Prepare for release v0.60.0-rc.0 (#177)
+- [47838996](https://github.com/kubedb/provisioner/commit/478389968) Add new DBs (#176)
+- [029d1c60](https://github.com/kubedb/provisioner/commit/029d1c60c) added milvus provisioner (#171)
+- [00ec61f1](https://github.com/kubedb/provisioner/commit/00ec61f1c) Add Qdrant (#170)
+- [b8abc67f](https://github.com/kubedb/provisioner/commit/b8abc67f1) Skip controller activation in certification mode (#174)
+- [b2ecb2f8](https://github.com/kubedb/provisioner/commit/b2ecb2f89) Update deps (#173)
+- [f83d0339](https://github.com/kubedb/provisioner/commit/f83d0339b) Use golangci-lint 2.x (#172)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.47.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.47.0-rc.0)

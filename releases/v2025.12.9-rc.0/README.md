@@ -222,6 +222,15 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.11.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.11.0-rc.0)
+
+- [616c0b5d](https://github.com/kubedb/kubedb-verifier/commit/616c0b5d) Prepare for release v0.11.0-rc.0 (#28)
+- [78b37027](https://github.com/kubedb/kubedb-verifier/commit/78b37027) Use golangci-lint 2.x (#27)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.44.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.44.0-rc.0)

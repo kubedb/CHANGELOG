@@ -110,3 +110,15 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.1.0-rc.0)
+
+- [61f7198f](https://github.com/kubedb/qdrant/commit/61f7198f) Prepare for release v0.1.0-rc.0 (#7)
+- [55cd4a5c](https://github.com/kubedb/qdrant/commit/55cd4a5c) k8s downgrade (#6)
+- [23165061](https://github.com/kubedb/qdrant/commit/23165061) makefile go 1.25 (#4)
+- [a3c6b74e](https://github.com/kubedb/qdrant/commit/a3c6b74e) Add Qdrant Provisioner
+- [251a144d](https://github.com/kubedb/qdrant/commit/251a144d) Update .gitignore
+
+
+

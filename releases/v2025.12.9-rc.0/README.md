@@ -112,6 +112,17 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.33.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.33.0-rc.0)
+
+- [d0d71987](https://github.com/kubedb/percona-xtradb-coordinator/commit/d0d71987) Prepare for release v0.33.0-rc.0 (#105)
+- [f3648936](https://github.com/kubedb/percona-xtradb-coordinator/commit/f3648936) Update image source and name in Dockerfile.ubi
+- [9e9945b7](https://github.com/kubedb/percona-xtradb-coordinator/commit/9e9945b7) Build ubi image (#104)
+- [437be99c](https://github.com/kubedb/percona-xtradb-coordinator/commit/437be99c) Use golangci-lint 2.x (#103)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.44.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.44.0-rc.0)

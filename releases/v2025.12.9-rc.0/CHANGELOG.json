@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:06:30.141097754Z",
+  "release_date": "2025-12-09T13:06:38.842825656Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -319,6 +319,32 @@
             {
               "SHA": "d1732152",
               "Subject": "Add golangci (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d0d71987",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#105)"
+            },
+            {
+              "SHA": "f3648936",
+              "Subject": "Update image source and name in Dockerfile.ubi"
+            },
+            {
+              "SHA": "9e9945b7",
+              "Subject": "Build ubi image (#104)"
+            },
+            {
+              "SHA": "437be99c",
+              "Subject": "Use golangci-lint 2.x (#103)"
             }
           ]
         }

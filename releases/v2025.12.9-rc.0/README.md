@@ -695,6 +695,16 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.1.0-rc.0)
+
+- [8bb614d](https://github.com/kubedb/weaviate/commit/8bb614d) Prepare for release v0.1.0-rc.0 (#4)
+- [d53d53e](https://github.com/kubedb/weaviate/commit/d53d53e) Add Weaviate DB Support
+- [1b27e93](https://github.com/kubedb/weaviate/commit/1b27e93) Add vendor
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.8.0-rc.0)

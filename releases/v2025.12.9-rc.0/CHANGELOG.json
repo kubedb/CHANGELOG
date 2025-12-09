@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T07:57:04.336197396Z",
+  "release_date": "2025-12-09T08:09:51.820207696Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -107,6 +107,68 @@
             {
               "SHA": "9ae5deaaa",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "238d08e2",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#209)"
+            },
+            {
+              "SHA": "3789532d",
+              "Subject": "Fix Go version (#208)"
+            },
+            {
+              "SHA": "eaca6fc1",
+              "Subject": "Add Weaviate Client Go (#202)"
+            },
+            {
+              "SHA": "1826245f",
+              "Subject": "Add hanadb client-go (#201)"
+            },
+            {
+              "SHA": "fbf24826",
+              "Subject": "Add milvus db-client-go (#198)"
+            },
+            {
+              "SHA": "2e876291",
+              "Subject": "Update go.mod file"
+            },
+            {
+              "SHA": "e3d3ecca",
+              "Subject": "Use golangci-lint 2.x (#207)"
+            },
+            {
+              "SHA": "5beb8789",
+              "Subject": "Add Oracle tls support (#205)"
+            },
+            {
+              "SHA": "0daf0012",
+              "Subject": "Add Neo4j Client (#204)"
+            },
+            {
+              "SHA": "8f852044",
+              "Subject": "Add db2 client go (#206)"
+            },
+            {
+              "SHA": "0b613041",
+              "Subject": "Add Qdrant (#197)"
+            },
+            {
+              "SHA": "f77e6314",
+              "Subject": "Add Virtual Secret Pgbouncer Pgpool Redis Valkey (#199)"
+            },
+            {
+              "SHA": "b824c01d",
+              "Subject": "move go_es file to db-client (#200)"
             }
           ]
         }

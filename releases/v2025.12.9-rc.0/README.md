@@ -159,3 +159,13 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.15.0-rc.0)
+
+- [090077d5](https://github.com/kubedb/solr/commit/090077d5) Prepare for release v0.15.0-rc.0 (#102)
+- [cb654575](https://github.com/kubedb/solr/commit/cb654575) Fix multiple restart issue by introducing parallelismController (#101)
+- [8919aabd](https://github.com/kubedb/solr/commit/8919aabd) Move in Ops-manager code to Solr (#100)
+
+
+

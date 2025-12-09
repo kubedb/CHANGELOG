@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:06:38.842825656Z",
+  "release_date": "2025-12-09T13:06:48.341915616Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -435,6 +435,28 @@
             {
               "SHA": "251a144d",
               "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "090077d5",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "cb654575",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#101)"
+            },
+            {
+              "SHA": "8919aabd",
+              "Subject": "Move in Ops-manager code to Solr (#100)"
             }
           ]
         }

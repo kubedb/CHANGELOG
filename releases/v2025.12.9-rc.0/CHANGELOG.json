@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:14:47.926904841Z",
+  "release_date": "2025-12-09T13:14:59.919489131Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -395,6 +395,40 @@
             {
               "SHA": "e5a1b21d",
               "Subject": "update-deps (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7b572633",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#93)"
+            },
+            {
+              "SHA": "b05a9345",
+              "Subject": "Fix go version (#92)"
+            },
+            {
+              "SHA": "e5d1ee2d",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#91)"
+            },
+            {
+              "SHA": "719326aa",
+              "Subject": "Move in FerretDb Ops Manager Code (#90)"
+            },
+            {
+              "SHA": "6662b891",
+              "Subject": "Test against k8s 1.34 (#89)"
+            },
+            {
+              "SHA": "3c73ec67",
+              "Subject": "No need to check backend's owner ref"
             }
           ]
         }

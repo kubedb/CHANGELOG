@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:14:59.919489131Z",
+  "release_date": "2025-12-09T13:15:12.105140541Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -773,6 +773,32 @@
             {
               "SHA": "821c386c",
               "Subject": "Fix makefile for ubi images (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e859024e",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "1b3d5a4d",
+              "Subject": "Fix container build command"
+            },
+            {
+              "SHA": "a3e461c3",
+              "Subject": "Build ubi image (#46)"
+            },
+            {
+              "SHA": "9268580a",
+              "Subject": "Use golangci-lint 2.x (#45)"
             }
           ]
         }

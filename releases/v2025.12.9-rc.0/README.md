@@ -311,6 +311,17 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.15.0-rc.0)
+
+- [e859024e](https://github.com/kubedb/mssql-coordinator/commit/e859024e) Prepare for release v0.15.0-rc.0 (#47)
+- [1b3d5a4d](https://github.com/kubedb/mssql-coordinator/commit/1b3d5a4d) Fix container build command
+- [a3e461c3](https://github.com/kubedb/mssql-coordinator/commit/a3e461c3) Build ubi image (#46)
+- [9268580a](https://github.com/kubedb/mssql-coordinator/commit/9268580a) Use golangci-lint 2.x (#45)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.15.0-rc.0)

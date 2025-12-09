@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:09:32.498475705Z",
+  "release_date": "2025-12-09T13:09:40.313773672Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -659,6 +659,36 @@
             {
               "SHA": "618be9b7",
               "Subject": "Use golangci-lint 2.x (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1658ccf6",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "fb8f8428",
+              "Subject": "Update Go version (#71)"
+            },
+            {
+              "SHA": "d0df1d7b",
+              "Subject": "Merge pull request #70 from kubedb/lint"
+            },
+            {
+              "SHA": "26d3ba73",
+              "Subject": "update linter"
+            },
+            {
+              "SHA": "4f806c00",
+              "Subject": "Build and push ubi image (#69)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:06:23.692126285Z",
+  "release_date": "2025-12-09T13:06:30.141097754Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -153,6 +153,28 @@
             {
               "SHA": "80e2bc36",
               "Subject": "Add Qdrant CRD (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c970a47",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "b42b5f6",
+              "Subject": "change to 1.25 (#50)"
+            },
+            {
+              "SHA": "c1811e1",
+              "Subject": "Update Dependency (#49)"
             }
           ]
         }

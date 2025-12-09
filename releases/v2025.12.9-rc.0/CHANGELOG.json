@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T14:37:54.740931428Z",
+  "release_date": "2025-12-09T14:38:00.642727345Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -713,6 +713,28 @@
             {
               "SHA": "0b95dc57",
               "Subject": "Use golangci-lint 2.x (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "615724cf",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "f44d64b1",
+              "Subject": "Change Makefile GO Version (#58)"
+            },
+            {
+              "SHA": "38df4729",
+              "Subject": "Add golangci (#57)"
             }
           ]
         }

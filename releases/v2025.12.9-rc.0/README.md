@@ -243,6 +243,16 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.6.0-rc.0)
+
+- [f8d1e749](https://github.com/kubedb/oracle/commit/f8d1e749) Prepare for release v0.6.0-rc.0 (#20)
+- [0aaf27b2](https://github.com/kubedb/oracle/commit/0aaf27b2) Oracle tls complete after review (#18)
+- [06611a2f](https://github.com/kubedb/oracle/commit/06611a2f) Moved ops code in oracle operator (#19)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.6.0-rc.0)

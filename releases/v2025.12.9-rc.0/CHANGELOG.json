@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:07:07.816583316Z",
+  "release_date": "2025-12-09T13:07:23.143145853Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -465,6 +465,28 @@
             {
               "SHA": "251a144d",
               "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "acecd5f21",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#611)"
+            },
+            {
+              "SHA": "fc0fe37bd",
+              "Subject": "add Virtual Secret and update lint (#610)"
+            },
+            {
+              "SHA": "994b34ece",
+              "Subject": "Move ops code to db repo (#609)"
             }
           ]
         }

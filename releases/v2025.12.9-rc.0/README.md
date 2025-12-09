@@ -171,6 +171,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.53.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.53.0-rc.0)
+
+- [acecd5f2](https://github.com/kubedb/redis/commit/acecd5f21) Prepare for release v0.53.0-rc.0 (#611)
+- [fc0fe37b](https://github.com/kubedb/redis/commit/fc0fe37bd) add Virtual Secret and update lint (#610)
+- [994b34ec](https://github.com/kubedb/redis/commit/994b34ece) Move ops code to db repo (#609)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.15.0-rc.0)

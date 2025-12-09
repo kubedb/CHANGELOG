@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:16:15.690760658Z",
+  "release_date": "2025-12-09T14:37:24.444147603Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -1412,6 +1412,28 @@
         {
           "tag": "v0.21.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1f965f4fd",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#408)"
+            },
+            {
+              "SHA": "4ed80eed3",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#407)"
+            },
+            {
+              "SHA": "111aa2aa5",
+              "Subject": "Move ops to db repo (#406)"
+            }
+          ]
         }
       ]
     },

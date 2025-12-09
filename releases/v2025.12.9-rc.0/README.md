@@ -597,6 +597,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.47.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.47.0-rc.0)
+
+- [1f965f4f](https://github.com/kubedb/proxysql/commit/1f965f4fd) Prepare for release v0.47.0-rc.0 (#408)
+- [4ed80eed](https://github.com/kubedb/proxysql/commit/4ed80eed3) Fix multiple restart issue by introducing parallelismController (#407)
+- [111aa2aa](https://github.com/kubedb/proxysql/commit/111aa2aa5) Move ops to db repo (#406)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.1.0-rc.0)

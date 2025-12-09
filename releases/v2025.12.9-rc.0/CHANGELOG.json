@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:05:25.273524912Z",
+  "release_date": "2025-12-09T13:05:33.807782447Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -169,6 +169,36 @@
             {
               "SHA": "b824c01d",
               "Subject": "move go_es file to db-client (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5a4450ec",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#64)"
+            },
+            {
+              "SHA": "51b288e1",
+              "Subject": "Change Makefile GO Version (#63)"
+            },
+            {
+              "SHA": "12dd22cc",
+              "Subject": "Add golangci (#62)"
+            },
+            {
+              "SHA": "4364d82b",
+              "Subject": "Build and push ubi image (#61)"
+            },
+            {
+              "SHA": "cd57feb0",
+              "Subject": "Fix none mode slave not running issue (#60)"
             }
           ]
         }

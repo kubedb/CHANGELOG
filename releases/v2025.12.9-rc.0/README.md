@@ -52,6 +52,18 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.20.0-rc.0)
+
+- [5a4450ec](https://github.com/kubedb/mariadb-archiver/commit/5a4450ec) Prepare for release v0.20.0-rc.0 (#64)
+- [51b288e1](https://github.com/kubedb/mariadb-archiver/commit/51b288e1) Change Makefile GO Version (#63)
+- [12dd22cc](https://github.com/kubedb/mariadb-archiver/commit/12dd22cc) Add golangci (#62)
+- [4364d82b](https://github.com/kubedb/mariadb-archiver/commit/4364d82b) Build and push ubi image (#61)
+- [cd57feb0](https://github.com/kubedb/mariadb-archiver/commit/cd57feb0) Fix none mode slave not running issue (#60)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.40.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.40.0-rc.0)

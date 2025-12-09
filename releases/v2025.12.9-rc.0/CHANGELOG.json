@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T13:11:43.101499557Z",
+  "release_date": "2025-12-09T13:11:51.273171144Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -635,6 +635,28 @@
             {
               "SHA": "57998a04b",
               "Subject": "move ops code to db repo (#703)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "da732228",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#71)"
+            },
+            {
+              "SHA": "e3a552e8",
+              "Subject": "Change Makefile GO Version (#70)"
+            },
+            {
+              "SHA": "ad8911b6",
+              "Subject": "Add golangci (#69)"
             }
           ]
         }

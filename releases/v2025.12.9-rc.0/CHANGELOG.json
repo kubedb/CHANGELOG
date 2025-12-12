@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-09T16:37:25.348525378Z",
+  "release_date": "2025-12-12T03:49:21.289026242Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -583,6 +583,236 @@
             {
               "SHA": "371c83df",
               "Subject": "Move ops to db repo (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.12.9-rc.0",
+          "commits": [
+            {
+              "SHA": "679a5feca",
+              "Subject": "Prepare for release v2025.12.9-rc.0 (#1963)"
+            },
+            {
+              "SHA": "66929a1b5",
+              "Subject": "Update es init tags: update feature-gates list (#1962)"
+            },
+            {
+              "SHA": "7abea93d0",
+              "Subject": "Review the webhookconfiguration files (#1959)"
+            },
+            {
+              "SHA": "b423856b0",
+              "Subject": "Prepare chart for redhat certification (#1955)"
+            },
+            {
+              "SHA": "1ad0e6414",
+              "Subject": "Add Neo4jVersion (#1932)"
+            },
+            {
+              "SHA": "b8a31dab5",
+              "Subject": "Update postgres init image tag (#1958)"
+            },
+            {
+              "SHA": "16fd66b26",
+              "Subject": "Add oracle tls (#1956)"
+            },
+            {
+              "SHA": "d824a4d55",
+              "Subject": "HanaDB (#1881)"
+            },
+            {
+              "SHA": "3f1499618",
+              "Subject": "Add Qdrant (#1890)"
+            },
+            {
+              "SHA": "f7d128e7d",
+              "Subject": "Add milvus installer (#1900)"
+            },
+            {
+              "SHA": "1123c1892",
+              "Subject": "Add Db2 Version (#1904)"
+            },
+            {
+              "SHA": "29dcbe33f",
+              "Subject": "Update cve report 2025-12-07 (#1954)"
+            },
+            {
+              "SHA": "793d82b5a",
+              "Subject": "Add mariadb physical backup image (#1939)"
+            },
+            {
+              "SHA": "817c44ca6",
+              "Subject": "Add Weaviate Catalogs (#1911)"
+            },
+            {
+              "SHA": "0365dbdda",
+              "Subject": "Update Go version and Redis Init image Tag update (#1957)"
+            },
+            {
+              "SHA": "bf9df2edc",
+              "Subject": "Add ubi mode (#1927)"
+            },
+            {
+              "SHA": "01c32e1e9",
+              "Subject": "Update cve report (#1952)"
+            },
+            {
+              "SHA": "6c6a3b84e",
+              "Subject": "Use golangci-lint 2.x (#1953)"
+            },
+            {
+              "SHA": "4a195ef33",
+              "Subject": "Update crds for kubedb/apimachinery@9131dc31 (#1950)"
+            },
+            {
+              "SHA": "61aa39a6a",
+              "Subject": "Update crds for kubedb/apimachinery@e1143b59 (#1948)"
+            },
+            {
+              "SHA": "595658685",
+              "Subject": "Update crds for kubedb/apimachinery@0c8e327b (#1945)"
+            },
+            {
+              "SHA": "25ca5d6f4",
+              "Subject": "Update crds for kubedb/apimachinery@e34d1088 (#1944)"
+            },
+            {
+              "SHA": "18e7b523c",
+              "Subject": "Update cve report (#1943)"
+            },
+            {
+              "SHA": "2c113fc77",
+              "Subject": "Update crds for kubedb/apimachinery@7e98c3f0 (#1941)"
+            },
+            {
+              "SHA": "bbdb57ead",
+              "Subject": "Update cve report (#1938)"
+            },
+            {
+              "SHA": "455f07880",
+              "Subject": "Update cve report (#1937)"
+            },
+            {
+              "SHA": "7923b3fa3",
+              "Subject": "Update cve report (#1936)"
+            },
+            {
+              "SHA": "4c96365b8",
+              "Subject": "Update cve report (#1935)"
+            },
+            {
+              "SHA": "ea790c887",
+              "Subject": "Update cve report (#1934)"
+            },
+            {
+              "SHA": "fcb1ea183",
+              "Subject": "Update cve report (#1933)"
+            },
+            {
+              "SHA": "0c5c749ac",
+              "Subject": "Update cve report (#1931)"
+            },
+            {
+              "SHA": "1ac660181",
+              "Subject": "Update cve report (#1930)"
+            },
+            {
+              "SHA": "ffed437e2",
+              "Subject": "Update cve report (#1929)"
+            },
+            {
+              "SHA": "0c4e8c219",
+              "Subject": "Update cve report (#1928)"
+            },
+            {
+              "SHA": "991a47022",
+              "Subject": "Update crds for kubedb/apimachinery@2bbafe54 (#1924)"
+            },
+            {
+              "SHA": "83567b9be",
+              "Subject": "Update cve report (#1923)"
+            },
+            {
+              "SHA": "314786ea7",
+              "Subject": "Update cve report (#1920)"
+            },
+            {
+              "SHA": "2c8b0c113",
+              "Subject": "Update vulnerable deps (#1922)"
+            },
+            {
+              "SHA": "7cda2f686",
+              "Subject": "Update cve report (#1918)"
+            },
+            {
+              "SHA": "0b99a9aeb",
+              "Subject": "Update cve report (#1917)"
+            },
+            {
+              "SHA": "382818e48",
+              "Subject": "Update cve report (#1916)"
+            },
+            {
+              "SHA": "6fc3cd4f3",
+              "Subject": "Update cve report (#1915)"
+            },
+            {
+              "SHA": "4d3da89e1",
+              "Subject": "Update cve report (#1914)"
+            },
+            {
+              "SHA": "395bed209",
+              "Subject": "Update cve report (#1913)"
+            },
+            {
+              "SHA": "3552b77ab",
+              "Subject": "Update cve report (#1912)"
+            },
+            {
+              "SHA": "e7d87c6de",
+              "Subject": "Update cve report (#1910)"
+            },
+            {
+              "SHA": "650ad03e1",
+              "Subject": "Update cve report (#1909)"
+            },
+            {
+              "SHA": "4c38a0436",
+              "Subject": "Update cve report (#1908)"
+            },
+            {
+              "SHA": "001a720f7",
+              "Subject": "Update cve report (#1907)"
+            },
+            {
+              "SHA": "f95d048a8",
+              "Subject": "Update cve report (#1906)"
+            },
+            {
+              "SHA": "e0c9772e9",
+              "Subject": "Update cve report (#1905)"
+            },
+            {
+              "SHA": "da4902985",
+              "Subject": "Update cve report (#1903)"
+            },
+            {
+              "SHA": "17a308045",
+              "Subject": "Update cve report (#1902)"
+            },
+            {
+              "SHA": "003822e25",
+              "Subject": "Update gitops operator container name (#1901)"
+            },
+            {
+              "SHA": "d1e28390f",
+              "Subject": "Update cve report (#1899)"
             }
           ]
         }

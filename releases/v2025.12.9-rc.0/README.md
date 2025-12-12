@@ -147,6 +147,16 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.12.9-rc.0](https://github.com/kubedb/docs/releases/tag/v2025.12.9-rc.0)
+
+- [5b9e903e](https://github.com/kubedb/docs/commit/5b9e903e) Prepare for release v2025.12.9-rc.0 (#834)
+- [601015e6](https://github.com/kubedb/docs/commit/601015e6) Update docs for kubedb/cli@fe2da356 (#832)
+- [2466ff44](https://github.com/kubedb/docs/commit/2466ff44)  Restart  ops requests (#822)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.15.0-rc.0)

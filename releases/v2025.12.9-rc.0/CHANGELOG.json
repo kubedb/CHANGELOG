@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.9-rc.0",
-  "release_date": "2025-12-12T03:49:21.289026242Z",
+  "release_date": "2025-12-12T04:05:34.309266409Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.9-rc.0",
   "kubernetes_version": "1.26+",
@@ -387,6 +387,28 @@
             {
               "SHA": "e44da80",
               "Subject": "Use golangci-lint 2.x (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.12.9-rc.0",
+          "commits": [
+            {
+              "SHA": "5b9e903e",
+              "Subject": "Prepare for release v2025.12.9-rc.0 (#834)"
+            },
+            {
+              "SHA": "601015e6",
+              "Subject": "Update docs for kubedb/cli@fe2da356 (#832)"
+            },
+            {
+              "SHA": "2466ff44",
+              "Subject": " Restart  ops requests (#822)"
             }
           ]
         }

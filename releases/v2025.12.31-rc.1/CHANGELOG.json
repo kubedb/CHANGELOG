@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:44:23.985696175Z",
+  "release_date": "2025-12-31T17:44:32.57375154Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -533,6 +533,32 @@
             {
               "SHA": "bbf8bfc9",
               "Subject": "Publish Image for Redhat software certification (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "eba27b4e",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#99)"
+            },
+            {
+              "SHA": "7b9d416a",
+              "Subject": "Use k8s 1.34 client libs (#98)"
+            },
+            {
+              "SHA": "ae919478",
+              "Subject": "Fix makefile indentation (#97)"
+            },
+            {
+              "SHA": "e6cd9a26",
+              "Subject": "Publish Image for Redhat software certification (#96)"
             }
           ]
         }

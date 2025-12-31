@@ -149,6 +149,17 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.40.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.40.0-rc.1)
+
+- [9b802d89](https://github.com/kubedb/mariadb-coordinator/commit/9b802d89) Prepare for release v0.40.0-rc.1 (#160)
+- [f69441b7](https://github.com/kubedb/mariadb-coordinator/commit/f69441b7) Use k8s 1.34 client libs (#159)
+- [5046d4ba](https://github.com/kubedb/mariadb-coordinator/commit/5046d4ba) Fix makefile indentation (#158)
+- [4b8af065](https://github.com/kubedb/mariadb-coordinator/commit/4b8af065) Publish Image for Redhat software certification (#157)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.18.0-rc.1](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.18.0-rc.1)

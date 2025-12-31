@@ -574,6 +574,16 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/zookeeper/releases/tag/v0.15.0-rc.1)
+
+- [05a44ba9](https://github.com/kubedb/zookeeper/commit/05a44ba9) Prepare for release v0.15.0-rc.1 (#97)
+- [bfdf1c28](https://github.com/kubedb/zookeeper/commit/bfdf1c28) Use k8s 1.34 client libs (#96)
+- [ca2cbe8b](https://github.com/kubedb/zookeeper/commit/ca2cbe8b) Test against k8s 1.35 (#95)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.16.0-rc.1)

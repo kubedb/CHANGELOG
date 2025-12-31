@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:56:17.402192126Z",
+  "release_date": "2025-12-31T17:56:27.547092559Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -1321,6 +1321,28 @@
             {
               "SHA": "bb44171",
               "Subject": "Publish Image for Redhat software certification (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "05a44ba9",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#97)"
+            },
+            {
+              "SHA": "bfdf1c28",
+              "Subject": "Use k8s 1.34 client libs (#96)"
+            },
+            {
+              "SHA": "ca2cbe8b",
+              "Subject": "Test against k8s 1.35 (#95)"
             }
           ]
         }

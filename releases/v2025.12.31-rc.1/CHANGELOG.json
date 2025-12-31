@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:39:52.85693319Z",
+  "release_date": "2025-12-31T17:40:03.044586992Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -105,6 +105,28 @@
             {
               "SHA": "d9ada989",
               "Subject": "Test against k8s 1.35 (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "94598fe3",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#78)"
+            },
+            {
+              "SHA": "fb7521bd",
+              "Subject": "Fix makefile indentation (#77)"
+            },
+            {
+              "SHA": "ce5dfcea",
+              "Subject": "Publish Image for Redhat software certification (#76)"
             }
           ]
         }

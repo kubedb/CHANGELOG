@@ -45,6 +45,16 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.23.0-rc.1)
+
+- [94598fe3](https://github.com/kubedb/elasticsearch-restic-plugin/commit/94598fe3) Prepare for release v0.23.0-rc.1 (#78)
+- [fb7521bd](https://github.com/kubedb/elasticsearch-restic-plugin/commit/fb7521bd) Fix makefile indentation (#77)
+- [ce5dfcea](https://github.com/kubedb/elasticsearch-restic-plugin/commit/ce5dfcea) Publish Image for Redhat software certification (#76)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/gitops/releases/tag/v0.8.0-rc.1)

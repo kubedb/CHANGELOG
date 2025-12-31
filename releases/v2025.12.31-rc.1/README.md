@@ -26,6 +26,15 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/db2/releases/tag/v0.1.0-rc.1)
+
+- [e64f6a2f](https://github.com/kubedb/db2/commit/e64f6a2f) Prepare for release v0.1.0-rc.1 (#7)
+- [46dfb4fb](https://github.com/kubedb/db2/commit/46dfb4fb) Use k8s 1.34 client libs (#5)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/gitops/releases/tag/v0.8.0-rc.1)

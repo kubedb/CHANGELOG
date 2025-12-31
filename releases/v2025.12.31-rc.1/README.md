@@ -215,6 +215,16 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.15.0-rc.1)
+
+- [9dd2d8a5](https://github.com/kubedb/singlestore/commit/9dd2d8a5) Prepare for release v0.15.0-rc.1 (#94)
+- [73d9f999](https://github.com/kubedb/singlestore/commit/73d9f999) Use k8s 1.34 client libs (#93)
+- [f84e08b4](https://github.com/kubedb/singlestore/commit/f84e08b4) Test against k8s 1.35 (#92)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/solr/releases/tag/v0.15.0-rc.1)

@@ -128,6 +128,17 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.18.0-rc.1](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.18.0-rc.1)
+
+- [c0496d3](https://github.com/kubedb/mariadb-restic-plugin/commit/c0496d3) Prepare for release v0.18.0-rc.1 (#67)
+- [ea8641d](https://github.com/kubedb/mariadb-restic-plugin/commit/ea8641d) Use k8s 1.34 client libs (#66)
+- [74bd202](https://github.com/kubedb/mariadb-restic-plugin/commit/74bd202) Fix makefile indentation (#65)
+- [3a13be1](https://github.com/kubedb/mariadb-restic-plugin/commit/3a13be1) Publish Image for Redhat software certification (#64)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.53.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.53.0-rc.1)

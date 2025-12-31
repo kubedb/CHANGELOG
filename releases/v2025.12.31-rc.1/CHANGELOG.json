@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:42:07.253052994Z",
+  "release_date": "2025-12-31T17:42:15.973762362Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -293,6 +293,32 @@
             {
               "SHA": "1e935bfa",
               "Subject": "Publish Image for Redhat software certification (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c0496d3",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#67)"
+            },
+            {
+              "SHA": "ea8641d",
+              "Subject": "Use k8s 1.34 client libs (#66)"
+            },
+            {
+              "SHA": "74bd202",
+              "Subject": "Fix makefile indentation (#65)"
+            },
+            {
+              "SHA": "3a13be1",
+              "Subject": "Publish Image for Redhat software certification (#64)"
             }
           ]
         }

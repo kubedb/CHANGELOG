@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:43:50.768376163Z",
+  "release_date": "2025-12-31T17:44:09.989509856Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -319,6 +319,28 @@
             {
               "SHA": "e361b1c0",
               "Subject": "Test against k8s 1.35 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.1",
+          "commits": [
+            {
+              "SHA": "50dda47a",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#171)"
+            },
+            {
+              "SHA": "6794c280",
+              "Subject": "Use k8s 1.34 client libs (#170)"
+            },
+            {
+              "SHA": "46f4f915",
+              "Subject": "Test against k8s 1.35 (#168)"
             }
           ]
         }

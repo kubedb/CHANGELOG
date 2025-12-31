@@ -69,3 +69,14 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.39.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.39.0-rc.1)
+
+- [c7289d79](https://github.com/kubedb/redis-coordinator/commit/c7289d79) Prepare for release v0.39.0-rc.1 (#143)
+- [a135f6e5](https://github.com/kubedb/redis-coordinator/commit/a135f6e5) Use k8s 1.34 client libs (#142)
+- [42038efc](https://github.com/kubedb/redis-coordinator/commit/42038efc) Fix makefile indentation (#141)
+- [9924e4eb](https://github.com/kubedb/redis-coordinator/commit/9924e4eb) Publish Image for Redhat software certification (#140)
+
+
+

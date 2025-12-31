@@ -15,3 +15,14 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/db-client-go/releases/tag/v0.15.0-rc.1)
+
+- [3f74e4df](https://github.com/kubedb/db-client-go/commit/3f74e4df) Prepare for release v0.15.0-rc.1 (#215)
+- [d7814284](https://github.com/kubedb/db-client-go/commit/d7814284) Update vulnerable deps (#214)
+- [cf25883f](https://github.com/kubedb/db-client-go/commit/cf25883f) Use k8s 1.34 client libs (#213)
+- [17120b90](https://github.com/kubedb/db-client-go/commit/17120b90) Update deps
+
+
+

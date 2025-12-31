@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T12:24:58.562660051Z",
+  "release_date": "2025-12-31T12:38:13.952226545Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -38,6 +38,32 @@
             },
             {
               "SHA": "5cfded61a",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "3f74e4df",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#215)"
+            },
+            {
+              "SHA": "d7814284",
+              "Subject": "Update vulnerable deps (#214)"
+            },
+            {
+              "SHA": "cf25883f",
+              "Subject": "Use k8s 1.34 client libs (#213)"
+            },
+            {
+              "SHA": "17120b90",
               "Subject": "Update deps"
             }
           ]

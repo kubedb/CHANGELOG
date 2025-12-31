@@ -445,6 +445,17 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.23.0-rc.1)
+
+- [84b3bcce](https://github.com/kubedb/redis-restic-plugin/commit/84b3bcce) Prepare for release v0.23.0-rc.1 (#82)
+- [b2ea9fc3](https://github.com/kubedb/redis-restic-plugin/commit/b2ea9fc3) Use k8s 1.34 client libs (#81)
+- [3b705e12](https://github.com/kubedb/redis-restic-plugin/commit/3b705e12) Fix makefile indentation (#80)
+- [6801fb25](https://github.com/kubedb/redis-restic-plugin/commit/6801fb25) Publish Image for Redhat software certification (#79)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.15.0-rc.1)

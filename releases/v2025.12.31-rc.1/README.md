@@ -123,6 +123,17 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.23.0-rc.1)
+
+- [a8876977](https://github.com/kubedb/postgres-restic-plugin/commit/a8876977) Prepare for release v0.23.0-rc.1 (#87)
+- [13e072fb](https://github.com/kubedb/postgres-restic-plugin/commit/13e072fb) Use k8s 1.34 client libs (#86)
+- [b258277e](https://github.com/kubedb/postgres-restic-plugin/commit/b258277e) Fix makefile indentation (#85)
+- [5a182fc7](https://github.com/kubedb/postgres-restic-plugin/commit/5a182fc7) Publish Image for Redhat software certification (#84)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.39.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.39.0-rc.1)

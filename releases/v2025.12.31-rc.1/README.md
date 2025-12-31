@@ -80,3 +80,14 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/solr/releases/tag/v0.15.0-rc.1)
+
+- [4073694e](https://github.com/kubedb/solr/commit/4073694e) Prepare for release v0.15.0-rc.1 (#106)
+- [1bd7aa31](https://github.com/kubedb/solr/commit/1bd7aa31) Use k8s 1.34 client libs (#105)
+- [a1581efa](https://github.com/kubedb/solr/commit/a1581efa) Bump k8s.io/kubernetes from 1.32.8 to 1.32.10 (#104)
+- [ec4afd2b](https://github.com/kubedb/solr/commit/ec4afd2b) Test against k8s 1.35 (#103)
+
+
+

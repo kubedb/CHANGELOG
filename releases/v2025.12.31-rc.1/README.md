@@ -107,6 +107,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/ferretdb/releases/tag/v0.15.0-rc.1)
+
+- [5ef0a4a1](https://github.com/kubedb/ferretdb/commit/5ef0a4a1) Prepare for release v0.15.0-rc.1 (#96)
+- [8e07c378](https://github.com/kubedb/ferretdb/commit/8e07c378) Use k8s 1.34 client libs (#95)
+- [8e5d5e72](https://github.com/kubedb/ferretdb/commit/8e5d5e72) Test against k8s 1.35 (#94)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/gitops/releases/tag/v0.8.0-rc.1)

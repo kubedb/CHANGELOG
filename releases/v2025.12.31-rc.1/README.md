@@ -47,6 +47,16 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.53.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.53.0-rc.1)
+
+- [a03adaf4](https://github.com/kubedb/memcached/commit/a03adaf45) Prepare for release v0.53.0-rc.1 (#517)
+- [eadd34c6](https://github.com/kubedb/memcached/commit/eadd34c62) Use k8s 1.34 client libs (#516)
+- [3bad84ba](https://github.com/kubedb/memcached/commit/3bad84baa) Test against k8s 1.35 (#515)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/milvus/releases/tag/v0.1.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:38:09.591323176Z",
+  "release_date": "2025-12-31T17:38:26.263442849Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -113,6 +113,28 @@
             {
               "SHA": "f33961085",
               "Subject": "Test against k8s 1.35 (#361)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a03adaf45",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#517)"
+            },
+            {
+              "SHA": "eadd34c62",
+              "Subject": "Use k8s 1.34 client libs (#516)"
+            },
+            {
+              "SHA": "3bad84baa",
+              "Subject": "Test against k8s 1.35 (#515)"
             }
           ]
         }

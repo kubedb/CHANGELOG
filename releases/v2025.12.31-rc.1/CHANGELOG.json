@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:43:36.278840018Z",
+  "release_date": "2025-12-31T17:43:50.768376163Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -87,6 +87,32 @@
             {
               "SHA": "0ca8af6d",
               "Subject": "Publish Image for Redhat software certification (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "09f8c382",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "02225ed0",
+              "Subject": "Use k8s 1.34 client libs (#104)"
+            },
+            {
+              "SHA": "8565968f",
+              "Subject": "Fix makefile indentation (#103)"
+            },
+            {
+              "SHA": "370e88f2",
+              "Subject": "Publish Image for Redhat software certification (#102)"
             }
           ]
         }

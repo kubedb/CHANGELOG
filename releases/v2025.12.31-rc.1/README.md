@@ -36,6 +36,17 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/crd-manager/releases/tag/v0.15.0-rc.1)
+
+- [09f8c382](https://github.com/kubedb/crd-manager/commit/09f8c382) Prepare for release v0.15.0-rc.1 (#105)
+- [02225ed0](https://github.com/kubedb/crd-manager/commit/02225ed0) Use k8s 1.34 client libs (#104)
+- [8565968f](https://github.com/kubedb/crd-manager/commit/8565968f) Fix makefile indentation (#103)
+- [370e88f2](https://github.com/kubedb/crd-manager/commit/370e88f2) Publish Image for Redhat software certification (#102)
+
+
+
 ## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
 
 ### [v0.18.0-rc.1](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.18.0-rc.1)

@@ -584,6 +584,18 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.45.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.45.0-rc.1)
+
+- [66510754](https://github.com/kubedb/tests/commit/66510754) Prepare for release v0.45.0-rc.1 (#499)
+- [3b1d93be](https://github.com/kubedb/tests/commit/3b1d93be) Use k8s 1.34 client libs (#498)
+- [ec3491a2](https://github.com/kubedb/tests/commit/ec3491a2) Test against k8s 1.35 (#496)
+- [5ad85722](https://github.com/kubedb/tests/commit/5ad85722) MSSQLServer Logical Backup (Wal-G) (#481)
+- [f3b02cd7](https://github.com/kubedb/tests/commit/f3b02cd7) MariaDB MaxScale VerticalScale (#491)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.8.0-rc.1)

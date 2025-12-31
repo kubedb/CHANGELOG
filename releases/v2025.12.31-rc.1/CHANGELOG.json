@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:41:57.74773049Z",
+  "release_date": "2025-12-31T17:42:07.253052994Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -359,6 +359,32 @@
             {
               "SHA": "5125d044",
               "Subject": "Test against k8s 1.35 (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.1",
+          "commits": [
+            {
+              "SHA": "07f0670",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#41)"
+            },
+            {
+              "SHA": "231ae1c",
+              "Subject": "Use k8s 1.34 client libs (#40)"
+            },
+            {
+              "SHA": "343568c",
+              "Subject": "Fix makefile indentation (#39)"
+            },
+            {
+              "SHA": "bc447f8",
+              "Subject": "Publish Image for Redhat software certification (#38)"
             }
           ]
         }

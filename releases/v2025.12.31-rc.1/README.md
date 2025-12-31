@@ -158,6 +158,17 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.14.0-rc.1)
+
+- [07f0670](https://github.com/kubedb/mssqlserver-walg-plugin/commit/07f0670) Prepare for release v0.14.0-rc.1 (#41)
+- [231ae1c](https://github.com/kubedb/mssqlserver-walg-plugin/commit/231ae1c) Use k8s 1.34 client libs (#40)
+- [343568c](https://github.com/kubedb/mssqlserver-walg-plugin/commit/343568c) Fix makefile indentation (#39)
+- [bc447f8](https://github.com/kubedb/mssqlserver-walg-plugin/commit/bc447f8) Publish Image for Redhat software certification (#38)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.53.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.53.0-rc.1)

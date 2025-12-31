@@ -36,6 +36,17 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.1)
+
+- [aacc62c7](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/aacc62c7) Prepare for release v0.21.0-rc.1 (#63)
+- [50746a8e](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/50746a8e) Use k8s 1.34 client libs (#62)
+- [a4ef9a0b](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/a4ef9a0b) Fix makefile indentation (#61)
+- [6b1059ae](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/6b1059ae) Publish Image for Redhat software certification (#60)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.23.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.23.0-rc.1)

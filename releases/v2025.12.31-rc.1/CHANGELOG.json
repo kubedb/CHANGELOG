@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:42:26.095568357Z",
+  "release_date": "2025-12-31T17:42:37.64909453Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -39,6 +39,28 @@
             {
               "SHA": "5cfded61a",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.1",
+          "commits": [
+            {
+              "SHA": "04f224cf",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#56)"
+            },
+            {
+              "SHA": "8bd54c7a",
+              "Subject": "Use k8s 1.34 client libs (#55)"
+            },
+            {
+              "SHA": "00e147f5",
+              "Subject": "Test against k8s 1.35 (#54)"
             }
           ]
         }

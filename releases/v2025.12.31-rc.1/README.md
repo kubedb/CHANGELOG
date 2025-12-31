@@ -15,6 +15,16 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.13.0-rc.1](https://github.com/kubedb/cassandra/releases/tag/v0.13.0-rc.1)
+
+- [04f224cf](https://github.com/kubedb/cassandra/commit/04f224cf) Prepare for release v0.13.0-rc.1 (#56)
+- [8bd54c7a](https://github.com/kubedb/cassandra/commit/8bd54c7a) Use k8s 1.34 client libs (#55)
+- [00e147f5](https://github.com/kubedb/cassandra/commit/00e147f5) Test against k8s 1.35 (#54)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.7.0-rc.1)

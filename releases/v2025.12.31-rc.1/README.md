@@ -491,6 +491,16 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.60.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.60.0-rc.1)
+
+- [a4b0d948](https://github.com/kubedb/postgres/commit/a4b0d9486) Prepare for release v0.60.0-rc.1 (#846)
+- [2e264101](https://github.com/kubedb/postgres/commit/2e2641018) Use k8s 1.34 client libs (#845)
+- [44a384b0](https://github.com/kubedb/postgres/commit/44a384b00) Test against k8s 1.35 (#844)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.21.0-rc.1)

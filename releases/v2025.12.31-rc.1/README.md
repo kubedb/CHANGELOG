@@ -26,3 +26,14 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.23.0-rc.1)
+
+- [0eca6918](https://github.com/kubedb/mysql-restic-plugin/commit/0eca6918) Prepare for release v0.23.0-rc.1 (#89)
+- [0ceec91e](https://github.com/kubedb/mysql-restic-plugin/commit/0ceec91e) Use k8s 1.34 client libs (#88)
+- [d12eee48](https://github.com/kubedb/mysql-restic-plugin/commit/d12eee48) Fix makefile indentation (#87)
+- [c22220cd](https://github.com/kubedb/mysql-restic-plugin/commit/c22220cd) Publish Image for Redhat software certification (#86)
+
+
+

@@ -66,6 +66,16 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/hanadb/releases/tag/v0.1.0-rc.1)
+
+- [ebaf0578](https://github.com/kubedb/hanadb/commit/ebaf0578) Prepare for release v0.1.0-rc.1 (#8)
+- [c80e6397](https://github.com/kubedb/hanadb/commit/c80e6397) Use k8s 1.34 client libs (#7)
+- [3d484cef](https://github.com/kubedb/hanadb/commit/3d484cef) Test against k8s 1.35 (#6)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/hazelcast/releases/tag/v0.6.0-rc.1)

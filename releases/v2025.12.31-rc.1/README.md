@@ -191,6 +191,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.53.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.53.0-rc.1)
+
+- [87a59111](https://github.com/kubedb/mongodb/commit/87a591118) Prepare for release v0.53.0-rc.1 (#728)
+- [96ec9961](https://github.com/kubedb/mongodb/commit/96ec99618) Use k8s 1.34 client libs (#727)
+- [a38f8785](https://github.com/kubedb/mongodb/commit/a38f87851) Test against k8s 1.35 (#725)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.1)

@@ -359,6 +359,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/mysql-archiver/releases/tag/v0.21.0-rc.1)
+
+- [3be30caf](https://github.com/kubedb/mysql-archiver/commit/3be30caf) Prepare for release v0.21.0-rc.1 (#73)
+- [3d14d6df](https://github.com/kubedb/mysql-archiver/commit/3d14d6df) Use k8s 1.34 client libs (#72)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.38.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.38.0-rc.1)

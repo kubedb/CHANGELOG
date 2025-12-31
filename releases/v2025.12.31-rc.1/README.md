@@ -35,6 +35,16 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/druid/releases/tag/v0.15.0-rc.1)
+
+- [08fa3cc6](https://github.com/kubedb/druid/commit/08fa3cc6) Prepare for release v0.15.0-rc.1 (#109)
+- [d0d33608](https://github.com/kubedb/druid/commit/d0d33608) Use k8s 1.34 client libs (#108)
+- [d9ada989](https://github.com/kubedb/druid/commit/d9ada989) Test against k8s 1.35 (#106)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/gitops/releases/tag/v0.8.0-rc.1)

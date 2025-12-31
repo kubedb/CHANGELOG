@@ -101,6 +101,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.47.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.47.0-rc.1)
+
+- [0047860f](https://github.com/kubedb/percona-xtradb/commit/0047860f3) Prepare for release v0.47.0-rc.1 (#427)
+- [645e9afa](https://github.com/kubedb/percona-xtradb/commit/645e9afaf) Use k8s 1.34 client libs (#426)
+- [d383e813](https://github.com/kubedb/percona-xtradb/commit/d383e813d) Test against k8s 1.35 (#425)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.21.0-rc.1)

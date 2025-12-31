@@ -101,6 +101,18 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.21.0-rc.1)
+
+- [16aaff7c](https://github.com/kubedb/postgres-archiver/commit/16aaff7c) Prepare for release v0.21.0-rc.1 (#77)
+- [da7738a0](https://github.com/kubedb/postgres-archiver/commit/da7738a0) Prepare for release v0.21.0-rc.1 (#76)
+- [7736eaa2](https://github.com/kubedb/postgres-archiver/commit/7736eaa2) Use k8s 1.34 client libs (#75)
+- [53ae9b13](https://github.com/kubedb/postgres-archiver/commit/53ae9b13) Fix makefile indentation (#74)
+- [fc256522](https://github.com/kubedb/postgres-archiver/commit/fc256522) Publish Image for Redhat software certification (#73)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.39.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.39.0-rc.1)

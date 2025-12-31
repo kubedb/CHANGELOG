@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:37:27.637678526Z",
+  "release_date": "2025-12-31T17:37:37.571641355Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -239,6 +239,36 @@
             {
               "SHA": "c22220cd",
               "Subject": "Publish Image for Redhat software certification (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "16aaff7c",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#77)"
+            },
+            {
+              "SHA": "da7738a0",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#76)"
+            },
+            {
+              "SHA": "7736eaa2",
+              "Subject": "Use k8s 1.34 client libs (#75)"
+            },
+            {
+              "SHA": "53ae9b13",
+              "Subject": "Fix makefile indentation (#74)"
+            },
+            {
+              "SHA": "fc256522",
+              "Subject": "Publish Image for Redhat software certification (#73)"
             }
           ]
         }

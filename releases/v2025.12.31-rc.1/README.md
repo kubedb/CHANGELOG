@@ -66,6 +66,16 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/hazelcast/releases/tag/v0.6.0-rc.1)
+
+- [0257c68a](https://github.com/kubedb/hazelcast/commit/0257c68a) Prepare for release v0.6.0-rc.1 (#22)
+- [62dca5f2](https://github.com/kubedb/hazelcast/commit/62dca5f2) Use k8s 1.34 client libs (#21)
+- [d08bf4d9](https://github.com/kubedb/hazelcast/commit/d08bf4d9) Test against k8s 1.35 (#19)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/ignite/releases/tag/v0.7.0-rc.1)

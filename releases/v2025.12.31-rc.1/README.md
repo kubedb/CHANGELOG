@@ -296,6 +296,17 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.15.0-rc.1)
+
+- [2b55ad11](https://github.com/kubedb/mssql-coordinator/commit/2b55ad11) Prepare for release v0.15.0-rc.1 (#51)
+- [29767f76](https://github.com/kubedb/mssql-coordinator/commit/29767f76) Use k8s 1.34 client libs (#50)
+- [b3136eda](https://github.com/kubedb/mssql-coordinator/commit/b3136eda) fix makefile (#49)
+- [22da7333](https://github.com/kubedb/mssql-coordinator/commit/22da7333) Publish Image for Redhat software certification (#48)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.15.0-rc.1)

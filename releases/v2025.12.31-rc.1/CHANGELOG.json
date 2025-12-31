@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:58:13.13059415Z",
+  "release_date": "2025-12-31T17:58:57.005206148Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -677,6 +677,32 @@
             {
               "SHA": "e6cd9a26",
               "Subject": "Publish Image for Redhat software certification (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "2b55ad11",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#51)"
+            },
+            {
+              "SHA": "29767f76",
+              "Subject": "Use k8s 1.34 client libs (#50)"
+            },
+            {
+              "SHA": "b3136eda",
+              "Subject": "fix makefile (#49)"
+            },
+            {
+              "SHA": "22da7333",
+              "Subject": "Publish Image for Redhat software certification (#48)"
             }
           ]
         }

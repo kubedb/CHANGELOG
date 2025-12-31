@@ -509,6 +509,17 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.47.0-rc.1](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.47.0-rc.1)
+
+- [77ec3ba3](https://github.com/kubedb/replication-mode-detector/commit/77ec3ba3) Prepare for release v0.47.0-rc.1 (#306)
+- [4cb9f404](https://github.com/kubedb/replication-mode-detector/commit/4cb9f404) Use k8s 1.34 client libs (#305)
+- [77e5286c](https://github.com/kubedb/replication-mode-detector/commit/77e5286c) Fix makefile indentation (#304)
+- [9322cc0c](https://github.com/kubedb/replication-mode-detector/commit/9322cc0c) Publish Image for Redhat software certification (#303)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.15.0-rc.1)

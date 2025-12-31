@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:55:52.380064364Z",
+  "release_date": "2025-12-31T17:56:17.402192126Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -1169,6 +1169,32 @@
             {
               "SHA": "6801fb25",
               "Subject": "Publish Image for Redhat software certification (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "77ec3ba3",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#306)"
+            },
+            {
+              "SHA": "4cb9f404",
+              "Subject": "Use k8s 1.34 client libs (#305)"
+            },
+            {
+              "SHA": "77e5286c",
+              "Subject": "Fix makefile indentation (#304)"
+            },
+            {
+              "SHA": "9322cc0c",
+              "Subject": "Publish Image for Redhat software certification (#303)"
             }
           ]
         }

@@ -309,6 +309,17 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.18.0-rc.1](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.18.0-rc.1)
+
+- [5762f17e](https://github.com/kubedb/singlestore-restic-plugin/commit/5762f17e) Prepare for release v0.18.0-rc.1 (#62)
+- [3e2214d7](https://github.com/kubedb/singlestore-restic-plugin/commit/3e2214d7) Use k8s 1.34 client libs (#61)
+- [b638ab06](https://github.com/kubedb/singlestore-restic-plugin/commit/b638ab06) Fix makefile indentation (#60)
+- [378183ea](https://github.com/kubedb/singlestore-restic-plugin/commit/378183ea) Publish Image for Redhat software certification (#59)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/solr/releases/tag/v0.15.0-rc.1)

@@ -535,6 +535,13 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/provider-aws/releases/tag/v0.21.0-rc.1)
+
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/provider-azure/releases/tag/v0.21.0-rc.1)

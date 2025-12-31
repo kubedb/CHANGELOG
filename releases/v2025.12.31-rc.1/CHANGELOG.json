@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T18:02:31.16537642Z",
+  "release_date": "2025-12-31T18:02:33.494984903Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -1221,6 +1221,15 @@
               "Subject": "Publish Image for Redhat software certification (#84)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": null
         }
       ]
     },

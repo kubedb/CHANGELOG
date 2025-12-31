@@ -191,6 +191,15 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/neo4j/releases/tag/v0.1.0-rc.1)
+
+- [51303fa4](https://github.com/kubedb/neo4j/commit/51303fa4) Prepare for release v0.1.0-rc.1 (#9)
+- [190cb7ee](https://github.com/kubedb/neo4j/commit/190cb7ee) Use k8s 1.34 client libs (#8)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.47.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.47.0-rc.1)

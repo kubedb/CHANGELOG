@@ -481,6 +481,16 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.47.0-rc.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.47.0-rc.1)
+
+- [b9a64657](https://github.com/kubedb/pgbouncer/commit/b9a646574) Prepare for release v0.47.0-rc.1 (#391)
+- [8cdeb750](https://github.com/kubedb/pgbouncer/commit/8cdeb7501) Use k8s 1.34 client libs (#390)
+- [1defb0fe](https://github.com/kubedb/pgbouncer/commit/1defb0fe1) Test against k8s 1.35 (#389)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.15.0-rc.1)

@@ -145,3 +145,14 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.8.0-rc.1)
+
+- [5c0b64e](https://github.com/kubedb/xtrabackup-restic-plugin/commit/5c0b64e) Prepare for release v0.8.0-rc.1 (#30)
+- [39afcc0](https://github.com/kubedb/xtrabackup-restic-plugin/commit/39afcc0) Use k8s 1.34 client libs (#29)
+- [1d360b0](https://github.com/kubedb/xtrabackup-restic-plugin/commit/1d360b0) Fix makefile indentation (#28)
+- [bb44171](https://github.com/kubedb/xtrabackup-restic-plugin/commit/bb44171) Publish Image for Redhat software certification (#27)
+
+
+

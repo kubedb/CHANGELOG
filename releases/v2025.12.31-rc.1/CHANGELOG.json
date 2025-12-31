@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:56:27.547092559Z",
+  "release_date": "2025-12-31T17:58:13.13059415Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -1073,6 +1073,28 @@
             {
               "SHA": "5a182fc7",
               "Subject": "Publish Image for Redhat software certification (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "47542dd7",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#11)"
+            },
+            {
+              "SHA": "2653e252",
+              "Subject": "Use k8s 1.34 client libs (#10)"
+            },
+            {
+              "SHA": "a3318df6",
+              "Subject": "Test against k8s 1.35 (#8)"
             }
           ]
         }

@@ -467,6 +467,16 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/qdrant/releases/tag/v0.1.0-rc.1)
+
+- [47542dd7](https://github.com/kubedb/qdrant/commit/47542dd7) Prepare for release v0.1.0-rc.1 (#11)
+- [2653e252](https://github.com/kubedb/qdrant/commit/2653e252) Use k8s 1.34 client libs (#10)
+- [a3318df6](https://github.com/kubedb/qdrant/commit/a3318df6) Test against k8s 1.35 (#8)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.15.0-rc.1)

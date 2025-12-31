@@ -47,6 +47,17 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.38.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.38.0-rc.1)
+
+- [22cf05ff](https://github.com/kubedb/mysql-coordinator/commit/22cf05ff) Prepare for release v0.38.0-rc.1 (#159)
+- [13232ee9](https://github.com/kubedb/mysql-coordinator/commit/13232ee9) Use k8s 1.34 client libs (#157)
+- [1f1196f7](https://github.com/kubedb/mysql-coordinator/commit/1f1196f7) Fix makefile indentation (#156)
+- [e354dcea](https://github.com/kubedb/mysql-coordinator/commit/e354dcea) Publish Image for Redhat software certification (#155)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.1)

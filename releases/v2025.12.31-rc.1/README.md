@@ -327,6 +327,16 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.14.0-rc.1)
+
+- [0377147](https://github.com/kubedb/mssqlserver-archiver/commit/0377147) Use k8s 1.34 client libs (#20)
+- [1c173bf](https://github.com/kubedb/mssqlserver-archiver/commit/1c173bf) Fix makefile indentation (#19)
+- [5c69310](https://github.com/kubedb/mssqlserver-archiver/commit/5c69310) Merge pull request #16 from kubedb/rhm
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.14.0-rc.1](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.14.0-rc.1)

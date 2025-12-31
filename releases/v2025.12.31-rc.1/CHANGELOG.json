@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T19:15:55.921226152Z",
+  "release_date": "2025-12-31T19:16:25.701954229Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -1270,6 +1270,32 @@
         {
           "tag": "v0.21.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7ec3ed3f5",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#411)"
+            },
+            {
+              "SHA": "99a845b14",
+              "Subject": "Use k8s 1.34 client libs (#410)"
+            },
+            {
+              "SHA": "71efc19c6",
+              "Subject": "Test against k8s 1.35 (#409)"
+            },
+            {
+              "SHA": "10258db59",
+              "Subject": "Remove github.com/go-xorm/xorm dependency"
+            }
+          ]
         }
       ]
     },

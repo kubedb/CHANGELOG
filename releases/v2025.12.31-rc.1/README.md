@@ -566,6 +566,17 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.47.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.47.0-rc.1)
+
+- [7ec3ed3f](https://github.com/kubedb/proxysql/commit/7ec3ed3f5) Prepare for release v0.47.0-rc.1 (#411)
+- [99a845b1](https://github.com/kubedb/proxysql/commit/99a845b14) Use k8s 1.34 client libs (#410)
+- [71efc19c](https://github.com/kubedb/proxysql/commit/71efc19c6) Test against k8s 1.35 (#409)
+- [10258db5](https://github.com/kubedb/proxysql/commit/10258db59) Remove github.com/go-xorm/xorm dependency
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/qdrant/releases/tag/v0.1.0-rc.1)

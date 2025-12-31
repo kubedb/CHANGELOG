@@ -193,6 +193,17 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.1)
+
+- [7d99eb19](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/7d99eb19) Prepare for release v0.21.0-rc.1 (#73)
+- [2d482cda](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/2d482cda) Use k8s 1.34 client libs (#72)
+- [48e2e4c9](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/48e2e4c9) Fix makefile indentation (#71)
+- [ea89b1db](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/ea89b1db) Publish Image for Redhat software certification (#70)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.23.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.23.0-rc.1)

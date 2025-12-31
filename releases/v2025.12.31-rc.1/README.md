@@ -383,6 +383,16 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.15.0-rc.1)
+
+- [5730ad2b](https://github.com/kubedb/rabbitmq/commit/5730ad2b) Prepare for release v0.15.0-rc.1 (#105)
+- [fc6d5de0](https://github.com/kubedb/rabbitmq/commit/fc6d5de0) Use k8s 1.34 client libs (#104)
+- [34ac217c](https://github.com/kubedb/rabbitmq/commit/34ac217c) Test against k8s 1.35 (#103)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.53.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.53.0-rc.1)

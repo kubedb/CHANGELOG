@@ -616,6 +616,17 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/weaviate/releases/tag/v0.1.0-rc.1)
+
+- [429e6c27](https://github.com/kubedb/weaviate/commit/429e6c27) Prepare for release v0.1.0-rc.1 (#8)
+- [110cd467](https://github.com/kubedb/weaviate/commit/110cd467) Update vulnerable deps (#7)
+- [a5f58ee6](https://github.com/kubedb/weaviate/commit/a5f58ee6) Use k8s 1.34 client libs (#6)
+- [387e92f6](https://github.com/kubedb/weaviate/commit/387e92f6) Test against k8s 1.34 (#1)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.8.0-rc.1)

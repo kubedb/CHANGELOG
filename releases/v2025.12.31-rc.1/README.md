@@ -191,6 +191,17 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.21.0-rc.1](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.1)
+
+- [6d6f78bf](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/6d6f78bf) Prepare for release v0.21.0-rc.1 (#66)
+- [d9a7e2c2](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/d9a7e2c2) Use k8s 1.34 client libs (#65)
+- [7f6dc710](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/7f6dc710) Fix makefile indentation (#64)
+- [bbf8bfc9](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/bbf8bfc9) Publish Image for Redhat software certification (#63)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.15.0-rc.1)

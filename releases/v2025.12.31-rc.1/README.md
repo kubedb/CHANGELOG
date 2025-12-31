@@ -15,6 +15,17 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.18.0-rc.1](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.18.0-rc.1)
+
+- [334a35e](https://github.com/kubedb/dashboard-restic-plugin/commit/334a35e) Prepare for release v0.18.0-rc.1 (#55)
+- [51ae5d7](https://github.com/kubedb/dashboard-restic-plugin/commit/51ae5d7) Use k8s 1.34 client libs (#54)
+- [901091a](https://github.com/kubedb/dashboard-restic-plugin/commit/901091a) Fix makefile indentation (#53)
+- [a5bafae](https://github.com/kubedb/dashboard-restic-plugin/commit/a5bafae) Publish Image for Redhat software certification (#52)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/db-client-go/releases/tag/v0.15.0-rc.1)

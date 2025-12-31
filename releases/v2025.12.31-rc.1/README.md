@@ -36,6 +36,17 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.53.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.53.0-rc.1)
+
+- [f87bcd7f](https://github.com/kubedb/mysql/commit/f87bcd7fd) Prepare for release v0.53.0-rc.1 (#712)
+- [f8490909](https://github.com/kubedb/mysql/commit/f8490909b) Use k8s 1.34 client libs (#710)
+- [95a71063](https://github.com/kubedb/mysql/commit/95a710638) Test against k8s 1.35 (#709)
+- [5cf311be](https://github.com/kubedb/mysql/commit/5cf311be2) Fix Archiver Panic for Azure backend (#708)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.21.0-rc.1)

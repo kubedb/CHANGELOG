@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:36:17.637448506Z",
+  "release_date": "2025-12-31T17:36:36.69079563Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -87,6 +87,32 @@
             {
               "SHA": "f33961085",
               "Subject": "Test against k8s 1.35 (#361)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f87bcd7fd",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#712)"
+            },
+            {
+              "SHA": "f8490909b",
+              "Subject": "Use k8s 1.34 client libs (#710)"
+            },
+            {
+              "SHA": "95a710638",
+              "Subject": "Test against k8s 1.35 (#709)"
+            },
+            {
+              "SHA": "5cf311be2",
+              "Subject": "Fix Archiver Panic for Azure backend (#708)"
             }
           ]
         }

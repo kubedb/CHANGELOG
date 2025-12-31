@@ -97,6 +97,16 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/db2-coordinator/releases/tag/v0.1.0-rc.1)
+
+- [60183db](https://github.com/kubedb/db2-coordinator/commit/60183db) Use k8s 1.34 client libs (#5)
+- [e16ce63](https://github.com/kubedb/db2-coordinator/commit/e16ce63) Fix makefile indentation (#4)
+- [2fcb2a3](https://github.com/kubedb/db2-coordinator/commit/2fcb2a3) Publish Image for Redhat software certification (#3)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/druid/releases/tag/v0.15.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:38:52.612687915Z",
+  "release_date": "2025-12-31T17:39:01.620599761Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -91,6 +91,28 @@
             {
               "SHA": "5be586ab",
               "Subject": "Publish Image for Redhat software certification (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b9b125a9",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#31)"
+            },
+            {
+              "SHA": "70ba3420",
+              "Subject": "Use k8s 1.34 client libs (#30)"
+            },
+            {
+              "SHA": "e361b1c0",
+              "Subject": "Test against k8s 1.35 (#28)"
             }
           ]
         }

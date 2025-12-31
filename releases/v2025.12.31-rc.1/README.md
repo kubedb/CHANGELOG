@@ -336,6 +336,17 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.6.0-rc.1)
+
+- [5d1358a](https://github.com/kubedb/oracle-coordinator/commit/5d1358a) Prepare for release v0.6.0-rc.1 (#19)
+- [e0d0e32](https://github.com/kubedb/oracle-coordinator/commit/e0d0e32) Use k8s 1.34 client libs (#18)
+- [028fd7d](https://github.com/kubedb/oracle-coordinator/commit/028fd7d) Fix makefile indentation (#17)
+- [67c4d12](https://github.com/kubedb/oracle-coordinator/commit/67c4d12) Publish Image for Redhat software certification (#16)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.47.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.47.0-rc.1)

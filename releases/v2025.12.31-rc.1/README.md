@@ -36,6 +36,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.60.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.60.0-rc.1)
+
+- [691493f2](https://github.com/kubedb/cli/commit/691493f27) Prepare for release v0.60.0-rc.1 (#809)
+- [f3e2ac0a](https://github.com/kubedb/cli/commit/f3e2ac0aa) Use k8s 1.34 client libs (#808)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/crd-manager/releases/tag/v0.15.0-rc.1)

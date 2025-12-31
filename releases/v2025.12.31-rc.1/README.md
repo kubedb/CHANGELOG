@@ -47,6 +47,17 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.20.0-rc.1)
+
+- [e9eaec6e](https://github.com/kubedb/mariadb-archiver/commit/e9eaec6e) Prepare for release v0.20.0-rc.1 (#69)
+- [72598a18](https://github.com/kubedb/mariadb-archiver/commit/72598a18) Use k8s 1.34 client libs (#68)
+- [4704b4ad](https://github.com/kubedb/mariadb-archiver/commit/4704b4ad) Fix makefile indentation (#67)
+- [1e935bfa](https://github.com/kubedb/mariadb-archiver/commit/1e935bfa) Publish Image for Redhat software certification (#66)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.53.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.53.0-rc.1)

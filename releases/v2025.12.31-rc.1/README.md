@@ -194,6 +194,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.53.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.53.0-rc.1)
+
+- [504bc21c](https://github.com/kubedb/redis/commit/504bc21c1) Prepare for release v0.53.0-rc.1 (#614)
+- [082ef45b](https://github.com/kubedb/redis/commit/082ef45b4) Use k8s 1.34 client libs (#613)
+- [ce19d04e](https://github.com/kubedb/redis/commit/ce19d04e5) Test against k8s 1.35 (#612)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.39.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.39.0-rc.1)

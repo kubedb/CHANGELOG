@@ -26,6 +26,17 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/gitops/releases/tag/v0.8.0-rc.1)
+
+- [bd6e94c4](https://github.com/kubedb/gitops/commit/bd6e94c4) Prepare for release v0.8.0-rc.1 (#35)
+- [2b260a9d](https://github.com/kubedb/gitops/commit/2b260a9d) Use k8s 1.34 client libs (#34)
+- [119edc0b](https://github.com/kubedb/gitops/commit/119edc0b) Fix makefile indentation (#33)
+- [5be586ab](https://github.com/kubedb/gitops/commit/5be586ab) Publish Image for Redhat software certification (#32)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.44.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.44.0-rc.1)

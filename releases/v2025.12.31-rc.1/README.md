@@ -67,6 +67,16 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.15.0-rc.1)
+
+- [605da415](https://github.com/kubedb/mssqlserver/commit/605da415) Prepare for release v0.15.0-rc.1 (#102)
+- [566491fe](https://github.com/kubedb/mssqlserver/commit/566491fe) Use k8s 1.34 client libs (#101)
+- [5125d044](https://github.com/kubedb/mssqlserver/commit/5125d044) Test against k8s 1.35 (#99)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.53.0-rc.1](https://github.com/kubedb/mysql/releases/tag/v0.53.0-rc.1)

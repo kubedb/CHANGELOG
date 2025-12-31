@@ -26,6 +26,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.44.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.44.0-rc.1)
+
+- [5573297f](https://github.com/kubedb/mariadb/commit/5573297fb) Prepare for release v0.44.0-rc.1 (#364)
+- [681968b1](https://github.com/kubedb/mariadb/commit/681968b1c) Use k8s 1.34 client libs (#362)
+- [f3396108](https://github.com/kubedb/mariadb/commit/f33961085) Test against k8s 1.35 (#361)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.23.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.23.0-rc.1)

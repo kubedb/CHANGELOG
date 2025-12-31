@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T18:00:19.543744806Z",
+  "release_date": "2025-12-31T18:00:31.529540105Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -105,6 +105,28 @@
             {
               "SHA": "f3e2ac0aa",
               "Subject": "Use k8s 1.34 client libs (#808)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9c394a8f",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#78)"
+            },
+            {
+              "SHA": "e482f9ab",
+              "Subject": "Use k8s 1.34 client libs (#77)"
+            },
+            {
+              "SHA": "918b772c",
+              "Subject": "Test against k8s 1.35 (#75)"
             }
           ]
         }

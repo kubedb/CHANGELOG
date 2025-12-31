@@ -45,6 +45,16 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/clickhouse/releases/tag/v0.15.0-rc.1)
+
+- [9c394a8f](https://github.com/kubedb/clickhouse/commit/9c394a8f) Prepare for release v0.15.0-rc.1 (#78)
+- [e482f9ab](https://github.com/kubedb/clickhouse/commit/e482f9ab) Use k8s 1.34 client libs (#77)
+- [918b772c](https://github.com/kubedb/clickhouse/commit/918b772c) Test against k8s 1.35 (#75)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/crd-manager/releases/tag/v0.15.0-rc.1)

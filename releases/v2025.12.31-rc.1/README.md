@@ -423,6 +423,16 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.15.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.15.0-rc.1)
+
+- [17ba50ae](https://github.com/kubedb/pgpool/commit/17ba50ae) Prepare for release v0.15.0-rc.1 (#94)
+- [f6428269](https://github.com/kubedb/pgpool/commit/f6428269) Use k8s 1.34 client libs (#93)
+- [c93510d6](https://github.com/kubedb/pgpool/commit/c93510d6) Test against k8s 1.35 (#91)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.21.0-rc.1)

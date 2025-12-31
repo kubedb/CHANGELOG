@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:53:44.741920985Z",
+  "release_date": "2025-12-31T17:55:52.380064364Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -969,6 +969,28 @@
             {
               "SHA": "ba00b5d5",
               "Subject": "Fix parse err check (#221)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "17ba50ae",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#94)"
+            },
+            {
+              "SHA": "f6428269",
+              "Subject": "Use k8s 1.34 client libs (#93)"
+            },
+            {
+              "SHA": "c93510d6",
+              "Subject": "Test against k8s 1.35 (#91)"
             }
           ]
         }

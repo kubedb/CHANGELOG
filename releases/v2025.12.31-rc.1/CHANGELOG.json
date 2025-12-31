@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T19:16:25.701954229Z",
+  "release_date": "2025-12-31T19:17:09.176136079Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -447,6 +447,36 @@
             {
               "SHA": "46f4f915",
               "Subject": "Test against k8s 1.35 (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5a5a15d1",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#166)"
+            },
+            {
+              "SHA": "0d968837",
+              "Subject": "Use k8s 1.34 client libs (#165)"
+            },
+            {
+              "SHA": "ebd87bba",
+              "Subject": "Fix makefile indentation (#164)"
+            },
+            {
+              "SHA": "64a99c80",
+              "Subject": "Publish Image for Redhat software certification (#163)"
+            },
+            {
+              "SHA": "f3dea03e",
+              "Subject": "Update deps"
             }
           ]
         }

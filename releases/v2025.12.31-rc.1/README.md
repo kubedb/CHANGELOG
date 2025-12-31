@@ -158,6 +158,18 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.11.0-rc.1](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.11.0-rc.1)
+
+- [04634147](https://github.com/kubedb/kubedb-verifier/commit/04634147) Prepare for release v0.11.0-rc.1 (#34)
+- [b99b0af5](https://github.com/kubedb/kubedb-verifier/commit/b99b0af5) Update vulnerable deps (#33)
+- [0ed52eed](https://github.com/kubedb/kubedb-verifier/commit/0ed52eed) Use k8s 1.34 client libs (#32)
+- [acdfea3d](https://github.com/kubedb/kubedb-verifier/commit/acdfea3d) Fix makefile indentation (#31)
+- [562ab0a9](https://github.com/kubedb/kubedb-verifier/commit/562ab0a9) Publish Image for Redhat software certification (#29)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.44.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.44.0-rc.1)

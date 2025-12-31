@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2025-12-31T17:41:15.445377486Z",
+  "release_date": "2025-12-31T17:41:41.480405796Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -529,6 +529,36 @@
             {
               "SHA": "83523a0f",
               "Subject": "Publish Image for Redhat software certification (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b36eb9fa",
+              "Subject": "Prepare for release v0.44.0-rc.1 (#225)"
+            },
+            {
+              "SHA": "e9f791b6",
+              "Subject": "Use k8s 1.34 client libs (#224)"
+            },
+            {
+              "SHA": "975ac4fd",
+              "Subject": "Fix makefile indentation (#223)"
+            },
+            {
+              "SHA": "d030c49c",
+              "Subject": "Publish Image for Redhat software certification (#222)"
+            },
+            {
+              "SHA": "ba00b5d5",
+              "Subject": "Fix parse err check (#221)"
             }
           ]
         }

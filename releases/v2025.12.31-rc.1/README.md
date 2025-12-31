@@ -232,6 +232,18 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.44.0-rc.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.44.0-rc.1)
+
+- [b36eb9fa](https://github.com/kubedb/pg-coordinator/commit/b36eb9fa) Prepare for release v0.44.0-rc.1 (#225)
+- [e9f791b6](https://github.com/kubedb/pg-coordinator/commit/e9f791b6) Use k8s 1.34 client libs (#224)
+- [975ac4fd](https://github.com/kubedb/pg-coordinator/commit/975ac4fd) Fix makefile indentation (#223)
+- [d030c49c](https://github.com/kubedb/pg-coordinator/commit/d030c49c) Publish Image for Redhat software certification (#222)
+- [ba00b5d5](https://github.com/kubedb/pg-coordinator/commit/ba00b5d5) Fix parse err check (#221)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.21.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.21.0-rc.1)

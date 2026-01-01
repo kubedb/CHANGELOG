@@ -199,6 +199,48 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2025.12.31-rc.1](https://github.com/kubedb/installer/releases/tag/v2025.12.31-rc.1)
+
+- [25773394](https://github.com/kubedb/installer/commit/257733940) Prepare for release v2025.12.31-rc.1 (#1999)
+- [4f465123](https://github.com/kubedb/installer/commit/4f465123f) Update cve report (#1998)
+- [b0c02f29](https://github.com/kubedb/installer/commit/b0c02f295) Use mssql-export 1.2.0 (#1997)
+- [353be561](https://github.com/kubedb/installer/commit/353be561b) Update cve report (#1996)
+- [53a120a7](https://github.com/kubedb/installer/commit/53a120a76) Update cve report (#1995)
+- [0e4ee1c0](https://github.com/kubedb/installer/commit/0e4ee1c0d) Update cve report (#1994)
+- [5862e1f1](https://github.com/kubedb/installer/commit/5862e1f16) Use k8s 1.34 client libs (#1993)
+- [c16de4ae](https://github.com/kubedb/installer/commit/c16de4aeb) Update crds for kubedb/apimachinery@3fb97b25 (#1992)
+- [54ab719c](https://github.com/kubedb/installer/commit/54ab719ca) Update cve report (#1991)
+- [f904c5e1](https://github.com/kubedb/installer/commit/f904c5e1c) Update cve report (#1990)
+- [dbebecc7](https://github.com/kubedb/installer/commit/dbebecc72) Update cve report (#1989)
+- [70ebf554](https://github.com/kubedb/installer/commit/70ebf5546) Update cve report (#1988)
+- [c88ec938](https://github.com/kubedb/installer/commit/c88ec9382) Update certified chart readme
+- [ba6045a6](https://github.com/kubedb/installer/commit/ba6045a67) Generate certified and certified-crds charts (#1984)
+- [ea30f2d9](https://github.com/kubedb/installer/commit/ea30f2d95) Add WEBHOOK_SERVICE_NAME env (#1986)
+- [97ce9c80](https://github.com/kubedb/installer/commit/97ce9c80a) Update cve report (#1985)
+- [46641ca8](https://github.com/kubedb/installer/commit/46641ca8a) Support ubi mode in kubedb-kubestash-catalog (#1983)
+- [f6a33fc7](https://github.com/kubedb/installer/commit/f6a33fc7b) Add test to kubedb chart (#1982)
+- [3d682762](https://github.com/kubedb/installer/commit/3d6827620) Update cve report (#1981)
+- [9ca5910e](https://github.com/kubedb/installer/commit/9ca5910e0) Update cve report (#1980)
+- [6c307ad8](https://github.com/kubedb/installer/commit/6c307ad8f) Test against k8s 1.35 (#1978)
+- [f880b8bf](https://github.com/kubedb/installer/commit/f880b8bfe) Update cve report (#1979)
+- [d86eb163](https://github.com/kubedb/installer/commit/d86eb163e) Fix operator.ubi and catalog.ubi templates (#1977)
+- [1bb2811e](https://github.com/kubedb/installer/commit/1bb2811e7) Update cve report (#1976)
+- [cdb71959](https://github.com/kubedb/installer/commit/cdb71959b) Update cve report (#1975)
+- [031d08f5](https://github.com/kubedb/installer/commit/031d08f55) Update catalog chart helper
+- [7cea4927](https://github.com/kubedb/installer/commit/7cea49277) Update cve report (#1974)
+- [b756425b](https://github.com/kubedb/installer/commit/b756425b3) Use shared DistroSpec
+- [b48a74da](https://github.com/kubedb/installer/commit/b48a74dab) Update cve report (#1972)
+- [52d4b98a](https://github.com/kubedb/installer/commit/52d4b98a4) Update cve report (#1971)
+- [21e38aa7](https://github.com/kubedb/installer/commit/21e38aa74) Add perses dashboards (#1921)
+- [99b38420](https://github.com/kubedb/installer/commit/99b384208) Fix catalog chart schema
+- [304f5a62](https://github.com/kubedb/installer/commit/304f5a62c) Add endOfLife field to kubedb catalog version object (#1967)
+- [78e81bf8](https://github.com/kubedb/installer/commit/78e81bf83) Update cve report (#1970)
+- [e7275a8f](https://github.com/kubedb/installer/commit/e7275a8f2) FIx MariaDB Restic Plugin Version (#1968)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.31.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.31.0-rc.1)

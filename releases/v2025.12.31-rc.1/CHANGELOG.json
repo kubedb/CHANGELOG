@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2026-01-01T03:15:06.053584102Z",
+  "release_date": "2026-01-01T09:11:10.125993143Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -451,6 +451,156 @@
             {
               "SHA": "e361b1c0",
               "Subject": "Test against k8s 1.35 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.12.31-rc.1",
+          "commits": [
+            {
+              "SHA": "257733940",
+              "Subject": "Prepare for release v2025.12.31-rc.1 (#1999)"
+            },
+            {
+              "SHA": "4f465123f",
+              "Subject": "Update cve report (#1998)"
+            },
+            {
+              "SHA": "b0c02f295",
+              "Subject": "Use mssql-export 1.2.0 (#1997)"
+            },
+            {
+              "SHA": "353be561b",
+              "Subject": "Update cve report (#1996)"
+            },
+            {
+              "SHA": "53a120a76",
+              "Subject": "Update cve report (#1995)"
+            },
+            {
+              "SHA": "0e4ee1c0d",
+              "Subject": "Update cve report (#1994)"
+            },
+            {
+              "SHA": "5862e1f16",
+              "Subject": "Use k8s 1.34 client libs (#1993)"
+            },
+            {
+              "SHA": "c16de4aeb",
+              "Subject": "Update crds for kubedb/apimachinery@3fb97b25 (#1992)"
+            },
+            {
+              "SHA": "54ab719ca",
+              "Subject": "Update cve report (#1991)"
+            },
+            {
+              "SHA": "f904c5e1c",
+              "Subject": "Update cve report (#1990)"
+            },
+            {
+              "SHA": "dbebecc72",
+              "Subject": "Update cve report (#1989)"
+            },
+            {
+              "SHA": "70ebf5546",
+              "Subject": "Update cve report (#1988)"
+            },
+            {
+              "SHA": "c88ec9382",
+              "Subject": "Update certified chart readme"
+            },
+            {
+              "SHA": "ba6045a67",
+              "Subject": "Generate certified and certified-crds charts (#1984)"
+            },
+            {
+              "SHA": "ea30f2d95",
+              "Subject": "Add WEBHOOK_SERVICE_NAME env (#1986)"
+            },
+            {
+              "SHA": "97ce9c80a",
+              "Subject": "Update cve report (#1985)"
+            },
+            {
+              "SHA": "46641ca8a",
+              "Subject": "Support ubi mode in kubedb-kubestash-catalog (#1983)"
+            },
+            {
+              "SHA": "f6a33fc7b",
+              "Subject": "Add test to kubedb chart (#1982)"
+            },
+            {
+              "SHA": "3d6827620",
+              "Subject": "Update cve report (#1981)"
+            },
+            {
+              "SHA": "9ca5910e0",
+              "Subject": "Update cve report (#1980)"
+            },
+            {
+              "SHA": "6c307ad8f",
+              "Subject": "Test against k8s 1.35 (#1978)"
+            },
+            {
+              "SHA": "f880b8bfe",
+              "Subject": "Update cve report (#1979)"
+            },
+            {
+              "SHA": "d86eb163e",
+              "Subject": "Fix operator.ubi and catalog.ubi templates (#1977)"
+            },
+            {
+              "SHA": "1bb2811e7",
+              "Subject": "Update cve report (#1976)"
+            },
+            {
+              "SHA": "cdb71959b",
+              "Subject": "Update cve report (#1975)"
+            },
+            {
+              "SHA": "031d08f55",
+              "Subject": "Update catalog chart helper"
+            },
+            {
+              "SHA": "7cea49277",
+              "Subject": "Update cve report (#1974)"
+            },
+            {
+              "SHA": "b756425b3",
+              "Subject": "Use shared DistroSpec"
+            },
+            {
+              "SHA": "b48a74dab",
+              "Subject": "Update cve report (#1972)"
+            },
+            {
+              "SHA": "52d4b98a4",
+              "Subject": "Update cve report (#1971)"
+            },
+            {
+              "SHA": "21e38aa74",
+              "Subject": "Add perses dashboards (#1921)"
+            },
+            {
+              "SHA": "99b384208",
+              "Subject": "Fix catalog chart schema"
+            },
+            {
+              "SHA": "304f5a62c",
+              "Subject": "Add endOfLife field to kubedb catalog version object (#1967)"
+            },
+            {
+              "SHA": "78e81bf83",
+              "Subject": "Update cve report (#1970)"
+            },
+            {
+              "SHA": "e7275a8f2",
+              "Subject": "FIx MariaDB Restic Plugin Version (#1968)"
             }
           ]
         }

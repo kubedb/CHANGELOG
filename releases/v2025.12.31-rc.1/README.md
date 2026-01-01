@@ -15,6 +15,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.45.0-rc.1](https://github.com/kubedb/autoscaler/releases/tag/v0.45.0-rc.1)
+
+- [37b3c020](https://github.com/kubedb/autoscaler/commit/37b3c020) Prepare for release v0.45.0-rc.1 (#272)
+- [e7f4287d](https://github.com/kubedb/autoscaler/commit/e7f4287d) Use k8s 1.34 client libs (#271)
+- [138b469c](https://github.com/kubedb/autoscaler/commit/138b469c) Fix makefile indentation (#270)
+- [cffebd62](https://github.com/kubedb/autoscaler/commit/cffebd62) Publish Image for Redhat software certification (#269)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.13.0-rc.1](https://github.com/kubedb/cassandra/releases/tag/v0.13.0-rc.1)

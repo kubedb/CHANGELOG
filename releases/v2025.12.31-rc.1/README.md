@@ -790,6 +790,16 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.36.0-rc.1](https://github.com/kubedb/webhook-server/releases/tag/v0.36.0-rc.1)
+
+- [dbeae2f7](https://github.com/kubedb/webhook-server/commit/dbeae2f7) Prepare for release v0.36.0-rc.1 (#186)
+- [d85264ab](https://github.com/kubedb/webhook-server/commit/d85264ab) Use k8s 1.34 client libs (#185)
+- [e8ed226a](https://github.com/kubedb/webhook-server/commit/e8ed226a) Fix makefile indentation (#184)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.8.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.8.0-rc.1)

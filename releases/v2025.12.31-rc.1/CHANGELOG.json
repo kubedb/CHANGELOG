@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2026-01-01T02:28:52.356025544Z",
+  "release_date": "2026-01-01T02:41:47.254456208Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -1326,6 +1326,44 @@
         {
           "tag": "v0.21.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4726affdf",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#182)"
+            },
+            {
+              "SHA": "da33384c2",
+              "Subject": "Use k8s 1.34 client libs (#181)"
+            },
+            {
+              "SHA": "51de966b7",
+              "Subject": "Fix makefile indentation (#180)"
+            },
+            {
+              "SHA": "11e9f6b60",
+              "Subject": "Test against k8s 1.35 (#179)"
+            },
+            {
+              "SHA": "7e4a29545",
+              "Subject": "Publish Image for Redhat software certification (#178)"
+            },
+            {
+              "SHA": "1f19bb323",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "373f5f5c2",
+              "Subject": "Check if appscode license api is up whle image building"
+            }
+          ]
         }
       ]
     },

@@ -589,6 +589,20 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.60.0-rc.1](https://github.com/kubedb/provisioner/releases/tag/v0.60.0-rc.1)
+
+- [4726affd](https://github.com/kubedb/provisioner/commit/4726affdf) Prepare for release v0.60.0-rc.1 (#182)
+- [da33384c](https://github.com/kubedb/provisioner/commit/da33384c2) Use k8s 1.34 client libs (#181)
+- [51de966b](https://github.com/kubedb/provisioner/commit/51de966b7) Fix makefile indentation (#180)
+- [11e9f6b6](https://github.com/kubedb/provisioner/commit/11e9f6b60) Test against k8s 1.35 (#179)
+- [7e4a2954](https://github.com/kubedb/provisioner/commit/7e4a29545) Publish Image for Redhat software certification (#178)
+- [1f19bb32](https://github.com/kubedb/provisioner/commit/1f19bb323) Update vulnerable deps
+- [373f5f5c](https://github.com/kubedb/provisioner/commit/373f5f5c2) Check if appscode license api is up whle image building
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.47.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.47.0-rc.1)

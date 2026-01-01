@@ -118,6 +118,21 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2025.12.31-rc.1](https://github.com/kubedb/docs/releases/tag/v2025.12.31-rc.1)
+
+- [427abe2d](https://github.com/kubedb/docs/commit/427abe2d) Prepare for release v2025.12.31-rc.1 (#837)
+- [46aebb97](https://github.com/kubedb/docs/commit/46aebb97) oracle doc (#816)
+- [10d482fe](https://github.com/kubedb/docs/commit/10d482fe) Install kubectl (#836)
+- [e7aea71d](https://github.com/kubedb/docs/commit/e7aea71d) Test against k8s 1.35 (#835)
+- [401ac4b7](https://github.com/kubedb/docs/commit/401ac4b7) Runs on firecracker
+- [681c122e](https://github.com/kubedb/docs/commit/681c122e) elasticsearch ops-request (#827)
+- [83d55cdd](https://github.com/kubedb/docs/commit/83d55cdd) Fix Cassandra Docs (#826)
+- [d547fc23](https://github.com/kubedb/docs/commit/d547fc23) error fix kind: secret added (#833)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/druid/releases/tag/v0.15.0-rc.1)

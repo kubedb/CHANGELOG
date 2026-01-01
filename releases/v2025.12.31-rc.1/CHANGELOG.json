@@ -1,0 +1,2101 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2025.12.31-rc.1",
+  "release_date": "2026-01-01T09:49:28.144964001Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.1",
+          "commits": [
+            {
+              "SHA": "3fb97b259",
+              "Subject": "Use k8s 1.34 client go libs (#1560)"
+            },
+            {
+              "SHA": "eb03debc7",
+              "Subject": "Add DatabaseInfo api (#1557)"
+            },
+            {
+              "SHA": "72d44c386",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d30d72e0f",
+              "Subject": "Test against k8s 1.35 (#1554)"
+            },
+            {
+              "SHA": "da3e069f8",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "7086a4bd8",
+              "Subject": "Add \"EndOfLife\" field in catalogs (#1553)"
+            },
+            {
+              "SHA": "5cfded61a",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.1",
+          "commits": [
+            {
+              "SHA": "37b3c020",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#272)"
+            },
+            {
+              "SHA": "e7f4287d",
+              "Subject": "Use k8s 1.34 client libs (#271)"
+            },
+            {
+              "SHA": "138b469c",
+              "Subject": "Fix makefile indentation (#270)"
+            },
+            {
+              "SHA": "cffebd62",
+              "Subject": "Publish Image for Redhat software certification (#269)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.1",
+          "commits": [
+            {
+              "SHA": "04f224cf",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#56)"
+            },
+            {
+              "SHA": "8bd54c7a",
+              "Subject": "Use k8s 1.34 client libs (#55)"
+            },
+            {
+              "SHA": "00e147f5",
+              "Subject": "Test against k8s 1.35 (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.1",
+          "commits": [
+            {
+              "SHA": "804c9f62",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#19)"
+            },
+            {
+              "SHA": "7dfbd231",
+              "Subject": "Use k8s 1.34 client libs (#18)"
+            },
+            {
+              "SHA": "7db29d99",
+              "Subject": "Fix makefile indentation (#17)"
+            },
+            {
+              "SHA": "0ca8af6d",
+              "Subject": "Publish Image for Redhat software certification (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.1",
+          "commits": [
+            {
+              "SHA": "691493f27",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#809)"
+            },
+            {
+              "SHA": "f3e2ac0aa",
+              "Subject": "Use k8s 1.34 client libs (#808)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9c394a8f",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#78)"
+            },
+            {
+              "SHA": "e482f9ab",
+              "Subject": "Use k8s 1.34 client libs (#77)"
+            },
+            {
+              "SHA": "918b772c",
+              "Subject": "Test against k8s 1.35 (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "09f8c382",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "02225ed0",
+              "Subject": "Use k8s 1.34 client libs (#104)"
+            },
+            {
+              "SHA": "8565968f",
+              "Subject": "Fix makefile indentation (#103)"
+            },
+            {
+              "SHA": "370e88f2",
+              "Subject": "Publish Image for Redhat software certification (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.1",
+          "commits": [
+            {
+              "SHA": "334a35e",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#55)"
+            },
+            {
+              "SHA": "51ae5d7",
+              "Subject": "Use k8s 1.34 client libs (#54)"
+            },
+            {
+              "SHA": "901091a",
+              "Subject": "Fix makefile indentation (#53)"
+            },
+            {
+              "SHA": "a5bafae",
+              "Subject": "Publish Image for Redhat software certification (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "3f74e4df",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#215)"
+            },
+            {
+              "SHA": "d7814284",
+              "Subject": "Update vulnerable deps (#214)"
+            },
+            {
+              "SHA": "cf25883f",
+              "Subject": "Use k8s 1.34 client libs (#213)"
+            },
+            {
+              "SHA": "17120b90",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e64f6a2f",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#7)"
+            },
+            {
+              "SHA": "46dfb4fb",
+              "Subject": "Use k8s 1.34 client libs (#5)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "60183db",
+              "Subject": "Use k8s 1.34 client libs (#5)"
+            },
+            {
+              "SHA": "e16ce63",
+              "Subject": "Fix makefile indentation (#4)"
+            },
+            {
+              "SHA": "2fcb2a3",
+              "Subject": "Publish Image for Redhat software certification (#3)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2025.12.31-rc.1",
+          "commits": [
+            {
+              "SHA": "427abe2d",
+              "Subject": "Prepare for release v2025.12.31-rc.1 (#837)"
+            },
+            {
+              "SHA": "46aebb97",
+              "Subject": "oracle doc (#816)"
+            },
+            {
+              "SHA": "10d482fe",
+              "Subject": "Install kubectl (#836)"
+            },
+            {
+              "SHA": "e7aea71d",
+              "Subject": "Test against k8s 1.35 (#835)"
+            },
+            {
+              "SHA": "401ac4b7",
+              "Subject": "Runs on firecracker"
+            },
+            {
+              "SHA": "681c122e",
+              "Subject": "elasticsearch ops-request (#827)"
+            },
+            {
+              "SHA": "83d55cdd",
+              "Subject": "Fix Cassandra Docs (#826)"
+            },
+            {
+              "SHA": "d547fc23",
+              "Subject": "error fix kind: secret added (#833)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "08fa3cc6",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#109)"
+            },
+            {
+              "SHA": "d0d33608",
+              "Subject": "Use k8s 1.34 client libs (#108)"
+            },
+            {
+              "SHA": "d9ada989",
+              "Subject": "Test against k8s 1.35 (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1c7a0371f",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#784)"
+            },
+            {
+              "SHA": "119a44abc",
+              "Subject": "Use k8s 1.34 client libs (#783)"
+            },
+            {
+              "SHA": "d686d92a3",
+              "Subject": "Test against k8s 1.35 (#781)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "94598fe3",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#78)"
+            },
+            {
+              "SHA": "fb7521bd",
+              "Subject": "Fix makefile indentation (#77)"
+            },
+            {
+              "SHA": "ce5dfcea",
+              "Subject": "Publish Image for Redhat software certification (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5ef0a4a1",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#96)"
+            },
+            {
+              "SHA": "8e07c378",
+              "Subject": "Use k8s 1.34 client libs (#95)"
+            },
+            {
+              "SHA": "8e5d5e72",
+              "Subject": "Test against k8s 1.35 (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "bd6e94c4",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#35)"
+            },
+            {
+              "SHA": "2b260a9d",
+              "Subject": "Use k8s 1.34 client libs (#34)"
+            },
+            {
+              "SHA": "119edc0b",
+              "Subject": "Fix makefile indentation (#33)"
+            },
+            {
+              "SHA": "5be586ab",
+              "Subject": "Publish Image for Redhat software certification (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "ebaf0578",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#8)"
+            },
+            {
+              "SHA": "c80e6397",
+              "Subject": "Use k8s 1.34 client libs (#7)"
+            },
+            {
+              "SHA": "3d484cef",
+              "Subject": "Test against k8s 1.35 (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0257c68a",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#22)"
+            },
+            {
+              "SHA": "62dca5f2",
+              "Subject": "Use k8s 1.34 client libs (#21)"
+            },
+            {
+              "SHA": "d08bf4d9",
+              "Subject": "Test against k8s 1.35 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b9b125a9",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#31)"
+            },
+            {
+              "SHA": "70ba3420",
+              "Subject": "Use k8s 1.34 client libs (#30)"
+            },
+            {
+              "SHA": "e361b1c0",
+              "Subject": "Test against k8s 1.35 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2025.12.31-rc.1",
+          "commits": [
+            {
+              "SHA": "257733940",
+              "Subject": "Prepare for release v2025.12.31-rc.1 (#1999)"
+            },
+            {
+              "SHA": "4f465123f",
+              "Subject": "Update cve report (#1998)"
+            },
+            {
+              "SHA": "b0c02f295",
+              "Subject": "Use mssql-export 1.2.0 (#1997)"
+            },
+            {
+              "SHA": "353be561b",
+              "Subject": "Update cve report (#1996)"
+            },
+            {
+              "SHA": "53a120a76",
+              "Subject": "Update cve report (#1995)"
+            },
+            {
+              "SHA": "0e4ee1c0d",
+              "Subject": "Update cve report (#1994)"
+            },
+            {
+              "SHA": "5862e1f16",
+              "Subject": "Use k8s 1.34 client libs (#1993)"
+            },
+            {
+              "SHA": "c16de4aeb",
+              "Subject": "Update crds for kubedb/apimachinery@3fb97b25 (#1992)"
+            },
+            {
+              "SHA": "54ab719ca",
+              "Subject": "Update cve report (#1991)"
+            },
+            {
+              "SHA": "f904c5e1c",
+              "Subject": "Update cve report (#1990)"
+            },
+            {
+              "SHA": "dbebecc72",
+              "Subject": "Update cve report (#1989)"
+            },
+            {
+              "SHA": "70ebf5546",
+              "Subject": "Update cve report (#1988)"
+            },
+            {
+              "SHA": "c88ec9382",
+              "Subject": "Update certified chart readme"
+            },
+            {
+              "SHA": "ba6045a67",
+              "Subject": "Generate certified and certified-crds charts (#1984)"
+            },
+            {
+              "SHA": "ea30f2d95",
+              "Subject": "Add WEBHOOK_SERVICE_NAME env (#1986)"
+            },
+            {
+              "SHA": "97ce9c80a",
+              "Subject": "Update cve report (#1985)"
+            },
+            {
+              "SHA": "46641ca8a",
+              "Subject": "Support ubi mode in kubedb-kubestash-catalog (#1983)"
+            },
+            {
+              "SHA": "f6a33fc7b",
+              "Subject": "Add test to kubedb chart (#1982)"
+            },
+            {
+              "SHA": "3d6827620",
+              "Subject": "Update cve report (#1981)"
+            },
+            {
+              "SHA": "9ca5910e0",
+              "Subject": "Update cve report (#1980)"
+            },
+            {
+              "SHA": "6c307ad8f",
+              "Subject": "Test against k8s 1.35 (#1978)"
+            },
+            {
+              "SHA": "f880b8bfe",
+              "Subject": "Update cve report (#1979)"
+            },
+            {
+              "SHA": "d86eb163e",
+              "Subject": "Fix operator.ubi and catalog.ubi templates (#1977)"
+            },
+            {
+              "SHA": "1bb2811e7",
+              "Subject": "Update cve report (#1976)"
+            },
+            {
+              "SHA": "cdb71959b",
+              "Subject": "Update cve report (#1975)"
+            },
+            {
+              "SHA": "031d08f55",
+              "Subject": "Update catalog chart helper"
+            },
+            {
+              "SHA": "7cea49277",
+              "Subject": "Update cve report (#1974)"
+            },
+            {
+              "SHA": "b756425b3",
+              "Subject": "Use shared DistroSpec"
+            },
+            {
+              "SHA": "b48a74dab",
+              "Subject": "Update cve report (#1972)"
+            },
+            {
+              "SHA": "52d4b98a4",
+              "Subject": "Update cve report (#1971)"
+            },
+            {
+              "SHA": "21e38aa74",
+              "Subject": "Add perses dashboards (#1921)"
+            },
+            {
+              "SHA": "99b384208",
+              "Subject": "Fix catalog chart schema"
+            },
+            {
+              "SHA": "304f5a62c",
+              "Subject": "Add endOfLife field to kubedb catalog version object (#1967)"
+            },
+            {
+              "SHA": "78e81bf83",
+              "Subject": "Update cve report (#1970)"
+            },
+            {
+              "SHA": "e7275a8f2",
+              "Subject": "FIx MariaDB Restic Plugin Version (#1968)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.31.0-rc.1",
+          "commits": [
+            {
+              "SHA": "50dda47a",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#171)"
+            },
+            {
+              "SHA": "6794c280",
+              "Subject": "Use k8s 1.34 client libs (#170)"
+            },
+            {
+              "SHA": "46f4f915",
+              "Subject": "Test against k8s 1.35 (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5a5a15d1",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#166)"
+            },
+            {
+              "SHA": "0d968837",
+              "Subject": "Use k8s 1.34 client libs (#165)"
+            },
+            {
+              "SHA": "ebd87bba",
+              "Subject": "Fix makefile indentation (#164)"
+            },
+            {
+              "SHA": "64a99c80",
+              "Subject": "Publish Image for Redhat software certification (#163)"
+            },
+            {
+              "SHA": "f3dea03e",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4b8b2ed0",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#110)"
+            },
+            {
+              "SHA": "f062b2b2",
+              "Subject": "Use k8s 1.34 client libs (#109)"
+            },
+            {
+              "SHA": "23a4536c",
+              "Subject": "Fix makefile indentation (#108)"
+            },
+            {
+              "SHA": "0b1e9561",
+              "Subject": "Publish Image for Redhat software certification (#107)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.11.0-rc.1",
+          "commits": [
+            {
+              "SHA": "04634147",
+              "Subject": "Prepare for release v0.11.0-rc.1 (#34)"
+            },
+            {
+              "SHA": "b99b0af5",
+              "Subject": "Update vulnerable deps (#33)"
+            },
+            {
+              "SHA": "0ed52eed",
+              "Subject": "Use k8s 1.34 client libs (#32)"
+            },
+            {
+              "SHA": "acdfea3d",
+              "Subject": "Fix makefile indentation (#31)"
+            },
+            {
+              "SHA": "562ab0a9",
+              "Subject": "Publish Image for Redhat software certification (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5573297fb",
+              "Subject": "Prepare for release v0.44.0-rc.1 (#364)"
+            },
+            {
+              "SHA": "681968b1c",
+              "Subject": "Use k8s 1.34 client libs (#362)"
+            },
+            {
+              "SHA": "f33961085",
+              "Subject": "Test against k8s 1.35 (#361)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e9eaec6e",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#69)"
+            },
+            {
+              "SHA": "72598a18",
+              "Subject": "Use k8s 1.34 client libs (#68)"
+            },
+            {
+              "SHA": "4704b4ad",
+              "Subject": "Fix makefile indentation (#67)"
+            },
+            {
+              "SHA": "1e935bfa",
+              "Subject": "Publish Image for Redhat software certification (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9b802d89",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#160)"
+            },
+            {
+              "SHA": "f69441b7",
+              "Subject": "Use k8s 1.34 client libs (#159)"
+            },
+            {
+              "SHA": "5046d4ba",
+              "Subject": "Fix makefile indentation (#158)"
+            },
+            {
+              "SHA": "4b8af065",
+              "Subject": "Publish Image for Redhat software certification (#157)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.1",
+          "commits": [
+            {
+              "SHA": "59c939d3",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#63)"
+            },
+            {
+              "SHA": "9eab57a2",
+              "Subject": "Use k8s 1.34 client libs (#62)"
+            },
+            {
+              "SHA": "762e091e",
+              "Subject": "Fix makefile indentation (#61)"
+            },
+            {
+              "SHA": "bfc6a10d",
+              "Subject": "Publish Image for Redhat software certification (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c0496d3",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#67)"
+            },
+            {
+              "SHA": "ea8641d",
+              "Subject": "Use k8s 1.34 client libs (#66)"
+            },
+            {
+              "SHA": "74bd202",
+              "Subject": "Fix makefile indentation (#65)"
+            },
+            {
+              "SHA": "3a13be1",
+              "Subject": "Publish Image for Redhat software certification (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a03adaf45",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#517)"
+            },
+            {
+              "SHA": "eadd34c62",
+              "Subject": "Use k8s 1.34 client libs (#516)"
+            },
+            {
+              "SHA": "3bad84baa",
+              "Subject": "Test against k8s 1.35 (#515)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7dee1617",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "13b241f4",
+              "Subject": "Use k8s 1.34 client libs (#8)"
+            },
+            {
+              "SHA": "c43dc470",
+              "Subject": "Test against k8s 1.35 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.1",
+          "commits": [
+            {
+              "SHA": "87a591118",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#728)"
+            },
+            {
+              "SHA": "96ec99618",
+              "Subject": "Use k8s 1.34 client libs (#727)"
+            },
+            {
+              "SHA": "a38f87851",
+              "Subject": "Test against k8s 1.35 (#725)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "6d6f78bf",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#66)"
+            },
+            {
+              "SHA": "d9a7e2c2",
+              "Subject": "Use k8s 1.34 client libs (#65)"
+            },
+            {
+              "SHA": "7f6dc710",
+              "Subject": "Fix makefile indentation (#64)"
+            },
+            {
+              "SHA": "bbf8bfc9",
+              "Subject": "Publish Image for Redhat software certification (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "eba27b4e",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#99)"
+            },
+            {
+              "SHA": "7b9d416a",
+              "Subject": "Use k8s 1.34 client libs (#98)"
+            },
+            {
+              "SHA": "ae919478",
+              "Subject": "Fix makefile indentation (#97)"
+            },
+            {
+              "SHA": "e6cd9a26",
+              "Subject": "Publish Image for Redhat software certification (#96)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "2b55ad11",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#51)"
+            },
+            {
+              "SHA": "29767f76",
+              "Subject": "Use k8s 1.34 client libs (#50)"
+            },
+            {
+              "SHA": "b3136eda",
+              "Subject": "fix makefile (#49)"
+            },
+            {
+              "SHA": "22da7333",
+              "Subject": "Publish Image for Redhat software certification (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "605da415",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#102)"
+            },
+            {
+              "SHA": "566491fe",
+              "Subject": "Use k8s 1.34 client libs (#101)"
+            },
+            {
+              "SHA": "5125d044",
+              "Subject": "Test against k8s 1.35 (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0377147",
+              "Subject": "Use k8s 1.34 client libs (#20)"
+            },
+            {
+              "SHA": "1c173bf",
+              "Subject": "Fix makefile indentation (#19)"
+            },
+            {
+              "SHA": "5c69310",
+              "Subject": "Merge pull request #16 from kubedb/rhm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.1",
+          "commits": [
+            {
+              "SHA": "07f0670",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#41)"
+            },
+            {
+              "SHA": "231ae1c",
+              "Subject": "Use k8s 1.34 client libs (#40)"
+            },
+            {
+              "SHA": "343568c",
+              "Subject": "Fix makefile indentation (#39)"
+            },
+            {
+              "SHA": "bc447f8",
+              "Subject": "Publish Image for Redhat software certification (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f87bcd7fd",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#712)"
+            },
+            {
+              "SHA": "f8490909b",
+              "Subject": "Use k8s 1.34 client libs (#710)"
+            },
+            {
+              "SHA": "95a710638",
+              "Subject": "Test against k8s 1.35 (#709)"
+            },
+            {
+              "SHA": "5cf311be2",
+              "Subject": "Fix Archiver Panic for Azure backend (#708)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "3be30caf",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#73)"
+            },
+            {
+              "SHA": "3d14d6df",
+              "Subject": "Use k8s 1.34 client libs (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.38.0-rc.1",
+          "commits": [
+            {
+              "SHA": "22cf05ff",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#159)"
+            },
+            {
+              "SHA": "13232ee9",
+              "Subject": "Use k8s 1.34 client libs (#157)"
+            },
+            {
+              "SHA": "1f1196f7",
+              "Subject": "Fix makefile indentation (#156)"
+            },
+            {
+              "SHA": "e354dcea",
+              "Subject": "Publish Image for Redhat software certification (#155)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "aacc62c7",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#63)"
+            },
+            {
+              "SHA": "50746a8e",
+              "Subject": "Use k8s 1.34 client libs (#62)"
+            },
+            {
+              "SHA": "a4ef9a0b",
+              "Subject": "Fix makefile indentation (#61)"
+            },
+            {
+              "SHA": "6b1059ae",
+              "Subject": "Publish Image for Redhat software certification (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0eca6918",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#89)"
+            },
+            {
+              "SHA": "0ceec91e",
+              "Subject": "Use k8s 1.34 client libs (#88)"
+            },
+            {
+              "SHA": "d12eee48",
+              "Subject": "Fix makefile indentation (#87)"
+            },
+            {
+              "SHA": "c22220cd",
+              "Subject": "Publish Image for Redhat software certification (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.38.0-rc.1",
+          "commits": [
+            {
+              "SHA": "757d12e",
+              "Subject": "Use k8s 1.34 client libs (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "51303fa4",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "190cb7ee",
+              "Subject": "Use k8s 1.34 client libs (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5d979ede3",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#816)"
+            },
+            {
+              "SHA": "25ca3a62a",
+              "Subject": "Use k8s 1.34 client libs (#815)"
+            },
+            {
+              "SHA": "8dd93808f",
+              "Subject": "Fix makefile indentation (#814)"
+            },
+            {
+              "SHA": "af6c8f13f",
+              "Subject": "Test against k8s 1.35 (#811)"
+            },
+            {
+              "SHA": "6d2d736c9",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "116f7351a",
+              "Subject": "Publish Image for Redhat software certification (#810)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "6483df83",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#23)"
+            },
+            {
+              "SHA": "8dcfd2ed",
+              "Subject": "Use k8s 1.34 client libs (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5d1358a",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#19)"
+            },
+            {
+              "SHA": "e0d0e32",
+              "Subject": "Use k8s 1.34 client libs (#18)"
+            },
+            {
+              "SHA": "028fd7d",
+              "Subject": "Fix makefile indentation (#17)"
+            },
+            {
+              "SHA": "67c4d12",
+              "Subject": "Publish Image for Redhat software certification (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0047860f3",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#427)"
+            },
+            {
+              "SHA": "645e9afaf",
+              "Subject": "Use k8s 1.34 client libs (#426)"
+            },
+            {
+              "SHA": "d383e813d",
+              "Subject": "Test against k8s 1.35 (#425)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a2ac2089",
+              "Subject": "Prepare for release v0.33.0-rc.1 (#109)"
+            },
+            {
+              "SHA": "53ccb3e1",
+              "Subject": "Use k8s 1.34 client libs (#108)"
+            },
+            {
+              "SHA": "3393d9f4",
+              "Subject": "Fix makefile indentation (#107)"
+            },
+            {
+              "SHA": "83523a0f",
+              "Subject": "Publish Image for Redhat software certification (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b36eb9fa",
+              "Subject": "Prepare for release v0.44.0-rc.1 (#225)"
+            },
+            {
+              "SHA": "e9f791b6",
+              "Subject": "Use k8s 1.34 client libs (#224)"
+            },
+            {
+              "SHA": "975ac4fd",
+              "Subject": "Fix makefile indentation (#223)"
+            },
+            {
+              "SHA": "d030c49c",
+              "Subject": "Publish Image for Redhat software certification (#222)"
+            },
+            {
+              "SHA": "ba00b5d5",
+              "Subject": "Fix parse err check (#221)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b9a646574",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#391)"
+            },
+            {
+              "SHA": "8cdeb7501",
+              "Subject": "Use k8s 1.34 client libs (#390)"
+            },
+            {
+              "SHA": "1defb0fe1",
+              "Subject": "Test against k8s 1.35 (#389)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "17ba50ae",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#94)"
+            },
+            {
+              "SHA": "f6428269",
+              "Subject": "Use k8s 1.34 client libs (#93)"
+            },
+            {
+              "SHA": "c93510d6",
+              "Subject": "Test against k8s 1.35 (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a4b0d9486",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#846)"
+            },
+            {
+              "SHA": "2e2641018",
+              "Subject": "Use k8s 1.34 client libs (#845)"
+            },
+            {
+              "SHA": "44a384b00",
+              "Subject": "Test against k8s 1.35 (#844)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "16aaff7c",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#77)"
+            },
+            {
+              "SHA": "da7738a0",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#76)"
+            },
+            {
+              "SHA": "7736eaa2",
+              "Subject": "Use k8s 1.34 client libs (#75)"
+            },
+            {
+              "SHA": "53ae9b13",
+              "Subject": "Fix makefile indentation (#74)"
+            },
+            {
+              "SHA": "fc256522",
+              "Subject": "Publish Image for Redhat software certification (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7d99eb19",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#73)"
+            },
+            {
+              "SHA": "2d482cda",
+              "Subject": "Use k8s 1.34 client libs (#72)"
+            },
+            {
+              "SHA": "48e2e4c9",
+              "Subject": "Fix makefile indentation (#71)"
+            },
+            {
+              "SHA": "ea89b1db",
+              "Subject": "Publish Image for Redhat software certification (#70)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a8876977",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#87)"
+            },
+            {
+              "SHA": "13e072fb",
+              "Subject": "Use k8s 1.34 client libs (#86)"
+            },
+            {
+              "SHA": "b258277e",
+              "Subject": "Fix makefile indentation (#85)"
+            },
+            {
+              "SHA": "5a182fc7",
+              "Subject": "Publish Image for Redhat software certification (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.1",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.60.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4726affdf",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#182)"
+            },
+            {
+              "SHA": "da33384c2",
+              "Subject": "Use k8s 1.34 client libs (#181)"
+            },
+            {
+              "SHA": "51de966b7",
+              "Subject": "Fix makefile indentation (#180)"
+            },
+            {
+              "SHA": "11e9f6b60",
+              "Subject": "Test against k8s 1.35 (#179)"
+            },
+            {
+              "SHA": "7e4a29545",
+              "Subject": "Publish Image for Redhat software certification (#178)"
+            },
+            {
+              "SHA": "1f19bb323",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "373f5f5c2",
+              "Subject": "Check if appscode license api is up whle image building"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7ec3ed3f5",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#411)"
+            },
+            {
+              "SHA": "99a845b14",
+              "Subject": "Use k8s 1.34 client libs (#410)"
+            },
+            {
+              "SHA": "71efc19c6",
+              "Subject": "Test against k8s 1.35 (#409)"
+            },
+            {
+              "SHA": "10258db59",
+              "Subject": "Remove github.com/go-xorm/xorm dependency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "47542dd7",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#11)"
+            },
+            {
+              "SHA": "2653e252",
+              "Subject": "Use k8s 1.34 client libs (#10)"
+            },
+            {
+              "SHA": "a3318df6",
+              "Subject": "Test against k8s 1.35 (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5730ad2b",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "fc6d5de0",
+              "Subject": "Use k8s 1.34 client libs (#104)"
+            },
+            {
+              "SHA": "34ac217c",
+              "Subject": "Test against k8s 1.35 (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.1",
+          "commits": [
+            {
+              "SHA": "504bc21c1",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#614)"
+            },
+            {
+              "SHA": "082ef45b4",
+              "Subject": "Use k8s 1.34 client libs (#613)"
+            },
+            {
+              "SHA": "ce19d04e5",
+              "Subject": "Test against k8s 1.35 (#612)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.39.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c7289d79",
+              "Subject": "Prepare for release v0.39.0-rc.1 (#143)"
+            },
+            {
+              "SHA": "a135f6e5",
+              "Subject": "Use k8s 1.34 client libs (#142)"
+            },
+            {
+              "SHA": "42038efc",
+              "Subject": "Fix makefile indentation (#141)"
+            },
+            {
+              "SHA": "9924e4eb",
+              "Subject": "Publish Image for Redhat software certification (#140)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "84b3bcce",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#82)"
+            },
+            {
+              "SHA": "b2ea9fc3",
+              "Subject": "Use k8s 1.34 client libs (#81)"
+            },
+            {
+              "SHA": "3b705e12",
+              "Subject": "Fix makefile indentation (#80)"
+            },
+            {
+              "SHA": "6801fb25",
+              "Subject": "Publish Image for Redhat software certification (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.47.0-rc.1",
+          "commits": [
+            {
+              "SHA": "77ec3ba3",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#306)"
+            },
+            {
+              "SHA": "4cb9f404",
+              "Subject": "Use k8s 1.34 client libs (#305)"
+            },
+            {
+              "SHA": "77e5286c",
+              "Subject": "Fix makefile indentation (#304)"
+            },
+            {
+              "SHA": "9322cc0c",
+              "Subject": "Publish Image for Redhat software certification (#303)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.1",
+          "commits": [
+            {
+              "SHA": "6b881db3",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#153)"
+            },
+            {
+              "SHA": "f9e6fea0",
+              "Subject": "Use k8s 1.34 client libs (#152)"
+            },
+            {
+              "SHA": "76951266",
+              "Subject": "Fix makefile indentation (#151)"
+            },
+            {
+              "SHA": "49234341",
+              "Subject": "Publish Image for Redhat software certification (#150)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9dd2d8a5",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#94)"
+            },
+            {
+              "SHA": "73d9f999",
+              "Subject": "Use k8s 1.34 client libs (#93)"
+            },
+            {
+              "SHA": "f84e08b4",
+              "Subject": "Test against k8s 1.35 (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "2b1fa919",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#56)"
+            },
+            {
+              "SHA": "4a067f5f",
+              "Subject": "Use k8s 1.34 client libs (#55)"
+            },
+            {
+              "SHA": "67248c77",
+              "Subject": "Fix makefile indentation (#54)"
+            },
+            {
+              "SHA": "e7847baf",
+              "Subject": "Publish Image for Redhat software certification (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5762f17e",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#62)"
+            },
+            {
+              "SHA": "3e2214d7",
+              "Subject": "Use k8s 1.34 client libs (#61)"
+            },
+            {
+              "SHA": "b638ab06",
+              "Subject": "Fix makefile indentation (#60)"
+            },
+            {
+              "SHA": "378183ea",
+              "Subject": "Publish Image for Redhat software certification (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4073694e",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#106)"
+            },
+            {
+              "SHA": "1bd7aa31",
+              "Subject": "Use k8s 1.34 client libs (#105)"
+            },
+            {
+              "SHA": "a1581efa",
+              "Subject": "Bump k8s.io/kubernetes from 1.32.8 to 1.32.10 (#104)"
+            },
+            {
+              "SHA": "ec4afd2b",
+              "Subject": "Test against k8s 1.35 (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.1",
+          "commits": [
+            {
+              "SHA": "66510754",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#499)"
+            },
+            {
+              "SHA": "3b1d93be",
+              "Subject": "Use k8s 1.34 client libs (#498)"
+            },
+            {
+              "SHA": "ec3491a2",
+              "Subject": "Test against k8s 1.35 (#496)"
+            },
+            {
+              "SHA": "5ad85722",
+              "Subject": "MSSQLServer Logical Backup (Wal-G) (#481)"
+            },
+            {
+              "SHA": "f3b02cd7",
+              "Subject": "MariaDB MaxScale VerticalScale (#491)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.1",
+          "commits": [
+            {
+              "SHA": "aa21b74c",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#185)"
+            },
+            {
+              "SHA": "10372bf9",
+              "Subject": "Update vulnerable deps (#184)"
+            },
+            {
+              "SHA": "dc899cea",
+              "Subject": "Use k8s 1.34 client libs (#183)"
+            },
+            {
+              "SHA": "c1d34c7e",
+              "Subject": "Fix makefile indentation (#182)"
+            },
+            {
+              "SHA": "9ebbb2ac",
+              "Subject": "Publish Image for Redhat software certification (#179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.1",
+          "commits": [
+            {
+              "SHA": "429e6c27",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#8)"
+            },
+            {
+              "SHA": "110cd467",
+              "Subject": "Update vulnerable deps (#7)"
+            },
+            {
+              "SHA": "a5f58ee6",
+              "Subject": "Use k8s 1.34 client libs (#6)"
+            },
+            {
+              "SHA": "387e92f6",
+              "Subject": "Test against k8s 1.34 (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.1",
+          "commits": [
+            {
+              "SHA": "dbeae2f7",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#186)"
+            },
+            {
+              "SHA": "d85264ab",
+              "Subject": "Use k8s 1.34 client libs (#185)"
+            },
+            {
+              "SHA": "e8ed226a",
+              "Subject": "Fix makefile indentation (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "5c0b64e",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#30)"
+            },
+            {
+              "SHA": "39afcc0",
+              "Subject": "Use k8s 1.34 client libs (#29)"
+            },
+            {
+              "SHA": "1d360b0",
+              "Subject": "Fix makefile indentation (#28)"
+            },
+            {
+              "SHA": "bb44171",
+              "Subject": "Publish Image for Redhat software certification (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "05a44ba9",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#97)"
+            },
+            {
+              "SHA": "bfdf1c28",
+              "Subject": "Use k8s 1.34 client libs (#96)"
+            },
+            {
+              "SHA": "ca2cbe8b",
+              "Subject": "Test against k8s 1.35 (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1f1a5f1",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#51)"
+            },
+            {
+              "SHA": "f4afa89",
+              "Subject": "Use k8s 1.34 client libs (#50)"
+            },
+            {
+              "SHA": "ecd338e",
+              "Subject": "Fix makefile indentation (#49)"
+            },
+            {
+              "SHA": "513fdf0",
+              "Subject": "Publish Image for Redhat software certification (#48)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

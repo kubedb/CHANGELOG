@@ -663,6 +663,17 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.36.0-rc.1](https://github.com/kubedb/schema-manager/releases/tag/v0.36.0-rc.1)
+
+- [6b881db3](https://github.com/kubedb/schema-manager/commit/6b881db3) Prepare for release v0.36.0-rc.1 (#153)
+- [f9e6fea0](https://github.com/kubedb/schema-manager/commit/f9e6fea0) Use k8s 1.34 client libs (#152)
+- [76951266](https://github.com/kubedb/schema-manager/commit/76951266) Fix makefile indentation (#151)
+- [49234341](https://github.com/kubedb/schema-manager/commit/49234341) Publish Image for Redhat software certification (#150)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.15.0-rc.1)

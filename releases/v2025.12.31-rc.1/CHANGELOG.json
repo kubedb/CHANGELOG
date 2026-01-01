@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2025.12.31-rc.1",
-  "release_date": "2026-01-01T02:20:55.922943894Z",
+  "release_date": "2026-01-01T02:27:28.266534253Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2025.12.31-rc.1",
   "kubernetes_version": "1.26+",
@@ -1494,6 +1494,32 @@
             {
               "SHA": "9322cc0c",
               "Subject": "Publish Image for Redhat software certification (#303)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.1",
+          "commits": [
+            {
+              "SHA": "6b881db3",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#153)"
+            },
+            {
+              "SHA": "f9e6fea0",
+              "Subject": "Use k8s 1.34 client libs (#152)"
+            },
+            {
+              "SHA": "76951266",
+              "Subject": "Fix makefile indentation (#151)"
+            },
+            {
+              "SHA": "49234341",
+              "Subject": "Publish Image for Redhat software certification (#150)"
             }
           ]
         }

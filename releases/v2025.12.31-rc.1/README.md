@@ -1,4 +1,4 @@
-# KubeDB v2025.12.31-rc.1 (2025-12-31)
+# KubeDB v2025.12.31-rc.1 (2026-01-01)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -262,6 +262,17 @@
 - [f69441b7](https://github.com/kubedb/mariadb-coordinator/commit/f69441b7) Use k8s 1.34 client libs (#159)
 - [5046d4ba](https://github.com/kubedb/mariadb-coordinator/commit/5046d4ba) Fix makefile indentation (#158)
 - [4b8af065](https://github.com/kubedb/mariadb-coordinator/commit/4b8af065) Publish Image for Redhat software certification (#157)
+
+
+
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.20.0-rc.1)
+
+- [59c939d3](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/59c939d3) Prepare for release v0.20.0-rc.1 (#63)
+- [9eab57a2](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/9eab57a2) Use k8s 1.34 client libs (#62)
+- [762e091e](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/762e091e) Fix makefile indentation (#61)
+- [bfc6a10d](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/bfc6a10d) Publish Image for Redhat software certification (#60)
 
 
 

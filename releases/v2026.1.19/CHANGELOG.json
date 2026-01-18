@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-18T15:20:20.112908215Z",
+  "release_date": "2026-01-18T15:33:15.150097473Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -179,6 +179,96 @@
             {
               "SHA": "9ae5deaaa",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "2ecc2b55",
+              "Subject": "Prepare for release v0.15.0 (#217)"
+            },
+            {
+              "SHA": "9854141c",
+              "Subject": "fix opensearch-v3 health check issues (#216)"
+            },
+            {
+              "SHA": "d08174b5",
+              "Subject": "Add Qdrant TLS Support (#212)"
+            },
+            {
+              "SHA": "3f74e4df",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#215)"
+            },
+            {
+              "SHA": "d7814284",
+              "Subject": "Update vulnerable deps (#214)"
+            },
+            {
+              "SHA": "cf25883f",
+              "Subject": "Use k8s 1.34 client libs (#213)"
+            },
+            {
+              "SHA": "17120b90",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "238d08e2",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#209)"
+            },
+            {
+              "SHA": "3789532d",
+              "Subject": "Fix Go version (#208)"
+            },
+            {
+              "SHA": "eaca6fc1",
+              "Subject": "Add Weaviate Client Go (#202)"
+            },
+            {
+              "SHA": "1826245f",
+              "Subject": "Add hanadb client-go (#201)"
+            },
+            {
+              "SHA": "fbf24826",
+              "Subject": "Add milvus db-client-go (#198)"
+            },
+            {
+              "SHA": "2e876291",
+              "Subject": "Update go.mod file"
+            },
+            {
+              "SHA": "e3d3ecca",
+              "Subject": "Use golangci-lint 2.x (#207)"
+            },
+            {
+              "SHA": "5beb8789",
+              "Subject": "Add Oracle tls support (#205)"
+            },
+            {
+              "SHA": "0daf0012",
+              "Subject": "Add Neo4j Client (#204)"
+            },
+            {
+              "SHA": "8f852044",
+              "Subject": "Add db2 client go (#206)"
+            },
+            {
+              "SHA": "0b613041",
+              "Subject": "Add Qdrant (#197)"
+            },
+            {
+              "SHA": "f77e6314",
+              "Subject": "Add Virtual Secret Pgbouncer Pgpool Redis Valkey (#199)"
+            },
+            {
+              "SHA": "b824c01d",
+              "Subject": "move go_es file to db-client (#200)"
             }
           ]
         }

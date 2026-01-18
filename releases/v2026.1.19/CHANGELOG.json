@@ -1,0 +1,188 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.1.19",
+  "release_date": "2026-01-18T15:20:20.112908215Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.1.19",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.60.0",
+          "commits": [
+            {
+              "SHA": "c843a2f36",
+              "Subject": "Update for release KubeStash@v2026.1.19 (#1570)"
+            },
+            {
+              "SHA": "9f97d1bb1",
+              "Subject": "Add/Update webhook validation for all dbs' ops requests (#1569)"
+            },
+            {
+              "SHA": "ef9045d61",
+              "Subject": "Update redis, pgpool api and memcached ops api (#1568)"
+            },
+            {
+              "SHA": "eae49b096",
+              "Subject": "Add Qdrant TLS Support (#1559)"
+            },
+            {
+              "SHA": "3f91ae3fe",
+              "Subject": "Improve and generalize configure-reconfigure process for all dbs (#1558)"
+            },
+            {
+              "SHA": "b9b80eb8d",
+              "Subject": "Update for release KubeStash@v2026.1.8-rc.0 (#1566)"
+            },
+            {
+              "SHA": "5b6cda2f2",
+              "Subject": "Resume stash backupconfigs currently (#1565)"
+            },
+            {
+              "SHA": "0a4e17cdd",
+              "Subject": "Review Postgres custom config api (#1556)"
+            },
+            {
+              "SHA": "0a605892f",
+              "Subject": "Implement common method for merging logic (#1563)"
+            },
+            {
+              "SHA": "f12630f5c",
+              "Subject": "Add shard config scheme for cached client (#1555)"
+            },
+            {
+              "SHA": "89c8cc899",
+              "Subject": "Correctly set the serviceMonitor scheme (#1562)"
+            },
+            {
+              "SHA": "3fb97b259",
+              "Subject": "Use k8s 1.34 client go libs (#1560)"
+            },
+            {
+              "SHA": "eb03debc7",
+              "Subject": "Add DatabaseInfo api (#1557)"
+            },
+            {
+              "SHA": "72d44c386",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d30d72e0f",
+              "Subject": "Test against k8s 1.35 (#1554)"
+            },
+            {
+              "SHA": "da3e069f8",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "7086a4bd8",
+              "Subject": "Add \"EndOfLife\" field in catalogs (#1553)"
+            },
+            {
+              "SHA": "5cfded61a",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "bd9997041",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "fac813c78",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "e58fe916a",
+              "Subject": "Update license libraries"
+            },
+            {
+              "SHA": "0562e8d15",
+              "Subject": "Use golangci-lint 2.x (#1549)"
+            },
+            {
+              "SHA": "3d10db600",
+              "Subject": "Implement upgradability helpers (#1536)"
+            },
+            {
+              "SHA": "9131dc317",
+              "Subject": "Add milvus apis (#1533)"
+            },
+            {
+              "SHA": "7d56b3e6c",
+              "Subject": "Virtual secret for pgbouncer pgpool redis (#1516)"
+            },
+            {
+              "SHA": "e1143b591",
+              "Subject": "Add MaxRetries api (#1547)"
+            },
+            {
+              "SHA": "b8b8a9030",
+              "Subject": "Fix webhook: postgres volume exp ops, memcached auth secret spec (#1548)"
+            },
+            {
+              "SHA": "56ba059d8",
+              "Subject": "Add oracle tls api (#1545)"
+            },
+            {
+              "SHA": "0c8e327b1",
+              "Subject": "Allow Force Failover with data loss | add tuning api (#1542)"
+            },
+            {
+              "SHA": "e34d1088a",
+              "Subject": "Add Weaviate APIs (#1528)"
+            },
+            {
+              "SHA": "8059bb8b7",
+              "Subject": "Add DB2 APIs (#1530)"
+            },
+            {
+              "SHA": "285acd8bd",
+              "Subject": "Add Neo4j API (#1544)"
+            },
+            {
+              "SHA": "7e98c3f00",
+              "Subject": "Update skipper and webhook for config merger (#1535)"
+            },
+            {
+              "SHA": "e3c8ce90f",
+              "Subject": "Add Hanadb (#1527)"
+            },
+            {
+              "SHA": "f56bbc3a4",
+              "Subject": "Fix MySQL reconfigure apply config (#1534)"
+            },
+            {
+              "SHA": "2ed241d26",
+              "Subject": "Add hazelcast binding implementation (#1540)"
+            },
+            {
+              "SHA": "2bbafe54f",
+              "Subject": "Add Qdrant (#1524)"
+            },
+            {
+              "SHA": "4de23d6d3",
+              "Subject": "Update vulnerable deps (#1541)"
+            },
+            {
+              "SHA": "832e8ff48",
+              "Subject": "Move lib pkg from ops-manager (#1532)"
+            },
+            {
+              "SHA": "bf32e8fca",
+              "Subject": "Remove redundant print column `Type` in DB CRs.  (#1531)"
+            },
+            {
+              "SHA": "bbc014087",
+              "Subject": "make gen fmt (#1529)"
+            },
+            {
+              "SHA": "9ae5deaaa",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

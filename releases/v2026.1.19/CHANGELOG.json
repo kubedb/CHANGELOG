@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:31:37.067563188Z",
+  "release_date": "2026-01-19T04:36:20.261341465Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -357,6 +357,52 @@
             {
               "SHA": "3f7bf918",
               "Subject": "Move ops-manager code to base repo (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "620d72f7",
+              "Subject": "Prepare for release v0.15.0 (#108)"
+            },
+            {
+              "SHA": "f58a1f91",
+              "Subject": "Update Configure reconfigure process (#107)"
+            },
+            {
+              "SHA": "4073694e",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#106)"
+            },
+            {
+              "SHA": "1bd7aa31",
+              "Subject": "Use k8s 1.34 client libs (#105)"
+            },
+            {
+              "SHA": "a1581efa",
+              "Subject": "Bump k8s.io/kubernetes from 1.32.8 to 1.32.10 (#104)"
+            },
+            {
+              "SHA": "ec4afd2b",
+              "Subject": "Test against k8s 1.35 (#103)"
+            },
+            {
+              "SHA": "090077d5",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "cb654575",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#101)"
+            },
+            {
+              "SHA": "8919aabd",
+              "Subject": "Move in Ops-manager code to Solr (#100)"
             }
           ]
         }

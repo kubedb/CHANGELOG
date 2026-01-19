@@ -334,6 +334,22 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.60.0](https://github.com/kubedb/postgres/releases/tag/v0.60.0)
+
+- [a313afc9](https://github.com/kubedb/postgres/commit/a313afc9e) Prepare for release v0.60.0 (#847)
+- [4d86169d](https://github.com/kubedb/postgres/commit/4d86169d7) Add sharding facility for Postgres Ops-Requests (#843)
+- [a4b0d948](https://github.com/kubedb/postgres/commit/a4b0d9486) Prepare for release v0.60.0-rc.1 (#846)
+- [2e264101](https://github.com/kubedb/postgres/commit/2e2641018) Use k8s 1.34 client libs (#845)
+- [44a384b0](https://github.com/kubedb/postgres/commit/44a384b00) Test against k8s 1.35 (#844)
+- [43ab7076](https://github.com/kubedb/postgres/commit/43ab70768) Prepare for release v0.60.0-rc.0 (#842)
+- [1f118af2](https://github.com/kubedb/postgres/commit/1f118af2f) Fix postgres split brain | Add auto config tuning support |   (#841)
+- [73418b2f](https://github.com/kubedb/postgres/commit/73418b2f8) Virtual Secret further bug fix (#836)
+- [57e8114e](https://github.com/kubedb/postgres/commit/57e8114ed) Move in Ops-manager code to Postgres (#837)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.21.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.21.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:39:27.607927242Z",
+  "release_date": "2026-01-19T04:39:50.35715694Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1009,6 +1009,52 @@
             {
               "SHA": "437be99c",
               "Subject": "Use golangci-lint 2.x (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.60.0",
+          "commits": [
+            {
+              "SHA": "a313afc9e",
+              "Subject": "Prepare for release v0.60.0 (#847)"
+            },
+            {
+              "SHA": "4d86169d7",
+              "Subject": "Add sharding facility for Postgres Ops-Requests (#843)"
+            },
+            {
+              "SHA": "a4b0d9486",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#846)"
+            },
+            {
+              "SHA": "2e2641018",
+              "Subject": "Use k8s 1.34 client libs (#845)"
+            },
+            {
+              "SHA": "44a384b00",
+              "Subject": "Test against k8s 1.35 (#844)"
+            },
+            {
+              "SHA": "43ab70768",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#842)"
+            },
+            {
+              "SHA": "1f118af2f",
+              "Subject": "Fix postgres split brain | Add auto config tuning support |   (#841)"
+            },
+            {
+              "SHA": "73418b2f8",
+              "Subject": "Virtual Secret further bug fix (#836)"
+            },
+            {
+              "SHA": "57e8114ed",
+              "Subject": "Move in Ops-manager code to Postgres (#837)"
             }
           ]
         }

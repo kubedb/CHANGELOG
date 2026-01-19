@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:40:28.398287967Z",
+  "release_date": "2026-01-19T04:40:38.217458412Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -979,6 +979,56 @@
             {
               "SHA": "c31441d5",
               "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "cbb8df3b",
+              "Subject": "Prepare for release v0.15.0 (#53)"
+            },
+            {
+              "SHA": "a9d3248b",
+              "Subject": "Correctly check if sqlservr process is running for new versions (#52)"
+            },
+            {
+              "SHA": "2b55ad11",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#51)"
+            },
+            {
+              "SHA": "29767f76",
+              "Subject": "Use k8s 1.34 client libs (#50)"
+            },
+            {
+              "SHA": "b3136eda",
+              "Subject": "fix makefile (#49)"
+            },
+            {
+              "SHA": "22da7333",
+              "Subject": "Publish Image for Redhat software certification (#48)"
+            },
+            {
+              "SHA": "e859024e",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "1b3d5a4d",
+              "Subject": "Fix container build command"
+            },
+            {
+              "SHA": "a3e461c3",
+              "Subject": "Build ubi image (#46)"
+            },
+            {
+              "SHA": "9268580a",
+              "Subject": "Use golangci-lint 2.x (#45)"
             }
           ]
         }

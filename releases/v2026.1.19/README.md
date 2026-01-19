@@ -322,6 +322,23 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.15.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.15.0)
+
+- [cbb8df3b](https://github.com/kubedb/mssql-coordinator/commit/cbb8df3b) Prepare for release v0.15.0 (#53)
+- [a9d3248b](https://github.com/kubedb/mssql-coordinator/commit/a9d3248b) Correctly check if sqlservr process is running for new versions (#52)
+- [2b55ad11](https://github.com/kubedb/mssql-coordinator/commit/2b55ad11) Prepare for release v0.15.0-rc.1 (#51)
+- [29767f76](https://github.com/kubedb/mssql-coordinator/commit/29767f76) Use k8s 1.34 client libs (#50)
+- [b3136eda](https://github.com/kubedb/mssql-coordinator/commit/b3136eda) fix makefile (#49)
+- [22da7333](https://github.com/kubedb/mssql-coordinator/commit/22da7333) Publish Image for Redhat software certification (#48)
+- [e859024e](https://github.com/kubedb/mssql-coordinator/commit/e859024e) Prepare for release v0.15.0-rc.0 (#47)
+- [1b3d5a4d](https://github.com/kubedb/mssql-coordinator/commit/1b3d5a4d) Fix container build command
+- [a3e461c3](https://github.com/kubedb/mssql-coordinator/commit/a3e461c3) Build ubi image (#46)
+- [9268580a](https://github.com/kubedb/mssql-coordinator/commit/9268580a) Use golangci-lint 2.x (#45)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.14.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.14.0)

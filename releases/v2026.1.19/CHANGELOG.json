@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:39:11.595477368Z",
+  "release_date": "2026-01-19T04:39:27.607927242Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -771,6 +771,64 @@
             {
               "SHA": "3f7bf918",
               "Subject": "Move ops-manager code to base repo (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "b5e215a53",
+              "Subject": "Prepare for release v0.44.0 (#366)"
+            },
+            {
+              "SHA": "2b103c386",
+              "Subject": "Use Exporter Version v0.18.0 (#365)"
+            },
+            {
+              "SHA": "0cfc49986",
+              "Subject": "Improve and generalize configure-reconfigure (#363)"
+            },
+            {
+              "SHA": "5573297fb",
+              "Subject": "Prepare for release v0.44.0-rc.1 (#364)"
+            },
+            {
+              "SHA": "681968b1c",
+              "Subject": "Use k8s 1.34 client libs (#362)"
+            },
+            {
+              "SHA": "f33961085",
+              "Subject": "Test against k8s 1.35 (#361)"
+            },
+            {
+              "SHA": "ea4d4a69a",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#358)"
+            },
+            {
+              "SHA": "d9257a6ea",
+              "Subject": "Change Makefile GO Version (#357)"
+            },
+            {
+              "SHA": "4f419cbec",
+              "Subject": "Add golangci (#356)"
+            },
+            {
+              "SHA": "96a12452c",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#355)"
+            },
+            {
+              "SHA": "c1fccdd74",
+              "Subject": "Fi Archiver Version Compatibility (#354)"
+            },
+            {
+              "SHA": "b95f58e69",
+              "Subject": "move ops code to db repo (#353)"
             }
           ]
         }

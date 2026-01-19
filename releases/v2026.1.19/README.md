@@ -252,6 +252,25 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.44.0](https://github.com/kubedb/mariadb/releases/tag/v0.44.0)
+
+- [b5e215a5](https://github.com/kubedb/mariadb/commit/b5e215a53) Prepare for release v0.44.0 (#366)
+- [2b103c38](https://github.com/kubedb/mariadb/commit/2b103c386) Use Exporter Version v0.18.0 (#365)
+- [0cfc4998](https://github.com/kubedb/mariadb/commit/0cfc49986) Improve and generalize configure-reconfigure (#363)
+- [5573297f](https://github.com/kubedb/mariadb/commit/5573297fb) Prepare for release v0.44.0-rc.1 (#364)
+- [681968b1](https://github.com/kubedb/mariadb/commit/681968b1c) Use k8s 1.34 client libs (#362)
+- [f3396108](https://github.com/kubedb/mariadb/commit/f33961085) Test against k8s 1.35 (#361)
+- [ea4d4a69](https://github.com/kubedb/mariadb/commit/ea4d4a69a) Prepare for release v0.44.0-rc.0 (#358)
+- [d9257a6e](https://github.com/kubedb/mariadb/commit/d9257a6ea) Change Makefile GO Version (#357)
+- [4f419cbe](https://github.com/kubedb/mariadb/commit/4f419cbec) Add golangci (#356)
+- [96a12452](https://github.com/kubedb/mariadb/commit/96a12452c) Fix multiple restart issue by introducing parallelismController (#355)
+- [c1fccdd7](https://github.com/kubedb/mariadb/commit/c1fccdd74) Fi Archiver Version Compatibility (#354)
+- [b95f58e6](https://github.com/kubedb/mariadb/commit/b95f58e69) move ops code to db repo (#353)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.53.0](https://github.com/kubedb/memcached/releases/tag/v0.53.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:36:36.706223781Z",
+  "release_date": "2026-01-19T04:36:51.47140871Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -179,6 +179,76 @@
             {
               "SHA": "9ae5deaaa",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "e9b0cd26",
+              "Subject": "Prepare for release v0.15.0 (#107)"
+            },
+            {
+              "SHA": "f16d4769",
+              "Subject": "Add crd for cassandra, hazelcast, oracle (#106)"
+            },
+            {
+              "SHA": "09f8c382",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "02225ed0",
+              "Subject": "Use k8s 1.34 client libs (#104)"
+            },
+            {
+              "SHA": "8565968f",
+              "Subject": "Fix makefile indentation (#103)"
+            },
+            {
+              "SHA": "370e88f2",
+              "Subject": "Publish Image for Redhat software certification (#102)"
+            },
+            {
+              "SHA": "d4dd9b8c",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#101)"
+            },
+            {
+              "SHA": "8347e307",
+              "Subject": "replace go1.25.5 to go1.25 (#100)"
+            },
+            {
+              "SHA": "34895de8",
+              "Subject": "Add neo4j"
+            },
+            {
+              "SHA": "c89068f3",
+              "Subject": "HanaDB (#90)"
+            },
+            {
+              "SHA": "1245ee00",
+              "Subject": "Add milvus crd-manager (#94)"
+            },
+            {
+              "SHA": "da01d86e",
+              "Subject": "Add Weaviate Crds (#97)"
+            },
+            {
+              "SHA": "521fbd57",
+              "Subject": "Add Db2 Crds (#96)"
+            },
+            {
+              "SHA": "1cf9a782",
+              "Subject": "Add Neo4j Crds (#98)"
+            },
+            {
+              "SHA": "80e2bc36",
+              "Subject": "Add Qdrant CRD (#92)"
             }
           ]
         }

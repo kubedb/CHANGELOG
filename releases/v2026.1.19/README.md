@@ -348,6 +348,21 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.11.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.11.0)
+
+- [fc8b0048](https://github.com/kubedb/kubedb-verifier/commit/fc8b0048) Prepare for release v0.11.0 (#36)
+- [04634147](https://github.com/kubedb/kubedb-verifier/commit/04634147) Prepare for release v0.11.0-rc.1 (#34)
+- [b99b0af5](https://github.com/kubedb/kubedb-verifier/commit/b99b0af5) Update vulnerable deps (#33)
+- [0ed52eed](https://github.com/kubedb/kubedb-verifier/commit/0ed52eed) Use k8s 1.34 client libs (#32)
+- [acdfea3d](https://github.com/kubedb/kubedb-verifier/commit/acdfea3d) Fix makefile indentation (#31)
+- [562ab0a9](https://github.com/kubedb/kubedb-verifier/commit/562ab0a9) Publish Image for Redhat software certification (#29)
+- [616c0b5d](https://github.com/kubedb/kubedb-verifier/commit/616c0b5d) Prepare for release v0.11.0-rc.0 (#28)
+- [78b37027](https://github.com/kubedb/kubedb-verifier/commit/78b37027) Use golangci-lint 2.x (#27)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.44.0](https://github.com/kubedb/mariadb/releases/tag/v0.44.0)

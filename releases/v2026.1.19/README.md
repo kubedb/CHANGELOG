@@ -553,6 +553,25 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.53.0](https://github.com/kubedb/mysql/releases/tag/v0.53.0)
+
+- [55900db8](https://github.com/kubedb/mysql/commit/55900db8b) Prepare for release v0.53.0 (#714)
+- [0a9fd37d](https://github.com/kubedb/mysql/commit/0a9fd37d4) Add Reconfig PodRestart based on User Requirement (#713)
+- [b74becf0](https://github.com/kubedb/mysql/commit/b74becf00) Improve and generalize configure-reconfigure (#711)
+- [f87bcd7f](https://github.com/kubedb/mysql/commit/f87bcd7fd) Prepare for release v0.53.0-rc.1 (#712)
+- [f8490909](https://github.com/kubedb/mysql/commit/f8490909b) Use k8s 1.34 client libs (#710)
+- [95a71063](https://github.com/kubedb/mysql/commit/95a710638) Test against k8s 1.35 (#709)
+- [5cf311be](https://github.com/kubedb/mysql/commit/5cf311be2) Fix Archiver Panic for Azure backend (#708)
+- [613bbbe1](https://github.com/kubedb/mysql/commit/613bbbe19) Prepare for release v0.53.0-rc.0 (#707)
+- [6f1a6f0e](https://github.com/kubedb/mysql/commit/6f1a6f0ea) Change Makefile GO Version (#706)
+- [1f037c8e](https://github.com/kubedb/mysql/commit/1f037c8e4) Use golangci-lint 2.x (#705)
+- [6b649dec](https://github.com/kubedb/mysql/commit/6b649dec9) Fix multiple restart issue by introducing parallelismController (#704)
+- [57998a04](https://github.com/kubedb/mysql/commit/57998a04b) move ops code to db repo (#703)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.21.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.21.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:47:00.126900688Z",
+  "release_date": "2026-01-19T04:47:17.597021486Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1632,6 +1632,64 @@
             {
               "SHA": "677dc46",
               "Subject": "Use golangci-lint 2.x (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "55900db8b",
+              "Subject": "Prepare for release v0.53.0 (#714)"
+            },
+            {
+              "SHA": "0a9fd37d4",
+              "Subject": "Add Reconfig PodRestart based on User Requirement (#713)"
+            },
+            {
+              "SHA": "b74becf00",
+              "Subject": "Improve and generalize configure-reconfigure (#711)"
+            },
+            {
+              "SHA": "f87bcd7fd",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#712)"
+            },
+            {
+              "SHA": "f8490909b",
+              "Subject": "Use k8s 1.34 client libs (#710)"
+            },
+            {
+              "SHA": "95a710638",
+              "Subject": "Test against k8s 1.35 (#709)"
+            },
+            {
+              "SHA": "5cf311be2",
+              "Subject": "Fix Archiver Panic for Azure backend (#708)"
+            },
+            {
+              "SHA": "613bbbe19",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#707)"
+            },
+            {
+              "SHA": "6f1a6f0ea",
+              "Subject": "Change Makefile GO Version (#706)"
+            },
+            {
+              "SHA": "1f037c8e4",
+              "Subject": "Use golangci-lint 2.x (#705)"
+            },
+            {
+              "SHA": "6b649dec9",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#704)"
+            },
+            {
+              "SHA": "57998a04b",
+              "Subject": "move ops code to db repo (#703)"
             }
           ]
         }

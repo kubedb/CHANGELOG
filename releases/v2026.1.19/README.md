@@ -50,6 +50,21 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.13.0](https://github.com/kubedb/cassandra/releases/tag/v0.13.0)
+
+- [b3cd8596](https://github.com/kubedb/cassandra/commit/b3cd8596) Prepare for release v0.13.0 (#58)
+- [70d0a9d0](https://github.com/kubedb/cassandra/commit/70d0a9d0) Improve and generalize configure-reconfigure process (#57)
+- [04f224cf](https://github.com/kubedb/cassandra/commit/04f224cf) Prepare for release v0.13.0-rc.1 (#56)
+- [8bd54c7a](https://github.com/kubedb/cassandra/commit/8bd54c7a) Use k8s 1.34 client libs (#55)
+- [00e147f5](https://github.com/kubedb/cassandra/commit/00e147f5) Test against k8s 1.35 (#54)
+- [78213d47](https://github.com/kubedb/cassandra/commit/78213d47) Prepare for release v0.13.0-rc.0 (#53)
+- [8f8458f1](https://github.com/kubedb/cassandra/commit/8f8458f1) Fix multiple restart issue by introducing parallelismController (#52)
+- [5563cf24](https://github.com/kubedb/cassandra/commit/5563cf24) Moved ops code to dev repo (#51)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.7.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.7.0)

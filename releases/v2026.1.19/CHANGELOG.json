@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:43:46.200064302Z",
+  "release_date": "2026-01-19T04:44:09.216732154Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1378,6 +1378,48 @@
             {
               "SHA": "ad8911b6",
               "Subject": "Add golangci (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "64575b6f",
+              "Subject": "Prepare for release v0.38.0 (#160)"
+            },
+            {
+              "SHA": "22cf05ff",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#159)"
+            },
+            {
+              "SHA": "13232ee9",
+              "Subject": "Use k8s 1.34 client libs (#157)"
+            },
+            {
+              "SHA": "1f1196f7",
+              "Subject": "Fix makefile indentation (#156)"
+            },
+            {
+              "SHA": "e354dcea",
+              "Subject": "Publish Image for Redhat software certification (#155)"
+            },
+            {
+              "SHA": "4f0b448e",
+              "Subject": "Prepare for release v0.38.0-rc.0 (#154)"
+            },
+            {
+              "SHA": "78c11d72",
+              "Subject": "Build ubi image (#153)"
+            },
+            {
+              "SHA": "c4ae8e49",
+              "Subject": "Use golangci-lint 2.x (#152)"
             }
           ]
         }

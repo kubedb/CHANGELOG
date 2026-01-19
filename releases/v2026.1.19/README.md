@@ -467,6 +467,21 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.38.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.38.0)
+
+- [64575b6f](https://github.com/kubedb/mysql-coordinator/commit/64575b6f) Prepare for release v0.38.0 (#160)
+- [22cf05ff](https://github.com/kubedb/mysql-coordinator/commit/22cf05ff) Prepare for release v0.38.0-rc.1 (#159)
+- [13232ee9](https://github.com/kubedb/mysql-coordinator/commit/13232ee9) Use k8s 1.34 client libs (#157)
+- [1f1196f7](https://github.com/kubedb/mysql-coordinator/commit/1f1196f7) Fix makefile indentation (#156)
+- [e354dcea](https://github.com/kubedb/mysql-coordinator/commit/e354dcea) Publish Image for Redhat software certification (#155)
+- [4f0b448e](https://github.com/kubedb/mysql-coordinator/commit/4f0b448e) Prepare for release v0.38.0-rc.0 (#154)
+- [78c11d72](https://github.com/kubedb/mysql-coordinator/commit/78c11d72) Build ubi image (#153)
+- [c4ae8e49](https://github.com/kubedb/mysql-coordinator/commit/c4ae8e49) Use golangci-lint 2.x (#152)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.21.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.21.0)

@@ -806,6 +806,23 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.39.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.39.0)
+
+- [0a121386](https://github.com/kubedb/redis-coordinator/commit/0a121386) Prepare for release v0.39.0 (#144)
+- [c7289d79](https://github.com/kubedb/redis-coordinator/commit/c7289d79) Prepare for release v0.39.0-rc.1 (#143)
+- [a135f6e5](https://github.com/kubedb/redis-coordinator/commit/a135f6e5) Use k8s 1.34 client libs (#142)
+- [42038efc](https://github.com/kubedb/redis-coordinator/commit/42038efc) Fix makefile indentation (#141)
+- [9924e4eb](https://github.com/kubedb/redis-coordinator/commit/9924e4eb) Publish Image for Redhat software certification (#140)
+- [75f9f5d9](https://github.com/kubedb/redis-coordinator/commit/75f9f5d9) Prepare for release v0.39.0-rc.0 (#139)
+- [5f7ce82b](https://github.com/kubedb/redis-coordinator/commit/5f7ce82b) Virtual Secret added and Make Lint update (#138)
+- [520f67f2](https://github.com/kubedb/redis-coordinator/commit/520f67f2) Update Dockerfile label for Redis Coordinator
+- [a190c965](https://github.com/kubedb/redis-coordinator/commit/a190c965) Build ubi image (#137)
+- [1d673b73](https://github.com/kubedb/redis-coordinator/commit/1d673b73) Use golangci-lint 2.x (#136)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.23.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.23.0)

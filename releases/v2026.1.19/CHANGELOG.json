@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:37:45.430015443Z",
+  "release_date": "2026-01-19T04:37:58.17410482Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -217,6 +217,44 @@
             {
               "SHA": "b2132d1a",
               "Subject": "update deps (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.60.0",
+          "commits": [
+            {
+              "SHA": "d0b02fca7",
+              "Subject": "Prepare for release v0.60.0 (#810)"
+            },
+            {
+              "SHA": "691493f27",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#809)"
+            },
+            {
+              "SHA": "f3e2ac0aa",
+              "Subject": "Use k8s 1.34 client libs (#808)"
+            },
+            {
+              "SHA": "fe2da3569",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#807)"
+            },
+            {
+              "SHA": "3fc4051ca",
+              "Subject": "Add gitops CLI (#804)"
+            },
+            {
+              "SHA": "8749544bc",
+              "Subject": "Update Lint (#806)"
+            },
+            {
+              "SHA": "41a390a60",
+              "Subject": "Make the debug cli common (#805)"
             }
           ]
         }

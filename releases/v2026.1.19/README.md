@@ -64,6 +64,20 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.60.0](https://github.com/kubedb/cli/releases/tag/v0.60.0)
+
+- [d0b02fca](https://github.com/kubedb/cli/commit/d0b02fca7) Prepare for release v0.60.0 (#810)
+- [691493f2](https://github.com/kubedb/cli/commit/691493f27) Prepare for release v0.60.0-rc.1 (#809)
+- [f3e2ac0a](https://github.com/kubedb/cli/commit/f3e2ac0aa) Use k8s 1.34 client libs (#808)
+- [fe2da356](https://github.com/kubedb/cli/commit/fe2da3569) Prepare for release v0.60.0-rc.0 (#807)
+- [3fc4051c](https://github.com/kubedb/cli/commit/3fc4051ca) Add gitops CLI (#804)
+- [8749544b](https://github.com/kubedb/cli/commit/8749544bc) Update Lint (#806)
+- [41a390a6](https://github.com/kubedb/cli/commit/41a390a60) Make the debug cli common (#805)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.15.0](https://github.com/kubedb/crd-manager/releases/tag/v0.15.0)

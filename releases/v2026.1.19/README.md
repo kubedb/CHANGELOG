@@ -161,6 +161,23 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.18.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.18.0)
+
+- [c5f8dafa](https://github.com/kubedb/singlestore-restic-plugin/commit/c5f8dafa) Prepare for release v0.18.0 (#65)
+- [c98bdded](https://github.com/kubedb/singlestore-restic-plugin/commit/c98bdded) Use forked kubestash/restic (#63)
+- [5762f17e](https://github.com/kubedb/singlestore-restic-plugin/commit/5762f17e) Prepare for release v0.18.0-rc.1 (#62)
+- [3e2214d7](https://github.com/kubedb/singlestore-restic-plugin/commit/3e2214d7) Use k8s 1.34 client libs (#61)
+- [b638ab06](https://github.com/kubedb/singlestore-restic-plugin/commit/b638ab06) Fix makefile indentation (#60)
+- [378183ea](https://github.com/kubedb/singlestore-restic-plugin/commit/378183ea) Publish Image for Redhat software certification (#59)
+- [88634e70](https://github.com/kubedb/singlestore-restic-plugin/commit/88634e70) Prepare for release v0.18.0-rc.0 (#58)
+- [285e4640](https://github.com/kubedb/singlestore-restic-plugin/commit/285e4640) update go version in makefile (#57)
+- [25bff270](https://github.com/kubedb/singlestore-restic-plugin/commit/25bff270) Use golangci-lint 2.x (#56)
+- [25f1e628](https://github.com/kubedb/singlestore-restic-plugin/commit/25f1e628) Fix makefile for ubi images (#55)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.15.0](https://github.com/kubedb/solr/releases/tag/v0.15.0)

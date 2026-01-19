@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:36:51.47140871Z",
+  "release_date": "2026-01-19T04:37:00.350236896Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -515,6 +515,56 @@
             {
               "SHA": "c31441d5",
               "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "c5f8dafa",
+              "Subject": "Prepare for release v0.18.0 (#65)"
+            },
+            {
+              "SHA": "c98bdded",
+              "Subject": "Use forked kubestash/restic (#63)"
+            },
+            {
+              "SHA": "5762f17e",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#62)"
+            },
+            {
+              "SHA": "3e2214d7",
+              "Subject": "Use k8s 1.34 client libs (#61)"
+            },
+            {
+              "SHA": "b638ab06",
+              "Subject": "Fix makefile indentation (#60)"
+            },
+            {
+              "SHA": "378183ea",
+              "Subject": "Publish Image for Redhat software certification (#59)"
+            },
+            {
+              "SHA": "88634e70",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "285e4640",
+              "Subject": "update go version in makefile (#57)"
+            },
+            {
+              "SHA": "25bff270",
+              "Subject": "Use golangci-lint 2.x (#56)"
+            },
+            {
+              "SHA": "25f1e628",
+              "Subject": "Fix makefile for ubi images (#55)"
             }
           ]
         }

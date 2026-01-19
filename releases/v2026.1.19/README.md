@@ -771,6 +771,23 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.23.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.23.0)
+
+- [acb3ec20](https://github.com/kubedb/redis-restic-plugin/commit/acb3ec20) Prepare for release v0.23.0 (#85)
+- [095746db](https://github.com/kubedb/redis-restic-plugin/commit/095746db) Use forked kubestash/restic (#84)
+- [ecb820f6](https://github.com/kubedb/redis-restic-plugin/commit/ecb820f6) Use forked kubestash/restic (#83)
+- [84b3bcce](https://github.com/kubedb/redis-restic-plugin/commit/84b3bcce) Prepare for release v0.23.0-rc.1 (#82)
+- [b2ea9fc3](https://github.com/kubedb/redis-restic-plugin/commit/b2ea9fc3) Use k8s 1.34 client libs (#81)
+- [3b705e12](https://github.com/kubedb/redis-restic-plugin/commit/3b705e12) Fix makefile indentation (#80)
+- [6801fb25](https://github.com/kubedb/redis-restic-plugin/commit/6801fb25) Publish Image for Redhat software certification (#79)
+- [7dfce486](https://github.com/kubedb/redis-restic-plugin/commit/7dfce486) Prepare for release v0.23.0-rc.0 (#78)
+- [fec65710](https://github.com/kubedb/redis-restic-plugin/commit/fec65710) Update linter (#77)
+- [927601ab](https://github.com/kubedb/redis-restic-plugin/commit/927601ab) Update make lint and Add Virtual Secret (#76)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.47.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.47.0)

@@ -175,6 +175,21 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.7.0](https://github.com/kubedb/ignite/releases/tag/v0.7.0)
+
+- [f648ea48](https://github.com/kubedb/ignite/commit/f648ea48) Prepare for release v0.7.0 (#33)
+- [50699ff3](https://github.com/kubedb/ignite/commit/50699ff3) Re-design Configuration process (#32)
+- [b9b125a9](https://github.com/kubedb/ignite/commit/b9b125a9) Prepare for release v0.7.0-rc.1 (#31)
+- [70ba3420](https://github.com/kubedb/ignite/commit/70ba3420) Use k8s 1.34 client libs (#30)
+- [e361b1c0](https://github.com/kubedb/ignite/commit/e361b1c0) Test against k8s 1.35 (#28)
+- [35277e58](https://github.com/kubedb/ignite/commit/35277e58) Prepare for release v0.7.0-rc.0 (#27)
+- [c642d15e](https://github.com/kubedb/ignite/commit/c642d15e) Fix multiple restart issue by introducing parallelismController (#26)
+- [371c83df](https://github.com/kubedb/ignite/commit/371c83df) Move ops to db repo (#24)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.31.0](https://github.com/kubedb/kafka/releases/tag/v0.31.0)

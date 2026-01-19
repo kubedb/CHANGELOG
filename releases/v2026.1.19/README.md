@@ -430,6 +430,24 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.47.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.47.0)
+
+- [c6b0c8cc](https://github.com/kubedb/percona-xtradb/commit/c6b0c8ccc) Prepare for release v0.47.0 (#430)
+- [aa2c94b2](https://github.com/kubedb/percona-xtradb/commit/aa2c94b20) Use Exporter Version v0.18.0 (#429)
+- [a607e1af](https://github.com/kubedb/percona-xtradb/commit/a607e1af5) Improve and generalize configure-reconfigure (#428)
+- [0047860f](https://github.com/kubedb/percona-xtradb/commit/0047860f3) Prepare for release v0.47.0-rc.1 (#427)
+- [645e9afa](https://github.com/kubedb/percona-xtradb/commit/645e9afaf) Use k8s 1.34 client libs (#426)
+- [d383e813](https://github.com/kubedb/percona-xtradb/commit/d383e813d) Test against k8s 1.35 (#425)
+- [528043c1](https://github.com/kubedb/percona-xtradb/commit/528043c17) Prepare for release v0.47.0-rc.0 (#424)
+- [c3cb6155](https://github.com/kubedb/percona-xtradb/commit/c3cb6155c) update go version in makefile (#423)
+- [654c6464](https://github.com/kubedb/percona-xtradb/commit/654c6464e) Use golangci-lint 2.x (#422)
+- [0ec47977](https://github.com/kubedb/percona-xtradb/commit/0ec479776) fix multiple restart issue by introducing parallelism controller (#421)
+- [4208a065](https://github.com/kubedb/percona-xtradb/commit/4208a065f) move ops code to db repo (#420)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.33.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.33.0)

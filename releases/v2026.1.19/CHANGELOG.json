@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T06:51:06.940390848Z",
+  "release_date": "2026-01-19T07:01:29.111380947Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -2881,6 +2881,48 @@
             {
               "SHA": "fd4f2bb5",
               "Subject": "Use golangci-lint 2.x (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "c83b51e0",
+              "Subject": "Prepare for release v0.36.0 (#154)"
+            },
+            {
+              "SHA": "6b881db3",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#153)"
+            },
+            {
+              "SHA": "f9e6fea0",
+              "Subject": "Use k8s 1.34 client libs (#152)"
+            },
+            {
+              "SHA": "76951266",
+              "Subject": "Fix makefile indentation (#151)"
+            },
+            {
+              "SHA": "49234341",
+              "Subject": "Publish Image for Redhat software certification (#150)"
+            },
+            {
+              "SHA": "09a0cc3a",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "1ebf2d05",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#149)"
+            },
+            {
+              "SHA": "f58a1650",
+              "Subject": "Fix linter (#148)"
             }
           ]
         }

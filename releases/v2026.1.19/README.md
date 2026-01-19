@@ -416,6 +416,22 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.15.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.15.0)
+
+- [49dc2d43](https://github.com/kubedb/singlestore-coordinator/commit/49dc2d43) Prepare for release v0.15.0 (#57)
+- [2b1fa919](https://github.com/kubedb/singlestore-coordinator/commit/2b1fa919) Prepare for release v0.15.0-rc.1 (#56)
+- [4a067f5f](https://github.com/kubedb/singlestore-coordinator/commit/4a067f5f) Use k8s 1.34 client libs (#55)
+- [67248c77](https://github.com/kubedb/singlestore-coordinator/commit/67248c77) Fix makefile indentation (#54)
+- [e7847baf](https://github.com/kubedb/singlestore-coordinator/commit/e7847baf) Publish Image for Redhat software certification (#53)
+- [0fe5c823](https://github.com/kubedb/singlestore-coordinator/commit/0fe5c823) Prepare for release v0.15.0-rc.0 (#52)
+- [4fd8963e](https://github.com/kubedb/singlestore-coordinator/commit/4fd8963e) Update Dockerfile label from 'External DNS Operator' to 'Singlestore Coordinator'
+- [2115237f](https://github.com/kubedb/singlestore-coordinator/commit/2115237f) Build ubi image (#51)
+- [a2c1fa53](https://github.com/kubedb/singlestore-coordinator/commit/a2c1fa53) Use golangci-lint 2.x (#50)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.18.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.18.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:40:06.83298796Z",
+  "release_date": "2026-01-19T04:40:14.239765691Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1247,6 +1247,52 @@
             {
               "SHA": "fd4f2bb5",
               "Subject": "Use golangci-lint 2.x (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "49dc2d43",
+              "Subject": "Prepare for release v0.15.0 (#57)"
+            },
+            {
+              "SHA": "2b1fa919",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#56)"
+            },
+            {
+              "SHA": "4a067f5f",
+              "Subject": "Use k8s 1.34 client libs (#55)"
+            },
+            {
+              "SHA": "67248c77",
+              "Subject": "Fix makefile indentation (#54)"
+            },
+            {
+              "SHA": "e7847baf",
+              "Subject": "Publish Image for Redhat software certification (#53)"
+            },
+            {
+              "SHA": "0fe5c823",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "4fd8963e",
+              "Subject": "Update Dockerfile label from 'External DNS Operator' to 'Singlestore Coordinator'"
+            },
+            {
+              "SHA": "2115237f",
+              "Subject": "Build ubi image (#51)"
+            },
+            {
+              "SHA": "a2c1fa53",
+              "Subject": "Use golangci-lint 2.x (#50)"
             }
           ]
         }

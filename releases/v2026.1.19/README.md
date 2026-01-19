@@ -733,6 +733,22 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.47.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.47.0)
+
+- [0e9564ce](https://github.com/kubedb/pgbouncer/commit/0e9564ce6) Prepare for release v0.47.0 (#393)
+- [2d669051](https://github.com/kubedb/pgbouncer/commit/2d669051a) Improve and generalize configure-reconfigure process for all dbs (#392)
+- [b9a64657](https://github.com/kubedb/pgbouncer/commit/b9a646574) Prepare for release v0.47.0-rc.1 (#391)
+- [8cdeb750](https://github.com/kubedb/pgbouncer/commit/8cdeb7501) Use k8s 1.34 client libs (#390)
+- [1defb0fe](https://github.com/kubedb/pgbouncer/commit/1defb0fe1) Test against k8s 1.35 (#389)
+- [f90f38f4](https://github.com/kubedb/pgbouncer/commit/f90f38f40) Prepare for release v0.47.0-rc.0 (#388)
+- [d8410281](https://github.com/kubedb/pgbouncer/commit/d84102818) Add golnagci (#387)
+- [2b58993f](https://github.com/kubedb/pgbouncer/commit/2b58993f3) Add virtual secret and update Lint (#383)
+- [6396e383](https://github.com/kubedb/pgbouncer/commit/6396e383b) Move ops code to db repo (#386)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.15.0](https://github.com/kubedb/pgpool/releases/tag/v0.15.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:44:09.216732154Z",
+  "release_date": "2026-01-19T04:44:18.766561265Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1504,6 +1504,52 @@
             {
               "SHA": "1358b920",
               "Subject": "Fix makefile for ubi images (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "bfe1d9d4",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "11567e45",
+              "Subject": "Re-design Neo4j configuration field (#10)"
+            },
+            {
+              "SHA": "51303fa4",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "190cb7ee",
+              "Subject": "Use k8s 1.34 client libs (#8)"
+            },
+            {
+              "SHA": "669b8b79",
+              "Subject": "Use k8s 1.32 client libraries (#6)"
+            },
+            {
+              "SHA": "3d0c2f6f",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#5)"
+            },
+            {
+              "SHA": "b2f7e8f0",
+              "Subject": "Fix Readme"
+            },
+            {
+              "SHA": "63ee24ca",
+              "Subject": "replace go1.25.5 to go1.25 (#3)"
+            },
+            {
+              "SHA": "78e8ae36",
+              "Subject": "Neo4j Operator"
             }
           ]
         }

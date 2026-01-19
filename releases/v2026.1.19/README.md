@@ -512,6 +512,22 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.1.0](https://github.com/kubedb/neo4j/releases/tag/v0.1.0)
+
+- [bfe1d9d4](https://github.com/kubedb/neo4j/commit/bfe1d9d4) Prepare for release v0.1.0 (#11)
+- [11567e45](https://github.com/kubedb/neo4j/commit/11567e45) Re-design Neo4j configuration field (#10)
+- [51303fa4](https://github.com/kubedb/neo4j/commit/51303fa4) Prepare for release v0.1.0-rc.1 (#9)
+- [190cb7ee](https://github.com/kubedb/neo4j/commit/190cb7ee) Use k8s 1.34 client libs (#8)
+- [669b8b79](https://github.com/kubedb/neo4j/commit/669b8b79) Use k8s 1.32 client libraries (#6)
+- [3d0c2f6f](https://github.com/kubedb/neo4j/commit/3d0c2f6f) Prepare for release v0.1.0-rc.0 (#5)
+- [b2f7e8f0](https://github.com/kubedb/neo4j/commit/b2f7e8f0) Fix Readme
+- [63ee24ca](https://github.com/kubedb/neo4j/commit/63ee24ca) replace go1.25.5 to go1.25 (#3)
+- [78e8ae36](https://github.com/kubedb/neo4j/commit/78e8ae36) Neo4j Operator
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.6.0](https://github.com/kubedb/oracle/releases/tag/v0.6.0)

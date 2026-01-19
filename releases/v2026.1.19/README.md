@@ -435,6 +435,21 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.20.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.20.0)
+
+- [26607e35](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/26607e35) Prepare for release v0.20.0 (#65)
+- [59c939d3](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/59c939d3) Prepare for release v0.20.0-rc.1 (#63)
+- [9eab57a2](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/9eab57a2) Use k8s 1.34 client libs (#62)
+- [762e091e](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/762e091e) Fix makefile indentation (#61)
+- [bfc6a10d](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/bfc6a10d) Publish Image for Redhat software certification (#60)
+- [615724cf](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/615724cf) Prepare for release v0.20.0-rc.0 (#59)
+- [f44d64b1](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/f44d64b1) Change Makefile GO Version (#58)
+- [38df4729](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/38df4729) Add golangci (#57)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.18.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.18.0)

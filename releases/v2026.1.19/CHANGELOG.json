@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T06:50:06.246743605Z",
+  "release_date": "2026-01-19T06:51:06.940390848Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1305,6 +1305,48 @@
             {
               "SHA": "0b95dc57",
               "Subject": "Use golangci-lint 2.x (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "26607e35",
+              "Subject": "Prepare for release v0.20.0 (#65)"
+            },
+            {
+              "SHA": "59c939d3",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#63)"
+            },
+            {
+              "SHA": "9eab57a2",
+              "Subject": "Use k8s 1.34 client libs (#62)"
+            },
+            {
+              "SHA": "762e091e",
+              "Subject": "Fix makefile indentation (#61)"
+            },
+            {
+              "SHA": "bfc6a10d",
+              "Subject": "Publish Image for Redhat software certification (#60)"
+            },
+            {
+              "SHA": "615724cf",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "f44d64b1",
+              "Subject": "Change Makefile GO Version (#58)"
+            },
+            {
+              "SHA": "38df4729",
+              "Subject": "Add golangci (#57)"
             }
           ]
         }

@@ -77,6 +77,22 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.60.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.60.0)
+
+- [bf671dfe](https://github.com/kubedb/elasticsearch/commit/bf671dfe6) Prepare for release v0.60.0 (#786)
+- [3d9d54ad](https://github.com/kubedb/elasticsearch/commit/3d9d54ad0) Fix Opensearch health check issue for v3.0 (#785)
+- [10542dbb](https://github.com/kubedb/elasticsearch/commit/10542dbb0) Improve and generalize configure-reconfigure process (#782)
+- [1c7a0371](https://github.com/kubedb/elasticsearch/commit/1c7a0371f) Prepare for release v0.60.0-rc.1 (#784)
+- [119a44ab](https://github.com/kubedb/elasticsearch/commit/119a44abc) Use k8s 1.34 client libs (#783)
+- [d686d92a](https://github.com/kubedb/elasticsearch/commit/d686d92a3) Test against k8s 1.35 (#781)
+- [f75c70d0](https://github.com/kubedb/elasticsearch/commit/f75c70d09) Prepare for release v0.60.0-rc.0 (#780)
+- [da290110](https://github.com/kubedb/elasticsearch/commit/da2901102) move go_es file to db-client-go (#779)
+- [1de4f810](https://github.com/kubedb/elasticsearch/commit/1de4f8105) move ops code to db repo (#778)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.31.0](https://github.com/kubedb/kafka/releases/tag/v0.31.0)

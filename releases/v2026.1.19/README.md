@@ -207,6 +207,24 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.15.0](https://github.com/kubedb/ferretdb/releases/tag/v0.15.0)
+
+- [dba7aed1](https://github.com/kubedb/ferretdb/commit/dba7aed1) Prepare for release v0.15.0 (#98)
+- [b7b021cb](https://github.com/kubedb/ferretdb/commit/b7b021cb) Update OpsReq Type (#97)
+- [5ef0a4a1](https://github.com/kubedb/ferretdb/commit/5ef0a4a1) Prepare for release v0.15.0-rc.1 (#96)
+- [8e07c378](https://github.com/kubedb/ferretdb/commit/8e07c378) Use k8s 1.34 client libs (#95)
+- [8e5d5e72](https://github.com/kubedb/ferretdb/commit/8e5d5e72) Test against k8s 1.35 (#94)
+- [7b572633](https://github.com/kubedb/ferretdb/commit/7b572633) Prepare for release v0.15.0-rc.0 (#93)
+- [b05a9345](https://github.com/kubedb/ferretdb/commit/b05a9345) Fix go version (#92)
+- [e5d1ee2d](https://github.com/kubedb/ferretdb/commit/e5d1ee2d) Fix multiple restart issue by introducing parallelismController (#91)
+- [719326aa](https://github.com/kubedb/ferretdb/commit/719326aa) Move in FerretDb Ops Manager Code (#90)
+- [6662b891](https://github.com/kubedb/ferretdb/commit/6662b891) Test against k8s 1.34 (#89)
+- [3c73ec67](https://github.com/kubedb/ferretdb/commit/3c73ec67) No need to check backend's owner ref
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.6.0](https://github.com/kubedb/hazelcast/releases/tag/v0.6.0)

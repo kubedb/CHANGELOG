@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:45:00.547840674Z",
+  "release_date": "2026-01-19T04:45:41.287211874Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1302,6 +1302,56 @@
             {
               "SHA": "c31441d5",
               "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "4a9999a24",
+              "Subject": "Prepare for release v0.53.0 (#729)"
+            },
+            {
+              "SHA": "06a6f687d",
+              "Subject": "Re-design Configure reconfigure process (#726)"
+            },
+            {
+              "SHA": "87a591118",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#728)"
+            },
+            {
+              "SHA": "96ec99618",
+              "Subject": "Use k8s 1.34 client libs (#727)"
+            },
+            {
+              "SHA": "a38f87851",
+              "Subject": "Test against k8s 1.35 (#725)"
+            },
+            {
+              "SHA": "f73a7159f",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#724)"
+            },
+            {
+              "SHA": "4a27317f1",
+              "Subject": "Update golang version"
+            },
+            {
+              "SHA": "3b46da516",
+              "Subject": "Fix linter (#723)"
+            },
+            {
+              "SHA": "75045740a",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#722)"
+            },
+            {
+              "SHA": "d42b514f8",
+              "Subject": "Move ops code to db repo (#721)"
             }
           ]
         }

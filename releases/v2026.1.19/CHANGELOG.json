@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T07:04:40.255358107Z",
+  "release_date": "2026-01-19T09:45:45.160397362Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -2553,6 +2553,84 @@
         {
           "tag": "v0.21.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.60.0",
+          "commits": [
+            {
+              "SHA": "81dedbc0b",
+              "Subject": "Prepare for release v0.60.0 (#185)"
+            },
+            {
+              "SHA": "6abadcb1a",
+              "Subject": "Add clickhouse (#184)"
+            },
+            {
+              "SHA": "cc47e7ed2",
+              "Subject": "Fix for pgpool & monitoring scheme (#183)"
+            },
+            {
+              "SHA": "4726affdf",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#182)"
+            },
+            {
+              "SHA": "da33384c2",
+              "Subject": "Use k8s 1.34 client libs (#181)"
+            },
+            {
+              "SHA": "51de966b7",
+              "Subject": "Fix makefile indentation (#180)"
+            },
+            {
+              "SHA": "11e9f6b60",
+              "Subject": "Test against k8s 1.35 (#179)"
+            },
+            {
+              "SHA": "7e4a29545",
+              "Subject": "Publish Image for Redhat software certification (#178)"
+            },
+            {
+              "SHA": "1f19bb323",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "373f5f5c2",
+              "Subject": "Check if appscode license api is up whle image building"
+            },
+            {
+              "SHA": "8bae571d5",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#177)"
+            },
+            {
+              "SHA": "478389968",
+              "Subject": "Add new DBs (#176)"
+            },
+            {
+              "SHA": "029d1c60c",
+              "Subject": "added milvus provisioner (#171)"
+            },
+            {
+              "SHA": "00ec61f1c",
+              "Subject": "Add Qdrant (#170)"
+            },
+            {
+              "SHA": "b8abc67f1",
+              "Subject": "Skip controller activation in certification mode (#174)"
+            },
+            {
+              "SHA": "b2ecb2f89",
+              "Subject": "Update deps (#173)"
+            },
+            {
+              "SHA": "f83d0339b",
+              "Subject": "Use golangci-lint 2.x (#172)"
+            }
+          ]
         }
       ]
     },

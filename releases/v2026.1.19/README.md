@@ -887,6 +887,30 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.60.0](https://github.com/kubedb/provisioner/releases/tag/v0.60.0)
+
+- [81dedbc0](https://github.com/kubedb/provisioner/commit/81dedbc0b) Prepare for release v0.60.0 (#185)
+- [6abadcb1](https://github.com/kubedb/provisioner/commit/6abadcb1a) Add clickhouse (#184)
+- [cc47e7ed](https://github.com/kubedb/provisioner/commit/cc47e7ed2) Fix for pgpool & monitoring scheme (#183)
+- [4726affd](https://github.com/kubedb/provisioner/commit/4726affdf) Prepare for release v0.60.0-rc.1 (#182)
+- [da33384c](https://github.com/kubedb/provisioner/commit/da33384c2) Use k8s 1.34 client libs (#181)
+- [51de966b](https://github.com/kubedb/provisioner/commit/51de966b7) Fix makefile indentation (#180)
+- [11e9f6b6](https://github.com/kubedb/provisioner/commit/11e9f6b60) Test against k8s 1.35 (#179)
+- [7e4a2954](https://github.com/kubedb/provisioner/commit/7e4a29545) Publish Image for Redhat software certification (#178)
+- [1f19bb32](https://github.com/kubedb/provisioner/commit/1f19bb323) Update vulnerable deps
+- [373f5f5c](https://github.com/kubedb/provisioner/commit/373f5f5c2) Check if appscode license api is up whle image building
+- [8bae571d](https://github.com/kubedb/provisioner/commit/8bae571d5) Prepare for release v0.60.0-rc.0 (#177)
+- [47838996](https://github.com/kubedb/provisioner/commit/478389968) Add new DBs (#176)
+- [029d1c60](https://github.com/kubedb/provisioner/commit/029d1c60c) added milvus provisioner (#171)
+- [00ec61f1](https://github.com/kubedb/provisioner/commit/00ec61f1c) Add Qdrant (#170)
+- [b8abc67f](https://github.com/kubedb/provisioner/commit/b8abc67f1) Skip controller activation in certification mode (#174)
+- [b2ecb2f8](https://github.com/kubedb/provisioner/commit/b2ecb2f89) Update deps (#173)
+- [f83d0339](https://github.com/kubedb/provisioner/commit/f83d0339b) Use golangci-lint 2.x (#172)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.47.0](https://github.com/kubedb/proxysql/releases/tag/v0.47.0)

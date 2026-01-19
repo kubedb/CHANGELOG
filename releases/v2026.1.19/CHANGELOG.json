@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:44:33.9690748Z",
+  "release_date": "2026-01-19T04:44:41.879290049Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -829,6 +829,52 @@
             {
               "SHA": "9de37946",
               "Subject": "Fix vertical scaling ops creation for storage resouce changes (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "d29c0289",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "ebaf0578",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#8)"
+            },
+            {
+              "SHA": "c80e6397",
+              "Subject": "Use k8s 1.34 client libs (#7)"
+            },
+            {
+              "SHA": "3d484cef",
+              "Subject": "Test against k8s 1.35 (#6)"
+            },
+            {
+              "SHA": "3fc76f7e",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#5)"
+            },
+            {
+              "SHA": "67f88948",
+              "Subject": "Modify go.mod (#4)"
+            },
+            {
+              "SHA": "c440319c",
+              "Subject": "Modify Go version (#3)"
+            },
+            {
+              "SHA": "aa961389",
+              "Subject": "Test against k8s 1.34 (#2)"
+            },
+            {
+              "SHA": "a5a5049f",
+              "Subject": "Add HanaDB provisioner (#1)"
             }
           ]
         }

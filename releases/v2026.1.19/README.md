@@ -1204,6 +1204,27 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.36.0](https://github.com/kubedb/webhook-server/releases/tag/v0.36.0)
+
+- [aceff628](https://github.com/kubedb/webhook-server/commit/aceff628) Prepare for release v0.36.0 (#188)
+- [60f8f40d](https://github.com/kubedb/webhook-server/commit/60f8f40d) Use Go version 1.25 in go.mod and Makefile
+- [dbeae2f7](https://github.com/kubedb/webhook-server/commit/dbeae2f7) Prepare for release v0.36.0-rc.1 (#186)
+- [d85264ab](https://github.com/kubedb/webhook-server/commit/d85264ab) Use k8s 1.34 client libs (#185)
+- [e8ed226a](https://github.com/kubedb/webhook-server/commit/e8ed226a) Fix makefile indentation (#184)
+- [ea905909](https://github.com/kubedb/webhook-server/commit/ea905909) Fix service name in conversion spec (#183)
+- [23094a6b](https://github.com/kubedb/webhook-server/commit/23094a6b) Test against k8s 1.35 (#182)
+- [e0c50a8f](https://github.com/kubedb/webhook-server/commit/e0c50a8f) Publish Image for Redhat software certification (#181)
+- [4f47d8c3](https://github.com/kubedb/webhook-server/commit/4f47d8c3) Prepare for release v0.36.0-rc.0 (#180)
+- [31fbaa00](https://github.com/kubedb/webhook-server/commit/31fbaa00) Fix build
+- [6e256028](https://github.com/kubedb/webhook-server/commit/6e256028) Add missing new dbs in client-setup
+- [b90632db](https://github.com/kubedb/webhook-server/commit/b90632db) added milvus webhook-server (#177)
+- [9d58f0c3](https://github.com/kubedb/webhook-server/commit/9d58f0c3) Add Qdrant (#176)
+- [0ce55e0a](https://github.com/kubedb/webhook-server/commit/0ce55e0a) Add HanaDB (#178)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.15.0](https://github.com/kubedb/zookeeper/releases/tag/v0.15.0)

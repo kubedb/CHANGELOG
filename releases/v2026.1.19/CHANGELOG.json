@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T10:09:45.163468315Z",
+  "release_date": "2026-01-19T10:16:30.415829143Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -3495,6 +3495,72 @@
             {
               "SHA": "1b27e93a",
               "Subject": "Add vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "aceff628",
+              "Subject": "Prepare for release v0.36.0 (#188)"
+            },
+            {
+              "SHA": "60f8f40d",
+              "Subject": "Use Go version 1.25 in go.mod and Makefile"
+            },
+            {
+              "SHA": "dbeae2f7",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#186)"
+            },
+            {
+              "SHA": "d85264ab",
+              "Subject": "Use k8s 1.34 client libs (#185)"
+            },
+            {
+              "SHA": "e8ed226a",
+              "Subject": "Fix makefile indentation (#184)"
+            },
+            {
+              "SHA": "ea905909",
+              "Subject": "Fix service name in conversion spec (#183)"
+            },
+            {
+              "SHA": "23094a6b",
+              "Subject": "Test against k8s 1.35 (#182)"
+            },
+            {
+              "SHA": "e0c50a8f",
+              "Subject": "Publish Image for Redhat software certification (#181)"
+            },
+            {
+              "SHA": "4f47d8c3",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#180)"
+            },
+            {
+              "SHA": "31fbaa00",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "6e256028",
+              "Subject": "Add missing new dbs in client-setup"
+            },
+            {
+              "SHA": "b90632db",
+              "Subject": "added milvus webhook-server (#177)"
+            },
+            {
+              "SHA": "9d58f0c3",
+              "Subject": "Add Qdrant (#176)"
+            },
+            {
+              "SHA": "0ce55e0a",
+              "Subject": "Add HanaDB (#178)"
             }
           ]
         }

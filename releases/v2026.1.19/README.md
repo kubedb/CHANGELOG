@@ -645,6 +645,24 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.15.0](https://github.com/kubedb/singlestore/releases/tag/v0.15.0)
+
+- [d655bfec](https://github.com/kubedb/singlestore/commit/d655bfec) Prepare for release v0.15.0 (#96)
+- [08bcff61](https://github.com/kubedb/singlestore/commit/08bcff61) Improve and generalize configure-reconfigure (#95)
+- [9dd2d8a5](https://github.com/kubedb/singlestore/commit/9dd2d8a5) Prepare for release v0.15.0-rc.1 (#94)
+- [73d9f999](https://github.com/kubedb/singlestore/commit/73d9f999) Use k8s 1.34 client libs (#93)
+- [f84e08b4](https://github.com/kubedb/singlestore/commit/f84e08b4) Test against k8s 1.35 (#92)
+- [f3529d24](https://github.com/kubedb/singlestore/commit/f3529d24) Prepare for release v0.15.0-rc.0 (#91)
+- [5378a876](https://github.com/kubedb/singlestore/commit/5378a876) update go version in makefile (#90)
+- [57f14b26](https://github.com/kubedb/singlestore/commit/57f14b26) Use golangci-lint 2.x (#89)
+- [d2c074b5](https://github.com/kubedb/singlestore/commit/d2c074b5) fix multiple restart issue by introducing parallelism controller (#87)
+- [4fe9d994](https://github.com/kubedb/singlestore/commit/4fe9d994) Fix frequent db patch and requeue issue (#88)
+- [d771a53e](https://github.com/kubedb/singlestore/commit/d771a53e) move ops code to db repo (#86)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.15.0)

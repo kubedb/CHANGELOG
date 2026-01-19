@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:43:05.363120521Z",
+  "release_date": "2026-01-19T04:43:19.665866664Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1892,6 +1892,60 @@
             {
               "SHA": "fd4f2bb5",
               "Subject": "Use golangci-lint 2.x (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "d655bfec",
+              "Subject": "Prepare for release v0.15.0 (#96)"
+            },
+            {
+              "SHA": "08bcff61",
+              "Subject": "Improve and generalize configure-reconfigure (#95)"
+            },
+            {
+              "SHA": "9dd2d8a5",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#94)"
+            },
+            {
+              "SHA": "73d9f999",
+              "Subject": "Use k8s 1.34 client libs (#93)"
+            },
+            {
+              "SHA": "f84e08b4",
+              "Subject": "Test against k8s 1.35 (#92)"
+            },
+            {
+              "SHA": "f3529d24",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "5378a876",
+              "Subject": "update go version in makefile (#90)"
+            },
+            {
+              "SHA": "57f14b26",
+              "Subject": "Use golangci-lint 2.x (#89)"
+            },
+            {
+              "SHA": "d2c074b5",
+              "Subject": "fix multiple restart issue by introducing parallelism controller (#87)"
+            },
+            {
+              "SHA": "4fe9d994",
+              "Subject": "Fix frequent db patch and requeue issue (#88)"
+            },
+            {
+              "SHA": "d771a53e",
+              "Subject": "move ops code to db repo (#86)"
             }
           ]
         }

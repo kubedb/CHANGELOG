@@ -382,6 +382,25 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.20.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.20.0)
+
+- [40710dc0](https://github.com/kubedb/mariadb-archiver/commit/40710dc0) Prepare for release v0.20.0 (#72)
+- [ce027593](https://github.com/kubedb/mariadb-archiver/commit/ce027593) Fix redhat catalog submission (#70)
+- [e9eaec6e](https://github.com/kubedb/mariadb-archiver/commit/e9eaec6e) Prepare for release v0.20.0-rc.1 (#69)
+- [72598a18](https://github.com/kubedb/mariadb-archiver/commit/72598a18) Use k8s 1.34 client libs (#68)
+- [4704b4ad](https://github.com/kubedb/mariadb-archiver/commit/4704b4ad) Fix makefile indentation (#67)
+- [1e935bfa](https://github.com/kubedb/mariadb-archiver/commit/1e935bfa) Publish Image for Redhat software certification (#66)
+- [046fee71](https://github.com/kubedb/mariadb-archiver/commit/046fee71) Fix build rule
+- [5a4450ec](https://github.com/kubedb/mariadb-archiver/commit/5a4450ec) Prepare for release v0.20.0-rc.0 (#64)
+- [51b288e1](https://github.com/kubedb/mariadb-archiver/commit/51b288e1) Change Makefile GO Version (#63)
+- [12dd22cc](https://github.com/kubedb/mariadb-archiver/commit/12dd22cc) Add golangci (#62)
+- [4364d82b](https://github.com/kubedb/mariadb-archiver/commit/4364d82b) Build and push ubi image (#61)
+- [cd57feb0](https://github.com/kubedb/mariadb-archiver/commit/cd57feb0) Fix none mode slave not running issue (#60)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.40.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.40.0)

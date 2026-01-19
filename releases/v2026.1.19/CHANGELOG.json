@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:46:49.710696738Z",
+  "release_date": "2026-01-19T04:47:00.126900688Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1147,6 +1147,64 @@
             {
               "SHA": "b95f58e69",
               "Subject": "move ops code to db repo (#353)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "40710dc0",
+              "Subject": "Prepare for release v0.20.0 (#72)"
+            },
+            {
+              "SHA": "ce027593",
+              "Subject": "Fix redhat catalog submission (#70)"
+            },
+            {
+              "SHA": "e9eaec6e",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#69)"
+            },
+            {
+              "SHA": "72598a18",
+              "Subject": "Use k8s 1.34 client libs (#68)"
+            },
+            {
+              "SHA": "4704b4ad",
+              "Subject": "Fix makefile indentation (#67)"
+            },
+            {
+              "SHA": "1e935bfa",
+              "Subject": "Publish Image for Redhat software certification (#66)"
+            },
+            {
+              "SHA": "046fee71",
+              "Subject": "Fix build rule"
+            },
+            {
+              "SHA": "5a4450ec",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#64)"
+            },
+            {
+              "SHA": "51b288e1",
+              "Subject": "Change Makefile GO Version (#63)"
+            },
+            {
+              "SHA": "12dd22cc",
+              "Subject": "Add golangci (#62)"
+            },
+            {
+              "SHA": "4364d82b",
+              "Subject": "Build and push ubi image (#61)"
+            },
+            {
+              "SHA": "cd57feb0",
+              "Subject": "Fix none mode slave not running issue (#60)"
             }
           ]
         }

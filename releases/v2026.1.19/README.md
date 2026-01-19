@@ -352,3 +352,20 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.16.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.16.0)
+
+- [479cf05](https://github.com/kubedb/zookeeper-restic-plugin/commit/479cf05) Prepare for release v0.16.0 (#54)
+- [a1be425](https://github.com/kubedb/zookeeper-restic-plugin/commit/a1be425) Use forked kubestash/restic (#53)
+- [89d7089](https://github.com/kubedb/zookeeper-restic-plugin/commit/89d7089) Use forked kubestash/restic (#52)
+- [1f1a5f1](https://github.com/kubedb/zookeeper-restic-plugin/commit/1f1a5f1) Prepare for release v0.16.0-rc.1 (#51)
+- [f4afa89](https://github.com/kubedb/zookeeper-restic-plugin/commit/f4afa89) Use k8s 1.34 client libs (#50)
+- [ecd338e](https://github.com/kubedb/zookeeper-restic-plugin/commit/ecd338e) Fix makefile indentation (#49)
+- [513fdf0](https://github.com/kubedb/zookeeper-restic-plugin/commit/513fdf0) Publish Image for Redhat software certification (#48)
+- [8970e4d](https://github.com/kubedb/zookeeper-restic-plugin/commit/8970e4d) Prepare for release v0.16.0-rc.0 (#47)
+- [079fdca](https://github.com/kubedb/zookeeper-restic-plugin/commit/079fdca) Go version update (#46)
+- [4c5f81a](https://github.com/kubedb/zookeeper-restic-plugin/commit/4c5f81a) linter fix (#45)
+
+
+

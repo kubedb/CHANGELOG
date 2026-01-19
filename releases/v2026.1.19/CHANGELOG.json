@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:38:39.102323867Z",
+  "release_date": "2026-01-19T04:38:46.788537296Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1063,6 +1063,56 @@
             {
               "SHA": "8919aabd",
               "Subject": "Move in Ops-manager code to Solr (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "479cf05",
+              "Subject": "Prepare for release v0.16.0 (#54)"
+            },
+            {
+              "SHA": "a1be425",
+              "Subject": "Use forked kubestash/restic (#53)"
+            },
+            {
+              "SHA": "89d7089",
+              "Subject": "Use forked kubestash/restic (#52)"
+            },
+            {
+              "SHA": "1f1a5f1",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#51)"
+            },
+            {
+              "SHA": "f4afa89",
+              "Subject": "Use k8s 1.34 client libs (#50)"
+            },
+            {
+              "SHA": "ecd338e",
+              "Subject": "Fix makefile indentation (#49)"
+            },
+            {
+              "SHA": "513fdf0",
+              "Subject": "Publish Image for Redhat software certification (#48)"
+            },
+            {
+              "SHA": "8970e4d",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "079fdca",
+              "Subject": "Go version update (#46)"
+            },
+            {
+              "SHA": "4c5f81a",
+              "Subject": "linter fix (#45)"
             }
           ]
         }

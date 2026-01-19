@@ -267,6 +267,22 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.33.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.33.0)
+
+- [6d891d1e](https://github.com/kubedb/percona-xtradb-coordinator/commit/6d891d1e) Prepare for release v0.33.0 (#110)
+- [a2ac2089](https://github.com/kubedb/percona-xtradb-coordinator/commit/a2ac2089) Prepare for release v0.33.0-rc.1 (#109)
+- [53ccb3e1](https://github.com/kubedb/percona-xtradb-coordinator/commit/53ccb3e1) Use k8s 1.34 client libs (#108)
+- [3393d9f4](https://github.com/kubedb/percona-xtradb-coordinator/commit/3393d9f4) Fix makefile indentation (#107)
+- [83523a0f](https://github.com/kubedb/percona-xtradb-coordinator/commit/83523a0f) Publish Image for Redhat software certification (#106)
+- [d0d71987](https://github.com/kubedb/percona-xtradb-coordinator/commit/d0d71987) Prepare for release v0.33.0-rc.0 (#105)
+- [f3648936](https://github.com/kubedb/percona-xtradb-coordinator/commit/f3648936) Update image source and name in Dockerfile.ubi
+- [9e9945b7](https://github.com/kubedb/percona-xtradb-coordinator/commit/9e9945b7) Build ubi image (#104)
+- [437be99c](https://github.com/kubedb/percona-xtradb-coordinator/commit/437be99c) Use golangci-lint 2.x (#103)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.18.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.18.0)

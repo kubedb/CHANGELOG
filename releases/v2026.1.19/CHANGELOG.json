@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:38:29.773485424Z",
+  "release_date": "2026-01-19T04:38:39.102323867Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -859,6 +859,68 @@
             {
               "SHA": "437be99c",
               "Subject": "Use golangci-lint 2.x (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "f45faf8c",
+              "Subject": "Prepare for release v0.21.0 (#80)"
+            },
+            {
+              "SHA": "0c1f7850",
+              "Subject": "Fix redhat catalog submission (#78)"
+            },
+            {
+              "SHA": "16aaff7c",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#77)"
+            },
+            {
+              "SHA": "da7738a0",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#76)"
+            },
+            {
+              "SHA": "7736eaa2",
+              "Subject": "Use k8s 1.34 client libs (#75)"
+            },
+            {
+              "SHA": "53ae9b13",
+              "Subject": "Fix makefile indentation (#74)"
+            },
+            {
+              "SHA": "fc256522",
+              "Subject": "Publish Image for Redhat software certification (#73)"
+            },
+            {
+              "SHA": "4b6e2958",
+              "Subject": "Fix build rule"
+            },
+            {
+              "SHA": "1658ccf6",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "fb8f8428",
+              "Subject": "Update Go version (#71)"
+            },
+            {
+              "SHA": "d0df1d7b",
+              "Subject": "Merge pull request #70 from kubedb/lint"
+            },
+            {
+              "SHA": "26d3ba73",
+              "Subject": "update linter"
+            },
+            {
+              "SHA": "4f806c00",
+              "Subject": "Build and push ubi image (#69)"
             }
           ]
         }

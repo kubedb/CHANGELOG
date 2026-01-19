@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:43:19.665866664Z",
+  "release_date": "2026-01-19T04:43:29.454935595Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -545,6 +545,52 @@
             {
               "SHA": "cbe78ad6",
               "Subject": "Add vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "34a18a5a",
+              "Subject": "Prepare for release v0.15.0 (#111)"
+            },
+            {
+              "SHA": "6236221f",
+              "Subject": "Reconfigure redesign (#110)"
+            },
+            {
+              "SHA": "08fa3cc6",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#109)"
+            },
+            {
+              "SHA": "d0d33608",
+              "Subject": "Use k8s 1.34 client libs (#108)"
+            },
+            {
+              "SHA": "d9ada989",
+              "Subject": "Test against k8s 1.35 (#106)"
+            },
+            {
+              "SHA": "d1e1b108",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#105)"
+            },
+            {
+              "SHA": "5632cb2f",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#104)"
+            },
+            {
+              "SHA": "5f237f3c",
+              "Subject": "fixed some mistake (#103)"
+            },
+            {
+              "SHA": "23ad9f70",
+              "Subject": "move ops code to db repo (#102)"
             }
           ]
         }

@@ -354,6 +354,21 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.23.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.23.0)
+
+- [9ebb8b53](https://github.com/kubedb/mongodb-restic-plugin/commit/9ebb8b53) Prepare for release v0.23.0 (#102)
+- [34d434d2](https://github.com/kubedb/mongodb-restic-plugin/commit/34d434d2) Use forked kubestash/restic (#100)
+- [eba27b4e](https://github.com/kubedb/mongodb-restic-plugin/commit/eba27b4e) Prepare for release v0.23.0-rc.1 (#99)
+- [7b9d416a](https://github.com/kubedb/mongodb-restic-plugin/commit/7b9d416a) Use k8s 1.34 client libs (#98)
+- [ae919478](https://github.com/kubedb/mongodb-restic-plugin/commit/ae919478) Fix makefile indentation (#97)
+- [e6cd9a26](https://github.com/kubedb/mongodb-restic-plugin/commit/e6cd9a26) Publish Image for Redhat software certification (#96)
+- [ecc63fec](https://github.com/kubedb/mongodb-restic-plugin/commit/ecc63fec) Prepare for release v0.23.0-rc.0 (#95)
+- [821c386c](https://github.com/kubedb/mongodb-restic-plugin/commit/821c386c) Fix makefile for ubi images (#94)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.15.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.15.0)

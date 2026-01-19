@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:41:05.810387198Z",
+  "release_date": "2026-01-19T04:41:14.024622438Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1071,6 +1071,48 @@
             {
               "SHA": "c31441d5",
               "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "9ebb8b53",
+              "Subject": "Prepare for release v0.23.0 (#102)"
+            },
+            {
+              "SHA": "34d434d2",
+              "Subject": "Use forked kubestash/restic (#100)"
+            },
+            {
+              "SHA": "eba27b4e",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#99)"
+            },
+            {
+              "SHA": "7b9d416a",
+              "Subject": "Use k8s 1.34 client libs (#98)"
+            },
+            {
+              "SHA": "ae919478",
+              "Subject": "Fix makefile indentation (#97)"
+            },
+            {
+              "SHA": "e6cd9a26",
+              "Subject": "Publish Image for Redhat software certification (#96)"
+            },
+            {
+              "SHA": "ecc63fec",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#95)"
+            },
+            {
+              "SHA": "821c386c",
+              "Subject": "Fix makefile for ubi images (#94)"
             }
           ]
         }

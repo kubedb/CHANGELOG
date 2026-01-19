@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:38:46.788537296Z",
+  "release_date": "2026-01-19T04:38:54.640518824Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -371,6 +371,56 @@
             {
               "SHA": "80e2bc36",
               "Subject": "Add Qdrant CRD (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "c6ab8f5",
+              "Subject": "Prepare for release v0.18.0 (#58)"
+            },
+            {
+              "SHA": "9ca336a",
+              "Subject": "Use forked kubestash/restic (#57)"
+            },
+            {
+              "SHA": "4825ed5",
+              "Subject": "Use forked kubestash/restic (#56)"
+            },
+            {
+              "SHA": "334a35e",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#55)"
+            },
+            {
+              "SHA": "51ae5d7",
+              "Subject": "Use k8s 1.34 client libs (#54)"
+            },
+            {
+              "SHA": "901091a",
+              "Subject": "Fix makefile indentation (#53)"
+            },
+            {
+              "SHA": "a5bafae",
+              "Subject": "Publish Image for Redhat software certification (#52)"
+            },
+            {
+              "SHA": "c970a47",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "b42b5f6",
+              "Subject": "change to 1.25 (#50)"
+            },
+            {
+              "SHA": "c1811e1",
+              "Subject": "Update Dependency (#49)"
             }
           ]
         }

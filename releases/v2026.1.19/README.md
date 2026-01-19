@@ -116,6 +116,23 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.18.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.18.0)
+
+- [c6ab8f5](https://github.com/kubedb/dashboard-restic-plugin/commit/c6ab8f5) Prepare for release v0.18.0 (#58)
+- [9ca336a](https://github.com/kubedb/dashboard-restic-plugin/commit/9ca336a) Use forked kubestash/restic (#57)
+- [4825ed5](https://github.com/kubedb/dashboard-restic-plugin/commit/4825ed5) Use forked kubestash/restic (#56)
+- [334a35e](https://github.com/kubedb/dashboard-restic-plugin/commit/334a35e) Prepare for release v0.18.0-rc.1 (#55)
+- [51ae5d7](https://github.com/kubedb/dashboard-restic-plugin/commit/51ae5d7) Use k8s 1.34 client libs (#54)
+- [901091a](https://github.com/kubedb/dashboard-restic-plugin/commit/901091a) Fix makefile indentation (#53)
+- [a5bafae](https://github.com/kubedb/dashboard-restic-plugin/commit/a5bafae) Publish Image for Redhat software certification (#52)
+- [c970a47](https://github.com/kubedb/dashboard-restic-plugin/commit/c970a47) Prepare for release v0.18.0-rc.0 (#51)
+- [b42b5f6](https://github.com/kubedb/dashboard-restic-plugin/commit/b42b5f6) change to 1.25 (#50)
+- [c1811e1](https://github.com/kubedb/dashboard-restic-plugin/commit/c1811e1) Update Dependency (#49)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.15.0](https://github.com/kubedb/db-client-go/releases/tag/v0.15.0)

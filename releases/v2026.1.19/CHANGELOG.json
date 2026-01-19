@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:44:18.766561265Z",
+  "release_date": "2026-01-19T04:44:26.282397713Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -955,6 +955,52 @@
             {
               "SHA": "3f7bf918",
               "Subject": "Move ops-manager code to base repo (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "39aabbc2",
+              "Subject": "Prepare for release v0.23.0 (#113)"
+            },
+            {
+              "SHA": "6ab7dfbc",
+              "Subject": "Use forked kubestash/restic (#112)"
+            },
+            {
+              "SHA": "839e93d7",
+              "Subject": "Use forked kubestash/restic (#111)"
+            },
+            {
+              "SHA": "4b8b2ed0",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#110)"
+            },
+            {
+              "SHA": "f062b2b2",
+              "Subject": "Use k8s 1.34 client libs (#109)"
+            },
+            {
+              "SHA": "23a4536c",
+              "Subject": "Fix makefile indentation (#108)"
+            },
+            {
+              "SHA": "0b1e9561",
+              "Subject": "Publish Image for Redhat software certification (#107)"
+            },
+            {
+              "SHA": "1a10c291",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "75d723c8",
+              "Subject": "update-dep (#105)"
             }
           ]
         }

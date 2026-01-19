@@ -316,6 +316,22 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.23.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.23.0)
+
+- [39aabbc2](https://github.com/kubedb/kubedb-manifest-plugin/commit/39aabbc2) Prepare for release v0.23.0 (#113)
+- [6ab7dfbc](https://github.com/kubedb/kubedb-manifest-plugin/commit/6ab7dfbc) Use forked kubestash/restic (#112)
+- [839e93d7](https://github.com/kubedb/kubedb-manifest-plugin/commit/839e93d7) Use forked kubestash/restic (#111)
+- [4b8b2ed0](https://github.com/kubedb/kubedb-manifest-plugin/commit/4b8b2ed0) Prepare for release v0.23.0-rc.1 (#110)
+- [f062b2b2](https://github.com/kubedb/kubedb-manifest-plugin/commit/f062b2b2) Use k8s 1.34 client libs (#109)
+- [23a4536c](https://github.com/kubedb/kubedb-manifest-plugin/commit/23a4536c) Fix makefile indentation (#108)
+- [0b1e9561](https://github.com/kubedb/kubedb-manifest-plugin/commit/0b1e9561) Publish Image for Redhat software certification (#107)
+- [1a10c291](https://github.com/kubedb/kubedb-manifest-plugin/commit/1a10c291) Prepare for release v0.23.0-rc.0 (#106)
+- [75d723c8](https://github.com/kubedb/kubedb-manifest-plugin/commit/75d723c8) update-dep (#105)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.44.0](https://github.com/kubedb/mariadb/releases/tag/v0.44.0)

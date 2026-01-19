@@ -491,6 +491,23 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.15.0](https://github.com/kubedb/pgpool/releases/tag/v0.15.0)
+
+- [ccff7fd9](https://github.com/kubedb/pgpool/commit/ccff7fd9) Prepare for release v0.15.0 (#96)
+- [a849809d](https://github.com/kubedb/pgpool/commit/a849809d) Improve and generalize configure-reconfigure process (#95)
+- [e5f20e47](https://github.com/kubedb/pgpool/commit/e5f20e47) Fix resource watcher for vsecret (#92)
+- [17ba50ae](https://github.com/kubedb/pgpool/commit/17ba50ae) Prepare for release v0.15.0-rc.1 (#94)
+- [f6428269](https://github.com/kubedb/pgpool/commit/f6428269) Use k8s 1.34 client libs (#93)
+- [c93510d6](https://github.com/kubedb/pgpool/commit/c93510d6) Test against k8s 1.35 (#91)
+- [536c4368](https://github.com/kubedb/pgpool/commit/536c4368) Prepare for release v0.15.0-rc.0 (#90)
+- [ce38a201](https://github.com/kubedb/pgpool/commit/ce38a201) Add golangci (#89)
+- [92bf292e](https://github.com/kubedb/pgpool/commit/92bf292e) add virtual secret and update lint (#88)
+- [66cfd1c1](https://github.com/kubedb/pgpool/commit/66cfd1c1) Move ops code to db repo (#87)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.60.0](https://github.com/kubedb/postgres/releases/tag/v0.60.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:42:10.937056488Z",
+  "release_date": "2026-01-19T04:42:24.088684519Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1457,6 +1457,56 @@
             {
               "SHA": "437be99c",
               "Subject": "Use golangci-lint 2.x (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "ccff7fd9",
+              "Subject": "Prepare for release v0.15.0 (#96)"
+            },
+            {
+              "SHA": "a849809d",
+              "Subject": "Improve and generalize configure-reconfigure process (#95)"
+            },
+            {
+              "SHA": "e5f20e47",
+              "Subject": "Fix resource watcher for vsecret (#92)"
+            },
+            {
+              "SHA": "17ba50ae",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#94)"
+            },
+            {
+              "SHA": "f6428269",
+              "Subject": "Use k8s 1.34 client libs (#93)"
+            },
+            {
+              "SHA": "c93510d6",
+              "Subject": "Test against k8s 1.35 (#91)"
+            },
+            {
+              "SHA": "536c4368",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "ce38a201",
+              "Subject": "Add golangci (#89)"
+            },
+            {
+              "SHA": "92bf292e",
+              "Subject": "add virtual secret and update lint (#88)"
+            },
+            {
+              "SHA": "66cfd1c1",
+              "Subject": "Move ops code to db repo (#87)"
             }
           ]
         }

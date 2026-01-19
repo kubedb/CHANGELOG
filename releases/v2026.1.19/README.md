@@ -332,6 +332,23 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.36.0](https://github.com/kubedb/kibana/releases/tag/v0.36.0)
+
+- [c454080c](https://github.com/kubedb/kibana/commit/c454080c) Prepare for release v0.36.0 (#167)
+- [5a5a15d1](https://github.com/kubedb/kibana/commit/5a5a15d1) Prepare for release v0.36.0-rc.1 (#166)
+- [0d968837](https://github.com/kubedb/kibana/commit/0d968837) Use k8s 1.34 client libs (#165)
+- [ebd87bba](https://github.com/kubedb/kibana/commit/ebd87bba) Fix makefile indentation (#164)
+- [64a99c80](https://github.com/kubedb/kibana/commit/64a99c80) Publish Image for Redhat software certification (#163)
+- [f3dea03e](https://github.com/kubedb/kibana/commit/f3dea03e) Update deps
+- [85873246](https://github.com/kubedb/kibana/commit/85873246) Build ubi image (#162)
+- [c8e38f13](https://github.com/kubedb/kibana/commit/c8e38f13) Use golangci-lint 2.x
+- [92ca7ab3](https://github.com/kubedb/kibana/commit/92ca7ab3) Prepare for release v0.36.0-rc.0 (#161)
+- [529d7301](https://github.com/kubedb/kibana/commit/529d7301) update deps (#160)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.23.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.23.0)

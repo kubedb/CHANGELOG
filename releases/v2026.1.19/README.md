@@ -577,6 +577,21 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.15.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.15.0)
+
+- [34fefed0](https://github.com/kubedb/rabbitmq/commit/34fefed0) Prepare for release v0.15.0 (#108)
+- [4de46792](https://github.com/kubedb/rabbitmq/commit/4de46792) Update configure-reconfigure process (#107)
+- [5730ad2b](https://github.com/kubedb/rabbitmq/commit/5730ad2b) Prepare for release v0.15.0-rc.1 (#105)
+- [fc6d5de0](https://github.com/kubedb/rabbitmq/commit/fc6d5de0) Use k8s 1.34 client libs (#104)
+- [34ac217c](https://github.com/kubedb/rabbitmq/commit/34ac217c) Test against k8s 1.35 (#103)
+- [8a124e34](https://github.com/kubedb/rabbitmq/commit/8a124e34) Prepare for release v0.15.0-rc.0 (#102)
+- [4b3e6a49](https://github.com/kubedb/rabbitmq/commit/4b3e6a49) Fix multiple restart issue by introducing parallelismController (#101)
+- [f05a5396](https://github.com/kubedb/rabbitmq/commit/f05a5396) Move ops manager repo to base (#100)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.53.0](https://github.com/kubedb/redis/releases/tag/v0.53.0)

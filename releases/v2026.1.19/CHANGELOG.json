@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:42:35.721199848Z",
+  "release_date": "2026-01-19T04:42:49.080837655Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1711,6 +1711,48 @@
             {
               "SHA": "251a144d",
               "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "34fefed0",
+              "Subject": "Prepare for release v0.15.0 (#108)"
+            },
+            {
+              "SHA": "4de46792",
+              "Subject": "Update configure-reconfigure process (#107)"
+            },
+            {
+              "SHA": "5730ad2b",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "fc6d5de0",
+              "Subject": "Use k8s 1.34 client libs (#104)"
+            },
+            {
+              "SHA": "34ac217c",
+              "Subject": "Test against k8s 1.35 (#103)"
+            },
+            {
+              "SHA": "8a124e34",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "4b3e6a49",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#101)"
+            },
+            {
+              "SHA": "f05a5396",
+              "Subject": "Move ops manager repo to base (#100)"
             }
           ]
         }

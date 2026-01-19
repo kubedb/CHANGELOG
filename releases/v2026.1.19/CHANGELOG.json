@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T07:01:29.111380947Z",
+  "release_date": "2026-01-19T07:04:40.255358107Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -3205,6 +3205,52 @@
             {
               "SHA": "a635b1eb",
               "Subject": "add rotate-auth for semi-sync, innodb (#487)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "50ce64af",
+              "Subject": "Prepare for release v0.36.0 (#186)"
+            },
+            {
+              "SHA": "aa21b74c",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#185)"
+            },
+            {
+              "SHA": "10372bf9",
+              "Subject": "Update vulnerable deps (#184)"
+            },
+            {
+              "SHA": "dc899cea",
+              "Subject": "Use k8s 1.34 client libs (#183)"
+            },
+            {
+              "SHA": "c1d34c7e",
+              "Subject": "Fix makefile indentation (#182)"
+            },
+            {
+              "SHA": "9ebbb2ac",
+              "Subject": "Publish Image for Redhat software certification (#179)"
+            },
+            {
+              "SHA": "f5d4d79e",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#178)"
+            },
+            {
+              "SHA": "3563951b",
+              "Subject": "Update Lint (#177)"
+            },
+            {
+              "SHA": "072090b3",
+              "Subject": "make lint update (#176)"
             }
           ]
         }

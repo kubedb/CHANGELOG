@@ -1109,6 +1109,22 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.36.0](https://github.com/kubedb/ui-server/releases/tag/v0.36.0)
+
+- [50ce64af](https://github.com/kubedb/ui-server/commit/50ce64af) Prepare for release v0.36.0 (#186)
+- [aa21b74c](https://github.com/kubedb/ui-server/commit/aa21b74c) Prepare for release v0.36.0-rc.1 (#185)
+- [10372bf9](https://github.com/kubedb/ui-server/commit/10372bf9) Update vulnerable deps (#184)
+- [dc899cea](https://github.com/kubedb/ui-server/commit/dc899cea) Use k8s 1.34 client libs (#183)
+- [c1d34c7e](https://github.com/kubedb/ui-server/commit/c1d34c7e) Fix makefile indentation (#182)
+- [9ebbb2ac](https://github.com/kubedb/ui-server/commit/9ebbb2ac) Publish Image for Redhat software certification (#179)
+- [f5d4d79e](https://github.com/kubedb/ui-server/commit/f5d4d79e) Prepare for release v0.36.0-rc.0 (#178)
+- [3563951b](https://github.com/kubedb/ui-server/commit/3563951b) Update Lint (#177)
+- [072090b3](https://github.com/kubedb/ui-server/commit/072090b3) make lint update (#176)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.1.0](https://github.com/kubedb/weaviate/releases/tag/v0.1.0)

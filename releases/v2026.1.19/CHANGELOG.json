@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:37:27.554519003Z",
+  "release_date": "2026-01-19T04:37:36.921788241Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -511,6 +511,48 @@
             {
               "SHA": "e5a1b21d",
               "Subject": "update-deps (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "03cc9a0b",
+              "Subject": "Prepare for release v0.6.0 (#24)"
+            },
+            {
+              "SHA": "9dc7cbac",
+              "Subject": " Improve and generalize configure-reconfigure process (#23)"
+            },
+            {
+              "SHA": "0257c68a",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#22)"
+            },
+            {
+              "SHA": "62dca5f2",
+              "Subject": "Use k8s 1.34 client libs (#21)"
+            },
+            {
+              "SHA": "d08bf4d9",
+              "Subject": "Test against k8s 1.35 (#19)"
+            },
+            {
+              "SHA": "37277ce1",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#18)"
+            },
+            {
+              "SHA": "dbfe579c",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#17)"
+            },
+            {
+              "SHA": "da33d710",
+              "Subject": "move ops code to db repo (#16)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:44:26.282397713Z",
+  "release_date": "2026-01-19T04:44:33.9690748Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1976,6 +1976,56 @@
             {
               "SHA": "3ad4fd33",
               "Subject": "update lint (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "ff45044b",
+              "Subject": "Prepare for release v0.23.0 (#90)"
+            },
+            {
+              "SHA": "441378e5",
+              "Subject": "Use forked kubestash/restic (#89)"
+            },
+            {
+              "SHA": "f5f19a6f",
+              "Subject": "Use forked kubestash/restic (#88)"
+            },
+            {
+              "SHA": "a8876977",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#87)"
+            },
+            {
+              "SHA": "13e072fb",
+              "Subject": "Use k8s 1.34 client libs (#86)"
+            },
+            {
+              "SHA": "b258277e",
+              "Subject": "Fix makefile indentation (#85)"
+            },
+            {
+              "SHA": "5a182fc7",
+              "Subject": "Publish Image for Redhat software certification (#84)"
+            },
+            {
+              "SHA": "397396b9",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#83)"
+            },
+            {
+              "SHA": "b53cd1ba",
+              "Subject": "Update Go version (#82)"
+            },
+            {
+              "SHA": "cfe47963",
+              "Subject": "Update linter (#81)"
             }
           ]
         }

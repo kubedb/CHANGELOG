@@ -675,6 +675,23 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.23.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.23.0)
+
+- [ff45044b](https://github.com/kubedb/postgres-restic-plugin/commit/ff45044b) Prepare for release v0.23.0 (#90)
+- [441378e5](https://github.com/kubedb/postgres-restic-plugin/commit/441378e5) Use forked kubestash/restic (#89)
+- [f5f19a6f](https://github.com/kubedb/postgres-restic-plugin/commit/f5f19a6f) Use forked kubestash/restic (#88)
+- [a8876977](https://github.com/kubedb/postgres-restic-plugin/commit/a8876977) Prepare for release v0.23.0-rc.1 (#87)
+- [13e072fb](https://github.com/kubedb/postgres-restic-plugin/commit/13e072fb) Use k8s 1.34 client libs (#86)
+- [b258277e](https://github.com/kubedb/postgres-restic-plugin/commit/b258277e) Fix makefile indentation (#85)
+- [5a182fc7](https://github.com/kubedb/postgres-restic-plugin/commit/5a182fc7) Publish Image for Redhat software certification (#84)
+- [397396b9](https://github.com/kubedb/postgres-restic-plugin/commit/397396b9) Prepare for release v0.23.0-rc.0 (#83)
+- [b53cd1ba](https://github.com/kubedb/postgres-restic-plugin/commit/b53cd1ba) Update Go version (#82)
+- [cfe47963](https://github.com/kubedb/postgres-restic-plugin/commit/cfe47963) Update linter (#81)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.1.0](https://github.com/kubedb/qdrant/releases/tag/v0.1.0)

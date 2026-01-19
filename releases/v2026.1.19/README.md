@@ -354,6 +354,20 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.21.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.21.0)
+
+- [e6fd5d5f](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/e6fd5d5f) Prepare for release v0.21.0 (#68)
+- [6d6f78bf](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/6d6f78bf) Prepare for release v0.21.0-rc.1 (#66)
+- [d9a7e2c2](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/d9a7e2c2) Use k8s 1.34 client libs (#65)
+- [7f6dc710](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/7f6dc710) Fix makefile indentation (#64)
+- [bbf8bfc9](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/bbf8bfc9) Publish Image for Redhat software certification (#63)
+- [75b334b9](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/75b334b9) Prepare for release v0.21.0-rc.0 (#62)
+- [2e658828](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/2e658828) Fix linter (#61)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.23.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.23.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:39:58.307977149Z",
+  "release_date": "2026-01-19T04:40:06.83298796Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1159,6 +1159,48 @@
             {
               "SHA": "4f806c00",
               "Subject": "Build and push ubi image (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "ea6e3c50",
+              "Subject": "Prepare for release v0.21.0 (#75)"
+            },
+            {
+              "SHA": "7d99eb19",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#73)"
+            },
+            {
+              "SHA": "2d482cda",
+              "Subject": "Use k8s 1.34 client libs (#72)"
+            },
+            {
+              "SHA": "48e2e4c9",
+              "Subject": "Fix makefile indentation (#71)"
+            },
+            {
+              "SHA": "ea89b1db",
+              "Subject": "Publish Image for Redhat software certification (#70)"
+            },
+            {
+              "SHA": "0b38fae9",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "6a3af86c",
+              "Subject": "Update golang version (#68)"
+            },
+            {
+              "SHA": "3ad4fd33",
+              "Subject": "update lint (#67)"
             }
           ]
         }

@@ -385,6 +385,21 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.21.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.21.0)
+
+- [ea6e3c50](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/ea6e3c50) Prepare for release v0.21.0 (#75)
+- [7d99eb19](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/7d99eb19) Prepare for release v0.21.0-rc.1 (#73)
+- [2d482cda](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/2d482cda) Use k8s 1.34 client libs (#72)
+- [48e2e4c9](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/48e2e4c9) Fix makefile indentation (#71)
+- [ea89b1db](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/ea89b1db) Publish Image for Redhat software certification (#70)
+- [0b38fae9](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/0b38fae9) Prepare for release v0.21.0-rc.0 (#69)
+- [6a3af86c](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/6a3af86c) Update golang version (#68)
+- [3ad4fd33](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/3ad4fd33) update lint (#67)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.47.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.47.0)

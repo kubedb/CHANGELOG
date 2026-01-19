@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:48:00.90120224Z",
+  "release_date": "2026-01-19T04:48:04.613608347Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1888,6 +1888,28 @@
             {
               "SHA": "1358b920",
               "Subject": "Fix makefile for ubi images (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "757d12e",
+              "Subject": "Use k8s 1.34 client libs (#55)"
+            },
+            {
+              "SHA": "0983b29",
+              "Subject": "Use golangci-lint 2.x (#54)"
+            },
+            {
+              "SHA": "57d25a8",
+              "Subject": "Use k8s 1.32 client libs (#53)"
             }
           ]
         }

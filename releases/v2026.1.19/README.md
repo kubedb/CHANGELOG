@@ -872,6 +872,22 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.47.0](https://github.com/kubedb/proxysql/releases/tag/v0.47.0)
+
+- [cdcee6ba](https://github.com/kubedb/proxysql/commit/cdcee6baf) Prepare for release v0.47.0 (#413)
+- [96edac7b](https://github.com/kubedb/proxysql/commit/96edac7b7) Improve and generalize configure-reconfigure process (#412)
+- [7ec3ed3f](https://github.com/kubedb/proxysql/commit/7ec3ed3f5) Prepare for release v0.47.0-rc.1 (#411)
+- [99a845b1](https://github.com/kubedb/proxysql/commit/99a845b14) Use k8s 1.34 client libs (#410)
+- [71efc19c](https://github.com/kubedb/proxysql/commit/71efc19c6) Test against k8s 1.35 (#409)
+- [10258db5](https://github.com/kubedb/proxysql/commit/10258db59) Remove github.com/go-xorm/xorm dependency
+- [1f965f4f](https://github.com/kubedb/proxysql/commit/1f965f4fd) Prepare for release v0.47.0-rc.0 (#408)
+- [4ed80eed](https://github.com/kubedb/proxysql/commit/4ed80eed3) Fix multiple restart issue by introducing parallelismController (#407)
+- [111aa2aa](https://github.com/kubedb/proxysql/commit/111aa2aa5) Move ops to db repo (#406)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.1.0](https://github.com/kubedb/qdrant/releases/tag/v0.1.0)

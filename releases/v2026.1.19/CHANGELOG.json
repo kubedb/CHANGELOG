@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T06:48:18.879643912Z",
+  "release_date": "2026-01-19T06:50:06.246743605Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -2511,6 +2511,52 @@
         {
           "tag": "v0.21.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "cdcee6baf",
+              "Subject": "Prepare for release v0.47.0 (#413)"
+            },
+            {
+              "SHA": "96edac7b7",
+              "Subject": "Improve and generalize configure-reconfigure process (#412)"
+            },
+            {
+              "SHA": "7ec3ed3f5",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#411)"
+            },
+            {
+              "SHA": "99a845b14",
+              "Subject": "Use k8s 1.34 client libs (#410)"
+            },
+            {
+              "SHA": "71efc19c6",
+              "Subject": "Test against k8s 1.35 (#409)"
+            },
+            {
+              "SHA": "10258db59",
+              "Subject": "Remove github.com/go-xorm/xorm dependency"
+            },
+            {
+              "SHA": "1f965f4fd",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#408)"
+            },
+            {
+              "SHA": "4ed80eed3",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#407)"
+            },
+            {
+              "SHA": "111aa2aa5",
+              "Subject": "Move ops to db repo (#406)"
+            }
+          ]
         }
       ]
     },

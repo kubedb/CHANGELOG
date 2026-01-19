@@ -1,4 +1,4 @@
-# KubeDB v2026.1.19 (2026-01-18)
+# KubeDB v2026.1.19 (2026-01-19)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -74,6 +74,21 @@
 - [0b613041](https://github.com/kubedb/db-client-go/commit/0b613041) Add Qdrant (#197)
 - [f77e6314](https://github.com/kubedb/db-client-go/commit/f77e6314) Add Virtual Secret Pgbouncer Pgpool Redis Valkey (#199)
 - [b824c01d](https://github.com/kubedb/db-client-go/commit/b824c01d) move go_es file to db-client (#200)
+
+
+
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.31.0](https://github.com/kubedb/kafka/releases/tag/v0.31.0)
+
+- [3ccdb0fd](https://github.com/kubedb/kafka/commit/3ccdb0fd) Prepare for release v0.31.0 (#173)
+- [8806da50](https://github.com/kubedb/kafka/commit/8806da50) Update Reconfigure/Configure (#172)
+- [50dda47a](https://github.com/kubedb/kafka/commit/50dda47a) Prepare for release v0.31.0-rc.1 (#171)
+- [6794c280](https://github.com/kubedb/kafka/commit/6794c280) Use k8s 1.34 client libs (#170)
+- [46f4f915](https://github.com/kubedb/kafka/commit/46f4f915) Test against k8s 1.35 (#168)
+- [1003c37f](https://github.com/kubedb/kafka/commit/1003c37f) Prepare for release v0.31.0-rc.0 (#167)
+- [e270d3e6](https://github.com/kubedb/kafka/commit/e270d3e6) Fix multiple restart issue by introducing parallelismController (#166)
+- [3f7bf918](https://github.com/kubedb/kafka/commit/3f7bf918) Move ops-manager code to base repo (#165)
 
 
 

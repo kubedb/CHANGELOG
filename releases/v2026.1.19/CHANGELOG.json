@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-18T15:33:15.150097473Z",
+  "release_date": "2026-01-19T04:31:19.761562311Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -269,6 +269,48 @@
             {
               "SHA": "b824c01d",
               "Subject": "move go_es file to db-client (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "3ccdb0fd",
+              "Subject": "Prepare for release v0.31.0 (#173)"
+            },
+            {
+              "SHA": "8806da50",
+              "Subject": "Update Reconfigure/Configure (#172)"
+            },
+            {
+              "SHA": "50dda47a",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#171)"
+            },
+            {
+              "SHA": "6794c280",
+              "Subject": "Use k8s 1.34 client libs (#170)"
+            },
+            {
+              "SHA": "46f4f915",
+              "Subject": "Test against k8s 1.35 (#168)"
+            },
+            {
+              "SHA": "1003c37f",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#167)"
+            },
+            {
+              "SHA": "e270d3e6",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#166)"
+            },
+            {
+              "SHA": "3f7bf918",
+              "Subject": "Move ops-manager code to base repo (#165)"
             }
           ]
         }

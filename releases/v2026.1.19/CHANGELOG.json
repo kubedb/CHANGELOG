@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:47:47.491921949Z",
+  "release_date": "2026-01-19T04:47:54.542501042Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -2918,6 +2918,52 @@
             {
               "SHA": "a635b1eb",
               "Subject": "add rotate-auth for semi-sync, innodb (#487)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "cc2297c3",
+              "Subject": "Prepare for release v0.1.0 (#10)"
+            },
+            {
+              "SHA": "71791e5b",
+              "Subject": "Configuration redesign (#9)"
+            },
+            {
+              "SHA": "429e6c27",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#8)"
+            },
+            {
+              "SHA": "110cd467",
+              "Subject": "Update vulnerable deps (#7)"
+            },
+            {
+              "SHA": "a5f58ee6",
+              "Subject": "Use k8s 1.34 client libs (#6)"
+            },
+            {
+              "SHA": "387e92f6",
+              "Subject": "Test against k8s 1.34 (#1)"
+            },
+            {
+              "SHA": "8bb614d5",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
+            },
+            {
+              "SHA": "d53d53e9",
+              "Subject": "Add Weaviate DB Support"
+            },
+            {
+              "SHA": "1b27e93a",
+              "Subject": "Add vendor"
             }
           ]
         }

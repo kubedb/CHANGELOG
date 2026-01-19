@@ -1001,6 +1001,22 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.1.0](https://github.com/kubedb/weaviate/releases/tag/v0.1.0)
+
+- [cc2297c3](https://github.com/kubedb/weaviate/commit/cc2297c3) Prepare for release v0.1.0 (#10)
+- [71791e5b](https://github.com/kubedb/weaviate/commit/71791e5b) Configuration redesign (#9)
+- [429e6c27](https://github.com/kubedb/weaviate/commit/429e6c27) Prepare for release v0.1.0-rc.1 (#8)
+- [110cd467](https://github.com/kubedb/weaviate/commit/110cd467) Update vulnerable deps (#7)
+- [a5f58ee6](https://github.com/kubedb/weaviate/commit/a5f58ee6) Use k8s 1.34 client libs (#6)
+- [387e92f6](https://github.com/kubedb/weaviate/commit/387e92f6) Test against k8s 1.34 (#1)
+- [8bb614d5](https://github.com/kubedb/weaviate/commit/8bb614d5) Prepare for release v0.1.0-rc.0 (#4)
+- [d53d53e9](https://github.com/kubedb/weaviate/commit/d53d53e9) Add Weaviate DB Support
+- [1b27e93a](https://github.com/kubedb/weaviate/commit/1b27e93a) Add vendor
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.15.0](https://github.com/kubedb/zookeeper/releases/tag/v0.15.0)

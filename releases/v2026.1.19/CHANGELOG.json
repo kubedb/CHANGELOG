@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:37:18.75091928Z",
+  "release_date": "2026-01-19T04:37:27.554519003Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -607,6 +607,44 @@
             {
               "SHA": "c31441d5",
               "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "91b8945",
+              "Subject": "Prepare for release v0.14.0 (#43)"
+            },
+            {
+              "SHA": "07f0670",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#41)"
+            },
+            {
+              "SHA": "231ae1c",
+              "Subject": "Use k8s 1.34 client libs (#40)"
+            },
+            {
+              "SHA": "343568c",
+              "Subject": "Fix makefile indentation (#39)"
+            },
+            {
+              "SHA": "bc447f8",
+              "Subject": "Publish Image for Redhat software certification (#38)"
+            },
+            {
+              "SHA": "93cd25f",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "677dc46",
+              "Subject": "Use golangci-lint 2.x (#36)"
             }
           ]
         }

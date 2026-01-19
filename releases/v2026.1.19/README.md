@@ -252,6 +252,21 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.53.0](https://github.com/kubedb/memcached/releases/tag/v0.53.0)
+
+- [d9c49db8](https://github.com/kubedb/memcached/commit/d9c49db82) Prepare for release v0.53.0 (#519)
+- [25b0aa41](https://github.com/kubedb/memcached/commit/25b0aa419) Update memcached reconfigure (#518)
+- [a03adaf4](https://github.com/kubedb/memcached/commit/a03adaf45) Prepare for release v0.53.0-rc.1 (#517)
+- [eadd34c6](https://github.com/kubedb/memcached/commit/eadd34c62) Use k8s 1.34 client libs (#516)
+- [3bad84ba](https://github.com/kubedb/memcached/commit/3bad84baa) Test against k8s 1.35 (#515)
+- [dc1dc137](https://github.com/kubedb/memcached/commit/dc1dc137f) Prepare for release v0.53.0-rc.0 (#514)
+- [aa8446d9](https://github.com/kubedb/memcached/commit/aa8446d99) Fix multiple restart issue by introducing parallelismController (#513)
+- [1e26cc41](https://github.com/kubedb/memcached/commit/1e26cc416) Move ops to db repo (#512)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.1.0](https://github.com/kubedb/milvus/releases/tag/v0.1.0)

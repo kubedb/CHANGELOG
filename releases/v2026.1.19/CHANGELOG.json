@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:45:50.4892047Z",
+  "release_date": "2026-01-19T04:46:27.948096611Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -2648,6 +2648,92 @@
             {
               "SHA": "8919aabd",
               "Subject": "Move in Ops-manager code to Solr (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "3516c7cb",
+              "Subject": "Prepare for release v0.45.0 (#504)"
+            },
+            {
+              "SHA": "dab2b9be",
+              "Subject": "remove init_config form pgpool (#503)"
+            },
+            {
+              "SHA": "0f520a67",
+              "Subject": "reconfigure change: druid, solr, pgpool, redis, (#502)"
+            },
+            {
+              "SHA": "4dc2db5c",
+              "Subject": "add apimachinery changes [reconfigurationSpec] (#501)"
+            },
+            {
+              "SHA": "66510754",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#499)"
+            },
+            {
+              "SHA": "3b1d93be",
+              "Subject": "Use k8s 1.34 client libs (#498)"
+            },
+            {
+              "SHA": "ec3491a2",
+              "Subject": "Test against k8s 1.35 (#496)"
+            },
+            {
+              "SHA": "5ad85722",
+              "Subject": "MSSQLServer Logical Backup (Wal-G) (#481)"
+            },
+            {
+              "SHA": "f3b02cd7",
+              "Subject": "MariaDB MaxScale VerticalScale (#491)"
+            },
+            {
+              "SHA": "2bd7d59f",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#495)"
+            },
+            {
+              "SHA": "c91842f7",
+              "Subject": "Update go version (#494)"
+            },
+            {
+              "SHA": "e2d20207",
+              "Subject": "Release Change: Go- 1.25.5, Linter Fix (#493)"
+            },
+            {
+              "SHA": "ec7c52a1",
+              "Subject": "MariaDB MaxScale Volume Expansion (#492)"
+            },
+            {
+              "SHA": "2096100e",
+              "Subject": "MariaDB MaxScale Scaling (Ops) (#488)"
+            },
+            {
+              "SHA": "82246e84",
+              "Subject": "Add restic, Volumesnapshotter to CI (#490)"
+            },
+            {
+              "SHA": "08bba9ff",
+              "Subject": "Add Base-Backup Mode for Postgres (#484)"
+            },
+            {
+              "SHA": "42ba4e21",
+              "Subject": "Test against k8s 1.34 (#489)"
+            },
+            {
+              "SHA": "16eed29b",
+              "Subject": "MySQL Archiver CI  (restic+volumesnapshotter mode) (#473)"
+            },
+            {
+              "SHA": "a635b1eb",
+              "Subject": "add rotate-auth for semi-sync, innodb (#487)"
             }
           ]
         }

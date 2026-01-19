@@ -906,6 +906,32 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.45.0](https://github.com/kubedb/tests/releases/tag/v0.45.0)
+
+- [3516c7cb](https://github.com/kubedb/tests/commit/3516c7cb) Prepare for release v0.45.0 (#504)
+- [dab2b9be](https://github.com/kubedb/tests/commit/dab2b9be) remove init_config form pgpool (#503)
+- [0f520a67](https://github.com/kubedb/tests/commit/0f520a67) reconfigure change: druid, solr, pgpool, redis, (#502)
+- [4dc2db5c](https://github.com/kubedb/tests/commit/4dc2db5c) add apimachinery changes [reconfigurationSpec] (#501)
+- [66510754](https://github.com/kubedb/tests/commit/66510754) Prepare for release v0.45.0-rc.1 (#499)
+- [3b1d93be](https://github.com/kubedb/tests/commit/3b1d93be) Use k8s 1.34 client libs (#498)
+- [ec3491a2](https://github.com/kubedb/tests/commit/ec3491a2) Test against k8s 1.35 (#496)
+- [5ad85722](https://github.com/kubedb/tests/commit/5ad85722) MSSQLServer Logical Backup (Wal-G) (#481)
+- [f3b02cd7](https://github.com/kubedb/tests/commit/f3b02cd7) MariaDB MaxScale VerticalScale (#491)
+- [2bd7d59f](https://github.com/kubedb/tests/commit/2bd7d59f) Prepare for release v0.45.0-rc.0 (#495)
+- [c91842f7](https://github.com/kubedb/tests/commit/c91842f7) Update go version (#494)
+- [e2d20207](https://github.com/kubedb/tests/commit/e2d20207) Release Change: Go- 1.25.5, Linter Fix (#493)
+- [ec7c52a1](https://github.com/kubedb/tests/commit/ec7c52a1) MariaDB MaxScale Volume Expansion (#492)
+- [2096100e](https://github.com/kubedb/tests/commit/2096100e) MariaDB MaxScale Scaling (Ops) (#488)
+- [82246e84](https://github.com/kubedb/tests/commit/82246e84) Add restic, Volumesnapshotter to CI (#490)
+- [08bba9ff](https://github.com/kubedb/tests/commit/08bba9ff) Add Base-Backup Mode for Postgres (#484)
+- [42ba4e21](https://github.com/kubedb/tests/commit/42ba4e21) Test against k8s 1.34 (#489)
+- [16eed29b](https://github.com/kubedb/tests/commit/16eed29b) MySQL Archiver CI  (restic+volumesnapshotter mode) (#473)
+- [a635b1eb](https://github.com/kubedb/tests/commit/a635b1eb) add rotate-auth for semi-sync, innodb (#487)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.15.0](https://github.com/kubedb/zookeeper/releases/tag/v0.15.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:40:46.368315692Z",
+  "release_date": "2026-01-19T04:40:55.938490478Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -925,6 +925,56 @@
             {
               "SHA": "b95f58e69",
               "Subject": "move ops code to db repo (#353)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "08b426e5",
+              "Subject": "Prepare for release v0.40.0 (#161)"
+            },
+            {
+              "SHA": "9b802d89",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#160)"
+            },
+            {
+              "SHA": "f69441b7",
+              "Subject": "Use k8s 1.34 client libs (#159)"
+            },
+            {
+              "SHA": "5046d4ba",
+              "Subject": "Fix makefile indentation (#158)"
+            },
+            {
+              "SHA": "4b8af065",
+              "Subject": "Publish Image for Redhat software certification (#157)"
+            },
+            {
+              "SHA": "e007307f",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#156)"
+            },
+            {
+              "SHA": "67015617",
+              "Subject": "Simplify code"
+            },
+            {
+              "SHA": "8a015658",
+              "Subject": "format grpc package"
+            },
+            {
+              "SHA": "810d7607",
+              "Subject": "Build ubi image (#155)"
+            },
+            {
+              "SHA": "0b95dc57",
+              "Subject": "Use golangci-lint 2.x (#154)"
             }
           ]
         }

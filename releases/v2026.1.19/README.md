@@ -444,6 +444,19 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.6.0](https://github.com/kubedb/oracle/releases/tag/v0.6.0)
+
+- [30a93cc0](https://github.com/kubedb/oracle/commit/30a93cc0) Prepare for release v0.6.0 (#24)
+- [6483df83](https://github.com/kubedb/oracle/commit/6483df83) Prepare for release v0.6.0-rc.1 (#23)
+- [8dcfd2ed](https://github.com/kubedb/oracle/commit/8dcfd2ed) Use k8s 1.34 client libs (#22)
+- [f8d1e749](https://github.com/kubedb/oracle/commit/f8d1e749) Prepare for release v0.6.0-rc.0 (#20)
+- [0aaf27b2](https://github.com/kubedb/oracle/commit/0aaf27b2) Oracle tls complete after review (#18)
+- [06611a2f](https://github.com/kubedb/oracle/commit/06611a2f) Moved ops code in oracle operator (#19)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.47.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.47.0)

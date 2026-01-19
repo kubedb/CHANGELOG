@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:41:53.693163377Z",
+  "release_date": "2026-01-19T04:42:02.704920987Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1323,6 +1323,40 @@
             {
               "SHA": "1358b920",
               "Subject": "Fix makefile for ubi images (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "30a93cc0",
+              "Subject": "Prepare for release v0.6.0 (#24)"
+            },
+            {
+              "SHA": "6483df83",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#23)"
+            },
+            {
+              "SHA": "8dcfd2ed",
+              "Subject": "Use k8s 1.34 client libs (#22)"
+            },
+            {
+              "SHA": "f8d1e749",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#20)"
+            },
+            {
+              "SHA": "0aaf27b2",
+              "Subject": "Oracle tls complete after review (#18)"
+            },
+            {
+              "SHA": "06611a2f",
+              "Subject": "Moved ops code in oracle operator (#19)"
             }
           ]
         }

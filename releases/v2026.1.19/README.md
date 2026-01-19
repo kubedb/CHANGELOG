@@ -50,6 +50,20 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.7.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.7.0)
+
+- [52d43201](https://github.com/kubedb/cassandra-medusa-plugin/commit/52d43201) Prepare for release v0.7.0 (#21)
+- [804c9f62](https://github.com/kubedb/cassandra-medusa-plugin/commit/804c9f62) Prepare for release v0.7.0-rc.1 (#19)
+- [7dfbd231](https://github.com/kubedb/cassandra-medusa-plugin/commit/7dfbd231) Use k8s 1.34 client libs (#18)
+- [7db29d99](https://github.com/kubedb/cassandra-medusa-plugin/commit/7db29d99) Fix makefile indentation (#17)
+- [0ca8af6d](https://github.com/kubedb/cassandra-medusa-plugin/commit/0ca8af6d) Publish Image for Redhat software certification (#16)
+- [dd6cbb12](https://github.com/kubedb/cassandra-medusa-plugin/commit/dd6cbb12) Prepare for release v0.7.0-rc.0 (#15)
+- [b2132d1a](https://github.com/kubedb/cassandra-medusa-plugin/commit/b2132d1a) update deps (#14)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.15.0](https://github.com/kubedb/crd-manager/releases/tag/v0.15.0)

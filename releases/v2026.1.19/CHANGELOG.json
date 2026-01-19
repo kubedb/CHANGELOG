@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:36:28.869414322Z",
+  "release_date": "2026-01-19T04:36:36.706223781Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -269,6 +269,40 @@
             {
               "SHA": "b824c01d",
               "Subject": "move go_es file to db-client (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "aafe21ff",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "e64f6a2f",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#7)"
+            },
+            {
+              "SHA": "46dfb4fb",
+              "Subject": "Use k8s 1.34 client libs (#5)"
+            },
+            {
+              "SHA": "c61ee118",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
+            },
+            {
+              "SHA": "e5dd65e7",
+              "Subject": "Implement db2 controller"
+            },
+            {
+              "SHA": "cbe78ad6",
+              "Subject": "Add vendor"
             }
           ]
         }

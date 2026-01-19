@@ -77,6 +77,19 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.1.0](https://github.com/kubedb/db2/releases/tag/v0.1.0)
+
+- [aafe21ff](https://github.com/kubedb/db2/commit/aafe21ff) Prepare for release v0.1.0 (#8)
+- [e64f6a2f](https://github.com/kubedb/db2/commit/e64f6a2f) Prepare for release v0.1.0-rc.1 (#7)
+- [46dfb4fb](https://github.com/kubedb/db2/commit/46dfb4fb) Use k8s 1.34 client libs (#5)
+- [c61ee118](https://github.com/kubedb/db2/commit/c61ee118) Prepare for release v0.1.0-rc.0 (#3)
+- [e5dd65e7](https://github.com/kubedb/db2/commit/e5dd65e7) Implement db2 controller
+- [cbe78ad6](https://github.com/kubedb/db2/commit/cbe78ad6) Add vendor
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.60.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.60.0)

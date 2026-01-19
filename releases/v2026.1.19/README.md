@@ -50,6 +50,22 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.45.0](https://github.com/kubedb/autoscaler/releases/tag/v0.45.0)
+
+- [7e9e4708](https://github.com/kubedb/autoscaler/commit/7e9e4708) Prepare for release v0.45.0 (#274)
+- [aadf7a1b](https://github.com/kubedb/autoscaler/commit/aadf7a1b) Update Mongo Reconfig API (#273)
+- [37b3c020](https://github.com/kubedb/autoscaler/commit/37b3c020) Prepare for release v0.45.0-rc.1 (#272)
+- [e7f4287d](https://github.com/kubedb/autoscaler/commit/e7f4287d) Use k8s 1.34 client libs (#271)
+- [138b469c](https://github.com/kubedb/autoscaler/commit/138b469c) Fix makefile indentation (#270)
+- [cffebd62](https://github.com/kubedb/autoscaler/commit/cffebd62) Publish Image for Redhat software certification (#269)
+- [7765b291](https://github.com/kubedb/autoscaler/commit/7765b291) Prepare for release v0.45.0-rc.0 (#268)
+- [9a7f1096](https://github.com/kubedb/autoscaler/commit/9a7f1096) Skip controller activation in certification mode (#267)
+- [d8119820](https://github.com/kubedb/autoscaler/commit/d8119820) Use golangci-lint 2.x (#266)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.13.0](https://github.com/kubedb/cassandra/releases/tag/v0.13.0)

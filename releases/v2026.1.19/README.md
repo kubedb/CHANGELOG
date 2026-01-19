@@ -385,6 +385,21 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.21.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.21.0)
+
+- [6b3becf0](https://github.com/kubedb/mysql-archiver/commit/6b3becf0) Prepare for release v0.21.0 (#77)
+- [9a8fa9f6](https://github.com/kubedb/mysql-archiver/commit/9a8fa9f6) Submit to red hat catalog (#74)
+- [3be30caf](https://github.com/kubedb/mysql-archiver/commit/3be30caf) Prepare for release v0.21.0-rc.1 (#73)
+- [3d14d6df](https://github.com/kubedb/mysql-archiver/commit/3d14d6df) Use k8s 1.34 client libs (#72)
+- [27ff79e7](https://github.com/kubedb/mysql-archiver/commit/27ff79e7) Fix build rule
+- [da732228](https://github.com/kubedb/mysql-archiver/commit/da732228) Prepare for release v0.21.0-rc.0 (#71)
+- [e3a552e8](https://github.com/kubedb/mysql-archiver/commit/e3a552e8) Change Makefile GO Version (#70)
+- [ad8911b6](https://github.com/kubedb/mysql-archiver/commit/ad8911b6) Add golangci (#69)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.23.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.23.0)

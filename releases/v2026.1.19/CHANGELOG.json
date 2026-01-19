@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:40:55.938490478Z",
+  "release_date": "2026-01-19T04:41:05.810387198Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1159,6 +1159,48 @@
             {
               "SHA": "677dc46",
               "Subject": "Use golangci-lint 2.x (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6b3becf0",
+              "Subject": "Prepare for release v0.21.0 (#77)"
+            },
+            {
+              "SHA": "9a8fa9f6",
+              "Subject": "Submit to red hat catalog (#74)"
+            },
+            {
+              "SHA": "3be30caf",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#73)"
+            },
+            {
+              "SHA": "3d14d6df",
+              "Subject": "Use k8s 1.34 client libs (#72)"
+            },
+            {
+              "SHA": "27ff79e7",
+              "Subject": "Fix build rule"
+            },
+            {
+              "SHA": "da732228",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#71)"
+            },
+            {
+              "SHA": "e3a552e8",
+              "Subject": "Change Makefile GO Version (#70)"
+            },
+            {
+              "SHA": "ad8911b6",
+              "Subject": "Add golangci (#69)"
             }
           ]
         }

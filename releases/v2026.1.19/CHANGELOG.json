@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:38:18.309579208Z",
+  "release_date": "2026-01-19T04:38:29.773485424Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -859,6 +859,52 @@
             {
               "SHA": "437be99c",
               "Subject": "Use golangci-lint 2.x (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "e43601fb",
+              "Subject": "Prepare for release v0.47.0 (#307)"
+            },
+            {
+              "SHA": "77ec3ba3",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#306)"
+            },
+            {
+              "SHA": "4cb9f404",
+              "Subject": "Use k8s 1.34 client libs (#305)"
+            },
+            {
+              "SHA": "77e5286c",
+              "Subject": "Fix makefile indentation (#304)"
+            },
+            {
+              "SHA": "9322cc0c",
+              "Subject": "Publish Image for Redhat software certification (#303)"
+            },
+            {
+              "SHA": "7c77bd18",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#302)"
+            },
+            {
+              "SHA": "5a586bb3",
+              "Subject": "Update Dockerfile label for application name"
+            },
+            {
+              "SHA": "09bc4ae6",
+              "Subject": "Build ubi image (#301)"
+            },
+            {
+              "SHA": "fd4f2bb5",
+              "Subject": "Use golangci-lint 2.x (#300)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:47:54.542501042Z",
+  "release_date": "2026-01-19T04:47:58.54464201Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1594,6 +1594,36 @@
             {
               "SHA": "b02aeeb3",
               "Subject": "Move ops to DB repo (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "720ce9b",
+              "Subject": "Update release wf (#21)"
+            },
+            {
+              "SHA": "0377147",
+              "Subject": "Use k8s 1.34 client libs (#20)"
+            },
+            {
+              "SHA": "1c173bf",
+              "Subject": "Fix makefile indentation (#19)"
+            },
+            {
+              "SHA": "5c69310",
+              "Subject": "Merge pull request #16 from kubedb/rhm"
+            },
+            {
+              "SHA": "c65e2ae",
+              "Subject": "Use golangci-lint 2.x (#15)"
             }
           ]
         }

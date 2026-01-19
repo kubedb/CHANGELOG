@@ -108,6 +108,24 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.1.0](https://github.com/kubedb/milvus/releases/tag/v0.1.0)
+
+- [6a714e39](https://github.com/kubedb/milvus/commit/6a714e39) Prepare for release v0.1.0 (#11)
+- [e5782e5c](https://github.com/kubedb/milvus/commit/e5782e5c) Update Configuration process (#10)
+- [7dee1617](https://github.com/kubedb/milvus/commit/7dee1617) Prepare for release v0.1.0-rc.1 (#9)
+- [13b241f4](https://github.com/kubedb/milvus/commit/13b241f4) Use k8s 1.34 client libs (#8)
+- [c43dc470](https://github.com/kubedb/milvus/commit/c43dc470) Test against k8s 1.35 (#7)
+- [f2c9cbe4](https://github.com/kubedb/milvus/commit/f2c9cbe4) Prepare for release v0.1.0-rc.0 (#6)
+- [348ba5dc](https://github.com/kubedb/milvus/commit/348ba5dc) Downgrade k8s version (#5)
+- [d7c414da](https://github.com/kubedb/milvus/commit/d7c414da) goversion modified (#3)
+- [12dad438](https://github.com/kubedb/milvus/commit/12dad438) Test against k8s 1.34 (#2)
+- [c595065b](https://github.com/kubedb/milvus/commit/c595065b) Add milvus provisioner (standalone) (#1)
+- [c31441d5](https://github.com/kubedb/milvus/commit/c31441d5) Update .gitignore
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.15.0](https://github.com/kubedb/solr/releases/tag/v0.15.0)

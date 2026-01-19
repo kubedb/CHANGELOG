@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T09:45:45.160397362Z",
+  "release_date": "2026-01-19T10:00:42.399211372Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -2048,6 +2048,80 @@
             {
               "SHA": "78e8ae36",
               "Subject": "Neo4j Operator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "0ffec4817",
+              "Subject": "Prepare for release v0.47.0 (#819)"
+            },
+            {
+              "SHA": "4a6695963",
+              "Subject": "Qdrant ops fix (#818)"
+            },
+            {
+              "SHA": "f6367c98e",
+              "Subject": "Add Qdrant TLS Support (#813)"
+            },
+            {
+              "SHA": "a67e2b7ce",
+              "Subject": "Oracle TLS (#806)"
+            },
+            {
+              "SHA": "9ff1de6d1",
+              "Subject": "Reconfigure redesign (#817)"
+            },
+            {
+              "SHA": "8000ffefe",
+              "Subject": "Add shard configuration support for ops manager (#812)"
+            },
+            {
+              "SHA": "5d979ede3",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#816)"
+            },
+            {
+              "SHA": "25ca3a62a",
+              "Subject": "Use k8s 1.34 client libs (#815)"
+            },
+            {
+              "SHA": "8dd93808f",
+              "Subject": "Fix makefile indentation (#814)"
+            },
+            {
+              "SHA": "af6c8f13f",
+              "Subject": "Test against k8s 1.35 (#811)"
+            },
+            {
+              "SHA": "6d2d736c9",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "116f7351a",
+              "Subject": "Publish Image for Redhat software certification (#810)"
+            },
+            {
+              "SHA": "cb3b4b332",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#809)"
+            },
+            {
+              "SHA": "5bdccf30f",
+              "Subject": "Skip controller activation in certification mode (#808)"
+            },
+            {
+              "SHA": "3eb8519f1",
+              "Subject": "Fix linter warning"
+            },
+            {
+              "SHA": "4f15899d1",
+              "Subject": "Use golangci-lint 2.x (#807)"
             }
           ]
         }

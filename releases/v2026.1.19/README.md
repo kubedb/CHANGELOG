@@ -542,6 +542,24 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.1.0](https://github.com/kubedb/qdrant/releases/tag/v0.1.0)
+
+- [1ce521e9](https://github.com/kubedb/qdrant/commit/1ce521e9) Prepare for release v0.1.0 (#14)
+- [051524f1](https://github.com/kubedb/qdrant/commit/051524f1) Re-design Configuration process (#12)
+- [27031124](https://github.com/kubedb/qdrant/commit/27031124) Add TLS support (#9)
+- [47542dd7](https://github.com/kubedb/qdrant/commit/47542dd7) Prepare for release v0.1.0-rc.1 (#11)
+- [2653e252](https://github.com/kubedb/qdrant/commit/2653e252) Use k8s 1.34 client libs (#10)
+- [a3318df6](https://github.com/kubedb/qdrant/commit/a3318df6) Test against k8s 1.35 (#8)
+- [61f7198f](https://github.com/kubedb/qdrant/commit/61f7198f) Prepare for release v0.1.0-rc.0 (#7)
+- [55cd4a5c](https://github.com/kubedb/qdrant/commit/55cd4a5c) k8s downgrade (#6)
+- [23165061](https://github.com/kubedb/qdrant/commit/23165061) makefile go 1.25 (#4)
+- [a3c6b74e](https://github.com/kubedb/qdrant/commit/a3c6b74e) Add Qdrant Provisioner
+- [251a144d](https://github.com/kubedb/qdrant/commit/251a144d) Update .gitignore
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.53.0](https://github.com/kubedb/redis/releases/tag/v0.53.0)

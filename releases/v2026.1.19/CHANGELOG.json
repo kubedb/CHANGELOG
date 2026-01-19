@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:42:02.704920987Z",
+  "release_date": "2026-01-19T04:42:10.937056488Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -1607,6 +1607,60 @@
             {
               "SHA": "3ad4fd33",
               "Subject": "update lint (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "1ce521e9",
+              "Subject": "Prepare for release v0.1.0 (#14)"
+            },
+            {
+              "SHA": "051524f1",
+              "Subject": "Re-design Configuration process (#12)"
+            },
+            {
+              "SHA": "27031124",
+              "Subject": "Add TLS support (#9)"
+            },
+            {
+              "SHA": "47542dd7",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#11)"
+            },
+            {
+              "SHA": "2653e252",
+              "Subject": "Use k8s 1.34 client libs (#10)"
+            },
+            {
+              "SHA": "a3318df6",
+              "Subject": "Test against k8s 1.35 (#8)"
+            },
+            {
+              "SHA": "61f7198f",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
+            },
+            {
+              "SHA": "55cd4a5c",
+              "Subject": "k8s downgrade (#6)"
+            },
+            {
+              "SHA": "23165061",
+              "Subject": "makefile go 1.25 (#4)"
+            },
+            {
+              "SHA": "a3c6b74e",
+              "Subject": "Add Qdrant Provisioner"
+            },
+            {
+              "SHA": "251a144d",
+              "Subject": "Update .gitignore"
             }
           ]
         }

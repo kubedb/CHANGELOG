@@ -429,6 +429,21 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.21.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.21.0)
+
+- [be4af0c4](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/be4af0c4) Prepare for release v0.21.0 (#65)
+- [aacc62c7](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/aacc62c7) Prepare for release v0.21.0-rc.1 (#63)
+- [50746a8e](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/50746a8e) Use k8s 1.34 client libs (#62)
+- [a4ef9a0b](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/a4ef9a0b) Fix makefile indentation (#61)
+- [6b1059ae](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/6b1059ae) Publish Image for Redhat software certification (#60)
+- [64893d8b](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/64893d8b) Prepare for release v0.21.0-rc.0 (#59)
+- [48a23ce5](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/48a23ce5) Change Makefile GO Version (#58)
+- [d1732152](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/d1732152) Add golangci (#57)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.23.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.23.0)

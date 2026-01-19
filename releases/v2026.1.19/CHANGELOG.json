@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:40:38.217458412Z",
+  "release_date": "2026-01-19T04:40:46.368315692Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -699,6 +699,48 @@
             {
               "SHA": "3c73ec67",
               "Subject": "No need to check backend's owner ref"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "5948210d",
+              "Subject": "Prepare for release v0.8.0 (#37)"
+            },
+            {
+              "SHA": "4dae1f47",
+              "Subject": "Update Configuration Changes (#36)"
+            },
+            {
+              "SHA": "bd6e94c4",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#35)"
+            },
+            {
+              "SHA": "2b260a9d",
+              "Subject": "Use k8s 1.34 client libs (#34)"
+            },
+            {
+              "SHA": "119edc0b",
+              "Subject": "Fix makefile indentation (#33)"
+            },
+            {
+              "SHA": "5be586ab",
+              "Subject": "Publish Image for Redhat software certification (#32)"
+            },
+            {
+              "SHA": "2e506be8",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "9de37946",
+              "Subject": "Fix vertical scaling ops creation for storage resouce changes (#30)"
             }
           ]
         }

@@ -225,6 +225,21 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.8.0](https://github.com/kubedb/gitops/releases/tag/v0.8.0)
+
+- [5948210d](https://github.com/kubedb/gitops/commit/5948210d) Prepare for release v0.8.0 (#37)
+- [4dae1f47](https://github.com/kubedb/gitops/commit/4dae1f47) Update Configuration Changes (#36)
+- [bd6e94c4](https://github.com/kubedb/gitops/commit/bd6e94c4) Prepare for release v0.8.0-rc.1 (#35)
+- [2b260a9d](https://github.com/kubedb/gitops/commit/2b260a9d) Use k8s 1.34 client libs (#34)
+- [119edc0b](https://github.com/kubedb/gitops/commit/119edc0b) Fix makefile indentation (#33)
+- [5be586ab](https://github.com/kubedb/gitops/commit/5be586ab) Publish Image for Redhat software certification (#32)
+- [2e506be8](https://github.com/kubedb/gitops/commit/2e506be8) Prepare for release v0.8.0-rc.0 (#31)
+- [9de37946](https://github.com/kubedb/gitops/commit/9de37946) Fix vertical scaling ops creation for storage resouce changes (#30)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.6.0](https://github.com/kubedb/hazelcast/releases/tag/v0.6.0)

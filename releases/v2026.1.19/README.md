@@ -515,6 +515,21 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.53.0](https://github.com/kubedb/redis/releases/tag/v0.53.0)
+
+- [eeaf253e](https://github.com/kubedb/redis/commit/eeaf253e9) Prepare for release v0.53.0 (#616)
+- [9d27adae](https://github.com/kubedb/redis/commit/9d27adaeb) Improve and generalize configure-reconfigure process (#615)
+- [504bc21c](https://github.com/kubedb/redis/commit/504bc21c1) Prepare for release v0.53.0-rc.1 (#614)
+- [082ef45b](https://github.com/kubedb/redis/commit/082ef45b4) Use k8s 1.34 client libs (#613)
+- [ce19d04e](https://github.com/kubedb/redis/commit/ce19d04e5) Test against k8s 1.35 (#612)
+- [acecd5f2](https://github.com/kubedb/redis/commit/acecd5f21) Prepare for release v0.53.0-rc.0 (#611)
+- [fc0fe37b](https://github.com/kubedb/redis/commit/fc0fe37bd) add Virtual Secret and update lint (#610)
+- [994b34ec](https://github.com/kubedb/redis/commit/994b34ece) Move ops code to db repo (#609)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.47.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.47.0)

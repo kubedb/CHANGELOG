@@ -321,6 +321,13 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.18.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.18.0)
+
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.53.0](https://github.com/kubedb/memcached/releases/tag/v0.53.0)

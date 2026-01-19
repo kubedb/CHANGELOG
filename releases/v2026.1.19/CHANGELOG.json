@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.1.19",
-  "release_date": "2026-01-19T04:39:50.35715694Z",
+  "release_date": "2026-01-19T04:39:58.307977149Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.1.19",
   "kubernetes_version": "1.26+",
@@ -963,6 +963,48 @@
             {
               "SHA": "677dc46",
               "Subject": "Use golangci-lint 2.x (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "3dbb2b6f",
+              "Subject": "Prepare for release v0.23.0 (#92)"
+            },
+            {
+              "SHA": "13952311",
+              "Subject": "Use forked kubestash/restic (#90)"
+            },
+            {
+              "SHA": "0eca6918",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#89)"
+            },
+            {
+              "SHA": "0ceec91e",
+              "Subject": "Use k8s 1.34 client libs (#88)"
+            },
+            {
+              "SHA": "d12eee48",
+              "Subject": "Fix makefile indentation (#87)"
+            },
+            {
+              "SHA": "c22220cd",
+              "Subject": "Publish Image for Redhat software certification (#86)"
+            },
+            {
+              "SHA": "4552f5f7",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "1358b920",
+              "Subject": "Fix makefile for ubi images (#84)"
             }
           ]
         }

@@ -318,6 +318,21 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.23.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.23.0)
+
+- [3dbb2b6f](https://github.com/kubedb/mysql-restic-plugin/commit/3dbb2b6f) Prepare for release v0.23.0 (#92)
+- [13952311](https://github.com/kubedb/mysql-restic-plugin/commit/13952311) Use forked kubestash/restic (#90)
+- [0eca6918](https://github.com/kubedb/mysql-restic-plugin/commit/0eca6918) Prepare for release v0.23.0-rc.1 (#89)
+- [0ceec91e](https://github.com/kubedb/mysql-restic-plugin/commit/0ceec91e) Use k8s 1.34 client libs (#88)
+- [d12eee48](https://github.com/kubedb/mysql-restic-plugin/commit/d12eee48) Fix makefile indentation (#87)
+- [c22220cd](https://github.com/kubedb/mysql-restic-plugin/commit/c22220cd) Publish Image for Redhat software certification (#86)
+- [4552f5f7](https://github.com/kubedb/mysql-restic-plugin/commit/4552f5f7) Prepare for release v0.23.0-rc.0 (#85)
+- [1358b920](https://github.com/kubedb/mysql-restic-plugin/commit/1358b920) Fix makefile for ubi images (#84)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.33.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.33.0)

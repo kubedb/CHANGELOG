@@ -1,0 +1,4290 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.1.19",
+  "release_date": "2026-01-20T11:09:41.011606567Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.1.19",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.60.0",
+          "commits": [
+            {
+              "SHA": "c843a2f36",
+              "Subject": "Update for release KubeStash@v2026.1.19 (#1570)"
+            },
+            {
+              "SHA": "9f97d1bb1",
+              "Subject": "Add/Update webhook validation for all dbs' ops requests (#1569)"
+            },
+            {
+              "SHA": "ef9045d61",
+              "Subject": "Update redis, pgpool api and memcached ops api (#1568)"
+            },
+            {
+              "SHA": "eae49b096",
+              "Subject": "Add Qdrant TLS Support (#1559)"
+            },
+            {
+              "SHA": "3f91ae3fe",
+              "Subject": "Improve and generalize configure-reconfigure process for all dbs (#1558)"
+            },
+            {
+              "SHA": "b9b80eb8d",
+              "Subject": "Update for release KubeStash@v2026.1.8-rc.0 (#1566)"
+            },
+            {
+              "SHA": "5b6cda2f2",
+              "Subject": "Resume stash backupconfigs currently (#1565)"
+            },
+            {
+              "SHA": "0a4e17cdd",
+              "Subject": "Review Postgres custom config api (#1556)"
+            },
+            {
+              "SHA": "0a605892f",
+              "Subject": "Implement common method for merging logic (#1563)"
+            },
+            {
+              "SHA": "f12630f5c",
+              "Subject": "Add shard config scheme for cached client (#1555)"
+            },
+            {
+              "SHA": "89c8cc899",
+              "Subject": "Correctly set the serviceMonitor scheme (#1562)"
+            },
+            {
+              "SHA": "3fb97b259",
+              "Subject": "Use k8s 1.34 client go libs (#1560)"
+            },
+            {
+              "SHA": "eb03debc7",
+              "Subject": "Add DatabaseInfo api (#1557)"
+            },
+            {
+              "SHA": "72d44c386",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "d30d72e0f",
+              "Subject": "Test against k8s 1.35 (#1554)"
+            },
+            {
+              "SHA": "da3e069f8",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "7086a4bd8",
+              "Subject": "Add \"EndOfLife\" field in catalogs (#1553)"
+            },
+            {
+              "SHA": "5cfded61a",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "bd9997041",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "fac813c78",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "e58fe916a",
+              "Subject": "Update license libraries"
+            },
+            {
+              "SHA": "0562e8d15",
+              "Subject": "Use golangci-lint 2.x (#1549)"
+            },
+            {
+              "SHA": "3d10db600",
+              "Subject": "Implement upgradability helpers (#1536)"
+            },
+            {
+              "SHA": "9131dc317",
+              "Subject": "Add milvus apis (#1533)"
+            },
+            {
+              "SHA": "7d56b3e6c",
+              "Subject": "Virtual secret for pgbouncer pgpool redis (#1516)"
+            },
+            {
+              "SHA": "e1143b591",
+              "Subject": "Add MaxRetries api (#1547)"
+            },
+            {
+              "SHA": "b8b8a9030",
+              "Subject": "Fix webhook: postgres volume exp ops, memcached auth secret spec (#1548)"
+            },
+            {
+              "SHA": "56ba059d8",
+              "Subject": "Add oracle tls api (#1545)"
+            },
+            {
+              "SHA": "0c8e327b1",
+              "Subject": "Allow Force Failover with data loss | add tuning api (#1542)"
+            },
+            {
+              "SHA": "e34d1088a",
+              "Subject": "Add Weaviate APIs (#1528)"
+            },
+            {
+              "SHA": "8059bb8b7",
+              "Subject": "Add DB2 APIs (#1530)"
+            },
+            {
+              "SHA": "285acd8bd",
+              "Subject": "Add Neo4j API (#1544)"
+            },
+            {
+              "SHA": "7e98c3f00",
+              "Subject": "Update skipper and webhook for config merger (#1535)"
+            },
+            {
+              "SHA": "e3c8ce90f",
+              "Subject": "Add Hanadb (#1527)"
+            },
+            {
+              "SHA": "f56bbc3a4",
+              "Subject": "Fix MySQL reconfigure apply config (#1534)"
+            },
+            {
+              "SHA": "2ed241d26",
+              "Subject": "Add hazelcast binding implementation (#1540)"
+            },
+            {
+              "SHA": "2bbafe54f",
+              "Subject": "Add Qdrant (#1524)"
+            },
+            {
+              "SHA": "4de23d6d3",
+              "Subject": "Update vulnerable deps (#1541)"
+            },
+            {
+              "SHA": "832e8ff48",
+              "Subject": "Move lib pkg from ops-manager (#1532)"
+            },
+            {
+              "SHA": "bf32e8fca",
+              "Subject": "Remove redundant print column `Type` in DB CRs.  (#1531)"
+            },
+            {
+              "SHA": "bbc014087",
+              "Subject": "make gen fmt (#1529)"
+            },
+            {
+              "SHA": "9ae5deaaa",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "7e9e4708",
+              "Subject": "Prepare for release v0.45.0 (#274)"
+            },
+            {
+              "SHA": "aadf7a1b",
+              "Subject": "Update Mongo Reconfig API (#273)"
+            },
+            {
+              "SHA": "37b3c020",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#272)"
+            },
+            {
+              "SHA": "e7f4287d",
+              "Subject": "Use k8s 1.34 client libs (#271)"
+            },
+            {
+              "SHA": "138b469c",
+              "Subject": "Fix makefile indentation (#270)"
+            },
+            {
+              "SHA": "cffebd62",
+              "Subject": "Publish Image for Redhat software certification (#269)"
+            },
+            {
+              "SHA": "7765b291",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#268)"
+            },
+            {
+              "SHA": "9a7f1096",
+              "Subject": "Skip controller activation in certification mode (#267)"
+            },
+            {
+              "SHA": "d8119820",
+              "Subject": "Use golangci-lint 2.x (#266)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "b3cd8596",
+              "Subject": "Prepare for release v0.13.0 (#58)"
+            },
+            {
+              "SHA": "70d0a9d0",
+              "Subject": "Improve and generalize configure-reconfigure process (#57)"
+            },
+            {
+              "SHA": "04f224cf",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#56)"
+            },
+            {
+              "SHA": "8bd54c7a",
+              "Subject": "Use k8s 1.34 client libs (#55)"
+            },
+            {
+              "SHA": "00e147f5",
+              "Subject": "Test against k8s 1.35 (#54)"
+            },
+            {
+              "SHA": "78213d47",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "8f8458f1",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#52)"
+            },
+            {
+              "SHA": "5563cf24",
+              "Subject": "Moved ops code to dev repo (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "52d43201",
+              "Subject": "Prepare for release v0.7.0 (#21)"
+            },
+            {
+              "SHA": "804c9f62",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#19)"
+            },
+            {
+              "SHA": "7dfbd231",
+              "Subject": "Use k8s 1.34 client libs (#18)"
+            },
+            {
+              "SHA": "7db29d99",
+              "Subject": "Fix makefile indentation (#17)"
+            },
+            {
+              "SHA": "0ca8af6d",
+              "Subject": "Publish Image for Redhat software certification (#16)"
+            },
+            {
+              "SHA": "dd6cbb12",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "b2132d1a",
+              "Subject": "update deps (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.60.0",
+          "commits": [
+            {
+              "SHA": "d0b02fca7",
+              "Subject": "Prepare for release v0.60.0 (#810)"
+            },
+            {
+              "SHA": "691493f27",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#809)"
+            },
+            {
+              "SHA": "f3e2ac0aa",
+              "Subject": "Use k8s 1.34 client libs (#808)"
+            },
+            {
+              "SHA": "fe2da3569",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#807)"
+            },
+            {
+              "SHA": "3fc4051ca",
+              "Subject": "Add gitops CLI (#804)"
+            },
+            {
+              "SHA": "8749544bc",
+              "Subject": "Update Lint (#806)"
+            },
+            {
+              "SHA": "41a390a60",
+              "Subject": "Make the debug cli common (#805)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "36b98fc2",
+              "Subject": "Prepare for release v0.15.0 (#80)"
+            },
+            {
+              "SHA": "41fe5c21",
+              "Subject": "Update Configure reconfigure process (#79)"
+            },
+            {
+              "SHA": "9c394a8f",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#78)"
+            },
+            {
+              "SHA": "e482f9ab",
+              "Subject": "Use k8s 1.34 client libs (#77)"
+            },
+            {
+              "SHA": "918b772c",
+              "Subject": "Test against k8s 1.35 (#75)"
+            },
+            {
+              "SHA": "49c77055",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#74)"
+            },
+            {
+              "SHA": "876fb0be",
+              "Subject": "Fix go version (#73)"
+            },
+            {
+              "SHA": "2bcf4461",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#72)"
+            },
+            {
+              "SHA": "d3ebb6df",
+              "Subject": "Move in Ops-manager code to ClickHouse (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "e9b0cd26",
+              "Subject": "Prepare for release v0.15.0 (#107)"
+            },
+            {
+              "SHA": "f16d4769",
+              "Subject": "Add crd for cassandra, hazelcast, oracle (#106)"
+            },
+            {
+              "SHA": "09f8c382",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "02225ed0",
+              "Subject": "Use k8s 1.34 client libs (#104)"
+            },
+            {
+              "SHA": "8565968f",
+              "Subject": "Fix makefile indentation (#103)"
+            },
+            {
+              "SHA": "370e88f2",
+              "Subject": "Publish Image for Redhat software certification (#102)"
+            },
+            {
+              "SHA": "d4dd9b8c",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#101)"
+            },
+            {
+              "SHA": "8347e307",
+              "Subject": "replace go1.25.5 to go1.25 (#100)"
+            },
+            {
+              "SHA": "34895de8",
+              "Subject": "Add neo4j"
+            },
+            {
+              "SHA": "c89068f3",
+              "Subject": "HanaDB (#90)"
+            },
+            {
+              "SHA": "1245ee00",
+              "Subject": "Add milvus crd-manager (#94)"
+            },
+            {
+              "SHA": "da01d86e",
+              "Subject": "Add Weaviate Crds (#97)"
+            },
+            {
+              "SHA": "521fbd57",
+              "Subject": "Add Db2 Crds (#96)"
+            },
+            {
+              "SHA": "1cf9a782",
+              "Subject": "Add Neo4j Crds (#98)"
+            },
+            {
+              "SHA": "80e2bc36",
+              "Subject": "Add Qdrant CRD (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "c6ab8f5",
+              "Subject": "Prepare for release v0.18.0 (#58)"
+            },
+            {
+              "SHA": "9ca336a",
+              "Subject": "Use forked kubestash/restic (#57)"
+            },
+            {
+              "SHA": "4825ed5",
+              "Subject": "Use forked kubestash/restic (#56)"
+            },
+            {
+              "SHA": "334a35e",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#55)"
+            },
+            {
+              "SHA": "51ae5d7",
+              "Subject": "Use k8s 1.34 client libs (#54)"
+            },
+            {
+              "SHA": "901091a",
+              "Subject": "Fix makefile indentation (#53)"
+            },
+            {
+              "SHA": "a5bafae",
+              "Subject": "Publish Image for Redhat software certification (#52)"
+            },
+            {
+              "SHA": "c970a47",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "b42b5f6",
+              "Subject": "change to 1.25 (#50)"
+            },
+            {
+              "SHA": "c1811e1",
+              "Subject": "Update Dependency (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "2ecc2b55",
+              "Subject": "Prepare for release v0.15.0 (#217)"
+            },
+            {
+              "SHA": "9854141c",
+              "Subject": "fix opensearch-v3 health check issues (#216)"
+            },
+            {
+              "SHA": "d08174b5",
+              "Subject": "Add Qdrant TLS Support (#212)"
+            },
+            {
+              "SHA": "3f74e4df",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#215)"
+            },
+            {
+              "SHA": "d7814284",
+              "Subject": "Update vulnerable deps (#214)"
+            },
+            {
+              "SHA": "cf25883f",
+              "Subject": "Use k8s 1.34 client libs (#213)"
+            },
+            {
+              "SHA": "17120b90",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "238d08e2",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#209)"
+            },
+            {
+              "SHA": "3789532d",
+              "Subject": "Fix Go version (#208)"
+            },
+            {
+              "SHA": "eaca6fc1",
+              "Subject": "Add Weaviate Client Go (#202)"
+            },
+            {
+              "SHA": "1826245f",
+              "Subject": "Add hanadb client-go (#201)"
+            },
+            {
+              "SHA": "fbf24826",
+              "Subject": "Add milvus db-client-go (#198)"
+            },
+            {
+              "SHA": "2e876291",
+              "Subject": "Update go.mod file"
+            },
+            {
+              "SHA": "e3d3ecca",
+              "Subject": "Use golangci-lint 2.x (#207)"
+            },
+            {
+              "SHA": "5beb8789",
+              "Subject": "Add Oracle tls support (#205)"
+            },
+            {
+              "SHA": "0daf0012",
+              "Subject": "Add Neo4j Client (#204)"
+            },
+            {
+              "SHA": "8f852044",
+              "Subject": "Add db2 client go (#206)"
+            },
+            {
+              "SHA": "0b613041",
+              "Subject": "Add Qdrant (#197)"
+            },
+            {
+              "SHA": "f77e6314",
+              "Subject": "Add Virtual Secret Pgbouncer Pgpool Redis Valkey (#199)"
+            },
+            {
+              "SHA": "b824c01d",
+              "Subject": "move go_es file to db-client (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "aafe21ff",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "e64f6a2f",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#7)"
+            },
+            {
+              "SHA": "46dfb4fb",
+              "Subject": "Use k8s 1.34 client libs (#5)"
+            },
+            {
+              "SHA": "c61ee118",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#3)"
+            },
+            {
+              "SHA": "e5dd65e7",
+              "Subject": "Implement db2 controller"
+            },
+            {
+              "SHA": "cbe78ad6",
+              "Subject": "Add vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2026.1.19",
+          "commits": [
+            {
+              "SHA": "56552be3",
+              "Subject": "Prepare for release v2026.1.19 (#841)"
+            },
+            {
+              "SHA": "335239a8",
+              "Subject": "Git sync  (#828)"
+            },
+            {
+              "SHA": "427abe2d",
+              "Subject": "Prepare for release v2025.12.31-rc.1 (#837)"
+            },
+            {
+              "SHA": "46aebb97",
+              "Subject": "oracle doc (#816)"
+            },
+            {
+              "SHA": "10d482fe",
+              "Subject": "Install kubectl (#836)"
+            },
+            {
+              "SHA": "e7aea71d",
+              "Subject": "Test against k8s 1.35 (#835)"
+            },
+            {
+              "SHA": "401ac4b7",
+              "Subject": "Runs on firecracker"
+            },
+            {
+              "SHA": "681c122e",
+              "Subject": "elasticsearch ops-request (#827)"
+            },
+            {
+              "SHA": "83d55cdd",
+              "Subject": "Fix Cassandra Docs (#826)"
+            },
+            {
+              "SHA": "d547fc23",
+              "Subject": "error fix kind: secret added (#833)"
+            },
+            {
+              "SHA": "5b9e903e",
+              "Subject": "Prepare for release v2025.12.9-rc.0 (#834)"
+            },
+            {
+              "SHA": "601015e6",
+              "Subject": "Update docs for kubedb/cli@fe2da356 (#832)"
+            },
+            {
+              "SHA": "2466ff44",
+              "Subject": " Restart  ops requests (#822)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "34a18a5a",
+              "Subject": "Prepare for release v0.15.0 (#111)"
+            },
+            {
+              "SHA": "6236221f",
+              "Subject": "Reconfigure redesign (#110)"
+            },
+            {
+              "SHA": "08fa3cc6",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#109)"
+            },
+            {
+              "SHA": "d0d33608",
+              "Subject": "Use k8s 1.34 client libs (#108)"
+            },
+            {
+              "SHA": "d9ada989",
+              "Subject": "Test against k8s 1.35 (#106)"
+            },
+            {
+              "SHA": "d1e1b108",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#105)"
+            },
+            {
+              "SHA": "5632cb2f",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#104)"
+            },
+            {
+              "SHA": "5f237f3c",
+              "Subject": "fixed some mistake (#103)"
+            },
+            {
+              "SHA": "23ad9f70",
+              "Subject": "move ops code to db repo (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.60.0",
+          "commits": [
+            {
+              "SHA": "bf671dfe6",
+              "Subject": "Prepare for release v0.60.0 (#786)"
+            },
+            {
+              "SHA": "3d9d54ad0",
+              "Subject": "Fix Opensearch health check issue for v3.0 (#785)"
+            },
+            {
+              "SHA": "10542dbb0",
+              "Subject": "Improve and generalize configure-reconfigure process (#782)"
+            },
+            {
+              "SHA": "1c7a0371f",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#784)"
+            },
+            {
+              "SHA": "119a44abc",
+              "Subject": "Use k8s 1.34 client libs (#783)"
+            },
+            {
+              "SHA": "d686d92a3",
+              "Subject": "Test against k8s 1.35 (#781)"
+            },
+            {
+              "SHA": "f75c70d09",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#780)"
+            },
+            {
+              "SHA": "da2901102",
+              "Subject": "move go_es file to db-client-go (#779)"
+            },
+            {
+              "SHA": "1de4f8105",
+              "Subject": "move ops code to db repo (#778)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "a025d501",
+              "Subject": "Prepare for release v0.23.0 (#81)"
+            },
+            {
+              "SHA": "63215a12",
+              "Subject": "Use forked kubestash/restic (#80)"
+            },
+            {
+              "SHA": "085362c3",
+              "Subject": "Use forked kubestash/restic (#79)"
+            },
+            {
+              "SHA": "94598fe3",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#78)"
+            },
+            {
+              "SHA": "fb7521bd",
+              "Subject": "Fix makefile indentation (#77)"
+            },
+            {
+              "SHA": "ce5dfcea",
+              "Subject": "Publish Image for Redhat software certification (#76)"
+            },
+            {
+              "SHA": "38775457",
+              "Subject": "Use nodejs:22"
+            },
+            {
+              "SHA": "4f368d25",
+              "Subject": "Fix build rule"
+            },
+            {
+              "SHA": "da511bd8",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#75)"
+            },
+            {
+              "SHA": "f8bc69f1",
+              "Subject": "change to 1.25 (#74)"
+            },
+            {
+              "SHA": "e5a1b21d",
+              "Subject": "update-deps (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "dba7aed1",
+              "Subject": "Prepare for release v0.15.0 (#98)"
+            },
+            {
+              "SHA": "b7b021cb",
+              "Subject": "Update OpsReq Type (#97)"
+            },
+            {
+              "SHA": "5ef0a4a1",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#96)"
+            },
+            {
+              "SHA": "8e07c378",
+              "Subject": "Use k8s 1.34 client libs (#95)"
+            },
+            {
+              "SHA": "8e5d5e72",
+              "Subject": "Test against k8s 1.35 (#94)"
+            },
+            {
+              "SHA": "7b572633",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#93)"
+            },
+            {
+              "SHA": "b05a9345",
+              "Subject": "Fix go version (#92)"
+            },
+            {
+              "SHA": "e5d1ee2d",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#91)"
+            },
+            {
+              "SHA": "719326aa",
+              "Subject": "Move in FerretDb Ops Manager Code (#90)"
+            },
+            {
+              "SHA": "6662b891",
+              "Subject": "Test against k8s 1.34 (#89)"
+            },
+            {
+              "SHA": "3c73ec67",
+              "Subject": "No need to check backend's owner ref"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "5948210d",
+              "Subject": "Prepare for release v0.8.0 (#37)"
+            },
+            {
+              "SHA": "4dae1f47",
+              "Subject": "Update Configuration Changes (#36)"
+            },
+            {
+              "SHA": "bd6e94c4",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#35)"
+            },
+            {
+              "SHA": "2b260a9d",
+              "Subject": "Use k8s 1.34 client libs (#34)"
+            },
+            {
+              "SHA": "119edc0b",
+              "Subject": "Fix makefile indentation (#33)"
+            },
+            {
+              "SHA": "5be586ab",
+              "Subject": "Publish Image for Redhat software certification (#32)"
+            },
+            {
+              "SHA": "2e506be8",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "9de37946",
+              "Subject": "Fix vertical scaling ops creation for storage resouce changes (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "d29c0289",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "ebaf0578",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#8)"
+            },
+            {
+              "SHA": "c80e6397",
+              "Subject": "Use k8s 1.34 client libs (#7)"
+            },
+            {
+              "SHA": "3d484cef",
+              "Subject": "Test against k8s 1.35 (#6)"
+            },
+            {
+              "SHA": "3fc76f7e",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#5)"
+            },
+            {
+              "SHA": "67f88948",
+              "Subject": "Modify go.mod (#4)"
+            },
+            {
+              "SHA": "c440319c",
+              "Subject": "Modify Go version (#3)"
+            },
+            {
+              "SHA": "aa961389",
+              "Subject": "Test against k8s 1.34 (#2)"
+            },
+            {
+              "SHA": "a5a5049f",
+              "Subject": "Add HanaDB provisioner (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "03cc9a0b",
+              "Subject": "Prepare for release v0.6.0 (#24)"
+            },
+            {
+              "SHA": "9dc7cbac",
+              "Subject": " Improve and generalize configure-reconfigure process (#23)"
+            },
+            {
+              "SHA": "0257c68a",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#22)"
+            },
+            {
+              "SHA": "62dca5f2",
+              "Subject": "Use k8s 1.34 client libs (#21)"
+            },
+            {
+              "SHA": "d08bf4d9",
+              "Subject": "Test against k8s 1.35 (#19)"
+            },
+            {
+              "SHA": "37277ce1",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#18)"
+            },
+            {
+              "SHA": "dbfe579c",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#17)"
+            },
+            {
+              "SHA": "da33d710",
+              "Subject": "move ops code to db repo (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "f648ea48",
+              "Subject": "Prepare for release v0.7.0 (#33)"
+            },
+            {
+              "SHA": "50699ff3",
+              "Subject": "Re-design Configuration process (#32)"
+            },
+            {
+              "SHA": "b9b125a9",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#31)"
+            },
+            {
+              "SHA": "70ba3420",
+              "Subject": "Use k8s 1.34 client libs (#30)"
+            },
+            {
+              "SHA": "e361b1c0",
+              "Subject": "Test against k8s 1.35 (#28)"
+            },
+            {
+              "SHA": "35277e58",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#27)"
+            },
+            {
+              "SHA": "c642d15e",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#26)"
+            },
+            {
+              "SHA": "371c83df",
+              "Subject": "Move ops to db repo (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.1.19",
+          "commits": [
+            {
+              "SHA": "bbc70979c",
+              "Subject": "Prepare for release v2026.1.19 (#2044)"
+            },
+            {
+              "SHA": "6226d53a4",
+              "Subject": "Use qdrant non-root images (#2046)"
+            },
+            {
+              "SHA": "083d43d20",
+              "Subject": "Update cve report (#2045)"
+            },
+            {
+              "SHA": "384062d93",
+              "Subject": "Upgrade MySQL Exporter to v0.18.0 (#2043)"
+            },
+            {
+              "SHA": "be4f5d08c",
+              "Subject": "Update cve report (#2042)"
+            },
+            {
+              "SHA": "65ad98728",
+              "Subject": "Add EndOfLife for Kafka (#2036)"
+            },
+            {
+              "SHA": "754426543",
+              "Subject": "Update cve report 2026-01-17 (#2041)"
+            },
+            {
+              "SHA": "bd3bb8835",
+              "Subject": "Add MySQL Version 9.4.0, EOL (#2040)"
+            },
+            {
+              "SHA": "735d217f4",
+              "Subject": "Add MariaDB Version 11.8.5, 12.1.2, Upgrade Exporter, EOL (#2037)"
+            },
+            {
+              "SHA": "c0000d389",
+              "Subject": "update eol for single store (#2039)"
+            },
+            {
+              "SHA": "5202e9386",
+              "Subject": "upgrade percona exporter image, add eol for pxc 5.7 (#2038)"
+            },
+            {
+              "SHA": "9bd353b11",
+              "Subject": "Update crds for kubedb/apimachinery@ef9045d6 (#2035)"
+            },
+            {
+              "SHA": "87ee2bf3f",
+              "Subject": "MongoDB: new-versions, endOfLife ,deprecate, update-exporter (#2031)"
+            },
+            {
+              "SHA": "e81da6e30",
+              "Subject": "Elasticsearch: new-versions, endOfLife,deprecate,update-exporter (#2033)"
+            },
+            {
+              "SHA": "4b65b9058",
+              "Subject": "add qdrant-v1.16.2 (#1973)"
+            },
+            {
+              "SHA": "140942d11",
+              "Subject": "Add ClickHouse Version 25.12.3 (#2029)"
+            },
+            {
+              "SHA": "54225dd20",
+              "Subject": "Update endOfLife for Postgres (#2032)"
+            },
+            {
+              "SHA": "83ab7cfe6",
+              "Subject": "Support feature gates in metrics & dashboards chart (#2030)"
+            },
+            {
+              "SHA": "786aa061c",
+              "Subject": "Update cve report (#2034)"
+            },
+            {
+              "SHA": "3f02974e0",
+              "Subject": "Update kubestash crds (#2027)"
+            },
+            {
+              "SHA": "f28f21666",
+              "Subject": "Update crds for kubedb/apimachinery@eae49b09 (#2026)"
+            },
+            {
+              "SHA": "f8078b9b1",
+              "Subject": "Add new mssql versions (#1987)"
+            },
+            {
+              "SHA": "794f4b659",
+              "Subject": "Update cve report (#2025)"
+            },
+            {
+              "SHA": "ca3eea101",
+              "Subject": "Update crds for kubedb/apimachinery@3f91ae3f (#2024)"
+            },
+            {
+              "SHA": "b8e105fe3",
+              "Subject": "Use strict semver version in certified charts (#2023)"
+            },
+            {
+              "SHA": "974a38d45",
+              "Subject": "Update postgres exporter image (#2022)"
+            },
+            {
+              "SHA": "86d7c2b22",
+              "Subject": "Update cve report (#2021)"
+            },
+            {
+              "SHA": "4f99feeba",
+              "Subject": "Use kubectl 1.34 (#2020)"
+            },
+            {
+              "SHA": "54fca073b",
+              "Subject": "Update cve report (#2019)"
+            },
+            {
+              "SHA": "39ae00ee4",
+              "Subject": "Update cve report (#2018)"
+            },
+            {
+              "SHA": "36d801fe5",
+              "Subject": "Update cve report (#2017)"
+            },
+            {
+              "SHA": "39a29b5e9",
+              "Subject": "Update cve report (#2016)"
+            },
+            {
+              "SHA": "c0b91af93",
+              "Subject": "Update cve report (#2015)"
+            },
+            {
+              "SHA": "f04a87d05",
+              "Subject": "Update cve report (#2014)"
+            },
+            {
+              "SHA": "ac6ece92a",
+              "Subject": "Add missing stash field (#2013)"
+            },
+            {
+              "SHA": "c1f67a77b",
+              "Subject": "Update cve report (#2012)"
+            },
+            {
+              "SHA": "3af92b071",
+              "Subject": "Improve kubestash chart test logging (#2011)"
+            },
+            {
+              "SHA": "a16745e68",
+              "Subject": "Update cve report (#2010)"
+            },
+            {
+              "SHA": "d659e162b",
+              "Subject": "Add available version list to mariadb backup/restore func (#2009)"
+            },
+            {
+              "SHA": "916826d9e",
+              "Subject": "Update crds for kubedb/apimachinery@0a4e17cd (#2008)"
+            },
+            {
+              "SHA": "db567b044",
+              "Subject": "Add shard config get list watch perms for ops manager (#2007)"
+            },
+            {
+              "SHA": "89f37a959",
+              "Subject": "Update cve report (#2006)"
+            },
+            {
+              "SHA": "c3c182ef1",
+              "Subject": "Update cve report (#2005)"
+            },
+            {
+              "SHA": "ed15f108e",
+              "Subject": "Fix distro.ubi mode in kubestash catalog chart (#2004)"
+            },
+            {
+              "SHA": "5a945fa1a",
+              "Subject": "Update subcharts with v2026.1.15 release (#2003)"
+            },
+            {
+              "SHA": "4e4be4e05",
+              "Subject": "Update cve report (#2002)"
+            },
+            {
+              "SHA": "c510ea5f5",
+              "Subject": "Update cve report (#2000)"
+            },
+            {
+              "SHA": "257733940",
+              "Subject": "Prepare for release v2025.12.31-rc.1 (#1999)"
+            },
+            {
+              "SHA": "4f465123f",
+              "Subject": "Update cve report (#1998)"
+            },
+            {
+              "SHA": "b0c02f295",
+              "Subject": "Use mssql-export 1.2.0 (#1997)"
+            },
+            {
+              "SHA": "353be561b",
+              "Subject": "Update cve report (#1996)"
+            },
+            {
+              "SHA": "53a120a76",
+              "Subject": "Update cve report (#1995)"
+            },
+            {
+              "SHA": "0e4ee1c0d",
+              "Subject": "Update cve report (#1994)"
+            },
+            {
+              "SHA": "5862e1f16",
+              "Subject": "Use k8s 1.34 client libs (#1993)"
+            },
+            {
+              "SHA": "c16de4aeb",
+              "Subject": "Update crds for kubedb/apimachinery@3fb97b25 (#1992)"
+            },
+            {
+              "SHA": "54ab719ca",
+              "Subject": "Update cve report (#1991)"
+            },
+            {
+              "SHA": "f904c5e1c",
+              "Subject": "Update cve report (#1990)"
+            },
+            {
+              "SHA": "dbebecc72",
+              "Subject": "Update cve report (#1989)"
+            },
+            {
+              "SHA": "70ebf5546",
+              "Subject": "Update cve report (#1988)"
+            },
+            {
+              "SHA": "c88ec9382",
+              "Subject": "Update certified chart readme"
+            },
+            {
+              "SHA": "ba6045a67",
+              "Subject": "Generate certified and certified-crds charts (#1984)"
+            },
+            {
+              "SHA": "ea30f2d95",
+              "Subject": "Add WEBHOOK_SERVICE_NAME env (#1986)"
+            },
+            {
+              "SHA": "97ce9c80a",
+              "Subject": "Update cve report (#1985)"
+            },
+            {
+              "SHA": "46641ca8a",
+              "Subject": "Support ubi mode in kubedb-kubestash-catalog (#1983)"
+            },
+            {
+              "SHA": "f6a33fc7b",
+              "Subject": "Add test to kubedb chart (#1982)"
+            },
+            {
+              "SHA": "3d6827620",
+              "Subject": "Update cve report (#1981)"
+            },
+            {
+              "SHA": "9ca5910e0",
+              "Subject": "Update cve report (#1980)"
+            },
+            {
+              "SHA": "6c307ad8f",
+              "Subject": "Test against k8s 1.35 (#1978)"
+            },
+            {
+              "SHA": "f880b8bfe",
+              "Subject": "Update cve report (#1979)"
+            },
+            {
+              "SHA": "d86eb163e",
+              "Subject": "Fix operator.ubi and catalog.ubi templates (#1977)"
+            },
+            {
+              "SHA": "1bb2811e7",
+              "Subject": "Update cve report (#1976)"
+            },
+            {
+              "SHA": "cdb71959b",
+              "Subject": "Update cve report (#1975)"
+            },
+            {
+              "SHA": "031d08f55",
+              "Subject": "Update catalog chart helper"
+            },
+            {
+              "SHA": "7cea49277",
+              "Subject": "Update cve report (#1974)"
+            },
+            {
+              "SHA": "b756425b3",
+              "Subject": "Use shared DistroSpec"
+            },
+            {
+              "SHA": "b48a74dab",
+              "Subject": "Update cve report (#1972)"
+            },
+            {
+              "SHA": "52d4b98a4",
+              "Subject": "Update cve report (#1971)"
+            },
+            {
+              "SHA": "21e38aa74",
+              "Subject": "Add perses dashboards (#1921)"
+            },
+            {
+              "SHA": "99b384208",
+              "Subject": "Fix catalog chart schema"
+            },
+            {
+              "SHA": "304f5a62c",
+              "Subject": "Add endOfLife field to kubedb catalog version object (#1967)"
+            },
+            {
+              "SHA": "78e81bf83",
+              "Subject": "Update cve report (#1970)"
+            },
+            {
+              "SHA": "e7275a8f2",
+              "Subject": "FIx MariaDB Restic Plugin Version (#1968)"
+            },
+            {
+              "SHA": "679a5feca",
+              "Subject": "Prepare for release v2025.12.9-rc.0 (#1963)"
+            },
+            {
+              "SHA": "66929a1b5",
+              "Subject": "Update es init tags: update feature-gates list (#1962)"
+            },
+            {
+              "SHA": "7abea93d0",
+              "Subject": "Review the webhookconfiguration files (#1959)"
+            },
+            {
+              "SHA": "b423856b0",
+              "Subject": "Prepare chart for redhat certification (#1955)"
+            },
+            {
+              "SHA": "1ad0e6414",
+              "Subject": "Add Neo4jVersion (#1932)"
+            },
+            {
+              "SHA": "b8a31dab5",
+              "Subject": "Update postgres init image tag (#1958)"
+            },
+            {
+              "SHA": "16fd66b26",
+              "Subject": "Add oracle tls (#1956)"
+            },
+            {
+              "SHA": "d824a4d55",
+              "Subject": "HanaDB (#1881)"
+            },
+            {
+              "SHA": "3f1499618",
+              "Subject": "Add Qdrant (#1890)"
+            },
+            {
+              "SHA": "f7d128e7d",
+              "Subject": "Add milvus installer (#1900)"
+            },
+            {
+              "SHA": "1123c1892",
+              "Subject": "Add Db2 Version (#1904)"
+            },
+            {
+              "SHA": "29dcbe33f",
+              "Subject": "Update cve report 2025-12-07 (#1954)"
+            },
+            {
+              "SHA": "793d82b5a",
+              "Subject": "Add mariadb physical backup image (#1939)"
+            },
+            {
+              "SHA": "817c44ca6",
+              "Subject": "Add Weaviate Catalogs (#1911)"
+            },
+            {
+              "SHA": "0365dbdda",
+              "Subject": "Update Go version and Redis Init image Tag update (#1957)"
+            },
+            {
+              "SHA": "bf9df2edc",
+              "Subject": "Add ubi mode (#1927)"
+            },
+            {
+              "SHA": "01c32e1e9",
+              "Subject": "Update cve report (#1952)"
+            },
+            {
+              "SHA": "6c6a3b84e",
+              "Subject": "Use golangci-lint 2.x (#1953)"
+            },
+            {
+              "SHA": "4a195ef33",
+              "Subject": "Update crds for kubedb/apimachinery@9131dc31 (#1950)"
+            },
+            {
+              "SHA": "61aa39a6a",
+              "Subject": "Update crds for kubedb/apimachinery@e1143b59 (#1948)"
+            },
+            {
+              "SHA": "595658685",
+              "Subject": "Update crds for kubedb/apimachinery@0c8e327b (#1945)"
+            },
+            {
+              "SHA": "25ca5d6f4",
+              "Subject": "Update crds for kubedb/apimachinery@e34d1088 (#1944)"
+            },
+            {
+              "SHA": "18e7b523c",
+              "Subject": "Update cve report (#1943)"
+            },
+            {
+              "SHA": "2c113fc77",
+              "Subject": "Update crds for kubedb/apimachinery@7e98c3f0 (#1941)"
+            },
+            {
+              "SHA": "bbdb57ead",
+              "Subject": "Update cve report (#1938)"
+            },
+            {
+              "SHA": "455f07880",
+              "Subject": "Update cve report (#1937)"
+            },
+            {
+              "SHA": "7923b3fa3",
+              "Subject": "Update cve report (#1936)"
+            },
+            {
+              "SHA": "4c96365b8",
+              "Subject": "Update cve report (#1935)"
+            },
+            {
+              "SHA": "ea790c887",
+              "Subject": "Update cve report (#1934)"
+            },
+            {
+              "SHA": "fcb1ea183",
+              "Subject": "Update cve report (#1933)"
+            },
+            {
+              "SHA": "0c5c749ac",
+              "Subject": "Update cve report (#1931)"
+            },
+            {
+              "SHA": "1ac660181",
+              "Subject": "Update cve report (#1930)"
+            },
+            {
+              "SHA": "ffed437e2",
+              "Subject": "Update cve report (#1929)"
+            },
+            {
+              "SHA": "0c4e8c219",
+              "Subject": "Update cve report (#1928)"
+            },
+            {
+              "SHA": "991a47022",
+              "Subject": "Update crds for kubedb/apimachinery@2bbafe54 (#1924)"
+            },
+            {
+              "SHA": "83567b9be",
+              "Subject": "Update cve report (#1923)"
+            },
+            {
+              "SHA": "314786ea7",
+              "Subject": "Update cve report (#1920)"
+            },
+            {
+              "SHA": "2c8b0c113",
+              "Subject": "Update vulnerable deps (#1922)"
+            },
+            {
+              "SHA": "7cda2f686",
+              "Subject": "Update cve report (#1918)"
+            },
+            {
+              "SHA": "0b99a9aeb",
+              "Subject": "Update cve report (#1917)"
+            },
+            {
+              "SHA": "382818e48",
+              "Subject": "Update cve report (#1916)"
+            },
+            {
+              "SHA": "6fc3cd4f3",
+              "Subject": "Update cve report (#1915)"
+            },
+            {
+              "SHA": "4d3da89e1",
+              "Subject": "Update cve report (#1914)"
+            },
+            {
+              "SHA": "395bed209",
+              "Subject": "Update cve report (#1913)"
+            },
+            {
+              "SHA": "3552b77ab",
+              "Subject": "Update cve report (#1912)"
+            },
+            {
+              "SHA": "e7d87c6de",
+              "Subject": "Update cve report (#1910)"
+            },
+            {
+              "SHA": "650ad03e1",
+              "Subject": "Update cve report (#1909)"
+            },
+            {
+              "SHA": "4c38a0436",
+              "Subject": "Update cve report (#1908)"
+            },
+            {
+              "SHA": "001a720f7",
+              "Subject": "Update cve report (#1907)"
+            },
+            {
+              "SHA": "f95d048a8",
+              "Subject": "Update cve report (#1906)"
+            },
+            {
+              "SHA": "e0c9772e9",
+              "Subject": "Update cve report (#1905)"
+            },
+            {
+              "SHA": "da4902985",
+              "Subject": "Update cve report (#1903)"
+            },
+            {
+              "SHA": "17a308045",
+              "Subject": "Update cve report (#1902)"
+            },
+            {
+              "SHA": "003822e25",
+              "Subject": "Update gitops operator container name (#1901)"
+            },
+            {
+              "SHA": "d1e28390f",
+              "Subject": "Update cve report (#1899)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "3ccdb0fd",
+              "Subject": "Prepare for release v0.31.0 (#173)"
+            },
+            {
+              "SHA": "8806da50",
+              "Subject": "Update Reconfigure/Configure (#172)"
+            },
+            {
+              "SHA": "50dda47a",
+              "Subject": "Prepare for release v0.31.0-rc.1 (#171)"
+            },
+            {
+              "SHA": "6794c280",
+              "Subject": "Use k8s 1.34 client libs (#170)"
+            },
+            {
+              "SHA": "46f4f915",
+              "Subject": "Test against k8s 1.35 (#168)"
+            },
+            {
+              "SHA": "1003c37f",
+              "Subject": "Prepare for release v0.31.0-rc.0 (#167)"
+            },
+            {
+              "SHA": "e270d3e6",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#166)"
+            },
+            {
+              "SHA": "3f7bf918",
+              "Subject": "Move ops-manager code to base repo (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "c454080c",
+              "Subject": "Prepare for release v0.36.0 (#167)"
+            },
+            {
+              "SHA": "5a5a15d1",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#166)"
+            },
+            {
+              "SHA": "0d968837",
+              "Subject": "Use k8s 1.34 client libs (#165)"
+            },
+            {
+              "SHA": "ebd87bba",
+              "Subject": "Fix makefile indentation (#164)"
+            },
+            {
+              "SHA": "64a99c80",
+              "Subject": "Publish Image for Redhat software certification (#163)"
+            },
+            {
+              "SHA": "f3dea03e",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "85873246",
+              "Subject": "Build ubi image (#162)"
+            },
+            {
+              "SHA": "c8e38f13",
+              "Subject": "Use golangci-lint 2.x"
+            },
+            {
+              "SHA": "92ca7ab3",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#161)"
+            },
+            {
+              "SHA": "529d7301",
+              "Subject": "update deps (#160)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "39aabbc2",
+              "Subject": "Prepare for release v0.23.0 (#113)"
+            },
+            {
+              "SHA": "6ab7dfbc",
+              "Subject": "Use forked kubestash/restic (#112)"
+            },
+            {
+              "SHA": "839e93d7",
+              "Subject": "Use forked kubestash/restic (#111)"
+            },
+            {
+              "SHA": "4b8b2ed0",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#110)"
+            },
+            {
+              "SHA": "f062b2b2",
+              "Subject": "Use k8s 1.34 client libs (#109)"
+            },
+            {
+              "SHA": "23a4536c",
+              "Subject": "Fix makefile indentation (#108)"
+            },
+            {
+              "SHA": "0b1e9561",
+              "Subject": "Publish Image for Redhat software certification (#107)"
+            },
+            {
+              "SHA": "1a10c291",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "75d723c8",
+              "Subject": "update-dep (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "fc8b0048",
+              "Subject": "Prepare for release v0.11.0 (#36)"
+            },
+            {
+              "SHA": "04634147",
+              "Subject": "Prepare for release v0.11.0-rc.1 (#34)"
+            },
+            {
+              "SHA": "b99b0af5",
+              "Subject": "Update vulnerable deps (#33)"
+            },
+            {
+              "SHA": "0ed52eed",
+              "Subject": "Use k8s 1.34 client libs (#32)"
+            },
+            {
+              "SHA": "acdfea3d",
+              "Subject": "Fix makefile indentation (#31)"
+            },
+            {
+              "SHA": "562ab0a9",
+              "Subject": "Publish Image for Redhat software certification (#29)"
+            },
+            {
+              "SHA": "616c0b5d",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#28)"
+            },
+            {
+              "SHA": "78b37027",
+              "Subject": "Use golangci-lint 2.x (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "b5e215a53",
+              "Subject": "Prepare for release v0.44.0 (#366)"
+            },
+            {
+              "SHA": "2b103c386",
+              "Subject": "Use Exporter Version v0.18.0 (#365)"
+            },
+            {
+              "SHA": "0cfc49986",
+              "Subject": "Improve and generalize configure-reconfigure (#363)"
+            },
+            {
+              "SHA": "5573297fb",
+              "Subject": "Prepare for release v0.44.0-rc.1 (#364)"
+            },
+            {
+              "SHA": "681968b1c",
+              "Subject": "Use k8s 1.34 client libs (#362)"
+            },
+            {
+              "SHA": "f33961085",
+              "Subject": "Test against k8s 1.35 (#361)"
+            },
+            {
+              "SHA": "ea4d4a69a",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#358)"
+            },
+            {
+              "SHA": "d9257a6ea",
+              "Subject": "Change Makefile GO Version (#357)"
+            },
+            {
+              "SHA": "4f419cbec",
+              "Subject": "Add golangci (#356)"
+            },
+            {
+              "SHA": "96a12452c",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#355)"
+            },
+            {
+              "SHA": "c1fccdd74",
+              "Subject": "Fi Archiver Version Compatibility (#354)"
+            },
+            {
+              "SHA": "b95f58e69",
+              "Subject": "move ops code to db repo (#353)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "40710dc0",
+              "Subject": "Prepare for release v0.20.0 (#72)"
+            },
+            {
+              "SHA": "ce027593",
+              "Subject": "Fix redhat catalog submission (#70)"
+            },
+            {
+              "SHA": "e9eaec6e",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#69)"
+            },
+            {
+              "SHA": "72598a18",
+              "Subject": "Use k8s 1.34 client libs (#68)"
+            },
+            {
+              "SHA": "4704b4ad",
+              "Subject": "Fix makefile indentation (#67)"
+            },
+            {
+              "SHA": "1e935bfa",
+              "Subject": "Publish Image for Redhat software certification (#66)"
+            },
+            {
+              "SHA": "046fee71",
+              "Subject": "Fix build rule"
+            },
+            {
+              "SHA": "5a4450ec",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#64)"
+            },
+            {
+              "SHA": "51b288e1",
+              "Subject": "Change Makefile GO Version (#63)"
+            },
+            {
+              "SHA": "12dd22cc",
+              "Subject": "Add golangci (#62)"
+            },
+            {
+              "SHA": "4364d82b",
+              "Subject": "Build and push ubi image (#61)"
+            },
+            {
+              "SHA": "cd57feb0",
+              "Subject": "Fix none mode slave not running issue (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "08b426e5",
+              "Subject": "Prepare for release v0.40.0 (#161)"
+            },
+            {
+              "SHA": "9b802d89",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#160)"
+            },
+            {
+              "SHA": "f69441b7",
+              "Subject": "Use k8s 1.34 client libs (#159)"
+            },
+            {
+              "SHA": "5046d4ba",
+              "Subject": "Fix makefile indentation (#158)"
+            },
+            {
+              "SHA": "4b8af065",
+              "Subject": "Publish Image for Redhat software certification (#157)"
+            },
+            {
+              "SHA": "e007307f",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#156)"
+            },
+            {
+              "SHA": "67015617",
+              "Subject": "Simplify code"
+            },
+            {
+              "SHA": "8a015658",
+              "Subject": "format grpc package"
+            },
+            {
+              "SHA": "810d7607",
+              "Subject": "Build ubi image (#155)"
+            },
+            {
+              "SHA": "0b95dc57",
+              "Subject": "Use golangci-lint 2.x (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "26607e35",
+              "Subject": "Prepare for release v0.20.0 (#65)"
+            },
+            {
+              "SHA": "59c939d3",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#63)"
+            },
+            {
+              "SHA": "9eab57a2",
+              "Subject": "Use k8s 1.34 client libs (#62)"
+            },
+            {
+              "SHA": "762e091e",
+              "Subject": "Fix makefile indentation (#61)"
+            },
+            {
+              "SHA": "bfc6a10d",
+              "Subject": "Publish Image for Redhat software certification (#60)"
+            },
+            {
+              "SHA": "615724cf",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "f44d64b1",
+              "Subject": "Change Makefile GO Version (#58)"
+            },
+            {
+              "SHA": "38df4729",
+              "Subject": "Add golangci (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "d9c49db82",
+              "Subject": "Prepare for release v0.53.0 (#519)"
+            },
+            {
+              "SHA": "25b0aa419",
+              "Subject": "Update memcached reconfigure (#518)"
+            },
+            {
+              "SHA": "a03adaf45",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#517)"
+            },
+            {
+              "SHA": "eadd34c62",
+              "Subject": "Use k8s 1.34 client libs (#516)"
+            },
+            {
+              "SHA": "3bad84baa",
+              "Subject": "Test against k8s 1.35 (#515)"
+            },
+            {
+              "SHA": "dc1dc137f",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#514)"
+            },
+            {
+              "SHA": "aa8446d99",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#513)"
+            },
+            {
+              "SHA": "1e26cc416",
+              "Subject": "Move ops to db repo (#512)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "6a714e39",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "e5782e5c",
+              "Subject": "Update Configuration process (#10)"
+            },
+            {
+              "SHA": "7dee1617",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "13b241f4",
+              "Subject": "Use k8s 1.34 client libs (#8)"
+            },
+            {
+              "SHA": "c43dc470",
+              "Subject": "Test against k8s 1.35 (#7)"
+            },
+            {
+              "SHA": "f2c9cbe4",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "348ba5dc",
+              "Subject": "Downgrade k8s version (#5)"
+            },
+            {
+              "SHA": "d7c414da",
+              "Subject": "goversion modified (#3)"
+            },
+            {
+              "SHA": "12dad438",
+              "Subject": "Test against k8s 1.34 (#2)"
+            },
+            {
+              "SHA": "c595065b",
+              "Subject": "Add milvus provisioner (standalone) (#1)"
+            },
+            {
+              "SHA": "c31441d5",
+              "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "4a9999a24",
+              "Subject": "Prepare for release v0.53.0 (#729)"
+            },
+            {
+              "SHA": "06a6f687d",
+              "Subject": "Re-design Configure reconfigure process (#726)"
+            },
+            {
+              "SHA": "87a591118",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#728)"
+            },
+            {
+              "SHA": "96ec99618",
+              "Subject": "Use k8s 1.34 client libs (#727)"
+            },
+            {
+              "SHA": "a38f87851",
+              "Subject": "Test against k8s 1.35 (#725)"
+            },
+            {
+              "SHA": "f73a7159f",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#724)"
+            },
+            {
+              "SHA": "4a27317f1",
+              "Subject": "Update golang version"
+            },
+            {
+              "SHA": "3b46da516",
+              "Subject": "Fix linter (#723)"
+            },
+            {
+              "SHA": "75045740a",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#722)"
+            },
+            {
+              "SHA": "d42b514f8",
+              "Subject": "Move ops code to db repo (#721)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "e6fd5d5f",
+              "Subject": "Prepare for release v0.21.0 (#68)"
+            },
+            {
+              "SHA": "6d6f78bf",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#66)"
+            },
+            {
+              "SHA": "d9a7e2c2",
+              "Subject": "Use k8s 1.34 client libs (#65)"
+            },
+            {
+              "SHA": "7f6dc710",
+              "Subject": "Fix makefile indentation (#64)"
+            },
+            {
+              "SHA": "bbf8bfc9",
+              "Subject": "Publish Image for Redhat software certification (#63)"
+            },
+            {
+              "SHA": "75b334b9",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#62)"
+            },
+            {
+              "SHA": "2e658828",
+              "Subject": "Fix linter (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "9ebb8b53",
+              "Subject": "Prepare for release v0.23.0 (#102)"
+            },
+            {
+              "SHA": "34d434d2",
+              "Subject": "Use forked kubestash/restic (#100)"
+            },
+            {
+              "SHA": "eba27b4e",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#99)"
+            },
+            {
+              "SHA": "7b9d416a",
+              "Subject": "Use k8s 1.34 client libs (#98)"
+            },
+            {
+              "SHA": "ae919478",
+              "Subject": "Fix makefile indentation (#97)"
+            },
+            {
+              "SHA": "e6cd9a26",
+              "Subject": "Publish Image for Redhat software certification (#96)"
+            },
+            {
+              "SHA": "ecc63fec",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#95)"
+            },
+            {
+              "SHA": "821c386c",
+              "Subject": "Fix makefile for ubi images (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "cbb8df3b",
+              "Subject": "Prepare for release v0.15.0 (#53)"
+            },
+            {
+              "SHA": "a9d3248b",
+              "Subject": "Correctly check if sqlservr process is running for new versions (#52)"
+            },
+            {
+              "SHA": "2b55ad11",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#51)"
+            },
+            {
+              "SHA": "29767f76",
+              "Subject": "Use k8s 1.34 client libs (#50)"
+            },
+            {
+              "SHA": "b3136eda",
+              "Subject": "fix makefile (#49)"
+            },
+            {
+              "SHA": "22da7333",
+              "Subject": "Publish Image for Redhat software certification (#48)"
+            },
+            {
+              "SHA": "e859024e",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "1b3d5a4d",
+              "Subject": "Fix container build command"
+            },
+            {
+              "SHA": "a3e461c3",
+              "Subject": "Build ubi image (#46)"
+            },
+            {
+              "SHA": "9268580a",
+              "Subject": "Use golangci-lint 2.x (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "6567d1a5",
+              "Subject": "Prepare for release v0.15.0 (#103)"
+            },
+            {
+              "SHA": "2f64f6a0",
+              "Subject": "Improve and generalize configure-reconfigure process (#100)"
+            },
+            {
+              "SHA": "605da415",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#102)"
+            },
+            {
+              "SHA": "566491fe",
+              "Subject": "Use k8s 1.34 client libs (#101)"
+            },
+            {
+              "SHA": "5125d044",
+              "Subject": "Test against k8s 1.35 (#99)"
+            },
+            {
+              "SHA": "ac4cbed6",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#98)"
+            },
+            {
+              "SHA": "0c591eba",
+              "Subject": "Add ReconfigureOps merger (#96)"
+            },
+            {
+              "SHA": "e3ad8e20",
+              "Subject": "Improve codebase by refactoring (#93)"
+            },
+            {
+              "SHA": "01ab5c30",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#97)"
+            },
+            {
+              "SHA": "2f9976d3",
+              "Subject": "Fix archiver issue for TLS secure Minio (#94)"
+            },
+            {
+              "SHA": "b02aeeb3",
+              "Subject": "Move ops to DB repo (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "720ce9b",
+              "Subject": "Update release wf (#21)"
+            },
+            {
+              "SHA": "0377147",
+              "Subject": "Use k8s 1.34 client libs (#20)"
+            },
+            {
+              "SHA": "1c173bf",
+              "Subject": "Fix makefile indentation (#19)"
+            },
+            {
+              "SHA": "5c69310",
+              "Subject": "Merge pull request #16 from kubedb/rhm"
+            },
+            {
+              "SHA": "c65e2ae",
+              "Subject": "Use golangci-lint 2.x (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "91b8945",
+              "Subject": "Prepare for release v0.14.0 (#43)"
+            },
+            {
+              "SHA": "07f0670",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#41)"
+            },
+            {
+              "SHA": "231ae1c",
+              "Subject": "Use k8s 1.34 client libs (#40)"
+            },
+            {
+              "SHA": "343568c",
+              "Subject": "Fix makefile indentation (#39)"
+            },
+            {
+              "SHA": "bc447f8",
+              "Subject": "Publish Image for Redhat software certification (#38)"
+            },
+            {
+              "SHA": "93cd25f",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "677dc46",
+              "Subject": "Use golangci-lint 2.x (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "55900db8b",
+              "Subject": "Prepare for release v0.53.0 (#714)"
+            },
+            {
+              "SHA": "0a9fd37d4",
+              "Subject": "Add Reconfig PodRestart based on User Requirement (#713)"
+            },
+            {
+              "SHA": "b74becf00",
+              "Subject": "Improve and generalize configure-reconfigure (#711)"
+            },
+            {
+              "SHA": "f87bcd7fd",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#712)"
+            },
+            {
+              "SHA": "f8490909b",
+              "Subject": "Use k8s 1.34 client libs (#710)"
+            },
+            {
+              "SHA": "95a710638",
+              "Subject": "Test against k8s 1.35 (#709)"
+            },
+            {
+              "SHA": "5cf311be2",
+              "Subject": "Fix Archiver Panic for Azure backend (#708)"
+            },
+            {
+              "SHA": "613bbbe19",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#707)"
+            },
+            {
+              "SHA": "6f1a6f0ea",
+              "Subject": "Change Makefile GO Version (#706)"
+            },
+            {
+              "SHA": "1f037c8e4",
+              "Subject": "Use golangci-lint 2.x (#705)"
+            },
+            {
+              "SHA": "6b649dec9",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#704)"
+            },
+            {
+              "SHA": "57998a04b",
+              "Subject": "move ops code to db repo (#703)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "6b3becf0",
+              "Subject": "Prepare for release v0.21.0 (#77)"
+            },
+            {
+              "SHA": "9a8fa9f6",
+              "Subject": "Submit to red hat catalog (#74)"
+            },
+            {
+              "SHA": "3be30caf",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#73)"
+            },
+            {
+              "SHA": "3d14d6df",
+              "Subject": "Use k8s 1.34 client libs (#72)"
+            },
+            {
+              "SHA": "27ff79e7",
+              "Subject": "Fix build rule"
+            },
+            {
+              "SHA": "da732228",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#71)"
+            },
+            {
+              "SHA": "e3a552e8",
+              "Subject": "Change Makefile GO Version (#70)"
+            },
+            {
+              "SHA": "ad8911b6",
+              "Subject": "Add golangci (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "64575b6f",
+              "Subject": "Prepare for release v0.38.0 (#160)"
+            },
+            {
+              "SHA": "22cf05ff",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#159)"
+            },
+            {
+              "SHA": "13232ee9",
+              "Subject": "Use k8s 1.34 client libs (#157)"
+            },
+            {
+              "SHA": "1f1196f7",
+              "Subject": "Fix makefile indentation (#156)"
+            },
+            {
+              "SHA": "e354dcea",
+              "Subject": "Publish Image for Redhat software certification (#155)"
+            },
+            {
+              "SHA": "4f0b448e",
+              "Subject": "Prepare for release v0.38.0-rc.0 (#154)"
+            },
+            {
+              "SHA": "78c11d72",
+              "Subject": "Build ubi image (#153)"
+            },
+            {
+              "SHA": "c4ae8e49",
+              "Subject": "Use golangci-lint 2.x (#152)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "be4af0c4",
+              "Subject": "Prepare for release v0.21.0 (#65)"
+            },
+            {
+              "SHA": "aacc62c7",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#63)"
+            },
+            {
+              "SHA": "50746a8e",
+              "Subject": "Use k8s 1.34 client libs (#62)"
+            },
+            {
+              "SHA": "a4ef9a0b",
+              "Subject": "Fix makefile indentation (#61)"
+            },
+            {
+              "SHA": "6b1059ae",
+              "Subject": "Publish Image for Redhat software certification (#60)"
+            },
+            {
+              "SHA": "64893d8b",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "48a23ce5",
+              "Subject": "Change Makefile GO Version (#58)"
+            },
+            {
+              "SHA": "d1732152",
+              "Subject": "Add golangci (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "3dbb2b6f",
+              "Subject": "Prepare for release v0.23.0 (#92)"
+            },
+            {
+              "SHA": "13952311",
+              "Subject": "Use forked kubestash/restic (#90)"
+            },
+            {
+              "SHA": "0eca6918",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#89)"
+            },
+            {
+              "SHA": "0ceec91e",
+              "Subject": "Use k8s 1.34 client libs (#88)"
+            },
+            {
+              "SHA": "d12eee48",
+              "Subject": "Fix makefile indentation (#87)"
+            },
+            {
+              "SHA": "c22220cd",
+              "Subject": "Publish Image for Redhat software certification (#86)"
+            },
+            {
+              "SHA": "4552f5f7",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "1358b920",
+              "Subject": "Fix makefile for ubi images (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "757d12e",
+              "Subject": "Use k8s 1.34 client libs (#55)"
+            },
+            {
+              "SHA": "0983b29",
+              "Subject": "Use golangci-lint 2.x (#54)"
+            },
+            {
+              "SHA": "57d25a8",
+              "Subject": "Use k8s 1.32 client libs (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "bfe1d9d4",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "11567e45",
+              "Subject": "Re-design Neo4j configuration field (#10)"
+            },
+            {
+              "SHA": "51303fa4",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#9)"
+            },
+            {
+              "SHA": "190cb7ee",
+              "Subject": "Use k8s 1.34 client libs (#8)"
+            },
+            {
+              "SHA": "669b8b79",
+              "Subject": "Use k8s 1.32 client libraries (#6)"
+            },
+            {
+              "SHA": "3d0c2f6f",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#5)"
+            },
+            {
+              "SHA": "b2f7e8f0",
+              "Subject": "Fix Readme"
+            },
+            {
+              "SHA": "63ee24ca",
+              "Subject": "replace go1.25.5 to go1.25 (#3)"
+            },
+            {
+              "SHA": "78e8ae36",
+              "Subject": "Neo4j Operator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "0ffec4817",
+              "Subject": "Prepare for release v0.47.0 (#819)"
+            },
+            {
+              "SHA": "4a6695963",
+              "Subject": "Qdrant ops fix (#818)"
+            },
+            {
+              "SHA": "f6367c98e",
+              "Subject": "Add Qdrant TLS Support (#813)"
+            },
+            {
+              "SHA": "a67e2b7ce",
+              "Subject": "Oracle TLS (#806)"
+            },
+            {
+              "SHA": "9ff1de6d1",
+              "Subject": "Reconfigure redesign (#817)"
+            },
+            {
+              "SHA": "8000ffefe",
+              "Subject": "Add shard configuration support for ops manager (#812)"
+            },
+            {
+              "SHA": "5d979ede3",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#816)"
+            },
+            {
+              "SHA": "25ca3a62a",
+              "Subject": "Use k8s 1.34 client libs (#815)"
+            },
+            {
+              "SHA": "8dd93808f",
+              "Subject": "Fix makefile indentation (#814)"
+            },
+            {
+              "SHA": "af6c8f13f",
+              "Subject": "Test against k8s 1.35 (#811)"
+            },
+            {
+              "SHA": "6d2d736c9",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "116f7351a",
+              "Subject": "Publish Image for Redhat software certification (#810)"
+            },
+            {
+              "SHA": "cb3b4b332",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#809)"
+            },
+            {
+              "SHA": "5bdccf30f",
+              "Subject": "Skip controller activation in certification mode (#808)"
+            },
+            {
+              "SHA": "3eb8519f1",
+              "Subject": "Fix linter warning"
+            },
+            {
+              "SHA": "4f15899d1",
+              "Subject": "Use golangci-lint 2.x (#807)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "30a93cc0",
+              "Subject": "Prepare for release v0.6.0 (#24)"
+            },
+            {
+              "SHA": "6483df83",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#23)"
+            },
+            {
+              "SHA": "8dcfd2ed",
+              "Subject": "Use k8s 1.34 client libs (#22)"
+            },
+            {
+              "SHA": "f8d1e749",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#20)"
+            },
+            {
+              "SHA": "0aaf27b2",
+              "Subject": "Oracle tls complete after review (#18)"
+            },
+            {
+              "SHA": "06611a2f",
+              "Subject": "Moved ops code in oracle operator (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "7e1bc65",
+              "Subject": "Prepare for release v0.6.0 (#20)"
+            },
+            {
+              "SHA": "5d1358a",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#19)"
+            },
+            {
+              "SHA": "e0d0e32",
+              "Subject": "Use k8s 1.34 client libs (#18)"
+            },
+            {
+              "SHA": "028fd7d",
+              "Subject": "Fix makefile indentation (#17)"
+            },
+            {
+              "SHA": "67c4d12",
+              "Subject": "Publish Image for Redhat software certification (#16)"
+            },
+            {
+              "SHA": "6ca661e",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "f3d4752",
+              "Subject": "Build ubi image (#14)"
+            },
+            {
+              "SHA": "c141fa7",
+              "Subject": "Use golangci-lint 2.x (#13)"
+            },
+            {
+              "SHA": "f0b4cbb",
+              "Subject": "Support TLS (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "c6b0c8ccc",
+              "Subject": "Prepare for release v0.47.0 (#430)"
+            },
+            {
+              "SHA": "aa2c94b20",
+              "Subject": "Use Exporter Version v0.18.0 (#429)"
+            },
+            {
+              "SHA": "a607e1af5",
+              "Subject": "Improve and generalize configure-reconfigure (#428)"
+            },
+            {
+              "SHA": "0047860f3",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#427)"
+            },
+            {
+              "SHA": "645e9afaf",
+              "Subject": "Use k8s 1.34 client libs (#426)"
+            },
+            {
+              "SHA": "d383e813d",
+              "Subject": "Test against k8s 1.35 (#425)"
+            },
+            {
+              "SHA": "528043c17",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#424)"
+            },
+            {
+              "SHA": "c3cb6155c",
+              "Subject": "update go version in makefile (#423)"
+            },
+            {
+              "SHA": "654c6464e",
+              "Subject": "Use golangci-lint 2.x (#422)"
+            },
+            {
+              "SHA": "0ec479776",
+              "Subject": "fix multiple restart issue by introducing parallelism controller (#421)"
+            },
+            {
+              "SHA": "4208a065f",
+              "Subject": "move ops code to db repo (#420)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "6d891d1e",
+              "Subject": "Prepare for release v0.33.0 (#110)"
+            },
+            {
+              "SHA": "a2ac2089",
+              "Subject": "Prepare for release v0.33.0-rc.1 (#109)"
+            },
+            {
+              "SHA": "53ccb3e1",
+              "Subject": "Use k8s 1.34 client libs (#108)"
+            },
+            {
+              "SHA": "3393d9f4",
+              "Subject": "Fix makefile indentation (#107)"
+            },
+            {
+              "SHA": "83523a0f",
+              "Subject": "Publish Image for Redhat software certification (#106)"
+            },
+            {
+              "SHA": "d0d71987",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#105)"
+            },
+            {
+              "SHA": "f3648936",
+              "Subject": "Update image source and name in Dockerfile.ubi"
+            },
+            {
+              "SHA": "9e9945b7",
+              "Subject": "Build ubi image (#104)"
+            },
+            {
+              "SHA": "437be99c",
+              "Subject": "Use golangci-lint 2.x (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "0e9564ce6",
+              "Subject": "Prepare for release v0.47.0 (#393)"
+            },
+            {
+              "SHA": "2d669051a",
+              "Subject": "Improve and generalize configure-reconfigure process for all dbs (#392)"
+            },
+            {
+              "SHA": "b9a646574",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#391)"
+            },
+            {
+              "SHA": "8cdeb7501",
+              "Subject": "Use k8s 1.34 client libs (#390)"
+            },
+            {
+              "SHA": "1defb0fe1",
+              "Subject": "Test against k8s 1.35 (#389)"
+            },
+            {
+              "SHA": "f90f38f40",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#388)"
+            },
+            {
+              "SHA": "d84102818",
+              "Subject": "Add golnagci (#387)"
+            },
+            {
+              "SHA": "2b58993f3",
+              "Subject": "Add virtual secret and update Lint (#383)"
+            },
+            {
+              "SHA": "6396e383b",
+              "Subject": "Move ops code to db repo (#386)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "ccff7fd9",
+              "Subject": "Prepare for release v0.15.0 (#96)"
+            },
+            {
+              "SHA": "a849809d",
+              "Subject": "Improve and generalize configure-reconfigure process (#95)"
+            },
+            {
+              "SHA": "e5f20e47",
+              "Subject": "Fix resource watcher for vsecret (#92)"
+            },
+            {
+              "SHA": "17ba50ae",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#94)"
+            },
+            {
+              "SHA": "f6428269",
+              "Subject": "Use k8s 1.34 client libs (#93)"
+            },
+            {
+              "SHA": "c93510d6",
+              "Subject": "Test against k8s 1.35 (#91)"
+            },
+            {
+              "SHA": "536c4368",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "ce38a201",
+              "Subject": "Add golangci (#89)"
+            },
+            {
+              "SHA": "92bf292e",
+              "Subject": "add virtual secret and update lint (#88)"
+            },
+            {
+              "SHA": "66cfd1c1",
+              "Subject": "Move ops code to db repo (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.60.0",
+          "commits": [
+            {
+              "SHA": "a313afc9e",
+              "Subject": "Prepare for release v0.60.0 (#847)"
+            },
+            {
+              "SHA": "4d86169d7",
+              "Subject": "Add sharding facility for Postgres Ops-Requests (#843)"
+            },
+            {
+              "SHA": "a4b0d9486",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#846)"
+            },
+            {
+              "SHA": "2e2641018",
+              "Subject": "Use k8s 1.34 client libs (#845)"
+            },
+            {
+              "SHA": "44a384b00",
+              "Subject": "Test against k8s 1.35 (#844)"
+            },
+            {
+              "SHA": "43ab70768",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#842)"
+            },
+            {
+              "SHA": "1f118af2f",
+              "Subject": "Fix postgres split brain | Add auto config tuning support |   (#841)"
+            },
+            {
+              "SHA": "73418b2f8",
+              "Subject": "Virtual Secret further bug fix (#836)"
+            },
+            {
+              "SHA": "57e8114ed",
+              "Subject": "Move in Ops-manager code to Postgres (#837)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "f45faf8c",
+              "Subject": "Prepare for release v0.21.0 (#80)"
+            },
+            {
+              "SHA": "0c1f7850",
+              "Subject": "Fix redhat catalog submission (#78)"
+            },
+            {
+              "SHA": "16aaff7c",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#77)"
+            },
+            {
+              "SHA": "da7738a0",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#76)"
+            },
+            {
+              "SHA": "7736eaa2",
+              "Subject": "Use k8s 1.34 client libs (#75)"
+            },
+            {
+              "SHA": "53ae9b13",
+              "Subject": "Fix makefile indentation (#74)"
+            },
+            {
+              "SHA": "fc256522",
+              "Subject": "Publish Image for Redhat software certification (#73)"
+            },
+            {
+              "SHA": "4b6e2958",
+              "Subject": "Fix build rule"
+            },
+            {
+              "SHA": "1658ccf6",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "fb8f8428",
+              "Subject": "Update Go version (#71)"
+            },
+            {
+              "SHA": "d0df1d7b",
+              "Subject": "Merge pull request #70 from kubedb/lint"
+            },
+            {
+              "SHA": "26d3ba73",
+              "Subject": "update linter"
+            },
+            {
+              "SHA": "4f806c00",
+              "Subject": "Build and push ubi image (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "ea6e3c50",
+              "Subject": "Prepare for release v0.21.0 (#75)"
+            },
+            {
+              "SHA": "7d99eb19",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#73)"
+            },
+            {
+              "SHA": "2d482cda",
+              "Subject": "Use k8s 1.34 client libs (#72)"
+            },
+            {
+              "SHA": "48e2e4c9",
+              "Subject": "Fix makefile indentation (#71)"
+            },
+            {
+              "SHA": "ea89b1db",
+              "Subject": "Publish Image for Redhat software certification (#70)"
+            },
+            {
+              "SHA": "0b38fae9",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "6a3af86c",
+              "Subject": "Update golang version (#68)"
+            },
+            {
+              "SHA": "3ad4fd33",
+              "Subject": "update lint (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "ff45044b",
+              "Subject": "Prepare for release v0.23.0 (#90)"
+            },
+            {
+              "SHA": "441378e5",
+              "Subject": "Use forked kubestash/restic (#89)"
+            },
+            {
+              "SHA": "f5f19a6f",
+              "Subject": "Use forked kubestash/restic (#88)"
+            },
+            {
+              "SHA": "a8876977",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#87)"
+            },
+            {
+              "SHA": "13e072fb",
+              "Subject": "Use k8s 1.34 client libs (#86)"
+            },
+            {
+              "SHA": "b258277e",
+              "Subject": "Fix makefile indentation (#85)"
+            },
+            {
+              "SHA": "5a182fc7",
+              "Subject": "Publish Image for Redhat software certification (#84)"
+            },
+            {
+              "SHA": "397396b9",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#83)"
+            },
+            {
+              "SHA": "b53cd1ba",
+              "Subject": "Update Go version (#82)"
+            },
+            {
+              "SHA": "cfe47963",
+              "Subject": "Update linter (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.60.0",
+          "commits": [
+            {
+              "SHA": "81dedbc0b",
+              "Subject": "Prepare for release v0.60.0 (#185)"
+            },
+            {
+              "SHA": "6abadcb1a",
+              "Subject": "Add clickhouse (#184)"
+            },
+            {
+              "SHA": "cc47e7ed2",
+              "Subject": "Fix for pgpool & monitoring scheme (#183)"
+            },
+            {
+              "SHA": "4726affdf",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#182)"
+            },
+            {
+              "SHA": "da33384c2",
+              "Subject": "Use k8s 1.34 client libs (#181)"
+            },
+            {
+              "SHA": "51de966b7",
+              "Subject": "Fix makefile indentation (#180)"
+            },
+            {
+              "SHA": "11e9f6b60",
+              "Subject": "Test against k8s 1.35 (#179)"
+            },
+            {
+              "SHA": "7e4a29545",
+              "Subject": "Publish Image for Redhat software certification (#178)"
+            },
+            {
+              "SHA": "1f19bb323",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "373f5f5c2",
+              "Subject": "Check if appscode license api is up whle image building"
+            },
+            {
+              "SHA": "8bae571d5",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#177)"
+            },
+            {
+              "SHA": "478389968",
+              "Subject": "Add new DBs (#176)"
+            },
+            {
+              "SHA": "029d1c60c",
+              "Subject": "added milvus provisioner (#171)"
+            },
+            {
+              "SHA": "00ec61f1c",
+              "Subject": "Add Qdrant (#170)"
+            },
+            {
+              "SHA": "b8abc67f1",
+              "Subject": "Skip controller activation in certification mode (#174)"
+            },
+            {
+              "SHA": "b2ecb2f89",
+              "Subject": "Update deps (#173)"
+            },
+            {
+              "SHA": "f83d0339b",
+              "Subject": "Use golangci-lint 2.x (#172)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "cdcee6baf",
+              "Subject": "Prepare for release v0.47.0 (#413)"
+            },
+            {
+              "SHA": "96edac7b7",
+              "Subject": "Improve and generalize configure-reconfigure process (#412)"
+            },
+            {
+              "SHA": "7ec3ed3f5",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#411)"
+            },
+            {
+              "SHA": "99a845b14",
+              "Subject": "Use k8s 1.34 client libs (#410)"
+            },
+            {
+              "SHA": "71efc19c6",
+              "Subject": "Test against k8s 1.35 (#409)"
+            },
+            {
+              "SHA": "10258db59",
+              "Subject": "Remove github.com/go-xorm/xorm dependency"
+            },
+            {
+              "SHA": "1f965f4fd",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#408)"
+            },
+            {
+              "SHA": "4ed80eed3",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#407)"
+            },
+            {
+              "SHA": "111aa2aa5",
+              "Subject": "Move ops to db repo (#406)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "1ce521e9",
+              "Subject": "Prepare for release v0.1.0 (#14)"
+            },
+            {
+              "SHA": "051524f1",
+              "Subject": "Re-design Configuration process (#12)"
+            },
+            {
+              "SHA": "27031124",
+              "Subject": "Add TLS support (#9)"
+            },
+            {
+              "SHA": "47542dd7",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#11)"
+            },
+            {
+              "SHA": "2653e252",
+              "Subject": "Use k8s 1.34 client libs (#10)"
+            },
+            {
+              "SHA": "a3318df6",
+              "Subject": "Test against k8s 1.35 (#8)"
+            },
+            {
+              "SHA": "61f7198f",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#7)"
+            },
+            {
+              "SHA": "55cd4a5c",
+              "Subject": "k8s downgrade (#6)"
+            },
+            {
+              "SHA": "23165061",
+              "Subject": "makefile go 1.25 (#4)"
+            },
+            {
+              "SHA": "a3c6b74e",
+              "Subject": "Add Qdrant Provisioner"
+            },
+            {
+              "SHA": "251a144d",
+              "Subject": "Update .gitignore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "34fefed0",
+              "Subject": "Prepare for release v0.15.0 (#108)"
+            },
+            {
+              "SHA": "4de46792",
+              "Subject": "Update configure-reconfigure process (#107)"
+            },
+            {
+              "SHA": "5730ad2b",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "fc6d5de0",
+              "Subject": "Use k8s 1.34 client libs (#104)"
+            },
+            {
+              "SHA": "34ac217c",
+              "Subject": "Test against k8s 1.35 (#103)"
+            },
+            {
+              "SHA": "8a124e34",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "4b3e6a49",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#101)"
+            },
+            {
+              "SHA": "f05a5396",
+              "Subject": "Move ops manager repo to base (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "eeaf253e9",
+              "Subject": "Prepare for release v0.53.0 (#616)"
+            },
+            {
+              "SHA": "9d27adaeb",
+              "Subject": "Improve and generalize configure-reconfigure process (#615)"
+            },
+            {
+              "SHA": "504bc21c1",
+              "Subject": "Prepare for release v0.53.0-rc.1 (#614)"
+            },
+            {
+              "SHA": "082ef45b4",
+              "Subject": "Use k8s 1.34 client libs (#613)"
+            },
+            {
+              "SHA": "ce19d04e5",
+              "Subject": "Test against k8s 1.35 (#612)"
+            },
+            {
+              "SHA": "acecd5f21",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#611)"
+            },
+            {
+              "SHA": "fc0fe37bd",
+              "Subject": "add Virtual Secret and update lint (#610)"
+            },
+            {
+              "SHA": "994b34ece",
+              "Subject": "Move ops code to db repo (#609)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "0a121386",
+              "Subject": "Prepare for release v0.39.0 (#144)"
+            },
+            {
+              "SHA": "c7289d79",
+              "Subject": "Prepare for release v0.39.0-rc.1 (#143)"
+            },
+            {
+              "SHA": "a135f6e5",
+              "Subject": "Use k8s 1.34 client libs (#142)"
+            },
+            {
+              "SHA": "42038efc",
+              "Subject": "Fix makefile indentation (#141)"
+            },
+            {
+              "SHA": "9924e4eb",
+              "Subject": "Publish Image for Redhat software certification (#140)"
+            },
+            {
+              "SHA": "75f9f5d9",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#139)"
+            },
+            {
+              "SHA": "5f7ce82b",
+              "Subject": "Virtual Secret added and Make Lint update (#138)"
+            },
+            {
+              "SHA": "520f67f2",
+              "Subject": "Update Dockerfile label for Redis Coordinator"
+            },
+            {
+              "SHA": "a190c965",
+              "Subject": "Build ubi image (#137)"
+            },
+            {
+              "SHA": "1d673b73",
+              "Subject": "Use golangci-lint 2.x (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "acb3ec20",
+              "Subject": "Prepare for release v0.23.0 (#85)"
+            },
+            {
+              "SHA": "095746db",
+              "Subject": "Use forked kubestash/restic (#84)"
+            },
+            {
+              "SHA": "ecb820f6",
+              "Subject": "Use forked kubestash/restic (#83)"
+            },
+            {
+              "SHA": "84b3bcce",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#82)"
+            },
+            {
+              "SHA": "b2ea9fc3",
+              "Subject": "Use k8s 1.34 client libs (#81)"
+            },
+            {
+              "SHA": "3b705e12",
+              "Subject": "Fix makefile indentation (#80)"
+            },
+            {
+              "SHA": "6801fb25",
+              "Subject": "Publish Image for Redhat software certification (#79)"
+            },
+            {
+              "SHA": "7dfce486",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "fec65710",
+              "Subject": "Update linter (#77)"
+            },
+            {
+              "SHA": "927601ab",
+              "Subject": "Update make lint and Add Virtual Secret (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.47.0",
+          "commits": [
+            {
+              "SHA": "e43601fb",
+              "Subject": "Prepare for release v0.47.0 (#307)"
+            },
+            {
+              "SHA": "77ec3ba3",
+              "Subject": "Prepare for release v0.47.0-rc.1 (#306)"
+            },
+            {
+              "SHA": "4cb9f404",
+              "Subject": "Use k8s 1.34 client libs (#305)"
+            },
+            {
+              "SHA": "77e5286c",
+              "Subject": "Fix makefile indentation (#304)"
+            },
+            {
+              "SHA": "9322cc0c",
+              "Subject": "Publish Image for Redhat software certification (#303)"
+            },
+            {
+              "SHA": "7c77bd18",
+              "Subject": "Prepare for release v0.47.0-rc.0 (#302)"
+            },
+            {
+              "SHA": "5a586bb3",
+              "Subject": "Update Dockerfile label for application name"
+            },
+            {
+              "SHA": "09bc4ae6",
+              "Subject": "Build ubi image (#301)"
+            },
+            {
+              "SHA": "fd4f2bb5",
+              "Subject": "Use golangci-lint 2.x (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "c83b51e0",
+              "Subject": "Prepare for release v0.36.0 (#154)"
+            },
+            {
+              "SHA": "6b881db3",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#153)"
+            },
+            {
+              "SHA": "f9e6fea0",
+              "Subject": "Use k8s 1.34 client libs (#152)"
+            },
+            {
+              "SHA": "76951266",
+              "Subject": "Fix makefile indentation (#151)"
+            },
+            {
+              "SHA": "49234341",
+              "Subject": "Publish Image for Redhat software certification (#150)"
+            },
+            {
+              "SHA": "09a0cc3a",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "1ebf2d05",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#149)"
+            },
+            {
+              "SHA": "f58a1650",
+              "Subject": "Fix linter (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "d655bfec",
+              "Subject": "Prepare for release v0.15.0 (#96)"
+            },
+            {
+              "SHA": "08bcff61",
+              "Subject": "Improve and generalize configure-reconfigure (#95)"
+            },
+            {
+              "SHA": "9dd2d8a5",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#94)"
+            },
+            {
+              "SHA": "73d9f999",
+              "Subject": "Use k8s 1.34 client libs (#93)"
+            },
+            {
+              "SHA": "f84e08b4",
+              "Subject": "Test against k8s 1.35 (#92)"
+            },
+            {
+              "SHA": "f3529d24",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "5378a876",
+              "Subject": "update go version in makefile (#90)"
+            },
+            {
+              "SHA": "57f14b26",
+              "Subject": "Use golangci-lint 2.x (#89)"
+            },
+            {
+              "SHA": "d2c074b5",
+              "Subject": "fix multiple restart issue by introducing parallelism controller (#87)"
+            },
+            {
+              "SHA": "4fe9d994",
+              "Subject": "Fix frequent db patch and requeue issue (#88)"
+            },
+            {
+              "SHA": "d771a53e",
+              "Subject": "move ops code to db repo (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "49dc2d43",
+              "Subject": "Prepare for release v0.15.0 (#57)"
+            },
+            {
+              "SHA": "2b1fa919",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#56)"
+            },
+            {
+              "SHA": "4a067f5f",
+              "Subject": "Use k8s 1.34 client libs (#55)"
+            },
+            {
+              "SHA": "67248c77",
+              "Subject": "Fix makefile indentation (#54)"
+            },
+            {
+              "SHA": "e7847baf",
+              "Subject": "Publish Image for Redhat software certification (#53)"
+            },
+            {
+              "SHA": "0fe5c823",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "4fd8963e",
+              "Subject": "Update Dockerfile label from 'External DNS Operator' to 'Singlestore Coordinator'"
+            },
+            {
+              "SHA": "2115237f",
+              "Subject": "Build ubi image (#51)"
+            },
+            {
+              "SHA": "a2c1fa53",
+              "Subject": "Use golangci-lint 2.x (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "c5f8dafa",
+              "Subject": "Prepare for release v0.18.0 (#65)"
+            },
+            {
+              "SHA": "c98bdded",
+              "Subject": "Use forked kubestash/restic (#63)"
+            },
+            {
+              "SHA": "5762f17e",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#62)"
+            },
+            {
+              "SHA": "3e2214d7",
+              "Subject": "Use k8s 1.34 client libs (#61)"
+            },
+            {
+              "SHA": "b638ab06",
+              "Subject": "Fix makefile indentation (#60)"
+            },
+            {
+              "SHA": "378183ea",
+              "Subject": "Publish Image for Redhat software certification (#59)"
+            },
+            {
+              "SHA": "88634e70",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "285e4640",
+              "Subject": "update go version in makefile (#57)"
+            },
+            {
+              "SHA": "25bff270",
+              "Subject": "Use golangci-lint 2.x (#56)"
+            },
+            {
+              "SHA": "25f1e628",
+              "Subject": "Fix makefile for ubi images (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "620d72f7",
+              "Subject": "Prepare for release v0.15.0 (#108)"
+            },
+            {
+              "SHA": "f58a1f91",
+              "Subject": "Update Configure reconfigure process (#107)"
+            },
+            {
+              "SHA": "4073694e",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#106)"
+            },
+            {
+              "SHA": "1bd7aa31",
+              "Subject": "Use k8s 1.34 client libs (#105)"
+            },
+            {
+              "SHA": "a1581efa",
+              "Subject": "Bump k8s.io/kubernetes from 1.32.8 to 1.32.10 (#104)"
+            },
+            {
+              "SHA": "ec4afd2b",
+              "Subject": "Test against k8s 1.35 (#103)"
+            },
+            {
+              "SHA": "090077d5",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "cb654575",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#101)"
+            },
+            {
+              "SHA": "8919aabd",
+              "Subject": "Move in Ops-manager code to Solr (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "3516c7cb",
+              "Subject": "Prepare for release v0.45.0 (#504)"
+            },
+            {
+              "SHA": "dab2b9be",
+              "Subject": "remove init_config form pgpool (#503)"
+            },
+            {
+              "SHA": "0f520a67",
+              "Subject": "reconfigure change: druid, solr, pgpool, redis, (#502)"
+            },
+            {
+              "SHA": "4dc2db5c",
+              "Subject": "add apimachinery changes [reconfigurationSpec] (#501)"
+            },
+            {
+              "SHA": "66510754",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#499)"
+            },
+            {
+              "SHA": "3b1d93be",
+              "Subject": "Use k8s 1.34 client libs (#498)"
+            },
+            {
+              "SHA": "ec3491a2",
+              "Subject": "Test against k8s 1.35 (#496)"
+            },
+            {
+              "SHA": "5ad85722",
+              "Subject": "MSSQLServer Logical Backup (Wal-G) (#481)"
+            },
+            {
+              "SHA": "f3b02cd7",
+              "Subject": "MariaDB MaxScale VerticalScale (#491)"
+            },
+            {
+              "SHA": "2bd7d59f",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#495)"
+            },
+            {
+              "SHA": "c91842f7",
+              "Subject": "Update go version (#494)"
+            },
+            {
+              "SHA": "e2d20207",
+              "Subject": "Release Change: Go- 1.25.5, Linter Fix (#493)"
+            },
+            {
+              "SHA": "ec7c52a1",
+              "Subject": "MariaDB MaxScale Volume Expansion (#492)"
+            },
+            {
+              "SHA": "2096100e",
+              "Subject": "MariaDB MaxScale Scaling (Ops) (#488)"
+            },
+            {
+              "SHA": "82246e84",
+              "Subject": "Add restic, Volumesnapshotter to CI (#490)"
+            },
+            {
+              "SHA": "08bba9ff",
+              "Subject": "Add Base-Backup Mode for Postgres (#484)"
+            },
+            {
+              "SHA": "42ba4e21",
+              "Subject": "Test against k8s 1.34 (#489)"
+            },
+            {
+              "SHA": "16eed29b",
+              "Subject": "MySQL Archiver CI  (restic+volumesnapshotter mode) (#473)"
+            },
+            {
+              "SHA": "a635b1eb",
+              "Subject": "add rotate-auth for semi-sync, innodb (#487)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "50ce64af",
+              "Subject": "Prepare for release v0.36.0 (#186)"
+            },
+            {
+              "SHA": "aa21b74c",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#185)"
+            },
+            {
+              "SHA": "10372bf9",
+              "Subject": "Update vulnerable deps (#184)"
+            },
+            {
+              "SHA": "dc899cea",
+              "Subject": "Use k8s 1.34 client libs (#183)"
+            },
+            {
+              "SHA": "c1d34c7e",
+              "Subject": "Fix makefile indentation (#182)"
+            },
+            {
+              "SHA": "9ebbb2ac",
+              "Subject": "Publish Image for Redhat software certification (#179)"
+            },
+            {
+              "SHA": "f5d4d79e",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#178)"
+            },
+            {
+              "SHA": "3563951b",
+              "Subject": "Update Lint (#177)"
+            },
+            {
+              "SHA": "072090b3",
+              "Subject": "make lint update (#176)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "cc2297c3",
+              "Subject": "Prepare for release v0.1.0 (#10)"
+            },
+            {
+              "SHA": "71791e5b",
+              "Subject": "Configuration redesign (#9)"
+            },
+            {
+              "SHA": "429e6c27",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#8)"
+            },
+            {
+              "SHA": "110cd467",
+              "Subject": "Update vulnerable deps (#7)"
+            },
+            {
+              "SHA": "a5f58ee6",
+              "Subject": "Use k8s 1.34 client libs (#6)"
+            },
+            {
+              "SHA": "387e92f6",
+              "Subject": "Test against k8s 1.34 (#1)"
+            },
+            {
+              "SHA": "8bb614d5",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
+            },
+            {
+              "SHA": "d53d53e9",
+              "Subject": "Add Weaviate DB Support"
+            },
+            {
+              "SHA": "1b27e93a",
+              "Subject": "Add vendor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "aceff628",
+              "Subject": "Prepare for release v0.36.0 (#188)"
+            },
+            {
+              "SHA": "60f8f40d",
+              "Subject": "Use Go version 1.25 in go.mod and Makefile"
+            },
+            {
+              "SHA": "dbeae2f7",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#186)"
+            },
+            {
+              "SHA": "d85264ab",
+              "Subject": "Use k8s 1.34 client libs (#185)"
+            },
+            {
+              "SHA": "e8ed226a",
+              "Subject": "Fix makefile indentation (#184)"
+            },
+            {
+              "SHA": "ea905909",
+              "Subject": "Fix service name in conversion spec (#183)"
+            },
+            {
+              "SHA": "23094a6b",
+              "Subject": "Test against k8s 1.35 (#182)"
+            },
+            {
+              "SHA": "e0c50a8f",
+              "Subject": "Publish Image for Redhat software certification (#181)"
+            },
+            {
+              "SHA": "4f47d8c3",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#180)"
+            },
+            {
+              "SHA": "31fbaa00",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "6e256028",
+              "Subject": "Add missing new dbs in client-setup"
+            },
+            {
+              "SHA": "b90632db",
+              "Subject": "added milvus webhook-server (#177)"
+            },
+            {
+              "SHA": "9d58f0c3",
+              "Subject": "Add Qdrant (#176)"
+            },
+            {
+              "SHA": "0ce55e0a",
+              "Subject": "Add HanaDB (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "e354f44a",
+              "Subject": "Prepare for release v0.15.0 (#99)"
+            },
+            {
+              "SHA": "7eeed01d",
+              "Subject": "Update Configure reconfigure process (#98)"
+            },
+            {
+              "SHA": "05a44ba9",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#97)"
+            },
+            {
+              "SHA": "bfdf1c28",
+              "Subject": "Use k8s 1.34 client libs (#96)"
+            },
+            {
+              "SHA": "ca2cbe8b",
+              "Subject": "Test against k8s 1.35 (#95)"
+            },
+            {
+              "SHA": "4be45687",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#94)"
+            },
+            {
+              "SHA": "c1da0e5f",
+              "Subject": "replace go1.25.5 to go1.25 (#93)"
+            },
+            {
+              "SHA": "55fe861b",
+              "Subject": "Fix multiple restart issue by introducing parallelismController (#91)"
+            },
+            {
+              "SHA": "c75acf90",
+              "Subject": "Make Update go version and lint fix (#92)"
+            },
+            {
+              "SHA": "23219262",
+              "Subject": "Move ops code to db repo (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "479cf05",
+              "Subject": "Prepare for release v0.16.0 (#54)"
+            },
+            {
+              "SHA": "a1be425",
+              "Subject": "Use forked kubestash/restic (#53)"
+            },
+            {
+              "SHA": "89d7089",
+              "Subject": "Use forked kubestash/restic (#52)"
+            },
+            {
+              "SHA": "1f1a5f1",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#51)"
+            },
+            {
+              "SHA": "f4afa89",
+              "Subject": "Use k8s 1.34 client libs (#50)"
+            },
+            {
+              "SHA": "ecd338e",
+              "Subject": "Fix makefile indentation (#49)"
+            },
+            {
+              "SHA": "513fdf0",
+              "Subject": "Publish Image for Redhat software certification (#48)"
+            },
+            {
+              "SHA": "8970e4d",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "079fdca",
+              "Subject": "Go version update (#46)"
+            },
+            {
+              "SHA": "4c5f81a",
+              "Subject": "linter fix (#45)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

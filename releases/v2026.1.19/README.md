@@ -204,6 +204,26 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.1.19](https://github.com/kubedb/docs/releases/tag/v2026.1.19)
+
+- [56552be3](https://github.com/kubedb/docs/commit/56552be3) Prepare for release v2026.1.19 (#841)
+- [335239a8](https://github.com/kubedb/docs/commit/335239a8) Git sync  (#828)
+- [427abe2d](https://github.com/kubedb/docs/commit/427abe2d) Prepare for release v2025.12.31-rc.1 (#837)
+- [46aebb97](https://github.com/kubedb/docs/commit/46aebb97) oracle doc (#816)
+- [10d482fe](https://github.com/kubedb/docs/commit/10d482fe) Install kubectl (#836)
+- [e7aea71d](https://github.com/kubedb/docs/commit/e7aea71d) Test against k8s 1.35 (#835)
+- [401ac4b7](https://github.com/kubedb/docs/commit/401ac4b7) Runs on firecracker
+- [681c122e](https://github.com/kubedb/docs/commit/681c122e) elasticsearch ops-request (#827)
+- [83d55cdd](https://github.com/kubedb/docs/commit/83d55cdd) Fix Cassandra Docs (#826)
+- [d547fc23](https://github.com/kubedb/docs/commit/d547fc23) error fix kind: secret added (#833)
+- [5b9e903e](https://github.com/kubedb/docs/commit/5b9e903e) Prepare for release v2025.12.9-rc.0 (#834)
+- [601015e6](https://github.com/kubedb/docs/commit/601015e6) Update docs for kubedb/cli@fe2da356 (#832)
+- [2466ff44](https://github.com/kubedb/docs/commit/2466ff44)  Restart  ops requests (#822)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.15.0](https://github.com/kubedb/druid/releases/tag/v0.15.0)

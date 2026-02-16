@@ -91,9 +91,6 @@
       "github.com/kubedb/migrator-cli": {
         "tag": "v0.1.0-rc.0"
       },
-      "github.com/kubedb/migrator-operator": {
-        "tag": "v0.1.0-rc.0"
-      },
       "github.com/kubedb/milvus": {
         "tag": "v0.2.0-rc.0"
       },
@@ -234,6 +231,9 @@
       },
       "github.com/kubedb/mariadb-csi-snapshotter-plugin": {
         "tag": "v0.21.0-rc.0"
+      },
+      "github.com/kubedb/migrator-operator": {
+        "tag": "v0.1.0-rc.0"
       },
       "github.com/kubedb/pgbouncer": {
         "tag": "v0.48.0-rc.0",

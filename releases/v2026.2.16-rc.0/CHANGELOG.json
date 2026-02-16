@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-16T19:56:37.286974899Z",
+  "release_date": "2026-02-16T20:01:40.609905994Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -97,6 +97,36 @@
             {
               "SHA": "f16d4769",
               "Subject": "Add crd for cassandra, hazelcast, oracle (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3cbe8746",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#221)"
+            },
+            {
+              "SHA": "496ef203",
+              "Subject": "Add Creating MariaDB Client without MariaDB Instance (#218)"
+            },
+            {
+              "SHA": "2ecc2b55",
+              "Subject": "Prepare for release v0.15.0 (#217)"
+            },
+            {
+              "SHA": "9854141c",
+              "Subject": "fix opensearch-v3 health check issues (#216)"
+            },
+            {
+              "SHA": "d08174b5",
+              "Subject": "Add Qdrant TLS Support (#212)"
             }
           ]
         }

@@ -34,3 +34,15 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.16.0-rc.0)
+
+- [3cbe8746](https://github.com/kubedb/db-client-go/commit/3cbe8746) Prepare for release v0.16.0-rc.0 (#221)
+- [496ef203](https://github.com/kubedb/db-client-go/commit/496ef203) Add Creating MariaDB Client without MariaDB Instance (#218)
+- [2ecc2b55](https://github.com/kubedb/db-client-go/commit/2ecc2b55) Prepare for release v0.15.0 (#217)
+- [9854141c](https://github.com/kubedb/db-client-go/commit/9854141c) fix opensearch-v3 health check issues (#216)
+- [d08174b5](https://github.com/kubedb/db-client-go/commit/d08174b5) Add Qdrant TLS Support (#212)
+
+
+

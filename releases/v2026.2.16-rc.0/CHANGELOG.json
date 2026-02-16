@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-16T19:49:08.703190072Z",
+  "release_date": "2026-02-16T19:56:37.286974899Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -71,6 +71,32 @@
             {
               "SHA": "81a671f52",
               "Subject": "Add relabel config support to ServiceMonitor (#1584)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2d2c0c9a",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#110)"
+            },
+            {
+              "SHA": "ef87879e",
+              "Subject": "Update kafka crds (#108)"
+            },
+            {
+              "SHA": "e9b0cd26",
+              "Subject": "Prepare for release v0.15.0 (#107)"
+            },
+            {
+              "SHA": "f16d4769",
+              "Subject": "Add crd for cassandra, hazelcast, oracle (#106)"
             }
           ]
         }

@@ -23,3 +23,14 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.16.0-rc.0)
+
+- [2d2c0c9a](https://github.com/kubedb/crd-manager/commit/2d2c0c9a) Prepare for release v0.16.0-rc.0 (#110)
+- [ef87879e](https://github.com/kubedb/crd-manager/commit/ef87879e) Update kafka crds (#108)
+- [e9b0cd26](https://github.com/kubedb/crd-manager/commit/e9b0cd26) Prepare for release v0.15.0 (#107)
+- [f16d4769](https://github.com/kubedb/crd-manager/commit/f16d4769) Add crd for cassandra, hazelcast, oracle (#106)
+
+
+

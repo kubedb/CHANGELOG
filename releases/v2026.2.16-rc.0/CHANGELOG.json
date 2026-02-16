@@ -1,0 +1,80 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.2.16-rc.0",
+  "release_date": "2026-02-16T19:49:08.703190072Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.61.0-rc.0",
+          "commits": [
+            {
+              "SHA": "78da1b2d6",
+              "Subject": "Redis Config Secret Conversion fix (#1595)"
+            },
+            {
+              "SHA": "f1ac6610d",
+              "Subject": "Standardize migrator pkg (#1594)"
+            },
+            {
+              "SHA": "8c54988a4",
+              "Subject": "Report k8s distro and storage provisioners (#1593)"
+            },
+            {
+              "SHA": "3ab9a8c46",
+              "Subject": "Fix CI (#1592)"
+            },
+            {
+              "SHA": "46868bd03",
+              "Subject": "Add Distributed Archiver Support for MariaDB (#1582)"
+            },
+            {
+              "SHA": "d390f7030",
+              "Subject": "Add Migrator Operator APIs and Configs for CLI (#1588)"
+            },
+            {
+              "SHA": "711467936",
+              "Subject": "Add Qdrant Monitoring Support (#1550)"
+            },
+            {
+              "SHA": "8591d06f2",
+              "Subject": "Add read replica support for Postgres (#1580)"
+            },
+            {
+              "SHA": "09750ca1e",
+              "Subject": "Add Milvus Cluster Apis (#1551)"
+            },
+            {
+              "SHA": "eec0c01f2",
+              "Subject": "Introduce log RetentionPeriod for log cleanup (#1537)"
+            },
+            {
+              "SHA": "05e2788ca",
+              "Subject": "Add Kafka Tiered Storage APIs (#1378)"
+            },
+            {
+              "SHA": "719ce3b05",
+              "Subject": "Update license header (#1591)"
+            },
+            {
+              "SHA": "04bd7de62",
+              "Subject": "Add Constant For Opensearch/Elasticsearch (#1578)"
+            },
+            {
+              "SHA": "7eb9e9a4c",
+              "Subject": "Add tolerations to pvc-mounter pod for storageclass migration (#1589)"
+            },
+            {
+              "SHA": "81a671f52",
+              "Subject": "Add relabel config support to ServiceMonitor (#1584)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

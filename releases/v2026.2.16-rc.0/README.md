@@ -81,6 +81,16 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.9.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.9.0-rc.0)
+
+- [1e454f0b](https://github.com/kubedb/gitops/commit/1e454f0b) Prepare for release v0.9.0-rc.0 (#39)
+- [5948210d](https://github.com/kubedb/gitops/commit/5948210d) Prepare for release v0.8.0 (#37)
+- [4dae1f47](https://github.com/kubedb/gitops/commit/4dae1f47) Update Configuration Changes (#36)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.32.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.32.0-rc.0)

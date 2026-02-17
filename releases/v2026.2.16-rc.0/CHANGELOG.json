@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:11:10.35085505Z",
+  "release_date": "2026-02-17T03:11:27.224412288Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -213,6 +213,28 @@
             {
               "SHA": "10542dbb0",
               "Subject": "Improve and generalize configure-reconfigure process (#782)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1e454f0b",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "5948210d",
+              "Subject": "Prepare for release v0.8.0 (#37)"
+            },
+            {
+              "SHA": "4dae1f47",
+              "Subject": "Update Configuration Changes (#36)"
             }
           ]
         }

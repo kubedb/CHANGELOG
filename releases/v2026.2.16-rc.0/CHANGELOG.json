@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:09:35.036205673Z",
+  "release_date": "2026-02-17T03:09:43.212081324Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -385,6 +385,44 @@
             {
               "SHA": "0a121386",
               "Subject": "Prepare for release v0.39.0 (#144)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e850d1c4",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "e0025b19",
+              "Subject": "Incorporate changes for restic standalone pkg (#89)"
+            },
+            {
+              "SHA": "a84cb45c",
+              "Subject": "Test against k8s 1.35 (#88)"
+            },
+            {
+              "SHA": "c0283608",
+              "Subject": "Update DB ready condition check (#87)"
+            },
+            {
+              "SHA": "acb3ec20",
+              "Subject": "Prepare for release v0.23.0 (#85)"
+            },
+            {
+              "SHA": "095746db",
+              "Subject": "Use forked kubestash/restic (#84)"
+            },
+            {
+              "SHA": "ecb820f6",
+              "Subject": "Use forked kubestash/restic (#83)"
             }
           ]
         }

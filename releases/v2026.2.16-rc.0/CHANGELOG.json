@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:19:10.523456459Z",
+  "release_date": "2026-02-17T03:19:20.621095862Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1619,6 +1619,32 @@
             {
               "SHA": "6250c18",
               "Subject": "Use forked kubestasgh/restic (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "111bc2a6",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#103)"
+            },
+            {
+              "SHA": "64f10ce2",
+              "Subject": "Integrate shouldProceed() utility on runParallel (#100)"
+            },
+            {
+              "SHA": "e354f44a",
+              "Subject": "Prepare for release v0.15.0 (#99)"
+            },
+            {
+              "SHA": "7eeed01d",
+              "Subject": "Update Configure reconfigure process (#98)"
             }
           ]
         }

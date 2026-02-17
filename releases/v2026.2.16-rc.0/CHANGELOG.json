@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:19:33.570478555Z",
+  "release_date": "2026-02-17T03:19:38.711420151Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -245,6 +245,24 @@
             {
               "SHA": "d08174b5",
               "Subject": "Add Qdrant TLS Support (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "083436d3",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
+            },
+            {
+              "SHA": "aafe21ff",
+              "Subject": "Prepare for release v0.1.0 (#8)"
             }
           ]
         }

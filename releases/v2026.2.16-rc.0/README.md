@@ -98,6 +98,15 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/db2/releases/tag/v0.2.0-rc.0)
+
+- [083436d3](https://github.com/kubedb/db2/commit/083436d3) Prepare for release v0.2.0-rc.0 (#10)
+- [aafe21ff](https://github.com/kubedb/db2/commit/aafe21ff) Prepare for release v0.1.0 (#8)
+
+
+
 ## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.2.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:12:47.709459051Z",
+  "release_date": "2026-02-17T03:13:02.694451934Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -395,6 +395,32 @@
             {
               "SHA": "08b426e5",
               "Subject": "Prepare for release v0.40.0 (#161)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.54.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f935bd5cf",
+              "Subject": "Prepare for release v0.54.0-rc.0 (#522)"
+            },
+            {
+              "SHA": "9750dc583",
+              "Subject": "Merge pull request #520 from kubedb/upd-prll"
+            },
+            {
+              "SHA": "d9c49db82",
+              "Subject": "Prepare for release v0.53.0 (#519)"
+            },
+            {
+              "SHA": "25b0aa419",
+              "Subject": "Update memcached reconfigure (#518)"
             }
           ]
         }

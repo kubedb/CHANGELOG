@@ -158,6 +158,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.54.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.54.0-rc.0)
+
+- [f935bd5c](https://github.com/kubedb/memcached/commit/f935bd5cf) Prepare for release v0.54.0-rc.0 (#522)
+- [9750dc58](https://github.com/kubedb/memcached/commit/9750dc583) Merge pull request #520 from kubedb/upd-prll
+- [d9c49db8](https://github.com/kubedb/memcached/commit/d9c49db82) Prepare for release v0.53.0 (#519)
+- [25b0aa41](https://github.com/kubedb/memcached/commit/25b0aa419) Update memcached reconfigure (#518)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.54.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.54.0-rc.0)

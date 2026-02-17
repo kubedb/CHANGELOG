@@ -32,6 +32,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.61.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.61.0-rc.0)
+
+- [ec20e01a](https://github.com/kubedb/cli/commit/ec20e01a3) Prepare for release v0.61.0-rc.0 (#812)
+- [d0b02fca](https://github.com/kubedb/cli/commit/d0b02fca7) Prepare for release v0.60.0 (#810)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.16.0-rc.0)

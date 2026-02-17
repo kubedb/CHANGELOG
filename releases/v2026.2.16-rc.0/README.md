@@ -647,6 +647,17 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.2.0-rc.0)
+
+- [c0f5f858](https://github.com/kubedb/weaviate/commit/c0f5f858) Prepare for release v0.2.0-rc.0 (#15)
+- [2cc31997](https://github.com/kubedb/weaviate/commit/2cc31997) update deletion Policy (#11)
+- [cc2297c3](https://github.com/kubedb/weaviate/commit/cc2297c3) Prepare for release v0.1.0 (#10)
+- [71791e5b](https://github.com/kubedb/weaviate/commit/71791e5b) Configuration redesign (#9)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.9.0-rc.0)

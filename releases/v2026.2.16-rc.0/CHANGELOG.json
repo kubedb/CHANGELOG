@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:18:59.997042104Z",
+  "release_date": "2026-02-17T03:19:06.503954869Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1558,6 +1558,32 @@
             {
               "SHA": "4dc2db5c8",
               "Subject": "add apimachinery changes [reconfigurationSpec] (#501)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c0f5f858",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "2cc31997",
+              "Subject": "update deletion Policy (#11)"
+            },
+            {
+              "SHA": "cc2297c3",
+              "Subject": "Prepare for release v0.1.0 (#10)"
+            },
+            {
+              "SHA": "71791e5b",
+              "Subject": "Configuration redesign (#9)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:04:11.599719353Z",
+  "release_date": "2026-02-17T03:04:21.243023907Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -213,6 +213,28 @@
             {
               "SHA": "e6fd5d5f",
               "Subject": "Prepare for release v0.21.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1bd94124",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#55)"
+            },
+            {
+              "SHA": "cbb8df3b",
+              "Subject": "Prepare for release v0.15.0 (#53)"
+            },
+            {
+              "SHA": "a9d3248b",
+              "Subject": "Correctly check if sqlservr process is running for new versions (#52)"
             }
           ]
         }

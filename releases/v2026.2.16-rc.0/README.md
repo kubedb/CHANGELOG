@@ -81,6 +81,16 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.16.0-rc.0)
+
+- [1bd94124](https://github.com/kubedb/mssql-coordinator/commit/1bd94124) Prepare for release v0.16.0-rc.0 (#55)
+- [cbb8df3b](https://github.com/kubedb/mssql-coordinator/commit/cbb8df3b) Prepare for release v0.15.0 (#53)
+- [a9d3248b](https://github.com/kubedb/mssql-coordinator/commit/a9d3248b) Correctly check if sqlservr process is running for new versions (#52)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.61.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.61.0-rc.0)

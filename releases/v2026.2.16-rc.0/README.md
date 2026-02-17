@@ -135,6 +135,17 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.8.0-rc.0)
+
+- [b5e03fa2](https://github.com/kubedb/ignite/commit/b5e03fa2) Prepare for release v0.8.0-rc.0 (#36)
+- [2f574436](https://github.com/kubedb/ignite/commit/2f574436) Merge pull request #34 from kubedb/proceed
+- [f648ea48](https://github.com/kubedb/ignite/commit/f648ea48) Prepare for release v0.7.0 (#33)
+- [50699ff3](https://github.com/kubedb/ignite/commit/50699ff3) Re-design Configuration process (#32)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.32.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.32.0-rc.0)

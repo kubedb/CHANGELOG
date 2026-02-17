@@ -521,6 +521,17 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.48.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.48.0-rc.0)
+
+- [b7c6fedb](https://github.com/kubedb/pgbouncer/commit/b7c6fedbd) Prepare for release v0.48.0-rc.0 (#396)
+- [31e2e720](https://github.com/kubedb/pgbouncer/commit/31e2e7207) Added Parallel Controller (#394)
+- [0e9564ce](https://github.com/kubedb/pgbouncer/commit/0e9564ce6) Prepare for release v0.47.0 (#393)
+- [2d669051](https://github.com/kubedb/pgbouncer/commit/2d669051a) Improve and generalize configure-reconfigure process for all dbs (#392)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.16.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T16:55:54.420628847Z",
+  "release_date": "2026-02-17T16:56:10.522580341Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1233,6 +1233,32 @@
             {
               "SHA": "e3803360",
               "Subject": "Add prev version compatibility (#220)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.48.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b7c6fedbd",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#396)"
+            },
+            {
+              "SHA": "31e2e7207",
+              "Subject": "Added Parallel Controller (#394)"
+            },
+            {
+              "SHA": "0e9564ce6",
+              "Subject": "Prepare for release v0.47.0 (#393)"
+            },
+            {
+              "SHA": "2d669051a",
+              "Subject": "Improve and generalize configure-reconfigure process for all dbs (#392)"
             }
           ]
         }

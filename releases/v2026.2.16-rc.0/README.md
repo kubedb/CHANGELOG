@@ -100,6 +100,17 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.7.0-rc.0)
+
+- [8e683f77](https://github.com/kubedb/hazelcast/commit/8e683f77) Prepare for release v0.7.0-rc.0 (#27)
+- [158438dc](https://github.com/kubedb/hazelcast/commit/158438dc) Merge pull request #25 from kubedb/proceed
+- [03cc9a0b](https://github.com/kubedb/hazelcast/commit/03cc9a0b) Prepare for release v0.6.0 (#24)
+- [9dc7cbac](https://github.com/kubedb/hazelcast/commit/9dc7cbac)  Improve and generalize configure-reconfigure process (#23)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.32.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.32.0-rc.0)

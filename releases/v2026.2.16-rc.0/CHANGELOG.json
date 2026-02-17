@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:11:58.661678477Z",
+  "release_date": "2026-02-17T03:12:22.834867996Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -253,6 +253,32 @@
             {
               "SHA": "4dae1f47",
               "Subject": "Update Configuration Changes (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8e683f77",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#27)"
+            },
+            {
+              "SHA": "158438dc",
+              "Subject": "Merge pull request #25 from kubedb/proceed"
+            },
+            {
+              "SHA": "03cc9a0b",
+              "Subject": "Prepare for release v0.6.0 (#24)"
+            },
+            {
+              "SHA": "9dc7cbac",
+              "Subject": " Improve and generalize configure-reconfigure process (#23)"
             }
           ]
         }

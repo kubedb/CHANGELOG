@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:11:35.360271308Z",
+  "release_date": "2026-02-17T03:11:45.122861022Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -635,6 +635,32 @@
             {
               "SHA": "ecb820f6",
               "Subject": "Use forked kubestash/restic (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b646dfb1",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#111)"
+            },
+            {
+              "SHA": "58f2dd61",
+              "Subject": "Merge pull request #109 from kubedb/proceed"
+            },
+            {
+              "SHA": "620d72f7",
+              "Subject": "Prepare for release v0.15.0 (#108)"
+            },
+            {
+              "SHA": "f58a1f91",
+              "Subject": "Update Configure reconfigure process (#107)"
             }
           ]
         }

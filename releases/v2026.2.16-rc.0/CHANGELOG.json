@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:03:39.336867306Z",
+  "release_date": "2026-02-17T03:03:48.982112119Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -247,6 +247,24 @@
             {
               "SHA": "0c1f7850",
               "Subject": "Fix redhat catalog submission (#78)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e6f57560",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#146)"
+            },
+            {
+              "SHA": "0a121386",
+              "Subject": "Prepare for release v0.39.0 (#144)"
             }
           ]
         }

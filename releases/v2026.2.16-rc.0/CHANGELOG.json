@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:17:22.026211194Z",
+  "release_date": "2026-02-17T03:17:31.508772347Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -853,6 +853,24 @@
             {
               "SHA": "a607e1af5",
               "Subject": "Improve and generalize configure-reconfigure (#428)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.34.0-rc.0",
+          "commits": [
+            {
+              "SHA": "593d9f8e",
+              "Subject": "Prepare for release v0.34.0-rc.0 (#112)"
+            },
+            {
+              "SHA": "6d891d1e",
+              "Subject": "Prepare for release v0.33.0 (#110)"
             }
           ]
         }

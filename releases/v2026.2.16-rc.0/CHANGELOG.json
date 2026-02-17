@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:16:49.266496467Z",
+  "release_date": "2026-02-17T03:17:01.093159538Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -983,6 +983,40 @@
             {
               "SHA": "27031124",
               "Subject": "Add TLS support (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "052636d5",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#113)"
+            },
+            {
+              "SHA": "1215655f",
+              "Subject": "Update Parallel Processing Logic (#111)"
+            },
+            {
+              "SHA": "7a862fd3",
+              "Subject": "Update Paraller Processing Logic (#110)"
+            },
+            {
+              "SHA": "10445e04",
+              "Subject": "update deletion Policy (#109)"
+            },
+            {
+              "SHA": "34fefed0",
+              "Subject": "Prepare for release v0.15.0 (#108)"
+            },
+            {
+              "SHA": "4de46792",
+              "Subject": "Update configure-reconfigure process (#107)"
             }
           ]
         }

@@ -404,6 +404,19 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.16.0-rc.0)
+
+- [052636d5](https://github.com/kubedb/rabbitmq/commit/052636d5) Prepare for release v0.16.0-rc.0 (#113)
+- [1215655f](https://github.com/kubedb/rabbitmq/commit/1215655f) Update Parallel Processing Logic (#111)
+- [7a862fd3](https://github.com/kubedb/rabbitmq/commit/7a862fd3) Update Paraller Processing Logic (#110)
+- [10445e04](https://github.com/kubedb/rabbitmq/commit/10445e04) update deletion Policy (#109)
+- [34fefed0](https://github.com/kubedb/rabbitmq/commit/34fefed0) Prepare for release v0.15.0 (#108)
+- [4de46792](https://github.com/kubedb/rabbitmq/commit/4de46792) Update configure-reconfigure process (#107)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.54.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.54.0-rc.0)

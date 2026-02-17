@@ -23,6 +23,17 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.14.0-rc.0)
+
+- [c60b9bfd](https://github.com/kubedb/cassandra/commit/c60b9bfd) Prepare for release v0.14.0-rc.0 (#62)
+- [0c7fc6da](https://github.com/kubedb/cassandra/commit/0c7fc6da) move parallel-go to apimachinary (#60)
+- [b3cd8596](https://github.com/kubedb/cassandra/commit/b3cd8596) Prepare for release v0.13.0 (#58)
+- [70d0a9d0](https://github.com/kubedb/cassandra/commit/70d0a9d0) Improve and generalize configure-reconfigure process (#57)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.8.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:19:25.790960638Z",
+  "release_date": "2026-02-17T03:19:31.193227297Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -738,6 +738,40 @@
             {
               "SHA": "e6fd5d5f",
               "Subject": "Prepare for release v0.21.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b9e51294",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "c1ba1aea",
+              "Subject": "Incorporate changes for restic standalone pkg (#105)"
+            },
+            {
+              "SHA": "3d9e87b1",
+              "Subject": "Fix container build target"
+            },
+            {
+              "SHA": "c02b2e73",
+              "Subject": "Fix for kubestash/restic (#103)"
+            },
+            {
+              "SHA": "9ebb8b53",
+              "Subject": "Prepare for release v0.23.0 (#102)"
+            },
+            {
+              "SHA": "34d434d2",
+              "Subject": "Use forked kubestash/restic (#100)"
             }
           ]
         }

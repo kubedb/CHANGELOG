@@ -307,6 +307,19 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.24.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.24.0-rc.0)
+
+- [b9e51294](https://github.com/kubedb/mongodb-restic-plugin/commit/b9e51294) Prepare for release v0.24.0-rc.0 (#106)
+- [c1ba1aea](https://github.com/kubedb/mongodb-restic-plugin/commit/c1ba1aea) Incorporate changes for restic standalone pkg (#105)
+- [3d9e87b1](https://github.com/kubedb/mongodb-restic-plugin/commit/3d9e87b1) Fix container build target
+- [c02b2e73](https://github.com/kubedb/mongodb-restic-plugin/commit/c02b2e73) Fix for kubestash/restic (#103)
+- [9ebb8b53](https://github.com/kubedb/mongodb-restic-plugin/commit/9ebb8b53) Prepare for release v0.23.0 (#102)
+- [34d434d2](https://github.com/kubedb/mongodb-restic-plugin/commit/34d434d2) Use forked kubestash/restic (#100)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.16.0-rc.0)

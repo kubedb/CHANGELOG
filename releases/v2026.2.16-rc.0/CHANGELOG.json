@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T17:11:36.566698176Z",
+  "release_date": "2026-02-17T17:17:01.776924928Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -71,6 +71,32 @@
             {
               "SHA": "81a671f52",
               "Subject": "Add relabel config support to ServiceMonitor (#1584)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "381bc609",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#278)"
+            },
+            {
+              "SHA": "b5c6e303",
+              "Subject": "Merge pull request #277 from kubedb/update-deps"
+            },
+            {
+              "SHA": "7e9e4708",
+              "Subject": "Prepare for release v0.45.0 (#274)"
+            },
+            {
+              "SHA": "aadf7a1b",
+              "Subject": "Update Mongo Reconfig API (#273)"
             }
           ]
         }

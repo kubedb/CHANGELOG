@@ -23,6 +23,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.46.0-rc.0](https://github.com/kubedb/autoscaler/releases/tag/v0.46.0-rc.0)
+
+- [381bc609](https://github.com/kubedb/autoscaler/commit/381bc609) Prepare for release v0.46.0-rc.0 (#278)
+- [b5c6e303](https://github.com/kubedb/autoscaler/commit/b5c6e303) Merge pull request #277 from kubedb/update-deps
+- [7e9e4708](https://github.com/kubedb/autoscaler/commit/7e9e4708) Prepare for release v0.45.0 (#274)
+- [aadf7a1b](https://github.com/kubedb/autoscaler/commit/aadf7a1b) Update Mongo Reconfig API (#273)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.14.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.14.0-rc.0)

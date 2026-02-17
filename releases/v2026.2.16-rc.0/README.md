@@ -68,3 +68,16 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.22.0-rc.0)
+
+- [6138276c](https://github.com/kubedb/postgres-archiver/commit/6138276c) Prepare for release v0.22.0-rc.0 (#85)
+- [6f702e23](https://github.com/kubedb/postgres-archiver/commit/6f702e23) Test against k8s 1.35 (#84)
+- [49c942eb](https://github.com/kubedb/postgres-archiver/commit/49c942eb) added wal-log clean feature (#83)
+- [e92dc052](https://github.com/kubedb/postgres-archiver/commit/e92dc052) Fix ubi build (#81)
+- [f45faf8c](https://github.com/kubedb/postgres-archiver/commit/f45faf8c) Prepare for release v0.21.0 (#80)
+- [0c1f7850](https://github.com/kubedb/postgres-archiver/commit/0c1f7850) Fix redhat catalog submission (#78)
+
+
+

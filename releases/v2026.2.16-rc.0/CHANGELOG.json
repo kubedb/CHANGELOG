@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:15:29.163146463Z",
+  "release_date": "2026-02-17T03:15:37.693293945Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -141,6 +141,36 @@
             {
               "SHA": "f16d4769",
               "Subject": "Add crd for cassandra, hazelcast, oracle (#106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c151b9d",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#61)"
+            },
+            {
+              "SHA": "bb05585",
+              "Subject": "Incorporate changes for restic standalone pkg (#60)"
+            },
+            {
+              "SHA": "c6ab8f5",
+              "Subject": "Prepare for release v0.18.0 (#58)"
+            },
+            {
+              "SHA": "9ca336a",
+              "Subject": "Use forked kubestash/restic (#57)"
+            },
+            {
+              "SHA": "4825ed5",
+              "Subject": "Use forked kubestash/restic (#56)"
             }
           ]
         }

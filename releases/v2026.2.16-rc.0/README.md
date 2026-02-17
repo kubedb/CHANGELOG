@@ -426,6 +426,19 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.19.0-rc.0)
+
+- [7ca8197e](https://github.com/kubedb/singlestore-restic-plugin/commit/7ca8197e) Prepare for release v0.19.0-rc.0 (#70)
+- [6f0e374a](https://github.com/kubedb/singlestore-restic-plugin/commit/6f0e374a) Incorporate changes for restic standalone pkg (#69)
+- [52d3ae86](https://github.com/kubedb/singlestore-restic-plugin/commit/52d3ae86) Delete .golangci.yml.1 (#67)
+- [e98ce73b](https://github.com/kubedb/singlestore-restic-plugin/commit/e98ce73b) Fix for restic/kubestash (#66)
+- [c5f8dafa](https://github.com/kubedb/singlestore-restic-plugin/commit/c5f8dafa) Prepare for release v0.18.0 (#65)
+- [c98bdded](https://github.com/kubedb/singlestore-restic-plugin/commit/c98bdded) Use forked kubestash/restic (#63)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.16.0-rc.0)

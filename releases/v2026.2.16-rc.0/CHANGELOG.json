@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:17:31.508772347Z",
+  "release_date": "2026-02-17T03:17:48.322187028Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -713,6 +713,52 @@
             {
               "SHA": "91b8945",
               "Subject": "Prepare for release v0.14.0 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.54.0-rc.0",
+          "commits": [
+            {
+              "SHA": "05e392f58",
+              "Subject": "Prepare for release v0.54.0-rc.0 (#722)"
+            },
+            {
+              "SHA": "95604806d",
+              "Subject": "added permission for binlog-cleanup (#719)"
+            },
+            {
+              "SHA": "8959e3ea5",
+              "Subject": "Update for Kubestash API (#721)"
+            },
+            {
+              "SHA": "865c8dd0e",
+              "Subject": "Add pod toleration during storageClass migration (#718)"
+            },
+            {
+              "SHA": "5fed4bfc7",
+              "Subject": "Update ops parallelism (#716)"
+            },
+            {
+              "SHA": "62650d638",
+              "Subject": "Upgrade Exporter to v0.18.0 (#715)"
+            },
+            {
+              "SHA": "55900db8b",
+              "Subject": "Prepare for release v0.53.0 (#714)"
+            },
+            {
+              "SHA": "0a9fd37d4",
+              "Subject": "Add Reconfig PodRestart based on User Requirement (#713)"
+            },
+            {
+              "SHA": "b74becf00",
+              "Subject": "Improve and generalize configure-reconfigure (#711)"
             }
           ]
         }

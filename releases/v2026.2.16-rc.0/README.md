@@ -296,6 +296,22 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.54.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.54.0-rc.0)
+
+- [05e392f5](https://github.com/kubedb/mysql/commit/05e392f58) Prepare for release v0.54.0-rc.0 (#722)
+- [95604806](https://github.com/kubedb/mysql/commit/95604806d) added permission for binlog-cleanup (#719)
+- [8959e3ea](https://github.com/kubedb/mysql/commit/8959e3ea5) Update for Kubestash API (#721)
+- [865c8dd0](https://github.com/kubedb/mysql/commit/865c8dd0e) Add pod toleration during storageClass migration (#718)
+- [5fed4bfc](https://github.com/kubedb/mysql/commit/5fed4bfc7) Update ops parallelism (#716)
+- [62650d63](https://github.com/kubedb/mysql/commit/62650d638) Upgrade Exporter to v0.18.0 (#715)
+- [55900db8](https://github.com/kubedb/mysql/commit/55900db8b) Prepare for release v0.53.0 (#714)
+- [0a9fd37d](https://github.com/kubedb/mysql/commit/0a9fd37d4) Add Reconfig PodRestart based on User Requirement (#713)
+- [b74becf0](https://github.com/kubedb/mysql/commit/b74becf00) Improve and generalize configure-reconfigure (#711)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.39.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.39.0-rc.0)

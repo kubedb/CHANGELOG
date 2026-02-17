@@ -158,6 +158,18 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.24.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.24.0-rc.0)
+
+- [c4651c69](https://github.com/kubedb/mysql-restic-plugin/commit/c4651c69) Prepare for release v0.24.0-rc.0 (#96)
+- [09eb2747](https://github.com/kubedb/mysql-restic-plugin/commit/09eb2747) Incorporate changes for restic standalone pkg (#95)
+- [29ef1ef6](https://github.com/kubedb/mysql-restic-plugin/commit/29ef1ef6) Fix Makefile (#93)
+- [3dbb2b6f](https://github.com/kubedb/mysql-restic-plugin/commit/3dbb2b6f) Prepare for release v0.23.0 (#92)
+- [13952311](https://github.com/kubedb/mysql-restic-plugin/commit/13952311) Use forked kubestash/restic (#90)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.61.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.61.0-rc.0)

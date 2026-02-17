@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:10:43.386320918Z",
+  "release_date": "2026-02-17T03:10:54.838451755Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -395,6 +395,36 @@
             {
               "SHA": "64575b6f",
               "Subject": "Prepare for release v0.38.0 (#160)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c4651c69",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#96)"
+            },
+            {
+              "SHA": "09eb2747",
+              "Subject": "Incorporate changes for restic standalone pkg (#95)"
+            },
+            {
+              "SHA": "29ef1ef6",
+              "Subject": "Fix Makefile (#93)"
+            },
+            {
+              "SHA": "3dbb2b6f",
+              "Subject": "Prepare for release v0.23.0 (#92)"
+            },
+            {
+              "SHA": "13952311",
+              "Subject": "Use forked kubestash/restic (#90)"
             }
           ]
         }

@@ -312,6 +312,18 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.24.0-rc.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.24.0-rc.0)
+
+- [c1a56b92](https://github.com/kubedb/postgres-restic-plugin/commit/c1a56b92) Prepare for release v0.24.0-rc.0 (#93)
+- [2f72f231](https://github.com/kubedb/postgres-restic-plugin/commit/2f72f231) Incorporate changes for restic standalone pkg (#92)
+- [ff45044b](https://github.com/kubedb/postgres-restic-plugin/commit/ff45044b) Prepare for release v0.23.0 (#90)
+- [441378e5](https://github.com/kubedb/postgres-restic-plugin/commit/441378e5) Use forked kubestash/restic (#89)
+- [f5f19a6f](https://github.com/kubedb/postgres-restic-plugin/commit/f5f19a6f) Use forked kubestash/restic (#88)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.2.0-rc.0)

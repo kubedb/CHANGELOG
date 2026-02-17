@@ -199,6 +199,19 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.54.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.54.0-rc.0)
+
+- [dd5032fa](https://github.com/kubedb/redis/commit/dd5032fa1) Prepare for release v0.54.0-rc.0 (#621)
+- [a95277cc](https://github.com/kubedb/redis/commit/a95277ccf) VNPAY issue Resolve (#620)
+- [3e886b96](https://github.com/kubedb/redis/commit/3e886b961) Update api (#619)
+- [a9488ef7](https://github.com/kubedb/redis/commit/a9488ef7d) Redis Ops bug fix and Parallelism improvement (#617)
+- [eeaf253e](https://github.com/kubedb/redis/commit/eeaf253e9) Prepare for release v0.53.0 (#616)
+- [9d27adae](https://github.com/kubedb/redis/commit/9d27adaeb) Improve and generalize configure-reconfigure process (#615)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.40.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.40.0-rc.0)

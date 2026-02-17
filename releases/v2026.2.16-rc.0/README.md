@@ -59,6 +59,19 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.24.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.24.0-rc.0)
+
+- [b3d1a34e](https://github.com/kubedb/kubedb-manifest-plugin/commit/b3d1a34e) Prepare for release v0.24.0-rc.0 (#116)
+- [19fa3a25](https://github.com/kubedb/kubedb-manifest-plugin/commit/19fa3a25) Incorporate changes for restic standalone pkg (#115)
+- [9aebbe1c](https://github.com/kubedb/kubedb-manifest-plugin/commit/9aebbe1c) Fix UBI image
+- [39aabbc2](https://github.com/kubedb/kubedb-manifest-plugin/commit/39aabbc2) Prepare for release v0.23.0 (#113)
+- [6ab7dfbc](https://github.com/kubedb/kubedb-manifest-plugin/commit/6ab7dfbc) Use forked kubestash/restic (#112)
+- [839e93d7](https://github.com/kubedb/kubedb-manifest-plugin/commit/839e93d7) Use forked kubestash/restic (#111)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.22.0-rc.0)

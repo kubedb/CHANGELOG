@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:03:31.818353297Z",
+  "release_date": "2026-02-17T03:03:39.336867306Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -161,6 +161,40 @@
             {
               "SHA": "10542dbb0",
               "Subject": "Improve and generalize configure-reconfigure process (#782)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b3d1a34e",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#116)"
+            },
+            {
+              "SHA": "19fa3a25",
+              "Subject": "Incorporate changes for restic standalone pkg (#115)"
+            },
+            {
+              "SHA": "9aebbe1c",
+              "Subject": "Fix UBI image"
+            },
+            {
+              "SHA": "39aabbc2",
+              "Subject": "Prepare for release v0.23.0 (#113)"
+            },
+            {
+              "SHA": "6ab7dfbc",
+              "Subject": "Use forked kubestash/restic (#112)"
+            },
+            {
+              "SHA": "839e93d7",
+              "Subject": "Use forked kubestash/restic (#111)"
             }
           ]
         }

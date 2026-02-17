@@ -46,6 +46,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.61.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.61.0-rc.0)
+
+- [ea0990c0](https://github.com/kubedb/elasticsearch/commit/ea0990c0f) Prepare for release v0.61.0-rc.0 (#790)
+- [9d920917](https://github.com/kubedb/elasticsearch/commit/9d920917b) Remove init Container from Opensearch (#787)
+- [06726a8c](https://github.com/kubedb/elasticsearch/commit/06726a8ce) Merge pull request #788 from kubedb/prll-ctrl
+- [bf671dfe](https://github.com/kubedb/elasticsearch/commit/bf671dfe6) Prepare for release v0.60.0 (#786)
+- [3d9d54ad](https://github.com/kubedb/elasticsearch/commit/3d9d54ad0) Fix Opensearch health check issue for v3.0 (#785)
+- [10542dbb](https://github.com/kubedb/elasticsearch/commit/10542dbb0) Improve and generalize configure-reconfigure process (#782)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.22.0-rc.0)

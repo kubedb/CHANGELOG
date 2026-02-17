@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:03:06.344211702Z",
+  "release_date": "2026-02-17T03:03:23.11017565Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -127,6 +127,40 @@
             {
               "SHA": "d08174b5",
               "Subject": "Add Qdrant TLS Support (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.61.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ea0990c0f",
+              "Subject": "Prepare for release v0.61.0-rc.0 (#790)"
+            },
+            {
+              "SHA": "9d920917b",
+              "Subject": "Remove init Container from Opensearch (#787)"
+            },
+            {
+              "SHA": "06726a8ce",
+              "Subject": "Merge pull request #788 from kubedb/prll-ctrl"
+            },
+            {
+              "SHA": "bf671dfe6",
+              "Subject": "Prepare for release v0.60.0 (#786)"
+            },
+            {
+              "SHA": "3d9d54ad0",
+              "Subject": "Fix Opensearch health check issue for v3.0 (#785)"
+            },
+            {
+              "SHA": "10542dbb0",
+              "Subject": "Improve and generalize configure-reconfigure process (#782)"
             }
           ]
         }

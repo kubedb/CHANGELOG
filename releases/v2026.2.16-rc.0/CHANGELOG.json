@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:13:47.295223256Z",
+  "release_date": "2026-02-17T03:14:04.960700879Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -631,6 +631,24 @@
             {
               "SHA": "13952311",
               "Subject": "Use forked kubestash/restic (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8212e06",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#22)"
+            },
+            {
+              "SHA": "7e1bc65",
+              "Subject": "Prepare for release v0.6.0 (#20)"
             }
           ]
         }

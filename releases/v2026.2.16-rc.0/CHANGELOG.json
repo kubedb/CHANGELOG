@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:03:48.982112119Z",
+  "release_date": "2026-02-17T03:04:11.599719353Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -213,6 +213,52 @@
             {
               "SHA": "e6fd5d5f",
               "Subject": "Prepare for release v0.21.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.61.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e9c1b88f9",
+              "Subject": "Prepare for release v0.61.0-rc.0 (#856)"
+            },
+            {
+              "SHA": "2564a529a",
+              "Subject": "added permissions for binlog-cloeanup (#855)"
+            },
+            {
+              "SHA": "c16dae527",
+              "Subject": "Add Read Replica Support  (#854)"
+            },
+            {
+              "SHA": "b44e0d839",
+              "Subject": "Add pod toleration during storageClass migration (#853)"
+            },
+            {
+              "SHA": "acc6ee979",
+              "Subject": "Incorporate new snapshot naming in postgres archiver (#851)"
+            },
+            {
+              "SHA": "dde64cf30",
+              "Subject": "Update parallel processing logic (#849)"
+            },
+            {
+              "SHA": "5086c260c",
+              "Subject": "Update Arbiter error code (#848)"
+            },
+            {
+              "SHA": "a313afc9e",
+              "Subject": "Prepare for release v0.60.0 (#847)"
+            },
+            {
+              "SHA": "4d86169d7",
+              "Subject": "Add sharding facility for Postgres Ops-Requests (#843)"
             }
           ]
         }

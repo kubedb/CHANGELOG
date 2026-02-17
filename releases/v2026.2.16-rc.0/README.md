@@ -81,6 +81,22 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.61.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.61.0-rc.0)
+
+- [e9c1b88f](https://github.com/kubedb/postgres/commit/e9c1b88f9) Prepare for release v0.61.0-rc.0 (#856)
+- [2564a529](https://github.com/kubedb/postgres/commit/2564a529a) added permissions for binlog-cloeanup (#855)
+- [c16dae52](https://github.com/kubedb/postgres/commit/c16dae527) Add Read Replica Support  (#854)
+- [b44e0d83](https://github.com/kubedb/postgres/commit/b44e0d839) Add pod toleration during storageClass migration (#853)
+- [acc6ee97](https://github.com/kubedb/postgres/commit/acc6ee979) Incorporate new snapshot naming in postgres archiver (#851)
+- [dde64cf3](https://github.com/kubedb/postgres/commit/dde64cf30) Update parallel processing logic (#849)
+- [5086c260](https://github.com/kubedb/postgres/commit/5086c260c) Update Arbiter error code (#848)
+- [a313afc9](https://github.com/kubedb/postgres/commit/a313afc9e) Prepare for release v0.60.0 (#847)
+- [4d86169d](https://github.com/kubedb/postgres/commit/4d86169d7) Add sharding facility for Postgres Ops-Requests (#843)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.22.0-rc.0)

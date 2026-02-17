@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:16:12.405282172Z",
+  "release_date": "2026-02-17T03:16:49.266496467Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1195,6 +1195,44 @@
             {
               "SHA": "f58a1f91",
               "Subject": "Update Configure reconfigure process (#107)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b52556363",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#509)"
+            },
+            {
+              "SHA": "6231c4982",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#508)"
+            },
+            {
+              "SHA": "11c81d087",
+              "Subject": "Reconfigure Release Check (#505)"
+            },
+            {
+              "SHA": "3516c7cb4",
+              "Subject": "Prepare for release v0.45.0 (#504)"
+            },
+            {
+              "SHA": "dab2b9be1",
+              "Subject": "remove init_config form pgpool (#503)"
+            },
+            {
+              "SHA": "0f520a674",
+              "Subject": "reconfigure change: druid, solr, pgpool, redis, (#502)"
+            },
+            {
+              "SHA": "4dc2db5c8",
+              "Subject": "add apimachinery changes [reconfigurationSpec] (#501)"
             }
           ]
         }

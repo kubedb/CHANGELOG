@@ -493,6 +493,20 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.46.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.46.0-rc.0)
+
+- [b5255636](https://github.com/kubedb/tests/commit/b52556363) Prepare for release v0.46.0-rc.0 (#509)
+- [6231c498](https://github.com/kubedb/tests/commit/6231c4982) Prepare for release v0.46.0-rc.0 (#508)
+- [11c81d08](https://github.com/kubedb/tests/commit/11c81d087) Reconfigure Release Check (#505)
+- [3516c7cb](https://github.com/kubedb/tests/commit/3516c7cb4) Prepare for release v0.45.0 (#504)
+- [dab2b9be](https://github.com/kubedb/tests/commit/dab2b9be1) remove init_config form pgpool (#503)
+- [0f520a67](https://github.com/kubedb/tests/commit/0f520a674) reconfigure change: druid, solr, pgpool, redis, (#502)
+- [4dc2db5c](https://github.com/kubedb/tests/commit/4dc2db5c8) add apimachinery changes [reconfigurationSpec] (#501)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.9.0-rc.0)

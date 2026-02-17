@@ -502,6 +502,24 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.48.0-rc.0](https://github.com/kubedb/ops-manager/releases/tag/v0.48.0-rc.0)
+
+- [c35f7f05](https://github.com/kubedb/ops-manager/commit/c35f7f051) Prepare for release v0.48.0-rc.0 (#825)
+- [7c803e79](https://github.com/kubedb/ops-manager/commit/7c803e794) Redis VNPAY issue resolve (#824)
+- [695c66f3](https://github.com/kubedb/ops-manager/commit/695c66f30) Fix clickhouse ops controller setu (#822)
+- [6c5e356c](https://github.com/kubedb/ops-manager/commit/6c5e356c7) Update deps (#821)
+- [c2a15c74](https://github.com/kubedb/ops-manager/commit/c2a15c744) Use Qdrnat CRD instead QdrantOpsRequest (#820)
+- [0ffec481](https://github.com/kubedb/ops-manager/commit/0ffec4817) Prepare for release v0.47.0 (#819)
+- [4a669596](https://github.com/kubedb/ops-manager/commit/4a6695963) Qdrant ops fix (#818)
+- [f6367c98](https://github.com/kubedb/ops-manager/commit/f6367c98e) Add Qdrant TLS Support (#813)
+- [a67e2b7c](https://github.com/kubedb/ops-manager/commit/a67e2b7ce) Oracle TLS (#806)
+- [9ff1de6d](https://github.com/kubedb/ops-manager/commit/9ff1de6d1) Reconfigure redesign (#817)
+- [8000ffef](https://github.com/kubedb/ops-manager/commit/8000ffefe) Add shard configuration support for ops manager (#812)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.7.0-rc.0)

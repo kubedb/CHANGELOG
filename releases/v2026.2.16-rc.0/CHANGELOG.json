@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T17:18:43.493014706Z",
+  "release_date": "2026-02-17T17:20:44.834401788Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1193,6 +1193,60 @@
             {
               "SHA": "11567e45",
               "Subject": "Re-design Neo4j configuration field (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.48.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c35f7f051",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#825)"
+            },
+            {
+              "SHA": "7c803e794",
+              "Subject": "Redis VNPAY issue resolve (#824)"
+            },
+            {
+              "SHA": "695c66f30",
+              "Subject": "Fix clickhouse ops controller setu (#822)"
+            },
+            {
+              "SHA": "6c5e356c7",
+              "Subject": "Update deps (#821)"
+            },
+            {
+              "SHA": "c2a15c744",
+              "Subject": "Use Qdrnat CRD instead QdrantOpsRequest (#820)"
+            },
+            {
+              "SHA": "0ffec4817",
+              "Subject": "Prepare for release v0.47.0 (#819)"
+            },
+            {
+              "SHA": "4a6695963",
+              "Subject": "Qdrant ops fix (#818)"
+            },
+            {
+              "SHA": "f6367c98e",
+              "Subject": "Add Qdrant TLS Support (#813)"
+            },
+            {
+              "SHA": "a67e2b7ce",
+              "Subject": "Oracle TLS (#806)"
+            },
+            {
+              "SHA": "9ff1de6d1",
+              "Subject": "Reconfigure redesign (#817)"
+            },
+            {
+              "SHA": "8000ffefe",
+              "Subject": "Add shard configuration support for ops manager (#812)"
             }
           ]
         }

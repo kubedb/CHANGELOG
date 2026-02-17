@@ -271,6 +271,18 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.48.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.48.0-rc.0)
+
+- [0a851c7b](https://github.com/kubedb/percona-xtradb/commit/0a851c7b1) Prepare for release v0.48.0-rc.0 (#433)
+- [e2448241](https://github.com/kubedb/percona-xtradb/commit/e24482414) Update ops parallelism (#431)
+- [c6b0c8cc](https://github.com/kubedb/percona-xtradb/commit/c6b0c8ccc) Prepare for release v0.47.0 (#430)
+- [aa2c94b2](https://github.com/kubedb/percona-xtradb/commit/aa2c94b20) Use Exporter Version v0.18.0 (#429)
+- [a607e1af](https://github.com/kubedb/percona-xtradb/commit/a607e1af5) Improve and generalize configure-reconfigure (#428)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.61.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.61.0-rc.0)

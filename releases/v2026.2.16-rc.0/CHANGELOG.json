@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T16:53:08.226467891Z",
+  "release_date": "2026-02-17T16:55:01.226065825Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -562,6 +562,44 @@
             {
               "SHA": "fc8b0048",
               "Subject": "Prepare for release v0.11.0 (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.0",
+          "commits": [
+            {
+              "SHA": "58f3723cf",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#372)"
+            },
+            {
+              "SHA": "106a97299",
+              "Subject": "Distributed archiver support (#359)"
+            },
+            {
+              "SHA": "f7a26a38d",
+              "Subject": "Update for KubeStash API (#370)"
+            },
+            {
+              "SHA": "1fdc4f979",
+              "Subject": "Update ops parallelism (#367)"
+            },
+            {
+              "SHA": "b5e215a53",
+              "Subject": "Prepare for release v0.44.0 (#366)"
+            },
+            {
+              "SHA": "2b103c386",
+              "Subject": "Use Exporter Version v0.18.0 (#365)"
+            },
+            {
+              "SHA": "0cfc49986",
+              "Subject": "Improve and generalize configure-reconfigure (#363)"
             }
           ]
         }

@@ -236,6 +236,20 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.45.0-rc.0)
+
+- [58f3723c](https://github.com/kubedb/mariadb/commit/58f3723cf) Prepare for release v0.45.0-rc.0 (#372)
+- [106a9729](https://github.com/kubedb/mariadb/commit/106a97299) Distributed archiver support (#359)
+- [f7a26a38](https://github.com/kubedb/mariadb/commit/f7a26a38d) Update for KubeStash API (#370)
+- [1fdc4f97](https://github.com/kubedb/mariadb/commit/1fdc4f979) Update ops parallelism (#367)
+- [b5e215a5](https://github.com/kubedb/mariadb/commit/b5e215a53) Prepare for release v0.44.0 (#366)
+- [2b103c38](https://github.com/kubedb/mariadb/commit/2b103c386) Use Exporter Version v0.18.0 (#365)
+- [0cfc4998](https://github.com/kubedb/mariadb/commit/0cfc49986) Improve and generalize configure-reconfigure (#363)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.21.0-rc.0)

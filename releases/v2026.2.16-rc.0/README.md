@@ -125,6 +125,18 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.21.0-rc.0)
+
+- [95ecbd4d](https://github.com/kubedb/mariadb-archiver/commit/95ecbd4d) Prepare for release v0.21.0-rc.0 (#75)
+- [b6535426](https://github.com/kubedb/mariadb-archiver/commit/b6535426) Add Distributed Support (#65)
+- [d11b907e](https://github.com/kubedb/mariadb-archiver/commit/d11b907e) Fix ubi build (#73)
+- [40710dc0](https://github.com/kubedb/mariadb-archiver/commit/40710dc0) Prepare for release v0.20.0 (#72)
+- [ce027593](https://github.com/kubedb/mariadb-archiver/commit/ce027593) Fix redhat catalog submission (#70)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.41.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.41.0-rc.0)

@@ -127,6 +127,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.39.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.39.0-rc.0)
+
+- [926a94b4](https://github.com/kubedb/mysql-coordinator/commit/926a94b4) Prepare for release v0.39.0-rc.0 (#162)
+- [64575b6f](https://github.com/kubedb/mysql-coordinator/commit/64575b6f) Prepare for release v0.38.0 (#160)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.61.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.61.0-rc.0)

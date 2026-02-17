@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:14:20.208463061Z",
+  "release_date": "2026-02-17T03:14:33.508220498Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -901,6 +901,32 @@
             {
               "SHA": "e43601fb",
               "Subject": "Prepare for release v0.47.0 (#307)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "084e27aa",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#99)"
+            },
+            {
+              "SHA": "6a1e622c",
+              "Subject": "Update ops parallelism (#97)"
+            },
+            {
+              "SHA": "d655bfec",
+              "Subject": "Prepare for release v0.15.0 (#96)"
+            },
+            {
+              "SHA": "08bcff61",
+              "Subject": "Improve and generalize configure-reconfigure (#95)"
             }
           ]
         }

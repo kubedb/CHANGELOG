@@ -370,6 +370,17 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.16.0-rc.0)
+
+- [084e27aa](https://github.com/kubedb/singlestore/commit/084e27aa) Prepare for release v0.16.0-rc.0 (#99)
+- [6a1e622c](https://github.com/kubedb/singlestore/commit/6a1e622c) Update ops parallelism (#97)
+- [d655bfec](https://github.com/kubedb/singlestore/commit/d655bfec) Prepare for release v0.15.0 (#96)
+- [08bcff61](https://github.com/kubedb/singlestore/commit/08bcff61) Improve and generalize configure-reconfigure (#95)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.16.0-rc.0)

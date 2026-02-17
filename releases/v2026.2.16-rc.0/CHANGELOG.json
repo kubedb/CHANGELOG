@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-16T20:01:40.609905994Z",
+  "release_date": "2026-02-17T03:03:06.344211702Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -127,6 +127,24 @@
             {
               "SHA": "d08174b5",
               "Subject": "Add Qdrant TLS Support (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "971d799d",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#70)"
+            },
+            {
+              "SHA": "e6fd5d5f",
+              "Subject": "Prepare for release v0.21.0 (#68)"
             }
           ]
         }

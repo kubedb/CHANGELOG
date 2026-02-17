@@ -1,4 +1,4 @@
-# KubeDB v2026.2.16-rc.0 (2026-02-16)
+# KubeDB v2026.2.16-rc.0 (2026-02-17)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -43,6 +43,15 @@
 - [2ecc2b55](https://github.com/kubedb/db-client-go/commit/2ecc2b55) Prepare for release v0.15.0 (#217)
 - [9854141c](https://github.com/kubedb/db-client-go/commit/9854141c) fix opensearch-v3 health check issues (#216)
 - [d08174b5](https://github.com/kubedb/db-client-go/commit/d08174b5) Add Qdrant TLS Support (#212)
+
+
+
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.22.0-rc.0)
+
+- [971d799d](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/971d799d) Prepare for release v0.22.0-rc.0 (#70)
+- [e6fd5d5f](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/e6fd5d5f) Prepare for release v0.21.0 (#68)
 
 
 

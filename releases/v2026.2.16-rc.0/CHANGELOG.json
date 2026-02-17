@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:19:38.711420151Z",
+  "release_date": "2026-02-17T04:51:53.87824655Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -488,6 +488,28 @@
             {
               "SHA": "8806da50",
               "Subject": "Update Reconfigure/Configure (#172)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9c1f0d74",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#169)"
+            },
+            {
+              "SHA": "2a0c9e0c",
+              "Subject": "Remove Init Container From es/os Dashboard (#168)"
+            },
+            {
+              "SHA": "c454080c",
+              "Subject": "Prepare for release v0.36.0 (#167)"
             }
           ]
         }

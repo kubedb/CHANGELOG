@@ -222,6 +222,18 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.19.0-rc.0)
+
+- [0d5eb53](https://github.com/kubedb/mariadb-restic-plugin/commit/0d5eb53) Prepare for release v0.19.0-rc.0 (#73)
+- [15c95b9](https://github.com/kubedb/mariadb-restic-plugin/commit/15c95b9) Incorporate changes for restic standalone pkg (#72)
+- [9c46acc](https://github.com/kubedb/mariadb-restic-plugin/commit/9c46acc) Prepare for release v0.18.0 (#70)
+- [0c011f7](https://github.com/kubedb/mariadb-restic-plugin/commit/0c011f7) Use forked kubestash/restic (#69)
+- [7403f2d](https://github.com/kubedb/mariadb-restic-plugin/commit/7403f2d) Use forked kubestash/restic (#68)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.54.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.54.0-rc.0)

@@ -604,6 +604,17 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.48.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.48.0-rc.0)
+
+- [7a4da426](https://github.com/kubedb/proxysql/commit/7a4da426c) Prepare for release v0.48.0-rc.0 (#416)
+- [835a5511](https://github.com/kubedb/proxysql/commit/835a55112) Merge pull request #414 from kubedb/run-parallel-imp
+- [cdcee6ba](https://github.com/kubedb/proxysql/commit/cdcee6baf) Prepare for release v0.47.0 (#413)
+- [96edac7b](https://github.com/kubedb/proxysql/commit/96edac7b7) Improve and generalize configure-reconfigure process (#412)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.2.0-rc.0)

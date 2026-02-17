@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T16:55:01.226065825Z",
+  "release_date": "2026-02-17T16:55:54.420628847Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1420,6 +1420,32 @@
         {
           "tag": "v0.22.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.48.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7a4da426c",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#416)"
+            },
+            {
+              "SHA": "835a55112",
+              "Subject": "Merge pull request #414 from kubedb/run-parallel-imp"
+            },
+            {
+              "SHA": "cdcee6baf",
+              "Subject": "Prepare for release v0.47.0 (#413)"
+            },
+            {
+              "SHA": "96edac7b7",
+              "Subject": "Improve and generalize configure-reconfigure process (#412)"
+            }
+          ]
         }
       ]
     },

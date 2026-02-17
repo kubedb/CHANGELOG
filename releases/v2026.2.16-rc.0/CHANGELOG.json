@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:09:15.869959506Z",
+  "release_date": "2026-02-17T03:09:35.036205673Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -161,6 +161,36 @@
             {
               "SHA": "10542dbb0",
               "Subject": "Improve and generalize configure-reconfigure process (#782)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.32.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ac302858",
+              "Subject": "Prepare for release v0.32.0-rc.0 (#176)"
+            },
+            {
+              "SHA": "848ca394",
+              "Subject": "Add Kafka Tiered Storage Support (#130)"
+            },
+            {
+              "SHA": "543ee275",
+              "Subject": "Merge pull request #174 from kubedb/proceed"
+            },
+            {
+              "SHA": "3ccdb0fd",
+              "Subject": "Prepare for release v0.31.0 (#173)"
+            },
+            {
+              "SHA": "8806da50",
+              "Subject": "Update Reconfigure/Configure (#172)"
             }
           ]
         }

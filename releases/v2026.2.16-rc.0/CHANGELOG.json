@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:15:51.527388209Z",
+  "release_date": "2026-02-17T03:16:12.405282172Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -735,6 +735,32 @@
             {
               "SHA": "13952311",
               "Subject": "Use forked kubestash/restic (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "84994b32",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#14)"
+            },
+            {
+              "SHA": "96ef4cff",
+              "Subject": "bug fix and improved (#12)"
+            },
+            {
+              "SHA": "bfe1d9d4",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "11567e45",
+              "Subject": "Re-design Neo4j configuration field (#10)"
             }
           ]
         }

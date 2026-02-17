@@ -389,6 +389,15 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.7.0-rc.0)
+
+- [bb2b29c0](https://github.com/kubedb/oracle/commit/bb2b29c0) Prepare for release v0.7.0-rc.0 (#28)
+- [30a93cc0](https://github.com/kubedb/oracle/commit/30a93cc0) Prepare for release v0.6.0 (#24)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.7.0-rc.0)

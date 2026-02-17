@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:18:35.526966071Z",
+  "release_date": "2026-02-17T03:18:41.753827873Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -941,6 +941,24 @@
             {
               "SHA": "11567e45",
               "Subject": "Re-design Neo4j configuration field (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "bb2b29c0",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#28)"
+            },
+            {
+              "SHA": "30a93cc0",
+              "Subject": "Prepare for release v0.6.0 (#24)"
             }
           ]
         }

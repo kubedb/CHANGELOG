@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:13:25.376902286Z",
+  "release_date": "2026-02-17T03:13:32.097209361Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -835,6 +835,24 @@
             {
               "SHA": "e43601fb",
               "Subject": "Prepare for release v0.47.0 (#307)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "bc0e985f",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "49dc2d43",
+              "Subject": "Prepare for release v0.15.0 (#57)"
             }
           ]
         }

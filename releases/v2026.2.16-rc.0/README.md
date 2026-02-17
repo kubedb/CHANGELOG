@@ -340,6 +340,15 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.16.0-rc.0)
+
+- [bc0e985f](https://github.com/kubedb/singlestore-coordinator/commit/bc0e985f) Prepare for release v0.16.0-rc.0 (#59)
+- [49dc2d43](https://github.com/kubedb/singlestore-coordinator/commit/49dc2d43) Prepare for release v0.15.0 (#57)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.16.0-rc.0)

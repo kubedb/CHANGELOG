@@ -495,6 +495,18 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.45.0-rc.0)
+
+- [beb05456](https://github.com/kubedb/pg-coordinator/commit/beb05456) Prepare for release v0.45.0-rc.0 (#231)
+- [f4f84f76](https://github.com/kubedb/pg-coordinator/commit/f4f84f76) Add Read Replica Support (#229)
+- [b245d7b5](https://github.com/kubedb/pg-coordinator/commit/b245d7b5) Update timing (#227)
+- [bfaefa78](https://github.com/kubedb/pg-coordinator/commit/bfaefa78) Prepare for release v0.44.0 (#226)
+- [e3803360](https://github.com/kubedb/pg-coordinator/commit/e3803360) Add prev version compatibility (#220)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.16.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T04:51:53.87824655Z",
+  "release_date": "2026-02-17T16:53:08.226467891Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1165,6 +1165,36 @@
             {
               "SHA": "6d891d1e",
               "Subject": "Prepare for release v0.33.0 (#110)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.0",
+          "commits": [
+            {
+              "SHA": "beb05456",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#231)"
+            },
+            {
+              "SHA": "f4f84f76",
+              "Subject": "Add Read Replica Support (#229)"
+            },
+            {
+              "SHA": "b245d7b5",
+              "Subject": "Update timing (#227)"
+            },
+            {
+              "SHA": "bfaefa78",
+              "Subject": "Prepare for release v0.44.0 (#226)"
+            },
+            {
+              "SHA": "e3803360",
+              "Subject": "Add prev version compatibility (#220)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T17:09:24.495686952Z",
+  "release_date": "2026-02-17T17:11:36.566698176Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1854,6 +1854,24 @@
             {
               "SHA": "4dc2db5c8",
               "Subject": "add apimachinery changes [reconfigurationSpec] (#501)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.0",
+          "commits": [
+            {
+              "SHA": "15c16908",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#188)"
+            },
+            {
+              "SHA": "50ce64af",
+              "Subject": "Prepare for release v0.36.0 (#186)"
             }
           ]
         }

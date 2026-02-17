@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:12:30.924593911Z",
+  "release_date": "2026-02-17T03:12:40.527215359Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -473,6 +473,36 @@
             {
               "SHA": "a9d3248b",
               "Subject": "Correctly check if sqlservr process is running for new versions (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b11cee95",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#109)"
+            },
+            {
+              "SHA": "ca90875f",
+              "Subject": "Update for KubeStash API (#108)"
+            },
+            {
+              "SHA": "da9faff4",
+              "Subject": "Integrate shouldProceed() utility on runParallel (#105)"
+            },
+            {
+              "SHA": "6567d1a5",
+              "Subject": "Prepare for release v0.15.0 (#103)"
+            },
+            {
+              "SHA": "2f64f6a0",
+              "Subject": "Improve and generalize configure-reconfigure process (#100)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:09:43.212081324Z",
+  "release_date": "2026-02-17T03:10:01.105073358Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -247,6 +247,44 @@
             {
               "SHA": "08b426e5",
               "Subject": "Prepare for release v0.40.0 (#161)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.54.0-rc.0",
+          "commits": [
+            {
+              "SHA": "29774d97b",
+              "Subject": "Prepare for release v0.54.0-rc.0 (#736)"
+            },
+            {
+              "SHA": "26c98778d",
+              "Subject": "update for kubestash api (#735)"
+            },
+            {
+              "SHA": "aba284ca0",
+              "Subject": "Incorporate kubestash labels on snapshot (#733)"
+            },
+            {
+              "SHA": "c440ff53f",
+              "Subject": "Merge pull request #731 from kubedb/proceed"
+            },
+            {
+              "SHA": "5f538c7c6",
+              "Subject": "Fix empty object issue on removeCustomConfig (#730)"
+            },
+            {
+              "SHA": "4a9999a24",
+              "Subject": "Prepare for release v0.53.0 (#729)"
+            },
+            {
+              "SHA": "06a6f687d",
+              "Subject": "Re-design Configure reconfigure process (#726)"
             }
           ]
         }

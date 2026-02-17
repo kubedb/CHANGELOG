@@ -94,6 +94,20 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.54.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.54.0-rc.0)
+
+- [29774d97](https://github.com/kubedb/mongodb/commit/29774d97b) Prepare for release v0.54.0-rc.0 (#736)
+- [26c98778](https://github.com/kubedb/mongodb/commit/26c98778d) update for kubestash api (#735)
+- [aba284ca](https://github.com/kubedb/mongodb/commit/aba284ca0) Incorporate kubestash labels on snapshot (#733)
+- [c440ff53](https://github.com/kubedb/mongodb/commit/c440ff53f) Merge pull request #731 from kubedb/proceed
+- [5f538c7c](https://github.com/kubedb/mongodb/commit/5f538c7c6) Fix empty object issue on removeCustomConfig (#730)
+- [4a9999a2](https://github.com/kubedb/mongodb/commit/4a9999a24) Prepare for release v0.53.0 (#729)
+- [06a6f687](https://github.com/kubedb/mongodb/commit/06a6f687d) Re-design Configure reconfigure process (#726)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.22.0-rc.0)

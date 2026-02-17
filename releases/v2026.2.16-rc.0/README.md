@@ -23,6 +23,15 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.8.0-rc.0)
+
+- [c4f10d61](https://github.com/kubedb/cassandra-medusa-plugin/commit/c4f10d61) Prepare for release v0.8.0-rc.0 (#23)
+- [52d43201](https://github.com/kubedb/cassandra-medusa-plugin/commit/52d43201) Prepare for release v0.7.0 (#21)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.16.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:14:40.937868728Z",
+  "release_date": "2026-02-17T03:14:48.730685462Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1001,6 +1001,32 @@
             {
               "SHA": "f58a1f91",
               "Subject": "Update Configure reconfigure process (#107)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.0",
+          "commits": [
+            {
+              "SHA": "416ddbe",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "7c92d9a",
+              "Subject": "Incorporate changes for restic standalone pkg (#36)"
+            },
+            {
+              "SHA": "66414d7",
+              "Subject": "Fix OS and ARC in makefile (#34)"
+            },
+            {
+              "SHA": "6250c18",
+              "Subject": "Use forked kubestasgh/restic (#31)"
             }
           ]
         }

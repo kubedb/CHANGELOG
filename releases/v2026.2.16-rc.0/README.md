@@ -324,6 +324,20 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.22.0-rc.0)
+
+- [2703fb78](https://github.com/kubedb/mysql-archiver/commit/2703fb78) Prepare for release v0.22.0-rc.0 (#81)
+- [77cca4ad](https://github.com/kubedb/mysql-archiver/commit/77cca4ad) Clean up old binlogs (#75)
+- [4b0fcbdd](https://github.com/kubedb/mysql-archiver/commit/4b0fcbdd) Remove ubi related stuffs (#79)
+- [cc257ddb](https://github.com/kubedb/mysql-archiver/commit/cc257ddb) Update makefile for ubi (#68)
+- [2e7232d0](https://github.com/kubedb/mysql-archiver/commit/2e7232d0) Fix ubi build (#78)
+- [6b3becf0](https://github.com/kubedb/mysql-archiver/commit/6b3becf0) Prepare for release v0.21.0 (#77)
+- [9a8fa9f6](https://github.com/kubedb/mysql-archiver/commit/9a8fa9f6) Submit to red hat catalog (#74)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.39.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.39.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:17:58.242066853Z",
+  "release_date": "2026-02-17T03:18:27.143012611Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -789,6 +789,44 @@
             {
               "SHA": "b74becf00",
               "Subject": "Improve and generalize configure-reconfigure (#711)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2703fb78",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#81)"
+            },
+            {
+              "SHA": "77cca4ad",
+              "Subject": "Clean up old binlogs (#75)"
+            },
+            {
+              "SHA": "4b0fcbdd",
+              "Subject": "Remove ubi related stuffs (#79)"
+            },
+            {
+              "SHA": "cc257ddb",
+              "Subject": "Update makefile for ubi (#68)"
+            },
+            {
+              "SHA": "2e7232d0",
+              "Subject": "Fix ubi build (#78)"
+            },
+            {
+              "SHA": "6b3becf0",
+              "Subject": "Prepare for release v0.21.0 (#77)"
+            },
+            {
+              "SHA": "9a8fa9f6",
+              "Subject": "Submit to red hat catalog (#74)"
             }
           ]
         }

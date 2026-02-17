@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:10:10.362733241Z",
+  "release_date": "2026-02-17T03:10:19.825975583Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -127,6 +127,32 @@
             {
               "SHA": "d08174b5",
               "Subject": "Add Qdrant TLS Support (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b04c676d",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "8c8432ef",
+              "Subject": "fix-parallel (#112)"
+            },
+            {
+              "SHA": "34a18a5a",
+              "Subject": "Prepare for release v0.15.0 (#111)"
+            },
+            {
+              "SHA": "6236221f",
+              "Subject": "Reconfigure redesign (#110)"
             }
           ]
         }

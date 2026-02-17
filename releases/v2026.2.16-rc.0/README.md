@@ -718,6 +718,15 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.37.0-rc.0](https://github.com/kubedb/schema-manager/releases/tag/v0.37.0-rc.0)
+
+- [0404123c](https://github.com/kubedb/schema-manager/commit/0404123c) Prepare for release v0.37.0-rc.0 (#156)
+- [c83b51e0](https://github.com/kubedb/schema-manager/commit/c83b51e0) Prepare for release v0.36.0 (#154)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.16.0-rc.0)

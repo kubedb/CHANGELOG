@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T17:08:43.501488003Z",
+  "release_date": "2026-02-17T17:09:24.495686952Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1880,6 +1880,40 @@
             {
               "SHA": "71791e5b",
               "Subject": "Configuration redesign (#9)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3be1e859",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#194)"
+            },
+            {
+              "SHA": "f7964f91",
+              "Subject": "Update API for VNPAY volume expansion issue (#191)"
+            },
+            {
+              "SHA": "ec1aeada",
+              "Subject": "Update Deps (#190)"
+            },
+            {
+              "SHA": "121b23fa",
+              "Subject": "Update Deps (#189)"
+            },
+            {
+              "SHA": "aceff628",
+              "Subject": "Prepare for release v0.36.0 (#188)"
+            },
+            {
+              "SHA": "60f8f40d",
+              "Subject": "Use Go version 1.25 in go.mod and Makefile"
             }
           ]
         }

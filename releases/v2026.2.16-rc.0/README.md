@@ -796,6 +796,19 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.37.0-rc.0](https://github.com/kubedb/webhook-server/releases/tag/v0.37.0-rc.0)
+
+- [3be1e859](https://github.com/kubedb/webhook-server/commit/3be1e859) Prepare for release v0.37.0-rc.0 (#194)
+- [f7964f91](https://github.com/kubedb/webhook-server/commit/f7964f91) Update API for VNPAY volume expansion issue (#191)
+- [ec1aeada](https://github.com/kubedb/webhook-server/commit/ec1aeada) Update Deps (#190)
+- [121b23fa](https://github.com/kubedb/webhook-server/commit/121b23fa) Update Deps (#189)
+- [aceff628](https://github.com/kubedb/webhook-server/commit/aceff628) Prepare for release v0.36.0 (#188)
+- [60f8f40d](https://github.com/kubedb/webhook-server/commit/60f8f40d) Use Go version 1.25 in go.mod and Makefile
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.9.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.9.0-rc.0)

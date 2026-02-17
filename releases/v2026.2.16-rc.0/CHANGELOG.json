@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:18:27.143012611Z",
+  "release_date": "2026-02-17T03:18:33.339724872Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -357,6 +357,28 @@
             {
               "SHA": "4dae1f47",
               "Subject": "Update Configuration Changes (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "dd50ccfc",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "ae192632",
+              "Subject": "fix auth issue (#12)"
+            },
+            {
+              "SHA": "d29c0289",
+              "Subject": "Prepare for release v0.1.0 (#11)"
             }
           ]
         }

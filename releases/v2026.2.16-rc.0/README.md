@@ -144,6 +144,16 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.2.0-rc.0)
+
+- [dd50ccfc](https://github.com/kubedb/hanadb/commit/dd50ccfc) Prepare for release v0.2.0-rc.0 (#15)
+- [ae192632](https://github.com/kubedb/hanadb/commit/ae192632) fix auth issue (#12)
+- [d29c0289](https://github.com/kubedb/hanadb/commit/d29c0289) Prepare for release v0.1.0 (#11)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.7.0-rc.0)

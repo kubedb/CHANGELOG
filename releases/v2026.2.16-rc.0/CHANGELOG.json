@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:18:33.339724872Z",
+  "release_date": "2026-02-17T03:18:35.526966071Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1149,6 +1149,15 @@
               "Subject": "Use forked kubestash/restic (#88)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": null
         }
       ]
     },

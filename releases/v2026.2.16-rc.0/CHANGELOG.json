@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T17:17:01.776924928Z",
+  "release_date": "2026-02-17T17:18:43.493014706Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -1520,6 +1520,40 @@
         {
           "tag": "v0.22.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.61.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f24e8311c",
+              "Subject": "Prepare for release v0.61.0-rc.0 (#192)"
+            },
+            {
+              "SHA": "9f7d961f6",
+              "Subject": "Updates for ferret, weaviate & snapshot changes (#190)"
+            },
+            {
+              "SHA": "a94ed0b58",
+              "Subject": "Update deps for DBs (#187)"
+            },
+            {
+              "SHA": "773dafc59",
+              "Subject": "add etcd sceme (#188)"
+            },
+            {
+              "SHA": "81dedbc0b",
+              "Subject": "Prepare for release v0.60.0 (#185)"
+            },
+            {
+              "SHA": "6abadcb1a",
+              "Subject": "Add clickhouse (#184)"
+            }
+          ]
         }
       ]
     },

@@ -647,6 +647,19 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.61.0-rc.0](https://github.com/kubedb/provisioner/releases/tag/v0.61.0-rc.0)
+
+- [f24e8311](https://github.com/kubedb/provisioner/commit/f24e8311c) Prepare for release v0.61.0-rc.0 (#192)
+- [9f7d961f](https://github.com/kubedb/provisioner/commit/9f7d961f6) Updates for ferret, weaviate & snapshot changes (#190)
+- [a94ed0b5](https://github.com/kubedb/provisioner/commit/a94ed0b58) Update deps for DBs (#187)
+- [773dafc5](https://github.com/kubedb/provisioner/commit/773dafc59) add etcd sceme (#188)
+- [81dedbc0](https://github.com/kubedb/provisioner/commit/81dedbc0b) Prepare for release v0.60.0 (#185)
+- [6abadcb1](https://github.com/kubedb/provisioner/commit/6abadcb1a) Add clickhouse (#184)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.48.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.48.0-rc.0)

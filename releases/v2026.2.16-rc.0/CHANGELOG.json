@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:15:00.264762803Z",
+  "release_date": "2026-02-17T03:15:20.773400626Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -231,6 +231,36 @@
             {
               "SHA": "10542dbb0",
               "Subject": "Improve and generalize configure-reconfigure process (#782)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "21960b1b",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#84)"
+            },
+            {
+              "SHA": "21875af7",
+              "Subject": "Incorporate changes for restic standalone pkg (#83)"
+            },
+            {
+              "SHA": "a025d501",
+              "Subject": "Prepare for release v0.23.0 (#81)"
+            },
+            {
+              "SHA": "63215a12",
+              "Subject": "Use forked kubestash/restic (#80)"
+            },
+            {
+              "SHA": "085362c3",
+              "Subject": "Use forked kubestash/restic (#79)"
             }
           ]
         }

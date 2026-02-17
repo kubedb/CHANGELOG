@@ -262,6 +262,19 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.2.0-rc.0)
+
+- [22c54605](https://github.com/kubedb/qdrant/commit/22c54605) Prepare for release v0.2.0-rc.0 (#18)
+- [756abbb6](https://github.com/kubedb/qdrant/commit/756abbb6) TLS fixes (#16)
+- [0ab05f74](https://github.com/kubedb/qdrant/commit/0ab05f74) Update deps (#15)
+- [1ce521e9](https://github.com/kubedb/qdrant/commit/1ce521e9) Prepare for release v0.1.0 (#14)
+- [051524f1](https://github.com/kubedb/qdrant/commit/051524f1) Re-design Configuration process (#12)
+- [27031124](https://github.com/kubedb/qdrant/commit/27031124) Add TLS support (#9)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.54.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.54.0-rc.0)

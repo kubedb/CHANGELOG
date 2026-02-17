@@ -74,7 +74,7 @@
         "tag": "v0.12.0-rc.0"
       },
       "github.com/kubedb/mariadb": {
-        "tag": "v0.44.0-rc.0"
+        "tag": "v0.45.0-rc.0"
       },
       "github.com/kubedb/mariadb-archiver": {
         "tag": "v0.21.0-rc.0"
@@ -149,7 +149,7 @@
         "tag": "v0.34.0-rc.0"
       },
       "github.com/kubedb/pg-coordinator": {
-        "tag": "v0.44.0-rc.0"
+        "tag": "v0.45.0-rc.0"
       },
       "github.com/kubedb/pgpool": {
         "tag": "v0.16.0-rc.0"

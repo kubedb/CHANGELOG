@@ -72,6 +72,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.41.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.41.0-rc.0)
+
+- [b1ee0463](https://github.com/kubedb/mariadb-coordinator/commit/b1ee0463) Prepare for release v0.41.0-rc.0 (#163)
+- [80432fdc](https://github.com/kubedb/mariadb-coordinator/commit/80432fdc) Distributed archiver support (#153)
+- [08b426e5](https://github.com/kubedb/mariadb-coordinator/commit/08b426e5) Prepare for release v0.40.0 (#161)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.22.0-rc.0)

@@ -98,6 +98,13 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.2.0-rc.0)
+
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.16.0-rc.0)

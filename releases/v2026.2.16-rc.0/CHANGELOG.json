@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:15:45.487237251Z",
+  "release_date": "2026-02-17T03:15:51.527388209Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -525,6 +525,24 @@
             {
               "SHA": "25b0aa419",
               "Subject": "Update memcached reconfigure (#518)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-cli",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6e3085b",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#2)"
+            },
+            {
+              "SHA": "4120491",
+              "Subject": "initial setup, integrate pg_dump and logical replication for postgres (#1)"
             }
           ]
         }

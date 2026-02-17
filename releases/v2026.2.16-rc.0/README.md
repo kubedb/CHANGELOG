@@ -213,6 +213,15 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.1.0-rc.0)
+
+- [6e3085b](https://github.com/kubedb/migrator-cli/commit/6e3085b) Prepare for release v0.1.0-rc.0 (#2)
+- [4120491](https://github.com/kubedb/migrator-cli/commit/4120491) initial setup, integrate pg_dump and logical replication for postgres (#1)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.54.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.54.0-rc.0)

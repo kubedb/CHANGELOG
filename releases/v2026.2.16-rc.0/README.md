@@ -331,6 +331,15 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.48.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.48.0-rc.0)
+
+- [02c69b56](https://github.com/kubedb/replication-mode-detector/commit/02c69b56) Prepare for release v0.48.0-rc.0 (#309)
+- [e43601fb](https://github.com/kubedb/replication-mode-detector/commit/e43601fb) Prepare for release v0.47.0 (#307)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.16.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.16.0-rc.0)

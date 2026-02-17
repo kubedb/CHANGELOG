@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T16:56:29.307525978Z",
+  "release_date": "2026-02-17T16:56:38.503380884Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -748,6 +748,32 @@
             {
               "SHA": "4120491",
               "Subject": "initial setup, integrate pg_dump and logical replication for postgres (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-operator",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "41e08f9",
+              "Subject": "Fix CI (#5)"
+            },
+            {
+              "SHA": "0355020",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
+            },
+            {
+              "SHA": "47b051e",
+              "Subject": "Rewrite utils pkg to make it db agnostic (#2)"
+            },
+            {
+              "SHA": "7e38d57",
+              "Subject": "Init operator for database migration to kubedb"
             }
           ]
         }

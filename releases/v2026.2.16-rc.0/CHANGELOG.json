@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:18:41.753827873Z",
+  "release_date": "2026-02-17T03:18:48.504224506Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -639,6 +639,40 @@
             {
               "SHA": "4120491",
               "Subject": "initial setup, integrate pg_dump and logical replication for postgres (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "06366bab",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#17)"
+            },
+            {
+              "SHA": "b0081352",
+              "Subject": "Remove Dockerfile (#16)"
+            },
+            {
+              "SHA": "8a73c4f7",
+              "Subject": "Add Milvus Cluster (#12)"
+            },
+            {
+              "SHA": "f801e32b",
+              "Subject": "Fix Standalone Milvus Phase Update (#13)"
+            },
+            {
+              "SHA": "6a714e39",
+              "Subject": "Prepare for release v0.1.0 (#11)"
+            },
+            {
+              "SHA": "e5782e5c",
+              "Subject": "Update Configuration process (#10)"
             }
           ]
         }

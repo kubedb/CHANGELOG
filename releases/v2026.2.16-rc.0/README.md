@@ -264,6 +264,19 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/milvus/releases/tag/v0.2.0-rc.0)
+
+- [06366bab](https://github.com/kubedb/milvus/commit/06366bab) Prepare for release v0.2.0-rc.0 (#17)
+- [b0081352](https://github.com/kubedb/milvus/commit/b0081352) Remove Dockerfile (#16)
+- [8a73c4f7](https://github.com/kubedb/milvus/commit/8a73c4f7) Add Milvus Cluster (#12)
+- [f801e32b](https://github.com/kubedb/milvus/commit/f801e32b) Fix Standalone Milvus Phase Update (#13)
+- [6a714e39](https://github.com/kubedb/milvus/commit/6a714e39) Prepare for release v0.1.0 (#11)
+- [e5782e5c](https://github.com/kubedb/milvus/commit/e5782e5c) Update Configuration process (#10)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.54.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.54.0-rc.0)

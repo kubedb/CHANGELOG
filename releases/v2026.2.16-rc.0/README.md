@@ -322,6 +322,14 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.15.0-rc.0)
+
+- [720ce9b](https://github.com/kubedb/mssqlserver-archiver/commit/720ce9b) Update release wf (#21)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.15.0-rc.0)

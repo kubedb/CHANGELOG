@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.16-rc.0",
-  "release_date": "2026-02-17T03:18:48.504224506Z",
+  "release_date": "2026-02-17T03:18:52.840601782Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.16-rc.0",
   "kubernetes_version": "1.26+",
@@ -781,6 +781,20 @@
             {
               "SHA": "2f64f6a0",
               "Subject": "Improve and generalize configure-reconfigure process (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "720ce9b",
+              "Subject": "Update release wf (#21)"
             }
           ]
         }

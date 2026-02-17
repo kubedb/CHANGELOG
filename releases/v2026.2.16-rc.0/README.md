@@ -283,6 +283,18 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.16.0-rc.0)
+
+- [582b34f8](https://github.com/kubedb/pgpool/commit/582b34f8) Prepare for release v0.16.0-rc.0 (#99)
+- [62699f51](https://github.com/kubedb/pgpool/commit/62699f51) Add Parallelism Controller (#97)
+- [ccff7fd9](https://github.com/kubedb/pgpool/commit/ccff7fd9) Prepare for release v0.15.0 (#96)
+- [a849809d](https://github.com/kubedb/pgpool/commit/a849809d) Improve and generalize configure-reconfigure process (#95)
+- [e5f20e47](https://github.com/kubedb/pgpool/commit/e5f20e47) Fix resource watcher for vsecret (#92)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.61.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.61.0-rc.0)

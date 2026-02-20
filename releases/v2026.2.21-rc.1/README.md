@@ -39,6 +39,14 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.7.0-rc.1](https://github.com/kubedb/hazelcast/releases/tag/v0.7.0-rc.1)
+
+- [56738410](https://github.com/kubedb/hazelcast/commit/56738410) Prepare for release v0.7.0-rc.1 (#29)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.15.0-rc.1)

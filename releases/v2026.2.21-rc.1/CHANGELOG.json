@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T20:52:59.867791661Z",
+  "release_date": "2026-02-20T21:00:34.08266766Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -35,6 +35,20 @@
             {
               "SHA": "54c284279",
               "Subject": "Update migrator image spec (#1596)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b842153d",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#112)"
             }
           ]
         }

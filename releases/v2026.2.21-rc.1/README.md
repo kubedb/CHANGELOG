@@ -14,3 +14,11 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/crd-manager/releases/tag/v0.16.0-rc.1)
+
+- [b842153d](https://github.com/kubedb/crd-manager/commit/b842153d) Prepare for release v0.16.0-rc.1 (#112)
+
+
+

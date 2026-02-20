@@ -71,6 +71,14 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.9.0-rc.1](https://github.com/kubedb/gitops/releases/tag/v0.9.0-rc.1)
+
+- [6954152b](https://github.com/kubedb/gitops/commit/6954152b) Prepare for release v0.9.0-rc.1 (#42)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/hanadb/releases/tag/v0.2.0-rc.1)

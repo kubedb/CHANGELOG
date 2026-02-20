@@ -103,6 +103,14 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.1.0-rc.1](https://github.com/kubedb/migrator-cli/releases/tag/v0.1.0-rc.1)
+
+- [1ae73cb](https://github.com/kubedb/migrator-cli/commit/1ae73cb) Prepare for release v0.1.0-rc.1 (#5)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.16.0-rc.1)

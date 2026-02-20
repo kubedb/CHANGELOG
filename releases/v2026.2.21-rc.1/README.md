@@ -293,6 +293,14 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.24.0-rc.1](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.24.0-rc.1)
+
+- [24e23ccd](https://github.com/kubedb/redis-restic-plugin/commit/24e23ccd) Prepare for release v0.24.0-rc.1 (#92)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.19.0-rc.1](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.19.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T21:37:21.860587651Z",
+  "release_date": "2026-02-20T21:38:58.450091703Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -109,6 +109,20 @@
             {
               "SHA": "56738410",
               "Subject": "Prepare for release v0.7.0-rc.1 (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "668d592b",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#38)"
             }
           ]
         }

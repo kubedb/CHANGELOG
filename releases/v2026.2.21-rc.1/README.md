@@ -55,6 +55,14 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/ignite/releases/tag/v0.8.0-rc.1)
+
+- [668d592b](https://github.com/kubedb/ignite/commit/668d592b) Prepare for release v0.8.0-rc.1 (#38)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.12.0-rc.1](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.12.0-rc.1)

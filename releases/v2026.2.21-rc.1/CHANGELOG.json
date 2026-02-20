@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T22:31:10.435025858Z",
+  "release_date": "2026-02-20T22:31:49.986664686Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -216,6 +216,20 @@
             {
               "SHA": "b5eef01",
               "Subject": "Prepare for release v0.15.0-rc.1 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.54.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0db51d13c",
+              "Subject": "Prepare for release v0.54.0-rc.1 (#726)"
             }
           ]
         }

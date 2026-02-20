@@ -79,6 +79,14 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/druid/releases/tag/v0.16.0-rc.1)
+
+- [0df0a69d](https://github.com/kubedb/druid/commit/0df0a69d) Prepare for release v0.16.0-rc.1 (#116)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.61.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.61.0-rc.1)

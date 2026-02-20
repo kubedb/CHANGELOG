@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T22:29:30.485025291Z",
+  "release_date": "2026-02-20T22:30:35.886477042Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -95,6 +95,20 @@
             {
               "SHA": "2081e6b",
               "Subject": "Cleanup go.mod (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.1",
+          "commits": [
+            {
+              "SHA": "6f84d429",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#104)"
             }
           ]
         }

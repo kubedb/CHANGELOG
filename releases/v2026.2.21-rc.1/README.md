@@ -47,6 +47,14 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/ferretdb/releases/tag/v0.16.0-rc.1)
+
+- [6f84d429](https://github.com/kubedb/ferretdb/commit/6f84d429) Prepare for release v0.16.0-rc.1 (#104)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/hanadb/releases/tag/v0.2.0-rc.1)

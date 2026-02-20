@@ -55,6 +55,14 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.12.0-rc.1](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.12.0-rc.1)
+
+- [2768c2e8](https://github.com/kubedb/kubedb-verifier/commit/2768c2e8) Prepare for release v0.12.0-rc.1 (#40)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.15.0-rc.1)

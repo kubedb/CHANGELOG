@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T22:47:21.908517577Z",
+  "release_date": "2026-02-20T22:51:16.89081488Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -49,6 +49,20 @@
             {
               "SHA": "391cc969",
               "Subject": "Prepare for release v0.14.0-rc.1 (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "ca2c82bc",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#25)"
             }
           ]
         }

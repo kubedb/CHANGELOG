@@ -423,6 +423,14 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.16.0-rc.1)
+
+- [1c6aef0e](https://github.com/kubedb/singlestore/commit/1c6aef0e) Prepare for release v0.16.0-rc.1 (#101)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.19.0-rc.1](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.19.0-rc.1)

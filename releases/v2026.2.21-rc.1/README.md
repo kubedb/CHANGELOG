@@ -31,3 +31,11 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/db2-coordinator/releases/tag/v0.2.0-rc.1)
+
+- [2081e6b](https://github.com/kubedb/db2-coordinator/commit/2081e6b) Cleanup go.mod (#6)
+
+
+

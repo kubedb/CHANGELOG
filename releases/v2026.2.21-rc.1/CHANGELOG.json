@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T23:43:36.45180734Z",
+  "release_date": "2026-02-20T23:44:25.246201761Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -389,6 +389,20 @@
             {
               "SHA": "9a131c8df",
               "Subject": "Prepare for release v0.54.0-rc.1 (#739)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.1",
+          "commits": [
+            {
+              "SHA": "250be44f",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#72)"
             }
           ]
         }

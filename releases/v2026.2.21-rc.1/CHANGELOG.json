@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T23:26:40.324074954Z",
+  "release_date": "2026-02-20T23:29:15.352789688Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -137,6 +137,20 @@
             {
               "SHA": "2081e6b",
               "Subject": "Cleanup go.mod (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.61.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e5fba167e",
+              "Subject": "Prepare for release v0.61.0-rc.1 (#793)"
             }
           ]
         }

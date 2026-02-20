@@ -221,6 +221,14 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/solr/releases/tag/v0.16.0-rc.1)
+
+- [0e1b35d2](https://github.com/kubedb/solr/commit/0e1b35d2) Prepare for release v0.16.0-rc.1 (#114)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/zookeeper/releases/tag/v0.16.0-rc.1)

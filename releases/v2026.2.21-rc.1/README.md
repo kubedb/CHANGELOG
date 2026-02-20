@@ -191,6 +191,14 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/milvus/releases/tag/v0.2.0-rc.1)
+
+- [31a1617f](https://github.com/kubedb/milvus/commit/31a1617f) Prepare for release v0.2.0-rc.1 (#19)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.54.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.54.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T21:35:21.322783219Z",
+  "release_date": "2026-02-20T21:37:13.733532042Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -134,6 +134,20 @@
         {
           "tag": "v0.15.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b5eef01",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#47)"
+            }
+          ]
         }
       ]
     },

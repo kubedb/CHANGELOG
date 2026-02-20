@@ -61,6 +61,14 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.45.0-rc.1](https://github.com/kubedb/pg-coordinator/releases/tag/v0.45.0-rc.1)
+
+- [dda014e2](https://github.com/kubedb/pg-coordinator/commit/dda014e2) Prepare for release v0.45.0-rc.1 (#233)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.24.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.24.0-rc.1)

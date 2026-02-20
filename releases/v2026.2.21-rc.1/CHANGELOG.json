@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T22:53:39.954105311Z",
+  "release_date": "2026-02-20T22:54:15.009514964Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -137,6 +137,20 @@
             {
               "SHA": "2081e6b",
               "Subject": "Cleanup go.mod (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1d7a84f3",
+              "Subject": "Prepare for release v0.24.0-rc.1 (#86)"
             }
           ]
         }

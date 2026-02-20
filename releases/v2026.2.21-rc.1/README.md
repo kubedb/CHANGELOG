@@ -62,6 +62,14 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.39.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.39.0-rc.1)
+
+- [11446c8d](https://github.com/kubedb/mysql-coordinator/commit/11446c8d) Prepare for release v0.39.0-rc.1 (#164)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.39.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.39.0-rc.1)

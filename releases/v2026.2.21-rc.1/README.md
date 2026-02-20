@@ -175,6 +175,14 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.54.0-rc.1](https://github.com/kubedb/memcached/releases/tag/v0.54.0-rc.1)
+
+- [7ec689d8](https://github.com/kubedb/memcached/commit/7ec689d8c) Prepare for release v0.54.0-rc.1 (#524)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.1.0-rc.1](https://github.com/kubedb/migrator-cli/releases/tag/v0.1.0-rc.1)

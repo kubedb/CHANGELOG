@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T23:03:18.177578041Z",
+  "release_date": "2026-02-20T23:04:38.052990299Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -319,6 +319,20 @@
             {
               "SHA": "d0606b0",
               "Subject": "Prepare for release v0.19.0-rc.1 (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.54.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7ec689d8c",
+              "Subject": "Prepare for release v0.54.0-rc.1 (#524)"
             }
           ]
         }

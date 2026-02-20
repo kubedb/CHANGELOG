@@ -256,6 +256,15 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.22.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.22.0-rc.1)
+
+- [4d49152b](https://github.com/kubedb/postgres-archiver/commit/4d49152b) Prepare for release v0.22.0-rc.1 (#89)
+- [905fe453](https://github.com/kubedb/postgres-archiver/commit/905fe453) Wait for WAL cleanup until LogStats becomes available. (#87)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.22.0-rc.1](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.22.0-rc.1)

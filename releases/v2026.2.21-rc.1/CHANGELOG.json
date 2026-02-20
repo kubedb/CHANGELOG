@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T22:42:02.916768428Z",
+  "release_date": "2026-02-20T22:45:36.4486439Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -461,6 +461,24 @@
             {
               "SHA": "85ab1429",
               "Subject": "Apply go fix (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4d49152b",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#89)"
+            },
+            {
+              "SHA": "905fe453",
+              "Subject": "Wait for WAL cleanup until LogStats becomes available. (#87)"
             }
           ]
         }

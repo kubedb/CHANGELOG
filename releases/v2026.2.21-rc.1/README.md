@@ -221,6 +221,14 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/qdrant/releases/tag/v0.2.0-rc.1)
+
+- [9b9e78e3](https://github.com/kubedb/qdrant/commit/9b9e78e3) Prepare for release v0.2.0-rc.1 (#20)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.40.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.40.0-rc.1)

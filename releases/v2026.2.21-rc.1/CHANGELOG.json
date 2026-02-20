@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T22:35:50.261171787Z",
+  "release_date": "2026-02-20T22:36:09.816670485Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -392,6 +392,20 @@
         {
           "tag": "v0.22.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9b9e78e3",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#20)"
+            }
+          ]
         }
       ]
     },

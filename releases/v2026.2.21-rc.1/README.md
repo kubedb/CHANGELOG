@@ -14,6 +14,14 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/cassandra/releases/tag/v0.14.0-rc.1)
+
+- [391cc969](https://github.com/kubedb/cassandra/commit/391cc969) Prepare for release v0.14.0-rc.1 (#64)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.61.0-rc.1](https://github.com/kubedb/cli/releases/tag/v0.61.0-rc.1)

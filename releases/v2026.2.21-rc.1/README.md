@@ -38,6 +38,14 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/clickhouse/releases/tag/v0.16.0-rc.1)
+
+- [fb6882db](https://github.com/kubedb/clickhouse/commit/fb6882db) Prepare for release v0.16.0-rc.1 (#87)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/crd-manager/releases/tag/v0.16.0-rc.1)

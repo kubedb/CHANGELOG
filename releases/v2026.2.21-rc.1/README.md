@@ -399,6 +399,14 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.16.0-rc.1)
+
+- [d6abc5b1](https://github.com/kubedb/rabbitmq/commit/d6abc5b1) Prepare for release v0.16.0-rc.1 (#115)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.40.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.40.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T22:41:30.809937943Z",
+  "release_date": "2026-02-20T22:42:02.916768428Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -586,6 +586,24 @@
             {
               "SHA": "0e1b35d2",
               "Subject": "Prepare for release v0.16.0-rc.1 (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0-rc.1",
+          "commits": [
+            {
+              "SHA": "3737ea6",
+              "Subject": "Prepare for release v0.9.0-rc.1 (#40)"
+            },
+            {
+              "SHA": "d77c796",
+              "Subject": "Apply go fix changes (#39)"
             }
           ]
         }

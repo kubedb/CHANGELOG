@@ -159,6 +159,15 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.16.0-rc.1)
+
+- [43956637](https://github.com/kubedb/pgpool/commit/43956637) Prepare for release v0.16.0-rc.1 (#103)
+- [85ab1429](https://github.com/kubedb/pgpool/commit/85ab1429) Apply go fix (#102)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.22.0-rc.1](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.22.0-rc.1)

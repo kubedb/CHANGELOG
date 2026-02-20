@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T22:30:35.886477042Z",
+  "release_date": "2026-02-20T22:31:10.435025858Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -289,6 +289,24 @@
             {
               "SHA": "dda014e2",
               "Subject": "Prepare for release v0.45.0-rc.1 (#233)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.1",
+          "commits": [
+            {
+              "SHA": "43956637",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#103)"
+            },
+            {
+              "SHA": "85ab1429",
+              "Subject": "Apply go fix (#102)"
             }
           ]
         }

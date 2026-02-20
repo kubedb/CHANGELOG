@@ -63,6 +63,14 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.16.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.16.0-rc.1)
+
+- [c86e1178](https://github.com/kubedb/mssqlserver/commit/c86e1178) Prepare for release v0.16.0-rc.1 (#111)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.15.0-rc.1](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.15.0-rc.1)

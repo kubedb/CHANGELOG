@@ -288,6 +288,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.61.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.61.0-rc.1)
+
+- [f27f239b](https://github.com/kubedb/postgres/commit/f27f239b8) Prepare for release v0.61.0-rc.1 (#860)
+- [96d2952b](https://github.com/kubedb/postgres/commit/96d2952b8) Apply go fixes (#859)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.22.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.22.0-rc.1)

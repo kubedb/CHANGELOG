@@ -423,6 +423,14 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.46.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.46.0-rc.1)
+
+- [9ba6a211](https://github.com/kubedb/tests/commit/9ba6a2115) Prepare for release v0.46.0-rc.1 (#511)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.9.0-rc.1)

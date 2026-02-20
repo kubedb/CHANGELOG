@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-20T22:29:21.920668538Z",
+  "release_date": "2026-02-20T22:29:30.485025291Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -202,6 +202,28 @@
             {
               "SHA": "b5eef01",
               "Subject": "Prepare for release v0.15.0-rc.1 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4c36bd86",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#85)"
+            },
+            {
+              "SHA": "f7b9a5e3",
+              "Subject": "Test against k8s 1.35 (#84)"
+            },
+            {
+              "SHA": "1b3f57e4",
+              "Subject": "Wait for binlog cleanup until LogStats becomes available. (#82)"
             }
           ]
         }

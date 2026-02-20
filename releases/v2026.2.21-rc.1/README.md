@@ -110,6 +110,16 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.22.0-rc.1](https://github.com/kubedb/mysql-archiver/releases/tag/v0.22.0-rc.1)
+
+- [4c36bd86](https://github.com/kubedb/mysql-archiver/commit/4c36bd86) Prepare for release v0.22.0-rc.1 (#85)
+- [f7b9a5e3](https://github.com/kubedb/mysql-archiver/commit/f7b9a5e3) Test against k8s 1.35 (#84)
+- [1b3f57e4](https://github.com/kubedb/mysql-archiver/commit/1b3f57e4) Wait for binlog cleanup until LogStats becomes available. (#82)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.39.0-rc.1](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.39.0-rc.1)

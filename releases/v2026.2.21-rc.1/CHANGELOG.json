@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-21T01:39:00.548018629Z",
+  "release_date": "2026-02-21T01:43:45.568200437Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -667,6 +667,28 @@
             {
               "SHA": "c8a9ae6b",
               "Subject": "Prepare for release v0.2.0-rc.1 (#16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.48.0-rc.1",
+          "commits": [
+            {
+              "SHA": "e928a28d3",
+              "Subject": "Prepare for release v0.48.0-rc.1 (#828)"
+            },
+            {
+              "SHA": "c2543046c",
+              "Subject": "Inline findInSlice function (#827)"
+            },
+            {
+              "SHA": "ebd3ab1c8",
+              "Subject": "go fix ./... (#826)"
             }
           ]
         }

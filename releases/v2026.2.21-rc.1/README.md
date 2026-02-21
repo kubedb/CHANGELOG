@@ -375,6 +375,16 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.48.0-rc.1](https://github.com/kubedb/ops-manager/releases/tag/v0.48.0-rc.1)
+
+- [e928a28d](https://github.com/kubedb/ops-manager/commit/e928a28d3) Prepare for release v0.48.0-rc.1 (#828)
+- [c2543046](https://github.com/kubedb/ops-manager/commit/c2543046c) Inline findInSlice function (#827)
+- [ebd3ab1c](https://github.com/kubedb/ops-manager/commit/ebd3ab1c8) go fix ./... (#826)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.7.0-rc.1](https://github.com/kubedb/oracle/releases/tag/v0.7.0-rc.1)

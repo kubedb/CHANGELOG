@@ -471,6 +471,14 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.48.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.48.0-rc.1)
+
+- [c9b575a3](https://github.com/kubedb/proxysql/commit/c9b575a3a) Prepare for release v0.48.0-rc.1 (#418)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/qdrant/releases/tag/v0.2.0-rc.1)

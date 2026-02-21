@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-21T01:43:45.568200437Z",
+  "release_date": "2026-02-21T01:45:49.281764132Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -884,6 +884,20 @@
         {
           "tag": "v0.22.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.61.0-rc.1",
+          "commits": [
+            {
+              "SHA": "ac8fe9291",
+              "Subject": "Prepare for release v0.61.0-rc.1 (#193)"
+            }
+          ]
         }
       ]
     },

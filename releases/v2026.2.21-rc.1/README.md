@@ -497,6 +497,14 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.61.0-rc.1](https://github.com/kubedb/provisioner/releases/tag/v0.61.0-rc.1)
+
+- [ac8fe929](https://github.com/kubedb/provisioner/commit/ac8fe9291) Prepare for release v0.61.0-rc.1 (#193)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.48.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.48.0-rc.1)

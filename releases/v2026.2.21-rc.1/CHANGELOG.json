@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-21T01:03:37.950802016Z",
+  "release_date": "2026-02-21T01:05:59.484774446Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -291,6 +291,20 @@
             {
               "SHA": "fd24c63a",
               "Subject": "Prepare for release v0.32.0-rc.1 (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.1",
+          "commits": [
+            {
+              "SHA": "cb717901",
+              "Subject": "Prepare for release v0.37.0-rc.1 (#170)"
             }
           ]
         }

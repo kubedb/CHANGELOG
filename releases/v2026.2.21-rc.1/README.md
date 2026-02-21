@@ -335,6 +335,14 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/neo4j/releases/tag/v0.2.0-rc.1)
+
+- [c8a9ae6b](https://github.com/kubedb/neo4j/commit/c8a9ae6b) Prepare for release v0.2.0-rc.1 (#16)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.48.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.48.0-rc.1)

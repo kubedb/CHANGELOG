@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.21-rc.1",
-  "release_date": "2026-02-21T01:05:59.484774446Z",
+  "release_date": "2026-02-21T01:06:35.153330689Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.21-rc.1",
   "kubernetes_version": "1.28+",
@@ -709,6 +709,20 @@
             {
               "SHA": "dda014e2",
               "Subject": "Prepare for release v0.45.0-rc.1 (#233)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.48.0-rc.1",
+          "commits": [
+            {
+              "SHA": "18bbb401a",
+              "Subject": "Prepare for release v0.48.0-rc.1 (#398)"
             }
           ]
         }

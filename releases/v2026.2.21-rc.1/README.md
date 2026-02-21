@@ -399,6 +399,14 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.48.0-rc.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.48.0-rc.1)
+
+- [18bbb401](https://github.com/kubedb/pgbouncer/commit/18bbb401a) Prepare for release v0.48.0-rc.1 (#398)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.16.0-rc.1)

@@ -95,6 +95,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.2.21-rc.1](https://github.com/kubedb/docs/releases/tag/v2026.2.21-rc.1)
+
+- [bba761fd](https://github.com/kubedb/docs/commit/bba761fd) Prepare for release v2026.2.21-rc.1 (#846)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/druid/releases/tag/v0.16.0-rc.1)

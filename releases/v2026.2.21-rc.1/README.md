@@ -535,6 +535,15 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/weaviate/releases/tag/v0.2.0-rc.1)
+
+- [134a727c](https://github.com/kubedb/weaviate/commit/134a727c) Fix CI (#18)
+- [87e94b4a](https://github.com/kubedb/weaviate/commit/87e94b4a) Prepare for release v0.2.0-rc.1 (#17)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.9.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.9.0-rc.1)

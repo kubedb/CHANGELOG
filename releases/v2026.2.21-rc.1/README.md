@@ -1,4 +1,4 @@
-# KubeDB v2026.2.21-rc.1 (2026-02-20)
+# KubeDB v2026.2.21-rc.1 (2026-02-21)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -68,6 +68,14 @@
 
 - [96ffd3fa](https://github.com/kubedb/db-client-go/commit/96ffd3fa) Prepare for release v0.16.0-rc.1 (#224)
 - [9d31719c](https://github.com/kubedb/db-client-go/commit/9d31719c) Add Neo4j TLS (#220)
+
+
+
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/db2/releases/tag/v0.2.0-rc.1)
+
+- [7a213b22](https://github.com/kubedb/db2/commit/7a213b22) Prepare for release v0.2.0-rc.1 (#12)
 
 
 

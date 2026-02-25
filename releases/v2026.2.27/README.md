@@ -39,3 +39,15 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.16.0](https://github.com/kubedb/crd-manager/releases/tag/v0.16.0)
+
+- [acf7d0d6](https://github.com/kubedb/crd-manager/commit/acf7d0d6) Prepare for release v0.16.0 (#116)
+- [3378cd91](https://github.com/kubedb/crd-manager/commit/3378cd91) Maintain active versions using configMap (#113)
+- [89ba8728](https://github.com/kubedb/crd-manager/commit/89ba8728) Update deps (#114)
+- [b842153d](https://github.com/kubedb/crd-manager/commit/b842153d) Prepare for release v0.16.0-rc.1 (#112)
+- [2d2c0c9a](https://github.com/kubedb/crd-manager/commit/2d2c0c9a) Prepare for release v0.16.0-rc.0 (#110)
+
+
+

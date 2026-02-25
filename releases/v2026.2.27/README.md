@@ -51,3 +51,17 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.16.0](https://github.com/kubedb/db-client-go/releases/tag/v0.16.0)
+
+- [263ed82c](https://github.com/kubedb/db-client-go/commit/263ed82c) Prepare for release v0.16.0 (#226)
+- [92155aaf](https://github.com/kubedb/db-client-go/commit/92155aaf) Set maxPoolSize & idleTime for mongo client (#222)
+- [2ee83ba1](https://github.com/kubedb/db-client-go/commit/2ee83ba1) Add reconfigure TLS (#225)
+- [96ffd3fa](https://github.com/kubedb/db-client-go/commit/96ffd3fa) Prepare for release v0.16.0-rc.1 (#224)
+- [9d31719c](https://github.com/kubedb/db-client-go/commit/9d31719c) Add Neo4j TLS (#220)
+- [3cbe8746](https://github.com/kubedb/db-client-go/commit/3cbe8746) Prepare for release v0.16.0-rc.0 (#221)
+- [496ef203](https://github.com/kubedb/db-client-go/commit/496ef203) Add Creating MariaDB Client without MariaDB Instance (#218)
+
+
+

@@ -1,0 +1,144 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.2.27",
+  "release_date": "2026-02-25T22:40:23.398421316Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.2.27",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.61.0",
+          "commits": [
+            {
+              "SHA": "63cc8851f",
+              "Subject": "Update for release KubeStash@v2026.2.27 (#1610)"
+            },
+            {
+              "SHA": "9e5bc9529",
+              "Subject": "Fix linter warning"
+            },
+            {
+              "SHA": "542ee5772",
+              "Subject": "Mark coordinator fields as required (#1609)"
+            },
+            {
+              "SHA": "9551a4641",
+              "Subject": "Change postgres default client authentication method for pg 18 (#1602)"
+            },
+            {
+              "SHA": "42d32c4dd",
+              "Subject": "Add HanaDB clustering (#1543)"
+            },
+            {
+              "SHA": "a2ec144f5",
+              "Subject": "Implement progressing controller for ops (#1607)"
+            },
+            {
+              "SHA": "f29876fbf",
+              "Subject": "Add Neo4j Opsreq = [ReconfigureTLS] (#1605)"
+            },
+            {
+              "SHA": "412dad63b",
+              "Subject": "Fix linter warning"
+            },
+            {
+              "SHA": "c1839a90c",
+              "Subject": "Update nats.go to v1.49.0"
+            },
+            {
+              "SHA": "015c3493e",
+              "Subject": "Report cluster features via site info (#1606)"
+            },
+            {
+              "SHA": "88d5ab201",
+              "Subject": "Fix CVE (#1603)"
+            },
+            {
+              "SHA": "913319e2e",
+              "Subject": "Add Neo4j Monitoring, TLS,  Restart Ops Req  APIs (#1552)"
+            },
+            {
+              "SHA": "246961815",
+              "Subject": "Fix CVE (#1601)"
+            },
+            {
+              "SHA": "71337bae8",
+              "Subject": "Update for release KubeStash@v2026.2.16-rc.0 (#1598)"
+            },
+            {
+              "SHA": "f207902b5",
+              "Subject": "go fix ./... (#1597)"
+            },
+            {
+              "SHA": "54c284279",
+              "Subject": "Update migrator image spec (#1596)"
+            },
+            {
+              "SHA": "78da1b2d6",
+              "Subject": "Redis Config Secret Conversion fix (#1595)"
+            },
+            {
+              "SHA": "f1ac6610d",
+              "Subject": "Standardize migrator pkg (#1594)"
+            },
+            {
+              "SHA": "8c54988a4",
+              "Subject": "Report k8s distro and storage provisioners (#1593)"
+            },
+            {
+              "SHA": "3ab9a8c46",
+              "Subject": "Fix CI (#1592)"
+            },
+            {
+              "SHA": "46868bd03",
+              "Subject": "Add Distributed Archiver Support for MariaDB (#1582)"
+            },
+            {
+              "SHA": "d390f7030",
+              "Subject": "Add Migrator Operator APIs and Configs for CLI (#1588)"
+            },
+            {
+              "SHA": "711467936",
+              "Subject": "Add Qdrant Monitoring Support (#1550)"
+            },
+            {
+              "SHA": "8591d06f2",
+              "Subject": "Add read replica support for Postgres (#1580)"
+            },
+            {
+              "SHA": "09750ca1e",
+              "Subject": "Add Milvus Cluster Apis (#1551)"
+            },
+            {
+              "SHA": "eec0c01f2",
+              "Subject": "Introduce log RetentionPeriod for log cleanup (#1537)"
+            },
+            {
+              "SHA": "05e2788ca",
+              "Subject": "Add Kafka Tiered Storage APIs (#1378)"
+            },
+            {
+              "SHA": "719ce3b05",
+              "Subject": "Update license header (#1591)"
+            },
+            {
+              "SHA": "04bd7de62",
+              "Subject": "Add Constant For Opensearch/Elasticsearch (#1578)"
+            },
+            {
+              "SHA": "7eb9e9a4c",
+              "Subject": "Add tolerations to pvc-mounter pod for storageclass migration (#1589)"
+            },
+            {
+              "SHA": "81a671f52",
+              "Subject": "Add relabel config support to ServiceMonitor (#1584)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

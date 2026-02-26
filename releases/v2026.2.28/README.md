@@ -25,6 +25,13 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.3.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.3.0)
+
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.23.0](https://github.com/kubedb/provider-azure/releases/tag/v0.23.0)

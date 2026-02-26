@@ -115,6 +115,15 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.24.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.24.0)
+
+- [1fc3e77d](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/1fc3e77d) Prepare for release v0.24.0 (#72)
+- [e43cb5c4](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/e43cb5c4) Prepare for release v0.23.0 (#71)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.47.0)

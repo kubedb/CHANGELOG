@@ -132,6 +132,15 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.18.0](https://github.com/kubedb/solr/releases/tag/v0.18.0)
+
+- [0f574e96](https://github.com/kubedb/solr/commit/0f574e96) Prepare for release v0.18.0 (#118)
+- [f388741e](https://github.com/kubedb/solr/commit/f388741e) Fix multiple ops request in progressing state (#115)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.11.0)

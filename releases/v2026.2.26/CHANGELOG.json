@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:29:31.333705599Z",
+  "release_date": "2026-02-26T14:29:43.672748884Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -363,6 +363,20 @@
             {
               "SHA": "dfb6ef7",
               "Subject": "Prepare for release v0.16.0 (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "95ece3c2",
+              "Subject": "Prepare for release v0.24.0 (#89)"
             }
           ]
         }

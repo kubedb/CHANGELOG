@@ -98,6 +98,14 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.18.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.18.0)
+
+- [efd8a6f2](https://github.com/kubedb/singlestore-coordinator/commit/efd8a6f2) Prepare for release v0.18.0 (#64)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.11.0)

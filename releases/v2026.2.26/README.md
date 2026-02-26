@@ -308,6 +308,14 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.18.0](https://github.com/kubedb/pgpool/releases/tag/v0.18.0)
+
+- [e95e75d8](https://github.com/kubedb/pgpool/commit/e95e75d8) Prepare for release v0.18.0 (#108)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.63.0](https://github.com/kubedb/postgres/releases/tag/v0.63.0)

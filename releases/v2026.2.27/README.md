@@ -303,6 +303,17 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.45.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.45.0)
+
+- [e5dcc9a7](https://github.com/kubedb/pg-coordinator/commit/e5dcc9a7) Prepare for release v0.45.0 (#234)
+- [dda014e2](https://github.com/kubedb/pg-coordinator/commit/dda014e2) Prepare for release v0.45.0-rc.1 (#233)
+- [beb05456](https://github.com/kubedb/pg-coordinator/commit/beb05456) Prepare for release v0.45.0-rc.0 (#231)
+- [f4f84f76](https://github.com/kubedb/pg-coordinator/commit/f4f84f76) Add Read Replica Support (#229)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.16.0](https://github.com/kubedb/pgpool/releases/tag/v0.16.0)

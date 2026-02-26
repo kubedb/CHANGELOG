@@ -149,6 +149,19 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.2.0](https://github.com/kubedb/qdrant/releases/tag/v0.2.0)
+
+- [e75e7c59](https://github.com/kubedb/qdrant/commit/e75e7c59) Prepare for release v0.2.0 (#21)
+- [01fa8eb1](https://github.com/kubedb/qdrant/commit/01fa8eb1) Add Monitoring Support (#5)
+- [9b9e78e3](https://github.com/kubedb/qdrant/commit/9b9e78e3) Prepare for release v0.2.0-rc.1 (#20)
+- [22c54605](https://github.com/kubedb/qdrant/commit/22c54605) Prepare for release v0.2.0-rc.0 (#18)
+- [756abbb6](https://github.com/kubedb/qdrant/commit/756abbb6) TLS fixes (#16)
+- [0ab05f74](https://github.com/kubedb/qdrant/commit/0ab05f74) Update deps (#15)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.40.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.40.0)

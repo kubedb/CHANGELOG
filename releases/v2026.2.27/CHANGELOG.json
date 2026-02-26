@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:36:57.18430084Z",
+  "release_date": "2026-02-26T03:37:03.530586077Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -412,6 +412,40 @@
             {
               "SHA": "62699f51",
               "Subject": "Add Parallelism Controller (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e75e7c59",
+              "Subject": "Prepare for release v0.2.0 (#21)"
+            },
+            {
+              "SHA": "01fa8eb1",
+              "Subject": "Add Monitoring Support (#5)"
+            },
+            {
+              "SHA": "9b9e78e3",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#20)"
+            },
+            {
+              "SHA": "22c54605",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#18)"
+            },
+            {
+              "SHA": "756abbb6",
+              "Subject": "TLS fixes (#16)"
+            },
+            {
+              "SHA": "0ab05f74",
+              "Subject": "Update deps (#15)"
             }
           ]
         }

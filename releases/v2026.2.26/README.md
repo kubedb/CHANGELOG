@@ -11,6 +11,15 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.10.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.10.0)
+
+- [bfca97e5](https://github.com/kubedb/cassandra-medusa-plugin/commit/bfca97e5) Prepare for release v0.10.0 (#28)
+- [2542956d](https://github.com/kubedb/cassandra-medusa-plugin/commit/2542956d) Prepare for release v0.9.0 (#27)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.63.0](https://github.com/kubedb/cli/releases/tag/v0.63.0)

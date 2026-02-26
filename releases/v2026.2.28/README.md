@@ -39,6 +39,14 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.23.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.23.0)
+
+- [6e7d0c61](https://github.com/kubedb/mysql-archiver/commit/6e7d0c61) Prepare for release v0.23.0 (#88)
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.23.0](https://github.com/kubedb/provider-azure/releases/tag/v0.23.0)

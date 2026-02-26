@@ -45,6 +45,15 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.17.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.17.0)
+
+- [891a05a](https://github.com/kubedb/mssqlserver-walg-plugin/commit/891a05a) Prepare for release v0.17.0 (#50)
+- [dfb6ef7](https://github.com/kubedb/mssqlserver-walg-plugin/commit/dfb6ef7) Prepare for release v0.16.0 (#49)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.47.0)

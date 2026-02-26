@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:49:35.776803099Z",
+  "release_date": "2026-02-26T03:49:39.553663644Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -2150,6 +2150,15 @@
               "Subject": "Integrate shouldProceed() utility on runParallel (#105)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": null
         }
       ]
     },

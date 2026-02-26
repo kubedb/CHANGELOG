@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:41:58.176951282Z",
+  "release_date": "2026-02-26T03:42:17.27820862Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -694,6 +694,32 @@
             {
               "SHA": "62650d638",
               "Subject": "Upgrade Exporter to v0.18.0 (#715)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "b03e224e",
+              "Subject": "Prepare for release v0.39.0 (#166)"
+            },
+            {
+              "SHA": "b675a11a",
+              "Subject": "Prepare for release v0.39.0 (#165)"
+            },
+            {
+              "SHA": "11446c8d",
+              "Subject": "Prepare for release v0.39.0-rc.1 (#164)"
+            },
+            {
+              "SHA": "926a94b4",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#162)"
             }
           ]
         }

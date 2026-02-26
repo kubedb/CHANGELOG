@@ -891,6 +891,13 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.22.0](https://github.com/kubedb/provider-aws/releases/tag/v0.22.0)
+
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.2.0](https://github.com/kubedb/qdrant/releases/tag/v0.2.0)

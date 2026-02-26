@@ -54,6 +54,15 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.3.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.3.0)
+
+- [6621227](https://github.com/kubedb/migrator-cli/commit/6621227) Prepare for release v0.3.0 (#10)
+- [2dee859](https://github.com/kubedb/migrator-cli/commit/2dee859) Configure Red Hat component ID
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.17.0)

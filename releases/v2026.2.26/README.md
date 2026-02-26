@@ -19,3 +19,11 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.18.0](https://github.com/kubedb/db-client-go/releases/tag/v0.18.0)
+
+- [86b55d65](https://github.com/kubedb/db-client-go/commit/86b55d65) Prepare for release v0.18.0 (#228)
+
+
+

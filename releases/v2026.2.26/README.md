@@ -11,3 +11,11 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.18.0](https://github.com/kubedb/crd-manager/releases/tag/v0.18.0)
+
+- [a2e78016](https://github.com/kubedb/crd-manager/commit/a2e78016) Prepare for release v0.18.0 (#118)
+
+
+

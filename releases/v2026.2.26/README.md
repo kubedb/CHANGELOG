@@ -238,6 +238,15 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.4.0](https://github.com/kubedb/qdrant/releases/tag/v0.4.0)
+
+- [65ee08d0](https://github.com/kubedb/qdrant/commit/65ee08d0) Prepare for release v0.4.0 (#23)
+- [cab557a1](https://github.com/kubedb/qdrant/commit/cab557a1) Prepare for release v0.3.0 (#22)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.18.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.18.0)

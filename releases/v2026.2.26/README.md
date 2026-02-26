@@ -152,6 +152,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.34.0](https://github.com/kubedb/kafka/releases/tag/v0.34.0)
+
+- [888c1d68](https://github.com/kubedb/kafka/commit/888c1d68) Prepare for release v0.34.0 (#182)
+- [f90f7ce8](https://github.com/kubedb/kafka/commit/f90f7ce8) Fix multiple Ops Request Goes in Progressing (#179)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.26.0)

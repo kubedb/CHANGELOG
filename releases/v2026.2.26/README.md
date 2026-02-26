@@ -11,6 +11,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.48.0](https://github.com/kubedb/autoscaler/releases/tag/v0.48.0)
+
+- [7da34694](https://github.com/kubedb/autoscaler/commit/7da34694) Prepare for release v0.48.0 (#281)
+- [33a7c8cd](https://github.com/kubedb/autoscaler/commit/33a7c8cd) Prepare for release v0.46.0-rc.1 (#280)
+- [381bc609](https://github.com/kubedb/autoscaler/commit/381bc609) Prepare for release v0.46.0-rc.0 (#278)
+- [b5c6e303](https://github.com/kubedb/autoscaler/commit/b5c6e303) Merge pull request #277 from kubedb/update-deps
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.16.0](https://github.com/kubedb/cassandra/releases/tag/v0.16.0)

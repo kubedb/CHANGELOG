@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T17:11:36.090862433Z",
+  "release_date": "2026-02-26T17:13:05.517242334Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -23,6 +23,32 @@
             {
               "SHA": "a686b4b6a",
               "Subject": "Remove unused fields from kubedb version api (#1612)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "7da34694",
+              "Subject": "Prepare for release v0.48.0 (#281)"
+            },
+            {
+              "SHA": "33a7c8cd",
+              "Subject": "Prepare for release v0.46.0-rc.1 (#280)"
+            },
+            {
+              "SHA": "381bc609",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#278)"
+            },
+            {
+              "SHA": "b5c6e303",
+              "Subject": "Merge pull request #277 from kubedb/update-deps"
             }
           ]
         }

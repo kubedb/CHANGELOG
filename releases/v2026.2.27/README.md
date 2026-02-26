@@ -111,6 +111,18 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.2.0](https://github.com/kubedb/hanadb/releases/tag/v0.2.0)
+
+- [3585af2d](https://github.com/kubedb/hanadb/commit/3585af2d) Prepare for release v0.2.0 (#18)
+- [66022627](https://github.com/kubedb/hanadb/commit/66022627) HanaDB clustering (#14)
+- [e747ed30](https://github.com/kubedb/hanadb/commit/e747ed30) Prepare for release v0.2.0-rc.1 (#17)
+- [dd50ccfc](https://github.com/kubedb/hanadb/commit/dd50ccfc) Prepare for release v0.2.0-rc.0 (#15)
+- [ae192632](https://github.com/kubedb/hanadb/commit/ae192632) fix auth issue (#12)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.8.0](https://github.com/kubedb/ignite/releases/tag/v0.8.0)

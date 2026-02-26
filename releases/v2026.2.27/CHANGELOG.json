@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:40:53.740265783Z",
+  "release_date": "2026-02-26T03:41:11.638457686Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -397,6 +397,36 @@
             {
               "SHA": "2f574436",
               "Subject": "Merge pull request #34 from kubedb/proceed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "f26eafcf",
+              "Subject": "Prepare for release v0.32.0 (#180)"
+            },
+            {
+              "SHA": "fd24c63a",
+              "Subject": "Prepare for release v0.32.0-rc.1 (#178)"
+            },
+            {
+              "SHA": "ac302858",
+              "Subject": "Prepare for release v0.32.0-rc.0 (#176)"
+            },
+            {
+              "SHA": "848ca394",
+              "Subject": "Add Kafka Tiered Storage Support (#130)"
+            },
+            {
+              "SHA": "543ee275",
+              "Subject": "Merge pull request #174 from kubedb/proceed"
             }
           ]
         }

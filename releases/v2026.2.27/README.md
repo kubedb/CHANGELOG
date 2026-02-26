@@ -145,6 +145,18 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.32.0](https://github.com/kubedb/kafka/releases/tag/v0.32.0)
+
+- [f26eafcf](https://github.com/kubedb/kafka/commit/f26eafcf) Prepare for release v0.32.0 (#180)
+- [fd24c63a](https://github.com/kubedb/kafka/commit/fd24c63a) Prepare for release v0.32.0-rc.1 (#178)
+- [ac302858](https://github.com/kubedb/kafka/commit/ac302858) Prepare for release v0.32.0-rc.0 (#176)
+- [848ca394](https://github.com/kubedb/kafka/commit/848ca394) Add Kafka Tiered Storage Support (#130)
+- [543ee275](https://github.com/kubedb/kafka/commit/543ee275) Merge pull request #174 from kubedb/proceed
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.24.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.24.0)

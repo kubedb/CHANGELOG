@@ -283,6 +283,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.26.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.26.0)
+
+- [327390d0](https://github.com/kubedb/mysql-restic-plugin/commit/327390d0) Prepare for release v0.26.0 (#101)
+- [2536806e](https://github.com/kubedb/mysql-restic-plugin/commit/2536806e) Prepare for release v0.25.0 (#100)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.9.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.9.0)

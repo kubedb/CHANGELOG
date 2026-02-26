@@ -253,6 +253,17 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.41.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.41.0)
+
+- [9a7d8d97](https://github.com/kubedb/mariadb-coordinator/commit/9a7d8d97) Prepare for release v0.41.0 (#166)
+- [c7eff91c](https://github.com/kubedb/mariadb-coordinator/commit/c7eff91c) Prepare for release v0.41.0-rc.1 (#165)
+- [b1ee0463](https://github.com/kubedb/mariadb-coordinator/commit/b1ee0463) Prepare for release v0.41.0-rc.0 (#163)
+- [80432fdc](https://github.com/kubedb/mariadb-coordinator/commit/80432fdc) Distributed archiver support (#153)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.19.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.19.0)

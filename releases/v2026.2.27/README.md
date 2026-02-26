@@ -76,6 +76,17 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.9.0](https://github.com/kubedb/gitops/releases/tag/v0.9.0)
+
+- [39d63088](https://github.com/kubedb/gitops/commit/39d63088) Prepare for release v0.9.0 (#44)
+- [7628766b](https://github.com/kubedb/gitops/commit/7628766b) Fix GitOps operations for config, tls, monitoring changes for all DBs (#43)
+- [6954152b](https://github.com/kubedb/gitops/commit/6954152b) Prepare for release v0.9.0-rc.1 (#42)
+- [1e454f0b](https://github.com/kubedb/gitops/commit/1e454f0b) Prepare for release v0.9.0-rc.0 (#39)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.8.0](https://github.com/kubedb/ignite/releases/tag/v0.8.0)

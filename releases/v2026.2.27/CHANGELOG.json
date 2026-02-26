@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:38:02.361867216Z",
+  "release_date": "2026-02-26T03:38:08.257722202Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -229,6 +229,32 @@
             {
               "SHA": "496ef203",
               "Subject": "Add Creating MariaDB Client without MariaDB Instance (#218)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "39d63088",
+              "Subject": "Prepare for release v0.9.0 (#44)"
+            },
+            {
+              "SHA": "7628766b",
+              "Subject": "Fix GitOps operations for config, tls, monitoring changes for all DBs (#43)"
+            },
+            {
+              "SHA": "6954152b",
+              "Subject": "Prepare for release v0.9.0-rc.1 (#42)"
+            },
+            {
+              "SHA": "1e454f0b",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#39)"
             }
           ]
         }

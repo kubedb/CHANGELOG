@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:37:25.850674384Z",
+  "release_date": "2026-02-26T03:37:43.218844579Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -328,6 +328,48 @@
             {
               "SHA": "f801e32b",
               "Subject": "Fix Standalone Milvus Phase Update (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.54.0",
+          "commits": [
+            {
+              "SHA": "0c0448ce8",
+              "Subject": "Prepare for release v0.54.0 (#741)"
+            },
+            {
+              "SHA": "6c2b647ba",
+              "Subject": "Fix multiple ops request in progressing state (#740)"
+            },
+            {
+              "SHA": "9a131c8df",
+              "Subject": "Prepare for release v0.54.0-rc.1 (#739)"
+            },
+            {
+              "SHA": "29774d97b",
+              "Subject": "Prepare for release v0.54.0-rc.0 (#736)"
+            },
+            {
+              "SHA": "26c98778d",
+              "Subject": "update for kubestash api (#735)"
+            },
+            {
+              "SHA": "aba284ca0",
+              "Subject": "Incorporate kubestash labels on snapshot (#733)"
+            },
+            {
+              "SHA": "c440ff53f",
+              "Subject": "Merge pull request #731 from kubedb/proceed"
+            },
+            {
+              "SHA": "5f538c7c6",
+              "Subject": "Fix empty object issue on removeCustomConfig (#730)"
             }
           ]
         }

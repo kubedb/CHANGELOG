@@ -119,6 +119,21 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.54.0](https://github.com/kubedb/mongodb/releases/tag/v0.54.0)
+
+- [0c0448ce](https://github.com/kubedb/mongodb/commit/0c0448ce8) Prepare for release v0.54.0 (#741)
+- [6c2b647b](https://github.com/kubedb/mongodb/commit/6c2b647ba) Fix multiple ops request in progressing state (#740)
+- [9a131c8d](https://github.com/kubedb/mongodb/commit/9a131c8df) Prepare for release v0.54.0-rc.1 (#739)
+- [29774d97](https://github.com/kubedb/mongodb/commit/29774d97b) Prepare for release v0.54.0-rc.0 (#736)
+- [26c98778](https://github.com/kubedb/mongodb/commit/26c98778d) update for kubestash api (#735)
+- [aba284ca](https://github.com/kubedb/mongodb/commit/aba284ca0) Incorporate kubestash labels on snapshot (#733)
+- [c440ff53](https://github.com/kubedb/mongodb/commit/c440ff53f) Merge pull request #731 from kubedb/proceed
+- [5f538c7c](https://github.com/kubedb/mongodb/commit/5f538c7c6) Fix empty object issue on removeCustomConfig (#730)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.16.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.16.0)

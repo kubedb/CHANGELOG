@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:46:45.636512919Z",
+  "release_date": "2026-02-26T03:47:16.931110931Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -1590,6 +1590,28 @@
             {
               "SHA": "6a1e622c",
               "Subject": "Update ops parallelism (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "2d1b71de",
+              "Subject": "Prepare for release v0.16.0 (#62)"
+            },
+            {
+              "SHA": "6f1858a4",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#61)"
+            },
+            {
+              "SHA": "bc0e985f",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#59)"
             }
           ]
         }

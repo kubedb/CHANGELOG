@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T13:59:35.879507913Z",
+  "release_date": "2026-02-26T13:59:43.730711547Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -51,6 +51,24 @@
             {
               "SHA": "86b55d65",
               "Subject": "Prepare for release v0.18.0 (#228)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "8403a3da",
+              "Subject": "Prepare for release v0.9.0 (#33)"
+            },
+            {
+              "SHA": "72cf15a2",
+              "Subject": "Fix multiple ops request in progressing state (#30)"
             }
           ]
         }

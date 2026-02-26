@@ -27,6 +27,15 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.9.0](https://github.com/kubedb/hazelcast/releases/tag/v0.9.0)
+
+- [8403a3da](https://github.com/kubedb/hazelcast/commit/8403a3da) Prepare for release v0.9.0 (#33)
+- [72cf15a2](https://github.com/kubedb/hazelcast/commit/72cf15a2) Fix multiple ops request in progressing state (#30)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.47.0)

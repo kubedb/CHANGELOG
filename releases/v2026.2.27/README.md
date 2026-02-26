@@ -102,3 +102,13 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.7.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.7.0)
+
+- [62cb086](https://github.com/kubedb/oracle-coordinator/commit/62cb086) Prepare for release v0.7.0 (#25)
+- [ff339c9](https://github.com/kubedb/oracle-coordinator/commit/ff339c9) Prepare for release v0.7.0-rc.1 (#24)
+- [8212e06](https://github.com/kubedb/oracle-coordinator/commit/8212e06) Prepare for release v0.7.0-rc.0 (#22)
+
+
+

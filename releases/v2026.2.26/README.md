@@ -63,6 +63,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.41.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.41.0)
+
+- [9e842377](https://github.com/kubedb/mysql-coordinator/commit/9e842377) Prepare for release v0.41.0 (#168)
+- [21e23989](https://github.com/kubedb/mysql-coordinator/commit/21e23989) Prepare for release v0.40.0 (#167)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.47.0)

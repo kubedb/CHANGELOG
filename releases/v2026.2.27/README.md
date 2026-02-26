@@ -128,6 +128,14 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.2.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.2.0)
+
+- [2081e6b](https://github.com/kubedb/db2-coordinator/commit/2081e6b) Cleanup go.mod (#6)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.16.0](https://github.com/kubedb/druid/releases/tag/v0.16.0)

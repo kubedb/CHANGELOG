@@ -170,6 +170,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.63.0](https://github.com/kubedb/postgres/releases/tag/v0.63.0)
+
+- [3b20d612](https://github.com/kubedb/postgres/commit/3b20d612f) Prepare for release v0.63.0 (#864)
+- [46a3f897](https://github.com/kubedb/postgres/commit/46a3f897b) Prepare for release v0.62.0 (#863)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.42.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.42.0)

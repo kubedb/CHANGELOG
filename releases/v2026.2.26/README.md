@@ -222,6 +222,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.56.0](https://github.com/kubedb/mongodb/releases/tag/v0.56.0)
+
+- [218a3458](https://github.com/kubedb/mongodb/commit/218a34583) Prepare for release v0.56.0 (#744)
+- [fbada72a](https://github.com/kubedb/mongodb/commit/fbada72a5) Fix typo (#742)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.26.0)

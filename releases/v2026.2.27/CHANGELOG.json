@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:40:29.944082634Z",
+  "release_date": "2026-02-26T03:40:53.740265783Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -1028,6 +1028,32 @@
             {
               "SHA": "2cc31997",
               "Subject": "update deletion Policy (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "5c0a3a79",
+              "Subject": "Prepare for release v0.16.0 (#107)"
+            },
+            {
+              "SHA": "fbf787f2",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#105)"
+            },
+            {
+              "SHA": "111bc2a6",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#103)"
+            },
+            {
+              "SHA": "64f10ce2",
+              "Subject": "Integrate shouldProceed() utility on runParallel (#100)"
             }
           ]
         }

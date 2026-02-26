@@ -393,3 +393,14 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.16.0](https://github.com/kubedb/zookeeper/releases/tag/v0.16.0)
+
+- [5c0a3a79](https://github.com/kubedb/zookeeper/commit/5c0a3a79) Prepare for release v0.16.0 (#107)
+- [fbf787f2](https://github.com/kubedb/zookeeper/commit/fbf787f2) Prepare for release v0.16.0-rc.1 (#105)
+- [111bc2a6](https://github.com/kubedb/zookeeper/commit/111bc2a6) Prepare for release v0.16.0-rc.0 (#103)
+- [64f10ce2](https://github.com/kubedb/zookeeper/commit/64f10ce2) Integrate shouldProceed() utility on runParallel (#100)
+
+
+

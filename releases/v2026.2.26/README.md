@@ -36,6 +36,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.26.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.26.0)
+
+- [a232e799](https://github.com/kubedb/kubedb-manifest-plugin/commit/a232e799) Prepare for release v0.26.0 (#121)
+- [a6a0ee79](https://github.com/kubedb/kubedb-manifest-plugin/commit/a6a0ee79) Prepare for release v0.25.0 (#120)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.47.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:46:02.359049536Z",
+  "release_date": "2026-02-26T03:46:14.445205159Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -1358,6 +1358,40 @@
             {
               "SHA": "0ab05f74",
               "Subject": "Update deps (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "4d69ddb8",
+              "Subject": "Prepare for release v0.16.0 (#117)"
+            },
+            {
+              "SHA": "d6abc5b1",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#115)"
+            },
+            {
+              "SHA": "052636d5",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#113)"
+            },
+            {
+              "SHA": "1215655f",
+              "Subject": "Update Parallel Processing Logic (#111)"
+            },
+            {
+              "SHA": "7a862fd3",
+              "Subject": "Update Paraller Processing Logic (#110)"
+            },
+            {
+              "SHA": "10445e04",
+              "Subject": "update deletion Policy (#109)"
             }
           ]
         }

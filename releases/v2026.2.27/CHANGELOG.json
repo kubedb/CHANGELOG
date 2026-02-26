@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:42:58.204242419Z",
+  "release_date": "2026-02-26T03:43:16.991224085Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -337,6 +337,32 @@
             {
               "SHA": "21875af7",
               "Subject": "Incorporate changes for restic standalone pkg (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "45280797",
+              "Subject": "Prepare for release v0.16.0 (#106)"
+            },
+            {
+              "SHA": "6f84d429",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#104)"
+            },
+            {
+              "SHA": "55a893b4",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#101)"
+            },
+            {
+              "SHA": "067071d5",
+              "Subject": "Integrate shouldProceed() utility on runParallel (#99)"
             }
           ]
         }

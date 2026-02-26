@@ -121,6 +121,17 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.16.0](https://github.com/kubedb/ferretdb/releases/tag/v0.16.0)
+
+- [45280797](https://github.com/kubedb/ferretdb/commit/45280797) Prepare for release v0.16.0 (#106)
+- [6f84d429](https://github.com/kubedb/ferretdb/commit/6f84d429) Prepare for release v0.16.0-rc.1 (#104)
+- [55a893b4](https://github.com/kubedb/ferretdb/commit/55a893b4) Prepare for release v0.16.0-rc.0 (#101)
+- [067071d5](https://github.com/kubedb/ferretdb/commit/067071d5) Integrate shouldProceed() utility on runParallel (#99)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.9.0](https://github.com/kubedb/gitops/releases/tag/v0.9.0)

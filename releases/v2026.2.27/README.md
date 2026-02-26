@@ -281,6 +281,18 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.2.0](https://github.com/kubedb/neo4j/releases/tag/v0.2.0)
+
+- [f9344583](https://github.com/kubedb/neo4j/commit/f9344583) Prepare for release v0.2.0 (#18)
+- [9959f762](https://github.com/kubedb/neo4j/commit/9959f762) Add Neo4j Monitoring, TLS, Restart Ops Request Support (#7)
+- [c8a9ae6b](https://github.com/kubedb/neo4j/commit/c8a9ae6b) Prepare for release v0.2.0-rc.1 (#16)
+- [84994b32](https://github.com/kubedb/neo4j/commit/84994b32) Prepare for release v0.2.0-rc.0 (#14)
+- [96ef4cff](https://github.com/kubedb/neo4j/commit/96ef4cff) bug fix and improved (#12)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.7.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.7.0)

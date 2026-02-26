@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:41:11.638457686Z",
+  "release_date": "2026-02-26T03:41:24.900237398Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -742,6 +742,36 @@
             {
               "SHA": "09eb2747",
               "Subject": "Incorporate changes for restic standalone pkg (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "f9344583",
+              "Subject": "Prepare for release v0.2.0 (#18)"
+            },
+            {
+              "SHA": "9959f762",
+              "Subject": "Add Neo4j Monitoring, TLS, Restart Ops Request Support (#7)"
+            },
+            {
+              "SHA": "c8a9ae6b",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#16)"
+            },
+            {
+              "SHA": "84994b32",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#14)"
+            },
+            {
+              "SHA": "96ef4cff",
+              "Subject": "bug fix and improved (#12)"
             }
           ]
         }

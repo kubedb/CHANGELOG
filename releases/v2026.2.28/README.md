@@ -40,6 +40,14 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.22.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.22.0)
+
+- [9add61be](https://github.com/kubedb/mariadb-archiver/commit/9add61be) Prepare for release v0.22.0 (#79)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.16.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.16.0)

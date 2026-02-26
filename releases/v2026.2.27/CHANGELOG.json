@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:46:34.822083199Z",
+  "release_date": "2026-02-26T03:46:45.636512919Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -161,6 +161,28 @@
             {
               "SHA": "0c7fc6da",
               "Subject": "move parallel-go to apimachinary (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.61.0",
+          "commits": [
+            {
+              "SHA": "543e89ba9",
+              "Subject": "Prepare for release v0.61.0 (#815)"
+            },
+            {
+              "SHA": "9bb719cef",
+              "Subject": "Prepare for release v0.61.0-rc.1 (#814)"
+            },
+            {
+              "SHA": "ec20e01a3",
+              "Subject": "Prepare for release v0.61.0-rc.0 (#812)"
             }
           ]
         }

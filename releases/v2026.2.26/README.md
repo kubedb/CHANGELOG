@@ -11,6 +11,15 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.16.0](https://github.com/kubedb/cassandra/releases/tag/v0.16.0)
+
+- [0abec83a](https://github.com/kubedb/cassandra/commit/0abec83a) Prepare for release v0.16.0 (#68)
+- [dc1f7971](https://github.com/kubedb/cassandra/commit/dc1f7971) Fix multiple-progressing ops request (#66)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.10.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.10.0)

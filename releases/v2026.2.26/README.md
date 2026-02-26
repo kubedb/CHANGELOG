@@ -452,6 +452,13 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.24.0](https://github.com/kubedb/provider-aws/releases/tag/v0.24.0)
+
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.24.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.24.0)

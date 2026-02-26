@@ -389,6 +389,19 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.24.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.24.0)
+
+- [b340aedb](https://github.com/kubedb/redis-restic-plugin/commit/b340aedb) Prepare for release v0.24.0 (#93)
+- [24e23ccd](https://github.com/kubedb/redis-restic-plugin/commit/24e23ccd) Prepare for release v0.24.0-rc.1 (#92)
+- [e850d1c4](https://github.com/kubedb/redis-restic-plugin/commit/e850d1c4) Prepare for release v0.24.0-rc.0 (#90)
+- [e0025b19](https://github.com/kubedb/redis-restic-plugin/commit/e0025b19) Incorporate changes for restic standalone pkg (#89)
+- [a84cb45c](https://github.com/kubedb/redis-restic-plugin/commit/a84cb45c) Test against k8s 1.35 (#88)
+- [c0283608](https://github.com/kubedb/redis-restic-plugin/commit/c0283608) Update DB ready condition check (#87)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.16.0](https://github.com/kubedb/singlestore/releases/tag/v0.16.0)

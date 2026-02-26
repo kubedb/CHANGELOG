@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:45:29.484724545Z",
+  "release_date": "2026-02-26T03:45:48.871900191Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -1070,6 +1070,40 @@
             {
               "SHA": "8212e06",
               "Subject": "Prepare for release v0.7.0-rc.0 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "aa55b5a4b",
+              "Subject": "Prepare for release v0.48.0 (#438)"
+            },
+            {
+              "SHA": "0eb331d24",
+              "Subject": "Fix multiple ops request in progressing state (#437)"
+            },
+            {
+              "SHA": "a96acbd3c",
+              "Subject": "Remove previous config volume if exist (#435)"
+            },
+            {
+              "SHA": "6d5d64acc",
+              "Subject": "Prepare for release v0.48.0-rc.1 (#436)"
+            },
+            {
+              "SHA": "0a851c7b1",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#433)"
+            },
+            {
+              "SHA": "e24482414",
+              "Subject": "Update ops parallelism (#431)"
             }
           ]
         }

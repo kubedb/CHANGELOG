@@ -417,6 +417,19 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.48.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.48.0)
+
+- [aa55b5a4](https://github.com/kubedb/percona-xtradb/commit/aa55b5a4b) Prepare for release v0.48.0 (#438)
+- [0eb331d2](https://github.com/kubedb/percona-xtradb/commit/0eb331d24) Fix multiple ops request in progressing state (#437)
+- [a96acbd3](https://github.com/kubedb/percona-xtradb/commit/a96acbd3c) Remove previous config volume if exist (#435)
+- [6d5d64ac](https://github.com/kubedb/percona-xtradb/commit/6d5d64acc) Prepare for release v0.48.0-rc.1 (#436)
+- [0a851c7b](https://github.com/kubedb/percona-xtradb/commit/0a851c7b1) Prepare for release v0.48.0-rc.0 (#433)
+- [e2448241](https://github.com/kubedb/percona-xtradb/commit/e24482414) Update ops parallelism (#431)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.34.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.34.0)

@@ -286,6 +286,20 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.22.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.22.0)
+
+- [9a154271](https://github.com/kubedb/mysql-archiver/commit/9a154271) Prepare for release v0.22.0 (#87)
+- [4a8372cc](https://github.com/kubedb/mysql-archiver/commit/4a8372cc) added backupstorage support from different namespace (#86)
+- [4c36bd86](https://github.com/kubedb/mysql-archiver/commit/4c36bd86) Prepare for release v0.22.0-rc.1 (#85)
+- [f7b9a5e3](https://github.com/kubedb/mysql-archiver/commit/f7b9a5e3) Test against k8s 1.35 (#84)
+- [1b3f57e4](https://github.com/kubedb/mysql-archiver/commit/1b3f57e4) Wait for binlog cleanup until LogStats becomes available. (#82)
+- [2703fb78](https://github.com/kubedb/mysql-archiver/commit/2703fb78) Prepare for release v0.22.0-rc.0 (#81)
+- [77cca4ad](https://github.com/kubedb/mysql-archiver/commit/77cca4ad) Clean up old binlogs (#75)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.39.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.39.0)

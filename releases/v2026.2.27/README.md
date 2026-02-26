@@ -87,6 +87,16 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.2.0](https://github.com/kubedb/db2/releases/tag/v0.2.0)
+
+- [2931e068](https://github.com/kubedb/db2/commit/2931e068) Prepare for release v0.2.0 (#13)
+- [7a213b22](https://github.com/kubedb/db2/commit/7a213b22) Prepare for release v0.2.0-rc.1 (#12)
+- [083436d3](https://github.com/kubedb/db2/commit/083436d3) Prepare for release v0.2.0-rc.0 (#10)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.61.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.61.0)

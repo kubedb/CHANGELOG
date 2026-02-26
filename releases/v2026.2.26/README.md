@@ -490,3 +490,13 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.18.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.18.0)
+
+- [efaaa14](https://github.com/kubedb/zookeeper-restic-plugin/commit/efaaa14) Prepare for release v0.18.0 (#59)
+- [b33a3e3](https://github.com/kubedb/zookeeper-restic-plugin/commit/b33a3e3) Prepare for release v0.17.0 (#58)
+- [abf3a94](https://github.com/kubedb/zookeeper-restic-plugin/commit/abf3a94) Incorporate changes for restic standalone pkg (#56)
+
+
+

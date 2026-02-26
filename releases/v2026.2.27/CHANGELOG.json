@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:47:16.931110931Z",
+  "release_date": "2026-02-26T03:48:14.853234493Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -1740,6 +1740,76 @@
             {
               "SHA": "2cc31997",
               "Subject": "update deletion Policy (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "f481225",
+              "Subject": "Prepare for release v0.9.0 (#41)"
+            },
+            {
+              "SHA": "3737ea6",
+              "Subject": "Prepare for release v0.9.0-rc.1 (#40)"
+            },
+            {
+              "SHA": "d77c796",
+              "Subject": "Apply go fix changes (#39)"
+            },
+            {
+              "SHA": "416ddbe",
+              "Subject": "Prepare for release v0.9.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "7c92d9a",
+              "Subject": "Incorporate changes for restic standalone pkg (#36)"
+            },
+            {
+              "SHA": "66414d7",
+              "Subject": "Fix OS and ARC in makefile (#34)"
+            },
+            {
+              "SHA": "6250c18",
+              "Subject": "Use forked kubestasgh/restic (#31)"
+            },
+            {
+              "SHA": "5c0b64e",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#30)"
+            },
+            {
+              "SHA": "39afcc0",
+              "Subject": "Use k8s 1.34 client libs (#29)"
+            },
+            {
+              "SHA": "1d360b0",
+              "Subject": "Fix makefile indentation (#28)"
+            },
+            {
+              "SHA": "bb44171",
+              "Subject": "Publish Image for Redhat software certification (#27)"
+            },
+            {
+              "SHA": "074b334",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#26)"
+            },
+            {
+              "SHA": "84dae3a",
+              "Subject": "update go version in makefile (#25)"
+            },
+            {
+              "SHA": "37d546d",
+              "Subject": "Use golangci-lint 2.x (#24)"
+            },
+            {
+              "SHA": "4255c2f",
+              "Subject": "Fix makefile for ubi images (#23)"
             }
           ]
         }

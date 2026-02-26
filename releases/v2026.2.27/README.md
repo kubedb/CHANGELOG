@@ -679,6 +679,28 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.9.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.9.0)
+
+- [f481225](https://github.com/kubedb/xtrabackup-restic-plugin/commit/f481225) Prepare for release v0.9.0 (#41)
+- [3737ea6](https://github.com/kubedb/xtrabackup-restic-plugin/commit/3737ea6) Prepare for release v0.9.0-rc.1 (#40)
+- [d77c796](https://github.com/kubedb/xtrabackup-restic-plugin/commit/d77c796) Apply go fix changes (#39)
+- [416ddbe](https://github.com/kubedb/xtrabackup-restic-plugin/commit/416ddbe) Prepare for release v0.9.0-rc.0 (#37)
+- [7c92d9a](https://github.com/kubedb/xtrabackup-restic-plugin/commit/7c92d9a) Incorporate changes for restic standalone pkg (#36)
+- [66414d7](https://github.com/kubedb/xtrabackup-restic-plugin/commit/66414d7) Fix OS and ARC in makefile (#34)
+- [6250c18](https://github.com/kubedb/xtrabackup-restic-plugin/commit/6250c18) Use forked kubestasgh/restic (#31)
+- [5c0b64e](https://github.com/kubedb/xtrabackup-restic-plugin/commit/5c0b64e) Prepare for release v0.8.0-rc.1 (#30)
+- [39afcc0](https://github.com/kubedb/xtrabackup-restic-plugin/commit/39afcc0) Use k8s 1.34 client libs (#29)
+- [1d360b0](https://github.com/kubedb/xtrabackup-restic-plugin/commit/1d360b0) Fix makefile indentation (#28)
+- [bb44171](https://github.com/kubedb/xtrabackup-restic-plugin/commit/bb44171) Publish Image for Redhat software certification (#27)
+- [074b334](https://github.com/kubedb/xtrabackup-restic-plugin/commit/074b334) Prepare for release v0.8.0-rc.0 (#26)
+- [84dae3a](https://github.com/kubedb/xtrabackup-restic-plugin/commit/84dae3a) update go version in makefile (#25)
+- [37d546d](https://github.com/kubedb/xtrabackup-restic-plugin/commit/37d546d) Use golangci-lint 2.x (#24)
+- [4255c2f](https://github.com/kubedb/xtrabackup-restic-plugin/commit/4255c2f) Fix makefile for ubi images (#23)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.16.0](https://github.com/kubedb/zookeeper/releases/tag/v0.16.0)

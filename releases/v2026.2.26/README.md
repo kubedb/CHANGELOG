@@ -360,6 +360,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.41.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.41.0)
+
+
+
+
 ## [kubedb/neo4j](https://github.com/kubedb/neo4j)
 
 ### [v0.4.0](https://github.com/kubedb/neo4j/releases/tag/v0.4.0)

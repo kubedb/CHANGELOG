@@ -40,6 +40,14 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.33.0](https://github.com/kubedb/kafka/releases/tag/v0.33.0)
+
+- [0d3b18fb](https://github.com/kubedb/kafka/commit/0d3b18fb) Prepare for release v0.33.0 (#181)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.22.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.22.0)

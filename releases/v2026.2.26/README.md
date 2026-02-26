@@ -152,6 +152,14 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.23.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.23.0)
+
+- [23cb6056](https://github.com/kubedb/mariadb-archiver/commit/23cb6056) Prepare for release v0.23.0 (#80)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.43.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.43.0)

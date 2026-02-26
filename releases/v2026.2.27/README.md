@@ -155,6 +155,17 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.7.0](https://github.com/kubedb/hazelcast/releases/tag/v0.7.0)
+
+- [2e994362](https://github.com/kubedb/hazelcast/commit/2e994362) Prepare for release v0.7.0 (#31)
+- [56738410](https://github.com/kubedb/hazelcast/commit/56738410) Prepare for release v0.7.0-rc.1 (#29)
+- [8e683f77](https://github.com/kubedb/hazelcast/commit/8e683f77) Prepare for release v0.7.0-rc.0 (#27)
+- [158438dc](https://github.com/kubedb/hazelcast/commit/158438dc) Merge pull request #25 from kubedb/proceed
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.8.0](https://github.com/kubedb/ignite/releases/tag/v0.8.0)

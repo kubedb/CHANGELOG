@@ -390,6 +390,26 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.61.0](https://github.com/kubedb/postgres/releases/tag/v0.61.0)
+
+- [1bd5a07f](https://github.com/kubedb/postgres/commit/1bd5a07fd) Prepare for release v0.61.0 (#862)
+- [0ad923ec](https://github.com/kubedb/postgres/commit/0ad923ec1) Pitr on same db (#861)
+- [7efb6f8e](https://github.com/kubedb/postgres/commit/7efb6f8ec) Remove Previous Config Volume if exist (#857)
+- [f350335e](https://github.com/kubedb/postgres/commit/f350335e8) Fix multiple ops request in progressing state (#850)
+- [f27f239b](https://github.com/kubedb/postgres/commit/f27f239b8) Prepare for release v0.61.0-rc.1 (#860)
+- [96d2952b](https://github.com/kubedb/postgres/commit/96d2952b8) Apply go fixes (#859)
+- [e9c1b88f](https://github.com/kubedb/postgres/commit/e9c1b88f9) Prepare for release v0.61.0-rc.0 (#856)
+- [2564a529](https://github.com/kubedb/postgres/commit/2564a529a) added permissions for binlog-cloeanup (#855)
+- [c16dae52](https://github.com/kubedb/postgres/commit/c16dae527) Add Read Replica Support  (#854)
+- [b44e0d83](https://github.com/kubedb/postgres/commit/b44e0d839) Add pod toleration during storageClass migration (#853)
+- [acc6ee97](https://github.com/kubedb/postgres/commit/acc6ee979) Incorporate new snapshot naming in postgres archiver (#851)
+- [dde64cf3](https://github.com/kubedb/postgres/commit/dde64cf30) Update parallel processing logic (#849)
+- [5086c260](https://github.com/kubedb/postgres/commit/5086c260c) Update Arbiter error code (#848)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.24.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.24.0)

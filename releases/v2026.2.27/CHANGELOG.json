@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:43:27.144141709Z",
+  "release_date": "2026-02-26T03:43:48.955526335Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -1016,6 +1016,68 @@
             {
               "SHA": "62699f51",
               "Subject": "Add Parallelism Controller (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.61.0",
+          "commits": [
+            {
+              "SHA": "1bd5a07fd",
+              "Subject": "Prepare for release v0.61.0 (#862)"
+            },
+            {
+              "SHA": "0ad923ec1",
+              "Subject": "Pitr on same db (#861)"
+            },
+            {
+              "SHA": "7efb6f8ec",
+              "Subject": "Remove Previous Config Volume if exist (#857)"
+            },
+            {
+              "SHA": "f350335e8",
+              "Subject": "Fix multiple ops request in progressing state (#850)"
+            },
+            {
+              "SHA": "f27f239b8",
+              "Subject": "Prepare for release v0.61.0-rc.1 (#860)"
+            },
+            {
+              "SHA": "96d2952b8",
+              "Subject": "Apply go fixes (#859)"
+            },
+            {
+              "SHA": "e9c1b88f9",
+              "Subject": "Prepare for release v0.61.0-rc.0 (#856)"
+            },
+            {
+              "SHA": "2564a529a",
+              "Subject": "added permissions for binlog-cloeanup (#855)"
+            },
+            {
+              "SHA": "c16dae527",
+              "Subject": "Add Read Replica Support  (#854)"
+            },
+            {
+              "SHA": "b44e0d839",
+              "Subject": "Add pod toleration during storageClass migration (#853)"
+            },
+            {
+              "SHA": "acc6ee979",
+              "Subject": "Incorporate new snapshot naming in postgres archiver (#851)"
+            },
+            {
+              "SHA": "dde64cf30",
+              "Subject": "Update parallel processing logic (#849)"
+            },
+            {
+              "SHA": "5086c260c",
+              "Subject": "Update Arbiter error code (#848)"
             }
           ]
         }

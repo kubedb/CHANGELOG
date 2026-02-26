@@ -27,6 +27,14 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.4.0](https://github.com/kubedb/db2/releases/tag/v0.4.0)
+
+- [de327edd](https://github.com/kubedb/db2/commit/de327edd) Prepare for release v0.4.0 (#15)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.9.0](https://github.com/kubedb/hazelcast/releases/tag/v0.9.0)

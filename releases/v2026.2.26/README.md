@@ -473,6 +473,15 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.48.0](https://github.com/kubedb/tests/releases/tag/v0.48.0)
+
+- [27eb689b](https://github.com/kubedb/tests/commit/27eb689be) Prepare for release v0.48.0 (#516)
+- [997d8136](https://github.com/kubedb/tests/commit/997d81366) Prepare for release v0.47.0 (#515)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.4.0](https://github.com/kubedb/weaviate/releases/tag/v0.4.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T15:39:39.62670046Z",
+  "release_date": "2026-02-26T15:41:32.007123322Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -532,6 +532,48 @@
             {
               "SHA": "2dee859",
               "Subject": "Configure Red Hat component ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-operator",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "9902cf6",
+              "Subject": "Prepare for release v0.3.0 (#10)"
+            },
+            {
+              "SHA": "a661af4",
+              "Subject": "Configure Red Hat component ID (#8)"
+            },
+            {
+              "SHA": "553c478",
+              "Subject": "update deps (#7)"
+            },
+            {
+              "SHA": "ed2f3d8",
+              "Subject": "Prepare for release v0.1.0-rc.1 (#6)"
+            },
+            {
+              "SHA": "41e08f9",
+              "Subject": "Fix CI (#5)"
+            },
+            {
+              "SHA": "0355020",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#4)"
+            },
+            {
+              "SHA": "47b051e",
+              "Subject": "Rewrite utils pkg to make it db agnostic (#2)"
+            },
+            {
+              "SHA": "7e38d57",
+              "Subject": "Init operator for database migration to kubedb"
             }
           ]
         }

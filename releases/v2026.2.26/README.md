@@ -269,6 +269,21 @@
 
 
 
+## [kubedb/migrator-operator](https://github.com/kubedb/migrator-operator)
+
+### [v0.3.0](https://github.com/kubedb/migrator-operator/releases/tag/v0.3.0)
+
+- [9902cf6](https://github.com/kubedb/migrator-operator/commit/9902cf6) Prepare for release v0.3.0 (#10)
+- [a661af4](https://github.com/kubedb/migrator-operator/commit/a661af4) Configure Red Hat component ID (#8)
+- [553c478](https://github.com/kubedb/migrator-operator/commit/553c478) update deps (#7)
+- [ed2f3d8](https://github.com/kubedb/migrator-operator/commit/ed2f3d8) Prepare for release v0.1.0-rc.1 (#6)
+- [41e08f9](https://github.com/kubedb/migrator-operator/commit/41e08f9) Fix CI (#5)
+- [0355020](https://github.com/kubedb/migrator-operator/commit/0355020) Prepare for release v0.1.0-rc.0 (#4)
+- [47b051e](https://github.com/kubedb/migrator-operator/commit/47b051e) Rewrite utils pkg to make it db agnostic (#2)
+- [7e38d57](https://github.com/kubedb/migrator-operator/commit/7e38d57) Init operator for database migration to kubedb
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.4.0](https://github.com/kubedb/milvus/releases/tag/v0.4.0)

@@ -65,6 +65,17 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.24.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.24.0)
+
+- [f1f48bf4](https://github.com/kubedb/kubedb-manifest-plugin/commit/f1f48bf4) Prepare for release v0.24.0 (#119)
+- [c9385129](https://github.com/kubedb/kubedb-manifest-plugin/commit/c9385129) Prepare for release v0.24.0-rc.1 (#118)
+- [b3d1a34e](https://github.com/kubedb/kubedb-manifest-plugin/commit/b3d1a34e) Prepare for release v0.24.0-rc.0 (#116)
+- [19fa3a25](https://github.com/kubedb/kubedb-manifest-plugin/commit/19fa3a25) Incorporate changes for restic standalone pkg (#115)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.21.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.21.0)

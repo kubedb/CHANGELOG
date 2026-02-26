@@ -135,3 +135,17 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.46.0](https://github.com/kubedb/tests/releases/tag/v0.46.0)
+
+- [0b5d78b4](https://github.com/kubedb/tests/commit/0b5d78b49) Prepare for release v0.46.0 (#513)
+- [1853f471](https://github.com/kubedb/tests/commit/1853f471c) Postgres DB Migration Test (#507)
+- [57a63cd4](https://github.com/kubedb/tests/commit/57a63cd4c) Redis Cluster mode Fix (#506)
+- [9ba6a211](https://github.com/kubedb/tests/commit/9ba6a2115) Prepare for release v0.46.0-rc.1 (#511)
+- [b5255636](https://github.com/kubedb/tests/commit/b52556363) Prepare for release v0.46.0-rc.0 (#509)
+- [6231c498](https://github.com/kubedb/tests/commit/6231c4982) Prepare for release v0.46.0-rc.0 (#508)
+- [11c81d08](https://github.com/kubedb/tests/commit/11c81d087) Reconfigure Release Check (#505)
+
+
+

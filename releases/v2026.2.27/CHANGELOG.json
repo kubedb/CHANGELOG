@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:36:02.802306068Z",
+  "release_date": "2026-02-26T03:36:39.019744478Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -374,6 +374,44 @@
             {
               "SHA": "8212e06",
               "Subject": "Prepare for release v0.7.0-rc.0 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "0b5d78b49",
+              "Subject": "Prepare for release v0.46.0 (#513)"
+            },
+            {
+              "SHA": "1853f471c",
+              "Subject": "Postgres DB Migration Test (#507)"
+            },
+            {
+              "SHA": "57a63cd4c",
+              "Subject": "Redis Cluster mode Fix (#506)"
+            },
+            {
+              "SHA": "9ba6a2115",
+              "Subject": "Prepare for release v0.46.0-rc.1 (#511)"
+            },
+            {
+              "SHA": "b52556363",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#509)"
+            },
+            {
+              "SHA": "6231c4982",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#508)"
+            },
+            {
+              "SHA": "11c81d087",
+              "Subject": "Reconfigure Release Check (#505)"
             }
           ]
         }

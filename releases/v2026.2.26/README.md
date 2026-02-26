@@ -29,6 +29,15 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.18.0](https://github.com/kubedb/clickhouse/releases/tag/v0.18.0)
+
+- [cd62e83a](https://github.com/kubedb/clickhouse/commit/cd62e83a) Prepare for release v0.18.0 (#91)
+- [31f9dd55](https://github.com/kubedb/clickhouse/commit/31f9dd55) Prepare for release v0.17.0 (#90)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.18.0](https://github.com/kubedb/crd-manager/releases/tag/v0.18.0)

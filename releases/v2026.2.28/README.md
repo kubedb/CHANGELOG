@@ -9,6 +9,14 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.15.0](https://github.com/kubedb/cassandra/releases/tag/v0.15.0)
+
+- [42bb817b](https://github.com/kubedb/cassandra/commit/42bb817b) Prepare for release v0.15.0 (#67)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.17.0](https://github.com/kubedb/crd-manager/releases/tag/v0.17.0)

@@ -341,6 +341,17 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.16.0](https://github.com/kubedb/solr/releases/tag/v0.16.0)
+
+- [50a70839](https://github.com/kubedb/solr/commit/50a70839) Prepare for release v0.16.0 (#116)
+- [0e1b35d2](https://github.com/kubedb/solr/commit/0e1b35d2) Prepare for release v0.16.0-rc.1 (#114)
+- [b646dfb1](https://github.com/kubedb/solr/commit/b646dfb1) Prepare for release v0.16.0-rc.0 (#111)
+- [58f2dd61](https://github.com/kubedb/solr/commit/58f2dd61) Merge pull request #109 from kubedb/proceed
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.46.0](https://github.com/kubedb/tests/releases/tag/v0.46.0)

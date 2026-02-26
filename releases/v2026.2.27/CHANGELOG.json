@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:39:18.591417685Z",
+  "release_date": "2026-02-26T03:40:13.651373352Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -892,6 +892,32 @@
             {
               "SHA": "e98ce73b",
               "Subject": "Fix for restic/kubestash (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "50a70839",
+              "Subject": "Prepare for release v0.16.0 (#116)"
+            },
+            {
+              "SHA": "0e1b35d2",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#114)"
+            },
+            {
+              "SHA": "b646dfb1",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#111)"
+            },
+            {
+              "SHA": "58f2dd61",
+              "Subject": "Merge pull request #109 from kubedb/proceed"
             }
           ]
         }

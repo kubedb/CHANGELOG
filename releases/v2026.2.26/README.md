@@ -179,6 +179,14 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.24.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.24.0)
+
+- [ae1b56e9](https://github.com/kubedb/postgres-archiver/commit/ae1b56e9) Prepare for release v0.24.0 (#93)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.42.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.42.0)

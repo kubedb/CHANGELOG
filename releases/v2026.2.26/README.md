@@ -246,6 +246,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.26.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.26.0)
+
+- [c99cb2fa](https://github.com/kubedb/postgres-restic-plugin/commit/c99cb2fa) Prepare for release v0.26.0 (#99)
+- [a7c4d8ab](https://github.com/kubedb/postgres-restic-plugin/commit/a7c4d8ab) Prepare for release v0.25.0 (#98)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.4.0](https://github.com/kubedb/qdrant/releases/tag/v0.4.0)

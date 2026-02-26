@@ -72,6 +72,18 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.19.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.19.0)
+
+- [4c53d8e](https://github.com/kubedb/mariadb-restic-plugin/commit/4c53d8e) Prepare for release v0.19.0 (#76)
+- [d0606b0](https://github.com/kubedb/mariadb-restic-plugin/commit/d0606b0) Prepare for release v0.19.0-rc.1 (#75)
+- [fc3460e](https://github.com/kubedb/mariadb-restic-plugin/commit/fc3460e) Distributed archiver support (#63)
+- [0d5eb53](https://github.com/kubedb/mariadb-restic-plugin/commit/0d5eb53) Prepare for release v0.19.0-rc.0 (#73)
+- [15c95b9](https://github.com/kubedb/mariadb-restic-plugin/commit/15c95b9) Incorporate changes for restic standalone pkg (#72)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.16.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.16.0)

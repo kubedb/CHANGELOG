@@ -50,6 +50,17 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.16.0](https://github.com/kubedb/clickhouse/releases/tag/v0.16.0)
+
+- [188573a7](https://github.com/kubedb/clickhouse/commit/188573a7) Prepare for release v0.16.0 (#89)
+- [fb6882db](https://github.com/kubedb/clickhouse/commit/fb6882db) Prepare for release v0.16.0-rc.1 (#87)
+- [64226cf9](https://github.com/kubedb/clickhouse/commit/64226cf9) Prepare for release v0.16.0-rc.0 (#85)
+- [2b65eea3](https://github.com/kubedb/clickhouse/commit/2b65eea3) Integrate shouldProceed() utility on runParallel (#81)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.16.0](https://github.com/kubedb/crd-manager/releases/tag/v0.16.0)

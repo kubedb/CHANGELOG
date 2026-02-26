@@ -212,6 +212,15 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.56.0](https://github.com/kubedb/mysql/releases/tag/v0.56.0)
+
+- [ab97ec5a](https://github.com/kubedb/mysql/commit/ab97ec5a3) Prepare for release v0.56.0 (#731)
+- [b8447fab](https://github.com/kubedb/mysql/commit/b8447fabf) Prepare for release v0.55.0 (#730)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.24.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.24.0)

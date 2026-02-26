@@ -234,6 +234,21 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.54.0](https://github.com/kubedb/redis/releases/tag/v0.54.0)
+
+- [6b1b1bc5](https://github.com/kubedb/redis/commit/6b1b1bc5b) Prepare for release v0.54.0 (#627)
+- [15a38c02](https://github.com/kubedb/redis/commit/15a38c022) Fix multiple Ops Request Goes in Progressing (#626)
+- [648af78d](https://github.com/kubedb/redis/commit/648af78d6) Remove Previous Config Volume if exist (#623)
+- [4f835baf](https://github.com/kubedb/redis/commit/4f835bafa) Prepare for release v0.54.0-rc.1 (#625)
+- [dd5032fa](https://github.com/kubedb/redis/commit/dd5032fa1) Prepare for release v0.54.0-rc.0 (#621)
+- [a95277cc](https://github.com/kubedb/redis/commit/a95277ccf) VNPAY issue Resolve (#620)
+- [3e886b96](https://github.com/kubedb/redis/commit/3e886b961) Update api (#619)
+- [a9488ef7](https://github.com/kubedb/redis/commit/a9488ef7d) Redis Ops bug fix and Parallelism improvement (#617)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.40.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.40.0)

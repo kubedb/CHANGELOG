@@ -212,6 +212,22 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.1.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.1.0)
+
+- [988b684](https://github.com/kubedb/migrator-cli/commit/988b684) Prepare for release v0.1.0 (#8)
+- [25d7116](https://github.com/kubedb/migrator-cli/commit/25d7116) fix aws issues (#7)
+- [5843869](https://github.com/kubedb/migrator-cli/commit/5843869) Move grcpc connect code to apis (#6)
+- [1ae73cb](https://github.com/kubedb/migrator-cli/commit/1ae73cb) Prepare for release v0.1.0-rc.1 (#5)
+- [9a82226](https://github.com/kubedb/migrator-cli/commit/9a82226) Fix container make target
+- [a647ee7](https://github.com/kubedb/migrator-cli/commit/a647ee7) Publish migrator cli to red hat catalog (#4)
+- [a589234](https://github.com/kubedb/migrator-cli/commit/a589234) Add git to push private registry (#3)
+- [6e3085b](https://github.com/kubedb/migrator-cli/commit/6e3085b) Prepare for release v0.1.0-rc.0 (#2)
+- [4120491](https://github.com/kubedb/migrator-cli/commit/4120491) initial setup, integrate pg_dump and logical replication for postgres (#1)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.2.0](https://github.com/kubedb/milvus/releases/tag/v0.2.0)

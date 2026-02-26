@@ -758,6 +758,17 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.7.0](https://github.com/kubedb/oracle/releases/tag/v0.7.0)
+
+- [513ec335](https://github.com/kubedb/oracle/commit/513ec335) Prepare for release v0.7.0 (#31)
+- [549fb563](https://github.com/kubedb/oracle/commit/549fb563) Add oracle monitor (#25)
+- [80d26f4a](https://github.com/kubedb/oracle/commit/80d26f4a) Prepare for release v0.7.0-rc.1 (#30)
+- [bb2b29c0](https://github.com/kubedb/oracle/commit/bb2b29c0) Prepare for release v0.7.0-rc.0 (#28)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.7.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.7.0)

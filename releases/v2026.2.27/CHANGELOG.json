@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:48:48.035754367Z",
+  "release_date": "2026-02-26T03:48:55.052052738Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -2344,6 +2344,32 @@
             {
               "SHA": "96ef4cff",
               "Subject": "bug fix and improved (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "513ec335",
+              "Subject": "Prepare for release v0.7.0 (#31)"
+            },
+            {
+              "SHA": "549fb563",
+              "Subject": "Add oracle monitor (#25)"
+            },
+            {
+              "SHA": "80d26f4a",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#30)"
+            },
+            {
+              "SHA": "bb2b29c0",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#28)"
             }
           ]
         }

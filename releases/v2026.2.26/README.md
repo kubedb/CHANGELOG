@@ -440,6 +440,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.26.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.26.0)
+
+- [199cef29](https://github.com/kubedb/redis-restic-plugin/commit/199cef29) Prepare for release v0.26.0 (#95)
+- [1a11b1c6](https://github.com/kubedb/redis-restic-plugin/commit/1a11b1c6) Prepare for release v0.25.0 (#94)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.50.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.50.0)

@@ -283,6 +283,14 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.9.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.9.0)
+
+- [95179f3](https://github.com/kubedb/oracle-coordinator/commit/95179f3) Prepare for release v0.9.0 (#27)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.47.0)

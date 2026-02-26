@@ -135,6 +135,20 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.16.0](https://github.com/kubedb/pgpool/releases/tag/v0.16.0)
+
+- [33a6d3e2](https://github.com/kubedb/pgpool/commit/33a6d3e2) Prepare for release v0.16.0 (#106)
+- [ef7ebf80](https://github.com/kubedb/pgpool/commit/ef7ebf80) Fix multiple ops request in progressing state (#105)
+- [71f71daf](https://github.com/kubedb/pgpool/commit/71f71daf) Postgres Cred From Secret (#104)
+- [43956637](https://github.com/kubedb/pgpool/commit/43956637) Prepare for release v0.16.0-rc.1 (#103)
+- [85ab1429](https://github.com/kubedb/pgpool/commit/85ab1429) Apply go fix (#102)
+- [582b34f8](https://github.com/kubedb/pgpool/commit/582b34f8) Prepare for release v0.16.0-rc.0 (#99)
+- [62699f51](https://github.com/kubedb/pgpool/commit/62699f51) Add Parallelism Controller (#97)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.40.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.40.0)

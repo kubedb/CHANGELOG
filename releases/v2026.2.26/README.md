@@ -692,6 +692,13 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.39.0](https://github.com/kubedb/webhook-server/releases/tag/v0.39.0)
+
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.11.0)

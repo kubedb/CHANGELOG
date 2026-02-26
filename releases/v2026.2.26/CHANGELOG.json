@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T17:13:55.123718576Z",
+  "release_date": "2026-02-26T17:14:25.5648324Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -1375,6 +1375,15 @@
               "Subject": "Prepare for release v0.3.0 (#20)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": null
         }
       ]
     },

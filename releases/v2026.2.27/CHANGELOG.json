@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:44:05.152890788Z",
+  "release_date": "2026-02-26T03:44:12.00949528Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -527,6 +527,28 @@
             {
               "SHA": "19fa3a25",
               "Subject": "Incorporate changes for restic standalone pkg (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "172c0928",
+              "Subject": "Prepare for release v0.12.0 (#41)"
+            },
+            {
+              "SHA": "2768c2e8",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#40)"
+            },
+            {
+              "SHA": "b07d581c",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#38)"
             }
           ]
         }

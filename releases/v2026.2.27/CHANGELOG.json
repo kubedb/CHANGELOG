@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:37:50.209708557Z",
+  "release_date": "2026-02-26T03:38:02.361867216Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -622,6 +622,36 @@
             {
               "SHA": "e6f57560",
               "Subject": "Prepare for release v0.40.0-rc.0 (#146)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "7e62780d",
+              "Subject": "Prepare for release v0.16.0 (#103)"
+            },
+            {
+              "SHA": "dfc8d4e0",
+              "Subject": "Fix multiple ops request in progressing state (#102)"
+            },
+            {
+              "SHA": "1c6aef0e",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#101)"
+            },
+            {
+              "SHA": "084e27aa",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#99)"
+            },
+            {
+              "SHA": "6a1e622c",
+              "Subject": "Update ops parallelism (#97)"
             }
           ]
         }

@@ -233,6 +233,18 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.16.0](https://github.com/kubedb/singlestore/releases/tag/v0.16.0)
+
+- [7e62780d](https://github.com/kubedb/singlestore/commit/7e62780d) Prepare for release v0.16.0 (#103)
+- [dfc8d4e0](https://github.com/kubedb/singlestore/commit/dfc8d4e0) Fix multiple ops request in progressing state (#102)
+- [1c6aef0e](https://github.com/kubedb/singlestore/commit/1c6aef0e) Prepare for release v0.16.0-rc.1 (#101)
+- [084e27aa](https://github.com/kubedb/singlestore/commit/084e27aa) Prepare for release v0.16.0-rc.0 (#99)
+- [6a1e622c](https://github.com/kubedb/singlestore/commit/6a1e622c) Update ops parallelism (#97)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.46.0](https://github.com/kubedb/tests/releases/tag/v0.46.0)

@@ -11,6 +11,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.63.0](https://github.com/kubedb/cli/releases/tag/v0.63.0)
+
+- [2986f83c](https://github.com/kubedb/cli/commit/2986f83c6) Prepare for release v0.63.0 (#817)
+- [8d46f5ca](https://github.com/kubedb/cli/commit/8d46f5ca3) Prepare for release v0.62.0 (#816)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.18.0](https://github.com/kubedb/crd-manager/releases/tag/v0.18.0)

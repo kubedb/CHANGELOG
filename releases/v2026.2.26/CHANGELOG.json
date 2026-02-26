@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:00:33.717208829Z",
+  "release_date": "2026-02-26T14:00:44.695374719Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -23,6 +23,24 @@
             {
               "SHA": "a686b4b6a",
               "Subject": "Remove unused fields from kubedb version api (#1612)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.63.0",
+          "commits": [
+            {
+              "SHA": "2986f83c6",
+              "Subject": "Prepare for release v0.63.0 (#817)"
+            },
+            {
+              "SHA": "8d46f5ca3",
+              "Subject": "Prepare for release v0.62.0 (#816)"
             }
           ]
         }

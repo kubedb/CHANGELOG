@@ -36,6 +36,15 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.10.0](https://github.com/kubedb/ignite/releases/tag/v0.10.0)
+
+- [dd546641](https://github.com/kubedb/ignite/commit/dd546641) Prepare for release v0.10.0 (#42)
+- [c2ab5a30](https://github.com/kubedb/ignite/commit/c2ab5a30) Fix multiple Ops Request Goes in Progressing (#39)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.26.0)

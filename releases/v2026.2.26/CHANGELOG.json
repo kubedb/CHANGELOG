@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:00:00.480272085Z",
+  "release_date": "2026-02-26T14:00:08.377542035Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -69,6 +69,24 @@
             {
               "SHA": "72cf15a2",
               "Subject": "Fix multiple ops request in progressing state (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "dd546641",
+              "Subject": "Prepare for release v0.10.0 (#42)"
+            },
+            {
+              "SHA": "c2ab5a30",
+              "Subject": "Fix multiple Ops Request Goes in Progressing (#39)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:44:39.037245344Z",
+  "release_date": "2026-02-26T03:45:01.882919129Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -804,6 +804,28 @@
             {
               "SHA": "da9faff4",
               "Subject": "Integrate shouldProceed() utility on runParallel (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "0facf14",
+              "Subject": "Prepare for release v0.15.0 (#48)"
+            },
+            {
+              "SHA": "b5eef01",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#47)"
+            },
+            {
+              "SHA": "5d1c8e3",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#45)"
             }
           ]
         }

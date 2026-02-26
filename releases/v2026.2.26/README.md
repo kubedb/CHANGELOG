@@ -672,6 +672,17 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.39.0](https://github.com/kubedb/ui-server/releases/tag/v0.39.0)
+
+- [4d4646d1](https://github.com/kubedb/ui-server/commit/4d4646d1) Prepare for release v0.39.0 (#191)
+- [4fafc968](https://github.com/kubedb/ui-server/commit/4fafc968) Implement DatabaseInfo api for all dbs (#180)
+- [3eb33aa7](https://github.com/kubedb/ui-server/commit/3eb33aa7) Prepare for release v0.37.0-rc.1 (#190)
+- [15c16908](https://github.com/kubedb/ui-server/commit/15c16908) Prepare for release v0.37.0-rc.0 (#188)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.4.0](https://github.com/kubedb/weaviate/releases/tag/v0.4.0)

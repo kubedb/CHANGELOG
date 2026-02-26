@@ -177,6 +177,17 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.39.0](https://github.com/kubedb/kibana/releases/tag/v0.39.0)
+
+- [19304765](https://github.com/kubedb/kibana/commit/19304765) Prepare for release v0.39.0 (#172)
+- [cb717901](https://github.com/kubedb/kibana/commit/cb717901) Prepare for release v0.37.0-rc.1 (#170)
+- [9c1f0d74](https://github.com/kubedb/kibana/commit/9c1f0d74) Prepare for release v0.37.0-rc.0 (#169)
+- [2a0c9e0c](https://github.com/kubedb/kibana/commit/2a0c9e0c) Remove Init Container From es/os Dashboard (#168)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.26.0)

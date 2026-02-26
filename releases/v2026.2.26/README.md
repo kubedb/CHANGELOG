@@ -186,6 +186,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.56.0](https://github.com/kubedb/memcached/releases/tag/v0.56.0)
+
+- [4a722885](https://github.com/kubedb/memcached/commit/4a7228856) Prepare for release v0.56.0 (#528)
+- [f932228b](https://github.com/kubedb/memcached/commit/f932228b1) Fix multiple ops request in progressing state (#527)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.3.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.3.0)

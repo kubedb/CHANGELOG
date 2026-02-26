@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T17:14:25.5648324Z",
+  "release_date": "2026-02-26T17:47:49.256303922Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -1093,6 +1093,32 @@
         {
           "tag": "v0.24.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.63.0",
+          "commits": [
+            {
+              "SHA": "666ff7e23",
+              "Subject": "Prepare for release v0.63.0 (#195)"
+            },
+            {
+              "SHA": "713672efb",
+              "Subject": "Update makefile (#194)"
+            },
+            {
+              "SHA": "ac8fe9291",
+              "Subject": "Prepare for release v0.61.0-rc.1 (#193)"
+            },
+            {
+              "SHA": "f24e8311c",
+              "Subject": "Prepare for release v0.61.0-rc.0 (#192)"
+            }
+          ]
         }
       ]
     },

@@ -89,6 +89,14 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.18.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.18.0)
+
+- [f58e931d](https://github.com/kubedb/mssql-coordinator/commit/f58e931d) Prepare for release v0.18.0 (#60)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.17.0)

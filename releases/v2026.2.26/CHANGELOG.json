@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:01:01.324156851Z",
+  "release_date": "2026-02-26T14:01:10.24171137Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -173,6 +173,20 @@
             {
               "SHA": "2dee859",
               "Subject": "Configure Red Hat component ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "f58e931d",
+              "Subject": "Prepare for release v0.18.0 (#60)"
             }
           ]
         }

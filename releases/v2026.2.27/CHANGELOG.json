@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:39:11.536786052Z",
+  "release_date": "2026-02-26T03:39:18.591417685Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -858,6 +858,40 @@
             {
               "SHA": "6a1e622c",
               "Subject": "Update ops parallelism (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "20cb7ac1",
+              "Subject": "Prepare for release v0.19.0 (#73)"
+            },
+            {
+              "SHA": "714be65b",
+              "Subject": "Prepare for release v0.19.0-rc.1 (#72)"
+            },
+            {
+              "SHA": "7ca8197e",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#70)"
+            },
+            {
+              "SHA": "6f0e374a",
+              "Subject": "Incorporate changes for restic standalone pkg (#69)"
+            },
+            {
+              "SHA": "52d3ae86",
+              "Subject": "Delete .golangci.yml.1 (#67)"
+            },
+            {
+              "SHA": "e98ce73b",
+              "Subject": "Fix for restic/kubestash (#66)"
             }
           ]
         }

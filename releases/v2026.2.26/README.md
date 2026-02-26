@@ -454,6 +454,18 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.50.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.50.0)
+
+- [64664f49](https://github.com/kubedb/pgbouncer/commit/64664f497) Prepare for release v0.50.0 (#401)
+- [daf108eb](https://github.com/kubedb/pgbouncer/commit/daf108eb7) Fix multiple Ops Request Goes in Progressing (#399)
+- [18bbb401](https://github.com/kubedb/pgbouncer/commit/18bbb401a) Prepare for release v0.48.0-rc.1 (#398)
+- [b7c6fedb](https://github.com/kubedb/pgbouncer/commit/b7c6fedbd) Prepare for release v0.48.0-rc.0 (#396)
+- [31e2e720](https://github.com/kubedb/pgbouncer/commit/31e2e7207) Added Parallel Controller (#394)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.18.0](https://github.com/kubedb/pgpool/releases/tag/v0.18.0)

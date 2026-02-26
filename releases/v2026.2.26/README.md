@@ -27,3 +27,12 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.47.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.47.0)
+
+- [2246cb8b](https://github.com/kubedb/pg-coordinator/commit/2246cb8b) Prepare for release v0.47.0 (#236)
+- [ebe5a374](https://github.com/kubedb/pg-coordinator/commit/ebe5a374) Prepare for release v0.46.0 (#235)
+
+
+

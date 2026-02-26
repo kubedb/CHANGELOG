@@ -177,6 +177,15 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.4.0](https://github.com/kubedb/milvus/releases/tag/v0.4.0)
+
+- [d339ef84](https://github.com/kubedb/milvus/commit/d339ef84) Prepare for release v0.4.0 (#22)
+- [24298c7e](https://github.com/kubedb/milvus/commit/24298c7e) Prepare for release v0.3.0 (#21)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.18.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.18.0)

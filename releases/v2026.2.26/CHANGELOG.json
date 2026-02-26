@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:30:26.871032011Z",
+  "release_date": "2026-02-26T14:30:40.94596869Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -345,6 +345,24 @@
             {
               "SHA": "2dee859",
               "Subject": "Configure Red Hat component ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "d339ef84",
+              "Subject": "Prepare for release v0.4.0 (#22)"
+            },
+            {
+              "SHA": "24298c7e",
+              "Subject": "Prepare for release v0.3.0 (#21)"
             }
           ]
         }

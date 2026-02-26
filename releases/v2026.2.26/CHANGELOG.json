@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:33:12.791425969Z",
+  "release_date": "2026-02-26T14:33:22.864580808Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -571,6 +571,24 @@
             {
               "SHA": "2536806e",
               "Subject": "Prepare for release v0.25.0 (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "435c173a",
+              "Subject": "Prepare for release v0.4.0 (#20)"
+            },
+            {
+              "SHA": "8637f98d",
+              "Subject": "Fix multiple ops request in progressing state (#17)"
             }
           ]
         }

@@ -292,6 +292,15 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.4.0](https://github.com/kubedb/neo4j/releases/tag/v0.4.0)
+
+- [435c173a](https://github.com/kubedb/neo4j/commit/435c173a) Prepare for release v0.4.0 (#20)
+- [8637f98d](https://github.com/kubedb/neo4j/commit/8637f98d) Fix multiple ops request in progressing state (#17)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.9.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.9.0)

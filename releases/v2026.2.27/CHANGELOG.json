@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:35:21.427768256Z",
+  "release_date": "2026-02-26T03:35:36.720353365Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -214,6 +214,60 @@
         {
           "tag": "v0.21.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.54.0",
+          "commits": [
+            {
+              "SHA": "19dafdf3e",
+              "Subject": "Prepare for release v0.54.0 (#729)"
+            },
+            {
+              "SHA": "b7d7ccda1",
+              "Subject": "added backupstorage support from different namespace (#728)"
+            },
+            {
+              "SHA": "318ed147b",
+              "Subject": "Fix multiple ops request in progressing state (#727)"
+            },
+            {
+              "SHA": "53ca7c585",
+              "Subject": "Remove previous config volume if exist (#725)"
+            },
+            {
+              "SHA": "0db51d13c",
+              "Subject": "Prepare for release v0.54.0-rc.1 (#726)"
+            },
+            {
+              "SHA": "05e392f58",
+              "Subject": "Prepare for release v0.54.0-rc.0 (#722)"
+            },
+            {
+              "SHA": "95604806d",
+              "Subject": "added permission for binlog-cleanup (#719)"
+            },
+            {
+              "SHA": "8959e3ea5",
+              "Subject": "Update for Kubestash API (#721)"
+            },
+            {
+              "SHA": "865c8dd0e",
+              "Subject": "Add pod toleration during storageClass migration (#718)"
+            },
+            {
+              "SHA": "5fed4bfc7",
+              "Subject": "Update ops parallelism (#716)"
+            },
+            {
+              "SHA": "62650d638",
+              "Subject": "Upgrade Exporter to v0.18.0 (#715)"
+            }
+          ]
         }
       ]
     }

@@ -72,3 +72,21 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.54.0](https://github.com/kubedb/mysql/releases/tag/v0.54.0)
+
+- [19dafdf3](https://github.com/kubedb/mysql/commit/19dafdf3e) Prepare for release v0.54.0 (#729)
+- [b7d7ccda](https://github.com/kubedb/mysql/commit/b7d7ccda1) added backupstorage support from different namespace (#728)
+- [318ed147](https://github.com/kubedb/mysql/commit/318ed147b) Fix multiple ops request in progressing state (#727)
+- [53ca7c58](https://github.com/kubedb/mysql/commit/53ca7c585) Remove previous config volume if exist (#725)
+- [0db51d13](https://github.com/kubedb/mysql/commit/0db51d13c) Prepare for release v0.54.0-rc.1 (#726)
+- [05e392f5](https://github.com/kubedb/mysql/commit/05e392f58) Prepare for release v0.54.0-rc.0 (#722)
+- [95604806](https://github.com/kubedb/mysql/commit/95604806d) added permission for binlog-cleanup (#719)
+- [8959e3ea](https://github.com/kubedb/mysql/commit/8959e3ea5) Update for Kubestash API (#721)
+- [865c8dd0](https://github.com/kubedb/mysql/commit/865c8dd0e) Add pod toleration during storageClass migration (#718)
+- [5fed4bfc](https://github.com/kubedb/mysql/commit/5fed4bfc7) Update ops parallelism (#716)
+- [62650d63](https://github.com/kubedb/mysql/commit/62650d638) Upgrade Exporter to v0.18.0 (#715)
+
+
+

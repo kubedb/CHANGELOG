@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:33:31.105930555Z",
+  "release_date": "2026-02-26T14:33:39.231666933Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -589,6 +589,20 @@
             {
               "SHA": "8637f98d",
               "Subject": "Fix multiple ops request in progressing state (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "a59592c0",
+              "Subject": "Prepare for release v0.9.0 (#33)"
             }
           ]
         }

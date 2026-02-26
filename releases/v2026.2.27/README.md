@@ -76,6 +76,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.61.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.61.0)
+
+- [a5fc5d7d](https://github.com/kubedb/elasticsearch/commit/a5fc5d7d5) Prepare for release v0.61.0 (#795)
+- [4aebb976](https://github.com/kubedb/elasticsearch/commit/4aebb9766) Fix multiple ops request in progressing state (#794)
+- [e5fba167](https://github.com/kubedb/elasticsearch/commit/e5fba167e) Prepare for release v0.61.0-rc.1 (#793)
+- [ea0990c0](https://github.com/kubedb/elasticsearch/commit/ea0990c0f) Prepare for release v0.61.0-rc.0 (#790)
+- [9d920917](https://github.com/kubedb/elasticsearch/commit/9d920917b) Remove init Container from Opensearch (#787)
+- [06726a8c](https://github.com/kubedb/elasticsearch/commit/06726a8ce) Merge pull request #788 from kubedb/prll-ctrl
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.9.0](https://github.com/kubedb/gitops/releases/tag/v0.9.0)

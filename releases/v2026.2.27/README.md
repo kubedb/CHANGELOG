@@ -76,6 +76,17 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.8.0](https://github.com/kubedb/ignite/releases/tag/v0.8.0)
+
+- [11c1bf96](https://github.com/kubedb/ignite/commit/11c1bf96) Prepare for release v0.8.0 (#40)
+- [668d592b](https://github.com/kubedb/ignite/commit/668d592b) Prepare for release v0.8.0-rc.1 (#38)
+- [b5e03fa2](https://github.com/kubedb/ignite/commit/b5e03fa2) Prepare for release v0.8.0-rc.0 (#36)
+- [2f574436](https://github.com/kubedb/ignite/commit/2f574436) Merge pull request #34 from kubedb/proceed
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.24.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.24.0)

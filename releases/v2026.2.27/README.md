@@ -156,6 +156,21 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.45.0](https://github.com/kubedb/mariadb/releases/tag/v0.45.0)
+
+- [9ecbba7b](https://github.com/kubedb/mariadb/commit/9ecbba7ba) Prepare for release v0.45.0 (#377)
+- [bb0baa89](https://github.com/kubedb/mariadb/commit/bb0baa895) Fix multiple ops request in progressing state (#376)
+- [e779b436](https://github.com/kubedb/mariadb/commit/e779b4365) Remove previous volume if exist (#374)
+- [8fcaff0c](https://github.com/kubedb/mariadb/commit/8fcaff0cb) Prepare for release v0.45.0-rc.1 (#375)
+- [58f3723c](https://github.com/kubedb/mariadb/commit/58f3723cf) Prepare for release v0.45.0-rc.0 (#372)
+- [106a9729](https://github.com/kubedb/mariadb/commit/106a97299) Distributed archiver support (#359)
+- [f7a26a38](https://github.com/kubedb/mariadb/commit/f7a26a38d) Update for KubeStash API (#370)
+- [1fdc4f97](https://github.com/kubedb/mariadb/commit/1fdc4f979) Update ops parallelism (#367)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.21.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.21.0)

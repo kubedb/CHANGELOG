@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:40:13.651373352Z",
+  "release_date": "2026-02-26T03:40:29.944082634Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -423,6 +423,48 @@
             {
               "SHA": "19fa3a25",
               "Subject": "Incorporate changes for restic standalone pkg (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "9ecbba7ba",
+              "Subject": "Prepare for release v0.45.0 (#377)"
+            },
+            {
+              "SHA": "bb0baa895",
+              "Subject": "Fix multiple ops request in progressing state (#376)"
+            },
+            {
+              "SHA": "e779b4365",
+              "Subject": "Remove previous volume if exist (#374)"
+            },
+            {
+              "SHA": "8fcaff0cb",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#375)"
+            },
+            {
+              "SHA": "58f3723cf",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#372)"
+            },
+            {
+              "SHA": "106a97299",
+              "Subject": "Distributed archiver support (#359)"
+            },
+            {
+              "SHA": "f7a26a38d",
+              "Subject": "Update for KubeStash API (#370)"
+            },
+            {
+              "SHA": "1fdc4f979",
+              "Subject": "Update ops parallelism (#367)"
             }
           ]
         }

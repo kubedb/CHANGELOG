@@ -39,6 +39,17 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.14.0](https://github.com/kubedb/cassandra/releases/tag/v0.14.0)
+
+- [2f19a3cb](https://github.com/kubedb/cassandra/commit/2f19a3cb) Prepare for release v0.14.0 (#65)
+- [391cc969](https://github.com/kubedb/cassandra/commit/391cc969) Prepare for release v0.14.0-rc.1 (#64)
+- [c60b9bfd](https://github.com/kubedb/cassandra/commit/c60b9bfd) Prepare for release v0.14.0-rc.0 (#62)
+- [0c7fc6da](https://github.com/kubedb/cassandra/commit/0c7fc6da) move parallel-go to apimachinary (#60)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.16.0](https://github.com/kubedb/crd-manager/releases/tag/v0.16.0)

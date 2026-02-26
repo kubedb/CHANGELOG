@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.28",
-  "release_date": "2026-02-26T06:19:24.202596218Z",
+  "release_date": "2026-02-26T06:19:29.608297107Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.28",
   "kubernetes_version": "1.28+",
@@ -53,6 +53,15 @@
       "releases": [
         {
           "tag": "v0.3.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.16.0",
           "commits": null
         }
       ]

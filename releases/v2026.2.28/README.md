@@ -32,6 +32,13 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.16.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.16.0)
+
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.23.0](https://github.com/kubedb/provider-azure/releases/tag/v0.23.0)

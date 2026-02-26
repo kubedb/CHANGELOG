@@ -61,6 +61,13 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.23.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.23.0)
+
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.17.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.17.0)

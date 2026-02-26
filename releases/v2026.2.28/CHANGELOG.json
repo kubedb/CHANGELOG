@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.28",
-  "release_date": "2026-02-26T06:19:51.284240637Z",
+  "release_date": "2026-02-26T06:19:55.854983631Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.28",
   "kubernetes_version": "1.28+",
@@ -91,6 +91,15 @@
     },
     {
       "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
       "releases": [
         {
           "tag": "v0.23.0",

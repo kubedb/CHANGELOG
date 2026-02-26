@@ -108,6 +108,15 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.18.0](https://github.com/kubedb/ferretdb/releases/tag/v0.18.0)
+
+- [54d561be](https://github.com/kubedb/ferretdb/commit/54d561be) Prepare for release v0.18.0 (#108)
+- [d2c6a831](https://github.com/kubedb/ferretdb/commit/d2c6a831) Fix multiple ops request in progressing state (#105)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.11.0](https://github.com/kubedb/gitops/releases/tag/v0.11.0)

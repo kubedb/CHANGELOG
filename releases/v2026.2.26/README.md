@@ -71,6 +71,16 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.18.0](https://github.com/kubedb/druid/releases/tag/v0.18.0)
+
+- [9870039d](https://github.com/kubedb/druid/commit/9870039d) Prepare for release v0.18.0 (#120)
+- [02c9b04c](https://github.com/kubedb/druid/commit/02c9b04c) Prepare for release v0.17.0 (#119)
+- [1571c70d](https://github.com/kubedb/druid/commit/1571c70d) Fix multiple ops request in progressing state (#117)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.9.0](https://github.com/kubedb/hazelcast/releases/tag/v0.9.0)

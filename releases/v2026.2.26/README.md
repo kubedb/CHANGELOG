@@ -431,6 +431,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.56.0](https://github.com/kubedb/redis/releases/tag/v0.56.0)
+
+- [8f71bb44](https://github.com/kubedb/redis/commit/8f71bb447) Prepare for release v0.56.0 (#629)
+- [4cba1c82](https://github.com/kubedb/redis/commit/4cba1c820) Prepare for release v0.55.0 (#628)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.42.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.42.0)

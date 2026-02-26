@@ -270,3 +270,15 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.2.0](https://github.com/kubedb/weaviate/releases/tag/v0.2.0)
+
+- [e870dc75](https://github.com/kubedb/weaviate/commit/e870dc75) Prepare for release v0.2.0 (#19)
+- [134a727c](https://github.com/kubedb/weaviate/commit/134a727c) Fix CI (#18)
+- [87e94b4a](https://github.com/kubedb/weaviate/commit/87e94b4a) Prepare for release v0.2.0-rc.1 (#17)
+- [c0f5f858](https://github.com/kubedb/weaviate/commit/c0f5f858) Prepare for release v0.2.0-rc.0 (#15)
+- [2cc31997](https://github.com/kubedb/weaviate/commit/2cc31997) update deletion Policy (#11)
+
+
+

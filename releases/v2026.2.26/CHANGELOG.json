@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:26:30.795993357Z",
+  "release_date": "2026-02-26T14:26:53.274258917Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -159,6 +159,24 @@
             {
               "SHA": "1571c70d",
               "Subject": "Fix multiple ops request in progressing state (#117)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.63.0",
+          "commits": [
+            {
+              "SHA": "ce0205e0e",
+              "Subject": "Prepare for release v0.63.0 (#798)"
+            },
+            {
+              "SHA": "3265b483b",
+              "Subject": "Fix multiple ops request in progressing state Condition (#796)"
             }
           ]
         }

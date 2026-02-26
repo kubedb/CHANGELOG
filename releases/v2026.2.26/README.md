@@ -81,6 +81,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.63.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.63.0)
+
+- [ce0205e0](https://github.com/kubedb/elasticsearch/commit/ce0205e0e) Prepare for release v0.63.0 (#798)
+- [3265b483](https://github.com/kubedb/elasticsearch/commit/3265b483b) Fix multiple ops request in progressing state Condition (#796)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.9.0](https://github.com/kubedb/hazelcast/releases/tag/v0.9.0)

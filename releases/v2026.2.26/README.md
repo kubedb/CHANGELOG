@@ -117,6 +117,14 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.43.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.43.0)
+
+- [15e84003](https://github.com/kubedb/mariadb-coordinator/commit/15e84003) Prepare for release v0.43.0 (#168)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.3.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.3.0)

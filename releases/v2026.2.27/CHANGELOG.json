@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:48:31.950763679Z",
+  "release_date": "2026-02-26T03:48:40.537811012Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -900,6 +900,28 @@
             {
               "SHA": "c1ba1aea",
               "Subject": "Incorporate changes for restic standalone pkg (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "9a580235",
+              "Subject": "Prepare for release v0.16.0 (#58)"
+            },
+            {
+              "SHA": "78f1c1c2",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#57)"
+            },
+            {
+              "SHA": "1bd94124",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#55)"
             }
           ]
         }

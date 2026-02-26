@@ -352,6 +352,16 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.16.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.16.0)
+
+- [9a580235](https://github.com/kubedb/mssql-coordinator/commit/9a580235) Prepare for release v0.16.0 (#58)
+- [78f1c1c2](https://github.com/kubedb/mssql-coordinator/commit/78f1c1c2) Prepare for release v0.16.0-rc.1 (#57)
+- [1bd94124](https://github.com/kubedb/mssql-coordinator/commit/1bd94124) Prepare for release v0.16.0-rc.0 (#55)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.16.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.16.0)

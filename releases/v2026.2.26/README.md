@@ -291,6 +291,14 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.36.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.36.0)
+
+- [d21656fa](https://github.com/kubedb/percona-xtradb-coordinator/commit/d21656fa) Prepare for release v0.36.0 (#118)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.47.0)

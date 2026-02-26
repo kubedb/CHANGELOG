@@ -133,6 +133,14 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.18.0](https://github.com/kubedb/singlestore/releases/tag/v0.18.0)
+
+- [5122d27e](https://github.com/kubedb/singlestore/commit/5122d27e) Prepare for release v0.18.0 (#106)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.18.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.18.0)

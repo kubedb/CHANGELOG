@@ -485,6 +485,21 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.22.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.22.0)
+
+- [78ce5831](https://github.com/kubedb/postgres-archiver/commit/78ce5831) Prepare for release v0.22.0 (#91)
+- [ed932035](https://github.com/kubedb/postgres-archiver/commit/ed932035) added backupstorage support from different namespace (#90)
+- [6b852ad6](https://github.com/kubedb/postgres-archiver/commit/6b852ad6) Add Postgres 18 (#86)
+- [4d49152b](https://github.com/kubedb/postgres-archiver/commit/4d49152b) Prepare for release v0.22.0-rc.1 (#89)
+- [905fe453](https://github.com/kubedb/postgres-archiver/commit/905fe453) Wait for WAL cleanup until LogStats becomes available. (#87)
+- [6138276c](https://github.com/kubedb/postgres-archiver/commit/6138276c) Prepare for release v0.22.0-rc.0 (#85)
+- [6f702e23](https://github.com/kubedb/postgres-archiver/commit/6f702e23) Test against k8s 1.35 (#84)
+- [49c942eb](https://github.com/kubedb/postgres-archiver/commit/49c942eb) added wal-log clean feature (#83)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.24.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.24.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:45:48.871900191Z",
+  "release_date": "2026-02-26T03:46:02.359049536Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -1252,6 +1252,48 @@
             {
               "SHA": "5086c260c",
               "Subject": "Update Arbiter error code (#848)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "78ce5831",
+              "Subject": "Prepare for release v0.22.0 (#91)"
+            },
+            {
+              "SHA": "ed932035",
+              "Subject": "added backupstorage support from different namespace (#90)"
+            },
+            {
+              "SHA": "6b852ad6",
+              "Subject": "Add Postgres 18 (#86)"
+            },
+            {
+              "SHA": "4d49152b",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#89)"
+            },
+            {
+              "SHA": "905fe453",
+              "Subject": "Wait for WAL cleanup until LogStats becomes available. (#87)"
+            },
+            {
+              "SHA": "6138276c",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "6f702e23",
+              "Subject": "Test against k8s 1.35 (#84)"
+            },
+            {
+              "SHA": "49c942eb",
+              "Subject": "added wal-log clean feature (#83)"
             }
           ]
         }

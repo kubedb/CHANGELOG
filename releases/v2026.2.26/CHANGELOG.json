@@ -1,0 +1,32 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.2.26",
+  "release_date": "2026-02-26T11:11:10.101025145Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.2.26",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.63.0",
+          "commits": [
+            {
+              "SHA": "907953383",
+              "Subject": "Use kubestash.dev/apimachinery v0.26.0 (#1614)"
+            },
+            {
+              "SHA": "81b9fb1d2",
+              "Subject": "Remove es,kf version api's unused fields  (#1613)"
+            },
+            {
+              "SHA": "a686b4b6a",
+              "Subject": "Remove unused fields from kubedb version api (#1612)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -123,6 +123,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.17.0](https://github.com/kubedb/singlestore/releases/tag/v0.17.0)
+
+- [2121351e](https://github.com/kubedb/singlestore/commit/2121351e) Prepare for release v0.17.0 (#105)
+- [cc85ab83](https://github.com/kubedb/singlestore/commit/cc85ab83) Fix ops requeue issue (#104)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.17.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.17.0)

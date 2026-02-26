@@ -95,6 +95,19 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.2.0](https://github.com/kubedb/milvus/releases/tag/v0.2.0)
+
+- [0e422a3c](https://github.com/kubedb/milvus/commit/0e422a3c) Prepare for release v0.2.0 (#20)
+- [31a1617f](https://github.com/kubedb/milvus/commit/31a1617f) Prepare for release v0.2.0-rc.1 (#19)
+- [06366bab](https://github.com/kubedb/milvus/commit/06366bab) Prepare for release v0.2.0-rc.0 (#17)
+- [b0081352](https://github.com/kubedb/milvus/commit/b0081352) Remove Dockerfile (#16)
+- [8a73c4f7](https://github.com/kubedb/milvus/commit/8a73c4f7) Add Milvus Cluster (#12)
+- [f801e32b](https://github.com/kubedb/milvus/commit/f801e32b) Fix Standalone Milvus Phase Update (#13)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.16.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.16.0)

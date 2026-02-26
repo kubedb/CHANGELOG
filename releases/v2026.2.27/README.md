@@ -1,4 +1,4 @@
-# KubeDB v2026.2.27 (2026-02-25)
+# KubeDB v2026.2.27 (2026-02-26)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -62,6 +62,13 @@
 - [9d31719c](https://github.com/kubedb/db-client-go/commit/9d31719c) Add Neo4j TLS (#220)
 - [3cbe8746](https://github.com/kubedb/db-client-go/commit/3cbe8746) Prepare for release v0.16.0-rc.0 (#221)
 - [496ef203](https://github.com/kubedb/db-client-go/commit/496ef203) Add Creating MariaDB Client without MariaDB Instance (#218)
+
+
+
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.21.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.21.0)
+
 
 
 

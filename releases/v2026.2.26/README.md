@@ -116,6 +116,15 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.4.0](https://github.com/kubedb/hanadb/releases/tag/v0.4.0)
+
+- [ed4c3d2f](https://github.com/kubedb/hanadb/commit/ed4c3d2f) Prepare for release v0.4.0 (#20)
+- [19b82a12](https://github.com/kubedb/hanadb/commit/19b82a12) Prepare for release v0.3.0 (#19)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.9.0](https://github.com/kubedb/hazelcast/releases/tag/v0.9.0)

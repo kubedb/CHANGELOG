@@ -413,6 +413,20 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.50.0](https://github.com/kubedb/ops-manager/releases/tag/v0.50.0)
+
+- [57d5415a](https://github.com/kubedb/ops-manager/commit/57d5415ac) Prepare for release v0.50.0 (#830)
+- [12211f0b](https://github.com/kubedb/ops-manager/commit/12211f0bb) Add Neo4j TLS, Restart Ops request Support (#823)
+- [e928a28d](https://github.com/kubedb/ops-manager/commit/e928a28d3) Prepare for release v0.48.0-rc.1 (#828)
+- [c2543046](https://github.com/kubedb/ops-manager/commit/c2543046c) Inline findInSlice function (#827)
+- [ebd3ab1c](https://github.com/kubedb/ops-manager/commit/ebd3ab1c8) go fix ./... (#826)
+- [c35f7f05](https://github.com/kubedb/ops-manager/commit/c35f7f051) Prepare for release v0.48.0-rc.0 (#825)
+- [7c803e79](https://github.com/kubedb/ops-manager/commit/7c803e794) Redis VNPAY issue resolve (#824)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.9.0](https://github.com/kubedb/oracle/releases/tag/v0.9.0)

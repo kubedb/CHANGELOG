@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T16:58:12.691894815Z",
+  "release_date": "2026-02-26T17:11:36.090862433Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -818,6 +818,44 @@
             {
               "SHA": "8637f98d",
               "Subject": "Fix multiple ops request in progressing state (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "57d5415ac",
+              "Subject": "Prepare for release v0.50.0 (#830)"
+            },
+            {
+              "SHA": "12211f0bb",
+              "Subject": "Add Neo4j TLS, Restart Ops request Support (#823)"
+            },
+            {
+              "SHA": "e928a28d3",
+              "Subject": "Prepare for release v0.48.0-rc.1 (#828)"
+            },
+            {
+              "SHA": "c2543046c",
+              "Subject": "Inline findInSlice function (#827)"
+            },
+            {
+              "SHA": "ebd3ab1c8",
+              "Subject": "go fix ./... (#826)"
+            },
+            {
+              "SHA": "c35f7f051",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#825)"
+            },
+            {
+              "SHA": "7c803e794",
+              "Subject": "Redis VNPAY issue resolve (#824)"
             }
           ]
         }

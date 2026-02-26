@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.27",
-  "release_date": "2026-02-26T03:43:16.991224085Z",
+  "release_date": "2026-02-26T03:43:27.144141709Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.27",
   "kubernetes_version": "1.28+",
@@ -1178,6 +1178,28 @@
             {
               "SHA": "c0283608",
               "Subject": "Update DB ready condition check (#87)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "442c63b8",
+              "Subject": "Prepare for release v0.48.0 (#312)"
+            },
+            {
+              "SHA": "8c9ceb40",
+              "Subject": "Prepare for release v0.48.0-rc.1 (#311)"
+            },
+            {
+              "SHA": "02c69b56",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#309)"
             }
           ]
         }

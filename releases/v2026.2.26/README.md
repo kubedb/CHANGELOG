@@ -221,6 +221,16 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.18.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.18.0)
+
+- [10f0ae2d](https://github.com/kubedb/rabbitmq/commit/10f0ae2d) Prepare for release v0.18.0 (#120)
+- [063adc99](https://github.com/kubedb/rabbitmq/commit/063adc99) Fix Multiple Ops Request in Progressing State (#118)
+- [cff16ecf](https://github.com/kubedb/rabbitmq/commit/cff16ecf) Fix multiple ops request in progressing state (#116)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.42.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.42.0)

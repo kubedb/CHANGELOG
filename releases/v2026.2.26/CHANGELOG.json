@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:28:26.172843094Z",
+  "release_date": "2026-02-26T14:28:39.558706366Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -431,6 +431,28 @@
             {
               "SHA": "ae1b56e9",
               "Subject": "Prepare for release v0.24.0 (#93)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "10f0ae2d",
+              "Subject": "Prepare for release v0.18.0 (#120)"
+            },
+            {
+              "SHA": "063adc99",
+              "Subject": "Fix Multiple Ops Request in Progressing State (#118)"
+            },
+            {
+              "SHA": "cff16ecf",
+              "Subject": "Fix multiple ops request in progressing state (#116)"
             }
           ]
         }

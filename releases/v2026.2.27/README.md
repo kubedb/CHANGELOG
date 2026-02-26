@@ -288,6 +288,16 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.22.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.22.0)
+
+- [62176b87](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/62176b87) Prepare for release v0.22.0 (#73)
+- [250be44f](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/250be44f) Prepare for release v0.22.0-rc.1 (#72)
+- [971d799d](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/971d799d) Prepare for release v0.22.0-rc.0 (#70)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.16.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.16.0)

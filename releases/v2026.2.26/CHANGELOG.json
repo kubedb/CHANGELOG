@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:31:41.468479114Z",
+  "release_date": "2026-02-26T14:31:50.849066288Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -245,6 +245,24 @@
             {
               "SHA": "19b82a12",
               "Subject": "Prepare for release v0.3.0 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "6f807198",
+              "Subject": "Prepare for release v0.3.0 (#6)"
+            },
+            {
+              "SHA": "7ef20c77",
+              "Subject": "Build ubi image (#4)"
             }
           ]
         }

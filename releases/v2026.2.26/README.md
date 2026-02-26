@@ -125,6 +125,15 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.3.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.3.0)
+
+- [6f807198](https://github.com/kubedb/hanadb-coordinator/commit/6f807198) Prepare for release v0.3.0 (#6)
+- [7ef20c77](https://github.com/kubedb/hanadb-coordinator/commit/7ef20c77) Build ubi image (#4)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.9.0](https://github.com/kubedb/hazelcast/releases/tag/v0.9.0)

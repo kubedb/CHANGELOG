@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:31:50.849066288Z",
+  "release_date": "2026-02-26T14:31:58.647756499Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -399,6 +399,24 @@
             {
               "SHA": "24298c7e",
               "Subject": "Prepare for release v0.3.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "bd8fc42f",
+              "Subject": "Prepare for release v0.26.0 (#111)"
+            },
+            {
+              "SHA": "65e9ebe6",
+              "Subject": "Prepare for release v0.25.0 (#110)"
             }
           ]
         }

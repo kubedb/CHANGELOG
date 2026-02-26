@@ -118,6 +118,17 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.16.0](https://github.com/kubedb/druid/releases/tag/v0.16.0)
+
+- [7d1c9c03](https://github.com/kubedb/druid/commit/7d1c9c03) Prepare for release v0.16.0 (#118)
+- [0df0a69d](https://github.com/kubedb/druid/commit/0df0a69d) Prepare for release v0.16.0-rc.1 (#116)
+- [b04c676d](https://github.com/kubedb/druid/commit/b04c676d) Prepare for release v0.16.0-rc.0 (#114)
+- [8c8432ef](https://github.com/kubedb/druid/commit/8c8432ef) fix-parallel (#112)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.61.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.61.0)

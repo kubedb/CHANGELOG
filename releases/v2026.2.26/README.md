@@ -168,6 +168,15 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.18.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.18.0)
+
+- [dc80562e](https://github.com/kubedb/mssqlserver/commit/dc80562e) Prepare for release v0.18.0 (#114)
+- [aee02b41](https://github.com/kubedb/mssqlserver/commit/aee02b41) Prepare for release v0.17.0 (#113)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.17.0)

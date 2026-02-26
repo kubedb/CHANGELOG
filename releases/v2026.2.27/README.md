@@ -72,6 +72,18 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.16.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.16.0)
+
+- [61c15dea](https://github.com/kubedb/mssqlserver/commit/61c15dea) Prepare for release v0.16.0 (#112)
+- [c86e1178](https://github.com/kubedb/mssqlserver/commit/c86e1178) Prepare for release v0.16.0-rc.1 (#111)
+- [b11cee95](https://github.com/kubedb/mssqlserver/commit/b11cee95) Prepare for release v0.16.0-rc.0 (#109)
+- [ca90875f](https://github.com/kubedb/mssqlserver/commit/ca90875f) Update for KubeStash API (#108)
+- [da9faff4](https://github.com/kubedb/mssqlserver/commit/da9faff4) Integrate shouldProceed() utility on runParallel (#105)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.54.0](https://github.com/kubedb/mysql/releases/tag/v0.54.0)

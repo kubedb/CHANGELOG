@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.28",
-  "release_date": "2026-02-26T06:23:53.269120283Z",
+  "release_date": "2026-02-26T06:45:26.158355466Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.28",
   "kubernetes_version": "1.28+",
@@ -80,6 +80,20 @@
             {
               "SHA": "5889e0e2",
               "Subject": "Prepare for release v0.10.0 (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "b5e3392c",
+              "Subject": "Prepare for release v0.8.0 (#32)"
             }
           ]
         }

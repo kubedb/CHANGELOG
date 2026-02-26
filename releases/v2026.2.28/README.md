@@ -48,6 +48,14 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.8.0](https://github.com/kubedb/hazelcast/releases/tag/v0.8.0)
+
+- [b5e3392c](https://github.com/kubedb/hazelcast/commit/b5e3392c) Prepare for release v0.8.0 (#32)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.33.0](https://github.com/kubedb/kafka/releases/tag/v0.33.0)

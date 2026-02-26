@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T14:33:22.864580808Z",
+  "release_date": "2026-02-26T14:33:31.105930555Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -849,6 +849,24 @@
             {
               "SHA": "f388741e",
               "Subject": "Fix multiple ops request in progressing state (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "5ecc7d2a",
+              "Subject": "Prepare for release v0.4.0 (#21)"
+            },
+            {
+              "SHA": "42235ef2",
+              "Subject": "Prepare for release v0.3.0 (#20)"
             }
           ]
         }

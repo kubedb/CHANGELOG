@@ -98,6 +98,17 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.2.26](https://github.com/kubedb/docs/releases/tag/v2026.2.26)
+
+- [38db8687](https://github.com/kubedb/docs/commit/38db8687) Prepare for release v2026.2.26 (#847)
+- [bba761fd](https://github.com/kubedb/docs/commit/bba761fd) Prepare for release v2026.2.21-rc.1 (#846)
+- [eae63834](https://github.com/kubedb/docs/commit/eae63834) Prepare for release v2026.2.16-rc.0 (#845)
+- [14531383](https://github.com/kubedb/docs/commit/14531383) Update .spec.configuration API changes (#840)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.18.0](https://github.com/kubedb/druid/releases/tag/v0.18.0)

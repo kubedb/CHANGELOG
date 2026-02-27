@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-27T05:17:31.081532482Z",
+  "release_date": "2026-02-27T07:15:57.557256096Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -192,6 +192,32 @@
         {
           "tag": "v0.4.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2026.2.26",
+          "commits": [
+            {
+              "SHA": "38db8687",
+              "Subject": "Prepare for release v2026.2.26 (#847)"
+            },
+            {
+              "SHA": "bba761fd",
+              "Subject": "Prepare for release v2026.2.21-rc.1 (#846)"
+            },
+            {
+              "SHA": "eae63834",
+              "Subject": "Prepare for release v2026.2.16-rc.0 (#845)"
+            },
+            {
+              "SHA": "14531383",
+              "Subject": "Update .spec.configuration API changes (#840)"
+            }
+          ]
         }
       ]
     },

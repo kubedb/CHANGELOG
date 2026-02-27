@@ -1,4 +1,4 @@
-# KubeDB v2026.2.26 (2026-02-26)
+# KubeDB v2026.2.26 (2026-02-27)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -176,6 +176,13 @@
 
 - [dd546641](https://github.com/kubedb/ignite/commit/dd546641) Prepare for release v0.10.0 (#42)
 - [c2ab5a30](https://github.com/kubedb/ignite/commit/c2ab5a30) Fix multiple Ops Request Goes in Progressing (#39)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2026.2.26](https://github.com/kubedb/installer/releases/tag/v2026.2.26)
+
 
 
 

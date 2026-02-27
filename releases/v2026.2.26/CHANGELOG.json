@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.2.26",
-  "release_date": "2026-02-26T17:47:49.256303922Z",
+  "release_date": "2026-02-27T05:17:31.081532482Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.2.26",
   "kubernetes_version": "1.28+",
@@ -354,6 +354,15 @@
               "Subject": "Fix multiple Ops Request Goes in Progressing (#39)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.2.26",
+          "commits": null
         }
       ]
     },

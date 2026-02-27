@@ -4,6 +4,7 @@
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
 | [v2026.2.28](https:/github.com/kubedb/CHANGELOG/releases/tag/v2026.2.28) | 2026-02-26 | [User Guide](https://kubedb.com/docs/v2026.2.28) | [CHANGELOG](/releases/v2026.2.28/README.md) | 1.28+ |
 | [v2026.2.27](https:/github.com/kubedb/CHANGELOG/releases/tag/v2026.2.27) | 2026-02-26 | [User Guide](https://kubedb.com/docs/v2026.2.27) | [CHANGELOG](/releases/v2026.2.27/README.md) | 1.28+ |
+| [v2026.2.26](https:/github.com/kubedb/CHANGELOG/releases/tag/v2026.2.26) | 2026-02-27 | [User Guide](https://kubedb.com/docs/v2026.2.26) | [CHANGELOG](/releases/v2026.2.26/README.md) | 1.28+ |
 | [v2026.2.21-rc.1](https:/github.com/kubedb/CHANGELOG/releases/tag/v2026.2.21-rc.1) | 2026-02-21 | [User Guide](https://kubedb.com/docs/v2026.2.21-rc.1) | [CHANGELOG](/releases/v2026.2.21-rc.1/README.md) | 1.28+ |
 | [v2026.2.16-rc.0](https:/github.com/kubedb/CHANGELOG/releases/tag/v2026.2.16-rc.0) | 2026-02-18 | [User Guide](https://kubedb.com/docs/v2026.2.16-rc.0) | [CHANGELOG](/releases/v2026.2.16-rc.0/README.md) | 1.26+ |
 | [v2026.1.19](https:/github.com/kubedb/CHANGELOG/releases/tag/v2026.1.19) | 2026-01-20 | [User Guide](https://kubedb.com/docs/v2026.1.19) | [CHANGELOG](/releases/v2026.1.19/README.md) | 1.26+ |

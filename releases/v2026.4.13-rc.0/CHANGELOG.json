@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-15T17:58:07.353882096Z",
+  "release_date": "2026-04-15T18:03:50.224802557Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -133,6 +133,28 @@
             {
               "SHA": "ba0b1210",
               "Subject": "Add documentdb (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f3e2d74c",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#235)"
+            },
+            {
+              "SHA": "2bd0b01b",
+              "Subject": "Add Neo4j Ops Req Function (#229)"
+            },
+            {
+              "SHA": "d32ab714",
+              "Subject": "Qdrant HTTP client moved from apimachinery (#231)"
             }
           ]
         }

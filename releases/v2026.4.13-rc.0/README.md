@@ -43,3 +43,13 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.19.0-rc.0)
+
+- [f3e2d74c](https://github.com/kubedb/db-client-go/commit/f3e2d74c) Prepare for release v0.19.0-rc.0 (#235)
+- [2bd0b01b](https://github.com/kubedb/db-client-go/commit/2bd0b01b) Add Neo4j Ops Req Function (#229)
+- [d32ab714](https://github.com/kubedb/db-client-go/commit/d32ab714) Qdrant HTTP client moved from apimachinery (#231)
+
+
+

@@ -34,3 +34,12 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.19.0-rc.0)
+
+- [cbedf109](https://github.com/kubedb/crd-manager/commit/cbedf109) Prepare for release v0.19.0-rc.0 (#125)
+- [ba0b1210](https://github.com/kubedb/crd-manager/commit/ba0b1210) Add documentdb (#115)
+
+
+

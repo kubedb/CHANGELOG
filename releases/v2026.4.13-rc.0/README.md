@@ -250,6 +250,16 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.19.0-rc.0)
+
+- [cedd0f8e](https://github.com/kubedb/pgpool/commit/cedd0f8e) Prepare for release v0.19.0-rc.0 (#114)
+- [05502740](https://github.com/kubedb/pgpool/commit/05502740) Add Sharding Facility for Ops-Request (#111)
+- [3a3dbca1](https://github.com/kubedb/pgpool/commit/3a3dbca1) Add Pgpool Load Balancing Support & Reconfigure Bug Fix (#109)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.64.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.64.0-rc.0)

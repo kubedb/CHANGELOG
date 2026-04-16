@@ -193,6 +193,14 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.4.0-rc.0)
+
+- [7954e97](https://github.com/kubedb/migrator-cli/commit/7954e97) Prepare for release v0.4.0-rc.0 (#13)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.57.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.57.0-rc.0)

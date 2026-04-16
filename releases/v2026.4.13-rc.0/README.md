@@ -97,6 +97,17 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.24.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.24.0-rc.0)
+
+- [11b821ab](https://github.com/kubedb/mariadb-archiver/commit/11b821ab) Prepare for release v0.24.0-rc.0 (#86)
+- [f34db6cb](https://github.com/kubedb/mariadb-archiver/commit/f34db6cb) added binlog cleanup feature (#84)
+- [f7972591](https://github.com/kubedb/mariadb-archiver/commit/f7972591) Update binlog file name (#83)
+- [185293f2](https://github.com/kubedb/mariadb-archiver/commit/185293f2) Keep old log stats when sidekick pod restarts (#82)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.42.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.42.0-rc.0)

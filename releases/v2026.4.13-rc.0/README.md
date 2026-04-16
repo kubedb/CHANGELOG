@@ -346,6 +346,15 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.19.0-rc.0)
+
+- [8b47cc9f](https://github.com/kubedb/rabbitmq/commit/8b47cc9f) Prepare for release v0.19.0-rc.0 (#125)
+- [34c289d5](https://github.com/kubedb/rabbitmq/commit/34c289d5) Add Sharding Facility for Ops-Request (#122)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.57.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.57.0-rc.0)

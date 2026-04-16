@@ -518,6 +518,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.51.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.51.0-rc.0)
+
+- [24c3141a](https://github.com/kubedb/pgbouncer/commit/24c3141a4) Prepare for release v0.51.0-rc.0 (#406)
+- [cd3c35d3](https://github.com/kubedb/pgbouncer/commit/cd3c35d33) Add Sharding Facility for Ops-Request (#403)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.19.0-rc.0)

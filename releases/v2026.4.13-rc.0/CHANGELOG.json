@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:26:04.945373761Z",
+  "release_date": "2026-04-16T04:26:11.577838485Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -615,6 +615,20 @@
             {
               "SHA": "5234f14d0",
               "Subject": "Increase Ops Parallel Timeout (#745)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "009ec633",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#76)"
             }
           ]
         }

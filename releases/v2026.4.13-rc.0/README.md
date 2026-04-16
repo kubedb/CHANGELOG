@@ -1,4 +1,4 @@
-# KubeDB v2026.4.13-rc.0 (2026-04-15)
+# KubeDB v2026.4.13-rc.0 (2026-04-16)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -50,6 +50,15 @@
 - [f3e2d74c](https://github.com/kubedb/db-client-go/commit/f3e2d74c) Prepare for release v0.19.0-rc.0 (#235)
 - [2bd0b01b](https://github.com/kubedb/db-client-go/commit/2bd0b01b) Add Neo4j Ops Req Function (#229)
 - [d32ab714](https://github.com/kubedb/db-client-go/commit/d32ab714) Qdrant HTTP client moved from apimachinery (#231)
+
+
+
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.11.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.11.0-rc.0)
+
+- [1cc1291f](https://github.com/kubedb/ignite/commit/1cc1291f) Prepare for release v0.11.0-rc.0 (#47)
+- [956eae3f](https://github.com/kubedb/ignite/commit/956eae3f) Add Sharding Facility for ops-request (#44)
 
 
 

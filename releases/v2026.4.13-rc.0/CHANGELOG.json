@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:19:08.302076842Z",
+  "release_date": "2026-04-16T04:19:17.532891892Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -147,6 +147,36 @@
             {
               "SHA": "35686912c",
               "Subject": "Prepare for release v0.64.0-rc.0 (#818)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "764c306d",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#97)"
+            },
+            {
+              "SHA": "cb3c3c9f",
+              "Subject": "Add shard ops support (#84)"
+            },
+            {
+              "SHA": "124f5124",
+              "Subject": "Update Cluster Health Check (#95)"
+            },
+            {
+              "SHA": "ed130007",
+              "Subject": "Ops-Req fix (#92)"
+            },
+            {
+              "SHA": "fa3541ab",
+              "Subject": "Fix multiple ops request in progressing state (#88)"
             }
           ]
         }

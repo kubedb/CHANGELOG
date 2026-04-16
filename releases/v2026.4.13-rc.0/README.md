@@ -51,6 +51,18 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.19.0-rc.0)
+
+- [764c306d](https://github.com/kubedb/clickhouse/commit/764c306d) Prepare for release v0.19.0-rc.0 (#97)
+- [cb3c3c9f](https://github.com/kubedb/clickhouse/commit/cb3c3c9f) Add shard ops support (#84)
+- [124f5124](https://github.com/kubedb/clickhouse/commit/124f5124) Update Cluster Health Check (#95)
+- [ed130007](https://github.com/kubedb/clickhouse/commit/ed130007) Ops-Req fix (#92)
+- [fa3541ab](https://github.com/kubedb/clickhouse/commit/fa3541ab) Fix multiple ops request in progressing state (#88)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.19.0-rc.0)

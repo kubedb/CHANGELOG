@@ -122,6 +122,13 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.5.0-rc.0)
+
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.1.0-rc.0)

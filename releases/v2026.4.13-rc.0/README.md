@@ -34,6 +34,15 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.17.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.17.0-rc.0)
+
+- [d74a7a9d](https://github.com/kubedb/cassandra/commit/d74a7a9d) Prepare for release v0.17.0-rc.0 (#73)
+- [693210e7](https://github.com/kubedb/cassandra/commit/693210e7) Add Sharding Facility for Ops-Request (#70)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.64.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.64.0-rc.0)

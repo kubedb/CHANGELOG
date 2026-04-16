@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:18:52.115965804Z",
+  "release_date": "2026-04-16T04:19:00.334889509Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -115,6 +115,24 @@
             {
               "SHA": "60eb421b3",
               "Subject": "Use cert-manager v1.19.4 (#1619)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d74a7a9d",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#73)"
+            },
+            {
+              "SHA": "693210e7",
+              "Subject": "Add Sharding Facility for Ops-Request (#70)"
             }
           ]
         }

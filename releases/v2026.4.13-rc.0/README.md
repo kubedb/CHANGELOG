@@ -168,6 +168,16 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.25.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.25.0-rc.0)
+
+- [a98f9c0a](https://github.com/kubedb/mysql-archiver/commit/a98f9c0a) Prepare for release v0.25.0-rc.0 (#97)
+- [1fbae6ea](https://github.com/kubedb/mysql-archiver/commit/1fbae6ea) Update Wal-G Version to v2026.3.30 (#95)
+- [0cf2431c](https://github.com/kubedb/mysql-archiver/commit/0cf2431c) Keep old log stats when sidekick pod restarts (#91)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.42.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.42.0-rc.0)

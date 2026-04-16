@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:26:59.070058114Z",
+  "release_date": "2026-04-16T04:27:05.920940118Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -1085,6 +1085,32 @@
             {
               "SHA": "d5c1805f",
               "Subject": "Incorporate changes for the AWS credless feature (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b6158e90",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "64feaac8",
+              "Subject": "update deps (#30)"
+            },
+            {
+              "SHA": "a7446a3a",
+              "Subject": "Add Ops Request Support (#28)"
+            },
+            {
+              "SHA": "b547a2bb",
+              "Subject": "Add Sharding Facility for Ops-Request (#25)"
             }
           ]
         }

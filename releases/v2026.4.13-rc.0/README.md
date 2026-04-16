@@ -488,6 +488,17 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.5.0-rc.0)
+
+- [b6158e90](https://github.com/kubedb/qdrant/commit/b6158e90) Prepare for release v0.5.0-rc.0 (#31)
+- [64feaac8](https://github.com/kubedb/qdrant/commit/64feaac8) update deps (#30)
+- [a7446a3a](https://github.com/kubedb/qdrant/commit/a7446a3a) Add Ops Request Support (#28)
+- [b547a2bb](https://github.com/kubedb/qdrant/commit/b547a2bb) Add Sharding Facility for Ops-Request (#25)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.19.0-rc.0)

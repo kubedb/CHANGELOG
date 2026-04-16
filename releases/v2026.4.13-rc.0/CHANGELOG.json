@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T11:49:17.449376626Z",
+  "release_date": "2026-04-16T11:49:50.941655378Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -634,6 +634,20 @@
             {
               "SHA": "53447a78",
               "Subject": "Prepare for release v0.44.0-rc.0 (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "925ae43a",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#72)"
             }
           ]
         }

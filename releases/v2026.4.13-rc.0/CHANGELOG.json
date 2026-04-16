@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:23:02.347764875Z",
+  "release_date": "2026-04-16T04:23:08.61578515Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -577,6 +577,20 @@
             {
               "SHA": "0c5da9d2",
               "Subject": "Add Sharding facility for Ops-Request (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d2f36b4",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#28)"
             }
           ]
         }

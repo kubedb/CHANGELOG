@@ -120,6 +120,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.57.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.57.0-rc.0)
+
+- [78caf0db](https://github.com/kubedb/memcached/commit/78caf0db1) Prepare for release v0.57.0-rc.0 (#533)
+- [bb514094](https://github.com/kubedb/memcached/commit/bb5140941) Shard ops support (#530)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.42.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.42.0-rc.0)

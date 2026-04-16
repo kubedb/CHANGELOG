@@ -53,6 +53,15 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.19.0-rc.0)
+
+- [0c9f169a](https://github.com/kubedb/druid/commit/0c9f169a) Prepare for release v0.19.0-rc.0 (#125)
+- [323de9c4](https://github.com/kubedb/druid/commit/323de9c4) Add sharding facility for ops-request (#122)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.11.0-rc.0)

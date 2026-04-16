@@ -90,6 +90,16 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.1.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.1.0-rc.0)
+
+- [61eb614](https://github.com/kubedb/documentdb/commit/61eb614) Prepare for release v0.1.0-rc.0 (#6)
+- [876a2eb](https://github.com/kubedb/documentdb/commit/876a2eb) Support documentdb standalone (#5)
+- [f68930a](https://github.com/kubedb/documentdb/commit/f68930a) oprator ready to test
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.19.0-rc.0)

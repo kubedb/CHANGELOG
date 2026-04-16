@@ -188,6 +188,15 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.10.0-rc.0)
+
+- [f2fba09f](https://github.com/kubedb/hazelcast/commit/f2fba09f) Prepare for release v0.10.0-rc.0 (#38)
+- [9eecbdcf](https://github.com/kubedb/hazelcast/commit/9eecbdcf) Add Sharding facility for ops-request (#35)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.11.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:27:12.083181842Z",
+  "release_date": "2026-04-16T04:27:19.665132491Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -443,6 +443,24 @@
             {
               "SHA": "7e87d731",
               "Subject": "Prepare for release v0.4.0-rc.0 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f2fba09f",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "9eecbdcf",
+              "Subject": "Add Sharding facility for ops-request (#35)"
             }
           ]
         }

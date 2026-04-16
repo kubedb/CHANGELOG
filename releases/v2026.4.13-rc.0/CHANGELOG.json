@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T11:52:02.817590607Z",
+  "release_date": "2026-04-16T19:14:06.240642635Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -1276,6 +1276,15 @@
       "releases": [
         {
           "tag": "v0.25.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.64.0-rc.0",
           "commits": null
         }
       ]

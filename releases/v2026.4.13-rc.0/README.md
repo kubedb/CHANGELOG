@@ -70,6 +70,15 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.27.0-rc.0)
+
+- [cd3259d0](https://github.com/kubedb/elasticsearch-restic-plugin/commit/cd3259d0) Prepare for release v0.27.0-rc.0 (#91)
+- [6bbe9c64](https://github.com/kubedb/elasticsearch-restic-plugin/commit/6bbe9c64) Incorporate changes for the AWS credless feature (#90)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.11.0-rc.0)

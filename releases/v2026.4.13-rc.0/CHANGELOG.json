@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:18:43.676577379Z",
+  "release_date": "2026-04-16T04:18:52.115965804Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -187,6 +187,24 @@
             {
               "SHA": "323de9c4",
               "Subject": "Add sharding facility for ops-request (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cd3259d0",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "6bbe9c64",
+              "Subject": "Incorporate changes for the AWS credless feature (#90)"
             }
           ]
         }

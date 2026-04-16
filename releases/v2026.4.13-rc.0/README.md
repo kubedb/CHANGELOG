@@ -136,6 +136,19 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.48.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.48.0-rc.0)
+
+- [5d5c0b7d](https://github.com/kubedb/mariadb/commit/5d5c0b7d8) Prepare for release v0.48.0-rc.0 (#388)
+- [263e8d00](https://github.com/kubedb/mariadb/commit/263e8d005) added env for binlog cleanup (#385)
+- [59deb42a](https://github.com/kubedb/mariadb/commit/59deb42af) Add Binlog File Prefix env (#384)
+- [d8205512](https://github.com/kubedb/mariadb/commit/d8205512a) Fix MariaDB Standalone Volume Expansion (#382)
+- [3baa4a87](https://github.com/kubedb/mariadb/commit/3baa4a87d) Add sharding facility for Ops-Request (#371)
+- [7fd16637](https://github.com/kubedb/mariadb/commit/7fd16637e) Increase timeout period for Mariadb ops (#380)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.24.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.24.0-rc.0)

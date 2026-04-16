@@ -181,6 +181,16 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.19.0-rc.0)
+
+- [709184eb](https://github.com/kubedb/solr/commit/709184eb) Prepare for release v0.19.0-rc.0 (#123)
+- [7fabe142](https://github.com/kubedb/solr/commit/7fabe142) Add sharding facility for Ops-Requests (#112)
+- [67fe597a](https://github.com/kubedb/solr/commit/67fe597a) Ops-Req Fix (#119)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.49.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.49.0-rc.0)

@@ -532,6 +532,16 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.19.0-rc.0)
+
+- [e5334dc3](https://github.com/kubedb/singlestore/commit/e5334dc3) Prepare for release v0.19.0-rc.0 (#112)
+- [9fb196da](https://github.com/kubedb/singlestore/commit/9fb196da) Add Sharding Facility for Ops-Request (#109)
+- [533a210a](https://github.com/kubedb/singlestore/commit/533a210a) Fix ops kind (#107)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.19.0-rc.0)

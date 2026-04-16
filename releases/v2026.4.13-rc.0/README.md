@@ -432,6 +432,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.42.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.42.0-rc.0)
+
+
+
+
 ## [kubedb/neo4j](https://github.com/kubedb/neo4j)
 
 ### [v0.5.0-rc.0](https://github.com/kubedb/neo4j/releases/tag/v0.5.0-rc.0)

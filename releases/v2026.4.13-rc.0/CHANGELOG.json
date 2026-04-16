@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:28:22.335511877Z",
+  "release_date": "2026-04-16T04:28:27.974215387Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -951,6 +951,15 @@
               "Subject": "Incorporate changes for the AWS credless feature (#102)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.42.0-rc.0",
+          "commits": null
         }
       ]
     },

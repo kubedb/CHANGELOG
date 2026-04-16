@@ -141,6 +141,16 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.19.0-rc.0)
+
+- [f3d696bc](https://github.com/kubedb/ferretdb/commit/f3d696bc) Prepare for release v0.19.0-rc.0 (#113)
+- [a21800b2](https://github.com/kubedb/ferretdb/commit/a21800b2) Add sharding facility for Ops-Requests (#102)
+- [e8b49242](https://github.com/kubedb/ferretdb/commit/e8b49242) Ops-Req Fix (#109)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.12.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.12.0-rc.0)

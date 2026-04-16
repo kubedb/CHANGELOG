@@ -313,6 +313,15 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.19.0-rc.0)
+
+- [f6bc123d](https://github.com/kubedb/zookeeper/commit/f6bc123d) Prepare for release v0.19.0-rc.0 (#114)
+- [11a11a14](https://github.com/kubedb/zookeeper/commit/11a11a14) Add Sharding Facility for Ops-Request (#111)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.19.0-rc.0)

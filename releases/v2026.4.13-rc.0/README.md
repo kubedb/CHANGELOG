@@ -232,6 +232,15 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.40.0-rc.0](https://github.com/kubedb/kibana/releases/tag/v0.40.0-rc.0)
+
+- [dc91ad31](https://github.com/kubedb/kibana/commit/dc91ad31) Prepare for release v0.40.0-rc.0 (#174)
+- [f37fab91](https://github.com/kubedb/kibana/commit/f37fab91) fix predicate (#173)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.27.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.27.0-rc.0)

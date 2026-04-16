@@ -217,6 +217,17 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.25.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.25.0-rc.0)
+
+- [2036b224](https://github.com/kubedb/postgres-archiver/commit/2036b224) Prepare for release v0.25.0-rc.0 (#100)
+- [943a8921](https://github.com/kubedb/postgres-archiver/commit/943a8921) Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.78.2 to 1.97.3 (#97)
+- [f8f0f633](https://github.com/kubedb/postgres-archiver/commit/f8f0f633) Bump go.opentelemetry.io/otel/sdk from 1.40.0 to 1.43.0 (#99)
+- [b01bd9c9](https://github.com/kubedb/postgres-archiver/commit/b01bd9c9) update Go version and wal-g new version (#98)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.51.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.51.0-rc.0)

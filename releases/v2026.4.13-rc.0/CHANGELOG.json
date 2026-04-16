@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:22:55.745088416Z",
+  "release_date": "2026-04-16T04:23:02.347764875Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -551,6 +551,32 @@
             {
               "SHA": "888a4720",
               "Subject": "Incorporate changes for the AWS credless feature (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9fead433",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "22c38c19",
+              "Subject": "fix conf-secret-creation (#38)"
+            },
+            {
+              "SHA": "f861e5b2",
+              "Subject": "Add oracle conf (#27)"
+            },
+            {
+              "SHA": "0c5da9d2",
+              "Subject": "Add Sharding facility for Ops-Request (#35)"
             }
           ]
         }

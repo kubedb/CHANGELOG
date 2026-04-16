@@ -233,6 +233,17 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.10.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.10.0-rc.0)
+
+- [9fead433](https://github.com/kubedb/oracle/commit/9fead433) Prepare for release v0.10.0-rc.0 (#39)
+- [22c38c19](https://github.com/kubedb/oracle/commit/22c38c19) fix conf-secret-creation (#38)
+- [f861e5b2](https://github.com/kubedb/oracle/commit/f861e5b2) Add oracle conf (#27)
+- [0c5da9d2](https://github.com/kubedb/oracle/commit/0c5da9d2) Add Sharding facility for Ops-Request (#35)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.51.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.51.0-rc.0)

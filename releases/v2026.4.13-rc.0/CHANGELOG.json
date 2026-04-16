@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:27:26.559362635Z",
+  "release_date": "2026-04-16T04:27:34.175360671Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -611,6 +611,20 @@
             {
               "SHA": "185293f2",
               "Subject": "Keep old log stats when sidekick pod restarts (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.0",
+          "commits": [
+            {
+              "SHA": "53447a78",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#171)"
             }
           ]
         }

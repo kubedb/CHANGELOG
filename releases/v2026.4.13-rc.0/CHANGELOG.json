@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:21:00.069791975Z",
+  "release_date": "2026-04-16T04:21:06.760278183Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -289,6 +289,24 @@
             {
               "SHA": "6bbe9c64",
               "Subject": "Incorporate changes for the AWS credless feature (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c0f14b75",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "15a023ae",
+              "Subject": "Fix gitops (#47)"
             }
           ]
         }

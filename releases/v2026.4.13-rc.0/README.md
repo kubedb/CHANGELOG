@@ -118,6 +118,15 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.12.0-rc.0)
+
+- [c0f14b75](https://github.com/kubedb/gitops/commit/c0f14b75) Prepare for release v0.12.0-rc.0 (#50)
+- [15a023ae](https://github.com/kubedb/gitops/commit/15a023ae) Fix gitops (#47)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.11.0-rc.0)

@@ -127,6 +127,16 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.5.0-rc.0)
+
+- [51c5be87](https://github.com/kubedb/hanadb/commit/51c5be87) Prepare for release v0.5.0-rc.0 (#28)
+- [7e98f3ba](https://github.com/kubedb/hanadb/commit/7e98f3ba) fix predicate (#26)
+- [d384fbbe](https://github.com/kubedb/hanadb/commit/d384fbbe) Add monitoring (#23)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.11.0-rc.0)

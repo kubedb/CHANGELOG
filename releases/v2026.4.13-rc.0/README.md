@@ -147,6 +147,18 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.57.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.57.0-rc.0)
+
+- [34a01ae2](https://github.com/kubedb/mysql/commit/34a01ae21) Prepare for release v0.57.0-rc.0 (#739)
+- [bfa85452](https://github.com/kubedb/mysql/commit/bfa854526) Ensure cloud annotations to SA before sidekick creation (#736)
+- [a003be8d](https://github.com/kubedb/mysql/commit/a003be8d3) Chaos Test: Update Health Check Query, Run Parallel Timeout Log (#735)
+- [74eae52f](https://github.com/kubedb/mysql/commit/74eae52fd) Fix Azure Provider awsCAExist Panic (#734)
+- [cb2e10e8](https://github.com/kubedb/mysql/commit/cb2e10e8e) Add sharding facility for Ops-Request (#723)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.42.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.42.0-rc.0)

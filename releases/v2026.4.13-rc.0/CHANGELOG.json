@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:20:43.141454634Z",
+  "release_date": "2026-04-16T04:21:00.069791975Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -351,6 +351,36 @@
             {
               "SHA": "bb5140941",
               "Subject": "Shard ops support (#530)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "34a01ae21",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#739)"
+            },
+            {
+              "SHA": "bfa854526",
+              "Subject": "Ensure cloud annotations to SA before sidekick creation (#736)"
+            },
+            {
+              "SHA": "a003be8d3",
+              "Subject": "Chaos Test: Update Health Check Query, Run Parallel Timeout Log (#735)"
+            },
+            {
+              "SHA": "74eae52fd",
+              "Subject": "Fix Azure Provider awsCAExist Panic (#734)"
+            },
+            {
+              "SHA": "cb2e10e8e",
+              "Subject": "Add sharding facility for Ops-Request (#723)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:25:20.496873795Z",
+  "release_date": "2026-04-16T04:25:26.618078145Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -269,6 +269,24 @@
             {
               "SHA": "d32ab714",
               "Subject": "Qdrant HTTP client moved from apimachinery (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1c894a64",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#20)"
+            },
+            {
+              "SHA": "bf277e9a",
+              "Subject": "fix predicate (#19)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:19:40.299959753Z",
+  "release_date": "2026-04-16T04:20:17.355694669Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -379,6 +379,24 @@
             {
               "SHA": "2f9085df",
               "Subject": "Prepare for release v0.48.0-rc.0 (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.0",
+          "commits": [
+            {
+              "SHA": "805c200f3",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#518)"
+            },
+            {
+              "SHA": "76f7731c5",
+              "Subject": "Add Postgres ReadReplica Test (#514)"
             }
           ]
         }

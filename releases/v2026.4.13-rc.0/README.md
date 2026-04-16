@@ -163,6 +163,15 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.49.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.49.0-rc.0)
+
+- [805c200f](https://github.com/kubedb/tests/commit/805c200f3) Prepare for release v0.49.0-rc.0 (#518)
+- [76f7731c](https://github.com/kubedb/tests/commit/76f7731c5) Add Postgres ReadReplica Test (#514)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.19.0-rc.0)

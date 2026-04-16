@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:21:55.471336248Z",
+  "release_date": "2026-04-16T04:22:02.885091969Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -495,6 +495,24 @@
             {
               "SHA": "e5924b69",
               "Subject": "Chaos Test: Add Network Partition, Auto Heal Support"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "09cda23f",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#103)"
+            },
+            {
+              "SHA": "888a4720",
+              "Subject": "Incorporate changes for the AWS credless feature (#102)"
             }
           ]
         }

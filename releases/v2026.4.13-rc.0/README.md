@@ -210,6 +210,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.27.0-rc.0)
+
+- [09cda23f](https://github.com/kubedb/mysql-restic-plugin/commit/09cda23f) Prepare for release v0.27.0-rc.0 (#103)
+- [888a4720](https://github.com/kubedb/mysql-restic-plugin/commit/888a4720) Incorporate changes for the AWS credless feature (#102)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.51.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.51.0-rc.0)

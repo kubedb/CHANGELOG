@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:17:34.300982008Z",
+  "release_date": "2026-04-16T04:17:48.170133791Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -173,6 +173,24 @@
             {
               "SHA": "956eae3f",
               "Subject": "Add Sharding Facility for ops-request (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.0",
+          "commits": [
+            {
+              "SHA": "618d161cb",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#445)"
+            },
+            {
+              "SHA": "d1e409623",
+              "Subject": "Add Sharding Facility for ops-request (#442)"
             }
           ]
         }

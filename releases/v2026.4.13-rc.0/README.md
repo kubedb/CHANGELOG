@@ -62,3 +62,12 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.51.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.51.0-rc.0)
+
+- [618d161c](https://github.com/kubedb/percona-xtradb/commit/618d161cb) Prepare for release v0.51.0-rc.0 (#445)
+- [d1e40962](https://github.com/kubedb/percona-xtradb/commit/d1e409623) Add Sharding Facility for ops-request (#442)
+
+
+

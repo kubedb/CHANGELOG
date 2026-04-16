@@ -313,6 +313,16 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/neo4j/releases/tag/v0.5.0-rc.0)
+
+- [9e097389](https://github.com/kubedb/neo4j/commit/9e097389) Prepare for release v0.5.0-rc.0 (#27)
+- [2adf9978](https://github.com/kubedb/neo4j/commit/2adf9978) Add Neo4j Ops req (#22)
+- [176ddf86](https://github.com/kubedb/neo4j/commit/176ddf86) Add Sharding Facility for Ops-Request (#23)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.10.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.10.0-rc.0)

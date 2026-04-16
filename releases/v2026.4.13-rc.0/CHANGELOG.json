@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:23:15.270115147Z",
+  "release_date": "2026-04-16T04:23:22.44893376Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -823,6 +823,24 @@
             {
               "SHA": "76f7731c5",
               "Subject": "Add Postgres ReadReplica Test (#514)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2b54d4cd",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "9bd5434f",
+              "Subject": "Incorporate changes for the AWS credless feature (#44)"
             }
           ]
         }

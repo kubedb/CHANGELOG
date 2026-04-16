@@ -364,6 +364,15 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.12.0-rc.0)
+
+- [2b54d4cd](https://github.com/kubedb/xtrabackup-restic-plugin/commit/2b54d4cd) Prepare for release v0.12.0-rc.0 (#45)
+- [9bd5434f](https://github.com/kubedb/xtrabackup-restic-plugin/commit/9bd5434f) Incorporate changes for the AWS credless feature (#44)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.19.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:25:13.348933697Z",
+  "release_date": "2026-04-16T04:25:20.496873795Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -571,6 +571,24 @@
             {
               "SHA": "5234f14d0",
               "Subject": "Increase Ops Parallel Timeout (#745)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "82226b2e",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#119)"
+            },
+            {
+              "SHA": "9722d2ee",
+              "Subject": "Incorporate changes for the AWS credless feature (#113)"
             }
           ]
         }

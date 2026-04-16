@@ -247,6 +247,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.27.0-rc.0)
+
+- [82226b2e](https://github.com/kubedb/mongodb-restic-plugin/commit/82226b2e) Prepare for release v0.27.0-rc.0 (#119)
+- [9722d2ee](https://github.com/kubedb/mongodb-restic-plugin/commit/9722d2ee) Incorporate changes for the AWS credless feature (#113)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.19.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:24:32.595597728Z",
+  "release_date": "2026-04-16T04:24:50.428039774Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -531,6 +531,32 @@
             {
               "SHA": "7954e97",
               "Subject": "Prepare for release v0.4.0-rc.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8d3533f2f",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#750)"
+            },
+            {
+              "SHA": "4eb07bb40",
+              "Subject": "Fix repo name & oplog-restore job name (#748)"
+            },
+            {
+              "SHA": "5ba17db61",
+              "Subject": "Add Ops manager sharding (#737)"
+            },
+            {
+              "SHA": "5234f14d0",
+              "Subject": "Increase Ops Parallel Timeout (#745)"
             }
           ]
         }

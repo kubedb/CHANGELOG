@@ -228,6 +228,17 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.57.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.57.0-rc.0)
+
+- [8d3533f2](https://github.com/kubedb/mongodb/commit/8d3533f2f) Prepare for release v0.57.0-rc.0 (#750)
+- [4eb07bb4](https://github.com/kubedb/mongodb/commit/4eb07bb40) Fix repo name & oplog-restore job name (#748)
+- [5ba17db6](https://github.com/kubedb/mongodb/commit/5ba17db61) Add Ops manager sharding (#737)
+- [5234f14d](https://github.com/kubedb/mongodb/commit/5234f14d0) Increase Ops Parallel Timeout (#745)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.19.0-rc.0)

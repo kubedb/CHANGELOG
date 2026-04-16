@@ -89,3 +89,11 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.48.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.48.0-rc.0)
+
+- [2f9085df](https://github.com/kubedb/pg-coordinator/commit/2f9085df) Prepare for release v0.48.0-rc.0 (#241)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:18:04.321312156Z",
+  "release_date": "2026-04-16T04:18:26.587535307Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -227,6 +227,20 @@
             {
               "SHA": "d1e409623",
               "Subject": "Add Sharding Facility for ops-request (#442)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.48.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2f9085df",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#241)"
             }
           ]
         }

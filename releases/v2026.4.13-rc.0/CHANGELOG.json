@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:27:05.920940118Z",
+  "release_date": "2026-04-16T04:27:12.083181842Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -757,6 +757,28 @@
             {
               "SHA": "8656b80f",
               "Subject": "Fix multiple Ops Request Goes in Progressing issue (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": [
+            {
+              "SHA": "028bad5",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "911601f",
+              "Subject": "Register scheme for endpointslice"
+            },
+            {
+              "SHA": "fb3d7bd",
+              "Subject": "Register scheme for endpointslice"
             }
           ]
         }

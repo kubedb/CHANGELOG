@@ -228,6 +228,15 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.22.0-rc.0)
+
+- [1bfa01dd](https://github.com/kubedb/mariadb-restic-plugin/commit/1bfa01dd) Prepare for release v0.22.0-rc.0 (#81)
+- [9faf6576](https://github.com/kubedb/mariadb-restic-plugin/commit/9faf6576) Incorporate changes for the AWS credless feature (#80)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.57.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.57.0-rc.0)

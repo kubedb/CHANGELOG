@@ -151,6 +151,14 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.4.0-rc.0)
+
+- [7e87d731](https://github.com/kubedb/hanadb-coordinator/commit/7e87d731) Prepare for release v0.4.0-rc.0 (#7)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.11.0-rc.0)

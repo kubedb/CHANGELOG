@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:28:41.209195336Z",
+  "release_date": "2026-04-16T07:37:12.35537439Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -684,6 +684,20 @@
             {
               "SHA": "7954e97",
               "Subject": "Prepare for release v0.4.0-rc.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-operator",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1e9351f",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#11)"
             }
           ]
         }

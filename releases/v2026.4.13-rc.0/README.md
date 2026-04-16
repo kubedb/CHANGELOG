@@ -410,6 +410,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.27.0-rc.0)
+
+- [52cc7c5f](https://github.com/kubedb/redis-restic-plugin/commit/52cc7c5f) Prepare for release v0.27.0-rc.0 (#98)
+- [fd1a9ec0](https://github.com/kubedb/redis-restic-plugin/commit/fd1a9ec0) Incorporate changes for the AWS credless feature (#97)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.51.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.51.0-rc.0)

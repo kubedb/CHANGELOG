@@ -160,6 +160,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.27.0-rc.0)
+
+- [d21843b1](https://github.com/kubedb/kubedb-manifest-plugin/commit/d21843b1) Prepare for release v0.27.0-rc.0 (#123)
+- [14870c71](https://github.com/kubedb/kubedb-manifest-plugin/commit/14870c71) Incorporate changes for the AWS credless feature (#122)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.48.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.48.0-rc.0)

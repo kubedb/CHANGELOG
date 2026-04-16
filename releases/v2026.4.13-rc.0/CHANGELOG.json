@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:23:44.346661849Z",
+  "release_date": "2026-04-16T04:23:51.759576674Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -385,6 +385,24 @@
             {
               "SHA": "956eae3f",
               "Subject": "Add Sharding Facility for ops-request (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d21843b1",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "14870c71",
+              "Subject": "Incorporate changes for the AWS credless feature (#122)"
             }
           ]
         }

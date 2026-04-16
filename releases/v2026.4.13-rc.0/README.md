@@ -321,6 +321,16 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.57.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.57.0-rc.0)
+
+- [2df711f4](https://github.com/kubedb/redis/commit/2df711f4a) Prepare for release v0.57.0-rc.0 (#634)
+- [7d51add0](https://github.com/kubedb/redis/commit/7d51add0f) Add Ops manager sharding (#622)
+- [1cdb85c4](https://github.com/kubedb/redis/commit/1cdb85c49) Increase Ops Parallel Timeout (#630)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.43.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.43.0-rc.0)

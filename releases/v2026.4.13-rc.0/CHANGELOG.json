@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T04:23:22.44893376Z",
+  "release_date": "2026-04-16T04:23:35.927676698Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -741,6 +741,28 @@
             {
               "SHA": "d5c1805f",
               "Subject": "Incorporate changes for the AWS credless feature (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2df711f4a",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#634)"
+            },
+            {
+              "SHA": "7d51add0f",
+              "Subject": "Add Ops manager sharding (#622)"
+            },
+            {
+              "SHA": "1cdb85c49",
+              "Subject": "Increase Ops Parallel Timeout (#630)"
             }
           ]
         }

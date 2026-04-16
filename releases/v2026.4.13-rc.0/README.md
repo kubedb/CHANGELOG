@@ -597,6 +597,15 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.22.0-rc.0)
+
+- [8f533385](https://github.com/kubedb/singlestore-restic-plugin/commit/8f533385) Prepare for release v0.22.0-rc.0 (#77)
+- [ed2bdcd7](https://github.com/kubedb/singlestore-restic-plugin/commit/ed2bdcd7) Incorporate changes for the AWS credless feature (#76)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.19.0-rc.0)

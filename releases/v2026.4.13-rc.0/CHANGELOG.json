@@ -1,0 +1,1857 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.4.13-rc.0",
+  "release_date": "2026-04-17T14:04:33.08650708Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.64.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0dd1d3155",
+              "Subject": "Update for release KubeStash@v2026.4.13-rc.0 (#1647)"
+            },
+            {
+              "SHA": "d0174436f",
+              "Subject": "Update cassandra webhook (#1645)"
+            },
+            {
+              "SHA": "d64cb9b9e",
+              "Subject": "change-ConfigSecretName-func (#1642)"
+            },
+            {
+              "SHA": "e7cf45b22",
+              "Subject": "Add type constants for init backup check (#1641)"
+            },
+            {
+              "SHA": "f029669d5",
+              "Subject": "add-oracle-config-validator (#1639)"
+            },
+            {
+              "SHA": "124911359",
+              "Subject": "Add support for documentdb (#1604)"
+            },
+            {
+              "SHA": "c8d2f8a5f",
+              "Subject": "Add Neo4j Opsreq Api (#1615)"
+            },
+            {
+              "SHA": "93a538c94",
+              "Subject": "Pgpool RemoveCustomConfig on LoadBalancingSpec (#1636)"
+            },
+            {
+              "SHA": "8e275216c",
+              "Subject": "Qdrant Ops Request  (#1631)"
+            },
+            {
+              "SHA": "d585bc1d6",
+              "Subject": "Make mssql tls field required, Refactor PredicateFuncs (#1624)"
+            },
+            {
+              "SHA": "b20e1ee7c",
+              "Subject": "Cleanup CVEs (#1638)"
+            },
+            {
+              "SHA": "4863df4ef",
+              "Subject": "Add double-optin utils; Add GetPredicateFuncsForSelf() (#1637)"
+            },
+            {
+              "SHA": "48f4c200a",
+              "Subject": "Add HanaDB monitoring (#1583)"
+            },
+            {
+              "SHA": "7c1e745e1",
+              "Subject": "Add Generic Archiver to Database Mapping Functions (#1634)"
+            },
+            {
+              "SHA": "f57d49cde",
+              "Subject": "Add Milvus Monitoring Support (#1590)"
+            },
+            {
+              "SHA": "08ca9f428",
+              "Subject": "Add mssql arbiter vertical scaling api (#1626)"
+            },
+            {
+              "SHA": "f129d2fc0",
+              "Subject": "Allow parallel processing of ops with the same name in diff namespaces (#1617)"
+            },
+            {
+              "SHA": "d700721a6",
+              "Subject": "Add oracle init spec (#1599)"
+            },
+            {
+              "SHA": "1832c036f",
+              "Subject": "Fix MySQL VolumeExpansion (#1633)"
+            },
+            {
+              "SHA": "b790503c8",
+              "Subject": "Fix DB Container Resource Limit, Request (#1630)"
+            },
+            {
+              "SHA": "0fc180f72",
+              "Subject": "Add separate api fields for load balancing specification (#1618)"
+            },
+            {
+              "SHA": "c166dda1d",
+              "Subject": "Fix oracle observer (#1627)"
+            },
+            {
+              "SHA": "317d979b6",
+              "Subject": "fix pgbouncer webhook (#1616)"
+            },
+            {
+              "SHA": "52687dc9f",
+              "Subject": "remove validation for initcontainer (#1625)"
+            },
+            {
+              "SHA": "2e3d3bce5",
+              "Subject": "Mark archiver in PostgresVersion as optional (#1621)"
+            },
+            {
+              "SHA": "60eb421b3",
+              "Subject": "Use cert-manager v1.19.4 (#1619)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.0",
+          "commits": [
+            {
+              "SHA": "fee22931",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#286)"
+            },
+            {
+              "SHA": "a24c29b8",
+              "Subject": "Add operator sharding support (#276)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d74a7a9d",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#73)"
+            },
+            {
+              "SHA": "693210e7",
+              "Subject": "Add Sharding Facility for Ops-Request (#70)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7121c38b",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.64.0-rc.0",
+          "commits": [
+            {
+              "SHA": "35686912c",
+              "Subject": "Prepare for release v0.64.0-rc.0 (#818)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "764c306d",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#97)"
+            },
+            {
+              "SHA": "cb3c3c9f",
+              "Subject": "Add shard ops support (#84)"
+            },
+            {
+              "SHA": "124f5124",
+              "Subject": "Update Cluster Health Check (#95)"
+            },
+            {
+              "SHA": "ed130007",
+              "Subject": "Ops-Req fix (#92)"
+            },
+            {
+              "SHA": "fa3541ab",
+              "Subject": "Fix multiple ops request in progressing state (#88)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b51a354e",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "002d44d3",
+              "Subject": "Update component id"
+            },
+            {
+              "SHA": "54251996",
+              "Subject": "update deps and remove wrong replace (#12)"
+            },
+            {
+              "SHA": "8aea7054",
+              "Subject": "Use debin base image (#11)"
+            },
+            {
+              "SHA": "01c33fb7",
+              "Subject": "Add ClickHouse Backup with native backup CLI"
+            },
+            {
+              "SHA": "8f3469e3",
+              "Subject": "Fix makefile indentation (#5)"
+            },
+            {
+              "SHA": "d5cd3ff9",
+              "Subject": "Publish Image for Redhat software certification (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cbedf109",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#125)"
+            },
+            {
+              "SHA": "ba0b1210",
+              "Subject": "Add documentdb (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "157f4431",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "7069528b",
+              "Subject": "Incorporate changes for the AWS credless feature (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f3e2d74c",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#235)"
+            },
+            {
+              "SHA": "2bd0b01b",
+              "Subject": "Add Neo4j Ops Req Function (#229)"
+            },
+            {
+              "SHA": "d32ab714",
+              "Subject": "Qdrant HTTP client moved from apimachinery (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1c894a64",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#20)"
+            },
+            {
+              "SHA": "bf277e9a",
+              "Subject": "fix predicate (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2-coordinator",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2026.4.13-rc.0",
+          "commits": [
+            {
+              "SHA": "08a54730",
+              "Subject": "Prepare for release v2026.4.13-rc.0 (#856)"
+            },
+            {
+              "SHA": "70ca3ffb",
+              "Subject": "Add Postgres/Redis/Pgpool/PgBouncer Virtual Secret (#838)"
+            },
+            {
+              "SHA": "b245d4f8",
+              "Subject": "Update MySQLArchiver Docs (#852)"
+            },
+            {
+              "SHA": "fe318c7a",
+              "Subject": "Update Petset and Placementpolicy tag (#849)"
+            },
+            {
+              "SHA": "a15808d0",
+              "Subject": "Update distributed (#844)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.0",
+          "commits": [
+            {
+              "SHA": "61eb614",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "876a2eb",
+              "Subject": "Support documentdb standalone (#5)"
+            },
+            {
+              "SHA": "f68930a",
+              "Subject": "oprator ready to test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0c9f169a",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#125)"
+            },
+            {
+              "SHA": "323de9c4",
+              "Subject": "Add sharding facility for ops-request (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.64.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ab8ad8879",
+              "Subject": "Prepare for release v0.64.0-rc.0 (#803)"
+            },
+            {
+              "SHA": "41039a44a",
+              "Subject": "Add Ops manager sharding (#791)"
+            },
+            {
+              "SHA": "3ab32aaf2",
+              "Subject": "Increase Ops Parallel Timeout (#799)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cd3259d0",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "6bbe9c64",
+              "Subject": "Incorporate changes for the AWS credless feature (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f3d696bc",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#113)"
+            },
+            {
+              "SHA": "a21800b2",
+              "Subject": "Add sharding facility for Ops-Requests (#102)"
+            },
+            {
+              "SHA": "e8b49242",
+              "Subject": "Ops-Req Fix (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c0f14b75",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "15a023ae",
+              "Subject": "Fix gitops (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "51c5be87",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#28)"
+            },
+            {
+              "SHA": "7e98f3ba",
+              "Subject": "fix predicate (#26)"
+            },
+            {
+              "SHA": "d384fbbe",
+              "Subject": "Add monitoring (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7e87d731",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f2fba09f",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "9eecbdcf",
+              "Subject": "Add Sharding facility for ops-request (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.11.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1cc1291f",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "956eae3f",
+              "Subject": "Add Sharding Facility for ops-request (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.4.13-rc.0",
+          "commits": [
+            {
+              "SHA": "4732c499d",
+              "Subject": "Prepare for release v2026.4.13-rc.0 (#2249)"
+            },
+            {
+              "SHA": "978ec3fc3",
+              "Subject": "Use LOCALBIN for downloading all binaries if needed (#2248)"
+            },
+            {
+              "SHA": "a73ae56d0",
+              "Subject": "Update mongo wal-g version to v2026.3.30 (#2243)"
+            },
+            {
+              "SHA": "dbde57b1a",
+              "Subject": "Add ClickHouse Backup (#2209)"
+            },
+            {
+              "SHA": "d36570c07",
+              "Subject": "Add documentdb (#2124)"
+            },
+            {
+              "SHA": "cd423cca3",
+              "Subject": "Update crds for kubedb/apimachinery@d64cb9b9 (#2242)"
+            },
+            {
+              "SHA": "8ed118d0c",
+              "Subject": "Add New Druid Version (#2221)"
+            },
+            {
+              "SHA": "94aa6276e",
+              "Subject": "Add kubedb-autoscaler sharding, Update mssql exporter image (#2227)"
+            },
+            {
+              "SHA": "2f85da66f",
+              "Subject": "Add Qdrant Ops Validating Webhook (#2224)"
+            },
+            {
+              "SHA": "bb1f496be",
+              "Subject": "Add HanaDB monitoring resources (#2156)"
+            },
+            {
+              "SHA": "38e2f250f",
+              "Subject": "Add ClickHouse Version 26.2.6 (#2214)"
+            },
+            {
+              "SHA": "7b5012cb3",
+              "Subject": "Add cassandraversions (#2220)"
+            },
+            {
+              "SHA": "15f5031d7",
+              "Subject": "Update MySQL Init Image Tag (#2233)"
+            },
+            {
+              "SHA": "585ea5505",
+              "Subject": "Update ui chart tags (#2203)"
+            },
+            {
+              "SHA": "d6559e1b7",
+              "Subject": "Update cve report (#2229)"
+            },
+            {
+              "SHA": "9a0c34e0b",
+              "Subject": "Update crds for kubedb/apimachinery@d700721a (#2216)"
+            },
+            {
+              "SHA": "33e7cc704",
+              "Subject": "Update cve report (#2228)"
+            },
+            {
+              "SHA": "84f55c854",
+              "Subject": "Update cve report (#2226)"
+            },
+            {
+              "SHA": "36c6c7505",
+              "Subject": "Update cve report (#2225)"
+            },
+            {
+              "SHA": "532618b48",
+              "Subject": "Update cve report (#2223)"
+            },
+            {
+              "SHA": "603a4f2ec",
+              "Subject": "Update crds for kubedb/apimachinery@f57d49cd (#2222)"
+            },
+            {
+              "SHA": "819fe55fb",
+              "Subject": "Update crds for kubedb/apimachinery@08ca9f42 (#2218)"
+            },
+            {
+              "SHA": "7ccf7a866",
+              "Subject": "Update crds for kubedb/apimachinery@f129d2fc (#2217)"
+            },
+            {
+              "SHA": "1fe988db4",
+              "Subject": "Add Milvus Kubedb-Metrics (#2154)"
+            },
+            {
+              "SHA": "83fa4f388",
+              "Subject": "Update cve report (#2219)"
+            },
+            {
+              "SHA": "617449a20",
+              "Subject": "Fix MySQL Versions (#2210)"
+            },
+            {
+              "SHA": "3770b1402",
+              "Subject": "Add multiple shardkeys for proxysql support (#2215)"
+            },
+            {
+              "SHA": "919ef65e7",
+              "Subject": "Update cve report (#2213)"
+            },
+            {
+              "SHA": "af4bc358e",
+              "Subject": "Update crds for kubedb/apimachinery@0fc180f7 (#2208)"
+            },
+            {
+              "SHA": "83e52559e",
+              "Subject": "Update crds for kubedb/apimachinery@b790503c (#2212)"
+            },
+            {
+              "SHA": "089b4c7d0",
+              "Subject": "Update cve report (#2211)"
+            },
+            {
+              "SHA": "23a8d0f78",
+              "Subject": "Update cve report (#2207)"
+            },
+            {
+              "SHA": "49d473745",
+              "Subject": "Update cve report (#2206)"
+            },
+            {
+              "SHA": "23fc65068",
+              "Subject": "Update cve report (#2204)"
+            },
+            {
+              "SHA": "830a99154",
+              "Subject": "Update cve report (#2202)"
+            },
+            {
+              "SHA": "e525d00d4",
+              "Subject": "Update cve report (#2201)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.35.0-rc.0",
+          "commits": [
+            {
+              "SHA": "75023940",
+              "Subject": "Prepare for release v0.35.0-rc.0 (#188)"
+            },
+            {
+              "SHA": "bacc2f8b",
+              "Subject": "Add Sharding Facility for Ops-Request (#185)"
+            },
+            {
+              "SHA": "4cbe05d9",
+              "Subject": "Increase Ops Parallel Timeout (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.0",
+          "commits": [
+            {
+              "SHA": "dc91ad31",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#174)"
+            },
+            {
+              "SHA": "f37fab91",
+              "Subject": "fix predicate (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d21843b1",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "14870c71",
+              "Subject": "Incorporate changes for the AWS credless feature (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3549908d",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.48.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5d5c0b7d8",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#388)"
+            },
+            {
+              "SHA": "263e8d005",
+              "Subject": "added env for binlog cleanup (#385)"
+            },
+            {
+              "SHA": "59deb42af",
+              "Subject": "Add Binlog File Prefix env (#384)"
+            },
+            {
+              "SHA": "d8205512a",
+              "Subject": "Fix MariaDB Standalone Volume Expansion (#382)"
+            },
+            {
+              "SHA": "3baa4a87d",
+              "Subject": "Add sharding facility for Ops-Request (#371)"
+            },
+            {
+              "SHA": "7fd16637e",
+              "Subject": "Increase timeout period for Mariadb ops (#380)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "11b821ab",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#86)"
+            },
+            {
+              "SHA": "f34db6cb",
+              "Subject": "added binlog cleanup feature (#84)"
+            },
+            {
+              "SHA": "f7972591",
+              "Subject": "Update binlog file name (#83)"
+            },
+            {
+              "SHA": "185293f2",
+              "Subject": "Keep old log stats when sidekick pod restarts (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.0",
+          "commits": [
+            {
+              "SHA": "53447a78",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "925ae43a",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1bfa01dd",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#81)"
+            },
+            {
+              "SHA": "9faf6576",
+              "Subject": "Incorporate changes for the AWS credless feature (#80)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "78caf0db1",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#533)"
+            },
+            {
+              "SHA": "bb5140941",
+              "Subject": "Shard ops support (#530)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-cli",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7954e97",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-operator",
+      "releases": [
+        {
+          "tag": "v0.4.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1e9351f",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e09593ae",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "12334ec8",
+              "Subject": "Update predicate funcs (#28)"
+            },
+            {
+              "SHA": "408ee09d",
+              "Subject": "Sync with Apimachinery (#26)"
+            },
+            {
+              "SHA": "00be19c5",
+              "Subject": "Add Milvus Monitoring (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8d3533f2f",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#750)"
+            },
+            {
+              "SHA": "4eb07bb40",
+              "Subject": "Fix repo name & oplog-restore job name (#748)"
+            },
+            {
+              "SHA": "5ba17db61",
+              "Subject": "Add Ops manager sharding (#737)"
+            },
+            {
+              "SHA": "5234f14d0",
+              "Subject": "Increase Ops Parallel Timeout (#745)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "009ec633",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "82226b2e",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#119)"
+            },
+            {
+              "SHA": "9722d2ee",
+              "Subject": "Incorporate changes for the AWS credless feature (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5856f18c",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d997b056",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "a72de37f",
+              "Subject": "Fix error handling for NewMSSQLServerReconcileState() (#122)"
+            },
+            {
+              "SHA": "704443fb",
+              "Subject": "Add Shard ops Support (#117)"
+            },
+            {
+              "SHA": "ad7d0b01",
+              "Subject": "Add vertical scaling support for coordinator, exporter, arbiter components (#118)"
+            },
+            {
+              "SHA": "615b8c1a",
+              "Subject": "Reconcile DB while refered archiver update (#120)"
+            },
+            {
+              "SHA": "8656b80f",
+              "Subject": "Fix multiple Ops Request Goes in Progressing issue (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": [
+            {
+              "SHA": "028bad5",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "911601f",
+              "Subject": "Register scheme for endpointslice"
+            },
+            {
+              "SHA": "fb3d7bd",
+              "Subject": "Register scheme for endpointslice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "34a01ae21",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#739)"
+            },
+            {
+              "SHA": "bfa854526",
+              "Subject": "Ensure cloud annotations to SA before sidekick creation (#736)"
+            },
+            {
+              "SHA": "a003be8d3",
+              "Subject": "Chaos Test: Update Health Check Query, Run Parallel Timeout Log (#735)"
+            },
+            {
+              "SHA": "74eae52fd",
+              "Subject": "Fix Azure Provider awsCAExist Panic (#734)"
+            },
+            {
+              "SHA": "cb2e10e8e",
+              "Subject": "Add sharding facility for Ops-Request (#723)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a98f9c0a",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#97)"
+            },
+            {
+              "SHA": "1fbae6ea",
+              "Subject": "Update Wal-G Version to v2026.3.30 (#95)"
+            },
+            {
+              "SHA": "0cf2431c",
+              "Subject": "Keep old log stats when sidekick pod restarts (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.42.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e0d65d33",
+              "Subject": "Prepare for release v0.42.0-rc.0 (#172)"
+            },
+            {
+              "SHA": "e5924b69",
+              "Subject": "Chaos Test: Add Network Partition, Auto Heal Support"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cd90f512",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "09cda23f",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#103)"
+            },
+            {
+              "SHA": "888a4720",
+              "Subject": "Incorporate changes for the AWS credless feature (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.42.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9e097389",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#27)"
+            },
+            {
+              "SHA": "2adf9978",
+              "Subject": "Add Neo4j Ops req (#22)"
+            },
+            {
+              "SHA": "176ddf86",
+              "Subject": "Add Sharding Facility for Ops-Request (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9fead433",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "22c38c19",
+              "Subject": "fix conf-secret-creation (#38)"
+            },
+            {
+              "SHA": "f861e5b2",
+              "Subject": "Add oracle conf (#27)"
+            },
+            {
+              "SHA": "0c5da9d2",
+              "Subject": "Add Sharding facility for Ops-Request (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d2f36b4",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.0",
+          "commits": [
+            {
+              "SHA": "618d161cb",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#445)"
+            },
+            {
+              "SHA": "d1e409623",
+              "Subject": "Add Sharding Facility for ops-request (#442)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7262ddc8",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#121)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.48.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2f9085df",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.0",
+          "commits": [
+            {
+              "SHA": "24c3141a4",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#406)"
+            },
+            {
+              "SHA": "cd3c35d33",
+              "Subject": "Add Sharding Facility for Ops-Request (#403)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cedd0f8e",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "05502740",
+              "Subject": "Add Sharding Facility for Ops-Request (#111)"
+            },
+            {
+              "SHA": "3a3dbca1",
+              "Subject": "Add Pgpool Load Balancing Support & Reconfigure Bug Fix (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.64.0-rc.0",
+          "commits": [
+            {
+              "SHA": "433bacdae",
+              "Subject": "Prepare for release v0.64.0-rc.0 (#875)"
+            },
+            {
+              "SHA": "17ccf004f",
+              "Subject": "Fix archiver restore for VS driver (#874)"
+            },
+            {
+              "SHA": "7c718f65c",
+              "Subject": "Add sidekick credless support for s3 provider (#872)"
+            },
+            {
+              "SHA": "a7196def6",
+              "Subject": "fix read replica halt issue (#869)"
+            },
+            {
+              "SHA": "15041daff",
+              "Subject": "Ignore Read Replica While Moving To HA (#868)"
+            },
+            {
+              "SHA": "e61a01666",
+              "Subject": "Change label patch procedure for database pods (#866)"
+            },
+            {
+              "SHA": "8b171999b",
+              "Subject": "Fix Standalone to HA Scaling (#865)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2036b224",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#100)"
+            },
+            {
+              "SHA": "943a8921",
+              "Subject": "Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.78.2 to 1.97.3 (#97)"
+            },
+            {
+              "SHA": "f8f0f633",
+              "Subject": "Bump go.opentelemetry.io/otel/sdk from 1.40.0 to 1.43.0 (#99)"
+            },
+            {
+              "SHA": "b01bd9c9",
+              "Subject": "update Go version and wal-g new version (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b0dd01e1",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "26862c3b",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "d5c1805f",
+              "Subject": "Incorporate changes for the AWS credless feature (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.64.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.0",
+          "commits": [
+            {
+              "SHA": "47946ab8c",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#426)"
+            },
+            {
+              "SHA": "c8839200c",
+              "Subject": "Add Sharding Facility for Ops-Request (#423)"
+            },
+            {
+              "SHA": "ff797db40",
+              "Subject": "Fix multiple Ops Request Goes in Progressing issue (#421)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b6158e90",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "64feaac8",
+              "Subject": "update deps (#30)"
+            },
+            {
+              "SHA": "a7446a3a",
+              "Subject": "Add Ops Request Support (#28)"
+            },
+            {
+              "SHA": "b547a2bb",
+              "Subject": "Add Sharding Facility for Ops-Request (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8b47cc9f",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#125)"
+            },
+            {
+              "SHA": "34c289d5",
+              "Subject": "Add Sharding Facility for Ops-Request (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.57.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2df711f4a",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#634)"
+            },
+            {
+              "SHA": "7d51add0f",
+              "Subject": "Add Ops manager sharding (#622)"
+            },
+            {
+              "SHA": "1cdb85c49",
+              "Subject": "Increase Ops Parallel Timeout (#630)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.43.0-rc.0",
+          "commits": [
+            {
+              "SHA": "01f86fc3",
+              "Subject": "Prepare for release v0.43.0-rc.0 (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "52cc7c5f",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#98)"
+            },
+            {
+              "SHA": "fd1a9ec0",
+              "Subject": "Incorporate changes for the AWS credless feature (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c00452fb",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#317)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cbe0c2d6",
+              "Subject": "Merge pull request #163 from kubedb/v2026.4.13-rc.0-master"
+            },
+            {
+              "SHA": "9db522be",
+              "Subject": "Prepare for release v0.40.0-rc.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e5334dc3",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#112)"
+            },
+            {
+              "SHA": "9fb196da",
+              "Subject": "Add Sharding Facility for Ops-Request (#109)"
+            },
+            {
+              "SHA": "533a210a",
+              "Subject": "Fix ops kind (#107)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7c86dbb2",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8f533385",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#77)"
+            },
+            {
+              "SHA": "ed2bdcd7",
+              "Subject": "Incorporate changes for the AWS credless feature (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "709184eb",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "7fabe142",
+              "Subject": "Add sharding facility for Ops-Requests (#112)"
+            },
+            {
+              "SHA": "67fe597a",
+              "Subject": "Ops-Req Fix (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.0",
+          "commits": [
+            {
+              "SHA": "805c200f3",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#518)"
+            },
+            {
+              "SHA": "76f7731c5",
+              "Subject": "Add Postgres ReadReplica Test (#514)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.0",
+          "commits": [
+            {
+              "SHA": "656c975b",
+              "Subject": "Merge pull request #197 from kubedb/v2026.4.13-rc.0-master"
+            },
+            {
+              "SHA": "d2c18c07",
+              "Subject": "Prepare for release v0.40.0-rc.0"
+            },
+            {
+              "SHA": "34fae698",
+              "Subject": "Return full list if preset's available is empty (#196)"
+            },
+            {
+              "SHA": "ee6e0343",
+              "Subject": "Pgpool Configuration API fix (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4faa2d55",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#26)"
+            },
+            {
+              "SHA": "b1e926d7",
+              "Subject": "fix predicate funcs (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.40.0-rc.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2b54d4cd",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "9bd5434f",
+              "Subject": "Incorporate changes for the AWS credless feature (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f6bc123d",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "11a11a14",
+              "Subject": "Add Sharding Facility for Ops-Request (#111)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "efcb15ba",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#61)"
+            },
+            {
+              "SHA": "4dc926fc",
+              "Subject": "Incorporate changes for the AWS credless feature (#60)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

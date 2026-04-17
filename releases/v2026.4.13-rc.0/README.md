@@ -138,6 +138,18 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.4.13-rc.0](https://github.com/kubedb/docs/releases/tag/v2026.4.13-rc.0)
+
+- [08a54730](https://github.com/kubedb/docs/commit/08a54730) Prepare for release v2026.4.13-rc.0 (#856)
+- [70ca3ffb](https://github.com/kubedb/docs/commit/70ca3ffb) Add Postgres/Redis/Pgpool/PgBouncer Virtual Secret (#838)
+- [b245d4f8](https://github.com/kubedb/docs/commit/b245d4f8) Update MySQLArchiver Docs (#852)
+- [fe318c7a](https://github.com/kubedb/docs/commit/fe318c7a) Update Petset and Placementpolicy tag (#849)
+- [a15808d0](https://github.com/kubedb/docs/commit/a15808d0) Update distributed (#844)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.1.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.1.0-rc.0)

@@ -231,6 +231,49 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2026.4.13-rc.0](https://github.com/kubedb/installer/releases/tag/v2026.4.13-rc.0)
+
+- [4732c499](https://github.com/kubedb/installer/commit/4732c499d) Prepare for release v2026.4.13-rc.0 (#2249)
+- [978ec3fc](https://github.com/kubedb/installer/commit/978ec3fc3) Use LOCALBIN for downloading all binaries if needed (#2248)
+- [a73ae56d](https://github.com/kubedb/installer/commit/a73ae56d0) Update mongo wal-g version to v2026.3.30 (#2243)
+- [dbde57b1](https://github.com/kubedb/installer/commit/dbde57b1a) Add ClickHouse Backup (#2209)
+- [d36570c0](https://github.com/kubedb/installer/commit/d36570c07) Add documentdb (#2124)
+- [cd423cca](https://github.com/kubedb/installer/commit/cd423cca3) Update crds for kubedb/apimachinery@d64cb9b9 (#2242)
+- [8ed118d0](https://github.com/kubedb/installer/commit/8ed118d0c) Add New Druid Version (#2221)
+- [94aa6276](https://github.com/kubedb/installer/commit/94aa6276e) Add kubedb-autoscaler sharding, Update mssql exporter image (#2227)
+- [2f85da66](https://github.com/kubedb/installer/commit/2f85da66f) Add Qdrant Ops Validating Webhook (#2224)
+- [bb1f496b](https://github.com/kubedb/installer/commit/bb1f496be) Add HanaDB monitoring resources (#2156)
+- [38e2f250](https://github.com/kubedb/installer/commit/38e2f250f) Add ClickHouse Version 26.2.6 (#2214)
+- [7b5012cb](https://github.com/kubedb/installer/commit/7b5012cb3) Add cassandraversions (#2220)
+- [15f5031d](https://github.com/kubedb/installer/commit/15f5031d7) Update MySQL Init Image Tag (#2233)
+- [585ea550](https://github.com/kubedb/installer/commit/585ea5505) Update ui chart tags (#2203)
+- [d6559e1b](https://github.com/kubedb/installer/commit/d6559e1b7) Update cve report (#2229)
+- [9a0c34e0](https://github.com/kubedb/installer/commit/9a0c34e0b) Update crds for kubedb/apimachinery@d700721a (#2216)
+- [33e7cc70](https://github.com/kubedb/installer/commit/33e7cc704) Update cve report (#2228)
+- [84f55c85](https://github.com/kubedb/installer/commit/84f55c854) Update cve report (#2226)
+- [36c6c750](https://github.com/kubedb/installer/commit/36c6c7505) Update cve report (#2225)
+- [532618b4](https://github.com/kubedb/installer/commit/532618b48) Update cve report (#2223)
+- [603a4f2e](https://github.com/kubedb/installer/commit/603a4f2ec) Update crds for kubedb/apimachinery@f57d49cd (#2222)
+- [819fe55f](https://github.com/kubedb/installer/commit/819fe55fb) Update crds for kubedb/apimachinery@08ca9f42 (#2218)
+- [7ccf7a86](https://github.com/kubedb/installer/commit/7ccf7a866) Update crds for kubedb/apimachinery@f129d2fc (#2217)
+- [1fe988db](https://github.com/kubedb/installer/commit/1fe988db4) Add Milvus Kubedb-Metrics (#2154)
+- [83fa4f38](https://github.com/kubedb/installer/commit/83fa4f388) Update cve report (#2219)
+- [617449a2](https://github.com/kubedb/installer/commit/617449a20) Fix MySQL Versions (#2210)
+- [3770b140](https://github.com/kubedb/installer/commit/3770b1402) Add multiple shardkeys for proxysql support (#2215)
+- [919ef65e](https://github.com/kubedb/installer/commit/919ef65e7) Update cve report (#2213)
+- [af4bc358](https://github.com/kubedb/installer/commit/af4bc358e) Update crds for kubedb/apimachinery@0fc180f7 (#2208)
+- [83e52559](https://github.com/kubedb/installer/commit/83e52559e) Update crds for kubedb/apimachinery@b790503c (#2212)
+- [089b4c7d](https://github.com/kubedb/installer/commit/089b4c7d0) Update cve report (#2211)
+- [23a8d0f7](https://github.com/kubedb/installer/commit/23a8d0f78) Update cve report (#2207)
+- [49d47374](https://github.com/kubedb/installer/commit/49d473745) Update cve report (#2206)
+- [23fc6506](https://github.com/kubedb/installer/commit/23fc65068) Update cve report (#2204)
+- [830a9915](https://github.com/kubedb/installer/commit/830a99154) Update cve report (#2202)
+- [e525d00d](https://github.com/kubedb/installer/commit/e525d00d4) Update cve report (#2201)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.35.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.35.0-rc.0)

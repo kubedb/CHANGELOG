@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.13-rc.0",
-  "release_date": "2026-04-16T19:16:28.604585644Z",
+  "release_date": "2026-04-17T05:11:09.939727397Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.13-rc.0",
   "kubernetes_version": "1.28+",
@@ -115,6 +115,24 @@
             {
               "SHA": "60eb421b3",
               "Subject": "Use cert-manager v1.19.4 (#1619)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.0",
+          "commits": [
+            {
+              "SHA": "fee22931",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#286)"
+            },
+            {
+              "SHA": "a24c29b8",
+              "Subject": "Add operator sharding support (#276)"
             }
           ]
         }

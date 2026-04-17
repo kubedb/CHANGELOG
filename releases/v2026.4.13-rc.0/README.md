@@ -1,4 +1,4 @@
-# KubeDB v2026.4.13-rc.0 (2026-04-16)
+# KubeDB v2026.4.13-rc.0 (2026-04-17)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -31,6 +31,15 @@
 - [52687dc9](https://github.com/kubedb/apimachinery/commit/52687dc9f) remove validation for initcontainer (#1625)
 - [2e3d3bce](https://github.com/kubedb/apimachinery/commit/2e3d3bce5) Mark archiver in PostgresVersion as optional (#1621)
 - [60eb421b](https://github.com/kubedb/apimachinery/commit/60eb421b3) Use cert-manager v1.19.4 (#1619)
+
+
+
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.49.0-rc.0](https://github.com/kubedb/autoscaler/releases/tag/v0.49.0-rc.0)
+
+- [fee22931](https://github.com/kubedb/autoscaler/commit/fee22931) Prepare for release v0.49.0-rc.0 (#286)
+- [a24c29b8](https://github.com/kubedb/autoscaler/commit/a24c29b8) Add operator sharding support (#276)
 
 
 

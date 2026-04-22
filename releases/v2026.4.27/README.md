@@ -665,6 +665,14 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.25.0](https://github.com/kubedb/provider-azure/releases/tag/v0.25.0)
+
+- [2923d77](https://github.com/kubedb/provider-azure/commit/2923d77) Configure dependabot refresh schedule (#27)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.5.0](https://github.com/kubedb/qdrant/releases/tag/v0.5.0)

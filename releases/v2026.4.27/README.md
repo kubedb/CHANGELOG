@@ -82,6 +82,18 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.11.0](https://github.com/kubedb/ignite/releases/tag/v0.11.0)
+
+- [dc7c8a79](https://github.com/kubedb/ignite/commit/dc7c8a79) Prepare for release v0.11.0 (#50)
+- [5a4750da](https://github.com/kubedb/ignite/commit/5a4750da) Offline Volume Expansion Fix (#49)
+- [f6e606b1](https://github.com/kubedb/ignite/commit/f6e606b1) Configure dependabot refresh schedule (#48)
+- [1cc1291f](https://github.com/kubedb/ignite/commit/1cc1291f) Prepare for release v0.11.0-rc.0 (#47)
+- [956eae3f](https://github.com/kubedb/ignite/commit/956eae3f) Add Sharding Facility for ops-request (#44)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.4.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.4.0)

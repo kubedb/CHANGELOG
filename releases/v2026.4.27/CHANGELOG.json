@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:38:04.038003853Z",
+  "release_date": "2026-04-22T14:38:12.367861709Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -253,6 +253,36 @@
             {
               "SHA": "9eecbdcf",
               "Subject": "Add Sharding facility for ops-request (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "dc7c8a79",
+              "Subject": "Prepare for release v0.11.0 (#50)"
+            },
+            {
+              "SHA": "5a4750da",
+              "Subject": "Offline Volume Expansion Fix (#49)"
+            },
+            {
+              "SHA": "f6e606b1",
+              "Subject": "Configure dependabot refresh schedule (#48)"
+            },
+            {
+              "SHA": "1cc1291f",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "956eae3f",
+              "Subject": "Add Sharding Facility for ops-request (#44)"
             }
           ]
         }

@@ -352,6 +352,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.44.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.44.0)
+
+- [8eeb0bbb](https://github.com/kubedb/mariadb-coordinator/commit/8eeb0bbb) Prepare for release v0.44.0 (#175)
+- [4e9fe98d](https://github.com/kubedb/mariadb-coordinator/commit/4e9fe98d) Configure dependabot refresh schedule (#173)
+- [53447a78](https://github.com/kubedb/mariadb-coordinator/commit/53447a78) Prepare for release v0.44.0-rc.0 (#171)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.22.0)

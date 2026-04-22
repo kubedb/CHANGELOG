@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:48:59.98134366Z",
+  "release_date": "2026-04-22T14:49:10.609243062Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -955,6 +955,28 @@
             {
               "SHA": "185293f2",
               "Subject": "Keep old log stats when sidekick pod restarts (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "8eeb0bbb",
+              "Subject": "Prepare for release v0.44.0 (#175)"
+            },
+            {
+              "SHA": "4e9fe98d",
+              "Subject": "Configure dependabot refresh schedule (#173)"
+            },
+            {
+              "SHA": "53447a78",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#171)"
             }
           ]
         }

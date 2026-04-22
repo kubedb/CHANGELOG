@@ -732,6 +732,20 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.19.0](https://github.com/kubedb/singlestore/releases/tag/v0.19.0)
+
+- [be212d59](https://github.com/kubedb/singlestore/commit/be212d59) Prepare for release v0.19.0 (#117)
+- [38cf8233](https://github.com/kubedb/singlestore/commit/38cf8233) fix volume expansion bug (#116)
+- [66594528](https://github.com/kubedb/singlestore/commit/66594528) offline volume expansion fix (#115)
+- [742f9ca3](https://github.com/kubedb/singlestore/commit/742f9ca3) Configure dependabot refresh schedule (#114)
+- [e5334dc3](https://github.com/kubedb/singlestore/commit/e5334dc3) Prepare for release v0.19.0-rc.0 (#112)
+- [9fb196da](https://github.com/kubedb/singlestore/commit/9fb196da) Add Sharding Facility for Ops-Request (#109)
+- [533a210a](https://github.com/kubedb/singlestore/commit/533a210a) Fix ops kind (#107)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.19.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.19.0)

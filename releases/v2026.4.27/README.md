@@ -173,6 +173,19 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.5.0](https://github.com/kubedb/hanadb/releases/tag/v0.5.0)
+
+- [2f15f4f9](https://github.com/kubedb/hanadb/commit/2f15f4f9) Prepare for release v0.5.0 (#31)
+- [6dce67f7](https://github.com/kubedb/hanadb/commit/6dce67f7) Configure dependabot refresh schedule (#30)
+- [7b2be4f9](https://github.com/kubedb/hanadb/commit/7b2be4f9) Configure dependabot refresh schedule (#29)
+- [51c5be87](https://github.com/kubedb/hanadb/commit/51c5be87) Prepare for release v0.5.0-rc.0 (#28)
+- [7e98f3ba](https://github.com/kubedb/hanadb/commit/7e98f3ba) fix predicate (#26)
+- [d384fbbe](https://github.com/kubedb/hanadb/commit/d384fbbe) Add monitoring (#23)
+
+
+
 ## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
 
 ### [v0.4.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.4.0)

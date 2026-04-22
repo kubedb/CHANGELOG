@@ -67,6 +67,21 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.19.0](https://github.com/kubedb/clickhouse/releases/tag/v0.19.0)
+
+- [6bc3a028](https://github.com/kubedb/clickhouse/commit/6bc3a028) Prepare for release v0.19.0 (#102)
+- [49cb281b](https://github.com/kubedb/clickhouse/commit/49cb281b) Offline Volume Expansion Fix (#101)
+- [723034be](https://github.com/kubedb/clickhouse/commit/723034be) Configure dependabot refresh schedule (#100)
+- [764c306d](https://github.com/kubedb/clickhouse/commit/764c306d) Prepare for release v0.19.0-rc.0 (#97)
+- [cb3c3c9f](https://github.com/kubedb/clickhouse/commit/cb3c3c9f) Add shard ops support (#84)
+- [124f5124](https://github.com/kubedb/clickhouse/commit/124f5124) Update Cluster Health Check (#95)
+- [ed130007](https://github.com/kubedb/clickhouse/commit/ed130007) Ops-Req fix (#92)
+- [fa3541ab](https://github.com/kubedb/clickhouse/commit/fa3541ab) Fix multiple ops request in progressing state (#88)
+
+
+
 ## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.1.0)

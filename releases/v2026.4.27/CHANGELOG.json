@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:47:22.273715532Z",
+  "release_date": "2026-04-22T14:47:32.898128409Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -211,6 +211,48 @@
             {
               "SHA": "35686912c",
               "Subject": "Prepare for release v0.64.0-rc.0 (#818)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "6bc3a028",
+              "Subject": "Prepare for release v0.19.0 (#102)"
+            },
+            {
+              "SHA": "49cb281b",
+              "Subject": "Offline Volume Expansion Fix (#101)"
+            },
+            {
+              "SHA": "723034be",
+              "Subject": "Configure dependabot refresh schedule (#100)"
+            },
+            {
+              "SHA": "764c306d",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#97)"
+            },
+            {
+              "SHA": "cb3c3c9f",
+              "Subject": "Add shard ops support (#84)"
+            },
+            {
+              "SHA": "124f5124",
+              "Subject": "Update Cluster Health Check (#95)"
+            },
+            {
+              "SHA": "ed130007",
+              "Subject": "Ops-Req fix (#92)"
+            },
+            {
+              "SHA": "fa3541ab",
+              "Subject": "Fix multiple ops request in progressing state (#88)"
             }
           ]
         }

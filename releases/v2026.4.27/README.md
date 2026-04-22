@@ -346,6 +346,16 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.10.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.10.0)
+
+- [f9f4dd8](https://github.com/kubedb/oracle-coordinator/commit/f9f4dd8) Prepare for release v0.10.0 (#31)
+- [b2a1a40](https://github.com/kubedb/oracle-coordinator/commit/b2a1a40) Configure dependabot refresh schedule (#30)
+- [d2f36b4](https://github.com/kubedb/oracle-coordinator/commit/d2f36b4) Prepare for release v0.10.0-rc.0 (#28)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.37.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.37.0)

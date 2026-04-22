@@ -482,6 +482,19 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.10.0](https://github.com/kubedb/oracle/releases/tag/v0.10.0)
+
+- [75cab6ba](https://github.com/kubedb/oracle/commit/75cab6ba) Prepare for release v0.10.0 (#41)
+- [4e495dcd](https://github.com/kubedb/oracle/commit/4e495dcd) Configure dependabot refresh schedule (#40)
+- [9fead433](https://github.com/kubedb/oracle/commit/9fead433) Prepare for release v0.10.0-rc.0 (#39)
+- [22c38c19](https://github.com/kubedb/oracle/commit/22c38c19) fix conf-secret-creation (#38)
+- [f861e5b2](https://github.com/kubedb/oracle/commit/f861e5b2) Add oracle conf (#27)
+- [0c5da9d2](https://github.com/kubedb/oracle/commit/0c5da9d2) Add Sharding facility for Ops-Request (#35)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.10.0)

@@ -162,6 +162,17 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.4.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.4.0)
+
+- [831fad13](https://github.com/kubedb/hanadb-coordinator/commit/831fad13) Prepare for release v0.4.0 (#10)
+- [57516959](https://github.com/kubedb/hanadb-coordinator/commit/57516959) Configure dependabot refresh schedule (#9)
+- [f581db41](https://github.com/kubedb/hanadb-coordinator/commit/f581db41) Configure dependabot refresh schedule (#8)
+- [7e87d731](https://github.com/kubedb/hanadb-coordinator/commit/7e87d731) Prepare for release v0.4.0-rc.0 (#7)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.10.0](https://github.com/kubedb/hazelcast/releases/tag/v0.10.0)

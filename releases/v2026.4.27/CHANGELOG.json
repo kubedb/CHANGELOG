@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:43:14.182613373Z",
+  "release_date": "2026-04-22T14:43:22.380871883Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -465,6 +465,32 @@
             {
               "SHA": "e8b49242",
               "Subject": "Ops-Req Fix (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "831fad13",
+              "Subject": "Prepare for release v0.4.0 (#10)"
+            },
+            {
+              "SHA": "57516959",
+              "Subject": "Configure dependabot refresh schedule (#9)"
+            },
+            {
+              "SHA": "f581db41",
+              "Subject": "Configure dependabot refresh schedule (#8)"
+            },
+            {
+              "SHA": "7e87d731",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#7)"
             }
           ]
         }

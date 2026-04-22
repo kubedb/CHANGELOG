@@ -69,6 +69,19 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.10.0](https://github.com/kubedb/hazelcast/releases/tag/v0.10.0)
+
+- [a49ffac7](https://github.com/kubedb/hazelcast/commit/a49ffac7) Prepare for release v0.10.0 (#42)
+- [1bf1cda9](https://github.com/kubedb/hazelcast/commit/1bf1cda9) Fixed Offline Volume Expansion (#41)
+- [d8c06262](https://github.com/kubedb/hazelcast/commit/d8c06262) Configure dependabot refresh schedule (#40)
+- [d063a0ec](https://github.com/kubedb/hazelcast/commit/d063a0ec) Configure dependabot refresh schedule (#39)
+- [f2fba09f](https://github.com/kubedb/hazelcast/commit/f2fba09f) Prepare for release v0.10.0-rc.0 (#38)
+- [9eecbdcf](https://github.com/kubedb/hazelcast/commit/9eecbdcf) Add Sharding facility for ops-request (#35)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.25.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.25.0)

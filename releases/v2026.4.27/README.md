@@ -106,3 +106,15 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.19.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.19.0)
+
+- [cd286bab](https://github.com/kubedb/rabbitmq/commit/cd286bab) Prepare for release v0.19.0 (#129)
+- [3dff0452](https://github.com/kubedb/rabbitmq/commit/3dff0452) Fix Offline Volume Expansion (#128)
+- [c80c9679](https://github.com/kubedb/rabbitmq/commit/c80c9679) Configure dependabot refresh schedule (#127)
+- [8b47cc9f](https://github.com/kubedb/rabbitmq/commit/8b47cc9f) Prepare for release v0.19.0-rc.0 (#125)
+- [34c289d5](https://github.com/kubedb/rabbitmq/commit/34c289d5) Add Sharding Facility for Ops-Request (#122)
+
+
+

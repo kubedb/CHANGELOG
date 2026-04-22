@@ -350,6 +350,17 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.19.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.19.0)
+
+- [3432bcf1](https://github.com/kubedb/mssql-coordinator/commit/3432bcf1) Prepare for release v0.19.0 (#66)
+- [3ce7a06d](https://github.com/kubedb/mssql-coordinator/commit/3ce7a06d) Configure dependabot refresh schedule (#65)
+- [af4c8acc](https://github.com/kubedb/mssql-coordinator/commit/af4c8acc) Configure dependabot refresh schedule (#64)
+- [5856f18c](https://github.com/kubedb/mssql-coordinator/commit/5856f18c) Prepare for release v0.19.0-rc.0 (#62)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.19.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.19.0)

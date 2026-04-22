@@ -135,6 +135,19 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.1.0](https://github.com/kubedb/documentdb/releases/tag/v0.1.0)
+
+- [35bad36](https://github.com/kubedb/documentdb/commit/35bad36) Prepare for release v0.1.0 (#10)
+- [d2a7d97](https://github.com/kubedb/documentdb/commit/d2a7d97) Configure dependabot refresh schedule (#9)
+- [d5aef4d](https://github.com/kubedb/documentdb/commit/d5aef4d) Configure dependabot refresh schedule (#8)
+- [61eb614](https://github.com/kubedb/documentdb/commit/61eb614) Prepare for release v0.1.0-rc.0 (#6)
+- [876a2eb](https://github.com/kubedb/documentdb/commit/876a2eb) Support documentdb standalone (#5)
+- [f68930a](https://github.com/kubedb/documentdb/commit/f68930a) oprator ready to test
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.19.0](https://github.com/kubedb/druid/releases/tag/v0.19.0)

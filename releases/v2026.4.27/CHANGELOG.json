@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:37:56.329002102Z",
+  "release_date": "2026-04-22T14:38:04.038003853Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -253,6 +253,28 @@
             {
               "SHA": "9eecbdcf",
               "Subject": "Add Sharding facility for ops-request (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-cli",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "e1fea3b",
+              "Subject": "Prepare for release v0.4.0 (#18)"
+            },
+            {
+              "SHA": "f8e80b9",
+              "Subject": "Configure dependabot refresh schedule (#15)"
+            },
+            {
+              "SHA": "7954e97",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#13)"
             }
           ]
         }

@@ -82,6 +82,16 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.4.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.4.0)
+
+- [e1fea3b](https://github.com/kubedb/migrator-cli/commit/e1fea3b) Prepare for release v0.4.0 (#18)
+- [f8e80b9](https://github.com/kubedb/migrator-cli/commit/f8e80b9) Configure dependabot refresh schedule (#15)
+- [7954e97](https://github.com/kubedb/migrator-cli/commit/7954e97) Prepare for release v0.4.0-rc.0 (#13)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.25.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.25.0)

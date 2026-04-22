@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:42:10.312492603Z",
+  "release_date": "2026-04-22T14:42:17.922155307Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -665,6 +665,32 @@
             {
               "SHA": "00be19c5",
               "Subject": "Add Milvus Monitoring (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "85824be3",
+              "Subject": "Prepare for release v0.25.0 (#79)"
+            },
+            {
+              "SHA": "fdd5d683",
+              "Subject": "Configure dependabot refresh schedule (#78)"
+            },
+            {
+              "SHA": "446ffe40",
+              "Subject": "Configure dependabot refresh schedule (#77)"
+            },
+            {
+              "SHA": "009ec633",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#76)"
             }
           ]
         }

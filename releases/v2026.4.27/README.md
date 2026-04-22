@@ -239,6 +239,17 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.25.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.25.0)
+
+- [85824be3](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/85824be3) Prepare for release v0.25.0 (#79)
+- [fdd5d683](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/fdd5d683) Configure dependabot refresh schedule (#78)
+- [446ffe40](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/446ffe40) Configure dependabot refresh schedule (#77)
+- [009ec633](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/009ec633) Prepare for release v0.25.0-rc.0 (#76)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.27.0)

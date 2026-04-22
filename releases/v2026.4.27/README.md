@@ -469,6 +469,19 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.27.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.27.0)
+
+- [ba400cb7](https://github.com/kubedb/mysql-restic-plugin/commit/ba400cb7) Prepare for release v0.27.0 (#108)
+- [372401ba](https://github.com/kubedb/mysql-restic-plugin/commit/372401ba) Bump RESTIC_VERSION to 0.18.1-20260421 (#107)
+- [1f5e0d96](https://github.com/kubedb/mysql-restic-plugin/commit/1f5e0d96) Configure dependabot refresh schedule (#106)
+- [0cf94d94](https://github.com/kubedb/mysql-restic-plugin/commit/0cf94d94) Configure dependabot refresh schedule (#105)
+- [09cda23f](https://github.com/kubedb/mysql-restic-plugin/commit/09cda23f) Prepare for release v0.27.0-rc.0 (#103)
+- [888a4720](https://github.com/kubedb/mysql-restic-plugin/commit/888a4720) Incorporate changes for the AWS credless feature (#102)
+
+
+
 ## [kubedb/neo4j](https://github.com/kubedb/neo4j)
 
 ### [v0.5.0](https://github.com/kubedb/neo4j/releases/tag/v0.5.0)

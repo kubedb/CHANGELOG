@@ -443,6 +443,16 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.25.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.25.0)
+
+- [a1bac671](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/a1bac671) Prepare for release v0.25.0 (#85)
+- [c20cd235](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/c20cd235) Configure dependabot refresh schedule (#84)
+- [b0dd01e1](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/b0dd01e1) Prepare for release v0.25.0-rc.0 (#83)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.27.0)

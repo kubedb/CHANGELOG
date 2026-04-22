@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:48:49.98970811Z",
+  "release_date": "2026-04-22T14:48:59.98134366Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1363,6 +1363,36 @@
             {
               "SHA": "0cf2431c",
               "Subject": "Keep old log stats when sidekick pod restarts (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "f094a593",
+              "Subject": "Prepare for release v0.42.0 (#176)"
+            },
+            {
+              "SHA": "4dfe4dbe",
+              "Subject": "Configure dependabot refresh schedule (#175)"
+            },
+            {
+              "SHA": "432033b2",
+              "Subject": "Configure dependabot refresh schedule (#174)"
+            },
+            {
+              "SHA": "e0d65d33",
+              "Subject": "Prepare for release v0.42.0-rc.0 (#172)"
+            },
+            {
+              "SHA": "e5924b69",
+              "Subject": "Chaos Test: Add Network Partition, Auto Heal Support"
             }
           ]
         }

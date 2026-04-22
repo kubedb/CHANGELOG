@@ -508,6 +508,18 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.42.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.42.0)
+
+- [f094a593](https://github.com/kubedb/mysql-coordinator/commit/f094a593) Prepare for release v0.42.0 (#176)
+- [4dfe4dbe](https://github.com/kubedb/mysql-coordinator/commit/4dfe4dbe) Configure dependabot refresh schedule (#175)
+- [432033b2](https://github.com/kubedb/mysql-coordinator/commit/432033b2) Configure dependabot refresh schedule (#174)
+- [e0d65d33](https://github.com/kubedb/mysql-coordinator/commit/e0d65d33) Prepare for release v0.42.0-rc.0 (#172)
+- [e5924b69](https://github.com/kubedb/mysql-coordinator/commit/e5924b69) Chaos Test: Add Network Partition, Auto Heal Support
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.25.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.25.0)

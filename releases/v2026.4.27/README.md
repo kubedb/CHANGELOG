@@ -55,6 +55,18 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.64.0](https://github.com/kubedb/cli/releases/tag/v0.64.0)
+
+- [2be81847](https://github.com/kubedb/cli/commit/2be81847d) Prepare for release v0.64.0 (#823)
+- [7132dd00](https://github.com/kubedb/cli/commit/7132dd00a) Configure dependabot refresh schedule (#822)
+- [f718b38e](https://github.com/kubedb/cli/commit/f718b38ed) Configure dependabot refresh schedule (#821)
+- [5667872c](https://github.com/kubedb/cli/commit/5667872c0) Test against k8s 1.35 (#820)
+- [35686912](https://github.com/kubedb/cli/commit/35686912c) Prepare for release v0.64.0-rc.0 (#818)
+
+
+
 ## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.1.0)

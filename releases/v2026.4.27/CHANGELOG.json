@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:43:03.030574312Z",
+  "release_date": "2026-04-22T14:43:14.182613373Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -181,6 +181,36 @@
             {
               "SHA": "7121c38b",
               "Subject": "Prepare for release v0.11.0-rc.0 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.64.0",
+          "commits": [
+            {
+              "SHA": "2be81847d",
+              "Subject": "Prepare for release v0.64.0 (#823)"
+            },
+            {
+              "SHA": "7132dd00a",
+              "Subject": "Configure dependabot refresh schedule (#822)"
+            },
+            {
+              "SHA": "f718b38ed",
+              "Subject": "Configure dependabot refresh schedule (#821)"
+            },
+            {
+              "SHA": "5667872c0",
+              "Subject": "Test against k8s 1.35 (#820)"
+            },
+            {
+              "SHA": "35686912c",
+              "Subject": "Prepare for release v0.64.0-rc.0 (#818)"
             }
           ]
         }

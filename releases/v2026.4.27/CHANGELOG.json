@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:42:01.632678449Z",
+  "release_date": "2026-04-22T14:42:10.312492603Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -627,6 +627,44 @@
             {
               "SHA": "7954e97",
               "Subject": "Prepare for release v0.4.0-rc.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "649cc2ae",
+              "Subject": "Prepare for release v0.5.0 (#32)"
+            },
+            {
+              "SHA": "03934e0b",
+              "Subject": "Configure dependabot refresh schedule (#31)"
+            },
+            {
+              "SHA": "c04453e9",
+              "Subject": "Configure dependabot refresh schedule (#30)"
+            },
+            {
+              "SHA": "e09593ae",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "12334ec8",
+              "Subject": "Update predicate funcs (#28)"
+            },
+            {
+              "SHA": "408ee09d",
+              "Subject": "Sync with Apimachinery (#26)"
+            },
+            {
+              "SHA": "00be19c5",
+              "Subject": "Add Milvus Monitoring (#15)"
             }
           ]
         }

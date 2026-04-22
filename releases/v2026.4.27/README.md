@@ -225,6 +225,20 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.5.0](https://github.com/kubedb/milvus/releases/tag/v0.5.0)
+
+- [649cc2ae](https://github.com/kubedb/milvus/commit/649cc2ae) Prepare for release v0.5.0 (#32)
+- [03934e0b](https://github.com/kubedb/milvus/commit/03934e0b) Configure dependabot refresh schedule (#31)
+- [c04453e9](https://github.com/kubedb/milvus/commit/c04453e9) Configure dependabot refresh schedule (#30)
+- [e09593ae](https://github.com/kubedb/milvus/commit/e09593ae) Prepare for release v0.5.0-rc.0 (#29)
+- [12334ec8](https://github.com/kubedb/milvus/commit/12334ec8) Update predicate funcs (#28)
+- [408ee09d](https://github.com/kubedb/milvus/commit/408ee09d) Sync with Apimachinery (#26)
+- [00be19c5](https://github.com/kubedb/milvus/commit/00be19c5) Add Milvus Monitoring (#15)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.27.0)

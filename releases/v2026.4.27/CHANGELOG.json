@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T17:37:23.858430108Z",
+  "release_date": "2026-04-22T17:50:25.31440426Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -2251,6 +2251,36 @@
             {
               "SHA": "c00452fb",
               "Subject": "Prepare for release v0.51.0-rc.0 (#317)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "8590f8e5",
+              "Subject": "Prepare for release v0.40.0 (#167)"
+            },
+            {
+              "SHA": "5a81c014",
+              "Subject": "Configure dependabot refresh schedule (#166)"
+            },
+            {
+              "SHA": "cedf8375",
+              "Subject": "Configure dependabot refresh schedule (#165)"
+            },
+            {
+              "SHA": "cbe0c2d6",
+              "Subject": "Merge pull request #163 from kubedb/v2026.4.13-rc.0-master"
+            },
+            {
+              "SHA": "9db522be",
+              "Subject": "Prepare for release v0.40.0-rc.0"
             }
           ]
         }

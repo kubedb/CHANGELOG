@@ -418,6 +418,16 @@
 
 
 
+## [kubedb/migrator-operator](https://github.com/kubedb/migrator-operator)
+
+### [v0.4.0](https://github.com/kubedb/migrator-operator/releases/tag/v0.4.0)
+
+- [ff0cdd8](https://github.com/kubedb/migrator-operator/commit/ff0cdd8) Prepare for release v0.4.0 (#13)
+- [d23a639](https://github.com/kubedb/migrator-operator/commit/d23a639) Configure dependabot refresh schedule (#12)
+- [1e9351f](https://github.com/kubedb/migrator-operator/commit/1e9351f) Prepare for release v0.4.0-rc.0 (#11)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.5.0](https://github.com/kubedb/milvus/releases/tag/v0.5.0)

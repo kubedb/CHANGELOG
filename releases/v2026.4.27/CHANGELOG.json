@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T17:22:06.622361078Z",
+  "release_date": "2026-04-22T17:22:45.036904464Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1111,6 +1111,28 @@
             {
               "SHA": "7954e97",
               "Subject": "Prepare for release v0.4.0-rc.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-operator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "ff0cdd8",
+              "Subject": "Prepare for release v0.4.0 (#13)"
+            },
+            {
+              "SHA": "d23a639",
+              "Subject": "Configure dependabot refresh schedule (#12)"
+            },
+            {
+              "SHA": "1e9351f",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#11)"
             }
           ]
         }

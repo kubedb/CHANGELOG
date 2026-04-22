@@ -94,3 +94,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.27.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.27.0)
+
+- [b5399717](https://github.com/kubedb/postgres-restic-plugin/commit/b5399717) Prepare for release v0.27.0 (#106)
+- [ff32b63e](https://github.com/kubedb/postgres-restic-plugin/commit/ff32b63e) Bump RESTIC_VERSION to 0.18.1-20260421 (#105)
+- [deeb99ee](https://github.com/kubedb/postgres-restic-plugin/commit/deeb99ee) Configure dependabot refresh schedule (#104)
+- [26862c3b](https://github.com/kubedb/postgres-restic-plugin/commit/26862c3b) Prepare for release v0.27.0-rc.0 (#102)
+- [d5c1805f](https://github.com/kubedb/postgres-restic-plugin/commit/d5c1805f) Incorporate changes for the AWS credless feature (#101)
+
+
+

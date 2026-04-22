@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:37:28.135073433Z",
+  "release_date": "2026-04-22T14:37:34.7455194Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -283,6 +283,36 @@
             {
               "SHA": "b01bd9c9",
               "Subject": "update Go version and wal-g new version (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "b5399717",
+              "Subject": "Prepare for release v0.27.0 (#106)"
+            },
+            {
+              "SHA": "ff32b63e",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#105)"
+            },
+            {
+              "SHA": "deeb99ee",
+              "Subject": "Configure dependabot refresh schedule (#104)"
+            },
+            {
+              "SHA": "26862c3b",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "d5c1805f",
+              "Subject": "Incorporate changes for the AWS credless feature (#101)"
             }
           ]
         }

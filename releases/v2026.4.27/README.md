@@ -235,6 +235,19 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.27.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.27.0)
+
+- [f07e155d](https://github.com/kubedb/kubedb-manifest-plugin/commit/f07e155d) Prepare for release v0.27.0 (#128)
+- [b22aa0b9](https://github.com/kubedb/kubedb-manifest-plugin/commit/b22aa0b9) Bump RESTIC_VERSION to 0.18.1-20260421 (#127)
+- [c4e0a75c](https://github.com/kubedb/kubedb-manifest-plugin/commit/c4e0a75c) Configure dependabot refresh schedule (#126)
+- [554ca50b](https://github.com/kubedb/kubedb-manifest-plugin/commit/554ca50b) Configure dependabot refresh schedule (#125)
+- [d21843b1](https://github.com/kubedb/kubedb-manifest-plugin/commit/d21843b1) Prepare for release v0.27.0-rc.0 (#123)
+- [14870c71](https://github.com/kubedb/kubedb-manifest-plugin/commit/14870c71) Incorporate changes for the AWS credless feature (#122)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.15.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.15.0)

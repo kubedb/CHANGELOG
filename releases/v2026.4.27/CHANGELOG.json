@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:45:40.346499938Z",
+  "release_date": "2026-04-22T14:45:47.462221663Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -649,6 +649,40 @@
             {
               "SHA": "4cbe05d9",
               "Subject": "Increase Ops Parallel Timeout (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "f07e155d",
+              "Subject": "Prepare for release v0.27.0 (#128)"
+            },
+            {
+              "SHA": "b22aa0b9",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#127)"
+            },
+            {
+              "SHA": "c4e0a75c",
+              "Subject": "Configure dependabot refresh schedule (#126)"
+            },
+            {
+              "SHA": "554ca50b",
+              "Subject": "Configure dependabot refresh schedule (#125)"
+            },
+            {
+              "SHA": "d21843b1",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "14870c71",
+              "Subject": "Incorporate changes for the AWS credless feature (#122)"
             }
           ]
         }

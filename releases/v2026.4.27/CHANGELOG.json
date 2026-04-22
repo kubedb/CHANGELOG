@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:45:30.246379966Z",
+  "release_date": "2026-04-22T14:45:40.346499938Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1569,6 +1569,32 @@
             {
               "SHA": "fd1a9ec0",
               "Subject": "Incorporate changes for the AWS credless feature (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "bdc776c1",
+              "Subject": "Prepare for release v0.51.0 (#320)"
+            },
+            {
+              "SHA": "38d8e512",
+              "Subject": "Configure dependabot refresh schedule (#319)"
+            },
+            {
+              "SHA": "dc13533a",
+              "Subject": "Configure dependabot refresh schedule (#318)"
+            },
+            {
+              "SHA": "c00452fb",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#317)"
             }
           ]
         }

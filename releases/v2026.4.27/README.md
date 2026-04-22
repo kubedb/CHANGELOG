@@ -591,6 +591,17 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.51.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.51.0)
+
+- [bdc776c1](https://github.com/kubedb/replication-mode-detector/commit/bdc776c1) Prepare for release v0.51.0 (#320)
+- [38d8e512](https://github.com/kubedb/replication-mode-detector/commit/38d8e512) Configure dependabot refresh schedule (#319)
+- [dc13533a](https://github.com/kubedb/replication-mode-detector/commit/dc13533a) Configure dependabot refresh schedule (#318)
+- [c00452fb](https://github.com/kubedb/replication-mode-detector/commit/c00452fb) Prepare for release v0.51.0-rc.0 (#317)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.19.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.19.0)

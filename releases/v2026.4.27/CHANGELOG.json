@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:41:03.886038566Z",
+  "release_date": "2026-04-22T14:41:12.701098552Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -431,6 +431,44 @@
             {
               "SHA": "3549908d",
               "Subject": "Prepare for release v0.15.0-rc.0 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "13e2fce5",
+              "Subject": "Prepare for release v0.24.0 (#88)"
+            },
+            {
+              "SHA": "40106456",
+              "Subject": "Update Wal-G version for AWS credless mode (#85)"
+            },
+            {
+              "SHA": "b3eb743f",
+              "Subject": "Configure dependabot refresh schedule (#87)"
+            },
+            {
+              "SHA": "11b821ab",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#86)"
+            },
+            {
+              "SHA": "f34db6cb",
+              "Subject": "added binlog cleanup feature (#84)"
+            },
+            {
+              "SHA": "f7972591",
+              "Subject": "Update binlog file name (#83)"
+            },
+            {
+              "SHA": "185293f2",
+              "Subject": "Keep old log stats when sidekick pod restarts (#82)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:43:30.050949414Z",
+  "release_date": "2026-04-22T14:43:43.744978643Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1071,6 +1071,52 @@
             {
               "SHA": "2f9085df",
               "Subject": "Prepare for release v0.48.0-rc.0 (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.64.0",
+          "commits": [
+            {
+              "SHA": "261287eee",
+              "Subject": "Prepare for release v0.64.0 (#879)"
+            },
+            {
+              "SHA": "0ab9077ae",
+              "Subject": "Configure dependabot refresh schedule (#878)"
+            },
+            {
+              "SHA": "433bacdae",
+              "Subject": "Prepare for release v0.64.0-rc.0 (#875)"
+            },
+            {
+              "SHA": "17ccf004f",
+              "Subject": "Fix archiver restore for VS driver (#874)"
+            },
+            {
+              "SHA": "7c718f65c",
+              "Subject": "Add sidekick credless support for s3 provider (#872)"
+            },
+            {
+              "SHA": "a7196def6",
+              "Subject": "fix read replica halt issue (#869)"
+            },
+            {
+              "SHA": "15041daff",
+              "Subject": "Ignore Read Replica While Moving To HA (#868)"
+            },
+            {
+              "SHA": "e61a01666",
+              "Subject": "Change label patch procedure for database pods (#866)"
+            },
+            {
+              "SHA": "8b171999b",
+              "Subject": "Fix Standalone to HA Scaling (#865)"
             }
           ]
         }

@@ -399,6 +399,22 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.64.0](https://github.com/kubedb/postgres/releases/tag/v0.64.0)
+
+- [261287ee](https://github.com/kubedb/postgres/commit/261287eee) Prepare for release v0.64.0 (#879)
+- [0ab9077a](https://github.com/kubedb/postgres/commit/0ab9077ae) Configure dependabot refresh schedule (#878)
+- [433bacda](https://github.com/kubedb/postgres/commit/433bacdae) Prepare for release v0.64.0-rc.0 (#875)
+- [17ccf004](https://github.com/kubedb/postgres/commit/17ccf004f) Fix archiver restore for VS driver (#874)
+- [7c718f65](https://github.com/kubedb/postgres/commit/7c718f65c) Add sidekick credless support for s3 provider (#872)
+- [a7196def](https://github.com/kubedb/postgres/commit/a7196def6) fix read replica halt issue (#869)
+- [15041daf](https://github.com/kubedb/postgres/commit/15041daff) Ignore Read Replica While Moving To HA (#868)
+- [e61a0166](https://github.com/kubedb/postgres/commit/e61a01666) Change label patch procedure for database pods (#866)
+- [8b171999](https://github.com/kubedb/postgres/commit/8b171999b) Fix Standalone to HA Scaling (#865)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.25.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.25.0)

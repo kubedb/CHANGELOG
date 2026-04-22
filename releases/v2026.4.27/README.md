@@ -288,6 +288,20 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.57.0](https://github.com/kubedb/mongodb/releases/tag/v0.57.0)
+
+- [5369fa5a](https://github.com/kubedb/mongodb/commit/5369fa5a4) Prepare for release v0.57.0 (#755)
+- [5d951fbc](https://github.com/kubedb/mongodb/commit/5d951fbcb) Configure dependabot refresh schedule (#754)
+- [7a809347](https://github.com/kubedb/mongodb/commit/7a8093470) Configure dependabot refresh schedule (#753)
+- [8d3533f2](https://github.com/kubedb/mongodb/commit/8d3533f2f) Prepare for release v0.57.0-rc.0 (#750)
+- [4eb07bb4](https://github.com/kubedb/mongodb/commit/4eb07bb40) Fix repo name & oplog-restore job name (#748)
+- [5ba17db6](https://github.com/kubedb/mongodb/commit/5ba17db61) Add Ops manager sharding (#737)
+- [5234f14d](https://github.com/kubedb/mongodb/commit/5234f14d0) Increase Ops Parallel Timeout (#745)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.25.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.25.0)

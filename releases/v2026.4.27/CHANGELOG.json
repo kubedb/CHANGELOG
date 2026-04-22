@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:43:43.744978643Z",
+  "release_date": "2026-04-22T14:44:02.857247151Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -789,6 +789,44 @@
             {
               "SHA": "00be19c5",
               "Subject": "Add Milvus Monitoring (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.57.0",
+          "commits": [
+            {
+              "SHA": "5369fa5a4",
+              "Subject": "Prepare for release v0.57.0 (#755)"
+            },
+            {
+              "SHA": "5d951fbcb",
+              "Subject": "Configure dependabot refresh schedule (#754)"
+            },
+            {
+              "SHA": "7a8093470",
+              "Subject": "Configure dependabot refresh schedule (#753)"
+            },
+            {
+              "SHA": "8d3533f2f",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#750)"
+            },
+            {
+              "SHA": "4eb07bb40",
+              "Subject": "Fix repo name & oplog-restore job name (#748)"
+            },
+            {
+              "SHA": "5ba17db61",
+              "Subject": "Add Ops manager sharding (#737)"
+            },
+            {
+              "SHA": "5234f14d0",
+              "Subject": "Increase Ops Parallel Timeout (#745)"
             }
           ]
         }

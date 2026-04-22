@@ -310,6 +310,18 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.40.0](https://github.com/kubedb/kibana/releases/tag/v0.40.0)
+
+- [a125f71e](https://github.com/kubedb/kibana/commit/a125f71e) Prepare for release v0.40.0 (#177)
+- [af12545d](https://github.com/kubedb/kibana/commit/af12545d) Configure dependabot refresh schedule (#176)
+- [aa8a3fa5](https://github.com/kubedb/kibana/commit/aa8a3fa5) Configure dependabot refresh schedule (#175)
+- [dc91ad31](https://github.com/kubedb/kibana/commit/dc91ad31) Prepare for release v0.40.0-rc.0 (#174)
+- [f37fab91](https://github.com/kubedb/kibana/commit/f37fab91) fix predicate (#173)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.27.0)

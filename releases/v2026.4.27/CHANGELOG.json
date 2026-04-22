@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T17:22:45.036904464Z",
+  "release_date": "2026-04-22T17:22:55.917091566Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -841,6 +841,36 @@
             {
               "SHA": "4cbe05d9",
               "Subject": "Increase Ops Parallel Timeout (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "a125f71e",
+              "Subject": "Prepare for release v0.40.0 (#177)"
+            },
+            {
+              "SHA": "af12545d",
+              "Subject": "Configure dependabot refresh schedule (#176)"
+            },
+            {
+              "SHA": "aa8a3fa5",
+              "Subject": "Configure dependabot refresh schedule (#175)"
+            },
+            {
+              "SHA": "dc91ad31",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#174)"
+            },
+            {
+              "SHA": "f37fab91",
+              "Subject": "fix predicate (#173)"
             }
           ]
         }

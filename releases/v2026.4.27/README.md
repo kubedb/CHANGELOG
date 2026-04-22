@@ -674,3 +674,16 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.19.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.19.0)
+
+- [9df74bd0](https://github.com/kubedb/zookeeper-restic-plugin/commit/9df74bd0) Prepare for release v0.19.0 (#66)
+- [e7662aa2](https://github.com/kubedb/zookeeper-restic-plugin/commit/e7662aa2) Bump RESTIC_VERSION to 0.18.1-20260421 (#65)
+- [0ce9d404](https://github.com/kubedb/zookeeper-restic-plugin/commit/0ce9d404) Configure dependabot refresh schedule (#64)
+- [5e490249](https://github.com/kubedb/zookeeper-restic-plugin/commit/5e490249) Configure dependabot refresh schedule (#63)
+- [efcb15ba](https://github.com/kubedb/zookeeper-restic-plugin/commit/efcb15ba) Prepare for release v0.19.0-rc.0 (#61)
+- [4dc926fc](https://github.com/kubedb/zookeeper-restic-plugin/commit/4dc926fc) Incorporate changes for the AWS credless feature (#60)
+
+
+

@@ -137,6 +137,19 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.19.0](https://github.com/kubedb/ferretdb/releases/tag/v0.19.0)
+
+- [805d066b](https://github.com/kubedb/ferretdb/commit/805d066b) Prepare for release v0.19.0 (#116)
+- [6650292a](https://github.com/kubedb/ferretdb/commit/6650292a) Configure dependabot refresh schedule (#115)
+- [04040043](https://github.com/kubedb/ferretdb/commit/04040043) Configure dependabot refresh schedule (#114)
+- [f3d696bc](https://github.com/kubedb/ferretdb/commit/f3d696bc) Prepare for release v0.19.0-rc.0 (#113)
+- [a21800b2](https://github.com/kubedb/ferretdb/commit/a21800b2) Add sharding facility for Ops-Requests (#102)
+- [e8b49242](https://github.com/kubedb/ferretdb/commit/e8b49242) Ops-Req Fix (#109)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.10.0](https://github.com/kubedb/hazelcast/releases/tag/v0.10.0)

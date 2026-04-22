@@ -420,6 +420,17 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.43.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.43.0)
+
+- [f39b5c5d](https://github.com/kubedb/redis-coordinator/commit/f39b5c5d) Prepare for release v0.43.0 (#157)
+- [f508e9dc](https://github.com/kubedb/redis-coordinator/commit/f508e9dc) Configure dependabot refresh schedule (#156)
+- [2edf641a](https://github.com/kubedb/redis-coordinator/commit/2edf641a) Configure dependabot refresh schedule (#155)
+- [01f86fc3](https://github.com/kubedb/redis-coordinator/commit/01f86fc3) Prepare for release v0.43.0-rc.0 (#154)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.49.0](https://github.com/kubedb/tests/releases/tag/v0.49.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:49:32.764303693Z",
+  "release_date": "2026-04-22T14:49:40.143871811Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1301,6 +1301,24 @@
             {
               "SHA": "8656b80f",
               "Subject": "Fix multiple Ops Request Goes in Progressing issue (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "1ae0349",
+              "Subject": "Configure dependabot refresh schedule (#24)"
+            },
+            {
+              "SHA": "df15bc6",
+              "Subject": "Configure dependabot refresh schedule (#23)"
             }
           ]
         }

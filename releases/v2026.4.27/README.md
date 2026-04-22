@@ -488,6 +488,15 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.18.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.18.0)
+
+- [1ae0349](https://github.com/kubedb/mssqlserver-archiver/commit/1ae0349) Configure dependabot refresh schedule (#24)
+- [df15bc6](https://github.com/kubedb/mssqlserver-archiver/commit/df15bc6) Configure dependabot refresh schedule (#23)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.18.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.18.0)

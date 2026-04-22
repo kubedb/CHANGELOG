@@ -124,6 +124,17 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.5.0](https://github.com/kubedb/db2/releases/tag/v0.5.0)
+
+- [f160bc0a](https://github.com/kubedb/db2/commit/f160bc0a) Prepare for release v0.5.0 (#22)
+- [e1001311](https://github.com/kubedb/db2/commit/e1001311) Configure dependabot refresh schedule (#21)
+- [1c894a64](https://github.com/kubedb/db2/commit/1c894a64) Prepare for release v0.5.0-rc.0 (#20)
+- [bf277e9a](https://github.com/kubedb/db2/commit/bf277e9a) fix predicate (#19)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.19.0](https://github.com/kubedb/druid/releases/tag/v0.19.0)

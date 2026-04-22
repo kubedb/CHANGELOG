@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T17:22:55.917091566Z",
+  "release_date": "2026-04-22T17:37:23.858430108Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -2413,6 +2413,40 @@
             {
               "SHA": "76f7731c5",
               "Subject": "Add Postgres ReadReplica Test (#514)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "09c4dcc4",
+              "Subject": "Prepare for release v0.40.0 (#199)"
+            },
+            {
+              "SHA": "996b2c98",
+              "Subject": "Configure dependabot refresh schedule (#198)"
+            },
+            {
+              "SHA": "656c975b",
+              "Subject": "Merge pull request #197 from kubedb/v2026.4.13-rc.0-master"
+            },
+            {
+              "SHA": "d2c18c07",
+              "Subject": "Prepare for release v0.40.0-rc.0"
+            },
+            {
+              "SHA": "34fae698",
+              "Subject": "Return full list if preset's available is empty (#196)"
+            },
+            {
+              "SHA": "ee6e0343",
+              "Subject": "Pgpool Configuration API fix (#194)"
             }
           ]
         }

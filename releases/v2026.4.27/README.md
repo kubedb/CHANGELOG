@@ -937,6 +937,19 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.40.0](https://github.com/kubedb/ui-server/releases/tag/v0.40.0)
+
+- [09c4dcc4](https://github.com/kubedb/ui-server/commit/09c4dcc4) Prepare for release v0.40.0 (#199)
+- [996b2c98](https://github.com/kubedb/ui-server/commit/996b2c98) Configure dependabot refresh schedule (#198)
+- [656c975b](https://github.com/kubedb/ui-server/commit/656c975b) Merge pull request #197 from kubedb/v2026.4.13-rc.0-master
+- [d2c18c07](https://github.com/kubedb/ui-server/commit/d2c18c07) Prepare for release v0.40.0-rc.0
+- [34fae698](https://github.com/kubedb/ui-server/commit/34fae698) Return full list if preset's available is empty (#196)
+- [ee6e0343](https://github.com/kubedb/ui-server/commit/ee6e0343) Pgpool Configuration API fix (#194)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.5.0](https://github.com/kubedb/weaviate/releases/tag/v0.5.0)

@@ -441,6 +441,19 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.18.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.18.0)
+
+- [feef31e](https://github.com/kubedb/mssqlserver-walg-plugin/commit/feef31e) Prepare for release v0.18.0 (#55)
+- [bc91aed](https://github.com/kubedb/mssqlserver-walg-plugin/commit/bc91aed) Configure dependabot refresh schedule (#54)
+- [64f286f](https://github.com/kubedb/mssqlserver-walg-plugin/commit/64f286f) Configure dependabot refresh schedule (#53)
+- [028bad5](https://github.com/kubedb/mssqlserver-walg-plugin/commit/028bad5) Prepare for release v0.18.0-rc.0 (#52)
+- [911601f](https://github.com/kubedb/mssqlserver-walg-plugin/commit/911601f) Register scheme for endpointslice
+- [fb3d7bd](https://github.com/kubedb/mssqlserver-walg-plugin/commit/fb3d7bd) Register scheme for endpointslice
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.57.0](https://github.com/kubedb/mysql/releases/tag/v0.57.0)

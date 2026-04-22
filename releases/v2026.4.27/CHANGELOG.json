@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:42:26.984224326Z",
+  "release_date": "2026-04-22T14:42:34.578676054Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -269,6 +269,40 @@
             {
               "SHA": "ba0b1210",
               "Subject": "Add documentdb (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "9d5f47a3",
+              "Subject": "Prepare for release v0.22.0 (#73)"
+            },
+            {
+              "SHA": "44ccb689",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#72)"
+            },
+            {
+              "SHA": "5eb81552",
+              "Subject": "Configure dependabot refresh schedule (#71)"
+            },
+            {
+              "SHA": "5d7dff71",
+              "Subject": "Configure dependabot refresh schedule (#70)"
+            },
+            {
+              "SHA": "157f4431",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "7069528b",
+              "Subject": "Incorporate changes for the AWS credless feature (#67)"
             }
           ]
         }

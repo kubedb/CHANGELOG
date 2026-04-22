@@ -86,6 +86,19 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.22.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.22.0)
+
+- [9d5f47a3](https://github.com/kubedb/dashboard-restic-plugin/commit/9d5f47a3) Prepare for release v0.22.0 (#73)
+- [44ccb689](https://github.com/kubedb/dashboard-restic-plugin/commit/44ccb689) Bump RESTIC_VERSION to 0.18.1-20260421 (#72)
+- [5eb81552](https://github.com/kubedb/dashboard-restic-plugin/commit/5eb81552) Configure dependabot refresh schedule (#71)
+- [5d7dff71](https://github.com/kubedb/dashboard-restic-plugin/commit/5d7dff71) Configure dependabot refresh schedule (#70)
+- [157f4431](https://github.com/kubedb/dashboard-restic-plugin/commit/157f4431) Prepare for release v0.22.0-rc.0 (#68)
+- [7069528b](https://github.com/kubedb/dashboard-restic-plugin/commit/7069528b) Incorporate changes for the AWS credless feature (#67)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.19.0](https://github.com/kubedb/db-client-go/releases/tag/v0.19.0)

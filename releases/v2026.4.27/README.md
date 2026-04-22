@@ -43,6 +43,19 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.19.0](https://github.com/kubedb/crd-manager/releases/tag/v0.19.0)
+
+- [d9566bb3](https://github.com/kubedb/crd-manager/commit/d9566bb3) Prepare for release v0.19.0 (#130)
+- [2ed40e64](https://github.com/kubedb/crd-manager/commit/2ed40e64) Configure dependabot refresh schedule (#129)
+- [9245b746](https://github.com/kubedb/crd-manager/commit/9245b746) Configure dependabot refresh schedule (#128)
+- [89863915](https://github.com/kubedb/crd-manager/commit/89863915) Add missing CRDs: IgniteAutoscaler, HazelcastAutoscaler, Neo4jOpsRequest, QdrantOpsRequest (#126)
+- [cbedf109](https://github.com/kubedb/crd-manager/commit/cbedf109) Prepare for release v0.19.0-rc.0 (#125)
+- [ba0b1210](https://github.com/kubedb/crd-manager/commit/ba0b1210) Add documentdb (#115)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.19.0](https://github.com/kubedb/db-client-go/releases/tag/v0.19.0)

@@ -43,6 +43,19 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.17.0](https://github.com/kubedb/cassandra/releases/tag/v0.17.0)
+
+- [990b84e6](https://github.com/kubedb/cassandra/commit/990b84e6) Prepare for release v0.17.0 (#78)
+- [581dd6c7](https://github.com/kubedb/cassandra/commit/581dd6c7) fix-volume-expansion-edit (#77)
+- [c27307bb](https://github.com/kubedb/cassandra/commit/c27307bb) fix-volume-expansion (#76)
+- [b0cc6961](https://github.com/kubedb/cassandra/commit/b0cc6961) Configure dependabot refresh schedule (#75)
+- [d74a7a9d](https://github.com/kubedb/cassandra/commit/d74a7a9d) Prepare for release v0.17.0-rc.0 (#73)
+- [693210e7](https://github.com/kubedb/cassandra/commit/693210e7) Add Sharding Facility for Ops-Request (#70)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.11.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.11.0)

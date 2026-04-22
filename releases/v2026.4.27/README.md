@@ -125,6 +125,19 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.35.0](https://github.com/kubedb/kafka/releases/tag/v0.35.0)
+
+- [6ce1397a](https://github.com/kubedb/kafka/commit/6ce1397a) Prepare for release v0.35.0 (#191)
+- [832e9e7f](https://github.com/kubedb/kafka/commit/832e9e7f) Offline Volume Expansion Fix (#190)
+- [e62fe0c7](https://github.com/kubedb/kafka/commit/e62fe0c7) Configure dependabot refresh schedule (#189)
+- [75023940](https://github.com/kubedb/kafka/commit/75023940) Prepare for release v0.35.0-rc.0 (#188)
+- [bacc2f8b](https://github.com/kubedb/kafka/commit/bacc2f8b) Add Sharding Facility for Ops-Request (#185)
+- [4cbe05d9](https://github.com/kubedb/kafka/commit/4cbe05d9) Increase Ops Parallel Timeout (#183)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.15.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.15.0)

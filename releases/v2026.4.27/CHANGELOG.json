@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T11:41:56.274913619Z",
+  "release_date": "2026-04-22T14:37:18.131945954Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -219,6 +219,32 @@
             {
               "SHA": "d32ab714",
               "Subject": "Qdrant HTTP client moved from apimachinery (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "8cef25be",
+              "Subject": "Prepare for release v0.25.0 (#76)"
+            },
+            {
+              "SHA": "fde57433",
+              "Subject": "Configure dependabot refresh schedule (#75)"
+            },
+            {
+              "SHA": "a400c0f6",
+              "Subject": "Configure dependabot refresh schedule (#74)"
+            },
+            {
+              "SHA": "cd90f512",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#73)"
             }
           ]
         }

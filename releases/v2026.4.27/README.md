@@ -69,3 +69,14 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.25.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.25.0)
+
+- [8cef25be](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/8cef25be) Prepare for release v0.25.0 (#76)
+- [fde57433](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/fde57433) Configure dependabot refresh schedule (#75)
+- [a400c0f6](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/a400c0f6) Configure dependabot refresh schedule (#74)
+- [cd90f512](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/cd90f512) Prepare for release v0.25.0-rc.0 (#73)
+
+
+

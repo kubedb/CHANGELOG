@@ -222,6 +222,17 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.5.0](https://github.com/kubedb/weaviate/releases/tag/v0.5.0)
+
+- [31218a35](https://github.com/kubedb/weaviate/commit/31218a35) Prepare for release v0.5.0 (#28)
+- [4fc6dac2](https://github.com/kubedb/weaviate/commit/4fc6dac2) Configure dependabot refresh schedule (#27)
+- [4faa2d55](https://github.com/kubedb/weaviate/commit/4faa2d55) Prepare for release v0.5.0-rc.0 (#26)
+- [b1e926d7](https://github.com/kubedb/weaviate/commit/b1e926d7) fix predicate funcs (#25)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.12.0)

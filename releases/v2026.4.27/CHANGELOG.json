@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:37:18.131945954Z",
+  "release_date": "2026-04-22T14:37:28.135073433Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -245,6 +245,44 @@
             {
               "SHA": "cd90f512",
               "Subject": "Prepare for release v0.25.0-rc.0 (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "9f8fbdc3",
+              "Subject": "Prepare for release v0.25.0 (#104)"
+            },
+            {
+              "SHA": "e66cdfb3",
+              "Subject": "Configure dependabot refresh schedule (#103)"
+            },
+            {
+              "SHA": "3bfd085f",
+              "Subject": "Update Go version (#101)"
+            },
+            {
+              "SHA": "2036b224",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#100)"
+            },
+            {
+              "SHA": "943a8921",
+              "Subject": "Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.78.2 to 1.97.3 (#97)"
+            },
+            {
+              "SHA": "f8f0f633",
+              "Subject": "Bump go.opentelemetry.io/otel/sdk from 1.40.0 to 1.43.0 (#99)"
+            },
+            {
+              "SHA": "b01bd9c9",
+              "Subject": "update Go version and wal-g new version (#98)"
             }
           ]
         }

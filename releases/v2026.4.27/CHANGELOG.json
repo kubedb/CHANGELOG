@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:46:43.485697461Z",
+  "release_date": "2026-04-22T14:46:58.64375686Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1385,6 +1385,40 @@
             {
               "SHA": "d2f36b4",
               "Subject": "Prepare for release v0.10.0-rc.0 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "b10cd4ceb",
+              "Subject": "Prepare for release v0.51.0 (#449)"
+            },
+            {
+              "SHA": "84446e805",
+              "Subject": "Delete metrics exposter config secret (#448)"
+            },
+            {
+              "SHA": "4285acd48",
+              "Subject": "Configure dependabot refresh schedule (#447)"
+            },
+            {
+              "SHA": "9ab6296ae",
+              "Subject": "Configure dependabot refresh schedule (#446)"
+            },
+            {
+              "SHA": "618d161cb",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#445)"
+            },
+            {
+              "SHA": "d1e409623",
+              "Subject": "Add Sharding Facility for ops-request (#442)"
             }
           ]
         }

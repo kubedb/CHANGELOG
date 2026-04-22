@@ -518,6 +518,19 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.51.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.51.0)
+
+- [b10cd4ce](https://github.com/kubedb/percona-xtradb/commit/b10cd4ceb) Prepare for release v0.51.0 (#449)
+- [84446e80](https://github.com/kubedb/percona-xtradb/commit/84446e805) Delete metrics exposter config secret (#448)
+- [4285acd4](https://github.com/kubedb/percona-xtradb/commit/4285acd48) Configure dependabot refresh schedule (#447)
+- [9ab6296a](https://github.com/kubedb/percona-xtradb/commit/9ab6296ae) Configure dependabot refresh schedule (#446)
+- [618d161c](https://github.com/kubedb/percona-xtradb/commit/618d161cb) Prepare for release v0.51.0-rc.0 (#445)
+- [d1e40962](https://github.com/kubedb/percona-xtradb/commit/d1e409623) Add Sharding Facility for ops-request (#442)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.37.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.37.0)

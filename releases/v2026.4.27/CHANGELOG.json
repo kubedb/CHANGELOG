@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:47:46.568259963Z",
+  "release_date": "2026-04-22T14:48:26.45950693Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1405,6 +1405,24 @@
             {
               "SHA": "888a4720",
               "Subject": "Incorporate changes for the AWS credless feature (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "aacf7fa",
+              "Subject": "Configure dependabot refresh schedule (#57)"
+            },
+            {
+              "SHA": "37d1624",
+              "Subject": "Configure dependabot refresh schedule (#56)"
             }
           ]
         }

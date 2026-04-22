@@ -523,6 +523,15 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.42.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.42.0)
+
+- [aacf7fa](https://github.com/kubedb/mysql-router-init/commit/aacf7fa) Configure dependabot refresh schedule (#57)
+- [37d1624](https://github.com/kubedb/mysql-router-init/commit/37d1624) Configure dependabot refresh schedule (#56)
+
+
+
 ## [kubedb/neo4j](https://github.com/kubedb/neo4j)
 
 ### [v0.5.0](https://github.com/kubedb/neo4j/releases/tag/v0.5.0)

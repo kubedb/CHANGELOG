@@ -43,3 +43,16 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.19.0](https://github.com/kubedb/db-client-go/releases/tag/v0.19.0)
+
+- [a169f968](https://github.com/kubedb/db-client-go/commit/a169f968) Prepare for release v0.19.0 (#238)
+- [52036006](https://github.com/kubedb/db-client-go/commit/52036006) Configure dependabot refresh schedule (#237)
+- [19607748](https://github.com/kubedb/db-client-go/commit/19607748) Configure dependabot refresh schedule (#236)
+- [f3e2d74c](https://github.com/kubedb/db-client-go/commit/f3e2d74c) Prepare for release v0.19.0-rc.0 (#235)
+- [2bd0b01b](https://github.com/kubedb/db-client-go/commit/2bd0b01b) Add Neo4j Ops Req Function (#229)
+- [d32ab714](https://github.com/kubedb/db-client-go/commit/d32ab714) Qdrant HTTP client moved from apimachinery (#231)
+
+
+

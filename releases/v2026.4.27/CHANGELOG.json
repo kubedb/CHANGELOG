@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:39:54.623852436Z",
+  "release_date": "2026-04-22T14:40:12.10507603Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -393,6 +393,52 @@
             {
               "SHA": "9722d2ee",
               "Subject": "Incorporate changes for the AWS credless feature (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.57.0",
+          "commits": [
+            {
+              "SHA": "66db8c4b8",
+              "Subject": "Prepare for release v0.57.0 (#745)"
+            },
+            {
+              "SHA": "ce857001a",
+              "Subject": "Delete metrics-exporter-config secret (#744)"
+            },
+            {
+              "SHA": "9faeb2a08",
+              "Subject": "Configure dependabot refresh schedule (#743)"
+            },
+            {
+              "SHA": "449c5542c",
+              "Subject": "Configure dependabot refresh schedule (#742)"
+            },
+            {
+              "SHA": "34a01ae21",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#739)"
+            },
+            {
+              "SHA": "bfa854526",
+              "Subject": "Ensure cloud annotations to SA before sidekick creation (#736)"
+            },
+            {
+              "SHA": "a003be8d3",
+              "Subject": "Chaos Test: Update Health Check Query, Run Parallel Timeout Log (#735)"
+            },
+            {
+              "SHA": "74eae52fd",
+              "Subject": "Fix Azure Provider awsCAExist Panic (#734)"
+            },
+            {
+              "SHA": "cb2e10e8e",
+              "Subject": "Add sharding facility for Ops-Request (#723)"
             }
           ]
         }

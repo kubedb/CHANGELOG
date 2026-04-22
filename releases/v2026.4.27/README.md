@@ -135,6 +135,22 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.57.0](https://github.com/kubedb/mysql/releases/tag/v0.57.0)
+
+- [66db8c4b](https://github.com/kubedb/mysql/commit/66db8c4b8) Prepare for release v0.57.0 (#745)
+- [ce857001](https://github.com/kubedb/mysql/commit/ce857001a) Delete metrics-exporter-config secret (#744)
+- [9faeb2a0](https://github.com/kubedb/mysql/commit/9faeb2a08) Configure dependabot refresh schedule (#743)
+- [449c5542](https://github.com/kubedb/mysql/commit/449c5542c) Configure dependabot refresh schedule (#742)
+- [34a01ae2](https://github.com/kubedb/mysql/commit/34a01ae21) Prepare for release v0.57.0-rc.0 (#739)
+- [bfa85452](https://github.com/kubedb/mysql/commit/bfa854526) Ensure cloud annotations to SA before sidekick creation (#736)
+- [a003be8d](https://github.com/kubedb/mysql/commit/a003be8d3) Chaos Test: Update Health Check Query, Run Parallel Timeout Log (#735)
+- [74eae52f](https://github.com/kubedb/mysql/commit/74eae52fd) Fix Azure Provider awsCAExist Panic (#734)
+- [cb2e10e8](https://github.com/kubedb/mysql/commit/cb2e10e8e) Add sharding facility for Ops-Request (#723)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.25.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.25.0)

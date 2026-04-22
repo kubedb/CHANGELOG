@@ -742,6 +742,19 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.51.0](https://github.com/kubedb/proxysql/releases/tag/v0.51.0)
+
+- [34985f15](https://github.com/kubedb/proxysql/commit/34985f159) Prepare for release v0.51.0 (#429)
+- [32439267](https://github.com/kubedb/proxysql/commit/324392678) Configure dependabot refresh schedule (#428)
+- [05c70796](https://github.com/kubedb/proxysql/commit/05c707961) Configure dependabot refresh schedule (#427)
+- [47946ab8](https://github.com/kubedb/proxysql/commit/47946ab8c) Prepare for release v0.51.0-rc.0 (#426)
+- [c8839200](https://github.com/kubedb/proxysql/commit/c8839200c) Add Sharding Facility for Ops-Request (#423)
+- [ff797db4](https://github.com/kubedb/proxysql/commit/ff797db40) Fix multiple Ops Request Goes in Progressing issue (#421)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.5.0](https://github.com/kubedb/qdrant/releases/tag/v0.5.0)

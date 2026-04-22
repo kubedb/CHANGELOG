@@ -43,6 +43,24 @@
 
 
 
+## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
+
+### [v0.1.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.1.0)
+
+- [fcd4d572](https://github.com/kubedb/clickhouse-backup-plugin/commit/fcd4d572) Prepare for release v0.1.0 (#17)
+- [2401ac44](https://github.com/kubedb/clickhouse-backup-plugin/commit/2401ac44) Fix time format parsing issue (#16)
+- [672e7e6c](https://github.com/kubedb/clickhouse-backup-plugin/commit/672e7e6c) Configure dependabot refresh schedule (#15)
+- [532e2552](https://github.com/kubedb/clickhouse-backup-plugin/commit/532e2552) Configure dependabot refresh schedule (#14)
+- [b51a354e](https://github.com/kubedb/clickhouse-backup-plugin/commit/b51a354e) Prepare for release v0.1.0-rc.0 (#13)
+- [002d44d3](https://github.com/kubedb/clickhouse-backup-plugin/commit/002d44d3) Update component id
+- [54251996](https://github.com/kubedb/clickhouse-backup-plugin/commit/54251996) update deps and remove wrong replace (#12)
+- [8aea7054](https://github.com/kubedb/clickhouse-backup-plugin/commit/8aea7054) Use debin base image (#11)
+- [01c33fb7](https://github.com/kubedb/clickhouse-backup-plugin/commit/01c33fb7) Add ClickHouse Backup with native backup CLI
+- [8f3469e3](https://github.com/kubedb/clickhouse-backup-plugin/commit/8f3469e3) Fix makefile indentation (#5)
+- [d5cd3ff9](https://github.com/kubedb/clickhouse-backup-plugin/commit/d5cd3ff9) Publish Image for Redhat software certification (#1)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.19.0](https://github.com/kubedb/crd-manager/releases/tag/v0.19.0)

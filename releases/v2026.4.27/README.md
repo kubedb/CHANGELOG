@@ -192,6 +192,18 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.49.0](https://github.com/kubedb/tests/releases/tag/v0.49.0)
+
+- [af6fa871](https://github.com/kubedb/tests/commit/af6fa8712) Prepare for release v0.49.0 (#521)
+- [7086f3e0](https://github.com/kubedb/tests/commit/7086f3e0e) Configure dependabot refresh schedule (#520)
+- [dd86a543](https://github.com/kubedb/tests/commit/dd86a5437) Configure dependabot refresh schedule (#519)
+- [805c200f](https://github.com/kubedb/tests/commit/805c200f3) Prepare for release v0.49.0-rc.0 (#518)
+- [76f7731c](https://github.com/kubedb/tests/commit/76f7731c5) Add Postgres ReadReplica Test (#514)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.12.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.12.0)

@@ -1,0 +1,160 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.4.27",
+  "release_date": "2026-04-22T11:11:35.770965225Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.4.27",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.64.0",
+          "commits": [
+            {
+              "SHA": "c3ac2f620",
+              "Subject": "Use kubestash.dev/apimachinery v0.27.0 (#1660)"
+            },
+            {
+              "SHA": "c10232911",
+              "Subject": "Redis ACL update stuck (#1658)"
+            },
+            {
+              "SHA": "36d3d4d1a",
+              "Subject": "Fix volume expansion validation issue for all databases (#1655)"
+            },
+            {
+              "SHA": "9485c5e71",
+              "Subject": "Delete metrics-exporter-config secret on wipeout (#1657)"
+            },
+            {
+              "SHA": "f4dbf42b5",
+              "Subject": "Add Neo4j update version, volume Expansion Ops Api (#1643)"
+            },
+            {
+              "SHA": "aa07ae212",
+              "Subject": "Configure dependabot refresh schedule (#1652)"
+            },
+            {
+              "SHA": "22d420571",
+              "Subject": "Test against k8s 1.35 (#1651)"
+            },
+            {
+              "SHA": "faed84a4c",
+              "Subject": "Update documentdb short name code (#1650)"
+            },
+            {
+              "SHA": "3a8dc30be",
+              "Subject": "fix: register Ignite autoscaler (#1649)"
+            },
+            {
+              "SHA": "0dd1d3155",
+              "Subject": "Update for release KubeStash@v2026.4.13-rc.0 (#1647)"
+            },
+            {
+              "SHA": "d0174436f",
+              "Subject": "Update cassandra webhook (#1645)"
+            },
+            {
+              "SHA": "d64cb9b9e",
+              "Subject": "change-ConfigSecretName-func (#1642)"
+            },
+            {
+              "SHA": "e7cf45b22",
+              "Subject": "Add type constants for init backup check (#1641)"
+            },
+            {
+              "SHA": "f029669d5",
+              "Subject": "add-oracle-config-validator (#1639)"
+            },
+            {
+              "SHA": "124911359",
+              "Subject": "Add support for documentdb (#1604)"
+            },
+            {
+              "SHA": "c8d2f8a5f",
+              "Subject": "Add Neo4j Opsreq Api (#1615)"
+            },
+            {
+              "SHA": "93a538c94",
+              "Subject": "Pgpool RemoveCustomConfig on LoadBalancingSpec (#1636)"
+            },
+            {
+              "SHA": "8e275216c",
+              "Subject": "Qdrant Ops Request  (#1631)"
+            },
+            {
+              "SHA": "d585bc1d6",
+              "Subject": "Make mssql tls field required, Refactor PredicateFuncs (#1624)"
+            },
+            {
+              "SHA": "b20e1ee7c",
+              "Subject": "Cleanup CVEs (#1638)"
+            },
+            {
+              "SHA": "4863df4ef",
+              "Subject": "Add double-optin utils; Add GetPredicateFuncsForSelf() (#1637)"
+            },
+            {
+              "SHA": "48f4c200a",
+              "Subject": "Add HanaDB monitoring (#1583)"
+            },
+            {
+              "SHA": "7c1e745e1",
+              "Subject": "Add Generic Archiver to Database Mapping Functions (#1634)"
+            },
+            {
+              "SHA": "f57d49cde",
+              "Subject": "Add Milvus Monitoring Support (#1590)"
+            },
+            {
+              "SHA": "08ca9f428",
+              "Subject": "Add mssql arbiter vertical scaling api (#1626)"
+            },
+            {
+              "SHA": "f129d2fc0",
+              "Subject": "Allow parallel processing of ops with the same name in diff namespaces (#1617)"
+            },
+            {
+              "SHA": "d700721a6",
+              "Subject": "Add oracle init spec (#1599)"
+            },
+            {
+              "SHA": "1832c036f",
+              "Subject": "Fix MySQL VolumeExpansion (#1633)"
+            },
+            {
+              "SHA": "b790503c8",
+              "Subject": "Fix DB Container Resource Limit, Request (#1630)"
+            },
+            {
+              "SHA": "0fc180f72",
+              "Subject": "Add separate api fields for load balancing specification (#1618)"
+            },
+            {
+              "SHA": "c166dda1d",
+              "Subject": "Fix oracle observer (#1627)"
+            },
+            {
+              "SHA": "317d979b6",
+              "Subject": "fix pgbouncer webhook (#1616)"
+            },
+            {
+              "SHA": "52687dc9f",
+              "Subject": "remove validation for initcontainer (#1625)"
+            },
+            {
+              "SHA": "2e3d3bce5",
+              "Subject": "Mark archiver in PostgresVersion as optional (#1621)"
+            },
+            {
+              "SHA": "60eb421b3",
+              "Subject": "Use cert-manager v1.19.4 (#1619)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

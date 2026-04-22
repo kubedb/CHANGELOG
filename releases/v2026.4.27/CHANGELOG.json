@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:40:20.573543126Z",
+  "release_date": "2026-04-22T14:40:30.100515886Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -273,6 +273,40 @@
             {
               "SHA": "d32ab714",
               "Subject": "Qdrant HTTP client moved from apimachinery (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "f649744f",
+              "Subject": "Prepare for release v0.27.0 (#96)"
+            },
+            {
+              "SHA": "43b4eb14",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#95)"
+            },
+            {
+              "SHA": "779030ba",
+              "Subject": "Configure dependabot refresh schedule (#94)"
+            },
+            {
+              "SHA": "b903f26d",
+              "Subject": "Configure dependabot refresh schedule (#93)"
+            },
+            {
+              "SHA": "cd3259d0",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "6bbe9c64",
+              "Subject": "Incorporate changes for the AWS credless feature (#90)"
             }
           ]
         }

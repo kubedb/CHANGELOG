@@ -464,6 +464,17 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.19.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.19.0)
+
+- [89cacaf6](https://github.com/kubedb/singlestore-coordinator/commit/89cacaf6) Prepare for release v0.19.0 (#69)
+- [4b0e55b2](https://github.com/kubedb/singlestore-coordinator/commit/4b0e55b2) Configure dependabot refresh schedule (#68)
+- [a7242e7c](https://github.com/kubedb/singlestore-coordinator/commit/a7242e7c) Configure dependabot refresh schedule (#67)
+- [7c86dbb2](https://github.com/kubedb/singlestore-coordinator/commit/7c86dbb2) Prepare for release v0.19.0-rc.0 (#65)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.49.0](https://github.com/kubedb/tests/releases/tag/v0.49.0)

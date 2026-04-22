@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:46:58.64375686Z",
+  "release_date": "2026-04-22T14:47:15.465497844Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -457,6 +457,40 @@
             {
               "SHA": "323de9c4",
               "Subject": "Add sharding facility for ops-request (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.64.0",
+          "commits": [
+            {
+              "SHA": "295aa682d",
+              "Subject": "Prepare for release v0.64.0 (#807)"
+            },
+            {
+              "SHA": "1d4e0ea30",
+              "Subject": "Fix Volume Expansion Opsreq bug (#806)"
+            },
+            {
+              "SHA": "aaa9bf109",
+              "Subject": "Configure dependabot refresh schedule (#805)"
+            },
+            {
+              "SHA": "ab8ad8879",
+              "Subject": "Prepare for release v0.64.0-rc.0 (#803)"
+            },
+            {
+              "SHA": "41039a44a",
+              "Subject": "Add Ops manager sharding (#791)"
+            },
+            {
+              "SHA": "3ab32aaf2",
+              "Subject": "Increase Ops Parallel Timeout (#799)"
             }
           ]
         }

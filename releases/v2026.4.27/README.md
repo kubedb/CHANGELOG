@@ -160,6 +160,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.64.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.64.0)
+
+- [295aa682](https://github.com/kubedb/elasticsearch/commit/295aa682d) Prepare for release v0.64.0 (#807)
+- [1d4e0ea3](https://github.com/kubedb/elasticsearch/commit/1d4e0ea30) Fix Volume Expansion Opsreq bug (#806)
+- [aaa9bf10](https://github.com/kubedb/elasticsearch/commit/aaa9bf109) Configure dependabot refresh schedule (#805)
+- [ab8ad887](https://github.com/kubedb/elasticsearch/commit/ab8ad8879) Prepare for release v0.64.0-rc.0 (#803)
+- [41039a44](https://github.com/kubedb/elasticsearch/commit/41039a44a) Add Ops manager sharding (#791)
+- [3ab32aaf](https://github.com/kubedb/elasticsearch/commit/3ab32aaf2) Increase Ops Parallel Timeout (#799)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.27.0)

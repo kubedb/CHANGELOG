@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:41:27.681942574Z",
+  "release_date": "2026-04-22T14:41:43.353102252Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -431,6 +431,56 @@
             {
               "SHA": "3549908d",
               "Subject": "Prepare for release v0.15.0-rc.0 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "95c40d9d2",
+              "Subject": "Prepare for release v0.48.0 (#393)"
+            },
+            {
+              "SHA": "14558b159",
+              "Subject": "Delete metrics-exporter-config secret (#392)"
+            },
+            {
+              "SHA": "0dba0b886",
+              "Subject": "Ensure cloud annotations to SA before sidekick creation (#386)"
+            },
+            {
+              "SHA": "688a56674",
+              "Subject": "Configure dependabot refresh schedule (#391)"
+            },
+            {
+              "SHA": "5d5c0b7d8",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#388)"
+            },
+            {
+              "SHA": "263e8d005",
+              "Subject": "added env for binlog cleanup (#385)"
+            },
+            {
+              "SHA": "59deb42af",
+              "Subject": "Add Binlog File Prefix env (#384)"
+            },
+            {
+              "SHA": "d8205512a",
+              "Subject": "Fix MariaDB Standalone Volume Expansion (#382)"
+            },
+            {
+              "SHA": "3baa4a87d",
+              "Subject": "Add sharding facility for Ops-Request (#371)"
+            },
+            {
+              "SHA": "7fd16637e",
+              "Subject": "Increase timeout period for Mariadb ops (#380)"
             }
           ]
         }

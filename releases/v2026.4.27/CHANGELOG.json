@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:45:11.800909015Z",
+  "release_date": "2026-04-22T14:45:22.052346051Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1069,6 +1069,44 @@
             {
               "SHA": "cb2e10e8e",
               "Subject": "Add sharding facility for Ops-Request (#723)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "50815f7d",
+              "Subject": "Prepare for release v0.25.0 (#102)"
+            },
+            {
+              "SHA": "f6bc1ac1",
+              "Subject": "Configure dependabot refresh schedule (#101)"
+            },
+            {
+              "SHA": "23d32e5d",
+              "Subject": "Configure dependabot refresh schedule (#100)"
+            },
+            {
+              "SHA": "e87da317",
+              "Subject": "update go version for release ci fix (#99)"
+            },
+            {
+              "SHA": "a98f9c0a",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#97)"
+            },
+            {
+              "SHA": "1fbae6ea",
+              "Subject": "Update Wal-G Version to v2026.3.30 (#95)"
+            },
+            {
+              "SHA": "0cf2431c",
+              "Subject": "Keep old log stats when sidekick pod restarts (#91)"
             }
           ]
         }

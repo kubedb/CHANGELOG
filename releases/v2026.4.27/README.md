@@ -172,6 +172,23 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.19.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.19.0)
+
+- [b90a9ea2](https://github.com/kubedb/mssqlserver/commit/b90a9ea2) Prepare for release v0.19.0 (#128)
+- [4bed5e0e](https://github.com/kubedb/mssqlserver/commit/4bed5e0e) Offline Volume Expansion Fix (#127)
+- [d72370a5](https://github.com/kubedb/mssqlserver/commit/d72370a5) Configure dependabot refresh schedule (#126)
+- [1e84f01f](https://github.com/kubedb/mssqlserver/commit/1e84f01f) Configure dependabot refresh schedule (#125)
+- [d997b056](https://github.com/kubedb/mssqlserver/commit/d997b056) Prepare for release v0.19.0-rc.0 (#123)
+- [a72de37f](https://github.com/kubedb/mssqlserver/commit/a72de37f) Fix error handling for NewMSSQLServerReconcileState() (#122)
+- [704443fb](https://github.com/kubedb/mssqlserver/commit/704443fb) Add Shard ops Support (#117)
+- [ad7d0b01](https://github.com/kubedb/mssqlserver/commit/ad7d0b01) Add vertical scaling support for coordinator, exporter, arbiter components (#118)
+- [615b8c1a](https://github.com/kubedb/mssqlserver/commit/615b8c1a) Reconcile DB while refered archiver update (#120)
+- [8656b80f](https://github.com/kubedb/mssqlserver/commit/8656b80f) Fix multiple Ops Request Goes in Progressing issue (#115)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.57.0](https://github.com/kubedb/mysql/releases/tag/v0.57.0)

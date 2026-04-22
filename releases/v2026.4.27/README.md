@@ -576,6 +576,19 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.19.0](https://github.com/kubedb/solr/releases/tag/v0.19.0)
+
+- [d4d7b833](https://github.com/kubedb/solr/commit/d4d7b833) Prepare for release v0.19.0 (#126)
+- [301b697f](https://github.com/kubedb/solr/commit/301b697f) Offline Volume Expansion Fix (#125)
+- [d255112f](https://github.com/kubedb/solr/commit/d255112f) Configure dependabot refresh schedule (#124)
+- [709184eb](https://github.com/kubedb/solr/commit/709184eb) Prepare for release v0.19.0-rc.0 (#123)
+- [7fabe142](https://github.com/kubedb/solr/commit/7fabe142) Add sharding facility for Ops-Requests (#112)
+- [67fe597a](https://github.com/kubedb/solr/commit/67fe597a) Ops-Req Fix (#119)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.49.0](https://github.com/kubedb/tests/releases/tag/v0.49.0)

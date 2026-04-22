@@ -552,6 +552,19 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.27.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.27.0)
+
+- [df86bb19](https://github.com/kubedb/redis-restic-plugin/commit/df86bb19) Prepare for release v0.27.0 (#103)
+- [ca23d967](https://github.com/kubedb/redis-restic-plugin/commit/ca23d967) Bump RESTIC_VERSION to 0.18.1-20260421 (#102)
+- [b043e083](https://github.com/kubedb/redis-restic-plugin/commit/b043e083) Configure dependabot refresh schedule (#101)
+- [f301cd48](https://github.com/kubedb/redis-restic-plugin/commit/f301cd48) Configure dependabot refresh schedule (#100)
+- [52cc7c5f](https://github.com/kubedb/redis-restic-plugin/commit/52cc7c5f) Prepare for release v0.27.0-rc.0 (#98)
+- [fd1a9ec0](https://github.com/kubedb/redis-restic-plugin/commit/fd1a9ec0) Incorporate changes for the AWS credless feature (#97)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.19.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.19.0)

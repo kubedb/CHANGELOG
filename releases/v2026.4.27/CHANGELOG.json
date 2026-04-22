@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T17:21:56.825845167Z",
+  "release_date": "2026-04-22T17:22:06.622361078Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1011,6 +1011,28 @@
             {
               "SHA": "53447a78",
               "Subject": "Prepare for release v0.44.0-rc.0 (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "976621bf",
+              "Subject": "Prepare for release v0.24.0 (#75)"
+            },
+            {
+              "SHA": "5c212903",
+              "Subject": "Configure dependabot refresh schedule (#74)"
+            },
+            {
+              "SHA": "925ae43a",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#72)"
             }
           ]
         }

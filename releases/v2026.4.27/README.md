@@ -375,6 +375,16 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.24.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.24.0)
+
+- [976621bf](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/976621bf) Prepare for release v0.24.0 (#75)
+- [5c212903](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/5c212903) Configure dependabot refresh schedule (#74)
+- [925ae43a](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/925ae43a) Prepare for release v0.24.0-rc.0 (#72)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.22.0)

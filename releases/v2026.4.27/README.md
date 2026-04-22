@@ -99,6 +99,18 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.19.0](https://github.com/kubedb/druid/releases/tag/v0.19.0)
+
+- [b304b260](https://github.com/kubedb/druid/commit/b304b260) Prepare for release v0.19.0 (#128)
+- [67598e74](https://github.com/kubedb/druid/commit/67598e74) Fix Offline VolumeExpansion (#127)
+- [8ba485de](https://github.com/kubedb/druid/commit/8ba485de) Configure dependabot refresh schedule (#126)
+- [0c9f169a](https://github.com/kubedb/druid/commit/0c9f169a) Prepare for release v0.19.0-rc.0 (#125)
+- [323de9c4](https://github.com/kubedb/druid/commit/323de9c4) Add sharding facility for ops-request (#122)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.27.0)

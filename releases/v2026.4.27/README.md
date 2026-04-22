@@ -164,6 +164,22 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.5.0](https://github.com/kubedb/qdrant/releases/tag/v0.5.0)
+
+- [bcf12c03](https://github.com/kubedb/qdrant/commit/bcf12c03) Prepare for release v0.5.0 (#36)
+- [0bc2e4d5](https://github.com/kubedb/qdrant/commit/0bc2e4d5) Bug Fix (#35)
+- [783dd192](https://github.com/kubedb/qdrant/commit/783dd192) Offline Volume Expansion Fix (#34)
+- [5c011201](https://github.com/kubedb/qdrant/commit/5c011201) Configure dependabot refresh schedule (#33)
+- [f18cd566](https://github.com/kubedb/qdrant/commit/f18cd566) Configure dependabot refresh schedule (#32)
+- [b6158e90](https://github.com/kubedb/qdrant/commit/b6158e90) Prepare for release v0.5.0-rc.0 (#31)
+- [64feaac8](https://github.com/kubedb/qdrant/commit/64feaac8) update deps (#30)
+- [a7446a3a](https://github.com/kubedb/qdrant/commit/a7446a3a) Add Ops Request Support (#28)
+- [b547a2bb](https://github.com/kubedb/qdrant/commit/b547a2bb) Add Sharding Facility for Ops-Request (#25)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.19.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.19.0)

@@ -43,6 +43,18 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.11.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.11.0)
+
+- [99ef1c22](https://github.com/kubedb/cassandra-medusa-plugin/commit/99ef1c22) Prepare for release v0.11.0 (#35)
+- [ba3a4b55](https://github.com/kubedb/cassandra-medusa-plugin/commit/ba3a4b55) Configure dependabot refresh schedule (#34)
+- [c64ab302](https://github.com/kubedb/cassandra-medusa-plugin/commit/c64ab302) Configure dependabot refresh schedule (#33)
+- [1c52789e](https://github.com/kubedb/cassandra-medusa-plugin/commit/1c52789e) Test against k8s 1.35 (#32)
+- [7121c38b](https://github.com/kubedb/cassandra-medusa-plugin/commit/7121c38b) Prepare for release v0.11.0-rc.0 (#31)
+
+
+
 ## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
 
 ### [v0.1.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.1.0)

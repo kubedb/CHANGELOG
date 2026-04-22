@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:44:02.857247151Z",
+  "release_date": "2026-04-22T14:44:17.873186435Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1299,6 +1299,40 @@
             {
               "SHA": "34c289d5",
               "Subject": "Add Sharding Facility for Ops-Request (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.57.0",
+          "commits": [
+            {
+              "SHA": "680eaa9ec",
+              "Subject": "Prepare for release v0.57.0 (#638)"
+            },
+            {
+              "SHA": "7d78dfd9e",
+              "Subject": "Configure dependabot refresh schedule (#637)"
+            },
+            {
+              "SHA": "fc44407fc",
+              "Subject": "Configure dependabot refresh schedule (#636)"
+            },
+            {
+              "SHA": "2df711f4a",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#634)"
+            },
+            {
+              "SHA": "7d51add0f",
+              "Subject": "Add Ops manager sharding (#622)"
+            },
+            {
+              "SHA": "1cdb85c49",
+              "Subject": "Increase Ops Parallel Timeout (#630)"
             }
           ]
         }

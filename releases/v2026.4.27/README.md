@@ -709,6 +709,14 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.25.0](https://github.com/kubedb/provider-aws/releases/tag/v0.25.0)
+
+- [a619973](https://github.com/kubedb/provider-aws/commit/a619973) Configure dependabot refresh schedule (#42)
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.25.0](https://github.com/kubedb/provider-azure/releases/tag/v0.25.0)

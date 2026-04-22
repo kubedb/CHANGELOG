@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:49:27.282123556Z",
+  "release_date": "2026-04-22T14:49:32.764303693Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -1861,6 +1861,20 @@
             {
               "SHA": "d5c1805f",
               "Subject": "Incorporate changes for the AWS credless feature (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "a619973",
+              "Subject": "Configure dependabot refresh schedule (#42)"
             }
           ]
         }

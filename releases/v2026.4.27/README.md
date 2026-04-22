@@ -199,6 +199,19 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.5.0](https://github.com/kubedb/neo4j/releases/tag/v0.5.0)
+
+- [8a7b1696](https://github.com/kubedb/neo4j/commit/8a7b1696) Prepare for release v0.5.0 (#29)
+- [8d7a6886](https://github.com/kubedb/neo4j/commit/8d7a6886) Configure dependabot refresh schedule (#28)
+- [c57e8561](https://github.com/kubedb/neo4j/commit/c57e8561) Add Neo4j Ops Req  updVersion, volumeExpansion (#26)
+- [9e097389](https://github.com/kubedb/neo4j/commit/9e097389) Prepare for release v0.5.0-rc.0 (#27)
+- [2adf9978](https://github.com/kubedb/neo4j/commit/2adf9978) Add Neo4j Ops req (#22)
+- [176ddf86](https://github.com/kubedb/neo4j/commit/176ddf86) Add Sharding Facility for Ops-Request (#23)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.48.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.48.0)

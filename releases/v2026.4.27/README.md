@@ -150,6 +150,15 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.5.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.5.0)
+
+- [5cbc34b](https://github.com/kubedb/db2-coordinator/commit/5cbc34b) Configure dependabot refresh schedule (#8)
+- [382966b](https://github.com/kubedb/db2-coordinator/commit/382966b) Configure dependabot refresh schedule (#7)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.1.0](https://github.com/kubedb/documentdb/releases/tag/v0.1.0)

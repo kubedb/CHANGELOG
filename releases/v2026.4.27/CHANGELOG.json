@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:38:49.320599572Z",
+  "release_date": "2026-04-22T14:38:56.772422672Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -531,6 +531,36 @@
             {
               "SHA": "34c289d5",
               "Subject": "Add Sharding Facility for Ops-Request (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "1c67d63e",
+              "Subject": "Prepare for release v0.12.0 (#49)"
+            },
+            {
+              "SHA": "6be593b0",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#48)"
+            },
+            {
+              "SHA": "6199440e",
+              "Subject": "Configure dependabot refresh schedule (#47)"
+            },
+            {
+              "SHA": "2b54d4cd",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "9bd5434f",
+              "Subject": "Incorporate changes for the AWS credless feature (#44)"
             }
           ]
         }

@@ -277,6 +277,18 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.22.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.22.0)
+
+- [be3b7385](https://github.com/kubedb/mariadb-restic-plugin/commit/be3b7385) Prepare for release v0.22.0 (#86)
+- [f68e059d](https://github.com/kubedb/mariadb-restic-plugin/commit/f68e059d) Bump RESTIC_VERSION to 0.18.1-20260421 (#85)
+- [14c31f3b](https://github.com/kubedb/mariadb-restic-plugin/commit/14c31f3b) Configure dependabot refresh schedule (#84)
+- [1bfa01dd](https://github.com/kubedb/mariadb-restic-plugin/commit/1bfa01dd) Prepare for release v0.22.0-rc.0 (#81)
+- [9faf6576](https://github.com/kubedb/mariadb-restic-plugin/commit/9faf6576) Incorporate changes for the AWS credless feature (#80)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.57.0](https://github.com/kubedb/memcached/releases/tag/v0.57.0)

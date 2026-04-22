@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:45:22.052346051Z",
+  "release_date": "2026-04-22T14:45:30.246379966Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -763,6 +763,36 @@
             {
               "SHA": "185293f2",
               "Subject": "Keep old log stats when sidekick pod restarts (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "be3b7385",
+              "Subject": "Prepare for release v0.22.0 (#86)"
+            },
+            {
+              "SHA": "f68e059d",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#85)"
+            },
+            {
+              "SHA": "14c31f3b",
+              "Subject": "Configure dependabot refresh schedule (#84)"
+            },
+            {
+              "SHA": "1bfa01dd",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#81)"
+            },
+            {
+              "SHA": "9faf6576",
+              "Subject": "Incorporate changes for the AWS credless feature (#80)"
             }
           ]
         }

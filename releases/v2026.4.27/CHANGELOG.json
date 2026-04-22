@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:38:12.367861709Z",
+  "release_date": "2026-04-22T14:38:19.432201999Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -305,6 +305,40 @@
             {
               "SHA": "7954e97",
               "Subject": "Prepare for release v0.4.0-rc.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "47c763b6",
+              "Subject": "Prepare for release v0.27.0 (#123)"
+            },
+            {
+              "SHA": "4737d045",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#122)"
+            },
+            {
+              "SHA": "d9f373dc",
+              "Subject": "Configure dependabot refresh schedule (#121)"
+            },
+            {
+              "SHA": "af12c273",
+              "Subject": "Configure dependabot refresh schedule (#120)"
+            },
+            {
+              "SHA": "82226b2e",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#119)"
+            },
+            {
+              "SHA": "9722d2ee",
+              "Subject": "Incorporate changes for the AWS credless feature (#113)"
             }
           ]
         }

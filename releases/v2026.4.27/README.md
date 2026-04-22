@@ -104,6 +104,19 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.27.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.27.0)
+
+- [47c763b6](https://github.com/kubedb/mongodb-restic-plugin/commit/47c763b6) Prepare for release v0.27.0 (#123)
+- [4737d045](https://github.com/kubedb/mongodb-restic-plugin/commit/4737d045) Bump RESTIC_VERSION to 0.18.1-20260421 (#122)
+- [d9f373dc](https://github.com/kubedb/mongodb-restic-plugin/commit/d9f373dc) Configure dependabot refresh schedule (#121)
+- [af12c273](https://github.com/kubedb/mongodb-restic-plugin/commit/af12c273) Configure dependabot refresh schedule (#120)
+- [82226b2e](https://github.com/kubedb/mongodb-restic-plugin/commit/82226b2e) Prepare for release v0.27.0-rc.0 (#119)
+- [9722d2ee](https://github.com/kubedb/mongodb-restic-plugin/commit/9722d2ee) Incorporate changes for the AWS credless feature (#113)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.25.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.25.0)

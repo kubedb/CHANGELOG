@@ -43,6 +43,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.49.0](https://github.com/kubedb/autoscaler/releases/tag/v0.49.0)
+
+- [4954e41b](https://github.com/kubedb/autoscaler/commit/4954e41b) Prepare for release v0.49.0 (#291)
+- [411b251e](https://github.com/kubedb/autoscaler/commit/411b251e) Configure dependabot refresh schedule (#289)
+- [fee22931](https://github.com/kubedb/autoscaler/commit/fee22931) Prepare for release v0.49.0-rc.0 (#286)
+- [a24c29b8](https://github.com/kubedb/autoscaler/commit/a24c29b8) Add operator sharding support (#276)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.17.0](https://github.com/kubedb/cassandra/releases/tag/v0.17.0)

@@ -173,6 +173,18 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.12.0](https://github.com/kubedb/gitops/releases/tag/v0.12.0)
+
+- [9cbab643](https://github.com/kubedb/gitops/commit/9cbab643) Prepare for release v0.12.0 (#53)
+- [4447f92c](https://github.com/kubedb/gitops/commit/4447f92c) Configure dependabot refresh schedule (#52)
+- [64f35282](https://github.com/kubedb/gitops/commit/64f35282) Configure dependabot refresh schedule (#51)
+- [c0f14b75](https://github.com/kubedb/gitops/commit/c0f14b75) Prepare for release v0.12.0-rc.0 (#50)
+- [15a023ae](https://github.com/kubedb/gitops/commit/15a023ae) Fix gitops (#47)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.5.0](https://github.com/kubedb/hanadb/releases/tag/v0.5.0)

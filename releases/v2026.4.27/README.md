@@ -163,6 +163,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.57.0](https://github.com/kubedb/memcached/releases/tag/v0.57.0)
+
+- [9fb644d2](https://github.com/kubedb/memcached/commit/9fb644d26) Prepare for release v0.57.0 (#535)
+- [a9f93a3c](https://github.com/kubedb/memcached/commit/a9f93a3cc) Configure dependabot refresh schedule (#534)
+- [78caf0db](https://github.com/kubedb/memcached/commit/78caf0db1) Prepare for release v0.57.0-rc.0 (#533)
+- [bb514094](https://github.com/kubedb/memcached/commit/bb5140941) Shard ops support (#530)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.4.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.4.0)

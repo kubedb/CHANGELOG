@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:41:12.701098552Z",
+  "release_date": "2026-04-22T14:41:27.681942574Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -469,6 +469,32 @@
             {
               "SHA": "185293f2",
               "Subject": "Keep old log stats when sidekick pod restarts (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.57.0",
+          "commits": [
+            {
+              "SHA": "9fb644d26",
+              "Subject": "Prepare for release v0.57.0 (#535)"
+            },
+            {
+              "SHA": "a9f93a3cc",
+              "Subject": "Configure dependabot refresh schedule (#534)"
+            },
+            {
+              "SHA": "78caf0db1",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#533)"
+            },
+            {
+              "SHA": "bb5140941",
+              "Subject": "Shard ops support (#530)"
             }
           ]
         }

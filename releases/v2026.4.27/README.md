@@ -112,6 +112,17 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.15.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.15.0)
+
+- [8a0602f4](https://github.com/kubedb/kubedb-verifier/commit/8a0602f4) Prepare for release v0.15.0 (#48)
+- [323d90e5](https://github.com/kubedb/kubedb-verifier/commit/323d90e5) Configure dependabot refresh schedule (#47)
+- [669fa6c3](https://github.com/kubedb/kubedb-verifier/commit/669fa6c3) Configure dependabot refresh schedule (#46)
+- [3549908d](https://github.com/kubedb/kubedb-verifier/commit/3549908d) Prepare for release v0.15.0-rc.0 (#44)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.4.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.4.0)

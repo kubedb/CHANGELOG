@@ -827,6 +827,19 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.19.0](https://github.com/kubedb/zookeeper/releases/tag/v0.19.0)
+
+- [bd934f48](https://github.com/kubedb/zookeeper/commit/bd934f48) Prepare for release v0.19.0 (#118)
+- [88cc9518](https://github.com/kubedb/zookeeper/commit/88cc9518) fix vol exp (#117)
+- [bba031e5](https://github.com/kubedb/zookeeper/commit/bba031e5) Configure dependabot refresh schedule (#116)
+- [f745f1a2](https://github.com/kubedb/zookeeper/commit/f745f1a2) Configure dependabot refresh schedule (#115)
+- [f6bc123d](https://github.com/kubedb/zookeeper/commit/f6bc123d) Prepare for release v0.19.0-rc.0 (#114)
+- [11a11a14](https://github.com/kubedb/zookeeper/commit/11a11a14) Add Sharding Facility for Ops-Request (#111)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.19.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.19.0)

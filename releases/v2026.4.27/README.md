@@ -128,6 +128,16 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.48.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.48.0)
+
+- [9b36ab39](https://github.com/kubedb/pg-coordinator/commit/9b36ab39) Prepare for release v0.48.0 (#245)
+- [c9285b86](https://github.com/kubedb/pg-coordinator/commit/c9285b86) Configure dependabot refresh schedule (#244)
+- [2f9085df](https://github.com/kubedb/pg-coordinator/commit/2f9085df) Prepare for release v0.48.0-rc.0 (#241)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.25.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.25.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.4.27",
-  "release_date": "2026-04-22T14:38:19.432201999Z",
+  "release_date": "2026-04-22T14:38:42.284460925Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.4.27",
   "kubernetes_version": "1.28+",
@@ -365,6 +365,28 @@
             {
               "SHA": "cd90f512",
               "Subject": "Prepare for release v0.25.0-rc.0 (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "9b36ab39",
+              "Subject": "Prepare for release v0.48.0 (#245)"
+            },
+            {
+              "SHA": "c9285b86",
+              "Subject": "Configure dependabot refresh schedule (#244)"
+            },
+            {
+              "SHA": "2f9085df",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#241)"
             }
           ]
         }

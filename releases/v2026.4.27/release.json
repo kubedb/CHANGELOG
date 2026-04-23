@@ -428,7 +428,7 @@
         "commands": [
           "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
           "make docs",
-          "make set-version VERSION=${TAG}"
+          "make set-operator-version VERSION=${TAG}"
         ],
         "release_branch": "master",
         "changelog": "Skip"

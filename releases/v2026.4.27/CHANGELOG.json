@@ -1,0 +1,2854 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.4.27",
+  "release_date": "2026-04-23T03:41:40.59930172Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.4.27",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.64.0",
+          "commits": [
+            {
+              "SHA": "c3ac2f620",
+              "Subject": "Use kubestash.dev/apimachinery v0.27.0 (#1660)"
+            },
+            {
+              "SHA": "c10232911",
+              "Subject": "Redis ACL update stuck (#1658)"
+            },
+            {
+              "SHA": "36d3d4d1a",
+              "Subject": "Fix volume expansion validation issue for all databases (#1655)"
+            },
+            {
+              "SHA": "9485c5e71",
+              "Subject": "Delete metrics-exporter-config secret on wipeout (#1657)"
+            },
+            {
+              "SHA": "f4dbf42b5",
+              "Subject": "Add Neo4j update version, volume Expansion Ops Api (#1643)"
+            },
+            {
+              "SHA": "aa07ae212",
+              "Subject": "Configure dependabot refresh schedule (#1652)"
+            },
+            {
+              "SHA": "22d420571",
+              "Subject": "Test against k8s 1.35 (#1651)"
+            },
+            {
+              "SHA": "faed84a4c",
+              "Subject": "Update documentdb short name code (#1650)"
+            },
+            {
+              "SHA": "3a8dc30be",
+              "Subject": "fix: register Ignite autoscaler (#1649)"
+            },
+            {
+              "SHA": "0dd1d3155",
+              "Subject": "Update for release KubeStash@v2026.4.13-rc.0 (#1647)"
+            },
+            {
+              "SHA": "d0174436f",
+              "Subject": "Update cassandra webhook (#1645)"
+            },
+            {
+              "SHA": "d64cb9b9e",
+              "Subject": "change-ConfigSecretName-func (#1642)"
+            },
+            {
+              "SHA": "e7cf45b22",
+              "Subject": "Add type constants for init backup check (#1641)"
+            },
+            {
+              "SHA": "f029669d5",
+              "Subject": "add-oracle-config-validator (#1639)"
+            },
+            {
+              "SHA": "124911359",
+              "Subject": "Add support for documentdb (#1604)"
+            },
+            {
+              "SHA": "c8d2f8a5f",
+              "Subject": "Add Neo4j Opsreq Api (#1615)"
+            },
+            {
+              "SHA": "93a538c94",
+              "Subject": "Pgpool RemoveCustomConfig on LoadBalancingSpec (#1636)"
+            },
+            {
+              "SHA": "8e275216c",
+              "Subject": "Qdrant Ops Request  (#1631)"
+            },
+            {
+              "SHA": "d585bc1d6",
+              "Subject": "Make mssql tls field required, Refactor PredicateFuncs (#1624)"
+            },
+            {
+              "SHA": "b20e1ee7c",
+              "Subject": "Cleanup CVEs (#1638)"
+            },
+            {
+              "SHA": "4863df4ef",
+              "Subject": "Add double-optin utils; Add GetPredicateFuncsForSelf() (#1637)"
+            },
+            {
+              "SHA": "48f4c200a",
+              "Subject": "Add HanaDB monitoring (#1583)"
+            },
+            {
+              "SHA": "7c1e745e1",
+              "Subject": "Add Generic Archiver to Database Mapping Functions (#1634)"
+            },
+            {
+              "SHA": "f57d49cde",
+              "Subject": "Add Milvus Monitoring Support (#1590)"
+            },
+            {
+              "SHA": "08ca9f428",
+              "Subject": "Add mssql arbiter vertical scaling api (#1626)"
+            },
+            {
+              "SHA": "f129d2fc0",
+              "Subject": "Allow parallel processing of ops with the same name in diff namespaces (#1617)"
+            },
+            {
+              "SHA": "d700721a6",
+              "Subject": "Add oracle init spec (#1599)"
+            },
+            {
+              "SHA": "1832c036f",
+              "Subject": "Fix MySQL VolumeExpansion (#1633)"
+            },
+            {
+              "SHA": "b790503c8",
+              "Subject": "Fix DB Container Resource Limit, Request (#1630)"
+            },
+            {
+              "SHA": "0fc180f72",
+              "Subject": "Add separate api fields for load balancing specification (#1618)"
+            },
+            {
+              "SHA": "c166dda1d",
+              "Subject": "Fix oracle observer (#1627)"
+            },
+            {
+              "SHA": "317d979b6",
+              "Subject": "fix pgbouncer webhook (#1616)"
+            },
+            {
+              "SHA": "52687dc9f",
+              "Subject": "remove validation for initcontainer (#1625)"
+            },
+            {
+              "SHA": "2e3d3bce5",
+              "Subject": "Mark archiver in PostgresVersion as optional (#1621)"
+            },
+            {
+              "SHA": "60eb421b3",
+              "Subject": "Use cert-manager v1.19.4 (#1619)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "4954e41b",
+              "Subject": "Prepare for release v0.49.0 (#291)"
+            },
+            {
+              "SHA": "411b251e",
+              "Subject": "Configure dependabot refresh schedule (#289)"
+            },
+            {
+              "SHA": "fee22931",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#286)"
+            },
+            {
+              "SHA": "a24c29b8",
+              "Subject": "Add operator sharding support (#276)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "990b84e6",
+              "Subject": "Prepare for release v0.17.0 (#78)"
+            },
+            {
+              "SHA": "581dd6c7",
+              "Subject": "fix-volume-expansion-edit (#77)"
+            },
+            {
+              "SHA": "c27307bb",
+              "Subject": "fix-volume-expansion (#76)"
+            },
+            {
+              "SHA": "b0cc6961",
+              "Subject": "Configure dependabot refresh schedule (#75)"
+            },
+            {
+              "SHA": "d74a7a9d",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#73)"
+            },
+            {
+              "SHA": "693210e7",
+              "Subject": "Add Sharding Facility for Ops-Request (#70)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "99ef1c22",
+              "Subject": "Prepare for release v0.11.0 (#35)"
+            },
+            {
+              "SHA": "ba3a4b55",
+              "Subject": "Configure dependabot refresh schedule (#34)"
+            },
+            {
+              "SHA": "c64ab302",
+              "Subject": "Configure dependabot refresh schedule (#33)"
+            },
+            {
+              "SHA": "1c52789e",
+              "Subject": "Test against k8s 1.35 (#32)"
+            },
+            {
+              "SHA": "7121c38b",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.64.0",
+          "commits": [
+            {
+              "SHA": "2be81847d",
+              "Subject": "Prepare for release v0.64.0 (#823)"
+            },
+            {
+              "SHA": "7132dd00a",
+              "Subject": "Configure dependabot refresh schedule (#822)"
+            },
+            {
+              "SHA": "f718b38ed",
+              "Subject": "Configure dependabot refresh schedule (#821)"
+            },
+            {
+              "SHA": "5667872c0",
+              "Subject": "Test against k8s 1.35 (#820)"
+            },
+            {
+              "SHA": "35686912c",
+              "Subject": "Prepare for release v0.64.0-rc.0 (#818)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "6bc3a028",
+              "Subject": "Prepare for release v0.19.0 (#102)"
+            },
+            {
+              "SHA": "49cb281b",
+              "Subject": "Offline Volume Expansion Fix (#101)"
+            },
+            {
+              "SHA": "723034be",
+              "Subject": "Configure dependabot refresh schedule (#100)"
+            },
+            {
+              "SHA": "764c306d",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#97)"
+            },
+            {
+              "SHA": "cb3c3c9f",
+              "Subject": "Add shard ops support (#84)"
+            },
+            {
+              "SHA": "124f5124",
+              "Subject": "Update Cluster Health Check (#95)"
+            },
+            {
+              "SHA": "ed130007",
+              "Subject": "Ops-Req fix (#92)"
+            },
+            {
+              "SHA": "fa3541ab",
+              "Subject": "Fix multiple ops request in progressing state (#88)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "fcd4d572",
+              "Subject": "Prepare for release v0.1.0 (#17)"
+            },
+            {
+              "SHA": "2401ac44",
+              "Subject": "Fix time format parsing issue (#16)"
+            },
+            {
+              "SHA": "672e7e6c",
+              "Subject": "Configure dependabot refresh schedule (#15)"
+            },
+            {
+              "SHA": "532e2552",
+              "Subject": "Configure dependabot refresh schedule (#14)"
+            },
+            {
+              "SHA": "b51a354e",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "002d44d3",
+              "Subject": "Update component id"
+            },
+            {
+              "SHA": "54251996",
+              "Subject": "update deps and remove wrong replace (#12)"
+            },
+            {
+              "SHA": "8aea7054",
+              "Subject": "Use debin base image (#11)"
+            },
+            {
+              "SHA": "01c33fb7",
+              "Subject": "Add ClickHouse Backup with native backup CLI"
+            },
+            {
+              "SHA": "8f3469e3",
+              "Subject": "Fix makefile indentation (#5)"
+            },
+            {
+              "SHA": "d5cd3ff9",
+              "Subject": "Publish Image for Redhat software certification (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "d9566bb3",
+              "Subject": "Prepare for release v0.19.0 (#130)"
+            },
+            {
+              "SHA": "2ed40e64",
+              "Subject": "Configure dependabot refresh schedule (#129)"
+            },
+            {
+              "SHA": "9245b746",
+              "Subject": "Configure dependabot refresh schedule (#128)"
+            },
+            {
+              "SHA": "89863915",
+              "Subject": "Add missing CRDs: IgniteAutoscaler, HazelcastAutoscaler, Neo4jOpsRequest, QdrantOpsRequest (#126)"
+            },
+            {
+              "SHA": "cbedf109",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#125)"
+            },
+            {
+              "SHA": "ba0b1210",
+              "Subject": "Add documentdb (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "9d5f47a3",
+              "Subject": "Prepare for release v0.22.0 (#73)"
+            },
+            {
+              "SHA": "44ccb689",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#72)"
+            },
+            {
+              "SHA": "5eb81552",
+              "Subject": "Configure dependabot refresh schedule (#71)"
+            },
+            {
+              "SHA": "5d7dff71",
+              "Subject": "Configure dependabot refresh schedule (#70)"
+            },
+            {
+              "SHA": "157f4431",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "7069528b",
+              "Subject": "Incorporate changes for the AWS credless feature (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "a169f968",
+              "Subject": "Prepare for release v0.19.0 (#238)"
+            },
+            {
+              "SHA": "52036006",
+              "Subject": "Configure dependabot refresh schedule (#237)"
+            },
+            {
+              "SHA": "19607748",
+              "Subject": "Configure dependabot refresh schedule (#236)"
+            },
+            {
+              "SHA": "f3e2d74c",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#235)"
+            },
+            {
+              "SHA": "2bd0b01b",
+              "Subject": "Add Neo4j Ops Req Function (#229)"
+            },
+            {
+              "SHA": "d32ab714",
+              "Subject": "Qdrant HTTP client moved from apimachinery (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "f160bc0a",
+              "Subject": "Prepare for release v0.5.0 (#22)"
+            },
+            {
+              "SHA": "e1001311",
+              "Subject": "Configure dependabot refresh schedule (#21)"
+            },
+            {
+              "SHA": "1c894a64",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#20)"
+            },
+            {
+              "SHA": "bf277e9a",
+              "Subject": "fix predicate (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2-coordinator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "5cbc34b",
+              "Subject": "Configure dependabot refresh schedule (#8)"
+            },
+            {
+              "SHA": "382966b",
+              "Subject": "Configure dependabot refresh schedule (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2026.4.27",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "35bad36",
+              "Subject": "Prepare for release v0.1.0 (#10)"
+            },
+            {
+              "SHA": "d2a7d97",
+              "Subject": "Configure dependabot refresh schedule (#9)"
+            },
+            {
+              "SHA": "d5aef4d",
+              "Subject": "Configure dependabot refresh schedule (#8)"
+            },
+            {
+              "SHA": "61eb614",
+              "Subject": "Prepare for release v0.1.0-rc.0 (#6)"
+            },
+            {
+              "SHA": "876a2eb",
+              "Subject": "Support documentdb standalone (#5)"
+            },
+            {
+              "SHA": "f68930a",
+              "Subject": "oprator ready to test"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "b304b260",
+              "Subject": "Prepare for release v0.19.0 (#128)"
+            },
+            {
+              "SHA": "67598e74",
+              "Subject": "Fix Offline VolumeExpansion (#127)"
+            },
+            {
+              "SHA": "8ba485de",
+              "Subject": "Configure dependabot refresh schedule (#126)"
+            },
+            {
+              "SHA": "0c9f169a",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#125)"
+            },
+            {
+              "SHA": "323de9c4",
+              "Subject": "Add sharding facility for ops-request (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.64.0",
+          "commits": [
+            {
+              "SHA": "295aa682d",
+              "Subject": "Prepare for release v0.64.0 (#807)"
+            },
+            {
+              "SHA": "1d4e0ea30",
+              "Subject": "Fix Volume Expansion Opsreq bug (#806)"
+            },
+            {
+              "SHA": "aaa9bf109",
+              "Subject": "Configure dependabot refresh schedule (#805)"
+            },
+            {
+              "SHA": "ab8ad8879",
+              "Subject": "Prepare for release v0.64.0-rc.0 (#803)"
+            },
+            {
+              "SHA": "41039a44a",
+              "Subject": "Add Ops manager sharding (#791)"
+            },
+            {
+              "SHA": "3ab32aaf2",
+              "Subject": "Increase Ops Parallel Timeout (#799)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "f649744f",
+              "Subject": "Prepare for release v0.27.0 (#96)"
+            },
+            {
+              "SHA": "43b4eb14",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#95)"
+            },
+            {
+              "SHA": "779030ba",
+              "Subject": "Configure dependabot refresh schedule (#94)"
+            },
+            {
+              "SHA": "b903f26d",
+              "Subject": "Configure dependabot refresh schedule (#93)"
+            },
+            {
+              "SHA": "cd3259d0",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#91)"
+            },
+            {
+              "SHA": "6bbe9c64",
+              "Subject": "Incorporate changes for the AWS credless feature (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ferretdb",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "805d066b",
+              "Subject": "Prepare for release v0.19.0 (#116)"
+            },
+            {
+              "SHA": "6650292a",
+              "Subject": "Configure dependabot refresh schedule (#115)"
+            },
+            {
+              "SHA": "04040043",
+              "Subject": "Configure dependabot refresh schedule (#114)"
+            },
+            {
+              "SHA": "f3d696bc",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#113)"
+            },
+            {
+              "SHA": "a21800b2",
+              "Subject": "Add sharding facility for Ops-Requests (#102)"
+            },
+            {
+              "SHA": "e8b49242",
+              "Subject": "Ops-Req Fix (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "9cbab643",
+              "Subject": "Prepare for release v0.12.0 (#53)"
+            },
+            {
+              "SHA": "4447f92c",
+              "Subject": "Configure dependabot refresh schedule (#52)"
+            },
+            {
+              "SHA": "64f35282",
+              "Subject": "Configure dependabot refresh schedule (#51)"
+            },
+            {
+              "SHA": "c0f14b75",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#50)"
+            },
+            {
+              "SHA": "15a023ae",
+              "Subject": "Fix gitops (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "2f15f4f9",
+              "Subject": "Prepare for release v0.5.0 (#31)"
+            },
+            {
+              "SHA": "6dce67f7",
+              "Subject": "Configure dependabot refresh schedule (#30)"
+            },
+            {
+              "SHA": "7b2be4f9",
+              "Subject": "Configure dependabot refresh schedule (#29)"
+            },
+            {
+              "SHA": "51c5be87",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#28)"
+            },
+            {
+              "SHA": "7e98f3ba",
+              "Subject": "fix predicate (#26)"
+            },
+            {
+              "SHA": "d384fbbe",
+              "Subject": "Add monitoring (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "831fad13",
+              "Subject": "Prepare for release v0.4.0 (#10)"
+            },
+            {
+              "SHA": "57516959",
+              "Subject": "Configure dependabot refresh schedule (#9)"
+            },
+            {
+              "SHA": "f581db41",
+              "Subject": "Configure dependabot refresh schedule (#8)"
+            },
+            {
+              "SHA": "7e87d731",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "a49ffac7",
+              "Subject": "Prepare for release v0.10.0 (#42)"
+            },
+            {
+              "SHA": "1bf1cda9",
+              "Subject": "Fixed Offline Volume Expansion (#41)"
+            },
+            {
+              "SHA": "d8c06262",
+              "Subject": "Configure dependabot refresh schedule (#40)"
+            },
+            {
+              "SHA": "d063a0ec",
+              "Subject": "Configure dependabot refresh schedule (#39)"
+            },
+            {
+              "SHA": "f2fba09f",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "9eecbdcf",
+              "Subject": "Add Sharding facility for ops-request (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "dc7c8a79",
+              "Subject": "Prepare for release v0.11.0 (#50)"
+            },
+            {
+              "SHA": "5a4750da",
+              "Subject": "Offline Volume Expansion Fix (#49)"
+            },
+            {
+              "SHA": "f6e606b1",
+              "Subject": "Configure dependabot refresh schedule (#48)"
+            },
+            {
+              "SHA": "1cc1291f",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "956eae3f",
+              "Subject": "Add Sharding Facility for ops-request (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.4.27",
+          "commits": [
+            {
+              "SHA": "9f6e9cb17",
+              "Subject": "Prepare for release v2026.4.27 (#2258)"
+            },
+            {
+              "SHA": "5877cba96",
+              "Subject": "Update cve report (#2256)"
+            },
+            {
+              "SHA": "d6ae73350",
+              "Subject": "Update crds for kubedb/apimachinery@f4dbf42b (#2255)"
+            },
+            {
+              "SHA": "062cb0e41",
+              "Subject": "Configure dependabot refresh schedule (#2254)"
+            },
+            {
+              "SHA": "2d19e16eb",
+              "Subject": "Configure dependabot refresh schedule (#2253)"
+            },
+            {
+              "SHA": "1f39e89af",
+              "Subject": "Update cve report (#2252)"
+            },
+            {
+              "SHA": "34f9e7219",
+              "Subject": "Update crds for kubedb/apimachinery@faed84a4 (#2251)"
+            },
+            {
+              "SHA": "4732c499d",
+              "Subject": "Prepare for release v2026.4.13-rc.0 (#2249)"
+            },
+            {
+              "SHA": "978ec3fc3",
+              "Subject": "Use LOCALBIN for downloading all binaries if needed (#2248)"
+            },
+            {
+              "SHA": "a73ae56d0",
+              "Subject": "Update mongo wal-g version to v2026.3.30 (#2243)"
+            },
+            {
+              "SHA": "dbde57b1a",
+              "Subject": "Add ClickHouse Backup (#2209)"
+            },
+            {
+              "SHA": "d36570c07",
+              "Subject": "Add documentdb (#2124)"
+            },
+            {
+              "SHA": "cd423cca3",
+              "Subject": "Update crds for kubedb/apimachinery@d64cb9b9 (#2242)"
+            },
+            {
+              "SHA": "8ed118d0c",
+              "Subject": "Add New Druid Version (#2221)"
+            },
+            {
+              "SHA": "94aa6276e",
+              "Subject": "Add kubedb-autoscaler sharding, Update mssql exporter image (#2227)"
+            },
+            {
+              "SHA": "2f85da66f",
+              "Subject": "Add Qdrant Ops Validating Webhook (#2224)"
+            },
+            {
+              "SHA": "bb1f496be",
+              "Subject": "Add HanaDB monitoring resources (#2156)"
+            },
+            {
+              "SHA": "38e2f250f",
+              "Subject": "Add ClickHouse Version 26.2.6 (#2214)"
+            },
+            {
+              "SHA": "7b5012cb3",
+              "Subject": "Add cassandraversions (#2220)"
+            },
+            {
+              "SHA": "15f5031d7",
+              "Subject": "Update MySQL Init Image Tag (#2233)"
+            },
+            {
+              "SHA": "585ea5505",
+              "Subject": "Update ui chart tags (#2203)"
+            },
+            {
+              "SHA": "d6559e1b7",
+              "Subject": "Update cve report (#2229)"
+            },
+            {
+              "SHA": "9a0c34e0b",
+              "Subject": "Update crds for kubedb/apimachinery@d700721a (#2216)"
+            },
+            {
+              "SHA": "33e7cc704",
+              "Subject": "Update cve report (#2228)"
+            },
+            {
+              "SHA": "84f55c854",
+              "Subject": "Update cve report (#2226)"
+            },
+            {
+              "SHA": "36c6c7505",
+              "Subject": "Update cve report (#2225)"
+            },
+            {
+              "SHA": "532618b48",
+              "Subject": "Update cve report (#2223)"
+            },
+            {
+              "SHA": "603a4f2ec",
+              "Subject": "Update crds for kubedb/apimachinery@f57d49cd (#2222)"
+            },
+            {
+              "SHA": "819fe55fb",
+              "Subject": "Update crds for kubedb/apimachinery@08ca9f42 (#2218)"
+            },
+            {
+              "SHA": "7ccf7a866",
+              "Subject": "Update crds for kubedb/apimachinery@f129d2fc (#2217)"
+            },
+            {
+              "SHA": "1fe988db4",
+              "Subject": "Add Milvus Kubedb-Metrics (#2154)"
+            },
+            {
+              "SHA": "83fa4f388",
+              "Subject": "Update cve report (#2219)"
+            },
+            {
+              "SHA": "617449a20",
+              "Subject": "Fix MySQL Versions (#2210)"
+            },
+            {
+              "SHA": "3770b1402",
+              "Subject": "Add multiple shardkeys for proxysql support (#2215)"
+            },
+            {
+              "SHA": "919ef65e7",
+              "Subject": "Update cve report (#2213)"
+            },
+            {
+              "SHA": "af4bc358e",
+              "Subject": "Update crds for kubedb/apimachinery@0fc180f7 (#2208)"
+            },
+            {
+              "SHA": "83e52559e",
+              "Subject": "Update crds for kubedb/apimachinery@b790503c (#2212)"
+            },
+            {
+              "SHA": "089b4c7d0",
+              "Subject": "Update cve report (#2211)"
+            },
+            {
+              "SHA": "23a8d0f78",
+              "Subject": "Update cve report (#2207)"
+            },
+            {
+              "SHA": "49d473745",
+              "Subject": "Update cve report (#2206)"
+            },
+            {
+              "SHA": "23fc65068",
+              "Subject": "Update cve report (#2204)"
+            },
+            {
+              "SHA": "830a99154",
+              "Subject": "Update cve report (#2202)"
+            },
+            {
+              "SHA": "e525d00d4",
+              "Subject": "Update cve report (#2201)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "6ce1397a",
+              "Subject": "Prepare for release v0.35.0 (#191)"
+            },
+            {
+              "SHA": "832e9e7f",
+              "Subject": "Offline Volume Expansion Fix (#190)"
+            },
+            {
+              "SHA": "e62fe0c7",
+              "Subject": "Configure dependabot refresh schedule (#189)"
+            },
+            {
+              "SHA": "75023940",
+              "Subject": "Prepare for release v0.35.0-rc.0 (#188)"
+            },
+            {
+              "SHA": "bacc2f8b",
+              "Subject": "Add Sharding Facility for Ops-Request (#185)"
+            },
+            {
+              "SHA": "4cbe05d9",
+              "Subject": "Increase Ops Parallel Timeout (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "a125f71e",
+              "Subject": "Prepare for release v0.40.0 (#177)"
+            },
+            {
+              "SHA": "af12545d",
+              "Subject": "Configure dependabot refresh schedule (#176)"
+            },
+            {
+              "SHA": "aa8a3fa5",
+              "Subject": "Configure dependabot refresh schedule (#175)"
+            },
+            {
+              "SHA": "dc91ad31",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#174)"
+            },
+            {
+              "SHA": "f37fab91",
+              "Subject": "fix predicate (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "f07e155d",
+              "Subject": "Prepare for release v0.27.0 (#128)"
+            },
+            {
+              "SHA": "b22aa0b9",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#127)"
+            },
+            {
+              "SHA": "c4e0a75c",
+              "Subject": "Configure dependabot refresh schedule (#126)"
+            },
+            {
+              "SHA": "554ca50b",
+              "Subject": "Configure dependabot refresh schedule (#125)"
+            },
+            {
+              "SHA": "d21843b1",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "14870c71",
+              "Subject": "Incorporate changes for the AWS credless feature (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "8a0602f4",
+              "Subject": "Prepare for release v0.15.0 (#48)"
+            },
+            {
+              "SHA": "323d90e5",
+              "Subject": "Configure dependabot refresh schedule (#47)"
+            },
+            {
+              "SHA": "669fa6c3",
+              "Subject": "Configure dependabot refresh schedule (#46)"
+            },
+            {
+              "SHA": "3549908d",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "95c40d9d2",
+              "Subject": "Prepare for release v0.48.0 (#393)"
+            },
+            {
+              "SHA": "14558b159",
+              "Subject": "Delete metrics-exporter-config secret (#392)"
+            },
+            {
+              "SHA": "0dba0b886",
+              "Subject": "Ensure cloud annotations to SA before sidekick creation (#386)"
+            },
+            {
+              "SHA": "688a56674",
+              "Subject": "Configure dependabot refresh schedule (#391)"
+            },
+            {
+              "SHA": "5d5c0b7d8",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#388)"
+            },
+            {
+              "SHA": "263e8d005",
+              "Subject": "added env for binlog cleanup (#385)"
+            },
+            {
+              "SHA": "59deb42af",
+              "Subject": "Add Binlog File Prefix env (#384)"
+            },
+            {
+              "SHA": "d8205512a",
+              "Subject": "Fix MariaDB Standalone Volume Expansion (#382)"
+            },
+            {
+              "SHA": "3baa4a87d",
+              "Subject": "Add sharding facility for Ops-Request (#371)"
+            },
+            {
+              "SHA": "7fd16637e",
+              "Subject": "Increase timeout period for Mariadb ops (#380)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "13e2fce5",
+              "Subject": "Prepare for release v0.24.0 (#88)"
+            },
+            {
+              "SHA": "40106456",
+              "Subject": "Update Wal-G version for AWS credless mode (#85)"
+            },
+            {
+              "SHA": "b3eb743f",
+              "Subject": "Configure dependabot refresh schedule (#87)"
+            },
+            {
+              "SHA": "11b821ab",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#86)"
+            },
+            {
+              "SHA": "f34db6cb",
+              "Subject": "added binlog cleanup feature (#84)"
+            },
+            {
+              "SHA": "f7972591",
+              "Subject": "Update binlog file name (#83)"
+            },
+            {
+              "SHA": "185293f2",
+              "Subject": "Keep old log stats when sidekick pod restarts (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "8eeb0bbb",
+              "Subject": "Prepare for release v0.44.0 (#175)"
+            },
+            {
+              "SHA": "4e9fe98d",
+              "Subject": "Configure dependabot refresh schedule (#173)"
+            },
+            {
+              "SHA": "53447a78",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "976621bf",
+              "Subject": "Prepare for release v0.24.0 (#75)"
+            },
+            {
+              "SHA": "5c212903",
+              "Subject": "Configure dependabot refresh schedule (#74)"
+            },
+            {
+              "SHA": "925ae43a",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "be3b7385",
+              "Subject": "Prepare for release v0.22.0 (#86)"
+            },
+            {
+              "SHA": "f68e059d",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#85)"
+            },
+            {
+              "SHA": "14c31f3b",
+              "Subject": "Configure dependabot refresh schedule (#84)"
+            },
+            {
+              "SHA": "1bfa01dd",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#81)"
+            },
+            {
+              "SHA": "9faf6576",
+              "Subject": "Incorporate changes for the AWS credless feature (#80)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.57.0",
+          "commits": [
+            {
+              "SHA": "9fb644d26",
+              "Subject": "Prepare for release v0.57.0 (#535)"
+            },
+            {
+              "SHA": "a9f93a3cc",
+              "Subject": "Configure dependabot refresh schedule (#534)"
+            },
+            {
+              "SHA": "78caf0db1",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#533)"
+            },
+            {
+              "SHA": "bb5140941",
+              "Subject": "Shard ops support (#530)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-cli",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "e1fea3b",
+              "Subject": "Prepare for release v0.4.0 (#18)"
+            },
+            {
+              "SHA": "f8e80b9",
+              "Subject": "Configure dependabot refresh schedule (#15)"
+            },
+            {
+              "SHA": "7954e97",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-operator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "ff0cdd8",
+              "Subject": "Prepare for release v0.4.0 (#13)"
+            },
+            {
+              "SHA": "d23a639",
+              "Subject": "Configure dependabot refresh schedule (#12)"
+            },
+            {
+              "SHA": "1e9351f",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "649cc2ae",
+              "Subject": "Prepare for release v0.5.0 (#32)"
+            },
+            {
+              "SHA": "03934e0b",
+              "Subject": "Configure dependabot refresh schedule (#31)"
+            },
+            {
+              "SHA": "c04453e9",
+              "Subject": "Configure dependabot refresh schedule (#30)"
+            },
+            {
+              "SHA": "e09593ae",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#29)"
+            },
+            {
+              "SHA": "12334ec8",
+              "Subject": "Update predicate funcs (#28)"
+            },
+            {
+              "SHA": "408ee09d",
+              "Subject": "Sync with Apimachinery (#26)"
+            },
+            {
+              "SHA": "00be19c5",
+              "Subject": "Add Milvus Monitoring (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.57.0",
+          "commits": [
+            {
+              "SHA": "5369fa5a4",
+              "Subject": "Prepare for release v0.57.0 (#755)"
+            },
+            {
+              "SHA": "5d951fbcb",
+              "Subject": "Configure dependabot refresh schedule (#754)"
+            },
+            {
+              "SHA": "7a8093470",
+              "Subject": "Configure dependabot refresh schedule (#753)"
+            },
+            {
+              "SHA": "8d3533f2f",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#750)"
+            },
+            {
+              "SHA": "4eb07bb40",
+              "Subject": "Fix repo name & oplog-restore job name (#748)"
+            },
+            {
+              "SHA": "5ba17db61",
+              "Subject": "Add Ops manager sharding (#737)"
+            },
+            {
+              "SHA": "5234f14d0",
+              "Subject": "Increase Ops Parallel Timeout (#745)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "85824be3",
+              "Subject": "Prepare for release v0.25.0 (#79)"
+            },
+            {
+              "SHA": "fdd5d683",
+              "Subject": "Configure dependabot refresh schedule (#78)"
+            },
+            {
+              "SHA": "446ffe40",
+              "Subject": "Configure dependabot refresh schedule (#77)"
+            },
+            {
+              "SHA": "009ec633",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "47c763b6",
+              "Subject": "Prepare for release v0.27.0 (#123)"
+            },
+            {
+              "SHA": "4737d045",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#122)"
+            },
+            {
+              "SHA": "d9f373dc",
+              "Subject": "Configure dependabot refresh schedule (#121)"
+            },
+            {
+              "SHA": "af12c273",
+              "Subject": "Configure dependabot refresh schedule (#120)"
+            },
+            {
+              "SHA": "82226b2e",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#119)"
+            },
+            {
+              "SHA": "9722d2ee",
+              "Subject": "Incorporate changes for the AWS credless feature (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "3432bcf1",
+              "Subject": "Prepare for release v0.19.0 (#66)"
+            },
+            {
+              "SHA": "3ce7a06d",
+              "Subject": "Configure dependabot refresh schedule (#65)"
+            },
+            {
+              "SHA": "af4c8acc",
+              "Subject": "Configure dependabot refresh schedule (#64)"
+            },
+            {
+              "SHA": "5856f18c",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "b90a9ea2",
+              "Subject": "Prepare for release v0.19.0 (#128)"
+            },
+            {
+              "SHA": "4bed5e0e",
+              "Subject": "Offline Volume Expansion Fix (#127)"
+            },
+            {
+              "SHA": "d72370a5",
+              "Subject": "Configure dependabot refresh schedule (#126)"
+            },
+            {
+              "SHA": "1e84f01f",
+              "Subject": "Configure dependabot refresh schedule (#125)"
+            },
+            {
+              "SHA": "d997b056",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "a72de37f",
+              "Subject": "Fix error handling for NewMSSQLServerReconcileState() (#122)"
+            },
+            {
+              "SHA": "704443fb",
+              "Subject": "Add Shard ops Support (#117)"
+            },
+            {
+              "SHA": "ad7d0b01",
+              "Subject": "Add vertical scaling support for coordinator, exporter, arbiter components (#118)"
+            },
+            {
+              "SHA": "615b8c1a",
+              "Subject": "Reconcile DB while refered archiver update (#120)"
+            },
+            {
+              "SHA": "8656b80f",
+              "Subject": "Fix multiple Ops Request Goes in Progressing issue (#115)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "1ae0349",
+              "Subject": "Configure dependabot refresh schedule (#24)"
+            },
+            {
+              "SHA": "df15bc6",
+              "Subject": "Configure dependabot refresh schedule (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "feef31e",
+              "Subject": "Prepare for release v0.18.0 (#55)"
+            },
+            {
+              "SHA": "bc91aed",
+              "Subject": "Configure dependabot refresh schedule (#54)"
+            },
+            {
+              "SHA": "64f286f",
+              "Subject": "Configure dependabot refresh schedule (#53)"
+            },
+            {
+              "SHA": "028bad5",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "911601f",
+              "Subject": "Register scheme for endpointslice"
+            },
+            {
+              "SHA": "fb3d7bd",
+              "Subject": "Register scheme for endpointslice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.57.0",
+          "commits": [
+            {
+              "SHA": "66db8c4b8",
+              "Subject": "Prepare for release v0.57.0 (#745)"
+            },
+            {
+              "SHA": "ce857001a",
+              "Subject": "Delete metrics-exporter-config secret (#744)"
+            },
+            {
+              "SHA": "9faeb2a08",
+              "Subject": "Configure dependabot refresh schedule (#743)"
+            },
+            {
+              "SHA": "449c5542c",
+              "Subject": "Configure dependabot refresh schedule (#742)"
+            },
+            {
+              "SHA": "34a01ae21",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#739)"
+            },
+            {
+              "SHA": "bfa854526",
+              "Subject": "Ensure cloud annotations to SA before sidekick creation (#736)"
+            },
+            {
+              "SHA": "a003be8d3",
+              "Subject": "Chaos Test: Update Health Check Query, Run Parallel Timeout Log (#735)"
+            },
+            {
+              "SHA": "74eae52fd",
+              "Subject": "Fix Azure Provider awsCAExist Panic (#734)"
+            },
+            {
+              "SHA": "cb2e10e8e",
+              "Subject": "Add sharding facility for Ops-Request (#723)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "50815f7d",
+              "Subject": "Prepare for release v0.25.0 (#102)"
+            },
+            {
+              "SHA": "f6bc1ac1",
+              "Subject": "Configure dependabot refresh schedule (#101)"
+            },
+            {
+              "SHA": "23d32e5d",
+              "Subject": "Configure dependabot refresh schedule (#100)"
+            },
+            {
+              "SHA": "e87da317",
+              "Subject": "update go version for release ci fix (#99)"
+            },
+            {
+              "SHA": "a98f9c0a",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#97)"
+            },
+            {
+              "SHA": "1fbae6ea",
+              "Subject": "Update Wal-G Version to v2026.3.30 (#95)"
+            },
+            {
+              "SHA": "0cf2431c",
+              "Subject": "Keep old log stats when sidekick pod restarts (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "f094a593",
+              "Subject": "Prepare for release v0.42.0 (#176)"
+            },
+            {
+              "SHA": "4dfe4dbe",
+              "Subject": "Configure dependabot refresh schedule (#175)"
+            },
+            {
+              "SHA": "432033b2",
+              "Subject": "Configure dependabot refresh schedule (#174)"
+            },
+            {
+              "SHA": "e0d65d33",
+              "Subject": "Prepare for release v0.42.0-rc.0 (#172)"
+            },
+            {
+              "SHA": "e5924b69",
+              "Subject": "Chaos Test: Add Network Partition, Auto Heal Support"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "8cef25be",
+              "Subject": "Prepare for release v0.25.0 (#76)"
+            },
+            {
+              "SHA": "fde57433",
+              "Subject": "Configure dependabot refresh schedule (#75)"
+            },
+            {
+              "SHA": "a400c0f6",
+              "Subject": "Configure dependabot refresh schedule (#74)"
+            },
+            {
+              "SHA": "cd90f512",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "ba400cb7",
+              "Subject": "Prepare for release v0.27.0 (#108)"
+            },
+            {
+              "SHA": "372401ba",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#107)"
+            },
+            {
+              "SHA": "1f5e0d96",
+              "Subject": "Configure dependabot refresh schedule (#106)"
+            },
+            {
+              "SHA": "0cf94d94",
+              "Subject": "Configure dependabot refresh schedule (#105)"
+            },
+            {
+              "SHA": "09cda23f",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#103)"
+            },
+            {
+              "SHA": "888a4720",
+              "Subject": "Incorporate changes for the AWS credless feature (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "aacf7fa",
+              "Subject": "Configure dependabot refresh schedule (#57)"
+            },
+            {
+              "SHA": "37d1624",
+              "Subject": "Configure dependabot refresh schedule (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "8a7b1696",
+              "Subject": "Prepare for release v0.5.0 (#29)"
+            },
+            {
+              "SHA": "8d7a6886",
+              "Subject": "Configure dependabot refresh schedule (#28)"
+            },
+            {
+              "SHA": "c57e8561",
+              "Subject": "Add Neo4j Ops Req  updVersion, volumeExpansion (#26)"
+            },
+            {
+              "SHA": "9e097389",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#27)"
+            },
+            {
+              "SHA": "2adf9978",
+              "Subject": "Add Neo4j Ops req (#22)"
+            },
+            {
+              "SHA": "176ddf86",
+              "Subject": "Add Sharding Facility for Ops-Request (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "75cab6ba",
+              "Subject": "Prepare for release v0.10.0 (#41)"
+            },
+            {
+              "SHA": "4e495dcd",
+              "Subject": "Configure dependabot refresh schedule (#40)"
+            },
+            {
+              "SHA": "9fead433",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "22c38c19",
+              "Subject": "fix conf-secret-creation (#38)"
+            },
+            {
+              "SHA": "f861e5b2",
+              "Subject": "Add oracle conf (#27)"
+            },
+            {
+              "SHA": "0c5da9d2",
+              "Subject": "Add Sharding facility for Ops-Request (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "f9f4dd8",
+              "Subject": "Prepare for release v0.10.0 (#31)"
+            },
+            {
+              "SHA": "b2a1a40",
+              "Subject": "Configure dependabot refresh schedule (#30)"
+            },
+            {
+              "SHA": "d2f36b4",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "b10cd4ceb",
+              "Subject": "Prepare for release v0.51.0 (#449)"
+            },
+            {
+              "SHA": "84446e805",
+              "Subject": "Delete metrics exposter config secret (#448)"
+            },
+            {
+              "SHA": "4285acd48",
+              "Subject": "Configure dependabot refresh schedule (#447)"
+            },
+            {
+              "SHA": "9ab6296ae",
+              "Subject": "Configure dependabot refresh schedule (#446)"
+            },
+            {
+              "SHA": "618d161cb",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#445)"
+            },
+            {
+              "SHA": "d1e409623",
+              "Subject": "Add Sharding Facility for ops-request (#442)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "e1bf59f7",
+              "Subject": "Prepare for release v0.37.0 (#124)"
+            },
+            {
+              "SHA": "9b44e907",
+              "Subject": "Configure dependabot refresh schedule (#123)"
+            },
+            {
+              "SHA": "7262ddc8",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#121)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "9b36ab39",
+              "Subject": "Prepare for release v0.48.0 (#245)"
+            },
+            {
+              "SHA": "c9285b86",
+              "Subject": "Configure dependabot refresh schedule (#244)"
+            },
+            {
+              "SHA": "2f9085df",
+              "Subject": "Prepare for release v0.48.0-rc.0 (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "23024d0c7",
+              "Subject": "Prepare for release v0.51.0 (#409)"
+            },
+            {
+              "SHA": "7b5ce3642",
+              "Subject": "Configure dependabot refresh schedule (#408)"
+            },
+            {
+              "SHA": "24c3141a4",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#406)"
+            },
+            {
+              "SHA": "cd3c35d33",
+              "Subject": "Add Sharding Facility for Ops-Request (#403)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "e34a9780",
+              "Subject": "Prepare for release v0.19.0 (#117)"
+            },
+            {
+              "SHA": "927c85f7",
+              "Subject": "Configure dependabot refresh schedule (#116)"
+            },
+            {
+              "SHA": "cedd0f8e",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "05502740",
+              "Subject": "Add Sharding Facility for Ops-Request (#111)"
+            },
+            {
+              "SHA": "3a3dbca1",
+              "Subject": "Add Pgpool Load Balancing Support & Reconfigure Bug Fix (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.64.0",
+          "commits": [
+            {
+              "SHA": "261287eee",
+              "Subject": "Prepare for release v0.64.0 (#879)"
+            },
+            {
+              "SHA": "0ab9077ae",
+              "Subject": "Configure dependabot refresh schedule (#878)"
+            },
+            {
+              "SHA": "433bacdae",
+              "Subject": "Prepare for release v0.64.0-rc.0 (#875)"
+            },
+            {
+              "SHA": "17ccf004f",
+              "Subject": "Fix archiver restore for VS driver (#874)"
+            },
+            {
+              "SHA": "7c718f65c",
+              "Subject": "Add sidekick credless support for s3 provider (#872)"
+            },
+            {
+              "SHA": "a7196def6",
+              "Subject": "fix read replica halt issue (#869)"
+            },
+            {
+              "SHA": "15041daff",
+              "Subject": "Ignore Read Replica While Moving To HA (#868)"
+            },
+            {
+              "SHA": "e61a01666",
+              "Subject": "Change label patch procedure for database pods (#866)"
+            },
+            {
+              "SHA": "8b171999b",
+              "Subject": "Fix Standalone to HA Scaling (#865)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "9f8fbdc3",
+              "Subject": "Prepare for release v0.25.0 (#104)"
+            },
+            {
+              "SHA": "e66cdfb3",
+              "Subject": "Configure dependabot refresh schedule (#103)"
+            },
+            {
+              "SHA": "3bfd085f",
+              "Subject": "Update Go version (#101)"
+            },
+            {
+              "SHA": "2036b224",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#100)"
+            },
+            {
+              "SHA": "943a8921",
+              "Subject": "Bump github.com/aws/aws-sdk-go-v2/service/s3 from 1.78.2 to 1.97.3 (#97)"
+            },
+            {
+              "SHA": "f8f0f633",
+              "Subject": "Bump go.opentelemetry.io/otel/sdk from 1.40.0 to 1.43.0 (#99)"
+            },
+            {
+              "SHA": "b01bd9c9",
+              "Subject": "update Go version and wal-g new version (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "a1bac671",
+              "Subject": "Prepare for release v0.25.0 (#85)"
+            },
+            {
+              "SHA": "c20cd235",
+              "Subject": "Configure dependabot refresh schedule (#84)"
+            },
+            {
+              "SHA": "b0dd01e1",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "b5399717",
+              "Subject": "Prepare for release v0.27.0 (#106)"
+            },
+            {
+              "SHA": "ff32b63e",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#105)"
+            },
+            {
+              "SHA": "deeb99ee",
+              "Subject": "Configure dependabot refresh schedule (#104)"
+            },
+            {
+              "SHA": "26862c3b",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "d5c1805f",
+              "Subject": "Incorporate changes for the AWS credless feature (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "a619973",
+              "Subject": "Configure dependabot refresh schedule (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "2923d77",
+              "Subject": "Configure dependabot refresh schedule (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "a8dc1d6",
+              "Subject": "Configure dependabot refresh schedule (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.64.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "34985f159",
+              "Subject": "Prepare for release v0.51.0 (#429)"
+            },
+            {
+              "SHA": "324392678",
+              "Subject": "Configure dependabot refresh schedule (#428)"
+            },
+            {
+              "SHA": "05c707961",
+              "Subject": "Configure dependabot refresh schedule (#427)"
+            },
+            {
+              "SHA": "47946ab8c",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#426)"
+            },
+            {
+              "SHA": "c8839200c",
+              "Subject": "Add Sharding Facility for Ops-Request (#423)"
+            },
+            {
+              "SHA": "ff797db40",
+              "Subject": "Fix multiple Ops Request Goes in Progressing issue (#421)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "bcf12c03",
+              "Subject": "Prepare for release v0.5.0 (#36)"
+            },
+            {
+              "SHA": "0bc2e4d5",
+              "Subject": "Bug Fix (#35)"
+            },
+            {
+              "SHA": "783dd192",
+              "Subject": "Offline Volume Expansion Fix (#34)"
+            },
+            {
+              "SHA": "5c011201",
+              "Subject": "Configure dependabot refresh schedule (#33)"
+            },
+            {
+              "SHA": "f18cd566",
+              "Subject": "Configure dependabot refresh schedule (#32)"
+            },
+            {
+              "SHA": "b6158e90",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#31)"
+            },
+            {
+              "SHA": "64feaac8",
+              "Subject": "update deps (#30)"
+            },
+            {
+              "SHA": "a7446a3a",
+              "Subject": "Add Ops Request Support (#28)"
+            },
+            {
+              "SHA": "b547a2bb",
+              "Subject": "Add Sharding Facility for Ops-Request (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "cd286bab",
+              "Subject": "Prepare for release v0.19.0 (#129)"
+            },
+            {
+              "SHA": "3dff0452",
+              "Subject": "Fix Offline Volume Expansion (#128)"
+            },
+            {
+              "SHA": "c80c9679",
+              "Subject": "Configure dependabot refresh schedule (#127)"
+            },
+            {
+              "SHA": "8b47cc9f",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#125)"
+            },
+            {
+              "SHA": "34c289d5",
+              "Subject": "Add Sharding Facility for Ops-Request (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.57.0",
+          "commits": [
+            {
+              "SHA": "680eaa9ec",
+              "Subject": "Prepare for release v0.57.0 (#638)"
+            },
+            {
+              "SHA": "7d78dfd9e",
+              "Subject": "Configure dependabot refresh schedule (#637)"
+            },
+            {
+              "SHA": "fc44407fc",
+              "Subject": "Configure dependabot refresh schedule (#636)"
+            },
+            {
+              "SHA": "2df711f4a",
+              "Subject": "Prepare for release v0.57.0-rc.0 (#634)"
+            },
+            {
+              "SHA": "7d51add0f",
+              "Subject": "Add Ops manager sharding (#622)"
+            },
+            {
+              "SHA": "1cdb85c49",
+              "Subject": "Increase Ops Parallel Timeout (#630)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "f39b5c5d",
+              "Subject": "Prepare for release v0.43.0 (#157)"
+            },
+            {
+              "SHA": "f508e9dc",
+              "Subject": "Configure dependabot refresh schedule (#156)"
+            },
+            {
+              "SHA": "2edf641a",
+              "Subject": "Configure dependabot refresh schedule (#155)"
+            },
+            {
+              "SHA": "01f86fc3",
+              "Subject": "Prepare for release v0.43.0-rc.0 (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "df86bb19",
+              "Subject": "Prepare for release v0.27.0 (#103)"
+            },
+            {
+              "SHA": "ca23d967",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#102)"
+            },
+            {
+              "SHA": "b043e083",
+              "Subject": "Configure dependabot refresh schedule (#101)"
+            },
+            {
+              "SHA": "f301cd48",
+              "Subject": "Configure dependabot refresh schedule (#100)"
+            },
+            {
+              "SHA": "52cc7c5f",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#98)"
+            },
+            {
+              "SHA": "fd1a9ec0",
+              "Subject": "Incorporate changes for the AWS credless feature (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "bdc776c1",
+              "Subject": "Prepare for release v0.51.0 (#320)"
+            },
+            {
+              "SHA": "38d8e512",
+              "Subject": "Configure dependabot refresh schedule (#319)"
+            },
+            {
+              "SHA": "dc13533a",
+              "Subject": "Configure dependabot refresh schedule (#318)"
+            },
+            {
+              "SHA": "c00452fb",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#317)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "8590f8e5",
+              "Subject": "Prepare for release v0.40.0 (#167)"
+            },
+            {
+              "SHA": "5a81c014",
+              "Subject": "Configure dependabot refresh schedule (#166)"
+            },
+            {
+              "SHA": "cedf8375",
+              "Subject": "Configure dependabot refresh schedule (#165)"
+            },
+            {
+              "SHA": "cbe0c2d6",
+              "Subject": "Merge pull request #163 from kubedb/v2026.4.13-rc.0-master"
+            },
+            {
+              "SHA": "9db522be",
+              "Subject": "Prepare for release v0.40.0-rc.0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "be212d59",
+              "Subject": "Prepare for release v0.19.0 (#117)"
+            },
+            {
+              "SHA": "38cf8233",
+              "Subject": "fix volume expansion bug (#116)"
+            },
+            {
+              "SHA": "66594528",
+              "Subject": "offline volume expansion fix (#115)"
+            },
+            {
+              "SHA": "742f9ca3",
+              "Subject": "Configure dependabot refresh schedule (#114)"
+            },
+            {
+              "SHA": "e5334dc3",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#112)"
+            },
+            {
+              "SHA": "9fb196da",
+              "Subject": "Add Sharding Facility for Ops-Request (#109)"
+            },
+            {
+              "SHA": "533a210a",
+              "Subject": "Fix ops kind (#107)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "89cacaf6",
+              "Subject": "Prepare for release v0.19.0 (#69)"
+            },
+            {
+              "SHA": "4b0e55b2",
+              "Subject": "Configure dependabot refresh schedule (#68)"
+            },
+            {
+              "SHA": "a7242e7c",
+              "Subject": "Configure dependabot refresh schedule (#67)"
+            },
+            {
+              "SHA": "7c86dbb2",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "66fee03a",
+              "Subject": "Prepare for release v0.22.0 (#82)"
+            },
+            {
+              "SHA": "4a9f961c",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#81)"
+            },
+            {
+              "SHA": "fc7ad966",
+              "Subject": "Configure dependabot refresh schedule (#80)"
+            },
+            {
+              "SHA": "536de2a0",
+              "Subject": "Configure dependabot refresh schedule (#79)"
+            },
+            {
+              "SHA": "8f533385",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#77)"
+            },
+            {
+              "SHA": "ed2bdcd7",
+              "Subject": "Incorporate changes for the AWS credless feature (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "d4d7b833",
+              "Subject": "Prepare for release v0.19.0 (#126)"
+            },
+            {
+              "SHA": "301b697f",
+              "Subject": "Offline Volume Expansion Fix (#125)"
+            },
+            {
+              "SHA": "d255112f",
+              "Subject": "Configure dependabot refresh schedule (#124)"
+            },
+            {
+              "SHA": "709184eb",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "7fabe142",
+              "Subject": "Add sharding facility for Ops-Requests (#112)"
+            },
+            {
+              "SHA": "67fe597a",
+              "Subject": "Ops-Req Fix (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "af6fa8712",
+              "Subject": "Prepare for release v0.49.0 (#521)"
+            },
+            {
+              "SHA": "7086f3e0e",
+              "Subject": "Configure dependabot refresh schedule (#520)"
+            },
+            {
+              "SHA": "dd86a5437",
+              "Subject": "Configure dependabot refresh schedule (#519)"
+            },
+            {
+              "SHA": "805c200f3",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#518)"
+            },
+            {
+              "SHA": "76f7731c5",
+              "Subject": "Add Postgres ReadReplica Test (#514)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "09c4dcc4",
+              "Subject": "Prepare for release v0.40.0 (#199)"
+            },
+            {
+              "SHA": "996b2c98",
+              "Subject": "Configure dependabot refresh schedule (#198)"
+            },
+            {
+              "SHA": "656c975b",
+              "Subject": "Merge pull request #197 from kubedb/v2026.4.13-rc.0-master"
+            },
+            {
+              "SHA": "d2c18c07",
+              "Subject": "Prepare for release v0.40.0-rc.0"
+            },
+            {
+              "SHA": "34fae698",
+              "Subject": "Return full list if preset's available is empty (#196)"
+            },
+            {
+              "SHA": "ee6e0343",
+              "Subject": "Pgpool Configuration API fix (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "31218a35",
+              "Subject": "Prepare for release v0.5.0 (#28)"
+            },
+            {
+              "SHA": "4fc6dac2",
+              "Subject": "Configure dependabot refresh schedule (#27)"
+            },
+            {
+              "SHA": "4faa2d55",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#26)"
+            },
+            {
+              "SHA": "b1e926d7",
+              "Subject": "fix predicate funcs (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "1c67d63e",
+              "Subject": "Prepare for release v0.12.0 (#49)"
+            },
+            {
+              "SHA": "6be593b0",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#48)"
+            },
+            {
+              "SHA": "6199440e",
+              "Subject": "Configure dependabot refresh schedule (#47)"
+            },
+            {
+              "SHA": "2b54d4cd",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "9bd5434f",
+              "Subject": "Incorporate changes for the AWS credless feature (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "bd934f48",
+              "Subject": "Prepare for release v0.19.0 (#118)"
+            },
+            {
+              "SHA": "88cc9518",
+              "Subject": "fix vol exp (#117)"
+            },
+            {
+              "SHA": "bba031e5",
+              "Subject": "Configure dependabot refresh schedule (#116)"
+            },
+            {
+              "SHA": "f745f1a2",
+              "Subject": "Configure dependabot refresh schedule (#115)"
+            },
+            {
+              "SHA": "f6bc123d",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "11a11a14",
+              "Subject": "Add Sharding Facility for Ops-Request (#111)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "9df74bd0",
+              "Subject": "Prepare for release v0.19.0 (#66)"
+            },
+            {
+              "SHA": "e7662aa2",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#65)"
+            },
+            {
+              "SHA": "0ce9d404",
+              "Subject": "Configure dependabot refresh schedule (#64)"
+            },
+            {
+              "SHA": "5e490249",
+              "Subject": "Configure dependabot refresh schedule (#63)"
+            },
+            {
+              "SHA": "efcb15ba",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#61)"
+            },
+            {
+              "SHA": "4dc926fc",
+              "Subject": "Incorporate changes for the AWS credless feature (#60)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -118,7 +118,7 @@ jobs:
           RELEASE_TRACKER: ${{ github.event.issue.html_url }}
           PR_TITLE: ${{ github.event.issue.title }}
         run: |
-          title="${{ github.event.issue.title }}"
+          title="$PR_TITLE"
           while IFS=$': \r\t' read -r marker v ignored; do
               case $marker in
                   Release)

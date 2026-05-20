@@ -232,6 +232,21 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.52.0-rc.0)
+
+- [c2ca4a03](https://github.com/kubedb/replication-mode-detector/commit/c2ca4a03) Prepare for release v0.52.0-rc.0 (#323)
+- [a22986ef](https://github.com/kubedb/replication-mode-detector/commit/a22986ef) Tighten CI/release workflow secrets, perms, and release notes
+- [7f22be9e](https://github.com/kubedb/replication-mode-detector/commit/7f22be9e) Harden release and release-tracker workflows
+- [e8f81f8e](https://github.com/kubedb/replication-mode-detector/commit/e8f81f8e) Add AGENTS.md for AI coding agents
+- [3c2fd6f5](https://github.com/kubedb/replication-mode-detector/commit/3c2fd6f5) Harden CI workflows (#321)
+- [bdc776c1](https://github.com/kubedb/replication-mode-detector/commit/bdc776c1) Prepare for release v0.51.0 (#320)
+- [38d8e512](https://github.com/kubedb/replication-mode-detector/commit/38d8e512) Configure dependabot refresh schedule (#319)
+- [dc13533a](https://github.com/kubedb/replication-mode-detector/commit/dc13533a) Configure dependabot refresh schedule (#318)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.0)

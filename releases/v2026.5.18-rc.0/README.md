@@ -753,6 +753,24 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.52.0-rc.0)
+
+- [a03b66b9](https://github.com/kubedb/percona-xtradb/commit/a03b66b9c) Prepare for release v0.52.0-rc.0 (#454)
+- [2f3fbc70](https://github.com/kubedb/percona-xtradb/commit/2f3fbc700) Tighten CI/release workflow secrets, perms, and release notes
+- [cd18b8f0](https://github.com/kubedb/percona-xtradb/commit/cd18b8f00) Harden release and release-tracker workflows
+- [06ee2cbf](https://github.com/kubedb/percona-xtradb/commit/06ee2cbfb) Run Ops Request Locally (#453)
+- [887fa9a0](https://github.com/kubedb/percona-xtradb/commit/887fa9a01) Add CLAUDE.md pointing to AGENTS.md
+- [bc309e6c](https://github.com/kubedb/percona-xtradb/commit/bc309e6ce) Add AGENTS.md for AI coding agents
+- [52dc6b56](https://github.com/kubedb/percona-xtradb/commit/52dc6b56c) Harden CI workflows (#450)
+- [b10cd4ce](https://github.com/kubedb/percona-xtradb/commit/b10cd4ceb) Prepare for release v0.51.0 (#449)
+- [84446e80](https://github.com/kubedb/percona-xtradb/commit/84446e805) Delete metrics exposter config secret (#448)
+- [4285acd4](https://github.com/kubedb/percona-xtradb/commit/4285acd48) Configure dependabot refresh schedule (#447)
+- [9ab6296a](https://github.com/kubedb/percona-xtradb/commit/9ab6296ae) Configure dependabot refresh schedule (#446)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.38.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0-rc.0)

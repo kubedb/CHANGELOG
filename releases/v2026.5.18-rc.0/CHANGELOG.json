@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:33:51.070289012Z",
+  "release_date": "2026-05-20T15:34:36.057033425Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -2198,6 +2198,60 @@
             {
               "SHA": "b2a1a40",
               "Subject": "Configure dependabot refresh schedule (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a03b66b9c",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#454)"
+            },
+            {
+              "SHA": "2f3fbc700",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "cd18b8f00",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "06ee2cbfb",
+              "Subject": "Run Ops Request Locally (#453)"
+            },
+            {
+              "SHA": "887fa9a01",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "bc309e6ce",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "52dc6b56c",
+              "Subject": "Harden CI workflows (#450)"
+            },
+            {
+              "SHA": "b10cd4ceb",
+              "Subject": "Prepare for release v0.51.0 (#449)"
+            },
+            {
+              "SHA": "84446e805",
+              "Subject": "Delete metrics exposter config secret (#448)"
+            },
+            {
+              "SHA": "4285acd48",
+              "Subject": "Configure dependabot refresh schedule (#447)"
+            },
+            {
+              "SHA": "9ab6296ae",
+              "Subject": "Configure dependabot refresh schedule (#446)"
             }
           ]
         }

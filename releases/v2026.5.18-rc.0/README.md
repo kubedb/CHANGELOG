@@ -362,6 +362,24 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0-rc.0)
+
+- [787c5056](https://github.com/kubedb/mssqlserver/commit/787c5056) Prepare for release v0.20.0-rc.0 (#133)
+- [76e95035](https://github.com/kubedb/mssqlserver/commit/76e95035) Tighten CI/release workflow secrets, perms, and release notes
+- [8afbd426](https://github.com/kubedb/mssqlserver/commit/8afbd426) Harden release and release-tracker workflows
+- [c7de0e00](https://github.com/kubedb/mssqlserver/commit/c7de0e00) Add CLAUDE.md pointing to AGENTS.md
+- [ccef8128](https://github.com/kubedb/mssqlserver/commit/ccef8128) Add AGENTS.md for AI coding agents
+- [a8ffa607](https://github.com/kubedb/mssqlserver/commit/a8ffa607) Harden CI workflows (#130)
+- [a4e311d8](https://github.com/kubedb/mssqlserver/commit/a4e311d8) Update sidekick leader selection labels; storage sync is not implemented (#129)
+- [b90a9ea2](https://github.com/kubedb/mssqlserver/commit/b90a9ea2) Prepare for release v0.19.0 (#128)
+- [4bed5e0e](https://github.com/kubedb/mssqlserver/commit/4bed5e0e) Offline Volume Expansion Fix (#127)
+- [d72370a5](https://github.com/kubedb/mssqlserver/commit/d72370a5) Configure dependabot refresh schedule (#126)
+- [1e84f01f](https://github.com/kubedb/mssqlserver/commit/1e84f01f) Configure dependabot refresh schedule (#125)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.19.0-rc.0)

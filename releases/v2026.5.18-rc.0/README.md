@@ -515,6 +515,25 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.58.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.58.0-rc.0)
+
+- [0f32df04](https://github.com/kubedb/mongodb/commit/0f32df042) Prepare for release v0.58.0-rc.0 (#761)
+- [d1f66646](https://github.com/kubedb/mongodb/commit/d1f66646a) Tighten CI/release workflow secrets, perms, and release notes
+- [71ddfc66](https://github.com/kubedb/mongodb/commit/71ddfc668) Harden release and release-tracker workflows
+- [b6c2d289](https://github.com/kubedb/mongodb/commit/b6c2d2898) Run Ops Request Locally (#760)
+- [93f12e1a](https://github.com/kubedb/mongodb/commit/93f12e1a9) Add StorageMigration OpsRequest support (#759)
+- [c895f662](https://github.com/kubedb/mongodb/commit/c895f662f) Add CLAUDE.md pointing to AGENTS.md
+- [a80e04c8](https://github.com/kubedb/mongodb/commit/a80e04c8a) Add AGENTS.md for AI coding agents
+- [30e4b394](https://github.com/kubedb/mongodb/commit/30e4b394c) Harden CI workflows (#757)
+- [56b32245](https://github.com/kubedb/mongodb/commit/56b322456) Fix Sidekick issue; Fix storage cred secret sync issue (#756)
+- [5369fa5a](https://github.com/kubedb/mongodb/commit/5369fa5a4) Prepare for release v0.57.0 (#755)
+- [5d951fbc](https://github.com/kubedb/mongodb/commit/5d951fbcb) Configure dependabot refresh schedule (#754)
+- [7a809347](https://github.com/kubedb/mongodb/commit/7a8093470) Configure dependabot refresh schedule (#753)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.26.0-rc.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.26.0-rc.0)

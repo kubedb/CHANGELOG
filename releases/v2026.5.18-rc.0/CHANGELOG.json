@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:32:56.353271161Z",
+  "release_date": "2026-05-20T15:33:39.848187764Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1516,6 +1516,64 @@
             {
               "SHA": "c04453e9",
               "Subject": "Configure dependabot refresh schedule (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.58.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0f32df042",
+              "Subject": "Prepare for release v0.58.0-rc.0 (#761)"
+            },
+            {
+              "SHA": "d1f66646a",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "71ddfc668",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "b6c2d2898",
+              "Subject": "Run Ops Request Locally (#760)"
+            },
+            {
+              "SHA": "93f12e1a9",
+              "Subject": "Add StorageMigration OpsRequest support (#759)"
+            },
+            {
+              "SHA": "c895f662f",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "a80e04c8a",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "30e4b394c",
+              "Subject": "Harden CI workflows (#757)"
+            },
+            {
+              "SHA": "56b322456",
+              "Subject": "Fix Sidekick issue; Fix storage cred secret sync issue (#756)"
+            },
+            {
+              "SHA": "5369fa5a4",
+              "Subject": "Prepare for release v0.57.0 (#755)"
+            },
+            {
+              "SHA": "5d951fbcb",
+              "Subject": "Configure dependabot refresh schedule (#754)"
+            },
+            {
+              "SHA": "7a8093470",
+              "Subject": "Configure dependabot refresh schedule (#753)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:56:02.409473037Z",
+  "release_date": "2026-05-20T14:57:14.087156346Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -544,6 +544,56 @@
             {
               "SHA": "64f35282",
               "Subject": "Configure dependabot refresh schedule (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.36.0-rc.0",
+          "commits": [
+            {
+              "SHA": "af590f7a",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#196)"
+            },
+            {
+              "SHA": "1182e416",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "bc7be0ce",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2bfcd4c6",
+              "Subject": "Run Ops Request Locally (#195)"
+            },
+            {
+              "SHA": "7cbac0ff",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "96456b8e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "8b49617d",
+              "Subject": "Harden CI workflows (#192)"
+            },
+            {
+              "SHA": "6ce1397a",
+              "Subject": "Prepare for release v0.35.0 (#191)"
+            },
+            {
+              "SHA": "832e9e7f",
+              "Subject": "Offline Volume Expansion Fix (#190)"
+            },
+            {
+              "SHA": "e62fe0c7",
+              "Subject": "Configure dependabot refresh schedule (#189)"
             }
           ]
         }

@@ -173,6 +173,23 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.36.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.36.0-rc.0)
+
+- [af590f7a](https://github.com/kubedb/kafka/commit/af590f7a) Prepare for release v0.36.0-rc.0 (#196)
+- [1182e416](https://github.com/kubedb/kafka/commit/1182e416) Tighten CI/release workflow secrets, perms, and release notes
+- [bc7be0ce](https://github.com/kubedb/kafka/commit/bc7be0ce) Harden release and release-tracker workflows
+- [2bfcd4c6](https://github.com/kubedb/kafka/commit/2bfcd4c6) Run Ops Request Locally (#195)
+- [7cbac0ff](https://github.com/kubedb/kafka/commit/7cbac0ff) Add CLAUDE.md pointing to AGENTS.md
+- [96456b8e](https://github.com/kubedb/kafka/commit/96456b8e) Add AGENTS.md for AI coding agents
+- [8b49617d](https://github.com/kubedb/kafka/commit/8b49617d) Harden CI workflows (#192)
+- [6ce1397a](https://github.com/kubedb/kafka/commit/6ce1397a) Prepare for release v0.35.0 (#191)
+- [832e9e7f](https://github.com/kubedb/kafka/commit/832e9e7f) Offline Volume Expansion Fix (#190)
+- [e62fe0c7](https://github.com/kubedb/kafka/commit/e62fe0c7) Configure dependabot refresh schedule (#189)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.28.0-rc.0)

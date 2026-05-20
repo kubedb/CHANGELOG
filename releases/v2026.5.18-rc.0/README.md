@@ -582,6 +582,22 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.11.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.11.0-rc.0)
+
+- [22259d8b](https://github.com/kubedb/oracle/commit/22259d8b) Prepare for release v0.11.0-rc.0 (#52)
+- [ef7a90cb](https://github.com/kubedb/oracle/commit/ef7a90cb) Tighten CI/release workflow secrets, perms, and release notes
+- [7484f753](https://github.com/kubedb/oracle/commit/7484f753) fix-petset-GetObjectMeta (#49)
+- [a2a4e973](https://github.com/kubedb/oracle/commit/a2a4e973) Harden release and release-tracker workflows
+- [449beab1](https://github.com/kubedb/oracle/commit/449beab1) Add CLAUDE.md pointing to AGENTS.md
+- [ae706c75](https://github.com/kubedb/oracle/commit/ae706c75) Add AGENTS.md for AI coding agents
+- [47addbe9](https://github.com/kubedb/oracle/commit/47addbe9) Harden CI workflows (#43)
+- [75cab6ba](https://github.com/kubedb/oracle/commit/75cab6ba) Prepare for release v0.10.0 (#41)
+- [4e495dcd](https://github.com/kubedb/oracle/commit/4e495dcd) Configure dependabot refresh schedule (#40)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.38.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0-rc.0)

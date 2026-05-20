@@ -93,3 +93,15 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.43.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.43.0-rc.0)
+
+- [1fe79e5](https://github.com/kubedb/mysql-router-init/commit/1fe79e5) Tighten CI/release workflow secrets, perms, and release notes
+- [399bf84](https://github.com/kubedb/mysql-router-init/commit/399bf84) Add AGENTS.md for AI coding agents
+- [e1d55d1](https://github.com/kubedb/mysql-router-init/commit/e1d55d1) Merge pull request #59 from kubedb/use-app-token-2284
+- [aacf7fa](https://github.com/kubedb/mysql-router-init/commit/aacf7fa) Configure dependabot refresh schedule (#57)
+- [37d1624](https://github.com/kubedb/mysql-router-init/commit/37d1624) Configure dependabot refresh schedule (#56)
+
+
+

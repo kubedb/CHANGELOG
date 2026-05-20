@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:30:32.599644619Z",
+  "release_date": "2026-05-20T15:32:34.898571604Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1804,6 +1804,56 @@
             {
               "SHA": "23d32e5d",
               "Subject": "Configure dependabot refresh schedule (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.43.0-rc.0",
+          "commits": [
+            {
+              "SHA": "700dcc95",
+              "Subject": "Prepare for release v0.43.0-rc.0 (#180)"
+            },
+            {
+              "SHA": "7550f622",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "8772c753",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "1a20ce7c",
+              "Subject": "Fix innodb cluster support for 8.4+ (#171)"
+            },
+            {
+              "SHA": "21bcc293",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "92a93955",
+              "Subject": "Harden CI workflows (#178)"
+            },
+            {
+              "SHA": "fb729a7e",
+              "Subject": "Fix FullRecovery Acknowlegdement Process (#177)"
+            },
+            {
+              "SHA": "f094a593",
+              "Subject": "Prepare for release v0.42.0 (#176)"
+            },
+            {
+              "SHA": "4dfe4dbe",
+              "Subject": "Configure dependabot refresh schedule (#175)"
+            },
+            {
+              "SHA": "432033b2",
+              "Subject": "Configure dependabot refresh schedule (#174)"
             }
           ]
         }

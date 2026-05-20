@@ -590,6 +590,24 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.58.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.58.0-rc.0)
+
+- [3afe56ea](https://github.com/kubedb/redis/commit/3afe56eab) Prepare for release v0.58.0-rc.0 (#646)
+- [c961cdb4](https://github.com/kubedb/redis/commit/c961cdb42) Tighten CI/release workflow secrets, perms, and release notes
+- [a09720d5](https://github.com/kubedb/redis/commit/a09720d5b) Harden release and release-tracker workflows
+- [7d00abef](https://github.com/kubedb/redis/commit/7d00abef9) Run Ops Request Locally (#645)
+- [740c5c96](https://github.com/kubedb/redis/commit/740c5c968) Add CLAUDE.md pointing to AGENTS.md
+- [d23b442c](https://github.com/kubedb/redis/commit/d23b442c3) Add AGENTS.md for AI coding agents
+- [d5c294b0](https://github.com/kubedb/redis/commit/d5c294b03) Harden CI workflows (#640)
+- [34c6e5d5](https://github.com/kubedb/redis/commit/34c6e5d56) Add governing svc name in cert (#639)
+- [680eaa9e](https://github.com/kubedb/redis/commit/680eaa9ec) Prepare for release v0.57.0 (#638)
+- [7d78dfd9](https://github.com/kubedb/redis/commit/7d78dfd9e) Configure dependabot refresh schedule (#637)
+- [fc44407f](https://github.com/kubedb/redis/commit/fc44407fc) Configure dependabot refresh schedule (#636)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.44.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.44.0-rc.0)

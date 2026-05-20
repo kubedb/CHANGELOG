@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:08:21.657873177Z",
+  "release_date": "2026-05-20T15:08:36.81431162Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1726,6 +1726,60 @@
             {
               "SHA": "c80c9679",
               "Subject": "Configure dependabot refresh schedule (#127)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.58.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3afe56eab",
+              "Subject": "Prepare for release v0.58.0-rc.0 (#646)"
+            },
+            {
+              "SHA": "c961cdb42",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "a09720d5b",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "7d00abef9",
+              "Subject": "Run Ops Request Locally (#645)"
+            },
+            {
+              "SHA": "740c5c968",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "d23b442c3",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "d5c294b03",
+              "Subject": "Harden CI workflows (#640)"
+            },
+            {
+              "SHA": "34c6e5d56",
+              "Subject": "Add governing svc name in cert (#639)"
+            },
+            {
+              "SHA": "680eaa9ec",
+              "Subject": "Prepare for release v0.57.0 (#638)"
+            },
+            {
+              "SHA": "7d78dfd9e",
+              "Subject": "Configure dependabot refresh schedule (#637)"
+            },
+            {
+              "SHA": "fc44407fc",
+              "Subject": "Configure dependabot refresh schedule (#636)"
             }
           ]
         }

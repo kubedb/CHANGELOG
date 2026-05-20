@@ -1,0 +1,264 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.5.18-rc.0",
+  "release_date": "2026-05-20T09:28:57.834912872Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.0",
+          "commits": [
+            {
+              "SHA": "05817720d",
+              "Subject": "Update for release KubeStash@v2026.5.18-rc.0 (#1718)"
+            },
+            {
+              "SHA": "c5944a1e2",
+              "Subject": "Fix build (#1717)"
+            },
+            {
+              "SHA": "6fc989976",
+              "Subject": "hanadb tls (#1646)"
+            },
+            {
+              "SHA": "58f38fc9a",
+              "Subject": "Extend StorageMigration specs with topology-aware per-component fields (#1715)"
+            },
+            {
+              "SHA": "c2dfa3a81",
+              "Subject": "added mongodb migration fields (#1656)"
+            },
+            {
+              "SHA": "fbdb3d8ea",
+              "Subject": "Set Ops Request Options Defaults in Autoscaler (#1669)"
+            },
+            {
+              "SHA": "dfc3c09ef",
+              "Subject": "Add Qdrant Autoscaler (#1648)"
+            },
+            {
+              "SHA": "f48b0ac89",
+              "Subject": "Add Aerospike (#1635)"
+            },
+            {
+              "SHA": "3897eb732",
+              "Subject": "Add ClickHouse Archiver (#1653)"
+            },
+            {
+              "SHA": "cf2a76b9d",
+              "Subject": "Documentdb Clusterring (#1673)"
+            },
+            {
+              "SHA": "198401e00",
+              "Subject": "Add HanaDBAutoscaler types (#1709)"
+            },
+            {
+              "SHA": "6d4b36828",
+              "Subject": "Add RotateAuth OpsRequest type for Weaviate (#1704)"
+            },
+            {
+              "SHA": "9adb9ccd9",
+              "Subject": "Add RotateAuth OpsRequest type for Hanadb (#1703)"
+            },
+            {
+              "SHA": "bfd939a9a",
+              "Subject": "Add VerticalScaling type for WeaviateOpsRequest (#1701)"
+            },
+            {
+              "SHA": "917d39e4d",
+              "Subject": "Add WeaviateAutoscaler types and Weaviate ops scaling support (#1711)"
+            },
+            {
+              "SHA": "56dd78914",
+              "Subject": "Add VerticalScaling type for HanaDBOpsRequest"
+            },
+            {
+              "SHA": "cddf6ff86",
+              "Subject": "Add VolumeExpansion API to WeaviateOpsRequest (#1699)"
+            },
+            {
+              "SHA": "c2e158d26",
+              "Subject": "Add VolumeExpansion API to HanaDBOpsRequest (#1697)"
+            },
+            {
+              "SHA": "a53cf0a15",
+              "Subject": "Add oracle ops reaconfigure (#1670)"
+            },
+            {
+              "SHA": "53210b114",
+              "Subject": "Add DocumentDBOpsRequest API types and client bindings (#1706)"
+            },
+            {
+              "SHA": "dfdd296c9",
+              "Subject": "Add Neo4jAutoscaler types (#1707)"
+            },
+            {
+              "SHA": "0083a77b2",
+              "Subject": "Add DocumentDBAutoscaler API types (#1710)"
+            },
+            {
+              "SHA": "562fac689",
+              "Subject": "Add StorageMigration OpsRequest type for Druid (#1713)"
+            },
+            {
+              "SHA": "28c3244bb",
+              "Subject": "Add StorageMigration to HanaDB ops API (#1695)"
+            },
+            {
+              "SHA": "6610d121c",
+              "Subject": "Add StorageMigration op type for Cassandra (#1688)"
+            },
+            {
+              "SHA": "fb0191306",
+              "Subject": "Add StorageMigration op type for ClickHouse (#1691)"
+            },
+            {
+              "SHA": "eca9d5c2c",
+              "Subject": "Add StorageMigration op type for Ignite (#1690)"
+            },
+            {
+              "SHA": "4f3a5c8ad",
+              "Subject": "Add StorageMigration op type for Hazelcast (#1687)"
+            },
+            {
+              "SHA": "0807f1850",
+              "Subject": "Add StorageMigration OpsRequest support for RabbitMQ (#1692)"
+            },
+            {
+              "SHA": "d6cb56c08",
+              "Subject": "Add StorageMigration OpsRequest support for Solr (#1685)"
+            },
+            {
+              "SHA": "b0dac243e",
+              "Subject": "Add StorageMigration OpsRequest type for MSSQLServer (#1684)"
+            },
+            {
+              "SHA": "72fdc722d",
+              "Subject": "Add StorageMigration OpsRequest type for Singlestore (#1683)"
+            },
+            {
+              "SHA": "c0312b1a1",
+              "Subject": "Add StorageMigration OpsRequest support for Redis (#1682)"
+            },
+            {
+              "SHA": "fee115489",
+              "Subject": "Add migration api for mysql and mariadb (#1628)"
+            },
+            {
+              "SHA": "fdf5544cf",
+              "Subject": "Add StorageMigration OpsRequest support for PerconaXtraDB (#1681)"
+            },
+            {
+              "SHA": "cf0279326",
+              "Subject": "Add StorageMigration op type for MariaDB (#1680)"
+            },
+            {
+              "SHA": "e49a2e615",
+              "Subject": "Add StorageMigration OpsRequest support for Qdrant (#1686)"
+            },
+            {
+              "SHA": "9c39cb2c4",
+              "Subject": "Add StorageMigration OpsRequest support for Neo4j (#1689)"
+            },
+            {
+              "SHA": "0dcd1c390",
+              "Subject": "Add StorageMigration op type for Kafka (#1679)"
+            },
+            {
+              "SHA": "12f28802b",
+              "Subject": "Add StorageMigration op type for Elasticsearch (#1677)"
+            },
+            {
+              "SHA": "500826015",
+              "Subject": "Add StorageMigration op type for MongoDB (#1678)"
+            },
+            {
+              "SHA": "840ffde38",
+              "Subject": "Add Milvus TLS Support (#1632)"
+            },
+            {
+              "SHA": "ec2f05e6d",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "7b1cb9292",
+              "Subject": "Pin git user to 1gtm in update-crds/update-docs workflows (#1675)"
+            },
+            {
+              "SHA": "479e8aa1d",
+              "Subject": "Harden CI workflows (#1668)"
+            },
+            {
+              "SHA": "0e06cafc8",
+              "Subject": "Reconfig Merger bug fix (#1674)"
+            },
+            {
+              "SHA": "0f3ce7e28",
+              "Subject": "Add MySQL InnodDB variables (#1644)"
+            },
+            {
+              "SHA": "8bc390baf",
+              "Subject": "Ignore secret copy for local provider (#1664)"
+            },
+            {
+              "SHA": "014f65032",
+              "Subject": "Do not create secret for credless mode (#1663)"
+            },
+            {
+              "SHA": "e7d97b2a5",
+              "Subject": "Change default resource for Cassandra db container (#1661)"
+            },
+            {
+              "SHA": "ba60ac23d",
+              "Subject": "Add utility function for storage cred secret (#1662)"
+            },
+            {
+              "SHA": "c3eb083ed",
+              "Subject": "Delete metrics-exporter-config secret on wipeout for elasticsearch (#1659)"
+            },
+            {
+              "SHA": "c3ac2f620",
+              "Subject": "Use kubestash.dev/apimachinery v0.27.0 (#1660)"
+            },
+            {
+              "SHA": "c10232911",
+              "Subject": "Redis ACL update stuck (#1658)"
+            },
+            {
+              "SHA": "36d3d4d1a",
+              "Subject": "Fix volume expansion validation issue for all databases (#1655)"
+            },
+            {
+              "SHA": "9485c5e71",
+              "Subject": "Delete metrics-exporter-config secret on wipeout (#1657)"
+            },
+            {
+              "SHA": "f4dbf42b5",
+              "Subject": "Add Neo4j update version, volume Expansion Ops Api (#1643)"
+            },
+            {
+              "SHA": "aa07ae212",
+              "Subject": "Configure dependabot refresh schedule (#1652)"
+            },
+            {
+              "SHA": "22d420571",
+              "Subject": "Test against k8s 1.35 (#1651)"
+            },
+            {
+              "SHA": "faed84a4c",
+              "Subject": "Update documentdb short name code (#1650)"
+            },
+            {
+              "SHA": "3a8dc30be",
+              "Subject": "fix: register Ignite autoscaler (#1649)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

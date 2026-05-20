@@ -229,6 +229,20 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.38.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0-rc.0)
+
+- [d71a8b78](https://github.com/kubedb/percona-xtradb-coordinator/commit/d71a8b78) Prepare for release v0.38.0-rc.0 (#127)
+- [dcf12fa2](https://github.com/kubedb/percona-xtradb-coordinator/commit/dcf12fa2) Tighten CI/release workflow secrets, perms, and release notes
+- [98fc7cc6](https://github.com/kubedb/percona-xtradb-coordinator/commit/98fc7cc6) Harden release and release-tracker workflows
+- [37eb5997](https://github.com/kubedb/percona-xtradb-coordinator/commit/37eb5997) Add AGENTS.md for AI coding agents
+- [1881477c](https://github.com/kubedb/percona-xtradb-coordinator/commit/1881477c) Harden CI workflows (#125)
+- [e1bf59f7](https://github.com/kubedb/percona-xtradb-coordinator/commit/e1bf59f7) Prepare for release v0.37.0 (#124)
+- [9b44e907](https://github.com/kubedb/percona-xtradb-coordinator/commit/9b44e907) Configure dependabot refresh schedule (#123)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.26.0-rc.0](https://github.com/kubedb/provider-aws/releases/tag/v0.26.0-rc.0)

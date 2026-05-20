@@ -346,6 +346,20 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.23.0-rc.0)
+
+- [7ffb72a7](https://github.com/kubedb/mariadb-restic-plugin/commit/7ffb72a7) Prepare for release v0.23.0-rc.0 (#90)
+- [9e4c9505](https://github.com/kubedb/mariadb-restic-plugin/commit/9e4c9505) Harden release and release-tracker workflows
+- [3e6d811d](https://github.com/kubedb/mariadb-restic-plugin/commit/3e6d811d) Add AGENTS.md for AI coding agents
+- [df88fa1b](https://github.com/kubedb/mariadb-restic-plugin/commit/df88fa1b) Harden CI workflows (#88)
+- [be3b7385](https://github.com/kubedb/mariadb-restic-plugin/commit/be3b7385) Prepare for release v0.22.0 (#86)
+- [f68e059d](https://github.com/kubedb/mariadb-restic-plugin/commit/f68e059d) Bump RESTIC_VERSION to 0.18.1-20260421 (#85)
+- [14c31f3b](https://github.com/kubedb/mariadb-restic-plugin/commit/14c31f3b) Configure dependabot refresh schedule (#84)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.58.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.58.0-rc.0)

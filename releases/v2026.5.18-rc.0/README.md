@@ -408,6 +408,20 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.16.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.16.0-rc.0)
+
+- [e78f35ea](https://github.com/kubedb/kubedb-verifier/commit/e78f35ea) Prepare for release v0.16.0-rc.0 (#51)
+- [fa4b05f8](https://github.com/kubedb/kubedb-verifier/commit/fa4b05f8) Harden release and release-tracker workflows
+- [f13312e1](https://github.com/kubedb/kubedb-verifier/commit/f13312e1) Add AGENTS.md for AI coding agents
+- [8d1ab507](https://github.com/kubedb/kubedb-verifier/commit/8d1ab507) Harden CI workflows (#49)
+- [8a0602f4](https://github.com/kubedb/kubedb-verifier/commit/8a0602f4) Prepare for release v0.15.0 (#48)
+- [323d90e5](https://github.com/kubedb/kubedb-verifier/commit/323d90e5) Configure dependabot refresh schedule (#47)
+- [669fa6c3](https://github.com/kubedb/kubedb-verifier/commit/669fa6c3) Configure dependabot refresh schedule (#46)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.25.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:32:34.898571604Z",
+  "release_date": "2026-05-20T15:32:43.453132257Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1214,6 +1214,44 @@
             {
               "SHA": "554ca50b",
               "Subject": "Configure dependabot refresh schedule (#125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.16.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e78f35ea",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "fa4b05f8",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "f13312e1",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "8d1ab507",
+              "Subject": "Harden CI workflows (#49)"
+            },
+            {
+              "SHA": "8a0602f4",
+              "Subject": "Prepare for release v0.15.0 (#48)"
+            },
+            {
+              "SHA": "323d90e5",
+              "Subject": "Configure dependabot refresh schedule (#47)"
+            },
+            {
+              "SHA": "669fa6c3",
+              "Subject": "Configure dependabot refresh schedule (#46)"
             }
           ]
         }

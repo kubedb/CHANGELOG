@@ -266,6 +266,21 @@
 
 
 
+## [kubedb/ferretdb](https://github.com/kubedb/ferretdb)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/ferretdb/releases/tag/v0.20.0-rc.0)
+
+- [d675099b](https://github.com/kubedb/ferretdb/commit/d675099b) Prepare for release v0.20.0-rc.0 (#119)
+- [3a79f27d](https://github.com/kubedb/ferretdb/commit/3a79f27d) Tighten CI/release workflow secrets, perms, and release notes
+- [2f9b7581](https://github.com/kubedb/ferretdb/commit/2f9b7581) Harden release and release-tracker workflows
+- [50fc01b7](https://github.com/kubedb/ferretdb/commit/50fc01b7) Add AGENTS.md for AI coding agents
+- [cab0a64d](https://github.com/kubedb/ferretdb/commit/cab0a64d) Harden CI workflows (#117)
+- [805d066b](https://github.com/kubedb/ferretdb/commit/805d066b) Prepare for release v0.19.0 (#116)
+- [6650292a](https://github.com/kubedb/ferretdb/commit/6650292a) Configure dependabot refresh schedule (#115)
+- [04040043](https://github.com/kubedb/ferretdb/commit/04040043) Configure dependabot refresh schedule (#114)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.13.0-rc.0)

@@ -767,6 +767,20 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.20.0-rc.0)
+
+- [9dd15b6e](https://github.com/kubedb/pgpool/commit/9dd15b6e) Prepare for release v0.20.0-rc.0 (#120)
+- [dbd10776](https://github.com/kubedb/pgpool/commit/dbd10776) Tighten CI/release workflow secrets, perms, and release notes
+- [12f83ac2](https://github.com/kubedb/pgpool/commit/12f83ac2) Harden release and release-tracker workflows
+- [23a0bf8f](https://github.com/kubedb/pgpool/commit/23a0bf8f) Add AGENTS.md for AI coding agents
+- [efab69a4](https://github.com/kubedb/pgpool/commit/efab69a4) Harden CI workflows (#118)
+- [e34a9780](https://github.com/kubedb/pgpool/commit/e34a9780) Prepare for release v0.19.0 (#117)
+- [927c85f7](https://github.com/kubedb/pgpool/commit/927c85f7) Configure dependabot refresh schedule (#116)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.65.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.65.0-rc.0)

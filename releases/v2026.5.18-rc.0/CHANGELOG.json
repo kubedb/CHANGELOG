@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T17:29:24.883374037Z",
+  "release_date": "2026-05-20T17:33:51.458169138Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1172,6 +1172,72 @@
             {
               "SHA": "e62fe0c7",
               "Subject": "Configure dependabot refresh schedule (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7f848668",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#182)"
+            },
+            {
+              "SHA": "4a984afd",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "aee66c89",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "3e24fcd8",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ea78001c",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "b4fb97cd",
+              "Subject": "Use GitHub App token for release tracker comments (#179)"
+            },
+            {
+              "SHA": "0420d005",
+              "Subject": "Merge branch 'master' into use-app-token-2284"
+            },
+            {
+              "SHA": "70f324fc",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "15282d6c",
+              "Subject": "Pin actions to commit SHAs"
+            },
+            {
+              "SHA": "27d597c7",
+              "Subject": "Harden CI workflows (#180)"
+            },
+            {
+              "SHA": "402312ef",
+              "Subject": "Use GitHub App token for release tracker comments"
+            },
+            {
+              "SHA": "a125f71e",
+              "Subject": "Prepare for release v0.40.0 (#177)"
+            },
+            {
+              "SHA": "af12545d",
+              "Subject": "Configure dependabot refresh schedule (#176)"
+            },
+            {
+              "SHA": "aa8a3fa5",
+              "Subject": "Configure dependabot refresh schedule (#175)"
             }
           ]
         }

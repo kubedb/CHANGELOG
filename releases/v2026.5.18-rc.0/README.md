@@ -393,6 +393,27 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.41.0-rc.0](https://github.com/kubedb/kibana/releases/tag/v0.41.0-rc.0)
+
+- [7f848668](https://github.com/kubedb/kibana/commit/7f848668) Prepare for release v0.41.0-rc.0 (#182)
+- [4a984afd](https://github.com/kubedb/kibana/commit/4a984afd) Tighten CI/release workflow secrets, perms, and release notes
+- [aee66c89](https://github.com/kubedb/kibana/commit/aee66c89) Harden release and release-tracker workflows
+- [3e24fcd8](https://github.com/kubedb/kibana/commit/3e24fcd8) Add CLAUDE.md pointing to AGENTS.md
+- [ea78001c](https://github.com/kubedb/kibana/commit/ea78001c) Fix release tracker workflow
+- [b4fb97cd](https://github.com/kubedb/kibana/commit/b4fb97cd) Use GitHub App token for release tracker comments (#179)
+- [0420d005](https://github.com/kubedb/kibana/commit/0420d005) Merge branch 'master' into use-app-token-2284
+- [70f324fc](https://github.com/kubedb/kibana/commit/70f324fc) Add AGENTS.md for AI coding agents
+- [15282d6c](https://github.com/kubedb/kibana/commit/15282d6c) Pin actions to commit SHAs
+- [27d597c7](https://github.com/kubedb/kibana/commit/27d597c7) Harden CI workflows (#180)
+- [402312ef](https://github.com/kubedb/kibana/commit/402312ef) Use GitHub App token for release tracker comments
+- [a125f71e](https://github.com/kubedb/kibana/commit/a125f71e) Prepare for release v0.40.0 (#177)
+- [af12545d](https://github.com/kubedb/kibana/commit/af12545d) Configure dependabot refresh schedule (#176)
+- [aa8a3fa5](https://github.com/kubedb/kibana/commit/aa8a3fa5) Configure dependabot refresh schedule (#175)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.28.0-rc.0)

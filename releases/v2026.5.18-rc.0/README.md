@@ -171,6 +171,21 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0-rc.0)
+
+- [da2d60f4](https://github.com/kubedb/mariadb-coordinator/commit/da2d60f4) Prepare for release v0.45.0-rc.0 (#179)
+- [77d610ef](https://github.com/kubedb/mariadb-coordinator/commit/77d610ef) Tighten CI/release workflow secrets, perms, and release notes
+- [492ee0ac](https://github.com/kubedb/mariadb-coordinator/commit/492ee0ac) Chaos Test: Fix Disaster Recovery (#174)
+- [7b81cb8c](https://github.com/kubedb/mariadb-coordinator/commit/7b81cb8c) Harden release and release-tracker workflows
+- [43a65240](https://github.com/kubedb/mariadb-coordinator/commit/43a65240) Add AGENTS.md for AI coding agents
+- [0af4eea5](https://github.com/kubedb/mariadb-coordinator/commit/0af4eea5) Harden CI workflows (#177)
+- [8eeb0bbb](https://github.com/kubedb/mariadb-coordinator/commit/8eeb0bbb) Prepare for release v0.44.0 (#175)
+- [4e9fe98d](https://github.com/kubedb/mariadb-coordinator/commit/4e9fe98d) Configure dependabot refresh schedule (#173)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.58.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.58.0-rc.0)

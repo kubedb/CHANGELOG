@@ -161,6 +161,17 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.26.0-rc.0](https://github.com/kubedb/provider-azure/releases/tag/v0.26.0-rc.0)
+
+- [630e43c](https://github.com/kubedb/provider-azure/commit/630e43c) Tighten CI/release workflow secrets, perms, and release notes
+- [3d78f9c](https://github.com/kubedb/provider-azure/commit/3d78f9c) Add AGENTS.md for AI coding agents (#30)
+- [7f7b570](https://github.com/kubedb/provider-azure/commit/7f7b570) Restrict /ok-to-test to org members (#29)
+- [2923d77](https://github.com/kubedb/provider-azure/commit/2923d77) Configure dependabot refresh schedule (#27)
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.26.0-rc.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.26.0-rc.0)

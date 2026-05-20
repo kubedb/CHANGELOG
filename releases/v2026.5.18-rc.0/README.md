@@ -615,3 +615,20 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.20.0-rc.0)
+
+- [a572da63](https://github.com/kubedb/zookeeper/commit/a572da63) Prepare for release v0.20.0-rc.0 (#121)
+- [f583941f](https://github.com/kubedb/zookeeper/commit/f583941f) Tighten CI/release workflow secrets, perms, and release notes
+- [d4475edf](https://github.com/kubedb/zookeeper/commit/d4475edf) Harden release and release-tracker workflows
+- [7a658949](https://github.com/kubedb/zookeeper/commit/7a658949) Add CLAUDE.md pointing to AGENTS.md
+- [d06d8429](https://github.com/kubedb/zookeeper/commit/d06d8429) Add AGENTS.md for AI coding agents
+- [36e65048](https://github.com/kubedb/zookeeper/commit/36e65048) Harden CI workflows (#119)
+- [bd934f48](https://github.com/kubedb/zookeeper/commit/bd934f48) Prepare for release v0.19.0 (#118)
+- [88cc9518](https://github.com/kubedb/zookeeper/commit/88cc9518) fix vol exp (#117)
+- [bba031e5](https://github.com/kubedb/zookeeper/commit/bba031e5) Configure dependabot refresh schedule (#116)
+- [f745f1a2](https://github.com/kubedb/zookeeper/commit/f745f1a2) Configure dependabot refresh schedule (#115)
+
+
+

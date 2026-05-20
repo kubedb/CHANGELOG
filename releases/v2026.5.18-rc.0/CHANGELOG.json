@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:06:00.103512163Z",
+  "release_date": "2026-05-20T15:06:53.38361017Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1790,6 +1790,56 @@
             {
               "SHA": "6199440e",
               "Subject": "Configure dependabot refresh schedule (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a572da63",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#121)"
+            },
+            {
+              "SHA": "f583941f",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "d4475edf",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "7a658949",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "d06d8429",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "36e65048",
+              "Subject": "Harden CI workflows (#119)"
+            },
+            {
+              "SHA": "bd934f48",
+              "Subject": "Prepare for release v0.19.0 (#118)"
+            },
+            {
+              "SHA": "88cc9518",
+              "Subject": "fix vol exp (#117)"
+            },
+            {
+              "SHA": "bba031e5",
+              "Subject": "Configure dependabot refresh schedule (#116)"
+            },
+            {
+              "SHA": "f745f1a2",
+              "Subject": "Configure dependabot refresh schedule (#115)"
             }
           ]
         }

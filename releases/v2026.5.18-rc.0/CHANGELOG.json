@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:26:09.785194628Z",
+  "release_date": "2026-05-20T15:27:49.564572724Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1172,6 +1172,48 @@
             {
               "SHA": "554ca50b",
               "Subject": "Configure dependabot refresh schedule (#125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0c208981",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#92)"
+            },
+            {
+              "SHA": "e0dc262d",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "b10e53a2",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2a326a8b",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "0eae12a8",
+              "Subject": "Harden CI workflows (#90)"
+            },
+            {
+              "SHA": "13e2fce5",
+              "Subject": "Prepare for release v0.24.0 (#88)"
+            },
+            {
+              "SHA": "40106456",
+              "Subject": "Update Wal-G version for AWS credless mode (#85)"
+            },
+            {
+              "SHA": "b3eb743f",
+              "Subject": "Configure dependabot refresh schedule (#87)"
             }
           ]
         }

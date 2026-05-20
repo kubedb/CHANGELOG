@@ -701,6 +701,22 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.20.0-rc.0)
+
+- [d6f12bb7](https://github.com/kubedb/solr/commit/d6f12bb7) Prepare for release v0.20.0-rc.0 (#130)
+- [b947dd5c](https://github.com/kubedb/solr/commit/b947dd5c) Tighten CI/release workflow secrets, perms, and release notes
+- [5a339830](https://github.com/kubedb/solr/commit/5a339830) Harden release and release-tracker workflows
+- [59801485](https://github.com/kubedb/solr/commit/59801485) Add CLAUDE.md pointing to AGENTS.md
+- [8e55bf7a](https://github.com/kubedb/solr/commit/8e55bf7a) Add AGENTS.md for AI coding agents
+- [a91a2ae7](https://github.com/kubedb/solr/commit/a91a2ae7) Harden CI workflows (#127)
+- [d4d7b833](https://github.com/kubedb/solr/commit/d4d7b833) Prepare for release v0.19.0 (#126)
+- [301b697f](https://github.com/kubedb/solr/commit/301b697f) Offline Volume Expansion Fix (#125)
+- [d255112f](https://github.com/kubedb/solr/commit/d255112f) Configure dependabot refresh schedule (#124)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.0)

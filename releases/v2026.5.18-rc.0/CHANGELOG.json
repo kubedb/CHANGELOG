@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:38:19.387708513Z",
+  "release_date": "2026-05-20T15:38:50.492338254Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -2498,6 +2498,44 @@
             {
               "SHA": "c20cd235",
               "Subject": "Configure dependabot refresh schedule (#84)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "dad161fc",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#109)"
+            },
+            {
+              "SHA": "e69d3dbc",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "341a4452",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "6b3dcd51",
+              "Subject": "Harden CI workflows (#107)"
+            },
+            {
+              "SHA": "b5399717",
+              "Subject": "Prepare for release v0.27.0 (#106)"
+            },
+            {
+              "SHA": "ff32b63e",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#105)"
+            },
+            {
+              "SHA": "deeb99ee",
+              "Subject": "Configure dependabot refresh schedule (#104)"
             }
           ]
         }

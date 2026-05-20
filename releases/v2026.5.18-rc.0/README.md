@@ -139,6 +139,21 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.28.0-rc.0)
+
+- [1874f594](https://github.com/kubedb/kubedb-manifest-plugin/commit/1874f594) Prepare for release v0.28.0-rc.0 (#132)
+- [a8c857c8](https://github.com/kubedb/kubedb-manifest-plugin/commit/a8c857c8) Harden release and release-tracker workflows
+- [4390340d](https://github.com/kubedb/kubedb-manifest-plugin/commit/4390340d) Add AGENTS.md for AI coding agents
+- [88a6d9b5](https://github.com/kubedb/kubedb-manifest-plugin/commit/88a6d9b5) Harden CI workflows (#130)
+- [f07e155d](https://github.com/kubedb/kubedb-manifest-plugin/commit/f07e155d) Prepare for release v0.27.0 (#128)
+- [b22aa0b9](https://github.com/kubedb/kubedb-manifest-plugin/commit/b22aa0b9) Bump RESTIC_VERSION to 0.18.1-20260421 (#127)
+- [c4e0a75c](https://github.com/kubedb/kubedb-manifest-plugin/commit/c4e0a75c) Configure dependabot refresh schedule (#126)
+- [554ca50b](https://github.com/kubedb/kubedb-manifest-plugin/commit/554ca50b) Configure dependabot refresh schedule (#125)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.58.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.58.0-rc.0)

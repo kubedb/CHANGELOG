@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:04:40.692273657Z",
+  "release_date": "2026-05-20T15:05:12.116396118Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1222,6 +1222,64 @@
             {
               "SHA": "9b44e907",
               "Subject": "Configure dependabot refresh schedule (#123)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4aca95ba7",
+              "Subject": "Prepare for release v0.65.0-rc.0 (#889)"
+            },
+            {
+              "SHA": "cd25a1fca",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "f0d40da9b",
+              "Subject": "Add wal backup support for azure credless mode (#880)"
+            },
+            {
+              "SHA": "557c11f95",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "9b22d7959",
+              "Subject": "Run Ops Request Locally (#887)"
+            },
+            {
+              "SHA": "36945c392",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "44a337ef5",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "c4d57a65a",
+              "Subject": "Use docker/login-action; drop redundant docker hub steps (#884)"
+            },
+            {
+              "SHA": "723bdc55a",
+              "Subject": "Harden CI workflows (#882)"
+            },
+            {
+              "SHA": "791061f6b",
+              "Subject": "Fix Sidekick issue; Fix storage cred secret sync issue (#881)"
+            },
+            {
+              "SHA": "261287eee",
+              "Subject": "Prepare for release v0.64.0 (#879)"
+            },
+            {
+              "SHA": "0ab9077ae",
+              "Subject": "Configure dependabot refresh schedule (#878)"
             }
           ]
         }

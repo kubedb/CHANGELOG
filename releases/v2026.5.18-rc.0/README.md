@@ -410,6 +410,25 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.65.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.65.0-rc.0)
+
+- [4aca95ba](https://github.com/kubedb/postgres/commit/4aca95ba7) Prepare for release v0.65.0-rc.0 (#889)
+- [cd25a1fc](https://github.com/kubedb/postgres/commit/cd25a1fca) Tighten CI/release workflow secrets, perms, and release notes
+- [f0d40da9](https://github.com/kubedb/postgres/commit/f0d40da9b) Add wal backup support for azure credless mode (#880)
+- [557c11f9](https://github.com/kubedb/postgres/commit/557c11f95) Harden release and release-tracker workflows
+- [9b22d795](https://github.com/kubedb/postgres/commit/9b22d7959) Run Ops Request Locally (#887)
+- [36945c39](https://github.com/kubedb/postgres/commit/36945c392) Add CLAUDE.md pointing to AGENTS.md
+- [44a337ef](https://github.com/kubedb/postgres/commit/44a337ef5) Add AGENTS.md for AI coding agents
+- [c4d57a65](https://github.com/kubedb/postgres/commit/c4d57a65a) Use docker/login-action; drop redundant docker hub steps (#884)
+- [723bdc55](https://github.com/kubedb/postgres/commit/723bdc55a) Harden CI workflows (#882)
+- [791061f6](https://github.com/kubedb/postgres/commit/791061f6b) Fix Sidekick issue; Fix storage cred secret sync issue (#881)
+- [261287ee](https://github.com/kubedb/postgres/commit/261287eee) Prepare for release v0.64.0 (#879)
+- [0ab9077a](https://github.com/kubedb/postgres/commit/0ab9077ae) Configure dependabot refresh schedule (#878)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.26.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.26.0-rc.0)

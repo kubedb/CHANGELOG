@@ -501,6 +501,22 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.28.0-rc.0)
+
+- [70c2a000](https://github.com/kubedb/mongodb-restic-plugin/commit/70c2a000) Prepare for release v0.28.0-rc.0 (#128)
+- [88c32465](https://github.com/kubedb/mongodb-restic-plugin/commit/88c32465) Harden release and release-tracker workflows
+- [4c6631af](https://github.com/kubedb/mongodb-restic-plugin/commit/4c6631af) Add uri connection string for mongodump and mongorestore (#124)
+- [fcb9af9b](https://github.com/kubedb/mongodb-restic-plugin/commit/fcb9af9b) Add AGENTS.md for AI coding agents
+- [76f8adb4](https://github.com/kubedb/mongodb-restic-plugin/commit/76f8adb4) Harden CI workflows (#125)
+- [47c763b6](https://github.com/kubedb/mongodb-restic-plugin/commit/47c763b6) Prepare for release v0.27.0 (#123)
+- [4737d045](https://github.com/kubedb/mongodb-restic-plugin/commit/4737d045) Bump RESTIC_VERSION to 0.18.1-20260421 (#122)
+- [d9f373dc](https://github.com/kubedb/mongodb-restic-plugin/commit/d9f373dc) Configure dependabot refresh schedule (#121)
+- [af12c273](https://github.com/kubedb/mongodb-restic-plugin/commit/af12c273) Configure dependabot refresh schedule (#120)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0-rc.0)

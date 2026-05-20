@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:32:50.128433871Z",
+  "release_date": "2026-05-20T15:32:56.353271161Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -2106,6 +2106,40 @@
             {
               "SHA": "4e495dcd",
               "Subject": "Configure dependabot refresh schedule (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.11.0-rc.0",
+          "commits": [
+            {
+              "SHA": "eebe9e3",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#35)"
+            },
+            {
+              "SHA": "40f851c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "5d987d9",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9c163c8",
+              "Subject": "Use GitHub App token for release tracker comments (#33)"
+            },
+            {
+              "SHA": "f9f4dd8",
+              "Subject": "Prepare for release v0.10.0 (#31)"
+            },
+            {
+              "SHA": "b2a1a40",
+              "Subject": "Configure dependabot refresh schedule (#30)"
             }
           ]
         }

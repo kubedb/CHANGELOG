@@ -721,6 +721,19 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.11.0-rc.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.11.0-rc.0)
+
+- [eebe9e3](https://github.com/kubedb/oracle-coordinator/commit/eebe9e3) Prepare for release v0.11.0-rc.0 (#35)
+- [40f851c](https://github.com/kubedb/oracle-coordinator/commit/40f851c) Tighten CI/release workflow secrets, perms, and release notes
+- [5d987d9](https://github.com/kubedb/oracle-coordinator/commit/5d987d9) Add AGENTS.md for AI coding agents
+- [9c163c8](https://github.com/kubedb/oracle-coordinator/commit/9c163c8) Use GitHub App token for release tracker comments (#33)
+- [f9f4dd8](https://github.com/kubedb/oracle-coordinator/commit/f9f4dd8) Prepare for release v0.10.0 (#31)
+- [b2a1a40](https://github.com/kubedb/oracle-coordinator/commit/b2a1a40) Configure dependabot refresh schedule (#30)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.38.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0-rc.0)

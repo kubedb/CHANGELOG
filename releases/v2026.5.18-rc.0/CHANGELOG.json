@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:40:30.953095758Z",
+  "release_date": "2026-05-20T17:03:49.708822949Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -2398,6 +2398,60 @@
             {
               "SHA": "9b44e907",
               "Subject": "Configure dependabot refresh schedule (#123)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e1bf909c",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#251)"
+            },
+            {
+              "SHA": "9bda4b8a",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "960efc2e",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "14041cfd",
+              "Subject": "Update ci (#250)"
+            },
+            {
+              "SHA": "be5cb705",
+              "Subject": "Update ci (#249)"
+            },
+            {
+              "SHA": "8e884ef3",
+              "Subject": "Update for distributed postgres (#248)"
+            },
+            {
+              "SHA": "16abe9e8",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "80340f14",
+              "Subject": "Harden CI workflows (#246)"
+            },
+            {
+              "SHA": "65e4a089",
+              "Subject": "Add missing postgres client library package on ubi dockerfile (#237)"
+            },
+            {
+              "SHA": "9b36ab39",
+              "Subject": "Prepare for release v0.48.0 (#245)"
+            },
+            {
+              "SHA": "c9285b86",
+              "Subject": "Configure dependabot refresh schedule (#244)"
             }
           ]
         }

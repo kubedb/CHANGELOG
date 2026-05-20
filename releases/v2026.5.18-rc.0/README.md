@@ -821,6 +821,24 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.49.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.49.0-rc.0)
+
+- [e1bf909c](https://github.com/kubedb/pg-coordinator/commit/e1bf909c) Prepare for release v0.49.0-rc.0 (#251)
+- [9bda4b8a](https://github.com/kubedb/pg-coordinator/commit/9bda4b8a) Tighten CI/release workflow secrets, perms, and release notes
+- [960efc2e](https://github.com/kubedb/pg-coordinator/commit/960efc2e) Harden release and release-tracker workflows
+- [14041cfd](https://github.com/kubedb/pg-coordinator/commit/14041cfd) Update ci (#250)
+- [be5cb705](https://github.com/kubedb/pg-coordinator/commit/be5cb705) Update ci (#249)
+- [8e884ef3](https://github.com/kubedb/pg-coordinator/commit/8e884ef3) Update for distributed postgres (#248)
+- [16abe9e8](https://github.com/kubedb/pg-coordinator/commit/16abe9e8) Add AGENTS.md for AI coding agents
+- [80340f14](https://github.com/kubedb/pg-coordinator/commit/80340f14) Harden CI workflows (#246)
+- [65e4a089](https://github.com/kubedb/pg-coordinator/commit/65e4a089) Add missing postgres client library package on ubi dockerfile (#237)
+- [9b36ab39](https://github.com/kubedb/pg-coordinator/commit/9b36ab39) Prepare for release v0.48.0 (#245)
+- [c9285b86](https://github.com/kubedb/pg-coordinator/commit/c9285b86) Configure dependabot refresh schedule (#244)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.20.0-rc.0)

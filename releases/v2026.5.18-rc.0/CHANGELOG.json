@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:22:25.08385966Z",
+  "release_date": "2026-05-20T15:24:14.980055388Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -393,6 +393,52 @@
             {
               "SHA": "5667872c0",
               "Subject": "Test against k8s 1.35 (#820)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "42932dad",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#107)"
+            },
+            {
+              "SHA": "5c3c401c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "a0a93b59",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2c864737",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "001c11d6",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "f4a08fd1",
+              "Subject": "Restrict /ok-to-test to org members"
+            },
+            {
+              "SHA": "6bc3a028",
+              "Subject": "Prepare for release v0.19.0 (#102)"
+            },
+            {
+              "SHA": "49cb281b",
+              "Subject": "Offline Volume Expansion Fix (#101)"
+            },
+            {
+              "SHA": "723034be",
+              "Subject": "Configure dependabot refresh schedule (#100)"
             }
           ]
         }

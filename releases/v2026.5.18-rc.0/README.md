@@ -117,6 +117,22 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.20.0-rc.0)
+
+- [42932dad](https://github.com/kubedb/clickhouse/commit/42932dad) Prepare for release v0.20.0-rc.0 (#107)
+- [5c3c401c](https://github.com/kubedb/clickhouse/commit/5c3c401c) Tighten CI/release workflow secrets, perms, and release notes
+- [a0a93b59](https://github.com/kubedb/clickhouse/commit/a0a93b59) Harden release and release-tracker workflows
+- [2c864737](https://github.com/kubedb/clickhouse/commit/2c864737) Add CLAUDE.md pointing to AGENTS.md
+- [001c11d6](https://github.com/kubedb/clickhouse/commit/001c11d6) Add AGENTS.md for AI coding agents
+- [f4a08fd1](https://github.com/kubedb/clickhouse/commit/f4a08fd1) Restrict /ok-to-test to org members
+- [6bc3a028](https://github.com/kubedb/clickhouse/commit/6bc3a028) Prepare for release v0.19.0 (#102)
+- [49cb281b](https://github.com/kubedb/clickhouse/commit/49cb281b) Offline Volume Expansion Fix (#101)
+- [723034be](https://github.com/kubedb/clickhouse/commit/723034be) Configure dependabot refresh schedule (#100)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.20.0-rc.0)

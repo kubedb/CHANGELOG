@@ -364,6 +364,23 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/neo4j/releases/tag/v0.6.0-rc.0)
+
+- [63a96dad](https://github.com/kubedb/neo4j/commit/63a96dad) Prepare for release v0.6.0-rc.0 (#34)
+- [e215c4c8](https://github.com/kubedb/neo4j/commit/e215c4c8) Tighten CI/release workflow secrets, perms, and release notes
+- [98283581](https://github.com/kubedb/neo4j/commit/98283581) Harden release and release-tracker workflows
+- [77704502](https://github.com/kubedb/neo4j/commit/77704502) Add StorageMigration OpsRequest support for Neo4j (#33)
+- [8dc5edbf](https://github.com/kubedb/neo4j/commit/8dc5edbf) Add CLAUDE.md pointing to AGENTS.md
+- [c8f95c51](https://github.com/kubedb/neo4j/commit/c8f95c51) Add AGENTS.md for AI coding agents
+- [beb02ed6](https://github.com/kubedb/neo4j/commit/beb02ed6) Harden CI workflows (#30)
+- [8a7b1696](https://github.com/kubedb/neo4j/commit/8a7b1696) Prepare for release v0.5.0 (#29)
+- [8d7a6886](https://github.com/kubedb/neo4j/commit/8d7a6886) Configure dependabot refresh schedule (#28)
+- [c57e8561](https://github.com/kubedb/neo4j/commit/c57e8561) Add Neo4j Ops Req  updVersion, volumeExpansion (#26)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.38.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0-rc.0)

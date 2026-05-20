@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:00:57.12267974Z",
+  "release_date": "2026-05-20T15:01:30.91097038Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1092,6 +1092,56 @@
             {
               "SHA": "37d1624",
               "Subject": "Configure dependabot refresh schedule (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "63a96dad",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#34)"
+            },
+            {
+              "SHA": "e215c4c8",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "98283581",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "77704502",
+              "Subject": "Add StorageMigration OpsRequest support for Neo4j (#33)"
+            },
+            {
+              "SHA": "8dc5edbf",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "c8f95c51",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "beb02ed6",
+              "Subject": "Harden CI workflows (#30)"
+            },
+            {
+              "SHA": "8a7b1696",
+              "Subject": "Prepare for release v0.5.0 (#29)"
+            },
+            {
+              "SHA": "8d7a6886",
+              "Subject": "Configure dependabot refresh schedule (#28)"
+            },
+            {
+              "SHA": "c57e8561",
+              "Subject": "Add Neo4j Ops Req  updVersion, volumeExpansion (#26)"
             }
           ]
         }

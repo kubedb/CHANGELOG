@@ -105,3 +105,15 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.26.0-rc.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.26.0-rc.0)
+
+- [e8f212a](https://github.com/kubedb/provider-gcp/commit/e8f212a) Tighten CI/release workflow secrets, perms, and release notes
+- [4f19b3b](https://github.com/kubedb/provider-gcp/commit/4f19b3b) Harden release and release-tracker workflows
+- [ca1476e](https://github.com/kubedb/provider-gcp/commit/ca1476e) Add AGENTS.md for AI coding agents (#29)
+- [4c70d45](https://github.com/kubedb/provider-gcp/commit/4c70d45) Harden CI workflows (#28)
+- [a8dc1d6](https://github.com/kubedb/provider-gcp/commit/a8dc1d6) Configure dependabot refresh schedule (#27)
+
+
+

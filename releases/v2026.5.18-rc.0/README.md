@@ -541,6 +541,21 @@
 
 
 
+## [kubedb/migrator-operator](https://github.com/kubedb/migrator-operator)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/migrator-operator/releases/tag/v0.5.0-rc.0)
+
+- [9167b80](https://github.com/kubedb/migrator-operator/commit/9167b80) Prepare for release v0.5.0-rc.0 (#17)
+- [dd9aacc](https://github.com/kubedb/migrator-operator/commit/dd9aacc) Tighten CI/release workflow secrets, perms, and release notes
+- [ad706b6](https://github.com/kubedb/migrator-operator/commit/ad706b6) Changes for mongodb migration (#15)
+- [e8e8b07](https://github.com/kubedb/migrator-operator/commit/e8e8b07) Harden release and release-tracker workflows
+- [638a996](https://github.com/kubedb/migrator-operator/commit/638a996) Add AGENTS.md for AI coding agents
+- [ecaa185](https://github.com/kubedb/migrator-operator/commit/ecaa185) Harden CI workflows (#14)
+- [ff0cdd8](https://github.com/kubedb/migrator-operator/commit/ff0cdd8) Prepare for release v0.4.0 (#13)
+- [d23a639](https://github.com/kubedb/migrator-operator/commit/d23a639) Configure dependabot refresh schedule (#12)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/milvus/releases/tag/v0.6.0-rc.0)

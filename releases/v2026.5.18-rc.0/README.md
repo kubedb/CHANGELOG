@@ -918,6 +918,21 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.20.0-rc.0)
+
+- [d287dabd](https://github.com/kubedb/singlestore-coordinator/commit/d287dabd) Prepare for release v0.20.0-rc.0 (#72)
+- [fcb2528e](https://github.com/kubedb/singlestore-coordinator/commit/fcb2528e) Tighten CI/release workflow secrets, perms, and release notes
+- [0f78329e](https://github.com/kubedb/singlestore-coordinator/commit/0f78329e) Harden release and release-tracker workflows
+- [0ff7dc5b](https://github.com/kubedb/singlestore-coordinator/commit/0ff7dc5b) Add AGENTS.md for AI coding agents
+- [357d9a67](https://github.com/kubedb/singlestore-coordinator/commit/357d9a67) Harden CI workflows (#70)
+- [89cacaf6](https://github.com/kubedb/singlestore-coordinator/commit/89cacaf6) Prepare for release v0.19.0 (#69)
+- [4b0e55b2](https://github.com/kubedb/singlestore-coordinator/commit/4b0e55b2) Configure dependabot refresh schedule (#68)
+- [a7242e7c](https://github.com/kubedb/singlestore-coordinator/commit/a7242e7c) Configure dependabot refresh schedule (#67)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.23.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.23.0-rc.0)

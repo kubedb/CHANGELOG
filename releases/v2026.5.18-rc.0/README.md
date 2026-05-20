@@ -186,6 +186,23 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.20.0-rc.0)
+
+- [e35bc8a6](https://github.com/kubedb/druid/commit/e35bc8a6) Prepare for release v0.20.0-rc.0 (#132)
+- [d8f0c94f](https://github.com/kubedb/druid/commit/d8f0c94f) Tighten CI/release workflow secrets, perms, and release notes
+- [81bde5dd](https://github.com/kubedb/druid/commit/81bde5dd) Implement StorageMigration OpsRequest for Druid (#131)
+- [fc0a7a2b](https://github.com/kubedb/druid/commit/fc0a7a2b) Harden release and release-tracker workflows
+- [bb6a95d0](https://github.com/kubedb/druid/commit/bb6a95d0) Add CLAUDE.md pointing to AGENTS.md
+- [07b19896](https://github.com/kubedb/druid/commit/07b19896) Add AGENTS.md for AI coding agents
+- [5d02b3ca](https://github.com/kubedb/druid/commit/5d02b3ca) Harden CI workflows (#129)
+- [b304b260](https://github.com/kubedb/druid/commit/b304b260) Prepare for release v0.19.0 (#128)
+- [67598e74](https://github.com/kubedb/druid/commit/67598e74) Fix Offline VolumeExpansion (#127)
+- [8ba485de](https://github.com/kubedb/druid/commit/8ba485de) Configure dependabot refresh schedule (#126)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.65.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.65.0-rc.0)

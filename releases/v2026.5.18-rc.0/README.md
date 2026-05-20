@@ -422,6 +422,28 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.49.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.49.0-rc.0)
+
+- [59e4024a](https://github.com/kubedb/mariadb/commit/59e4024aa) Prepare for release v0.49.0-rc.0 (#402)
+- [38769956](https://github.com/kubedb/mariadb/commit/387699562) Tighten CI/release workflow secrets, perms, and release notes
+- [ff6c15a4](https://github.com/kubedb/mariadb/commit/ff6c15a42) Add wal backup support for azure credless mode (#401)
+- [04e3bd52](https://github.com/kubedb/mariadb/commit/04e3bd52a) Harden release and release-tracker workflows
+- [27edbbd2](https://github.com/kubedb/mariadb/commit/27edbbd28) fix distributed reconfig (#400)
+- [83c8573a](https://github.com/kubedb/mariadb/commit/83c8573ac) Run Ops Request Locally (#399)
+- [6f736842](https://github.com/kubedb/mariadb/commit/6f736842b) Add CLAUDE.md pointing to AGENTS.md
+- [8eb47e99](https://github.com/kubedb/mariadb/commit/8eb47e992) Fix Label on Health Check (#396)
+- [109bf50f](https://github.com/kubedb/mariadb/commit/109bf50f3) Add AGENTS.md for AI coding agents
+- [78c6159b](https://github.com/kubedb/mariadb/commit/78c6159b7) Harden CI workflows (#395)
+- [2771f497](https://github.com/kubedb/mariadb/commit/2771f497d) sidekick leader selection fix; storage secret sync up fix (#394)
+- [95c40d9d](https://github.com/kubedb/mariadb/commit/95c40d9d2) Prepare for release v0.48.0 (#393)
+- [14558b15](https://github.com/kubedb/mariadb/commit/14558b159) Delete metrics-exporter-config secret (#392)
+- [0dba0b88](https://github.com/kubedb/mariadb/commit/0dba0b886) Ensure cloud annotations to SA before sidekick creation (#386)
+- [688a5667](https://github.com/kubedb/mariadb/commit/688a56674) Configure dependabot refresh schedule (#391)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.25.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.25.0-rc.0)

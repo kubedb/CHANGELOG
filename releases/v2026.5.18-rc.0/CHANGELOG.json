@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:34:36.057033425Z",
+  "release_date": "2026-05-20T15:38:19.387708513Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1252,6 +1252,76 @@
             {
               "SHA": "669fa6c3",
               "Subject": "Configure dependabot refresh schedule (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.0",
+          "commits": [
+            {
+              "SHA": "59e4024aa",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#402)"
+            },
+            {
+              "SHA": "387699562",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "ff6c15a42",
+              "Subject": "Add wal backup support for azure credless mode (#401)"
+            },
+            {
+              "SHA": "04e3bd52a",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "27edbbd28",
+              "Subject": "fix distributed reconfig (#400)"
+            },
+            {
+              "SHA": "83c8573ac",
+              "Subject": "Run Ops Request Locally (#399)"
+            },
+            {
+              "SHA": "6f736842b",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "8eb47e992",
+              "Subject": "Fix Label on Health Check (#396)"
+            },
+            {
+              "SHA": "109bf50f3",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "78c6159b7",
+              "Subject": "Harden CI workflows (#395)"
+            },
+            {
+              "SHA": "2771f497d",
+              "Subject": "sidekick leader selection fix; storage secret sync up fix (#394)"
+            },
+            {
+              "SHA": "95c40d9d2",
+              "Subject": "Prepare for release v0.48.0 (#393)"
+            },
+            {
+              "SHA": "14558b159",
+              "Subject": "Delete metrics-exporter-config secret (#392)"
+            },
+            {
+              "SHA": "0dba0b886",
+              "Subject": "Ensure cloud annotations to SA before sidekick creation (#386)"
+            },
+            {
+              "SHA": "688a56674",
+              "Subject": "Configure dependabot refresh schedule (#391)"
             }
           ]
         }

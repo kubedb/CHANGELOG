@@ -376,6 +376,22 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.5.0-rc.0)
+
+- [cfecdf1](https://github.com/kubedb/migrator-cli/commit/cfecdf1) Prepare for release v0.5.0-rc.0 (#21)
+- [1615cc3](https://github.com/kubedb/migrator-cli/commit/1615cc3) Tighten CI/release workflow secrets, perms, and release notes
+- [bbba784](https://github.com/kubedb/migrator-cli/commit/bbba784) Added MongoDB migration (#16)
+- [27f1c91](https://github.com/kubedb/migrator-cli/commit/27f1c91) Harden release and release-tracker workflows
+- [d21c274](https://github.com/kubedb/migrator-cli/commit/d21c274) Add AGENTS.md for AI coding agents
+- [7d5ab3d](https://github.com/kubedb/migrator-cli/commit/7d5ab3d) Harden CI workflows (#19)
+- [8a21ae4](https://github.com/kubedb/migrator-cli/commit/8a21ae4) Separate dockerfile for each databases (#17)
+- [e1fea3b](https://github.com/kubedb/migrator-cli/commit/e1fea3b) Prepare for release v0.4.0 (#18)
+- [f8e80b9](https://github.com/kubedb/migrator-cli/commit/f8e80b9) Configure dependabot refresh schedule (#15)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/milvus/releases/tag/v0.6.0-rc.0)

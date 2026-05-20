@@ -145,3 +145,16 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0-rc.0)
+
+- [fd5f2106](https://github.com/kubedb/xtrabackup-restic-plugin/commit/fd5f2106) Prepare for release v0.13.0-rc.0 (#53)
+- [1cf78111](https://github.com/kubedb/xtrabackup-restic-plugin/commit/1cf78111) Add AGENTS.md for AI coding agents
+- [14f542a3](https://github.com/kubedb/xtrabackup-restic-plugin/commit/14f542a3) Use GitHub App token for release tracker comments (#51)
+- [1c67d63e](https://github.com/kubedb/xtrabackup-restic-plugin/commit/1c67d63e) Prepare for release v0.12.0 (#49)
+- [6be593b0](https://github.com/kubedb/xtrabackup-restic-plugin/commit/6be593b0) Bump RESTIC_VERSION to 0.18.1-20260421 (#48)
+- [6199440e](https://github.com/kubedb/xtrabackup-restic-plugin/commit/6199440e) Configure dependabot refresh schedule (#47)
+
+
+

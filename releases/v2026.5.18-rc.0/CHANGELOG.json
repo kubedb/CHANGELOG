@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:46:57.727974932Z",
+  "release_date": "2026-05-20T14:47:05.194097069Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -450,6 +450,40 @@
             {
               "SHA": "a8dc1d6",
               "Subject": "Configure dependabot refresh schedule (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "fd5f2106",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "1cf78111",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "14f542a3",
+              "Subject": "Use GitHub App token for release tracker comments (#51)"
+            },
+            {
+              "SHA": "1c67d63e",
+              "Subject": "Prepare for release v0.12.0 (#49)"
+            },
+            {
+              "SHA": "6be593b0",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#48)"
+            },
+            {
+              "SHA": "6199440e",
+              "Subject": "Configure dependabot refresh schedule (#47)"
             }
           ]
         }

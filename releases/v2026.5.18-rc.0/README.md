@@ -93,6 +93,20 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.6.0-rc.0)
+
+- [a1e57d7](https://github.com/kubedb/db2-coordinator/commit/a1e57d7) Tighten CI/release workflow secrets, perms, and release notes
+- [d6b3d18](https://github.com/kubedb/db2-coordinator/commit/d6b3d18) Harden release and release-tracker workflows
+- [ac8ef66](https://github.com/kubedb/db2-coordinator/commit/ac8ef66) Add AGENTS.md for AI coding agents
+- [45f3f3d](https://github.com/kubedb/db2-coordinator/commit/45f3f3d) Harden CI workflows (#10)
+- [bafbaed](https://github.com/kubedb/db2-coordinator/commit/bafbaed) image rebuild (#9)
+- [5cbc34b](https://github.com/kubedb/db2-coordinator/commit/5cbc34b) Configure dependabot refresh schedule (#8)
+- [382966b](https://github.com/kubedb/db2-coordinator/commit/382966b) Configure dependabot refresh schedule (#7)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.43.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.43.0-rc.0)

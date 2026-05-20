@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:47:39.560802812Z",
+  "release_date": "2026-05-20T14:48:43.022730203Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -398,6 +398,52 @@
             {
               "SHA": "d5aef4d2",
               "Subject": "Configure dependabot refresh schedule (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.58.0-rc.0",
+          "commits": [
+            {
+              "SHA": "52bc04927",
+              "Subject": "Prepare for release v0.58.0-rc.0 (#539)"
+            },
+            {
+              "SHA": "8d50dcc52",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "29e17104a",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "b640b6a5f",
+              "Subject": "Run Ops Request Locally (#538)"
+            },
+            {
+              "SHA": "8fa0e1903",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "628d4100f",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "ea0615585",
+              "Subject": "Harden CI workflows (#536)"
+            },
+            {
+              "SHA": "9fb644d26",
+              "Subject": "Prepare for release v0.57.0 (#535)"
+            },
+            {
+              "SHA": "a9f93a3cc",
+              "Subject": "Configure dependabot refresh schedule (#534)"
             }
           ]
         }

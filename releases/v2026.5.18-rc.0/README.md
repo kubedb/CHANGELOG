@@ -123,6 +123,22 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.58.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.58.0-rc.0)
+
+- [52bc0492](https://github.com/kubedb/memcached/commit/52bc04927) Prepare for release v0.58.0-rc.0 (#539)
+- [8d50dcc5](https://github.com/kubedb/memcached/commit/8d50dcc52) Tighten CI/release workflow secrets, perms, and release notes
+- [29e17104](https://github.com/kubedb/memcached/commit/29e17104a) Harden release and release-tracker workflows
+- [b640b6a5](https://github.com/kubedb/memcached/commit/b640b6a5f) Run Ops Request Locally (#538)
+- [8fa0e190](https://github.com/kubedb/memcached/commit/8fa0e1903) Add CLAUDE.md pointing to AGENTS.md
+- [628d4100](https://github.com/kubedb/memcached/commit/628d4100f) Add AGENTS.md for AI coding agents
+- [ea061558](https://github.com/kubedb/memcached/commit/ea0615585) Harden CI workflows (#536)
+- [9fb644d2](https://github.com/kubedb/memcached/commit/9fb644d26) Prepare for release v0.57.0 (#535)
+- [a9f93a3c](https://github.com/kubedb/memcached/commit/a9f93a3cc) Configure dependabot refresh schedule (#534)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.19.0-rc.0)

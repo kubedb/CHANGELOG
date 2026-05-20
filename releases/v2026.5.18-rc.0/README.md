@@ -361,6 +361,21 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.26.0-rc.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.26.0-rc.0)
+
+- [32139be4](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/32139be4) Prepare for release v0.26.0-rc.0 (#89)
+- [e1be14bc](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/e1be14bc) Tighten CI/release workflow secrets, perms, and release notes
+- [7590aa73](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/7590aa73) Harden release and release-tracker workflows
+- [56eabbb2](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/56eabbb2) Add AGENTS.md for AI coding agents
+- [7ce77805](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/7ce77805) Use GitHub App token for release tracker comments (#87)
+- [5cdf2c50](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/5cdf2c50) Harden CI workflows (#86)
+- [a1bac671](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/a1bac671) Prepare for release v0.25.0 (#85)
+- [c20cd235](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/c20cd235) Configure dependabot refresh schedule (#84)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.26.0-rc.0](https://github.com/kubedb/provider-aws/releases/tag/v0.26.0-rc.0)

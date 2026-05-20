@@ -839,6 +839,21 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.52.0-rc.0)
+
+- [700a235c](https://github.com/kubedb/pgbouncer/commit/700a235cf) Prepare for release v0.52.0-rc.0 (#413)
+- [84b1a19e](https://github.com/kubedb/pgbouncer/commit/84b1a19ea) Tighten CI/release workflow secrets, perms, and release notes
+- [c3e4b4e1](https://github.com/kubedb/pgbouncer/commit/c3e4b4e10) Harden release and release-tracker workflows
+- [e0746413](https://github.com/kubedb/pgbouncer/commit/e07464138) Run Ops Request Locally (#412)
+- [ce2cad78](https://github.com/kubedb/pgbouncer/commit/ce2cad789) Add AGENTS.md for AI coding agents
+- [1215a247](https://github.com/kubedb/pgbouncer/commit/1215a247e) Harden CI workflows (#410)
+- [23024d0c](https://github.com/kubedb/pgbouncer/commit/23024d0c7) Prepare for release v0.51.0 (#409)
+- [7b5ce364](https://github.com/kubedb/pgbouncer/commit/7b5ce3642) Configure dependabot refresh schedule (#408)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.20.0-rc.0)

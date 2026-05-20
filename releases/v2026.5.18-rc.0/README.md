@@ -508,6 +508,21 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.23.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.23.0-rc.0)
+
+- [ef6b233c](https://github.com/kubedb/singlestore-restic-plugin/commit/ef6b233c) Prepare for release v0.23.0-rc.0 (#85)
+- [ecfc7fc6](https://github.com/kubedb/singlestore-restic-plugin/commit/ecfc7fc6) Harden release and release-tracker workflows
+- [88b88a43](https://github.com/kubedb/singlestore-restic-plugin/commit/88b88a43) Add AGENTS.md for AI coding agents
+- [9e76f60c](https://github.com/kubedb/singlestore-restic-plugin/commit/9e76f60c) Harden CI workflows (#83)
+- [66fee03a](https://github.com/kubedb/singlestore-restic-plugin/commit/66fee03a) Prepare for release v0.22.0 (#82)
+- [4a9f961c](https://github.com/kubedb/singlestore-restic-plugin/commit/4a9f961c) Bump RESTIC_VERSION to 0.18.1-20260421 (#81)
+- [fc7ad966](https://github.com/kubedb/singlestore-restic-plugin/commit/fc7ad966) Configure dependabot refresh schedule (#80)
+- [536de2a0](https://github.com/kubedb/singlestore-restic-plugin/commit/536de2a0) Configure dependabot refresh schedule (#79)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.0)

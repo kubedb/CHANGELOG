@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:02:06.519254476Z",
+  "release_date": "2026-05-20T15:02:14.869145862Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1488,6 +1488,48 @@
             {
               "SHA": "dc13533a",
               "Subject": "Configure dependabot refresh schedule (#318)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ef6b233c",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "ecfc7fc6",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "88b88a43",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9e76f60c",
+              "Subject": "Harden CI workflows (#83)"
+            },
+            {
+              "SHA": "66fee03a",
+              "Subject": "Prepare for release v0.22.0 (#82)"
+            },
+            {
+              "SHA": "4a9f961c",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#81)"
+            },
+            {
+              "SHA": "fc7ad966",
+              "Subject": "Configure dependabot refresh schedule (#80)"
+            },
+            {
+              "SHA": "536de2a0",
+              "Subject": "Configure dependabot refresh schedule (#79)"
             }
           ]
         }

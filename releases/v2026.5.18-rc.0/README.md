@@ -235,6 +235,21 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.6.0-rc.0)
+
+- [5f480c10](https://github.com/kubedb/hanadb/commit/5f480c10) Prepare for release v0.6.0-rc.0 (#39)
+- [28694dd1](https://github.com/kubedb/hanadb/commit/28694dd1) Tighten CI/release workflow secrets, perms, and release notes
+- [9fb48705](https://github.com/kubedb/hanadb/commit/9fb48705) Harden release and release-tracker workflows
+- [d530b4af](https://github.com/kubedb/hanadb/commit/d530b4af) Add AGENTS.md for AI coding agents
+- [52612af6](https://github.com/kubedb/hanadb/commit/52612af6) Harden CI workflows (#32)
+- [2f15f4f9](https://github.com/kubedb/hanadb/commit/2f15f4f9) Prepare for release v0.5.0 (#31)
+- [6dce67f7](https://github.com/kubedb/hanadb/commit/6dce67f7) Configure dependabot refresh schedule (#30)
+- [7b2be4f9](https://github.com/kubedb/hanadb/commit/7b2be4f9) Configure dependabot refresh schedule (#29)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.36.0-rc.0)

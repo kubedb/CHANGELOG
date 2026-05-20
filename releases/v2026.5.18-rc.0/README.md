@@ -733,6 +733,23 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.20.0-rc.0)
+
+- [8d5c9087](https://github.com/kubedb/singlestore/commit/8d5c9087) Prepare for release v0.20.0-rc.0 (#121)
+- [26b67dc6](https://github.com/kubedb/singlestore/commit/26b67dc6) Tighten CI/release workflow secrets, perms, and release notes
+- [01a4c59f](https://github.com/kubedb/singlestore/commit/01a4c59f) Harden release and release-tracker workflows
+- [d663617d](https://github.com/kubedb/singlestore/commit/d663617d) Add CLAUDE.md pointing to AGENTS.md
+- [e4255529](https://github.com/kubedb/singlestore/commit/e4255529) Add AGENTS.md for AI coding agents
+- [90f8831e](https://github.com/kubedb/singlestore/commit/90f8831e) Harden CI workflows (#118)
+- [be212d59](https://github.com/kubedb/singlestore/commit/be212d59) Prepare for release v0.19.0 (#117)
+- [38cf8233](https://github.com/kubedb/singlestore/commit/38cf8233) fix volume expansion bug (#116)
+- [66594528](https://github.com/kubedb/singlestore/commit/66594528) offline volume expansion fix (#115)
+- [742f9ca3](https://github.com/kubedb/singlestore/commit/742f9ca3) Configure dependabot refresh schedule (#114)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.23.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.23.0-rc.0)

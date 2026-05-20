@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:58:14.334521629Z",
+  "release_date": "2026-05-20T15:00:57.12267974Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -536,6 +536,56 @@
             {
               "SHA": "d5aef4d2",
               "Subject": "Configure dependabot refresh schedule (#8)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ecddd1f68",
+              "Subject": "Prepare for release v0.65.0-rc.0 (#812)"
+            },
+            {
+              "SHA": "fc42205fa",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "df2dae4a0",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "a134aed4a",
+              "Subject": "Run Ops Request Locally (#811)"
+            },
+            {
+              "SHA": "02b16b73b",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "65db23b70",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "ebf149dba",
+              "Subject": "Harden CI workflows (#808)"
+            },
+            {
+              "SHA": "295aa682d",
+              "Subject": "Prepare for release v0.64.0 (#807)"
+            },
+            {
+              "SHA": "1d4e0ea30",
+              "Subject": "Fix Volume Expansion Opsreq bug (#806)"
+            },
+            {
+              "SHA": "aaa9bf109",
+              "Subject": "Configure dependabot refresh schedule (#805)"
             }
           ]
         }

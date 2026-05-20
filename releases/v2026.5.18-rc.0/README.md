@@ -171,6 +171,23 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.65.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.65.0-rc.0)
+
+- [ecddd1f6](https://github.com/kubedb/elasticsearch/commit/ecddd1f68) Prepare for release v0.65.0-rc.0 (#812)
+- [fc42205f](https://github.com/kubedb/elasticsearch/commit/fc42205fa) Tighten CI/release workflow secrets, perms, and release notes
+- [df2dae4a](https://github.com/kubedb/elasticsearch/commit/df2dae4a0) Harden release and release-tracker workflows
+- [a134aed4](https://github.com/kubedb/elasticsearch/commit/a134aed4a) Run Ops Request Locally (#811)
+- [02b16b73](https://github.com/kubedb/elasticsearch/commit/02b16b73b) Add CLAUDE.md pointing to AGENTS.md
+- [65db23b7](https://github.com/kubedb/elasticsearch/commit/65db23b70) Add AGENTS.md for AI coding agents
+- [ebf149db](https://github.com/kubedb/elasticsearch/commit/ebf149dba) Harden CI workflows (#808)
+- [295aa682](https://github.com/kubedb/elasticsearch/commit/295aa682d) Prepare for release v0.64.0 (#807)
+- [1d4e0ea3](https://github.com/kubedb/elasticsearch/commit/1d4e0ea30) Fix Volume Expansion Opsreq bug (#806)
+- [aaa9bf10](https://github.com/kubedb/elasticsearch/commit/aaa9bf109) Configure dependabot refresh schedule (#805)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.13.0-rc.0)

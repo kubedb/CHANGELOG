@@ -478,6 +478,21 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.44.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.44.0-rc.0)
+
+- [367048d8](https://github.com/kubedb/redis-coordinator/commit/367048d8) Prepare for release v0.44.0-rc.0 (#160)
+- [a083e153](https://github.com/kubedb/redis-coordinator/commit/a083e153) Tighten CI/release workflow secrets, perms, and release notes
+- [25c46735](https://github.com/kubedb/redis-coordinator/commit/25c46735) Harden release and release-tracker workflows
+- [928c964e](https://github.com/kubedb/redis-coordinator/commit/928c964e) Add AGENTS.md for AI coding agents
+- [90c797de](https://github.com/kubedb/redis-coordinator/commit/90c797de) Harden CI workflows (#158)
+- [f39b5c5d](https://github.com/kubedb/redis-coordinator/commit/f39b5c5d) Prepare for release v0.43.0 (#157)
+- [f508e9dc](https://github.com/kubedb/redis-coordinator/commit/f508e9dc) Configure dependabot refresh schedule (#156)
+- [2edf641a](https://github.com/kubedb/redis-coordinator/commit/2edf641a) Configure dependabot refresh schedule (#155)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.28.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:50:52.29545617Z",
+  "release_date": "2026-05-20T14:52:05.826695259Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -532,6 +532,56 @@
             {
               "SHA": "a9f93a3cc",
               "Subject": "Configure dependabot refresh schedule (#534)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "062b7eab",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "984bf9be",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "63fee186",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ceb74c51",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "b69a946b",
+              "Subject": "Add Milvus Tls (#25)"
+            },
+            {
+              "SHA": "f319f086",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "10e389a6",
+              "Subject": "Harden CI workflows (#34)"
+            },
+            {
+              "SHA": "649cc2ae",
+              "Subject": "Prepare for release v0.5.0 (#32)"
+            },
+            {
+              "SHA": "03934e0b",
+              "Subject": "Configure dependabot refresh schedule (#31)"
+            },
+            {
+              "SHA": "c04453e9",
+              "Subject": "Configure dependabot refresh schedule (#30)"
             }
           ]
         }

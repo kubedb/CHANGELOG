@@ -170,6 +170,23 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/milvus/releases/tag/v0.6.0-rc.0)
+
+- [062b7eab](https://github.com/kubedb/milvus/commit/062b7eab) Prepare for release v0.6.0-rc.0 (#37)
+- [984bf9be](https://github.com/kubedb/milvus/commit/984bf9be) Tighten CI/release workflow secrets, perms, and release notes
+- [63fee186](https://github.com/kubedb/milvus/commit/63fee186) Harden release and release-tracker workflows
+- [ceb74c51](https://github.com/kubedb/milvus/commit/ceb74c51) Add CLAUDE.md pointing to AGENTS.md
+- [b69a946b](https://github.com/kubedb/milvus/commit/b69a946b) Add Milvus Tls (#25)
+- [f319f086](https://github.com/kubedb/milvus/commit/f319f086) Add AGENTS.md for AI coding agents
+- [10e389a6](https://github.com/kubedb/milvus/commit/10e389a6) Harden CI workflows (#34)
+- [649cc2ae](https://github.com/kubedb/milvus/commit/649cc2ae) Prepare for release v0.5.0 (#32)
+- [03934e0b](https://github.com/kubedb/milvus/commit/03934e0b) Configure dependabot refresh schedule (#31)
+- [c04453e9](https://github.com/kubedb/milvus/commit/c04453e9) Configure dependabot refresh schedule (#30)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.19.0-rc.0)

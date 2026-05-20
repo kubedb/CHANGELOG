@@ -734,6 +734,21 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.50.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.50.0-rc.0)
+
+- [7d4ad629](https://github.com/kubedb/tests/commit/7d4ad629a) Prepare for release v0.50.0-rc.0 (#536)
+- [2ad57dc7](https://github.com/kubedb/tests/commit/2ad57dc71) Harden release and release-tracker workflows
+- [27074f61](https://github.com/kubedb/tests/commit/27074f613) Add CLAUDE.md pointing to AGENTS.md
+- [e5e62b8a](https://github.com/kubedb/tests/commit/e5e62b8a0) Add AGENTS.md for AI coding agents
+- [9ee1c9bc](https://github.com/kubedb/tests/commit/9ee1c9bc7) Harden CI workflows (#522)
+- [af6fa871](https://github.com/kubedb/tests/commit/af6fa8712) Prepare for release v0.49.0 (#521)
+- [7086f3e0](https://github.com/kubedb/tests/commit/7086f3e0e) Configure dependabot refresh schedule (#520)
+- [dd86a543](https://github.com/kubedb/tests/commit/dd86a5437) Configure dependabot refresh schedule (#519)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.0)

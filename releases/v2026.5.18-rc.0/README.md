@@ -254,6 +254,22 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.26.0-rc.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.26.0-rc.0)
+
+- [eb55d4ad](https://github.com/kubedb/mysql-archiver/commit/eb55d4ad) Prepare for release v0.26.0-rc.0 (#106)
+- [d0ba1b24](https://github.com/kubedb/mysql-archiver/commit/d0ba1b24) Tighten CI/release workflow secrets, perms, and release notes
+- [ae11ecbd](https://github.com/kubedb/mysql-archiver/commit/ae11ecbd) Harden release and release-tracker workflows
+- [53fbffa9](https://github.com/kubedb/mysql-archiver/commit/53fbffa9) Add AGENTS.md for AI coding agents
+- [6448ddf1](https://github.com/kubedb/mysql-archiver/commit/6448ddf1) Harden CI workflows (#104)
+- [1098c78a](https://github.com/kubedb/mysql-archiver/commit/1098c78a) Fix binlog reply (#103)
+- [50815f7d](https://github.com/kubedb/mysql-archiver/commit/50815f7d) Prepare for release v0.25.0 (#102)
+- [f6bc1ac1](https://github.com/kubedb/mysql-archiver/commit/f6bc1ac1) Configure dependabot refresh schedule (#101)
+- [23d32e5d](https://github.com/kubedb/mysql-archiver/commit/23d32e5d) Configure dependabot refresh schedule (#100)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.28.0-rc.0)

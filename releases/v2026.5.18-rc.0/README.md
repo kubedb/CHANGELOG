@@ -86,6 +86,21 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.12.0-rc.0)
+
+- [29127ccd](https://github.com/kubedb/cassandra-medusa-plugin/commit/29127ccd) Prepare for release v0.12.0-rc.0 (#38)
+- [972cc3ec](https://github.com/kubedb/cassandra-medusa-plugin/commit/972cc3ec) Harden release and release-tracker workflows
+- [f5566ac1](https://github.com/kubedb/cassandra-medusa-plugin/commit/f5566ac1) Add AGENTS.md for AI coding agents
+- [494bac88](https://github.com/kubedb/cassandra-medusa-plugin/commit/494bac88) Harden CI workflows (#36)
+- [99ef1c22](https://github.com/kubedb/cassandra-medusa-plugin/commit/99ef1c22) Prepare for release v0.11.0 (#35)
+- [ba3a4b55](https://github.com/kubedb/cassandra-medusa-plugin/commit/ba3a4b55) Configure dependabot refresh schedule (#34)
+- [c64ab302](https://github.com/kubedb/cassandra-medusa-plugin/commit/c64ab302) Configure dependabot refresh schedule (#33)
+- [1c52789e](https://github.com/kubedb/cassandra-medusa-plugin/commit/1c52789e) Test against k8s 1.35 (#32)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.65.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.65.0-rc.0)

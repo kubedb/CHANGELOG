@@ -69,3 +69,20 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/db-client-go/releases/tag/v0.20.0-rc.0)
+
+- [3caab860](https://github.com/kubedb/db-client-go/commit/3caab860) Prepare for release v0.20.0-rc.0 (#244)
+- [2b9e043c](https://github.com/kubedb/db-client-go/commit/2b9e043c) Harden release and release-tracker workflows
+- [462a2a68](https://github.com/kubedb/db-client-go/commit/462a2a68) Qdrant HTTP Client TLS (#239)
+- [3460fe00](https://github.com/kubedb/db-client-go/commit/3460fe00) Update for distributed postgres (#243)
+- [df0e92a0](https://github.com/kubedb/db-client-go/commit/df0e92a0) Add Milvus TLS (#232)
+- [e122e57f](https://github.com/kubedb/db-client-go/commit/e122e57f) Add AGENTS.md for AI coding agents
+- [465442b7](https://github.com/kubedb/db-client-go/commit/465442b7) Harden CI workflows (#240)
+- [a169f968](https://github.com/kubedb/db-client-go/commit/a169f968) Prepare for release v0.19.0 (#238)
+- [52036006](https://github.com/kubedb/db-client-go/commit/52036006) Configure dependabot refresh schedule (#237)
+- [19607748](https://github.com/kubedb/db-client-go/commit/19607748) Configure dependabot refresh schedule (#236)
+
+
+

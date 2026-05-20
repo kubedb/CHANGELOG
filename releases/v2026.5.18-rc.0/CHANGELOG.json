@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T09:28:57.834912872Z",
+  "release_date": "2026-05-20T12:25:48.344060677Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -255,6 +255,56 @@
             {
               "SHA": "3a8dc30be",
               "Subject": "fix: register Ignite autoscaler (#1649)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3caab860",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#244)"
+            },
+            {
+              "SHA": "2b9e043c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "462a2a68",
+              "Subject": "Qdrant HTTP Client TLS (#239)"
+            },
+            {
+              "SHA": "3460fe00",
+              "Subject": "Update for distributed postgres (#243)"
+            },
+            {
+              "SHA": "df0e92a0",
+              "Subject": "Add Milvus TLS (#232)"
+            },
+            {
+              "SHA": "e122e57f",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "465442b7",
+              "Subject": "Harden CI workflows (#240)"
+            },
+            {
+              "SHA": "a169f968",
+              "Subject": "Prepare for release v0.19.0 (#238)"
+            },
+            {
+              "SHA": "52036006",
+              "Subject": "Configure dependabot refresh schedule (#237)"
+            },
+            {
+              "SHA": "19607748",
+              "Subject": "Configure dependabot refresh schedule (#236)"
             }
           ]
         }

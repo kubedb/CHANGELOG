@@ -936,6 +936,23 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.52.0-rc.0)
+
+- [d5d1d882](https://github.com/kubedb/proxysql/commit/d5d1d882e) Prepare for release v0.52.0-rc.0 (#434)
+- [bb7e268e](https://github.com/kubedb/proxysql/commit/bb7e268e4) Tighten CI/release workflow secrets, perms, and release notes
+- [9c59d49c](https://github.com/kubedb/proxysql/commit/9c59d49ce) Harden release and release-tracker workflows
+- [e29d1669](https://github.com/kubedb/proxysql/commit/e29d16693) Run Ops Request Locally (#433)
+- [b47e8c2d](https://github.com/kubedb/proxysql/commit/b47e8c2d3) Add CLAUDE.md pointing to AGENTS.md
+- [681acb3c](https://github.com/kubedb/proxysql/commit/681acb3c4) Add AGENTS.md for AI coding agents
+- [3b6a4061](https://github.com/kubedb/proxysql/commit/3b6a40616) Harden CI workflows (#430)
+- [34985f15](https://github.com/kubedb/proxysql/commit/34985f159) Prepare for release v0.51.0 (#429)
+- [32439267](https://github.com/kubedb/proxysql/commit/324392678) Configure dependabot refresh schedule (#428)
+- [05c70796](https://github.com/kubedb/proxysql/commit/05c707961) Configure dependabot refresh schedule (#427)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.6.0-rc.0)

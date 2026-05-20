@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T17:03:49.708822949Z",
+  "release_date": "2026-05-20T17:29:08.934335205Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -2714,6 +2714,56 @@
             {
               "SHA": "a8dc1d6",
               "Subject": "Configure dependabot refresh schedule (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d5d1d882e",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#434)"
+            },
+            {
+              "SHA": "bb7e268e4",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "9c59d49ce",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e29d16693",
+              "Subject": "Run Ops Request Locally (#433)"
+            },
+            {
+              "SHA": "b47e8c2d3",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "681acb3c4",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "3b6a40616",
+              "Subject": "Harden CI workflows (#430)"
+            },
+            {
+              "SHA": "34985f159",
+              "Subject": "Prepare for release v0.51.0 (#429)"
+            },
+            {
+              "SHA": "324392678",
+              "Subject": "Configure dependabot refresh schedule (#428)"
+            },
+            {
+              "SHA": "05c707961",
+              "Subject": "Configure dependabot refresh schedule (#427)"
             }
           ]
         }

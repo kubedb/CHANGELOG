@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:46:00.606453164Z",
+  "release_date": "2026-05-20T14:46:57.727974932Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -352,6 +352,44 @@
             {
               "SHA": "382966b",
               "Subject": "Configure dependabot refresh schedule (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "24678f5",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "958106a",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ea87799",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "71f8c47",
+              "Subject": "Harden CI workflows (#26)"
+            },
+            {
+              "SHA": "942ca43",
+              "Subject": "Harden CI workflows (#25)"
+            },
+            {
+              "SHA": "1ae0349",
+              "Subject": "Configure dependabot refresh schedule (#24)"
+            },
+            {
+              "SHA": "df15bc6",
+              "Subject": "Configure dependabot refresh schedule (#23)"
             }
           ]
         }

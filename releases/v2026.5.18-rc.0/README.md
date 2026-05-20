@@ -107,6 +107,20 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.19.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.19.0-rc.0)
+
+- [24678f5](https://github.com/kubedb/mssqlserver-archiver/commit/24678f5) Tighten CI/release workflow secrets, perms, and release notes
+- [958106a](https://github.com/kubedb/mssqlserver-archiver/commit/958106a) Harden release and release-tracker workflows
+- [ea87799](https://github.com/kubedb/mssqlserver-archiver/commit/ea87799) Add AGENTS.md for AI coding agents
+- [71f8c47](https://github.com/kubedb/mssqlserver-archiver/commit/71f8c47) Harden CI workflows (#26)
+- [942ca43](https://github.com/kubedb/mssqlserver-archiver/commit/942ca43) Harden CI workflows (#25)
+- [1ae0349](https://github.com/kubedb/mssqlserver-archiver/commit/1ae0349) Configure dependabot refresh schedule (#24)
+- [df15bc6](https://github.com/kubedb/mssqlserver-archiver/commit/df15bc6) Configure dependabot refresh schedule (#23)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.43.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.43.0-rc.0)

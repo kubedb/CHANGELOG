@@ -156,6 +156,23 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.13.0-rc.0)
+
+- [a5a97ff5](https://github.com/kubedb/gitops/commit/a5a97ff5) Prepare for release v0.13.0-rc.0 (#57)
+- [da0e1032](https://github.com/kubedb/gitops/commit/da0e1032) Tighten CI/release workflow secrets, perms, and release notes
+- [baab2fac](https://github.com/kubedb/gitops/commit/baab2fac) Fix Recurring Ops Creation for ReconfigeTLS (#55)
+- [40969d95](https://github.com/kubedb/gitops/commit/40969d95) Harden release and release-tracker workflows
+- [e72a0e12](https://github.com/kubedb/gitops/commit/e72a0e12) Add CLAUDE.md pointing to AGENTS.md
+- [7152e2d5](https://github.com/kubedb/gitops/commit/7152e2d5) Add AGENTS.md for AI coding agents
+- [c7a5c666](https://github.com/kubedb/gitops/commit/c7a5c666) Harden CI workflows (#54)
+- [9cbab643](https://github.com/kubedb/gitops/commit/9cbab643) Prepare for release v0.12.0 (#53)
+- [4447f92c](https://github.com/kubedb/gitops/commit/4447f92c) Configure dependabot refresh schedule (#52)
+- [64f35282](https://github.com/kubedb/gitops/commit/64f35282) Configure dependabot refresh schedule (#51)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.28.0-rc.0)

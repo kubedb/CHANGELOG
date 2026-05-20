@@ -69,6 +69,23 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.18.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.18.0-rc.0)
+
+- [a728b7f6](https://github.com/kubedb/cassandra/commit/a728b7f6) Prepare for release v0.18.0-rc.0 (#82)
+- [0363c990](https://github.com/kubedb/cassandra/commit/0363c990) Tighten CI/release workflow secrets, perms, and release notes
+- [995e9f8a](https://github.com/kubedb/cassandra/commit/995e9f8a) Harden release and release-tracker workflows
+- [eaa2a39b](https://github.com/kubedb/cassandra/commit/eaa2a39b) Add CLAUDE.md pointing to AGENTS.md
+- [cbc64d19](https://github.com/kubedb/cassandra/commit/cbc64d19) Add AGENTS.md for AI coding agents
+- [fcc9a127](https://github.com/kubedb/cassandra/commit/fcc9a127) Harden CI workflows (#79)
+- [990b84e6](https://github.com/kubedb/cassandra/commit/990b84e6) Prepare for release v0.17.0 (#78)
+- [581dd6c7](https://github.com/kubedb/cassandra/commit/581dd6c7) fix-volume-expansion-edit (#77)
+- [c27307bb](https://github.com/kubedb/cassandra/commit/c27307bb) fix-volume-expansion (#76)
+- [b0cc6961](https://github.com/kubedb/cassandra/commit/b0cc6961) Configure dependabot refresh schedule (#75)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.65.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.65.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:54:23.293939479Z",
+  "release_date": "2026-05-20T14:55:04.069805563Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -255,6 +255,56 @@
             {
               "SHA": "3a8dc30be",
               "Subject": "fix: register Ignite autoscaler (#1649)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a728b7f6",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#82)"
+            },
+            {
+              "SHA": "0363c990",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "995e9f8a",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "eaa2a39b",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "cbc64d19",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "fcc9a127",
+              "Subject": "Harden CI workflows (#79)"
+            },
+            {
+              "SHA": "990b84e6",
+              "Subject": "Prepare for release v0.17.0 (#78)"
+            },
+            {
+              "SHA": "581dd6c7",
+              "Subject": "fix-volume-expansion-edit (#77)"
+            },
+            {
+              "SHA": "c27307bb",
+              "Subject": "fix-volume-expansion (#76)"
+            },
+            {
+              "SHA": "b0cc6961",
+              "Subject": "Configure dependabot refresh schedule (#75)"
             }
           ]
         }

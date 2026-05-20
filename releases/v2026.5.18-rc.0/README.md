@@ -841,3 +841,19 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.20.0-rc.0)
+
+- [5124f6a7](https://github.com/kubedb/zookeeper-restic-plugin/commit/5124f6a7) Prepare for release v0.20.0-rc.0 (#69)
+- [f01b3b87](https://github.com/kubedb/zookeeper-restic-plugin/commit/f01b3b87) Tighten CI/release workflow secrets, perms, and release notes
+- [85b763fa](https://github.com/kubedb/zookeeper-restic-plugin/commit/85b763fa) Harden release and release-tracker workflows
+- [0cc56540](https://github.com/kubedb/zookeeper-restic-plugin/commit/0cc56540) Add AGENTS.md for AI coding agents
+- [391b6eb7](https://github.com/kubedb/zookeeper-restic-plugin/commit/391b6eb7) Harden CI workflows (#67)
+- [9df74bd0](https://github.com/kubedb/zookeeper-restic-plugin/commit/9df74bd0) Prepare for release v0.19.0 (#66)
+- [e7662aa2](https://github.com/kubedb/zookeeper-restic-plugin/commit/e7662aa2) Bump RESTIC_VERSION to 0.18.1-20260421 (#65)
+- [0ce9d404](https://github.com/kubedb/zookeeper-restic-plugin/commit/0ce9d404) Configure dependabot refresh schedule (#64)
+- [5e490249](https://github.com/kubedb/zookeeper-restic-plugin/commit/5e490249) Configure dependabot refresh schedule (#63)
+
+
+

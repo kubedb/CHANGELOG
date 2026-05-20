@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:48:43.022730203Z",
+  "release_date": "2026-05-20T14:48:55.050614687Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -255,6 +255,52 @@
             {
               "SHA": "3a8dc30be",
               "Subject": "fix: register Ignite autoscaler (#1649)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ba043d952",
+              "Subject": "Prepare for release v0.65.0-rc.0 (#827)"
+            },
+            {
+              "SHA": "a936042e3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "570188ed7",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "6cdec339b",
+              "Subject": "Harden CI workflows (#825)"
+            },
+            {
+              "SHA": "0cbe37e49",
+              "Subject": "Add AGENTS.md for AI coding agents (#826)"
+            },
+            {
+              "SHA": "2be81847d",
+              "Subject": "Prepare for release v0.64.0 (#823)"
+            },
+            {
+              "SHA": "7132dd00a",
+              "Subject": "Configure dependabot refresh schedule (#822)"
+            },
+            {
+              "SHA": "f718b38ed",
+              "Subject": "Configure dependabot refresh schedule (#821)"
+            },
+            {
+              "SHA": "5667872c0",
+              "Subject": "Test against k8s 1.35 (#820)"
             }
           ]
         }

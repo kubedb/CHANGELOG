@@ -69,6 +69,22 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.65.0-rc.0](https://github.com/kubedb/cli/releases/tag/v0.65.0-rc.0)
+
+- [ba043d95](https://github.com/kubedb/cli/commit/ba043d952) Prepare for release v0.65.0-rc.0 (#827)
+- [a936042e](https://github.com/kubedb/cli/commit/a936042e3) Tighten CI/release workflow secrets, perms, and release notes
+- [570188ed](https://github.com/kubedb/cli/commit/570188ed7) Add CLAUDE.md pointing to AGENTS.md
+- [6cdec339](https://github.com/kubedb/cli/commit/6cdec339b) Harden CI workflows (#825)
+- [0cbe37e4](https://github.com/kubedb/cli/commit/0cbe37e49) Add AGENTS.md for AI coding agents (#826)
+- [2be81847](https://github.com/kubedb/cli/commit/2be81847d) Prepare for release v0.64.0 (#823)
+- [7132dd00](https://github.com/kubedb/cli/commit/7132dd00a) Configure dependabot refresh schedule (#822)
+- [f718b38e](https://github.com/kubedb/cli/commit/f718b38ed) Configure dependabot refresh schedule (#821)
+- [5667872c](https://github.com/kubedb/cli/commit/5667872c0) Test against k8s 1.35 (#820)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.20.0-rc.0)

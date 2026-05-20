@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:53:41.080645655Z",
+  "release_date": "2026-05-20T14:54:23.293939479Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -620,6 +620,72 @@
             {
               "SHA": "df15bc6",
               "Subject": "Configure dependabot refresh schedule (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.58.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3ed6eff34",
+              "Subject": "Prepare for release v0.58.0-rc.0 (#752)"
+            },
+            {
+              "SHA": "e75778ac4",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "34ba4f36c",
+              "Subject": "Add wal backup support for azure credless mode (#751)"
+            },
+            {
+              "SHA": "1acc2da1c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "22b2e3ec4",
+              "Subject": "Version Upgrade InnoDB Cluster (#748)"
+            },
+            {
+              "SHA": "1597abec9",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "37d17545f",
+              "Subject": "Harden CI workflows (#749)"
+            },
+            {
+              "SHA": "7a04db05c",
+              "Subject": "Add InnoDB Cluster Support for 8.4+ (#738)"
+            },
+            {
+              "SHA": "1cc5ada40",
+              "Subject": "Fix sidekick issue: remove copy func (#747)"
+            },
+            {
+              "SHA": "00d531b15",
+              "Subject": "Fix sidekick issue (#746)"
+            },
+            {
+              "SHA": "66db8c4b8",
+              "Subject": "Prepare for release v0.57.0 (#745)"
+            },
+            {
+              "SHA": "ce857001a",
+              "Subject": "Delete metrics-exporter-config secret (#744)"
+            },
+            {
+              "SHA": "9faeb2a08",
+              "Subject": "Configure dependabot refresh schedule (#743)"
+            },
+            {
+              "SHA": "449c5542c",
+              "Subject": "Configure dependabot refresh schedule (#742)"
             }
           ]
         }

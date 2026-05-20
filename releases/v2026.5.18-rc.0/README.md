@@ -201,6 +201,27 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.58.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.58.0-rc.0)
+
+- [3ed6eff3](https://github.com/kubedb/mysql/commit/3ed6eff34) Prepare for release v0.58.0-rc.0 (#752)
+- [e75778ac](https://github.com/kubedb/mysql/commit/e75778ac4) Tighten CI/release workflow secrets, perms, and release notes
+- [34ba4f36](https://github.com/kubedb/mysql/commit/34ba4f36c) Add wal backup support for azure credless mode (#751)
+- [1acc2da1](https://github.com/kubedb/mysql/commit/1acc2da1c) Harden release and release-tracker workflows
+- [22b2e3ec](https://github.com/kubedb/mysql/commit/22b2e3ec4) Version Upgrade InnoDB Cluster (#748)
+- [1597abec](https://github.com/kubedb/mysql/commit/1597abec9) Add AGENTS.md for AI coding agents
+- [37d17545](https://github.com/kubedb/mysql/commit/37d17545f) Harden CI workflows (#749)
+- [7a04db05](https://github.com/kubedb/mysql/commit/7a04db05c) Add InnoDB Cluster Support for 8.4+ (#738)
+- [1cc5ada4](https://github.com/kubedb/mysql/commit/1cc5ada40) Fix sidekick issue: remove copy func (#747)
+- [00d531b1](https://github.com/kubedb/mysql/commit/00d531b15) Fix sidekick issue (#746)
+- [66db8c4b](https://github.com/kubedb/mysql/commit/66db8c4b8) Prepare for release v0.57.0 (#745)
+- [ce857001](https://github.com/kubedb/mysql/commit/ce857001a) Delete metrics-exporter-config secret (#744)
+- [9faeb2a0](https://github.com/kubedb/mysql/commit/9faeb2a08) Configure dependabot refresh schedule (#743)
+- [449c5542](https://github.com/kubedb/mysql/commit/449c5542c) Configure dependabot refresh schedule (#742)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.28.0-rc.0)

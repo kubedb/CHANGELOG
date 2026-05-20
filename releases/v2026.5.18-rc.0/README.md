@@ -542,6 +542,22 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.20.0-rc.0)
+
+- [2826d51c](https://github.com/kubedb/rabbitmq/commit/2826d51c) Prepare for release v0.20.0-rc.0 (#133)
+- [7b849665](https://github.com/kubedb/rabbitmq/commit/7b849665) Tighten CI/release workflow secrets, perms, and release notes
+- [7c952783](https://github.com/kubedb/rabbitmq/commit/7c952783) Harden release and release-tracker workflows
+- [8b547651](https://github.com/kubedb/rabbitmq/commit/8b547651) Add CLAUDE.md pointing to AGENTS.md
+- [866a6b3c](https://github.com/kubedb/rabbitmq/commit/866a6b3c) Add AGENTS.md for AI coding agents
+- [2a733db2](https://github.com/kubedb/rabbitmq/commit/2a733db2) Harden CI workflows (#130)
+- [cd286bab](https://github.com/kubedb/rabbitmq/commit/cd286bab) Prepare for release v0.19.0 (#129)
+- [3dff0452](https://github.com/kubedb/rabbitmq/commit/3dff0452) Fix Offline Volume Expansion (#128)
+- [c80c9679](https://github.com/kubedb/rabbitmq/commit/c80c9679) Configure dependabot refresh schedule (#127)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.44.0-rc.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.44.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:07:23.739958389Z",
+  "release_date": "2026-05-20T15:07:36.203057829Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1588,6 +1588,52 @@
             {
               "SHA": "f18cd566",
               "Subject": "Configure dependabot refresh schedule (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2826d51c",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#133)"
+            },
+            {
+              "SHA": "7b849665",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "7c952783",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "8b547651",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "866a6b3c",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "2a733db2",
+              "Subject": "Harden CI workflows (#130)"
+            },
+            {
+              "SHA": "cd286bab",
+              "Subject": "Prepare for release v0.19.0 (#129)"
+            },
+            {
+              "SHA": "3dff0452",
+              "Subject": "Fix Offline Volume Expansion (#128)"
+            },
+            {
+              "SHA": "c80c9679",
+              "Subject": "Configure dependabot refresh schedule (#127)"
             }
           ]
         }

@@ -137,6 +137,22 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.28.0-rc.0)
+
+- [dd1b9eae](https://github.com/kubedb/mysql-restic-plugin/commit/dd1b9eae) Prepare for release v0.28.0-rc.0 (#114)
+- [879cbd56](https://github.com/kubedb/mysql-restic-plugin/commit/879cbd56) Harden release and release-tracker workflows
+- [3a29e9c8](https://github.com/kubedb/mysql-restic-plugin/commit/3a29e9c8) Add AGENTS.md for AI coding agents
+- [a5955a10](https://github.com/kubedb/mysql-restic-plugin/commit/a5955a10) Harden CI workflows (#111)
+- [3a49671f](https://github.com/kubedb/mysql-restic-plugin/commit/3a49671f) Add New Version Support, Innodb Cluster Support (#110)
+- [ba400cb7](https://github.com/kubedb/mysql-restic-plugin/commit/ba400cb7) Prepare for release v0.27.0 (#108)
+- [372401ba](https://github.com/kubedb/mysql-restic-plugin/commit/372401ba) Bump RESTIC_VERSION to 0.18.1-20260421 (#107)
+- [1f5e0d96](https://github.com/kubedb/mysql-restic-plugin/commit/1f5e0d96) Configure dependabot refresh schedule (#106)
+- [0cf94d94](https://github.com/kubedb/mysql-restic-plugin/commit/0cf94d94) Configure dependabot refresh schedule (#105)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.43.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.43.0-rc.0)

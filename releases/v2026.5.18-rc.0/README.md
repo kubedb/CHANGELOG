@@ -161,6 +161,21 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.0)
+
+- [bb3c8918](https://github.com/kubedb/weaviate/commit/bb3c8918) Prepare for release v0.6.0-rc.0 (#35)
+- [a77224f3](https://github.com/kubedb/weaviate/commit/a77224f3) Tighten CI/release workflow secrets, perms, and release notes
+- [716556bd](https://github.com/kubedb/weaviate/commit/716556bd) Harden release and release-tracker workflows
+- [7131fe7e](https://github.com/kubedb/weaviate/commit/7131fe7e) Add CLAUDE.md pointing to AGENTS.md
+- [bb95826e](https://github.com/kubedb/weaviate/commit/bb95826e) Add AGENTS.md for AI coding agents
+- [3dfc4fe3](https://github.com/kubedb/weaviate/commit/3dfc4fe3) Harden CI workflows (#29)
+- [31218a35](https://github.com/kubedb/weaviate/commit/31218a35) Prepare for release v0.5.0 (#28)
+- [4fc6dac2](https://github.com/kubedb/weaviate/commit/4fc6dac2) Configure dependabot refresh schedule (#27)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0-rc.0)

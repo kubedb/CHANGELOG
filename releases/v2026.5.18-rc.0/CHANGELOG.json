@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:49:43.703567769Z",
+  "release_date": "2026-05-20T14:49:53.898227673Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -690,6 +690,48 @@
             {
               "SHA": "a8dc1d6",
               "Subject": "Configure dependabot refresh schedule (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "96e95cee",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "044d20f6",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2c524ff2",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "e29aaa32",
+              "Subject": "Harden CI workflows (#104)"
+            },
+            {
+              "SHA": "df86bb19",
+              "Subject": "Prepare for release v0.27.0 (#103)"
+            },
+            {
+              "SHA": "ca23d967",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#102)"
+            },
+            {
+              "SHA": "b043e083",
+              "Subject": "Configure dependabot refresh schedule (#101)"
+            },
+            {
+              "SHA": "f301cd48",
+              "Subject": "Configure dependabot refresh schedule (#100)"
             }
           ]
         }

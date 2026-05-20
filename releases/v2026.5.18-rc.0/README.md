@@ -232,6 +232,21 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.28.0-rc.0)
+
+- [96e95cee](https://github.com/kubedb/redis-restic-plugin/commit/96e95cee) Prepare for release v0.28.0-rc.0 (#106)
+- [044d20f6](https://github.com/kubedb/redis-restic-plugin/commit/044d20f6) Harden release and release-tracker workflows
+- [2c524ff2](https://github.com/kubedb/redis-restic-plugin/commit/2c524ff2) Add AGENTS.md for AI coding agents
+- [e29aaa32](https://github.com/kubedb/redis-restic-plugin/commit/e29aaa32) Harden CI workflows (#104)
+- [df86bb19](https://github.com/kubedb/redis-restic-plugin/commit/df86bb19) Prepare for release v0.27.0 (#103)
+- [ca23d967](https://github.com/kubedb/redis-restic-plugin/commit/ca23d967) Bump RESTIC_VERSION to 0.18.1-20260421 (#102)
+- [b043e083](https://github.com/kubedb/redis-restic-plugin/commit/b043e083) Configure dependabot refresh schedule (#101)
+- [f301cd48](https://github.com/kubedb/redis-restic-plugin/commit/f301cd48) Configure dependabot refresh schedule (#100)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.52.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.52.0-rc.0)

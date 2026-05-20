@@ -133,6 +133,21 @@
 
 
 
+## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.2.0-rc.0)
+
+- [8a2fd2fa](https://github.com/kubedb/clickhouse-backup-plugin/commit/8a2fd2fa) Prepare for release v0.2.0-rc.0 (#23)
+- [a4fdf4d8](https://github.com/kubedb/clickhouse-backup-plugin/commit/a4fdf4d8) Add AGENTS.md for AI coding agents
+- [0d0bca21](https://github.com/kubedb/clickhouse-backup-plugin/commit/0d0bca21) Use GitHub App token for release tracker comments
+- [6596ce77](https://github.com/kubedb/clickhouse-backup-plugin/commit/6596ce77) Fix DB Ready Check (#18)
+- [fcd4d572](https://github.com/kubedb/clickhouse-backup-plugin/commit/fcd4d572) Prepare for release v0.1.0 (#17)
+- [2401ac44](https://github.com/kubedb/clickhouse-backup-plugin/commit/2401ac44) Fix time format parsing issue (#16)
+- [672e7e6c](https://github.com/kubedb/clickhouse-backup-plugin/commit/672e7e6c) Configure dependabot refresh schedule (#15)
+- [532e2552](https://github.com/kubedb/clickhouse-backup-plugin/commit/532e2552) Configure dependabot refresh schedule (#14)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.20.0-rc.0)

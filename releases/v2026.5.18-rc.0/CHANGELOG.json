@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:29:37.434617784Z",
+  "release_date": "2026-05-20T15:30:32.599644619Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -439,6 +439,48 @@
             {
               "SHA": "723034be",
               "Subject": "Configure dependabot refresh schedule (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8a2fd2fa",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#23)"
+            },
+            {
+              "SHA": "a4fdf4d8",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "0d0bca21",
+              "Subject": "Use GitHub App token for release tracker comments"
+            },
+            {
+              "SHA": "6596ce77",
+              "Subject": "Fix DB Ready Check (#18)"
+            },
+            {
+              "SHA": "fcd4d572",
+              "Subject": "Prepare for release v0.1.0 (#17)"
+            },
+            {
+              "SHA": "2401ac44",
+              "Subject": "Fix time format parsing issue (#16)"
+            },
+            {
+              "SHA": "672e7e6c",
+              "Subject": "Configure dependabot refresh schedule (#15)"
+            },
+            {
+              "SHA": "532e2552",
+              "Subject": "Configure dependabot refresh schedule (#14)"
             }
           ]
         }

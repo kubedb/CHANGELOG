@@ -299,6 +299,22 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.12.0-rc.0)
+
+- [2ae50f33](https://github.com/kubedb/ignite/commit/2ae50f33) Prepare for release v0.12.0-rc.0 (#54)
+- [b04edbc9](https://github.com/kubedb/ignite/commit/b04edbc9) Tighten CI/release workflow secrets, perms, and release notes
+- [b966bfea](https://github.com/kubedb/ignite/commit/b966bfea) Harden release and release-tracker workflows
+- [2b92c194](https://github.com/kubedb/ignite/commit/2b92c194) Add CLAUDE.md pointing to AGENTS.md
+- [a44aad7e](https://github.com/kubedb/ignite/commit/a44aad7e) Add AGENTS.md for AI coding agents
+- [9848ac9f](https://github.com/kubedb/ignite/commit/9848ac9f) Harden CI workflows (#51)
+- [dc7c8a79](https://github.com/kubedb/ignite/commit/dc7c8a79) Prepare for release v0.11.0 (#50)
+- [5a4750da](https://github.com/kubedb/ignite/commit/5a4750da) Offline Volume Expansion Fix (#49)
+- [f6e606b1](https://github.com/kubedb/ignite/commit/f6e606b1) Configure dependabot refresh schedule (#48)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.36.0-rc.0)

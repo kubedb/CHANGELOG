@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:18:07.486606555Z",
+  "release_date": "2026-05-20T15:19:50.282784985Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -904,6 +904,52 @@
             {
               "SHA": "d063a0ec",
               "Subject": "Configure dependabot refresh schedule (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2ae50f33",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#54)"
+            },
+            {
+              "SHA": "b04edbc9",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "b966bfea",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2b92c194",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "a44aad7e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9848ac9f",
+              "Subject": "Harden CI workflows (#51)"
+            },
+            {
+              "SHA": "dc7c8a79",
+              "Subject": "Prepare for release v0.11.0 (#50)"
+            },
+            {
+              "SHA": "5a4750da",
+              "Subject": "Offline Volume Expansion Fix (#49)"
+            },
+            {
+              "SHA": "f6e606b1",
+              "Subject": "Configure dependabot refresh schedule (#48)"
             }
           ]
         }

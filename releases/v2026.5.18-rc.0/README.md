@@ -250,6 +250,21 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.5.0-rc.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.5.0-rc.0)
+
+- [8d68a1ab](https://github.com/kubedb/hanadb-coordinator/commit/8d68a1ab) Prepare for release v0.5.0-rc.0 (#13)
+- [a1df343c](https://github.com/kubedb/hanadb-coordinator/commit/a1df343c) Tighten CI/release workflow secrets, perms, and release notes
+- [de35968d](https://github.com/kubedb/hanadb-coordinator/commit/de35968d) Harden release and release-tracker workflows
+- [0a5612a4](https://github.com/kubedb/hanadb-coordinator/commit/0a5612a4) Add AGENTS.md for AI coding agents
+- [f8cd4851](https://github.com/kubedb/hanadb-coordinator/commit/f8cd4851) Harden CI workflows (#11)
+- [831fad13](https://github.com/kubedb/hanadb-coordinator/commit/831fad13) Prepare for release v0.4.0 (#10)
+- [57516959](https://github.com/kubedb/hanadb-coordinator/commit/57516959) Configure dependabot refresh schedule (#9)
+- [f581db41](https://github.com/kubedb/hanadb-coordinator/commit/f581db41) Configure dependabot refresh schedule (#8)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.11.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0-rc.0)

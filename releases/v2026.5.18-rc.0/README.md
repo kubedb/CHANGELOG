@@ -587,6 +587,20 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.20.0-rc.0)
+
+- [6293f384](https://github.com/kubedb/mssql-coordinator/commit/6293f384) Prepare for release v0.20.0-rc.0 (#70)
+- [cb31d9b3](https://github.com/kubedb/mssql-coordinator/commit/cb31d9b3) Tighten CI/release workflow secrets, perms, and release notes
+- [26c8ec07](https://github.com/kubedb/mssql-coordinator/commit/26c8ec07) Add AGENTS.md for AI coding agents
+- [29b5b49e](https://github.com/kubedb/mssql-coordinator/commit/29b5b49e) Use GitHub App token for release tracker comments (#68)
+- [3432bcf1](https://github.com/kubedb/mssql-coordinator/commit/3432bcf1) Prepare for release v0.19.0 (#66)
+- [3ce7a06d](https://github.com/kubedb/mssql-coordinator/commit/3ce7a06d) Configure dependabot refresh schedule (#65)
+- [af4c8acc](https://github.com/kubedb/mssql-coordinator/commit/af4c8acc) Configure dependabot refresh schedule (#64)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0-rc.0)

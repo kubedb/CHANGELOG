@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:38:50.492338254Z",
+  "release_date": "2026-05-20T15:40:30.953095758Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1732,6 +1732,44 @@
             {
               "SHA": "af12c273",
               "Subject": "Configure dependabot refresh schedule (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6293f384",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#70)"
+            },
+            {
+              "SHA": "cb31d9b3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "26c8ec07",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "29b5b49e",
+              "Subject": "Use GitHub App token for release tracker comments (#68)"
+            },
+            {
+              "SHA": "3432bcf1",
+              "Subject": "Prepare for release v0.19.0 (#66)"
+            },
+            {
+              "SHA": "3ce7a06d",
+              "Subject": "Configure dependabot refresh schedule (#65)"
+            },
+            {
+              "SHA": "af4c8acc",
+              "Subject": "Configure dependabot refresh schedule (#64)"
             }
           ]
         }

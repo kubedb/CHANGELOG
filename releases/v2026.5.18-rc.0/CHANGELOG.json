@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:05:12.116396118Z",
+  "release_date": "2026-05-20T15:05:50.025213628Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -586,6 +586,48 @@
             {
               "SHA": "aaa9bf109",
               "Subject": "Configure dependabot refresh schedule (#805)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f7bce7aa",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#99)"
+            },
+            {
+              "SHA": "b38a1c55",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "853d30a7",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "8b4b3ac0",
+              "Subject": "Harden CI workflows (#97)"
+            },
+            {
+              "SHA": "f649744f",
+              "Subject": "Prepare for release v0.27.0 (#96)"
+            },
+            {
+              "SHA": "43b4eb14",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#95)"
+            },
+            {
+              "SHA": "779030ba",
+              "Subject": "Configure dependabot refresh schedule (#94)"
+            },
+            {
+              "SHA": "b903f26d",
+              "Subject": "Configure dependabot refresh schedule (#93)"
             }
           ]
         }

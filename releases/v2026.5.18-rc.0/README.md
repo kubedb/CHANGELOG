@@ -188,6 +188,21 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.28.0-rc.0)
+
+- [f7bce7aa](https://github.com/kubedb/elasticsearch-restic-plugin/commit/f7bce7aa) Prepare for release v0.28.0-rc.0 (#99)
+- [b38a1c55](https://github.com/kubedb/elasticsearch-restic-plugin/commit/b38a1c55) Harden release and release-tracker workflows
+- [853d30a7](https://github.com/kubedb/elasticsearch-restic-plugin/commit/853d30a7) Add AGENTS.md for AI coding agents
+- [8b4b3ac0](https://github.com/kubedb/elasticsearch-restic-plugin/commit/8b4b3ac0) Harden CI workflows (#97)
+- [f649744f](https://github.com/kubedb/elasticsearch-restic-plugin/commit/f649744f) Prepare for release v0.27.0 (#96)
+- [43b4eb14](https://github.com/kubedb/elasticsearch-restic-plugin/commit/43b4eb14) Bump RESTIC_VERSION to 0.18.1-20260421 (#95)
+- [779030ba](https://github.com/kubedb/elasticsearch-restic-plugin/commit/779030ba) Configure dependabot refresh schedule (#94)
+- [b903f26d](https://github.com/kubedb/elasticsearch-restic-plugin/commit/b903f26d) Configure dependabot refresh schedule (#93)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.13.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.13.0-rc.0)

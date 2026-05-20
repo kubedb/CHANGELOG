@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T15:19:50.282784985Z",
+  "release_date": "2026-05-20T15:21:29.813363956Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1398,6 +1398,40 @@
             {
               "SHA": "df15bc6",
               "Subject": "Configure dependabot refresh schedule (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5cc5025",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "5433238",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "0e152a6",
+              "Subject": "Use GitHub App token for release tracker comments (#57)"
+            },
+            {
+              "SHA": "feef31e",
+              "Subject": "Prepare for release v0.18.0 (#55)"
+            },
+            {
+              "SHA": "bc91aed",
+              "Subject": "Configure dependabot refresh schedule (#54)"
+            },
+            {
+              "SHA": "64f286f",
+              "Subject": "Configure dependabot refresh schedule (#53)"
             }
           ]
         }

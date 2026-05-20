@@ -495,6 +495,20 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.25.0-rc.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.25.0-rc.0)
+
+- [f432211e](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/f432211e) Prepare for release v0.25.0-rc.0 (#78)
+- [b75d52e3](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/b75d52e3) Tighten CI/release workflow secrets, perms, and release notes
+- [d622d7f3](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/d622d7f3) Harden release and release-tracker workflows
+- [748e02a6](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/748e02a6) Add AGENTS.md for AI coding agents
+- [cccdc734](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/cccdc734) Harden CI workflows (#76)
+- [976621bf](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/976621bf) Prepare for release v0.24.0 (#75)
+- [5c212903](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/5c212903) Configure dependabot refresh schedule (#74)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.23.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.23.0-rc.0)

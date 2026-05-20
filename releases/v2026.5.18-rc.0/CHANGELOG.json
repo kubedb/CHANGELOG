@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T17:34:22.086175258Z",
+  "release_date": "2026-05-20T17:37:12.726586941Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1472,6 +1472,44 @@
             {
               "SHA": "4e9fe98d",
               "Subject": "Configure dependabot refresh schedule (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "f432211e",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "b75d52e3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "d622d7f3",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "748e02a6",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "cccdc734",
+              "Subject": "Harden CI workflows (#76)"
+            },
+            {
+              "SHA": "976621bf",
+              "Subject": "Prepare for release v0.24.0 (#75)"
+            },
+            {
+              "SHA": "5c212903",
+              "Subject": "Configure dependabot refresh schedule (#74)"
             }
           ]
         }

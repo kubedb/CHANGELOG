@@ -336,6 +336,21 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.26.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.26.0-rc.0)
+
+- [02b24bac](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/02b24bac) Prepare for release v0.26.0-rc.0 (#79)
+- [b98f8382](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/b98f8382) Tighten CI/release workflow secrets, perms, and release notes
+- [aeb71151](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/aeb71151) Harden release and release-tracker workflows
+- [960c3538](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/960c3538) Add AGENTS.md for AI coding agents
+- [06b90e07](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/06b90e07) Harden CI workflows (#77)
+- [8cef25be](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/8cef25be) Prepare for release v0.25.0 (#76)
+- [fde57433](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/fde57433) Configure dependabot refresh schedule (#75)
+- [a400c0f6](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/a400c0f6) Configure dependabot refresh schedule (#74)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.28.0-rc.0)

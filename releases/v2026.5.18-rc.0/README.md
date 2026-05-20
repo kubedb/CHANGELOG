@@ -107,6 +107,22 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.2.0-rc.0)
+
+- [8ff7cc98](https://github.com/kubedb/documentdb/commit/8ff7cc98) Prepare for release v0.2.0-rc.0 (#15)
+- [aa27c166](https://github.com/kubedb/documentdb/commit/aa27c166) Tighten CI/release workflow secrets, perms, and release notes
+- [9c8eb095](https://github.com/kubedb/documentdb/commit/9c8eb095) removed default password (#14)
+- [76f64d15](https://github.com/kubedb/documentdb/commit/76f64d15) Harden release and release-tracker workflows
+- [56ea3118](https://github.com/kubedb/documentdb/commit/56ea3118) Add AGENTS.md for AI coding agents
+- [2e08c01c](https://github.com/kubedb/documentdb/commit/2e08c01c) Harden CI workflows (#11)
+- [35bad366](https://github.com/kubedb/documentdb/commit/35bad366) Prepare for release v0.1.0 (#10)
+- [d2a7d975](https://github.com/kubedb/documentdb/commit/d2a7d975) Configure dependabot refresh schedule (#9)
+- [d5aef4d2](https://github.com/kubedb/documentdb/commit/d5aef4d2) Configure dependabot refresh schedule (#8)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.19.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.19.0-rc.0)

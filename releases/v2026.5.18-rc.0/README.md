@@ -232,6 +232,24 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.6.0-rc.0)
+
+- [7f7dd3e5](https://github.com/kubedb/qdrant/commit/7f7dd3e5) Prepare for release v0.6.0-rc.0 (#41)
+- [a79ec8c3](https://github.com/kubedb/qdrant/commit/a79ec8c3) Tighten CI/release workflow secrets, perms, and release notes
+- [6715626c](https://github.com/kubedb/qdrant/commit/6715626c) Harden release and release-tracker workflows
+- [784adaa7](https://github.com/kubedb/qdrant/commit/784adaa7) Add CLAUDE.md pointing to AGENTS.md
+- [4ef3db03](https://github.com/kubedb/qdrant/commit/4ef3db03) Add AGENTS.md for AI coding agents
+- [e3aaca10](https://github.com/kubedb/qdrant/commit/e3aaca10) Harden CI workflows (#38)
+- [bcf12c03](https://github.com/kubedb/qdrant/commit/bcf12c03) Prepare for release v0.5.0 (#36)
+- [0bc2e4d5](https://github.com/kubedb/qdrant/commit/0bc2e4d5) Bug Fix (#35)
+- [783dd192](https://github.com/kubedb/qdrant/commit/783dd192) Offline Volume Expansion Fix (#34)
+- [5c011201](https://github.com/kubedb/qdrant/commit/5c011201) Configure dependabot refresh schedule (#33)
+- [f18cd566](https://github.com/kubedb/qdrant/commit/f18cd566) Configure dependabot refresh schedule (#32)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.28.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-20T14:49:53.898227673Z",
+  "release_date": "2026-05-20T14:50:42.50326159Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -690,6 +690,60 @@
             {
               "SHA": "a8dc1d6",
               "Subject": "Configure dependabot refresh schedule (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7f7dd3e5",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "a79ec8c3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "6715626c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "784adaa7",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "4ef3db03",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "e3aaca10",
+              "Subject": "Harden CI workflows (#38)"
+            },
+            {
+              "SHA": "bcf12c03",
+              "Subject": "Prepare for release v0.5.0 (#36)"
+            },
+            {
+              "SHA": "0bc2e4d5",
+              "Subject": "Bug Fix (#35)"
+            },
+            {
+              "SHA": "783dd192",
+              "Subject": "Offline Volume Expansion Fix (#34)"
+            },
+            {
+              "SHA": "5c011201",
+              "Subject": "Configure dependabot refresh schedule (#33)"
+            },
+            {
+              "SHA": "f18cd566",
+              "Subject": "Configure dependabot refresh schedule (#32)"
             }
           ]
         }

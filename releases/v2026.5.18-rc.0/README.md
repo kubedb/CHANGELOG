@@ -250,6 +250,23 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.11.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0-rc.0)
+
+- [8cfb374f](https://github.com/kubedb/hazelcast/commit/8cfb374f) Prepare for release v0.11.0-rc.0 (#46)
+- [198c8a50](https://github.com/kubedb/hazelcast/commit/198c8a50) Tighten CI/release workflow secrets, perms, and release notes
+- [f31ab7cc](https://github.com/kubedb/hazelcast/commit/f31ab7cc) Harden release and release-tracker workflows
+- [791b67dd](https://github.com/kubedb/hazelcast/commit/791b67dd) Add CLAUDE.md pointing to AGENTS.md
+- [289a07ef](https://github.com/kubedb/hazelcast/commit/289a07ef) Add AGENTS.md for AI coding agents
+- [f8e2fc26](https://github.com/kubedb/hazelcast/commit/f8e2fc26) Harden CI workflows (#43)
+- [a49ffac7](https://github.com/kubedb/hazelcast/commit/a49ffac7) Prepare for release v0.10.0 (#42)
+- [1bf1cda9](https://github.com/kubedb/hazelcast/commit/1bf1cda9) Fixed Offline Volume Expansion (#41)
+- [d8c06262](https://github.com/kubedb/hazelcast/commit/d8c06262) Configure dependabot refresh schedule (#40)
+- [d063a0ec](https://github.com/kubedb/hazelcast/commit/d063a0ec) Configure dependabot refresh schedule (#39)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.36.0-rc.0)

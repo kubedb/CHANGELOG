@@ -1,4 +1,4 @@
-# KubeDB v2026.5.18-rc.0 (2026-05-20)
+# KubeDB v2026.5.18-rc.0 (2026-05-21)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -807,6 +807,13 @@
 - [8a7b1696](https://github.com/kubedb/neo4j/commit/8a7b1696) Prepare for release v0.5.0 (#29)
 - [8d7a6886](https://github.com/kubedb/neo4j/commit/8d7a6886) Configure dependabot refresh schedule (#28)
 - [c57e8561](https://github.com/kubedb/neo4j/commit/c57e8561) Add Neo4j Ops Req  updVersion, volumeExpansion (#26)
+
+
+
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/ops-manager/releases/tag/v0.52.0-rc.0)
+
 
 
 

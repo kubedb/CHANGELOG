@@ -1129,6 +1129,21 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.41.0-rc.0](https://github.com/kubedb/schema-manager/releases/tag/v0.41.0-rc.0)
+
+- [c31cfb97](https://github.com/kubedb/schema-manager/commit/c31cfb97) Prepare for release v0.41.0-rc.0 (#170)
+- [7f62c921](https://github.com/kubedb/schema-manager/commit/7f62c921) Tighten CI/release workflow secrets, perms, and release notes
+- [bba504bd](https://github.com/kubedb/schema-manager/commit/bba504bd) Harden release and release-tracker workflows
+- [95b80652](https://github.com/kubedb/schema-manager/commit/95b80652) Add AGENTS.md for AI coding agents
+- [c6495b95](https://github.com/kubedb/schema-manager/commit/c6495b95) Harden CI workflows (#168)
+- [8590f8e5](https://github.com/kubedb/schema-manager/commit/8590f8e5) Prepare for release v0.40.0 (#167)
+- [5a81c014](https://github.com/kubedb/schema-manager/commit/5a81c014) Configure dependabot refresh schedule (#166)
+- [cedf8375](https://github.com/kubedb/schema-manager/commit/cedf8375) Configure dependabot refresh schedule (#165)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.20.0-rc.0)

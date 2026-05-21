@@ -223,6 +223,16 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.5.18-rc.0](https://github.com/kubedb/docs/releases/tag/v2026.5.18-rc.0)
+
+- [dd7b797e](https://github.com/kubedb/docs/commit/dd7b797e) Prepare for release v2026.5.18-rc.0 (#871)
+- [39ce1c76](https://github.com/kubedb/docs/commit/39ce1c76) Fix label detector (#870)
+- [cdc3438e](https://github.com/kubedb/docs/commit/cdc3438e) Harden CI workflows (#869)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.2.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.2.0-rc.0)

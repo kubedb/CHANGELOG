@@ -1222,6 +1222,21 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.41.0-rc.0](https://github.com/kubedb/ui-server/releases/tag/v0.41.0-rc.0)
+
+- [b0cae9e1](https://github.com/kubedb/ui-server/commit/b0cae9e1) Prepare for release v0.41.0-rc.0 (#203)
+- [8633e481](https://github.com/kubedb/ui-server/commit/8633e481) Tighten CI/release workflow secrets, perms, and release notes
+- [ed171989](https://github.com/kubedb/ui-server/commit/ed171989) Harden release and release-tracker workflows
+- [1709ef94](https://github.com/kubedb/ui-server/commit/1709ef94) Pass componenetName field & Refactor (#201)
+- [d171e2c8](https://github.com/kubedb/ui-server/commit/d171e2c8) Add AGENTS.md for AI coding agents
+- [9e3b8aed](https://github.com/kubedb/ui-server/commit/9e3b8aed) Harden CI workflows (#200)
+- [09c4dcc4](https://github.com/kubedb/ui-server/commit/09c4dcc4) Prepare for release v0.40.0 (#199)
+- [996b2c98](https://github.com/kubedb/ui-server/commit/996b2c98) Configure dependabot refresh schedule (#198)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.0)

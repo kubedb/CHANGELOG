@@ -69,6 +69,13 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.50.0-rc.0](https://github.com/kubedb/autoscaler/releases/tag/v0.50.0-rc.0)
+
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.18.0-rc.0)

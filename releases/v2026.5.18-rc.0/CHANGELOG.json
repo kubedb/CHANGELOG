@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.5.18-rc.0",
-  "release_date": "2026-05-21T07:12:42.449482807Z",
+  "release_date": "2026-05-21T12:58:29.186622154Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.5.18-rc.0",
   "kubernetes_version": "1.28+",
@@ -1131,6 +1131,28 @@
             {
               "SHA": "f6e606b1",
               "Subject": "Configure dependabot refresh schedule (#48)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.5.18-rc.0",
+          "commits": [
+            {
+              "SHA": "164a534e0",
+              "Subject": "Prepare for release v2026.5.18-rc.0 (#2321)"
+            },
+            {
+              "SHA": "2a63f9c87",
+              "Subject": "Update crds for kubedb/apimachinery@05817720 (#2315)"
+            },
+            {
+              "SHA": "f9ec8682d",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
             }
           ]
         }

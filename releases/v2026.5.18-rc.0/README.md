@@ -383,6 +383,16 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2026.5.18-rc.0](https://github.com/kubedb/installer/releases/tag/v2026.5.18-rc.0)
+
+- [164a534e](https://github.com/kubedb/installer/commit/164a534e0) Prepare for release v2026.5.18-rc.0 (#2321)
+- [2a63f9c8](https://github.com/kubedb/installer/commit/2a63f9c87) Update crds for kubedb/apimachinery@05817720 (#2315)
+- [f9ec8682](https://github.com/kubedb/installer/commit/f9ec8682d) Add CLAUDE.md pointing to AGENTS.md
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.36.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.36.0-rc.0)

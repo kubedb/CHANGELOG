@@ -112,6 +112,18 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.6.5-rc.1](https://github.com/kubedb/docs/releases/tag/v2026.6.5-rc.1)
+
+- [b378a1cd](https://github.com/kubedb/docs/commit/b378a1cd) Prepare for release v2026.6.5-rc.1 (#878)
+- [7fef152b](https://github.com/kubedb/docs/commit/7fef152b) Remove FerretDB support (#874)
+- [f414b999](https://github.com/kubedb/docs/commit/f414b999) docs(qdrant): add guides and examples (#865)
+- [71f65af2](https://github.com/kubedb/docs/commit/71f65af2) GitOps (#839)
+- [f709fcec](https://github.com/kubedb/docs/commit/f709fcec) docs(neo4j): add guides and examples (#864)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.2.0-rc.1](https://github.com/kubedb/documentdb/releases/tag/v0.2.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:18:38.865930462Z",
+  "release_date": "2026-06-05T05:18:48.827645615Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -540,6 +540,28 @@
             {
               "SHA": "513e4bf4",
               "Subject": "Prepare for release v0.6.0-rc.1 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.1",
+          "commits": [
+            {
+              "SHA": "b3e8b477",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#125)"
+            },
+            {
+              "SHA": "37106c9c",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#124)"
+            },
+            {
+              "SHA": "dca38f13",
+              "Subject": "Use PatchStatus instead of CreateOrPatch to avoid timing issues on db deletion (#122)"
             }
           ]
         }

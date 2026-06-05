@@ -272,6 +272,16 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/zookeeper/releases/tag/v0.20.0-rc.1)
+
+- [b3e8b477](https://github.com/kubedb/zookeeper/commit/b3e8b477) Prepare for release v0.20.0-rc.1 (#125)
+- [37106c9c](https://github.com/kubedb/zookeeper/commit/37106c9c) Add --network-policy-flavor flag with cilium support (#124)
+- [dca38f13](https://github.com/kubedb/zookeeper/commit/dca38f13) Use PatchStatus instead of CreateOrPatch to avoid timing issues on db deletion (#122)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.20.0-rc.1)

@@ -248,6 +248,14 @@
 
 
 
+## [kubedb/migrator-operator](https://github.com/kubedb/migrator-operator)
+
+### [v0.5.0-rc.1](https://github.com/kubedb/migrator-operator/releases/tag/v0.5.0-rc.1)
+
+- [593fa3a](https://github.com/kubedb/migrator-operator/commit/593fa3a) Prepare for release v0.5.0-rc.1 (#18)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/milvus/releases/tag/v0.6.0-rc.1)

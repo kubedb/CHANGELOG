@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:13:01.936968964Z",
+  "release_date": "2026-06-05T05:13:42.357098107Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -311,6 +311,24 @@
             {
               "SHA": "b2d406fb",
               "Subject": "Add StorageMigration OpsRequest support for RabbitMQ (#132)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.50.0-rc.1",
+          "commits": [
+            {
+              "SHA": "59d384bc4",
+              "Subject": "Prepare for release v0.50.0-rc.1 (#538)"
+            },
+            {
+              "SHA": "d5a306baf",
+              "Subject": "Remove FerretDB support (#537)"
             }
           ]
         }

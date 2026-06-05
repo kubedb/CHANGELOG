@@ -156,6 +156,15 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.50.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.50.0-rc.1)
+
+- [59d384bc](https://github.com/kubedb/tests/commit/59d384bc4) Prepare for release v0.50.0-rc.1 (#538)
+- [d5a306ba](https://github.com/kubedb/tests/commit/d5a306baf) Remove FerretDB support (#537)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.20.0-rc.1)

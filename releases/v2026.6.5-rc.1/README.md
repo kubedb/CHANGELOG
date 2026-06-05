@@ -85,6 +85,15 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.36.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.36.0-rc.1)
+
+- [a1068e0b](https://github.com/kubedb/kafka/commit/a1068e0b) Prepare for release v0.36.0-rc.1 (#200)
+- [c6a0dee3](https://github.com/kubedb/kafka/commit/c6a0dee3) Add StorageMigration OpsRequest support (#194)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.16.0-rc.1](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.16.0-rc.1)

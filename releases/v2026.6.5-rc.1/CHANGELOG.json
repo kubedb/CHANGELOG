@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:10:24.464738258Z",
+  "release_date": "2026-06-05T05:12:08.622399879Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -150,6 +150,24 @@
             {
               "SHA": "1358936a",
               "Subject": "Prepare for release v0.45.0-rc.1 (#180)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1ec9a0f1",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#138)"
+            },
+            {
+              "SHA": "0eb8b1c8",
+              "Subject": "Add StorageMigration OpsRequest support for MSSQLServer (#132)"
             }
           ]
         }

@@ -61,6 +61,15 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0-rc.1)
+
+- [1ec9a0f1](https://github.com/kubedb/mssqlserver/commit/1ec9a0f1) Prepare for release v0.20.0-rc.1 (#138)
+- [0eb8b1c8](https://github.com/kubedb/mssqlserver/commit/0eb8b1c8) Add StorageMigration OpsRequest support for MSSQLServer (#132)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.28.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.28.0-rc.1)

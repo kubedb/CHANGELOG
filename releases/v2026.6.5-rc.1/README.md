@@ -95,6 +95,17 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.58.0-rc.1](https://github.com/kubedb/mongodb/releases/tag/v0.58.0-rc.1)
+
+- [4591f101](https://github.com/kubedb/mongodb/commit/4591f1011) Prepare for release v0.58.0-rc.1 (#765)
+- [0ec52968](https://github.com/kubedb/mongodb/commit/0ec529684) Add virtual secret support (#762)
+- [2946c711](https://github.com/kubedb/mongodb/commit/2946c7119) Honor user-provided renewBefore in TLS certificate ops (#764)
+- [75fb23b2](https://github.com/kubedb/mongodb/commit/75fb23b2d) Implement cilium networkpolicy (#763)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0-rc.1)

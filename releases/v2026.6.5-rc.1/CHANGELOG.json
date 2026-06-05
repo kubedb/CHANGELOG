@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:16:13.56108381Z",
+  "release_date": "2026-06-05T05:16:33.253298081Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -214,6 +214,32 @@
             {
               "SHA": "718988e1",
               "Subject": "Add Milvus Ops Request (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.58.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4591f1011",
+              "Subject": "Prepare for release v0.58.0-rc.1 (#765)"
+            },
+            {
+              "SHA": "0ec529684",
+              "Subject": "Add virtual secret support (#762)"
+            },
+            {
+              "SHA": "2946c7119",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#764)"
+            },
+            {
+              "SHA": "75fb23b2d",
+              "Subject": "Implement cilium networkpolicy (#763)"
             }
           ]
         }

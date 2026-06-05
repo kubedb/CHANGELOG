@@ -395,6 +395,16 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.20.0-rc.1)
+
+- [0ac62594](https://github.com/kubedb/singlestore/commit/0ac62594) Prepare for release v0.20.0-rc.1 (#127)
+- [9860ed42](https://github.com/kubedb/singlestore/commit/9860ed42) Add --network-policy-flavor flag with cilium support (#126)
+- [9b843f68](https://github.com/kubedb/singlestore/commit/9b843f68) Add StorageMigration OpsRequest support for Singlestore (#120)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.50.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.50.0-rc.1)

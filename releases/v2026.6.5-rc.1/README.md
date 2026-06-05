@@ -134,6 +134,18 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.65.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.65.0-rc.1)
+
+- [da3dca05](https://github.com/kubedb/postgres/commit/da3dca059) Prepare for release v0.65.0-rc.1 (#894)
+- [f203a907](https://github.com/kubedb/postgres/commit/f203a9079) Add --network-policy-flavor flag with cilium support (#886)
+- [aa3c1fd5](https://github.com/kubedb/postgres/commit/aa3c1fd54) Honor user-provided renewBefore in TLS certificate ops (#893)
+- [5d3d25d5](https://github.com/kubedb/postgres/commit/5d3d25d55) (Skip coordinator + Fix health check) for Remote Replica (#891)
+- [4f7c4133](https://github.com/kubedb/postgres/commit/4f7c41333) Update cluster.local -> slice.local (#890)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.26.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.26.0-rc.1)

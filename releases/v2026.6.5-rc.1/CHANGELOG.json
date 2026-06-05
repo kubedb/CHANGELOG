@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:14:20.844762521Z",
+  "release_date": "2026-06-05T05:14:34.520642032Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -279,6 +279,36 @@
             {
               "SHA": "023944e11",
               "Subject": "Add StorageMigration OpsRequest support for PerconaXtraDB (#452)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.1",
+          "commits": [
+            {
+              "SHA": "da3dca059",
+              "Subject": "Prepare for release v0.65.0-rc.1 (#894)"
+            },
+            {
+              "SHA": "f203a9079",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#886)"
+            },
+            {
+              "SHA": "aa3c1fd54",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#893)"
+            },
+            {
+              "SHA": "5d3d25d55",
+              "Subject": "(Skip coordinator + Fix health check) for Remote Replica (#891)"
+            },
+            {
+              "SHA": "4f7c41333",
+              "Subject": "Update cluster.local -> slice.local (#890)"
             }
           ]
         }

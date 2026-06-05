@@ -62,3 +62,12 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.20.0-rc.1)
+
+- [d1511a11](https://github.com/kubedb/rabbitmq/commit/d1511a11) Prepare for release v0.20.0-rc.1 (#137)
+- [b2d406fb](https://github.com/kubedb/rabbitmq/commit/b2d406fb) Add StorageMigration OpsRequest support for RabbitMQ (#132)
+
+
+

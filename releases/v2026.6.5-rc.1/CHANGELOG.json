@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T06:26:28.461420183Z",
+  "release_date": "2026-06-05T06:31:26.660628026Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -752,6 +752,32 @@
             {
               "SHA": "0bf9da80",
               "Subject": "Add Backup port in primary service (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.1",
+          "commits": [
+            {
+              "SHA": "93fc27d38",
+              "Subject": "Prepare for release v0.52.0-rc.1 (#868)"
+            },
+            {
+              "SHA": "7b18fff4c",
+              "Subject": "Remove FerretDB support (#867)"
+            },
+            {
+              "SHA": "9b4ef9551",
+              "Subject": "Add Recommendation Engine support for Neo4j (#857)"
+            },
+            {
+              "SHA": "a0bcd0df2",
+              "Subject": "Add Milvus Ops Request (#846)"
             }
           ]
         }

@@ -392,6 +392,17 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.52.0-rc.1](https://github.com/kubedb/ops-manager/releases/tag/v0.52.0-rc.1)
+
+- [93fc27d3](https://github.com/kubedb/ops-manager/commit/93fc27d38) Prepare for release v0.52.0-rc.1 (#868)
+- [7b18fff4](https://github.com/kubedb/ops-manager/commit/7b18fff4c) Remove FerretDB support (#867)
+- [9b4ef955](https://github.com/kubedb/ops-manager/commit/9b4ef9551) Add Recommendation Engine support for Neo4j (#857)
+- [a0bcd0df](https://github.com/kubedb/ops-manager/commit/a0bcd0df2) Add Milvus Ops Request (#846)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/oracle/releases/tag/v0.11.0-rc.1)

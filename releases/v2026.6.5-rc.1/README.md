@@ -295,6 +295,18 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.58.0-rc.1](https://github.com/kubedb/redis/releases/tag/v0.58.0-rc.1)
+
+- [ca8050ef](https://github.com/kubedb/redis/commit/ca8050ef7) Prepare for release v0.58.0-rc.1 (#649)
+- [82e9701e](https://github.com/kubedb/redis/commit/82e9701e5) Add --network-policy-flavor flag with cilium support (#648)
+- [7f56a8b9](https://github.com/kubedb/redis/commit/7f56a8b98) Health Check updated (#641)
+- [7452ec78](https://github.com/kubedb/redis/commit/7452ec78a) Add StorageMigration OpsRequest support for Redis (#644)
+- [21037f13](https://github.com/kubedb/redis/commit/21037f135) Merge ACL in reconfigure merger (#642)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.44.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.44.0-rc.1)

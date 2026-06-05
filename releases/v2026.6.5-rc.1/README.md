@@ -61,6 +61,13 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.43.0-rc.1](https://github.com/kubedb/mysql-router-init/releases/tag/v0.43.0-rc.1)
+
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.11.0-rc.1)

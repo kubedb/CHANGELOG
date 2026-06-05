@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:13:42.357098107Z",
+  "release_date": "2026-06-05T05:13:57.556715155Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -247,6 +247,24 @@
             {
               "SHA": "1a66329",
               "Subject": "Prepare for release v0.11.0-rc.1 (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.1",
+          "commits": [
+            {
+              "SHA": "db4f1d809",
+              "Subject": "Prepare for release v0.52.0-rc.1 (#459)"
+            },
+            {
+              "SHA": "023944e11",
+              "Subject": "Add StorageMigration OpsRequest support for PerconaXtraDB (#452)"
             }
           ]
         }

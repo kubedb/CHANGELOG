@@ -117,6 +117,15 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.52.0-rc.1](https://github.com/kubedb/percona-xtradb/releases/tag/v0.52.0-rc.1)
+
+- [db4f1d80](https://github.com/kubedb/percona-xtradb/commit/db4f1d809) Prepare for release v0.52.0-rc.1 (#459)
+- [023944e1](https://github.com/kubedb/percona-xtradb/commit/023944e11) Add StorageMigration OpsRequest support for PerconaXtraDB (#452)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.26.0-rc.1](https://github.com/kubedb/postgres-archiver/releases/tag/v0.26.0-rc.1)

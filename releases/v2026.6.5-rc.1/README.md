@@ -25,3 +25,13 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/crd-manager/releases/tag/v0.20.0-rc.1)
+
+- [f63e3c4d](https://github.com/kubedb/crd-manager/commit/f63e3c4d) Prepare for release v0.20.0-rc.1 (#139)
+- [33485516](https://github.com/kubedb/crd-manager/commit/33485516) Remove FerretDB support (#138)
+- [f4f684e9](https://github.com/kubedb/crd-manager/commit/f4f684e9) Add all missing CRDs (#137)
+
+
+

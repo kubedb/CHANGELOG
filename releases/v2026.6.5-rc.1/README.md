@@ -70,6 +70,14 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/db2/releases/tag/v0.6.0-rc.1)
+
+- [deec0ca0](https://github.com/kubedb/db2/commit/deec0ca0) Prepare for release v0.6.0-rc.1 (#29)
+
+
+
 ## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/db2-coordinator/releases/tag/v0.6.0-rc.1)

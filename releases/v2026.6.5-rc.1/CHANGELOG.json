@@ -1,0 +1,88 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.6.5-rc.1",
+  "release_date": "2026-06-05T02:51:55.431630908Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.1",
+          "commits": [
+            {
+              "SHA": "23c81b3b6",
+              "Subject": "Fix go.mod"
+            },
+            {
+              "SHA": "007ef3ea6",
+              "Subject": "Remove FerretDB support (#1750)"
+            },
+            {
+              "SHA": "101341c29",
+              "Subject": "Added wv-ops-validation and autoscaling webhook (#1722)"
+            },
+            {
+              "SHA": "fb439fff4",
+              "Subject": "Register Neo4j Autoscaler (#1746)"
+            },
+            {
+              "SHA": "62f69e286",
+              "Subject": "Add CiliumNetworkPolicy flavor support (#1714)"
+            },
+            {
+              "SHA": "9b1a220b4",
+              "Subject": "Bump go.bytebuilders.dev/audit to v0.0.52 (#1745)"
+            },
+            {
+              "SHA": "dd3d0e3d3",
+              "Subject": "Update go.bytebuilders.dev/audit to v0.0.51 (#1744)"
+            },
+            {
+              "SHA": "0e48a4da6",
+              "Subject": "Add common configuration for milvus storage migration (#1741)"
+            },
+            {
+              "SHA": "ea56f8dd2",
+              "Subject": "Add pkg/secret helpers for dual-path auth secret access (#1726)"
+            },
+            {
+              "SHA": "ef57da777",
+              "Subject": "Fix DatabaseConfiguration resource name casing and remove stale CRDs (#1727)"
+            },
+            {
+              "SHA": "9bdcc3b7e",
+              "Subject": "DatabaseInfo -> DatabaseConfiguration (#1725)"
+            },
+            {
+              "SHA": "66b31784e",
+              "Subject": "Introduce summary api (#1724)"
+            },
+            {
+              "SHA": "59b4eaa36",
+              "Subject": "Add weaviate ops helpers"
+            },
+            {
+              "SHA": "f7c721957",
+              "Subject": "Review autoscaler api (#1719)"
+            },
+            {
+              "SHA": "97db127e6",
+              "Subject": "Update Elasticsearch StorageMigration Ops Api (#1721)"
+            },
+            {
+              "SHA": "7b38d9144",
+              "Subject": "Add Milvus Ops Request (#1666)"
+            },
+            {
+              "SHA": "46001228f",
+              "Subject": "add weaviate ops_req (#1716)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

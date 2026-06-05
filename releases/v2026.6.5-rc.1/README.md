@@ -117,6 +117,15 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.65.0-rc.1](https://github.com/kubedb/elasticsearch/releases/tag/v0.65.0-rc.1)
+
+- [890e13c1](https://github.com/kubedb/elasticsearch/commit/890e13c16) Prepare for release v0.65.0-rc.1 (#817)
+- [613e034e](https://github.com/kubedb/elasticsearch/commit/613e034ea) Add StorageMigration OpsRequest support (#810)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.28.0-rc.1](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.28.0-rc.1)

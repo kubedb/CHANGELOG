@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:52:32.215693413Z",
+  "release_date": "2026-06-05T05:54:41.865974356Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -248,6 +248,24 @@
             {
               "SHA": "7970cf8b",
               "Subject": "Prepare for release v0.20.0-rc.1 (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.1",
+          "commits": [
+            {
+              "SHA": "890e13c16",
+              "Subject": "Prepare for release v0.65.0-rc.1 (#817)"
+            },
+            {
+              "SHA": "613e034ea",
+              "Subject": "Add StorageMigration OpsRequest support (#810)"
             }
           ]
         }

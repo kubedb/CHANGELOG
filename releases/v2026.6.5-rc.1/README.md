@@ -77,6 +77,14 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.13.0-rc.1](https://github.com/kubedb/gitops/releases/tag/v0.13.0-rc.1)
+
+- [0da911fa](https://github.com/kubedb/gitops/commit/0da911fa) Prepare for release v0.13.0-rc.1 (#68)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0-rc.1)

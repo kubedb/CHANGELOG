@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:14:07.119446957Z",
+  "release_date": "2026-06-05T05:14:20.844762521Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -101,6 +101,20 @@
             {
               "SHA": "f4f684e9",
               "Subject": "Add all missing CRDs (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.1",
+          "commits": [
+            {
+              "SHA": "dbe58a1d",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#77)"
             }
           ]
         }

@@ -299,6 +299,15 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.11.0-rc.1](https://github.com/kubedb/oracle/releases/tag/v0.11.0-rc.1)
+
+- [789d3804](https://github.com/kubedb/oracle/commit/789d3804) Prepare for release v0.11.0-rc.1 (#58)
+- [13c00d3e](https://github.com/kubedb/oracle/commit/13c00d3e) add ImagePullSecret for observer (#54)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.11.0-rc.1)

@@ -77,6 +77,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.49.0-rc.1](https://github.com/kubedb/mariadb/releases/tag/v0.49.0-rc.1)
+
+- [f0f7b7e0](https://github.com/kubedb/mariadb/commit/f0f7b7e0f) Prepare for release v0.49.0-rc.1 (#406)
+- [1bb8a02a](https://github.com/kubedb/mariadb/commit/1bb8a02ac) Add StorageMigration OpsRequest support (#398)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.45.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0-rc.1)

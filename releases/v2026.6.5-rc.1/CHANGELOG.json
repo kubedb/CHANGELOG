@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:16:43.0009792Z",
+  "release_date": "2026-06-05T05:17:06.82830094Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -178,6 +178,24 @@
             {
               "SHA": "bf5f23ea",
               "Subject": "Prepare for release v0.16.0-rc.1 (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.1",
+          "commits": [
+            {
+              "SHA": "f0f7b7e0f",
+              "Subject": "Prepare for release v0.49.0-rc.1 (#406)"
+            },
+            {
+              "SHA": "1bb8a02ac",
+              "Subject": "Add StorageMigration OpsRequest support (#398)"
             }
           ]
         }

@@ -61,6 +61,14 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.2.0-rc.1](https://github.com/kubedb/documentdb/releases/tag/v0.2.0-rc.1)
+
+- [481e035d](https://github.com/kubedb/documentdb/commit/481e035d) Prepare for release v0.2.0-rc.1 (#18)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0-rc.1)

@@ -415,6 +415,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.52.0-rc.1](https://github.com/kubedb/pgbouncer/releases/tag/v0.52.0-rc.1)
+
+- [8e5905a4](https://github.com/kubedb/pgbouncer/commit/8e5905a4b) Prepare for release v0.52.0-rc.1 (#416)
+- [c5e7a81e](https://github.com/kubedb/pgbouncer/commit/c5e7a81e0) Add --network-policy-flavor flag with cilium support (#415)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.20.0-rc.1)

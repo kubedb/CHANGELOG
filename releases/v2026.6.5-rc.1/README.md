@@ -46,6 +46,13 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/db2-coordinator/releases/tag/v0.6.0-rc.1)
+
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.45.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0-rc.1)

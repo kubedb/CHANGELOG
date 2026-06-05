@@ -109,6 +109,14 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.5.0-rc.1](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.5.0-rc.1)
+
+- [97c79d78](https://github.com/kubedb/hanadb-coordinator/commit/97c79d78) Prepare for release v0.5.0-rc.1 (#14)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T06:15:34.93790182Z",
+  "release_date": "2026-06-05T06:15:45.4216995Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -368,6 +368,20 @@
             {
               "SHA": "c6a0dee3",
               "Subject": "Add StorageMigration OpsRequest support (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.1",
+          "commits": [
+            {
+              "SHA": "7bec93e8",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#183)"
             }
           ]
         }

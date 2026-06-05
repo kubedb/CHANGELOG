@@ -239,6 +239,14 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.28.0-rc.1)
+
+- [b2769079](https://github.com/kubedb/redis-restic-plugin/commit/b2769079) Prepare for release v0.28.0-rc.1 (#107)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.50.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.50.0-rc.1)

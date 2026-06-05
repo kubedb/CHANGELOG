@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:54:41.865974356Z",
+  "release_date": "2026-06-05T05:56:04.490956391Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -294,6 +294,20 @@
             {
               "SHA": "0da911fa",
               "Subject": "Prepare for release v0.13.0-rc.1 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "da2fb620",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#43)"
             }
           ]
         }

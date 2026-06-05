@@ -142,6 +142,14 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/hanadb/releases/tag/v0.6.0-rc.1)
+
+- [da2fb620](https://github.com/kubedb/hanadb/commit/da2fb620) Prepare for release v0.6.0-rc.1 (#43)
+
+
+
 ## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
 
 ### [v0.5.0-rc.1](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.5.0-rc.1)

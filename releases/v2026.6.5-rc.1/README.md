@@ -424,6 +424,15 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/solr/releases/tag/v0.20.0-rc.1)
+
+- [0d6417ef](https://github.com/kubedb/solr/commit/0d6417ef) Prepare for release v0.20.0-rc.1 (#133)
+- [4f32f195](https://github.com/kubedb/solr/commit/4f32f195) Add --network-policy-flavor flag with cilium support (#132)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.50.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.50.0-rc.1)

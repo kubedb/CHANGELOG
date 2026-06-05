@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:39:26.755976142Z",
+  "release_date": "2026-06-05T05:39:37.685320363Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -823,6 +823,24 @@
             {
               "SHA": "9b843f68",
               "Subject": "Add StorageMigration OpsRequest support for Singlestore (#120)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0d6417ef",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#133)"
+            },
+            {
+              "SHA": "4f32f195",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#132)"
             }
           ]
         }

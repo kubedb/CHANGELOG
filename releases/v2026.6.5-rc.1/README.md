@@ -202,6 +202,14 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.1)
+
+- [513e4bf4](https://github.com/kubedb/weaviate/commit/513e4bf4) Prepare for release v0.6.0-rc.1 (#39)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.20.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:14:34.520642032Z",
+  "release_date": "2026-06-05T05:14:57.058798067Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -405,6 +405,20 @@
             {
               "SHA": "d5a306baf",
               "Subject": "Remove FerretDB support (#537)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "513e4bf4",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#39)"
             }
           ]
         }

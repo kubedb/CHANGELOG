@@ -25,6 +25,14 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.18.0-rc.1](https://github.com/kubedb/cassandra/releases/tag/v0.18.0-rc.1)
+
+- [4855098e](https://github.com/kubedb/cassandra/commit/4855098e) Prepare for release v0.18.0-rc.1 (#87)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/clickhouse/releases/tag/v0.20.0-rc.1)

@@ -33,6 +33,14 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.12.0-rc.1](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.12.0-rc.1)
+
+- [aefdc390](https://github.com/kubedb/cassandra-medusa-plugin/commit/aefdc390) Prepare for release v0.12.0-rc.1 (#39)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/clickhouse/releases/tag/v0.20.0-rc.1)

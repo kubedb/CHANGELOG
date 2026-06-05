@@ -520,6 +520,16 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.65.0-rc.1](https://github.com/kubedb/provisioner/releases/tag/v0.65.0-rc.1)
+
+- [ae1b2445](https://github.com/kubedb/provisioner/commit/ae1b24456) Prepare for release v0.65.0-rc.1 (#210)
+- [eb7cffb1](https://github.com/kubedb/provisioner/commit/eb7cffb1d) Implement cilium networkpolicy (#207)
+- [f2a28deb](https://github.com/kubedb/provisioner/commit/f2a28deba) Remove FerretDB support (#209)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.52.0-rc.1](https://github.com/kubedb/proxysql/releases/tag/v0.52.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T06:31:26.660628026Z",
+  "release_date": "2026-06-05T07:14:57.831313385Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -993,6 +993,28 @@
         {
           "tag": "v0.26.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.1",
+          "commits": [
+            {
+              "SHA": "ae1b24456",
+              "Subject": "Prepare for release v0.65.0-rc.1 (#210)"
+            },
+            {
+              "SHA": "eb7cffb1d",
+              "Subject": "Implement cilium networkpolicy (#207)"
+            },
+            {
+              "SHA": "f2a28deba",
+              "Subject": "Remove FerretDB support (#209)"
+            }
+          ]
         }
       ]
     },

@@ -236,6 +236,14 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.19.0-rc.1](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.19.0-rc.1)
+
+- [51ea4f2](https://github.com/kubedb/mssqlserver-walg-plugin/commit/51ea4f2) Prepare for release v0.19.0-rc.1 (#61)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.26.0-rc.1](https://github.com/kubedb/mysql-archiver/releases/tag/v0.26.0-rc.1)

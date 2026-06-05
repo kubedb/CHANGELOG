@@ -606,6 +606,17 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.41.0-rc.1](https://github.com/kubedb/webhook-server/releases/tag/v0.41.0-rc.1)
+
+- [29608ec8](https://github.com/kubedb/webhook-server/commit/29608ec8b) Prepare for release v0.41.0-rc.1 (#220)
+- [9baa5eb5](https://github.com/kubedb/webhook-server/commit/9baa5eb56) Remove FerretDB support (#219)
+- [0f68066f](https://github.com/kubedb/webhook-server/commit/0f68066fa) Setup Qdrant Autoscaler Webhook (#209)
+- [fe08c7c4](https://github.com/kubedb/webhook-server/commit/fe08c7c4d) Add Milvus OPS Webhook (#217)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.13.0-rc.1](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0-rc.1)

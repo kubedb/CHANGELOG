@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T06:15:45.4216995Z",
+  "release_date": "2026-06-05T06:23:22.785110337Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -1155,6 +1155,32 @@
             {
               "SHA": "513e4bf4",
               "Subject": "Prepare for release v0.6.0-rc.1 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.1",
+          "commits": [
+            {
+              "SHA": "29608ec8b",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#220)"
+            },
+            {
+              "SHA": "9baa5eb56",
+              "Subject": "Remove FerretDB support (#219)"
+            },
+            {
+              "SHA": "0f68066fa",
+              "Subject": "Setup Qdrant Autoscaler Webhook (#209)"
+            },
+            {
+              "SHA": "fe08c7c4d",
+              "Subject": "Add Milvus OPS Webhook (#217)"
             }
           ]
         }

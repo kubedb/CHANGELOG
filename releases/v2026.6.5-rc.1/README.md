@@ -25,6 +25,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.50.0-rc.1](https://github.com/kubedb/autoscaler/releases/tag/v0.50.0-rc.1)
+
+- [9d983c07](https://github.com/kubedb/autoscaler/commit/9d983c07) Prepare for release v0.50.0-rc.1 (#305)
+- [9d7909f8](https://github.com/kubedb/autoscaler/commit/9d7909f8) Remove FerretDB support (#304)
+- [9366ad79](https://github.com/kubedb/autoscaler/commit/9366ad79) Set Ops Request Options Default (#293)
+- [587219ce](https://github.com/kubedb/autoscaler/commit/587219ce) Add Qdrant Autoscaler (#285)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.18.0-rc.1](https://github.com/kubedb/cassandra/releases/tag/v0.18.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T06:23:33.569514458Z",
+  "release_date": "2026-06-05T06:23:48.246015916Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -79,6 +79,32 @@
             {
               "SHA": "46001228f",
               "Subject": "add weaviate ops_req (#1716)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.50.0-rc.1",
+          "commits": [
+            {
+              "SHA": "9d983c07",
+              "Subject": "Prepare for release v0.50.0-rc.1 (#305)"
+            },
+            {
+              "SHA": "9d7909f8",
+              "Subject": "Remove FerretDB support (#304)"
+            },
+            {
+              "SHA": "9366ad79",
+              "Subject": "Set Ops Request Options Default (#293)"
+            },
+            {
+              "SHA": "587219ce",
+              "Subject": "Add Qdrant Autoscaler (#285)"
             }
           ]
         }

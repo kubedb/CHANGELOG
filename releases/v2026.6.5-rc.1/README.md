@@ -143,6 +143,14 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.5.0-rc.1](https://github.com/kubedb/migrator-cli/releases/tag/v0.5.0-rc.1)
+
+- [f64c95c](https://github.com/kubedb/migrator-cli/commit/f64c95c) Prepare for release v0.5.0-rc.1 (#23)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/milvus/releases/tag/v0.6.0-rc.1)

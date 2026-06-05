@@ -84,6 +84,14 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.26.0-rc.1](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.26.0-rc.1)
+
+- [a578dc28](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/a578dc28) Prepare for release v0.26.0-rc.1 (#90)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.20.0-rc.1)

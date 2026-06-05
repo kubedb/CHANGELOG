@@ -46,6 +46,14 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.45.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0-rc.1)
+
+- [1358936a](https://github.com/kubedb/mariadb-coordinator/commit/1358936a) Prepare for release v0.45.0-rc.1 (#180)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.11.0-rc.1)

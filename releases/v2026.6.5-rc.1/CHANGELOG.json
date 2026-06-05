@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:09:27.699115134Z",
+  "release_date": "2026-06-05T05:09:36.435314856Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -127,6 +127,20 @@
             {
               "SHA": "523e0304",
               "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1358936a",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#180)"
             }
           ]
         }

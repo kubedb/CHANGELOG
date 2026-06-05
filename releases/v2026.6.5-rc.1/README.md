@@ -85,6 +85,16 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/milvus/releases/tag/v0.6.0-rc.1)
+
+- [703de898](https://github.com/kubedb/milvus/commit/703de898) Prepare for release v0.6.0-rc.1 (#42)
+- [83890286](https://github.com/kubedb/milvus/commit/83890286) Add StorageMigration Ops-Request Support (#39)
+- [718988e1](https://github.com/kubedb/milvus/commit/718988e1) Add Milvus Ops Request (#33)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0-rc.1)

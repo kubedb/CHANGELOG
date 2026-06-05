@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:15:08.404585206Z",
+  "release_date": "2026-06-05T05:16:13.56108381Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -192,6 +192,28 @@
             {
               "SHA": "1358936a",
               "Subject": "Prepare for release v0.45.0-rc.1 (#180)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "703de898",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#42)"
+            },
+            {
+              "SHA": "83890286",
+              "Subject": "Add StorageMigration Ops-Request Support (#39)"
+            },
+            {
+              "SHA": "718988e1",
+              "Subject": "Add Milvus Ops Request (#33)"
             }
           ]
         }

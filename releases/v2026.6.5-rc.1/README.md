@@ -165,6 +165,14 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.44.0-rc.1](https://github.com/kubedb/redis-coordinator/releases/tag/v0.44.0-rc.1)
+
+- [b0fc9339](https://github.com/kubedb/redis-coordinator/commit/b0fc9339) Prepare for release v0.44.0-rc.1 (#161)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.50.0-rc.1](https://github.com/kubedb/tests/releases/tag/v0.50.0-rc.1)

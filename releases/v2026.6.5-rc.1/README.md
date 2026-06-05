@@ -110,6 +110,14 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.23.0-rc.1](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.23.0-rc.1)
+
+- [3b08f7c6](https://github.com/kubedb/mariadb-restic-plugin/commit/3b08f7c6) Prepare for release v0.23.0-rc.1 (#91)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/milvus/releases/tag/v0.6.0-rc.1)

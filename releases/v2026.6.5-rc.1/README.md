@@ -53,6 +53,14 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.11.0-rc.1](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0-rc.1)
+
+- [e45daa28](https://github.com/kubedb/hazelcast/commit/e45daa28) Prepare for release v0.11.0-rc.1 (#49)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.45.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0-rc.1)

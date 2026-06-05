@@ -35,3 +35,14 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/db-client-go/releases/tag/v0.20.0-rc.1)
+
+- [a24ee1cd](https://github.com/kubedb/db-client-go/commit/a24ee1cd) Prepare for release v0.20.0-rc.1 (#247)
+- [0efcbce1](https://github.com/kubedb/db-client-go/commit/0efcbce1) Use shared pkg/secret helpers for dual-path auth secret access (#245)
+- [0878c362](https://github.com/kubedb/db-client-go/commit/0878c362) Bump kubedb.dev/apimachinery to drop FerretDB (#246)
+- [523e0304](https://github.com/kubedb/db-client-go/commit/523e0304) Tighten CI/release workflow secrets, perms, and release notes
+
+
+

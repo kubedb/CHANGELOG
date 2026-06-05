@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T02:58:13.459224505Z",
+  "release_date": "2026-06-05T03:15:39.812483657Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -101,6 +101,32 @@
             {
               "SHA": "f4f684e9",
               "Subject": "Add all missing CRDs (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.1",
+          "commits": [
+            {
+              "SHA": "a24ee1cd",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#247)"
+            },
+            {
+              "SHA": "0efcbce1",
+              "Subject": "Use shared pkg/secret helpers for dual-path auth secret access (#245)"
+            },
+            {
+              "SHA": "0878c362",
+              "Subject": "Bump kubedb.dev/apimachinery to drop FerretDB (#246)"
+            },
+            {
+              "SHA": "523e0304",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
             }
           ]
         }

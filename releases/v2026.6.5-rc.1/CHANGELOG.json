@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T07:14:57.831313385Z",
+  "release_date": "2026-06-05T11:35:15.508349572Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -376,6 +376,44 @@
             {
               "SHA": "46fc9cb0",
               "Subject": "Prepare for release v0.12.0-rc.1 (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.6.5-rc.1",
+          "commits": [
+            {
+              "SHA": "b06451d33",
+              "Subject": "Prepare for release v2026.6.5-rc.1 (#2337)"
+            },
+            {
+              "SHA": "78341132c",
+              "Subject": "Add global.networkPolicy.flavor with cilium support (#2289)"
+            },
+            {
+              "SHA": "6fc62ced1",
+              "Subject": "Remove FerretDB support (#2335)"
+            },
+            {
+              "SHA": "abc8e994d",
+              "Subject": "Add Qdrant and Ignite Autoscaler Validating and Mutating Webhook (#2260)"
+            },
+            {
+              "SHA": "f30952964",
+              "Subject": "Use ace-user-roles v2026.6.12 with audit cluster role (#2332)"
+            },
+            {
+              "SHA": "67ef5f229",
+              "Subject": "Add Milvus Webhook Validation (#2328)"
+            },
+            {
+              "SHA": "0b68dd1ee",
+              "Subject": "update redis init (#2323)"
             }
           ]
         }

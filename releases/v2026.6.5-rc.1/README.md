@@ -185,6 +185,20 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2026.6.5-rc.1](https://github.com/kubedb/installer/releases/tag/v2026.6.5-rc.1)
+
+- [b06451d3](https://github.com/kubedb/installer/commit/b06451d33) Prepare for release v2026.6.5-rc.1 (#2337)
+- [78341132](https://github.com/kubedb/installer/commit/78341132c) Add global.networkPolicy.flavor with cilium support (#2289)
+- [6fc62ced](https://github.com/kubedb/installer/commit/6fc62ced1) Remove FerretDB support (#2335)
+- [abc8e994](https://github.com/kubedb/installer/commit/abc8e994d) Add Qdrant and Ignite Autoscaler Validating and Mutating Webhook (#2260)
+- [f3095296](https://github.com/kubedb/installer/commit/f30952964) Use ace-user-roles v2026.6.12 with audit cluster role (#2332)
+- [67ef5f22](https://github.com/kubedb/installer/commit/67ef5f229) Add Milvus Webhook Validation (#2328)
+- [0b68dd1e](https://github.com/kubedb/installer/commit/0b68dd1ee) update redis init (#2323)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.36.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.36.0-rc.1)

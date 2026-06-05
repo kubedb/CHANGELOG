@@ -134,6 +134,15 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/pgpool/releases/tag/v0.20.0-rc.1)
+
+- [1750b479](https://github.com/kubedb/pgpool/commit/1750b479) Prepare for release v0.20.0-rc.1 (#123)
+- [eff93373](https://github.com/kubedb/pgpool/commit/eff93373) Add --network-policy-flavor flag with cilium support (#122)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.65.0-rc.1](https://github.com/kubedb/postgres/releases/tag/v0.65.0-rc.1)

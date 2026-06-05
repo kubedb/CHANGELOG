@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:14:57.058798067Z",
+  "release_date": "2026-06-05T05:15:08.404585206Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -279,6 +279,24 @@
             {
               "SHA": "023944e11",
               "Subject": "Add StorageMigration OpsRequest support for PerconaXtraDB (#452)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.1",
+          "commits": [
+            {
+              "SHA": "1750b479",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#123)"
+            },
+            {
+              "SHA": "eff93373",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#122)"
             }
           ]
         }

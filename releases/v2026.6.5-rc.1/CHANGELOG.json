@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:58:34.211804538Z",
+  "release_date": "2026-06-05T06:08:03.776498981Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -668,6 +668,24 @@
         {
           "tag": "v0.43.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "c5dcc324",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#38)"
+            },
+            {
+              "SHA": "0bf9da80",
+              "Subject": "Add Backup port in primary service (#31)"
+            }
+          ]
         }
       ]
     },

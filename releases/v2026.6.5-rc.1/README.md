@@ -348,6 +348,15 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/neo4j/releases/tag/v0.6.0-rc.1)
+
+- [c5dcc324](https://github.com/kubedb/neo4j/commit/c5dcc324) Prepare for release v0.6.0-rc.1 (#38)
+- [0bf9da80](https://github.com/kubedb/neo4j/commit/0bf9da80) Add Backup port in primary service (#31)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/oracle/releases/tag/v0.11.0-rc.1)

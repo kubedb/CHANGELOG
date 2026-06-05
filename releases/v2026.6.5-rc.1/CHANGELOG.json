@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T06:23:22.785110337Z",
+  "release_date": "2026-06-05T06:23:33.569514458Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -1141,6 +1141,24 @@
             {
               "SHA": "d5a306baf",
               "Subject": "Remove FerretDB support (#537)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.1",
+          "commits": [
+            {
+              "SHA": "62d7f163b",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#208)"
+            },
+            {
+              "SHA": "5fa49a752",
+              "Subject": "Remove FerretDB support (#207)"
             }
           ]
         }

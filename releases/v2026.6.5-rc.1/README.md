@@ -598,6 +598,15 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.41.0-rc.1](https://github.com/kubedb/ui-server/releases/tag/v0.41.0-rc.1)
+
+- [62d7f163](https://github.com/kubedb/ui-server/commit/62d7f163b) Prepare for release v0.41.0-rc.1 (#208)
+- [5fa49a75](https://github.com/kubedb/ui-server/commit/5fa49a752) Remove FerretDB support (#207)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.6.0-rc.1](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.1)

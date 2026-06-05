@@ -366,6 +366,17 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.6.0-rc.1](https://github.com/kubedb/qdrant/releases/tag/v0.6.0-rc.1)
+
+- [6ea63e53](https://github.com/kubedb/qdrant/commit/6ea63e53) Prepare for release v0.6.0-rc.1 (#46)
+- [88c4b011](https://github.com/kubedb/qdrant/commit/88c4b011) Add --network-policy-flavor flag with cilium support (#45)
+- [928e3450](https://github.com/kubedb/qdrant/commit/928e3450) Add StorageMigration OpsRequest support for Qdrant (#40)
+- [b144b7b6](https://github.com/kubedb/qdrant/commit/b144b7b6) Add Reconfigure TLS (#37)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.20.0-rc.1](https://github.com/kubedb/rabbitmq/releases/tag/v0.20.0-rc.1)

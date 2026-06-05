@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.5-rc.1",
-  "release_date": "2026-06-05T05:39:18.290614983Z",
+  "release_date": "2026-06-05T05:39:26.755976142Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.5-rc.1",
   "kubernetes_version": "1.28+",
@@ -701,6 +701,32 @@
         {
           "tag": "v0.26.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.1",
+          "commits": [
+            {
+              "SHA": "6ea63e53",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#46)"
+            },
+            {
+              "SHA": "88c4b011",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#45)"
+            },
+            {
+              "SHA": "928e3450",
+              "Subject": "Add StorageMigration OpsRequest support for Qdrant (#40)"
+            },
+            {
+              "SHA": "b144b7b6",
+              "Subject": "Add Reconfigure TLS (#37)"
+            }
+          ]
         }
       ]
     },

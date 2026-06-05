@@ -46,3 +46,11 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.11.0-rc.1](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.11.0-rc.1)
+
+- [1a66329](https://github.com/kubedb/oracle-coordinator/commit/1a66329) Prepare for release v0.11.0-rc.1 (#37)
+
+
+

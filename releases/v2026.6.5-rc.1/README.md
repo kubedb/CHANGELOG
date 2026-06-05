@@ -69,6 +69,14 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/druid/releases/tag/v0.20.0-rc.1)
+
+- [7970cf8b](https://github.com/kubedb/druid/commit/7970cf8b) Prepare for release v0.20.0-rc.1 (#137)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.11.0-rc.1](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0-rc.1)

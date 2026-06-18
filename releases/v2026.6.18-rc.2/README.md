@@ -720,6 +720,14 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.41.0-rc.2](https://github.com/kubedb/ui-server/releases/tag/v0.41.0-rc.2)
+
+- [2d9cc487](https://github.com/kubedb/ui-server/commit/2d9cc4875) Prepare for release v0.41.0-rc.2 (#209)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.6.0-rc.2](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.2)

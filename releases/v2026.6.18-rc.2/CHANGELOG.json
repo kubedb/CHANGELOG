@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T11:16:41.286010207Z",
+  "release_date": "2026-06-18T11:16:52.422454357Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -1542,6 +1542,20 @@
             {
               "SHA": "957fa4e5d",
               "Subject": "Add E2E tests for ClickHouse (#525)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2d9cc4875",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#209)"
             }
           ]
         }

@@ -40,6 +40,16 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.20.0-rc.2](https://github.com/kubedb/clickhouse/releases/tag/v0.20.0-rc.2)
+
+- [6f1712d6](https://github.com/kubedb/clickhouse/commit/6f1712d6) Prepare for release v0.20.0-rc.2 (#114)
+- [610759d3](https://github.com/kubedb/clickhouse/commit/610759d3) Honor user-provided renewBefore in TLS certificate ops (#110)
+- [b8b9b4d5](https://github.com/kubedb/clickhouse/commit/b8b9b4d5) Add NetworkPolicyFlavor support (#113)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/crd-manager/releases/tag/v0.20.0-rc.2)

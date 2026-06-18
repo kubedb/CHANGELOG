@@ -1,0 +1,148 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.6.18-rc.2",
+  "release_date": "2026-06-18T07:16:21.773325123Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2309f632f",
+              "Subject": "Update for release KubeStash@v2026.6.18-rc.2 (#1771)"
+            },
+            {
+              "SHA": "20f0dc781",
+              "Subject": "Fix Lint (#1769)"
+            },
+            {
+              "SHA": "d9be48e09",
+              "Subject": "Add gitops Hazelcast type (#1730)"
+            },
+            {
+              "SHA": "e7402f256",
+              "Subject": "documentdb-reconfigure (#1767)"
+            },
+            {
+              "SHA": "d06f5f04d",
+              "Subject": "Add gitops HanaDB type (#1731)"
+            },
+            {
+              "SHA": "81617de4b",
+              "Subject": "Add gitops Cassandra type (#1732)"
+            },
+            {
+              "SHA": "2b0cbe95a",
+              "Subject": "feat: add GitSyncer and Init *InitSpec fields for git-sync support (#1728)"
+            },
+            {
+              "SHA": "371e3875d",
+              "Subject": "Add migration TLS (#1768)"
+            },
+            {
+              "SHA": "352eb38cf",
+              "Subject": "Add gitops Oracle type (#1737)"
+            },
+            {
+              "SHA": "613ec3825",
+              "Subject": "Add gitops Weaviate type (#1739)"
+            },
+            {
+              "SHA": "b0d2d6861",
+              "Subject": "Add gitops Ignite type (#1740)"
+            },
+            {
+              "SHA": "b242fc478",
+              "Subject": "Add gitops Milvus type (#1735)"
+            },
+            {
+              "SHA": "550837abf",
+              "Subject": "Add gitops Neo4j type (#1734)"
+            },
+            {
+              "SHA": "29d18fef2",
+              "Subject": "Add gitops Qdrant type (#1738)"
+            },
+            {
+              "SHA": "120dee060",
+              "Subject": "Add oracle wallet configurationsecret api (#1764)"
+            },
+            {
+              "SHA": "6837ec90a",
+              "Subject": "fix singlestore standalone tls (#1760)"
+            },
+            {
+              "SHA": "75c375a3c",
+              "Subject": "Exclude virtual auth secrets from persistent secret tracking (#1762)"
+            },
+            {
+              "SHA": "0fb5640ba",
+              "Subject": "wv-ops (#1743)"
+            },
+            {
+              "SHA": "376078d84",
+              "Subject": "Update documentdb raft client port (#1759)"
+            },
+            {
+              "SHA": "57cbbd07f",
+              "Subject": "Add gitops ClickHouse type (#1733)"
+            },
+            {
+              "SHA": "4ea06c513",
+              "Subject": "Allow init-script for percona-xtradb cluster (#1749)"
+            },
+            {
+              "SHA": "b60722d59",
+              "Subject": "Migrator cli api update for mysql (#1754)"
+            },
+            {
+              "SHA": "9ae2bd644",
+              "Subject": "Update ops api, add coordinator defaulting for HanaDB (#1723)"
+            },
+            {
+              "SHA": "0f38d07ee",
+              "Subject": "updated documentdb constant (#1758)"
+            },
+            {
+              "SHA": "c313668bb",
+              "Subject": "added halted and config (#1757)"
+            },
+            {
+              "SHA": "d90741a1a",
+              "Subject": "update autoscaler api for missing database (#1752)"
+            },
+            {
+              "SHA": "0c9dd395b",
+              "Subject": "documentdb helpers (#1756)"
+            },
+            {
+              "SHA": "c05562622",
+              "Subject": "Documentdb-adminSecret (#1729)"
+            },
+            {
+              "SHA": "6fead4056",
+              "Subject": "Add Milvus Autoscaler Webhook Validation (#1747)"
+            },
+            {
+              "SHA": "4b212df05",
+              "Subject": "Fix swagger.json"
+            },
+            {
+              "SHA": "7c98b972c",
+              "Subject": "Remove Etcd support (#1751)"
+            },
+            {
+              "SHA": "74ea704fe",
+              "Subject": "Fix nil pointer dereferences in storage migration webhook validators (#1748)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

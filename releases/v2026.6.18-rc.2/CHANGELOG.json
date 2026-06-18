@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:50:37.451234549Z",
+  "release_date": "2026-06-18T09:51:37.713873037Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -341,6 +341,32 @@
             {
               "SHA": "021ea97a",
               "Subject": "Add restic backup progress streaming (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.2",
+          "commits": [
+            {
+              "SHA": "32a65cd4",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#80)"
+            },
+            {
+              "SHA": "0131a5f7",
+              "Subject": "Add GitOps support for RabbitMQ (#72)"
+            },
+            {
+              "SHA": "a7f78221",
+              "Subject": "Add gitops support for Neo4j (#62)"
+            },
+            {
+              "SHA": "cba199d7",
+              "Subject": "Skip OpsCreation If Any Same Type Ops InProgress (#79)"
             }
           ]
         }

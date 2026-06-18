@@ -131,6 +131,17 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.13.0-rc.2](https://github.com/kubedb/gitops/releases/tag/v0.13.0-rc.2)
+
+- [32a65cd4](https://github.com/kubedb/gitops/commit/32a65cd4) Prepare for release v0.13.0-rc.2 (#80)
+- [0131a5f7](https://github.com/kubedb/gitops/commit/0131a5f7) Add GitOps support for RabbitMQ (#72)
+- [a7f78221](https://github.com/kubedb/gitops/commit/a7f78221) Add gitops support for Neo4j (#62)
+- [cba199d7](https://github.com/kubedb/gitops/commit/cba199d7) Skip OpsCreation If Any Same Type Ops InProgress (#79)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.6.0-rc.2](https://github.com/kubedb/hanadb/releases/tag/v0.6.0-rc.2)

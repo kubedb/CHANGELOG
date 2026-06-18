@@ -133,6 +133,14 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.6.18-rc.2](https://github.com/kubedb/docs/releases/tag/v2026.6.18-rc.2)
+
+- [ca25d9b3](https://github.com/kubedb/docs/commit/ca25d9b3) Prepare for release v2026.6.18-rc.2 (#894)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/documentdb/releases/tag/v0.2.0-rc.2)

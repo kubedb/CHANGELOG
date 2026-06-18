@@ -310,6 +310,16 @@
 
 
 
+## [kubedb/migrator-operator](https://github.com/kubedb/migrator-operator)
+
+### [v0.5.0-rc.2](https://github.com/kubedb/migrator-operator/releases/tag/v0.5.0-rc.2)
+
+- [a091c07](https://github.com/kubedb/migrator-operator/commit/a091c07) Prepare for release v0.5.0-rc.2 (#23)
+- [23f8959](https://github.com/kubedb/migrator-operator/commit/23f8959) Add mysql support (#19)
+- [3a9acef](https://github.com/kubedb/migrator-operator/commit/3a9acef) fixed extraconfig overwrite issue (#21)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.6.0-rc.2](https://github.com/kubedb/milvus/releases/tag/v0.6.0-rc.2)

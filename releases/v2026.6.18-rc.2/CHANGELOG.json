@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:49:37.36169183Z",
+  "release_date": "2026-06-18T09:50:37.451234549Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -886,6 +886,20 @@
         {
           "tag": "v0.26.0-rc.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.2",
+          "commits": [
+            {
+              "SHA": "8cc88c9c",
+              "Subject": "Prepare for release v0.44.0-rc.2 (#162)"
+            }
+          ]
         }
       ]
     },

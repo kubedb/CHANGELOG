@@ -244,6 +244,16 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.52.0-rc.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.52.0-rc.2)
+
+- [446a97f4](https://github.com/kubedb/percona-xtradb/commit/446a97f45) Prepare for release v0.52.0-rc.2 (#460)
+- [0b5518e3](https://github.com/kubedb/percona-xtradb/commit/0b5518e33) feat: implement git-sync init container for PerconaXtraDB (#456)
+- [10329f89](https://github.com/kubedb/percona-xtradb/commit/10329f895) Honor user-provided renewBefore in TLS certificate ops (#457)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.38.0-rc.2](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0-rc.2)

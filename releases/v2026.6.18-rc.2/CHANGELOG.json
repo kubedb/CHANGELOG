@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:26:36.987524544Z",
+  "release_date": "2026-06-18T09:26:54.40800998Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -559,6 +559,28 @@
             {
               "SHA": "3fd6f8d9",
               "Subject": "Prepare for release v0.26.0-rc.2 (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.2",
+          "commits": [
+            {
+              "SHA": "446a97f45",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#460)"
+            },
+            {
+              "SHA": "0b5518e33",
+              "Subject": "feat: implement git-sync init container for PerconaXtraDB (#456)"
+            },
+            {
+              "SHA": "10329f895",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#457)"
             }
           ]
         }

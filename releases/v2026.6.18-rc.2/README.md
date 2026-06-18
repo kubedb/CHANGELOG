@@ -76,6 +76,16 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.5.0-rc.2](https://github.com/kubedb/migrator-cli/releases/tag/v0.5.0-rc.2)
+
+- [fe2606c9](https://github.com/kubedb/migrator-cli/commit/fe2606c9) Prepare for release v0.5.0-rc.2 (#25)
+- [b7088fad](https://github.com/kubedb/migrator-cli/commit/b7088fad) Mysql migration init (#11)
+- [06810c85](https://github.com/kubedb/migrator-cli/commit/06810c85) Update README.md
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.26.0-rc.2](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.26.0-rc.2)

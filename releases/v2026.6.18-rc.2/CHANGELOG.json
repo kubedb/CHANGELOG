@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T08:33:30.247100771Z",
+  "release_date": "2026-06-18T08:33:41.307531274Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -211,6 +211,28 @@
             {
               "SHA": "11fc976d",
               "Subject": "Prepare for release v0.45.0-rc.2 (#181)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-cli",
+      "releases": [
+        {
+          "tag": "v0.5.0-rc.2",
+          "commits": [
+            {
+              "SHA": "fe2606c9",
+              "Subject": "Prepare for release v0.5.0-rc.2 (#25)"
+            },
+            {
+              "SHA": "b7088fad",
+              "Subject": "Mysql migration init (#11)"
+            },
+            {
+              "SHA": "06810c85",
+              "Subject": "Update README.md"
             }
           ]
         }

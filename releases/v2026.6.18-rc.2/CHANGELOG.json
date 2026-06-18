@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:22:28.554577479Z",
+  "release_date": "2026-06-18T09:22:59.929249538Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -197,6 +197,48 @@
             {
               "SHA": "d97925e7",
               "Subject": "Add New Func to Neo4j (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "153e7117",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#27)"
+            },
+            {
+              "SHA": "d5322e67",
+              "Subject": "documentdb-reconfigure (#25)"
+            },
+            {
+              "SHA": "148c6fb0",
+              "Subject": "Add OpsRequest support for DocumentDB ported from Postgres (#22)"
+            },
+            {
+              "SHA": "999aef78",
+              "Subject": "bring reverted changes (#24)"
+            },
+            {
+              "SHA": "0195ac68",
+              "Subject": "Update apimachinery (#23)"
+            },
+            {
+              "SHA": "846bca49",
+              "Subject": "Update apimachinery (#21)"
+            },
+            {
+              "SHA": "dbeb9d3c",
+              "Subject": "Clustering  (#7)"
+            },
+            {
+              "SHA": "f34712d9",
+              "Subject": "Add NetworkPolicyFlavor support (#19)"
             }
           ]
         }

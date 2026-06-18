@@ -68,6 +68,21 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/documentdb/releases/tag/v0.2.0-rc.2)
+
+- [153e7117](https://github.com/kubedb/documentdb/commit/153e7117) Prepare for release v0.2.0-rc.2 (#27)
+- [d5322e67](https://github.com/kubedb/documentdb/commit/d5322e67) documentdb-reconfigure (#25)
+- [148c6fb0](https://github.com/kubedb/documentdb/commit/148c6fb0) Add OpsRequest support for DocumentDB ported from Postgres (#22)
+- [999aef78](https://github.com/kubedb/documentdb/commit/999aef78) bring reverted changes (#24)
+- [0195ac68](https://github.com/kubedb/documentdb/commit/0195ac68) Update apimachinery (#23)
+- [846bca49](https://github.com/kubedb/documentdb/commit/846bca49) Update apimachinery (#21)
+- [dbeb9d3c](https://github.com/kubedb/documentdb/commit/dbeb9d3c) Clustering  (#7)
+- [f34712d9](https://github.com/kubedb/documentdb/commit/f34712d9) Add NetworkPolicyFlavor support (#19)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/druid/releases/tag/v0.20.0-rc.2)

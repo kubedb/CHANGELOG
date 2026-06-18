@@ -528,6 +528,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.28.0-rc.2)
+
+- [c9a8d01b](https://github.com/kubedb/redis-restic-plugin/commit/c9a8d01b) Prepare for release v0.28.0-rc.2 (#109)
+- [eaeb0c7a](https://github.com/kubedb/redis-restic-plugin/commit/eaeb0c7a) Add restic backup progress streaming (#108)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.52.0-rc.2](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.52.0-rc.2)

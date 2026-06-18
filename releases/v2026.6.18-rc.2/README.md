@@ -464,6 +464,20 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.52.0-rc.2](https://github.com/kubedb/ops-manager/releases/tag/v0.52.0-rc.2)
+
+- [9c2b9c23](https://github.com/kubedb/ops-manager/commit/9c2b9c231) Prepare for release v0.52.0-rc.2 (#876)
+- [f9d41073](https://github.com/kubedb/ops-manager/commit/f9d410734) Add HanaDB TLS, reconfigure TLS (#847)
+- [a7d0dcbb](https://github.com/kubedb/ops-manager/commit/a7d0dcbb6) dcoumendb-registered (#875)
+- [880772d0](https://github.com/kubedb/ops-manager/commit/880772d0e) Add oracle ops reconfigure (#850)
+- [82dc17d5](https://github.com/kubedb/ops-manager/commit/82dc17d53) added weaviate ops (#848)
+- [58e5d73c](https://github.com/kubedb/ops-manager/commit/58e5d73c1) Add Recommendation Engine support for Milvus (#870)
+- [c015013f](https://github.com/kubedb/ops-manager/commit/c015013f8) Add Recommendation Engine support for RabbitMQ (#861)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.11.0-rc.2](https://github.com/kubedb/oracle/releases/tag/v0.11.0-rc.2)

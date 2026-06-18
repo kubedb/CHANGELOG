@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T10:46:16.947085205Z",
+  "release_date": "2026-06-18T11:16:41.286010207Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -1025,6 +1025,44 @@
             {
               "SHA": "e6ab6aa3",
               "Subject": "Add NetworkPolicyFlavor support (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.2",
+          "commits": [
+            {
+              "SHA": "9c2b9c231",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#876)"
+            },
+            {
+              "SHA": "f9d410734",
+              "Subject": "Add HanaDB TLS, reconfigure TLS (#847)"
+            },
+            {
+              "SHA": "a7d0dcbb6",
+              "Subject": "dcoumendb-registered (#875)"
+            },
+            {
+              "SHA": "880772d0e",
+              "Subject": "Add oracle ops reconfigure (#850)"
+            },
+            {
+              "SHA": "82dc17d53",
+              "Subject": "added weaviate ops (#848)"
+            },
+            {
+              "SHA": "58e5d73c1",
+              "Subject": "Add Recommendation Engine support for Milvus (#870)"
+            },
+            {
+              "SHA": "c015013f8",
+              "Subject": "Add Recommendation Engine support for RabbitMQ (#861)"
             }
           ]
         }

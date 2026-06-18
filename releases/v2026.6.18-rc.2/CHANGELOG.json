@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:24:27.740567388Z",
+  "release_date": "2026-06-18T09:24:42.439914876Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -590,6 +590,32 @@
             {
               "SHA": "fe05bb5e",
               "Subject": "Prepare for release v0.52.0-rc.2 (#325)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.2",
+          "commits": [
+            {
+              "SHA": "5be14e4d",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#129)"
+            },
+            {
+              "SHA": "98d3f455",
+              "Subject": "Fix SingleStore deletion (#128)"
+            },
+            {
+              "SHA": "5c8a7b45",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#125)"
+            },
+            {
+              "SHA": "d6a82975",
+              "Subject": "Add RotateAuth Ops Request Support (#122)"
             }
           ]
         }

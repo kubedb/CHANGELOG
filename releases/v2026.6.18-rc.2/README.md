@@ -275,6 +275,17 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.20.0-rc.2](https://github.com/kubedb/singlestore/releases/tag/v0.20.0-rc.2)
+
+- [5be14e4d](https://github.com/kubedb/singlestore/commit/5be14e4d) Prepare for release v0.20.0-rc.2 (#129)
+- [98d3f455](https://github.com/kubedb/singlestore/commit/98d3f455) Fix SingleStore deletion (#128)
+- [5c8a7b45](https://github.com/kubedb/singlestore/commit/5c8a7b45) Honor user-provided renewBefore in TLS certificate ops (#125)
+- [d6a82975](https://github.com/kubedb/singlestore/commit/d6a82975) Add RotateAuth Ops Request Support (#122)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/solr/releases/tag/v0.20.0-rc.2)

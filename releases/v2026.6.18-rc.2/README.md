@@ -217,6 +217,16 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.36.0-rc.2](https://github.com/kubedb/kafka/releases/tag/v0.36.0-rc.2)
+
+- [da458b15](https://github.com/kubedb/kafka/commit/da458b15) Prepare for release v0.36.0-rc.2 (#202)
+- [d95e5cbc](https://github.com/kubedb/kafka/commit/d95e5cbc) Honor user-provided renewBefore in TLS certificate ops (#198)
+- [8ac2cd7b](https://github.com/kubedb/kafka/commit/8ac2cd7b) Add NetworkPolicyFlavor support for cilium (#201)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.28.0-rc.2](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.28.0-rc.2)

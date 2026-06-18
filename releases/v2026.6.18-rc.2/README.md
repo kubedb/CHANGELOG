@@ -129,6 +129,14 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.38.0-rc.2](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0-rc.2)
+
+- [b33e29b9](https://github.com/kubedb/percona-xtradb-coordinator/commit/b33e29b9) Prepare for release v0.38.0-rc.2 (#129)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/pgpool/releases/tag/v0.20.0-rc.2)

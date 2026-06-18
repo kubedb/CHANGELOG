@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:59:38.72762857Z",
+  "release_date": "2026-06-18T10:00:11.776570939Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -733,6 +733,24 @@
             {
               "SHA": "fe132cd7",
               "Subject": "Prepare for release v0.26.0-rc.2 (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.2",
+          "commits": [
+            {
+              "SHA": "d6b5fa11",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#131)"
+            },
+            {
+              "SHA": "58aef2eb",
+              "Subject": "Add Backup Progress Streaming Support in Snapshot Status (#130)"
             }
           ]
         }

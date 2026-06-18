@@ -319,6 +319,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.28.0-rc.2)
+
+- [d6b5fa11](https://github.com/kubedb/mongodb-restic-plugin/commit/d6b5fa11) Prepare for release v0.28.0-rc.2 (#131)
+- [58aef2eb](https://github.com/kubedb/mongodb-restic-plugin/commit/58aef2eb) Add Backup Progress Streaming Support in Snapshot Status (#130)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.20.0-rc.2)

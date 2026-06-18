@@ -58,3 +58,11 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.19.0-rc.2](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.19.0-rc.2)
+
+- [df59193](https://github.com/kubedb/mssqlserver-archiver/commit/df59193) Prepare for release v0.19.0-rc.2 (#30)
+
+
+

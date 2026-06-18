@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:37:30.201858579Z",
+  "release_date": "2026-06-18T09:37:39.442186628Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -301,6 +301,32 @@
             {
               "SHA": "021ea97a",
               "Subject": "Add restic backup progress streaming (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.2",
+          "commits": [
+            {
+              "SHA": "b3f6ef5b",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#45)"
+            },
+            {
+              "SHA": "e38a3433",
+              "Subject": "Add StorageMigration OpsRequest support (#34)"
+            },
+            {
+              "SHA": "c08ac12e",
+              "Subject": "Add tls, reconfigure tls, vertical scaling, rotate auth, volume expantion ops (#38)"
+            },
+            {
+              "SHA": "696ffce2",
+              "Subject": "Add NetworkPolicyFlavor support (#44)"
             }
           ]
         }

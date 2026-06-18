@@ -112,6 +112,17 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.6.0-rc.2](https://github.com/kubedb/hanadb/releases/tag/v0.6.0-rc.2)
+
+- [b3f6ef5b](https://github.com/kubedb/hanadb/commit/b3f6ef5b) Prepare for release v0.6.0-rc.2 (#45)
+- [e38a3433](https://github.com/kubedb/hanadb/commit/e38a3433) Add StorageMigration OpsRequest support (#34)
+- [c08ac12e](https://github.com/kubedb/hanadb/commit/c08ac12e) Add tls, reconfigure tls, vertical scaling, rotate auth, volume expantion ops (#38)
+- [696ffce2](https://github.com/kubedb/hanadb/commit/696ffce2) Add NetworkPolicyFlavor support (#44)
+
+
+
 ## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
 
 ### [v0.5.0-rc.2](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.5.0-rc.2)

@@ -79,6 +79,15 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.28.0-rc.2)
+
+- [ac051dbf](https://github.com/kubedb/elasticsearch-restic-plugin/commit/ac051dbf) Prepare for release v0.28.0-rc.2 (#102)
+- [021ea97a](https://github.com/kubedb/elasticsearch-restic-plugin/commit/021ea97a) Add restic backup progress streaming (#101)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.12.0-rc.2](https://github.com/kubedb/ignite/releases/tag/v0.12.0-rc.2)

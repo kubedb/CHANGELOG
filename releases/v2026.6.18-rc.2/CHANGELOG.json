@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T08:34:37.50515419Z",
+  "release_date": "2026-06-18T09:18:28.023736558Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -223,6 +223,28 @@
             {
               "SHA": "e89ff10a",
               "Subject": "Add NetworkPolicyFlavor support (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.2",
+          "commits": [
+            {
+              "SHA": "abaa3f61",
+              "Subject": "Prepare for release v0.12.0-rc.2 (#61)"
+            },
+            {
+              "SHA": "0e4fa9e6",
+              "Subject": "Fix Ignite deletion (#60)"
+            },
+            {
+              "SHA": "1ccf34ce",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#59)"
             }
           ]
         }

@@ -79,6 +79,16 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.12.0-rc.2](https://github.com/kubedb/ignite/releases/tag/v0.12.0-rc.2)
+
+- [abaa3f61](https://github.com/kubedb/ignite/commit/abaa3f61) Prepare for release v0.12.0-rc.2 (#61)
+- [0e4fa9e6](https://github.com/kubedb/ignite/commit/0e4fa9e6) Fix Ignite deletion (#60)
+- [1ccf34ce](https://github.com/kubedb/ignite/commit/1ccf34ce) Add NetworkPolicyFlavor support for cilium (#59)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.45.0-rc.2](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0-rc.2)

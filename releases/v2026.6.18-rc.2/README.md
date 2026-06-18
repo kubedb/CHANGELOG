@@ -259,6 +259,17 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.6.0-rc.2](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.2)
+
+- [7226c70c](https://github.com/kubedb/weaviate/commit/7226c70c) Prepare for release v0.6.0-rc.2 (#43)
+- [9d3b6c57](https://github.com/kubedb/weaviate/commit/9d3b6c57) weaviate restart ops-request added (#12)
+- [14d862e3](https://github.com/kubedb/weaviate/commit/14d862e3) Fix Weaviate deletion (#41)
+- [690c3ad0](https://github.com/kubedb/weaviate/commit/690c3ad0) Add NetworkPolicyFlavor support (#40)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.13.0-rc.2](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0-rc.2)

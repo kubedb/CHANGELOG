@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:23:16.911284387Z",
+  "release_date": "2026-06-18T09:23:23.881431929Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -562,6 +562,32 @@
             {
               "SHA": "443bf0ad",
               "Subject": "Fix Solr deletion (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.2",
+          "commits": [
+            {
+              "SHA": "7226c70c",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#43)"
+            },
+            {
+              "SHA": "9d3b6c57",
+              "Subject": "weaviate restart ops-request added (#12)"
+            },
+            {
+              "SHA": "14d862e3",
+              "Subject": "Fix Weaviate deletion (#41)"
+            },
+            {
+              "SHA": "690c3ad0",
+              "Subject": "Add NetworkPolicyFlavor support (#40)"
             }
           ]
         }

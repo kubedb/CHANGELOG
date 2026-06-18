@@ -212,6 +212,15 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.20.0-rc.2](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0-rc.2)
+
+- [418c160c](https://github.com/kubedb/mssqlserver/commit/418c160c) Prepare for release v0.20.0-rc.2 (#141)
+- [2fadba5a](https://github.com/kubedb/mssqlserver/commit/2fadba5a) Add NetworkPolicyFlavor support for cilium (#139)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.19.0-rc.2](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.19.0-rc.2)

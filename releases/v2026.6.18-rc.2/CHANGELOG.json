@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:27:04.31117135Z",
+  "release_date": "2026-06-18T09:27:33.138146429Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -503,6 +503,24 @@
             {
               "SHA": "2716be6e",
               "Subject": "Prepare for release v0.20.0-rc.2 (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.2",
+          "commits": [
+            {
+              "SHA": "418c160c",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#141)"
+            },
+            {
+              "SHA": "2fadba5a",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#139)"
             }
           ]
         }

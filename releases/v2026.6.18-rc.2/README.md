@@ -40,3 +40,13 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.20.0-rc.2](https://github.com/kubedb/db-client-go/releases/tag/v0.20.0-rc.2)
+
+- [ff2e61c8](https://github.com/kubedb/db-client-go/commit/ff2e61c8) Prepare for release v0.20.0-rc.2 (#249)
+- [b0c28745](https://github.com/kubedb/db-client-go/commit/b0c28745) Add HanaDB TLS (#234)
+- [d97925e7](https://github.com/kubedb/db-client-go/commit/d97925e7) Add New Func to Neo4j (#241)
+
+
+

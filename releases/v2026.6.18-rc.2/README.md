@@ -96,6 +96,14 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.6.0-rc.2](https://github.com/kubedb/db2-coordinator/releases/tag/v0.6.0-rc.2)
+
+- [9f4c409](https://github.com/kubedb/db2-coordinator/commit/9f4c409) Prepare for release v0.6.0-rc.2 (#13)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.2.0-rc.2](https://github.com/kubedb/documentdb/releases/tag/v0.2.0-rc.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T10:00:25.890732795Z",
+  "release_date": "2026-06-18T10:00:34.686725118Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -1122,6 +1122,28 @@
         {
           "tag": "v0.26.0-rc.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.2",
+          "commits": [
+            {
+              "SHA": "46a46c95",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#48)"
+            },
+            {
+              "SHA": "2448f7e5",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#44)"
+            },
+            {
+              "SHA": "f9d88701",
+              "Subject": "Fix Qdrant deletion (#47)"
+            }
+          ]
         }
       ]
     },

@@ -520,6 +520,16 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.6.0-rc.2](https://github.com/kubedb/qdrant/releases/tag/v0.6.0-rc.2)
+
+- [46a46c95](https://github.com/kubedb/qdrant/commit/46a46c95) Prepare for release v0.6.0-rc.2 (#48)
+- [2448f7e5](https://github.com/kubedb/qdrant/commit/2448f7e5) Honor user-provided renewBefore in TLS certificate ops (#44)
+- [f9d88701](https://github.com/kubedb/qdrant/commit/f9d88701) Fix Qdrant deletion (#47)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/rabbitmq/releases/tag/v0.20.0-rc.2)

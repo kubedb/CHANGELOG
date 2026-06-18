@@ -96,6 +96,16 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.6.0-rc.2](https://github.com/kubedb/db2/releases/tag/v0.6.0-rc.2)
+
+- [99854604](https://github.com/kubedb/db2/commit/99854604) Prepare for release v0.6.0-rc.2 (#32)
+- [f2fe477e](https://github.com/kubedb/db2/commit/f2fe477e) Fix Db2 deletion (#31)
+- [e263fee1](https://github.com/kubedb/db2/commit/e263fee1) Add NetworkPolicyFlavor support (#30)
+
+
+
 ## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
 
 ### [v0.6.0-rc.2](https://github.com/kubedb/db2-coordinator/releases/tag/v0.6.0-rc.2)

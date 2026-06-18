@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:57:36.816826919Z",
+  "release_date": "2026-06-18T09:57:56.815635098Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -255,6 +255,28 @@
             {
               "SHA": "d97925e7",
               "Subject": "Add New Func to Neo4j (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.2",
+          "commits": [
+            {
+              "SHA": "99854604",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#32)"
+            },
+            {
+              "SHA": "f2fe477e",
+              "Subject": "Fix Db2 deletion (#31)"
+            },
+            {
+              "SHA": "e263fee1",
+              "Subject": "Add NetworkPolicyFlavor support (#30)"
             }
           ]
         }

@@ -112,6 +112,14 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.52.0-rc.2](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.52.0-rc.2)
+
+- [fe05bb5e](https://github.com/kubedb/replication-mode-detector/commit/fe05bb5e) Prepare for release v0.52.0-rc.2 (#325)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.13.0-rc.2](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0-rc.2)

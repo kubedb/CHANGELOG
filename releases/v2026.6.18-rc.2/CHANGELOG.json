@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:21:36.976412492Z",
+  "release_date": "2026-06-18T09:22:28.554577479Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -383,6 +383,24 @@
             {
               "SHA": "b33e29b9",
               "Subject": "Prepare for release v0.38.0-rc.2 (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.2",
+          "commits": [
+            {
+              "SHA": "c2213131",
+              "Subject": "Prepare for release v0.49.0-rc.2 (#254)"
+            },
+            {
+              "SHA": "46d694d9",
+              "Subject": "Document pod injection role in AGENTS.md (#253)"
             }
           ]
         }

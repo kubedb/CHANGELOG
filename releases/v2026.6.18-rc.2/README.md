@@ -164,6 +164,15 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.49.0-rc.2](https://github.com/kubedb/pg-coordinator/releases/tag/v0.49.0-rc.2)
+
+- [c2213131](https://github.com/kubedb/pg-coordinator/commit/c2213131) Prepare for release v0.49.0-rc.2 (#254)
+- [46d694d9](https://github.com/kubedb/pg-coordinator/commit/46d694d9) Document pod injection role in AGENTS.md (#253)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/pgpool/releases/tag/v0.20.0-rc.2)

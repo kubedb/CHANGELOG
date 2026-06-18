@@ -122,6 +122,16 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.65.0-rc.2](https://github.com/kubedb/elasticsearch/releases/tag/v0.65.0-rc.2)
+
+- [b0421f8d](https://github.com/kubedb/elasticsearch/commit/b0421f8d3) Prepare for release v0.65.0-rc.2 (#818)
+- [7a09aa83](https://github.com/kubedb/elasticsearch/commit/7a09aa83c) Honor user-provided renewBefore in TLS certificate ops (#815)
+- [1c3cb34f](https://github.com/kubedb/elasticsearch/commit/1c3cb34f1) feat: implement git-sync init container for Elasticsearch (#814)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.28.0-rc.2](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.28.0-rc.2)

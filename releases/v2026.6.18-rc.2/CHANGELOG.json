@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:51:55.08771903Z",
+  "release_date": "2026-06-18T09:52:14.535159625Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -323,6 +323,28 @@
             {
               "SHA": "e89ff10a",
               "Subject": "Add NetworkPolicyFlavor support (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.65.0-rc.2",
+          "commits": [
+            {
+              "SHA": "b0421f8d3",
+              "Subject": "Prepare for release v0.65.0-rc.2 (#818)"
+            },
+            {
+              "SHA": "7a09aa83c",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#815)"
+            },
+            {
+              "SHA": "1c3cb34f1",
+              "Subject": "feat: implement git-sync init container for Elasticsearch (#814)"
             }
           ]
         }

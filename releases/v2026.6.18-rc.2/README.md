@@ -193,6 +193,16 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.23.0-rc.2](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.23.0-rc.2)
+
+- [03ee3ee4](https://github.com/kubedb/mariadb-restic-plugin/commit/03ee3ee4) Prepare for release v0.23.0-rc.2 (#94)
+- [ab0be84b](https://github.com/kubedb/mariadb-restic-plugin/commit/ab0be84b) Add restic backup progress streaming (#92)
+- [d3bc1259](https://github.com/kubedb/mariadb-restic-plugin/commit/d3bc1259) Update Backup Job Name for Distributed (#93)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.5.0-rc.2](https://github.com/kubedb/migrator-cli/releases/tag/v0.5.0-rc.2)

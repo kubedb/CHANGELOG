@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:37:49.419086726Z",
+  "release_date": "2026-06-18T09:38:31.282125583Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -463,6 +463,28 @@
             {
               "SHA": "11fc976d",
               "Subject": "Prepare for release v0.45.0-rc.2 (#181)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.2",
+          "commits": [
+            {
+              "SHA": "03ee3ee4",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#94)"
+            },
+            {
+              "SHA": "ab0be84b",
+              "Subject": "Add restic backup progress streaming (#92)"
+            },
+            {
+              "SHA": "d3bc1259",
+              "Subject": "Update Backup Job Name for Distributed (#93)"
             }
           ]
         }

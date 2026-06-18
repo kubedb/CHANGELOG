@@ -518,6 +518,15 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.23.0-rc.2](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.23.0-rc.2)
+
+- [1cbde534](https://github.com/kubedb/singlestore-restic-plugin/commit/1cbde534) Prepare for release v0.23.0-rc.2 (#88)
+- [0ac6f752](https://github.com/kubedb/singlestore-restic-plugin/commit/0ac6f752) Add restic backup progress streaming (#87)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/solr/releases/tag/v0.20.0-rc.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:58:28.418990012Z",
+  "release_date": "2026-06-18T09:58:36.738780913Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -1112,6 +1112,24 @@
             {
               "SHA": "d6a82975",
               "Subject": "Add RotateAuth Ops Request Support (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.2",
+          "commits": [
+            {
+              "SHA": "1cbde534",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#88)"
+            },
+            {
+              "SHA": "0ac6f752",
+              "Subject": "Add restic backup progress streaming (#87)"
             }
           ]
         }

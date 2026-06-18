@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T10:39:05.878925506Z",
+  "release_date": "2026-06-18T10:40:56.370993719Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -1486,6 +1486,44 @@
             {
               "SHA": "690c3ad0",
               "Subject": "Add NetworkPolicyFlavor support (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.41.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2db5df913",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#224)"
+            },
+            {
+              "SHA": "3d375b730",
+              "Subject": "documentdb-ops-webhook (#223)"
+            },
+            {
+              "SHA": "cc9b766ed",
+              "Subject": "Add Cassandra & ClickHouse ops and Neo4j autoscaler webhook registrations (#222)"
+            },
+            {
+              "SHA": "e341c482f",
+              "Subject": "create oracle ops reconfigure (#211)"
+            },
+            {
+              "SHA": "65259ba23",
+              "Subject": "Add HanaDB ops (#216)"
+            },
+            {
+              "SHA": "4fd5117db",
+              "Subject": "Add Milvus Autoscaler Validation (#221)"
+            },
+            {
+              "SHA": "0b56463a7",
+              "Subject": "Add weaviate ops (#218)"
             }
           ]
         }

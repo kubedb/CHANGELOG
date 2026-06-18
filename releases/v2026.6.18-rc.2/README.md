@@ -697,6 +697,20 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.41.0-rc.2](https://github.com/kubedb/webhook-server/releases/tag/v0.41.0-rc.2)
+
+- [2db5df91](https://github.com/kubedb/webhook-server/commit/2db5df913) Prepare for release v0.41.0-rc.2 (#224)
+- [3d375b73](https://github.com/kubedb/webhook-server/commit/3d375b730) documentdb-ops-webhook (#223)
+- [cc9b766e](https://github.com/kubedb/webhook-server/commit/cc9b766ed) Add Cassandra & ClickHouse ops and Neo4j autoscaler webhook registrations (#222)
+- [e341c482](https://github.com/kubedb/webhook-server/commit/e341c482f) create oracle ops reconfigure (#211)
+- [65259ba2](https://github.com/kubedb/webhook-server/commit/65259ba23) Add HanaDB ops (#216)
+- [4fd5117d](https://github.com/kubedb/webhook-server/commit/4fd5117db) Add Milvus Autoscaler Validation (#221)
+- [0b56463a](https://github.com/kubedb/webhook-server/commit/0b56463a7) Add weaviate ops (#218)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.13.0-rc.2](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0-rc.2)

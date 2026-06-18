@@ -140,6 +140,15 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.20.0-rc.2](https://github.com/kubedb/solr/releases/tag/v0.20.0-rc.2)
+
+- [1c955c70](https://github.com/kubedb/solr/commit/1c955c70) Prepare for release v0.20.0-rc.2 (#136)
+- [443bf0ad](https://github.com/kubedb/solr/commit/443bf0ad) Fix Solr deletion (#134)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.13.0-rc.2](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0-rc.2)

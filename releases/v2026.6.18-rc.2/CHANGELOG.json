@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:26:18.195333477Z",
+  "release_date": "2026-06-18T09:26:36.987524544Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -355,6 +355,28 @@
             {
               "SHA": "fe877028",
               "Subject": "Prepare for release v0.16.0-rc.2 (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.49.0-rc.2",
+          "commits": [
+            {
+              "SHA": "dece23fb3",
+              "Subject": "Prepare for release v0.49.0-rc.2 (#409)"
+            },
+            {
+              "SHA": "5249f7ac9",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#404)"
+            },
+            {
+              "SHA": "b1a16bc61",
+              "Subject": "Use endpoint from ResticStats.Summary (#407)"
             }
           ]
         }

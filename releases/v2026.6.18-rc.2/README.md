@@ -139,6 +139,16 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.49.0-rc.2](https://github.com/kubedb/mariadb/releases/tag/v0.49.0-rc.2)
+
+- [dece23fb](https://github.com/kubedb/mariadb/commit/dece23fb3) Prepare for release v0.49.0-rc.2 (#409)
+- [5249f7ac](https://github.com/kubedb/mariadb/commit/5249f7ac9) Honor user-provided renewBefore in TLS certificate ops (#404)
+- [b1a16bc6](https://github.com/kubedb/mariadb/commit/b1a16bc61) Use endpoint from ResticStats.Summary (#407)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.45.0-rc.2](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0-rc.2)

@@ -446,3 +446,12 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.20.0-rc.2](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.20.0-rc.2)
+
+- [74c137ba](https://github.com/kubedb/zookeeper-restic-plugin/commit/74c137ba) Prepare for release v0.20.0-rc.2 (#73)
+- [308c991d](https://github.com/kubedb/zookeeper-restic-plugin/commit/308c991d) Add restic backup progress streaming (#72)
+
+
+

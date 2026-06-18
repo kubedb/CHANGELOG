@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:38:31.282125583Z",
+  "release_date": "2026-06-18T09:38:38.378306142Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -950,6 +950,24 @@
             {
               "SHA": "23412a6b",
               "Subject": "Prepare for release v0.20.0-rc.2 (#127)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.2",
+          "commits": [
+            {
+              "SHA": "74c137ba",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#73)"
+            },
+            {
+              "SHA": "308c991d",
+              "Subject": "Add restic backup progress streaming (#72)"
             }
           ]
         }

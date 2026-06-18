@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:23:07.659636941Z",
+  "release_date": "2026-06-18T09:23:16.911284387Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -175,6 +175,24 @@
             {
               "SHA": "d9cd2e04",
               "Subject": "Prepare for release v0.20.0-rc.2 (#140)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0-rc.2",
+          "commits": [
+            {
+              "SHA": "cdd75695",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#79)"
+            },
+            {
+              "SHA": "c3afe4cd",
+              "Subject": "Add restic backup progress streaming (#78)"
             }
           ]
         }

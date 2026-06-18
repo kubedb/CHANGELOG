@@ -58,6 +58,15 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.23.0-rc.2](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.23.0-rc.2)
+
+- [cdd75695](https://github.com/kubedb/dashboard-restic-plugin/commit/cdd75695) Prepare for release v0.23.0-rc.2 (#79)
+- [c3afe4cd](https://github.com/kubedb/dashboard-restic-plugin/commit/c3afe4cd) Add restic backup progress streaming (#78)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/db-client-go/releases/tag/v0.20.0-rc.2)

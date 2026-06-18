@@ -50,6 +50,14 @@
 
 
 
+## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
+
+### [v0.2.0-rc.2](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.2.0-rc.2)
+
+- [5d481e4c](https://github.com/kubedb/clickhouse-backup-plugin/commit/5d481e4c) Prepare for release v0.2.0-rc.2 (#26)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/crd-manager/releases/tag/v0.20.0-rc.2)

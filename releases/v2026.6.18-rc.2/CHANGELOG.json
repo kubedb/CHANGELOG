@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:37:39.442186628Z",
+  "release_date": "2026-06-18T09:37:49.419086726Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -161,6 +161,20 @@
             {
               "SHA": "b8b9b4d5",
               "Subject": "Add NetworkPolicyFlavor support (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.2",
+          "commits": [
+            {
+              "SHA": "5d481e4c",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#26)"
             }
           ]
         }

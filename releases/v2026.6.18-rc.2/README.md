@@ -240,6 +240,13 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2026.6.18-rc.2](https://github.com/kubedb/installer/releases/tag/v2026.6.18-rc.2)
+
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.36.0-rc.2](https://github.com/kubedb/kafka/releases/tag/v0.36.0-rc.2)

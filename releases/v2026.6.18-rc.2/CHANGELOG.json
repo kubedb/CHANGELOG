@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T11:16:52.422454357Z",
+  "release_date": "2026-06-18T12:33:46.378743974Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -581,6 +581,15 @@
               "Subject": "Add NetworkPolicyFlavor support for cilium (#59)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.6.18-rc.2",
+          "commits": null
         }
       ]
     },

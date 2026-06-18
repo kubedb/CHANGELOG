@@ -121,6 +121,15 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.11.0-rc.2](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0-rc.2)
+
+- [841ee968](https://github.com/kubedb/hazelcast/commit/841ee968) Prepare for release v0.11.0-rc.2 (#52)
+- [13deaa26](https://github.com/kubedb/hazelcast/commit/13deaa26) Add NetworkPolicyFlavor support (#50)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.12.0-rc.2](https://github.com/kubedb/ignite/releases/tag/v0.12.0-rc.2)

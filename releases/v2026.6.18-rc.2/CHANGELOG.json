@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:38:38.378306142Z",
+  "release_date": "2026-06-18T09:48:35.849652451Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -139,6 +139,32 @@
             {
               "SHA": "74ea704fe",
               "Subject": "Fix nil pointer dereferences in storage migration webhook validators (#1748)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.18.0-rc.2",
+          "commits": [
+            {
+              "SHA": "a14d2587",
+              "Subject": "Prepare for release v0.18.0-rc.2 (#89)"
+            },
+            {
+              "SHA": "5f55678b",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#85)"
+            },
+            {
+              "SHA": "602bdf49",
+              "Subject": "Add StorageMigration OpsRequest support for Cassandra (#81)"
+            },
+            {
+              "SHA": "ef021693",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#88)"
             }
           ]
         }

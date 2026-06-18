@@ -40,6 +40,17 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.18.0-rc.2](https://github.com/kubedb/cassandra/releases/tag/v0.18.0-rc.2)
+
+- [a14d2587](https://github.com/kubedb/cassandra/commit/a14d2587) Prepare for release v0.18.0-rc.2 (#89)
+- [5f55678b](https://github.com/kubedb/cassandra/commit/5f55678b) Honor user-provided renewBefore in TLS certificate ops (#85)
+- [602bdf49](https://github.com/kubedb/cassandra/commit/602bdf49) Add StorageMigration OpsRequest support for Cassandra (#81)
+- [ef021693](https://github.com/kubedb/cassandra/commit/ef021693) Add NetworkPolicyFlavor support for cilium (#88)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/clickhouse/releases/tag/v0.20.0-rc.2)

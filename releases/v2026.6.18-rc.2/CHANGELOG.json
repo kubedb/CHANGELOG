@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T10:30:16.94137338Z",
+  "release_date": "2026-06-18T10:30:59.824466836Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -1238,6 +1238,28 @@
         {
           "tag": "v0.26.0-rc.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.2",
+          "commits": [
+            {
+              "SHA": "fb2e8d616",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#439)"
+            },
+            {
+              "SHA": "75fcf1540",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#436)"
+            },
+            {
+              "SHA": "3c4cd6331",
+              "Subject": "Implement RotateAuthentication for ProxySQL (#432)"
+            }
+          ]
         }
       ]
     },

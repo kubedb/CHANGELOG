@@ -576,6 +576,16 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.52.0-rc.2](https://github.com/kubedb/proxysql/releases/tag/v0.52.0-rc.2)
+
+- [fb2e8d61](https://github.com/kubedb/proxysql/commit/fb2e8d616) Prepare for release v0.52.0-rc.2 (#439)
+- [75fcf154](https://github.com/kubedb/proxysql/commit/75fcf1540) Honor user-provided renewBefore in TLS certificate ops (#436)
+- [3c4cd633](https://github.com/kubedb/proxysql/commit/3c4cd6331) Implement RotateAuthentication for ProxySQL (#432)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.6.0-rc.2](https://github.com/kubedb/qdrant/releases/tag/v0.6.0-rc.2)

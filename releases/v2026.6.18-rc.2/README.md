@@ -427,6 +427,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.58.0-rc.2](https://github.com/kubedb/redis/releases/tag/v0.58.0-rc.2)
+
+- [38804ba3](https://github.com/kubedb/redis/commit/38804ba31) Prepare for release v0.58.0-rc.2 (#651)
+- [05f9d6d5](https://github.com/kubedb/redis/commit/05f9d6d50) Honor user-provided renewBefore in TLS certificate ops (#647)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.44.0-rc.2](https://github.com/kubedb/redis-coordinator/releases/tag/v0.44.0-rc.2)

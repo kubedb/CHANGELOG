@@ -366,6 +366,18 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.6.0-rc.2](https://github.com/kubedb/neo4j/releases/tag/v0.6.0-rc.2)
+
+- [2639a89b](https://github.com/kubedb/neo4j/commit/2639a89b) Prepare for release v0.6.0-rc.2 (#42)
+- [f742558f](https://github.com/kubedb/neo4j/commit/f742558f) Fix passing credential as a literal env value in the PetSet (#41)
+- [c465d3c8](https://github.com/kubedb/neo4j/commit/c465d3c8) feat: implement git-sync init container for Neo4j (#36)
+- [4f787bca](https://github.com/kubedb/neo4j/commit/4f787bca) Fix Neo4j Deletion (#40)
+- [e6ab6aa3](https://github.com/kubedb/neo4j/commit/e6ab6aa3) Add NetworkPolicyFlavor support (#39)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.11.0-rc.2](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.11.0-rc.2)

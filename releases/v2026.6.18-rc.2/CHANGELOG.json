@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:57:56.815635098Z",
+  "release_date": "2026-06-18T09:58:19.938444827Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -813,6 +813,36 @@
             {
               "SHA": "b0ab3a5",
               "Subject": "Prepare for release v0.43.0-rc.2 (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2639a89b",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#42)"
+            },
+            {
+              "SHA": "f742558f",
+              "Subject": "Fix passing credential as a literal env value in the PetSet (#41)"
+            },
+            {
+              "SHA": "c465d3c8",
+              "Subject": "feat: implement git-sync init container for Neo4j (#36)"
+            },
+            {
+              "SHA": "4f787bca",
+              "Subject": "Fix Neo4j Deletion (#40)"
+            },
+            {
+              "SHA": "e6ab6aa3",
+              "Subject": "Add NetworkPolicyFlavor support (#39)"
             }
           ]
         }

@@ -90,6 +90,13 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.26.0-rc.2](https://github.com/kubedb/provider-aws/releases/tag/v0.26.0-rc.2)
+
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.26.0-rc.2](https://github.com/kubedb/provider-gcp/releases/tag/v0.26.0-rc.2)

@@ -157,6 +157,19 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.6.0-rc.2](https://github.com/kubedb/milvus/releases/tag/v0.6.0-rc.2)
+
+- [fa57da9b](https://github.com/kubedb/milvus/commit/fa57da9b) Prepare for release v0.6.0-rc.2 (#48)
+- [85d63146](https://github.com/kubedb/milvus/commit/85d63146) Add HorizontalScaling OpsRequest support (#45)
+- [41e84651](https://github.com/kubedb/milvus/commit/41e84651) Honor user-provided renewBefore in TLS certificate ops (#40)
+- [d364f887](https://github.com/kubedb/milvus/commit/d364f887) Fix Milvus deletion (#44)
+- [1ae0debe](https://github.com/kubedb/milvus/commit/1ae0debe) Add RotateAuth OpsRequest support for Milvus (#46)
+- [79cba14c](https://github.com/kubedb/milvus/commit/79cba14c) Add NetworkPolicyFlavor support for cilium (#43)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.58.0-rc.2](https://github.com/kubedb/mongodb/releases/tag/v0.58.0-rc.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:25:00.047444923Z",
+  "release_date": "2026-06-18T09:25:10.997525031Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -391,6 +391,40 @@
             {
               "SHA": "06810c85",
               "Subject": "Update README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.2",
+          "commits": [
+            {
+              "SHA": "fa57da9b",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#48)"
+            },
+            {
+              "SHA": "85d63146",
+              "Subject": "Add HorizontalScaling OpsRequest support (#45)"
+            },
+            {
+              "SHA": "41e84651",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#40)"
+            },
+            {
+              "SHA": "d364f887",
+              "Subject": "Fix Milvus deletion (#44)"
+            },
+            {
+              "SHA": "1ae0debe",
+              "Subject": "Add RotateAuth OpsRequest support for Milvus (#46)"
+            },
+            {
+              "SHA": "79cba14c",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#43)"
             }
           ]
         }

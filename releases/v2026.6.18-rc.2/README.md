@@ -461,6 +461,17 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.28.0-rc.2)
+
+- [8b893309](https://github.com/kubedb/postgres-restic-plugin/commit/8b893309) Prepare for release v0.28.0-rc.2 (#113)
+- [4702b178](https://github.com/kubedb/postgres-restic-plugin/commit/4702b178) Add restic backup progress streaming (#112)
+- [78b32801](https://github.com/kubedb/postgres-restic-plugin/commit/78b32801) Bump postgres 16 image from 16.1 to 16.4
+- [6984c384](https://github.com/kubedb/postgres-restic-plugin/commit/6984c384) Fix WaitForDBConnection not logging the actual connection error (#111)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.26.0-rc.2](https://github.com/kubedb/provider-aws/releases/tag/v0.26.0-rc.2)

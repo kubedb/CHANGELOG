@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:58:36.738780913Z",
+  "release_date": "2026-06-18T09:59:06.040287621Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -1013,6 +1013,32 @@
             {
               "SHA": "597ce968",
               "Subject": "Prepare for release v0.26.0-rc.2 (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.2",
+          "commits": [
+            {
+              "SHA": "8b893309",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#113)"
+            },
+            {
+              "SHA": "4702b178",
+              "Subject": "Add restic backup progress streaming (#112)"
+            },
+            {
+              "SHA": "78b32801",
+              "Subject": "Bump postgres 16 image from 16.1 to 16.4"
+            },
+            {
+              "SHA": "6984c384",
+              "Subject": "Fix WaitForDBConnection not logging the actual connection error (#111)"
             }
           ]
         }

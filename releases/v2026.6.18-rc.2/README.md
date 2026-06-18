@@ -97,3 +97,12 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.13.0-rc.2](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0-rc.2)
+
+- [7405795f](https://github.com/kubedb/xtrabackup-restic-plugin/commit/7405795f) Prepare for release v0.13.0-rc.2 (#57)
+- [3c66fa34](https://github.com/kubedb/xtrabackup-restic-plugin/commit/3c66fa34) Add restic backup progress streaming (#56)
+
+
+

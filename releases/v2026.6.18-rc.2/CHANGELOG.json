@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T08:32:45.826110341Z",
+  "release_date": "2026-06-18T08:32:53.467009923Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -242,6 +242,24 @@
         {
           "tag": "v0.26.0-rc.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.2",
+          "commits": [
+            {
+              "SHA": "7405795f",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#57)"
+            },
+            {
+              "SHA": "3c66fa34",
+              "Subject": "Add restic backup progress streaming (#56)"
+            }
+          ]
         }
       ]
     }

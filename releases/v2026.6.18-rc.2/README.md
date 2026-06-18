@@ -587,6 +587,15 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.65.0-rc.2](https://github.com/kubedb/provisioner/releases/tag/v0.65.0-rc.2)
+
+- [e5bf679f](https://github.com/kubedb/provisioner/commit/e5bf679f5) Prepare for release v0.65.0-rc.2 (#214)
+- [9fd231eb](https://github.com/kubedb/provisioner/commit/9fd231eb4) Add missing DBs for cilium support (#212)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.52.0-rc.2](https://github.com/kubedb/proxysql/releases/tag/v0.52.0-rc.2)

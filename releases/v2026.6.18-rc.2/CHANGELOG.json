@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:24:42.439914876Z",
+  "release_date": "2026-06-18T09:24:50.630120543Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -471,6 +471,20 @@
             {
               "SHA": "67143c6d",
               "Subject": "Prepare for release v0.43.0-rc.2 (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.26.0-rc.2",
+          "commits": [
+            {
+              "SHA": "3fd6f8d9",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#81)"
             }
           ]
         }

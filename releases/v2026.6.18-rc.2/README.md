@@ -112,6 +112,15 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.5.0-rc.2](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.5.0-rc.2)
+
+- [51502038](https://github.com/kubedb/hanadb-coordinator/commit/51502038) Prepare for release v0.5.0-rc.2 (#16)
+- [5371f1fa](https://github.com/kubedb/hanadb-coordinator/commit/5371f1fa) Disable automatic backups and fix failover handling (#15)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.12.0-rc.2](https://github.com/kubedb/ignite/releases/tag/v0.12.0-rc.2)

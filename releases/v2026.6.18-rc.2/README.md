@@ -121,6 +121,14 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.26.0-rc.2](https://github.com/kubedb/mysql-archiver/releases/tag/v0.26.0-rc.2)
+
+- [530f2468](https://github.com/kubedb/mysql-archiver/commit/530f2468) Prepare for release v0.26.0-rc.2 (#109)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/pgpool/releases/tag/v0.20.0-rc.2)

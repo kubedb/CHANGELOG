@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T10:00:43.282243624Z",
+  "release_date": "2026-06-18T10:22:45.7320717Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -347,6 +347,36 @@
             {
               "SHA": "f34712d9",
               "Subject": "Add NetworkPolicyFlavor support (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.2",
+          "commits": [
+            {
+              "SHA": "ee91f72",
+              "Subject": "Use gh cli instead of old hub cli"
+            },
+            {
+              "SHA": "05a2c8b",
+              "Subject": "Prepare for release v0.1.0-rc.2 (#4)"
+            },
+            {
+              "SHA": "020634d",
+              "Subject": "Fix DocumentDBCoordinatorClientPort (2389 → 2379) (#3)"
+            },
+            {
+              "SHA": "4b8cbae",
+              "Subject": "Up deps on apimachinery (#2)"
+            },
+            {
+              "SHA": "d2f2e7b",
+              "Subject": "Bootstrap (#1)"
             }
           ]
         }

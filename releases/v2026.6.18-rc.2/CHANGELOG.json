@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:27:33.138146429Z",
+  "release_date": "2026-06-18T09:28:23.486460541Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -790,6 +790,28 @@
             {
               "SHA": "443bf0ad",
               "Subject": "Fix Solr deletion (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.50.0-rc.2",
+          "commits": [
+            {
+              "SHA": "5829f9808",
+              "Subject": "Prepare for release v0.50.0-rc.2 (#541)"
+            },
+            {
+              "SHA": "66234e492",
+              "Subject": "Update kubedb apimachinery vendor and fix AppBinding pointer type (#540)"
+            },
+            {
+              "SHA": "957fa4e5d",
+              "Subject": "Add E2E tests for ClickHouse (#525)"
             }
           ]
         }

@@ -370,6 +370,16 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.50.0-rc.2](https://github.com/kubedb/tests/releases/tag/v0.50.0-rc.2)
+
+- [5829f980](https://github.com/kubedb/tests/commit/5829f9808) Prepare for release v0.50.0-rc.2 (#541)
+- [66234e49](https://github.com/kubedb/tests/commit/66234e492) Update kubedb apimachinery vendor and fix AppBinding pointer type (#540)
+- [957fa4e5](https://github.com/kubedb/tests/commit/957fa4e5d) Add E2E tests for ClickHouse (#525)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.6.0-rc.2](https://github.com/kubedb/weaviate/releases/tag/v0.6.0-rc.2)

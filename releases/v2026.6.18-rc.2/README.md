@@ -58,6 +58,14 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.45.0-rc.2](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0-rc.2)
+
+- [11fc976d](https://github.com/kubedb/mariadb-coordinator/commit/11fc976d) Prepare for release v0.45.0-rc.2 (#181)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.20.0-rc.2)

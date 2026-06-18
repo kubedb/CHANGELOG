@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T10:00:11.776570939Z",
+  "release_date": "2026-06-18T10:00:25.890732795Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -1122,6 +1122,24 @@
         {
           "tag": "v0.26.0-rc.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.2",
+          "commits": [
+            {
+              "SHA": "c981cd46",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#138)"
+            },
+            {
+              "SHA": "1ae8fd38",
+              "Subject": "Add support for cilium network  policy (#136)"
+            }
+          ]
         }
       ]
     },

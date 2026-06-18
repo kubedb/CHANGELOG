@@ -520,6 +520,15 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.20.0-rc.2](https://github.com/kubedb/rabbitmq/releases/tag/v0.20.0-rc.2)
+
+- [c981cd46](https://github.com/kubedb/rabbitmq/commit/c981cd46) Prepare for release v0.20.0-rc.2 (#138)
+- [1ae8fd38](https://github.com/kubedb/rabbitmq/commit/1ae8fd38) Add support for cilium network  policy (#136)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.58.0-rc.2](https://github.com/kubedb/redis/releases/tag/v0.58.0-rc.2)

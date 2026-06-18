@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T10:00:34.686725118Z",
+  "release_date": "2026-06-18T10:00:43.282243624Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -853,6 +853,24 @@
             {
               "SHA": "3fd6f8d9",
               "Subject": "Prepare for release v0.26.0-rc.2 (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.2",
+          "commits": [
+            {
+              "SHA": "85ba443a",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#116)"
+            },
+            {
+              "SHA": "edb738be",
+              "Subject": "Add Backup Progress Streaming Support in Snapshot Status (#113)"
             }
           ]
         }

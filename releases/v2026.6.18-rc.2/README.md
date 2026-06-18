@@ -385,6 +385,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.28.0-rc.2)
+
+- [85ba443a](https://github.com/kubedb/mysql-restic-plugin/commit/85ba443a) Prepare for release v0.28.0-rc.2 (#116)
+- [edb738be](https://github.com/kubedb/mysql-restic-plugin/commit/edb738be) Add Backup Progress Streaming Support in Snapshot Status (#113)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.43.0-rc.2](https://github.com/kubedb/mysql-router-init/releases/tag/v0.43.0-rc.2)

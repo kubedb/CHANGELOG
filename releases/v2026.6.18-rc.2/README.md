@@ -378,6 +378,21 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.11.0-rc.2](https://github.com/kubedb/oracle/releases/tag/v0.11.0-rc.2)
+
+- [91f689e2](https://github.com/kubedb/oracle/commit/91f689e2) Prepare for release v0.11.0-rc.2 (#60)
+- [666716b1](https://github.com/kubedb/oracle/commit/666716b1) Implement VolumeExpansion ops for Oracle (#46)
+- [6c4afce5](https://github.com/kubedb/oracle/commit/6c4afce5) Add VerticalScaling OpsRequest implementation (#47)
+- [5bf3fe65](https://github.com/kubedb/oracle/commit/5bf3fe65) Implement RotateAuthentication for Oracle (#48)
+- [4ffeaede](https://github.com/kubedb/oracle/commit/4ffeaede) add oracle ops restart reconfigure and appbinding (#42)
+- [44e872ea](https://github.com/kubedb/oracle/commit/44e872ea) add appbinding for oracle (#51)
+- [1cc52267](https://github.com/kubedb/oracle/commit/1cc52267) Add NetworkPolicyFlavor support (#59)
+- [df02ec98](https://github.com/kubedb/oracle/commit/df02ec98) Honor user-provided renewBefore in TLS certificate ops (#56)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.11.0-rc.2](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.11.0-rc.2)

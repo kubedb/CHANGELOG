@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T10:40:56.370993719Z",
+  "release_date": "2026-06-18T10:41:58.915709795Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -139,6 +139,32 @@
             {
               "SHA": "74ea704fe",
               "Subject": "Fix nil pointer dereferences in storage migration webhook validators (#1748)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.50.0-rc.2",
+          "commits": [
+            {
+              "SHA": "c7169bb5",
+              "Subject": "Prepare for release v0.50.0-rc.2 (#308)"
+            },
+            {
+              "SHA": "001c9856",
+              "Subject": "feat: add Weaviate compute and storage autoscaler (#301)"
+            },
+            {
+              "SHA": "a51c5af2",
+              "Subject": "Add Milvus Autoscaler (#306)"
+            },
+            {
+              "SHA": "edcd29ac",
+              "Subject": "Add support for Neo4j (#298)"
             }
           ]
         }

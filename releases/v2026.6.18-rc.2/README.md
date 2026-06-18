@@ -40,6 +40,17 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.50.0-rc.2](https://github.com/kubedb/autoscaler/releases/tag/v0.50.0-rc.2)
+
+- [c7169bb5](https://github.com/kubedb/autoscaler/commit/c7169bb5) Prepare for release v0.50.0-rc.2 (#308)
+- [001c9856](https://github.com/kubedb/autoscaler/commit/001c9856) feat: add Weaviate compute and storage autoscaler (#301)
+- [a51c5af2](https://github.com/kubedb/autoscaler/commit/a51c5af2) Add Milvus Autoscaler (#306)
+- [edcd29ac](https://github.com/kubedb/autoscaler/commit/edcd29ac) Add support for Neo4j (#298)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.18.0-rc.2](https://github.com/kubedb/cassandra/releases/tag/v0.18.0-rc.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T08:33:52.902843742Z",
+  "release_date": "2026-06-18T08:34:03.528028564Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -197,6 +197,32 @@
             {
               "SHA": "d97925e7",
               "Subject": "Add New Func to Neo4j (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.2",
+          "commits": [
+            {
+              "SHA": "7ea60517",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#140)"
+            },
+            {
+              "SHA": "89371af1",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#135)"
+            },
+            {
+              "SHA": "f4f4627f",
+              "Subject": "Fix Panic Issue For ExternallyManaged authSecret (#139)"
+            },
+            {
+              "SHA": "e89ff10a",
+              "Subject": "Add NetworkPolicyFlavor support (#138)"
             }
           ]
         }

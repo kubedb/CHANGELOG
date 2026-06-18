@@ -68,6 +68,17 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.20.0-rc.2](https://github.com/kubedb/druid/releases/tag/v0.20.0-rc.2)
+
+- [7ea60517](https://github.com/kubedb/druid/commit/7ea60517) Prepare for release v0.20.0-rc.2 (#140)
+- [89371af1](https://github.com/kubedb/druid/commit/89371af1) Honor user-provided renewBefore in TLS certificate ops (#135)
+- [f4f4627f](https://github.com/kubedb/druid/commit/f4f4627f) Fix Panic Issue For ExternallyManaged authSecret (#139)
+- [e89ff10a](https://github.com/kubedb/druid/commit/e89ff10a) Add NetworkPolicyFlavor support (#138)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.45.0-rc.2](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0-rc.2)

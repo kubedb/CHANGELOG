@@ -170,6 +170,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.28.0-rc.2)
+
+- [0ebaf789](https://github.com/kubedb/kubedb-manifest-plugin/commit/0ebaf789) Prepare for release v0.28.0-rc.2 (#135)
+- [834ef012](https://github.com/kubedb/kubedb-manifest-plugin/commit/834ef012) Add restic backup progress streaming (#134)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.16.0-rc.2](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.16.0-rc.2)

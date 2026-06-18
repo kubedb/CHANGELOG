@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.18-rc.2",
-  "release_date": "2026-06-18T09:48:35.849652451Z",
+  "release_date": "2026-06-18T09:48:45.47232229Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.18-rc.2",
   "kubernetes_version": "1.28+",
@@ -425,6 +425,24 @@
             {
               "SHA": "1ccf34ce",
               "Subject": "Add NetworkPolicyFlavor support for cilium (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.2",
+          "commits": [
+            {
+              "SHA": "0ebaf789",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#135)"
+            },
+            {
+              "SHA": "834ef012",
+              "Subject": "Add restic backup progress streaming (#134)"
             }
           ]
         }

@@ -229,6 +229,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.65.0-rc.2](https://github.com/kubedb/postgres/releases/tag/v0.65.0-rc.2)
+
+- [98471e23](https://github.com/kubedb/postgres/commit/98471e234) Prepare for release v0.65.0-rc.2 (#898)
+- [ae9804e8](https://github.com/kubedb/postgres/commit/ae9804e8b) Use endpoint from ResticStats.Summary (#895)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.26.0-rc.2](https://github.com/kubedb/postgres-archiver/releases/tag/v0.26.0-rc.2)

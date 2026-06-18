@@ -319,6 +319,14 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.11.0-rc.2](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.11.0-rc.2)
+
+- [5c50fdd](https://github.com/kubedb/oracle-coordinator/commit/5c50fdd) Prepare for release v0.11.0-rc.2 (#38)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.52.0-rc.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.52.0-rc.2)

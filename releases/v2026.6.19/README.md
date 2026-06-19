@@ -163,6 +163,16 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.26.0](https://github.com/kubedb/provider-azure/releases/tag/v0.26.0)
+
+- [630e43c](https://github.com/kubedb/provider-azure/commit/630e43c) Tighten CI/release workflow secrets, perms, and release notes
+- [3d78f9c](https://github.com/kubedb/provider-azure/commit/3d78f9c) Add AGENTS.md for AI coding agents (#30)
+- [7f7b570](https://github.com/kubedb/provider-azure/commit/7f7b570) Restrict /ok-to-test to org members (#29)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.52.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.52.0)

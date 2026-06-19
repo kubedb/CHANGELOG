@@ -118,6 +118,21 @@
 
 
 
+## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
+
+### [v0.2.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.2.0)
+
+- [e566d6a8](https://github.com/kubedb/clickhouse-backup-plugin/commit/e566d6a8) Prepare for release v0.2.0 (#28)
+- [bd2b5438](https://github.com/kubedb/clickhouse-backup-plugin/commit/bd2b5438) Update github.com/moby/spdystream to v0.5.1 (#27)
+- [5d481e4c](https://github.com/kubedb/clickhouse-backup-plugin/commit/5d481e4c) Prepare for release v0.2.0-rc.2 (#26)
+- [8ee159c7](https://github.com/kubedb/clickhouse-backup-plugin/commit/8ee159c7) Prepare for release v0.2.0-rc.1 (#25)
+- [0a880684](https://github.com/kubedb/clickhouse-backup-plugin/commit/0a880684) Fix CI hardening: use app token in release-tracker, add packages:write
+- [8a2fd2fa](https://github.com/kubedb/clickhouse-backup-plugin/commit/8a2fd2fa) Prepare for release v0.2.0-rc.0 (#23)
+- [a4fdf4d8](https://github.com/kubedb/clickhouse-backup-plugin/commit/a4fdf4d8) Add AGENTS.md for AI coding agents
+- [0d0bca21](https://github.com/kubedb/clickhouse-backup-plugin/commit/0d0bca21) Use GitHub App token for release tracker comments
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.20.0](https://github.com/kubedb/crd-manager/releases/tag/v0.20.0)

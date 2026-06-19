@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T20:48:57.145662646Z",
+  "release_date": "2026-06-19T20:49:07.199735888Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -679,6 +679,60 @@
             {
               "SHA": "8b4b3ac0",
               "Subject": "Harden CI workflows (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "47da8055",
+              "Subject": "Prepare for release v0.11.0 (#53)"
+            },
+            {
+              "SHA": "33821545",
+              "Subject": "Fix Hazelcast deletion (#51)"
+            },
+            {
+              "SHA": "841ee968",
+              "Subject": "Prepare for release v0.11.0-rc.2 (#52)"
+            },
+            {
+              "SHA": "13deaa26",
+              "Subject": "Add NetworkPolicyFlavor support (#50)"
+            },
+            {
+              "SHA": "e45daa28",
+              "Subject": "Prepare for release v0.11.0-rc.1 (#49)"
+            },
+            {
+              "SHA": "8cfb374f",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#46)"
+            },
+            {
+              "SHA": "198c8a50",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "f31ab7cc",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "791b67dd",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "289a07ef",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "f8e2fc26",
+              "Subject": "Harden CI workflows (#43)"
             }
           ]
         }

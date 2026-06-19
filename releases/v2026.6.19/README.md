@@ -193,6 +193,24 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.11.0](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0)
+
+- [47da8055](https://github.com/kubedb/hazelcast/commit/47da8055) Prepare for release v0.11.0 (#53)
+- [33821545](https://github.com/kubedb/hazelcast/commit/33821545) Fix Hazelcast deletion (#51)
+- [841ee968](https://github.com/kubedb/hazelcast/commit/841ee968) Prepare for release v0.11.0-rc.2 (#52)
+- [13deaa26](https://github.com/kubedb/hazelcast/commit/13deaa26) Add NetworkPolicyFlavor support (#50)
+- [e45daa28](https://github.com/kubedb/hazelcast/commit/e45daa28) Prepare for release v0.11.0-rc.1 (#49)
+- [8cfb374f](https://github.com/kubedb/hazelcast/commit/8cfb374f) Prepare for release v0.11.0-rc.0 (#46)
+- [198c8a50](https://github.com/kubedb/hazelcast/commit/198c8a50) Tighten CI/release workflow secrets, perms, and release notes
+- [f31ab7cc](https://github.com/kubedb/hazelcast/commit/f31ab7cc) Harden release and release-tracker workflows
+- [791b67dd](https://github.com/kubedb/hazelcast/commit/791b67dd) Add CLAUDE.md pointing to AGENTS.md
+- [289a07ef](https://github.com/kubedb/hazelcast/commit/289a07ef) Add AGENTS.md for AI coding agents
+- [f8e2fc26](https://github.com/kubedb/hazelcast/commit/f8e2fc26) Harden CI workflows (#43)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.19.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.19.0)

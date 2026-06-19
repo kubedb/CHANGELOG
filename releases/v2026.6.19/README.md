@@ -163,6 +163,20 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.19.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.19.0)
+
+- [9c7af14](https://github.com/kubedb/mssqlserver-walg-plugin/commit/9c7af14) Prepare for release v0.19.0 (#63)
+- [1a44640](https://github.com/kubedb/mssqlserver-walg-plugin/commit/1a44640) Prepare for release v0.19.0-rc.2 (#62)
+- [51ea4f2](https://github.com/kubedb/mssqlserver-walg-plugin/commit/51ea4f2) Prepare for release v0.19.0-rc.1 (#61)
+- [1475bb0](https://github.com/kubedb/mssqlserver-walg-plugin/commit/1475bb0) Fix CI hardening: use app token in release-tracker, add packages:write
+- [5cc5025](https://github.com/kubedb/mssqlserver-walg-plugin/commit/5cc5025) Prepare for release v0.19.0-rc.0 (#59)
+- [5433238](https://github.com/kubedb/mssqlserver-walg-plugin/commit/5433238) Add AGENTS.md for AI coding agents
+- [0e152a6](https://github.com/kubedb/mssqlserver-walg-plugin/commit/0e152a6) Use GitHub App token for release tracker comments (#57)
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.26.0](https://github.com/kubedb/provider-azure/releases/tag/v0.26.0)

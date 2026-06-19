@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T19:29:52.031915194Z",
+  "release_date": "2026-06-19T19:35:15.013469716Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -451,6 +451,76 @@
             {
               "SHA": "c3eb083ed",
               "Subject": "Delete metrics-exporter-config secret on wipeout for elasticsearch (#1659)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "9588532f",
+              "Subject": "Prepare for release v0.20.0 (#144)"
+            },
+            {
+              "SHA": "7bad63d9",
+              "Subject": "Remove Duplicate Cassandra (#143)"
+            },
+            {
+              "SHA": "bbd8d7db",
+              "Subject": "Add Aerospike CRDs, complete DB2 ops/autoscaling, wire GitOps for all DBs (#142)"
+            },
+            {
+              "SHA": "74b20efd",
+              "Subject": "Add Aerospike database support (#141)"
+            },
+            {
+              "SHA": "d9cd2e04",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#140)"
+            },
+            {
+              "SHA": "f63e3c4d",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#139)"
+            },
+            {
+              "SHA": "33485516",
+              "Subject": "Remove FerretDB support (#138)"
+            },
+            {
+              "SHA": "f4f684e9",
+              "Subject": "Add all missing CRDs (#137)"
+            },
+            {
+              "SHA": "2fb5a23a",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes (#136)"
+            },
+            {
+              "SHA": "2d75e6b5",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "464e548c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "0e5c52c6",
+              "Subject": "Add clickhouse archiver CR (#134)"
+            },
+            {
+              "SHA": "3362d975",
+              "Subject": "add qdrant autoscaler crd (#131)"
+            },
+            {
+              "SHA": "ffe49332",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "02872ff1",
+              "Subject": "Harden CI workflows (#132)"
             }
           ]
         }

@@ -118,3 +118,25 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.20.0](https://github.com/kubedb/crd-manager/releases/tag/v0.20.0)
+
+- [9588532f](https://github.com/kubedb/crd-manager/commit/9588532f) Prepare for release v0.20.0 (#144)
+- [7bad63d9](https://github.com/kubedb/crd-manager/commit/7bad63d9) Remove Duplicate Cassandra (#143)
+- [bbd8d7db](https://github.com/kubedb/crd-manager/commit/bbd8d7db) Add Aerospike CRDs, complete DB2 ops/autoscaling, wire GitOps for all DBs (#142)
+- [74b20efd](https://github.com/kubedb/crd-manager/commit/74b20efd) Add Aerospike database support (#141)
+- [d9cd2e04](https://github.com/kubedb/crd-manager/commit/d9cd2e04) Prepare for release v0.20.0-rc.2 (#140)
+- [f63e3c4d](https://github.com/kubedb/crd-manager/commit/f63e3c4d) Prepare for release v0.20.0-rc.1 (#139)
+- [33485516](https://github.com/kubedb/crd-manager/commit/33485516) Remove FerretDB support (#138)
+- [f4f684e9](https://github.com/kubedb/crd-manager/commit/f4f684e9) Add all missing CRDs (#137)
+- [2fb5a23a](https://github.com/kubedb/crd-manager/commit/2fb5a23a) Tighten CI/release workflow secrets, perms, and release notes (#136)
+- [2d75e6b5](https://github.com/kubedb/crd-manager/commit/2d75e6b5) Prepare for release v0.20.0-rc.0 (#135)
+- [464e548c](https://github.com/kubedb/crd-manager/commit/464e548c) Harden release and release-tracker workflows
+- [0e5c52c6](https://github.com/kubedb/crd-manager/commit/0e5c52c6) Add clickhouse archiver CR (#134)
+- [3362d975](https://github.com/kubedb/crd-manager/commit/3362d975) add qdrant autoscaler crd (#131)
+- [ffe49332](https://github.com/kubedb/crd-manager/commit/ffe49332) Add AGENTS.md for AI coding agents
+- [02872ff1](https://github.com/kubedb/crd-manager/commit/02872ff1) Harden CI workflows (#132)
+
+
+

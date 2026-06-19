@@ -1,0 +1,460 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.6.19",
+  "release_date": "2026-06-19T19:29:52.031915194Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.6.19",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.65.0",
+          "commits": [
+            {
+              "SHA": "374e7dd65",
+              "Subject": "Update for release KubeStash@v2026.6.19 (#1780)"
+            },
+            {
+              "SHA": "e726a79ab",
+              "Subject": "register aerospike version (#1766)"
+            },
+            {
+              "SHA": "635585536",
+              "Subject": "Fix Milvus StorageMigration Webhook (#1779)"
+            },
+            {
+              "SHA": "e3a3063fd",
+              "Subject": "Add cilium backup ingress policy and DNS egress for backup jobs (#1778)"
+            },
+            {
+              "SHA": "d72310c73",
+              "Subject": "Add weaviate TLS (#1772)"
+            },
+            {
+              "SHA": "9b0689a26",
+              "Subject": "use value receiver (#1777)"
+            },
+            {
+              "SHA": "fc958327a",
+              "Subject": "Add aerospike, db2, documentdb API types (#1774)"
+            },
+            {
+              "SHA": "314ace897",
+              "Subject": "Add Aerospike feature gate and register AerospikeVersion in scheme (#1776)"
+            },
+            {
+              "SHA": "42091fca8",
+              "Subject": "Add gitsyncer option in singlestore version api (#1773)"
+            },
+            {
+              "SHA": "2309f632f",
+              "Subject": "Update for release KubeStash@v2026.6.18-rc.2 (#1771)"
+            },
+            {
+              "SHA": "20f0dc781",
+              "Subject": "Fix Lint (#1769)"
+            },
+            {
+              "SHA": "d9be48e09",
+              "Subject": "Add gitops Hazelcast type (#1730)"
+            },
+            {
+              "SHA": "e7402f256",
+              "Subject": "documentdb-reconfigure (#1767)"
+            },
+            {
+              "SHA": "d06f5f04d",
+              "Subject": "Add gitops HanaDB type (#1731)"
+            },
+            {
+              "SHA": "81617de4b",
+              "Subject": "Add gitops Cassandra type (#1732)"
+            },
+            {
+              "SHA": "2b0cbe95a",
+              "Subject": "feat: add GitSyncer and Init *InitSpec fields for git-sync support (#1728)"
+            },
+            {
+              "SHA": "371e3875d",
+              "Subject": "Add migration TLS (#1768)"
+            },
+            {
+              "SHA": "352eb38cf",
+              "Subject": "Add gitops Oracle type (#1737)"
+            },
+            {
+              "SHA": "613ec3825",
+              "Subject": "Add gitops Weaviate type (#1739)"
+            },
+            {
+              "SHA": "b0d2d6861",
+              "Subject": "Add gitops Ignite type (#1740)"
+            },
+            {
+              "SHA": "b242fc478",
+              "Subject": "Add gitops Milvus type (#1735)"
+            },
+            {
+              "SHA": "550837abf",
+              "Subject": "Add gitops Neo4j type (#1734)"
+            },
+            {
+              "SHA": "29d18fef2",
+              "Subject": "Add gitops Qdrant type (#1738)"
+            },
+            {
+              "SHA": "120dee060",
+              "Subject": "Add oracle wallet configurationsecret api (#1764)"
+            },
+            {
+              "SHA": "6837ec90a",
+              "Subject": "fix singlestore standalone tls (#1760)"
+            },
+            {
+              "SHA": "75c375a3c",
+              "Subject": "Exclude virtual auth secrets from persistent secret tracking (#1762)"
+            },
+            {
+              "SHA": "0fb5640ba",
+              "Subject": "wv-ops (#1743)"
+            },
+            {
+              "SHA": "376078d84",
+              "Subject": "Update documentdb raft client port (#1759)"
+            },
+            {
+              "SHA": "57cbbd07f",
+              "Subject": "Add gitops ClickHouse type (#1733)"
+            },
+            {
+              "SHA": "4ea06c513",
+              "Subject": "Allow init-script for percona-xtradb cluster (#1749)"
+            },
+            {
+              "SHA": "b60722d59",
+              "Subject": "Migrator cli api update for mysql (#1754)"
+            },
+            {
+              "SHA": "9ae2bd644",
+              "Subject": "Update ops api, add coordinator defaulting for HanaDB (#1723)"
+            },
+            {
+              "SHA": "0f38d07ee",
+              "Subject": "updated documentdb constant (#1758)"
+            },
+            {
+              "SHA": "c313668bb",
+              "Subject": "added halted and config (#1757)"
+            },
+            {
+              "SHA": "d90741a1a",
+              "Subject": "update autoscaler api for missing database (#1752)"
+            },
+            {
+              "SHA": "0c9dd395b",
+              "Subject": "documentdb helpers (#1756)"
+            },
+            {
+              "SHA": "c05562622",
+              "Subject": "Documentdb-adminSecret (#1729)"
+            },
+            {
+              "SHA": "6fead4056",
+              "Subject": "Add Milvus Autoscaler Webhook Validation (#1747)"
+            },
+            {
+              "SHA": "4b212df05",
+              "Subject": "Fix swagger.json"
+            },
+            {
+              "SHA": "7c98b972c",
+              "Subject": "Remove Etcd support (#1751)"
+            },
+            {
+              "SHA": "74ea704fe",
+              "Subject": "Fix nil pointer dereferences in storage migration webhook validators (#1748)"
+            },
+            {
+              "SHA": "23c81b3b6",
+              "Subject": "Fix go.mod"
+            },
+            {
+              "SHA": "007ef3ea6",
+              "Subject": "Remove FerretDB support (#1750)"
+            },
+            {
+              "SHA": "101341c29",
+              "Subject": "Added wv-ops-validation and autoscaling webhook (#1722)"
+            },
+            {
+              "SHA": "fb439fff4",
+              "Subject": "Register Neo4j Autoscaler (#1746)"
+            },
+            {
+              "SHA": "62f69e286",
+              "Subject": "Add CiliumNetworkPolicy flavor support (#1714)"
+            },
+            {
+              "SHA": "9b1a220b4",
+              "Subject": "Bump go.bytebuilders.dev/audit to v0.0.52 (#1745)"
+            },
+            {
+              "SHA": "dd3d0e3d3",
+              "Subject": "Update go.bytebuilders.dev/audit to v0.0.51 (#1744)"
+            },
+            {
+              "SHA": "0e48a4da6",
+              "Subject": "Add common configuration for milvus storage migration (#1741)"
+            },
+            {
+              "SHA": "ea56f8dd2",
+              "Subject": "Add pkg/secret helpers for dual-path auth secret access (#1726)"
+            },
+            {
+              "SHA": "ef57da777",
+              "Subject": "Fix DatabaseConfiguration resource name casing and remove stale CRDs (#1727)"
+            },
+            {
+              "SHA": "9bdcc3b7e",
+              "Subject": "DatabaseInfo -> DatabaseConfiguration (#1725)"
+            },
+            {
+              "SHA": "66b31784e",
+              "Subject": "Introduce summary api (#1724)"
+            },
+            {
+              "SHA": "59b4eaa36",
+              "Subject": "Add weaviate ops helpers"
+            },
+            {
+              "SHA": "f7c721957",
+              "Subject": "Review autoscaler api (#1719)"
+            },
+            {
+              "SHA": "97db127e6",
+              "Subject": "Update Elasticsearch StorageMigration Ops Api (#1721)"
+            },
+            {
+              "SHA": "7b38d9144",
+              "Subject": "Add Milvus Ops Request (#1666)"
+            },
+            {
+              "SHA": "46001228f",
+              "Subject": "add weaviate ops_req (#1716)"
+            },
+            {
+              "SHA": "05817720d",
+              "Subject": "Update for release KubeStash@v2026.5.18-rc.0 (#1718)"
+            },
+            {
+              "SHA": "c5944a1e2",
+              "Subject": "Fix build (#1717)"
+            },
+            {
+              "SHA": "6fc989976",
+              "Subject": "hanadb tls (#1646)"
+            },
+            {
+              "SHA": "58f38fc9a",
+              "Subject": "Extend StorageMigration specs with topology-aware per-component fields (#1715)"
+            },
+            {
+              "SHA": "c2dfa3a81",
+              "Subject": "added mongodb migration fields (#1656)"
+            },
+            {
+              "SHA": "fbdb3d8ea",
+              "Subject": "Set Ops Request Options Defaults in Autoscaler (#1669)"
+            },
+            {
+              "SHA": "dfc3c09ef",
+              "Subject": "Add Qdrant Autoscaler (#1648)"
+            },
+            {
+              "SHA": "f48b0ac89",
+              "Subject": "Add Aerospike (#1635)"
+            },
+            {
+              "SHA": "3897eb732",
+              "Subject": "Add ClickHouse Archiver (#1653)"
+            },
+            {
+              "SHA": "cf2a76b9d",
+              "Subject": "Documentdb Clusterring (#1673)"
+            },
+            {
+              "SHA": "198401e00",
+              "Subject": "Add HanaDBAutoscaler types (#1709)"
+            },
+            {
+              "SHA": "6d4b36828",
+              "Subject": "Add RotateAuth OpsRequest type for Weaviate (#1704)"
+            },
+            {
+              "SHA": "9adb9ccd9",
+              "Subject": "Add RotateAuth OpsRequest type for Hanadb (#1703)"
+            },
+            {
+              "SHA": "bfd939a9a",
+              "Subject": "Add VerticalScaling type for WeaviateOpsRequest (#1701)"
+            },
+            {
+              "SHA": "917d39e4d",
+              "Subject": "Add WeaviateAutoscaler types and Weaviate ops scaling support (#1711)"
+            },
+            {
+              "SHA": "56dd78914",
+              "Subject": "Add VerticalScaling type for HanaDBOpsRequest"
+            },
+            {
+              "SHA": "cddf6ff86",
+              "Subject": "Add VolumeExpansion API to WeaviateOpsRequest (#1699)"
+            },
+            {
+              "SHA": "c2e158d26",
+              "Subject": "Add VolumeExpansion API to HanaDBOpsRequest (#1697)"
+            },
+            {
+              "SHA": "a53cf0a15",
+              "Subject": "Add oracle ops reaconfigure (#1670)"
+            },
+            {
+              "SHA": "53210b114",
+              "Subject": "Add DocumentDBOpsRequest API types and client bindings (#1706)"
+            },
+            {
+              "SHA": "dfdd296c9",
+              "Subject": "Add Neo4jAutoscaler types (#1707)"
+            },
+            {
+              "SHA": "0083a77b2",
+              "Subject": "Add DocumentDBAutoscaler API types (#1710)"
+            },
+            {
+              "SHA": "562fac689",
+              "Subject": "Add StorageMigration OpsRequest type for Druid (#1713)"
+            },
+            {
+              "SHA": "28c3244bb",
+              "Subject": "Add StorageMigration to HanaDB ops API (#1695)"
+            },
+            {
+              "SHA": "6610d121c",
+              "Subject": "Add StorageMigration op type for Cassandra (#1688)"
+            },
+            {
+              "SHA": "fb0191306",
+              "Subject": "Add StorageMigration op type for ClickHouse (#1691)"
+            },
+            {
+              "SHA": "eca9d5c2c",
+              "Subject": "Add StorageMigration op type for Ignite (#1690)"
+            },
+            {
+              "SHA": "4f3a5c8ad",
+              "Subject": "Add StorageMigration op type for Hazelcast (#1687)"
+            },
+            {
+              "SHA": "0807f1850",
+              "Subject": "Add StorageMigration OpsRequest support for RabbitMQ (#1692)"
+            },
+            {
+              "SHA": "d6cb56c08",
+              "Subject": "Add StorageMigration OpsRequest support for Solr (#1685)"
+            },
+            {
+              "SHA": "b0dac243e",
+              "Subject": "Add StorageMigration OpsRequest type for MSSQLServer (#1684)"
+            },
+            {
+              "SHA": "72fdc722d",
+              "Subject": "Add StorageMigration OpsRequest type for Singlestore (#1683)"
+            },
+            {
+              "SHA": "c0312b1a1",
+              "Subject": "Add StorageMigration OpsRequest support for Redis (#1682)"
+            },
+            {
+              "SHA": "fee115489",
+              "Subject": "Add migration api for mysql and mariadb (#1628)"
+            },
+            {
+              "SHA": "fdf5544cf",
+              "Subject": "Add StorageMigration OpsRequest support for PerconaXtraDB (#1681)"
+            },
+            {
+              "SHA": "cf0279326",
+              "Subject": "Add StorageMigration op type for MariaDB (#1680)"
+            },
+            {
+              "SHA": "e49a2e615",
+              "Subject": "Add StorageMigration OpsRequest support for Qdrant (#1686)"
+            },
+            {
+              "SHA": "9c39cb2c4",
+              "Subject": "Add StorageMigration OpsRequest support for Neo4j (#1689)"
+            },
+            {
+              "SHA": "0dcd1c390",
+              "Subject": "Add StorageMigration op type for Kafka (#1679)"
+            },
+            {
+              "SHA": "12f28802b",
+              "Subject": "Add StorageMigration op type for Elasticsearch (#1677)"
+            },
+            {
+              "SHA": "500826015",
+              "Subject": "Add StorageMigration op type for MongoDB (#1678)"
+            },
+            {
+              "SHA": "840ffde38",
+              "Subject": "Add Milvus TLS Support (#1632)"
+            },
+            {
+              "SHA": "ec2f05e6d",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "7b1cb9292",
+              "Subject": "Pin git user to 1gtm in update-crds/update-docs workflows (#1675)"
+            },
+            {
+              "SHA": "479e8aa1d",
+              "Subject": "Harden CI workflows (#1668)"
+            },
+            {
+              "SHA": "0e06cafc8",
+              "Subject": "Reconfig Merger bug fix (#1674)"
+            },
+            {
+              "SHA": "0f3ce7e28",
+              "Subject": "Add MySQL InnodDB variables (#1644)"
+            },
+            {
+              "SHA": "8bc390baf",
+              "Subject": "Ignore secret copy for local provider (#1664)"
+            },
+            {
+              "SHA": "014f65032",
+              "Subject": "Do not create secret for credless mode (#1663)"
+            },
+            {
+              "SHA": "e7d97b2a5",
+              "Subject": "Change default resource for Cassandra db container (#1661)"
+            },
+            {
+              "SHA": "ba60ac23d",
+              "Subject": "Add utility function for storage cred secret (#1662)"
+            },
+            {
+              "SHA": "c3eb083ed",
+              "Subject": "Delete metrics-exporter-config secret on wipeout for elasticsearch (#1659)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

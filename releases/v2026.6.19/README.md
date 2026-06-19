@@ -262,6 +262,25 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.20.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.20.0)
+
+- [b6ec3253](https://github.com/kubedb/rabbitmq/commit/b6ec3253) Prepare for release v0.20.0 (#140)
+- [7ec5ac18](https://github.com/kubedb/rabbitmq/commit/7ec5ac18) Update github.com/moby/spdystream to v0.5.1 (#139)
+- [c981cd46](https://github.com/kubedb/rabbitmq/commit/c981cd46) Prepare for release v0.20.0-rc.2 (#138)
+- [1ae8fd38](https://github.com/kubedb/rabbitmq/commit/1ae8fd38) Add support for cilium network  policy (#136)
+- [d1511a11](https://github.com/kubedb/rabbitmq/commit/d1511a11) Prepare for release v0.20.0-rc.1 (#137)
+- [b2d406fb](https://github.com/kubedb/rabbitmq/commit/b2d406fb) Add StorageMigration OpsRequest support for RabbitMQ (#132)
+- [2826d51c](https://github.com/kubedb/rabbitmq/commit/2826d51c) Prepare for release v0.20.0-rc.0 (#133)
+- [7b849665](https://github.com/kubedb/rabbitmq/commit/7b849665) Tighten CI/release workflow secrets, perms, and release notes
+- [7c952783](https://github.com/kubedb/rabbitmq/commit/7c952783) Harden release and release-tracker workflows
+- [8b547651](https://github.com/kubedb/rabbitmq/commit/8b547651) Add CLAUDE.md pointing to AGENTS.md
+- [866a6b3c](https://github.com/kubedb/rabbitmq/commit/866a6b3c) Add AGENTS.md for AI coding agents
+- [2a733db2](https://github.com/kubedb/rabbitmq/commit/2a733db2) Harden CI workflows (#130)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.52.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.52.0)

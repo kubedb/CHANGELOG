@@ -140,3 +140,26 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.20.0](https://github.com/kubedb/db-client-go/releases/tag/v0.20.0)
+
+- [39d47608](https://github.com/kubedb/db-client-go/commit/39d47608) Prepare for release v0.20.0 (#250)
+- [34229270](https://github.com/kubedb/db-client-go/commit/34229270) Add weaviate tls (#248)
+- [ff2e61c8](https://github.com/kubedb/db-client-go/commit/ff2e61c8) Prepare for release v0.20.0-rc.2 (#249)
+- [b0c28745](https://github.com/kubedb/db-client-go/commit/b0c28745) Add HanaDB TLS (#234)
+- [d97925e7](https://github.com/kubedb/db-client-go/commit/d97925e7) Add New Func to Neo4j (#241)
+- [a24ee1cd](https://github.com/kubedb/db-client-go/commit/a24ee1cd) Prepare for release v0.20.0-rc.1 (#247)
+- [0efcbce1](https://github.com/kubedb/db-client-go/commit/0efcbce1) Use shared pkg/secret helpers for dual-path auth secret access (#245)
+- [0878c362](https://github.com/kubedb/db-client-go/commit/0878c362) Bump kubedb.dev/apimachinery to drop FerretDB (#246)
+- [523e0304](https://github.com/kubedb/db-client-go/commit/523e0304) Tighten CI/release workflow secrets, perms, and release notes
+- [3caab860](https://github.com/kubedb/db-client-go/commit/3caab860) Prepare for release v0.20.0-rc.0 (#244)
+- [2b9e043c](https://github.com/kubedb/db-client-go/commit/2b9e043c) Harden release and release-tracker workflows
+- [462a2a68](https://github.com/kubedb/db-client-go/commit/462a2a68) Qdrant HTTP Client TLS (#239)
+- [3460fe00](https://github.com/kubedb/db-client-go/commit/3460fe00) Update for distributed postgres (#243)
+- [df0e92a0](https://github.com/kubedb/db-client-go/commit/df0e92a0) Add Milvus TLS (#232)
+- [e122e57f](https://github.com/kubedb/db-client-go/commit/e122e57f) Add AGENTS.md for AI coding agents
+- [465442b7](https://github.com/kubedb/db-client-go/commit/465442b7) Harden CI workflows (#240)
+
+
+

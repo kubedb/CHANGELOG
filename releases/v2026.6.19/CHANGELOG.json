@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T19:35:15.013469716Z",
+  "release_date": "2026-06-19T19:42:44.414322594Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -521,6 +521,80 @@
             {
               "SHA": "02872ff1",
               "Subject": "Harden CI workflows (#132)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "39d47608",
+              "Subject": "Prepare for release v0.20.0 (#250)"
+            },
+            {
+              "SHA": "34229270",
+              "Subject": "Add weaviate tls (#248)"
+            },
+            {
+              "SHA": "ff2e61c8",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#249)"
+            },
+            {
+              "SHA": "b0c28745",
+              "Subject": "Add HanaDB TLS (#234)"
+            },
+            {
+              "SHA": "d97925e7",
+              "Subject": "Add New Func to Neo4j (#241)"
+            },
+            {
+              "SHA": "a24ee1cd",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#247)"
+            },
+            {
+              "SHA": "0efcbce1",
+              "Subject": "Use shared pkg/secret helpers for dual-path auth secret access (#245)"
+            },
+            {
+              "SHA": "0878c362",
+              "Subject": "Bump kubedb.dev/apimachinery to drop FerretDB (#246)"
+            },
+            {
+              "SHA": "523e0304",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "3caab860",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#244)"
+            },
+            {
+              "SHA": "2b9e043c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "462a2a68",
+              "Subject": "Qdrant HTTP Client TLS (#239)"
+            },
+            {
+              "SHA": "3460fe00",
+              "Subject": "Update for distributed postgres (#243)"
+            },
+            {
+              "SHA": "df0e92a0",
+              "Subject": "Add Milvus TLS (#232)"
+            },
+            {
+              "SHA": "e122e57f",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "465442b7",
+              "Subject": "Harden CI workflows (#240)"
             }
           ]
         }

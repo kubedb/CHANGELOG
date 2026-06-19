@@ -163,6 +163,21 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.28.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.28.0)
+
+- [65522b4d](https://github.com/kubedb/elasticsearch-restic-plugin/commit/65522b4d) Prepare for release v0.28.0 (#103)
+- [ac051dbf](https://github.com/kubedb/elasticsearch-restic-plugin/commit/ac051dbf) Prepare for release v0.28.0-rc.2 (#102)
+- [021ea97a](https://github.com/kubedb/elasticsearch-restic-plugin/commit/021ea97a) Add restic backup progress streaming (#101)
+- [650b7682](https://github.com/kubedb/elasticsearch-restic-plugin/commit/650b7682) Prepare for release v0.28.0-rc.1 (#100)
+- [f7bce7aa](https://github.com/kubedb/elasticsearch-restic-plugin/commit/f7bce7aa) Prepare for release v0.28.0-rc.0 (#99)
+- [b38a1c55](https://github.com/kubedb/elasticsearch-restic-plugin/commit/b38a1c55) Harden release and release-tracker workflows
+- [853d30a7](https://github.com/kubedb/elasticsearch-restic-plugin/commit/853d30a7) Add AGENTS.md for AI coding agents
+- [8b4b3ac0](https://github.com/kubedb/elasticsearch-restic-plugin/commit/8b4b3ac0) Harden CI workflows (#97)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.19.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.19.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T20:49:07.199735888Z",
+  "release_date": "2026-06-19T20:49:16.639811484Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -771,6 +771,52 @@
             {
               "SHA": "0e152a6",
               "Subject": "Use GitHub App token for release tracker comments (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "c14587a3",
+              "Subject": "Prepare for release v0.38.0 (#131)"
+            },
+            {
+              "SHA": "10be320f",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#130)"
+            },
+            {
+              "SHA": "b33e29b9",
+              "Subject": "Prepare for release v0.38.0-rc.2 (#129)"
+            },
+            {
+              "SHA": "a0b5004e",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#128)"
+            },
+            {
+              "SHA": "d71a8b78",
+              "Subject": "Prepare for release v0.38.0-rc.0 (#127)"
+            },
+            {
+              "SHA": "dcf12fa2",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "98fc7cc6",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "37eb5997",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "1881477c",
+              "Subject": "Harden CI workflows (#125)"
             }
           ]
         }

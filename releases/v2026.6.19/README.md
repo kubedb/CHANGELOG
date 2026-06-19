@@ -225,6 +225,22 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.38.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0)
+
+- [c14587a3](https://github.com/kubedb/percona-xtradb-coordinator/commit/c14587a3) Prepare for release v0.38.0 (#131)
+- [10be320f](https://github.com/kubedb/percona-xtradb-coordinator/commit/10be320f) Update github.com/moby/spdystream to v0.5.1 (#130)
+- [b33e29b9](https://github.com/kubedb/percona-xtradb-coordinator/commit/b33e29b9) Prepare for release v0.38.0-rc.2 (#129)
+- [a0b5004e](https://github.com/kubedb/percona-xtradb-coordinator/commit/a0b5004e) Prepare for release v0.38.0-rc.1 (#128)
+- [d71a8b78](https://github.com/kubedb/percona-xtradb-coordinator/commit/d71a8b78) Prepare for release v0.38.0-rc.0 (#127)
+- [dcf12fa2](https://github.com/kubedb/percona-xtradb-coordinator/commit/dcf12fa2) Tighten CI/release workflow secrets, perms, and release notes
+- [98fc7cc6](https://github.com/kubedb/percona-xtradb-coordinator/commit/98fc7cc6) Harden release and release-tracker workflows
+- [37eb5997](https://github.com/kubedb/percona-xtradb-coordinator/commit/37eb5997) Add AGENTS.md for AI coding agents
+- [1881477c](https://github.com/kubedb/percona-xtradb-coordinator/commit/1881477c) Harden CI workflows (#125)
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.26.0](https://github.com/kubedb/provider-azure/releases/tag/v0.26.0)

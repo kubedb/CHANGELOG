@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T20:48:25.7553008Z",
+  "release_date": "2026-06-19T20:48:30.174455786Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -617,6 +617,32 @@
             {
               "SHA": "7f7b570",
               "Subject": "Restrict /ok-to-test to org members (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "e8f212a",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "4f19b3b",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ca1476e",
+              "Subject": "Add AGENTS.md for AI coding agents (#29)"
+            },
+            {
+              "SHA": "4c70d45",
+              "Subject": "Harden CI workflows (#28)"
             }
           ]
         }

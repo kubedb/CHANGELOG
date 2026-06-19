@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T19:42:44.414322594Z",
+  "release_date": "2026-06-19T20:48:21.317579675Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -595,6 +595,48 @@
             {
               "SHA": "465442b7",
               "Subject": "Harden CI workflows (#240)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "93e34492",
+              "Subject": "Prepare for release v0.52.0 (#326)"
+            },
+            {
+              "SHA": "fe05bb5e",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#325)"
+            },
+            {
+              "SHA": "adc96bf9",
+              "Subject": "Prepare for release v0.52.0-rc.1 (#324)"
+            },
+            {
+              "SHA": "c2ca4a03",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#323)"
+            },
+            {
+              "SHA": "a22986ef",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "7f22be9e",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e8f81f8e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "3c2fd6f5",
+              "Subject": "Harden CI workflows (#321)"
             }
           ]
         }

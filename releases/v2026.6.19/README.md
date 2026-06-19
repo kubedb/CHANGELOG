@@ -163,3 +163,18 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.52.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.52.0)
+
+- [93e34492](https://github.com/kubedb/replication-mode-detector/commit/93e34492) Prepare for release v0.52.0 (#326)
+- [fe05bb5e](https://github.com/kubedb/replication-mode-detector/commit/fe05bb5e) Prepare for release v0.52.0-rc.2 (#325)
+- [adc96bf9](https://github.com/kubedb/replication-mode-detector/commit/adc96bf9) Prepare for release v0.52.0-rc.1 (#324)
+- [c2ca4a03](https://github.com/kubedb/replication-mode-detector/commit/c2ca4a03) Prepare for release v0.52.0-rc.0 (#323)
+- [a22986ef](https://github.com/kubedb/replication-mode-detector/commit/a22986ef) Tighten CI/release workflow secrets, perms, and release notes
+- [7f22be9e](https://github.com/kubedb/replication-mode-detector/commit/7f22be9e) Harden release and release-tracker workflows
+- [e8f81f8e](https://github.com/kubedb/replication-mode-detector/commit/e8f81f8e) Add AGENTS.md for AI coding agents
+- [3c2fd6f5](https://github.com/kubedb/replication-mode-detector/commit/3c2fd6f5) Harden CI workflows (#321)
+
+
+

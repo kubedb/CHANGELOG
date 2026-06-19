@@ -277,3 +277,26 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.20.0](https://github.com/kubedb/singlestore/releases/tag/v0.20.0)
+
+- [f1d36604](https://github.com/kubedb/singlestore/commit/f1d36604) Prepare for release v0.20.0 (#131)
+- [a4098c82](https://github.com/kubedb/singlestore/commit/a4098c82) Update github.com/moby/spdystream to v0.5.1 (#130)
+- [f08e3952](https://github.com/kubedb/singlestore/commit/f08e3952) feat: implement git-sync init container for Singlestore (#124)
+- [5be14e4d](https://github.com/kubedb/singlestore/commit/5be14e4d) Prepare for release v0.20.0-rc.2 (#129)
+- [98d3f455](https://github.com/kubedb/singlestore/commit/98d3f455) Fix SingleStore deletion (#128)
+- [5c8a7b45](https://github.com/kubedb/singlestore/commit/5c8a7b45) Honor user-provided renewBefore in TLS certificate ops (#125)
+- [d6a82975](https://github.com/kubedb/singlestore/commit/d6a82975) Add RotateAuth Ops Request Support (#122)
+- [0ac62594](https://github.com/kubedb/singlestore/commit/0ac62594) Prepare for release v0.20.0-rc.1 (#127)
+- [9860ed42](https://github.com/kubedb/singlestore/commit/9860ed42) Add --network-policy-flavor flag with cilium support (#126)
+- [9b843f68](https://github.com/kubedb/singlestore/commit/9b843f68) Add StorageMigration OpsRequest support for Singlestore (#120)
+- [8d5c9087](https://github.com/kubedb/singlestore/commit/8d5c9087) Prepare for release v0.20.0-rc.0 (#121)
+- [26b67dc6](https://github.com/kubedb/singlestore/commit/26b67dc6) Tighten CI/release workflow secrets, perms, and release notes
+- [01a4c59f](https://github.com/kubedb/singlestore/commit/01a4c59f) Harden release and release-tracker workflows
+- [d663617d](https://github.com/kubedb/singlestore/commit/d663617d) Add CLAUDE.md pointing to AGENTS.md
+- [e4255529](https://github.com/kubedb/singlestore/commit/e4255529) Add AGENTS.md for AI coding agents
+- [90f8831e](https://github.com/kubedb/singlestore/commit/90f8831e) Harden CI workflows (#118)
+
+
+

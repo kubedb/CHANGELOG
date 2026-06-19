@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T20:49:16.639811484Z",
+  "release_date": "2026-06-19T20:49:31.349769207Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -907,6 +907,80 @@
             {
               "SHA": "3c2fd6f5",
               "Subject": "Harden CI workflows (#321)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "f1d36604",
+              "Subject": "Prepare for release v0.20.0 (#131)"
+            },
+            {
+              "SHA": "a4098c82",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#130)"
+            },
+            {
+              "SHA": "f08e3952",
+              "Subject": "feat: implement git-sync init container for Singlestore (#124)"
+            },
+            {
+              "SHA": "5be14e4d",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#129)"
+            },
+            {
+              "SHA": "98d3f455",
+              "Subject": "Fix SingleStore deletion (#128)"
+            },
+            {
+              "SHA": "5c8a7b45",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#125)"
+            },
+            {
+              "SHA": "d6a82975",
+              "Subject": "Add RotateAuth Ops Request Support (#122)"
+            },
+            {
+              "SHA": "0ac62594",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#127)"
+            },
+            {
+              "SHA": "9860ed42",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#126)"
+            },
+            {
+              "SHA": "9b843f68",
+              "Subject": "Add StorageMigration OpsRequest support for Singlestore (#120)"
+            },
+            {
+              "SHA": "8d5c9087",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#121)"
+            },
+            {
+              "SHA": "26b67dc6",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "01a4c59f",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "d663617d",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "e4255529",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "90f8831e",
+              "Subject": "Harden CI workflows (#118)"
             }
           ]
         }

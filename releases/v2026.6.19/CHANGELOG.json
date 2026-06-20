@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T11:01:44.512820281Z",
+  "release_date": "2026-06-20T11:08:13.074425649Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -4264,6 +4264,88 @@
             {
               "SHA": "3dfc4fe3",
               "Subject": "Harden CI workflows (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "9309bb354",
+              "Subject": "Prepare for release v0.41.0 (#226)"
+            },
+            {
+              "SHA": "9cd37a063",
+              "Subject": "Add Aerospike webhook server (#225)"
+            },
+            {
+              "SHA": "2db5df913",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#224)"
+            },
+            {
+              "SHA": "3d375b730",
+              "Subject": "documentdb-ops-webhook (#223)"
+            },
+            {
+              "SHA": "cc9b766ed",
+              "Subject": "Add Cassandra & ClickHouse ops and Neo4j autoscaler webhook registrations (#222)"
+            },
+            {
+              "SHA": "e341c482f",
+              "Subject": "create oracle ops reconfigure (#211)"
+            },
+            {
+              "SHA": "65259ba23",
+              "Subject": "Add HanaDB ops (#216)"
+            },
+            {
+              "SHA": "4fd5117db",
+              "Subject": "Add Milvus Autoscaler Validation (#221)"
+            },
+            {
+              "SHA": "0b56463a7",
+              "Subject": "Add weaviate ops (#218)"
+            },
+            {
+              "SHA": "29608ec8b",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#220)"
+            },
+            {
+              "SHA": "9baa5eb56",
+              "Subject": "Remove FerretDB support (#219)"
+            },
+            {
+              "SHA": "0f68066fa",
+              "Subject": "Setup Qdrant Autoscaler Webhook (#209)"
+            },
+            {
+              "SHA": "fe08c7c4d",
+              "Subject": "Add Milvus OPS Webhook (#217)"
+            },
+            {
+              "SHA": "8009a9ef8",
+              "Subject": "Fix CI hardening: use app token in release-tracker, add packages: (#215)"
+            },
+            {
+              "SHA": "367f75a72",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#214)"
+            },
+            {
+              "SHA": "79e9b2bd4",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "6e9a06404",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "dddcda1f0",
+              "Subject": "Restrict /ok-to-test to org members (#212)"
             }
           ]
         }

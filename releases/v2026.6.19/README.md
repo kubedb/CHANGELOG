@@ -1391,6 +1391,31 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.41.0](https://github.com/kubedb/webhook-server/releases/tag/v0.41.0)
+
+- [9309bb35](https://github.com/kubedb/webhook-server/commit/9309bb354) Prepare for release v0.41.0 (#226)
+- [9cd37a06](https://github.com/kubedb/webhook-server/commit/9cd37a063) Add Aerospike webhook server (#225)
+- [2db5df91](https://github.com/kubedb/webhook-server/commit/2db5df913) Prepare for release v0.41.0-rc.2 (#224)
+- [3d375b73](https://github.com/kubedb/webhook-server/commit/3d375b730) documentdb-ops-webhook (#223)
+- [cc9b766e](https://github.com/kubedb/webhook-server/commit/cc9b766ed) Add Cassandra & ClickHouse ops and Neo4j autoscaler webhook registrations (#222)
+- [e341c482](https://github.com/kubedb/webhook-server/commit/e341c482f) create oracle ops reconfigure (#211)
+- [65259ba2](https://github.com/kubedb/webhook-server/commit/65259ba23) Add HanaDB ops (#216)
+- [4fd5117d](https://github.com/kubedb/webhook-server/commit/4fd5117db) Add Milvus Autoscaler Validation (#221)
+- [0b56463a](https://github.com/kubedb/webhook-server/commit/0b56463a7) Add weaviate ops (#218)
+- [29608ec8](https://github.com/kubedb/webhook-server/commit/29608ec8b) Prepare for release v0.41.0-rc.1 (#220)
+- [9baa5eb5](https://github.com/kubedb/webhook-server/commit/9baa5eb56) Remove FerretDB support (#219)
+- [0f68066f](https://github.com/kubedb/webhook-server/commit/0f68066fa) Setup Qdrant Autoscaler Webhook (#209)
+- [fe08c7c4](https://github.com/kubedb/webhook-server/commit/fe08c7c4d) Add Milvus OPS Webhook (#217)
+- [8009a9ef](https://github.com/kubedb/webhook-server/commit/8009a9ef8) Fix CI hardening: use app token in release-tracker, add packages: (#215)
+- [367f75a7](https://github.com/kubedb/webhook-server/commit/367f75a72) Prepare for release v0.41.0-rc.0 (#214)
+- [79e9b2bd](https://github.com/kubedb/webhook-server/commit/79e9b2bd4) Tighten CI/release workflow secrets, perms, and release notes
+- [6e9a0640](https://github.com/kubedb/webhook-server/commit/6e9a06404) Add AGENTS.md for AI coding agents
+- [dddcda1f](https://github.com/kubedb/webhook-server/commit/dddcda1f0) Restrict /ok-to-test to org members (#212)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0)

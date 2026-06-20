@@ -137,6 +137,20 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.12.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.12.0)
+
+- [eba85ff4](https://github.com/kubedb/cassandra-medusa-plugin/commit/eba85ff4) Prepare for release v0.12.0 (#41)
+- [2584476c](https://github.com/kubedb/cassandra-medusa-plugin/commit/2584476c) Prepare for release v0.12.0-rc.2 (#40)
+- [aefdc390](https://github.com/kubedb/cassandra-medusa-plugin/commit/aefdc390) Prepare for release v0.12.0-rc.1 (#39)
+- [29127ccd](https://github.com/kubedb/cassandra-medusa-plugin/commit/29127ccd) Prepare for release v0.12.0-rc.0 (#38)
+- [972cc3ec](https://github.com/kubedb/cassandra-medusa-plugin/commit/972cc3ec) Harden release and release-tracker workflows
+- [f5566ac1](https://github.com/kubedb/cassandra-medusa-plugin/commit/f5566ac1) Add AGENTS.md for AI coding agents
+- [494bac88](https://github.com/kubedb/cassandra-medusa-plugin/commit/494bac88) Harden CI workflows (#36)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.20.0](https://github.com/kubedb/clickhouse/releases/tag/v0.20.0)

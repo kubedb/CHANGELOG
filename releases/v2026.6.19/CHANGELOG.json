@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T09:05:11.853615001Z",
+  "release_date": "2026-06-20T09:05:20.29494204Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -509,6 +509,44 @@
             {
               "SHA": "fcc9a127",
               "Subject": "Harden CI workflows (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "eba85ff4",
+              "Subject": "Prepare for release v0.12.0 (#41)"
+            },
+            {
+              "SHA": "2584476c",
+              "Subject": "Prepare for release v0.12.0-rc.2 (#40)"
+            },
+            {
+              "SHA": "aefdc390",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#39)"
+            },
+            {
+              "SHA": "29127ccd",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "972cc3ec",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "f5566ac1",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "494bac88",
+              "Subject": "Harden CI workflows (#36)"
             }
           ]
         }

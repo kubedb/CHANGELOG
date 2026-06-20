@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T11:00:54.131220313Z",
+  "release_date": "2026-06-20T11:01:29.448582713Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1579,6 +1579,76 @@
             {
               "SHA": "8b49617d",
               "Subject": "Harden CI workflows (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "b042714b",
+              "Subject": "Prepare for release v0.41.0 (#186)"
+            },
+            {
+              "SHA": "73bafa3b",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#185)"
+            },
+            {
+              "SHA": "d1ec131e",
+              "Subject": "Add network-policy-flavor flag for cilium support (#184)"
+            },
+            {
+              "SHA": "7bec93e8",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#183)"
+            },
+            {
+              "SHA": "7f848668",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#182)"
+            },
+            {
+              "SHA": "4a984afd",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "aee66c89",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "3e24fcd8",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ea78001c",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "b4fb97cd",
+              "Subject": "Use GitHub App token for release tracker comments (#179)"
+            },
+            {
+              "SHA": "0420d005",
+              "Subject": "Merge branch 'master' into use-app-token-2284"
+            },
+            {
+              "SHA": "70f324fc",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "15282d6c",
+              "Subject": "Pin actions to commit SHAs"
+            },
+            {
+              "SHA": "27d597c7",
+              "Subject": "Harden CI workflows (#180)"
+            },
+            {
+              "SHA": "402312ef",
+              "Subject": "Use GitHub App token for release tracker comments"
             }
           ]
         }

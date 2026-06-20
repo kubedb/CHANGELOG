@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T10:46:07.034908139Z",
+  "release_date": "2026-06-20T10:53:10.06865272Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -841,6 +841,60 @@
             {
               "SHA": "465442b7",
               "Subject": "Harden CI workflows (#240)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "675c40a6",
+              "Subject": "Prepare for release v0.6.0 (#33)"
+            },
+            {
+              "SHA": "99854604",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#32)"
+            },
+            {
+              "SHA": "f2fe477e",
+              "Subject": "Fix Db2 deletion (#31)"
+            },
+            {
+              "SHA": "e263fee1",
+              "Subject": "Add NetworkPolicyFlavor support (#30)"
+            },
+            {
+              "SHA": "deec0ca0",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#29)"
+            },
+            {
+              "SHA": "83b7b475",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#25)"
+            },
+            {
+              "SHA": "ea12a946",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "2151e287",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "0493419f",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ee433a7e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "14a0f81b",
+              "Subject": "Harden CI workflows (#23)"
             }
           ]
         }

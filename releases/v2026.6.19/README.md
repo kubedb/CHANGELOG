@@ -247,6 +247,24 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.6.0](https://github.com/kubedb/db2/releases/tag/v0.6.0)
+
+- [675c40a6](https://github.com/kubedb/db2/commit/675c40a6) Prepare for release v0.6.0 (#33)
+- [99854604](https://github.com/kubedb/db2/commit/99854604) Prepare for release v0.6.0-rc.2 (#32)
+- [f2fe477e](https://github.com/kubedb/db2/commit/f2fe477e) Fix Db2 deletion (#31)
+- [e263fee1](https://github.com/kubedb/db2/commit/e263fee1) Add NetworkPolicyFlavor support (#30)
+- [deec0ca0](https://github.com/kubedb/db2/commit/deec0ca0) Prepare for release v0.6.0-rc.1 (#29)
+- [83b7b475](https://github.com/kubedb/db2/commit/83b7b475) Prepare for release v0.6.0-rc.0 (#25)
+- [ea12a946](https://github.com/kubedb/db2/commit/ea12a946) Tighten CI/release workflow secrets, perms, and release notes
+- [2151e287](https://github.com/kubedb/db2/commit/2151e287) Harden release and release-tracker workflows
+- [0493419f](https://github.com/kubedb/db2/commit/0493419f) Add CLAUDE.md pointing to AGENTS.md
+- [ee433a7e](https://github.com/kubedb/db2/commit/ee433a7e) Add AGENTS.md for AI coding agents
+- [14a0f81b](https://github.com/kubedb/db2/commit/14a0f81b) Harden CI workflows (#23)
+
+
+
 ## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
 
 ### [v0.6.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.6.0)

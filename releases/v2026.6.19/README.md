@@ -441,6 +441,23 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.23.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.23.0)
+
+- [ad641e56](https://github.com/kubedb/mariadb-restic-plugin/commit/ad641e56) Prepare for release v0.23.0 (#96)
+- [0226aa69](https://github.com/kubedb/mariadb-restic-plugin/commit/0226aa69) Update github.com/moby/spdystream to v0.5.1 (#95)
+- [03ee3ee4](https://github.com/kubedb/mariadb-restic-plugin/commit/03ee3ee4) Prepare for release v0.23.0-rc.2 (#94)
+- [ab0be84b](https://github.com/kubedb/mariadb-restic-plugin/commit/ab0be84b) Add restic backup progress streaming (#92)
+- [d3bc1259](https://github.com/kubedb/mariadb-restic-plugin/commit/d3bc1259) Update Backup Job Name for Distributed (#93)
+- [3b08f7c6](https://github.com/kubedb/mariadb-restic-plugin/commit/3b08f7c6) Prepare for release v0.23.0-rc.1 (#91)
+- [7ffb72a7](https://github.com/kubedb/mariadb-restic-plugin/commit/7ffb72a7) Prepare for release v0.23.0-rc.0 (#90)
+- [9e4c9505](https://github.com/kubedb/mariadb-restic-plugin/commit/9e4c9505) Harden release and release-tracker workflows
+- [3e6d811d](https://github.com/kubedb/mariadb-restic-plugin/commit/3e6d811d) Add AGENTS.md for AI coding agents
+- [df88fa1b](https://github.com/kubedb/mariadb-restic-plugin/commit/df88fa1b) Harden CI workflows (#88)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.5.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.5.0)

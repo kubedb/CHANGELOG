@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:54:47.900485755Z",
+  "release_date": "2026-06-20T08:54:57.095108943Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1437,6 +1437,56 @@
             {
               "SHA": "0af4eea5",
               "Subject": "Harden CI workflows (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "ad641e56",
+              "Subject": "Prepare for release v0.23.0 (#96)"
+            },
+            {
+              "SHA": "0226aa69",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#95)"
+            },
+            {
+              "SHA": "03ee3ee4",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#94)"
+            },
+            {
+              "SHA": "ab0be84b",
+              "Subject": "Add restic backup progress streaming (#92)"
+            },
+            {
+              "SHA": "d3bc1259",
+              "Subject": "Update Backup Job Name for Distributed (#93)"
+            },
+            {
+              "SHA": "3b08f7c6",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#91)"
+            },
+            {
+              "SHA": "7ffb72a7",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "9e4c9505",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "3e6d811d",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "df88fa1b",
+              "Subject": "Harden CI workflows (#88)"
             }
           ]
         }

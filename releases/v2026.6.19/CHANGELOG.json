@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:42:29.576504343Z",
+  "release_date": "2026-06-20T08:42:36.138213922Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1219,6 +1219,56 @@
             {
               "SHA": "90f8831e",
               "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "2f27830e",
+              "Subject": "Prepare for release v0.20.0 (#74)"
+            },
+            {
+              "SHA": "74c137ba",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#73)"
+            },
+            {
+              "SHA": "308c991d",
+              "Subject": "Add restic backup progress streaming (#72)"
+            },
+            {
+              "SHA": "b5ff2162",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#71)"
+            },
+            {
+              "SHA": "a6878a44",
+              "Subject": "Fix release workflow regressions from CI hardening (#70)"
+            },
+            {
+              "SHA": "5124f6a7",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "f01b3b87",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "85b763fa",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "0cc56540",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "391b6eb7",
+              "Subject": "Harden CI workflows (#67)"
             }
           ]
         }

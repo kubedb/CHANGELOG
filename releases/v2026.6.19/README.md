@@ -382,3 +382,20 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.20.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.20.0)
+
+- [2f27830e](https://github.com/kubedb/zookeeper-restic-plugin/commit/2f27830e) Prepare for release v0.20.0 (#74)
+- [74c137ba](https://github.com/kubedb/zookeeper-restic-plugin/commit/74c137ba) Prepare for release v0.20.0-rc.2 (#73)
+- [308c991d](https://github.com/kubedb/zookeeper-restic-plugin/commit/308c991d) Add restic backup progress streaming (#72)
+- [b5ff2162](https://github.com/kubedb/zookeeper-restic-plugin/commit/b5ff2162) Prepare for release v0.20.0-rc.1 (#71)
+- [a6878a44](https://github.com/kubedb/zookeeper-restic-plugin/commit/a6878a44) Fix release workflow regressions from CI hardening (#70)
+- [5124f6a7](https://github.com/kubedb/zookeeper-restic-plugin/commit/5124f6a7) Prepare for release v0.20.0-rc.0 (#69)
+- [f01b3b87](https://github.com/kubedb/zookeeper-restic-plugin/commit/f01b3b87) Tighten CI/release workflow secrets, perms, and release notes
+- [85b763fa](https://github.com/kubedb/zookeeper-restic-plugin/commit/85b763fa) Harden release and release-tracker workflows
+- [0cc56540](https://github.com/kubedb/zookeeper-restic-plugin/commit/0cc56540) Add AGENTS.md for AI coding agents
+- [391b6eb7](https://github.com/kubedb/zookeeper-restic-plugin/commit/391b6eb7) Harden CI workflows (#67)
+
+
+

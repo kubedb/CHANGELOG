@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T11:10:10.819750138Z",
+  "release_date": "2026-06-20T11:11:18.103296344Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -4006,6 +4006,52 @@
             {
               "SHA": "3c2fd6f5",
               "Subject": "Harden CI workflows (#321)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "e9c20a65",
+              "Subject": "Prepare for release v0.41.0 (#174)"
+            },
+            {
+              "SHA": "5444ca3e",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#173)"
+            },
+            {
+              "SHA": "380ec889",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#172)"
+            },
+            {
+              "SHA": "3d0da9a2",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#171)"
+            },
+            {
+              "SHA": "c31cfb97",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#170)"
+            },
+            {
+              "SHA": "7f62c921",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "bba504bd",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "95b80652",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "c6495b95",
+              "Subject": "Harden CI workflows (#168)"
             }
           ]
         }

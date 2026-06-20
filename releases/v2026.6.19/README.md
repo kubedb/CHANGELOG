@@ -1304,6 +1304,22 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.41.0](https://github.com/kubedb/schema-manager/releases/tag/v0.41.0)
+
+- [e9c20a65](https://github.com/kubedb/schema-manager/commit/e9c20a65) Prepare for release v0.41.0 (#174)
+- [5444ca3e](https://github.com/kubedb/schema-manager/commit/5444ca3e) Update github.com/moby/spdystream to v0.5.1 (#173)
+- [380ec889](https://github.com/kubedb/schema-manager/commit/380ec889) Prepare for release v0.41.0-rc.2 (#172)
+- [3d0da9a2](https://github.com/kubedb/schema-manager/commit/3d0da9a2) Prepare for release v0.41.0-rc.1 (#171)
+- [c31cfb97](https://github.com/kubedb/schema-manager/commit/c31cfb97) Prepare for release v0.41.0-rc.0 (#170)
+- [7f62c921](https://github.com/kubedb/schema-manager/commit/7f62c921) Tighten CI/release workflow secrets, perms, and release notes
+- [bba504bd](https://github.com/kubedb/schema-manager/commit/bba504bd) Harden release and release-tracker workflows
+- [95b80652](https://github.com/kubedb/schema-manager/commit/95b80652) Add AGENTS.md for AI coding agents
+- [c6495b95](https://github.com/kubedb/schema-manager/commit/c6495b95) Harden CI workflows (#168)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.20.0](https://github.com/kubedb/singlestore/releases/tag/v0.20.0)

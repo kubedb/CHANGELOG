@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T09:03:24.806776106Z",
+  "release_date": "2026-06-20T09:03:32.127827678Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -3037,6 +3037,48 @@
             {
               "SHA": "90f8831e",
               "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "c26da542",
+              "Subject": "Prepare for release v0.23.0 (#89)"
+            },
+            {
+              "SHA": "1cbde534",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#88)"
+            },
+            {
+              "SHA": "0ac6f752",
+              "Subject": "Add restic backup progress streaming (#87)"
+            },
+            {
+              "SHA": "d6832394",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#86)"
+            },
+            {
+              "SHA": "ef6b233c",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "ecfc7fc6",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "88b88a43",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9e76f60c",
+              "Subject": "Harden CI workflows (#83)"
             }
           ]
         }

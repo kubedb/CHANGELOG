@@ -985,6 +985,21 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.23.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.23.0)
+
+- [c26da542](https://github.com/kubedb/singlestore-restic-plugin/commit/c26da542) Prepare for release v0.23.0 (#89)
+- [1cbde534](https://github.com/kubedb/singlestore-restic-plugin/commit/1cbde534) Prepare for release v0.23.0-rc.2 (#88)
+- [0ac6f752](https://github.com/kubedb/singlestore-restic-plugin/commit/0ac6f752) Add restic backup progress streaming (#87)
+- [d6832394](https://github.com/kubedb/singlestore-restic-plugin/commit/d6832394) Prepare for release v0.23.0-rc.1 (#86)
+- [ef6b233c](https://github.com/kubedb/singlestore-restic-plugin/commit/ef6b233c) Prepare for release v0.23.0-rc.0 (#85)
+- [ecfc7fc6](https://github.com/kubedb/singlestore-restic-plugin/commit/ecfc7fc6) Harden release and release-tracker workflows
+- [88b88a43](https://github.com/kubedb/singlestore-restic-plugin/commit/88b88a43) Add AGENTS.md for AI coding agents
+- [9e76f60c](https://github.com/kubedb/singlestore-restic-plugin/commit/9e76f60c) Harden CI workflows (#83)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.20.0](https://github.com/kubedb/solr/releases/tag/v0.20.0)

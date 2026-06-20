@@ -669,6 +669,25 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.50.0](https://github.com/kubedb/tests/releases/tag/v0.50.0)
+
+- [df07cb41](https://github.com/kubedb/tests/commit/df07cb414) Prepare for release v0.50.0 (#543)
+- [e2c2cc9e](https://github.com/kubedb/tests/commit/e2c2cc9eb) Update github.com/moby/spdystream to v0.5.1 (#542)
+- [5829f980](https://github.com/kubedb/tests/commit/5829f9808) Prepare for release v0.50.0-rc.2 (#541)
+- [66234e49](https://github.com/kubedb/tests/commit/66234e492) Update kubedb apimachinery vendor and fix AppBinding pointer type (#540)
+- [957fa4e5](https://github.com/kubedb/tests/commit/957fa4e5d) Add E2E tests for ClickHouse (#525)
+- [59d384bc](https://github.com/kubedb/tests/commit/59d384bc4) Prepare for release v0.50.0-rc.1 (#538)
+- [d5a306ba](https://github.com/kubedb/tests/commit/d5a306baf) Remove FerretDB support (#537)
+- [7d4ad629](https://github.com/kubedb/tests/commit/7d4ad629a) Prepare for release v0.50.0-rc.0 (#536)
+- [2ad57dc7](https://github.com/kubedb/tests/commit/2ad57dc71) Harden release and release-tracker workflows
+- [27074f61](https://github.com/kubedb/tests/commit/27074f613) Add CLAUDE.md pointing to AGENTS.md
+- [e5e62b8a](https://github.com/kubedb/tests/commit/e5e62b8a0) Add AGENTS.md for AI coding agents
+- [9ee1c9bc](https://github.com/kubedb/tests/commit/9ee1c9bc7) Harden CI workflows (#522)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0)

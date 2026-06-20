@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:52:35.706313271Z",
+  "release_date": "2026-06-20T08:53:20.457347733Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -2079,6 +2079,64 @@
             {
               "SHA": "90f8831e",
               "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "df07cb414",
+              "Subject": "Prepare for release v0.50.0 (#543)"
+            },
+            {
+              "SHA": "e2c2cc9eb",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#542)"
+            },
+            {
+              "SHA": "5829f9808",
+              "Subject": "Prepare for release v0.50.0-rc.2 (#541)"
+            },
+            {
+              "SHA": "66234e492",
+              "Subject": "Update kubedb apimachinery vendor and fix AppBinding pointer type (#540)"
+            },
+            {
+              "SHA": "957fa4e5d",
+              "Subject": "Add E2E tests for ClickHouse (#525)"
+            },
+            {
+              "SHA": "59d384bc4",
+              "Subject": "Prepare for release v0.50.0-rc.1 (#538)"
+            },
+            {
+              "SHA": "d5a306baf",
+              "Subject": "Remove FerretDB support (#537)"
+            },
+            {
+              "SHA": "7d4ad629a",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#536)"
+            },
+            {
+              "SHA": "2ad57dc71",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "27074f613",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "e5e62b8a0",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9ee1c9bc7",
+              "Subject": "Harden CI workflows (#522)"
             }
           ]
         }

@@ -319,6 +319,27 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.65.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.65.0)
+
+- [be47268d](https://github.com/kubedb/elasticsearch/commit/be47268d7) Prepare for release v0.65.0 (#820)
+- [5f17098d](https://github.com/kubedb/elasticsearch/commit/5f17098d6) Update github.com/moby/spdystream to v0.5.1 (#819)
+- [b0421f8d](https://github.com/kubedb/elasticsearch/commit/b0421f8d3) Prepare for release v0.65.0-rc.2 (#818)
+- [7a09aa83](https://github.com/kubedb/elasticsearch/commit/7a09aa83c) Honor user-provided renewBefore in TLS certificate ops (#815)
+- [1c3cb34f](https://github.com/kubedb/elasticsearch/commit/1c3cb34f1) feat: implement git-sync init container for Elasticsearch (#814)
+- [890e13c1](https://github.com/kubedb/elasticsearch/commit/890e13c16) Prepare for release v0.65.0-rc.1 (#817)
+- [613e034e](https://github.com/kubedb/elasticsearch/commit/613e034ea) Add StorageMigration OpsRequest support (#810)
+- [ecddd1f6](https://github.com/kubedb/elasticsearch/commit/ecddd1f68) Prepare for release v0.65.0-rc.0 (#812)
+- [fc42205f](https://github.com/kubedb/elasticsearch/commit/fc42205fa) Tighten CI/release workflow secrets, perms, and release notes
+- [df2dae4a](https://github.com/kubedb/elasticsearch/commit/df2dae4a0) Harden release and release-tracker workflows
+- [a134aed4](https://github.com/kubedb/elasticsearch/commit/a134aed4a) Run Ops Request Locally (#811)
+- [02b16b73](https://github.com/kubedb/elasticsearch/commit/02b16b73b) Add CLAUDE.md pointing to AGENTS.md
+- [65db23b7](https://github.com/kubedb/elasticsearch/commit/65db23b70) Add AGENTS.md for AI coding agents
+- [ebf149db](https://github.com/kubedb/elasticsearch/commit/ebf149dba) Harden CI workflows (#808)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.28.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.28.0)

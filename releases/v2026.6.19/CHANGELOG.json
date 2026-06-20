@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T09:05:52.320524939Z",
+  "release_date": "2026-06-20T09:06:09.866778054Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1057,6 +1057,72 @@
             {
               "SHA": "5d02b3ca",
               "Subject": "Harden CI workflows (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.65.0",
+          "commits": [
+            {
+              "SHA": "be47268d7",
+              "Subject": "Prepare for release v0.65.0 (#820)"
+            },
+            {
+              "SHA": "5f17098d6",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#819)"
+            },
+            {
+              "SHA": "b0421f8d3",
+              "Subject": "Prepare for release v0.65.0-rc.2 (#818)"
+            },
+            {
+              "SHA": "7a09aa83c",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#815)"
+            },
+            {
+              "SHA": "1c3cb34f1",
+              "Subject": "feat: implement git-sync init container for Elasticsearch (#814)"
+            },
+            {
+              "SHA": "890e13c16",
+              "Subject": "Prepare for release v0.65.0-rc.1 (#817)"
+            },
+            {
+              "SHA": "613e034ea",
+              "Subject": "Add StorageMigration OpsRequest support (#810)"
+            },
+            {
+              "SHA": "ecddd1f68",
+              "Subject": "Prepare for release v0.65.0-rc.0 (#812)"
+            },
+            {
+              "SHA": "fc42205fa",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "df2dae4a0",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "a134aed4a",
+              "Subject": "Run Ops Request Locally (#811)"
+            },
+            {
+              "SHA": "02b16b73b",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "65db23b70",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "ebf149dba",
+              "Subject": "Harden CI workflows (#808)"
             }
           ]
         }

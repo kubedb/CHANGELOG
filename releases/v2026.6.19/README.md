@@ -1,4 +1,4 @@
-# KubeDB v2026.6.19 (2026-06-19)
+# KubeDB v2026.6.19 (2026-06-20)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -222,6 +222,20 @@
 - [5cc5025](https://github.com/kubedb/mssqlserver-walg-plugin/commit/5cc5025) Prepare for release v0.19.0-rc.0 (#59)
 - [5433238](https://github.com/kubedb/mssqlserver-walg-plugin/commit/5433238) Add AGENTS.md for AI coding agents
 - [0e152a6](https://github.com/kubedb/mssqlserver-walg-plugin/commit/0e152a6) Use GitHub App token for release tracker comments (#57)
+
+
+
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.43.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.43.0)
+
+- [d65df0c](https://github.com/kubedb/mysql-router-init/commit/d65df0c) Prepare for release v0.43.0 (#65)
+- [b0ab3a5](https://github.com/kubedb/mysql-router-init/commit/b0ab3a5) Prepare for release v0.43.0-rc.2 (#64)
+- [9169dc3](https://github.com/kubedb/mysql-router-init/commit/9169dc3) Import kubedb.dev/apimachinery to track dependency (#63)
+- [e15fe6a](https://github.com/kubedb/mysql-router-init/commit/e15fe6a) Fix CI hardening: use app token in release-tracker, add packages (#61)
+- [1fe79e5](https://github.com/kubedb/mysql-router-init/commit/1fe79e5) Tighten CI/release workflow secrets, perms, and release notes
+- [399bf84](https://github.com/kubedb/mysql-router-init/commit/399bf84) Add AGENTS.md for AI coding agents
+- [e1d55d1](https://github.com/kubedb/mysql-router-init/commit/e1d55d1) Merge pull request #59 from kubedb/use-app-token-2284
 
 
 

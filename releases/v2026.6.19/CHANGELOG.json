@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-19T20:49:44.918856908Z",
+  "release_date": "2026-06-20T08:41:33.709369466Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -771,6 +771,44 @@
             {
               "SHA": "0e152a6",
               "Subject": "Use GitHub App token for release tracker comments (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "d65df0c",
+              "Subject": "Prepare for release v0.43.0 (#65)"
+            },
+            {
+              "SHA": "b0ab3a5",
+              "Subject": "Prepare for release v0.43.0-rc.2 (#64)"
+            },
+            {
+              "SHA": "9169dc3",
+              "Subject": "Import kubedb.dev/apimachinery to track dependency (#63)"
+            },
+            {
+              "SHA": "e15fe6a",
+              "Subject": "Fix CI hardening: use app token in release-tracker, add packages (#61)"
+            },
+            {
+              "SHA": "1fe79e5",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "399bf84",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "e1d55d1",
+              "Subject": "Merge pull request #59 from kubedb/use-app-token-2284"
             }
           ]
         }

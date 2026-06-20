@@ -271,6 +271,26 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.20.0](https://github.com/kubedb/druid/releases/tag/v0.20.0)
+
+- [55331e3f](https://github.com/kubedb/druid/commit/55331e3f) Prepare for release v0.20.0 (#141)
+- [7ea60517](https://github.com/kubedb/druid/commit/7ea60517) Prepare for release v0.20.0-rc.2 (#140)
+- [89371af1](https://github.com/kubedb/druid/commit/89371af1) Honor user-provided renewBefore in TLS certificate ops (#135)
+- [f4f4627f](https://github.com/kubedb/druid/commit/f4f4627f) Fix Panic Issue For ExternallyManaged authSecret (#139)
+- [e89ff10a](https://github.com/kubedb/druid/commit/e89ff10a) Add NetworkPolicyFlavor support (#138)
+- [7970cf8b](https://github.com/kubedb/druid/commit/7970cf8b) Prepare for release v0.20.0-rc.1 (#137)
+- [e35bc8a6](https://github.com/kubedb/druid/commit/e35bc8a6) Prepare for release v0.20.0-rc.0 (#132)
+- [d8f0c94f](https://github.com/kubedb/druid/commit/d8f0c94f) Tighten CI/release workflow secrets, perms, and release notes
+- [81bde5dd](https://github.com/kubedb/druid/commit/81bde5dd) Implement StorageMigration OpsRequest for Druid (#131)
+- [fc0a7a2b](https://github.com/kubedb/druid/commit/fc0a7a2b) Harden release and release-tracker workflows
+- [bb6a95d0](https://github.com/kubedb/druid/commit/bb6a95d0) Add CLAUDE.md pointing to AGENTS.md
+- [07b19896](https://github.com/kubedb/druid/commit/07b19896) Add AGENTS.md for AI coding agents
+- [5d02b3ca](https://github.com/kubedb/druid/commit/5d02b3ca) Harden CI workflows (#129)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.28.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.28.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:55:14.556725288Z",
+  "release_date": "2026-06-20T08:55:25.220634248Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -919,6 +919,68 @@
             {
               "SHA": "d2f2e7b",
               "Subject": "Bootstrap (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "55331e3f",
+              "Subject": "Prepare for release v0.20.0 (#141)"
+            },
+            {
+              "SHA": "7ea60517",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#140)"
+            },
+            {
+              "SHA": "89371af1",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#135)"
+            },
+            {
+              "SHA": "f4f4627f",
+              "Subject": "Fix Panic Issue For ExternallyManaged authSecret (#139)"
+            },
+            {
+              "SHA": "e89ff10a",
+              "Subject": "Add NetworkPolicyFlavor support (#138)"
+            },
+            {
+              "SHA": "7970cf8b",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#137)"
+            },
+            {
+              "SHA": "e35bc8a6",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#132)"
+            },
+            {
+              "SHA": "d8f0c94f",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "81bde5dd",
+              "Subject": "Implement StorageMigration OpsRequest for Druid (#131)"
+            },
+            {
+              "SHA": "fc0a7a2b",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "bb6a95d0",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "07b19896",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "5d02b3ca",
+              "Subject": "Harden CI workflows (#129)"
             }
           ]
         }

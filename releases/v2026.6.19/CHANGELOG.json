@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:55:45.472742875Z",
+  "release_date": "2026-06-20T08:55:54.66631613Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1947,6 +1947,52 @@
             {
               "SHA": "1098c78a",
               "Subject": "Fix binlog reply (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "58d3cd4c",
+              "Subject": "Prepare for release v0.28.0 (#117)"
+            },
+            {
+              "SHA": "85ba443a",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#116)"
+            },
+            {
+              "SHA": "edb738be",
+              "Subject": "Add Backup Progress Streaming Support in Snapshot Status (#113)"
+            },
+            {
+              "SHA": "8751f570",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#115)"
+            },
+            {
+              "SHA": "dd1b9eae",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "879cbd56",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "3a29e9c8",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "a5955a10",
+              "Subject": "Harden CI workflows (#111)"
+            },
+            {
+              "SHA": "3a49671f",
+              "Subject": "Add New Version Support, Innodb Cluster Support (#110)"
             }
           ]
         }

@@ -609,6 +609,22 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.28.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.28.0)
+
+- [58d3cd4c](https://github.com/kubedb/mysql-restic-plugin/commit/58d3cd4c) Prepare for release v0.28.0 (#117)
+- [85ba443a](https://github.com/kubedb/mysql-restic-plugin/commit/85ba443a) Prepare for release v0.28.0-rc.2 (#116)
+- [edb738be](https://github.com/kubedb/mysql-restic-plugin/commit/edb738be) Add Backup Progress Streaming Support in Snapshot Status (#113)
+- [8751f570](https://github.com/kubedb/mysql-restic-plugin/commit/8751f570) Prepare for release v0.28.0-rc.1 (#115)
+- [dd1b9eae](https://github.com/kubedb/mysql-restic-plugin/commit/dd1b9eae) Prepare for release v0.28.0-rc.0 (#114)
+- [879cbd56](https://github.com/kubedb/mysql-restic-plugin/commit/879cbd56) Harden release and release-tracker workflows
+- [3a29e9c8](https://github.com/kubedb/mysql-restic-plugin/commit/3a29e9c8) Add AGENTS.md for AI coding agents
+- [a5955a10](https://github.com/kubedb/mysql-restic-plugin/commit/a5955a10) Harden CI workflows (#111)
+- [3a49671f](https://github.com/kubedb/mysql-restic-plugin/commit/3a49671f) Add New Version Support, Innodb Cluster Support (#110)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.43.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.43.0)

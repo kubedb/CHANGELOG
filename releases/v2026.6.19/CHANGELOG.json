@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:42:36.138213922Z",
+  "release_date": "2026-06-20T08:45:11.003798802Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -887,6 +887,56 @@
             {
               "SHA": "0e152a6",
               "Subject": "Use GitHub App token for release tracker comments (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "093b05d2",
+              "Subject": "Prepare for release v0.26.0 (#110)"
+            },
+            {
+              "SHA": "530f2468",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#109)"
+            },
+            {
+              "SHA": "33eaf828",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#108)"
+            },
+            {
+              "SHA": "6a708251",
+              "Subject": "add permission for the release job (#107)"
+            },
+            {
+              "SHA": "eb55d4ad",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "d0ba1b24",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "ae11ecbd",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "53fbffa9",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "6448ddf1",
+              "Subject": "Harden CI workflows (#104)"
+            },
+            {
+              "SHA": "1098c78a",
+              "Subject": "Fix binlog reply (#103)"
             }
           ]
         }

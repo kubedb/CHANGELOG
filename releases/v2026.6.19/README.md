@@ -263,6 +263,23 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.26.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.26.0)
+
+- [093b05d2](https://github.com/kubedb/mysql-archiver/commit/093b05d2) Prepare for release v0.26.0 (#110)
+- [530f2468](https://github.com/kubedb/mysql-archiver/commit/530f2468) Prepare for release v0.26.0-rc.2 (#109)
+- [33eaf828](https://github.com/kubedb/mysql-archiver/commit/33eaf828) Prepare for release v0.26.0-rc.1 (#108)
+- [6a708251](https://github.com/kubedb/mysql-archiver/commit/6a708251) add permission for the release job (#107)
+- [eb55d4ad](https://github.com/kubedb/mysql-archiver/commit/eb55d4ad) Prepare for release v0.26.0-rc.0 (#106)
+- [d0ba1b24](https://github.com/kubedb/mysql-archiver/commit/d0ba1b24) Tighten CI/release workflow secrets, perms, and release notes
+- [ae11ecbd](https://github.com/kubedb/mysql-archiver/commit/ae11ecbd) Harden release and release-tracker workflows
+- [53fbffa9](https://github.com/kubedb/mysql-archiver/commit/53fbffa9) Add AGENTS.md for AI coding agents
+- [6448ddf1](https://github.com/kubedb/mysql-archiver/commit/6448ddf1) Harden CI workflows (#104)
+- [1098c78a](https://github.com/kubedb/mysql-archiver/commit/1098c78a) Fix binlog reply (#103)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.43.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.43.0)

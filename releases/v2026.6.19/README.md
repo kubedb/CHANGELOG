@@ -852,6 +852,27 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.6.0](https://github.com/kubedb/qdrant/releases/tag/v0.6.0)
+
+- [8023163e](https://github.com/kubedb/qdrant/commit/8023163e) Prepare for release v0.6.0 (#49)
+- [46a46c95](https://github.com/kubedb/qdrant/commit/46a46c95) Prepare for release v0.6.0-rc.2 (#48)
+- [2448f7e5](https://github.com/kubedb/qdrant/commit/2448f7e5) Honor user-provided renewBefore in TLS certificate ops (#44)
+- [f9d88701](https://github.com/kubedb/qdrant/commit/f9d88701) Fix Qdrant deletion (#47)
+- [6ea63e53](https://github.com/kubedb/qdrant/commit/6ea63e53) Prepare for release v0.6.0-rc.1 (#46)
+- [88c4b011](https://github.com/kubedb/qdrant/commit/88c4b011) Add --network-policy-flavor flag with cilium support (#45)
+- [928e3450](https://github.com/kubedb/qdrant/commit/928e3450) Add StorageMigration OpsRequest support for Qdrant (#40)
+- [b144b7b6](https://github.com/kubedb/qdrant/commit/b144b7b6) Add Reconfigure TLS (#37)
+- [7f7dd3e5](https://github.com/kubedb/qdrant/commit/7f7dd3e5) Prepare for release v0.6.0-rc.0 (#41)
+- [a79ec8c3](https://github.com/kubedb/qdrant/commit/a79ec8c3) Tighten CI/release workflow secrets, perms, and release notes
+- [6715626c](https://github.com/kubedb/qdrant/commit/6715626c) Harden release and release-tracker workflows
+- [784adaa7](https://github.com/kubedb/qdrant/commit/784adaa7) Add CLAUDE.md pointing to AGENTS.md
+- [4ef3db03](https://github.com/kubedb/qdrant/commit/4ef3db03) Add AGENTS.md for AI coding agents
+- [e3aaca10](https://github.com/kubedb/qdrant/commit/e3aaca10) Harden CI workflows (#38)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.20.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.20.0)

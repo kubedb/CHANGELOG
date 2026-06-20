@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T09:03:16.800448119Z",
+  "release_date": "2026-06-20T09:03:24.806776106Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -2631,6 +2631,72 @@
             {
               "SHA": "4c70d45",
               "Subject": "Harden CI workflows (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "8023163e",
+              "Subject": "Prepare for release v0.6.0 (#49)"
+            },
+            {
+              "SHA": "46a46c95",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#48)"
+            },
+            {
+              "SHA": "2448f7e5",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#44)"
+            },
+            {
+              "SHA": "f9d88701",
+              "Subject": "Fix Qdrant deletion (#47)"
+            },
+            {
+              "SHA": "6ea63e53",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#46)"
+            },
+            {
+              "SHA": "88c4b011",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#45)"
+            },
+            {
+              "SHA": "928e3450",
+              "Subject": "Add StorageMigration OpsRequest support for Qdrant (#40)"
+            },
+            {
+              "SHA": "b144b7b6",
+              "Subject": "Add Reconfigure TLS (#37)"
+            },
+            {
+              "SHA": "7f7dd3e5",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "a79ec8c3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "6715626c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "784adaa7",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "4ef3db03",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "e3aaca10",
+              "Subject": "Harden CI workflows (#38)"
             }
           ]
         }

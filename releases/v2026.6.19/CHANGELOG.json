@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:50:13.367613008Z",
+  "release_date": "2026-06-20T08:50:22.884831133Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1119,6 +1119,64 @@
             {
               "SHA": "f8e2fc26",
               "Subject": "Harden CI workflows (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "1679ffc5",
+              "Subject": "Prepare for release v0.12.0 (#62)"
+            },
+            {
+              "SHA": "db56d3e9",
+              "Subject": "Add StorageMigration OpsRequest support for Ignite (#53)"
+            },
+            {
+              "SHA": "abaa3f61",
+              "Subject": "Prepare for release v0.12.0-rc.2 (#61)"
+            },
+            {
+              "SHA": "0e4fa9e6",
+              "Subject": "Fix Ignite deletion (#60)"
+            },
+            {
+              "SHA": "1ccf34ce",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#59)"
+            },
+            {
+              "SHA": "46fc9cb0",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#58)"
+            },
+            {
+              "SHA": "2ae50f33",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#54)"
+            },
+            {
+              "SHA": "b04edbc9",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "b966bfea",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2b92c194",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "a44aad7e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9848ac9f",
+              "Subject": "Harden CI workflows (#51)"
             }
           ]
         }

@@ -339,6 +339,25 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.12.0](https://github.com/kubedb/ignite/releases/tag/v0.12.0)
+
+- [1679ffc5](https://github.com/kubedb/ignite/commit/1679ffc5) Prepare for release v0.12.0 (#62)
+- [db56d3e9](https://github.com/kubedb/ignite/commit/db56d3e9) Add StorageMigration OpsRequest support for Ignite (#53)
+- [abaa3f61](https://github.com/kubedb/ignite/commit/abaa3f61) Prepare for release v0.12.0-rc.2 (#61)
+- [0e4fa9e6](https://github.com/kubedb/ignite/commit/0e4fa9e6) Fix Ignite deletion (#60)
+- [1ccf34ce](https://github.com/kubedb/ignite/commit/1ccf34ce) Add NetworkPolicyFlavor support for cilium (#59)
+- [46fc9cb0](https://github.com/kubedb/ignite/commit/46fc9cb0) Prepare for release v0.12.0-rc.1 (#58)
+- [2ae50f33](https://github.com/kubedb/ignite/commit/2ae50f33) Prepare for release v0.12.0-rc.0 (#54)
+- [b04edbc9](https://github.com/kubedb/ignite/commit/b04edbc9) Tighten CI/release workflow secrets, perms, and release notes
+- [b966bfea](https://github.com/kubedb/ignite/commit/b966bfea) Harden release and release-tracker workflows
+- [2b92c194](https://github.com/kubedb/ignite/commit/2b92c194) Add CLAUDE.md pointing to AGENTS.md
+- [a44aad7e](https://github.com/kubedb/ignite/commit/a44aad7e) Add AGENTS.md for AI coding agents
+- [9848ac9f](https://github.com/kubedb/ignite/commit/9848ac9f) Harden CI workflows (#51)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.28.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.28.0)

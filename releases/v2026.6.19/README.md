@@ -686,6 +686,26 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.52.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.52.0)
+
+- [973e597d](https://github.com/kubedb/percona-xtradb/commit/973e597d4) Prepare for release v0.52.0 (#461)
+- [446a97f4](https://github.com/kubedb/percona-xtradb/commit/446a97f45) Prepare for release v0.52.0-rc.2 (#460)
+- [0b5518e3](https://github.com/kubedb/percona-xtradb/commit/0b5518e33) feat: implement git-sync init container for PerconaXtraDB (#456)
+- [10329f89](https://github.com/kubedb/percona-xtradb/commit/10329f895) Honor user-provided renewBefore in TLS certificate ops (#457)
+- [db4f1d80](https://github.com/kubedb/percona-xtradb/commit/db4f1d809) Prepare for release v0.52.0-rc.1 (#459)
+- [023944e1](https://github.com/kubedb/percona-xtradb/commit/023944e11) Add StorageMigration OpsRequest support for PerconaXtraDB (#452)
+- [a03b66b9](https://github.com/kubedb/percona-xtradb/commit/a03b66b9c) Prepare for release v0.52.0-rc.0 (#454)
+- [2f3fbc70](https://github.com/kubedb/percona-xtradb/commit/2f3fbc700) Tighten CI/release workflow secrets, perms, and release notes
+- [cd18b8f0](https://github.com/kubedb/percona-xtradb/commit/cd18b8f00) Harden release and release-tracker workflows
+- [06ee2cbf](https://github.com/kubedb/percona-xtradb/commit/06ee2cbfb) Run Ops Request Locally (#453)
+- [887fa9a0](https://github.com/kubedb/percona-xtradb/commit/887fa9a01) Add CLAUDE.md pointing to AGENTS.md
+- [bc309e6c](https://github.com/kubedb/percona-xtradb/commit/bc309e6ce) Add AGENTS.md for AI coding agents
+- [52dc6b56](https://github.com/kubedb/percona-xtradb/commit/52dc6b56c) Harden CI workflows (#450)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.38.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0)

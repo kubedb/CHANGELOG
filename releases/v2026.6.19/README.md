@@ -339,6 +339,21 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.28.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.28.0)
+
+- [bac18c12](https://github.com/kubedb/kubedb-manifest-plugin/commit/bac18c12) Prepare for release v0.28.0 (#136)
+- [0ebaf789](https://github.com/kubedb/kubedb-manifest-plugin/commit/0ebaf789) Prepare for release v0.28.0-rc.2 (#135)
+- [834ef012](https://github.com/kubedb/kubedb-manifest-plugin/commit/834ef012) Add restic backup progress streaming (#134)
+- [5fe85111](https://github.com/kubedb/kubedb-manifest-plugin/commit/5fe85111) Prepare for release v0.28.0-rc.1 (#133)
+- [1874f594](https://github.com/kubedb/kubedb-manifest-plugin/commit/1874f594) Prepare for release v0.28.0-rc.0 (#132)
+- [a8c857c8](https://github.com/kubedb/kubedb-manifest-plugin/commit/a8c857c8) Harden release and release-tracker workflows
+- [4390340d](https://github.com/kubedb/kubedb-manifest-plugin/commit/4390340d) Add AGENTS.md for AI coding agents
+- [88a6d9b5](https://github.com/kubedb/kubedb-manifest-plugin/commit/88a6d9b5) Harden CI workflows (#130)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.5.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.5.0)

@@ -398,6 +398,23 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.45.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0)
+
+- [16a7f616](https://github.com/kubedb/mariadb-coordinator/commit/16a7f616) Prepare for release v0.45.0 (#183)
+- [87044a42](https://github.com/kubedb/mariadb-coordinator/commit/87044a42) Update github.com/moby/spdystream to v0.5.1 (#182)
+- [11fc976d](https://github.com/kubedb/mariadb-coordinator/commit/11fc976d) Prepare for release v0.45.0-rc.2 (#181)
+- [1358936a](https://github.com/kubedb/mariadb-coordinator/commit/1358936a) Prepare for release v0.45.0-rc.1 (#180)
+- [da2d60f4](https://github.com/kubedb/mariadb-coordinator/commit/da2d60f4) Prepare for release v0.45.0-rc.0 (#179)
+- [77d610ef](https://github.com/kubedb/mariadb-coordinator/commit/77d610ef) Tighten CI/release workflow secrets, perms, and release notes
+- [492ee0ac](https://github.com/kubedb/mariadb-coordinator/commit/492ee0ac) Chaos Test: Fix Disaster Recovery (#174)
+- [7b81cb8c](https://github.com/kubedb/mariadb-coordinator/commit/7b81cb8c) Harden release and release-tracker workflows
+- [43a65240](https://github.com/kubedb/mariadb-coordinator/commit/43a65240) Add AGENTS.md for AI coding agents
+- [0af4eea5](https://github.com/kubedb/mariadb-coordinator/commit/0af4eea5) Harden CI workflows (#177)
+
+
+
 ## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
 
 ### [v0.5.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.5.0)

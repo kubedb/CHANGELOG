@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:53:20.457347733Z",
+  "release_date": "2026-06-20T08:53:29.101497987Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1301,6 +1301,56 @@
             {
               "SHA": "88a6d9b5",
               "Subject": "Harden CI workflows (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "16a7f616",
+              "Subject": "Prepare for release v0.45.0 (#183)"
+            },
+            {
+              "SHA": "87044a42",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#182)"
+            },
+            {
+              "SHA": "11fc976d",
+              "Subject": "Prepare for release v0.45.0-rc.2 (#181)"
+            },
+            {
+              "SHA": "1358936a",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#180)"
+            },
+            {
+              "SHA": "da2d60f4",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#179)"
+            },
+            {
+              "SHA": "77d610ef",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "492ee0ac",
+              "Subject": "Chaos Test: Fix Disaster Recovery (#174)"
+            },
+            {
+              "SHA": "7b81cb8c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "43a65240",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "0af4eea5",
+              "Subject": "Harden CI workflows (#177)"
             }
           ]
         }

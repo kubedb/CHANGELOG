@@ -145,6 +145,9 @@
       "github.com/kubedb/neo4j": {
         "tag": "v0.6.0"
       },
+      "github.com/kubedb/neo4j-backup-plugin": {
+        "tag": "v0.1.0"
+      },
       "github.com/kubedb/oracle": {
         "tag": "v0.11.0"
       },

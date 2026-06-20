@@ -701,6 +701,26 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.20.0](https://github.com/kubedb/solr/releases/tag/v0.20.0)
+
+- [c210af00](https://github.com/kubedb/solr/commit/c210af00) Prepare for release v0.20.0 (#137)
+- [5748039b](https://github.com/kubedb/solr/commit/5748039b) Add StorageMigration OpsRequest support (#129)
+- [ace6b48c](https://github.com/kubedb/solr/commit/ace6b48c) Fix AuthSecret (#135)
+- [1c955c70](https://github.com/kubedb/solr/commit/1c955c70) Prepare for release v0.20.0-rc.2 (#136)
+- [443bf0ad](https://github.com/kubedb/solr/commit/443bf0ad) Fix Solr deletion (#134)
+- [0d6417ef](https://github.com/kubedb/solr/commit/0d6417ef) Prepare for release v0.20.0-rc.1 (#133)
+- [4f32f195](https://github.com/kubedb/solr/commit/4f32f195) Add --network-policy-flavor flag with cilium support (#132)
+- [d6f12bb7](https://github.com/kubedb/solr/commit/d6f12bb7) Prepare for release v0.20.0-rc.0 (#130)
+- [b947dd5c](https://github.com/kubedb/solr/commit/b947dd5c) Tighten CI/release workflow secrets, perms, and release notes
+- [5a339830](https://github.com/kubedb/solr/commit/5a339830) Harden release and release-tracker workflows
+- [59801485](https://github.com/kubedb/solr/commit/59801485) Add CLAUDE.md pointing to AGENTS.md
+- [8e55bf7a](https://github.com/kubedb/solr/commit/8e55bf7a) Add AGENTS.md for AI coding agents
+- [a91a2ae7](https://github.com/kubedb/solr/commit/a91a2ae7) Harden CI workflows (#127)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.50.0](https://github.com/kubedb/tests/releases/tag/v0.50.0)

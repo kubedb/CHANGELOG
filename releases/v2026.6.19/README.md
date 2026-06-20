@@ -286,6 +286,31 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.13.0](https://github.com/kubedb/gitops/releases/tag/v0.13.0)
+
+- [a6540e22](https://github.com/kubedb/gitops/commit/a6540e22) Prepare for release v0.13.0 (#81)
+- [5a3af661](https://github.com/kubedb/gitops/commit/5a3af661) Add GitOps support for Solr (#77)
+- [f7a4e119](https://github.com/kubedb/gitops/commit/f7a4e119) Add GitOps support for Druid (#71)
+- [126b3544](https://github.com/kubedb/gitops/commit/126b3544) Add gitops support for ClickHouse (#60)
+- [3857b522](https://github.com/kubedb/gitops/commit/3857b522) Add GitOps support for PerconaXtraDB (#69)
+- [98f16c54](https://github.com/kubedb/gitops/commit/98f16c54) Add GitOps support for Singlestore (#78)
+- [32a65cd4](https://github.com/kubedb/gitops/commit/32a65cd4) Prepare for release v0.13.0-rc.2 (#80)
+- [0131a5f7](https://github.com/kubedb/gitops/commit/0131a5f7) Add GitOps support for RabbitMQ (#72)
+- [a7f78221](https://github.com/kubedb/gitops/commit/a7f78221) Add gitops support for Neo4j (#62)
+- [cba199d7](https://github.com/kubedb/gitops/commit/cba199d7) Skip OpsCreation If Any Same Type Ops InProgress (#79)
+- [0da911fa](https://github.com/kubedb/gitops/commit/0da911fa) Prepare for release v0.13.0-rc.1 (#68)
+- [a5a97ff5](https://github.com/kubedb/gitops/commit/a5a97ff5) Prepare for release v0.13.0-rc.0 (#57)
+- [da0e1032](https://github.com/kubedb/gitops/commit/da0e1032) Tighten CI/release workflow secrets, perms, and release notes
+- [baab2fac](https://github.com/kubedb/gitops/commit/baab2fac) Fix Recurring Ops Creation for ReconfigeTLS (#55)
+- [40969d95](https://github.com/kubedb/gitops/commit/40969d95) Harden release and release-tracker workflows
+- [e72a0e12](https://github.com/kubedb/gitops/commit/e72a0e12) Add CLAUDE.md pointing to AGENTS.md
+- [7152e2d5](https://github.com/kubedb/gitops/commit/7152e2d5) Add AGENTS.md for AI coding agents
+- [c7a5c666](https://github.com/kubedb/gitops/commit/c7a5c666) Harden CI workflows (#54)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.6.0](https://github.com/kubedb/hanadb/releases/tag/v0.6.0)

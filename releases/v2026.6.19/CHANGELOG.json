@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:50:30.31051334Z",
+  "release_date": "2026-06-20T08:50:58.961841538Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -961,6 +961,88 @@
             {
               "SHA": "8b4b3ac0",
               "Subject": "Harden CI workflows (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "a6540e22",
+              "Subject": "Prepare for release v0.13.0 (#81)"
+            },
+            {
+              "SHA": "5a3af661",
+              "Subject": "Add GitOps support for Solr (#77)"
+            },
+            {
+              "SHA": "f7a4e119",
+              "Subject": "Add GitOps support for Druid (#71)"
+            },
+            {
+              "SHA": "126b3544",
+              "Subject": "Add gitops support for ClickHouse (#60)"
+            },
+            {
+              "SHA": "3857b522",
+              "Subject": "Add GitOps support for PerconaXtraDB (#69)"
+            },
+            {
+              "SHA": "98f16c54",
+              "Subject": "Add GitOps support for Singlestore (#78)"
+            },
+            {
+              "SHA": "32a65cd4",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#80)"
+            },
+            {
+              "SHA": "0131a5f7",
+              "Subject": "Add GitOps support for RabbitMQ (#72)"
+            },
+            {
+              "SHA": "a7f78221",
+              "Subject": "Add gitops support for Neo4j (#62)"
+            },
+            {
+              "SHA": "cba199d7",
+              "Subject": "Skip OpsCreation If Any Same Type Ops InProgress (#79)"
+            },
+            {
+              "SHA": "0da911fa",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#68)"
+            },
+            {
+              "SHA": "a5a97ff5",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#57)"
+            },
+            {
+              "SHA": "da0e1032",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "baab2fac",
+              "Subject": "Fix Recurring Ops Creation for ReconfigeTLS (#55)"
+            },
+            {
+              "SHA": "40969d95",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e72a0e12",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "7152e2d5",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "c7a5c666",
+              "Subject": "Harden CI workflows (#54)"
             }
           ]
         }

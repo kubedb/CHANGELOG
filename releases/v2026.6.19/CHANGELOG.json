@@ -1,0 +1,4753 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.6.19",
+  "release_date": "2026-06-20T17:18:24.670888778Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.6.19",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.65.0",
+          "commits": [
+            {
+              "SHA": "374e7dd65",
+              "Subject": "Update for release KubeStash@v2026.6.19 (#1780)"
+            },
+            {
+              "SHA": "e726a79ab",
+              "Subject": "register aerospike version (#1766)"
+            },
+            {
+              "SHA": "635585536",
+              "Subject": "Fix Milvus StorageMigration Webhook (#1779)"
+            },
+            {
+              "SHA": "e3a3063fd",
+              "Subject": "Add cilium backup ingress policy and DNS egress for backup jobs (#1778)"
+            },
+            {
+              "SHA": "d72310c73",
+              "Subject": "Add weaviate TLS (#1772)"
+            },
+            {
+              "SHA": "9b0689a26",
+              "Subject": "use value receiver (#1777)"
+            },
+            {
+              "SHA": "fc958327a",
+              "Subject": "Add aerospike, db2, documentdb API types (#1774)"
+            },
+            {
+              "SHA": "314ace897",
+              "Subject": "Add Aerospike feature gate and register AerospikeVersion in scheme (#1776)"
+            },
+            {
+              "SHA": "42091fca8",
+              "Subject": "Add gitsyncer option in singlestore version api (#1773)"
+            },
+            {
+              "SHA": "2309f632f",
+              "Subject": "Update for release KubeStash@v2026.6.18-rc.2 (#1771)"
+            },
+            {
+              "SHA": "20f0dc781",
+              "Subject": "Fix Lint (#1769)"
+            },
+            {
+              "SHA": "d9be48e09",
+              "Subject": "Add gitops Hazelcast type (#1730)"
+            },
+            {
+              "SHA": "e7402f256",
+              "Subject": "documentdb-reconfigure (#1767)"
+            },
+            {
+              "SHA": "d06f5f04d",
+              "Subject": "Add gitops HanaDB type (#1731)"
+            },
+            {
+              "SHA": "81617de4b",
+              "Subject": "Add gitops Cassandra type (#1732)"
+            },
+            {
+              "SHA": "2b0cbe95a",
+              "Subject": "feat: add GitSyncer and Init *InitSpec fields for git-sync support (#1728)"
+            },
+            {
+              "SHA": "371e3875d",
+              "Subject": "Add migration TLS (#1768)"
+            },
+            {
+              "SHA": "352eb38cf",
+              "Subject": "Add gitops Oracle type (#1737)"
+            },
+            {
+              "SHA": "613ec3825",
+              "Subject": "Add gitops Weaviate type (#1739)"
+            },
+            {
+              "SHA": "b0d2d6861",
+              "Subject": "Add gitops Ignite type (#1740)"
+            },
+            {
+              "SHA": "b242fc478",
+              "Subject": "Add gitops Milvus type (#1735)"
+            },
+            {
+              "SHA": "550837abf",
+              "Subject": "Add gitops Neo4j type (#1734)"
+            },
+            {
+              "SHA": "29d18fef2",
+              "Subject": "Add gitops Qdrant type (#1738)"
+            },
+            {
+              "SHA": "120dee060",
+              "Subject": "Add oracle wallet configurationsecret api (#1764)"
+            },
+            {
+              "SHA": "6837ec90a",
+              "Subject": "fix singlestore standalone tls (#1760)"
+            },
+            {
+              "SHA": "75c375a3c",
+              "Subject": "Exclude virtual auth secrets from persistent secret tracking (#1762)"
+            },
+            {
+              "SHA": "0fb5640ba",
+              "Subject": "wv-ops (#1743)"
+            },
+            {
+              "SHA": "376078d84",
+              "Subject": "Update documentdb raft client port (#1759)"
+            },
+            {
+              "SHA": "57cbbd07f",
+              "Subject": "Add gitops ClickHouse type (#1733)"
+            },
+            {
+              "SHA": "4ea06c513",
+              "Subject": "Allow init-script for percona-xtradb cluster (#1749)"
+            },
+            {
+              "SHA": "b60722d59",
+              "Subject": "Migrator cli api update for mysql (#1754)"
+            },
+            {
+              "SHA": "9ae2bd644",
+              "Subject": "Update ops api, add coordinator defaulting for HanaDB (#1723)"
+            },
+            {
+              "SHA": "0f38d07ee",
+              "Subject": "updated documentdb constant (#1758)"
+            },
+            {
+              "SHA": "c313668bb",
+              "Subject": "added halted and config (#1757)"
+            },
+            {
+              "SHA": "d90741a1a",
+              "Subject": "update autoscaler api for missing database (#1752)"
+            },
+            {
+              "SHA": "0c9dd395b",
+              "Subject": "documentdb helpers (#1756)"
+            },
+            {
+              "SHA": "c05562622",
+              "Subject": "Documentdb-adminSecret (#1729)"
+            },
+            {
+              "SHA": "6fead4056",
+              "Subject": "Add Milvus Autoscaler Webhook Validation (#1747)"
+            },
+            {
+              "SHA": "4b212df05",
+              "Subject": "Fix swagger.json"
+            },
+            {
+              "SHA": "7c98b972c",
+              "Subject": "Remove Etcd support (#1751)"
+            },
+            {
+              "SHA": "74ea704fe",
+              "Subject": "Fix nil pointer dereferences in storage migration webhook validators (#1748)"
+            },
+            {
+              "SHA": "23c81b3b6",
+              "Subject": "Fix go.mod"
+            },
+            {
+              "SHA": "007ef3ea6",
+              "Subject": "Remove FerretDB support (#1750)"
+            },
+            {
+              "SHA": "101341c29",
+              "Subject": "Added wv-ops-validation and autoscaling webhook (#1722)"
+            },
+            {
+              "SHA": "fb439fff4",
+              "Subject": "Register Neo4j Autoscaler (#1746)"
+            },
+            {
+              "SHA": "62f69e286",
+              "Subject": "Add CiliumNetworkPolicy flavor support (#1714)"
+            },
+            {
+              "SHA": "9b1a220b4",
+              "Subject": "Bump go.bytebuilders.dev/audit to v0.0.52 (#1745)"
+            },
+            {
+              "SHA": "dd3d0e3d3",
+              "Subject": "Update go.bytebuilders.dev/audit to v0.0.51 (#1744)"
+            },
+            {
+              "SHA": "0e48a4da6",
+              "Subject": "Add common configuration for milvus storage migration (#1741)"
+            },
+            {
+              "SHA": "ea56f8dd2",
+              "Subject": "Add pkg/secret helpers for dual-path auth secret access (#1726)"
+            },
+            {
+              "SHA": "ef57da777",
+              "Subject": "Fix DatabaseConfiguration resource name casing and remove stale CRDs (#1727)"
+            },
+            {
+              "SHA": "9bdcc3b7e",
+              "Subject": "DatabaseInfo -> DatabaseConfiguration (#1725)"
+            },
+            {
+              "SHA": "66b31784e",
+              "Subject": "Introduce summary api (#1724)"
+            },
+            {
+              "SHA": "59b4eaa36",
+              "Subject": "Add weaviate ops helpers"
+            },
+            {
+              "SHA": "f7c721957",
+              "Subject": "Review autoscaler api (#1719)"
+            },
+            {
+              "SHA": "97db127e6",
+              "Subject": "Update Elasticsearch StorageMigration Ops Api (#1721)"
+            },
+            {
+              "SHA": "7b38d9144",
+              "Subject": "Add Milvus Ops Request (#1666)"
+            },
+            {
+              "SHA": "46001228f",
+              "Subject": "add weaviate ops_req (#1716)"
+            },
+            {
+              "SHA": "05817720d",
+              "Subject": "Update for release KubeStash@v2026.5.18-rc.0 (#1718)"
+            },
+            {
+              "SHA": "c5944a1e2",
+              "Subject": "Fix build (#1717)"
+            },
+            {
+              "SHA": "6fc989976",
+              "Subject": "hanadb tls (#1646)"
+            },
+            {
+              "SHA": "58f38fc9a",
+              "Subject": "Extend StorageMigration specs with topology-aware per-component fields (#1715)"
+            },
+            {
+              "SHA": "c2dfa3a81",
+              "Subject": "added mongodb migration fields (#1656)"
+            },
+            {
+              "SHA": "fbdb3d8ea",
+              "Subject": "Set Ops Request Options Defaults in Autoscaler (#1669)"
+            },
+            {
+              "SHA": "dfc3c09ef",
+              "Subject": "Add Qdrant Autoscaler (#1648)"
+            },
+            {
+              "SHA": "f48b0ac89",
+              "Subject": "Add Aerospike (#1635)"
+            },
+            {
+              "SHA": "3897eb732",
+              "Subject": "Add ClickHouse Archiver (#1653)"
+            },
+            {
+              "SHA": "cf2a76b9d",
+              "Subject": "Documentdb Clusterring (#1673)"
+            },
+            {
+              "SHA": "198401e00",
+              "Subject": "Add HanaDBAutoscaler types (#1709)"
+            },
+            {
+              "SHA": "6d4b36828",
+              "Subject": "Add RotateAuth OpsRequest type for Weaviate (#1704)"
+            },
+            {
+              "SHA": "9adb9ccd9",
+              "Subject": "Add RotateAuth OpsRequest type for Hanadb (#1703)"
+            },
+            {
+              "SHA": "bfd939a9a",
+              "Subject": "Add VerticalScaling type for WeaviateOpsRequest (#1701)"
+            },
+            {
+              "SHA": "917d39e4d",
+              "Subject": "Add WeaviateAutoscaler types and Weaviate ops scaling support (#1711)"
+            },
+            {
+              "SHA": "56dd78914",
+              "Subject": "Add VerticalScaling type for HanaDBOpsRequest"
+            },
+            {
+              "SHA": "cddf6ff86",
+              "Subject": "Add VolumeExpansion API to WeaviateOpsRequest (#1699)"
+            },
+            {
+              "SHA": "c2e158d26",
+              "Subject": "Add VolumeExpansion API to HanaDBOpsRequest (#1697)"
+            },
+            {
+              "SHA": "a53cf0a15",
+              "Subject": "Add oracle ops reaconfigure (#1670)"
+            },
+            {
+              "SHA": "53210b114",
+              "Subject": "Add DocumentDBOpsRequest API types and client bindings (#1706)"
+            },
+            {
+              "SHA": "dfdd296c9",
+              "Subject": "Add Neo4jAutoscaler types (#1707)"
+            },
+            {
+              "SHA": "0083a77b2",
+              "Subject": "Add DocumentDBAutoscaler API types (#1710)"
+            },
+            {
+              "SHA": "562fac689",
+              "Subject": "Add StorageMigration OpsRequest type for Druid (#1713)"
+            },
+            {
+              "SHA": "28c3244bb",
+              "Subject": "Add StorageMigration to HanaDB ops API (#1695)"
+            },
+            {
+              "SHA": "6610d121c",
+              "Subject": "Add StorageMigration op type for Cassandra (#1688)"
+            },
+            {
+              "SHA": "fb0191306",
+              "Subject": "Add StorageMigration op type for ClickHouse (#1691)"
+            },
+            {
+              "SHA": "eca9d5c2c",
+              "Subject": "Add StorageMigration op type for Ignite (#1690)"
+            },
+            {
+              "SHA": "4f3a5c8ad",
+              "Subject": "Add StorageMigration op type for Hazelcast (#1687)"
+            },
+            {
+              "SHA": "0807f1850",
+              "Subject": "Add StorageMigration OpsRequest support for RabbitMQ (#1692)"
+            },
+            {
+              "SHA": "d6cb56c08",
+              "Subject": "Add StorageMigration OpsRequest support for Solr (#1685)"
+            },
+            {
+              "SHA": "b0dac243e",
+              "Subject": "Add StorageMigration OpsRequest type for MSSQLServer (#1684)"
+            },
+            {
+              "SHA": "72fdc722d",
+              "Subject": "Add StorageMigration OpsRequest type for Singlestore (#1683)"
+            },
+            {
+              "SHA": "c0312b1a1",
+              "Subject": "Add StorageMigration OpsRequest support for Redis (#1682)"
+            },
+            {
+              "SHA": "fee115489",
+              "Subject": "Add migration api for mysql and mariadb (#1628)"
+            },
+            {
+              "SHA": "fdf5544cf",
+              "Subject": "Add StorageMigration OpsRequest support for PerconaXtraDB (#1681)"
+            },
+            {
+              "SHA": "cf0279326",
+              "Subject": "Add StorageMigration op type for MariaDB (#1680)"
+            },
+            {
+              "SHA": "e49a2e615",
+              "Subject": "Add StorageMigration OpsRequest support for Qdrant (#1686)"
+            },
+            {
+              "SHA": "9c39cb2c4",
+              "Subject": "Add StorageMigration OpsRequest support for Neo4j (#1689)"
+            },
+            {
+              "SHA": "0dcd1c390",
+              "Subject": "Add StorageMigration op type for Kafka (#1679)"
+            },
+            {
+              "SHA": "12f28802b",
+              "Subject": "Add StorageMigration op type for Elasticsearch (#1677)"
+            },
+            {
+              "SHA": "500826015",
+              "Subject": "Add StorageMigration op type for MongoDB (#1678)"
+            },
+            {
+              "SHA": "840ffde38",
+              "Subject": "Add Milvus TLS Support (#1632)"
+            },
+            {
+              "SHA": "ec2f05e6d",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "7b1cb9292",
+              "Subject": "Pin git user to 1gtm in update-crds/update-docs workflows (#1675)"
+            },
+            {
+              "SHA": "479e8aa1d",
+              "Subject": "Harden CI workflows (#1668)"
+            },
+            {
+              "SHA": "0e06cafc8",
+              "Subject": "Reconfig Merger bug fix (#1674)"
+            },
+            {
+              "SHA": "0f3ce7e28",
+              "Subject": "Add MySQL InnodDB variables (#1644)"
+            },
+            {
+              "SHA": "8bc390baf",
+              "Subject": "Ignore secret copy for local provider (#1664)"
+            },
+            {
+              "SHA": "014f65032",
+              "Subject": "Do not create secret for credless mode (#1663)"
+            },
+            {
+              "SHA": "e7d97b2a5",
+              "Subject": "Change default resource for Cassandra db container (#1661)"
+            },
+            {
+              "SHA": "ba60ac23d",
+              "Subject": "Add utility function for storage cred secret (#1662)"
+            },
+            {
+              "SHA": "c3eb083ed",
+              "Subject": "Delete metrics-exporter-config secret on wipeout for elasticsearch (#1659)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "f6ba9830",
+              "Subject": "Prepare for release v0.50.0 (#309)"
+            },
+            {
+              "SHA": "764b0a49",
+              "Subject": "Add HanaDB autoscaler support (#300)"
+            },
+            {
+              "SHA": "be2cf3bc",
+              "Subject": "Add Autoscaling support for DocumentDB (#299)"
+            },
+            {
+              "SHA": "416c01f8",
+              "Subject": "Add support for Oracle (autoscaler) (#302)"
+            },
+            {
+              "SHA": "c7169bb5",
+              "Subject": "Prepare for release v0.50.0-rc.2 (#308)"
+            },
+            {
+              "SHA": "001c9856",
+              "Subject": "feat: add Weaviate compute and storage autoscaler (#301)"
+            },
+            {
+              "SHA": "a51c5af2",
+              "Subject": "Add Milvus Autoscaler (#306)"
+            },
+            {
+              "SHA": "edcd29ac",
+              "Subject": "Add support for Neo4j (#298)"
+            },
+            {
+              "SHA": "9d983c07",
+              "Subject": "Prepare for release v0.50.0-rc.1 (#305)"
+            },
+            {
+              "SHA": "9d7909f8",
+              "Subject": "Remove FerretDB support (#304)"
+            },
+            {
+              "SHA": "9366ad79",
+              "Subject": "Set Ops Request Options Default (#293)"
+            },
+            {
+              "SHA": "587219ce",
+              "Subject": "Add Qdrant Autoscaler (#285)"
+            },
+            {
+              "SHA": "0dc951b2",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#303)"
+            },
+            {
+              "SHA": "9ca97e5f",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "1e275efc",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "f296dee8",
+              "Subject": "feat: read PVC storage metrics from custom metrics API"
+            },
+            {
+              "SHA": "3542cf19",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "3f8899bf",
+              "Subject": "Use GitHub App token for release tracker comments (#295)"
+            },
+            {
+              "SHA": "cf6b3e5f",
+              "Subject": "Harden CI workflows (#292)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "e5733596",
+              "Subject": "Prepare for release v0.18.0 (#90)"
+            },
+            {
+              "SHA": "a14d2587",
+              "Subject": "Prepare for release v0.18.0-rc.2 (#89)"
+            },
+            {
+              "SHA": "5f55678b",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#85)"
+            },
+            {
+              "SHA": "602bdf49",
+              "Subject": "Add StorageMigration OpsRequest support for Cassandra (#81)"
+            },
+            {
+              "SHA": "ef021693",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#88)"
+            },
+            {
+              "SHA": "4855098e",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#87)"
+            },
+            {
+              "SHA": "a728b7f6",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#82)"
+            },
+            {
+              "SHA": "0363c990",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "995e9f8a",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "eaa2a39b",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "cbc64d19",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "fcc9a127",
+              "Subject": "Harden CI workflows (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "eba85ff4",
+              "Subject": "Prepare for release v0.12.0 (#41)"
+            },
+            {
+              "SHA": "2584476c",
+              "Subject": "Prepare for release v0.12.0-rc.2 (#40)"
+            },
+            {
+              "SHA": "aefdc390",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#39)"
+            },
+            {
+              "SHA": "29127ccd",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "972cc3ec",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "f5566ac1",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "494bac88",
+              "Subject": "Harden CI workflows (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "d347611d",
+              "Subject": "Prepare for release v0.20.0 (#116)"
+            },
+            {
+              "SHA": "01ed2962",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#115)"
+            },
+            {
+              "SHA": "d5a8072e",
+              "Subject": "feat: implement git-sync init container for ClickHouse (#109)"
+            },
+            {
+              "SHA": "85f38620",
+              "Subject": "Add StorageMigration OpsRequest support for ClickHouse (#106)"
+            },
+            {
+              "SHA": "6f1712d6",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#114)"
+            },
+            {
+              "SHA": "610759d3",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#110)"
+            },
+            {
+              "SHA": "b8b9b4d5",
+              "Subject": "Add NetworkPolicyFlavor support (#113)"
+            },
+            {
+              "SHA": "18935285",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#112)"
+            },
+            {
+              "SHA": "42932dad",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#107)"
+            },
+            {
+              "SHA": "5c3c401c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "a0a93b59",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2c864737",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "001c11d6",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "f4a08fd1",
+              "Subject": "Restrict /ok-to-test to org members"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "e566d6a8",
+              "Subject": "Prepare for release v0.2.0 (#28)"
+            },
+            {
+              "SHA": "bd2b5438",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#27)"
+            },
+            {
+              "SHA": "5d481e4c",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#26)"
+            },
+            {
+              "SHA": "8ee159c7",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#25)"
+            },
+            {
+              "SHA": "0a880684",
+              "Subject": "Fix CI hardening: use app token in release-tracker, add packages:write"
+            },
+            {
+              "SHA": "8a2fd2fa",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#23)"
+            },
+            {
+              "SHA": "a4fdf4d8",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "0d0bca21",
+              "Subject": "Use GitHub App token for release tracker comments"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "9588532f",
+              "Subject": "Prepare for release v0.20.0 (#144)"
+            },
+            {
+              "SHA": "7bad63d9",
+              "Subject": "Remove Duplicate Cassandra (#143)"
+            },
+            {
+              "SHA": "bbd8d7db",
+              "Subject": "Add Aerospike CRDs, complete DB2 ops/autoscaling, wire GitOps for all DBs (#142)"
+            },
+            {
+              "SHA": "74b20efd",
+              "Subject": "Add Aerospike database support (#141)"
+            },
+            {
+              "SHA": "d9cd2e04",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#140)"
+            },
+            {
+              "SHA": "f63e3c4d",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#139)"
+            },
+            {
+              "SHA": "33485516",
+              "Subject": "Remove FerretDB support (#138)"
+            },
+            {
+              "SHA": "f4f684e9",
+              "Subject": "Add all missing CRDs (#137)"
+            },
+            {
+              "SHA": "2fb5a23a",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes (#136)"
+            },
+            {
+              "SHA": "2d75e6b5",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "464e548c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "0e5c52c6",
+              "Subject": "Add clickhouse archiver CR (#134)"
+            },
+            {
+              "SHA": "3362d975",
+              "Subject": "add qdrant autoscaler crd (#131)"
+            },
+            {
+              "SHA": "ffe49332",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "02872ff1",
+              "Subject": "Harden CI workflows (#132)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "df998786",
+              "Subject": "Prepare for release v0.23.0 (#80)"
+            },
+            {
+              "SHA": "cdd75695",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#79)"
+            },
+            {
+              "SHA": "c3afe4cd",
+              "Subject": "Add restic backup progress streaming (#78)"
+            },
+            {
+              "SHA": "dbe58a1d",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#77)"
+            },
+            {
+              "SHA": "87c14d95",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#76)"
+            },
+            {
+              "SHA": "f26f8aab",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "da5af73f",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "8e800912",
+              "Subject": "Harden CI workflows (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "39d47608",
+              "Subject": "Prepare for release v0.20.0 (#250)"
+            },
+            {
+              "SHA": "34229270",
+              "Subject": "Add weaviate tls (#248)"
+            },
+            {
+              "SHA": "ff2e61c8",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#249)"
+            },
+            {
+              "SHA": "b0c28745",
+              "Subject": "Add HanaDB TLS (#234)"
+            },
+            {
+              "SHA": "d97925e7",
+              "Subject": "Add New Func to Neo4j (#241)"
+            },
+            {
+              "SHA": "a24ee1cd",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#247)"
+            },
+            {
+              "SHA": "0efcbce1",
+              "Subject": "Use shared pkg/secret helpers for dual-path auth secret access (#245)"
+            },
+            {
+              "SHA": "0878c362",
+              "Subject": "Bump kubedb.dev/apimachinery to drop FerretDB (#246)"
+            },
+            {
+              "SHA": "523e0304",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "3caab860",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#244)"
+            },
+            {
+              "SHA": "2b9e043c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "462a2a68",
+              "Subject": "Qdrant HTTP Client TLS (#239)"
+            },
+            {
+              "SHA": "3460fe00",
+              "Subject": "Update for distributed postgres (#243)"
+            },
+            {
+              "SHA": "df0e92a0",
+              "Subject": "Add Milvus TLS (#232)"
+            },
+            {
+              "SHA": "e122e57f",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "465442b7",
+              "Subject": "Harden CI workflows (#240)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "675c40a6",
+              "Subject": "Prepare for release v0.6.0 (#33)"
+            },
+            {
+              "SHA": "99854604",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#32)"
+            },
+            {
+              "SHA": "f2fe477e",
+              "Subject": "Fix Db2 deletion (#31)"
+            },
+            {
+              "SHA": "e263fee1",
+              "Subject": "Add NetworkPolicyFlavor support (#30)"
+            },
+            {
+              "SHA": "deec0ca0",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#29)"
+            },
+            {
+              "SHA": "83b7b475",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#25)"
+            },
+            {
+              "SHA": "ea12a946",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "2151e287",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "0493419f",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ee433a7e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "14a0f81b",
+              "Subject": "Harden CI workflows (#23)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "b2f233d",
+              "Subject": "Prepare for release v0.6.0 (#14)"
+            },
+            {
+              "SHA": "9f4c409",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#13)"
+            },
+            {
+              "SHA": "55e13e2",
+              "Subject": "Fix version detection and import kubedb.dev/apimachinery (#12)"
+            },
+            {
+              "SHA": "a1e57d7",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "d6b3d18",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ac8ef66",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "45f3f3d",
+              "Subject": "Harden CI workflows (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "f1c7d235",
+              "Subject": "Prepare for release v0.2.0 (#29)"
+            },
+            {
+              "SHA": "dd014eb4",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#28)"
+            },
+            {
+              "SHA": "153e7117",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#27)"
+            },
+            {
+              "SHA": "d5322e67",
+              "Subject": "documentdb-reconfigure (#25)"
+            },
+            {
+              "SHA": "148c6fb0",
+              "Subject": "Add OpsRequest support for DocumentDB ported from Postgres (#22)"
+            },
+            {
+              "SHA": "999aef78",
+              "Subject": "bring reverted changes (#24)"
+            },
+            {
+              "SHA": "0195ac68",
+              "Subject": "Update apimachinery (#23)"
+            },
+            {
+              "SHA": "846bca49",
+              "Subject": "Update apimachinery (#21)"
+            },
+            {
+              "SHA": "dbeb9d3c",
+              "Subject": "Clustering  (#7)"
+            },
+            {
+              "SHA": "f34712d9",
+              "Subject": "Add NetworkPolicyFlavor support (#19)"
+            },
+            {
+              "SHA": "481e035d",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#18)"
+            },
+            {
+              "SHA": "8ff7cc98",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "aa27c166",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "9c8eb095",
+              "Subject": "removed default password (#14)"
+            },
+            {
+              "SHA": "76f64d15",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "56ea3118",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "2e08c01c",
+              "Subject": "Harden CI workflows (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "41cc779",
+              "Subject": "Prepare for release v0.1.0 (#6)"
+            },
+            {
+              "SHA": "bd5178a",
+              "Subject": "Fix UBI Dockerfile labels and add bash/postgresql dependency (#5)"
+            },
+            {
+              "SHA": "ee91f72",
+              "Subject": "Use gh cli instead of old hub cli"
+            },
+            {
+              "SHA": "05a2c8b",
+              "Subject": "Prepare for release v0.1.0-rc.2 (#4)"
+            },
+            {
+              "SHA": "020634d",
+              "Subject": "Fix DocumentDBCoordinatorClientPort (2389 → 2379) (#3)"
+            },
+            {
+              "SHA": "4b8cbae",
+              "Subject": "Up deps on apimachinery (#2)"
+            },
+            {
+              "SHA": "d2f2e7b",
+              "Subject": "Bootstrap (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "55331e3f",
+              "Subject": "Prepare for release v0.20.0 (#141)"
+            },
+            {
+              "SHA": "7ea60517",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#140)"
+            },
+            {
+              "SHA": "89371af1",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#135)"
+            },
+            {
+              "SHA": "f4f4627f",
+              "Subject": "Fix Panic Issue For ExternallyManaged authSecret (#139)"
+            },
+            {
+              "SHA": "e89ff10a",
+              "Subject": "Add NetworkPolicyFlavor support (#138)"
+            },
+            {
+              "SHA": "7970cf8b",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#137)"
+            },
+            {
+              "SHA": "e35bc8a6",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#132)"
+            },
+            {
+              "SHA": "d8f0c94f",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "81bde5dd",
+              "Subject": "Implement StorageMigration OpsRequest for Druid (#131)"
+            },
+            {
+              "SHA": "fc0a7a2b",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "bb6a95d0",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "07b19896",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "5d02b3ca",
+              "Subject": "Harden CI workflows (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.65.0",
+          "commits": [
+            {
+              "SHA": "be47268d7",
+              "Subject": "Prepare for release v0.65.0 (#820)"
+            },
+            {
+              "SHA": "5f17098d6",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#819)"
+            },
+            {
+              "SHA": "b0421f8d3",
+              "Subject": "Prepare for release v0.65.0-rc.2 (#818)"
+            },
+            {
+              "SHA": "7a09aa83c",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#815)"
+            },
+            {
+              "SHA": "1c3cb34f1",
+              "Subject": "feat: implement git-sync init container for Elasticsearch (#814)"
+            },
+            {
+              "SHA": "890e13c16",
+              "Subject": "Prepare for release v0.65.0-rc.1 (#817)"
+            },
+            {
+              "SHA": "613e034ea",
+              "Subject": "Add StorageMigration OpsRequest support (#810)"
+            },
+            {
+              "SHA": "ecddd1f68",
+              "Subject": "Prepare for release v0.65.0-rc.0 (#812)"
+            },
+            {
+              "SHA": "fc42205fa",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "df2dae4a0",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "a134aed4a",
+              "Subject": "Run Ops Request Locally (#811)"
+            },
+            {
+              "SHA": "02b16b73b",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "65db23b70",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "ebf149dba",
+              "Subject": "Harden CI workflows (#808)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "65522b4d",
+              "Subject": "Prepare for release v0.28.0 (#103)"
+            },
+            {
+              "SHA": "ac051dbf",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#102)"
+            },
+            {
+              "SHA": "021ea97a",
+              "Subject": "Add restic backup progress streaming (#101)"
+            },
+            {
+              "SHA": "650b7682",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#100)"
+            },
+            {
+              "SHA": "f7bce7aa",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#99)"
+            },
+            {
+              "SHA": "b38a1c55",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "853d30a7",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "8b4b3ac0",
+              "Subject": "Harden CI workflows (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "a6540e22",
+              "Subject": "Prepare for release v0.13.0 (#81)"
+            },
+            {
+              "SHA": "5a3af661",
+              "Subject": "Add GitOps support for Solr (#77)"
+            },
+            {
+              "SHA": "f7a4e119",
+              "Subject": "Add GitOps support for Druid (#71)"
+            },
+            {
+              "SHA": "126b3544",
+              "Subject": "Add gitops support for ClickHouse (#60)"
+            },
+            {
+              "SHA": "3857b522",
+              "Subject": "Add GitOps support for PerconaXtraDB (#69)"
+            },
+            {
+              "SHA": "98f16c54",
+              "Subject": "Add GitOps support for Singlestore (#78)"
+            },
+            {
+              "SHA": "32a65cd4",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#80)"
+            },
+            {
+              "SHA": "0131a5f7",
+              "Subject": "Add GitOps support for RabbitMQ (#72)"
+            },
+            {
+              "SHA": "a7f78221",
+              "Subject": "Add gitops support for Neo4j (#62)"
+            },
+            {
+              "SHA": "cba199d7",
+              "Subject": "Skip OpsCreation If Any Same Type Ops InProgress (#79)"
+            },
+            {
+              "SHA": "0da911fa",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#68)"
+            },
+            {
+              "SHA": "a5a97ff5",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#57)"
+            },
+            {
+              "SHA": "da0e1032",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "baab2fac",
+              "Subject": "Fix Recurring Ops Creation for ReconfigeTLS (#55)"
+            },
+            {
+              "SHA": "40969d95",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e72a0e12",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "7152e2d5",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "c7a5c666",
+              "Subject": "Harden CI workflows (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "fe71d640",
+              "Subject": "Prepare for release v0.6.0 (#46)"
+            },
+            {
+              "SHA": "b3f6ef5b",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#45)"
+            },
+            {
+              "SHA": "e38a3433",
+              "Subject": "Add StorageMigration OpsRequest support (#34)"
+            },
+            {
+              "SHA": "c08ac12e",
+              "Subject": "Add tls, reconfigure tls, vertical scaling, rotate auth, volume expantion ops (#38)"
+            },
+            {
+              "SHA": "696ffce2",
+              "Subject": "Add NetworkPolicyFlavor support (#44)"
+            },
+            {
+              "SHA": "da2fb620",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#43)"
+            },
+            {
+              "SHA": "5f480c10",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "28694dd1",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "9fb48705",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "d530b4af",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "52612af6",
+              "Subject": "Harden CI workflows (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "d38d2fdf",
+              "Subject": "Prepare for release v0.5.0 (#18)"
+            },
+            {
+              "SHA": "78c65a5d",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#17)"
+            },
+            {
+              "SHA": "51502038",
+              "Subject": "Prepare for release v0.5.0-rc.2 (#16)"
+            },
+            {
+              "SHA": "5371f1fa",
+              "Subject": "Disable automatic backups and fix failover handling (#15)"
+            },
+            {
+              "SHA": "97c79d78",
+              "Subject": "Prepare for release v0.5.0-rc.1 (#14)"
+            },
+            {
+              "SHA": "8d68a1ab",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "a1df343c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "de35968d",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "0a5612a4",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "f8cd4851",
+              "Subject": "Harden CI workflows (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "47da8055",
+              "Subject": "Prepare for release v0.11.0 (#53)"
+            },
+            {
+              "SHA": "33821545",
+              "Subject": "Fix Hazelcast deletion (#51)"
+            },
+            {
+              "SHA": "841ee968",
+              "Subject": "Prepare for release v0.11.0-rc.2 (#52)"
+            },
+            {
+              "SHA": "13deaa26",
+              "Subject": "Add NetworkPolicyFlavor support (#50)"
+            },
+            {
+              "SHA": "e45daa28",
+              "Subject": "Prepare for release v0.11.0-rc.1 (#49)"
+            },
+            {
+              "SHA": "8cfb374f",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#46)"
+            },
+            {
+              "SHA": "198c8a50",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "f31ab7cc",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "791b67dd",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "289a07ef",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "f8e2fc26",
+              "Subject": "Harden CI workflows (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "1679ffc5",
+              "Subject": "Prepare for release v0.12.0 (#62)"
+            },
+            {
+              "SHA": "db56d3e9",
+              "Subject": "Add StorageMigration OpsRequest support for Ignite (#53)"
+            },
+            {
+              "SHA": "abaa3f61",
+              "Subject": "Prepare for release v0.12.0-rc.2 (#61)"
+            },
+            {
+              "SHA": "0e4fa9e6",
+              "Subject": "Fix Ignite deletion (#60)"
+            },
+            {
+              "SHA": "1ccf34ce",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#59)"
+            },
+            {
+              "SHA": "46fc9cb0",
+              "Subject": "Prepare for release v0.12.0-rc.1 (#58)"
+            },
+            {
+              "SHA": "2ae50f33",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#54)"
+            },
+            {
+              "SHA": "b04edbc9",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "b966bfea",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2b92c194",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "a44aad7e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9848ac9f",
+              "Subject": "Harden CI workflows (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.6.19",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "d10d9665",
+              "Subject": "Prepare for release v0.36.0 (#203)"
+            },
+            {
+              "SHA": "da458b15",
+              "Subject": "Prepare for release v0.36.0-rc.2 (#202)"
+            },
+            {
+              "SHA": "d95e5cbc",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#198)"
+            },
+            {
+              "SHA": "8ac2cd7b",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#201)"
+            },
+            {
+              "SHA": "a1068e0b",
+              "Subject": "Prepare for release v0.36.0-rc.1 (#200)"
+            },
+            {
+              "SHA": "c6a0dee3",
+              "Subject": "Add StorageMigration OpsRequest support (#194)"
+            },
+            {
+              "SHA": "af590f7a",
+              "Subject": "Prepare for release v0.36.0-rc.0 (#196)"
+            },
+            {
+              "SHA": "1182e416",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "bc7be0ce",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2bfcd4c6",
+              "Subject": "Run Ops Request Locally (#195)"
+            },
+            {
+              "SHA": "7cbac0ff",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "96456b8e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "8b49617d",
+              "Subject": "Harden CI workflows (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kibana",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "b042714b",
+              "Subject": "Prepare for release v0.41.0 (#186)"
+            },
+            {
+              "SHA": "73bafa3b",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#185)"
+            },
+            {
+              "SHA": "d1ec131e",
+              "Subject": "Add network-policy-flavor flag for cilium support (#184)"
+            },
+            {
+              "SHA": "7bec93e8",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#183)"
+            },
+            {
+              "SHA": "7f848668",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#182)"
+            },
+            {
+              "SHA": "4a984afd",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "aee66c89",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "3e24fcd8",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ea78001c",
+              "Subject": "Fix release tracker workflow"
+            },
+            {
+              "SHA": "b4fb97cd",
+              "Subject": "Use GitHub App token for release tracker comments (#179)"
+            },
+            {
+              "SHA": "0420d005",
+              "Subject": "Merge branch 'master' into use-app-token-2284"
+            },
+            {
+              "SHA": "70f324fc",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "15282d6c",
+              "Subject": "Pin actions to commit SHAs"
+            },
+            {
+              "SHA": "27d597c7",
+              "Subject": "Harden CI workflows (#180)"
+            },
+            {
+              "SHA": "402312ef",
+              "Subject": "Use GitHub App token for release tracker comments"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "bac18c12",
+              "Subject": "Prepare for release v0.28.0 (#136)"
+            },
+            {
+              "SHA": "0ebaf789",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#135)"
+            },
+            {
+              "SHA": "834ef012",
+              "Subject": "Add restic backup progress streaming (#134)"
+            },
+            {
+              "SHA": "5fe85111",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#133)"
+            },
+            {
+              "SHA": "1874f594",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#132)"
+            },
+            {
+              "SHA": "a8c857c8",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "4390340d",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "88a6d9b5",
+              "Subject": "Harden CI workflows (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "2af814fc",
+              "Subject": "Prepare for release v0.16.0 (#55)"
+            },
+            {
+              "SHA": "783bc77f",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#54)"
+            },
+            {
+              "SHA": "fe877028",
+              "Subject": "Prepare for release v0.16.0-rc.2 (#53)"
+            },
+            {
+              "SHA": "bf5f23ea",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#52)"
+            },
+            {
+              "SHA": "e78f35ea",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "fa4b05f8",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "f13312e1",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "8d1ab507",
+              "Subject": "Harden CI workflows (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "0a91d48a9",
+              "Subject": "Prepare for release v0.49.0 (#411)"
+            },
+            {
+              "SHA": "a07d6b7f2",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#410)"
+            },
+            {
+              "SHA": "dbc685874",
+              "Subject": "Inc Snapshot Update for Distributed (#408)"
+            },
+            {
+              "SHA": "dece23fb3",
+              "Subject": "Prepare for release v0.49.0-rc.2 (#409)"
+            },
+            {
+              "SHA": "5249f7ac9",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#404)"
+            },
+            {
+              "SHA": "b1a16bc61",
+              "Subject": "Use endpoint from ResticStats.Summary (#407)"
+            },
+            {
+              "SHA": "f0f7b7e0f",
+              "Subject": "Prepare for release v0.49.0-rc.1 (#406)"
+            },
+            {
+              "SHA": "1bb8a02ac",
+              "Subject": "Add StorageMigration OpsRequest support (#398)"
+            },
+            {
+              "SHA": "59e4024aa",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#402)"
+            },
+            {
+              "SHA": "387699562",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "ff6c15a42",
+              "Subject": "Add wal backup support for azure credless mode (#401)"
+            },
+            {
+              "SHA": "04e3bd52a",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "27edbbd28",
+              "Subject": "fix distributed reconfig (#400)"
+            },
+            {
+              "SHA": "83c8573ac",
+              "Subject": "Run Ops Request Locally (#399)"
+            },
+            {
+              "SHA": "6f736842b",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "8eb47e992",
+              "Subject": "Fix Label on Health Check (#396)"
+            },
+            {
+              "SHA": "109bf50f3",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "78c6159b7",
+              "Subject": "Harden CI workflows (#395)"
+            },
+            {
+              "SHA": "2771f497d",
+              "Subject": "sidekick leader selection fix; storage secret sync up fix (#394)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "c365ef8c",
+              "Subject": "Prepare for release v0.25.0 (#97)"
+            },
+            {
+              "SHA": "104a6420",
+              "Subject": "Pass ci (#96)"
+            },
+            {
+              "SHA": "8cbbe471",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#95)"
+            },
+            {
+              "SHA": "06784371",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#93)"
+            },
+            {
+              "SHA": "0c208981",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#92)"
+            },
+            {
+              "SHA": "e0dc262d",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "b10e53a2",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2a326a8b",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "0eae12a8",
+              "Subject": "Harden CI workflows (#90)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "16a7f616",
+              "Subject": "Prepare for release v0.45.0 (#183)"
+            },
+            {
+              "SHA": "87044a42",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#182)"
+            },
+            {
+              "SHA": "11fc976d",
+              "Subject": "Prepare for release v0.45.0-rc.2 (#181)"
+            },
+            {
+              "SHA": "1358936a",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#180)"
+            },
+            {
+              "SHA": "da2d60f4",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#179)"
+            },
+            {
+              "SHA": "77d610ef",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "492ee0ac",
+              "Subject": "Chaos Test: Fix Disaster Recovery (#174)"
+            },
+            {
+              "SHA": "7b81cb8c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "43a65240",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "0af4eea5",
+              "Subject": "Harden CI workflows (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "de9f69df",
+              "Subject": "Prepare for release v0.25.0 (#82)"
+            },
+            {
+              "SHA": "0c58c412",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#81)"
+            },
+            {
+              "SHA": "730ee57c",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#80)"
+            },
+            {
+              "SHA": "70b5cdd2",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#79)"
+            },
+            {
+              "SHA": "f432211e",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "b75d52e3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "d622d7f3",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "748e02a6",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "cccdc734",
+              "Subject": "Harden CI workflows (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "ad641e56",
+              "Subject": "Prepare for release v0.23.0 (#96)"
+            },
+            {
+              "SHA": "0226aa69",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#95)"
+            },
+            {
+              "SHA": "03ee3ee4",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#94)"
+            },
+            {
+              "SHA": "ab0be84b",
+              "Subject": "Add restic backup progress streaming (#92)"
+            },
+            {
+              "SHA": "d3bc1259",
+              "Subject": "Update Backup Job Name for Distributed (#93)"
+            },
+            {
+              "SHA": "3b08f7c6",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#91)"
+            },
+            {
+              "SHA": "7ffb72a7",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "9e4c9505",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "3e6d811d",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "df88fa1b",
+              "Subject": "Harden CI workflows (#88)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-cli",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "eb2fe1d4",
+              "Subject": "Prepare for release v0.5.0 (#29)"
+            },
+            {
+              "SHA": "77456208",
+              "Subject": "Merge pull request #28 from kubedb/mongoshakePathChange"
+            },
+            {
+              "SHA": "c8134f14",
+              "Subject": "Merge branch 'master' into mongoshakePathChange"
+            },
+            {
+              "SHA": "09a10537",
+              "Subject": "changed mongoshake branch"
+            },
+            {
+              "SHA": "1c853d60",
+              "Subject": "Add tls for postgres (#26)"
+            },
+            {
+              "SHA": "5e531a13",
+              "Subject": "changed mongoshake source from alibaba to kubedb"
+            },
+            {
+              "SHA": "3f035485",
+              "Subject": "Update github.com/jackc/pgx/v5 to v5.9.2 (#27)"
+            },
+            {
+              "SHA": "fe2606c9",
+              "Subject": "Prepare for release v0.5.0-rc.2 (#25)"
+            },
+            {
+              "SHA": "b7088fad",
+              "Subject": "Mysql migration init (#11)"
+            },
+            {
+              "SHA": "06810c85",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "f64c95cd",
+              "Subject": "Prepare for release v0.5.0-rc.1 (#23)"
+            },
+            {
+              "SHA": "cfecdf1a",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#21)"
+            },
+            {
+              "SHA": "1615cc31",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "bbba7844",
+              "Subject": "Added MongoDB migration (#16)"
+            },
+            {
+              "SHA": "27f1c91c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "d21c2740",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "7d5ab3d4",
+              "Subject": "Harden CI workflows (#19)"
+            },
+            {
+              "SHA": "8a21ae49",
+              "Subject": "Separate dockerfile for each databases (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-operator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "0fdf9a63",
+              "Subject": "Prepare for release v0.6.0 (#49)"
+            },
+            {
+              "SHA": "611a5818",
+              "Subject": "Fix mTLS issue (#47)"
+            },
+            {
+              "SHA": "fa57da9b",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#48)"
+            },
+            {
+              "SHA": "85d63146",
+              "Subject": "Add HorizontalScaling OpsRequest support (#45)"
+            },
+            {
+              "SHA": "41e84651",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#40)"
+            },
+            {
+              "SHA": "d364f887",
+              "Subject": "Fix Milvus deletion (#44)"
+            },
+            {
+              "SHA": "1ae0debe",
+              "Subject": "Add RotateAuth OpsRequest support for Milvus (#46)"
+            },
+            {
+              "SHA": "79cba14c",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#43)"
+            },
+            {
+              "SHA": "703de898",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#42)"
+            },
+            {
+              "SHA": "83890286",
+              "Subject": "Add StorageMigration Ops-Request Support (#39)"
+            },
+            {
+              "SHA": "718988e1",
+              "Subject": "Add Milvus Ops Request (#33)"
+            },
+            {
+              "SHA": "062b7eab",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "984bf9be",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "63fee186",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ceb74c51",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "b69a946b",
+              "Subject": "Add Milvus Tls (#25)"
+            },
+            {
+              "SHA": "f319f086",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "10e389a6",
+              "Subject": "Harden CI workflows (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.58.0",
+          "commits": [
+            {
+              "SHA": "becd088e0",
+              "Subject": "Prepare for release v0.58.0 (#769)"
+            },
+            {
+              "SHA": "29e1f9b32",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#768)"
+            },
+            {
+              "SHA": "b2085f897",
+              "Subject": "Prepare for release v0.58.0-rc.2 (#767)"
+            },
+            {
+              "SHA": "4591f1011",
+              "Subject": "Prepare for release v0.58.0-rc.1 (#765)"
+            },
+            {
+              "SHA": "0ec529684",
+              "Subject": "Add virtual secret support (#762)"
+            },
+            {
+              "SHA": "2946c7119",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#764)"
+            },
+            {
+              "SHA": "75fb23b2d",
+              "Subject": "Implement cilium networkpolicy (#763)"
+            },
+            {
+              "SHA": "0f32df042",
+              "Subject": "Prepare for release v0.58.0-rc.0 (#761)"
+            },
+            {
+              "SHA": "d1f66646a",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "71ddfc668",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "b6c2d2898",
+              "Subject": "Run Ops Request Locally (#760)"
+            },
+            {
+              "SHA": "93f12e1a9",
+              "Subject": "Add StorageMigration OpsRequest support (#759)"
+            },
+            {
+              "SHA": "c895f662f",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "a80e04c8a",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "30e4b394c",
+              "Subject": "Harden CI workflows (#757)"
+            },
+            {
+              "SHA": "56b322456",
+              "Subject": "Fix Sidekick issue; Fix storage cred secret sync issue (#756)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "68a2ebeb",
+              "Subject": "Prepare for release v0.26.0 (#86)"
+            },
+            {
+              "SHA": "fe132cd7",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#85)"
+            },
+            {
+              "SHA": "ec3b81a8",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#84)"
+            },
+            {
+              "SHA": "154dedfb",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#83)"
+            },
+            {
+              "SHA": "86a4f09c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "c445729e",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "6f77d33a",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "fd4c25de",
+              "Subject": "Harden CI workflows (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "90025a3f",
+              "Subject": "Prepare for release v0.28.0 (#132)"
+            },
+            {
+              "SHA": "d6b5fa11",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#131)"
+            },
+            {
+              "SHA": "58aef2eb",
+              "Subject": "Add Backup Progress Streaming Support in Snapshot Status (#130)"
+            },
+            {
+              "SHA": "a8f1b59b",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#129)"
+            },
+            {
+              "SHA": "70c2a000",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#128)"
+            },
+            {
+              "SHA": "88c32465",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "4c6631af",
+              "Subject": "Add uri connection string for mongodump and mongorestore (#124)"
+            },
+            {
+              "SHA": "fcb9af9b",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "76f8adb4",
+              "Subject": "Harden CI workflows (#125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "601bb948",
+              "Subject": "Prepare for release v0.20.0 (#75)"
+            },
+            {
+              "SHA": "892acf04",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#74)"
+            },
+            {
+              "SHA": "2716be6e",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#73)"
+            },
+            {
+              "SHA": "acc28e43",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#72)"
+            },
+            {
+              "SHA": "a7c9d240",
+              "Subject": "Fix CI hardening: use app token in release-tracker, add packages:write"
+            },
+            {
+              "SHA": "6293f384",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#70)"
+            },
+            {
+              "SHA": "cb31d9b3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "26c8ec07",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "29b5b49e",
+              "Subject": "Use GitHub App token for release tracker comments (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "8fd94742",
+              "Subject": "Prepare for release v0.20.0 (#143)"
+            },
+            {
+              "SHA": "a47bf888",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#142)"
+            },
+            {
+              "SHA": "418c160c",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#141)"
+            },
+            {
+              "SHA": "2fadba5a",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#139)"
+            },
+            {
+              "SHA": "1ec9a0f1",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#138)"
+            },
+            {
+              "SHA": "0eb8b1c8",
+              "Subject": "Add StorageMigration OpsRequest support for MSSQLServer (#132)"
+            },
+            {
+              "SHA": "787c5056",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#133)"
+            },
+            {
+              "SHA": "76e95035",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "8afbd426",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "c7de0e00",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ccef8128",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "a8ffa607",
+              "Subject": "Harden CI workflows (#130)"
+            },
+            {
+              "SHA": "a4e311d8",
+              "Subject": "Update sidekick leader selection labels; storage sync is not implemented (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "327ebbf",
+              "Subject": "Prepare for release v0.19.0 (#31)"
+            },
+            {
+              "SHA": "df59193",
+              "Subject": "Prepare for release v0.19.0-rc.2 (#30)"
+            },
+            {
+              "SHA": "d3713a4",
+              "Subject": "Import kubedb.dev/apimachinery to track dependency (#29)"
+            },
+            {
+              "SHA": "24678f5",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "958106a",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ea87799",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "71f8c47",
+              "Subject": "Harden CI workflows (#26)"
+            },
+            {
+              "SHA": "942ca43",
+              "Subject": "Harden CI workflows (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "9c7af14",
+              "Subject": "Prepare for release v0.19.0 (#63)"
+            },
+            {
+              "SHA": "1a44640",
+              "Subject": "Prepare for release v0.19.0-rc.2 (#62)"
+            },
+            {
+              "SHA": "51ea4f2",
+              "Subject": "Prepare for release v0.19.0-rc.1 (#61)"
+            },
+            {
+              "SHA": "1475bb0",
+              "Subject": "Fix CI hardening: use app token in release-tracker, add packages:write"
+            },
+            {
+              "SHA": "5cc5025",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "5433238",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "0e152a6",
+              "Subject": "Use GitHub App token for release tracker comments (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "093b05d2",
+              "Subject": "Prepare for release v0.26.0 (#110)"
+            },
+            {
+              "SHA": "530f2468",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#109)"
+            },
+            {
+              "SHA": "33eaf828",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#108)"
+            },
+            {
+              "SHA": "6a708251",
+              "Subject": "add permission for the release job (#107)"
+            },
+            {
+              "SHA": "eb55d4ad",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "d0ba1b24",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "ae11ecbd",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "53fbffa9",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "6448ddf1",
+              "Subject": "Harden CI workflows (#104)"
+            },
+            {
+              "SHA": "1098c78a",
+              "Subject": "Fix binlog reply (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "4cb2b084",
+              "Subject": "Prepare for release v0.43.0 (#185)"
+            },
+            {
+              "SHA": "eea38e29",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#184)"
+            },
+            {
+              "SHA": "67143c6d",
+              "Subject": "Prepare for release v0.43.0-rc.2 (#183)"
+            },
+            {
+              "SHA": "c813bf0e",
+              "Subject": "Prepare for release v0.43.0-rc.1 (#181)"
+            },
+            {
+              "SHA": "700dcc95",
+              "Subject": "Prepare for release v0.43.0-rc.0 (#180)"
+            },
+            {
+              "SHA": "7550f622",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "8772c753",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "1a20ce7c",
+              "Subject": "Fix innodb cluster support for 8.4+ (#171)"
+            },
+            {
+              "SHA": "21bcc293",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "92a93955",
+              "Subject": "Harden CI workflows (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "aa454ed7",
+              "Subject": "Prepare for release v0.26.0 (#82)"
+            },
+            {
+              "SHA": "3fd6f8d9",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#81)"
+            },
+            {
+              "SHA": "5c73df2a",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#80)"
+            },
+            {
+              "SHA": "02b24bac",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#79)"
+            },
+            {
+              "SHA": "b98f8382",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "aeb71151",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "960c3538",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "06b90e07",
+              "Subject": "Harden CI workflows (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "58d3cd4c",
+              "Subject": "Prepare for release v0.28.0 (#117)"
+            },
+            {
+              "SHA": "85ba443a",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#116)"
+            },
+            {
+              "SHA": "edb738be",
+              "Subject": "Add Backup Progress Streaming Support in Snapshot Status (#113)"
+            },
+            {
+              "SHA": "8751f570",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#115)"
+            },
+            {
+              "SHA": "dd1b9eae",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "879cbd56",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "3a29e9c8",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "a5955a10",
+              "Subject": "Harden CI workflows (#111)"
+            },
+            {
+              "SHA": "3a49671f",
+              "Subject": "Add New Version Support, Innodb Cluster Support (#110)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.43.0",
+          "commits": [
+            {
+              "SHA": "d65df0c",
+              "Subject": "Prepare for release v0.43.0 (#65)"
+            },
+            {
+              "SHA": "b0ab3a5",
+              "Subject": "Prepare for release v0.43.0-rc.2 (#64)"
+            },
+            {
+              "SHA": "9169dc3",
+              "Subject": "Import kubedb.dev/apimachinery to track dependency (#63)"
+            },
+            {
+              "SHA": "e15fe6a",
+              "Subject": "Fix CI hardening: use app token in release-tracker, add packages (#61)"
+            },
+            {
+              "SHA": "1fe79e5",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "399bf84",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "e1d55d1",
+              "Subject": "Merge pull request #59 from kubedb/use-app-token-2284"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "534f93d1",
+              "Subject": "Prepare for release v0.6.0 (#44)"
+            },
+            {
+              "SHA": "5956ff9d",
+              "Subject": "CustomConfig VolumeMount fix (#43)"
+            },
+            {
+              "SHA": "2639a89b",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#42)"
+            },
+            {
+              "SHA": "f742558f",
+              "Subject": "Fix passing credential as a literal env value in the PetSet (#41)"
+            },
+            {
+              "SHA": "c465d3c8",
+              "Subject": "feat: implement git-sync init container for Neo4j (#36)"
+            },
+            {
+              "SHA": "4f787bca",
+              "Subject": "Fix Neo4j Deletion (#40)"
+            },
+            {
+              "SHA": "e6ab6aa3",
+              "Subject": "Add NetworkPolicyFlavor support (#39)"
+            },
+            {
+              "SHA": "c5dcc324",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#38)"
+            },
+            {
+              "SHA": "0bf9da80",
+              "Subject": "Add Backup port in primary service (#31)"
+            },
+            {
+              "SHA": "63a96dad",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#34)"
+            },
+            {
+              "SHA": "e215c4c8",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "98283581",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "77704502",
+              "Subject": "Add StorageMigration OpsRequest support for Neo4j (#33)"
+            },
+            {
+              "SHA": "8dc5edbf",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "c8f95c51",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "beb02ed6",
+              "Subject": "Harden CI workflows (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "6059399",
+              "Subject": "Use gh cli instead of hub cli"
+            },
+            {
+              "SHA": "3c30045",
+              "Subject": "Prepare for release v0.1.0 (#2)"
+            },
+            {
+              "SHA": "3342b9f",
+              "Subject": "Add Neo4j Backup Plugin (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "ec2b76b3",
+              "Subject": "Prepare for release v0.11.0 (#62)"
+            },
+            {
+              "SHA": "4f6c5ef7",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#61)"
+            },
+            {
+              "SHA": "91f689e2",
+              "Subject": "Prepare for release v0.11.0-rc.2 (#60)"
+            },
+            {
+              "SHA": "666716b1",
+              "Subject": "Implement VolumeExpansion ops for Oracle (#46)"
+            },
+            {
+              "SHA": "6c4afce5",
+              "Subject": "Add VerticalScaling OpsRequest implementation (#47)"
+            },
+            {
+              "SHA": "5bf3fe65",
+              "Subject": "Implement RotateAuthentication for Oracle (#48)"
+            },
+            {
+              "SHA": "4ffeaede",
+              "Subject": "add oracle ops restart reconfigure and appbinding (#42)"
+            },
+            {
+              "SHA": "44e872ea",
+              "Subject": "add appbinding for oracle (#51)"
+            },
+            {
+              "SHA": "1cc52267",
+              "Subject": "Add NetworkPolicyFlavor support (#59)"
+            },
+            {
+              "SHA": "df02ec98",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#56)"
+            },
+            {
+              "SHA": "789d3804",
+              "Subject": "Prepare for release v0.11.0-rc.1 (#58)"
+            },
+            {
+              "SHA": "13c00d3e",
+              "Subject": "add ImagePullSecret for observer (#54)"
+            },
+            {
+              "SHA": "22259d8b",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "ef7a90cb",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "7484f753",
+              "Subject": "fix-petset-GetObjectMeta (#49)"
+            },
+            {
+              "SHA": "a2a4e973",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "449beab1",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ae706c75",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "47addbe9",
+              "Subject": "Harden CI workflows (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "81f5255",
+              "Subject": "Prepare for release v0.11.0 (#40)"
+            },
+            {
+              "SHA": "f16a847",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#39)"
+            },
+            {
+              "SHA": "5c50fdd",
+              "Subject": "Prepare for release v0.11.0-rc.2 (#38)"
+            },
+            {
+              "SHA": "1a66329",
+              "Subject": "Prepare for release v0.11.0-rc.1 (#37)"
+            },
+            {
+              "SHA": "cde0783",
+              "Subject": "Fix CI hardening: add kodiak.toml, use app token in release-tracker"
+            },
+            {
+              "SHA": "eebe9e3",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#35)"
+            },
+            {
+              "SHA": "40f851c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "5d987d9",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9c163c8",
+              "Subject": "Use GitHub App token for release tracker comments (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "973e597d4",
+              "Subject": "Prepare for release v0.52.0 (#461)"
+            },
+            {
+              "SHA": "446a97f45",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#460)"
+            },
+            {
+              "SHA": "0b5518e33",
+              "Subject": "feat: implement git-sync init container for PerconaXtraDB (#456)"
+            },
+            {
+              "SHA": "10329f895",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#457)"
+            },
+            {
+              "SHA": "db4f1d809",
+              "Subject": "Prepare for release v0.52.0-rc.1 (#459)"
+            },
+            {
+              "SHA": "023944e11",
+              "Subject": "Add StorageMigration OpsRequest support for PerconaXtraDB (#452)"
+            },
+            {
+              "SHA": "a03b66b9c",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#454)"
+            },
+            {
+              "SHA": "2f3fbc700",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "cd18b8f00",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "06ee2cbfb",
+              "Subject": "Run Ops Request Locally (#453)"
+            },
+            {
+              "SHA": "887fa9a01",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "bc309e6ce",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "52dc6b56c",
+              "Subject": "Harden CI workflows (#450)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "c14587a3",
+              "Subject": "Prepare for release v0.38.0 (#131)"
+            },
+            {
+              "SHA": "10be320f",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#130)"
+            },
+            {
+              "SHA": "b33e29b9",
+              "Subject": "Prepare for release v0.38.0-rc.2 (#129)"
+            },
+            {
+              "SHA": "a0b5004e",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#128)"
+            },
+            {
+              "SHA": "d71a8b78",
+              "Subject": "Prepare for release v0.38.0-rc.0 (#127)"
+            },
+            {
+              "SHA": "dcf12fa2",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "98fc7cc6",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "37eb5997",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "1881477c",
+              "Subject": "Harden CI workflows (#125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "784ef83c",
+              "Subject": "Prepare for release v0.49.0 (#256)"
+            },
+            {
+              "SHA": "6ab0ea56",
+              "Subject": "Update vulnerable dependencies (#255)"
+            },
+            {
+              "SHA": "c2213131",
+              "Subject": "Prepare for release v0.49.0-rc.2 (#254)"
+            },
+            {
+              "SHA": "46d694d9",
+              "Subject": "Document pod injection role in AGENTS.md (#253)"
+            },
+            {
+              "SHA": "412aedcf",
+              "Subject": "Prepare for release v0.49.0-rc.1 (#252)"
+            },
+            {
+              "SHA": "e1bf909c",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#251)"
+            },
+            {
+              "SHA": "9bda4b8a",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "960efc2e",
+              "Subject": "Harden release and release-tracker workflows"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "11585f77d",
+              "Subject": "Prepare for release v0.52.0 (#419)"
+            },
+            {
+              "SHA": "aa44932ff",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#418)"
+            },
+            {
+              "SHA": "cc7ae2860",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#417)"
+            },
+            {
+              "SHA": "8e5905a4b",
+              "Subject": "Prepare for release v0.52.0-rc.1 (#416)"
+            },
+            {
+              "SHA": "c5e7a81e0",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#415)"
+            },
+            {
+              "SHA": "700a235cf",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#413)"
+            },
+            {
+              "SHA": "84b1a19ea",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "c3e4b4e10",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e07464138",
+              "Subject": "Run Ops Request Locally (#412)"
+            },
+            {
+              "SHA": "ce2cad789",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "1215a247e",
+              "Subject": "Harden CI workflows (#410)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "295950cd",
+              "Subject": "Prepare for release v0.20.0 (#127)"
+            },
+            {
+              "SHA": "1300a83b",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#126)"
+            },
+            {
+              "SHA": "a361fefb",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#125)"
+            },
+            {
+              "SHA": "1750b479",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#123)"
+            },
+            {
+              "SHA": "eff93373",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#122)"
+            },
+            {
+              "SHA": "9dd15b6e",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#120)"
+            },
+            {
+              "SHA": "dbd10776",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "12f83ac2",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "23a0bf8f",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "efab69a4",
+              "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.65.0",
+          "commits": [
+            {
+              "SHA": "679f511d8",
+              "Subject": "Prepare for release v0.65.0 (#900)"
+            },
+            {
+              "SHA": "46d916986",
+              "Subject": "Export PgQueue field in Reconciler struct (#897)"
+            },
+            {
+              "SHA": "a53514794",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#899)"
+            },
+            {
+              "SHA": "98471e234",
+              "Subject": "Prepare for release v0.65.0-rc.2 (#898)"
+            },
+            {
+              "SHA": "ae9804e8b",
+              "Subject": "Use endpoint from ResticStats.Summary (#895)"
+            },
+            {
+              "SHA": "da3dca059",
+              "Subject": "Prepare for release v0.65.0-rc.1 (#894)"
+            },
+            {
+              "SHA": "f203a9079",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#886)"
+            },
+            {
+              "SHA": "aa3c1fd54",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#893)"
+            },
+            {
+              "SHA": "5d3d25d55",
+              "Subject": "(Skip coordinator + Fix health check) for Remote Replica (#891)"
+            },
+            {
+              "SHA": "4f7c41333",
+              "Subject": "Update cluster.local -> slice.local (#890)"
+            },
+            {
+              "SHA": "4aca95ba7",
+              "Subject": "Prepare for release v0.65.0-rc.0 (#889)"
+            },
+            {
+              "SHA": "cd25a1fca",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "f0d40da9b",
+              "Subject": "Add wal backup support for azure credless mode (#880)"
+            },
+            {
+              "SHA": "557c11f95",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "9b22d7959",
+              "Subject": "Run Ops Request Locally (#887)"
+            },
+            {
+              "SHA": "36945c392",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "44a337ef5",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "c4d57a65a",
+              "Subject": "Use docker/login-action; drop redundant docker hub steps (#884)"
+            },
+            {
+              "SHA": "723bdc55a",
+              "Subject": "Harden CI workflows (#882)"
+            },
+            {
+              "SHA": "791061f6b",
+              "Subject": "Fix Sidekick issue; Fix storage cred secret sync issue (#881)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "3c9fae1b",
+              "Subject": "Prepare for release v0.26.0 (#112)"
+            },
+            {
+              "SHA": "be08e519",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#111)"
+            },
+            {
+              "SHA": "43553c97",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#110)"
+            },
+            {
+              "SHA": "10de04a8",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#109)"
+            },
+            {
+              "SHA": "8246614a",
+              "Subject": "Add write permission (#108)"
+            },
+            {
+              "SHA": "77f8cd11",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#107)"
+            },
+            {
+              "SHA": "07418083",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "ba7d5601",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "08fddab4",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "1806aa73",
+              "Subject": "Harden CI workflows (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "c6ae859c",
+              "Subject": "Prepare for release v0.26.0 (#92)"
+            },
+            {
+              "SHA": "597ce968",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#91)"
+            },
+            {
+              "SHA": "a578dc28",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#90)"
+            },
+            {
+              "SHA": "32139be4",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#89)"
+            },
+            {
+              "SHA": "e1be14bc",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "7590aa73",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "56eabbb2",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "7ce77805",
+              "Subject": "Use GitHub App token for release tracker comments (#87)"
+            },
+            {
+              "SHA": "5cdf2c50",
+              "Subject": "Harden CI workflows (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "b97a07f6",
+              "Subject": "Prepare for release v0.28.0 (#114)"
+            },
+            {
+              "SHA": "8b893309",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#113)"
+            },
+            {
+              "SHA": "4702b178",
+              "Subject": "Add restic backup progress streaming (#112)"
+            },
+            {
+              "SHA": "78b32801",
+              "Subject": "Bump postgres 16 image from 16.1 to 16.4"
+            },
+            {
+              "SHA": "6984c384",
+              "Subject": "Fix WaitForDBConnection not logging the actual connection error (#111)"
+            },
+            {
+              "SHA": "229651a4",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#110)"
+            },
+            {
+              "SHA": "dad161fc",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#109)"
+            },
+            {
+              "SHA": "e69d3dbc",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "341a4452",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "6b3dcd51",
+              "Subject": "Harden CI workflows (#107)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "2b8fb0f",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "2d7e8ba",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "c984af3",
+              "Subject": "Add AGENTS.md for AI coding agents (#44)"
+            },
+            {
+              "SHA": "d88e77b",
+              "Subject": "Harden CI workflows (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-azure",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "630e43c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "3d78f9c",
+              "Subject": "Add AGENTS.md for AI coding agents (#30)"
+            },
+            {
+              "SHA": "7f7b570",
+              "Subject": "Restrict /ok-to-test to org members (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "e8f212a",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "4f19b3b",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ca1476e",
+              "Subject": "Add AGENTS.md for AI coding agents (#29)"
+            },
+            {
+              "SHA": "4c70d45",
+              "Subject": "Harden CI workflows (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provisioner",
+      "releases": [
+        {
+          "tag": "v0.65.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "420e5c0e5",
+              "Subject": "Prepare for release v0.52.0 (#440)"
+            },
+            {
+              "SHA": "fb2e8d616",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#439)"
+            },
+            {
+              "SHA": "75fcf1540",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#436)"
+            },
+            {
+              "SHA": "3c4cd6331",
+              "Subject": "Implement RotateAuthentication for ProxySQL (#432)"
+            },
+            {
+              "SHA": "fe85fcd09",
+              "Subject": "Prepare for release v0.52.0-rc.1 (#438)"
+            },
+            {
+              "SHA": "d5d1d882e",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#434)"
+            },
+            {
+              "SHA": "bb7e268e4",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "9c59d49ce",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e29d16693",
+              "Subject": "Run Ops Request Locally (#433)"
+            },
+            {
+              "SHA": "b47e8c2d3",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "681acb3c4",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "3b6a40616",
+              "Subject": "Harden CI workflows (#430)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "8023163e",
+              "Subject": "Prepare for release v0.6.0 (#49)"
+            },
+            {
+              "SHA": "46a46c95",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#48)"
+            },
+            {
+              "SHA": "2448f7e5",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#44)"
+            },
+            {
+              "SHA": "f9d88701",
+              "Subject": "Fix Qdrant deletion (#47)"
+            },
+            {
+              "SHA": "6ea63e53",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#46)"
+            },
+            {
+              "SHA": "88c4b011",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#45)"
+            },
+            {
+              "SHA": "928e3450",
+              "Subject": "Add StorageMigration OpsRequest support for Qdrant (#40)"
+            },
+            {
+              "SHA": "b144b7b6",
+              "Subject": "Add Reconfigure TLS (#37)"
+            },
+            {
+              "SHA": "7f7dd3e5",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#41)"
+            },
+            {
+              "SHA": "a79ec8c3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "6715626c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "784adaa7",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "4ef3db03",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "e3aaca10",
+              "Subject": "Harden CI workflows (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "b6ec3253",
+              "Subject": "Prepare for release v0.20.0 (#140)"
+            },
+            {
+              "SHA": "7ec5ac18",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#139)"
+            },
+            {
+              "SHA": "c981cd46",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#138)"
+            },
+            {
+              "SHA": "1ae8fd38",
+              "Subject": "Add support for cilium network  policy (#136)"
+            },
+            {
+              "SHA": "d1511a11",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#137)"
+            },
+            {
+              "SHA": "b2d406fb",
+              "Subject": "Add StorageMigration OpsRequest support for RabbitMQ (#132)"
+            },
+            {
+              "SHA": "2826d51c",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#133)"
+            },
+            {
+              "SHA": "7b849665",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "7c952783",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "8b547651",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "866a6b3c",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "2a733db2",
+              "Subject": "Harden CI workflows (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.58.0",
+          "commits": [
+            {
+              "SHA": "d18bffe83",
+              "Subject": "Prepare for release v0.58.0 (#653)"
+            },
+            {
+              "SHA": "551bdca01",
+              "Subject": "vnpay empty acl bug fix (#650)"
+            },
+            {
+              "SHA": "c811b5e4c",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#652)"
+            },
+            {
+              "SHA": "38804ba31",
+              "Subject": "Prepare for release v0.58.0-rc.2 (#651)"
+            },
+            {
+              "SHA": "05f9d6d50",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#647)"
+            },
+            {
+              "SHA": "ca8050ef7",
+              "Subject": "Prepare for release v0.58.0-rc.1 (#649)"
+            },
+            {
+              "SHA": "82e9701e5",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#648)"
+            },
+            {
+              "SHA": "7f56a8b98",
+              "Subject": "Health Check updated (#641)"
+            },
+            {
+              "SHA": "7452ec78a",
+              "Subject": "Add StorageMigration OpsRequest support for Redis (#644)"
+            },
+            {
+              "SHA": "21037f135",
+              "Subject": "Merge ACL in reconfigure merger (#642)"
+            },
+            {
+              "SHA": "3afe56eab",
+              "Subject": "Prepare for release v0.58.0-rc.0 (#646)"
+            },
+            {
+              "SHA": "c961cdb42",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "a09720d5b",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "7d00abef9",
+              "Subject": "Run Ops Request Locally (#645)"
+            },
+            {
+              "SHA": "740c5c968",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "d23b442c3",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "d5c294b03",
+              "Subject": "Harden CI workflows (#640)"
+            },
+            {
+              "SHA": "34c6e5d56",
+              "Subject": "Add governing svc name in cert (#639)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "bf16a4c7",
+              "Subject": "Prepare for release v0.44.0 (#163)"
+            },
+            {
+              "SHA": "8cc88c9c",
+              "Subject": "Prepare for release v0.44.0-rc.2 (#162)"
+            },
+            {
+              "SHA": "b0fc9339",
+              "Subject": "Prepare for release v0.44.0-rc.1 (#161)"
+            },
+            {
+              "SHA": "367048d8",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#160)"
+            },
+            {
+              "SHA": "a083e153",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "25c46735",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "928c964e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "90c797de",
+              "Subject": "Harden CI workflows (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "982e8bd5",
+              "Subject": "Prepare for release v0.28.0 (#110)"
+            },
+            {
+              "SHA": "c9a8d01b",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#109)"
+            },
+            {
+              "SHA": "eaeb0c7a",
+              "Subject": "Add restic backup progress streaming (#108)"
+            },
+            {
+              "SHA": "b2769079",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#107)"
+            },
+            {
+              "SHA": "96e95cee",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#106)"
+            },
+            {
+              "SHA": "044d20f6",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2c524ff2",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "e29aaa32",
+              "Subject": "Harden CI workflows (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "93e34492",
+              "Subject": "Prepare for release v0.52.0 (#326)"
+            },
+            {
+              "SHA": "fe05bb5e",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#325)"
+            },
+            {
+              "SHA": "adc96bf9",
+              "Subject": "Prepare for release v0.52.0-rc.1 (#324)"
+            },
+            {
+              "SHA": "c2ca4a03",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#323)"
+            },
+            {
+              "SHA": "a22986ef",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "7f22be9e",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e8f81f8e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "3c2fd6f5",
+              "Subject": "Harden CI workflows (#321)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "e9c20a65",
+              "Subject": "Prepare for release v0.41.0 (#174)"
+            },
+            {
+              "SHA": "5444ca3e",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#173)"
+            },
+            {
+              "SHA": "380ec889",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#172)"
+            },
+            {
+              "SHA": "3d0da9a2",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#171)"
+            },
+            {
+              "SHA": "c31cfb97",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#170)"
+            },
+            {
+              "SHA": "7f62c921",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "bba504bd",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "95b80652",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "c6495b95",
+              "Subject": "Harden CI workflows (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "f1d36604",
+              "Subject": "Prepare for release v0.20.0 (#131)"
+            },
+            {
+              "SHA": "a4098c82",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#130)"
+            },
+            {
+              "SHA": "f08e3952",
+              "Subject": "feat: implement git-sync init container for Singlestore (#124)"
+            },
+            {
+              "SHA": "5be14e4d",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#129)"
+            },
+            {
+              "SHA": "98d3f455",
+              "Subject": "Fix SingleStore deletion (#128)"
+            },
+            {
+              "SHA": "5c8a7b45",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#125)"
+            },
+            {
+              "SHA": "d6a82975",
+              "Subject": "Add RotateAuth Ops Request Support (#122)"
+            },
+            {
+              "SHA": "0ac62594",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#127)"
+            },
+            {
+              "SHA": "9860ed42",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#126)"
+            },
+            {
+              "SHA": "9b843f68",
+              "Subject": "Add StorageMigration OpsRequest support for Singlestore (#120)"
+            },
+            {
+              "SHA": "8d5c9087",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#121)"
+            },
+            {
+              "SHA": "26b67dc6",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "01a4c59f",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "d663617d",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "e4255529",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "90f8831e",
+              "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "87d71d04",
+              "Subject": "Prepare for release v0.20.0 (#76)"
+            },
+            {
+              "SHA": "5da3ad74",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#75)"
+            },
+            {
+              "SHA": "7f87bc81",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#74)"
+            },
+            {
+              "SHA": "ae11d990",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#73)"
+            },
+            {
+              "SHA": "d287dabd",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "fcb2528e",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "0f78329e",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "0ff7dc5b",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "357d9a67",
+              "Subject": "Harden CI workflows (#70)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "c26da542",
+              "Subject": "Prepare for release v0.23.0 (#89)"
+            },
+            {
+              "SHA": "1cbde534",
+              "Subject": "Prepare for release v0.23.0-rc.2 (#88)"
+            },
+            {
+              "SHA": "0ac6f752",
+              "Subject": "Add restic backup progress streaming (#87)"
+            },
+            {
+              "SHA": "d6832394",
+              "Subject": "Prepare for release v0.23.0-rc.1 (#86)"
+            },
+            {
+              "SHA": "ef6b233c",
+              "Subject": "Prepare for release v0.23.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "ecfc7fc6",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "88b88a43",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9e76f60c",
+              "Subject": "Harden CI workflows (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "c210af00",
+              "Subject": "Prepare for release v0.20.0 (#137)"
+            },
+            {
+              "SHA": "5748039b",
+              "Subject": "Add StorageMigration OpsRequest support (#129)"
+            },
+            {
+              "SHA": "ace6b48c",
+              "Subject": "Fix AuthSecret (#135)"
+            },
+            {
+              "SHA": "1c955c70",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#136)"
+            },
+            {
+              "SHA": "443bf0ad",
+              "Subject": "Fix Solr deletion (#134)"
+            },
+            {
+              "SHA": "0d6417ef",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#133)"
+            },
+            {
+              "SHA": "4f32f195",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#132)"
+            },
+            {
+              "SHA": "d6f12bb7",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#130)"
+            },
+            {
+              "SHA": "b947dd5c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "5a339830",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "59801485",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "8e55bf7a",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "a91a2ae7",
+              "Subject": "Harden CI workflows (#127)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "df07cb414",
+              "Subject": "Prepare for release v0.50.0 (#543)"
+            },
+            {
+              "SHA": "e2c2cc9eb",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#542)"
+            },
+            {
+              "SHA": "5829f9808",
+              "Subject": "Prepare for release v0.50.0-rc.2 (#541)"
+            },
+            {
+              "SHA": "66234e492",
+              "Subject": "Update kubedb apimachinery vendor and fix AppBinding pointer type (#540)"
+            },
+            {
+              "SHA": "957fa4e5d",
+              "Subject": "Add E2E tests for ClickHouse (#525)"
+            },
+            {
+              "SHA": "59d384bc4",
+              "Subject": "Prepare for release v0.50.0-rc.1 (#538)"
+            },
+            {
+              "SHA": "d5a306baf",
+              "Subject": "Remove FerretDB support (#537)"
+            },
+            {
+              "SHA": "7d4ad629a",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#536)"
+            },
+            {
+              "SHA": "2ad57dc71",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "27074f613",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "e5e62b8a0",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9ee1c9bc7",
+              "Subject": "Harden CI workflows (#522)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "aa12c7c3a",
+              "Subject": "Prepare for release v0.41.0 (#210)"
+            },
+            {
+              "SHA": "2d9cc4875",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#209)"
+            },
+            {
+              "SHA": "62d7f163b",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#208)"
+            },
+            {
+              "SHA": "5fa49a752",
+              "Subject": "Remove FerretDB support (#207)"
+            },
+            {
+              "SHA": "194e56464",
+              "Subject": "Update api (#206)"
+            },
+            {
+              "SHA": "b61ac13e1",
+              "Subject": "DatabaseInfo -> DatabaseConfiguration (#205)"
+            },
+            {
+              "SHA": "90f6cf683",
+              "Subject": "Implement summary api (#204)"
+            },
+            {
+              "SHA": "b0cae9e1b",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#203)"
+            },
+            {
+              "SHA": "8633e4813",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "ed1719891",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "1709ef941",
+              "Subject": "Pass componenetName field & Refactor (#201)"
+            },
+            {
+              "SHA": "d171e2c8c",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9e3b8aed8",
+              "Subject": "Harden CI workflows (#200)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "32d0bbd6",
+              "Subject": "Prepare for release v0.6.0 (#45)"
+            },
+            {
+              "SHA": "ef1c2dc0",
+              "Subject": "TLS (#44)"
+            },
+            {
+              "SHA": "7226c70c",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#43)"
+            },
+            {
+              "SHA": "9d3b6c57",
+              "Subject": "weaviate restart ops-request added (#12)"
+            },
+            {
+              "SHA": "14d862e3",
+              "Subject": "Fix Weaviate deletion (#41)"
+            },
+            {
+              "SHA": "690c3ad0",
+              "Subject": "Add NetworkPolicyFlavor support (#40)"
+            },
+            {
+              "SHA": "513e4bf4",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#39)"
+            },
+            {
+              "SHA": "bb3c8918",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#35)"
+            },
+            {
+              "SHA": "a77224f3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "716556bd",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "7131fe7e",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "bb95826e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "3dfc4fe3",
+              "Subject": "Harden CI workflows (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "9309bb354",
+              "Subject": "Prepare for release v0.41.0 (#226)"
+            },
+            {
+              "SHA": "9cd37a063",
+              "Subject": "Add Aerospike webhook server (#225)"
+            },
+            {
+              "SHA": "2db5df913",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#224)"
+            },
+            {
+              "SHA": "3d375b730",
+              "Subject": "documentdb-ops-webhook (#223)"
+            },
+            {
+              "SHA": "cc9b766ed",
+              "Subject": "Add Cassandra & ClickHouse ops and Neo4j autoscaler webhook registrations (#222)"
+            },
+            {
+              "SHA": "e341c482f",
+              "Subject": "create oracle ops reconfigure (#211)"
+            },
+            {
+              "SHA": "65259ba23",
+              "Subject": "Add HanaDB ops (#216)"
+            },
+            {
+              "SHA": "4fd5117db",
+              "Subject": "Add Milvus Autoscaler Validation (#221)"
+            },
+            {
+              "SHA": "0b56463a7",
+              "Subject": "Add weaviate ops (#218)"
+            },
+            {
+              "SHA": "29608ec8b",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#220)"
+            },
+            {
+              "SHA": "9baa5eb56",
+              "Subject": "Remove FerretDB support (#219)"
+            },
+            {
+              "SHA": "0f68066fa",
+              "Subject": "Setup Qdrant Autoscaler Webhook (#209)"
+            },
+            {
+              "SHA": "fe08c7c4d",
+              "Subject": "Add Milvus OPS Webhook (#217)"
+            },
+            {
+              "SHA": "8009a9ef8",
+              "Subject": "Fix CI hardening: use app token in release-tracker, add packages: (#215)"
+            },
+            {
+              "SHA": "367f75a72",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#214)"
+            },
+            {
+              "SHA": "79e9b2bd4",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "6e9a06404",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "dddcda1f0",
+              "Subject": "Restrict /ok-to-test to org members (#212)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "5dd2507e",
+              "Subject": "Prepare for release v0.13.0 (#58)"
+            },
+            {
+              "SHA": "7405795f",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#57)"
+            },
+            {
+              "SHA": "3c66fa34",
+              "Subject": "Add restic backup progress streaming (#56)"
+            },
+            {
+              "SHA": "36817455",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#55)"
+            },
+            {
+              "SHA": "71c71b57",
+              "Subject": "use package: write and fetch-depth: 0 (#54)"
+            },
+            {
+              "SHA": "fd5f2106",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "1cf78111",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "14f542a3",
+              "Subject": "Use GitHub App token for release tracker comments (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "9cbd2e6d",
+              "Subject": "Prepare for release v0.20.0 (#128)"
+            },
+            {
+              "SHA": "23412a6b",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#127)"
+            },
+            {
+              "SHA": "b3e8b477",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#125)"
+            },
+            {
+              "SHA": "37106c9c",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#124)"
+            },
+            {
+              "SHA": "dca38f13",
+              "Subject": "Use PatchStatus instead of CreateOrPatch to avoid timing issues on db deletion (#122)"
+            },
+            {
+              "SHA": "a572da63",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#121)"
+            },
+            {
+              "SHA": "f583941f",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "d4475edf",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "7a658949",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "d06d8429",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "36e65048",
+              "Subject": "Harden CI workflows (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "2f27830e",
+              "Subject": "Prepare for release v0.20.0 (#74)"
+            },
+            {
+              "SHA": "74c137ba",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#73)"
+            },
+            {
+              "SHA": "308c991d",
+              "Subject": "Add restic backup progress streaming (#72)"
+            },
+            {
+              "SHA": "b5ff2162",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#71)"
+            },
+            {
+              "SHA": "a6878a44",
+              "Subject": "Fix release workflow regressions from CI hardening (#70)"
+            },
+            {
+              "SHA": "5124f6a7",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#69)"
+            },
+            {
+              "SHA": "f01b3b87",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "85b763fa",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "0cc56540",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "391b6eb7",
+              "Subject": "Harden CI workflows (#67)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

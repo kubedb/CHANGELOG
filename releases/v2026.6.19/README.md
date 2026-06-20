@@ -423,6 +423,26 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.20.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0)
+
+- [8fd94742](https://github.com/kubedb/mssqlserver/commit/8fd94742) Prepare for release v0.20.0 (#143)
+- [a47bf888](https://github.com/kubedb/mssqlserver/commit/a47bf888) Update github.com/moby/spdystream to v0.5.1 (#142)
+- [418c160c](https://github.com/kubedb/mssqlserver/commit/418c160c) Prepare for release v0.20.0-rc.2 (#141)
+- [2fadba5a](https://github.com/kubedb/mssqlserver/commit/2fadba5a) Add NetworkPolicyFlavor support for cilium (#139)
+- [1ec9a0f1](https://github.com/kubedb/mssqlserver/commit/1ec9a0f1) Prepare for release v0.20.0-rc.1 (#138)
+- [0eb8b1c8](https://github.com/kubedb/mssqlserver/commit/0eb8b1c8) Add StorageMigration OpsRequest support for MSSQLServer (#132)
+- [787c5056](https://github.com/kubedb/mssqlserver/commit/787c5056) Prepare for release v0.20.0-rc.0 (#133)
+- [76e95035](https://github.com/kubedb/mssqlserver/commit/76e95035) Tighten CI/release workflow secrets, perms, and release notes
+- [8afbd426](https://github.com/kubedb/mssqlserver/commit/8afbd426) Harden release and release-tracker workflows
+- [c7de0e00](https://github.com/kubedb/mssqlserver/commit/c7de0e00) Add CLAUDE.md pointing to AGENTS.md
+- [ccef8128](https://github.com/kubedb/mssqlserver/commit/ccef8128) Add AGENTS.md for AI coding agents
+- [a8ffa607](https://github.com/kubedb/mssqlserver/commit/a8ffa607) Harden CI workflows (#130)
+- [a4e311d8](https://github.com/kubedb/mssqlserver/commit/a4e311d8) Update sidekick leader selection labels; storage sync is not implemented (#129)
+
+
+
 ## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
 
 ### [v0.19.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.19.0)

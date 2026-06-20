@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:52:00.065010144Z",
+  "release_date": "2026-06-20T08:52:35.706313271Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1383,6 +1383,68 @@
             {
               "SHA": "8a21ae49",
               "Subject": "Separate dockerfile for each databases (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "8fd94742",
+              "Subject": "Prepare for release v0.20.0 (#143)"
+            },
+            {
+              "SHA": "a47bf888",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#142)"
+            },
+            {
+              "SHA": "418c160c",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#141)"
+            },
+            {
+              "SHA": "2fadba5a",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#139)"
+            },
+            {
+              "SHA": "1ec9a0f1",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#138)"
+            },
+            {
+              "SHA": "0eb8b1c8",
+              "Subject": "Add StorageMigration OpsRequest support for MSSQLServer (#132)"
+            },
+            {
+              "SHA": "787c5056",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#133)"
+            },
+            {
+              "SHA": "76e95035",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "8afbd426",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "c7de0e00",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ccef8128",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "a8ffa607",
+              "Subject": "Harden CI workflows (#130)"
+            },
+            {
+              "SHA": "a4e311d8",
+              "Subject": "Update sidekick leader selection labels; storage sync is not implemented (#129)"
             }
           ]
         }

@@ -118,6 +118,32 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.50.0](https://github.com/kubedb/autoscaler/releases/tag/v0.50.0)
+
+- [f6ba9830](https://github.com/kubedb/autoscaler/commit/f6ba9830) Prepare for release v0.50.0 (#309)
+- [764b0a49](https://github.com/kubedb/autoscaler/commit/764b0a49) Add HanaDB autoscaler support (#300)
+- [be2cf3bc](https://github.com/kubedb/autoscaler/commit/be2cf3bc) Add Autoscaling support for DocumentDB (#299)
+- [416c01f8](https://github.com/kubedb/autoscaler/commit/416c01f8) Add support for Oracle (autoscaler) (#302)
+- [c7169bb5](https://github.com/kubedb/autoscaler/commit/c7169bb5) Prepare for release v0.50.0-rc.2 (#308)
+- [001c9856](https://github.com/kubedb/autoscaler/commit/001c9856) feat: add Weaviate compute and storage autoscaler (#301)
+- [a51c5af2](https://github.com/kubedb/autoscaler/commit/a51c5af2) Add Milvus Autoscaler (#306)
+- [edcd29ac](https://github.com/kubedb/autoscaler/commit/edcd29ac) Add support for Neo4j (#298)
+- [9d983c07](https://github.com/kubedb/autoscaler/commit/9d983c07) Prepare for release v0.50.0-rc.1 (#305)
+- [9d7909f8](https://github.com/kubedb/autoscaler/commit/9d7909f8) Remove FerretDB support (#304)
+- [9366ad79](https://github.com/kubedb/autoscaler/commit/9366ad79) Set Ops Request Options Default (#293)
+- [587219ce](https://github.com/kubedb/autoscaler/commit/587219ce) Add Qdrant Autoscaler (#285)
+- [0dc951b2](https://github.com/kubedb/autoscaler/commit/0dc951b2) Prepare for release v0.50.0-rc.0 (#303)
+- [9ca97e5f](https://github.com/kubedb/autoscaler/commit/9ca97e5f) Tighten CI/release workflow secrets, perms, and release notes
+- [1e275efc](https://github.com/kubedb/autoscaler/commit/1e275efc) Harden release and release-tracker workflows
+- [f296dee8](https://github.com/kubedb/autoscaler/commit/f296dee8) feat: read PVC storage metrics from custom metrics API
+- [3542cf19](https://github.com/kubedb/autoscaler/commit/3542cf19) Add AGENTS.md for AI coding agents
+- [3f8899bf](https://github.com/kubedb/autoscaler/commit/3f8899bf) Use GitHub App token for release tracker comments (#295)
+- [cf6b3e5f](https://github.com/kubedb/autoscaler/commit/cf6b3e5f) Harden CI workflows (#292)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.18.0](https://github.com/kubedb/cassandra/releases/tag/v0.18.0)

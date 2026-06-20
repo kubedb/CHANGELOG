@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T11:08:24.439460218Z",
+  "release_date": "2026-06-20T11:10:10.819750138Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -451,6 +451,92 @@
             {
               "SHA": "c3eb083ed",
               "Subject": "Delete metrics-exporter-config secret on wipeout for elasticsearch (#1659)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "f6ba9830",
+              "Subject": "Prepare for release v0.50.0 (#309)"
+            },
+            {
+              "SHA": "764b0a49",
+              "Subject": "Add HanaDB autoscaler support (#300)"
+            },
+            {
+              "SHA": "be2cf3bc",
+              "Subject": "Add Autoscaling support for DocumentDB (#299)"
+            },
+            {
+              "SHA": "416c01f8",
+              "Subject": "Add support for Oracle (autoscaler) (#302)"
+            },
+            {
+              "SHA": "c7169bb5",
+              "Subject": "Prepare for release v0.50.0-rc.2 (#308)"
+            },
+            {
+              "SHA": "001c9856",
+              "Subject": "feat: add Weaviate compute and storage autoscaler (#301)"
+            },
+            {
+              "SHA": "a51c5af2",
+              "Subject": "Add Milvus Autoscaler (#306)"
+            },
+            {
+              "SHA": "edcd29ac",
+              "Subject": "Add support for Neo4j (#298)"
+            },
+            {
+              "SHA": "9d983c07",
+              "Subject": "Prepare for release v0.50.0-rc.1 (#305)"
+            },
+            {
+              "SHA": "9d7909f8",
+              "Subject": "Remove FerretDB support (#304)"
+            },
+            {
+              "SHA": "9366ad79",
+              "Subject": "Set Ops Request Options Default (#293)"
+            },
+            {
+              "SHA": "587219ce",
+              "Subject": "Add Qdrant Autoscaler (#285)"
+            },
+            {
+              "SHA": "0dc951b2",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#303)"
+            },
+            {
+              "SHA": "9ca97e5f",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "1e275efc",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "f296dee8",
+              "Subject": "feat: read PVC storage metrics from custom metrics API"
+            },
+            {
+              "SHA": "3542cf19",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "3f8899bf",
+              "Subject": "Use GitHub App token for release tracker comments (#295)"
+            },
+            {
+              "SHA": "cf6b3e5f",
+              "Subject": "Harden CI workflows (#292)"
             }
           ]
         }

@@ -459,6 +459,22 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.25.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.25.0)
+
+- [c365ef8c](https://github.com/kubedb/mariadb-archiver/commit/c365ef8c) Prepare for release v0.25.0 (#97)
+- [104a6420](https://github.com/kubedb/mariadb-archiver/commit/104a6420) Pass ci (#96)
+- [8cbbe471](https://github.com/kubedb/mariadb-archiver/commit/8cbbe471) Prepare for release v0.25.0-rc.2 (#95)
+- [06784371](https://github.com/kubedb/mariadb-archiver/commit/06784371) Prepare for release v0.25.0-rc.1 (#93)
+- [0c208981](https://github.com/kubedb/mariadb-archiver/commit/0c208981) Prepare for release v0.25.0-rc.0 (#92)
+- [e0dc262d](https://github.com/kubedb/mariadb-archiver/commit/e0dc262d) Tighten CI/release workflow secrets, perms, and release notes
+- [b10e53a2](https://github.com/kubedb/mariadb-archiver/commit/b10e53a2) Harden release and release-tracker workflows
+- [2a326a8b](https://github.com/kubedb/mariadb-archiver/commit/2a326a8b) Add AGENTS.md for AI coding agents
+- [0eae12a8](https://github.com/kubedb/mariadb-archiver/commit/0eae12a8) Harden CI workflows (#90)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.45.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0)

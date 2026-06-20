@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T09:03:07.943133435Z",
+  "release_date": "2026-06-20T09:03:16.800448119Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1491,6 +1491,52 @@
             {
               "SHA": "2771f497d",
               "Subject": "sidekick leader selection fix; storage secret sync up fix (#394)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "c365ef8c",
+              "Subject": "Prepare for release v0.25.0 (#97)"
+            },
+            {
+              "SHA": "104a6420",
+              "Subject": "Pass ci (#96)"
+            },
+            {
+              "SHA": "8cbbe471",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#95)"
+            },
+            {
+              "SHA": "06784371",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#93)"
+            },
+            {
+              "SHA": "0c208981",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#92)"
+            },
+            {
+              "SHA": "e0dc262d",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "b10e53a2",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2a326a8b",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "0eae12a8",
+              "Subject": "Harden CI workflows (#90)"
             }
           ]
         }

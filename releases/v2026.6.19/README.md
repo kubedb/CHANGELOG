@@ -938,6 +938,13 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.52.0](https://github.com/kubedb/ops-manager/releases/tag/v0.52.0)
+
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.11.0](https://github.com/kubedb/oracle/releases/tag/v0.11.0)

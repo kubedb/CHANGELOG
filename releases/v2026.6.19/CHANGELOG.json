@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:42:24.458697848Z",
+  "release_date": "2026-06-20T08:42:29.576504343Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -715,6 +715,44 @@
             {
               "SHA": "2e08c01c",
               "Subject": "Harden CI workflows (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "41cc779",
+              "Subject": "Prepare for release v0.1.0 (#6)"
+            },
+            {
+              "SHA": "bd5178a",
+              "Subject": "Fix UBI Dockerfile labels and add bash/postgresql dependency (#5)"
+            },
+            {
+              "SHA": "ee91f72",
+              "Subject": "Use gh cli instead of old hub cli"
+            },
+            {
+              "SHA": "05a2c8b",
+              "Subject": "Prepare for release v0.1.0-rc.2 (#4)"
+            },
+            {
+              "SHA": "020634d",
+              "Subject": "Fix DocumentDBCoordinatorClientPort (2389 → 2379) (#3)"
+            },
+            {
+              "SHA": "4b8cbae",
+              "Subject": "Up deps on apimachinery (#2)"
+            },
+            {
+              "SHA": "d2f2e7b",
+              "Subject": "Bootstrap (#1)"
             }
           ]
         }

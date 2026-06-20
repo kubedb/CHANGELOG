@@ -202,6 +202,20 @@
 
 
 
+## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
+
+### [v0.1.0](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.1.0)
+
+- [41cc779](https://github.com/kubedb/documentdb-coordinator/commit/41cc779) Prepare for release v0.1.0 (#6)
+- [bd5178a](https://github.com/kubedb/documentdb-coordinator/commit/bd5178a) Fix UBI Dockerfile labels and add bash/postgresql dependency (#5)
+- [ee91f72](https://github.com/kubedb/documentdb-coordinator/commit/ee91f72) Use gh cli instead of old hub cli
+- [05a2c8b](https://github.com/kubedb/documentdb-coordinator/commit/05a2c8b) Prepare for release v0.1.0-rc.2 (#4)
+- [020634d](https://github.com/kubedb/documentdb-coordinator/commit/020634d) Fix DocumentDBCoordinatorClientPort (2389 → 2379) (#3)
+- [4b8cbae](https://github.com/kubedb/documentdb-coordinator/commit/4b8cbae) Up deps on apimachinery (#2)
+- [d2f2e7b](https://github.com/kubedb/documentdb-coordinator/commit/d2f2e7b) Bootstrap (#1)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.28.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.28.0)

@@ -582,6 +582,23 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.28.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.28.0)
+
+- [b97a07f6](https://github.com/kubedb/postgres-restic-plugin/commit/b97a07f6) Prepare for release v0.28.0 (#114)
+- [8b893309](https://github.com/kubedb/postgres-restic-plugin/commit/8b893309) Prepare for release v0.28.0-rc.2 (#113)
+- [4702b178](https://github.com/kubedb/postgres-restic-plugin/commit/4702b178) Add restic backup progress streaming (#112)
+- [78b32801](https://github.com/kubedb/postgres-restic-plugin/commit/78b32801) Bump postgres 16 image from 16.1 to 16.4
+- [6984c384](https://github.com/kubedb/postgres-restic-plugin/commit/6984c384) Fix WaitForDBConnection not logging the actual connection error (#111)
+- [229651a4](https://github.com/kubedb/postgres-restic-plugin/commit/229651a4) Prepare for release v0.28.0-rc.1 (#110)
+- [dad161fc](https://github.com/kubedb/postgres-restic-plugin/commit/dad161fc) Prepare for release v0.28.0-rc.0 (#109)
+- [e69d3dbc](https://github.com/kubedb/postgres-restic-plugin/commit/e69d3dbc) Harden release and release-tracker workflows
+- [341a4452](https://github.com/kubedb/postgres-restic-plugin/commit/341a4452) Add AGENTS.md for AI coding agents
+- [6b3dcd51](https://github.com/kubedb/postgres-restic-plugin/commit/6b3dcd51) Harden CI workflows (#107)
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.26.0](https://github.com/kubedb/provider-aws/releases/tag/v0.26.0)

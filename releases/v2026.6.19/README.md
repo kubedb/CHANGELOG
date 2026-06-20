@@ -1008,6 +1008,22 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.20.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.20.0)
+
+- [87d71d04](https://github.com/kubedb/singlestore-coordinator/commit/87d71d04) Prepare for release v0.20.0 (#76)
+- [5da3ad74](https://github.com/kubedb/singlestore-coordinator/commit/5da3ad74) Update github.com/moby/spdystream to v0.5.1 (#75)
+- [7f87bc81](https://github.com/kubedb/singlestore-coordinator/commit/7f87bc81) Prepare for release v0.20.0-rc.2 (#74)
+- [ae11d990](https://github.com/kubedb/singlestore-coordinator/commit/ae11d990) Prepare for release v0.20.0-rc.1 (#73)
+- [d287dabd](https://github.com/kubedb/singlestore-coordinator/commit/d287dabd) Prepare for release v0.20.0-rc.0 (#72)
+- [fcb2528e](https://github.com/kubedb/singlestore-coordinator/commit/fcb2528e) Tighten CI/release workflow secrets, perms, and release notes
+- [0f78329e](https://github.com/kubedb/singlestore-coordinator/commit/0f78329e) Harden release and release-tracker workflows
+- [0ff7dc5b](https://github.com/kubedb/singlestore-coordinator/commit/0ff7dc5b) Add AGENTS.md for AI coding agents
+- [357d9a67](https://github.com/kubedb/singlestore-coordinator/commit/357d9a67) Harden CI workflows (#70)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.23.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.23.0)

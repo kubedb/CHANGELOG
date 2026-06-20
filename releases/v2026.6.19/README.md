@@ -503,6 +503,31 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.6.0](https://github.com/kubedb/milvus/releases/tag/v0.6.0)
+
+- [0fdf9a63](https://github.com/kubedb/milvus/commit/0fdf9a63) Prepare for release v0.6.0 (#49)
+- [611a5818](https://github.com/kubedb/milvus/commit/611a5818) Fix mTLS issue (#47)
+- [fa57da9b](https://github.com/kubedb/milvus/commit/fa57da9b) Prepare for release v0.6.0-rc.2 (#48)
+- [85d63146](https://github.com/kubedb/milvus/commit/85d63146) Add HorizontalScaling OpsRequest support (#45)
+- [41e84651](https://github.com/kubedb/milvus/commit/41e84651) Honor user-provided renewBefore in TLS certificate ops (#40)
+- [d364f887](https://github.com/kubedb/milvus/commit/d364f887) Fix Milvus deletion (#44)
+- [1ae0debe](https://github.com/kubedb/milvus/commit/1ae0debe) Add RotateAuth OpsRequest support for Milvus (#46)
+- [79cba14c](https://github.com/kubedb/milvus/commit/79cba14c) Add NetworkPolicyFlavor support for cilium (#43)
+- [703de898](https://github.com/kubedb/milvus/commit/703de898) Prepare for release v0.6.0-rc.1 (#42)
+- [83890286](https://github.com/kubedb/milvus/commit/83890286) Add StorageMigration Ops-Request Support (#39)
+- [718988e1](https://github.com/kubedb/milvus/commit/718988e1) Add Milvus Ops Request (#33)
+- [062b7eab](https://github.com/kubedb/milvus/commit/062b7eab) Prepare for release v0.6.0-rc.0 (#37)
+- [984bf9be](https://github.com/kubedb/milvus/commit/984bf9be) Tighten CI/release workflow secrets, perms, and release notes
+- [63fee186](https://github.com/kubedb/milvus/commit/63fee186) Harden release and release-tracker workflows
+- [ceb74c51](https://github.com/kubedb/milvus/commit/ceb74c51) Add CLAUDE.md pointing to AGENTS.md
+- [b69a946b](https://github.com/kubedb/milvus/commit/b69a946b) Add Milvus Tls (#25)
+- [f319f086](https://github.com/kubedb/milvus/commit/f319f086) Add AGENTS.md for AI coding agents
+- [10e389a6](https://github.com/kubedb/milvus/commit/10e389a6) Harden CI workflows (#34)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.26.0)

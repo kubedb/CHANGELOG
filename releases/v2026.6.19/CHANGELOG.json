@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:55:35.296649189Z",
+  "release_date": "2026-06-20T08:55:45.472742875Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1631,6 +1631,88 @@
             {
               "SHA": "8a21ae49",
               "Subject": "Separate dockerfile for each databases (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "0fdf9a63",
+              "Subject": "Prepare for release v0.6.0 (#49)"
+            },
+            {
+              "SHA": "611a5818",
+              "Subject": "Fix mTLS issue (#47)"
+            },
+            {
+              "SHA": "fa57da9b",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#48)"
+            },
+            {
+              "SHA": "85d63146",
+              "Subject": "Add HorizontalScaling OpsRequest support (#45)"
+            },
+            {
+              "SHA": "41e84651",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#40)"
+            },
+            {
+              "SHA": "d364f887",
+              "Subject": "Fix Milvus deletion (#44)"
+            },
+            {
+              "SHA": "1ae0debe",
+              "Subject": "Add RotateAuth OpsRequest support for Milvus (#46)"
+            },
+            {
+              "SHA": "79cba14c",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#43)"
+            },
+            {
+              "SHA": "703de898",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#42)"
+            },
+            {
+              "SHA": "83890286",
+              "Subject": "Add StorageMigration Ops-Request Support (#39)"
+            },
+            {
+              "SHA": "718988e1",
+              "Subject": "Add Milvus Ops Request (#33)"
+            },
+            {
+              "SHA": "062b7eab",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#37)"
+            },
+            {
+              "SHA": "984bf9be",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "63fee186",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ceb74c51",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "b69a946b",
+              "Subject": "Add Milvus Tls (#25)"
+            },
+            {
+              "SHA": "f319f086",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "10e389a6",
+              "Subject": "Harden CI workflows (#34)"
             }
           ]
         }

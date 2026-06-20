@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:45:39.348245774Z",
+  "release_date": "2026-06-20T08:46:08.181242139Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -907,6 +907,88 @@
             {
               "SHA": "f8e2fc26",
               "Subject": "Harden CI workflows (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-cli",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "eb2fe1d4",
+              "Subject": "Prepare for release v0.5.0 (#29)"
+            },
+            {
+              "SHA": "77456208",
+              "Subject": "Merge pull request #28 from kubedb/mongoshakePathChange"
+            },
+            {
+              "SHA": "c8134f14",
+              "Subject": "Merge branch 'master' into mongoshakePathChange"
+            },
+            {
+              "SHA": "09a10537",
+              "Subject": "changed mongoshake branch"
+            },
+            {
+              "SHA": "1c853d60",
+              "Subject": "Add tls for postgres (#26)"
+            },
+            {
+              "SHA": "5e531a13",
+              "Subject": "changed mongoshake source from alibaba to kubedb"
+            },
+            {
+              "SHA": "3f035485",
+              "Subject": "Update github.com/jackc/pgx/v5 to v5.9.2 (#27)"
+            },
+            {
+              "SHA": "fe2606c9",
+              "Subject": "Prepare for release v0.5.0-rc.2 (#25)"
+            },
+            {
+              "SHA": "b7088fad",
+              "Subject": "Mysql migration init (#11)"
+            },
+            {
+              "SHA": "06810c85",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "f64c95cd",
+              "Subject": "Prepare for release v0.5.0-rc.1 (#23)"
+            },
+            {
+              "SHA": "cfecdf1a",
+              "Subject": "Prepare for release v0.5.0-rc.0 (#21)"
+            },
+            {
+              "SHA": "1615cc31",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "bbba7844",
+              "Subject": "Added MongoDB migration (#16)"
+            },
+            {
+              "SHA": "27f1c91c",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "d21c2740",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "7d5ab3d4",
+              "Subject": "Harden CI workflows (#19)"
+            },
+            {
+              "SHA": "8a21ae49",
+              "Subject": "Separate dockerfile for each databases (#17)"
             }
           ]
         }

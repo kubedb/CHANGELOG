@@ -268,6 +268,31 @@
 
 
 
+## [kubedb/migrator-cli](https://github.com/kubedb/migrator-cli)
+
+### [v0.5.0](https://github.com/kubedb/migrator-cli/releases/tag/v0.5.0)
+
+- [eb2fe1d4](https://github.com/kubedb/migrator-cli/commit/eb2fe1d4) Prepare for release v0.5.0 (#29)
+- [77456208](https://github.com/kubedb/migrator-cli/commit/77456208) Merge pull request #28 from kubedb/mongoshakePathChange
+- [c8134f14](https://github.com/kubedb/migrator-cli/commit/c8134f14) Merge branch 'master' into mongoshakePathChange
+- [09a10537](https://github.com/kubedb/migrator-cli/commit/09a10537) changed mongoshake branch
+- [1c853d60](https://github.com/kubedb/migrator-cli/commit/1c853d60) Add tls for postgres (#26)
+- [5e531a13](https://github.com/kubedb/migrator-cli/commit/5e531a13) changed mongoshake source from alibaba to kubedb
+- [3f035485](https://github.com/kubedb/migrator-cli/commit/3f035485) Update github.com/jackc/pgx/v5 to v5.9.2 (#27)
+- [fe2606c9](https://github.com/kubedb/migrator-cli/commit/fe2606c9) Prepare for release v0.5.0-rc.2 (#25)
+- [b7088fad](https://github.com/kubedb/migrator-cli/commit/b7088fad) Mysql migration init (#11)
+- [06810c85](https://github.com/kubedb/migrator-cli/commit/06810c85) Update README.md
+- [f64c95cd](https://github.com/kubedb/migrator-cli/commit/f64c95cd) Prepare for release v0.5.0-rc.1 (#23)
+- [cfecdf1a](https://github.com/kubedb/migrator-cli/commit/cfecdf1a) Prepare for release v0.5.0-rc.0 (#21)
+- [1615cc31](https://github.com/kubedb/migrator-cli/commit/1615cc31) Tighten CI/release workflow secrets, perms, and release notes
+- [bbba7844](https://github.com/kubedb/migrator-cli/commit/bbba7844) Added MongoDB migration (#16)
+- [27f1c91c](https://github.com/kubedb/migrator-cli/commit/27f1c91c) Harden release and release-tracker workflows
+- [d21c2740](https://github.com/kubedb/migrator-cli/commit/d21c2740) Add AGENTS.md for AI coding agents
+- [7d5ab3d4](https://github.com/kubedb/migrator-cli/commit/7d5ab3d4) Harden CI workflows (#19)
+- [8a21ae49](https://github.com/kubedb/migrator-cli/commit/8a21ae49) Separate dockerfile for each databases (#17)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.19.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.19.0)

@@ -844,6 +844,29 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.6.0](https://github.com/kubedb/neo4j/releases/tag/v0.6.0)
+
+- [534f93d1](https://github.com/kubedb/neo4j/commit/534f93d1) Prepare for release v0.6.0 (#44)
+- [5956ff9d](https://github.com/kubedb/neo4j/commit/5956ff9d) CustomConfig VolumeMount fix (#43)
+- [2639a89b](https://github.com/kubedb/neo4j/commit/2639a89b) Prepare for release v0.6.0-rc.2 (#42)
+- [f742558f](https://github.com/kubedb/neo4j/commit/f742558f) Fix passing credential as a literal env value in the PetSet (#41)
+- [c465d3c8](https://github.com/kubedb/neo4j/commit/c465d3c8) feat: implement git-sync init container for Neo4j (#36)
+- [4f787bca](https://github.com/kubedb/neo4j/commit/4f787bca) Fix Neo4j Deletion (#40)
+- [e6ab6aa3](https://github.com/kubedb/neo4j/commit/e6ab6aa3) Add NetworkPolicyFlavor support (#39)
+- [c5dcc324](https://github.com/kubedb/neo4j/commit/c5dcc324) Prepare for release v0.6.0-rc.1 (#38)
+- [0bf9da80](https://github.com/kubedb/neo4j/commit/0bf9da80) Add Backup port in primary service (#31)
+- [63a96dad](https://github.com/kubedb/neo4j/commit/63a96dad) Prepare for release v0.6.0-rc.0 (#34)
+- [e215c4c8](https://github.com/kubedb/neo4j/commit/e215c4c8) Tighten CI/release workflow secrets, perms, and release notes
+- [98283581](https://github.com/kubedb/neo4j/commit/98283581) Harden release and release-tracker workflows
+- [77704502](https://github.com/kubedb/neo4j/commit/77704502) Add StorageMigration OpsRequest support for Neo4j (#33)
+- [8dc5edbf](https://github.com/kubedb/neo4j/commit/8dc5edbf) Add CLAUDE.md pointing to AGENTS.md
+- [c8f95c51](https://github.com/kubedb/neo4j/commit/c8f95c51) Add AGENTS.md for AI coding agents
+- [beb02ed6](https://github.com/kubedb/neo4j/commit/beb02ed6) Harden CI workflows (#30)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.11.0](https://github.com/kubedb/oracle/releases/tag/v0.11.0)

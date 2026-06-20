@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T10:53:50.864937505Z",
+  "release_date": "2026-06-20T10:54:09.471206725Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -2635,6 +2635,80 @@
             {
               "SHA": "e1d55d1",
               "Subject": "Merge pull request #59 from kubedb/use-app-token-2284"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "534f93d1",
+              "Subject": "Prepare for release v0.6.0 (#44)"
+            },
+            {
+              "SHA": "5956ff9d",
+              "Subject": "CustomConfig VolumeMount fix (#43)"
+            },
+            {
+              "SHA": "2639a89b",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#42)"
+            },
+            {
+              "SHA": "f742558f",
+              "Subject": "Fix passing credential as a literal env value in the PetSet (#41)"
+            },
+            {
+              "SHA": "c465d3c8",
+              "Subject": "feat: implement git-sync init container for Neo4j (#36)"
+            },
+            {
+              "SHA": "4f787bca",
+              "Subject": "Fix Neo4j Deletion (#40)"
+            },
+            {
+              "SHA": "e6ab6aa3",
+              "Subject": "Add NetworkPolicyFlavor support (#39)"
+            },
+            {
+              "SHA": "c5dcc324",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#38)"
+            },
+            {
+              "SHA": "0bf9da80",
+              "Subject": "Add Backup port in primary service (#31)"
+            },
+            {
+              "SHA": "63a96dad",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#34)"
+            },
+            {
+              "SHA": "e215c4c8",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "98283581",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "77704502",
+              "Subject": "Add StorageMigration OpsRequest support for Neo4j (#33)"
+            },
+            {
+              "SHA": "8dc5edbf",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "c8f95c51",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "beb02ed6",
+              "Subject": "Harden CI workflows (#30)"
             }
           ]
         }

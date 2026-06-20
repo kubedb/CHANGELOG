@@ -515,6 +515,21 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.49.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.49.0)
+
+- [784ef83c](https://github.com/kubedb/pg-coordinator/commit/784ef83c) Prepare for release v0.49.0 (#256)
+- [6ab0ea56](https://github.com/kubedb/pg-coordinator/commit/6ab0ea56) Update vulnerable dependencies (#255)
+- [c2213131](https://github.com/kubedb/pg-coordinator/commit/c2213131) Prepare for release v0.49.0-rc.2 (#254)
+- [46d694d9](https://github.com/kubedb/pg-coordinator/commit/46d694d9) Document pod injection role in AGENTS.md (#253)
+- [412aedcf](https://github.com/kubedb/pg-coordinator/commit/412aedcf) Prepare for release v0.49.0-rc.1 (#252)
+- [e1bf909c](https://github.com/kubedb/pg-coordinator/commit/e1bf909c) Prepare for release v0.49.0-rc.0 (#251)
+- [9bda4b8a](https://github.com/kubedb/pg-coordinator/commit/9bda4b8a) Tighten CI/release workflow secrets, perms, and release notes
+- [960efc2e](https://github.com/kubedb/pg-coordinator/commit/960efc2e) Harden release and release-tracker workflows
+
+
+
 ## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
 
 ### [v0.26.0](https://github.com/kubedb/provider-aws/releases/tag/v0.26.0)

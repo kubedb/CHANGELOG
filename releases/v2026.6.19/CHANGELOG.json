@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:51:37.966449381Z",
+  "release_date": "2026-06-20T08:52:00.065010144Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1643,6 +1643,48 @@
             {
               "SHA": "1881477c",
               "Subject": "Harden CI workflows (#125)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.49.0",
+          "commits": [
+            {
+              "SHA": "784ef83c",
+              "Subject": "Prepare for release v0.49.0 (#256)"
+            },
+            {
+              "SHA": "6ab0ea56",
+              "Subject": "Update vulnerable dependencies (#255)"
+            },
+            {
+              "SHA": "c2213131",
+              "Subject": "Prepare for release v0.49.0-rc.2 (#254)"
+            },
+            {
+              "SHA": "46d694d9",
+              "Subject": "Document pod injection role in AGENTS.md (#253)"
+            },
+            {
+              "SHA": "412aedcf",
+              "Subject": "Prepare for release v0.49.0-rc.1 (#252)"
+            },
+            {
+              "SHA": "e1bf909c",
+              "Subject": "Prepare for release v0.49.0-rc.0 (#251)"
+            },
+            {
+              "SHA": "9bda4b8a",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "960efc2e",
+              "Subject": "Harden release and release-tracker workflows"
             }
           ]
         }

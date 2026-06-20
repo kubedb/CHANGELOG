@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:46:08.181242139Z",
+  "release_date": "2026-06-20T08:46:31.576662306Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1409,6 +1409,60 @@
             {
               "SHA": "90f8831e",
               "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "9cbd2e6d",
+              "Subject": "Prepare for release v0.20.0 (#128)"
+            },
+            {
+              "SHA": "23412a6b",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#127)"
+            },
+            {
+              "SHA": "b3e8b477",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#125)"
+            },
+            {
+              "SHA": "37106c9c",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#124)"
+            },
+            {
+              "SHA": "dca38f13",
+              "Subject": "Use PatchStatus instead of CreateOrPatch to avoid timing issues on db deletion (#122)"
+            },
+            {
+              "SHA": "a572da63",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#121)"
+            },
+            {
+              "SHA": "f583941f",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "d4475edf",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "7a658949",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "d06d8429",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "36e65048",
+              "Subject": "Harden CI workflows (#119)"
             }
           ]
         }

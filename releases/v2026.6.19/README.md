@@ -443,6 +443,24 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.20.0](https://github.com/kubedb/zookeeper/releases/tag/v0.20.0)
+
+- [9cbd2e6d](https://github.com/kubedb/zookeeper/commit/9cbd2e6d) Prepare for release v0.20.0 (#128)
+- [23412a6b](https://github.com/kubedb/zookeeper/commit/23412a6b) Prepare for release v0.20.0-rc.2 (#127)
+- [b3e8b477](https://github.com/kubedb/zookeeper/commit/b3e8b477) Prepare for release v0.20.0-rc.1 (#125)
+- [37106c9c](https://github.com/kubedb/zookeeper/commit/37106c9c) Add --network-policy-flavor flag with cilium support (#124)
+- [dca38f13](https://github.com/kubedb/zookeeper/commit/dca38f13) Use PatchStatus instead of CreateOrPatch to avoid timing issues on db deletion (#122)
+- [a572da63](https://github.com/kubedb/zookeeper/commit/a572da63) Prepare for release v0.20.0-rc.0 (#121)
+- [f583941f](https://github.com/kubedb/zookeeper/commit/f583941f) Tighten CI/release workflow secrets, perms, and release notes
+- [d4475edf](https://github.com/kubedb/zookeeper/commit/d4475edf) Harden release and release-tracker workflows
+- [7a658949](https://github.com/kubedb/zookeeper/commit/7a658949) Add CLAUDE.md pointing to AGENTS.md
+- [d06d8429](https://github.com/kubedb/zookeeper/commit/d06d8429) Add AGENTS.md for AI coding agents
+- [36e65048](https://github.com/kubedb/zookeeper/commit/36e65048) Harden CI workflows (#119)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.20.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.20.0)

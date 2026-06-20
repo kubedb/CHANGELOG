@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:53:53.696071157Z",
+  "release_date": "2026-06-20T08:54:30.25756695Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1839,6 +1839,56 @@
             {
               "SHA": "960efc2e",
               "Subject": "Harden release and release-tracker workflows"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "295950cd",
+              "Subject": "Prepare for release v0.20.0 (#127)"
+            },
+            {
+              "SHA": "1300a83b",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#126)"
+            },
+            {
+              "SHA": "a361fefb",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#125)"
+            },
+            {
+              "SHA": "1750b479",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#123)"
+            },
+            {
+              "SHA": "eff93373",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#122)"
+            },
+            {
+              "SHA": "9dd15b6e",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#120)"
+            },
+            {
+              "SHA": "dbd10776",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "12f83ac2",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "23a0bf8f",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "efab69a4",
+              "Subject": "Harden CI workflows (#118)"
             }
           ]
         }

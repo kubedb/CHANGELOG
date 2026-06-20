@@ -582,6 +582,23 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.20.0](https://github.com/kubedb/pgpool/releases/tag/v0.20.0)
+
+- [295950cd](https://github.com/kubedb/pgpool/commit/295950cd) Prepare for release v0.20.0 (#127)
+- [1300a83b](https://github.com/kubedb/pgpool/commit/1300a83b) Update github.com/moby/spdystream to v0.5.1 (#126)
+- [a361fefb](https://github.com/kubedb/pgpool/commit/a361fefb) Prepare for release v0.20.0-rc.2 (#125)
+- [1750b479](https://github.com/kubedb/pgpool/commit/1750b479) Prepare for release v0.20.0-rc.1 (#123)
+- [eff93373](https://github.com/kubedb/pgpool/commit/eff93373) Add --network-policy-flavor flag with cilium support (#122)
+- [9dd15b6e](https://github.com/kubedb/pgpool/commit/9dd15b6e) Prepare for release v0.20.0-rc.0 (#120)
+- [dbd10776](https://github.com/kubedb/pgpool/commit/dbd10776) Tighten CI/release workflow secrets, perms, and release notes
+- [12f83ac2](https://github.com/kubedb/pgpool/commit/12f83ac2) Harden release and release-tracker workflows
+- [23a0bf8f](https://github.com/kubedb/pgpool/commit/23a0bf8f) Add AGENTS.md for AI coding agents
+- [efab69a4](https://github.com/kubedb/pgpool/commit/efab69a4) Harden CI workflows (#118)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.28.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.28.0)

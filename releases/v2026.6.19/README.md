@@ -418,6 +418,21 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.16.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.16.0)
+
+- [2af814fc](https://github.com/kubedb/kubedb-verifier/commit/2af814fc) Prepare for release v0.16.0 (#55)
+- [783bc77f](https://github.com/kubedb/kubedb-verifier/commit/783bc77f) Update github.com/moby/spdystream to v0.5.1 (#54)
+- [fe877028](https://github.com/kubedb/kubedb-verifier/commit/fe877028) Prepare for release v0.16.0-rc.2 (#53)
+- [bf5f23ea](https://github.com/kubedb/kubedb-verifier/commit/bf5f23ea) Prepare for release v0.16.0-rc.1 (#52)
+- [e78f35ea](https://github.com/kubedb/kubedb-verifier/commit/e78f35ea) Prepare for release v0.16.0-rc.0 (#51)
+- [fa4b05f8](https://github.com/kubedb/kubedb-verifier/commit/fa4b05f8) Harden release and release-tracker workflows
+- [f13312e1](https://github.com/kubedb/kubedb-verifier/commit/f13312e1) Add AGENTS.md for AI coding agents
+- [8d1ab507](https://github.com/kubedb/kubedb-verifier/commit/8d1ab507) Harden CI workflows (#49)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.49.0](https://github.com/kubedb/mariadb/releases/tag/v0.49.0)

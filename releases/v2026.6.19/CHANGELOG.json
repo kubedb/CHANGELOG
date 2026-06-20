@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:56:11.325860482Z",
+  "release_date": "2026-06-20T09:02:26.924672609Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1363,6 +1363,48 @@
             {
               "SHA": "88a6d9b5",
               "Subject": "Harden CI workflows (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "2af814fc",
+              "Subject": "Prepare for release v0.16.0 (#55)"
+            },
+            {
+              "SHA": "783bc77f",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#54)"
+            },
+            {
+              "SHA": "fe877028",
+              "Subject": "Prepare for release v0.16.0-rc.2 (#53)"
+            },
+            {
+              "SHA": "bf5f23ea",
+              "Subject": "Prepare for release v0.16.0-rc.1 (#52)"
+            },
+            {
+              "SHA": "e78f35ea",
+              "Subject": "Prepare for release v0.16.0-rc.0 (#51)"
+            },
+            {
+              "SHA": "fa4b05f8",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "f13312e1",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "8d1ab507",
+              "Subject": "Harden CI workflows (#49)"
             }
           ]
         }

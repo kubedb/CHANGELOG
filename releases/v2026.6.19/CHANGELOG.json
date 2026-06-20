@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T09:04:41.406804681Z",
+  "release_date": "2026-06-20T09:05:11.853615001Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -803,6 +803,44 @@
             {
               "SHA": "465442b7",
               "Subject": "Harden CI workflows (#240)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "b2f233d",
+              "Subject": "Prepare for release v0.6.0 (#14)"
+            },
+            {
+              "SHA": "9f4c409",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#13)"
+            },
+            {
+              "SHA": "55e13e2",
+              "Subject": "Fix version detection and import kubedb.dev/apimachinery (#12)"
+            },
+            {
+              "SHA": "a1e57d7",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "d6b3d18",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ac8ef66",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "45f3f3d",
+              "Subject": "Harden CI workflows (#10)"
             }
           ]
         }

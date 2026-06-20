@@ -233,6 +233,20 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.6.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.6.0)
+
+- [b2f233d](https://github.com/kubedb/db2-coordinator/commit/b2f233d) Prepare for release v0.6.0 (#14)
+- [9f4c409](https://github.com/kubedb/db2-coordinator/commit/9f4c409) Prepare for release v0.6.0-rc.2 (#13)
+- [55e13e2](https://github.com/kubedb/db2-coordinator/commit/55e13e2) Fix version detection and import kubedb.dev/apimachinery (#12)
+- [a1e57d7](https://github.com/kubedb/db2-coordinator/commit/a1e57d7) Tighten CI/release workflow secrets, perms, and release notes
+- [d6b3d18](https://github.com/kubedb/db2-coordinator/commit/d6b3d18) Harden release and release-tracker workflows
+- [ac8ef66](https://github.com/kubedb/db2-coordinator/commit/ac8ef66) Add AGENTS.md for AI coding agents
+- [45f3f3d](https://github.com/kubedb/db2-coordinator/commit/45f3f3d) Harden CI workflows (#10)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.2.0](https://github.com/kubedb/documentdb/releases/tag/v0.2.0)

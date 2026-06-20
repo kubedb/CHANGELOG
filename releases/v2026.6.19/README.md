@@ -305,6 +305,13 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.6.19](https://github.com/kubedb/docs/releases/tag/v2026.6.19)
+
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.2.0](https://github.com/kubedb/documentdb/releases/tag/v0.2.0)

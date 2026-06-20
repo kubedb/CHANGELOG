@@ -983,6 +983,24 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.52.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.52.0)
+
+- [11585f77](https://github.com/kubedb/pgbouncer/commit/11585f77d) Prepare for release v0.52.0 (#419)
+- [aa44932f](https://github.com/kubedb/pgbouncer/commit/aa44932ff) Update github.com/moby/spdystream to v0.5.1 (#418)
+- [cc7ae286](https://github.com/kubedb/pgbouncer/commit/cc7ae2860) Prepare for release v0.52.0-rc.2 (#417)
+- [8e5905a4](https://github.com/kubedb/pgbouncer/commit/8e5905a4b) Prepare for release v0.52.0-rc.1 (#416)
+- [c5e7a81e](https://github.com/kubedb/pgbouncer/commit/c5e7a81e0) Add --network-policy-flavor flag with cilium support (#415)
+- [700a235c](https://github.com/kubedb/pgbouncer/commit/700a235cf) Prepare for release v0.52.0-rc.0 (#413)
+- [84b1a19e](https://github.com/kubedb/pgbouncer/commit/84b1a19ea) Tighten CI/release workflow secrets, perms, and release notes
+- [c3e4b4e1](https://github.com/kubedb/pgbouncer/commit/c3e4b4e10) Harden release and release-tracker workflows
+- [e0746413](https://github.com/kubedb/pgbouncer/commit/e07464138) Run Ops Request Locally (#412)
+- [ce2cad78](https://github.com/kubedb/pgbouncer/commit/ce2cad789) Add AGENTS.md for AI coding agents
+- [1215a247](https://github.com/kubedb/pgbouncer/commit/1215a247e) Harden CI workflows (#410)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.20.0](https://github.com/kubedb/pgpool/releases/tag/v0.20.0)

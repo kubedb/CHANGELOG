@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T11:00:30.644524117Z",
+  "release_date": "2026-06-20T11:00:54.131220313Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -3046,6 +3046,60 @@
             {
               "SHA": "960efc2e",
               "Subject": "Harden release and release-tracker workflows"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "11585f77d",
+              "Subject": "Prepare for release v0.52.0 (#419)"
+            },
+            {
+              "SHA": "aa44932ff",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#418)"
+            },
+            {
+              "SHA": "cc7ae2860",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#417)"
+            },
+            {
+              "SHA": "8e5905a4b",
+              "Subject": "Prepare for release v0.52.0-rc.1 (#416)"
+            },
+            {
+              "SHA": "c5e7a81e0",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#415)"
+            },
+            {
+              "SHA": "700a235cf",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#413)"
+            },
+            {
+              "SHA": "84b1a19ea",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "c3e4b4e10",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e07464138",
+              "Subject": "Run Ops Request Locally (#412)"
+            },
+            {
+              "SHA": "ce2cad789",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "1215a247e",
+              "Subject": "Harden CI workflows (#410)"
             }
           ]
         }

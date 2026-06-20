@@ -579,6 +579,22 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.25.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.25.0)
+
+- [de9f69df](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/de9f69df) Prepare for release v0.25.0 (#82)
+- [0c58c412](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/0c58c412) Update github.com/moby/spdystream to v0.5.1 (#81)
+- [730ee57c](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/730ee57c) Prepare for release v0.25.0-rc.2 (#80)
+- [70b5cdd2](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/70b5cdd2) Prepare for release v0.25.0-rc.1 (#79)
+- [f432211e](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/f432211e) Prepare for release v0.25.0-rc.0 (#78)
+- [b75d52e3](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/b75d52e3) Tighten CI/release workflow secrets, perms, and release notes
+- [d622d7f3](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/d622d7f3) Harden release and release-tracker workflows
+- [748e02a6](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/748e02a6) Add AGENTS.md for AI coding agents
+- [cccdc734](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/cccdc734) Harden CI workflows (#76)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.23.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.23.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T10:59:16.915279832Z",
+  "release_date": "2026-06-20T11:00:30.644524117Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1845,6 +1845,52 @@
             {
               "SHA": "0af4eea5",
               "Subject": "Harden CI workflows (#177)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0",
+          "commits": [
+            {
+              "SHA": "de9f69df",
+              "Subject": "Prepare for release v0.25.0 (#82)"
+            },
+            {
+              "SHA": "0c58c412",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#81)"
+            },
+            {
+              "SHA": "730ee57c",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#80)"
+            },
+            {
+              "SHA": "70b5cdd2",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#79)"
+            },
+            {
+              "SHA": "f432211e",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "b75d52e3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "d622d7f3",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "748e02a6",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "cccdc734",
+              "Subject": "Harden CI workflows (#76)"
             }
           ]
         }

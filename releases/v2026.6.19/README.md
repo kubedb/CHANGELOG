@@ -1149,6 +1149,25 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.52.0](https://github.com/kubedb/proxysql/releases/tag/v0.52.0)
+
+- [420e5c0e](https://github.com/kubedb/proxysql/commit/420e5c0e5) Prepare for release v0.52.0 (#440)
+- [fb2e8d61](https://github.com/kubedb/proxysql/commit/fb2e8d616) Prepare for release v0.52.0-rc.2 (#439)
+- [75fcf154](https://github.com/kubedb/proxysql/commit/75fcf1540) Honor user-provided renewBefore in TLS certificate ops (#436)
+- [3c4cd633](https://github.com/kubedb/proxysql/commit/3c4cd6331) Implement RotateAuthentication for ProxySQL (#432)
+- [fe85fcd0](https://github.com/kubedb/proxysql/commit/fe85fcd09) Prepare for release v0.52.0-rc.1 (#438)
+- [d5d1d882](https://github.com/kubedb/proxysql/commit/d5d1d882e) Prepare for release v0.52.0-rc.0 (#434)
+- [bb7e268e](https://github.com/kubedb/proxysql/commit/bb7e268e4) Tighten CI/release workflow secrets, perms, and release notes
+- [9c59d49c](https://github.com/kubedb/proxysql/commit/9c59d49ce) Harden release and release-tracker workflows
+- [e29d1669](https://github.com/kubedb/proxysql/commit/e29d16693) Run Ops Request Locally (#433)
+- [b47e8c2d](https://github.com/kubedb/proxysql/commit/b47e8c2d3) Add CLAUDE.md pointing to AGENTS.md
+- [681acb3c](https://github.com/kubedb/proxysql/commit/681acb3c4) Add AGENTS.md for AI coding agents
+- [3b6a4061](https://github.com/kubedb/proxysql/commit/3b6a40616) Harden CI workflows (#430)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.6.0](https://github.com/kubedb/qdrant/releases/tag/v0.6.0)

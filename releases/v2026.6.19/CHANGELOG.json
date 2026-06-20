@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T11:01:29.448582713Z",
+  "release_date": "2026-06-20T11:01:44.512820281Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -3530,6 +3530,64 @@
             {
               "SHA": "4c70d45",
               "Subject": "Harden CI workflows (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "420e5c0e5",
+              "Subject": "Prepare for release v0.52.0 (#440)"
+            },
+            {
+              "SHA": "fb2e8d616",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#439)"
+            },
+            {
+              "SHA": "75fcf1540",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#436)"
+            },
+            {
+              "SHA": "3c4cd6331",
+              "Subject": "Implement RotateAuthentication for ProxySQL (#432)"
+            },
+            {
+              "SHA": "fe85fcd09",
+              "Subject": "Prepare for release v0.52.0-rc.1 (#438)"
+            },
+            {
+              "SHA": "d5d1d882e",
+              "Subject": "Prepare for release v0.52.0-rc.0 (#434)"
+            },
+            {
+              "SHA": "bb7e268e4",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "9c59d49ce",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "e29d16693",
+              "Subject": "Run Ops Request Locally (#433)"
+            },
+            {
+              "SHA": "b47e8c2d3",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "681acb3c4",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "3b6a40616",
+              "Subject": "Harden CI workflows (#430)"
             }
           ]
         }

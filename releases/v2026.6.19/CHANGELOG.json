@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:48:13.931731892Z",
+  "release_date": "2026-06-20T08:49:16.295227383Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -509,6 +509,72 @@
             {
               "SHA": "fcc9a127",
               "Subject": "Harden CI workflows (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "d347611d",
+              "Subject": "Prepare for release v0.20.0 (#116)"
+            },
+            {
+              "SHA": "01ed2962",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#115)"
+            },
+            {
+              "SHA": "d5a8072e",
+              "Subject": "feat: implement git-sync init container for ClickHouse (#109)"
+            },
+            {
+              "SHA": "85f38620",
+              "Subject": "Add StorageMigration OpsRequest support for ClickHouse (#106)"
+            },
+            {
+              "SHA": "6f1712d6",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#114)"
+            },
+            {
+              "SHA": "610759d3",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#110)"
+            },
+            {
+              "SHA": "b8b9b4d5",
+              "Subject": "Add NetworkPolicyFlavor support (#113)"
+            },
+            {
+              "SHA": "18935285",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#112)"
+            },
+            {
+              "SHA": "42932dad",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#107)"
+            },
+            {
+              "SHA": "5c3c401c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "a0a93b59",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "2c864737",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "001c11d6",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "f4a08fd1",
+              "Subject": "Restrict /ok-to-test to org members"
             }
           ]
         }

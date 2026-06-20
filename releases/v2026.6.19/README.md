@@ -137,6 +137,27 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.20.0](https://github.com/kubedb/clickhouse/releases/tag/v0.20.0)
+
+- [d347611d](https://github.com/kubedb/clickhouse/commit/d347611d) Prepare for release v0.20.0 (#116)
+- [01ed2962](https://github.com/kubedb/clickhouse/commit/01ed2962) Update github.com/moby/spdystream to v0.5.1 (#115)
+- [d5a8072e](https://github.com/kubedb/clickhouse/commit/d5a8072e) feat: implement git-sync init container for ClickHouse (#109)
+- [85f38620](https://github.com/kubedb/clickhouse/commit/85f38620) Add StorageMigration OpsRequest support for ClickHouse (#106)
+- [6f1712d6](https://github.com/kubedb/clickhouse/commit/6f1712d6) Prepare for release v0.20.0-rc.2 (#114)
+- [610759d3](https://github.com/kubedb/clickhouse/commit/610759d3) Honor user-provided renewBefore in TLS certificate ops (#110)
+- [b8b9b4d5](https://github.com/kubedb/clickhouse/commit/b8b9b4d5) Add NetworkPolicyFlavor support (#113)
+- [18935285](https://github.com/kubedb/clickhouse/commit/18935285) Prepare for release v0.20.0-rc.1 (#112)
+- [42932dad](https://github.com/kubedb/clickhouse/commit/42932dad) Prepare for release v0.20.0-rc.0 (#107)
+- [5c3c401c](https://github.com/kubedb/clickhouse/commit/5c3c401c) Tighten CI/release workflow secrets, perms, and release notes
+- [a0a93b59](https://github.com/kubedb/clickhouse/commit/a0a93b59) Harden release and release-tracker workflows
+- [2c864737](https://github.com/kubedb/clickhouse/commit/2c864737) Add CLAUDE.md pointing to AGENTS.md
+- [001c11d6](https://github.com/kubedb/clickhouse/commit/001c11d6) Add AGENTS.md for AI coding agents
+- [f4a08fd1](https://github.com/kubedb/clickhouse/commit/f4a08fd1) Restrict /ok-to-test to org members
+
+
+
 ## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.2.0)

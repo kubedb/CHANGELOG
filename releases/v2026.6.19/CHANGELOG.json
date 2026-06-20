@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T09:06:09.866778054Z",
+  "release_date": "2026-06-20T10:46:07.034908139Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -2827,6 +2827,96 @@
             {
               "SHA": "efab69a4",
               "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.65.0",
+          "commits": [
+            {
+              "SHA": "679f511d8",
+              "Subject": "Prepare for release v0.65.0 (#900)"
+            },
+            {
+              "SHA": "46d916986",
+              "Subject": "Export PgQueue field in Reconciler struct (#897)"
+            },
+            {
+              "SHA": "a53514794",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#899)"
+            },
+            {
+              "SHA": "98471e234",
+              "Subject": "Prepare for release v0.65.0-rc.2 (#898)"
+            },
+            {
+              "SHA": "ae9804e8b",
+              "Subject": "Use endpoint from ResticStats.Summary (#895)"
+            },
+            {
+              "SHA": "da3dca059",
+              "Subject": "Prepare for release v0.65.0-rc.1 (#894)"
+            },
+            {
+              "SHA": "f203a9079",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#886)"
+            },
+            {
+              "SHA": "aa3c1fd54",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#893)"
+            },
+            {
+              "SHA": "5d3d25d55",
+              "Subject": "(Skip coordinator + Fix health check) for Remote Replica (#891)"
+            },
+            {
+              "SHA": "4f7c41333",
+              "Subject": "Update cluster.local -> slice.local (#890)"
+            },
+            {
+              "SHA": "4aca95ba7",
+              "Subject": "Prepare for release v0.65.0-rc.0 (#889)"
+            },
+            {
+              "SHA": "cd25a1fca",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "f0d40da9b",
+              "Subject": "Add wal backup support for azure credless mode (#880)"
+            },
+            {
+              "SHA": "557c11f95",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "9b22d7959",
+              "Subject": "Run Ops Request Locally (#887)"
+            },
+            {
+              "SHA": "36945c392",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "44a337ef5",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "c4d57a65a",
+              "Subject": "Use docker/login-action; drop redundant docker hub steps (#884)"
+            },
+            {
+              "SHA": "723bdc55a",
+              "Subject": "Harden CI workflows (#882)"
+            },
+            {
+              "SHA": "791061f6b",
+              "Subject": "Fix Sidekick issue; Fix storage cred secret sync issue (#881)"
             }
           ]
         }

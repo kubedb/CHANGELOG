@@ -910,6 +910,33 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.65.0](https://github.com/kubedb/postgres/releases/tag/v0.65.0)
+
+- [679f511d](https://github.com/kubedb/postgres/commit/679f511d8) Prepare for release v0.65.0 (#900)
+- [46d91698](https://github.com/kubedb/postgres/commit/46d916986) Export PgQueue field in Reconciler struct (#897)
+- [a5351479](https://github.com/kubedb/postgres/commit/a53514794) Update github.com/moby/spdystream to v0.5.1 (#899)
+- [98471e23](https://github.com/kubedb/postgres/commit/98471e234) Prepare for release v0.65.0-rc.2 (#898)
+- [ae9804e8](https://github.com/kubedb/postgres/commit/ae9804e8b) Use endpoint from ResticStats.Summary (#895)
+- [da3dca05](https://github.com/kubedb/postgres/commit/da3dca059) Prepare for release v0.65.0-rc.1 (#894)
+- [f203a907](https://github.com/kubedb/postgres/commit/f203a9079) Add --network-policy-flavor flag with cilium support (#886)
+- [aa3c1fd5](https://github.com/kubedb/postgres/commit/aa3c1fd54) Honor user-provided renewBefore in TLS certificate ops (#893)
+- [5d3d25d5](https://github.com/kubedb/postgres/commit/5d3d25d55) (Skip coordinator + Fix health check) for Remote Replica (#891)
+- [4f7c4133](https://github.com/kubedb/postgres/commit/4f7c41333) Update cluster.local -> slice.local (#890)
+- [4aca95ba](https://github.com/kubedb/postgres/commit/4aca95ba7) Prepare for release v0.65.0-rc.0 (#889)
+- [cd25a1fc](https://github.com/kubedb/postgres/commit/cd25a1fca) Tighten CI/release workflow secrets, perms, and release notes
+- [f0d40da9](https://github.com/kubedb/postgres/commit/f0d40da9b) Add wal backup support for azure credless mode (#880)
+- [557c11f9](https://github.com/kubedb/postgres/commit/557c11f95) Harden release and release-tracker workflows
+- [9b22d795](https://github.com/kubedb/postgres/commit/9b22d7959) Run Ops Request Locally (#887)
+- [36945c39](https://github.com/kubedb/postgres/commit/36945c392) Add CLAUDE.md pointing to AGENTS.md
+- [44a337ef](https://github.com/kubedb/postgres/commit/44a337ef5) Add AGENTS.md for AI coding agents
+- [c4d57a65](https://github.com/kubedb/postgres/commit/c4d57a65a) Use docker/login-action; drop redundant docker hub steps (#884)
+- [723bdc55](https://github.com/kubedb/postgres/commit/723bdc55a) Harden CI workflows (#882)
+- [791061f6](https://github.com/kubedb/postgres/commit/791061f6b) Fix Sidekick issue; Fix storage cred secret sync issue (#881)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.26.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.26.0)

@@ -938,6 +938,16 @@
 
 
 
+## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
+
+### [v0.1.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.1.0)
+
+- [6059399](https://github.com/kubedb/neo4j-backup-plugin/commit/6059399) Use gh cli instead of hub cli
+- [3c30045](https://github.com/kubedb/neo4j-backup-plugin/commit/3c30045) Prepare for release v0.1.0 (#2)
+- [3342b9f](https://github.com/kubedb/neo4j-backup-plugin/commit/3342b9f) Add Neo4j Backup Plugin (#1)
+
+
+
 ## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
 
 ### [v0.52.0](https://github.com/kubedb/ops-manager/releases/tag/v0.52.0)

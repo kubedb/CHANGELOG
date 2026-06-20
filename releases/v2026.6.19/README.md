@@ -440,6 +440,21 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.26.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.26.0)
+
+- [68a2ebeb](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/68a2ebeb) Prepare for release v0.26.0 (#86)
+- [fe132cd7](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/fe132cd7) Prepare for release v0.26.0-rc.2 (#85)
+- [ec3b81a8](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/ec3b81a8) Prepare for release v0.26.0-rc.1 (#84)
+- [154dedfb](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/154dedfb) Prepare for release v0.26.0-rc.0 (#83)
+- [86a4f09c](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/86a4f09c) Tighten CI/release workflow secrets, perms, and release notes
+- [c445729e](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/c445729e) Harden release and release-tracker workflows
+- [6f77d33a](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/6f77d33a) Add AGENTS.md for AI coding agents
+- [fd4c25de](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/fd4c25de) Harden CI workflows (#81)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.20.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0)

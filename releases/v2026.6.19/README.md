@@ -118,6 +118,25 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.18.0](https://github.com/kubedb/cassandra/releases/tag/v0.18.0)
+
+- [e5733596](https://github.com/kubedb/cassandra/commit/e5733596) Prepare for release v0.18.0 (#90)
+- [a14d2587](https://github.com/kubedb/cassandra/commit/a14d2587) Prepare for release v0.18.0-rc.2 (#89)
+- [5f55678b](https://github.com/kubedb/cassandra/commit/5f55678b) Honor user-provided renewBefore in TLS certificate ops (#85)
+- [602bdf49](https://github.com/kubedb/cassandra/commit/602bdf49) Add StorageMigration OpsRequest support for Cassandra (#81)
+- [ef021693](https://github.com/kubedb/cassandra/commit/ef021693) Add NetworkPolicyFlavor support for cilium (#88)
+- [4855098e](https://github.com/kubedb/cassandra/commit/4855098e) Prepare for release v0.18.0-rc.1 (#87)
+- [a728b7f6](https://github.com/kubedb/cassandra/commit/a728b7f6) Prepare for release v0.18.0-rc.0 (#82)
+- [0363c990](https://github.com/kubedb/cassandra/commit/0363c990) Tighten CI/release workflow secrets, perms, and release notes
+- [995e9f8a](https://github.com/kubedb/cassandra/commit/995e9f8a) Harden release and release-tracker workflows
+- [eaa2a39b](https://github.com/kubedb/cassandra/commit/eaa2a39b) Add CLAUDE.md pointing to AGENTS.md
+- [cbc64d19](https://github.com/kubedb/cassandra/commit/cbc64d19) Add AGENTS.md for AI coding agents
+- [fcc9a127](https://github.com/kubedb/cassandra/commit/fcc9a127) Harden CI workflows (#79)
+
+
+
 ## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.2.0)

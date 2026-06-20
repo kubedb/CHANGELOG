@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:45:11.003798802Z",
+  "release_date": "2026-06-20T08:45:39.348245774Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -451,6 +451,64 @@
             {
               "SHA": "c3eb083ed",
               "Subject": "Delete metrics-exporter-config secret on wipeout for elasticsearch (#1659)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "e5733596",
+              "Subject": "Prepare for release v0.18.0 (#90)"
+            },
+            {
+              "SHA": "a14d2587",
+              "Subject": "Prepare for release v0.18.0-rc.2 (#89)"
+            },
+            {
+              "SHA": "5f55678b",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#85)"
+            },
+            {
+              "SHA": "602bdf49",
+              "Subject": "Add StorageMigration OpsRequest support for Cassandra (#81)"
+            },
+            {
+              "SHA": "ef021693",
+              "Subject": "Add NetworkPolicyFlavor support for cilium (#88)"
+            },
+            {
+              "SHA": "4855098e",
+              "Subject": "Prepare for release v0.18.0-rc.1 (#87)"
+            },
+            {
+              "SHA": "a728b7f6",
+              "Subject": "Prepare for release v0.18.0-rc.0 (#82)"
+            },
+            {
+              "SHA": "0363c990",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "995e9f8a",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "eaa2a39b",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "cbc64d19",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "fcc9a127",
+              "Subject": "Harden CI workflows (#79)"
             }
           ]
         }

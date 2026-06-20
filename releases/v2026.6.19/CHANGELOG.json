@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:51:05.575690319Z",
+  "release_date": "2026-06-20T08:51:37.966449381Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1775,6 +1775,48 @@
             {
               "SHA": "2a733db2",
               "Subject": "Harden CI workflows (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "bf16a4c7",
+              "Subject": "Prepare for release v0.44.0 (#163)"
+            },
+            {
+              "SHA": "8cc88c9c",
+              "Subject": "Prepare for release v0.44.0-rc.2 (#162)"
+            },
+            {
+              "SHA": "b0fc9339",
+              "Subject": "Prepare for release v0.44.0-rc.1 (#161)"
+            },
+            {
+              "SHA": "367048d8",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#160)"
+            },
+            {
+              "SHA": "a083e153",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "25c46735",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "928c964e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "90c797de",
+              "Subject": "Harden CI workflows (#158)"
             }
           ]
         }

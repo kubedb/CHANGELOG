@@ -679,6 +679,21 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.26.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.26.0)
+
+- [aa454ed7](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/aa454ed7) Prepare for release v0.26.0 (#82)
+- [3fd6f8d9](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/3fd6f8d9) Prepare for release v0.26.0-rc.2 (#81)
+- [5c73df2a](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/5c73df2a) Prepare for release v0.26.0-rc.1 (#80)
+- [02b24bac](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/02b24bac) Prepare for release v0.26.0-rc.0 (#79)
+- [b98f8382](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/b98f8382) Tighten CI/release workflow secrets, perms, and release notes
+- [aeb71151](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/aeb71151) Harden release and release-tracker workflows
+- [960c3538](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/960c3538) Add AGENTS.md for AI coding agents
+- [06b90e07](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/06b90e07) Harden CI workflows (#77)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.28.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.28.0)

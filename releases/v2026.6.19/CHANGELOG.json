@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:55:54.66631613Z",
+  "release_date": "2026-06-20T08:56:11.325860482Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -2493,6 +2493,88 @@
             {
               "SHA": "2a733db2",
               "Subject": "Harden CI workflows (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.58.0",
+          "commits": [
+            {
+              "SHA": "d18bffe83",
+              "Subject": "Prepare for release v0.58.0 (#653)"
+            },
+            {
+              "SHA": "551bdca01",
+              "Subject": "vnpay empty acl bug fix (#650)"
+            },
+            {
+              "SHA": "c811b5e4c",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#652)"
+            },
+            {
+              "SHA": "38804ba31",
+              "Subject": "Prepare for release v0.58.0-rc.2 (#651)"
+            },
+            {
+              "SHA": "05f9d6d50",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#647)"
+            },
+            {
+              "SHA": "ca8050ef7",
+              "Subject": "Prepare for release v0.58.0-rc.1 (#649)"
+            },
+            {
+              "SHA": "82e9701e5",
+              "Subject": "Add --network-policy-flavor flag with cilium support (#648)"
+            },
+            {
+              "SHA": "7f56a8b98",
+              "Subject": "Health Check updated (#641)"
+            },
+            {
+              "SHA": "7452ec78a",
+              "Subject": "Add StorageMigration OpsRequest support for Redis (#644)"
+            },
+            {
+              "SHA": "21037f135",
+              "Subject": "Merge ACL in reconfigure merger (#642)"
+            },
+            {
+              "SHA": "3afe56eab",
+              "Subject": "Prepare for release v0.58.0-rc.0 (#646)"
+            },
+            {
+              "SHA": "c961cdb42",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "a09720d5b",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "7d00abef9",
+              "Subject": "Run Ops Request Locally (#645)"
+            },
+            {
+              "SHA": "740c5c968",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "d23b442c3",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "d5c294b03",
+              "Subject": "Harden CI workflows (#640)"
+            },
+            {
+              "SHA": "34c6e5d56",
+              "Subject": "Add governing svc name in cert (#639)"
             }
           ]
         }

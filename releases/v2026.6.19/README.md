@@ -804,6 +804,31 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.58.0](https://github.com/kubedb/redis/releases/tag/v0.58.0)
+
+- [d18bffe8](https://github.com/kubedb/redis/commit/d18bffe83) Prepare for release v0.58.0 (#653)
+- [551bdca0](https://github.com/kubedb/redis/commit/551bdca01) vnpay empty acl bug fix (#650)
+- [c811b5e4](https://github.com/kubedb/redis/commit/c811b5e4c) Update github.com/moby/spdystream to v0.5.1 (#652)
+- [38804ba3](https://github.com/kubedb/redis/commit/38804ba31) Prepare for release v0.58.0-rc.2 (#651)
+- [05f9d6d5](https://github.com/kubedb/redis/commit/05f9d6d50) Honor user-provided renewBefore in TLS certificate ops (#647)
+- [ca8050ef](https://github.com/kubedb/redis/commit/ca8050ef7) Prepare for release v0.58.0-rc.1 (#649)
+- [82e9701e](https://github.com/kubedb/redis/commit/82e9701e5) Add --network-policy-flavor flag with cilium support (#648)
+- [7f56a8b9](https://github.com/kubedb/redis/commit/7f56a8b98) Health Check updated (#641)
+- [7452ec78](https://github.com/kubedb/redis/commit/7452ec78a) Add StorageMigration OpsRequest support for Redis (#644)
+- [21037f13](https://github.com/kubedb/redis/commit/21037f135) Merge ACL in reconfigure merger (#642)
+- [3afe56ea](https://github.com/kubedb/redis/commit/3afe56eab) Prepare for release v0.58.0-rc.0 (#646)
+- [c961cdb4](https://github.com/kubedb/redis/commit/c961cdb42) Tighten CI/release workflow secrets, perms, and release notes
+- [a09720d5](https://github.com/kubedb/redis/commit/a09720d5b) Harden release and release-tracker workflows
+- [7d00abef](https://github.com/kubedb/redis/commit/7d00abef9) Run Ops Request Locally (#645)
+- [740c5c96](https://github.com/kubedb/redis/commit/740c5c968) Add CLAUDE.md pointing to AGENTS.md
+- [d23b442c](https://github.com/kubedb/redis/commit/d23b442c3) Add AGENTS.md for AI coding agents
+- [d5c294b0](https://github.com/kubedb/redis/commit/d5c294b03) Harden CI workflows (#640)
+- [34c6e5d5](https://github.com/kubedb/redis/commit/34c6e5d56) Add governing svc name in cert (#639)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.44.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.44.0)

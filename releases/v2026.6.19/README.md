@@ -431,6 +431,26 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.36.0](https://github.com/kubedb/kafka/releases/tag/v0.36.0)
+
+- [d10d9665](https://github.com/kubedb/kafka/commit/d10d9665) Prepare for release v0.36.0 (#203)
+- [da458b15](https://github.com/kubedb/kafka/commit/da458b15) Prepare for release v0.36.0-rc.2 (#202)
+- [d95e5cbc](https://github.com/kubedb/kafka/commit/d95e5cbc) Honor user-provided renewBefore in TLS certificate ops (#198)
+- [8ac2cd7b](https://github.com/kubedb/kafka/commit/8ac2cd7b) Add NetworkPolicyFlavor support for cilium (#201)
+- [a1068e0b](https://github.com/kubedb/kafka/commit/a1068e0b) Prepare for release v0.36.0-rc.1 (#200)
+- [c6a0dee3](https://github.com/kubedb/kafka/commit/c6a0dee3) Add StorageMigration OpsRequest support (#194)
+- [af590f7a](https://github.com/kubedb/kafka/commit/af590f7a) Prepare for release v0.36.0-rc.0 (#196)
+- [1182e416](https://github.com/kubedb/kafka/commit/1182e416) Tighten CI/release workflow secrets, perms, and release notes
+- [bc7be0ce](https://github.com/kubedb/kafka/commit/bc7be0ce) Harden release and release-tracker workflows
+- [2bfcd4c6](https://github.com/kubedb/kafka/commit/2bfcd4c6) Run Ops Request Locally (#195)
+- [7cbac0ff](https://github.com/kubedb/kafka/commit/7cbac0ff) Add CLAUDE.md pointing to AGENTS.md
+- [96456b8e](https://github.com/kubedb/kafka/commit/96456b8e) Add AGENTS.md for AI coding agents
+- [8b49617d](https://github.com/kubedb/kafka/commit/8b49617d) Harden CI workflows (#192)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.28.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.28.0)

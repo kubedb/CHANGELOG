@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T10:53:10.06865272Z",
+  "release_date": "2026-06-20T10:53:50.864937505Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -2635,6 +2635,92 @@
             {
               "SHA": "e1d55d1",
               "Subject": "Merge pull request #59 from kubedb/use-app-token-2284"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "ec2b76b3",
+              "Subject": "Prepare for release v0.11.0 (#62)"
+            },
+            {
+              "SHA": "4f6c5ef7",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#61)"
+            },
+            {
+              "SHA": "91f689e2",
+              "Subject": "Prepare for release v0.11.0-rc.2 (#60)"
+            },
+            {
+              "SHA": "666716b1",
+              "Subject": "Implement VolumeExpansion ops for Oracle (#46)"
+            },
+            {
+              "SHA": "6c4afce5",
+              "Subject": "Add VerticalScaling OpsRequest implementation (#47)"
+            },
+            {
+              "SHA": "5bf3fe65",
+              "Subject": "Implement RotateAuthentication for Oracle (#48)"
+            },
+            {
+              "SHA": "4ffeaede",
+              "Subject": "add oracle ops restart reconfigure and appbinding (#42)"
+            },
+            {
+              "SHA": "44e872ea",
+              "Subject": "add appbinding for oracle (#51)"
+            },
+            {
+              "SHA": "1cc52267",
+              "Subject": "Add NetworkPolicyFlavor support (#59)"
+            },
+            {
+              "SHA": "df02ec98",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#56)"
+            },
+            {
+              "SHA": "789d3804",
+              "Subject": "Prepare for release v0.11.0-rc.1 (#58)"
+            },
+            {
+              "SHA": "13c00d3e",
+              "Subject": "add ImagePullSecret for observer (#54)"
+            },
+            {
+              "SHA": "22259d8b",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#52)"
+            },
+            {
+              "SHA": "ef7a90cb",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "7484f753",
+              "Subject": "fix-petset-GetObjectMeta (#49)"
+            },
+            {
+              "SHA": "a2a4e973",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "449beab1",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "ae706c75",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "47addbe9",
+              "Subject": "Harden CI workflows (#43)"
             }
           ]
         }

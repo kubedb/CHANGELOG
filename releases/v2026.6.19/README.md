@@ -398,6 +398,32 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.49.0](https://github.com/kubedb/mariadb/releases/tag/v0.49.0)
+
+- [0a91d48a](https://github.com/kubedb/mariadb/commit/0a91d48a9) Prepare for release v0.49.0 (#411)
+- [a07d6b7f](https://github.com/kubedb/mariadb/commit/a07d6b7f2) Update github.com/moby/spdystream to v0.5.1 (#410)
+- [dbc68587](https://github.com/kubedb/mariadb/commit/dbc685874) Inc Snapshot Update for Distributed (#408)
+- [dece23fb](https://github.com/kubedb/mariadb/commit/dece23fb3) Prepare for release v0.49.0-rc.2 (#409)
+- [5249f7ac](https://github.com/kubedb/mariadb/commit/5249f7ac9) Honor user-provided renewBefore in TLS certificate ops (#404)
+- [b1a16bc6](https://github.com/kubedb/mariadb/commit/b1a16bc61) Use endpoint from ResticStats.Summary (#407)
+- [f0f7b7e0](https://github.com/kubedb/mariadb/commit/f0f7b7e0f) Prepare for release v0.49.0-rc.1 (#406)
+- [1bb8a02a](https://github.com/kubedb/mariadb/commit/1bb8a02ac) Add StorageMigration OpsRequest support (#398)
+- [59e4024a](https://github.com/kubedb/mariadb/commit/59e4024aa) Prepare for release v0.49.0-rc.0 (#402)
+- [38769956](https://github.com/kubedb/mariadb/commit/387699562) Tighten CI/release workflow secrets, perms, and release notes
+- [ff6c15a4](https://github.com/kubedb/mariadb/commit/ff6c15a42) Add wal backup support for azure credless mode (#401)
+- [04e3bd52](https://github.com/kubedb/mariadb/commit/04e3bd52a) Harden release and release-tracker workflows
+- [27edbbd2](https://github.com/kubedb/mariadb/commit/27edbbd28) fix distributed reconfig (#400)
+- [83c8573a](https://github.com/kubedb/mariadb/commit/83c8573ac) Run Ops Request Locally (#399)
+- [6f736842](https://github.com/kubedb/mariadb/commit/6f736842b) Add CLAUDE.md pointing to AGENTS.md
+- [8eb47e99](https://github.com/kubedb/mariadb/commit/8eb47e992) Fix Label on Health Check (#396)
+- [109bf50f](https://github.com/kubedb/mariadb/commit/109bf50f3) Add AGENTS.md for AI coding agents
+- [78c6159b](https://github.com/kubedb/mariadb/commit/78c6159b7) Harden CI workflows (#395)
+- [2771f497](https://github.com/kubedb/mariadb/commit/2771f497d) sidekick leader selection fix; storage secret sync up fix (#394)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.45.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.45.0)

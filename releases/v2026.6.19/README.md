@@ -662,6 +662,23 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.26.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.26.0)
+
+- [3c9fae1b](https://github.com/kubedb/postgres-archiver/commit/3c9fae1b) Prepare for release v0.26.0 (#112)
+- [be08e519](https://github.com/kubedb/postgres-archiver/commit/be08e519) Update github.com/moby/spdystream to v0.5.1 (#111)
+- [43553c97](https://github.com/kubedb/postgres-archiver/commit/43553c97) Prepare for release v0.26.0-rc.2 (#110)
+- [10de04a8](https://github.com/kubedb/postgres-archiver/commit/10de04a8) Prepare for release v0.26.0-rc.1 (#109)
+- [8246614a](https://github.com/kubedb/postgres-archiver/commit/8246614a) Add write permission (#108)
+- [77f8cd11](https://github.com/kubedb/postgres-archiver/commit/77f8cd11) Prepare for release v0.26.0-rc.0 (#107)
+- [07418083](https://github.com/kubedb/postgres-archiver/commit/07418083) Tighten CI/release workflow secrets, perms, and release notes
+- [ba7d5601](https://github.com/kubedb/postgres-archiver/commit/ba7d5601) Harden release and release-tracker workflows
+- [08fddab4](https://github.com/kubedb/postgres-archiver/commit/08fddab4) Add AGENTS.md for AI coding agents
+- [1806aa73](https://github.com/kubedb/postgres-archiver/commit/1806aa73) Harden CI workflows (#105)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.26.0)

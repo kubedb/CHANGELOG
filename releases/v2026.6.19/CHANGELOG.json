@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:55:25.220634248Z",
+  "release_date": "2026-06-20T08:55:35.296649189Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -2087,6 +2087,56 @@
             {
               "SHA": "efab69a4",
               "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "3c9fae1b",
+              "Subject": "Prepare for release v0.26.0 (#112)"
+            },
+            {
+              "SHA": "be08e519",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#111)"
+            },
+            {
+              "SHA": "43553c97",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#110)"
+            },
+            {
+              "SHA": "10de04a8",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#109)"
+            },
+            {
+              "SHA": "8246614a",
+              "Subject": "Add write permission (#108)"
+            },
+            {
+              "SHA": "77f8cd11",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#107)"
+            },
+            {
+              "SHA": "07418083",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "ba7d5601",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "08fddab4",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "1806aa73",
+              "Subject": "Harden CI workflows (#105)"
             }
           ]
         }

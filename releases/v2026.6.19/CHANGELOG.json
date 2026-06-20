@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:41:33.709369466Z",
+  "release_date": "2026-06-20T08:41:54.871484917Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -637,6 +637,84 @@
             {
               "SHA": "465442b7",
               "Subject": "Harden CI workflows (#240)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "f1c7d235",
+              "Subject": "Prepare for release v0.2.0 (#29)"
+            },
+            {
+              "SHA": "dd014eb4",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#28)"
+            },
+            {
+              "SHA": "153e7117",
+              "Subject": "Prepare for release v0.2.0-rc.2 (#27)"
+            },
+            {
+              "SHA": "d5322e67",
+              "Subject": "documentdb-reconfigure (#25)"
+            },
+            {
+              "SHA": "148c6fb0",
+              "Subject": "Add OpsRequest support for DocumentDB ported from Postgres (#22)"
+            },
+            {
+              "SHA": "999aef78",
+              "Subject": "bring reverted changes (#24)"
+            },
+            {
+              "SHA": "0195ac68",
+              "Subject": "Update apimachinery (#23)"
+            },
+            {
+              "SHA": "846bca49",
+              "Subject": "Update apimachinery (#21)"
+            },
+            {
+              "SHA": "dbeb9d3c",
+              "Subject": "Clustering  (#7)"
+            },
+            {
+              "SHA": "f34712d9",
+              "Subject": "Add NetworkPolicyFlavor support (#19)"
+            },
+            {
+              "SHA": "481e035d",
+              "Subject": "Prepare for release v0.2.0-rc.1 (#18)"
+            },
+            {
+              "SHA": "8ff7cc98",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#15)"
+            },
+            {
+              "SHA": "aa27c166",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "9c8eb095",
+              "Subject": "removed default password (#14)"
+            },
+            {
+              "SHA": "76f64d15",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "56ea3118",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "2e08c01c",
+              "Subject": "Harden CI workflows (#11)"
             }
           ]
         }

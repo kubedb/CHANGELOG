@@ -178,6 +178,30 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.2.0](https://github.com/kubedb/documentdb/releases/tag/v0.2.0)
+
+- [f1c7d235](https://github.com/kubedb/documentdb/commit/f1c7d235) Prepare for release v0.2.0 (#29)
+- [dd014eb4](https://github.com/kubedb/documentdb/commit/dd014eb4) Update github.com/moby/spdystream to v0.5.1 (#28)
+- [153e7117](https://github.com/kubedb/documentdb/commit/153e7117) Prepare for release v0.2.0-rc.2 (#27)
+- [d5322e67](https://github.com/kubedb/documentdb/commit/d5322e67) documentdb-reconfigure (#25)
+- [148c6fb0](https://github.com/kubedb/documentdb/commit/148c6fb0) Add OpsRequest support for DocumentDB ported from Postgres (#22)
+- [999aef78](https://github.com/kubedb/documentdb/commit/999aef78) bring reverted changes (#24)
+- [0195ac68](https://github.com/kubedb/documentdb/commit/0195ac68) Update apimachinery (#23)
+- [846bca49](https://github.com/kubedb/documentdb/commit/846bca49) Update apimachinery (#21)
+- [dbeb9d3c](https://github.com/kubedb/documentdb/commit/dbeb9d3c) Clustering  (#7)
+- [f34712d9](https://github.com/kubedb/documentdb/commit/f34712d9) Add NetworkPolicyFlavor support (#19)
+- [481e035d](https://github.com/kubedb/documentdb/commit/481e035d) Prepare for release v0.2.0-rc.1 (#18)
+- [8ff7cc98](https://github.com/kubedb/documentdb/commit/8ff7cc98) Prepare for release v0.2.0-rc.0 (#15)
+- [aa27c166](https://github.com/kubedb/documentdb/commit/aa27c166) Tighten CI/release workflow secrets, perms, and release notes
+- [9c8eb095](https://github.com/kubedb/documentdb/commit/9c8eb095) removed default password (#14)
+- [76f64d15](https://github.com/kubedb/documentdb/commit/76f64d15) Harden release and release-tracker workflows
+- [56ea3118](https://github.com/kubedb/documentdb/commit/56ea3118) Add AGENTS.md for AI coding agents
+- [2e08c01c](https://github.com/kubedb/documentdb/commit/2e08c01c) Harden CI workflows (#11)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.28.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.28.0)

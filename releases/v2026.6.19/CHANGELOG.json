@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:54:57.095108943Z",
+  "release_date": "2026-06-20T08:55:06.546249537Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -2025,6 +2025,52 @@
             {
               "SHA": "efab69a4",
               "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "c6ae859c",
+              "Subject": "Prepare for release v0.26.0 (#92)"
+            },
+            {
+              "SHA": "597ce968",
+              "Subject": "Prepare for release v0.26.0-rc.2 (#91)"
+            },
+            {
+              "SHA": "a578dc28",
+              "Subject": "Prepare for release v0.26.0-rc.1 (#90)"
+            },
+            {
+              "SHA": "32139be4",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#89)"
+            },
+            {
+              "SHA": "e1be14bc",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "7590aa73",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "56eabbb2",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "7ce77805",
+              "Subject": "Use GitHub App token for release tracker comments (#87)"
+            },
+            {
+              "SHA": "5cdf2c50",
+              "Subject": "Harden CI workflows (#86)"
             }
           ]
         }

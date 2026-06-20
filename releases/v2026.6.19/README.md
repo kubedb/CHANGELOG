@@ -642,6 +642,22 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.26.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.26.0)
+
+- [c6ae859c](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/c6ae859c) Prepare for release v0.26.0 (#92)
+- [597ce968](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/597ce968) Prepare for release v0.26.0-rc.2 (#91)
+- [a578dc28](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/a578dc28) Prepare for release v0.26.0-rc.1 (#90)
+- [32139be4](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/32139be4) Prepare for release v0.26.0-rc.0 (#89)
+- [e1be14bc](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/e1be14bc) Tighten CI/release workflow secrets, perms, and release notes
+- [7590aa73](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/7590aa73) Harden release and release-tracker workflows
+- [56eabbb2](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/56eabbb2) Add AGENTS.md for AI coding agents
+- [7ce77805](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/7ce77805) Use GitHub App token for release tracker comments (#87)
+- [5cdf2c50](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/5cdf2c50) Harden CI workflows (#86)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.28.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.28.0)

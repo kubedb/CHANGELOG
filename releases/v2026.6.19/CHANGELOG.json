@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:50:22.884831133Z",
+  "release_date": "2026-06-20T08:50:30.31051334Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1469,6 +1469,52 @@
             {
               "SHA": "e1d55d1",
               "Subject": "Merge pull request #59 from kubedb/use-app-token-2284"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "81f5255",
+              "Subject": "Prepare for release v0.11.0 (#40)"
+            },
+            {
+              "SHA": "f16a847",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#39)"
+            },
+            {
+              "SHA": "5c50fdd",
+              "Subject": "Prepare for release v0.11.0-rc.2 (#38)"
+            },
+            {
+              "SHA": "1a66329",
+              "Subject": "Prepare for release v0.11.0-rc.1 (#37)"
+            },
+            {
+              "SHA": "cde0783",
+              "Subject": "Fix CI hardening: add kodiak.toml, use app token in release-tracker"
+            },
+            {
+              "SHA": "eebe9e3",
+              "Subject": "Prepare for release v0.11.0-rc.0 (#35)"
+            },
+            {
+              "SHA": "40f851c",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "5d987d9",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9c163c8",
+              "Subject": "Use GitHub App token for release tracker comments (#33)"
             }
           ]
         }

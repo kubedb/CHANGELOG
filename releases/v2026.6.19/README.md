@@ -458,6 +458,22 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.11.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.11.0)
+
+- [81f5255](https://github.com/kubedb/oracle-coordinator/commit/81f5255) Prepare for release v0.11.0 (#40)
+- [f16a847](https://github.com/kubedb/oracle-coordinator/commit/f16a847) Update github.com/moby/spdystream to v0.5.1 (#39)
+- [5c50fdd](https://github.com/kubedb/oracle-coordinator/commit/5c50fdd) Prepare for release v0.11.0-rc.2 (#38)
+- [1a66329](https://github.com/kubedb/oracle-coordinator/commit/1a66329) Prepare for release v0.11.0-rc.1 (#37)
+- [cde0783](https://github.com/kubedb/oracle-coordinator/commit/cde0783) Fix CI hardening: add kodiak.toml, use app token in release-tracker
+- [eebe9e3](https://github.com/kubedb/oracle-coordinator/commit/eebe9e3) Prepare for release v0.11.0-rc.0 (#35)
+- [40f851c](https://github.com/kubedb/oracle-coordinator/commit/40f851c) Tighten CI/release workflow secrets, perms, and release notes
+- [5d987d9](https://github.com/kubedb/oracle-coordinator/commit/5d987d9) Add AGENTS.md for AI coding agents
+- [9c163c8](https://github.com/kubedb/oracle-coordinator/commit/9c163c8) Use GitHub App token for release tracker comments (#33)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.38.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.38.0)

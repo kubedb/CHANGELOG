@@ -558,6 +558,22 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.20.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.20.0)
+
+- [601bb948](https://github.com/kubedb/mssql-coordinator/commit/601bb948) Prepare for release v0.20.0 (#75)
+- [892acf04](https://github.com/kubedb/mssql-coordinator/commit/892acf04) Update github.com/moby/spdystream to v0.5.1 (#74)
+- [2716be6e](https://github.com/kubedb/mssql-coordinator/commit/2716be6e) Prepare for release v0.20.0-rc.2 (#73)
+- [acc28e43](https://github.com/kubedb/mssql-coordinator/commit/acc28e43) Prepare for release v0.20.0-rc.1 (#72)
+- [a7c9d240](https://github.com/kubedb/mssql-coordinator/commit/a7c9d240) Fix CI hardening: use app token in release-tracker, add packages:write
+- [6293f384](https://github.com/kubedb/mssql-coordinator/commit/6293f384) Prepare for release v0.20.0-rc.0 (#70)
+- [cb31d9b3](https://github.com/kubedb/mssql-coordinator/commit/cb31d9b3) Tighten CI/release workflow secrets, perms, and release notes
+- [26c8ec07](https://github.com/kubedb/mssql-coordinator/commit/26c8ec07) Add AGENTS.md for AI coding agents
+- [29b5b49e](https://github.com/kubedb/mssql-coordinator/commit/29b5b49e) Use GitHub App token for release tracker comments (#68)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.20.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.20.0)

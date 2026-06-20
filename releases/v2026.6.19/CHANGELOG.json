@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T09:02:26.924672609Z",
+  "release_date": "2026-06-20T09:02:35.969715532Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1797,6 +1797,52 @@
             {
               "SHA": "fd4c25de",
               "Subject": "Harden CI workflows (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "601bb948",
+              "Subject": "Prepare for release v0.20.0 (#75)"
+            },
+            {
+              "SHA": "892acf04",
+              "Subject": "Update github.com/moby/spdystream to v0.5.1 (#74)"
+            },
+            {
+              "SHA": "2716be6e",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#73)"
+            },
+            {
+              "SHA": "acc28e43",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#72)"
+            },
+            {
+              "SHA": "a7c9d240",
+              "Subject": "Fix CI hardening: use app token in release-tracker, add packages:write"
+            },
+            {
+              "SHA": "6293f384",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#70)"
+            },
+            {
+              "SHA": "cb31d9b3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "26c8ec07",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "29b5b49e",
+              "Subject": "Use GitHub App token for release tracker comments (#68)"
             }
           ]
         }

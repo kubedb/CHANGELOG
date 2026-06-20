@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:55:06.546249537Z",
+  "release_date": "2026-06-20T08:55:14.556725288Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -2573,6 +2573,68 @@
             {
               "SHA": "9ee1c9bc7",
               "Subject": "Harden CI workflows (#522)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "32d0bbd6",
+              "Subject": "Prepare for release v0.6.0 (#45)"
+            },
+            {
+              "SHA": "ef1c2dc0",
+              "Subject": "TLS (#44)"
+            },
+            {
+              "SHA": "7226c70c",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#43)"
+            },
+            {
+              "SHA": "9d3b6c57",
+              "Subject": "weaviate restart ops-request added (#12)"
+            },
+            {
+              "SHA": "14d862e3",
+              "Subject": "Fix Weaviate deletion (#41)"
+            },
+            {
+              "SHA": "690c3ad0",
+              "Subject": "Add NetworkPolicyFlavor support (#40)"
+            },
+            {
+              "SHA": "513e4bf4",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#39)"
+            },
+            {
+              "SHA": "bb3c8918",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#35)"
+            },
+            {
+              "SHA": "a77224f3",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "716556bd",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "7131fe7e",
+              "Subject": "Add CLAUDE.md pointing to AGENTS.md"
+            },
+            {
+              "SHA": "bb95826e",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "3dfc4fe3",
+              "Subject": "Harden CI workflows (#29)"
             }
           ]
         }

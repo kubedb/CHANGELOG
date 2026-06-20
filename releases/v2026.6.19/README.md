@@ -833,6 +833,26 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.6.0](https://github.com/kubedb/weaviate/releases/tag/v0.6.0)
+
+- [32d0bbd6](https://github.com/kubedb/weaviate/commit/32d0bbd6) Prepare for release v0.6.0 (#45)
+- [ef1c2dc0](https://github.com/kubedb/weaviate/commit/ef1c2dc0) TLS (#44)
+- [7226c70c](https://github.com/kubedb/weaviate/commit/7226c70c) Prepare for release v0.6.0-rc.2 (#43)
+- [9d3b6c57](https://github.com/kubedb/weaviate/commit/9d3b6c57) weaviate restart ops-request added (#12)
+- [14d862e3](https://github.com/kubedb/weaviate/commit/14d862e3) Fix Weaviate deletion (#41)
+- [690c3ad0](https://github.com/kubedb/weaviate/commit/690c3ad0) Add NetworkPolicyFlavor support (#40)
+- [513e4bf4](https://github.com/kubedb/weaviate/commit/513e4bf4) Prepare for release v0.6.0-rc.1 (#39)
+- [bb3c8918](https://github.com/kubedb/weaviate/commit/bb3c8918) Prepare for release v0.6.0-rc.0 (#35)
+- [a77224f3](https://github.com/kubedb/weaviate/commit/a77224f3) Tighten CI/release workflow secrets, perms, and release notes
+- [716556bd](https://github.com/kubedb/weaviate/commit/716556bd) Harden release and release-tracker workflows
+- [7131fe7e](https://github.com/kubedb/weaviate/commit/7131fe7e) Add CLAUDE.md pointing to AGENTS.md
+- [bb95826e](https://github.com/kubedb/weaviate/commit/bb95826e) Add AGENTS.md for AI coding agents
+- [3dfc4fe3](https://github.com/kubedb/weaviate/commit/3dfc4fe3) Harden CI workflows (#29)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.13.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0)

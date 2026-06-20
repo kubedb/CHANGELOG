@@ -195,6 +195,21 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.23.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.23.0)
+
+- [df998786](https://github.com/kubedb/dashboard-restic-plugin/commit/df998786) Prepare for release v0.23.0 (#80)
+- [cdd75695](https://github.com/kubedb/dashboard-restic-plugin/commit/cdd75695) Prepare for release v0.23.0-rc.2 (#79)
+- [c3afe4cd](https://github.com/kubedb/dashboard-restic-plugin/commit/c3afe4cd) Add restic backup progress streaming (#78)
+- [dbe58a1d](https://github.com/kubedb/dashboard-restic-plugin/commit/dbe58a1d) Prepare for release v0.23.0-rc.1 (#77)
+- [87c14d95](https://github.com/kubedb/dashboard-restic-plugin/commit/87c14d95) Prepare for release v0.23.0-rc.0 (#76)
+- [f26f8aab](https://github.com/kubedb/dashboard-restic-plugin/commit/f26f8aab) Harden release and release-tracker workflows
+- [da5af73f](https://github.com/kubedb/dashboard-restic-plugin/commit/da5af73f) Add AGENTS.md for AI coding agents
+- [8e800912](https://github.com/kubedb/dashboard-restic-plugin/commit/8e800912) Harden CI workflows (#74)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.20.0](https://github.com/kubedb/db-client-go/releases/tag/v0.20.0)

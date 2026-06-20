@@ -1371,6 +1371,26 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.41.0](https://github.com/kubedb/ui-server/releases/tag/v0.41.0)
+
+- [aa12c7c3](https://github.com/kubedb/ui-server/commit/aa12c7c3a) Prepare for release v0.41.0 (#210)
+- [2d9cc487](https://github.com/kubedb/ui-server/commit/2d9cc4875) Prepare for release v0.41.0-rc.2 (#209)
+- [62d7f163](https://github.com/kubedb/ui-server/commit/62d7f163b) Prepare for release v0.41.0-rc.1 (#208)
+- [5fa49a75](https://github.com/kubedb/ui-server/commit/5fa49a752) Remove FerretDB support (#207)
+- [194e5646](https://github.com/kubedb/ui-server/commit/194e56464) Update api (#206)
+- [b61ac13e](https://github.com/kubedb/ui-server/commit/b61ac13e1) DatabaseInfo -> DatabaseConfiguration (#205)
+- [90f6cf68](https://github.com/kubedb/ui-server/commit/90f6cf683) Implement summary api (#204)
+- [b0cae9e1](https://github.com/kubedb/ui-server/commit/b0cae9e1b) Prepare for release v0.41.0-rc.0 (#203)
+- [8633e481](https://github.com/kubedb/ui-server/commit/8633e4813) Tighten CI/release workflow secrets, perms, and release notes
+- [ed171989](https://github.com/kubedb/ui-server/commit/ed1719891) Harden release and release-tracker workflows
+- [1709ef94](https://github.com/kubedb/ui-server/commit/1709ef941) Pass componenetName field & Refactor (#201)
+- [d171e2c8](https://github.com/kubedb/ui-server/commit/d171e2c8c) Add AGENTS.md for AI coding agents
+- [9e3b8aed](https://github.com/kubedb/ui-server/commit/9e3b8aed8) Harden CI workflows (#200)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.6.0](https://github.com/kubedb/weaviate/releases/tag/v0.6.0)

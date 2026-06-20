@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T11:08:13.074425649Z",
+  "release_date": "2026-06-20T11:08:24.439460218Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -4202,6 +4202,68 @@
             {
               "SHA": "9ee1c9bc7",
               "Subject": "Harden CI workflows (#522)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "aa12c7c3a",
+              "Subject": "Prepare for release v0.41.0 (#210)"
+            },
+            {
+              "SHA": "2d9cc4875",
+              "Subject": "Prepare for release v0.41.0-rc.2 (#209)"
+            },
+            {
+              "SHA": "62d7f163b",
+              "Subject": "Prepare for release v0.41.0-rc.1 (#208)"
+            },
+            {
+              "SHA": "5fa49a752",
+              "Subject": "Remove FerretDB support (#207)"
+            },
+            {
+              "SHA": "194e56464",
+              "Subject": "Update api (#206)"
+            },
+            {
+              "SHA": "b61ac13e1",
+              "Subject": "DatabaseInfo -> DatabaseConfiguration (#205)"
+            },
+            {
+              "SHA": "90f6cf683",
+              "Subject": "Implement summary api (#204)"
+            },
+            {
+              "SHA": "b0cae9e1b",
+              "Subject": "Prepare for release v0.41.0-rc.0 (#203)"
+            },
+            {
+              "SHA": "8633e4813",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "ed1719891",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "1709ef941",
+              "Subject": "Pass componenetName field & Refactor (#201)"
+            },
+            {
+              "SHA": "d171e2c8c",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "9e3b8aed8",
+              "Subject": "Harden CI workflows (#200)"
             }
           ]
         }

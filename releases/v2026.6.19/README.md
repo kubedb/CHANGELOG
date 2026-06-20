@@ -707,6 +707,23 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.43.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.43.0)
+
+- [4cb2b084](https://github.com/kubedb/mysql-coordinator/commit/4cb2b084) Prepare for release v0.43.0 (#185)
+- [eea38e29](https://github.com/kubedb/mysql-coordinator/commit/eea38e29) Update github.com/moby/spdystream to v0.5.1 (#184)
+- [67143c6d](https://github.com/kubedb/mysql-coordinator/commit/67143c6d) Prepare for release v0.43.0-rc.2 (#183)
+- [c813bf0e](https://github.com/kubedb/mysql-coordinator/commit/c813bf0e) Prepare for release v0.43.0-rc.1 (#181)
+- [700dcc95](https://github.com/kubedb/mysql-coordinator/commit/700dcc95) Prepare for release v0.43.0-rc.0 (#180)
+- [7550f622](https://github.com/kubedb/mysql-coordinator/commit/7550f622) Tighten CI/release workflow secrets, perms, and release notes
+- [8772c753](https://github.com/kubedb/mysql-coordinator/commit/8772c753) Harden release and release-tracker workflows
+- [1a20ce7c](https://github.com/kubedb/mysql-coordinator/commit/1a20ce7c) Fix innodb cluster support for 8.4+ (#171)
+- [21bcc293](https://github.com/kubedb/mysql-coordinator/commit/21bcc293) Add AGENTS.md for AI coding agents
+- [92a93955](https://github.com/kubedb/mysql-coordinator/commit/92a93955) Harden CI workflows (#178)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.26.0)

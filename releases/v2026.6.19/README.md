@@ -279,6 +279,17 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.26.0](https://github.com/kubedb/provider-aws/releases/tag/v0.26.0)
+
+- [2b8fb0f](https://github.com/kubedb/provider-aws/commit/2b8fb0f) Tighten CI/release workflow secrets, perms, and release notes
+- [2d7e8ba](https://github.com/kubedb/provider-aws/commit/2d7e8ba) Harden release and release-tracker workflows
+- [c984af3](https://github.com/kubedb/provider-aws/commit/c984af3) Add AGENTS.md for AI coding agents (#44)
+- [d88e77b](https://github.com/kubedb/provider-aws/commit/d88e77b) Harden CI workflows (#43)
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.26.0](https://github.com/kubedb/provider-azure/releases/tag/v0.26.0)

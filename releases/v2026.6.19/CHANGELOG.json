@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:50:58.961841538Z",
+  "release_date": "2026-06-20T08:51:05.575690319Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1933,6 +1933,48 @@
             {
               "SHA": "90f8831e",
               "Subject": "Harden CI workflows (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "5dd2507e",
+              "Subject": "Prepare for release v0.13.0 (#58)"
+            },
+            {
+              "SHA": "7405795f",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#57)"
+            },
+            {
+              "SHA": "3c66fa34",
+              "Subject": "Add restic backup progress streaming (#56)"
+            },
+            {
+              "SHA": "36817455",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#55)"
+            },
+            {
+              "SHA": "71c71b57",
+              "Subject": "use package: write and fetch-depth: 0 (#54)"
+            },
+            {
+              "SHA": "fd5f2106",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#53)"
+            },
+            {
+              "SHA": "1cf78111",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "14f542a3",
+              "Subject": "Use GitHub App token for release tracker comments (#51)"
             }
           ]
         }

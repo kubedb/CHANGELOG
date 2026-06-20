@@ -619,6 +619,21 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.13.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.13.0)
+
+- [5dd2507e](https://github.com/kubedb/xtrabackup-restic-plugin/commit/5dd2507e) Prepare for release v0.13.0 (#58)
+- [7405795f](https://github.com/kubedb/xtrabackup-restic-plugin/commit/7405795f) Prepare for release v0.13.0-rc.2 (#57)
+- [3c66fa34](https://github.com/kubedb/xtrabackup-restic-plugin/commit/3c66fa34) Add restic backup progress streaming (#56)
+- [36817455](https://github.com/kubedb/xtrabackup-restic-plugin/commit/36817455) Prepare for release v0.13.0-rc.1 (#55)
+- [71c71b57](https://github.com/kubedb/xtrabackup-restic-plugin/commit/71c71b57) use package: write and fetch-depth: 0 (#54)
+- [fd5f2106](https://github.com/kubedb/xtrabackup-restic-plugin/commit/fd5f2106) Prepare for release v0.13.0-rc.0 (#53)
+- [1cf78111](https://github.com/kubedb/xtrabackup-restic-plugin/commit/1cf78111) Add AGENTS.md for AI coding agents
+- [14f542a3](https://github.com/kubedb/xtrabackup-restic-plugin/commit/14f542a3) Use GitHub App token for release tracker comments (#51)
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.20.0](https://github.com/kubedb/zookeeper/releases/tag/v0.20.0)

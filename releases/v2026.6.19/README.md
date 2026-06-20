@@ -250,6 +250,24 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.6.0](https://github.com/kubedb/hanadb/releases/tag/v0.6.0)
+
+- [fe71d640](https://github.com/kubedb/hanadb/commit/fe71d640) Prepare for release v0.6.0 (#46)
+- [b3f6ef5b](https://github.com/kubedb/hanadb/commit/b3f6ef5b) Prepare for release v0.6.0-rc.2 (#45)
+- [e38a3433](https://github.com/kubedb/hanadb/commit/e38a3433) Add StorageMigration OpsRequest support (#34)
+- [c08ac12e](https://github.com/kubedb/hanadb/commit/c08ac12e) Add tls, reconfigure tls, vertical scaling, rotate auth, volume expantion ops (#38)
+- [696ffce2](https://github.com/kubedb/hanadb/commit/696ffce2) Add NetworkPolicyFlavor support (#44)
+- [da2fb620](https://github.com/kubedb/hanadb/commit/da2fb620) Prepare for release v0.6.0-rc.1 (#43)
+- [5f480c10](https://github.com/kubedb/hanadb/commit/5f480c10) Prepare for release v0.6.0-rc.0 (#39)
+- [28694dd1](https://github.com/kubedb/hanadb/commit/28694dd1) Tighten CI/release workflow secrets, perms, and release notes
+- [9fb48705](https://github.com/kubedb/hanadb/commit/9fb48705) Harden release and release-tracker workflows
+- [d530b4af](https://github.com/kubedb/hanadb/commit/d530b4af) Add AGENTS.md for AI coding agents
+- [52612af6](https://github.com/kubedb/hanadb/commit/52612af6) Harden CI workflows (#32)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.11.0](https://github.com/kubedb/hazelcast/releases/tag/v0.11.0)

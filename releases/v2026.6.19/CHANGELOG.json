@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:46:31.576662306Z",
+  "release_date": "2026-06-20T08:46:47.278337934Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -853,6 +853,60 @@
             {
               "SHA": "8b4b3ac0",
               "Subject": "Harden CI workflows (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "fe71d640",
+              "Subject": "Prepare for release v0.6.0 (#46)"
+            },
+            {
+              "SHA": "b3f6ef5b",
+              "Subject": "Prepare for release v0.6.0-rc.2 (#45)"
+            },
+            {
+              "SHA": "e38a3433",
+              "Subject": "Add StorageMigration OpsRequest support (#34)"
+            },
+            {
+              "SHA": "c08ac12e",
+              "Subject": "Add tls, reconfigure tls, vertical scaling, rotate auth, volume expantion ops (#38)"
+            },
+            {
+              "SHA": "696ffce2",
+              "Subject": "Add NetworkPolicyFlavor support (#44)"
+            },
+            {
+              "SHA": "da2fb620",
+              "Subject": "Prepare for release v0.6.0-rc.1 (#43)"
+            },
+            {
+              "SHA": "5f480c10",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "28694dd1",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "9fb48705",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "d530b4af",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "52612af6",
+              "Subject": "Harden CI workflows (#32)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T09:05:29.18279349Z",
+  "release_date": "2026-06-20T09:05:36.945729171Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1993,6 +1993,52 @@
             {
               "SHA": "fd4c25de",
               "Subject": "Harden CI workflows (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "90025a3f",
+              "Subject": "Prepare for release v0.28.0 (#132)"
+            },
+            {
+              "SHA": "d6b5fa11",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#131)"
+            },
+            {
+              "SHA": "58aef2eb",
+              "Subject": "Add Backup Progress Streaming Support in Snapshot Status (#130)"
+            },
+            {
+              "SHA": "a8f1b59b",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#129)"
+            },
+            {
+              "SHA": "70c2a000",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#128)"
+            },
+            {
+              "SHA": "88c32465",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "4c6631af",
+              "Subject": "Add uri connection string for mongodump and mongorestore (#124)"
+            },
+            {
+              "SHA": "fcb9af9b",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "76f8adb4",
+              "Subject": "Harden CI workflows (#125)"
             }
           ]
         }

@@ -625,6 +625,22 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.28.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.28.0)
+
+- [90025a3f](https://github.com/kubedb/mongodb-restic-plugin/commit/90025a3f) Prepare for release v0.28.0 (#132)
+- [d6b5fa11](https://github.com/kubedb/mongodb-restic-plugin/commit/d6b5fa11) Prepare for release v0.28.0-rc.2 (#131)
+- [58aef2eb](https://github.com/kubedb/mongodb-restic-plugin/commit/58aef2eb) Add Backup Progress Streaming Support in Snapshot Status (#130)
+- [a8f1b59b](https://github.com/kubedb/mongodb-restic-plugin/commit/a8f1b59b) Prepare for release v0.28.0-rc.1 (#129)
+- [70c2a000](https://github.com/kubedb/mongodb-restic-plugin/commit/70c2a000) Prepare for release v0.28.0-rc.0 (#128)
+- [88c32465](https://github.com/kubedb/mongodb-restic-plugin/commit/88c32465) Harden release and release-tracker workflows
+- [4c6631af](https://github.com/kubedb/mongodb-restic-plugin/commit/4c6631af) Add uri connection string for mongodump and mongorestore (#124)
+- [fcb9af9b](https://github.com/kubedb/mongodb-restic-plugin/commit/fcb9af9b) Add AGENTS.md for AI coding agents
+- [76f8adb4](https://github.com/kubedb/mongodb-restic-plugin/commit/76f8adb4) Harden CI workflows (#125)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.20.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.20.0)

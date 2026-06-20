@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T08:49:48.895104339Z",
+  "release_date": "2026-06-20T08:49:54.996251936Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1159,6 +1159,48 @@
             {
               "SHA": "8a21ae49",
               "Subject": "Separate dockerfile for each databases (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "327ebbf",
+              "Subject": "Prepare for release v0.19.0 (#31)"
+            },
+            {
+              "SHA": "df59193",
+              "Subject": "Prepare for release v0.19.0-rc.2 (#30)"
+            },
+            {
+              "SHA": "d3713a4",
+              "Subject": "Import kubedb.dev/apimachinery to track dependency (#29)"
+            },
+            {
+              "SHA": "24678f5",
+              "Subject": "Tighten CI/release workflow secrets, perms, and release notes"
+            },
+            {
+              "SHA": "958106a",
+              "Subject": "Harden release and release-tracker workflows"
+            },
+            {
+              "SHA": "ea87799",
+              "Subject": "Add AGENTS.md for AI coding agents"
+            },
+            {
+              "SHA": "71f8c47",
+              "Subject": "Harden CI workflows (#26)"
+            },
+            {
+              "SHA": "942ca43",
+              "Subject": "Harden CI workflows (#25)"
             }
           ]
         }

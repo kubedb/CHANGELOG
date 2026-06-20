@@ -349,6 +349,21 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.19.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.19.0)
+
+- [327ebbf](https://github.com/kubedb/mssqlserver-archiver/commit/327ebbf) Prepare for release v0.19.0 (#31)
+- [df59193](https://github.com/kubedb/mssqlserver-archiver/commit/df59193) Prepare for release v0.19.0-rc.2 (#30)
+- [d3713a4](https://github.com/kubedb/mssqlserver-archiver/commit/d3713a4) Import kubedb.dev/apimachinery to track dependency (#29)
+- [24678f5](https://github.com/kubedb/mssqlserver-archiver/commit/24678f5) Tighten CI/release workflow secrets, perms, and release notes
+- [958106a](https://github.com/kubedb/mssqlserver-archiver/commit/958106a) Harden release and release-tracker workflows
+- [ea87799](https://github.com/kubedb/mssqlserver-archiver/commit/ea87799) Add AGENTS.md for AI coding agents
+- [71f8c47](https://github.com/kubedb/mssqlserver-archiver/commit/71f8c47) Harden CI workflows (#26)
+- [942ca43](https://github.com/kubedb/mssqlserver-archiver/commit/942ca43) Harden CI workflows (#25)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.19.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.19.0)

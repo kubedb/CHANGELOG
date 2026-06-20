@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.6.19",
-  "release_date": "2026-06-20T10:54:09.471206725Z",
+  "release_date": "2026-06-20T10:59:16.915279832Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.6.19",
   "kubernetes_version": "1.28+",
@@ -1979,6 +1979,15 @@
               "Subject": "Separate dockerfile for each databases (#17)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator-operator",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": null
         }
       ]
     },

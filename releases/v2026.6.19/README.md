@@ -621,6 +621,13 @@
 
 
 
+## [kubedb/migrator-operator](https://github.com/kubedb/migrator-operator)
+
+### [v0.5.0](https://github.com/kubedb/migrator-operator/releases/tag/v0.5.0)
+
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.6.0](https://github.com/kubedb/milvus/releases/tag/v0.6.0)

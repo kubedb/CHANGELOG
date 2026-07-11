@@ -275,6 +275,15 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.27.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.27.0)
+
+- [5b3a81c2](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/5b3a81c2) Prepare for release v0.27.0
+- [bab69004](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/bab69004) Modernize golangci-lint config (#93)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.7.0](https://github.com/kubedb/qdrant/releases/tag/v0.7.0)

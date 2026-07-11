@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:56:39.29445668Z",
+  "release_date": "2026-07-11T11:56:53.584886243Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -265,6 +265,32 @@
             {
               "SHA": "a907f9a4",
               "Subject": "Modernize golangci-lint config (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "4827fb02",
+              "Subject": "Prepare for release v0.21.0 (#146)"
+            },
+            {
+              "SHA": "eeedbe3b",
+              "Subject": "Modernize golangci-lint config (#145)"
+            },
+            {
+              "SHA": "5d45e3ec",
+              "Subject": "Add backup pause/resume support for ops requests (#142)"
+            },
+            {
+              "SHA": "7d8fc997",
+              "Subject": "Support InPlace mode for vertical scaling (#144)"
             }
           ]
         }

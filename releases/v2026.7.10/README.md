@@ -94,6 +94,17 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.21.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.21.0)
+
+- [4827fb02](https://github.com/kubedb/rabbitmq/commit/4827fb02) Prepare for release v0.21.0 (#146)
+- [eeedbe3b](https://github.com/kubedb/rabbitmq/commit/eeedbe3b) Modernize golangci-lint config (#145)
+- [5d45e3ec](https://github.com/kubedb/rabbitmq/commit/5d45e3ec) Add backup pause/resume support for ops requests (#142)
+- [7d8fc997](https://github.com/kubedb/rabbitmq/commit/7d8fc997) Support InPlace mode for vertical scaling (#144)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.21.0](https://github.com/kubedb/singlestore/releases/tag/v0.21.0)

@@ -422,6 +422,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.29.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.29.0)
+
+- [e3ffb6da](https://github.com/kubedb/redis-restic-plugin/commit/e3ffb6da) Prepare for release v0.29.0 (#113)
+- [48d518bb](https://github.com/kubedb/redis-restic-plugin/commit/48d518bb) Modernize golangci-lint config (#112)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.21.0](https://github.com/kubedb/singlestore/releases/tag/v0.21.0)

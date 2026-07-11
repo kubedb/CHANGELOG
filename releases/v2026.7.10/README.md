@@ -51,6 +51,15 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.24.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.24.0)
+
+- [2d5d0a3c](https://github.com/kubedb/dashboard-restic-plugin/commit/2d5d0a3c) Prepare for release v0.24.0 (#83)
+- [3e204216](https://github.com/kubedb/dashboard-restic-plugin/commit/3e204216) Modernize golangci-lint config (#82)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.21.0](https://github.com/kubedb/db-client-go/releases/tag/v0.21.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:05:07.31158998Z",
+  "release_date": "2026-07-11T12:05:23.219287548Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -629,6 +629,40 @@
             {
               "SHA": "161f7c48",
               "Subject": "Add InPlace mode to vertical scaling (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "bdd290d7",
+              "Subject": "Prepare for release v0.37.0"
+            },
+            {
+              "SHA": "9c0a0375",
+              "Subject": "Modernize golangci-lint config (#211)"
+            },
+            {
+              "SHA": "d80b95c5",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#210)"
+            },
+            {
+              "SHA": "7472c2e0",
+              "Subject": "Add InPlace mode to vertical scaling (#208)"
+            },
+            {
+              "SHA": "4e11da51",
+              "Subject": "Fix Lint (#209)"
+            },
+            {
+              "SHA": "0b903f3b",
+              "Subject": "Add backup pause/resume support for ops requests (#205)"
             }
           ]
         }

@@ -248,6 +248,19 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.37.0](https://github.com/kubedb/kafka/releases/tag/v0.37.0)
+
+- [bdd290d7](https://github.com/kubedb/kafka/commit/bdd290d7) Prepare for release v0.37.0
+- [9c0a0375](https://github.com/kubedb/kafka/commit/9c0a0375) Modernize golangci-lint config (#211)
+- [d80b95c5](https://github.com/kubedb/kafka/commit/d80b95c5) Run gofmt with updated golang-dev toolchain (#210)
+- [7472c2e0](https://github.com/kubedb/kafka/commit/7472c2e0) Add InPlace mode to vertical scaling (#208)
+- [4e11da51](https://github.com/kubedb/kafka/commit/4e11da51) Fix Lint (#209)
+- [0b903f3b](https://github.com/kubedb/kafka/commit/0b903f3b) Add backup pause/resume support for ops requests (#205)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.29.0)

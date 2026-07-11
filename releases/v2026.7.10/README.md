@@ -63,6 +63,19 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.3.0](https://github.com/kubedb/documentdb/releases/tag/v0.3.0)
+
+- [ba6ac93b](https://github.com/kubedb/documentdb/commit/ba6ac93b) Prepare for release v0.3.0 (#39)
+- [4fc3b678](https://github.com/kubedb/documentdb/commit/4fc3b678) Modernize golangci-lint config (#38)
+- [bd9d564e](https://github.com/kubedb/documentdb/commit/bd9d564e) Run gofmt with updated golang-dev toolchain (#37)
+- [86fce11f](https://github.com/kubedb/documentdb/commit/86fce11f) Add InPlace mode to vertical scaling (#36)
+- [3f92d8c2](https://github.com/kubedb/documentdb/commit/3f92d8c2) updated documentdb deps (#34)
+- [9d7aee2c](https://github.com/kubedb/documentdb/commit/9d7aee2c) fixed termination time & health check issue (#30)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.29.0)

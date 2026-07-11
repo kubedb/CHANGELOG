@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T13:36:25.9282445Z",
+  "release_date": "2026-07-11T13:40:26.600591903Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -1437,6 +1437,15 @@
               "Subject": "Add Neo4jAdminArg Flag for Restore (#3)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": null
         }
       ]
     },

@@ -179,6 +179,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.27.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.27.0)
+
+- [0b5887b8](https://github.com/kubedb/mysql-archiver/commit/0b5887b8) Prepare for release v0.27.0 (#112)
+- [633ec559](https://github.com/kubedb/mysql-archiver/commit/633ec559) Modernize golangci-lint config (#111)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.44.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.44.0)

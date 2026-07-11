@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:59:39.639309044Z",
+  "release_date": "2026-07-11T11:59:50.561383786Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -461,6 +461,24 @@
             {
               "SHA": "6af75d70",
               "Subject": "Add backup pause/resume support for ops requests (#146)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "0b5887b8",
+              "Subject": "Prepare for release v0.27.0 (#112)"
+            },
+            {
+              "SHA": "633ec559",
+              "Subject": "Modernize golangci-lint config (#111)"
             }
           ]
         }

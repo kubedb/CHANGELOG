@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:59:50.561383786Z",
+  "release_date": "2026-07-11T11:59:59.553516645Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -705,6 +705,24 @@
             {
               "SHA": "44b37bf1",
               "Subject": "Add InPlace mode to vertical scaling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "a6b971a3",
+              "Subject": "Prepare for release v0.24.0"
+            },
+            {
+              "SHA": "1533cce0",
+              "Subject": "Modernize golangci-lint config (#91)"
             }
           ]
         }

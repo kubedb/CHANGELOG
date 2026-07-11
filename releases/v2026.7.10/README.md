@@ -285,6 +285,15 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.24.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.24.0)
+
+- [a6b971a3](https://github.com/kubedb/singlestore-restic-plugin/commit/a6b971a3) Prepare for release v0.24.0
+- [1533cce0](https://github.com/kubedb/singlestore-restic-plugin/commit/1533cce0) Modernize golangci-lint config (#91)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.21.0](https://github.com/kubedb/solr/releases/tag/v0.21.0)

@@ -62,6 +62,15 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.51.0](https://github.com/kubedb/autoscaler/releases/tag/v0.51.0)
+
+- [4c1773f5](https://github.com/kubedb/autoscaler/commit/4c1773f5) Prepare for release v0.51.0 (#312)
+- [b60fd249](https://github.com/kubedb/autoscaler/commit/b60fd249) Modernize golangci-lint config (#311)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.19.0](https://github.com/kubedb/cassandra/releases/tag/v0.19.0)

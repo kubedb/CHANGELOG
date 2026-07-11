@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T13:30:54.310947284Z",
+  "release_date": "2026-07-11T13:36:25.9282445Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -209,6 +209,24 @@
             {
               "SHA": "4cd0fc34c",
               "Subject": "Fix Cassandra VolumeExpansion Webhook (#1786)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.51.0",
+          "commits": [
+            {
+              "SHA": "4c1773f5",
+              "Subject": "Prepare for release v0.51.0 (#312)"
+            },
+            {
+              "SHA": "b60fd249",
+              "Subject": "Modernize golangci-lint config (#311)"
             }
           ]
         }

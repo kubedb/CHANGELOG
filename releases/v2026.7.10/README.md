@@ -349,6 +349,15 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.26.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.26.0)
+
+- [8bac9b0b](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/8bac9b0b) Prepare for release v0.26.0 (#84)
+- [13b34333](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/13b34333) Modernize golangci-lint config (#83)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.24.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.24.0)

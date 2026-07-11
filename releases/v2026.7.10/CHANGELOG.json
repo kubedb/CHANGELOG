@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:20:41.338320288Z",
+  "release_date": "2026-07-11T12:25:51.292008005Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -889,6 +889,24 @@
             {
               "SHA": "d00e0323",
               "Subject": "Modernize golangci-lint config (#185)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "8bac9b0b",
+              "Subject": "Prepare for release v0.26.0 (#84)"
+            },
+            {
+              "SHA": "13b34333",
+              "Subject": "Modernize golangci-lint config (#83)"
             }
           ]
         }

@@ -401,6 +401,19 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.12.0](https://github.com/kubedb/oracle/releases/tag/v0.12.0)
+
+- [a480172f](https://github.com/kubedb/oracle/commit/a480172f) Prepare for release v0.12.0
+- [38d23162](https://github.com/kubedb/oracle/commit/38d23162) Add InPlace mode to vertical scaling (#68)
+- [de9d332a](https://github.com/kubedb/oracle/commit/de9d332a) Modernize golangci-lint config (#69)
+- [3680ced6](https://github.com/kubedb/oracle/commit/3680ced6) Add backup pause/resume support for ops requests (#64)
+- [498dfb0f](https://github.com/kubedb/oracle/commit/498dfb0f) Implement ReconfigureTLS ops for Oracle (#65)
+- [7aabdc27](https://github.com/kubedb/oracle/commit/7aabdc27) add GOVERNING_SVC_FQDN env to maincontainer (#66)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.12.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.12.0)

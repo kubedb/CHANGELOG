@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:06:12.573335574Z",
+  "release_date": "2026-07-11T12:06:21.967013131Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -971,6 +971,40 @@
             {
               "SHA": "33b7be9b",
               "Subject": "Enable TLS in Backup Port (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "a480172f",
+              "Subject": "Prepare for release v0.12.0"
+            },
+            {
+              "SHA": "38d23162",
+              "Subject": "Add InPlace mode to vertical scaling (#68)"
+            },
+            {
+              "SHA": "de9d332a",
+              "Subject": "Modernize golangci-lint config (#69)"
+            },
+            {
+              "SHA": "3680ced6",
+              "Subject": "Add backup pause/resume support for ops requests (#64)"
+            },
+            {
+              "SHA": "498dfb0f",
+              "Subject": "Implement ReconfigureTLS ops for Oracle (#65)"
+            },
+            {
+              "SHA": "7aabdc27",
+              "Subject": "add GOVERNING_SVC_FQDN env to maincontainer (#66)"
             }
           ]
         }

@@ -41,6 +41,18 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.19.0](https://github.com/kubedb/cassandra/releases/tag/v0.19.0)
+
+- [04610462](https://github.com/kubedb/cassandra/commit/04610462) Prepare for release v0.19.0
+- [9623922c](https://github.com/kubedb/cassandra/commit/9623922c) Modernize golangci-lint config (#97)
+- [d5df1520](https://github.com/kubedb/cassandra/commit/d5df1520) Add InPlace mode to vertical scaling (#96)
+- [1061bc5b](https://github.com/kubedb/cassandra/commit/1061bc5b) Add backup pause/resume support for ops requests (#93)
+- [7b1cbf0e](https://github.com/kubedb/cassandra/commit/7b1cbf0e) Fix Standalone OpsReq not Working (#92)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.21.0](https://github.com/kubedb/clickhouse/releases/tag/v0.21.0)

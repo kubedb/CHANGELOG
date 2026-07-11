@@ -486,6 +486,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.29.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.29.0)
+
+- [1903f349](https://github.com/kubedb/postgres-restic-plugin/commit/1903f349) Prepare for release v0.29.0 (#118)
+- [4d655bbd](https://github.com/kubedb/postgres-restic-plugin/commit/4d655bbd) Modernize golangci-lint config (#117)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.7.0](https://github.com/kubedb/qdrant/releases/tag/v0.7.0)

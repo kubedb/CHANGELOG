@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:08:50.67413563Z",
+  "release_date": "2026-07-11T12:09:08.102696725Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -1019,6 +1019,32 @@
             {
               "SHA": "cf72afd",
               "Subject": "Modernize golangci-lint config (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.59.0",
+          "commits": [
+            {
+              "SHA": "8db7c5a12",
+              "Subject": "Prepare for release v0.59.0 (#768)"
+            },
+            {
+              "SHA": "a3227d2b9",
+              "Subject": "Modernize golangci-lint config (#767)"
+            },
+            {
+              "SHA": "40dc0ca73",
+              "Subject": "Virtual Secret Ops Support (#766)"
+            },
+            {
+              "SHA": "14279e375",
+              "Subject": "Support InPlace mode for vertical scaling (#764)"
             }
           ]
         }

@@ -413,6 +413,17 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.59.0](https://github.com/kubedb/mysql/releases/tag/v0.59.0)
+
+- [8db7c5a1](https://github.com/kubedb/mysql/commit/8db7c5a12) Prepare for release v0.59.0 (#768)
+- [a3227d2b](https://github.com/kubedb/mysql/commit/a3227d2b9) Modernize golangci-lint config (#767)
+- [40dc0ca7](https://github.com/kubedb/mysql/commit/40dc0ca73) Virtual Secret Ops Support (#766)
+- [14279e37](https://github.com/kubedb/mysql/commit/14279e375) Support InPlace mode for vertical scaling (#764)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.27.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.27.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:57:59.282078991Z",
+  "release_date": "2026-07-11T11:58:15.533692033Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -265,6 +265,32 @@
             {
               "SHA": "9d7aee2c",
               "Subject": "fixed termination time & health check issue (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.59.0",
+          "commits": [
+            {
+              "SHA": "d7c6e5099",
+              "Subject": "Prepare for release v0.59.0 (#549)"
+            },
+            {
+              "SHA": "c678218d3",
+              "Subject": "Modernize golangci-lint config (#548)"
+            },
+            {
+              "SHA": "7b058c67b",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#547)"
+            },
+            {
+              "SHA": "732e96e85",
+              "Subject": "Add InPlace mode to vertical scaling (#546)"
             }
           ]
         }

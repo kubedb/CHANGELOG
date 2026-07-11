@@ -94,6 +94,17 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.59.0](https://github.com/kubedb/memcached/releases/tag/v0.59.0)
+
+- [d7c6e509](https://github.com/kubedb/memcached/commit/d7c6e5099) Prepare for release v0.59.0 (#549)
+- [c678218d](https://github.com/kubedb/memcached/commit/c678218d3) Modernize golangci-lint config (#548)
+- [7b058c67](https://github.com/kubedb/memcached/commit/7b058c67b) Run gofmt with updated golang-dev toolchain (#547)
+- [732e96e8](https://github.com/kubedb/memcached/commit/732e96e85) Add InPlace mode to vertical scaling (#546)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.59.0](https://github.com/kubedb/mongodb/releases/tag/v0.59.0)

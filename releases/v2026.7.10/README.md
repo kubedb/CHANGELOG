@@ -51,3 +51,15 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.21.0](https://github.com/kubedb/db-client-go/releases/tag/v0.21.0)
+
+- [bc3a25ce](https://github.com/kubedb/db-client-go/commit/bc3a25ce) Prepare for release v0.21.0 (#255)
+- [fec3c231](https://github.com/kubedb/db-client-go/commit/fec3c231) Modernize golangci-lint config (#254)
+- [a3da77c5](https://github.com/kubedb/db-client-go/commit/a3da77c5) add aerospike client (#251)
+- [144cd45a](https://github.com/kubedb/db-client-go/commit/144cd45a) Add New function For Neo4j (#252)
+- [4b2ca834](https://github.com/kubedb/db-client-go/commit/4b2ca834) Add Qdrant Recover Snapshot Reader Function (#253)
+
+
+

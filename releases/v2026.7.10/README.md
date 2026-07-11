@@ -428,6 +428,15 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.20.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.20.0)
+
+- [a115fd5](https://github.com/kubedb/mssqlserver-archiver/commit/a115fd5) Prepare for release v0.20.0 (#33)
+- [db4ea18](https://github.com/kubedb/mssqlserver-archiver/commit/db4ea18) Modernize golangci-lint config (#32)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.20.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.20.0)

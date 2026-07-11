@@ -113,6 +113,15 @@
 
 
 
+## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
+
+### [v0.2.0](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.2.0)
+
+- [2d44eda](https://github.com/kubedb/documentdb-coordinator/commit/2d44eda) Prepare for release v0.2.0
+- [dcfbce6](https://github.com/kubedb/documentdb-coordinator/commit/dcfbce6) Add golangci-lint config (#9)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.29.0)

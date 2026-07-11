@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:00:34.679295171Z",
+  "release_date": "2026-07-11T12:00:41.343350383Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -305,6 +305,24 @@
             {
               "SHA": "9d7aee2c",
               "Subject": "fixed termination time & health check issue (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "2d44eda",
+              "Subject": "Prepare for release v0.2.0"
+            },
+            {
+              "SHA": "dcfbce6",
+              "Subject": "Add golangci-lint config (#9)"
             }
           ]
         }

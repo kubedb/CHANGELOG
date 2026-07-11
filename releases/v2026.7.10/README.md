@@ -1,6 +1,27 @@
 # KubeDB v2026.7.10 (2026-07-11)
 
 
+## [kubedb/aerospike](https://github.com/kubedb/aerospike)
+
+### [v0.2.0](https://github.com/kubedb/aerospike/releases/tag/v0.2.0)
+
+- [25703340](https://github.com/kubedb/aerospike/commit/25703340) Replace hub with gh in update-release-tracker.sh (#6)
+- [48a43aca](https://github.com/kubedb/aerospike/commit/48a43aca) Prepare for release v0.2.0 (#5)
+- [874a67cd](https://github.com/kubedb/aerospike/commit/874a67cd) Add Health check Signed-off-by: Hiranmoy <hiranmoy@appscode.com>
+- [74741a4a](https://github.com/kubedb/aerospike/commit/74741a4a) changed into kubedb style (#3)
+- [b18ebec9](https://github.com/kubedb/aerospike/commit/b18ebec9) Revert "Add pkg/controllers and pkg/cmds/server for provisioner integration"
+- [695399fa](https://github.com/kubedb/aerospike/commit/695399fa) Revert "Clean up unused functions and imports in AerospikeReconciler"
+- [faea0167](https://github.com/kubedb/aerospike/commit/faea0167) Clean up unused functions and imports in AerospikeReconciler
+- [c33f4d9e](https://github.com/kubedb/aerospike/commit/c33f4d9e) Add pkg/controllers and pkg/cmds/server for provisioner integration
+- [80b747bf](https://github.com/kubedb/aerospike/commit/80b747bf) Harden github actions
+- [c0d0ece3](https://github.com/kubedb/aerospike/commit/c0d0ece3) Configure dependabot refresh schedule (#2)
+- [7b0820a9](https://github.com/kubedb/aerospike/commit/7b0820a9) add service creation Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com>
+- [91c4a271](https://github.com/kubedb/aerospike/commit/91c4a271) now working Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com>
+- [584fd6a4](https://github.com/kubedb/aerospike/commit/584fd6a4) build fix Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com>
+- [0e5ab45d](https://github.com/kubedb/aerospike/commit/0e5ab45d) initialised Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com>
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.66.0](https://github.com/kubedb/apimachinery/releases/tag/v0.66.0)

@@ -1,11 +1,77 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:09:36.108914241Z",
+  "release_date": "2026-07-11T12:20:41.338320288Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
   "projects": [
+    {
+      "url": "github.com/kubedb/aerospike",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "25703340",
+              "Subject": "Replace hub with gh in update-release-tracker.sh (#6)"
+            },
+            {
+              "SHA": "48a43aca",
+              "Subject": "Prepare for release v0.2.0 (#5)"
+            },
+            {
+              "SHA": "874a67cd",
+              "Subject": "Add Health check Signed-off-by: Hiranmoy <hiranmoy@appscode.com>"
+            },
+            {
+              "SHA": "74741a4a",
+              "Subject": "changed into kubedb style (#3)"
+            },
+            {
+              "SHA": "b18ebec9",
+              "Subject": "Revert \"Add pkg/controllers and pkg/cmds/server for provisioner integration\""
+            },
+            {
+              "SHA": "695399fa",
+              "Subject": "Revert \"Clean up unused functions and imports in AerospikeReconciler\""
+            },
+            {
+              "SHA": "faea0167",
+              "Subject": "Clean up unused functions and imports in AerospikeReconciler"
+            },
+            {
+              "SHA": "c33f4d9e",
+              "Subject": "Add pkg/controllers and pkg/cmds/server for provisioner integration"
+            },
+            {
+              "SHA": "80b747bf",
+              "Subject": "Harden github actions"
+            },
+            {
+              "SHA": "c0d0ece3",
+              "Subject": "Configure dependabot refresh schedule (#2)"
+            },
+            {
+              "SHA": "7b0820a9",
+              "Subject": "add service creation Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com>"
+            },
+            {
+              "SHA": "91c4a271",
+              "Subject": "now working Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com>"
+            },
+            {
+              "SHA": "584fd6a4",
+              "Subject": "build fix Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com>"
+            },
+            {
+              "SHA": "0e5ab45d",
+              "Subject": "initialised Signed-off-by: HiranmoyChowdhury <hiranmoy@appscode.com>"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

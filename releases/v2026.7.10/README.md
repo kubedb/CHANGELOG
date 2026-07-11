@@ -455,6 +455,15 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.21.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.21.0)
+
+- [332c70d2](https://github.com/kubedb/singlestore-coordinator/commit/332c70d2) Prepare for release v0.21.0 (#78)
+- [2f951e42](https://github.com/kubedb/singlestore-coordinator/commit/2f951e42) Modernize golangci-lint config (#77)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.24.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.24.0)

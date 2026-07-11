@@ -324,6 +324,23 @@
 
 
 
+## [kubedb/migrator](https://github.com/kubedb/migrator)
+
+### [v0.6.0](https://github.com/kubedb/migrator/releases/tag/v0.6.0)
+
+- [323b3ba9](https://github.com/kubedb/migrator/commit/323b3ba9) Prepare for release v0.6.0 (#42)
+- [52aebdd9](https://github.com/kubedb/migrator/commit/52aebdd9) Modernize golangci-lint config (#41)
+- [b1c5905d](https://github.com/kubedb/migrator/commit/b1c5905d) Added progress for mssql in incr and updated docker (#40)
+- [24013168](https://github.com/kubedb/migrator/commit/24013168) MSSQLServer no arm64 support (#39)
+- [8490fd48](https://github.com/kubedb/migrator/commit/8490fd48) Implement overall progress for mysql,postgres (#33)
+- [385b75a1](https://github.com/kubedb/migrator/commit/385b75a1) Fix CI: resolve staticcheck QF1008 by aliasing embedded engine source struct (#38)
+- [8266bc2e](https://github.com/kubedb/migrator/commit/8266bc2e) Parse per-engine migration config; adopt per-engine {DB}Migration types (#37)
+- [f7f8d4eb](https://github.com/kubedb/migrator/commit/f7f8d4eb) Add MSSQL Server migration support (#22)
+- [5116be6d](https://github.com/kubedb/migrator/commit/5116be6d) Name per-db images kubedb-migrator-<db> (#36)
+- [d20f452f](https://github.com/kubedb/migrator/commit/d20f452f) Rename module to kubedb.dev/migrator and binary to kubedb-migrator (#35)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.59.0](https://github.com/kubedb/mongodb/releases/tag/v0.59.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:07:14.50873489Z",
+  "release_date": "2026-07-11T12:07:24.925703464Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -807,6 +807,56 @@
             {
               "SHA": "732e96e85",
               "Subject": "Add InPlace mode to vertical scaling (#546)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "323b3ba9",
+              "Subject": "Prepare for release v0.6.0 (#42)"
+            },
+            {
+              "SHA": "52aebdd9",
+              "Subject": "Modernize golangci-lint config (#41)"
+            },
+            {
+              "SHA": "b1c5905d",
+              "Subject": "Added progress for mssql in incr and updated docker (#40)"
+            },
+            {
+              "SHA": "24013168",
+              "Subject": "MSSQLServer no arm64 support (#39)"
+            },
+            {
+              "SHA": "8490fd48",
+              "Subject": "Implement overall progress for mysql,postgres (#33)"
+            },
+            {
+              "SHA": "385b75a1",
+              "Subject": "Fix CI: resolve staticcheck QF1008 by aliasing embedded engine source struct (#38)"
+            },
+            {
+              "SHA": "8266bc2e",
+              "Subject": "Parse per-engine migration config; adopt per-engine {DB}Migration types (#37)"
+            },
+            {
+              "SHA": "f7f8d4eb",
+              "Subject": "Add MSSQL Server migration support (#22)"
+            },
+            {
+              "SHA": "5116be6d",
+              "Subject": "Name per-db images kubedb-migrator-<db> (#36)"
+            },
+            {
+              "SHA": "d20f452f",
+              "Subject": "Rename module to kubedb.dev/migrator and binary to kubedb-migrator (#35)"
             }
           ]
         }

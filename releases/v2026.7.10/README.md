@@ -63,6 +63,15 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.7.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.7.0)
+
+- [3a80ff3](https://github.com/kubedb/db2-coordinator/commit/3a80ff3) Prepare for release v0.7.0 (#16)
+- [5dc64ab](https://github.com/kubedb/db2-coordinator/commit/5dc64ab) Modernize golangci-lint config (#15)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.3.0](https://github.com/kubedb/documentdb/releases/tag/v0.3.0)

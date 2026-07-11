@@ -297,6 +297,15 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.42.0](https://github.com/kubedb/kibana/releases/tag/v0.42.0)
+
+- [3a104a24](https://github.com/kubedb/kibana/commit/3a104a24) Prepare for release v0.42.0 (#188)
+- [7bd02f57](https://github.com/kubedb/kibana/commit/7bd02f57) Modernize golangci-lint config (#187)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.29.0)

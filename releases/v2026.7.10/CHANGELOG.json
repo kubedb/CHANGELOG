@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:05:23.219287548Z",
+  "release_date": "2026-07-11T12:05:30.34496065Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -1163,6 +1163,36 @@
             {
               "SHA": "3618bbdf",
               "Subject": "Add backup pause/resume support for ops requests (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "806455a",
+              "Subject": "Prepare for release v0.2.0"
+            },
+            {
+              "SHA": "b4a6cfa",
+              "Subject": "Backup And Restore Qdrant With Kubestash (#3)"
+            },
+            {
+              "SHA": "ea6ceae",
+              "Subject": "Bump RESTIC_VERSION to 0.18.1-20260421 (#6)"
+            },
+            {
+              "SHA": "ce7f703",
+              "Subject": "Configure dependabot refresh schedule (#5)"
+            },
+            {
+              "SHA": "dd20ad3",
+              "Subject": "Configure dependabot refresh schedule (#4)"
             }
           ]
         }

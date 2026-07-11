@@ -485,6 +485,18 @@
 
 
 
+## [kubedb/qdrant-restic-plugin](https://github.com/kubedb/qdrant-restic-plugin)
+
+### [v0.2.0](https://github.com/kubedb/qdrant-restic-plugin/releases/tag/v0.2.0)
+
+- [806455a](https://github.com/kubedb/qdrant-restic-plugin/commit/806455a) Prepare for release v0.2.0
+- [b4a6cfa](https://github.com/kubedb/qdrant-restic-plugin/commit/b4a6cfa) Backup And Restore Qdrant With Kubestash (#3)
+- [ea6ceae](https://github.com/kubedb/qdrant-restic-plugin/commit/ea6ceae) Bump RESTIC_VERSION to 0.18.1-20260421 (#6)
+- [ce7f703](https://github.com/kubedb/qdrant-restic-plugin/commit/ce7f703) Configure dependabot refresh schedule (#5)
+- [dd20ad3](https://github.com/kubedb/qdrant-restic-plugin/commit/dd20ad3) Configure dependabot refresh schedule (#4)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.21.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.21.0)

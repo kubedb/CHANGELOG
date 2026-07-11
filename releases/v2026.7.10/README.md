@@ -341,6 +341,19 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.7.0](https://github.com/kubedb/milvus/releases/tag/v0.7.0)
+
+- [06c779bc](https://github.com/kubedb/milvus/commit/06c779bc) Prepare for release v0.7.0 (#55)
+- [b0fe9379](https://github.com/kubedb/milvus/commit/b0fe9379) Add InPlace mode to vertical scaling (#52)
+- [1985ebc3](https://github.com/kubedb/milvus/commit/1985ebc3) Modernize golangci-lint config (#54)
+- [ead36da6](https://github.com/kubedb/milvus/commit/ead36da6) Add backup pause/resume support for ops requests (#50)
+- [923a3221](https://github.com/kubedb/milvus/commit/923a3221) Fix etcd service name (#53)
+- [3014ea40](https://github.com/kubedb/milvus/commit/3014ea40) Add Milvus Http Port (#51)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.59.0](https://github.com/kubedb/mongodb/releases/tag/v0.59.0)

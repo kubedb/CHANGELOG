@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:07:24.925703464Z",
+  "release_date": "2026-07-11T12:07:35.341035786Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -857,6 +857,40 @@
             {
               "SHA": "d20f452f",
               "Subject": "Rename module to kubedb.dev/migrator and binary to kubedb-migrator (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "06c779bc",
+              "Subject": "Prepare for release v0.7.0 (#55)"
+            },
+            {
+              "SHA": "b0fe9379",
+              "Subject": "Add InPlace mode to vertical scaling (#52)"
+            },
+            {
+              "SHA": "1985ebc3",
+              "Subject": "Modernize golangci-lint config (#54)"
+            },
+            {
+              "SHA": "ead36da6",
+              "Subject": "Add backup pause/resume support for ops requests (#50)"
+            },
+            {
+              "SHA": "923a3221",
+              "Subject": "Fix etcd service name (#53)"
+            },
+            {
+              "SHA": "3014ea40",
+              "Subject": "Add Milvus Http Port (#51)"
             }
           ]
         }

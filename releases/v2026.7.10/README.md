@@ -275,6 +275,16 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.50.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.50.0)
+
+- [eb30eb7a](https://github.com/kubedb/pg-coordinator/commit/eb30eb7a) Prepare for release v0.50.0 (#263)
+- [440db3d9](https://github.com/kubedb/pg-coordinator/commit/440db3d9) Modernize golangci-lint config (#262)
+- [d34653a1](https://github.com/kubedb/pg-coordinator/commit/d34653a1) Fix formatlsn8 to zero-pad LSN low word to 8 hex digits (#260)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.27.0)

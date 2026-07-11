@@ -711,6 +711,21 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.51.0](https://github.com/kubedb/tests/releases/tag/v0.51.0)
+
+- [56088833](https://github.com/kubedb/tests/commit/56088833b) Prepare for release v0.51.0 (#546)
+- [83e22f2c](https://github.com/kubedb/tests/commit/83e22f2ce) Rename migrator to courier and add per-engine migration e2e tests (#545)
+- [c1a2fec8](https://github.com/kubedb/tests/commit/c1a2fec82) Modernize golangci-lint config (#544)
+- [8eaafd81](https://github.com/kubedb/tests/commit/8eaafd81f) Add E2E tests for Qdrant (#535)
+- [795a53f6](https://github.com/kubedb/tests/commit/795a53f66) Add E2E tests for Oracle (#532)
+- [4bacfea3](https://github.com/kubedb/tests/commit/4bacfea31) Add E2E tests for Neo4j (#531)
+- [4e492b3d](https://github.com/kubedb/tests/commit/4e492b3d6) Add E2E tests for Cassandra (#524)
+- [f42ef953](https://github.com/kubedb/tests/commit/f42ef9532) Implement Postgres Ops-Request Using GitOps (#517)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.7.0](https://github.com/kubedb/weaviate/releases/tag/v0.7.0)

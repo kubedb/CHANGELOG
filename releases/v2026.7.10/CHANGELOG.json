@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:58:33.781674112Z",
+  "release_date": "2026-07-11T11:58:44.208288588Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -265,6 +265,24 @@
             {
               "SHA": "9d7aee2c",
               "Subject": "fixed termination time & health check issue (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "1b29f94d",
+              "Subject": "Prepare for release v0.29.0 (#106)"
+            },
+            {
+              "SHA": "91b6fb9f",
+              "Subject": "Modernize golangci-lint config (#105)"
             }
           ]
         }

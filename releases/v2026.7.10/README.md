@@ -94,6 +94,15 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.29.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.29.0)
+
+- [1b29f94d](https://github.com/kubedb/elasticsearch-restic-plugin/commit/1b29f94d) Prepare for release v0.29.0 (#106)
+- [91b6fb9f](https://github.com/kubedb/elasticsearch-restic-plugin/commit/91b6fb9f) Modernize golangci-lint config (#105)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.59.0](https://github.com/kubedb/memcached/releases/tag/v0.59.0)

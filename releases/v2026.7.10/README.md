@@ -330,6 +330,15 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.21.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.21.0)
+
+- [5712b812](https://github.com/kubedb/mssql-coordinator/commit/5712b812) Prepare for release v0.21.0 (#79)
+- [79515e15](https://github.com/kubedb/mssql-coordinator/commit/79515e15) Modernize golangci-lint config (#78)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.21.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.21.0)

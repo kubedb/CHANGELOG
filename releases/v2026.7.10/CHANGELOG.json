@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:06:30.619833738Z",
+  "release_date": "2026-07-11T12:06:40.398993238Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -813,6 +813,24 @@
             {
               "SHA": "1d683e17",
               "Subject": "Modernize golangci-lint config (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "5712b812",
+              "Subject": "Prepare for release v0.21.0 (#79)"
+            },
+            {
+              "SHA": "79515e15",
+              "Subject": "Modernize golangci-lint config (#78)"
             }
           ]
         }

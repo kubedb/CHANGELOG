@@ -178,6 +178,19 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.12.0](https://github.com/kubedb/hazelcast/releases/tag/v0.12.0)
+
+- [532c0572](https://github.com/kubedb/hazelcast/commit/532c0572) Prepare for release v0.12.0 (#60)
+- [57d96750](https://github.com/kubedb/hazelcast/commit/57d96750) Modernize golangci-lint config (#59)
+- [4dd0083f](https://github.com/kubedb/hazelcast/commit/4dd0083f) Run gofmt with updated golang-dev toolchain (#58)
+- [2a05722e](https://github.com/kubedb/hazelcast/commit/2a05722e) Add InPlace mode to vertical scaling (#57)
+- [d737d88b](https://github.com/kubedb/hazelcast/commit/d737d88b) Add backup pause/resume support for ops requests (#55)
+- [63be50eb](https://github.com/kubedb/hazelcast/commit/63be50eb) [Fix VolumeExpansion] Patch DB before Ops Succeeded (#56)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.13.0](https://github.com/kubedb/ignite/releases/tag/v0.13.0)

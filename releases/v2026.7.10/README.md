@@ -431,6 +431,15 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.53.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.53.0)
+
+- [56178f11](https://github.com/kubedb/replication-mode-detector/commit/56178f11) Prepare for release v0.53.0 (#328)
+- [1d74ce2d](https://github.com/kubedb/replication-mode-detector/commit/1d74ce2d) Modernize golangci-lint config (#327)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.21.0](https://github.com/kubedb/singlestore/releases/tag/v0.21.0)

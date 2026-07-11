@@ -179,6 +179,15 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.20.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.20.0)
+
+- [6ca5fb8](https://github.com/kubedb/mssqlserver-walg-plugin/commit/6ca5fb8) Prepare for release v0.20.0 (#66)
+- [cf72afd](https://github.com/kubedb/mssqlserver-walg-plugin/commit/cf72afd) Modernize golangci-lint config (#65)
+
+
+
 ## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
 
 ### [v0.27.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.27.0)

@@ -53,6 +53,15 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.13.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.13.0)
+
+- [f5c7c8f9](https://github.com/kubedb/cassandra-medusa-plugin/commit/f5c7c8f9) Prepare for release v0.13.0 (#43)
+- [5f75b9ac](https://github.com/kubedb/cassandra-medusa-plugin/commit/5f75b9ac) Modernize golangci-lint config (#42)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.21.0](https://github.com/kubedb/clickhouse/releases/tag/v0.21.0)

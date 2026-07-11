@@ -363,6 +363,15 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.39.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.39.0)
+
+- [703e0b6f](https://github.com/kubedb/percona-xtradb-coordinator/commit/703e0b6f) Prepare for release v0.39.0 (#133)
+- [e0f3fda2](https://github.com/kubedb/percona-xtradb-coordinator/commit/e0f3fda2) Modernize golangci-lint config (#132)
+
+
+
 ## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
 
 ### [v0.50.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.50.0)

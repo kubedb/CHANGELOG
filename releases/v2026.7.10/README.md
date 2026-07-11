@@ -165,6 +165,21 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.21.0](https://github.com/kubedb/druid/releases/tag/v0.21.0)
+
+- [a2a417cc](https://github.com/kubedb/druid/commit/a2a417cc) Prepare for release v0.21.0 (#147)
+- [743a802d](https://github.com/kubedb/druid/commit/743a802d) Modernize golangci-lint config (#146)
+- [8a8a5898](https://github.com/kubedb/druid/commit/8a8a5898) Run gofmt with updated golang-dev toolchain (#145)
+- [2087b2a7](https://github.com/kubedb/druid/commit/2087b2a7) Merge pull request #144 from kubedb/inplace-vscale
+- [3088dc57](https://github.com/kubedb/druid/commit/3088dc57) Merge branch 'master' into inplace-vscale
+- [1730010c](https://github.com/kubedb/druid/commit/1730010c) update deps
+- [c07155c2](https://github.com/kubedb/druid/commit/c07155c2) Add backup pause/resume support for ops requests (#143)
+- [f89865da](https://github.com/kubedb/druid/commit/f89865da) Add InPlace mode to vertical scaling
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.66.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.66.0)

@@ -1,0 +1,152 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.7.10",
+  "release_date": "2026-07-11T08:23:22.691111042Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.7.10",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.66.0",
+          "commits": [
+            {
+              "SHA": "e40ad5529",
+              "Subject": "Modernize golangci-lint config (#1826)"
+            },
+            {
+              "SHA": "e0b3004fa",
+              "Subject": "Update sidekick deps (#1827)"
+            },
+            {
+              "SHA": "ca218a648",
+              "Subject": "Update for release KubeStash@v2026.7.10 (#1825)"
+            },
+            {
+              "SHA": "a9ed525b6",
+              "Subject": "run make fmt (#1823)"
+            },
+            {
+              "SHA": "c85055d3a",
+              "Subject": "ACL secret updation (#1822)"
+            },
+            {
+              "SHA": "bad1baeb0",
+              "Subject": "Disallow InPlace vertical scaling mode for Neo4j (#1819)"
+            },
+            {
+              "SHA": "9b75e2347",
+              "Subject": "Fix Webhook for Virtual Secret (#1817)"
+            },
+            {
+              "SHA": "5c4520591",
+              "Subject": "Don't allow updating version between distro (#1821)"
+            },
+            {
+              "SHA": "fa18e712f",
+              "Subject": "Restrict cross-baseOS version upgrades for Postgres (#1781)"
+            },
+            {
+              "SHA": "0ea56fe94",
+              "Subject": "Added app-binding in mssqlserver (#1820)"
+            },
+            {
+              "SHA": "14397c47b",
+              "Subject": "fix etcd service name (#1818)"
+            },
+            {
+              "SHA": "210cad0ad",
+              "Subject": "Add Clickhouse Shard Scaling Support (#1784)"
+            },
+            {
+              "SHA": "00be056e2",
+              "Subject": "Add ReconfigureTLS ops type and TLS spec to OracleOpsRequest (#1791)"
+            },
+            {
+              "SHA": "21bd385dc",
+              "Subject": "changed lederElection period (#1799)"
+            },
+            {
+              "SHA": "233f90be2",
+              "Subject": "Add MongoDB distro option"
+            },
+            {
+              "SHA": "75751efe9",
+              "Subject": "Add MilvusBind, QdrantBind, WeaviateBind wrappers (#1809)"
+            },
+            {
+              "SHA": "cc1005a99",
+              "Subject": "Add VerticalScalingMode to all vertical scaling specs (#1808)"
+            },
+            {
+              "SHA": "dd7736f01",
+              "Subject": "Add HanaDB volume permission option (#1802)"
+            },
+            {
+              "SHA": "ac0d35e3d",
+              "Subject": "Add PostgresSynchronousReplicationSpec for configurable sync replication (#1782)"
+            },
+            {
+              "SHA": "c8af2eb6e",
+              "Subject": "Fix Zookeeper Ops (#1788)"
+            },
+            {
+              "SHA": "3e7d75582",
+              "Subject": "Set default container resizePolicy for all databases (#1789)"
+            },
+            {
+              "SHA": "df643d84b",
+              "Subject": "Fix pgpool webhook build after ReconfigurationSpec embed change (#1816)"
+            },
+            {
+              "SHA": "e14fe41d9",
+              "Subject": "Add Weaviate Monitoring Support (#1811)"
+            },
+            {
+              "SHA": "d78e2c2e2",
+              "Subject": "Improve Branch APIs and Status for human redable + fix duck typing ci (#1813)"
+            },
+            {
+              "SHA": "779aee469",
+              "Subject": "Document make fmt requirement before opening PRs (#1814)"
+            },
+            {
+              "SHA": "c33750041",
+              "Subject": "Register Migration and MigrationList to scheme"
+            },
+            {
+              "SHA": "e0f21be8f",
+              "Subject": "Use db specific migration kind (#1812)"
+            },
+            {
+              "SHA": "31ad81768",
+              "Subject": "Add MSSQL Server migrator API types (#1742)"
+            },
+            {
+              "SHA": "a5cc9682d",
+              "Subject": "courier: add Branch spec.target.issuerRef for branch TLS (#1810)"
+            },
+            {
+              "SHA": "1476d5788",
+              "Subject": "Add courier.kubedb.com API group (rename migrator to courier) (#1807)"
+            },
+            {
+              "SHA": "8cc4a11bd",
+              "Subject": "Enable TLS in Backup Port (#1783)"
+            },
+            {
+              "SHA": "799356756",
+              "Subject": "changed lederElection period (#1785)"
+            },
+            {
+              "SHA": "4cd0fc34c",
+              "Subject": "Fix Cassandra VolumeExpansion Webhook (#1786)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

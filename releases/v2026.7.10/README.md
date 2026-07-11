@@ -1,0 +1,43 @@
+# KubeDB v2026.7.10 (2026-07-11)
+
+
+## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
+
+### [v0.66.0](https://github.com/kubedb/apimachinery/releases/tag/v0.66.0)
+
+- [e40ad552](https://github.com/kubedb/apimachinery/commit/e40ad5529) Modernize golangci-lint config (#1826)
+- [e0b3004f](https://github.com/kubedb/apimachinery/commit/e0b3004fa) Update sidekick deps (#1827)
+- [ca218a64](https://github.com/kubedb/apimachinery/commit/ca218a648) Update for release KubeStash@v2026.7.10 (#1825)
+- [a9ed525b](https://github.com/kubedb/apimachinery/commit/a9ed525b6) run make fmt (#1823)
+- [c85055d3](https://github.com/kubedb/apimachinery/commit/c85055d3a) ACL secret updation (#1822)
+- [bad1baeb](https://github.com/kubedb/apimachinery/commit/bad1baeb0) Disallow InPlace vertical scaling mode for Neo4j (#1819)
+- [9b75e234](https://github.com/kubedb/apimachinery/commit/9b75e2347) Fix Webhook for Virtual Secret (#1817)
+- [5c452059](https://github.com/kubedb/apimachinery/commit/5c4520591) Don't allow updating version between distro (#1821)
+- [fa18e712](https://github.com/kubedb/apimachinery/commit/fa18e712f) Restrict cross-baseOS version upgrades for Postgres (#1781)
+- [0ea56fe9](https://github.com/kubedb/apimachinery/commit/0ea56fe94) Added app-binding in mssqlserver (#1820)
+- [14397c47](https://github.com/kubedb/apimachinery/commit/14397c47b) fix etcd service name (#1818)
+- [210cad0a](https://github.com/kubedb/apimachinery/commit/210cad0ad) Add Clickhouse Shard Scaling Support (#1784)
+- [00be056e](https://github.com/kubedb/apimachinery/commit/00be056e2) Add ReconfigureTLS ops type and TLS spec to OracleOpsRequest (#1791)
+- [21bd385d](https://github.com/kubedb/apimachinery/commit/21bd385dc) changed lederElection period (#1799)
+- [233f90be](https://github.com/kubedb/apimachinery/commit/233f90be2) Add MongoDB distro option
+- [75751efe](https://github.com/kubedb/apimachinery/commit/75751efe9) Add MilvusBind, QdrantBind, WeaviateBind wrappers (#1809)
+- [cc1005a9](https://github.com/kubedb/apimachinery/commit/cc1005a99) Add VerticalScalingMode to all vertical scaling specs (#1808)
+- [dd7736f0](https://github.com/kubedb/apimachinery/commit/dd7736f01) Add HanaDB volume permission option (#1802)
+- [ac0d35e3](https://github.com/kubedb/apimachinery/commit/ac0d35e3d) Add PostgresSynchronousReplicationSpec for configurable sync replication (#1782)
+- [c8af2eb6](https://github.com/kubedb/apimachinery/commit/c8af2eb6e) Fix Zookeeper Ops (#1788)
+- [3e7d7558](https://github.com/kubedb/apimachinery/commit/3e7d75582) Set default container resizePolicy for all databases (#1789)
+- [df643d84](https://github.com/kubedb/apimachinery/commit/df643d84b) Fix pgpool webhook build after ReconfigurationSpec embed change (#1816)
+- [e14fe41d](https://github.com/kubedb/apimachinery/commit/e14fe41d9) Add Weaviate Monitoring Support (#1811)
+- [d78e2c2e](https://github.com/kubedb/apimachinery/commit/d78e2c2e2) Improve Branch APIs and Status for human redable + fix duck typing ci (#1813)
+- [779aee46](https://github.com/kubedb/apimachinery/commit/779aee469) Document make fmt requirement before opening PRs (#1814)
+- [c3375004](https://github.com/kubedb/apimachinery/commit/c33750041) Register Migration and MigrationList to scheme
+- [e0f21be8](https://github.com/kubedb/apimachinery/commit/e0f21be8f) Use db specific migration kind (#1812)
+- [31ad8176](https://github.com/kubedb/apimachinery/commit/31ad81768) Add MSSQL Server migrator API types (#1742)
+- [a5cc9682](https://github.com/kubedb/apimachinery/commit/a5cc9682d) courier: add Branch spec.target.issuerRef for branch TLS (#1810)
+- [1476d578](https://github.com/kubedb/apimachinery/commit/1476d5788) Add courier.kubedb.com API group (rename migrator to courier) (#1807)
+- [8cc4a11b](https://github.com/kubedb/apimachinery/commit/8cc4a11bd) Enable TLS in Backup Port (#1783)
+- [79935675](https://github.com/kubedb/apimachinery/commit/799356756) changed lederElection period (#1785)
+- [4cd0fc34](https://github.com/kubedb/apimachinery/commit/4cd0fc34c) Fix Cassandra VolumeExpansion Webhook (#1786)
+
+
+

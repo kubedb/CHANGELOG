@@ -120,3 +120,16 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.21.0](https://github.com/kubedb/solr/releases/tag/v0.21.0)
+
+- [0c84e83d](https://github.com/kubedb/solr/commit/0c84e83d) Prepare for release v0.21.0 (#145)
+- [e3f0587d](https://github.com/kubedb/solr/commit/e3f0587d) Modernize golangci-lint config (#144)
+- [824f8d6f](https://github.com/kubedb/solr/commit/824f8d6f) Run gofmt with updated golang-dev toolchain (#143)
+- [1a81c48a](https://github.com/kubedb/solr/commit/1a81c48a) Add InPlace mode to vertical scaling (#142)
+- [fd7d5de3](https://github.com/kubedb/solr/commit/fd7d5de3) Add backup pause/resume support for ops requests (#141)
+- [b8e6684b](https://github.com/kubedb/solr/commit/b8e6684b) Add Solr Secret Fix (#139)
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:56:14.898420325Z",
+  "release_date": "2026-07-11T11:56:24.614366016Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -195,6 +195,24 @@
             {
               "SHA": "4b2ca834",
               "Subject": "Add Qdrant Recover Snapshot Reader Function (#253)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "c13c0001",
+              "Subject": "Prepare for release v0.29.0 (#120)"
+            },
+            {
+              "SHA": "a907f9a4",
+              "Subject": "Modernize golangci-lint config (#119)"
             }
           ]
         }

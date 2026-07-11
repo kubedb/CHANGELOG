@@ -63,6 +63,15 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.29.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.29.0)
+
+- [c13c0001](https://github.com/kubedb/mysql-restic-plugin/commit/c13c0001) Prepare for release v0.29.0 (#120)
+- [a907f9a4](https://github.com/kubedb/mysql-restic-plugin/commit/a907f9a4) Modernize golangci-lint config (#119)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.21.0](https://github.com/kubedb/singlestore/releases/tag/v0.21.0)

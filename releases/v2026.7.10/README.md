@@ -177,6 +177,15 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.44.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.44.0)
+
+- [fa3f225](https://github.com/kubedb/mysql-router-init/commit/fa3f225) Prepare for release v0.44.0 (#67)
+- [a848737](https://github.com/kubedb/mysql-router-init/commit/a848737) Modernize golangci-lint config (#66)
+
+
+
 ## [kubedb/neo4j](https://github.com/kubedb/neo4j)
 
 ### [v0.7.0](https://github.com/kubedb/neo4j/releases/tag/v0.7.0)

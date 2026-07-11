@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T13:23:34.614319295Z",
+  "release_date": "2026-07-11T13:30:30.742034948Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -1900,6 +1900,24 @@
             {
               "SHA": "1d74ce2d",
               "Subject": "Modernize golangci-lint config (#327)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "105cce50",
+              "Subject": "Prepare for release v0.42.0 (#176)"
+            },
+            {
+              "SHA": "f41aa349",
+              "Subject": "Modernize golangci-lint config (#175)"
             }
           ]
         }

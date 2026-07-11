@@ -796,6 +796,15 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.42.0](https://github.com/kubedb/schema-manager/releases/tag/v0.42.0)
+
+- [105cce50](https://github.com/kubedb/schema-manager/commit/105cce50) Prepare for release v0.42.0 (#176)
+- [f41aa349](https://github.com/kubedb/schema-manager/commit/f41aa349) Modernize golangci-lint config (#175)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.21.0](https://github.com/kubedb/singlestore/releases/tag/v0.21.0)

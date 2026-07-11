@@ -135,6 +135,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.66.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.66.0)
+
+- [16ff98fa](https://github.com/kubedb/elasticsearch/commit/16ff98faf) Prepare for release v0.66.0
+- [51fe3f9a](https://github.com/kubedb/elasticsearch/commit/51fe3f9ad) Add golangci-lint config (#827)
+- [20b313e0](https://github.com/kubedb/elasticsearch/commit/20b313e04) Run gofmt with updated golang-dev toolchain (#826)
+- [5a50d5eb](https://github.com/kubedb/elasticsearch/commit/5a50d5ebe) Merge pull request #825 from kubedb/inplace-vscale
+- [c376b130](https://github.com/kubedb/elasticsearch/commit/c376b130f) update deps
+- [97d7e676](https://github.com/kubedb/elasticsearch/commit/97d7e6769) Add InPlace mode to vertical scaling
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.29.0)

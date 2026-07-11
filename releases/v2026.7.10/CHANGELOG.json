@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:00:26.452659142Z",
+  "release_date": "2026-07-11T12:00:34.679295171Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -235,6 +235,24 @@
             {
               "SHA": "4b2ca834",
               "Subject": "Add Qdrant Recover Snapshot Reader Function (#253)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "78ad3099",
+              "Subject": "Prepare for release v0.7.0 (#35)"
+            },
+            {
+              "SHA": "538b3685",
+              "Subject": "Modernize golangci-lint config (#34)"
             }
           ]
         }

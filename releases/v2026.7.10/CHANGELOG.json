@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:03:11.110152691Z",
+  "release_date": "2026-07-11T12:03:21.678719616Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -557,6 +557,28 @@
             {
               "SHA": "11fc3fb9",
               "Subject": "Modernize golangci-lint config (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "6d836f63",
+              "Subject": "Prepare for release v0.26.0"
+            },
+            {
+              "SHA": "00ed9470",
+              "Subject": "Modernize golangci-lint config (#98)"
+            },
+            {
+              "SHA": "22666eed",
+              "Subject": "Update Distributed Inc Snapshot (#94)"
             }
           ]
         }

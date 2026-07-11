@@ -221,6 +221,16 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.26.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.26.0)
+
+- [6d836f63](https://github.com/kubedb/mariadb-archiver/commit/6d836f63) Prepare for release v0.26.0
+- [00ed9470](https://github.com/kubedb/mariadb-archiver/commit/00ed9470) Modernize golangci-lint config (#98)
+- [22666eed](https://github.com/kubedb/mariadb-archiver/commit/22666eed) Update Distributed Inc Snapshot (#94)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.24.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.24.0)

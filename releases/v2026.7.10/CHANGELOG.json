@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:05:46.959172412Z",
+  "release_date": "2026-07-11T12:06:04.747530122Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -989,6 +989,40 @@
             {
               "SHA": "9d5c3e0",
               "Subject": "Modernize golangci-lint config (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "97cf90f73",
+              "Subject": "Prepare for release v0.53.0 (#467)"
+            },
+            {
+              "SHA": "3e42a7e6a",
+              "Subject": "Modernize golangci-lint config (#466)"
+            },
+            {
+              "SHA": "45244a177",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#465)"
+            },
+            {
+              "SHA": "f459b5663",
+              "Subject": "Merge pull request #464 from kubedb/inplace-vscale"
+            },
+            {
+              "SHA": "c63f7c33d",
+              "Subject": "fix build"
+            },
+            {
+              "SHA": "88f0f1612",
+              "Subject": "Add InPlace mode to vertical scaling"
             }
           ]
         }

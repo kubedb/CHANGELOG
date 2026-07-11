@@ -410,6 +410,19 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.53.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.53.0)
+
+- [97cf90f7](https://github.com/kubedb/percona-xtradb/commit/97cf90f73) Prepare for release v0.53.0 (#467)
+- [3e42a7e6](https://github.com/kubedb/percona-xtradb/commit/3e42a7e6a) Modernize golangci-lint config (#466)
+- [45244a17](https://github.com/kubedb/percona-xtradb/commit/45244a177) Run gofmt with updated golang-dev toolchain (#465)
+- [f459b566](https://github.com/kubedb/percona-xtradb/commit/f459b5663) Merge pull request #464 from kubedb/inplace-vscale
+- [c63f7c33](https://github.com/kubedb/percona-xtradb/commit/c63f7c33d) fix build
+- [88f0f161](https://github.com/kubedb/percona-xtradb/commit/88f0f1612) Add InPlace mode to vertical scaling
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.39.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.39.0)

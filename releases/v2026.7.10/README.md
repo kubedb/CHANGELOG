@@ -280,6 +280,20 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.50.0](https://github.com/kubedb/mariadb/releases/tag/v0.50.0)
+
+- [d13a5dbc](https://github.com/kubedb/mariadb/commit/d13a5dbc4) Prepare for release v0.50.0
+- [9b45199c](https://github.com/kubedb/mariadb/commit/9b45199c7) Modernize golangci-lint config (#419)
+- [92fdd97b](https://github.com/kubedb/mariadb/commit/92fdd97be) Run gofmt with updated golang-dev toolchain (#418)
+- [ebe378d2](https://github.com/kubedb/mariadb/commit/ebe378d2a) Merge pull request #417 from kubedb/inplace-vscale
+- [a49fa865](https://github.com/kubedb/mariadb/commit/a49fa8655) fix build
+- [9c552272](https://github.com/kubedb/mariadb/commit/9c5522724) Add InPlace mode to vertical scaling
+- [7eb561f4](https://github.com/kubedb/mariadb/commit/7eb561f4a) Resume paused backups when ops request completes (#414)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.26.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.26.0)

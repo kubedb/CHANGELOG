@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:06:56.828342953Z",
+  "release_date": "2026-07-11T12:07:14.50873489Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -703,6 +703,44 @@
             {
               "SHA": "11fc3fb9",
               "Subject": "Modernize golangci-lint config (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.50.0",
+          "commits": [
+            {
+              "SHA": "d13a5dbc4",
+              "Subject": "Prepare for release v0.50.0"
+            },
+            {
+              "SHA": "9b45199c7",
+              "Subject": "Modernize golangci-lint config (#419)"
+            },
+            {
+              "SHA": "92fdd97be",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#418)"
+            },
+            {
+              "SHA": "ebe378d2a",
+              "Subject": "Merge pull request #417 from kubedb/inplace-vscale"
+            },
+            {
+              "SHA": "a49fa8655",
+              "Subject": "fix build"
+            },
+            {
+              "SHA": "9c5522724",
+              "Subject": "Add InPlace mode to vertical scaling"
+            },
+            {
+              "SHA": "7eb561f4a",
+              "Subject": "Resume paused backups when ops request completes (#414)"
             }
           ]
         }

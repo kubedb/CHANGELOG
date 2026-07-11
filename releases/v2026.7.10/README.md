@@ -63,3 +63,18 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.21.0](https://github.com/kubedb/singlestore/releases/tag/v0.21.0)
+
+- [f51c87f9](https://github.com/kubedb/singlestore/commit/f51c87f9) Prepare for release v0.21.0 (#139)
+- [8d7aeb36](https://github.com/kubedb/singlestore/commit/8d7aeb36) Modernize golangci-lint config (#138)
+- [daf2d45d](https://github.com/kubedb/singlestore/commit/daf2d45d) Run gofmt with updated golang-dev toolchain (#137)
+- [ea9437b9](https://github.com/kubedb/singlestore/commit/ea9437b9) Merge pull request #135 from kubedb/inplace-vscale
+- [5a7d19bf](https://github.com/kubedb/singlestore/commit/5a7d19bf) Merge branch 'master' into inplace-vscale
+- [aa92b2d3](https://github.com/kubedb/singlestore/commit/aa92b2d3) fix build
+- [6086ab90](https://github.com/kubedb/singlestore/commit/6086ab90) Add backup pause/resume support for ops requests (#134)
+- [44b37bf1](https://github.com/kubedb/singlestore/commit/44b37bf1) Add InPlace mode to vertical scaling
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T09:14:47.648068502Z",
+  "release_date": "2026-07-11T11:56:14.898420325Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -195,6 +195,48 @@
             {
               "SHA": "4b2ca834",
               "Subject": "Add Qdrant Recover Snapshot Reader Function (#253)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "f51c87f9",
+              "Subject": "Prepare for release v0.21.0 (#139)"
+            },
+            {
+              "SHA": "8d7aeb36",
+              "Subject": "Modernize golangci-lint config (#138)"
+            },
+            {
+              "SHA": "daf2d45d",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#137)"
+            },
+            {
+              "SHA": "ea9437b9",
+              "Subject": "Merge pull request #135 from kubedb/inplace-vscale"
+            },
+            {
+              "SHA": "5a7d19bf",
+              "Subject": "Merge branch 'master' into inplace-vscale"
+            },
+            {
+              "SHA": "aa92b2d3",
+              "Subject": "fix build"
+            },
+            {
+              "SHA": "6086ab90",
+              "Subject": "Add backup pause/resume support for ops requests (#134)"
+            },
+            {
+              "SHA": "44b37bf1",
+              "Subject": "Add InPlace mode to vertical scaling"
             }
           ]
         }

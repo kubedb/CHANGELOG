@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T08:23:22.691111042Z",
+  "release_date": "2026-07-11T09:07:56.893395998Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -143,6 +143,28 @@
             {
               "SHA": "4cd0fc34c",
               "Subject": "Fix Cassandra VolumeExpansion Webhook (#1786)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "ef77e885",
+              "Subject": "Prepare for release v0.21.0 (#148)"
+            },
+            {
+              "SHA": "1257a1c4",
+              "Subject": "Rename migrator to courier CRDs (#147)"
+            },
+            {
+              "SHA": "e3df0cbf",
+              "Subject": "Modernize golangci-lint config (#146)"
             }
           ]
         }

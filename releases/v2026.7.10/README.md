@@ -41,3 +41,13 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.21.0](https://github.com/kubedb/crd-manager/releases/tag/v0.21.0)
+
+- [ef77e885](https://github.com/kubedb/crd-manager/commit/ef77e885) Prepare for release v0.21.0 (#148)
+- [1257a1c4](https://github.com/kubedb/crd-manager/commit/1257a1c4) Rename migrator to courier CRDs (#147)
+- [e3df0cbf](https://github.com/kubedb/crd-manager/commit/e3df0cbf) Modernize golangci-lint config (#146)
+
+
+

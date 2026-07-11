@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:04:01.777677022Z",
+  "release_date": "2026-07-11T12:04:16.967932078Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -921,6 +921,48 @@
             {
               "SHA": "29e0c111",
               "Subject": "Fix build after apimachinery update and propagate serviceAccountName to PetSet (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.66.0",
+          "commits": [
+            {
+              "SHA": "a793a776e",
+              "Subject": "Prepare for release v0.66.0"
+            },
+            {
+              "SHA": "e4fdd3649",
+              "Subject": "Modernize golangci-lint config (#914)"
+            },
+            {
+              "SHA": "e9c934336",
+              "Subject": "Add InPlace mode to vertical scaling (#913)"
+            },
+            {
+              "SHA": "cbd36f30f",
+              "Subject": "Pass SYNC_REPLICATION_MODE, NUM_SYNC_REPLICAS, SYNC_COMMIT_LEVEL env vars for sync replication (#904)"
+            },
+            {
+              "SHA": "4bb191ed7",
+              "Subject": "controller: treat DoNotTerminate as Halt when webhook is bypassed (#903)"
+            },
+            {
+              "SHA": "cd72e6426",
+              "Subject": "Add preserve-on-halt and resource-policy: keep annotations for services (#909)"
+            },
+            {
+              "SHA": "e3490048d",
+              "Subject": "Update service preserve annotation to kubedb.com/resource-policy: keep (#906)"
+            },
+            {
+              "SHA": "bb8aab36b",
+              "Subject": "Do not Delete Service if preserveannotation is present (#905)"
             }
           ]
         }

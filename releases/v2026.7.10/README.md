@@ -384,6 +384,21 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.66.0](https://github.com/kubedb/postgres/releases/tag/v0.66.0)
+
+- [a793a776](https://github.com/kubedb/postgres/commit/a793a776e) Prepare for release v0.66.0
+- [e4fdd364](https://github.com/kubedb/postgres/commit/e4fdd3649) Modernize golangci-lint config (#914)
+- [e9c93433](https://github.com/kubedb/postgres/commit/e9c934336) Add InPlace mode to vertical scaling (#913)
+- [cbd36f30](https://github.com/kubedb/postgres/commit/cbd36f30f) Pass SYNC_REPLICATION_MODE, NUM_SYNC_REPLICAS, SYNC_COMMIT_LEVEL env vars for sync replication (#904)
+- [4bb191ed](https://github.com/kubedb/postgres/commit/4bb191ed7) controller: treat DoNotTerminate as Halt when webhook is bypassed (#903)
+- [cd72e642](https://github.com/kubedb/postgres/commit/cd72e6426) Add preserve-on-halt and resource-policy: keep annotations for services (#909)
+- [e3490048](https://github.com/kubedb/postgres/commit/e3490048d) Update service preserve annotation to kubedb.com/resource-policy: keep (#906)
+- [bb8aab36](https://github.com/kubedb/postgres/commit/bb8aab36b) Do not Delete Service if preserveannotation is present (#905)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.27.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.27.0)

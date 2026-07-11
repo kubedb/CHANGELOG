@@ -257,6 +257,15 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.27.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.27.0)
+
+- [20f4ca6c](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/20f4ca6c) Prepare for release v0.27.0 (#84)
+- [d87841f1](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/d87841f1) Modernize golangci-lint config (#83)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.29.0)

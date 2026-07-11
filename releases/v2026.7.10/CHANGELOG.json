@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:01:39.717774198Z",
+  "release_date": "2026-07-11T12:01:48.262670557Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -629,6 +629,24 @@
             {
               "SHA": "db883280",
               "Subject": "Add Virtual Secret (#182)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "20f4ca6c",
+              "Subject": "Prepare for release v0.27.0 (#84)"
+            },
+            {
+              "SHA": "d87841f1",
+              "Subject": "Modernize golangci-lint config (#83)"
             }
           ]
         }

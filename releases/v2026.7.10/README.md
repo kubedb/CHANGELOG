@@ -304,6 +304,15 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.46.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.46.0)
+
+- [d3722e71](https://github.com/kubedb/mariadb-coordinator/commit/d3722e71) Prepare for release v0.46.0 (#186)
+- [d00e0323](https://github.com/kubedb/mariadb-coordinator/commit/d00e0323) Modernize golangci-lint config (#185)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.24.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.24.0)

@@ -408,3 +408,12 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.14.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.14.0)
+
+- [d1839680](https://github.com/kubedb/xtrabackup-restic-plugin/commit/d1839680) Prepare for release v0.14.0 (#61)
+- [ec488ba5](https://github.com/kubedb/xtrabackup-restic-plugin/commit/ec488ba5) Modernize golangci-lint config (#60)
+
+
+

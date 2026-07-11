@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:57:25.917687798Z",
+  "release_date": "2026-07-11T11:57:35.425163258Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -277,6 +277,28 @@
             {
               "SHA": "6af75d70",
               "Subject": "Add backup pause/resume support for ops requests (#146)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "a7f57425",
+              "Subject": "Prepare for release v0.44.0 (#188)"
+            },
+            {
+              "SHA": "eb1460fa",
+              "Subject": "Modernize golangci-lint config (#187)"
+            },
+            {
+              "SHA": "db883280",
+              "Subject": "Add Virtual Secret (#182)"
             }
           ]
         }

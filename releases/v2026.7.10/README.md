@@ -97,6 +97,16 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.44.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.44.0)
+
+- [a7f57425](https://github.com/kubedb/mysql-coordinator/commit/a7f57425) Prepare for release v0.44.0 (#188)
+- [eb1460fa](https://github.com/kubedb/mysql-coordinator/commit/eb1460fa) Modernize golangci-lint config (#187)
+- [db883280](https://github.com/kubedb/mysql-coordinator/commit/db883280) Add Virtual Secret (#182)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.29.0)

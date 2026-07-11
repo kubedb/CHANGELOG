@@ -147,6 +147,15 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.12.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.12.0)
+
+- [225c88c](https://github.com/kubedb/oracle-coordinator/commit/225c88c) Prepare for release v0.12.0 (#43)
+- [9d5c3e0](https://github.com/kubedb/oracle-coordinator/commit/9d5c3e0) Modernize golangci-lint config (#42)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.7.0](https://github.com/kubedb/qdrant/releases/tag/v0.7.0)

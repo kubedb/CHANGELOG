@@ -321,6 +321,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.29.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.29.0)
+
+- [758ae6b9](https://github.com/kubedb/mongodb-restic-plugin/commit/758ae6b9) Prepare for release v0.29.0 (#135)
+- [1d683e17](https://github.com/kubedb/mongodb-restic-plugin/commit/1d683e17) Modernize golangci-lint config (#134)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.21.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.21.0)

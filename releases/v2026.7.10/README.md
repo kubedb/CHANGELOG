@@ -459,3 +459,15 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.21.0](https://github.com/kubedb/zookeeper/releases/tag/v0.21.0)
+
+- [7f1c5b82](https://github.com/kubedb/zookeeper/commit/7f1c5b82) Prepare for release v0.21.0 (#134)
+- [04b7e785](https://github.com/kubedb/zookeeper/commit/04b7e785) Modernize golangci-lint config (#133)
+- [07570662](https://github.com/kubedb/zookeeper/commit/07570662) Run gofmt with updated golang-dev toolchain (#132)
+- [cc5c3caf](https://github.com/kubedb/zookeeper/commit/cc5c3caf) Add InPlace mode to vertical scaling (#131)
+- [0f00aa2b](https://github.com/kubedb/zookeeper/commit/0f00aa2b) Add backup pause/resume support for ops requests (#130)
+
+
+

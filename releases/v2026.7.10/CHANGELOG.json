@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:02:48.4050572Z",
+  "release_date": "2026-07-11T12:03:00.676762472Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -1095,6 +1095,36 @@
             {
               "SHA": "ec488ba5",
               "Subject": "Modernize golangci-lint config (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "7f1c5b82",
+              "Subject": "Prepare for release v0.21.0 (#134)"
+            },
+            {
+              "SHA": "04b7e785",
+              "Subject": "Modernize golangci-lint config (#133)"
+            },
+            {
+              "SHA": "07570662",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#132)"
+            },
+            {
+              "SHA": "cc5c3caf",
+              "Subject": "Add InPlace mode to vertical scaling (#131)"
+            },
+            {
+              "SHA": "0f00aa2b",
+              "Subject": "Add backup pause/resume support for ops requests (#130)"
             }
           ]
         }

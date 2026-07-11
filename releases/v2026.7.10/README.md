@@ -41,6 +41,16 @@
 
 
 
+## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
+
+### [v0.3.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.3.0)
+
+- [46d0a5cf](https://github.com/kubedb/clickhouse-backup-plugin/commit/46d0a5cf) Prepare for release v0.3.0 (#30)
+- [1b314899](https://github.com/kubedb/clickhouse-backup-plugin/commit/1b314899) Add golangci-lint config (#29)
+- [e06cf170](https://github.com/kubedb/clickhouse-backup-plugin/commit/e06cf170) Add Incremental backup (#19)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.21.0](https://github.com/kubedb/crd-manager/releases/tag/v0.21.0)

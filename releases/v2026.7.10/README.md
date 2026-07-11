@@ -329,6 +329,15 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.27.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.27.0)
+
+- [a11c9ce5](https://github.com/kubedb/postgres-archiver/commit/a11c9ce5) Prepare for release v0.27.0
+- [f7ecc95c](https://github.com/kubedb/postgres-archiver/commit/f7ecc95c) Modernize golangci-lint config (#113)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.27.0)

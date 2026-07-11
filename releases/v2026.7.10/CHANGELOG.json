@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:01:16.448590639Z",
+  "release_date": "2026-07-11T12:01:28.993414277Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -143,6 +143,40 @@
             {
               "SHA": "4cd0fc34c",
               "Subject": "Fix Cassandra VolumeExpansion Webhook (#1786)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "2a420dd6",
+              "Subject": "Prepare for release v0.21.0 (#125)"
+            },
+            {
+              "SHA": "fbc3c3d6",
+              "Subject": "Modernize golangci-lint config (#124)"
+            },
+            {
+              "SHA": "972ddd22",
+              "Subject": "Add InPlace mode to vertical scaling (#122)"
+            },
+            {
+              "SHA": "fccd8b2b",
+              "Subject": "Add Shard Scaling Support (#119)"
+            },
+            {
+              "SHA": "40de00ae",
+              "Subject": "as (#123)"
+            },
+            {
+              "SHA": "3b4ca7b6",
+              "Subject": "Add Archiver Support (#99)"
             }
           ]
         }

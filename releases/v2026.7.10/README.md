@@ -41,6 +41,19 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.21.0](https://github.com/kubedb/clickhouse/releases/tag/v0.21.0)
+
+- [2a420dd6](https://github.com/kubedb/clickhouse/commit/2a420dd6) Prepare for release v0.21.0 (#125)
+- [fbc3c3d6](https://github.com/kubedb/clickhouse/commit/fbc3c3d6) Modernize golangci-lint config (#124)
+- [972ddd22](https://github.com/kubedb/clickhouse/commit/972ddd22) Add InPlace mode to vertical scaling (#122)
+- [fccd8b2b](https://github.com/kubedb/clickhouse/commit/fccd8b2b) Add Shard Scaling Support (#119)
+- [40de00ae](https://github.com/kubedb/clickhouse/commit/40de00ae) as (#123)
+- [3b4ca7b6](https://github.com/kubedb/clickhouse/commit/3b4ca7b6) Add Archiver Support (#99)
+
+
+
 ## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.3.0)

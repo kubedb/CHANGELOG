@@ -508,6 +508,19 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.59.0](https://github.com/kubedb/redis/releases/tag/v0.59.0)
+
+- [96ab2c93](https://github.com/kubedb/redis/commit/96ab2c933) Prepare for release v0.59.0
+- [2e2658c5](https://github.com/kubedb/redis/commit/2e2658c5b) Modernize golangci-lint config (#666)
+- [514f4eb4](https://github.com/kubedb/redis/commit/514f4eb4a) Run gofmt with updated golang-dev toolchain (#665)
+- [c0cceb86](https://github.com/kubedb/redis/commit/c0cceb867) Add InPlace mode to vertical scaling (#663)
+- [ecdded87](https://github.com/kubedb/redis/commit/ecdded873) Add backup pause for ops requests (#657)
+- [19f7e344](https://github.com/kubedb/redis/commit/19f7e3443) Vnpay issue solve for redis sentinel (#655)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.45.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.45.0)

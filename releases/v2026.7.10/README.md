@@ -866,6 +866,15 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.42.0](https://github.com/kubedb/ui-server/releases/tag/v0.42.0)
+
+- [5d905205](https://github.com/kubedb/ui-server/commit/5d9052055) Prepare for release v0.42.0 (#213)
+- [1b25fc35](https://github.com/kubedb/ui-server/commit/1b25fc35a) Modernize golangci-lint config (#212)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.7.0](https://github.com/kubedb/weaviate/releases/tag/v0.7.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T13:30:43.684639345Z",
+  "release_date": "2026-07-11T13:30:54.310947284Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -2072,6 +2072,24 @@
             {
               "SHA": "f42ef9532",
               "Subject": "Implement Postgres Ops-Request Using GitOps (#517)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "5d9052055",
+              "Subject": "Prepare for release v0.42.0 (#213)"
+            },
+            {
+              "SHA": "1b25fc35a",
+              "Subject": "Modernize golangci-lint config (#212)"
             }
           ]
         }

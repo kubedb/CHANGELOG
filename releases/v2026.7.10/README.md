@@ -114,6 +114,16 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.29.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.29.0)
+
+- [29af77f5](https://github.com/kubedb/kubedb-manifest-plugin/commit/29af77f5) Prepare for release v0.29.0 (#140)
+- [42eaca97](https://github.com/kubedb/kubedb-manifest-plugin/commit/42eaca97) Modernize golangci-lint config (#139)
+- [70ae44b0](https://github.com/kubedb/kubedb-manifest-plugin/commit/70ae44b0) Add ClickHouse Manifest (#129)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.59.0](https://github.com/kubedb/memcached/releases/tag/v0.59.0)

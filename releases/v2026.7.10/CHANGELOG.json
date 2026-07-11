@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:58:22.572837248Z",
+  "release_date": "2026-07-11T11:58:33.781674112Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -461,6 +461,24 @@
             {
               "SHA": "7d8fc997",
               "Subject": "Support InPlace mode for vertical scaling (#144)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "f0b13174",
+              "Subject": "Prepare for release v0.45.0 (#166)"
+            },
+            {
+              "SHA": "7645c40a",
+              "Subject": "Modernize golangci-lint config (#165)"
             }
           ]
         }

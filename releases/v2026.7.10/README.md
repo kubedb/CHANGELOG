@@ -179,6 +179,15 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.45.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.45.0)
+
+- [f0b13174](https://github.com/kubedb/redis-coordinator/commit/f0b13174) Prepare for release v0.45.0 (#166)
+- [7645c40a](https://github.com/kubedb/redis-coordinator/commit/7645c40a) Modernize golangci-lint config (#165)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.21.0](https://github.com/kubedb/singlestore/releases/tag/v0.21.0)

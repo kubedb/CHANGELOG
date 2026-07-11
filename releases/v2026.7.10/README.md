@@ -136,6 +136,15 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.17.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.17.0)
+
+- [9ed0acba](https://github.com/kubedb/kubedb-verifier/commit/9ed0acba) Prepare for release v0.17.0 (#57)
+- [11fc3fb9](https://github.com/kubedb/kubedb-verifier/commit/11fc3fb9) Modernize golangci-lint config (#56)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.59.0](https://github.com/kubedb/memcached/releases/tag/v0.59.0)

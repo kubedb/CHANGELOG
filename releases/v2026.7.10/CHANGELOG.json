@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:59:30.42743844Z",
+  "release_date": "2026-07-11T11:59:39.639309044Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -361,6 +361,24 @@
             {
               "SHA": "70ae44b0",
               "Subject": "Add ClickHouse Manifest (#129)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "9ed0acba",
+              "Subject": "Prepare for release v0.17.0 (#57)"
+            },
+            {
+              "SHA": "11fc3fb9",
+              "Subject": "Modernize golangci-lint config (#56)"
             }
           ]
         }

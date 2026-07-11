@@ -597,6 +597,13 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.27.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.27.0)
+
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.7.0](https://github.com/kubedb/qdrant/releases/tag/v0.7.0)

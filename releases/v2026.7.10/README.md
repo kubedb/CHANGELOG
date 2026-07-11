@@ -187,6 +187,22 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.14.0](https://github.com/kubedb/gitops/releases/tag/v0.14.0)
+
+- [5df5c4c0](https://github.com/kubedb/gitops/commit/5df5c4c0) Prepare for release v0.14.0 (#85)
+- [6cf3ed69](https://github.com/kubedb/gitops/commit/6cf3ed69) Add golangci-lint config (#84)
+- [58c5dd1d](https://github.com/kubedb/gitops/commit/58c5dd1d) Add StorageClass Migration Support (#83)
+- [bea9b77b](https://github.com/kubedb/gitops/commit/bea9b77b) Prepare AI Generated PR (#82)
+- [0dd5a2c4](https://github.com/kubedb/gitops/commit/0dd5a2c4) Add gitops support for Cassandra (#58)
+- [1e58fdeb](https://github.com/kubedb/gitops/commit/1e58fdeb) Add GitOps support for Memcached (#70)
+- [2bb69ced](https://github.com/kubedb/gitops/commit/2bb69ced) Add gitops support for Weaviate (#67)
+- [3e44a434](https://github.com/kubedb/gitops/commit/3e44a434) Add GitOps support for ProxySQL (#74)
+- [5606d8b6](https://github.com/kubedb/gitops/commit/5606d8b6) Add gitops support for Milvus (#63)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.7.0](https://github.com/kubedb/hanadb/releases/tag/v0.7.0)

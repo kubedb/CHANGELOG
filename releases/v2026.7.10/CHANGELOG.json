@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:04:57.731683519Z",
+  "release_date": "2026-07-11T12:05:07.31158998Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -475,6 +475,52 @@
             {
               "SHA": "91b6fb9f",
               "Subject": "Modernize golangci-lint config (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "5df5c4c0",
+              "Subject": "Prepare for release v0.14.0 (#85)"
+            },
+            {
+              "SHA": "6cf3ed69",
+              "Subject": "Add golangci-lint config (#84)"
+            },
+            {
+              "SHA": "58c5dd1d",
+              "Subject": "Add StorageClass Migration Support (#83)"
+            },
+            {
+              "SHA": "bea9b77b",
+              "Subject": "Prepare AI Generated PR (#82)"
+            },
+            {
+              "SHA": "0dd5a2c4",
+              "Subject": "Add gitops support for Cassandra (#58)"
+            },
+            {
+              "SHA": "1e58fdeb",
+              "Subject": "Add GitOps support for Memcached (#70)"
+            },
+            {
+              "SHA": "2bb69ced",
+              "Subject": "Add gitops support for Weaviate (#67)"
+            },
+            {
+              "SHA": "3e44a434",
+              "Subject": "Add GitOps support for ProxySQL (#74)"
+            },
+            {
+              "SHA": "5606d8b6",
+              "Subject": "Add gitops support for Milvus (#63)"
             }
           ]
         }

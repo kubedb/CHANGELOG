@@ -329,6 +329,17 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.21.0](https://github.com/kubedb/pgpool/releases/tag/v0.21.0)
+
+- [4ed0ce7c](https://github.com/kubedb/pgpool/commit/4ed0ce7c) Prepare for release v0.21.0 (#134)
+- [ca87c1ca](https://github.com/kubedb/pgpool/commit/ca87c1ca) Add InPlace mode to Pgpool vertical scaling (#132)
+- [1fa8149d](https://github.com/kubedb/pgpool/commit/1fa8149d) Modernize golangci-lint config (#133)
+- [29e0c111](https://github.com/kubedb/pgpool/commit/29e0c111) Fix build after apimachinery update and propagate serviceAccountName to PetSet (#130)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.27.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.27.0)

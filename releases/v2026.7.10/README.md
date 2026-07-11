@@ -169,6 +169,15 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.6.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.6.0)
+
+- [424def31](https://github.com/kubedb/hanadb-coordinator/commit/424def31) Prepare for release v0.6.0 (#20)
+- [24d6bcd0](https://github.com/kubedb/hanadb-coordinator/commit/24d6bcd0) Modernize golangci-lint config (#19)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.13.0](https://github.com/kubedb/ignite/releases/tag/v0.13.0)

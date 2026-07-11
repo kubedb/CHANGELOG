@@ -548,3 +548,12 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.21.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.21.0)
+
+- [41b6d8b2](https://github.com/kubedb/zookeeper-restic-plugin/commit/41b6d8b2) Prepare for release v0.21.0
+- [14c471b5](https://github.com/kubedb/zookeeper-restic-plugin/commit/14c471b5) Modernize golangci-lint config (#76)
+
+
+

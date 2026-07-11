@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:28:59.568517088Z",
+  "release_date": "2026-07-11T13:23:34.614319295Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -331,6 +331,44 @@
             {
               "SHA": "e06cf170",
               "Subject": "Add Incremental backup (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/courier",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "acda30f",
+              "Subject": "Prepare for release v0.6.0 (#50)"
+            },
+            {
+              "SHA": "a8910f6",
+              "Subject": "Modernize golangci-lint config (#49)"
+            },
+            {
+              "SHA": "4b881f5",
+              "Subject": "Fix CI: Update deps"
+            },
+            {
+              "SHA": "afab26c",
+              "Subject": "added appbing support for mssqlserver (#47)"
+            },
+            {
+              "SHA": "147d289",
+              "Subject": "Fix Mongoshake field access on MongoDB source (#46)"
+            },
+            {
+              "SHA": "38ed45b",
+              "Subject": "Reconcile per-engine {DB}Migration CRDs via Migration duck type (#45)"
+            },
+            {
+              "SHA": "4ba344b",
+              "Subject": "Rename to courier: module kubedb.dev/courier, binary kubedb-courier; scaffold Branch + manager (#27)"
             }
           ]
         }

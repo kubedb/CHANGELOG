@@ -115,6 +115,20 @@
 
 
 
+## [kubedb/courier](https://github.com/kubedb/courier)
+
+### [v0.6.0](https://github.com/kubedb/courier/releases/tag/v0.6.0)
+
+- [acda30f](https://github.com/kubedb/courier/commit/acda30f) Prepare for release v0.6.0 (#50)
+- [a8910f6](https://github.com/kubedb/courier/commit/a8910f6) Modernize golangci-lint config (#49)
+- [4b881f5](https://github.com/kubedb/courier/commit/4b881f5) Fix CI: Update deps
+- [afab26c](https://github.com/kubedb/courier/commit/afab26c) added appbing support for mssqlserver (#47)
+- [147d289](https://github.com/kubedb/courier/commit/147d289) Fix Mongoshake field access on MongoDB source (#46)
+- [38ed45b](https://github.com/kubedb/courier/commit/38ed45b) Reconcile per-engine {DB}Migration CRDs via Migration duck type (#45)
+- [4ba344b](https://github.com/kubedb/courier/commit/4ba344b) Rename to courier: module kubedb.dev/courier, binary kubedb-courier; scaffold Branch + manager (#27)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.21.0](https://github.com/kubedb/crd-manager/releases/tag/v0.21.0)

@@ -85,6 +85,18 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.21.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.21.0)
+
+- [b45fc246](https://github.com/kubedb/mssqlserver/commit/b45fc246) Prepare for release v0.21.0 (#152)
+- [ce78720f](https://github.com/kubedb/mssqlserver/commit/ce78720f) Modernize golangci-lint config (#151)
+- [ba6e13c6](https://github.com/kubedb/mssqlserver/commit/ba6e13c6) Run gofmt with updated golang-dev toolchain (#150)
+- [c6a7e0bd](https://github.com/kubedb/mssqlserver/commit/c6a7e0bd) Add InPlace mode to vertical scaling (#149)
+- [6af75d70](https://github.com/kubedb/mssqlserver/commit/6af75d70) Add backup pause/resume support for ops requests (#146)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.29.0)

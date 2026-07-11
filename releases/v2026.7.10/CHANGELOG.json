@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:01:28.993414277Z",
+  "release_date": "2026-07-11T12:01:39.717774198Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -471,6 +471,24 @@
             {
               "SHA": "11fc3fb9",
               "Subject": "Modernize golangci-lint config (#56)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "ac94025d",
+              "Subject": "Prepare for release v0.24.0 (#99)"
+            },
+            {
+              "SHA": "6b3c8e78",
+              "Subject": "Modernize golangci-lint config (#98)"
             }
           ]
         }

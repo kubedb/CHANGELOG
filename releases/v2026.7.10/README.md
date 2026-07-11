@@ -186,6 +186,15 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.24.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.24.0)
+
+- [ac94025d](https://github.com/kubedb/mariadb-restic-plugin/commit/ac94025d) Prepare for release v0.24.0 (#99)
+- [6b3c8e78](https://github.com/kubedb/mariadb-restic-plugin/commit/6b3c8e78) Modernize golangci-lint config (#98)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.59.0](https://github.com/kubedb/memcached/releases/tag/v0.59.0)

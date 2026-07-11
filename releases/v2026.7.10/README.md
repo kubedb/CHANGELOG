@@ -62,6 +62,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.66.0](https://github.com/kubedb/cli/releases/tag/v0.66.0)
+
+- [e338453c](https://github.com/kubedb/cli/commit/e338453c5) Prepare for release v0.66.0 (#836)
+- [29f2cf6c](https://github.com/kubedb/cli/commit/29f2cf6ca) Modernize golangci-lint config (#835)
+
+
+
 ## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
 
 ### [v0.21.0](https://github.com/kubedb/clickhouse/releases/tag/v0.21.0)

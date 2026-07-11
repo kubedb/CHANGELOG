@@ -106,6 +106,18 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.7.0](https://github.com/kubedb/qdrant/releases/tag/v0.7.0)
+
+- [5ea7efa0](https://github.com/kubedb/qdrant/commit/5ea7efa0) Prepare for release v0.7.0 (#55)
+- [8ed0db3f](https://github.com/kubedb/qdrant/commit/8ed0db3f) Modernize golangci-lint config (#54)
+- [b955a139](https://github.com/kubedb/qdrant/commit/b955a139) Run gofmt with updated golang-dev toolchain (#53)
+- [74e7dcd3](https://github.com/kubedb/qdrant/commit/74e7dcd3) Add InPlace mode to vertical scaling (#52)
+- [3618bbdf](https://github.com/kubedb/qdrant/commit/3618bbdf) Add backup pause/resume support for ops requests (#50)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.21.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.21.0)

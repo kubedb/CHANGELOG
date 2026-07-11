@@ -428,6 +428,17 @@
 
 
 
+## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
+
+### [v0.2.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.2.0)
+
+- [1f6495f](https://github.com/kubedb/neo4j-backup-plugin/commit/1f6495f) Prepare for release v0.2.0 (#7)
+- [bfa6380](https://github.com/kubedb/neo4j-backup-plugin/commit/bfa6380) Modernize golangci-lint config (#6)
+- [d52defa](https://github.com/kubedb/neo4j-backup-plugin/commit/d52defa) Enable TLS on Backup Port (#4)
+- [75f6051](https://github.com/kubedb/neo4j-backup-plugin/commit/75f6051) Add Neo4jAdminArg Flag for Restore (#3)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.12.0](https://github.com/kubedb/oracle/releases/tag/v0.12.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:59:21.052225303Z",
+  "release_date": "2026-07-11T11:59:30.42743844Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -283,6 +283,36 @@
             {
               "SHA": "91b6fb9f",
               "Subject": "Modernize golangci-lint config (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "c293b3af",
+              "Subject": "Prepare for release v0.7.0 (#53)"
+            },
+            {
+              "SHA": "5309a61e",
+              "Subject": "Modernize golangci-lint config (#52)"
+            },
+            {
+              "SHA": "038da9ea",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#51)"
+            },
+            {
+              "SHA": "95713bbd",
+              "Subject": "Add InPlace mode to vertical scaling (#50)"
+            },
+            {
+              "SHA": "fbc510b2",
+              "Subject": "Add backup pause/resume support for ops requests (#48)"
             }
           ]
         }

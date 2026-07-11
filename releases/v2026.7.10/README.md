@@ -103,6 +103,18 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.7.0](https://github.com/kubedb/hanadb/releases/tag/v0.7.0)
+
+- [c293b3af](https://github.com/kubedb/hanadb/commit/c293b3af) Prepare for release v0.7.0 (#53)
+- [5309a61e](https://github.com/kubedb/hanadb/commit/5309a61e) Modernize golangci-lint config (#52)
+- [038da9ea](https://github.com/kubedb/hanadb/commit/038da9ea) Run gofmt with updated golang-dev toolchain (#51)
+- [95713bbd](https://github.com/kubedb/hanadb/commit/95713bbd) Add InPlace mode to vertical scaling (#50)
+- [fbc510b2](https://github.com/kubedb/hanadb/commit/fbc510b2) Add backup pause/resume support for ops requests (#48)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.13.0](https://github.com/kubedb/ignite/releases/tag/v0.13.0)

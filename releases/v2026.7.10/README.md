@@ -156,6 +156,19 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.7.0](https://github.com/kubedb/neo4j/releases/tag/v0.7.0)
+
+- [82145ee3](https://github.com/kubedb/neo4j/commit/82145ee3) Prepare for release v0.7.0 (#53)
+- [75d9a446](https://github.com/kubedb/neo4j/commit/75d9a446) Modernize golangci-lint config (#52)
+- [59d2adbc](https://github.com/kubedb/neo4j/commit/59d2adbc) Run gofmt with updated golang-dev toolchain (#51)
+- [ce910cbd](https://github.com/kubedb/neo4j/commit/ce910cbd) Add InPlace mode to vertical scaling (#50)
+- [a42ab5c8](https://github.com/kubedb/neo4j/commit/a42ab5c8) Add backup pause/resume support for ops requests (#47)
+- [33b7be9b](https://github.com/kubedb/neo4j/commit/33b7be9b) Enable TLS in Backup Port (#46)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.12.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.12.0)

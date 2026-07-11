@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:58:44.208288588Z",
+  "release_date": "2026-07-11T11:58:55.450994695Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -405,6 +405,40 @@
             {
               "SHA": "a907f9a4",
               "Subject": "Modernize golangci-lint config (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "82145ee3",
+              "Subject": "Prepare for release v0.7.0 (#53)"
+            },
+            {
+              "SHA": "75d9a446",
+              "Subject": "Modernize golangci-lint config (#52)"
+            },
+            {
+              "SHA": "59d2adbc",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#51)"
+            },
+            {
+              "SHA": "ce910cbd",
+              "Subject": "Add InPlace mode to vertical scaling (#50)"
+            },
+            {
+              "SHA": "a42ab5c8",
+              "Subject": "Add backup pause/resume support for ops requests (#47)"
+            },
+            {
+              "SHA": "33b7be9b",
+              "Subject": "Enable TLS in Backup Port (#46)"
             }
           ]
         }

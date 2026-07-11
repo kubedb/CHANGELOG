@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T11:58:55.450994695Z",
+  "release_date": "2026-07-11T11:59:05.370679087Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -283,6 +283,32 @@
             {
               "SHA": "91b6fb9f",
               "Subject": "Modernize golangci-lint config (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "cc26dcb4",
+              "Subject": "Prepare for release v0.13.0 (#66)"
+            },
+            {
+              "SHA": "7fc3f493",
+              "Subject": "Modernize golangci-lint config (#65)"
+            },
+            {
+              "SHA": "eee09fbe",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#64)"
+            },
+            {
+              "SHA": "161f7c48",
+              "Subject": "Add InPlace mode to vertical scaling (#63)"
             }
           ]
         }

@@ -103,6 +103,17 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.13.0](https://github.com/kubedb/ignite/releases/tag/v0.13.0)
+
+- [cc26dcb4](https://github.com/kubedb/ignite/commit/cc26dcb4) Prepare for release v0.13.0 (#66)
+- [7fc3f493](https://github.com/kubedb/ignite/commit/7fc3f493) Modernize golangci-lint config (#65)
+- [eee09fbe](https://github.com/kubedb/ignite/commit/eee09fbe) Run gofmt with updated golang-dev toolchain (#64)
+- [161f7c48](https://github.com/kubedb/ignite/commit/161f7c48) Add InPlace mode to vertical scaling (#63)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.59.0](https://github.com/kubedb/memcached/releases/tag/v0.59.0)

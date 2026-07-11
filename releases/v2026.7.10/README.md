@@ -590,6 +590,13 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.27.0](https://github.com/kubedb/provider-aws/releases/tag/v0.27.0)
+
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.7.0](https://github.com/kubedb/qdrant/releases/tag/v0.7.0)

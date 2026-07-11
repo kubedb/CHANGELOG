@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:00:07.905089317Z",
+  "release_date": "2026-07-11T12:00:16.832652091Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -775,6 +775,44 @@
             {
               "SHA": "b8e6684b",
               "Subject": "Add Solr Secret Fix (#139)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "6e7f0a95",
+              "Subject": "Prepare for release v0.7.0 (#53)"
+            },
+            {
+              "SHA": "0e405cbf",
+              "Subject": "Add InPlace mode to vertical scaling (#50)"
+            },
+            {
+              "SHA": "3d0642c6",
+              "Subject": "Modernize golangci-lint config (#52)"
+            },
+            {
+              "SHA": "f8e0e4a7",
+              "Subject": "Add Weaviate Monitoring (#49)"
+            },
+            {
+              "SHA": "c06bfe8b",
+              "Subject": "Fix Lint (#51)"
+            },
+            {
+              "SHA": "4ef1154c",
+              "Subject": "Add backup pause/resume support for ops requests (#47)"
+            },
+            {
+              "SHA": "0eb4f587",
+              "Subject": "Fix rotate_auth (#46)"
             }
           ]
         }

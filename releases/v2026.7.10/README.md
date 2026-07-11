@@ -316,3 +316,17 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.7.0](https://github.com/kubedb/weaviate/releases/tag/v0.7.0)
+
+- [6e7f0a95](https://github.com/kubedb/weaviate/commit/6e7f0a95) Prepare for release v0.7.0 (#53)
+- [0e405cbf](https://github.com/kubedb/weaviate/commit/0e405cbf) Add InPlace mode to vertical scaling (#50)
+- [3d0642c6](https://github.com/kubedb/weaviate/commit/3d0642c6) Modernize golangci-lint config (#52)
+- [f8e0e4a7](https://github.com/kubedb/weaviate/commit/f8e0e4a7) Add Weaviate Monitoring (#49)
+- [c06bfe8b](https://github.com/kubedb/weaviate/commit/c06bfe8b) Fix Lint (#51)
+- [4ef1154c](https://github.com/kubedb/weaviate/commit/4ef1154c) Add backup pause/resume support for ops requests (#47)
+- [0eb4f587](https://github.com/kubedb/weaviate/commit/0eb4f587) Fix rotate_auth (#46)
+
+
+

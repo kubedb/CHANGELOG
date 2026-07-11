@@ -18,7 +18,7 @@
       }
     },
     {
-      "github.com/kubedb/aeropspike": {
+      "github.com/kubedb/aerospike": {
         "tag": "v0.2.0"
       },
       "github.com/kubedb/cassandra": {

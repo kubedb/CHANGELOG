@@ -85,6 +85,17 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.59.0](https://github.com/kubedb/mongodb/releases/tag/v0.59.0)
+
+- [2b61b507](https://github.com/kubedb/mongodb/commit/2b61b5070) Prepare for release v0.59.0
+- [5612cb7a](https://github.com/kubedb/mongodb/commit/5612cb7a4) Modernize golangci-lint config (#776)
+- [5e4ffce3](https://github.com/kubedb/mongodb/commit/5e4ffce33) Support InPlace mode for vertical scaling (#773)
+- [0d548d47](https://github.com/kubedb/mongodb/commit/0d548d473) Skip duplicate --auth flag for mongodb-community-server images (#775)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.21.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.21.0)

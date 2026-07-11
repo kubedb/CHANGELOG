@@ -694,6 +694,19 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.53.0](https://github.com/kubedb/proxysql/releases/tag/v0.53.0)
+
+- [5abcbb4a](https://github.com/kubedb/proxysql/commit/5abcbb4ae) Prepare for release v0.53.0 (#445)
+- [2eb0c23b](https://github.com/kubedb/proxysql/commit/2eb0c23bb) Modernize golangci-lint config (#444)
+- [f133983c](https://github.com/kubedb/proxysql/commit/f133983c4) Run gofmt with updated golang-dev toolchain (#443)
+- [2289f1fc](https://github.com/kubedb/proxysql/commit/2289f1fca) Merge pull request #442 from kubedb/inplace-vscale
+- [6c983e5c](https://github.com/kubedb/proxysql/commit/6c983e5ca) fix build
+- [3613a945](https://github.com/kubedb/proxysql/commit/3613a945e) Add InPlace mode to vertical scaling
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.7.0](https://github.com/kubedb/qdrant/releases/tag/v0.7.0)

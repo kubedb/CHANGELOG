@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:28:41.817035459Z",
+  "release_date": "2026-07-11T12:28:59.568517088Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -1656,6 +1656,40 @@
         {
           "tag": "v0.27.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "5abcbb4ae",
+              "Subject": "Prepare for release v0.53.0 (#445)"
+            },
+            {
+              "SHA": "2eb0c23bb",
+              "Subject": "Modernize golangci-lint config (#444)"
+            },
+            {
+              "SHA": "f133983c4",
+              "Subject": "Run gofmt with updated golang-dev toolchain (#443)"
+            },
+            {
+              "SHA": "2289f1fca",
+              "Subject": "Merge pull request #442 from kubedb/inplace-vscale"
+            },
+            {
+              "SHA": "6c983e5ca",
+              "Subject": "fix build"
+            },
+            {
+              "SHA": "3613a945e",
+              "Subject": "Add InPlace mode to vertical scaling"
+            }
+          ]
         }
       ]
     },

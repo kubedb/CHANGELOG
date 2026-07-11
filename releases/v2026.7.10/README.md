@@ -321,6 +321,15 @@
 
 
 
+## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
+
+### [v0.27.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.27.0)
+
+- [a88a5c40](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/a88a5c40) Prepare for release v0.27.0 (#88)
+- [d15fb79f](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/commit/d15fb79f) Modernize golangci-lint config (#87)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.29.0)

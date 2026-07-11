@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T12:06:40.398993238Z",
+  "release_date": "2026-07-11T12:06:49.506057853Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -795,6 +795,24 @@
             {
               "SHA": "0d548d473",
               "Subject": "Skip duplicate --auth flag for mongodb-community-server images (#775)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "a88a5c40",
+              "Subject": "Prepare for release v0.27.0 (#88)"
+            },
+            {
+              "SHA": "d15fb79f",
+              "Subject": "Modernize golangci-lint config (#87)"
             }
           ]
         }

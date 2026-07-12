@@ -1,4 +1,4 @@
-# KubeDB v2026.7.10 (2026-07-11)
+# KubeDB v2026.7.10 (2026-07-12)
 
 
 ## [kubedb/aerospike](https://github.com/kubedb/aerospike)
@@ -304,6 +304,34 @@
 - [7fc3f493](https://github.com/kubedb/ignite/commit/7fc3f493) Modernize golangci-lint config (#65)
 - [eee09fbe](https://github.com/kubedb/ignite/commit/eee09fbe) Run gofmt with updated golang-dev toolchain (#64)
 - [161f7c48](https://github.com/kubedb/ignite/commit/161f7c48) Add InPlace mode to vertical scaling (#63)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2026.7.10](https://github.com/kubedb/installer/releases/tag/v2026.7.10)
+
+- [b5e02e3c](https://github.com/kubedb/installer/commit/b5e02e3cf) Prepare for release v2026.7.10 (#2383)
+- [34316464](https://github.com/kubedb/installer/commit/34316464c) Add ClickHouse Archiver (#2369)
+- [55c3d8a3](https://github.com/kubedb/installer/commit/55c3d8a30) Add Docker Hub login to CI to avoid image pull rate limits (#2381)
+- [8efad7bf](https://github.com/kubedb/installer/commit/8efad7bf4) Build kubedb-autoscaler chart dependency before role-aggregator (#2379)
+- [662ecbc6](https://github.com/kubedb/installer/commit/662ecbc6c) Modernize golangci-lint config (#2378)
+- [e5e8906b](https://github.com/kubedb/installer/commit/e5e8906bf) Add storage-metrics-server as optional sub-chart of kubedb-autoscaler (#2371)
+- [824f22db](https://github.com/kubedb/installer/commit/824f22db8) Grant ops-manager patch access to pods/resize (#2376)
+- [0340a29c](https://github.com/kubedb/installer/commit/0340a29c3) Add Virtual Secret Permission to Ops (#2356)
+- [2a338443](https://github.com/kubedb/installer/commit/2a3384439) Add postgres extension support for pgvector, pg_repack, postgis, pg_c… (#2375)
+- [71c509bf](https://github.com/kubedb/installer/commit/71c509bff) Add Neo4j Version (#2374)
+- [291da0fe](https://github.com/kubedb/installer/commit/291da0fe8) Add New Flag to Neo4j Backup Plugin (#2373)
+- [895cccd2](https://github.com/kubedb/installer/commit/895cccd2e) Add Weaviate Kubedb-Metrics (#2366)
+- [bae82448](https://github.com/kubedb/installer/commit/bae82448a) Add image to catalouge and scripts (#2372)
+- [9577bbd0](https://github.com/kubedb/installer/commit/9577bbd0b) Add pvc permissions for custom metrics (#2370)
+- [4ecc6402](https://github.com/kubedb/installer/commit/4ecc64023) Add Branch RBAC to kubedb-courier ClusterRole (#2367)
+- [ff7bec44](https://github.com/kubedb/installer/commit/ff7bec44f) Add Ignite Version 2.18.0 (#2339)
+- [b597c03d](https://github.com/kubedb/installer/commit/b597c03db) Add Qdrant Backup Restore Functions (#2359)
+- [ea0cbaed](https://github.com/kubedb/installer/commit/ea0cbaed6) Split courier migrations CRD into per-engine {DB}Migration CRDs (#2368)
+- [044e4872](https://github.com/kubedb/installer/commit/044e48722) Add ClickHouse Ops-manger metrics configuration (#2363)
+- [11fd9f8a](https://github.com/kubedb/installer/commit/11fd9f8ad) Add notes
+- [0cfddf26](https://github.com/kubedb/installer/commit/0cfddf260) Rename kubedb-migrator install artifacts to kubedb-courier (#2364)
 
 
 

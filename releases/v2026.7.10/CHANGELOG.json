@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-11T13:45:51.183529311Z",
+  "release_date": "2026-07-12T14:25:53.45836163Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -793,6 +793,100 @@
             {
               "SHA": "161f7c48",
               "Subject": "Add InPlace mode to vertical scaling (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "b5e02e3cf",
+              "Subject": "Prepare for release v2026.7.10 (#2383)"
+            },
+            {
+              "SHA": "34316464c",
+              "Subject": "Add ClickHouse Archiver (#2369)"
+            },
+            {
+              "SHA": "55c3d8a30",
+              "Subject": "Add Docker Hub login to CI to avoid image pull rate limits (#2381)"
+            },
+            {
+              "SHA": "8efad7bf4",
+              "Subject": "Build kubedb-autoscaler chart dependency before role-aggregator (#2379)"
+            },
+            {
+              "SHA": "662ecbc6c",
+              "Subject": "Modernize golangci-lint config (#2378)"
+            },
+            {
+              "SHA": "e5e8906bf",
+              "Subject": "Add storage-metrics-server as optional sub-chart of kubedb-autoscaler (#2371)"
+            },
+            {
+              "SHA": "824f22db8",
+              "Subject": "Grant ops-manager patch access to pods/resize (#2376)"
+            },
+            {
+              "SHA": "0340a29c3",
+              "Subject": "Add Virtual Secret Permission to Ops (#2356)"
+            },
+            {
+              "SHA": "2a3384439",
+              "Subject": "Add postgres extension support for pgvector, pg_repack, postgis, pg_c… (#2375)"
+            },
+            {
+              "SHA": "71c509bff",
+              "Subject": "Add Neo4j Version (#2374)"
+            },
+            {
+              "SHA": "291da0fe8",
+              "Subject": "Add New Flag to Neo4j Backup Plugin (#2373)"
+            },
+            {
+              "SHA": "895cccd2e",
+              "Subject": "Add Weaviate Kubedb-Metrics (#2366)"
+            },
+            {
+              "SHA": "bae82448a",
+              "Subject": "Add image to catalouge and scripts (#2372)"
+            },
+            {
+              "SHA": "9577bbd0b",
+              "Subject": "Add pvc permissions for custom metrics (#2370)"
+            },
+            {
+              "SHA": "4ecc64023",
+              "Subject": "Add Branch RBAC to kubedb-courier ClusterRole (#2367)"
+            },
+            {
+              "SHA": "ff7bec44f",
+              "Subject": "Add Ignite Version 2.18.0 (#2339)"
+            },
+            {
+              "SHA": "b597c03db",
+              "Subject": "Add Qdrant Backup Restore Functions (#2359)"
+            },
+            {
+              "SHA": "ea0cbaed6",
+              "Subject": "Split courier migrations CRD into per-engine {DB}Migration CRDs (#2368)"
+            },
+            {
+              "SHA": "044e48722",
+              "Subject": "Add ClickHouse Ops-manger metrics configuration (#2363)"
+            },
+            {
+              "SHA": "11fd9f8ad",
+              "Subject": "Add notes"
+            },
+            {
+              "SHA": "0cfddf260",
+              "Subject": "Rename kubedb-migrator install artifacts to kubedb-courier (#2364)"
             }
           ]
         }

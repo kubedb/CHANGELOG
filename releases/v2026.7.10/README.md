@@ -187,6 +187,98 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.7.10](https://github.com/kubedb/docs/releases/tag/v2026.7.10)
+
+- [72e21308](https://github.com/kubedb/docs/commit/72e21308) Prepare for release v2026.7.10 (#1031)
+- [a5417276](https://github.com/kubedb/docs/commit/a5417276) docs(weaviate): document InPlace vertical scaling mode (#1025)
+- [44e6d9ec](https://github.com/kubedb/docs/commit/44e6d9ec) docs(oracle): document InPlace vertical scaling mode (#1015)
+- [9640b1af](https://github.com/kubedb/docs/commit/9640b1af) docs(milvus): document InPlace vertical scaling mode (#1010)
+- [d81738e1](https://github.com/kubedb/docs/commit/d81738e1) Merge pull request #1029 from kubedb/inplace-vertical-scaling-proxysql
+- [ef43d514](https://github.com/kubedb/docs/commit/ef43d514) Merge pull request #1028 from kubedb/inplace-vertical-scaling-solr
+- [fd64ffb6](https://github.com/kubedb/docs/commit/fd64ffb6) Merge pull request #1027 from kubedb/inplace-vertical-scaling-zookeeper
+- [30742dca](https://github.com/kubedb/docs/commit/30742dca) Merge pull request #1026 from kubedb/inplace-vertical-scaling-rabbitmq
+- [f63490b6](https://github.com/kubedb/docs/commit/f63490b6) Merge pull request #1024 from kubedb/inplace-vertical-scaling-redis
+- [178780a4](https://github.com/kubedb/docs/commit/178780a4) Merge pull request #1023 from kubedb/inplace-vertical-scaling-singlestore
+- [81a1a0a0](https://github.com/kubedb/docs/commit/81a1a0a0) Merge pull request #1022 from kubedb/inplace-vertical-scaling-qdrant
+- [39eb6d65](https://github.com/kubedb/docs/commit/39eb6d65) Merge pull request #1021 from kubedb/inplace-vertical-scaling-postgres
+- [34dc7193](https://github.com/kubedb/docs/commit/34dc7193) Merge pull request #1020 from kubedb/inplace-vertical-scaling-pgpool
+- [3434e67d](https://github.com/kubedb/docs/commit/3434e67d) Merge pull request #1019 from kubedb/inplace-vertical-scaling-mysql
+- [b48c5394](https://github.com/kubedb/docs/commit/b48c5394) Merge pull request #1018 from kubedb/inplace-vertical-scaling-pgbouncer
+- [b08585a1](https://github.com/kubedb/docs/commit/b08585a1) Merge pull request #1017 from kubedb/inplace-vertical-scaling-percona-xtradb
+- [6d51175e](https://github.com/kubedb/docs/commit/6d51175e) Merge pull request #1016 from kubedb/inplace-vertical-scaling-neo4j
+- [f1800c4e](https://github.com/kubedb/docs/commit/f1800c4e) Merge pull request #1014 from kubedb/inplace-vertical-scaling-mssqlserver
+- [164fd088](https://github.com/kubedb/docs/commit/164fd088) Merge pull request #1013 from kubedb/inplace-vertical-scaling-mongodb
+- [04effbb4](https://github.com/kubedb/docs/commit/04effbb4) Merge pull request #1012 from kubedb/inplace-vertical-scaling-kafka
+- [0a316e9b](https://github.com/kubedb/docs/commit/0a316e9b) Merge pull request #1011 from kubedb/inplace-vertical-scaling-mariadb
+- [febbc4ed](https://github.com/kubedb/docs/commit/febbc4ed) Merge pull request #1009 from kubedb/inplace-vertical-scaling-ignite
+- [e7df6a44](https://github.com/kubedb/docs/commit/e7df6a44) Merge pull request #1008 from kubedb/inplace-vertical-scaling-memcached
+- [d8420cbf](https://github.com/kubedb/docs/commit/d8420cbf) Merge pull request #1007 from kubedb/inplace-vertical-scaling-hazelcast
+- [a089694a](https://github.com/kubedb/docs/commit/a089694a) Merge pull request #1006 from kubedb/inplace-vertical-scaling-elasticsearch
+- [2edd364a](https://github.com/kubedb/docs/commit/2edd364a) Merge pull request #1005 from kubedb/inplace-vertical-scaling-druid
+- [1b8ebd1c](https://github.com/kubedb/docs/commit/1b8ebd1c) Merge pull request #1004 from kubedb/inplace-vertical-scaling-hanadb
+- [27cf51a8](https://github.com/kubedb/docs/commit/27cf51a8) Merge pull request #1003 from kubedb/inplace-vertical-scaling-documentdb
+- [55315623](https://github.com/kubedb/docs/commit/55315623) Merge pull request #1002 from kubedb/inplace-vertical-scaling-clickhouse
+- [03f511a8](https://github.com/kubedb/docs/commit/03f511a8) Merge pull request #1001 from kubedb/inplace-vertical-scaling-cassandra
+- [4c3433af](https://github.com/kubedb/docs/commit/4c3433af) docs(documentdb): add DocumentDBOpsRequest concept doc
+- [e833dc17](https://github.com/kubedb/docs/commit/e833dc17) docs(zookeeper): document verticalScaling.mode field in OpsRequest concept doc
+- [46f0c57a](https://github.com/kubedb/docs/commit/46f0c57a) docs(redis): document verticalScaling.mode field in OpsRequest concept doc
+- [9a8178e9](https://github.com/kubedb/docs/commit/9a8178e9) docs(singlestore): document verticalScaling.mode field in OpsRequest concept doc
+- [9e5d73fb](https://github.com/kubedb/docs/commit/9e5d73fb) docs(solr): document verticalScaling.mode field in OpsRequest concept doc
+- [e1b62564](https://github.com/kubedb/docs/commit/e1b62564) docs(qdrant): document verticalScaling.mode field in OpsRequest concept doc
+- [0e699e16](https://github.com/kubedb/docs/commit/0e699e16) docs(rabbitmq): document verticalScaling.mode field in OpsRequest concept doc
+- [62c5c861](https://github.com/kubedb/docs/commit/62c5c861) docs(postgres): document verticalScaling.mode field in OpsRequest concept doc
+- [01ae798d](https://github.com/kubedb/docs/commit/01ae798d) docs(proxysql): document verticalScaling.mode field in OpsRequest concept doc
+- [21551619](https://github.com/kubedb/docs/commit/21551619) docs(pgpool): document verticalScaling.mode field in OpsRequest concept doc
+- [0ef974e8](https://github.com/kubedb/docs/commit/0ef974e8) docs(pgbouncer): document verticalScaling.mode field in OpsRequest concept doc
+- [f10486e1](https://github.com/kubedb/docs/commit/f10486e1) docs(percona-xtradb): document verticalScaling.mode field in OpsRequest concept doc
+- [dd33971c](https://github.com/kubedb/docs/commit/dd33971c) docs(neo4j): document verticalScaling.mode field in OpsRequest concept doc
+- [7e903de4](https://github.com/kubedb/docs/commit/7e903de4) docs(mongodb): document verticalScaling.mode field in OpsRequest concept doc
+- [5c5022b3](https://github.com/kubedb/docs/commit/5c5022b3) docs(mssqlserver): document verticalScaling.mode field in OpsRequest concept doc
+- [5a685173](https://github.com/kubedb/docs/commit/5a685173) docs(mysql): document verticalScaling.mode field in OpsRequest concept doc
+- [65c63011](https://github.com/kubedb/docs/commit/65c63011) docs(memcached): document verticalScaling.mode field in OpsRequest concept doc
+- [89d68876](https://github.com/kubedb/docs/commit/89d68876) docs(mariadb): document verticalScaling.mode field in OpsRequest concept doc
+- [4808d155](https://github.com/kubedb/docs/commit/4808d155) docs(kafka): document verticalScaling.mode field in OpsRequest concept doc
+- [0c9d5982](https://github.com/kubedb/docs/commit/0c9d5982) docs(ignite): document verticalScaling.mode field in OpsRequest concept doc
+- [18e94574](https://github.com/kubedb/docs/commit/18e94574) docs(hazelcast): document verticalScaling.mode field in OpsRequest concept doc
+- [ae5d307f](https://github.com/kubedb/docs/commit/ae5d307f) docs(hanadb): document verticalScaling.mode field in OpsRequest concept doc
+- [39e24d8e](https://github.com/kubedb/docs/commit/39e24d8e) docs(druid): document verticalScaling.mode field in OpsRequest concept doc
+- [667bf72a](https://github.com/kubedb/docs/commit/667bf72a) docs(elasticsearch): document verticalScaling.mode field in OpsRequest concept doc
+- [b6b14030](https://github.com/kubedb/docs/commit/b6b14030) docs(clickhouse): document verticalScaling.mode field in OpsRequest concept doc
+- [b6baa5b8](https://github.com/kubedb/docs/commit/b6baa5b8) docs(cassandra): document verticalScaling.mode field in OpsRequest concept doc
+- [34b03f80](https://github.com/kubedb/docs/commit/34b03f80) docs(proxysql): document InPlace vertical scaling mode
+- [2cb513cc](https://github.com/kubedb/docs/commit/2cb513cc) docs(solr): document InPlace vertical scaling mode
+- [8f8cc0fa](https://github.com/kubedb/docs/commit/8f8cc0fa) docs(zookeeper): document InPlace vertical scaling mode
+- [bd1f03e7](https://github.com/kubedb/docs/commit/bd1f03e7) docs(rabbitmq): document InPlace vertical scaling mode
+- [73332932](https://github.com/kubedb/docs/commit/73332932) docs(redis): document InPlace vertical scaling mode
+- [65f97971](https://github.com/kubedb/docs/commit/65f97971) docs(singlestore): document InPlace vertical scaling mode
+- [2b97c4b8](https://github.com/kubedb/docs/commit/2b97c4b8) docs(qdrant): document InPlace vertical scaling mode
+- [2f20469c](https://github.com/kubedb/docs/commit/2f20469c) docs(postgres): document InPlace vertical scaling mode
+- [795fdd05](https://github.com/kubedb/docs/commit/795fdd05) docs(pgpool): document InPlace vertical scaling mode
+- [521d80cd](https://github.com/kubedb/docs/commit/521d80cd) docs(mysql): document InPlace vertical scaling mode
+- [c0f1b4f3](https://github.com/kubedb/docs/commit/c0f1b4f3) docs(pgbouncer): document InPlace vertical scaling mode
+- [38ac4e31](https://github.com/kubedb/docs/commit/38ac4e31) docs(percona-xtradb): document InPlace vertical scaling mode
+- [4ed8bdad](https://github.com/kubedb/docs/commit/4ed8bdad) docs(neo4j): document InPlace vertical scaling mode
+- [0e423787](https://github.com/kubedb/docs/commit/0e423787) docs(mssqlserver): document InPlace vertical scaling mode
+- [87fdb2aa](https://github.com/kubedb/docs/commit/87fdb2aa) docs(mongodb): document InPlace vertical scaling mode
+- [74d90065](https://github.com/kubedb/docs/commit/74d90065) docs(kafka): document InPlace vertical scaling mode
+- [6a3baa27](https://github.com/kubedb/docs/commit/6a3baa27) docs(mariadb): document InPlace vertical scaling mode
+- [f8c4294c](https://github.com/kubedb/docs/commit/f8c4294c) docs(ignite): document InPlace vertical scaling mode
+- [3bad4b80](https://github.com/kubedb/docs/commit/3bad4b80) docs(memcached): document InPlace vertical scaling mode
+- [c454991b](https://github.com/kubedb/docs/commit/c454991b) docs(hazelcast): document InPlace vertical scaling mode
+- [4df8f200](https://github.com/kubedb/docs/commit/4df8f200) docs(elasticsearch): document InPlace vertical scaling mode
+- [5d963d3a](https://github.com/kubedb/docs/commit/5d963d3a) docs(druid): document InPlace vertical scaling mode
+- [575b4c77](https://github.com/kubedb/docs/commit/575b4c77) docs(hanadb): document InPlace vertical scaling mode
+- [b3499678](https://github.com/kubedb/docs/commit/b3499678) docs(documentdb): document InPlace vertical scaling mode
+- [2468c96b](https://github.com/kubedb/docs/commit/2468c96b) docs(clickhouse): document InPlace vertical scaling mode
+- [61cbf1a2](https://github.com/kubedb/docs/commit/61cbf1a2) docs(cassandra): document InPlace vertical scaling mode
+- [6fb820ac](https://github.com/kubedb/docs/commit/6fb820ac) docs(ignite): refresh guides to 2.18.0 and fix bugs found by executing them (#1000)
+- [263787ae](https://github.com/kubedb/docs/commit/263787ae) Add Milvus Concepts (#997)
+- [bb32a67e](https://github.com/kubedb/docs/commit/bb32a67e) Update migration docs for per-engine {DB}Migration CRDs (#999)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.3.0](https://github.com/kubedb/documentdb/releases/tag/v0.3.0)

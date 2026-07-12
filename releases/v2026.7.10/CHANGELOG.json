@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.7.10",
-  "release_date": "2026-07-12T14:25:53.45836163Z",
+  "release_date": "2026-07-12T15:17:26.724579537Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.7.10",
   "kubernetes_version": "1.28+",
@@ -493,6 +493,356 @@
             {
               "SHA": "5dc64ab",
               "Subject": "Modernize golangci-lint config (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2026.7.10",
+          "commits": [
+            {
+              "SHA": "72e21308",
+              "Subject": "Prepare for release v2026.7.10 (#1031)"
+            },
+            {
+              "SHA": "a5417276",
+              "Subject": "docs(weaviate): document InPlace vertical scaling mode (#1025)"
+            },
+            {
+              "SHA": "44e6d9ec",
+              "Subject": "docs(oracle): document InPlace vertical scaling mode (#1015)"
+            },
+            {
+              "SHA": "9640b1af",
+              "Subject": "docs(milvus): document InPlace vertical scaling mode (#1010)"
+            },
+            {
+              "SHA": "d81738e1",
+              "Subject": "Merge pull request #1029 from kubedb/inplace-vertical-scaling-proxysql"
+            },
+            {
+              "SHA": "ef43d514",
+              "Subject": "Merge pull request #1028 from kubedb/inplace-vertical-scaling-solr"
+            },
+            {
+              "SHA": "fd64ffb6",
+              "Subject": "Merge pull request #1027 from kubedb/inplace-vertical-scaling-zookeeper"
+            },
+            {
+              "SHA": "30742dca",
+              "Subject": "Merge pull request #1026 from kubedb/inplace-vertical-scaling-rabbitmq"
+            },
+            {
+              "SHA": "f63490b6",
+              "Subject": "Merge pull request #1024 from kubedb/inplace-vertical-scaling-redis"
+            },
+            {
+              "SHA": "178780a4",
+              "Subject": "Merge pull request #1023 from kubedb/inplace-vertical-scaling-singlestore"
+            },
+            {
+              "SHA": "81a1a0a0",
+              "Subject": "Merge pull request #1022 from kubedb/inplace-vertical-scaling-qdrant"
+            },
+            {
+              "SHA": "39eb6d65",
+              "Subject": "Merge pull request #1021 from kubedb/inplace-vertical-scaling-postgres"
+            },
+            {
+              "SHA": "34dc7193",
+              "Subject": "Merge pull request #1020 from kubedb/inplace-vertical-scaling-pgpool"
+            },
+            {
+              "SHA": "3434e67d",
+              "Subject": "Merge pull request #1019 from kubedb/inplace-vertical-scaling-mysql"
+            },
+            {
+              "SHA": "b48c5394",
+              "Subject": "Merge pull request #1018 from kubedb/inplace-vertical-scaling-pgbouncer"
+            },
+            {
+              "SHA": "b08585a1",
+              "Subject": "Merge pull request #1017 from kubedb/inplace-vertical-scaling-percona-xtradb"
+            },
+            {
+              "SHA": "6d51175e",
+              "Subject": "Merge pull request #1016 from kubedb/inplace-vertical-scaling-neo4j"
+            },
+            {
+              "SHA": "f1800c4e",
+              "Subject": "Merge pull request #1014 from kubedb/inplace-vertical-scaling-mssqlserver"
+            },
+            {
+              "SHA": "164fd088",
+              "Subject": "Merge pull request #1013 from kubedb/inplace-vertical-scaling-mongodb"
+            },
+            {
+              "SHA": "04effbb4",
+              "Subject": "Merge pull request #1012 from kubedb/inplace-vertical-scaling-kafka"
+            },
+            {
+              "SHA": "0a316e9b",
+              "Subject": "Merge pull request #1011 from kubedb/inplace-vertical-scaling-mariadb"
+            },
+            {
+              "SHA": "febbc4ed",
+              "Subject": "Merge pull request #1009 from kubedb/inplace-vertical-scaling-ignite"
+            },
+            {
+              "SHA": "e7df6a44",
+              "Subject": "Merge pull request #1008 from kubedb/inplace-vertical-scaling-memcached"
+            },
+            {
+              "SHA": "d8420cbf",
+              "Subject": "Merge pull request #1007 from kubedb/inplace-vertical-scaling-hazelcast"
+            },
+            {
+              "SHA": "a089694a",
+              "Subject": "Merge pull request #1006 from kubedb/inplace-vertical-scaling-elasticsearch"
+            },
+            {
+              "SHA": "2edd364a",
+              "Subject": "Merge pull request #1005 from kubedb/inplace-vertical-scaling-druid"
+            },
+            {
+              "SHA": "1b8ebd1c",
+              "Subject": "Merge pull request #1004 from kubedb/inplace-vertical-scaling-hanadb"
+            },
+            {
+              "SHA": "27cf51a8",
+              "Subject": "Merge pull request #1003 from kubedb/inplace-vertical-scaling-documentdb"
+            },
+            {
+              "SHA": "55315623",
+              "Subject": "Merge pull request #1002 from kubedb/inplace-vertical-scaling-clickhouse"
+            },
+            {
+              "SHA": "03f511a8",
+              "Subject": "Merge pull request #1001 from kubedb/inplace-vertical-scaling-cassandra"
+            },
+            {
+              "SHA": "4c3433af",
+              "Subject": "docs(documentdb): add DocumentDBOpsRequest concept doc"
+            },
+            {
+              "SHA": "e833dc17",
+              "Subject": "docs(zookeeper): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "46f0c57a",
+              "Subject": "docs(redis): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "9a8178e9",
+              "Subject": "docs(singlestore): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "9e5d73fb",
+              "Subject": "docs(solr): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "e1b62564",
+              "Subject": "docs(qdrant): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "0e699e16",
+              "Subject": "docs(rabbitmq): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "62c5c861",
+              "Subject": "docs(postgres): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "01ae798d",
+              "Subject": "docs(proxysql): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "21551619",
+              "Subject": "docs(pgpool): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "0ef974e8",
+              "Subject": "docs(pgbouncer): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "f10486e1",
+              "Subject": "docs(percona-xtradb): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "dd33971c",
+              "Subject": "docs(neo4j): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "7e903de4",
+              "Subject": "docs(mongodb): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "5c5022b3",
+              "Subject": "docs(mssqlserver): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "5a685173",
+              "Subject": "docs(mysql): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "65c63011",
+              "Subject": "docs(memcached): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "89d68876",
+              "Subject": "docs(mariadb): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "4808d155",
+              "Subject": "docs(kafka): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "0c9d5982",
+              "Subject": "docs(ignite): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "18e94574",
+              "Subject": "docs(hazelcast): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "ae5d307f",
+              "Subject": "docs(hanadb): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "39e24d8e",
+              "Subject": "docs(druid): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "667bf72a",
+              "Subject": "docs(elasticsearch): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "b6b14030",
+              "Subject": "docs(clickhouse): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "b6baa5b8",
+              "Subject": "docs(cassandra): document verticalScaling.mode field in OpsRequest concept doc"
+            },
+            {
+              "SHA": "34b03f80",
+              "Subject": "docs(proxysql): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "2cb513cc",
+              "Subject": "docs(solr): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "8f8cc0fa",
+              "Subject": "docs(zookeeper): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "bd1f03e7",
+              "Subject": "docs(rabbitmq): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "73332932",
+              "Subject": "docs(redis): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "65f97971",
+              "Subject": "docs(singlestore): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "2b97c4b8",
+              "Subject": "docs(qdrant): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "2f20469c",
+              "Subject": "docs(postgres): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "795fdd05",
+              "Subject": "docs(pgpool): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "521d80cd",
+              "Subject": "docs(mysql): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "c0f1b4f3",
+              "Subject": "docs(pgbouncer): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "38ac4e31",
+              "Subject": "docs(percona-xtradb): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "4ed8bdad",
+              "Subject": "docs(neo4j): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "0e423787",
+              "Subject": "docs(mssqlserver): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "87fdb2aa",
+              "Subject": "docs(mongodb): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "74d90065",
+              "Subject": "docs(kafka): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "6a3baa27",
+              "Subject": "docs(mariadb): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "f8c4294c",
+              "Subject": "docs(ignite): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "3bad4b80",
+              "Subject": "docs(memcached): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "c454991b",
+              "Subject": "docs(hazelcast): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "4df8f200",
+              "Subject": "docs(elasticsearch): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "5d963d3a",
+              "Subject": "docs(druid): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "575b4c77",
+              "Subject": "docs(hanadb): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "b3499678",
+              "Subject": "docs(documentdb): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "2468c96b",
+              "Subject": "docs(clickhouse): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "61cbf1a2",
+              "Subject": "docs(cassandra): document InPlace vertical scaling mode"
+            },
+            {
+              "SHA": "6fb820ac",
+              "Subject": "docs(ignite): refresh guides to 2.18.0 and fix bugs found by executing them (#1000)"
+            },
+            {
+              "SHA": "263787ae",
+              "Subject": "Add Milvus Concepts (#997)"
+            },
+            {
+              "SHA": "bb32a67e",
+              "Subject": "Update migration docs for per-engine {DB}Migration CRDs (#999)"
             }
           ]
         }

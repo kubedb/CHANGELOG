@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:49:23.319787744Z",
+  "release_date": "2026-08-12T16:49:35.139370433Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -337,6 +337,44 @@
             {
               "SHA": "50d3e6b3e",
               "Subject": "Merge pull request #828 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2791d997",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "d3fdd8a8",
+              "Subject": "Implement horizontal scaling, update version ops (#47)"
+            },
+            {
+              "SHA": "e5bbe114",
+              "Subject": "Fix HanaDB ops and volume permission handling (#49)"
+            },
+            {
+              "SHA": "dba6048b",
+              "Subject": "Add virtual secret support (#40)"
+            },
+            {
+              "SHA": "4b038da8",
+              "Subject": "Adopt shared apimachinery secret package for auth secret handling (#56)"
+            },
+            {
+              "SHA": "25b8aa29",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#55)"
+            },
+            {
+              "SHA": "916a4696",
+              "Subject": "Move deletion logic to apimachinery (#54)"
             }
           ]
         }

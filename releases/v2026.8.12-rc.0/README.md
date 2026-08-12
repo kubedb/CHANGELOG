@@ -121,6 +121,20 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.7.0-rc.0)
+
+- [2791d997](https://github.com/kubedb/hanadb/commit/2791d997) Prepare for release v0.7.0-rc.0 (#58)
+- [d3fdd8a8](https://github.com/kubedb/hanadb/commit/d3fdd8a8) Implement horizontal scaling, update version ops (#47)
+- [e5bbe114](https://github.com/kubedb/hanadb/commit/e5bbe114) Fix HanaDB ops and volume permission handling (#49)
+- [dba6048b](https://github.com/kubedb/hanadb/commit/dba6048b) Add virtual secret support (#40)
+- [4b038da8](https://github.com/kubedb/hanadb/commit/4b038da8) Adopt shared apimachinery secret package for auth secret handling (#56)
+- [25b8aa29](https://github.com/kubedb/hanadb/commit/25b8aa29) Adopt shared monitor/appbinding packages from apimachinery (#55)
+- [916a4696](https://github.com/kubedb/hanadb/commit/916a4696) Move deletion logic to apimachinery (#54)
+
+
+
 ## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.6.0-rc.0)

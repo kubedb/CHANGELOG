@@ -122,6 +122,21 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.50.0-rc.0](https://github.com/kubedb/mariadb/releases/tag/v0.50.0-rc.0)
+
+- [9e28da96](https://github.com/kubedb/mariadb/commit/9e28da965) Prepare for release v0.50.0-rc.0 (#426)
+- [b2d3e8c5](https://github.com/kubedb/mariadb/commit/b2d3e8c51) Fail the OpsRequest when a step exceeds its timeout (#425)
+- [e5a2ea1e](https://github.com/kubedb/mariadb/commit/e5a2ea1ea) Migrate auth-secret handling to shared apimachinery secret package (#424)
+- [9f0384d0](https://github.com/kubedb/mariadb/commit/9f0384d04) Adopt shared monitor/appbinding packages from apimachinery (#423)
+- [b50b19c8](https://github.com/kubedb/mariadb/commit/b50b19c8a) Add virtual secret support (#403)
+- [ae727436](https://github.com/kubedb/mariadb/commit/ae727436b) Set default resource limits before patching petset in vertical scaling (#421)
+- [43aaf0a2](https://github.com/kubedb/mariadb/commit/43aaf0a21) Move deletion logic to apimachinery (#422)
+- [d47908bb](https://github.com/kubedb/mariadb/commit/d47908bb4) Merge pull request #420 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.46.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.46.0-rc.0)

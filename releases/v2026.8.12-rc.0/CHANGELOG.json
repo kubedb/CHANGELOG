@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:45:59.048522452Z",
+  "release_date": "2026-08-12T16:46:18.381846128Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -341,6 +341,48 @@
             {
               "SHA": "3fd5160f",
               "Subject": "Add Virtual Secret Support (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.50.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9e28da965",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#426)"
+            },
+            {
+              "SHA": "b2d3e8c51",
+              "Subject": "Fail the OpsRequest when a step exceeds its timeout (#425)"
+            },
+            {
+              "SHA": "e5a2ea1ea",
+              "Subject": "Migrate auth-secret handling to shared apimachinery secret package (#424)"
+            },
+            {
+              "SHA": "9f0384d04",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#423)"
+            },
+            {
+              "SHA": "b50b19c8a",
+              "Subject": "Add virtual secret support (#403)"
+            },
+            {
+              "SHA": "ae727436b",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#421)"
+            },
+            {
+              "SHA": "43aaf0a21",
+              "Subject": "Move deletion logic to apimachinery (#422)"
+            },
+            {
+              "SHA": "d47908bb4",
+              "Subject": "Merge pull request #420 from kubedb/v2026.7.10-master"
             }
           ]
         }

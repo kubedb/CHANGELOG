@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:37:43.631787789Z",
+  "release_date": "2026-08-12T16:45:31.299416802Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -433,6 +433,24 @@
             {
               "SHA": "12f92505",
               "Subject": "Integrate virtual secret (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c1cd7cf5",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#190)"
+            },
+            {
+              "SHA": "54b35ec1",
+              "Subject": "Fix Join Cluster (#189)"
             }
           ]
         }

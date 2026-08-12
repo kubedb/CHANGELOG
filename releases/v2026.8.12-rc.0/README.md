@@ -163,6 +163,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.44.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.44.0-rc.0)
+
+- [c1cd7cf5](https://github.com/kubedb/mysql-coordinator/commit/c1cd7cf5) Prepare for release v0.44.0-rc.0 (#190)
+- [54b35ec1](https://github.com/kubedb/mysql-coordinator/commit/54b35ec1) Fix Join Cluster (#189)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.39.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.39.0-rc.0)

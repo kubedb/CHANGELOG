@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T18:17:07.490425594Z",
+  "release_date": "2026-08-12T18:17:18.073786641Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -415,6 +415,44 @@
             {
               "SHA": "8185142d",
               "Subject": "Prepare for release v0.6.0-rc.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "35ebce41",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#65)"
+            },
+            {
+              "SHA": "ad3bf0c5",
+              "Subject": "Migrate auth-secret management to shared apimachinery secret package (#64)"
+            },
+            {
+              "SHA": "e36af849",
+              "Subject": "Add virtual secret support (#47)"
+            },
+            {
+              "SHA": "5b1409ef",
+              "Subject": "Add StorageMigration OpsRequest support for Hazelcast (#45)"
+            },
+            {
+              "SHA": "a9a6cd5b",
+              "Subject": "Use shared monitor and appbinding packages (#63)"
+            },
+            {
+              "SHA": "85d20938",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "136b30e8",
+              "Subject": "Move deletion logic to apimachinery (#62)"
             }
           ]
         }

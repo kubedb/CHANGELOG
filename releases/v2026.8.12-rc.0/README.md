@@ -154,6 +154,20 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.12.0-rc.0)
+
+- [35ebce41](https://github.com/kubedb/hazelcast/commit/35ebce41) Prepare for release v0.12.0-rc.0 (#65)
+- [ad3bf0c5](https://github.com/kubedb/hazelcast/commit/ad3bf0c5) Migrate auth-secret management to shared apimachinery secret package (#64)
+- [e36af849](https://github.com/kubedb/hazelcast/commit/e36af849) Add virtual secret support (#47)
+- [5b1409ef](https://github.com/kubedb/hazelcast/commit/5b1409ef) Add StorageMigration OpsRequest support for Hazelcast (#45)
+- [a9a6cd5b](https://github.com/kubedb/hazelcast/commit/a9a6cd5b) Use shared monitor and appbinding packages (#63)
+- [85d20938](https://github.com/kubedb/hazelcast/commit/85d20938) Set default resource limits before patching petset in vertical scaling
+- [136b30e8](https://github.com/kubedb/hazelcast/commit/136b30e8) Move deletion logic to apimachinery (#62)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.37.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.37.0-rc.0)

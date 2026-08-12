@@ -1,0 +1,144 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.8.12-rc.0",
+  "release_date": "2026-08-12T13:37:42.654728754Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.66.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e5b9582cc",
+              "Subject": "Merge branch 'master' into release-0.66"
+            },
+            {
+              "SHA": "24131c2c1",
+              "Subject": "Update for release KubeStash@v2026.8.12-rc.0 (#1860)"
+            },
+            {
+              "SHA": "93c137821",
+              "Subject": "documentdb mututaltls-ops (#1857)"
+            },
+            {
+              "SHA": "58cafb3ba",
+              "Subject": "Patch spec.authSecret without clobbering the caller's DB object (#1853)"
+            },
+            {
+              "SHA": "697642824",
+              "Subject": "Documentdb tls & reconfiguretls (#1851)"
+            },
+            {
+              "SHA": "b9e9a7629",
+              "Subject": "Bump grpc and related dependencies (#1856)"
+            },
+            {
+              "SHA": "58ee30148",
+              "Subject": "Add ClickHouse Keeper Ops-Req (#1835)"
+            },
+            {
+              "SHA": "afd2eb590",
+              "Subject": "Extend Solr Reconfigure Ops for Backup (#1841)"
+            },
+            {
+              "SHA": "02fbd4e5f",
+              "Subject": "Add HanaDB horizontal scaling and update version ops api (#1803)"
+            },
+            {
+              "SHA": "87057a239",
+              "Subject": "prevent Neo4j cross-scheme version upgrades (#1852)"
+            },
+            {
+              "SHA": "69a6f2135",
+              "Subject": "Improve Branch status information and create generic branch annotations (#1840)"
+            },
+            {
+              "SHA": "e7db69325",
+              "Subject": "Make ui.kubedb.com DatabaseConfiguration namespaced and get/list-able (#1849)"
+            },
+            {
+              "SHA": "450194532",
+              "Subject": "Add Milvus Minio Port Constants (#1845)"
+            },
+            {
+              "SHA": "4aac2b8c4",
+              "Subject": "add reconfigureSpec.WalletConfigSecret check in webhook (#1848)"
+            },
+            {
+              "SHA": "99e5f4bb5",
+              "Subject": "[MySQL] Topology Mode Change (#1844)"
+            },
+            {
+              "SHA": "c1c4d4268",
+              "Subject": "Fix druid svcNames & ports for gateway (#1843)"
+            },
+            {
+              "SHA": "9bfcfcf94",
+              "Subject": "Add Postgres Transparent Data Encryption (pg_tde) API (#1831)"
+            },
+            {
+              "SHA": "1a21cba4a",
+              "Subject": "Make MongoDB probes tolerate mongosh stdout warnings (#1846)"
+            },
+            {
+              "SHA": "243e61d23",
+              "Subject": "Remove postgres-dependent validations from pgpool webhook"
+            },
+            {
+              "SHA": "fd1d8ae01",
+              "Subject": "Remove postgres-dependent validations from pgpool webhook"
+            },
+            {
+              "SHA": "58b803ebe",
+              "Subject": "Remove pg-validation from pgpool"
+            },
+            {
+              "SHA": "104ef5739",
+              "Subject": "Remove pg-validation from pgpool"
+            },
+            {
+              "SHA": "4a5dafc75",
+              "Subject": "Added SkipBackupPauseAnnotation constant (#1842)"
+            },
+            {
+              "SHA": "b0a89cbd0",
+              "Subject": "Add shared pkg/controller/secret auth-secret orchestrator (#1839)"
+            },
+            {
+              "SHA": "7cbfa8c75",
+              "Subject": "Add weaviate update version ops api (#1837)"
+            },
+            {
+              "SHA": "62501c6a8",
+              "Subject": "Elasticsearch Virtual Secret Fix (#1815)"
+            },
+            {
+              "SHA": "da69e33e3",
+              "Subject": "Add shared monitor & appbinding packages (#1834)"
+            },
+            {
+              "SHA": "861df6898",
+              "Subject": "deletion: preserve-on-halt annotation, DoNotTerminate safety net, finalizer NotFound handling (#1833)"
+            },
+            {
+              "SHA": "21556766c",
+              "Subject": "Add default RunAsGroup to container security context (#1829)"
+            },
+            {
+              "SHA": "90d0d0c4f",
+              "Subject": "Add Virtual Secret Schema (#1828)"
+            },
+            {
+              "SHA": "e5417274b",
+              "Subject": "Add shared pkg/controllers/deletion and normalize DB accessors (#1830)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

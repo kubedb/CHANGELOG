@@ -132,3 +132,16 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.7.0-rc.0)
+
+- [d445e431](https://github.com/kubedb/weaviate/commit/d445e431) Prepare for release v0.7.0-rc.0 (#59)
+- [c87d4ab5](https://github.com/kubedb/weaviate/commit/c87d4ab5) Add update-version ops (#56)
+- [73297e3d](https://github.com/kubedb/weaviate/commit/73297e3d) Use shared monitor and appbinding packages (#57)
+- [c0de6cde](https://github.com/kubedb/weaviate/commit/c0de6cde) Add virtual secret support (#36)
+- [52ae615f](https://github.com/kubedb/weaviate/commit/52ae615f) Set default resource limits before patching petset in vertical scaling (#54)
+- [47f19de7](https://github.com/kubedb/weaviate/commit/47f19de7) Move deletion logic to apimachinery (#55)
+
+
+

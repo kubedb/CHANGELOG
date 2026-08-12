@@ -34,9 +34,6 @@
       "github.com/kubedb/clickhouse": {
         "tag": "v0.21.0-rc.0"
       },
-      "github.com/kubedb/clickhouse-backup-plugin": {
-        "tag": "v0.3.0-rc.0"
-      },
       "github.com/kubedb/dashboard-restic-plugin": {
         "tag": "v0.24.0-rc.0"
       },
@@ -98,7 +95,7 @@
         "tag": "v0.24.0-rc.0"
       },
       "github.com/kubedb/memcached": {
-        "tag": "v0.59.0-rc.0"
+        "tag": "v0.60.0-rc.0"
       },
       "github.com/kubedb/migrator": {
         "tag": "v0.6.0-rc.0"
@@ -240,6 +237,9 @@
       }
     },
     {
+      "github.com/kubedb/clickhouse-backup-plugin": {
+        "tag": "v0.3.0-rc.0"
+      },
       "github.com/kubedb/courier": {
         "tag": "v0.6.0-rc.0"
       },

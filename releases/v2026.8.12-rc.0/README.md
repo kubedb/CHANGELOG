@@ -222,6 +222,16 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.24.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.24.0-rc.0)
+
+- [69621d76](https://github.com/kubedb/mariadb-restic-plugin/commit/69621d76) Prepare for release v0.24.0-rc.0 (#101)
+- [c3998c88](https://github.com/kubedb/mariadb-restic-plugin/commit/c3998c88) FIx 10.6.16 backup tls issue (#100)
+- [f3f205c1](https://github.com/kubedb/mariadb-restic-plugin/commit/f3f205c1) Add Virtual Secret Support (#97)
+
+
+
 ## [kubedb/migrator](https://github.com/kubedb/migrator)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/migrator/releases/tag/v0.6.0-rc.0)

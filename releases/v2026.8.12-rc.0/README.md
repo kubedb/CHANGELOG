@@ -186,6 +186,15 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.29.0-rc.0)
+
+- [ba50bd65](https://github.com/kubedb/mongodb-restic-plugin/commit/ba50bd65) Prepare for release v0.29.0-rc.0 (#136)
+- [802a7051](https://github.com/kubedb/mongodb-restic-plugin/commit/802a7051) Add Virtual Secret Support (#133)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.20.0-rc.0)

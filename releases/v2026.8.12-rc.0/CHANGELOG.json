@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:37:28.872291039Z",
+  "release_date": "2026-08-12T16:37:43.631787789Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -173,6 +173,40 @@
             {
               "SHA": "cd89e8bf",
               "Subject": "Merge pull request #98 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cf0be0bd",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#133)"
+            },
+            {
+              "SHA": "1d1d2efc",
+              "Subject": "Migrate auth-secret and internal-token management to shared secret package (#130)"
+            },
+            {
+              "SHA": "361d2755",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#129)"
+            },
+            {
+              "SHA": "51d6f1c3",
+              "Subject": "Add virtual secret support (#108)"
+            },
+            {
+              "SHA": "68fd5fea",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#126)"
+            },
+            {
+              "SHA": "b845cd26",
+              "Subject": "Move deletion logic to apimachinery (#127)"
             }
           ]
         }

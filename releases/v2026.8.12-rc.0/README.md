@@ -53,6 +53,19 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.21.0-rc.0)
+
+- [cf0be0bd](https://github.com/kubedb/clickhouse/commit/cf0be0bd) Prepare for release v0.21.0-rc.0 (#133)
+- [1d1d2efc](https://github.com/kubedb/clickhouse/commit/1d1d2efc) Migrate auth-secret and internal-token management to shared secret package (#130)
+- [361d2755](https://github.com/kubedb/clickhouse/commit/361d2755) Adopt shared monitor/appbinding packages from apimachinery (#129)
+- [51d6f1c3](https://github.com/kubedb/clickhouse/commit/51d6f1c3) Add virtual secret support (#108)
+- [68fd5fea](https://github.com/kubedb/clickhouse/commit/68fd5fea) Set default resource limits before patching petset in vertical scaling (#126)
+- [b845cd26](https://github.com/kubedb/clickhouse/commit/b845cd26) Move deletion logic to apimachinery (#127)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.21.0-rc.0)

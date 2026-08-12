@@ -141,6 +141,15 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.20.0-rc.0)
+
+- [4b43a1c5](https://github.com/kubedb/mssqlserver-walg-plugin/commit/4b43a1c5) Prepare for release v0.20.0-rc.0 (#67)
+- [12f92505](https://github.com/kubedb/mssqlserver-walg-plugin/commit/12f92505) Integrate virtual secret (#64)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.39.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.39.0-rc.0)

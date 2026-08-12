@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:37:18.668368674Z",
+  "release_date": "2026-08-12T16:37:28.872291039Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -381,6 +381,24 @@
             {
               "SHA": "b2684818",
               "Subject": "Prepare for release v0.27.0-rc.0 (#89)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4b43a1c5",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "12f92505",
+              "Subject": "Integrate virtual secret (#64)"
             }
           ]
         }

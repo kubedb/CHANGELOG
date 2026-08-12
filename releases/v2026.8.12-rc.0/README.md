@@ -334,6 +334,16 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.29.0-rc.0)
+
+- [fb1c5cd1](https://github.com/kubedb/postgres-restic-plugin/commit/fb1c5cd1) Prepare for release v0.29.0-rc.0 (#122)
+- [5620d3a1](https://github.com/kubedb/postgres-restic-plugin/commit/5620d3a1) Add Percona pg_tde physical backup support (17.9-percona) (#119)
+- [c0ae4e7a](https://github.com/kubedb/postgres-restic-plugin/commit/c0ae4e7a) Add Virtual Secret Support (#116)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.7.0-rc.0)

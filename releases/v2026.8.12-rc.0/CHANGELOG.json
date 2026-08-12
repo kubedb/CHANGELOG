@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T18:17:18.073786641Z",
+  "release_date": "2026-08-12T18:17:27.965170798Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -829,6 +829,28 @@
             {
               "SHA": "4d647cb7",
               "Subject": "Merge pull request #114 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "fb1c5cd1",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#122)"
+            },
+            {
+              "SHA": "5620d3a1",
+              "Subject": "Add Percona pg_tde physical backup support (17.9-percona) (#119)"
+            },
+            {
+              "SHA": "c0ae4e7a",
+              "Subject": "Add Virtual Secret Support (#116)"
             }
           ]
         }

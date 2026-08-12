@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T18:19:41.238832887Z",
+  "release_date": "2026-08-12T18:19:48.275530549Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -757,6 +757,20 @@
             {
               "SHA": "802a7051",
               "Subject": "Add Virtual Secret Support (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5fc9453",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#34)"
             }
           ]
         }

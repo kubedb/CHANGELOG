@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T18:19:23.659900708Z",
+  "release_date": "2026-08-12T18:19:41.238832887Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -889,6 +889,40 @@
             {
               "SHA": "b6daf30",
               "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c9b14d9d7",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#472)"
+            },
+            {
+              "SHA": "421e4a5c9",
+              "Subject": "Migrate auth-secret management to shared kubedb.dev/apimachinery secret package (#471)"
+            },
+            {
+              "SHA": "454eeb0b2",
+              "Subject": "Use shared monitor and appbinding packages (#470)"
+            },
+            {
+              "SHA": "ee1884631",
+              "Subject": "Add virtual secret support (#455)"
+            },
+            {
+              "SHA": "bb4bf36de",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#468)"
+            },
+            {
+              "SHA": "f42d4b388",
+              "Subject": "Move deletion logic to apimachinery (#469)"
             }
           ]
         }

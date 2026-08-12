@@ -358,6 +358,19 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.53.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.53.0-rc.0)
+
+- [c9b14d9d](https://github.com/kubedb/percona-xtradb/commit/c9b14d9d7) Prepare for release v0.53.0-rc.0 (#472)
+- [421e4a5c](https://github.com/kubedb/percona-xtradb/commit/421e4a5c9) Migrate auth-secret management to shared kubedb.dev/apimachinery secret package (#471)
+- [454eeb0b](https://github.com/kubedb/percona-xtradb/commit/454eeb0b2) Use shared monitor and appbinding packages (#470)
+- [ee188463](https://github.com/kubedb/percona-xtradb/commit/ee1884631) Add virtual secret support (#455)
+- [bb4bf36d](https://github.com/kubedb/percona-xtradb/commit/bb4bf36de) Set default resource limits before patching petset in vertical scaling (#468)
+- [f42d4b38](https://github.com/kubedb/percona-xtradb/commit/f42d4b388) Move deletion logic to apimachinery (#469)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.39.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.39.0-rc.0)

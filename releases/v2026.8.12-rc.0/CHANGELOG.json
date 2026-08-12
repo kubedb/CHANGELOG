@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T18:21:37.191653967Z",
+  "release_date": "2026-08-12T18:21:47.17151983Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -917,6 +917,64 @@
             {
               "SHA": "b6daf30",
               "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c99cd856",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#81)"
+            },
+            {
+              "SHA": "3a9a9961",
+              "Subject": "remove extra Error logs (#80)"
+            },
+            {
+              "SHA": "42b512c6",
+              "Subject": "Observer-image-pull-error-fix (#77)"
+            },
+            {
+              "SHA": "84e43918",
+              "Subject": "Fix reconfigure wallet (#63)"
+            },
+            {
+              "SHA": "b8b77661",
+              "Subject": "solve multiple image pull secret, handle remove tls (#72)"
+            },
+            {
+              "SHA": "f6bb8508",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#76)"
+            },
+            {
+              "SHA": "5ec9da67",
+              "Subject": "Add virtual secret support (#53)"
+            },
+            {
+              "SHA": "5199a198",
+              "Subject": "Use shared monitor and appbinding packages (#75)"
+            },
+            {
+              "SHA": "1b447602",
+              "Subject": "feat: implement git-sync init container for Oracle (#55)"
+            },
+            {
+              "SHA": "ed013630",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#73)"
+            },
+            {
+              "SHA": "b1819c65",
+              "Subject": "Move deletion logic to apimachinery (#74)"
+            },
+            {
+              "SHA": "d7753f7e",
+              "Subject": "Merge pull request #70 from kubedb/v2026.7.10-master"
             }
           ]
         }

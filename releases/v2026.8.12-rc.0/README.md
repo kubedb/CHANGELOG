@@ -374,6 +374,25 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.12.0-rc.0](https://github.com/kubedb/oracle/releases/tag/v0.12.0-rc.0)
+
+- [c99cd856](https://github.com/kubedb/oracle/commit/c99cd856) Prepare for release v0.12.0-rc.0 (#81)
+- [3a9a9961](https://github.com/kubedb/oracle/commit/3a9a9961) remove extra Error logs (#80)
+- [42b512c6](https://github.com/kubedb/oracle/commit/42b512c6) Observer-image-pull-error-fix (#77)
+- [84e43918](https://github.com/kubedb/oracle/commit/84e43918) Fix reconfigure wallet (#63)
+- [b8b77661](https://github.com/kubedb/oracle/commit/b8b77661) solve multiple image pull secret, handle remove tls (#72)
+- [f6bb8508](https://github.com/kubedb/oracle/commit/f6bb8508) Use shared pkg/controller/secret for auth secret (#76)
+- [5ec9da67](https://github.com/kubedb/oracle/commit/5ec9da67) Add virtual secret support (#53)
+- [5199a198](https://github.com/kubedb/oracle/commit/5199a198) Use shared monitor and appbinding packages (#75)
+- [1b447602](https://github.com/kubedb/oracle/commit/1b447602) feat: implement git-sync init container for Oracle (#55)
+- [ed013630](https://github.com/kubedb/oracle/commit/ed013630) Set default resource limits before patching petset in vertical scaling (#73)
+- [b1819c65](https://github.com/kubedb/oracle/commit/b1819c65) Move deletion logic to apimachinery (#74)
+- [d7753f7e](https://github.com/kubedb/oracle/commit/d7753f7e) Merge pull request #70 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.53.0-rc.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.53.0-rc.0)

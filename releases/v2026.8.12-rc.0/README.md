@@ -214,6 +214,18 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.7.0-rc.0)
+
+- [c53cd81b](https://github.com/kubedb/qdrant/commit/c53cd81b) Prepare for release v0.7.0-rc.0 (#59)
+- [7fcc9d7d](https://github.com/kubedb/qdrant/commit/7fcc9d7d) Adopt shared monitor/appbinding packages (#58)
+- [d6fa13f6](https://github.com/kubedb/qdrant/commit/d6fa13f6) Add virtual secret support (#42)
+- [5adbcdf0](https://github.com/kubedb/qdrant/commit/5adbcdf0) Set default resource limits before patching petset in vertical scaling (#56)
+- [984a3bd7](https://github.com/kubedb/qdrant/commit/984a3bd7) Move deletion logic to apimachinery (#57)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.21.0-rc.0)

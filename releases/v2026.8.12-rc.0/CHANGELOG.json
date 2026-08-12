@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:46:18.381846128Z",
+  "release_date": "2026-08-12T16:46:27.313957411Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -547,6 +547,36 @@
             {
               "SHA": "4d647cb7",
               "Subject": "Merge pull request #114 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c53cd81b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "7fcc9d7d",
+              "Subject": "Adopt shared monitor/appbinding packages (#58)"
+            },
+            {
+              "SHA": "d6fa13f6",
+              "Subject": "Add virtual secret support (#42)"
+            },
+            {
+              "SHA": "5adbcdf0",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#56)"
+            },
+            {
+              "SHA": "984a3bd7",
+              "Subject": "Move deletion logic to apimachinery (#57)"
             }
           ]
         }

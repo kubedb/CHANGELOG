@@ -132,6 +132,16 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.14.0-rc.0)
+
+- [c0f20f15](https://github.com/kubedb/gitops/commit/c0f20f15) Prepare for release v0.14.0-rc.0 (#89)
+- [492a5dda](https://github.com/kubedb/gitops/commit/492a5dda) [Solr] Fix Solr API (#88)
+- [2aee9ab8](https://github.com/kubedb/gitops/commit/2aee9ab8) Add Virtual Secret Support (#86)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.7.0-rc.0)

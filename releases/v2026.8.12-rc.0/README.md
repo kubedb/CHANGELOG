@@ -283,6 +283,14 @@
 
 
 
+## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.2.0-rc.0)
+
+- [b6daf30](https://github.com/kubedb/neo4j-backup-plugin/commit/b6daf30) Prepare for release v0.2.0-rc.0 (#10)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.39.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.39.0-rc.0)

@@ -245,6 +245,21 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.21.0-rc.0)
+
+- [25754c5f](https://github.com/kubedb/solr/commit/25754c5f) Prepare for release v0.21.0-rc.0 (#155)
+- [0afd2d73](https://github.com/kubedb/solr/commit/0afd2d73) API fix [Unblock RC] (#154)
+- [32dfb2d9](https://github.com/kubedb/solr/commit/32dfb2d9) Adopt shared secret package from apimachinery (#152)
+- [22d3d42e](https://github.com/kubedb/solr/commit/22d3d42e) Adopt shared monitor/appbinding packages from apimachinery (#150)
+- [dbaaa4f9](https://github.com/kubedb/solr/commit/dbaaa4f9) Add virtual secret support (#131)
+- [5f23c1f2](https://github.com/kubedb/solr/commit/5f23c1f2) Set default resource limits before patching petset in vertical scaling (#147)
+- [a0c4213c](https://github.com/kubedb/solr/commit/a0c4213c) Honor user-provided renewBefore in TLS certificate ops (#146)
+- [cd576f42](https://github.com/kubedb/solr/commit/cd576f42) Move deletion logic to apimachinery (#148)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.7.0-rc.0)

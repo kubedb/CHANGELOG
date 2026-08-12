@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:46:27.313957411Z",
+  "release_date": "2026-08-12T16:46:41.220483756Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -617,6 +617,48 @@
             {
               "SHA": "1fe1b17d",
               "Subject": "Merge pull request #92 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "25754c5f",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#155)"
+            },
+            {
+              "SHA": "0afd2d73",
+              "Subject": "API fix [Unblock RC] (#154)"
+            },
+            {
+              "SHA": "32dfb2d9",
+              "Subject": "Adopt shared secret package from apimachinery (#152)"
+            },
+            {
+              "SHA": "22d3d42e",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#150)"
+            },
+            {
+              "SHA": "dbaaa4f9",
+              "Subject": "Add virtual secret support (#131)"
+            },
+            {
+              "SHA": "5f23c1f2",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#147)"
+            },
+            {
+              "SHA": "a0c4213c",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#146)"
+            },
+            {
+              "SHA": "cd576f42",
+              "Subject": "Move deletion logic to apimachinery (#148)"
             }
           ]
         }

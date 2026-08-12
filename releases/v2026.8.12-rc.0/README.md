@@ -395,6 +395,24 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.51.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.51.0-rc.0)
+
+- [852fc45f](https://github.com/kubedb/tests/commit/852fc45fe) Prepare for release v0.51.0-rc.0 (#551)
+- [ea820e35](https://github.com/kubedb/tests/commit/ea820e351) Add Postgres pg_tde (TDE) e2e coverage behind --enable-tde (#549)
+- [3cfb92a9](https://github.com/kubedb/tests/commit/3cfb92a90) Add MongoDB Archiver CI (#463)
+- [9a67cef0](https://github.com/kubedb/tests/commit/9a67cef0d) Add E2E tests for Milvus (#530)
+- [3c251405](https://github.com/kubedb/tests/commit/3c2514059) Add E2E tests for Weaviate (#534)
+- [3c6be199](https://github.com/kubedb/tests/commit/3c6be199c) Add E2E tests for SAP HANA (#527)
+- [298da3c2](https://github.com/kubedb/tests/commit/298da3c29) Add E2E tests for Ignite (#529)
+- [3953e608](https://github.com/kubedb/tests/commit/3953e6082) MSSQL Secondary Access Mode (#483)
+- [c9d5734e](https://github.com/kubedb/tests/commit/c9d5734e8) Add E2E tests for DB2 (#526)
+- [07c4c77c](https://github.com/kubedb/tests/commit/07c4c77c7) Add E2E tests for Hazelcast (#528)
+- [e8ef8cb2](https://github.com/kubedb/tests/commit/e8ef8cb25) Add Common changes (kubestash), Neo4j Disable Security (#548)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/weaviate/releases/tag/v0.7.0-rc.0)

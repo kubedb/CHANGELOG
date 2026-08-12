@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:50:15.694556724Z",
+  "release_date": "2026-08-12T18:16:33.70876882Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -965,6 +965,60 @@
             {
               "SHA": "cd576f42",
               "Subject": "Move deletion logic to apimachinery (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.0",
+          "commits": [
+            {
+              "SHA": "852fc45fe",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#551)"
+            },
+            {
+              "SHA": "ea820e351",
+              "Subject": "Add Postgres pg_tde (TDE) e2e coverage behind --enable-tde (#549)"
+            },
+            {
+              "SHA": "3cfb92a90",
+              "Subject": "Add MongoDB Archiver CI (#463)"
+            },
+            {
+              "SHA": "9a67cef0d",
+              "Subject": "Add E2E tests for Milvus (#530)"
+            },
+            {
+              "SHA": "3c2514059",
+              "Subject": "Add E2E tests for Weaviate (#534)"
+            },
+            {
+              "SHA": "3c6be199c",
+              "Subject": "Add E2E tests for SAP HANA (#527)"
+            },
+            {
+              "SHA": "298da3c29",
+              "Subject": "Add E2E tests for Ignite (#529)"
+            },
+            {
+              "SHA": "3953e6082",
+              "Subject": "MSSQL Secondary Access Mode (#483)"
+            },
+            {
+              "SHA": "c9d5734e8",
+              "Subject": "Add E2E tests for DB2 (#526)"
+            },
+            {
+              "SHA": "07c4c77c7",
+              "Subject": "Add E2E tests for Hazelcast (#528)"
+            },
+            {
+              "SHA": "e8ef8cb25",
+              "Subject": "Add Common changes (kubestash), Neo4j Disable Security (#548)"
             }
           ]
         }

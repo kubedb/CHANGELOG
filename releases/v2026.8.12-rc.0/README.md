@@ -1,6 +1,20 @@
 # KubeDB v2026.8.12-rc.0 (2026-08-12)
 
 
+## [kubedb/aerospike](https://github.com/kubedb/aerospike)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/aerospike/releases/tag/v0.2.0-rc.0)
+
+- [45481d49](https://github.com/kubedb/aerospike/commit/45481d49) Prepare for release v0.2.0-rc.0 (#12)
+- [81fe47b5](https://github.com/kubedb/aerospike/commit/81fe47b5) Config merging (#11)
+- [1c54e254](https://github.com/kubedb/aerospike/commit/1c54e254) Use shared appbinding helper and record event (#10)
+- [22a19d44](https://github.com/kubedb/aerospike/commit/22a19d44) Add appbinding (#9)
+- [408f2a83](https://github.com/kubedb/aerospike/commit/408f2a83) Fix Health check (#4)
+- [1c47f5b1](https://github.com/kubedb/aerospike/commit/1c47f5b1) Move deletion logic to apimachinery (#8)
+- [615dd307](https://github.com/kubedb/aerospike/commit/615dd307) Upgrade aerospike-client-go v6 -> v8 (#7)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.66.0-rc.0](https://github.com/kubedb/apimachinery/releases/tag/v0.66.0-rc.0)

@@ -1,11 +1,49 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T18:19:11.860091552Z",
+  "release_date": "2026-08-12T18:19:23.659900708Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
   "projects": [
+    {
+      "url": "github.com/kubedb/aerospike",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "45481d49",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#12)"
+            },
+            {
+              "SHA": "81fe47b5",
+              "Subject": "Config merging (#11)"
+            },
+            {
+              "SHA": "1c54e254",
+              "Subject": "Use shared appbinding helper and record event (#10)"
+            },
+            {
+              "SHA": "22a19d44",
+              "Subject": "Add appbinding (#9)"
+            },
+            {
+              "SHA": "408f2a83",
+              "Subject": "Fix Health check (#4)"
+            },
+            {
+              "SHA": "1c47f5b1",
+              "Subject": "Move deletion logic to apimachinery (#8)"
+            },
+            {
+              "SHA": "615dd307",
+              "Subject": "Upgrade aerospike-client-go v6 -> v8 (#7)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

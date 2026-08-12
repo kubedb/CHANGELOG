@@ -243,6 +243,15 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.29.0-rc.0)
+
+- [ab2ff427](https://github.com/kubedb/redis-restic-plugin/commit/ab2ff427) Prepare for release v0.29.0-rc.0 (#114)
+- [9490bd22](https://github.com/kubedb/redis-restic-plugin/commit/9490bd22) Add Virtual Secret Support (#111)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.53.0-rc.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.53.0-rc.0)

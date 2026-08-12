@@ -234,6 +234,16 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.29.0-rc.0)
+
+- [78d689a8](https://github.com/kubedb/mysql-restic-plugin/commit/78d689a8) Prepare for release v0.29.0-rc.0 (#122)
+- [c863d090](https://github.com/kubedb/mysql-restic-plugin/commit/c863d090) Fix --ssl-ca being silently dropped from the client command (#121)
+- [78790d48](https://github.com/kubedb/mysql-restic-plugin/commit/78790d48) Add Virtual Secret Support (#118)
+
+
+
 ## [kubedb/neo4j](https://github.com/kubedb/neo4j)
 
 ### [v0.7.0-rc.0](https://github.com/kubedb/neo4j/releases/tag/v0.7.0-rc.0)

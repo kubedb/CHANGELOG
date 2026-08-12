@@ -72,6 +72,20 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.3.0-rc.0)
+
+- [59ecdd3d](https://github.com/kubedb/documentdb/commit/59ecdd3d) Prepare for release v0.3.0-rc.0 (#46)
+- [fa5afd65](https://github.com/kubedb/documentdb/commit/fa5afd65) Dcdb tls & reconfiguretls (#45)
+- [0ed43723](https://github.com/kubedb/documentdb/commit/0ed43723) Add tuning config support to Reconfigure and VerticalScaling ops requests (#26)
+- [efab7987](https://github.com/kubedb/documentdb/commit/efab7987) standalone-rotateauth (#43)
+- [0d8d872b](https://github.com/kubedb/documentdb/commit/0d8d872b) Adopt shared apimachinery secret package for auth secret (#44)
+- [7253e091](https://github.com/kubedb/documentdb/commit/7253e091) Adopt shared appbinding package from apimachinery (#42)
+- [9876d3cc](https://github.com/kubedb/documentdb/commit/9876d3cc) Move deletion logic to apimachinery (#41)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.46.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.46.0-rc.0)

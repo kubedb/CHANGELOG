@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:36:39.048355667Z",
+  "release_date": "2026-08-12T16:36:48.998479773Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -213,6 +213,44 @@
             {
               "SHA": "55c58b66",
               "Subject": "Fix DNS issue for down scaling (#257)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "59ecdd3d",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#46)"
+            },
+            {
+              "SHA": "fa5afd65",
+              "Subject": "Dcdb tls & reconfiguretls (#45)"
+            },
+            {
+              "SHA": "0ed43723",
+              "Subject": "Add tuning config support to Reconfigure and VerticalScaling ops requests (#26)"
+            },
+            {
+              "SHA": "efab7987",
+              "Subject": "standalone-rotateauth (#43)"
+            },
+            {
+              "SHA": "0d8d872b",
+              "Subject": "Adopt shared apimachinery secret package for auth secret (#44)"
+            },
+            {
+              "SHA": "7253e091",
+              "Subject": "Adopt shared appbinding package from apimachinery (#42)"
+            },
+            {
+              "SHA": "9876d3cc",
+              "Subject": "Move deletion logic to apimachinery (#41)"
             }
           ]
         }

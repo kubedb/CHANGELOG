@@ -99,6 +99,19 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.66.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.66.0-rc.0)
+
+- [20095d87](https://github.com/kubedb/elasticsearch/commit/20095d87a) Prepare for release v0.66.0-rc.0 (#832)
+- [32668c8f](https://github.com/kubedb/elasticsearch/commit/32668c8f3) Migrate auth secret handling to shared apimachinery secret package (#831)
+- [ca2f2988](https://github.com/kubedb/elasticsearch/commit/ca2f2988d) Adopt shared monitor/appbinding packages from apimachinery (#830)
+- [62ec1892](https://github.com/kubedb/elasticsearch/commit/62ec18929) Add virtual secret support (#813)
+- [14fab5c7](https://github.com/kubedb/elasticsearch/commit/14fab5c77) Move deletion logic to apimachinery (#829)
+- [50d3e6b3](https://github.com/kubedb/elasticsearch/commit/50d3e6b3e) Merge pull request #828 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
 
 ### [v0.6.0-rc.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.6.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:48:19.876073755Z",
+  "release_date": "2026-08-12T16:48:48.991142657Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -285,6 +285,40 @@
             {
               "SHA": "9876d3cc",
               "Subject": "Move deletion logic to apimachinery (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.66.0-rc.0",
+          "commits": [
+            {
+              "SHA": "20095d87a",
+              "Subject": "Prepare for release v0.66.0-rc.0 (#832)"
+            },
+            {
+              "SHA": "32668c8f3",
+              "Subject": "Migrate auth secret handling to shared apimachinery secret package (#831)"
+            },
+            {
+              "SHA": "ca2f2988d",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#830)"
+            },
+            {
+              "SHA": "62ec18929",
+              "Subject": "Add virtual secret support (#813)"
+            },
+            {
+              "SHA": "14fab5c77",
+              "Subject": "Move deletion logic to apimachinery (#829)"
+            },
+            {
+              "SHA": "50d3e6b3e",
+              "Subject": "Merge pull request #828 from kubedb/v2026.7.10-master"
             }
           ]
         }

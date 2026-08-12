@@ -503,6 +503,15 @@
 
 
 
+## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.14.0-rc.0)
+
+- [0ea98fb8](https://github.com/kubedb/xtrabackup-restic-plugin/commit/0ea98fb8) Prepare for release v0.14.0-rc.0 (#62)
+- [f0b1e934](https://github.com/kubedb/xtrabackup-restic-plugin/commit/f0b1e934) Add Virtual Secret Support (#59)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.21.0-rc.0)

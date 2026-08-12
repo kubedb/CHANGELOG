@@ -99,6 +99,15 @@
 
 
 
+## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
+
+### [v0.2.0-rc.0](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.2.0-rc.0)
+
+- [d78d225](https://github.com/kubedb/documentdb-coordinator/commit/d78d225) Prepare for release v0.2.0-rc.0 (#11)
+- [1a762f1](https://github.com/kubedb/documentdb-coordinator/commit/1a762f1) Merge pull request #10 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.66.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.66.0-rc.0)

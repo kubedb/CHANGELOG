@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:49:15.37541002Z",
+  "release_date": "2026-08-12T16:49:23.319787744Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -285,6 +285,24 @@
             {
               "SHA": "9876d3cc",
               "Subject": "Move deletion logic to apimachinery (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d78d225",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#11)"
+            },
+            {
+              "SHA": "1a762f1",
+              "Subject": "Merge pull request #10 from kubedb/v2026.7.10-master"
             }
           ]
         }

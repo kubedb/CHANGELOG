@@ -110,6 +110,14 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.7.0-rc.0)
+
+- [ac3486b](https://github.com/kubedb/db2-coordinator/commit/ac3486b) Prepare for release v0.7.0-rc.0 (#17)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.3.0-rc.0)

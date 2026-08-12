@@ -246,6 +246,15 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.26.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.26.0-rc.0)
+
+- [97664701](https://github.com/kubedb/mariadb-archiver/commit/97664701) Prepare for release v0.26.0-rc.0 (#100)
+- [e94155d5](https://github.com/kubedb/mariadb-archiver/commit/e94155d5) Merge pull request #99 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.46.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.46.0-rc.0)

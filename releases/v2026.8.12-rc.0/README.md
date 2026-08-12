@@ -66,6 +66,18 @@
 
 
 
+## [kubedb/migrator](https://github.com/kubedb/migrator)
+
+### [v0.6.0-rc.0](https://github.com/kubedb/migrator/releases/tag/v0.6.0-rc.0)
+
+- [e9d330c6](https://github.com/kubedb/migrator/commit/e9d330c6) Prepare for release v0.6.0-rc.0 (#48)
+- [9ccfbe83](https://github.com/kubedb/migrator/commit/9ccfbe83) Fix mssql snapshot tds eof retry (#47)
+- [a5b1a307](https://github.com/kubedb/migrator/commit/a5b1a307) Update postgres sequence value when migration stops (#46)
+- [91bfb3ac](https://github.com/kubedb/migrator/commit/91bfb3ac) Fixed release issue,waited for inital lsn for cdc
+- [d9bf2272](https://github.com/kubedb/migrator/commit/d9bf2272) Add non root user in every docker file (#44)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.59.0-rc.0](https://github.com/kubedb/mongodb/releases/tag/v0.59.0-rc.0)

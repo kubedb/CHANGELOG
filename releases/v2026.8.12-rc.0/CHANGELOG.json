@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:35:42.206855339Z",
+  "release_date": "2026-08-12T16:35:53.482274762Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -189,6 +189,36 @@
             {
               "SHA": "4772461d",
               "Subject": "Prepare for release v0.46.0-rc.0 (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e9d330c6",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#48)"
+            },
+            {
+              "SHA": "9ccfbe83",
+              "Subject": "Fix mssql snapshot tds eof retry (#47)"
+            },
+            {
+              "SHA": "a5b1a307",
+              "Subject": "Update postgres sequence value when migration stops (#46)"
+            },
+            {
+              "SHA": "91bfb3ac",
+              "Subject": "Fixed release issue,waited for inital lsn for cdc"
+            },
+            {
+              "SHA": "d9bf2272",
+              "Subject": "Add non root user in every docker file (#44)"
             }
           ]
         }

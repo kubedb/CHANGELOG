@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:36:15.250616489Z",
+  "release_date": "2026-08-12T16:36:28.358026509Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -135,6 +135,44 @@
             {
               "SHA": "e5417274b",
               "Subject": "Add shared pkg/controllers/deletion and normalize DB accessors (#1830)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "75d76a66",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#103)"
+            },
+            {
+              "SHA": "2c731155",
+              "Subject": "Use shared pkg/controller/secret for auth & keystore-cred secrets (#102)"
+            },
+            {
+              "SHA": "f57d0a7e",
+              "Subject": "Add virtual secret support (#83)"
+            },
+            {
+              "SHA": "cf4a2ef4",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#101)"
+            },
+            {
+              "SHA": "5b321447",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#99)"
+            },
+            {
+              "SHA": "ecb67ef2",
+              "Subject": "Move deletion logic to apimachinery (#100)"
+            },
+            {
+              "SHA": "cd89e8bf",
+              "Subject": "Merge pull request #98 from kubedb/v2026.7.10-master"
             }
           ]
         }

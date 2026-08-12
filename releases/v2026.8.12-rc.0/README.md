@@ -113,6 +113,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.29.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.29.0-rc.0)
+
+- [cd4c5601](https://github.com/kubedb/kubedb-manifest-plugin/commit/cd4c5601) Prepare for release v0.29.0-rc.0 (#141)
+- [3fd5160f](https://github.com/kubedb/kubedb-manifest-plugin/commit/3fd5160f) Add Virtual Secret Support (#137)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.46.0-rc.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.46.0-rc.0)

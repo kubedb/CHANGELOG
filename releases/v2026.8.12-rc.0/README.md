@@ -85,6 +85,17 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/db2/releases/tag/v0.7.0-rc.0)
+
+- [be3f3b37](https://github.com/kubedb/db2/commit/be3f3b37) Prepare for release v0.7.0-rc.0 (#38)
+- [ccf20e02](https://github.com/kubedb/db2/commit/ccf20e02) Migrate auth secret management to shared apimachinery secret package (#37)
+- [4f924680](https://github.com/kubedb/db2/commit/4f924680) Add virtual secret support (#26)
+- [87f6518b](https://github.com/kubedb/db2/commit/87f6518b) Move deletion logic to apimachinery (#36)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.3.0-rc.0)

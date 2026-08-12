@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:48:02.418143293Z",
+  "release_date": "2026-08-12T16:48:19.876073755Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -543,6 +543,52 @@
             {
               "SHA": "54b35ec1",
               "Subject": "Fix Join Cluster (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6652df10",
+              "Subject": "Merge commit '372d285b4261d4b760062334d8eda695b773296e' into release-0.7"
+            },
+            {
+              "SHA": "372d285b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#60)"
+            },
+            {
+              "SHA": "4071b5f9",
+              "Subject": "Retag v0.7.0 for reconfigureTLS fix (#59)"
+            },
+            {
+              "SHA": "b77228b2",
+              "Subject": "Add Neo4j SemVer Support (#58)"
+            },
+            {
+              "SHA": "68bf9055",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#57)"
+            },
+            {
+              "SHA": "d7e6539c",
+              "Subject": "Use shared monitor and appbinding packages (#56)"
+            },
+            {
+              "SHA": "ad9c2b06",
+              "Subject": "Add virtual secret support (#35)"
+            },
+            {
+              "SHA": "3c7142e1",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#54)"
+            },
+            {
+              "SHA": "d670768b",
+              "Subject": "Move deletion logic to apimachinery (#55)"
             }
           ]
         }

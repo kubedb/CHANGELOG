@@ -213,6 +213,22 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/neo4j/releases/tag/v0.7.0-rc.0)
+
+- [6652df10](https://github.com/kubedb/neo4j/commit/6652df10) Merge commit '372d285b4261d4b760062334d8eda695b773296e' into release-0.7
+- [372d285b](https://github.com/kubedb/neo4j/commit/372d285b) Prepare for release v0.7.0-rc.0 (#60)
+- [4071b5f9](https://github.com/kubedb/neo4j/commit/4071b5f9) Retag v0.7.0 for reconfigureTLS fix (#59)
+- [b77228b2](https://github.com/kubedb/neo4j/commit/b77228b2) Add Neo4j SemVer Support (#58)
+- [68bf9055](https://github.com/kubedb/neo4j/commit/68bf9055) Use shared pkg/controller/secret for auth secret (#57)
+- [d7e6539c](https://github.com/kubedb/neo4j/commit/d7e6539c) Use shared monitor and appbinding packages (#56)
+- [ad9c2b06](https://github.com/kubedb/neo4j/commit/ad9c2b06) Add virtual secret support (#35)
+- [3c7142e1](https://github.com/kubedb/neo4j/commit/3c7142e1) Set default resource limits before patching petset in vertical scaling (#54)
+- [d670768b](https://github.com/kubedb/neo4j/commit/d670768b) Move deletion logic to apimachinery (#55)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.39.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.39.0-rc.0)

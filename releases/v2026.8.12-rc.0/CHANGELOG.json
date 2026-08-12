@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T18:20:04.680791704Z",
+  "release_date": "2026-08-12T18:21:06.075510156Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -1381,6 +1381,40 @@
             {
               "SHA": "f0b1e934",
               "Subject": "Add Virtual Secret Support (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1b6e46fa",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#139)"
+            },
+            {
+              "SHA": "fee971ca",
+              "Subject": "Adopt shared secret package from apimachinery (#138)"
+            },
+            {
+              "SHA": "6594c59e",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#137)"
+            },
+            {
+              "SHA": "ef611f33",
+              "Subject": "Add virtual secret support (#123)"
+            },
+            {
+              "SHA": "76c37064",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "d39eb3cd",
+              "Subject": "Move deletion logic to apimachinery (#136)"
             }
           ]
         }

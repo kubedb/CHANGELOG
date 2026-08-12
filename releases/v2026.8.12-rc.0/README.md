@@ -330,6 +330,18 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.21.0-rc.0)
+
+- [1787b18b](https://github.com/kubedb/singlestore/commit/1787b18b) Prepare for release v0.21.0-rc.0 (#143)
+- [d0ac823e](https://github.com/kubedb/singlestore/commit/d0ac823e) Use shared apimachinery secret package (#142)
+- [264909c1](https://github.com/kubedb/singlestore/commit/264909c1) Use shared monitor and appbinding packages (#141)
+- [7ff8879b](https://github.com/kubedb/singlestore/commit/7ff8879b) Add virtual secret support (#123)
+- [ae4ba9ce](https://github.com/kubedb/singlestore/commit/ae4ba9ce) Move deletion logic to apimachinery (#140)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.21.0-rc.0)

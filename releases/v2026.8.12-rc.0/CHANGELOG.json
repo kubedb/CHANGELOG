@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T18:17:39.374665645Z",
+  "release_date": "2026-08-12T18:18:14.366956195Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -829,6 +829,56 @@
             {
               "SHA": "62a3b59d",
               "Subject": "Prepare for release v0.39.0-rc.0 (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.66.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5da0b6b89",
+              "Subject": "Prepare for release v0.66.0-rc.0 (#924)"
+            },
+            {
+              "SHA": "0558f966d",
+              "Subject": "Wire pg_tde Transparent Data Encryption into Postgres (#917)"
+            },
+            {
+              "SHA": "e777c0a3a",
+              "Subject": "Add branched mode for KubeDB Courier Branch (kubedb.com/branched-from) (#912)"
+            },
+            {
+              "SHA": "cfa2def6a",
+              "Subject": "Add pg-coordinator support for remote replica pg_rewind and reinitialization (#908)"
+            },
+            {
+              "SHA": "4ee8265df",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#920)"
+            },
+            {
+              "SHA": "fb27a4957",
+              "Subject": "Migrate auth secret management to shared apimachinery secret package (#921)"
+            },
+            {
+              "SHA": "0e5a1ff5e",
+              "Subject": "Virtual Secret Ops Support (#918)"
+            },
+            {
+              "SHA": "6fc4c37ac",
+              "Subject": "feat: implement git-sync init container for Postgres (#892)"
+            },
+            {
+              "SHA": "2d465d864",
+              "Subject": "Move deletion logic to apimachinery (#919)"
+            },
+            {
+              "SHA": "eda65ceb5",
+              "Subject": "Merge pull request #915 from kubedb/v2026.7.10-master"
             }
           ]
         }

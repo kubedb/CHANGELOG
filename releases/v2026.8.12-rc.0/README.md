@@ -334,6 +334,23 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.66.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.66.0-rc.0)
+
+- [5da0b6b8](https://github.com/kubedb/postgres/commit/5da0b6b89) Prepare for release v0.66.0-rc.0 (#924)
+- [0558f966](https://github.com/kubedb/postgres/commit/0558f966d) Wire pg_tde Transparent Data Encryption into Postgres (#917)
+- [e777c0a3](https://github.com/kubedb/postgres/commit/e777c0a3a) Add branched mode for KubeDB Courier Branch (kubedb.com/branched-from) (#912)
+- [cfa2def6](https://github.com/kubedb/postgres/commit/cfa2def6a) Add pg-coordinator support for remote replica pg_rewind and reinitialization (#908)
+- [4ee8265d](https://github.com/kubedb/postgres/commit/4ee8265df) Adopt shared monitor/appbinding packages from apimachinery (#920)
+- [fb27a495](https://github.com/kubedb/postgres/commit/fb27a4957) Migrate auth secret management to shared apimachinery secret package (#921)
+- [0e5a1ff5](https://github.com/kubedb/postgres/commit/0e5a1ff5e) Virtual Secret Ops Support (#918)
+- [6fc4c37a](https://github.com/kubedb/postgres/commit/6fc4c37ac) feat: implement git-sync init container for Postgres (#892)
+- [2d465d86](https://github.com/kubedb/postgres/commit/2d465d864) Move deletion logic to apimachinery (#919)
+- [eda65ceb](https://github.com/kubedb/postgres/commit/eda65ceb5) Merge pull request #915 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.27.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.27.0-rc.0)

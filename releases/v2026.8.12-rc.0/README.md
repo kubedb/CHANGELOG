@@ -281,3 +281,13 @@
 
 
 
+## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.21.0-rc.0)
+
+- [c31c75e2](https://github.com/kubedb/zookeeper-restic-plugin/commit/c31c75e2) Prepare for release v0.21.0-rc.0 (#78)
+- [9f1474e8](https://github.com/kubedb/zookeeper-restic-plugin/commit/9f1474e8) Add Virtual Secret Support (#75)
+- [f9a0c8f0](https://github.com/kubedb/zookeeper-restic-plugin/commit/f9a0c8f0) Merge pull request #77 from kubedb/v2026.7.10-master
+
+
+

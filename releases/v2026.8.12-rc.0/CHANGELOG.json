@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.12-rc.0",
-  "release_date": "2026-08-12T16:36:59.255323551Z",
+  "release_date": "2026-08-12T16:37:18.668368674Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
   "kubernetes_version": "1.28+",
@@ -251,6 +251,44 @@
             {
               "SHA": "9876d3cc",
               "Subject": "Move deletion logic to apimachinery (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.0",
+          "commits": [
+            {
+              "SHA": "28856e2e",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#217)"
+            },
+            {
+              "SHA": "189fe261",
+              "Subject": "Migrate kafka-cluster and connect-cluster auth secrets to shared secret package (#216)"
+            },
+            {
+              "SHA": "c5ad9ccc",
+              "Subject": "Use shared monitor and appbinding packages (#215)"
+            },
+            {
+              "SHA": "c435a470",
+              "Subject": "Add virtual secret support (#197)"
+            },
+            {
+              "SHA": "61481399",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "899e74ab",
+              "Subject": "Move deletion logic to apimachinery (#214)"
+            },
+            {
+              "SHA": "86fa0034",
+              "Subject": "Merge pull request #212 from kubedb/v2026.7.10-master"
             }
           ]
         }

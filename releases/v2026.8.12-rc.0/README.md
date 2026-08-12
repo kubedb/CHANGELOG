@@ -180,6 +180,16 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.27.0-rc.0)
+
+- [9ee6f7aa](https://github.com/kubedb/postgres-archiver/commit/9ee6f7aa) Prepare for release v0.27.0-rc.0 (#116)
+- [9b64fafc](https://github.com/kubedb/postgres-archiver/commit/9b64fafc) Build the postgres-archiver from the Percona image for 17.9-percona (pg_tde PITR) (#115)
+- [4d647cb7](https://github.com/kubedb/postgres-archiver/commit/4d647cb7) Merge pull request #114 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.21.0-rc.0)

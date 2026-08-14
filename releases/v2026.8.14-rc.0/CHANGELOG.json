@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:44:43.834843613Z",
+  "release_date": "2026-08-14T20:44:59.622769944Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -863,6 +863,56 @@
             {
               "SHA": "e1c81c10",
               "Subject": "Prepare for release v0.8.0-rc.0 (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "69b2974c",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#154)"
+            },
+            {
+              "SHA": "8d7aa943",
+              "Subject": "Add Management AppBinding (#152)"
+            },
+            {
+              "SHA": "68f62a51",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#153)"
+            },
+            {
+              "SHA": "e4fe45ba",
+              "Subject": "log fixed (#151)"
+            },
+            {
+              "SHA": "39ce0108",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#150)"
+            },
+            {
+              "SHA": "f83d3abd",
+              "Subject": "Use shared monitor and appbinding packages (#149)"
+            },
+            {
+              "SHA": "ed7a49d4",
+              "Subject": "Add virtual secret support (#134)"
+            },
+            {
+              "SHA": "7a7d559a",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "91a1006f",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#135)"
+            },
+            {
+              "SHA": "a9bc44a5",
+              "Subject": "Move deletion logic to apimachinery (#148)"
             }
           ]
         }

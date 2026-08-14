@@ -438,6 +438,23 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.22.0-rc.0)
+
+- [69b2974c](https://github.com/kubedb/rabbitmq/commit/69b2974c) Prepare for release v0.22.0-rc.0 (#154)
+- [8d7aa943](https://github.com/kubedb/rabbitmq/commit/8d7aa943) Add Management AppBinding (#152)
+- [68f62a51](https://github.com/kubedb/rabbitmq/commit/68f62a51) Prepare for release v0.21.0-rc.0 (#153)
+- [e4fe45ba](https://github.com/kubedb/rabbitmq/commit/e4fe45ba) log fixed (#151)
+- [39ce0108](https://github.com/kubedb/rabbitmq/commit/39ce0108) Use shared pkg/controller/secret for auth secret (#150)
+- [f83d3abd](https://github.com/kubedb/rabbitmq/commit/f83d3abd) Use shared monitor and appbinding packages (#149)
+- [ed7a49d4](https://github.com/kubedb/rabbitmq/commit/ed7a49d4) Add virtual secret support (#134)
+- [7a7d559a](https://github.com/kubedb/rabbitmq/commit/7a7d559a) Set default resource limits before patching petset in vertical scaling
+- [91a1006f](https://github.com/kubedb/rabbitmq/commit/91a1006f) Honor user-provided renewBefore in TLS certificate ops (#135)
+- [a9bc44a5](https://github.com/kubedb/rabbitmq/commit/a9bc44a5) Move deletion logic to apimachinery (#148)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.60.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.60.0-rc.0)

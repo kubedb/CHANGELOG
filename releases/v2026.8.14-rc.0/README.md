@@ -75,6 +75,14 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.13.0-rc.0](https://github.com/kubedb/hazelcast/releases/tag/v0.13.0-rc.0)
+
+- [654af89f](https://github.com/kubedb/hazelcast/commit/654af89f) Prepare for release v0.13.0-rc.0 (#66)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.14.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.14.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:44:24.70551016Z",
+  "release_date": "2026-08-14T20:44:34.761611618Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -222,6 +222,20 @@
             {
               "SHA": "b678cf7a",
               "Subject": "Prepare for release v0.8.0-rc.0 (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "008bb749",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#22)"
             }
           ]
         }

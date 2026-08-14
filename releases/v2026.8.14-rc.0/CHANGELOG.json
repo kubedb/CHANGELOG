@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:31:36.434103528Z",
+  "release_date": "2026-08-14T20:32:26.807631646Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -204,6 +204,24 @@
             {
               "SHA": "85fee4d",
               "Subject": "Fix restore script path file permission issue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.67.0-rc.0",
+          "commits": [
+            {
+              "SHA": "42d193289",
+              "Subject": "Prepare for release v0.67.0-rc.0 (#927)"
+            },
+            {
+              "SHA": "32b03ab18",
+              "Subject": "Generate auth-secret passwords with a symbol class (#925)"
             }
           ]
         }

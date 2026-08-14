@@ -106,6 +106,15 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.67.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.67.0-rc.0)
+
+- [42d19328](https://github.com/kubedb/postgres/commit/42d193289) Prepare for release v0.67.0-rc.0 (#927)
+- [32b03ab1](https://github.com/kubedb/postgres/commit/32b03ab18) Generate auth-secret passwords with a symbol class (#925)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.28.0-rc.0)

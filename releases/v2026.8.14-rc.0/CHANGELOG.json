@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:36:25.938426582Z",
+  "release_date": "2026-08-14T20:38:02.027264182Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -134,6 +134,20 @@
             {
               "SHA": "b678cf7a",
               "Subject": "Prepare for release v0.8.0-rc.0 (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.38.0-rc.0",
+          "commits": [
+            {
+              "SHA": "84c08626",
+              "Subject": "Prepare for release v0.38.0-rc.0 (#218)"
             }
           ]
         }

@@ -75,6 +75,21 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/ignite/releases/tag/v0.14.0-rc.0)
+
+- [053b6b4c](https://github.com/kubedb/ignite/commit/053b6b4c) Prepare for release v0.14.0-rc.0 (#72)
+- [9c019938](https://github.com/kubedb/ignite/commit/9c019938) Prepare for release v0.13.0-rc.0 (#71)
+- [bf57aef8](https://github.com/kubedb/ignite/commit/bf57aef8) Migrate auth/keystore secret management to shared apimachinery pkg (#70)
+- [5e7d5e13](https://github.com/kubedb/ignite/commit/5e7d5e13) Add virtual secret support (#55)
+- [ea1d0e17](https://github.com/kubedb/ignite/commit/ea1d0e17) Use shared monitor and appbinding packages (#69)
+- [140b6332](https://github.com/kubedb/ignite/commit/140b6332) Set default resource limits before patching petset in vertical scaling
+- [d8aee1f0](https://github.com/kubedb/ignite/commit/d8aee1f0) Honor user-provided renewBefore in TLS certificate ops (#56)
+- [8d071a7a](https://github.com/kubedb/ignite/commit/8d071a7a) Move deletion logic to apimachinery (#68)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.38.0-rc.0](https://github.com/kubedb/kafka/releases/tag/v0.38.0-rc.0)

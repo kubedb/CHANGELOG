@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:39:02.545995593Z",
+  "release_date": "2026-08-14T20:39:13.746444687Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -134,6 +134,48 @@
             {
               "SHA": "b678cf7a",
               "Subject": "Prepare for release v0.8.0-rc.0 (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "053b6b4c",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "9c019938",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#71)"
+            },
+            {
+              "SHA": "bf57aef8",
+              "Subject": "Migrate auth/keystore secret management to shared apimachinery pkg (#70)"
+            },
+            {
+              "SHA": "5e7d5e13",
+              "Subject": "Add virtual secret support (#55)"
+            },
+            {
+              "SHA": "ea1d0e17",
+              "Subject": "Use shared monitor and appbinding packages (#69)"
+            },
+            {
+              "SHA": "140b6332",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "d8aee1f0",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#56)"
+            },
+            {
+              "SHA": "8d071a7a",
+              "Subject": "Move deletion logic to apimachinery (#68)"
             }
           ]
         }

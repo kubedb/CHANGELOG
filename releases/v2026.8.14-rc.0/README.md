@@ -125,6 +125,14 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.15.0-rc.0](https://github.com/kubedb/gitops/releases/tag/v0.15.0-rc.0)
+
+- [a77ddade](https://github.com/kubedb/gitops/commit/a77ddade) Prepare for release v0.15.0-rc.0 (#90)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.8.0-rc.0)

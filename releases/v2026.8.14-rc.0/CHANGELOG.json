@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:45:19.992590968Z",
+  "release_date": "2026-08-14T20:45:58.433660992Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -244,6 +244,20 @@
             {
               "SHA": "542bd21b",
               "Subject": "Add Virtual Secret Support (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a77ddade",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#90)"
             }
           ]
         }

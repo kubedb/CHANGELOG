@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T19:47:17.800008616Z",
+  "release_date": "2026-08-14T19:52:29.378523627Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -32,6 +32,20 @@
             {
               "SHA": "e1df5a00",
               "Subject": "Auto-enable dependency feature gates before CRD setup (#150)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "784f6a68",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#260)"
             }
           ]
         }

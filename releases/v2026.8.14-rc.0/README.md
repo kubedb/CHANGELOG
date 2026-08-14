@@ -139,6 +139,14 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.45.0-rc.0)
+
+- [cdf83626](https://github.com/kubedb/mysql-coordinator/commit/cdf83626) Prepare for release v0.45.0-rc.0 (#191)
+
+
+
 ## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.28.0-rc.0)

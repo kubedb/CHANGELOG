@@ -80,6 +80,14 @@
 
 
 
+## [kubedb/migrator](https://github.com/kubedb/migrator)
+
+### [v0.7.0-rc.0](https://github.com/kubedb/migrator/releases/tag/v0.7.0-rc.0)
+
+- [72b69108](https://github.com/kubedb/migrator/commit/72b69108) Prepare for release v0.7.0-rc.0 (#49)
+
+
+
 ## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.3.0-rc.0)

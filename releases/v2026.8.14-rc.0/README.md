@@ -249,6 +249,14 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.21.0-rc.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.21.0-rc.0)
+
+- [d48e439](https://github.com/kubedb/mssqlserver-archiver/commit/d48e439) Prepare for release v0.21.0-rc.0 (#35)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.21.0-rc.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.21.0-rc.0)

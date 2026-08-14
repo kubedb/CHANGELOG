@@ -437,6 +437,14 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.25.0-rc.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.25.0-rc.0)
+
+- [914e097c](https://github.com/kubedb/singlestore-restic-plugin/commit/914e097c) Prepare for release v0.25.0-rc.0 (#95)
+
+
+
 ## [kubedb/solr](https://github.com/kubedb/solr)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.22.0-rc.0)

@@ -26,6 +26,19 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.61.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.61.0-rc.0)
+
+- [9b7f7b39](https://github.com/kubedb/memcached/commit/9b7f7b39d) Prepare for release v0.61.0-rc.0 (#554)
+- [9e229413](https://github.com/kubedb/memcached/commit/9e2294132) Prepare for release v0.59.0-rc.0 (#553)
+- [c187ceef](https://github.com/kubedb/memcached/commit/c187ceef4) Add virtual secret support (#540)
+- [cca8107f](https://github.com/kubedb/memcached/commit/cca8107f0) Use shared monitor and appbinding packages (#552)
+- [5737e69b](https://github.com/kubedb/memcached/commit/5737e69b5) Set default resource limits before patching petset in vertical scaling
+- [e64d9c6f](https://github.com/kubedb/memcached/commit/e64d9c6f8) Move deletion logic to apimachinery (#551)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.28.0-rc.0)

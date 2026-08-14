@@ -203,6 +203,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.45.0-rc.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.45.0-rc.0)
+
+- [f335f57](https://github.com/kubedb/mysql-router-init/commit/f335f57) Prepare for release v0.45.0-rc.0 (#69)
+
+
+
 ## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.3.0-rc.0)

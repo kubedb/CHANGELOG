@@ -127,6 +127,14 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/solr/releases/tag/v0.22.0-rc.0)
+
+- [df17e445](https://github.com/kubedb/solr/commit/df17e445) Prepare for release v0.22.0-rc.0 (#156)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.52.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.52.0-rc.0)

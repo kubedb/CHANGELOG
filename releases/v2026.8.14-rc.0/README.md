@@ -381,6 +381,14 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.8.0-rc.0)
+
+- [e1c81c10](https://github.com/kubedb/qdrant/commit/e1c81c10) Prepare for release v0.8.0-rc.0 (#60)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.60.0-rc.0](https://github.com/kubedb/redis/releases/tag/v0.60.0-rc.0)

@@ -97,6 +97,13 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.28.0-rc.0)
+
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.15.0-rc.0)

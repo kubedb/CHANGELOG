@@ -8,3 +8,13 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.22.0-rc.0)
+
+- [0c07ded1](https://github.com/kubedb/crd-manager/commit/0c07ded1) Prepare for release v0.22.0-rc.0 (#151)
+- [4934fa38](https://github.com/kubedb/crd-manager/commit/4934fa38) Tolerate missing CRD when deleting unused db CRDs
+- [e1df5a00](https://github.com/kubedb/crd-manager/commit/e1df5a00) Auto-enable dependency feature gates before CRD setup (#150)
+
+
+

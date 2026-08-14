@@ -112,6 +112,15 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.28.0-rc.0)
+
+- [4f2b4470](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/4f2b4470) Prepare for release v0.28.0-rc.0 (#87)
+- [72e86946](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/72e86946) Prepare for release v0.27.0-rc.0 (#85)
+
+
+
 ## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.3.0-rc.0)

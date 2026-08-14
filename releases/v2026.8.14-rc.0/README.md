@@ -8,6 +8,14 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.20.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.20.0-rc.0)
+
+- [7638b232](https://github.com/kubedb/cassandra/commit/7638b232) Prepare for release v0.20.0-rc.0 (#104)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.14.0-rc.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.14.0-rc.0)

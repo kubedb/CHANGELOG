@@ -1,0 +1,1536 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.8.12-rc.0",
+  "release_date": "2026-08-12T18:22:02.488480328Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.8.12-rc.0",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/aerospike",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "45481d49",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#12)"
+            },
+            {
+              "SHA": "81fe47b5",
+              "Subject": "Config merging (#11)"
+            },
+            {
+              "SHA": "1c54e254",
+              "Subject": "Use shared appbinding helper and record event (#10)"
+            },
+            {
+              "SHA": "22a19d44",
+              "Subject": "Add appbinding (#9)"
+            },
+            {
+              "SHA": "408f2a83",
+              "Subject": "Fix Health check (#4)"
+            },
+            {
+              "SHA": "1c47f5b1",
+              "Subject": "Move deletion logic to apimachinery (#8)"
+            },
+            {
+              "SHA": "615dd307",
+              "Subject": "Upgrade aerospike-client-go v6 -> v8 (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.66.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e5b9582cc",
+              "Subject": "Merge branch 'master' into release-0.66"
+            },
+            {
+              "SHA": "24131c2c1",
+              "Subject": "Update for release KubeStash@v2026.8.12-rc.0 (#1860)"
+            },
+            {
+              "SHA": "93c137821",
+              "Subject": "documentdb mututaltls-ops (#1857)"
+            },
+            {
+              "SHA": "58cafb3ba",
+              "Subject": "Patch spec.authSecret without clobbering the caller's DB object (#1853)"
+            },
+            {
+              "SHA": "697642824",
+              "Subject": "Documentdb tls & reconfiguretls (#1851)"
+            },
+            {
+              "SHA": "b9e9a7629",
+              "Subject": "Bump grpc and related dependencies (#1856)"
+            },
+            {
+              "SHA": "58ee30148",
+              "Subject": "Add ClickHouse Keeper Ops-Req (#1835)"
+            },
+            {
+              "SHA": "afd2eb590",
+              "Subject": "Extend Solr Reconfigure Ops for Backup (#1841)"
+            },
+            {
+              "SHA": "02fbd4e5f",
+              "Subject": "Add HanaDB horizontal scaling and update version ops api (#1803)"
+            },
+            {
+              "SHA": "87057a239",
+              "Subject": "prevent Neo4j cross-scheme version upgrades (#1852)"
+            },
+            {
+              "SHA": "69a6f2135",
+              "Subject": "Improve Branch status information and create generic branch annotations (#1840)"
+            },
+            {
+              "SHA": "e7db69325",
+              "Subject": "Make ui.kubedb.com DatabaseConfiguration namespaced and get/list-able (#1849)"
+            },
+            {
+              "SHA": "450194532",
+              "Subject": "Add Milvus Minio Port Constants (#1845)"
+            },
+            {
+              "SHA": "4aac2b8c4",
+              "Subject": "add reconfigureSpec.WalletConfigSecret check in webhook (#1848)"
+            },
+            {
+              "SHA": "99e5f4bb5",
+              "Subject": "[MySQL] Topology Mode Change (#1844)"
+            },
+            {
+              "SHA": "c1c4d4268",
+              "Subject": "Fix druid svcNames & ports for gateway (#1843)"
+            },
+            {
+              "SHA": "9bfcfcf94",
+              "Subject": "Add Postgres Transparent Data Encryption (pg_tde) API (#1831)"
+            },
+            {
+              "SHA": "1a21cba4a",
+              "Subject": "Make MongoDB probes tolerate mongosh stdout warnings (#1846)"
+            },
+            {
+              "SHA": "243e61d23",
+              "Subject": "Remove postgres-dependent validations from pgpool webhook"
+            },
+            {
+              "SHA": "fd1d8ae01",
+              "Subject": "Remove postgres-dependent validations from pgpool webhook"
+            },
+            {
+              "SHA": "58b803ebe",
+              "Subject": "Remove pg-validation from pgpool"
+            },
+            {
+              "SHA": "104ef5739",
+              "Subject": "Remove pg-validation from pgpool"
+            },
+            {
+              "SHA": "4a5dafc75",
+              "Subject": "Added SkipBackupPauseAnnotation constant (#1842)"
+            },
+            {
+              "SHA": "b0a89cbd0",
+              "Subject": "Add shared pkg/controller/secret auth-secret orchestrator (#1839)"
+            },
+            {
+              "SHA": "7cbfa8c75",
+              "Subject": "Add weaviate update version ops api (#1837)"
+            },
+            {
+              "SHA": "62501c6a8",
+              "Subject": "Elasticsearch Virtual Secret Fix (#1815)"
+            },
+            {
+              "SHA": "da69e33e3",
+              "Subject": "Add shared monitor & appbinding packages (#1834)"
+            },
+            {
+              "SHA": "861df6898",
+              "Subject": "deletion: preserve-on-halt annotation, DoNotTerminate safety net, finalizer NotFound handling (#1833)"
+            },
+            {
+              "SHA": "21556766c",
+              "Subject": "Add default RunAsGroup to container security context (#1829)"
+            },
+            {
+              "SHA": "90d0d0c4f",
+              "Subject": "Add Virtual Secret Schema (#1828)"
+            },
+            {
+              "SHA": "e5417274b",
+              "Subject": "Add shared pkg/controllers/deletion and normalize DB accessors (#1830)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.19.0-rc.0",
+          "commits": [
+            {
+              "SHA": "75d76a66",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#103)"
+            },
+            {
+              "SHA": "2c731155",
+              "Subject": "Use shared pkg/controller/secret for auth & keystore-cred secrets (#102)"
+            },
+            {
+              "SHA": "f57d0a7e",
+              "Subject": "Add virtual secret support (#83)"
+            },
+            {
+              "SHA": "cf4a2ef4",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#101)"
+            },
+            {
+              "SHA": "5b321447",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#99)"
+            },
+            {
+              "SHA": "ecb67ef2",
+              "Subject": "Move deletion logic to apimachinery (#100)"
+            },
+            {
+              "SHA": "cd89e8bf",
+              "Subject": "Merge pull request #98 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cf0be0bd",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#133)"
+            },
+            {
+              "SHA": "1d1d2efc",
+              "Subject": "Migrate auth-secret and internal-token management to shared secret package (#130)"
+            },
+            {
+              "SHA": "361d2755",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#129)"
+            },
+            {
+              "SHA": "51d6f1c3",
+              "Subject": "Add virtual secret support (#108)"
+            },
+            {
+              "SHA": "68fd5fea",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#126)"
+            },
+            {
+              "SHA": "b845cd26",
+              "Subject": "Move deletion logic to apimachinery (#127)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6ba7e0f6",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#149)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "7c17ffc1",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#259)"
+            },
+            {
+              "SHA": "592d1ff9",
+              "Subject": "Update Solr Client (#256)"
+            },
+            {
+              "SHA": "a5525a6e",
+              "Subject": "lower connect log visibility by changing klog V(3) to V(4) (#258)"
+            },
+            {
+              "SHA": "55c58b66",
+              "Subject": "Fix DNS issue for down scaling (#257)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "be3f3b37",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "ccf20e02",
+              "Subject": "Migrate auth secret management to shared apimachinery secret package (#37)"
+            },
+            {
+              "SHA": "4f924680",
+              "Subject": "Add virtual secret support (#26)"
+            },
+            {
+              "SHA": "87f6518b",
+              "Subject": "Move deletion logic to apimachinery (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2-coordinator",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ac3486b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "59ecdd3d",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#46)"
+            },
+            {
+              "SHA": "fa5afd65",
+              "Subject": "Dcdb tls & reconfiguretls (#45)"
+            },
+            {
+              "SHA": "0ed43723",
+              "Subject": "Add tuning config support to Reconfigure and VerticalScaling ops requests (#26)"
+            },
+            {
+              "SHA": "efab7987",
+              "Subject": "standalone-rotateauth (#43)"
+            },
+            {
+              "SHA": "0d8d872b",
+              "Subject": "Adopt shared apimachinery secret package for auth secret (#44)"
+            },
+            {
+              "SHA": "7253e091",
+              "Subject": "Adopt shared appbinding package from apimachinery (#42)"
+            },
+            {
+              "SHA": "9876d3cc",
+              "Subject": "Move deletion logic to apimachinery (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d78d225",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#11)"
+            },
+            {
+              "SHA": "1a762f1",
+              "Subject": "Merge pull request #10 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.66.0-rc.0",
+          "commits": [
+            {
+              "SHA": "20095d87a",
+              "Subject": "Prepare for release v0.66.0-rc.0 (#832)"
+            },
+            {
+              "SHA": "32668c8f3",
+              "Subject": "Migrate auth secret handling to shared apimachinery secret package (#831)"
+            },
+            {
+              "SHA": "ca2f2988d",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#830)"
+            },
+            {
+              "SHA": "62ec18929",
+              "Subject": "Add virtual secret support (#813)"
+            },
+            {
+              "SHA": "14fab5c77",
+              "Subject": "Move deletion logic to apimachinery (#829)"
+            },
+            {
+              "SHA": "50d3e6b3e",
+              "Subject": "Merge pull request #828 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c0f20f15",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#89)"
+            },
+            {
+              "SHA": "492a5dda",
+              "Subject": "[Solr] Fix Solr API (#88)"
+            },
+            {
+              "SHA": "2aee9ab8",
+              "Subject": "Add Virtual Secret Support (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2791d997",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "d3fdd8a8",
+              "Subject": "Implement horizontal scaling, update version ops (#47)"
+            },
+            {
+              "SHA": "e5bbe114",
+              "Subject": "Fix HanaDB ops and volume permission handling (#49)"
+            },
+            {
+              "SHA": "dba6048b",
+              "Subject": "Add virtual secret support (#40)"
+            },
+            {
+              "SHA": "4b038da8",
+              "Subject": "Adopt shared apimachinery secret package for auth secret handling (#56)"
+            },
+            {
+              "SHA": "25b8aa29",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#55)"
+            },
+            {
+              "SHA": "916a4696",
+              "Subject": "Move deletion logic to apimachinery (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "8185142d",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "35ebce41",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#65)"
+            },
+            {
+              "SHA": "ad3bf0c5",
+              "Subject": "Migrate auth-secret management to shared apimachinery secret package (#64)"
+            },
+            {
+              "SHA": "e36af849",
+              "Subject": "Add virtual secret support (#47)"
+            },
+            {
+              "SHA": "5b1409ef",
+              "Subject": "Add StorageMigration OpsRequest support for Hazelcast (#45)"
+            },
+            {
+              "SHA": "a9a6cd5b",
+              "Subject": "Use shared monitor and appbinding packages (#63)"
+            },
+            {
+              "SHA": "85d20938",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "136b30e8",
+              "Subject": "Move deletion logic to apimachinery (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.37.0-rc.0",
+          "commits": [
+            {
+              "SHA": "28856e2e",
+              "Subject": "Prepare for release v0.37.0-rc.0 (#217)"
+            },
+            {
+              "SHA": "189fe261",
+              "Subject": "Migrate kafka-cluster and connect-cluster auth secrets to shared secret package (#216)"
+            },
+            {
+              "SHA": "c5ad9ccc",
+              "Subject": "Use shared monitor and appbinding packages (#215)"
+            },
+            {
+              "SHA": "c435a470",
+              "Subject": "Add virtual secret support (#197)"
+            },
+            {
+              "SHA": "61481399",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "899e74ab",
+              "Subject": "Move deletion logic to apimachinery (#214)"
+            },
+            {
+              "SHA": "86fa0034",
+              "Subject": "Merge pull request #212 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "cd4c5601",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#141)"
+            },
+            {
+              "SHA": "3fd5160f",
+              "Subject": "Add Virtual Secret Support (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.17.0-rc.0",
+          "commits": [
+            {
+              "SHA": "76948c76",
+              "Subject": "Prepare for release v0.17.0-rc.0 (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.50.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9e28da965",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#426)"
+            },
+            {
+              "SHA": "b2d3e8c51",
+              "Subject": "Fail the OpsRequest when a step exceeds its timeout (#425)"
+            },
+            {
+              "SHA": "e5a2ea1ea",
+              "Subject": "Migrate auth-secret handling to shared apimachinery secret package (#424)"
+            },
+            {
+              "SHA": "9f0384d04",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#423)"
+            },
+            {
+              "SHA": "b50b19c8a",
+              "Subject": "Add virtual secret support (#403)"
+            },
+            {
+              "SHA": "ae727436b",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#421)"
+            },
+            {
+              "SHA": "43aaf0a21",
+              "Subject": "Move deletion logic to apimachinery (#422)"
+            },
+            {
+              "SHA": "d47908bb4",
+              "Subject": "Merge pull request #420 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.26.0-rc.0",
+          "commits": [
+            {
+              "SHA": "97664701",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#100)"
+            },
+            {
+              "SHA": "e94155d5",
+              "Subject": "Merge pull request #99 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.46.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4772461d",
+              "Subject": "Prepare for release v0.46.0-rc.0 (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "69621d76",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#101)"
+            },
+            {
+              "SHA": "c3998c88",
+              "Subject": "FIx 10.6.16 backup tls issue (#100)"
+            },
+            {
+              "SHA": "f3f205c1",
+              "Subject": "Add Virtual Secret Support (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator",
+      "releases": [
+        {
+          "tag": "v0.6.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e9d330c6",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#48)"
+            },
+            {
+              "SHA": "9ccfbe83",
+              "Subject": "Fix mssql snapshot tds eof retry (#47)"
+            },
+            {
+              "SHA": "a5b1a307",
+              "Subject": "Update postgres sequence value when migration stops (#46)"
+            },
+            {
+              "SHA": "91bfb3ac",
+              "Subject": "Fixed release issue,waited for inital lsn for cdc"
+            },
+            {
+              "SHA": "d9bf2272",
+              "Subject": "Add non root user in every docker file (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.59.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2af7c3d87",
+              "Subject": "Prepare for release v0.59.0-rc.0 (#782)"
+            },
+            {
+              "SHA": "a3753bece",
+              "Subject": "Use shared pkg/controller/secret for auth & keyfile secrets (#781)"
+            },
+            {
+              "SHA": "620d27631",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#780)"
+            },
+            {
+              "SHA": "59977bef8",
+              "Subject": "Virtual Secret Ops Support (#779)"
+            },
+            {
+              "SHA": "91595b9ad",
+              "Subject": "Use shared pkg/controller/deletion for termination and halt (#778)"
+            },
+            {
+              "SHA": "149979774",
+              "Subject": "Merge pull request #777 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b2684818",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#89)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ba50bd65",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#136)"
+            },
+            {
+              "SHA": "802a7051",
+              "Subject": "Add Virtual Secret Support (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5fc9453",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4b43a1c5",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "12f92505",
+              "Subject": "Integrate virtual secret (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c1cd7cf5",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#190)"
+            },
+            {
+              "SHA": "54b35ec1",
+              "Subject": "Fix Join Cluster (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "78d689a8",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#122)"
+            },
+            {
+              "SHA": "c863d090",
+              "Subject": "Fix --ssl-ca being silently dropped from the client command (#121)"
+            },
+            {
+              "SHA": "78790d48",
+              "Subject": "Add Virtual Secret Support (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-router-init",
+      "releases": [
+        {
+          "tag": "v0.44.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3d63a45",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6652df10",
+              "Subject": "Merge commit '372d285b4261d4b760062334d8eda695b773296e' into release-0.7"
+            },
+            {
+              "SHA": "372d285b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#60)"
+            },
+            {
+              "SHA": "4071b5f9",
+              "Subject": "Retag v0.7.0 for reconfigureTLS fix (#59)"
+            },
+            {
+              "SHA": "b77228b2",
+              "Subject": "Add Neo4j SemVer Support (#58)"
+            },
+            {
+              "SHA": "68bf9055",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#57)"
+            },
+            {
+              "SHA": "d7e6539c",
+              "Subject": "Use shared monitor and appbinding packages (#56)"
+            },
+            {
+              "SHA": "ad9c2b06",
+              "Subject": "Add virtual secret support (#35)"
+            },
+            {
+              "SHA": "3c7142e1",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#54)"
+            },
+            {
+              "SHA": "d670768b",
+              "Subject": "Move deletion logic to apimachinery (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b6daf30",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.12.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c99cd856",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#81)"
+            },
+            {
+              "SHA": "3a9a9961",
+              "Subject": "remove extra Error logs (#80)"
+            },
+            {
+              "SHA": "42b512c6",
+              "Subject": "Observer-image-pull-error-fix (#77)"
+            },
+            {
+              "SHA": "84e43918",
+              "Subject": "Fix reconfigure wallet (#63)"
+            },
+            {
+              "SHA": "b8b77661",
+              "Subject": "solve multiple image pull secret, handle remove tls (#72)"
+            },
+            {
+              "SHA": "f6bb8508",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#76)"
+            },
+            {
+              "SHA": "5ec9da67",
+              "Subject": "Add virtual secret support (#53)"
+            },
+            {
+              "SHA": "5199a198",
+              "Subject": "Use shared monitor and appbinding packages (#75)"
+            },
+            {
+              "SHA": "1b447602",
+              "Subject": "feat: implement git-sync init container for Oracle (#55)"
+            },
+            {
+              "SHA": "ed013630",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#73)"
+            },
+            {
+              "SHA": "b1819c65",
+              "Subject": "Move deletion logic to apimachinery (#74)"
+            },
+            {
+              "SHA": "d7753f7e",
+              "Subject": "Merge pull request #70 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c9b14d9d7",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#472)"
+            },
+            {
+              "SHA": "421e4a5c9",
+              "Subject": "Migrate auth-secret management to shared kubedb.dev/apimachinery secret package (#471)"
+            },
+            {
+              "SHA": "454eeb0b2",
+              "Subject": "Use shared monitor and appbinding packages (#470)"
+            },
+            {
+              "SHA": "ee1884631",
+              "Subject": "Add virtual secret support (#455)"
+            },
+            {
+              "SHA": "bb4bf36de",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#468)"
+            },
+            {
+              "SHA": "f42d4b388",
+              "Subject": "Move deletion logic to apimachinery (#469)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.39.0-rc.0",
+          "commits": [
+            {
+              "SHA": "62a3b59d",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.66.0-rc.0",
+          "commits": [
+            {
+              "SHA": "5da0b6b89",
+              "Subject": "Prepare for release v0.66.0-rc.0 (#924)"
+            },
+            {
+              "SHA": "0558f966d",
+              "Subject": "Wire pg_tde Transparent Data Encryption into Postgres (#917)"
+            },
+            {
+              "SHA": "e777c0a3a",
+              "Subject": "Add branched mode for KubeDB Courier Branch (kubedb.com/branched-from) (#912)"
+            },
+            {
+              "SHA": "cfa2def6a",
+              "Subject": "Add pg-coordinator support for remote replica pg_rewind and reinitialization (#908)"
+            },
+            {
+              "SHA": "4ee8265df",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#920)"
+            },
+            {
+              "SHA": "fb27a4957",
+              "Subject": "Migrate auth secret management to shared apimachinery secret package (#921)"
+            },
+            {
+              "SHA": "0e5a1ff5e",
+              "Subject": "Virtual Secret Ops Support (#918)"
+            },
+            {
+              "SHA": "6fc4c37ac",
+              "Subject": "feat: implement git-sync init container for Postgres (#892)"
+            },
+            {
+              "SHA": "2d465d864",
+              "Subject": "Move deletion logic to apimachinery (#919)"
+            },
+            {
+              "SHA": "eda65ceb5",
+              "Subject": "Merge pull request #915 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.27.0-rc.0",
+          "commits": [
+            {
+              "SHA": "9ee6f7aa",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#116)"
+            },
+            {
+              "SHA": "9b64fafc",
+              "Subject": "Build the postgres-archiver from the Percona image for 17.9-percona (pg_tde PITR) (#115)"
+            },
+            {
+              "SHA": "4d647cb7",
+              "Subject": "Merge pull request #114 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "fb1c5cd1",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#122)"
+            },
+            {
+              "SHA": "5620d3a1",
+              "Subject": "Add Percona pg_tde physical backup support (17.9-percona) (#119)"
+            },
+            {
+              "SHA": "c0ae4e7a",
+              "Subject": "Add Virtual Secret Support (#116)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c53cd81b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "7fcc9d7d",
+              "Subject": "Adopt shared monitor/appbinding packages (#58)"
+            },
+            {
+              "SHA": "d6fa13f6",
+              "Subject": "Add virtual secret support (#42)"
+            },
+            {
+              "SHA": "5adbcdf0",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#56)"
+            },
+            {
+              "SHA": "984a3bd7",
+              "Subject": "Move deletion logic to apimachinery (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.59.0-rc.0",
+          "commits": [
+            {
+              "SHA": "568642d99",
+              "Subject": "Prepare for release v0.59.0-rc.0 (#675)"
+            },
+            {
+              "SHA": "4479fd1b3",
+              "Subject": "ACL Custom secret add (#668)"
+            },
+            {
+              "SHA": "628b529db",
+              "Subject": "Adopt shared secret package from apimachinery (#674)"
+            },
+            {
+              "SHA": "cdf520da5",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#672)"
+            },
+            {
+              "SHA": "92957c097",
+              "Subject": "Virtual Secret Ops Support (#670)"
+            },
+            {
+              "SHA": "ce19a2589",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "11ca8d636",
+              "Subject": "Move deletion logic to apimachinery (#671)"
+            },
+            {
+              "SHA": "bbf192ddb",
+              "Subject": "Merge pull request #667 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c88db39d",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#167)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ab2ff427",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#114)"
+            },
+            {
+              "SHA": "9490bd22",
+              "Subject": "Add Virtual Secret Support (#111)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/replication-mode-detector",
+      "releases": [
+        {
+          "tag": "v0.53.0-rc.0",
+          "commits": [
+            {
+              "SHA": "2835220a",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#329)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1787b18b",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#143)"
+            },
+            {
+              "SHA": "d0ac823e",
+              "Subject": "Use shared apimachinery secret package (#142)"
+            },
+            {
+              "SHA": "264909c1",
+              "Subject": "Use shared monitor and appbinding packages (#141)"
+            },
+            {
+              "SHA": "7ff8879b",
+              "Subject": "Add virtual secret support (#123)"
+            },
+            {
+              "SHA": "ae4ba9ce",
+              "Subject": "Move deletion logic to apimachinery (#140)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "072b894d",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.24.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0e259058",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#94)"
+            },
+            {
+              "SHA": "67f1a95e",
+              "Subject": "Fix --ssl-ca being silently dropped from the client command (#93)"
+            },
+            {
+              "SHA": "f50bc94f",
+              "Subject": "Add Virtual Secret Support (#90)"
+            },
+            {
+              "SHA": "1fe1b17d",
+              "Subject": "Merge pull request #92 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "25754c5f",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#155)"
+            },
+            {
+              "SHA": "0afd2d73",
+              "Subject": "API fix [Unblock RC] (#154)"
+            },
+            {
+              "SHA": "32dfb2d9",
+              "Subject": "Adopt shared secret package from apimachinery (#152)"
+            },
+            {
+              "SHA": "22d3d42e",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#150)"
+            },
+            {
+              "SHA": "dbaaa4f9",
+              "Subject": "Add virtual secret support (#131)"
+            },
+            {
+              "SHA": "5f23c1f2",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#147)"
+            },
+            {
+              "SHA": "a0c4213c",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#146)"
+            },
+            {
+              "SHA": "cd576f42",
+              "Subject": "Move deletion logic to apimachinery (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/tests",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.0",
+          "commits": [
+            {
+              "SHA": "852fc45fe",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#551)"
+            },
+            {
+              "SHA": "ea820e351",
+              "Subject": "Add Postgres pg_tde (TDE) e2e coverage behind --enable-tde (#549)"
+            },
+            {
+              "SHA": "3cfb92a90",
+              "Subject": "Add MongoDB Archiver CI (#463)"
+            },
+            {
+              "SHA": "9a67cef0d",
+              "Subject": "Add E2E tests for Milvus (#530)"
+            },
+            {
+              "SHA": "3c2514059",
+              "Subject": "Add E2E tests for Weaviate (#534)"
+            },
+            {
+              "SHA": "3c6be199c",
+              "Subject": "Add E2E tests for SAP HANA (#527)"
+            },
+            {
+              "SHA": "298da3c29",
+              "Subject": "Add E2E tests for Ignite (#529)"
+            },
+            {
+              "SHA": "3953e6082",
+              "Subject": "MSSQL Secondary Access Mode (#483)"
+            },
+            {
+              "SHA": "c9d5734e8",
+              "Subject": "Add E2E tests for DB2 (#526)"
+            },
+            {
+              "SHA": "07c4c77c7",
+              "Subject": "Add E2E tests for Hazelcast (#528)"
+            },
+            {
+              "SHA": "e8ef8cb25",
+              "Subject": "Add Common changes (kubestash), Neo4j Disable Security (#548)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.0",
+          "commits": [
+            {
+              "SHA": "d445e431",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "c87d4ab5",
+              "Subject": "Add update-version ops (#56)"
+            },
+            {
+              "SHA": "73297e3d",
+              "Subject": "Use shared monitor and appbinding packages (#57)"
+            },
+            {
+              "SHA": "c0de6cde",
+              "Subject": "Add virtual secret support (#36)"
+            },
+            {
+              "SHA": "52ae615f",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#54)"
+            },
+            {
+              "SHA": "47f19de7",
+              "Subject": "Move deletion logic to apimachinery (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "0ea98fb8",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#62)"
+            },
+            {
+              "SHA": "f0b1e934",
+              "Subject": "Add Virtual Secret Support (#59)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1b6e46fa",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#139)"
+            },
+            {
+              "SHA": "fee971ca",
+              "Subject": "Adopt shared secret package from apimachinery (#138)"
+            },
+            {
+              "SHA": "6594c59e",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#137)"
+            },
+            {
+              "SHA": "ef611f33",
+              "Subject": "Add virtual secret support (#123)"
+            },
+            {
+              "SHA": "76c37064",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "d39eb3cd",
+              "Subject": "Move deletion logic to apimachinery (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.21.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c31c75e2",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#78)"
+            },
+            {
+              "SHA": "9f1474e8",
+              "Subject": "Add Virtual Secret Support (#75)"
+            },
+            {
+              "SHA": "f9a0c8f0",
+              "Subject": "Merge pull request #77 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

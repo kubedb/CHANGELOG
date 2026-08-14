@@ -41,6 +41,15 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/clickhouse/releases/tag/v0.22.0-rc.0)
+
+- [c75721ce](https://github.com/kubedb/clickhouse/commit/c75721ce) Prepare for release v0.22.0-rc.0 (#134)
+- [40fc5e4e](https://github.com/kubedb/clickhouse/commit/40fc5e4e) Add ClickHouseKeeper Ops Support (#128)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.22.0-rc.0)

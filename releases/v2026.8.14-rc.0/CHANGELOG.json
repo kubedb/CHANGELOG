@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:46:07.522819845Z",
+  "release_date": "2026-08-14T20:46:19.104689973Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -70,6 +70,24 @@
             {
               "SHA": "ef5de5ad6",
               "Subject": "Prepare for release v0.67.0-rc.0 (#840)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "c75721ce",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#134)"
+            },
+            {
+              "SHA": "40fc5e4e",
+              "Subject": "Add ClickHouseKeeper Ops Support (#128)"
             }
           ]
         }

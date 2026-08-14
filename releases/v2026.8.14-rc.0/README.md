@@ -47,6 +47,16 @@
 
 
 
+## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.3.0-rc.0)
+
+- [334ac63](https://github.com/kubedb/neo4j-backup-plugin/commit/334ac63) Prepare for release v0.3.0-rc.0 (#13)
+- [c6a9b6a](https://github.com/kubedb/neo4j-backup-plugin/commit/c6a9b6a) Merge pull request #12 from kubedb/fix-restore-script-path
+- [85fee4d](https://github.com/kubedb/neo4j-backup-plugin/commit/85fee4d) Fix restore script path file permission issue.
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.28.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.28.0-rc.0)

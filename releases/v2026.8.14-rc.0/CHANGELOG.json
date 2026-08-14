@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:14:11.301874281Z",
+  "release_date": "2026-08-14T20:14:19.540595066Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -94,6 +94,28 @@
             {
               "SHA": "e64d9c6f8",
               "Subject": "Move deletion logic to apimachinery (#551)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "334ac63",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "c6a9b6a",
+              "Subject": "Merge pull request #12 from kubedb/fix-restore-script-path"
+            },
+            {
+              "SHA": "85fee4d",
+              "Subject": "Fix restore script path file permission issue."
             }
           ]
         }

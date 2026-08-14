@@ -144,6 +144,15 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.25.0-rc.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.25.0-rc.0)
+
+- [de4e7af5](https://github.com/kubedb/mariadb-restic-plugin/commit/de4e7af5) Prepare for release v0.25.0-rc.0 (#102)
+- [69621d76](https://github.com/kubedb/mariadb-restic-plugin/commit/69621d76) Prepare for release v0.24.0-rc.0 (#101)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.61.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.61.0-rc.0)

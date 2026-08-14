@@ -51,6 +51,14 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.8.0-rc.0)
+
+- [b678cf7a](https://github.com/kubedb/hanadb/commit/b678cf7a) Prepare for release v0.8.0-rc.0 (#59)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.18.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.18.0-rc.0)

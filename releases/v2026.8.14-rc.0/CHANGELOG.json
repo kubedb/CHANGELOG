@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:41:52.524006918Z",
+  "release_date": "2026-08-14T20:42:36.646042734Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -194,6 +194,20 @@
             {
               "SHA": "0a1e5aac",
               "Subject": "Move deletion logic to apimachinery (#149)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.67.0-rc.0",
+          "commits": [
+            {
+              "SHA": "566ae07c7",
+              "Subject": "Prepare for release v0.67.0-rc.0 (#833)"
             }
           ]
         }

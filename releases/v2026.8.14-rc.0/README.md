@@ -99,6 +99,14 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.67.0-rc.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.67.0-rc.0)
+
+- [566ae07c](https://github.com/kubedb/elasticsearch/commit/566ae07c7) Prepare for release v0.67.0-rc.0 (#833)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.8.0-rc.0)

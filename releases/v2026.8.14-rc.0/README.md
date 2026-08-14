@@ -67,6 +67,20 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/druid/releases/tag/v0.22.0-rc.0)
+
+- [b9ad65ca](https://github.com/kubedb/druid/commit/b9ad65ca) Prepare for release v0.22.0-rc.0 (#153)
+- [14081e59](https://github.com/kubedb/druid/commit/14081e59) Prepare for release v0.21.0-rc.0 (#152)
+- [91905bb4](https://github.com/kubedb/druid/commit/91905bb4) Migrate to shared auth-secret package (#151)
+- [3d9469d6](https://github.com/kubedb/druid/commit/3d9469d6) Adopt shared monitor/appbinding packages from apimachinery (#150)
+- [247bfac0](https://github.com/kubedb/druid/commit/247bfac0) Add virtual secret support (#133)
+- [7abb51db](https://github.com/kubedb/druid/commit/7abb51db) Set default resource limits before patching petset in vertical scaling (#148)
+- [0a1e5aac](https://github.com/kubedb/druid/commit/0a1e5aac) Move deletion logic to apimachinery (#149)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.8.0-rc.0)

@@ -55,3 +55,11 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.22.0-rc.0)
+
+- [b6b631e9](https://github.com/kubedb/zookeeper/commit/b6b631e9) Prepare for release v0.22.0-rc.0 (#140)
+
+
+

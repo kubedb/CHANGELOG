@@ -59,6 +59,14 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.27.0-rc.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.27.0-rc.0)
+
+- [2065feca](https://github.com/kubedb/mariadb-archiver/commit/2065feca) Prepare for release v0.27.0-rc.0 (#101)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.61.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.61.0-rc.0)

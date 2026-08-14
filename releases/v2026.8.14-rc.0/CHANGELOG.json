@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:41:42.750920038Z",
+  "release_date": "2026-08-14T20:41:52.524006918Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -400,6 +400,48 @@
             {
               "SHA": "72b69108",
               "Subject": "Prepare for release v0.7.0-rc.0 (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4edc3864",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#63)"
+            },
+            {
+              "SHA": "1b216221",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#62)"
+            },
+            {
+              "SHA": "4fe1caf8",
+              "Subject": "Fix Milvus Minio Secret Bug (#61)"
+            },
+            {
+              "SHA": "fb200646",
+              "Subject": "Migrate to shared apimachinery secret package (#60)"
+            },
+            {
+              "SHA": "f57a329e",
+              "Subject": "Use shared monitor and appbinding packages (#59)"
+            },
+            {
+              "SHA": "c0190f3e",
+              "Subject": "Add virtual secret support (#38)"
+            },
+            {
+              "SHA": "c7794778",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "db076099",
+              "Subject": "Move deletion logic to apimachinery (#57)"
             }
           ]
         }

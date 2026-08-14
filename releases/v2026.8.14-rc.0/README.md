@@ -200,6 +200,21 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/milvus/releases/tag/v0.8.0-rc.0)
+
+- [4edc3864](https://github.com/kubedb/milvus/commit/4edc3864) Prepare for release v0.8.0-rc.0 (#63)
+- [1b216221](https://github.com/kubedb/milvus/commit/1b216221) Prepare for release v0.7.0-rc.0 (#62)
+- [4fe1caf8](https://github.com/kubedb/milvus/commit/4fe1caf8) Fix Milvus Minio Secret Bug (#61)
+- [fb200646](https://github.com/kubedb/milvus/commit/fb200646) Migrate to shared apimachinery secret package (#60)
+- [f57a329e](https://github.com/kubedb/milvus/commit/f57a329e) Use shared monitor and appbinding packages (#59)
+- [c0190f3e](https://github.com/kubedb/milvus/commit/c0190f3e) Add virtual secret support (#38)
+- [c7794778](https://github.com/kubedb/milvus/commit/c7794778) Set default resource limits before patching petset in vertical scaling
+- [db076099](https://github.com/kubedb/milvus/commit/db076099) Move deletion logic to apimachinery (#57)
+
+
+
 ## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
 
 ### [v0.30.0-rc.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.30.0-rc.0)

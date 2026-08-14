@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:35:39.956176559Z",
+  "release_date": "2026-08-14T20:36:16.768741214Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -42,6 +42,20 @@
             {
               "SHA": "56fdcb76",
               "Subject": "Prepare for release v0.13.0-rc.0 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.67.0-rc.0",
+          "commits": [
+            {
+              "SHA": "ef5de5ad6",
+              "Subject": "Prepare for release v0.67.0-rc.0 (#840)"
             }
           ]
         }

@@ -112,6 +112,16 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.22.0-rc.0)
+
+- [11832898](https://github.com/kubedb/mssql-coordinator/commit/11832898) Prepare for release v0.22.0-rc.0 (#81)
+- [ccd2c520](https://github.com/kubedb/mssql-coordinator/commit/ccd2c520) Prepare for release v0.21.0-rc.0 (#80)
+- [872322d9](https://github.com/kubedb/mssql-coordinator/commit/872322d9) Add Virtual Secret (#77)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.60.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.60.0-rc.0)

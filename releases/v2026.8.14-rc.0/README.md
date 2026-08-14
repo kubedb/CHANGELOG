@@ -220,6 +220,14 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.30.0-rc.0)
+
+- [1c069125](https://github.com/kubedb/redis-restic-plugin/commit/1c069125) Prepare for release v0.30.0-rc.0 (#115)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.22.0-rc.0)

@@ -26,6 +26,14 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.8.0-rc.0)
+
+- [938389f](https://github.com/kubedb/db2-coordinator/commit/938389f) Prepare for release v0.8.0-rc.0 (#18)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.61.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.61.0-rc.0)

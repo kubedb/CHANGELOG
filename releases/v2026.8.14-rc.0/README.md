@@ -127,6 +127,14 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/tests/releases/tag/v0.52.0-rc.0)
+
+- [f457453e](https://github.com/kubedb/tests/commit/f457453e8) Prepare for release v0.52.0-rc.0 (#552)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.15.0-rc.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.15.0-rc.0)

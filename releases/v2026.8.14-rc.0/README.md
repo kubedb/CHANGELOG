@@ -8,6 +8,15 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.14.0-rc.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.14.0-rc.0)
+
+- [3caac86c](https://github.com/kubedb/cassandra-medusa-plugin/commit/3caac86c) Prepare for release v0.14.0-rc.0 (#45)
+- [56fdcb76](https://github.com/kubedb/cassandra-medusa-plugin/commit/56fdcb76) Prepare for release v0.13.0-rc.0 (#44)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.22.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:41:10.009627794Z",
+  "release_date": "2026-08-14T20:41:21.348621956Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -542,6 +542,60 @@
             {
               "SHA": "1fbe6adf",
               "Subject": "Prepare for release v0.40.0-rc.0 (#135)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6bf78777",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#144)"
+            },
+            {
+              "SHA": "9f165e26",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#143)"
+            },
+            {
+              "SHA": "ea823306",
+              "Subject": "Dont validate pool config until the pg appbinding found (#142)"
+            },
+            {
+              "SHA": "c5071c52",
+              "Subject": "Fix max_pool validation to check absolute minimum, not per-replica (#141)"
+            },
+            {
+              "SHA": "70094e98",
+              "Subject": "Reduce default max_pool from 15 to 4 (#140)"
+            },
+            {
+              "SHA": "4aff494d",
+              "Subject": "Requeue if underlying postgres appbinding not found (#139)"
+            },
+            {
+              "SHA": "955ad569",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#138)"
+            },
+            {
+              "SHA": "009328ff",
+              "Subject": "Use shared monitor and appbinding packages (#137)"
+            },
+            {
+              "SHA": "a601d9d6",
+              "Subject": "Virtual Secret Ops Support (#136)"
+            },
+            {
+              "SHA": "0b8ea40b",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#121)"
+            },
+            {
+              "SHA": "f9c951b8",
+              "Subject": "Move deletion logic to apimachinery (#135)"
             }
           ]
         }

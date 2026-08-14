@@ -276,6 +276,24 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.22.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.22.0-rc.0)
+
+- [6bf78777](https://github.com/kubedb/pgpool/commit/6bf78777) Prepare for release v0.22.0-rc.0 (#144)
+- [9f165e26](https://github.com/kubedb/pgpool/commit/9f165e26) Prepare for release v0.21.0-rc.0 (#143)
+- [ea823306](https://github.com/kubedb/pgpool/commit/ea823306) Dont validate pool config until the pg appbinding found (#142)
+- [c5071c52](https://github.com/kubedb/pgpool/commit/c5071c52) Fix max_pool validation to check absolute minimum, not per-replica (#141)
+- [70094e98](https://github.com/kubedb/pgpool/commit/70094e98) Reduce default max_pool from 15 to 4 (#140)
+- [4aff494d](https://github.com/kubedb/pgpool/commit/4aff494d) Requeue if underlying postgres appbinding not found (#139)
+- [955ad569](https://github.com/kubedb/pgpool/commit/955ad569) Use shared pkg/controller/secret for auth secret (#138)
+- [009328ff](https://github.com/kubedb/pgpool/commit/009328ff) Use shared monitor and appbinding packages (#137)
+- [a601d9d6](https://github.com/kubedb/pgpool/commit/a601d9d6) Virtual Secret Ops Support (#136)
+- [0b8ea40b](https://github.com/kubedb/pgpool/commit/0b8ea40b) Honor user-provided renewBefore in TLS certificate ops (#121)
+- [f9c951b8](https://github.com/kubedb/pgpool/commit/f9c951b8) Move deletion logic to apimachinery (#135)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.67.0-rc.0](https://github.com/kubedb/postgres/releases/tag/v0.67.0-rc.0)

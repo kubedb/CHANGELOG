@@ -88,6 +88,14 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.60.0-rc.0](https://github.com/kubedb/mysql/releases/tag/v0.60.0-rc.0)
+
+- [db444927](https://github.com/kubedb/mysql/commit/db4449279) Prepare for release v0.60.0-rc.0 (#778)
+
+
+
 ## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.3.0-rc.0)

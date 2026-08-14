@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:44:16.780132502Z",
+  "release_date": "2026-08-14T20:44:24.70551016Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -648,6 +648,24 @@
             {
               "SHA": "85fee4d",
               "Subject": "Fix restore script path file permission issue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.0",
+          "commits": [
+            {
+              "SHA": "6121bc9",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "1cdbe95",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#44)"
             }
           ]
         }

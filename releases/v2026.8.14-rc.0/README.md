@@ -59,6 +59,14 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.4.0-rc.0)
+
+- [79b3cee7](https://github.com/kubedb/documentdb/commit/79b3cee7) Prepare for release v0.4.0-rc.0 (#47)
+
+
+
 ## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.3.0-rc.0)

@@ -26,3 +26,11 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.28.0-rc.0)
+
+- [760aa637](https://github.com/kubedb/postgres-archiver/commit/760aa637) Prepare for release v0.28.0-rc.0 (#117)
+
+
+

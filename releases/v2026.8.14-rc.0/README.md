@@ -115,6 +115,16 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.30.0-rc.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.30.0-rc.0)
+
+- [a7ea7a14](https://github.com/kubedb/elasticsearch-restic-plugin/commit/a7ea7a14) Prepare for release v0.30.0-rc.0 (#108)
+- [d3eaaafd](https://github.com/kubedb/elasticsearch-restic-plugin/commit/d3eaaafd) Prepare for release v0.29.0-rc.0 (#107)
+- [542bd21b](https://github.com/kubedb/elasticsearch-restic-plugin/commit/542bd21b) Add Virtual Secret Support (#104)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.8.0-rc.0)

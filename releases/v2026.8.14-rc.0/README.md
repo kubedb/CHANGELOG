@@ -34,6 +34,14 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.18.0-rc.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.18.0-rc.0)
+
+- [0ee34ed3](https://github.com/kubedb/kubedb-verifier/commit/0ee34ed3) Prepare for release v0.18.0-rc.0 (#59)
+
+
+
 ## [kubedb/memcached](https://github.com/kubedb/memcached)
 
 ### [v0.61.0-rc.0](https://github.com/kubedb/memcached/releases/tag/v0.61.0-rc.0)

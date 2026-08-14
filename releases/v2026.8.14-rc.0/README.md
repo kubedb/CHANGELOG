@@ -55,6 +55,13 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.28.0-rc.0](https://github.com/kubedb/provider-aws/releases/tag/v0.28.0-rc.0)
+
+
+
+
 ## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/zookeeper/releases/tag/v0.22.0-rc.0)

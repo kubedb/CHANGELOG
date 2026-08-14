@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:41:28.736761562Z",
+  "release_date": "2026-08-14T20:41:42.750920038Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -78,6 +78,28 @@
             {
               "SHA": "e1df5a00",
               "Subject": "Auto-enable dependency feature gates before CRD setup (#150)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.0",
+          "commits": [
+            {
+              "SHA": "b8448033",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "c20ab2b9",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#84)"
+            },
+            {
+              "SHA": "e0e49517",
+              "Subject": "Add Virtual Secret Support (#81)"
             }
           ]
         }

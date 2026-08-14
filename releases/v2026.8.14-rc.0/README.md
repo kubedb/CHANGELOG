@@ -51,6 +51,14 @@
 
 
 
+## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.3.0-rc.0)
+
+- [93d895f](https://github.com/kubedb/documentdb-coordinator/commit/93d895f) Prepare for release v0.3.0-rc.0 (#12)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/hanadb/releases/tag/v0.8.0-rc.0)

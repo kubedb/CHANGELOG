@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-14T20:46:19.104689973Z",
+  "release_date": "2026-08-15T01:40:35.95042037Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -776,6 +776,36 @@
             {
               "SHA": "1fbe6adf",
               "Subject": "Prepare for release v0.40.0-rc.0 (#135)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4943ae65",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#272)"
+            },
+            {
+              "SHA": "dae2e9a7",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#269)"
+            },
+            {
+              "SHA": "a83e4182",
+              "Subject": "Serve remote replica DR metrics on the raft-metrics port (#268)"
+            },
+            {
+              "SHA": "409a0f41",
+              "Subject": "Add remote replica mode with pg_rewind and reinitialization support (#257)"
+            },
+            {
+              "SHA": "9e889075",
+              "Subject": "Use pg_tde_rewind and pg_tde_basebackup when TDE is enabled (#264)"
             }
           ]
         }

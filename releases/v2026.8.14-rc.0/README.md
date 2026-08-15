@@ -1,4 +1,4 @@
-# KubeDB v2026.8.14-rc.0 (2026-08-14)
+# KubeDB v2026.8.14-rc.0 (2026-08-15)
 
 
 ## [kubedb/aerospike](https://github.com/kubedb/aerospike)
@@ -390,6 +390,18 @@
 ### [v0.40.0-rc.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.40.0-rc.0)
 
 - [1fbe6adf](https://github.com/kubedb/percona-xtradb-coordinator/commit/1fbe6adf) Prepare for release v0.40.0-rc.0 (#135)
+
+
+
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.51.0-rc.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.51.0-rc.0)
+
+- [4943ae65](https://github.com/kubedb/pg-coordinator/commit/4943ae65) Prepare for release v0.51.0-rc.0 (#272)
+- [dae2e9a7](https://github.com/kubedb/pg-coordinator/commit/dae2e9a7) Prepare for release v0.50.0-rc.0 (#269)
+- [a83e4182](https://github.com/kubedb/pg-coordinator/commit/a83e4182) Serve remote replica DR metrics on the raft-metrics port (#268)
+- [409a0f41](https://github.com/kubedb/pg-coordinator/commit/409a0f41) Add remote replica mode with pg_rewind and reinitialization support (#257)
+- [9e889075](https://github.com/kubedb/pg-coordinator/commit/9e889075) Use pg_tde_rewind and pg_tde_basebackup when TDE is enabled (#264)
 
 
 

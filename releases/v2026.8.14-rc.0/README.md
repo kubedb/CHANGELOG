@@ -50,6 +50,16 @@
 
 
 
+## [kubedb/clickhouse-backup-plugin](https://github.com/kubedb/clickhouse-backup-plugin)
+
+### [v0.4.0-rc.0](https://github.com/kubedb/clickhouse-backup-plugin/releases/tag/v0.4.0-rc.0)
+
+- [0d81b0b9](https://github.com/kubedb/clickhouse-backup-plugin/commit/0d81b0b9) Prepare for release v0.4.0-rc.0 (#33)
+- [bf9e0a97](https://github.com/kubedb/clickhouse-backup-plugin/commit/bf9e0a97) Prepare for release v0.3.0-rc.0 (#32)
+- [3d30c64a](https://github.com/kubedb/clickhouse-backup-plugin/commit/3d30c64a) Update Cleanup for Snapshot Manifest (#31)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/crd-manager/releases/tag/v0.22.0-rc.0)

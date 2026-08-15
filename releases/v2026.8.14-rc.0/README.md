@@ -16,6 +16,15 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.52.0-rc.0](https://github.com/kubedb/autoscaler/releases/tag/v0.52.0-rc.0)
+
+- [0848d0fa](https://github.com/kubedb/autoscaler/commit/0848d0fa) Prepare for release v0.52.0-rc.0 (#315)
+- [8982a5eb](https://github.com/kubedb/autoscaler/commit/8982a5eb) Fix Build (#313)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.20.0-rc.0](https://github.com/kubedb/cassandra/releases/tag/v0.20.0-rc.0)

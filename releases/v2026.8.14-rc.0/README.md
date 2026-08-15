@@ -78,6 +78,14 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/db2/releases/tag/v0.8.0-rc.0)
+
+- [b58a8323](https://github.com/kubedb/db2/commit/b58a8323) Prepare for release v0.8.0-rc.0 (#39)
+
+
+
 ## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.8.0-rc.0)

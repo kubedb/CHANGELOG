@@ -366,6 +366,13 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.8.0-rc.0](https://github.com/kubedb/neo4j/releases/tag/v0.8.0-rc.0)
+
+
+
+
 ## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
 
 ### [v0.3.0-rc.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.3.0-rc.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-15T01:41:56.812751587Z",
+  "release_date": "2026-08-15T01:42:08.5179612Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -724,6 +724,15 @@
               "Subject": "Prepare for release v0.45.0-rc.0 (#69)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.0",
+          "commits": null
         }
       ]
     },

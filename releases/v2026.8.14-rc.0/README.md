@@ -428,6 +428,20 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.54.0-rc.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.54.0-rc.0)
+
+- [e08ff26b](https://github.com/kubedb/pgbouncer/commit/e08ff26b0) Prepare for release v0.54.0-rc.0 (#430)
+- [2e658fc4](https://github.com/kubedb/pgbouncer/commit/2e658fc47) Init Script volume override problem fix (#421)
+- [7c17e108](https://github.com/kubedb/pgbouncer/commit/7c17e1088) Migrate auth-secret handling to shared apimachinery secret package (#429)
+- [eead948c](https://github.com/kubedb/pgbouncer/commit/eead948cf) Use shared monitor and appbinding packages (#428)
+- [61fc4725](https://github.com/kubedb/pgbouncer/commit/61fc47254) Virtual Secret Ops Support (#426)
+- [68a2f276](https://github.com/kubedb/pgbouncer/commit/68a2f2767) Honor user-provided renewBefore in TLS certificate ops (#414)
+- [adf24115](https://github.com/kubedb/pgbouncer/commit/adf241151) Move deletion logic to apimachinery (#427)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/pgpool/releases/tag/v0.22.0-rc.0)

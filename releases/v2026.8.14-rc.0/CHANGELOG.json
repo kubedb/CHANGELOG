@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-15T02:15:07.614072971Z",
+  "release_date": "2026-08-15T02:15:50.636959852Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -843,6 +843,44 @@
             {
               "SHA": "9e889075",
               "Subject": "Use pg_tde_rewind and pg_tde_basebackup when TDE is enabled (#264)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.54.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e08ff26b0",
+              "Subject": "Prepare for release v0.54.0-rc.0 (#430)"
+            },
+            {
+              "SHA": "2e658fc47",
+              "Subject": "Init Script volume override problem fix (#421)"
+            },
+            {
+              "SHA": "7c17e1088",
+              "Subject": "Migrate auth-secret handling to shared apimachinery secret package (#429)"
+            },
+            {
+              "SHA": "eead948cf",
+              "Subject": "Use shared monitor and appbinding packages (#428)"
+            },
+            {
+              "SHA": "61fc47254",
+              "Subject": "Virtual Secret Ops Support (#426)"
+            },
+            {
+              "SHA": "68a2f2767",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#414)"
+            },
+            {
+              "SHA": "adf241151",
+              "Subject": "Move deletion logic to apimachinery (#427)"
             }
           ]
         }

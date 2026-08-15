@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-15T09:21:32.525771478Z",
+  "release_date": "2026-08-15T10:08:23.210850966Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -416,6 +416,15 @@
               "Subject": "Move deletion logic to apimachinery (#68)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.8.14-rc.0",
+          "commits": null
         }
       ]
     },

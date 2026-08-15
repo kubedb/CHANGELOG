@@ -113,6 +113,13 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.8.14-rc.0](https://github.com/kubedb/docs/releases/tag/v2026.8.14-rc.0)
+
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.4.0-rc.0](https://github.com/kubedb/documentdb/releases/tag/v0.4.0-rc.0)

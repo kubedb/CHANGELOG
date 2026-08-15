@@ -510,6 +510,17 @@
 
 
 
+## [kubedb/qdrant-restic-plugin](https://github.com/kubedb/qdrant-restic-plugin)
+
+### [v0.3.0-rc.0](https://github.com/kubedb/qdrant-restic-plugin/releases/tag/v0.3.0-rc.0)
+
+- [815a4cd](https://github.com/kubedb/qdrant-restic-plugin/commit/815a4cd) Replace hub command with gh command in script
+- [7a4c0de](https://github.com/kubedb/qdrant-restic-plugin/commit/7a4c0de) Prepare for release v0.3.0-rc.0 (#10)
+- [fb288cc](https://github.com/kubedb/qdrant-restic-plugin/commit/fb288cc) Prepare for release v0.2.0-rc.0 (#8)
+- [34a99ba](https://github.com/kubedb/qdrant-restic-plugin/commit/34a99ba) Merge pull request #7 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.22.0-rc.0)

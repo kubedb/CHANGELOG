@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-15T01:42:08.5179612Z",
+  "release_date": "2026-08-15T02:07:04.418097683Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -1006,6 +1006,32 @@
             {
               "SHA": "e1c81c10",
               "Subject": "Prepare for release v0.8.0-rc.0 (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.0",
+          "commits": [
+            {
+              "SHA": "815a4cd",
+              "Subject": "Replace hub command with gh command in script"
+            },
+            {
+              "SHA": "7a4c0de",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#10)"
+            },
+            {
+              "SHA": "fb288cc",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#8)"
+            },
+            {
+              "SHA": "34a99ba",
+              "Subject": "Merge pull request #7 from kubedb/v2026.7.10-master"
             }
           ]
         }

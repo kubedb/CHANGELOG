@@ -633,6 +633,14 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.43.0-rc.0](https://github.com/kubedb/schema-manager/releases/tag/v0.43.0-rc.0)
+
+- [a98434c0](https://github.com/kubedb/schema-manager/commit/a98434c0) Prepare for release v0.43.0-rc.0 (#177)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.22.0-rc.0](https://github.com/kubedb/singlestore/releases/tag/v0.22.0-rc.0)

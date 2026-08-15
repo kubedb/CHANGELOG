@@ -197,6 +197,15 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.43.0-rc.0](https://github.com/kubedb/kibana/releases/tag/v0.43.0-rc.0)
+
+- [8f0ed22c](https://github.com/kubedb/kibana/commit/8f0ed22c) Prepare for release v0.43.0-rc.0 (#190)
+- [79f4dbb6](https://github.com/kubedb/kibana/commit/79f4dbb6) Lint fix (#189)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.30.0-rc.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.30.0-rc.0)

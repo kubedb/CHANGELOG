@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.14-rc.0",
-  "release_date": "2026-08-15T02:07:04.418097683Z",
+  "release_date": "2026-08-15T02:15:07.614072971Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.14-rc.0",
   "kubernetes_version": "1.28+",
@@ -994,6 +994,40 @@
         {
           "tag": "v0.28.0-rc.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/proxysql",
+      "releases": [
+        {
+          "tag": "v0.54.0-rc.0",
+          "commits": [
+            {
+              "SHA": "1eb7bca96",
+              "Subject": "Prepare for release v0.54.0-rc.0 (#450)"
+            },
+            {
+              "SHA": "0607fcd53",
+              "Subject": "Migrate ProxySQL admin auth secret to shared secret package (#449)"
+            },
+            {
+              "SHA": "a8def901e",
+              "Subject": "Use shared monitor package (#448)"
+            },
+            {
+              "SHA": "1ea1ae93d",
+              "Subject": "Add virtual secret support (#435)"
+            },
+            {
+              "SHA": "06aa72fbb",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#446)"
+            },
+            {
+              "SHA": "0c98223da",
+              "Subject": "Move deletion logic to apimachinery (#447)"
+            }
+          ]
         }
       ]
     },

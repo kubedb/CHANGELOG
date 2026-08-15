@@ -502,6 +502,19 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.54.0-rc.0](https://github.com/kubedb/proxysql/releases/tag/v0.54.0-rc.0)
+
+- [1eb7bca9](https://github.com/kubedb/proxysql/commit/1eb7bca96) Prepare for release v0.54.0-rc.0 (#450)
+- [0607fcd5](https://github.com/kubedb/proxysql/commit/0607fcd53) Migrate ProxySQL admin auth secret to shared secret package (#449)
+- [a8def901](https://github.com/kubedb/proxysql/commit/a8def901e) Use shared monitor package (#448)
+- [1ea1ae93](https://github.com/kubedb/proxysql/commit/1ea1ae93d) Add virtual secret support (#435)
+- [06aa72fb](https://github.com/kubedb/proxysql/commit/06aa72fbb) Set default resource limits before patching petset in vertical scaling (#446)
+- [0c98223d](https://github.com/kubedb/proxysql/commit/0c98223da) Move deletion logic to apimachinery (#447)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.8.0-rc.0](https://github.com/kubedb/qdrant/releases/tag/v0.8.0-rc.0)

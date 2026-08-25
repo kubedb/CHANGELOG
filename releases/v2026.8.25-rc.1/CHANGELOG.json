@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T18:14:28.159175091Z",
+  "release_date": "2026-08-25T18:14:41.243183076Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -43,6 +43,20 @@
             {
               "SHA": "ee494fb14",
               "Subject": "Add etcd database support (#1870)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.1",
+          "commits": [
+            {
+              "SHA": "29d930ac",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#46)"
             }
           ]
         }

@@ -95,6 +95,14 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.22.0-rc.1](https://github.com/kubedb/mssqlserver/releases/tag/v0.22.0-rc.1)
+
+- [03752a06](https://github.com/kubedb/mssqlserver/commit/03752a06) Prepare for release v0.22.0-rc.1 (#158)
+
+
+
 ## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
 
 ### [v0.30.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.30.0-rc.1)

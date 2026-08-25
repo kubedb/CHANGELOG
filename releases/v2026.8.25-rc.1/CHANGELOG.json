@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T17:27:48.808932141Z",
+  "release_date": "2026-08-25T17:37:59.445557641Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -43,6 +43,20 @@
             {
               "SHA": "ee494fb14",
               "Subject": "Add etcd database support (#1870)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0cfe8c62",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#153)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T18:16:11.20799664Z",
+  "release_date": "2026-08-25T18:16:22.857859238Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -43,6 +43,24 @@
             {
               "SHA": "ee494fb14",
               "Subject": "Add etcd database support (#1870)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.20.0-rc.1",
+          "commits": [
+            {
+              "SHA": "8103cfbf",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#106)"
+            },
+            {
+              "SHA": "1f1cb82d",
+              "Subject": "Only watch virtual-secrets Secret when the CRD is installed (#105)"
             }
           ]
         }

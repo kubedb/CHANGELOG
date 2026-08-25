@@ -16,6 +16,15 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.20.0-rc.1](https://github.com/kubedb/cassandra/releases/tag/v0.20.0-rc.1)
+
+- [8103cfbf](https://github.com/kubedb/cassandra/commit/8103cfbf) Prepare for release v0.20.0-rc.1 (#106)
+- [1f1cb82d](https://github.com/kubedb/cassandra/commit/1f1cb82d) Only watch virtual-secrets Secret when the CRD is installed (#105)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.14.0-rc.1](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.14.0-rc.1)

@@ -62,6 +62,14 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.25.0-rc.1](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.25.0-rc.1)
+
+- [014243fd](https://github.com/kubedb/mariadb-restic-plugin/commit/014243fd) Prepare for release v0.25.0-rc.1 (#103)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.30.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.30.0-rc.1)

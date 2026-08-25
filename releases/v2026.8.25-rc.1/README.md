@@ -43,6 +43,16 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.14.0-rc.1](https://github.com/kubedb/ignite/releases/tag/v0.14.0-rc.1)
+
+- [da85f22f](https://github.com/kubedb/ignite/commit/da85f22f) Prepare for release v0.14.0-rc.1 (#75)
+- [ff07bf28](https://github.com/kubedb/ignite/commit/ff07bf28) Add TLS Certs in AppBinding (#74)
+- [059966b4](https://github.com/kubedb/ignite/commit/059966b4) Only watch virtual-secrets Secret when the CRD is installed (#73)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.30.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.30.0-rc.1)

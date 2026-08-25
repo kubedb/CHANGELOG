@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T18:15:09.433991676Z",
+  "release_date": "2026-08-25T18:15:25.962767445Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -97,6 +97,28 @@
             {
               "SHA": "e048889a",
               "Subject": "Add etcd client package (#261)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.1",
+          "commits": [
+            {
+              "SHA": "da85f22f",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#75)"
+            },
+            {
+              "SHA": "ff07bf28",
+              "Subject": "Add TLS Certs in AppBinding (#74)"
+            },
+            {
+              "SHA": "059966b4",
+              "Subject": "Only watch virtual-secrets Secret when the CRD is installed (#73)"
             }
           ]
         }

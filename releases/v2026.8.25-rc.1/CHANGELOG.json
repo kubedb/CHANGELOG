@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T18:15:34.408556086Z",
+  "release_date": "2026-08-25T18:15:38.119624952Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -135,6 +135,15 @@
               "Subject": "Prepare for release v0.30.0-rc.1 (#124)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.28.0-rc.1",
+          "commits": null
         }
       ]
     },

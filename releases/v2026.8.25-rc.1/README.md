@@ -61,6 +61,13 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.28.0-rc.1](https://github.com/kubedb/provider-aws/releases/tag/v0.28.0-rc.1)
+
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.22.0-rc.1](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.22.0-rc.1)

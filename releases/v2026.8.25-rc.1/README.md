@@ -95,6 +95,14 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.30.0-rc.1](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.30.0-rc.1)
+
+- [37e44fe1](https://github.com/kubedb/mysql-restic-plugin/commit/37e44fe1) Prepare for release v0.30.0-rc.1 (#124)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.30.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.30.0-rc.1)

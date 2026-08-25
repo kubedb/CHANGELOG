@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T18:17:09.179753028Z",
+  "release_date": "2026-08-25T18:17:25.554704957Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -155,6 +155,20 @@
             {
               "SHA": "059966b4",
               "Subject": "Only watch virtual-secrets Secret when the CRD is installed (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.38.0-rc.1",
+          "commits": [
+            {
+              "SHA": "ea87de4e",
+              "Subject": "Prepare for release v0.38.0-rc.1 (#219)"
             }
           ]
         }

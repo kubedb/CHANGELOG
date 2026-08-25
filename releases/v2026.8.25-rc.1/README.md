@@ -71,6 +71,14 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.38.0-rc.1](https://github.com/kubedb/kafka/releases/tag/v0.38.0-rc.1)
+
+- [ea87de4e](https://github.com/kubedb/kafka/commit/ea87de4e) Prepare for release v0.38.0-rc.1 (#219)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.47.0-rc.1](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.47.0-rc.1)

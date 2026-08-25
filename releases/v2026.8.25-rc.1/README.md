@@ -125,6 +125,15 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.22.0-rc.1](https://github.com/kubedb/singlestore/releases/tag/v0.22.0-rc.1)
+
+- [894f6c05](https://github.com/kubedb/singlestore/commit/894f6c05) Prepare for release v0.22.0-rc.1 (#146)
+- [72bc1182](https://github.com/kubedb/singlestore/commit/72bc1182) Only watch virtual-secrets Secret when the CRD is installed (#145)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.22.0-rc.1](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.22.0-rc.1)

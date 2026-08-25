@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T18:16:41.448034884Z",
+  "release_date": "2026-08-25T18:16:58.870973269Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -245,6 +245,24 @@
         {
           "tag": "v0.28.0-rc.1",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.1",
+          "commits": [
+            {
+              "SHA": "894f6c05",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#146)"
+            },
+            {
+              "SHA": "72bc1182",
+              "Subject": "Only watch virtual-secrets Secret when the CRD is installed (#145)"
+            }
+          ]
         }
       ]
     },

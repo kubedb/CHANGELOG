@@ -43,6 +43,15 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/hanadb/releases/tag/v0.8.0-rc.1)
+
+- [eea6e348](https://github.com/kubedb/hanadb/commit/eea6e348) Prepare for release v0.8.0-rc.1 (#61)
+- [7cb78e06](https://github.com/kubedb/hanadb/commit/7cb78e06) Only watch virtual-secrets Secret when the CRD is installed (#60)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.14.0-rc.1](https://github.com/kubedb/ignite/releases/tag/v0.14.0-rc.1)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T18:15:38.119624952Z",
+  "release_date": "2026-08-25T18:15:47.358488437Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -97,6 +97,24 @@
             {
               "SHA": "e048889a",
               "Subject": "Add etcd client package (#261)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.1",
+          "commits": [
+            {
+              "SHA": "eea6e348",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#61)"
+            },
+            {
+              "SHA": "7cb78e06",
+              "Subject": "Only watch virtual-secrets Secret when the CRD is installed (#60)"
             }
           ]
         }

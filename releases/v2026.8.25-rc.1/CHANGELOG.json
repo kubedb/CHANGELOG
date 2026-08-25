@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T18:14:41.243183076Z",
+  "release_date": "2026-08-25T18:15:09.433991676Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -97,6 +97,20 @@
             {
               "SHA": "e048889a",
               "Subject": "Add etcd client package (#261)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.1",
+          "commits": [
+            {
+              "SHA": "0837cdad",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#124)"
             }
           ]
         }

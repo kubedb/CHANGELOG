@@ -43,6 +43,14 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.30.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.30.0-rc.1)
+
+- [0837cdad](https://github.com/kubedb/postgres-restic-plugin/commit/0837cdad) Prepare for release v0.30.0-rc.1 (#124)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.22.0-rc.1](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.22.0-rc.1)

@@ -1,0 +1,19 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.8.26-rc.2",
+  "release_date": "2026-08-25T19:03:24.630888126Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.67.0-rc.2",
+          "commits": null
+        }
+      ]
+    }
+  ]
+}

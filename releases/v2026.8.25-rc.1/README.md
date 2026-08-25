@@ -69,6 +69,14 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/weaviate/releases/tag/v0.8.0-rc.1)
+
+- [876f7a88](https://github.com/kubedb/weaviate/commit/876f7a88) Prepare for release v0.8.0-rc.1 (#61)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.22.0-rc.1](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.22.0-rc.1)

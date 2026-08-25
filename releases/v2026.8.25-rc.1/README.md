@@ -24,3 +24,14 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.22.0-rc.1](https://github.com/kubedb/db-client-go/releases/tag/v0.22.0-rc.1)
+
+- [0efc93cc](https://github.com/kubedb/db-client-go/commit/0efc93cc) Prepare for release v0.22.0-rc.1 (#264)
+- [9793d3da](https://github.com/kubedb/db-client-go/commit/9793d3da) Fix ClickHouse Connection String (#262)
+- [6769cb1c](https://github.com/kubedb/db-client-go/commit/6769cb1c) Neo4j Connectivity Check Against Systemdatabase (#263)
+- [e048889a](https://github.com/kubedb/db-client-go/commit/e048889a) Add etcd client package (#261)
+
+
+

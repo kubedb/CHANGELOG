@@ -87,6 +87,14 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.8.0-rc.1](https://github.com/kubedb/milvus/releases/tag/v0.8.0-rc.1)
+
+- [514250e6](https://github.com/kubedb/milvus/commit/514250e6) Prepare for release v0.8.0-rc.1 (#64)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.30.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.30.0-rc.1)

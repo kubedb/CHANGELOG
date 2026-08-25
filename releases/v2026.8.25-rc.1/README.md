@@ -119,6 +119,22 @@
 
 
 
+## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
+
+### [v0.3.0-rc.1](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.3.0-rc.1)
+
+- [4a6ab67](https://github.com/kubedb/neo4j-backup-plugin/commit/4a6ab67) Prepare for release v0.3.0-rc.1 (#14)
+- [bdc2c01](https://github.com/kubedb/neo4j-backup-plugin/commit/bdc2c01) Merge pull request #11 from kubedb/restore-composite-database
+- [fcbba98](https://github.com/kubedb/neo4j-backup-plugin/commit/fcbba98) fix lint: drop always-constant param from containsNormalized
+- [8052e8a](https://github.com/kubedb/neo4j-backup-plugin/commit/8052e8a) add support for standalone alias
+- [2d5168d](https://github.com/kubedb/neo4j-backup-plugin/commit/2d5168d) move composite api into plugin
+- [abe9dba](https://github.com/kubedb/neo4j-backup-plugin/commit/abe9dba) update deps
+- [b08c7fb](https://github.com/kubedb/neo4j-backup-plugin/commit/b08c7fb) add semanticversion support
+- [7d22077](https://github.com/kubedb/neo4j-backup-plugin/commit/7d22077) remove unused func
+- [d5cfc76](https://github.com/kubedb/neo4j-backup-plugin/commit/d5cfc76) update deps
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.30.0-rc.1](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.30.0-rc.1)

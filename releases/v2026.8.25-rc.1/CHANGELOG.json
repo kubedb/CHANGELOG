@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.25-rc.1",
-  "release_date": "2026-08-25T18:17:30.342888562Z",
+  "release_date": "2026-08-25T18:43:48.540006101Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.25-rc.1",
   "kubernetes_version": "1.28+",
@@ -239,6 +239,52 @@
             {
               "SHA": "37e44fe1",
               "Subject": "Prepare for release v0.30.0-rc.1 (#124)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.1",
+          "commits": [
+            {
+              "SHA": "4a6ab67",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#14)"
+            },
+            {
+              "SHA": "bdc2c01",
+              "Subject": "Merge pull request #11 from kubedb/restore-composite-database"
+            },
+            {
+              "SHA": "fcbba98",
+              "Subject": "fix lint: drop always-constant param from containsNormalized"
+            },
+            {
+              "SHA": "8052e8a",
+              "Subject": "add support for standalone alias"
+            },
+            {
+              "SHA": "2d5168d",
+              "Subject": "move composite api into plugin"
+            },
+            {
+              "SHA": "abe9dba",
+              "Subject": "update deps"
+            },
+            {
+              "SHA": "b08c7fb",
+              "Subject": "add semanticversion support"
+            },
+            {
+              "SHA": "7d22077",
+              "Subject": "remove unused func"
+            },
+            {
+              "SHA": "d5cfc76",
+              "Subject": "update deps"
             }
           ]
         }

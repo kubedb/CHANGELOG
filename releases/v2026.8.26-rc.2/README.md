@@ -51,6 +51,16 @@
 
 
 
+## [kubedb/courier](https://github.com/kubedb/courier)
+
+### [v0.7.0-rc.2](https://github.com/kubedb/courier/releases/tag/v0.7.0-rc.2)
+
+- [85daa1a](https://github.com/kubedb/courier/commit/85daa1a) Prepare for release v0.7.0-rc.2 (#58)
+- [19d7d3c](https://github.com/kubedb/courier/commit/19d7d3c) Clear the VGS group label off source PVCs on teardown (#56)
+- [e92270d](https://github.com/kubedb/courier/commit/e92270d) Cross-cluster Branch (Initiator/Creator) and the hub manager (#29)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.22.0-rc.2](https://github.com/kubedb/crd-manager/releases/tag/v0.22.0-rc.2)

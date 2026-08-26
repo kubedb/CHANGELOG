@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T06:38:28.790817436Z",
+  "release_date": "2026-08-26T06:38:59.364464482Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -92,6 +92,28 @@
             {
               "SHA": "03bdc169",
               "Subject": "Prepare for release v0.4.0-rc.2 (#34)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/courier",
+      "releases": [
+        {
+          "tag": "v0.7.0-rc.2",
+          "commits": [
+            {
+              "SHA": "85daa1a",
+              "Subject": "Prepare for release v0.7.0-rc.2 (#58)"
+            },
+            {
+              "SHA": "19d7d3c",
+              "Subject": "Clear the VGS group label off source PVCs on teardown (#56)"
+            },
+            {
+              "SHA": "e92270d",
+              "Subject": "Cross-cluster Branch (Initiator/Creator) and the hub manager (#29)"
             }
           ]
         }

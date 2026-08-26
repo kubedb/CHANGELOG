@@ -428,6 +428,16 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.22.0-rc.2](https://github.com/kubedb/solr/releases/tag/v0.22.0-rc.2)
+
+- [e416a480](https://github.com/kubedb/solr/commit/e416a480) Prepare for release v0.22.0-rc.2 (#159)
+- [f6b10d41](https://github.com/kubedb/solr/commit/f6b10d41) Prepare for release v0.22.0-rc.1 (#158)
+- [a49c4523](https://github.com/kubedb/solr/commit/a49c4523) Extend Reconfigure Ops for Backup Creds (#151)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.52.0-rc.2](https://github.com/kubedb/tests/releases/tag/v0.52.0-rc.2)

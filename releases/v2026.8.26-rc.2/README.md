@@ -51,6 +51,15 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.18.0-rc.2](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.18.0-rc.2)
+
+- [8dd10355](https://github.com/kubedb/kubedb-verifier/commit/8dd10355) Prepare for release v0.18.0-rc.2 (#61)
+- [2f4d0681](https://github.com/kubedb/kubedb-verifier/commit/2f4d0681) Prepare for release v0.18.0-rc.1 (#60)
+
+
+
 ## [kubedb/migrator](https://github.com/kubedb/migrator)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/migrator/releases/tag/v0.7.0-rc.2)

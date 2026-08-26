@@ -569,6 +569,15 @@
 
 
 
+## [kubedb/provisioner](https://github.com/kubedb/provisioner)
+
+### [v0.67.0-rc.2](https://github.com/kubedb/provisioner/releases/tag/v0.67.0-rc.2)
+
+- [390c0678](https://github.com/kubedb/provisioner/commit/390c0678c) Prepare for release v0.67.0-rc.2 (#227)
+- [314a0777](https://github.com/kubedb/provisioner/commit/314a07777) Add Etcd to the shared provisioner (#226)
+
+
+
 ## [kubedb/proxysql](https://github.com/kubedb/proxysql)
 
 ### [v0.54.0-rc.2](https://github.com/kubedb/proxysql/releases/tag/v0.54.0-rc.2)

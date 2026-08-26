@@ -42,6 +42,19 @@
 
 
 
+## [kubedb/etcd-restic-plugin](https://github.com/kubedb/etcd-restic-plugin)
+
+### [v0.1.0-rc.2](https://github.com/kubedb/etcd-restic-plugin/releases/tag/v0.1.0-rc.2)
+
+- [00faabb](https://github.com/kubedb/etcd-restic-plugin/commit/00faabb) Prepare for release v0.1.0-rc.2 (#2)
+- [ff35eda](https://github.com/kubedb/etcd-restic-plugin/commit/ff35eda) Update deps
+- [f574749](https://github.com/kubedb/etcd-restic-plugin/commit/f574749) Fix snapshot integrity, restore idempotency and space accounting
+- [54c8420](https://github.com/kubedb/etcd-restic-plugin/commit/54c8420) backup: check f.Close() error in sha256File
+- [ecf9140](https://github.com/kubedb/etcd-restic-plugin/commit/ecf9140) Add missing .github CI workflow folder
+- [974b15b](https://github.com/kubedb/etcd-restic-plugin/commit/974b15b) Add README
+
+
+
 ## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.7.0-rc.2)

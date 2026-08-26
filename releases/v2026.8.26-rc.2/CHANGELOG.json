@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T05:45:36.071355395Z",
+  "release_date": "2026-08-26T05:45:45.399129883Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -234,6 +234,24 @@
             {
               "SHA": "877b1bd2",
               "Subject": "Prepare for release v0.38.0-rc.2 (#220)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.30.0-rc.2",
+          "commits": [
+            {
+              "SHA": "44572547",
+              "Subject": "Prepare for release v0.30.0-rc.2 (#144)"
+            },
+            {
+              "SHA": "3d3ad890",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#143)"
             }
           ]
         }

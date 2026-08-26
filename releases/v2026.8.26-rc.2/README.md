@@ -118,6 +118,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.30.0-rc.2](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.30.0-rc.2)
+
+- [44572547](https://github.com/kubedb/kubedb-manifest-plugin/commit/44572547) Prepare for release v0.30.0-rc.2 (#144)
+- [3d3ad890](https://github.com/kubedb/kubedb-manifest-plugin/commit/3d3ad890) Prepare for release v0.30.0-rc.1 (#143)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.18.0-rc.2](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.18.0-rc.2)

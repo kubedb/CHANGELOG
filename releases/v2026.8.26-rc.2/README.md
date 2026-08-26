@@ -382,6 +382,14 @@
 
 
 
+## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
+
+### [v0.3.0-rc.2](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.3.0-rc.2)
+
+- [648128c](https://github.com/kubedb/neo4j-backup-plugin/commit/648128c) Prepare for release v0.3.0-rc.2 (#15)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.13.0-rc.2](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.13.0-rc.2)

@@ -136,6 +136,14 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.14.0-rc.2](https://github.com/kubedb/ignite/releases/tag/v0.14.0-rc.2)
+
+- [d8ffae05](https://github.com/kubedb/ignite/commit/d8ffae05) Prepare for release v0.14.0-rc.2 (#76)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.38.0-rc.2](https://github.com/kubedb/kafka/releases/tag/v0.38.0-rc.2)

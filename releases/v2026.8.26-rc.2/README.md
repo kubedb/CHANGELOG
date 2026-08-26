@@ -520,6 +520,13 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/provider-gcp/releases/tag/v0.28.0-rc.2)
+
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.8.0-rc.2](https://github.com/kubedb/qdrant/releases/tag/v0.8.0-rc.2)

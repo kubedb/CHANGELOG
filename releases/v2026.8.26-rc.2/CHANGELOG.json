@@ -1,11 +1,29 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T05:45:11.828461302Z",
+  "release_date": "2026-08-26T05:45:20.944237949Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
   "projects": [
+    {
+      "url": "github.com/kubedb/aerospike",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.2",
+          "commits": [
+            {
+              "SHA": "442d7867",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#15)"
+            },
+            {
+              "SHA": "580212ae",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#14)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

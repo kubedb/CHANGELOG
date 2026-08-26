@@ -1,6 +1,15 @@
 # KubeDB v2026.8.26-rc.2 (2026-08-26)
 
 
+## [kubedb/aerospike](https://github.com/kubedb/aerospike)
+
+### [v0.3.0-rc.2](https://github.com/kubedb/aerospike/releases/tag/v0.3.0-rc.2)
+
+- [442d7867](https://github.com/kubedb/aerospike/commit/442d7867) Prepare for release v0.3.0-rc.2 (#15)
+- [580212ae](https://github.com/kubedb/aerospike/commit/580212ae) Prepare for release v0.3.0-rc.1 (#14)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.67.0-rc.2](https://github.com/kubedb/apimachinery/releases/tag/v0.67.0-rc.2)

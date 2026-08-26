@@ -17,6 +17,15 @@
 
 
 
+## [kubedb/autoscaler](https://github.com/kubedb/autoscaler)
+
+### [v0.52.0-rc.2](https://github.com/kubedb/autoscaler/releases/tag/v0.52.0-rc.2)
+
+- [449258a6](https://github.com/kubedb/autoscaler/commit/449258a6) Prepare for release v0.52.0-rc.2 (#316)
+- [84940b42](https://github.com/kubedb/autoscaler/commit/84940b42) Add Etcd compute/storage autoscaler support (#314)
+
+
+
 ## [kubedb/cassandra](https://github.com/kubedb/cassandra)
 
 ### [v0.20.0-rc.2](https://github.com/kubedb/cassandra/releases/tag/v0.20.0-rc.2)

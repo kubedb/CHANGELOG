@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T06:50:31.50722213Z",
+  "release_date": "2026-08-26T06:52:16.267359921Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -30,6 +30,24 @@
         {
           "tag": "v0.67.0-rc.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/autoscaler",
+      "releases": [
+        {
+          "tag": "v0.52.0-rc.2",
+          "commits": [
+            {
+              "SHA": "449258a6",
+              "Subject": "Prepare for release v0.52.0-rc.2 (#316)"
+            },
+            {
+              "SHA": "84940b42",
+              "Subject": "Add Etcd compute/storage autoscaler support (#314)"
+            }
+          ]
         }
       ]
     },

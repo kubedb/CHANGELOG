@@ -33,6 +33,17 @@
 
 
 
+## [kubedb/migrator](https://github.com/kubedb/migrator)
+
+### [v0.7.0-rc.2](https://github.com/kubedb/migrator/releases/tag/v0.7.0-rc.2)
+
+- [c6feaa68](https://github.com/kubedb/migrator/commit/c6feaa68) Prepare for release v0.7.0-rc.2 (#54)
+- [5d3b4cca](https://github.com/kubedb/migrator/commit/5d3b4cca) Prepare for release v0.7.0-rc.1 (#53)
+- [90f812e8](https://github.com/kubedb/migrator/commit/90f812e8) fixed patch issue
+- [20d0ec20](https://github.com/kubedb/migrator/commit/20d0ec20) Fix MSSQL snapshot FK disable retries and CDC start LSN validation (#50)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.22.0-rc.2](https://github.com/kubedb/mssqlserver/releases/tag/v0.22.0-rc.2)

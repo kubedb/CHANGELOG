@@ -459,6 +459,15 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.54.0-rc.2](https://github.com/kubedb/ops-manager/releases/tag/v0.54.0-rc.2)
+
+- [14dae0ce](https://github.com/kubedb/ops-manager/commit/14dae0ce3) Prepare for release v0.54.0-rc.2 (#896)
+- [5be49aad](https://github.com/kubedb/ops-manager/commit/5be49aad6) Wire Etcd into ops-manager (#893)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.13.0-rc.2](https://github.com/kubedb/oracle/releases/tag/v0.13.0-rc.2)

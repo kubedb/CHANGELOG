@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T07:01:18.477206932Z",
+  "release_date": "2026-08-26T07:01:58.893733654Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -932,6 +932,24 @@
             {
               "SHA": "648128c",
               "Subject": "Prepare for release v0.3.0-rc.2 (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.54.0-rc.2",
+          "commits": [
+            {
+              "SHA": "14dae0ce3",
+              "Subject": "Prepare for release v0.54.0-rc.2 (#896)"
+            },
+            {
+              "SHA": "5be49aad6",
+              "Subject": "Wire Etcd into ops-manager (#893)"
             }
           ]
         }

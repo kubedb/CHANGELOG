@@ -322,6 +322,15 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.8.0-rc.2](https://github.com/kubedb/neo4j/releases/tag/v0.8.0-rc.2)
+
+- [f4928a76](https://github.com/kubedb/neo4j/commit/f4928a76) Prepare for release v0.8.0-rc.2 (#64)
+- [6a325a04](https://github.com/kubedb/neo4j/commit/6a325a04) Add remoteAliasKeystore Support (#62)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.13.0-rc.2](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.13.0-rc.2)

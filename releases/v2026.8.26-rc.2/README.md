@@ -347,6 +347,16 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.8.0-rc.2](https://github.com/kubedb/qdrant/releases/tag/v0.8.0-rc.2)
+
+- [5ee354a3](https://github.com/kubedb/qdrant/commit/5ee354a3) Prepare for release v0.8.0-rc.2 (#63)
+- [222d8df0](https://github.com/kubedb/qdrant/commit/222d8df0) Prepare for release v0.8.0-rc.1 (#62)
+- [4a96ed61](https://github.com/kubedb/qdrant/commit/4a96ed61) Add JWT RBAC Granular Access Control (#61)
+
+
+
 ## [kubedb/qdrant-restic-plugin](https://github.com/kubedb/qdrant-restic-plugin)
 
 ### [v0.3.0-rc.2](https://github.com/kubedb/qdrant-restic-plugin/releases/tag/v0.3.0-rc.2)

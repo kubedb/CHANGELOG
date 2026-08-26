@@ -277,6 +277,15 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.45.0-rc.2](https://github.com/kubedb/mysql-router-init/releases/tag/v0.45.0-rc.2)
+
+- [2a6cad1](https://github.com/kubedb/mysql-router-init/commit/2a6cad1) Prepare for release v0.45.0-rc.2 (#71)
+- [b195b0d](https://github.com/kubedb/mysql-router-init/commit/b195b0d) Prepare for release v0.45.0-rc.1 (#70)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.13.0-rc.2](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.13.0-rc.2)

@@ -24,6 +24,15 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.30.0-rc.2](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.30.0-rc.2)
+
+- [e46b0c60](https://github.com/kubedb/elasticsearch-restic-plugin/commit/e46b0c60) Prepare for release v0.30.0-rc.2 (#110)
+- [8b2a3fe9](https://github.com/kubedb/elasticsearch-restic-plugin/commit/8b2a3fe9) Prepare for release v0.30.0-rc.1 (#109)
+
+
+
 ## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.7.0-rc.2)

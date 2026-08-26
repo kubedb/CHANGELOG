@@ -182,6 +182,15 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.45.0-rc.2](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.45.0-rc.2)
+
+- [fc1b0d2c](https://github.com/kubedb/mysql-coordinator/commit/fc1b0d2c) Prepare for release v0.45.0-rc.2 (#193)
+- [9819d7b6](https://github.com/kubedb/mysql-coordinator/commit/9819d7b6) Prepare for release v0.45.0-rc.1 (#192)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.54.0-rc.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.54.0-rc.2)

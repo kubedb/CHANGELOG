@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T05:44:11.146953626Z",
+  "release_date": "2026-08-26T05:44:20.197422685Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -364,6 +364,24 @@
             {
               "SHA": "d4e1e633",
               "Subject": "Prepare for release v0.28.0-rc.1 (#116)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.45.0-rc.2",
+          "commits": [
+            {
+              "SHA": "fc1b0d2c",
+              "Subject": "Prepare for release v0.45.0-rc.2 (#193)"
+            },
+            {
+              "SHA": "9819d7b6",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#192)"
             }
           ]
         }

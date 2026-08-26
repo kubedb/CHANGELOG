@@ -97,6 +97,15 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/postgres-archiver/releases/tag/v0.28.0-rc.2)
+
+- [61113d99](https://github.com/kubedb/postgres-archiver/commit/61113d99) Prepare for release v0.28.0-rc.2 (#120)
+- [9de43b9a](https://github.com/kubedb/postgres-archiver/commit/9de43b9a) Prepare for release v0.28.0-rc.1 (#119)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.8.0-rc.2](https://github.com/kubedb/weaviate/releases/tag/v0.8.0-rc.2)

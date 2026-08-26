@@ -24,6 +24,15 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.22.0-rc.2](https://github.com/kubedb/druid/releases/tag/v0.22.0-rc.2)
+
+- [a1b656c8](https://github.com/kubedb/druid/commit/a1b656c8) Prepare for release v0.22.0-rc.2 (#156)
+- [4dfdca51](https://github.com/kubedb/druid/commit/4dfdca51) Fix AppBinding URL Scheme (#154)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.30.0-rc.2](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.30.0-rc.2)

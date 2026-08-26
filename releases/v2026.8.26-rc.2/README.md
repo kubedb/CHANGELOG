@@ -51,6 +51,15 @@
 
 
 
+## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
+
+### [v0.3.0-rc.2](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.3.0-rc.2)
+
+- [06c4a7f](https://github.com/kubedb/documentdb-coordinator/commit/06c4a7f) Prepare for release v0.3.0-rc.2 (#14)
+- [40c1429](https://github.com/kubedb/documentdb-coordinator/commit/40c1429) Prepare for release v0.3.0-rc.1 (#13)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.22.0-rc.2](https://github.com/kubedb/druid/releases/tag/v0.22.0-rc.2)

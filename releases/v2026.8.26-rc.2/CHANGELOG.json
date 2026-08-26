@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T05:41:44.47343395Z",
+  "release_date": "2026-08-26T05:41:57.357560835Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -128,6 +128,24 @@
             {
               "SHA": "2f4d0681",
               "Subject": "Prepare for release v0.18.0-rc.1 (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.51.0-rc.2",
+          "commits": [
+            {
+              "SHA": "b73865f24",
+              "Subject": "Prepare for release v0.51.0-rc.2 (#430)"
+            },
+            {
+              "SHA": "060d33103",
+              "Subject": "Prepare for release v0.51.0-rc.1 (#429)"
             }
           ]
         }

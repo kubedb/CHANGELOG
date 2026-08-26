@@ -69,6 +69,15 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.51.0-rc.2](https://github.com/kubedb/mariadb/releases/tag/v0.51.0-rc.2)
+
+- [b73865f2](https://github.com/kubedb/mariadb/commit/b73865f24) Prepare for release v0.51.0-rc.2 (#430)
+- [060d3310](https://github.com/kubedb/mariadb/commit/060d33103) Prepare for release v0.51.0-rc.1 (#429)
+
+
+
 ## [kubedb/migrator](https://github.com/kubedb/migrator)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/migrator/releases/tag/v0.7.0-rc.2)

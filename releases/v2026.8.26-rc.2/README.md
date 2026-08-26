@@ -304,6 +304,15 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.51.0-rc.2](https://github.com/kubedb/pg-coordinator/releases/tag/v0.51.0-rc.2)
+
+- [c4078ad7](https://github.com/kubedb/pg-coordinator/commit/c4078ad7) Prepare for release v0.51.0-rc.2 (#277)
+- [afd510df](https://github.com/kubedb/pg-coordinator/commit/afd510df) Prepare for release v0.51.0-rc.1 (#276)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.22.0-rc.2](https://github.com/kubedb/pgpool/releases/tag/v0.22.0-rc.2)

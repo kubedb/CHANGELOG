@@ -51,6 +51,15 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.25.0-rc.2](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.25.0-rc.2)
+
+- [b5a775db](https://github.com/kubedb/dashboard-restic-plugin/commit/b5a775db) Prepare for release v0.25.0-rc.2 (#87)
+- [17cbb91d](https://github.com/kubedb/dashboard-restic-plugin/commit/17cbb91d) Prepare for release v0.25.0-rc.1 (#86)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.22.0-rc.2](https://github.com/kubedb/db-client-go/releases/tag/v0.22.0-rc.2)

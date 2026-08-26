@@ -241,6 +241,19 @@
 
 
 
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2026.8.26-rc.2](https://github.com/kubedb/installer/releases/tag/v2026.8.26-rc.2)
+
+- [3c68c3b9](https://github.com/kubedb/installer/commit/3c68c3b93) Prepare for release v2026.8.26-rc.2 (#2427)
+- [2aaa9e1d](https://github.com/kubedb/installer/commit/2aaa9e1d5) Add disableVersions to kubedb-catalog (#2426)
+- [7ea6575e](https://github.com/kubedb/installer/commit/7ea6575e3) Fix script
+- [6be4d91d](https://github.com/kubedb/installer/commit/6be4d91d3) Add Postgres Enterprise by AppsCode 16.9 catalog versions (#2425)
+- [24f4e6db](https://github.com/kubedb/installer/commit/24f4e6db3) Add kubedb-courier-addon-manager chart (#2365)
+- [0c6e2459](https://github.com/kubedb/installer/commit/0c6e2459d) Update Neo4j Addon (#2422)
+
+
+
 ## [kubedb/kafka](https://github.com/kubedb/kafka)
 
 ### [v0.38.0-rc.2](https://github.com/kubedb/kafka/releases/tag/v0.38.0-rc.2)

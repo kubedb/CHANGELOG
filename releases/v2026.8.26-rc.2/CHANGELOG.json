@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T07:01:58.893733654Z",
+  "release_date": "2026-08-26T09:30:20.478146225Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -510,6 +510,40 @@
             {
               "SHA": "d8ffae05",
               "Subject": "Prepare for release v0.14.0-rc.2 (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/installer",
+      "releases": [
+        {
+          "tag": "v2026.8.26-rc.2",
+          "commits": [
+            {
+              "SHA": "3c68c3b93",
+              "Subject": "Prepare for release v2026.8.26-rc.2 (#2427)"
+            },
+            {
+              "SHA": "2aaa9e1d5",
+              "Subject": "Add disableVersions to kubedb-catalog (#2426)"
+            },
+            {
+              "SHA": "7ea6575e3",
+              "Subject": "Fix script"
+            },
+            {
+              "SHA": "6be4d91d3",
+              "Subject": "Add Postgres Enterprise by AppsCode 16.9 catalog versions (#2425)"
+            },
+            {
+              "SHA": "24f4e6db3",
+              "Subject": "Add kubedb-courier-addon-manager chart (#2365)"
+            },
+            {
+              "SHA": "0c6e2459d",
+              "Subject": "Update Neo4j Addon (#2422)"
             }
           ]
         }

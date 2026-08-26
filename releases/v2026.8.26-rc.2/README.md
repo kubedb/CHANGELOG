@@ -24,6 +24,15 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.7.0-rc.2](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.7.0-rc.2)
+
+- [83e3f954](https://github.com/kubedb/hanadb-coordinator/commit/83e3f954) Prepare for release v0.7.0-rc.2 (#24)
+- [4946cd74](https://github.com/kubedb/hanadb-coordinator/commit/4946cd74) Prepare for release v0.7.0-rc.1 (#23)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.22.0-rc.2](https://github.com/kubedb/mssqlserver/releases/tag/v0.22.0-rc.2)

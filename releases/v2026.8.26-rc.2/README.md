@@ -506,6 +506,13 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/provider-azure/releases/tag/v0.28.0-rc.2)
+
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.8.0-rc.2](https://github.com/kubedb/qdrant/releases/tag/v0.8.0-rc.2)

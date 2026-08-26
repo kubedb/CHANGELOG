@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T05:44:01.012534374Z",
+  "release_date": "2026-08-26T05:44:11.146953626Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -144,6 +144,28 @@
             {
               "SHA": "974b15b",
               "Subject": "Add README"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.15.0-rc.2",
+          "commits": [
+            {
+              "SHA": "0e39fe7e",
+              "Subject": "Prepare for release v0.15.0-rc.2 (#93)"
+            },
+            {
+              "SHA": "01a03f3e",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#92)"
+            },
+            {
+              "SHA": "6da96309",
+              "Subject": "Add Etcd GitOps support (#91)"
             }
           ]
         }

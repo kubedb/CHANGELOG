@@ -73,6 +73,16 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.15.0-rc.2](https://github.com/kubedb/gitops/releases/tag/v0.15.0-rc.2)
+
+- [0e39fe7e](https://github.com/kubedb/gitops/commit/0e39fe7e) Prepare for release v0.15.0-rc.2 (#93)
+- [01a03f3e](https://github.com/kubedb/gitops/commit/01a03f3e) Prepare for release v0.15.0-rc.1 (#92)
+- [6da96309](https://github.com/kubedb/gitops/commit/6da96309) Add Etcd GitOps support (#91)
+
+
+
 ## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.7.0-rc.2)

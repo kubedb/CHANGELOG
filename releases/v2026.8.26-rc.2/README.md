@@ -155,6 +155,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.28.0-rc.2](https://github.com/kubedb/mysql-archiver/releases/tag/v0.28.0-rc.2)
+
+- [82342bcb](https://github.com/kubedb/mysql-archiver/commit/82342bcb) Prepare for release v0.28.0-rc.2 (#117)
+- [d4e1e633](https://github.com/kubedb/mysql-archiver/commit/d4e1e633) Prepare for release v0.28.0-rc.1 (#116)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.54.0-rc.2](https://github.com/kubedb/percona-xtradb/releases/tag/v0.54.0-rc.2)

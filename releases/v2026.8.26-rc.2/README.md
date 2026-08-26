@@ -50,3 +50,11 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.8.0-rc.2](https://github.com/kubedb/weaviate/releases/tag/v0.8.0-rc.2)
+
+- [bdd46c25](https://github.com/kubedb/weaviate/commit/bdd46c25) Prepare for release v0.8.0-rc.2 (#62)
+
+
+

@@ -130,6 +130,33 @@
 
 
 
+## [kubedb/etcd](https://github.com/kubedb/etcd)
+
+### [v0.1.0-rc.2](https://github.com/kubedb/etcd/releases/tag/v0.1.0-rc.2)
+
+- [5cb73db9](https://github.com/kubedb/etcd/commit/5cb73db9) Prepare for release v0.1.0-rc.2 (#2)
+- [21238611](https://github.com/kubedb/etcd/commit/21238611) Export SetupControllers so the shared provisioner can host the Etcd reconciler
+- [12810fdd](https://github.com/kubedb/etcd/commit/12810fdd) Fix the 3 golangci-lint findings CI surfaced on the first real lint run
+- [1847985e](https://github.com/kubedb/etcd/commit/1847985e) Bump apimachinery and db-client-go to their merged commits
+- [4566192e](https://github.com/kubedb/etcd/commit/4566192e) Add DESIGN.md
+- [3b8125c2](https://github.com/kubedb/etcd/commit/3b8125c2) rotate_auth: detect auth-enabled state via AuthStatus, not an empty password
+- [cb12031a](https://github.com/kubedb/etcd/commit/cb12031a) vendor: pull in db-client-go's IsQuorumHealthy fixes
+- [a0eb2756](https://github.com/kubedb/etcd/commit/a0eb2756) Fix the bugs a review of the ops engine and the provisioner turned up
+- [1cdbd973](https://github.com/kubedb/etcd/commit/1cdbd973) Add the Restore ops request
+- [a6c6a7b1](https://github.com/kubedb/etcd/commit/a6c6a7b1) Add the RecoverFromQuorumLoss ops request
+- [f813b78f](https://github.com/kubedb/etcd/commit/f813b78f) Honour user supplied etcd flags and extract the pod surgery helper
+- [a8928345](https://github.com/kubedb/etcd/commit/a8928345) Adapt Makefile/hack/docker to etcd and add CI workflows
+- [f60087f6](https://github.com/kubedb/etcd/commit/f60087f6) cert-manager reconciler: watch Secret/Issuer/ClusterIssuer
+- [5bb2ede7](https://github.com/kubedb/etcd/commit/5bb2ede7) Convert the OpsRequest engine to controller-runtime style
+- [8b0daa1c](https://github.com/kubedb/etcd/commit/8b0daa1c) Convert the provisioner to controller-runtime style
+- [9ee15323](https://github.com/kubedb/etcd/commit/9ee15323) Fix stats service metrics port, drop unusable metrics-exporter cert, mark horizontal-scaling direction
+- [0492607e](https://github.com/kubedb/etcd/commit/0492607e) Add README
+- [31869898](https://github.com/kubedb/etcd/commit/31869898) Wire EtcdArchiver snapshot backup/restore (KubeStash)
+- [0984b4d2](https://github.com/kubedb/etcd/commit/0984b4d2) Add etcd OpsRequest execution engine (etcd-ops)
+- [e8557f9f](https://github.com/kubedb/etcd/commit/e8557f9f) Add etcd provisioner: PetSet, membership reconciliation, TLS, AppBinding, monitoring
+
+
+
 ## [kubedb/etcd-restic-plugin](https://github.com/kubedb/etcd-restic-plugin)
 
 ### [v0.1.0-rc.2](https://github.com/kubedb/etcd-restic-plugin/releases/tag/v0.1.0-rc.2)

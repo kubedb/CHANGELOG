@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T06:13:47.401126468Z",
+  "release_date": "2026-08-26T06:13:54.06361371Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -246,6 +246,96 @@
             {
               "SHA": "8b2a3fe9",
               "Subject": "Prepare for release v0.30.0-rc.1 (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/etcd",
+      "releases": [
+        {
+          "tag": "v0.1.0-rc.2",
+          "commits": [
+            {
+              "SHA": "5cb73db9",
+              "Subject": "Prepare for release v0.1.0-rc.2 (#2)"
+            },
+            {
+              "SHA": "21238611",
+              "Subject": "Export SetupControllers so the shared provisioner can host the Etcd reconciler"
+            },
+            {
+              "SHA": "12810fdd",
+              "Subject": "Fix the 3 golangci-lint findings CI surfaced on the first real lint run"
+            },
+            {
+              "SHA": "1847985e",
+              "Subject": "Bump apimachinery and db-client-go to their merged commits"
+            },
+            {
+              "SHA": "4566192e",
+              "Subject": "Add DESIGN.md"
+            },
+            {
+              "SHA": "3b8125c2",
+              "Subject": "rotate_auth: detect auth-enabled state via AuthStatus, not an empty password"
+            },
+            {
+              "SHA": "cb12031a",
+              "Subject": "vendor: pull in db-client-go's IsQuorumHealthy fixes"
+            },
+            {
+              "SHA": "a0eb2756",
+              "Subject": "Fix the bugs a review of the ops engine and the provisioner turned up"
+            },
+            {
+              "SHA": "1cdbd973",
+              "Subject": "Add the Restore ops request"
+            },
+            {
+              "SHA": "a6c6a7b1",
+              "Subject": "Add the RecoverFromQuorumLoss ops request"
+            },
+            {
+              "SHA": "f813b78f",
+              "Subject": "Honour user supplied etcd flags and extract the pod surgery helper"
+            },
+            {
+              "SHA": "a8928345",
+              "Subject": "Adapt Makefile/hack/docker to etcd and add CI workflows"
+            },
+            {
+              "SHA": "f60087f6",
+              "Subject": "cert-manager reconciler: watch Secret/Issuer/ClusterIssuer"
+            },
+            {
+              "SHA": "5bb2ede7",
+              "Subject": "Convert the OpsRequest engine to controller-runtime style"
+            },
+            {
+              "SHA": "8b0daa1c",
+              "Subject": "Convert the provisioner to controller-runtime style"
+            },
+            {
+              "SHA": "9ee15323",
+              "Subject": "Fix stats service metrics port, drop unusable metrics-exporter cert, mark horizontal-scaling direction"
+            },
+            {
+              "SHA": "0492607e",
+              "Subject": "Add README"
+            },
+            {
+              "SHA": "31869898",
+              "Subject": "Wire EtcdArchiver snapshot backup/restore (KubeStash)"
+            },
+            {
+              "SHA": "0984b4d2",
+              "Subject": "Add etcd OpsRequest execution engine (etcd-ops)"
+            },
+            {
+              "SHA": "e8557f9f",
+              "Subject": "Add etcd provisioner: PetSet, membership reconciliation, TLS, AppBinding, monitoring"
             }
           ]
         }

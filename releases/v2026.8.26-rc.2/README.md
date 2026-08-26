@@ -101,6 +101,14 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.38.0-rc.2](https://github.com/kubedb/kafka/releases/tag/v0.38.0-rc.2)
+
+- [877b1bd2](https://github.com/kubedb/kafka/commit/877b1bd2) Prepare for release v0.38.0-rc.2 (#220)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.18.0-rc.2](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.18.0-rc.2)

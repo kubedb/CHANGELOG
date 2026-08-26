@@ -270,6 +270,15 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.22.0-rc.2](https://github.com/kubedb/pgpool/releases/tag/v0.22.0-rc.2)
+
+- [ca61fed3](https://github.com/kubedb/pgpool/commit/ca61fed3) Prepare for release v0.22.0-rc.2 (#146)
+- [8e775fe2](https://github.com/kubedb/pgpool/commit/8e775fe2) Prepare for release v0.22.0-rc.1 (#145)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.28.0-rc.2](https://github.com/kubedb/postgres-archiver/releases/tag/v0.28.0-rc.2)

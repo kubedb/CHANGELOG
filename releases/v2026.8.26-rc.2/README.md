@@ -59,6 +59,15 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.8.0-rc.2](https://github.com/kubedb/db2-coordinator/releases/tag/v0.8.0-rc.2)
+
+- [5a5f946](https://github.com/kubedb/db2-coordinator/commit/5a5f946) Prepare for release v0.8.0-rc.2 (#20)
+- [6f26b16](https://github.com/kubedb/db2-coordinator/commit/6f26b16) Prepare for release v0.8.0-rc.1 (#19)
+
+
+
 ## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
 
 ### [v0.3.0-rc.2](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.3.0-rc.2)

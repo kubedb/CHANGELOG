@@ -51,6 +51,15 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.13.0-rc.2](https://github.com/kubedb/hazelcast/releases/tag/v0.13.0-rc.2)
+
+- [a70a49bc](https://github.com/kubedb/hazelcast/commit/a70a49bc) Prepare for release v0.13.0-rc.2 (#68)
+- [76480d46](https://github.com/kubedb/hazelcast/commit/76480d46) Prepare for release v0.13.0-rc.1 (#67)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.18.0-rc.2](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.18.0-rc.2)

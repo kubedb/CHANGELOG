@@ -416,6 +416,15 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.13.0-rc.2](https://github.com/kubedb/oracle/releases/tag/v0.13.0-rc.2)
+
+- [8fade5e6](https://github.com/kubedb/oracle/commit/8fade5e6) Prepare for release v0.13.0-rc.2 (#85)
+- [43336e9a](https://github.com/kubedb/oracle/commit/43336e9a) Only watch virtual-secrets Secret when the CRD is installed (#83)
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.13.0-rc.2](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.13.0-rc.2)

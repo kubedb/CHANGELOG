@@ -391,6 +391,17 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.67.0-rc.2](https://github.com/kubedb/postgres/releases/tag/v0.67.0-rc.2)
+
+- [2ccb9242](https://github.com/kubedb/postgres/commit/2ccb92429) Prepare for release v0.67.0-rc.2 (#932)
+- [7f83ef35](https://github.com/kubedb/postgres/commit/7f83ef35f) Prepare for release v0.67.0-rc.1 (#931)
+- [52fab24a](https://github.com/kubedb/postgres/commit/52fab24ae) Project configSecret key user_hba.conf into the config volume (#929)
+- [4dde82f7](https://github.com/kubedb/postgres/commit/4dde82f7d) Add Postgres license support for the AppsCode Enterprise distribution (#930)
+
+
+
 ## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
 
 ### [v0.28.0-rc.2](https://github.com/kubedb/postgres-archiver/releases/tag/v0.28.0-rc.2)

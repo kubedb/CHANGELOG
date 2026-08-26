@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T06:13:30.770955734Z",
+  "release_date": "2026-08-26T06:13:47.401126468Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -768,6 +768,32 @@
             {
               "SHA": "8e775fe2",
               "Subject": "Prepare for release v0.22.0-rc.1 (#145)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.67.0-rc.2",
+          "commits": [
+            {
+              "SHA": "2ccb92429",
+              "Subject": "Prepare for release v0.67.0-rc.2 (#932)"
+            },
+            {
+              "SHA": "7f83ef35f",
+              "Subject": "Prepare for release v0.67.0-rc.1 (#931)"
+            },
+            {
+              "SHA": "52fab24ae",
+              "Subject": "Project configSecret key user_hba.conf into the config volume (#929)"
+            },
+            {
+              "SHA": "4dde82f7d",
+              "Subject": "Add Postgres license support for the AppsCode Enterprise distribution (#930)"
             }
           ]
         }

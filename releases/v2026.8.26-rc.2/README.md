@@ -313,6 +313,14 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.30.0-rc.2](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.30.0-rc.2)
+
+- [1685bd96](https://github.com/kubedb/postgres-restic-plugin/commit/1685bd96) Prepare for release v0.30.0-rc.2 (#125)
+
+
+
 ## [kubedb/qdrant-restic-plugin](https://github.com/kubedb/qdrant-restic-plugin)
 
 ### [v0.3.0-rc.2](https://github.com/kubedb/qdrant-restic-plugin/releases/tag/v0.3.0-rc.2)

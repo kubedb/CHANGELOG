@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T05:47:05.874046174Z",
+  "release_date": "2026-08-26T05:51:56.547494849Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -672,6 +672,24 @@
             {
               "SHA": "e770aa63",
               "Subject": "Prepare for release v0.22.0-rc.2 (#147)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.25.0-rc.2",
+          "commits": [
+            {
+              "SHA": "f5db3d86",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#97)"
+            },
+            {
+              "SHA": "aca72da8",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#96)"
             }
           ]
         }

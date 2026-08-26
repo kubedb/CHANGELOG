@@ -340,6 +340,15 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.25.0-rc.2](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.25.0-rc.2)
+
+- [f5db3d86](https://github.com/kubedb/singlestore-restic-plugin/commit/f5db3d86) Prepare for release v0.25.0-rc.2 (#97)
+- [aca72da8](https://github.com/kubedb/singlestore-restic-plugin/commit/aca72da8) Prepare for release v0.25.0-rc.1 (#96)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.52.0-rc.2](https://github.com/kubedb/tests/releases/tag/v0.52.0-rc.2)

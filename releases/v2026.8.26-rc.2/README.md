@@ -180,6 +180,14 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.8.0-rc.2](https://github.com/kubedb/hanadb/releases/tag/v0.8.0-rc.2)
+
+- [878f2041](https://github.com/kubedb/hanadb/commit/878f2041) Prepare for release v0.8.0-rc.2 (#62)
+
+
+
 ## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.7.0-rc.2)

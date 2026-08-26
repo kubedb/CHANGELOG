@@ -244,6 +244,15 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.60.0-rc.2](https://github.com/kubedb/redis/releases/tag/v0.60.0-rc.2)
+
+- [8b388b37](https://github.com/kubedb/redis/commit/8b388b377) Prepare for release v0.60.0-rc.2 (#678)
+- [282f64f7](https://github.com/kubedb/redis/commit/282f64f70) Prepare for release v0.60.0-rc.1 (#677)
+
+
+
 ## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
 
 ### [v0.30.0-rc.2](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.30.0-rc.2)

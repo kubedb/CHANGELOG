@@ -145,6 +145,15 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.27.0-rc.2](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.27.0-rc.2)
+
+- [e8899069](https://github.com/kubedb/mariadb-archiver/commit/e8899069) Prepare for release v0.27.0-rc.2 (#104)
+- [0a816c0e](https://github.com/kubedb/mariadb-archiver/commit/0a816c0e) Prepare for release v0.27.0-rc.1 (#103)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.25.0-rc.2](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.25.0-rc.2)

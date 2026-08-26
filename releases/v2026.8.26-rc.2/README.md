@@ -8,6 +8,16 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.22.0-rc.2](https://github.com/kubedb/clickhouse/releases/tag/v0.22.0-rc.2)
+
+- [044be1f7](https://github.com/kubedb/clickhouse/commit/044be1f7) Prepare for release v0.22.0-rc.2 (#137)
+- [51b3c5f7](https://github.com/kubedb/clickhouse/commit/51b3c5f7) Prepare for release v0.22.0-rc.1 (#136)
+- [ef2a8ceb](https://github.com/kubedb/clickhouse/commit/ef2a8ceb) Fix Shard Scale Fail  for equal no of Shard (#135)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.22.0-rc.2](https://github.com/kubedb/crd-manager/releases/tag/v0.22.0-rc.2)

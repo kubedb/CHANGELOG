@@ -32,3 +32,12 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.21.0-rc.2](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.21.0-rc.2)
+
+- [d7e11547](https://github.com/kubedb/mssqlserver-walg-plugin/commit/d7e11547) Prepare for release v0.21.0-rc.2 (#70)
+- [9e36bfed](https://github.com/kubedb/mssqlserver-walg-plugin/commit/9e36bfed) Prepare for release v0.21.0-rc.1 (#69)
+
+
+

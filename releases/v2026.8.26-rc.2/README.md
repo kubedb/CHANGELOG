@@ -62,6 +62,15 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.60.0-rc.2](https://github.com/kubedb/mongodb/releases/tag/v0.60.0-rc.2)
+
+- [46539ef2](https://github.com/kubedb/mongodb/commit/46539ef20) Prepare for release v0.60.0-rc.2 (#785)
+- [2c3af67f](https://github.com/kubedb/mongodb/commit/2c3af67f2) Prepare for release v0.60.0-rc.1 (#784)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.28.0-rc.2](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.28.0-rc.2)

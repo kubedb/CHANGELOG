@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T05:46:28.760294094Z",
+  "release_date": "2026-08-26T05:46:43.976642155Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -572,6 +572,24 @@
             {
               "SHA": "0b2e713",
               "Subject": "Prepare for release v0.3.0-rc.1 (#11)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.22.0-rc.2",
+          "commits": [
+            {
+              "SHA": "1874c2f9",
+              "Subject": "Prepare for release v0.22.0-rc.2 (#156)"
+            },
+            {
+              "SHA": "86a6bb4b",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#155)"
             }
           ]
         }

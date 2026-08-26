@@ -288,6 +288,15 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.22.0-rc.2](https://github.com/kubedb/rabbitmq/releases/tag/v0.22.0-rc.2)
+
+- [1874c2f9](https://github.com/kubedb/rabbitmq/commit/1874c2f9) Prepare for release v0.22.0-rc.2 (#156)
+- [86a6bb4b](https://github.com/kubedb/rabbitmq/commit/86a6bb4b) Prepare for release v0.22.0-rc.1 (#155)
+
+
+
 ## [kubedb/redis](https://github.com/kubedb/redis)
 
 ### [v0.60.0-rc.2](https://github.com/kubedb/redis/releases/tag/v0.60.0-rc.2)

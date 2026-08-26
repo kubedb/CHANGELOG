@@ -1,4 +1,4 @@
-# KubeDB v2026.8.26-rc.2 (2026-08-25)
+# KubeDB v2026.8.26-rc.2 (2026-08-26)
 
 
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
@@ -21,6 +21,14 @@
 ### [v0.22.0-rc.2](https://github.com/kubedb/db-client-go/releases/tag/v0.22.0-rc.2)
 
 - [cfe9ea0b](https://github.com/kubedb/db-client-go/commit/cfe9ea0b) Prepare for release v0.22.0-rc.2 (#265)
+
+
+
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.22.0-rc.2](https://github.com/kubedb/mssqlserver/releases/tag/v0.22.0-rc.2)
+
+- [63ce4105](https://github.com/kubedb/mssqlserver/commit/63ce4105) Prepare for release v0.22.0-rc.2 (#159)
 
 
 

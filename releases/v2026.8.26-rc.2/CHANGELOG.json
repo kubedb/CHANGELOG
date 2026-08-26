@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T05:45:04.392714628Z",
+  "release_date": "2026-08-26T05:45:11.828461302Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -396,6 +396,24 @@
             {
               "SHA": "9819d7b6",
               "Subject": "Prepare for release v0.45.0-rc.1 (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.13.0-rc.2",
+          "commits": [
+            {
+              "SHA": "4a8e34f",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#47)"
+            },
+            {
+              "SHA": "bc1a81a",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#46)"
             }
           ]
         }

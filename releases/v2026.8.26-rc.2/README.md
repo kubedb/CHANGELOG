@@ -250,6 +250,14 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.8.0-rc.2](https://github.com/kubedb/milvus/releases/tag/v0.8.0-rc.2)
+
+- [c838b4d9](https://github.com/kubedb/milvus/commit/c838b4d9) Prepare for release v0.8.0-rc.2 (#65)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.60.0-rc.2](https://github.com/kubedb/mongodb/releases/tag/v0.60.0-rc.2)

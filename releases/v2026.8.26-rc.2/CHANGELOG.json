@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T06:12:09.967705926Z",
+  "release_date": "2026-08-26T06:12:28.650804559Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -492,6 +492,20 @@
             {
               "SHA": "20d0ec20",
               "Subject": "Fix MSSQL snapshot FK disable retries and CDC start LSN validation (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.8.0-rc.2",
+          "commits": [
+            {
+              "SHA": "c838b4d9",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#65)"
             }
           ]
         }

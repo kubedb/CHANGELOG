@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T05:42:33.457420221Z",
+  "release_date": "2026-08-26T05:42:41.56912968Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -332,6 +332,24 @@
             {
               "SHA": "9de43b9a",
               "Subject": "Prepare for release v0.28.0-rc.1 (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0-rc.2",
+          "commits": [
+            {
+              "SHA": "0bc1f5b",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#12)"
+            },
+            {
+              "SHA": "0b2e713",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#11)"
             }
           ]
         }

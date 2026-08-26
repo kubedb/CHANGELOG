@@ -165,6 +165,15 @@
 
 
 
+## [kubedb/qdrant-restic-plugin](https://github.com/kubedb/qdrant-restic-plugin)
+
+### [v0.3.0-rc.2](https://github.com/kubedb/qdrant-restic-plugin/releases/tag/v0.3.0-rc.2)
+
+- [0bc1f5b](https://github.com/kubedb/qdrant-restic-plugin/commit/0bc1f5b) Prepare for release v0.3.0-rc.2 (#12)
+- [0b2e713](https://github.com/kubedb/qdrant-restic-plugin/commit/0b2e713) Prepare for release v0.3.0-rc.1 (#11)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.8.0-rc.2](https://github.com/kubedb/weaviate/releases/tag/v0.8.0-rc.2)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.8.26-rc.2",
-  "release_date": "2026-08-26T09:30:20.478146225Z",
+  "release_date": "2026-08-26T09:53:44.473237336Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.8.26-rc.2",
   "kubernetes_version": "1.28+",
@@ -210,6 +210,56 @@
             {
               "SHA": "6f26b16",
               "Subject": "Prepare for release v0.8.0-rc.1 (#19)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2026.8.26-rc.2",
+          "commits": [
+            {
+              "SHA": "fb794196",
+              "Subject": "Prepare for release v2026.8.26-rc.2 (#1057)"
+            },
+            {
+              "SHA": "2d2fa10a",
+              "Subject": "Document Postgres spec.license and the AppsCode distribution (#1052)"
+            },
+            {
+              "SHA": "f12e8724",
+              "Subject": "Fix schema validation errors in CI (#1054)"
+            },
+            {
+              "SHA": "5026d850",
+              "Subject": "Update Storage Autoscalling DOCs (#1053)"
+            },
+            {
+              "SHA": "f40acb8f",
+              "Subject": "Update docs for kubedb/cli@ef5de5ad (#1049)"
+            },
+            {
+              "SHA": "a9593ffa",
+              "Subject": "Add etcd user guides (#1050)"
+            },
+            {
+              "SHA": "f0b8bd62",
+              "Subject": "postgres/remote-replica: TLS SAN guidance, custom port, new CLI flags (#1040)"
+            },
+            {
+              "SHA": "f9e0d096",
+              "Subject": "postgres: add migration guide for self-managed sources via remote replica (#1039)"
+            },
+            {
+              "SHA": "e73acd89",
+              "Subject": "postgres: add zero-data-loss cross-cluster replication guide (#1038)"
+            },
+            {
+              "SHA": "d1732dd6",
+              "Subject": "Postgres Remote Replica Docs for Data Center Failover + Failback (#910)"
             }
           ]
         }

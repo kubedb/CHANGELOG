@@ -112,6 +112,23 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.8.26-rc.2](https://github.com/kubedb/docs/releases/tag/v2026.8.26-rc.2)
+
+- [fb794196](https://github.com/kubedb/docs/commit/fb794196) Prepare for release v2026.8.26-rc.2 (#1057)
+- [2d2fa10a](https://github.com/kubedb/docs/commit/2d2fa10a) Document Postgres spec.license and the AppsCode distribution (#1052)
+- [f12e8724](https://github.com/kubedb/docs/commit/f12e8724) Fix schema validation errors in CI (#1054)
+- [5026d850](https://github.com/kubedb/docs/commit/5026d850) Update Storage Autoscalling DOCs (#1053)
+- [f40acb8f](https://github.com/kubedb/docs/commit/f40acb8f) Update docs for kubedb/cli@ef5de5ad (#1049)
+- [a9593ffa](https://github.com/kubedb/docs/commit/a9593ffa) Add etcd user guides (#1050)
+- [f0b8bd62](https://github.com/kubedb/docs/commit/f0b8bd62) postgres/remote-replica: TLS SAN guidance, custom port, new CLI flags (#1040)
+- [f9e0d096](https://github.com/kubedb/docs/commit/f9e0d096) postgres: add migration guide for self-managed sources via remote replica (#1039)
+- [e73acd89](https://github.com/kubedb/docs/commit/e73acd89) postgres: add zero-data-loss cross-cluster replication guide (#1038)
+- [d1732dd6](https://github.com/kubedb/docs/commit/d1732dd6) Postgres Remote Replica Docs for Data Center Failover + Failback (#910)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.4.0-rc.2](https://github.com/kubedb/documentdb/releases/tag/v0.4.0-rc.2)

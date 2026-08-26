@@ -226,6 +226,14 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.22.0-rc.2](https://github.com/kubedb/singlestore/releases/tag/v0.22.0-rc.2)
+
+- [e770aa63](https://github.com/kubedb/singlestore/commit/e770aa63) Prepare for release v0.22.0-rc.2 (#147)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.52.0-rc.2](https://github.com/kubedb/tests/releases/tag/v0.52.0-rc.2)

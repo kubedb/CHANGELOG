@@ -710,6 +710,14 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.43.0-rc.2](https://github.com/kubedb/webhook-server/releases/tag/v0.43.0-rc.2)
+
+- [40d19ceb](https://github.com/kubedb/webhook-server/commit/40d19ceb4) Prepare for release v0.43.0-rc.2 (#235)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.15.0-rc.2](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.15.0-rc.2)

@@ -109,6 +109,14 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.25.0-rc.2](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.25.0-rc.2)
+
+- [356bcc77](https://github.com/kubedb/mariadb-restic-plugin/commit/356bcc77) Prepare for release v0.25.0-rc.2 (#104)
+
+
+
 ## [kubedb/migrator](https://github.com/kubedb/migrator)
 
 ### [v0.7.0-rc.2](https://github.com/kubedb/migrator/releases/tag/v0.7.0-rc.2)

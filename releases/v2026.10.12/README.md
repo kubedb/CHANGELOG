@@ -537,6 +537,20 @@
 
 
 
+## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
+
+### [v0.22.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.22.0)
+
+- [05422ba9](https://github.com/kubedb/mssqlserver-walg-plugin/commit/05422ba9) Prepare for release v0.22.0 (#72)
+- [2146c995](https://github.com/kubedb/mssqlserver-walg-plugin/commit/2146c995) Use Go 1.27, k8s 1.37 & debian:13 (#71)
+- [d7e11547](https://github.com/kubedb/mssqlserver-walg-plugin/commit/d7e11547) Prepare for release v0.21.0-rc.2 (#70)
+- [9e36bfed](https://github.com/kubedb/mssqlserver-walg-plugin/commit/9e36bfed) Prepare for release v0.21.0-rc.1 (#69)
+- [795d6e08](https://github.com/kubedb/mssqlserver-walg-plugin/commit/795d6e08) Prepare for release v0.21.0-rc.0 (#68)
+- [4b43a1c5](https://github.com/kubedb/mssqlserver-walg-plugin/commit/4b43a1c5) Prepare for release v0.20.0-rc.0 (#67)
+- [12f92505](https://github.com/kubedb/mssqlserver-walg-plugin/commit/12f92505) Integrate virtual secret (#64)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.61.0](https://github.com/kubedb/mysql/releases/tag/v0.61.0)

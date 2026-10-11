@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:43:20.668873843Z",
+  "release_date": "2026-10-11T09:43:28.880310052Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1676,6 +1676,44 @@
             {
               "SHA": "ddc48b66",
               "Subject": "Move deletion logic to apimachinery (#153)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-walg-plugin",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "05422ba9",
+              "Subject": "Prepare for release v0.22.0 (#72)"
+            },
+            {
+              "SHA": "2146c995",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#71)"
+            },
+            {
+              "SHA": "d7e11547",
+              "Subject": "Prepare for release v0.21.0-rc.2 (#70)"
+            },
+            {
+              "SHA": "9e36bfed",
+              "Subject": "Prepare for release v0.21.0-rc.1 (#69)"
+            },
+            {
+              "SHA": "795d6e08",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#68)"
+            },
+            {
+              "SHA": "4b43a1c5",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#67)"
+            },
+            {
+              "SHA": "12f92505",
+              "Subject": "Integrate virtual secret (#64)"
             }
           ]
         }

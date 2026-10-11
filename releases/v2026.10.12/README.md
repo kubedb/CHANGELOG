@@ -733,6 +733,26 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.23.0](https://github.com/kubedb/singlestore/releases/tag/v0.23.0)
+
+- [d03ff036](https://github.com/kubedb/singlestore/commit/d03ff036) Prepare for release v0.23.0 (#150)
+- [797a3f2f](https://github.com/kubedb/singlestore/commit/797a3f2f) Use Go 1.27, k8s 1.37 & debian:13 (#149)
+- [8b33402b](https://github.com/kubedb/singlestore/commit/8b33402b) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [5947b4ce](https://github.com/kubedb/singlestore/commit/5947b4ce) Sync Services with spec.serviceTemplates via shared helper (#148)
+- [e770aa63](https://github.com/kubedb/singlestore/commit/e770aa63) Prepare for release v0.22.0-rc.2 (#147)
+- [894f6c05](https://github.com/kubedb/singlestore/commit/894f6c05) Prepare for release v0.22.0-rc.1 (#146)
+- [72bc1182](https://github.com/kubedb/singlestore/commit/72bc1182) Only watch virtual-secrets Secret when the CRD is installed (#145)
+- [6f9da672](https://github.com/kubedb/singlestore/commit/6f9da672) Prepare for release v0.22.0-rc.0 (#144)
+- [1787b18b](https://github.com/kubedb/singlestore/commit/1787b18b) Prepare for release v0.21.0-rc.0 (#143)
+- [d0ac823e](https://github.com/kubedb/singlestore/commit/d0ac823e) Use shared apimachinery secret package (#142)
+- [264909c1](https://github.com/kubedb/singlestore/commit/264909c1) Use shared monitor and appbinding packages (#141)
+- [7ff8879b](https://github.com/kubedb/singlestore/commit/7ff8879b) Add virtual secret support (#123)
+- [ae4ba9ce](https://github.com/kubedb/singlestore/commit/ae4ba9ce) Move deletion logic to apimachinery (#140)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.26.0)

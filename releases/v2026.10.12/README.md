@@ -619,6 +619,17 @@
 
 
 
+## [kubedb/mariadb-csi-snapshotter-plugin](https://github.com/kubedb/mariadb-csi-snapshotter-plugin)
+
+### [v0.28.0](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/releases/tag/v0.28.0)
+
+- [49825793](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/49825793) Prepare for release v0.28.0 (#89)
+- [11791dd5](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/11791dd5) Use Go 1.27, k8s 1.37 & debian:13 (#88)
+- [7af0e9d9](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/7af0e9d9) Prepare for release v0.27.0-rc.2 (#86)
+- [085bf2f2](https://github.com/kubedb/mariadb-csi-snapshotter-plugin/commit/085bf2f2) Prepare for release v0.27.0-rc.0 (#85)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.26.0)

@@ -143,6 +143,26 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.23.0](https://github.com/kubedb/druid/releases/tag/v0.23.0)
+
+- [c6aba64e](https://github.com/kubedb/druid/commit/c6aba64e) Prepare for release v0.23.0 (#159)
+- [c90744b6](https://github.com/kubedb/druid/commit/c90744b6) Use Go 1.27, k8s 1.37 & debian:13 (#158)
+- [06463290](https://github.com/kubedb/druid/commit/06463290) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [a4813609](https://github.com/kubedb/druid/commit/a4813609) Sync Services with spec.serviceTemplates via shared helper (#157)
+- [a1b656c8](https://github.com/kubedb/druid/commit/a1b656c8) Prepare for release v0.22.0-rc.2 (#156)
+- [4dfdca51](https://github.com/kubedb/druid/commit/4dfdca51) Fix AppBinding URL Scheme (#154)
+- [b9ad65ca](https://github.com/kubedb/druid/commit/b9ad65ca) Prepare for release v0.22.0-rc.0 (#153)
+- [14081e59](https://github.com/kubedb/druid/commit/14081e59) Prepare for release v0.21.0-rc.0 (#152)
+- [91905bb4](https://github.com/kubedb/druid/commit/91905bb4) Migrate to shared auth-secret package (#151)
+- [3d9469d6](https://github.com/kubedb/druid/commit/3d9469d6) Adopt shared monitor/appbinding packages from apimachinery (#150)
+- [247bfac0](https://github.com/kubedb/druid/commit/247bfac0) Add virtual secret support (#133)
+- [7abb51db](https://github.com/kubedb/druid/commit/7abb51db) Set default resource limits before patching petset in vertical scaling (#148)
+- [0a1e5aac](https://github.com/kubedb/druid/commit/0a1e5aac) Move deletion logic to apimachinery (#149)
+
+
+
 ## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
 
 ### [v0.68.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.68.0)

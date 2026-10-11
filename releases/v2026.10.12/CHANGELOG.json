@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:38:24.539431202Z",
+  "release_date": "2026-10-11T09:38:35.868836885Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1052,6 +1052,40 @@
             {
               "SHA": "b4564765a",
               "Subject": "Move deletion logic to apimachinery (#771)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "74e43295",
+              "Subject": "Prepare for release v0.29.0 (#119)"
+            },
+            {
+              "SHA": "a6964253",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#118)"
+            },
+            {
+              "SHA": "82342bcb",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#117)"
+            },
+            {
+              "SHA": "d4e1e633",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#116)"
+            },
+            {
+              "SHA": "e0da0940",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#115)"
+            },
+            {
+              "SHA": "8d7d93e7",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#113)"
             }
           ]
         }

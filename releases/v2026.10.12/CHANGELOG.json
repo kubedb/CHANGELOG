@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:45:03.350066634Z",
+  "release_date": "2026-10-11T09:45:13.660807422Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -2778,6 +2778,60 @@
             {
               "SHA": "eda65ceb5",
               "Subject": "Merge pull request #915 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-archiver",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "2512b94a",
+              "Subject": "Prepare for release v0.29.0 (#126)"
+            },
+            {
+              "SHA": "3494ed67",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#125)"
+            },
+            {
+              "SHA": "219d8596",
+              "Subject": "Add 16.9-stream9 archiver image for Postgres Enterprise (#123)"
+            },
+            {
+              "SHA": "cfdfa2f9",
+              "Subject": "Fix UBI image build failure for 17.9-percona (#122)"
+            },
+            {
+              "SHA": "61113d99",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#120)"
+            },
+            {
+              "SHA": "9de43b9a",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#119)"
+            },
+            {
+              "SHA": "33c25dd3",
+              "Subject": "Add 17.9-percona to the release build matrix (#118)"
+            },
+            {
+              "SHA": "760aa637",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#117)"
+            },
+            {
+              "SHA": "9ee6f7aa",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#116)"
+            },
+            {
+              "SHA": "9b64fafc",
+              "Subject": "Build the postgres-archiver from the Percona image for 17.9-percona (pg_tde PITR) (#115)"
+            },
+            {
+              "SHA": "4d647cb7",
+              "Subject": "Merge pull request #114 from kubedb/v2026.7.10-master"
             }
           ]
         }

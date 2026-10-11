@@ -898,6 +898,24 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.29.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.29.0)
+
+- [2512b94a](https://github.com/kubedb/postgres-archiver/commit/2512b94a) Prepare for release v0.29.0 (#126)
+- [3494ed67](https://github.com/kubedb/postgres-archiver/commit/3494ed67) Use Go 1.27, k8s 1.37 & debian:13 (#125)
+- [219d8596](https://github.com/kubedb/postgres-archiver/commit/219d8596) Add 16.9-stream9 archiver image for Postgres Enterprise (#123)
+- [cfdfa2f9](https://github.com/kubedb/postgres-archiver/commit/cfdfa2f9) Fix UBI image build failure for 17.9-percona (#122)
+- [61113d99](https://github.com/kubedb/postgres-archiver/commit/61113d99) Prepare for release v0.28.0-rc.2 (#120)
+- [9de43b9a](https://github.com/kubedb/postgres-archiver/commit/9de43b9a) Prepare for release v0.28.0-rc.1 (#119)
+- [33c25dd3](https://github.com/kubedb/postgres-archiver/commit/33c25dd3) Add 17.9-percona to the release build matrix (#118)
+- [760aa637](https://github.com/kubedb/postgres-archiver/commit/760aa637) Prepare for release v0.28.0-rc.0 (#117)
+- [9ee6f7aa](https://github.com/kubedb/postgres-archiver/commit/9ee6f7aa) Prepare for release v0.27.0-rc.0 (#116)
+- [9b64fafc](https://github.com/kubedb/postgres-archiver/commit/9b64fafc) Build the postgres-archiver from the Percona image for 17.9-percona (pg_tde PITR) (#115)
+- [4d647cb7](https://github.com/kubedb/postgres-archiver/commit/4d647cb7) Merge pull request #114 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.29.0)

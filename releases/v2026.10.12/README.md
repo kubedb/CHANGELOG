@@ -554,6 +554,26 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.62.0](https://github.com/kubedb/memcached/releases/tag/v0.62.0)
+
+- [c96caeed](https://github.com/kubedb/memcached/commit/c96caeedb) Prepare for release v0.62.0 (#560)
+- [d4a4c464](https://github.com/kubedb/memcached/commit/d4a4c464c) Use Go 1.27, k8s 1.37 & debian:13 (#559)
+- [d2df8987](https://github.com/kubedb/memcached/commit/d2df89878) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [e6222419](https://github.com/kubedb/memcached/commit/e6222419c) Sync Services with spec.serviceTemplates via shared helper (#558)
+- [ff197c25](https://github.com/kubedb/memcached/commit/ff197c252) Add network policy flavor support (#557)
+- [82ae39c8](https://github.com/kubedb/memcached/commit/82ae39c84) Prepare for release v0.61.0-rc.2 (#556)
+- [e7d4bd62](https://github.com/kubedb/memcached/commit/e7d4bd623) Prepare for release v0.61.0-rc.1 (#555)
+- [9b7f7b39](https://github.com/kubedb/memcached/commit/9b7f7b39d) Prepare for release v0.61.0-rc.0 (#554)
+- [9e229413](https://github.com/kubedb/memcached/commit/9e2294132) Prepare for release v0.59.0-rc.0 (#553)
+- [c187ceef](https://github.com/kubedb/memcached/commit/c187ceef4) Add virtual secret support (#540)
+- [cca8107f](https://github.com/kubedb/memcached/commit/cca8107f0) Use shared monitor and appbinding packages (#552)
+- [5737e69b](https://github.com/kubedb/memcached/commit/5737e69b5) Set default resource limits before patching petset in vertical scaling
+- [e64d9c6f](https://github.com/kubedb/memcached/commit/e64d9c6f8) Move deletion logic to apimachinery (#551)
+
+
+
 ## [kubedb/migrator](https://github.com/kubedb/migrator)
 
 ### [v0.8.0](https://github.com/kubedb/migrator/releases/tag/v0.8.0)

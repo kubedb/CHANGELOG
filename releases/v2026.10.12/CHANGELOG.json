@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:54:40.458384519Z",
+  "release_date": "2026-10-11T09:54:57.338291335Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1708,6 +1708,68 @@
             {
               "SHA": "69621d76",
               "Subject": "Prepare for release v0.24.0-rc.0 (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.62.0",
+          "commits": [
+            {
+              "SHA": "c96caeedb",
+              "Subject": "Prepare for release v0.62.0 (#560)"
+            },
+            {
+              "SHA": "d4a4c464c",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#559)"
+            },
+            {
+              "SHA": "d2df89878",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "e6222419c",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#558)"
+            },
+            {
+              "SHA": "ff197c252",
+              "Subject": "Add network policy flavor support (#557)"
+            },
+            {
+              "SHA": "82ae39c84",
+              "Subject": "Prepare for release v0.61.0-rc.2 (#556)"
+            },
+            {
+              "SHA": "e7d4bd623",
+              "Subject": "Prepare for release v0.61.0-rc.1 (#555)"
+            },
+            {
+              "SHA": "9b7f7b39d",
+              "Subject": "Prepare for release v0.61.0-rc.0 (#554)"
+            },
+            {
+              "SHA": "9e2294132",
+              "Subject": "Prepare for release v0.59.0-rc.0 (#553)"
+            },
+            {
+              "SHA": "c187ceef4",
+              "Subject": "Add virtual secret support (#540)"
+            },
+            {
+              "SHA": "cca8107f0",
+              "Subject": "Use shared monitor and appbinding packages (#552)"
+            },
+            {
+              "SHA": "5737e69b5",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "e64d9c6f8",
+              "Subject": "Move deletion logic to apimachinery (#551)"
             }
           ]
         }

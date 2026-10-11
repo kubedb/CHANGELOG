@@ -115,9 +115,6 @@
       "github.com/kubedb/milvus-archiver": {
         "tag": "v0.2.0"
       },
-      "github.com/kubedb/milvus-csi-snapshotter-plugin": {
-        "tag": "v0.2.0"
-      },
       "github.com/kubedb/mongodb": {
         "tag": "v0.61.0"
       },
@@ -273,6 +270,9 @@
       },
       "github.com/kubedb/mariadb-csi-snapshotter-plugin": {
         "tag": "v0.28.0"
+      },
+      "github.com/kubedb/milvus-csi-snapshotter-plugin": {
+        "tag": "v0.2.0"
       },
       "github.com/kubedb/pgbouncer": {
         "tag": "v0.55.0",

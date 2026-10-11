@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T10:08:51.754551123Z",
+  "release_date": "2026-10-11T10:25:37.713448599Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -2194,6 +2194,28 @@
             {
               "SHA": "eec3fa2",
               "Subject": "Add milvus archiver for pitr (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "b56d024",
+              "Subject": "Prepare for release v0.2.0 (#3)"
+            },
+            {
+              "SHA": "0535f30",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#2)"
+            },
+            {
+              "SHA": "50845b1",
+              "Subject": "Add milvus-csi-snapshotter-plugin (#1)"
             }
           ]
         }

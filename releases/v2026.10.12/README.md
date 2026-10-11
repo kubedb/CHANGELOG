@@ -707,6 +707,16 @@
 
 
 
+## [kubedb/milvus-csi-snapshotter-plugin](https://github.com/kubedb/milvus-csi-snapshotter-plugin)
+
+### [v0.2.0](https://github.com/kubedb/milvus-csi-snapshotter-plugin/releases/tag/v0.2.0)
+
+- [b56d024](https://github.com/kubedb/milvus-csi-snapshotter-plugin/commit/b56d024) Prepare for release v0.2.0 (#3)
+- [0535f30](https://github.com/kubedb/milvus-csi-snapshotter-plugin/commit/0535f30) Use Go 1.27, k8s 1.37 & debian:13 (#2)
+- [50845b1](https://github.com/kubedb/milvus-csi-snapshotter-plugin/commit/50845b1) Add milvus-csi-snapshotter-plugin (#1)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.61.0](https://github.com/kubedb/mongodb/releases/tag/v0.61.0)

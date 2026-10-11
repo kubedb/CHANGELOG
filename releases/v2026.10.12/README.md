@@ -1356,6 +1356,27 @@
 
 
 
+## [kubedb/proxysql](https://github.com/kubedb/proxysql)
+
+### [v0.55.0](https://github.com/kubedb/proxysql/releases/tag/v0.55.0)
+
+- [3a42b5ae](https://github.com/kubedb/proxysql/commit/3a42b5ae7) Prepare for release v0.55.0 (#457)
+- [325c1816](https://github.com/kubedb/proxysql/commit/325c18164) Use Go 1.27, k8s 1.37 & debian:13 (#456)
+- [ce62107d](https://github.com/kubedb/proxysql/commit/ce62107d0) Add AWS Aurora backend support (#454)
+- [4a00dcd8](https://github.com/kubedb/proxysql/commit/4a00dcd86) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [937a0b74](https://github.com/kubedb/proxysql/commit/937a0b74b) Sync Services with spec.serviceTemplates via shared helper (#455)
+- [9b6c0a67](https://github.com/kubedb/proxysql/commit/9b6c0a677) Generate alphanumeric ProxySQL admin password (#453)
+- [162ffd07](https://github.com/kubedb/proxysql/commit/162ffd07a) Add network policy flavor support (#452)
+- [da71f7d1](https://github.com/kubedb/proxysql/commit/da71f7d19) Prepare for release v0.54.0-rc.2 (#451)
+- [1eb7bca9](https://github.com/kubedb/proxysql/commit/1eb7bca96) Prepare for release v0.54.0-rc.0 (#450)
+- [0607fcd5](https://github.com/kubedb/proxysql/commit/0607fcd53) Migrate ProxySQL admin auth secret to shared secret package (#449)
+- [a8def901](https://github.com/kubedb/proxysql/commit/a8def901e) Use shared monitor package (#448)
+- [1ea1ae93](https://github.com/kubedb/proxysql/commit/1ea1ae93d) Add virtual secret support (#435)
+- [06aa72fb](https://github.com/kubedb/proxysql/commit/06aa72fbb) Set default resource limits before patching petset in vertical scaling (#446)
+- [0c98223d](https://github.com/kubedb/proxysql/commit/0c98223da) Move deletion logic to apimachinery (#447)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.9.0](https://github.com/kubedb/qdrant/releases/tag/v0.9.0)

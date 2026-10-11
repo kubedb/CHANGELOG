@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:40:39.67489465Z",
+  "release_date": "2026-10-11T09:40:49.809555717Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -852,6 +852,80 @@
             {
               "SHA": "136b30e8",
               "Subject": "Move deletion logic to apimachinery (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "6977174d",
+              "Subject": "Prepare for release v0.15.0 (#79)"
+            },
+            {
+              "SHA": "84b40223",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#78)"
+            },
+            {
+              "SHA": "9de2974d",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "4f7db964",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#77)"
+            },
+            {
+              "SHA": "d8ffae05",
+              "Subject": "Prepare for release v0.14.0-rc.2 (#76)"
+            },
+            {
+              "SHA": "da85f22f",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#75)"
+            },
+            {
+              "SHA": "ff07bf28",
+              "Subject": "Add TLS Certs in AppBinding (#74)"
+            },
+            {
+              "SHA": "059966b4",
+              "Subject": "Only watch virtual-secrets Secret when the CRD is installed (#73)"
+            },
+            {
+              "SHA": "053b6b4c",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#72)"
+            },
+            {
+              "SHA": "9c019938",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#71)"
+            },
+            {
+              "SHA": "bf57aef8",
+              "Subject": "Migrate auth/keystore secret management to shared apimachinery pkg (#70)"
+            },
+            {
+              "SHA": "5e7d5e13",
+              "Subject": "Add virtual secret support (#55)"
+            },
+            {
+              "SHA": "ea1d0e17",
+              "Subject": "Use shared monitor and appbinding packages (#69)"
+            },
+            {
+              "SHA": "140b6332",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "d8aee1f0",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#56)"
+            },
+            {
+              "SHA": "8d071a7a",
+              "Subject": "Move deletion logic to apimachinery (#68)"
             }
           ]
         }

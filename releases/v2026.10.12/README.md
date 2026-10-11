@@ -1501,6 +1501,17 @@
 
 
 
+## [kubedb/schema-manager](https://github.com/kubedb/schema-manager)
+
+### [v0.44.0](https://github.com/kubedb/schema-manager/releases/tag/v0.44.0)
+
+- [4b279126](https://github.com/kubedb/schema-manager/commit/4b279126) Prepare for release v0.44.0 (#180)
+- [6dd1fced](https://github.com/kubedb/schema-manager/commit/6dd1fced) Use Go 1.27, k8s 1.37 & debian:13 (#179)
+- [72cd0f46](https://github.com/kubedb/schema-manager/commit/72cd0f46) Prepare for release v0.43.0-rc.2 (#178)
+- [a98434c0](https://github.com/kubedb/schema-manager/commit/a98434c0) Prepare for release v0.43.0-rc.0 (#177)
+
+
+
 ## [kubedb/singlestore](https://github.com/kubedb/singlestore)
 
 ### [v0.23.0](https://github.com/kubedb/singlestore/releases/tag/v0.23.0)

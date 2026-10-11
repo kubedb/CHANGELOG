@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:44:44.873772333Z",
+  "release_date": "2026-10-11T09:44:53.209728499Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -2828,6 +2828,68 @@
             {
               "SHA": "c0ae4e7a",
               "Subject": "Add Virtual Secret Support (#116)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/qdrant",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "8f8732a5",
+              "Subject": "Prepare for release v0.9.0 (#66)"
+            },
+            {
+              "SHA": "02a5bf9d",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#65)"
+            },
+            {
+              "SHA": "2c6f2c68",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "74f3382b",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#64)"
+            },
+            {
+              "SHA": "5ee354a3",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#63)"
+            },
+            {
+              "SHA": "222d8df0",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#62)"
+            },
+            {
+              "SHA": "4a96ed61",
+              "Subject": "Add JWT RBAC Granular Access Control (#61)"
+            },
+            {
+              "SHA": "e1c81c10",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#60)"
+            },
+            {
+              "SHA": "c53cd81b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "7fcc9d7d",
+              "Subject": "Adopt shared monitor/appbinding packages (#58)"
+            },
+            {
+              "SHA": "d6fa13f6",
+              "Subject": "Add virtual secret support (#42)"
+            },
+            {
+              "SHA": "5adbcdf0",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#56)"
+            },
+            {
+              "SHA": "984a3bd7",
+              "Subject": "Move deletion logic to apimachinery (#57)"
             }
           ]
         }

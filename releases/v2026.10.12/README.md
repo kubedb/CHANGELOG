@@ -915,6 +915,26 @@
 
 
 
+## [kubedb/qdrant](https://github.com/kubedb/qdrant)
+
+### [v0.9.0](https://github.com/kubedb/qdrant/releases/tag/v0.9.0)
+
+- [8f8732a5](https://github.com/kubedb/qdrant/commit/8f8732a5) Prepare for release v0.9.0 (#66)
+- [02a5bf9d](https://github.com/kubedb/qdrant/commit/02a5bf9d) Use Go 1.27, k8s 1.37 & debian:13 (#65)
+- [2c6f2c68](https://github.com/kubedb/qdrant/commit/2c6f2c68) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [74f3382b](https://github.com/kubedb/qdrant/commit/74f3382b) Sync Services with spec.serviceTemplates via shared helper (#64)
+- [5ee354a3](https://github.com/kubedb/qdrant/commit/5ee354a3) Prepare for release v0.8.0-rc.2 (#63)
+- [222d8df0](https://github.com/kubedb/qdrant/commit/222d8df0) Prepare for release v0.8.0-rc.1 (#62)
+- [4a96ed61](https://github.com/kubedb/qdrant/commit/4a96ed61) Add JWT RBAC Granular Access Control (#61)
+- [e1c81c10](https://github.com/kubedb/qdrant/commit/e1c81c10) Prepare for release v0.8.0-rc.0 (#60)
+- [c53cd81b](https://github.com/kubedb/qdrant/commit/c53cd81b) Prepare for release v0.7.0-rc.0 (#59)
+- [7fcc9d7d](https://github.com/kubedb/qdrant/commit/7fcc9d7d) Adopt shared monitor/appbinding packages (#58)
+- [d6fa13f6](https://github.com/kubedb/qdrant/commit/d6fa13f6) Add virtual secret support (#42)
+- [5adbcdf0](https://github.com/kubedb/qdrant/commit/5adbcdf0) Set default resource limits before patching petset in vertical scaling (#56)
+- [984a3bd7](https://github.com/kubedb/qdrant/commit/984a3bd7) Move deletion logic to apimachinery (#57)
+
+
+
 ## [kubedb/qdrant-restic-plugin](https://github.com/kubedb/qdrant-restic-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/qdrant-restic-plugin/releases/tag/v0.4.0)

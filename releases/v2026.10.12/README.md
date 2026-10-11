@@ -275,6 +275,20 @@
 
 
 
+## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
+
+### [v0.4.0](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.4.0)
+
+- [1d0eed9](https://github.com/kubedb/documentdb-coordinator/commit/1d0eed9) Prepare for release v0.4.0 (#16)
+- [248ab51](https://github.com/kubedb/documentdb-coordinator/commit/248ab51) Use Go 1.27, k8s 1.37 & debian:13 (#15)
+- [06c4a7f](https://github.com/kubedb/documentdb-coordinator/commit/06c4a7f) Prepare for release v0.3.0-rc.2 (#14)
+- [40c1429](https://github.com/kubedb/documentdb-coordinator/commit/40c1429) Prepare for release v0.3.0-rc.1 (#13)
+- [93d895f](https://github.com/kubedb/documentdb-coordinator/commit/93d895f) Prepare for release v0.3.0-rc.0 (#12)
+- [d78d225](https://github.com/kubedb/documentdb-coordinator/commit/d78d225) Prepare for release v0.2.0-rc.0 (#11)
+- [1a762f1](https://github.com/kubedb/documentdb-coordinator/commit/1a762f1) Merge pull request #10 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/documentdb-csi-snapshotter-plugin](https://github.com/kubedb/documentdb-csi-snapshotter-plugin)
 
 ### [v0.2.0](https://github.com/kubedb/documentdb-csi-snapshotter-plugin/releases/tag/v0.2.0)

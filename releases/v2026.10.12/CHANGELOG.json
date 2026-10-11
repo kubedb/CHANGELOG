@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:53:31.820827721Z",
+  "release_date": "2026-10-11T09:53:41.001006206Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -898,6 +898,44 @@
             {
               "SHA": "ac3486b",
               "Subject": "Prepare for release v0.7.0-rc.0 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "1d0eed9",
+              "Subject": "Prepare for release v0.4.0 (#16)"
+            },
+            {
+              "SHA": "248ab51",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#15)"
+            },
+            {
+              "SHA": "06c4a7f",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#14)"
+            },
+            {
+              "SHA": "40c1429",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#13)"
+            },
+            {
+              "SHA": "93d895f",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#12)"
+            },
+            {
+              "SHA": "d78d225",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#11)"
+            },
+            {
+              "SHA": "1a762f1",
+              "Subject": "Merge pull request #10 from kubedb/v2026.7.10-master"
             }
           ]
         }

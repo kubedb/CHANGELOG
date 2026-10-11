@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T10:48:57.54178142Z",
+  "release_date": "2026-10-11T12:03:59.901622768Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -5028,6 +5028,56 @@
             {
               "SHA": "e8ef8cb25",
               "Subject": "Add Common changes (kubestash), Neo4j Disable Security (#548)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": [
+            {
+              "SHA": "0a0ac42c4",
+              "Subject": "Prepare for release v0.44.0 (#232)"
+            },
+            {
+              "SHA": "2dbb39190",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#231)"
+            },
+            {
+              "SHA": "8bba37aa3",
+              "Subject": "Pass build"
+            },
+            {
+              "SHA": "0aa9f36b4",
+              "Subject": "milvus ui server (#229)"
+            },
+            {
+              "SHA": "b406b84f3",
+              "Subject": "Add Druid UI-Server Support (#228)"
+            },
+            {
+              "SHA": "43ba0e172",
+              "Subject": "Add singlestore insight,queries,schema overview support (#227)"
+            },
+            {
+              "SHA": "2038230ee",
+              "Subject": "Add insight,queries,schemaOverview for percona (#226)"
+            },
+            {
+              "SHA": "795ddf177",
+              "Subject": "Add Neo4j Info (#225)"
+            },
+            {
+              "SHA": "7cd8d5800",
+              "Subject": "Prepare for release v0.43.0-rc.2 (#224)"
+            },
+            {
+              "SHA": "6f430b062",
+              "Subject": "Prepare for release v0.43.0-rc.0 (#223)"
             }
           ]
         }

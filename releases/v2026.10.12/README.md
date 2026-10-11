@@ -1645,6 +1645,23 @@
 
 
 
+## [kubedb/ui-server](https://github.com/kubedb/ui-server)
+
+### [v0.44.0](https://github.com/kubedb/ui-server/releases/tag/v0.44.0)
+
+- [0a0ac42c](https://github.com/kubedb/ui-server/commit/0a0ac42c4) Prepare for release v0.44.0 (#232)
+- [2dbb3919](https://github.com/kubedb/ui-server/commit/2dbb39190) Use Go 1.27, k8s 1.37 & debian:13 (#231)
+- [8bba37aa](https://github.com/kubedb/ui-server/commit/8bba37aa3) Pass build
+- [0aa9f36b](https://github.com/kubedb/ui-server/commit/0aa9f36b4) milvus ui server (#229)
+- [b406b84f](https://github.com/kubedb/ui-server/commit/b406b84f3) Add Druid UI-Server Support (#228)
+- [43ba0e17](https://github.com/kubedb/ui-server/commit/43ba0e172) Add singlestore insight,queries,schema overview support (#227)
+- [2038230e](https://github.com/kubedb/ui-server/commit/2038230ee) Add insight,queries,schemaOverview for percona (#226)
+- [795ddf17](https://github.com/kubedb/ui-server/commit/795ddf177) Add Neo4j Info (#225)
+- [7cd8d580](https://github.com/kubedb/ui-server/commit/7cd8d5800) Prepare for release v0.43.0-rc.2 (#224)
+- [6f430b06](https://github.com/kubedb/ui-server/commit/6f430b062) Prepare for release v0.43.0-rc.0 (#223)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.9.0](https://github.com/kubedb/weaviate/releases/tag/v0.9.0)

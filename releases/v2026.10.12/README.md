@@ -1216,6 +1216,19 @@
 
 
 
+## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
+
+### [v0.23.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.23.0)
+
+- [ff300ecc](https://github.com/kubedb/singlestore-coordinator/commit/ff300ecc) Prepare for release v0.23.0 (#84)
+- [a489a607](https://github.com/kubedb/singlestore-coordinator/commit/a489a607) Use Go 1.27, k8s 1.37 & debian:13 (#83)
+- [8b0d0cc7](https://github.com/kubedb/singlestore-coordinator/commit/8b0d0cc7) Prepare for release v0.22.0-rc.2 (#82)
+- [3259f0e5](https://github.com/kubedb/singlestore-coordinator/commit/3259f0e5) Prepare for release v0.22.0-rc.1 (#81)
+- [e2d7a2e2](https://github.com/kubedb/singlestore-coordinator/commit/e2d7a2e2) Prepare for release v0.22.0-rc.0 (#80)
+- [072b894d](https://github.com/kubedb/singlestore-coordinator/commit/072b894d) Prepare for release v0.21.0-rc.0 (#79)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.26.0)

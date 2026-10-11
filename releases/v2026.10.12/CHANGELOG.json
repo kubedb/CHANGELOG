@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:52:03.083439103Z",
+  "release_date": "2026-10-11T09:52:13.233928248Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -3726,6 +3726,40 @@
             {
               "SHA": "ae4ba9ce",
               "Subject": "Move deletion logic to apimachinery (#140)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "ff300ecc",
+              "Subject": "Prepare for release v0.23.0 (#84)"
+            },
+            {
+              "SHA": "a489a607",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#83)"
+            },
+            {
+              "SHA": "8b0d0cc7",
+              "Subject": "Prepare for release v0.22.0-rc.2 (#82)"
+            },
+            {
+              "SHA": "3259f0e5",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#81)"
+            },
+            {
+              "SHA": "e2d7a2e2",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#80)"
+            },
+            {
+              "SHA": "072b894d",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#79)"
             }
           ]
         }

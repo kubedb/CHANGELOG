@@ -1,0 +1,364 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.10.12",
+  "release_date": "2026-10-11T05:06:14.478029792Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.10.12",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.68.0",
+          "commits": [
+            {
+              "SHA": "936bc89c6",
+              "Subject": "Update for release KubeStash@v2026.10.12 (#1926)"
+            },
+            {
+              "SHA": "3f36c9ed7",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#1925)"
+            },
+            {
+              "SHA": "31f11301d",
+              "Subject": "Cleanup cves (#1924)"
+            },
+            {
+              "SHA": "a060f480f",
+              "Subject": "make gen fmt"
+            },
+            {
+              "SHA": "2fd5929ce",
+              "Subject": "Add per-CR Elasticsearch license activation support (#1912)"
+            },
+            {
+              "SHA": "7c0771936",
+              "Subject": "Add db2 clustering & failover (#1917)"
+            },
+            {
+              "SHA": "7d546f715",
+              "Subject": "Add milvus basebackup and pitr (#1921)"
+            },
+            {
+              "SHA": "39fb7184b",
+              "Subject": "Add DefaultExporterResource (#1905)"
+            },
+            {
+              "SHA": "d59357f74",
+              "Subject": "documentdb base backup restore (#1906)"
+            },
+            {
+              "SHA": "985ca9902",
+              "Subject": "Add Clickhouse PVC UID in Status (#1916)"
+            },
+            {
+              "SHA": "5e3e2658c",
+              "Subject": "Classify reconfigure parameters as read-only, static or dynamic (#1909)"
+            },
+            {
+              "SHA": "8a6bc178d",
+              "Subject": "grpc: add the Postgres CoordinatorManager API (#1879)"
+            },
+            {
+              "SHA": "985699ba7",
+              "Subject": "Allow all KubeDB operator pods in Cilium healthcheck policy (#1923)"
+            },
+            {
+              "SHA": "8558d60f1",
+              "Subject": "Add AWS Aurora backend support to ProxySQL API (#1919)"
+            },
+            {
+              "SHA": "b10f230ed",
+              "Subject": "Warn on unsupported serviceTemplate aliases for Etcd (#1922)"
+            },
+            {
+              "SHA": "2845df094",
+              "Subject": "Add shared ApplyServiceTemplate helper and serviceTemplate alias warnings (#1920)"
+            },
+            {
+              "SHA": "8cea18036",
+              "Subject": "Use et as etcd short code (#1918)"
+            },
+            {
+              "SHA": "f04a6aad0",
+              "Subject": "Use standby svc alias everywhere; rr -> readreplica (#1904)"
+            },
+            {
+              "SHA": "8e755745d",
+              "Subject": "Update audit package"
+            },
+            {
+              "SHA": "bb1f2c702",
+              "Subject": "Milvus: GPU support (Standalone + Distributed) and SR-IOV network field (#1898)"
+            },
+            {
+              "SHA": "aed09b970",
+              "Subject": "Fix oracle version validation (#1850)"
+            },
+            {
+              "SHA": "d495a98c7",
+              "Subject": "Redis Webhook fix (#1903)"
+            },
+            {
+              "SHA": "952618743",
+              "Subject": "docuomentdb base & logical backup (#1884)"
+            },
+            {
+              "SHA": "9fb6af3db",
+              "Subject": "Milvus: support TLS, password auth and encrypted storage for self-managed meta etcd (#1897)"
+            },
+            {
+              "SHA": "bdfdbbc35",
+              "Subject": "Add Neo4j Archiver Api (#1806)"
+            },
+            {
+              "SHA": "9694e2f86",
+              "Subject": "Add status.disasterRecovery to Postgres for cross-DC DR (#1858)"
+            },
+            {
+              "SHA": "3c342fac2",
+              "Subject": "db2,documentdb,cassandra,ui-server (#1901)"
+            },
+            {
+              "SHA": "86f34c418",
+              "Subject": "Add Solr Backup Credential Validation (#1902)"
+            },
+            {
+              "SHA": "5c58b9ab3",
+              "Subject": "Pin etcd server/pkg to v3.5.27 to fix raft build break (#1900)"
+            },
+            {
+              "SHA": "4a5770373",
+              "Subject": "Reject a database create when another kubedb database in the namespace already has that name (#1894)"
+            },
+            {
+              "SHA": "cd9e62f38",
+              "Subject": "milvus ui server (#1896)"
+            },
+            {
+              "SHA": "1260e1cf9",
+              "Subject": "Add Druid UI-Server Api (#1890)"
+            },
+            {
+              "SHA": "e523ac4c0",
+              "Subject": "Singlestore ui-server api (#1888)"
+            },
+            {
+              "SHA": "5fdf9eff2",
+              "Subject": "PerconaXtradb ui-server api (#1887)"
+            },
+            {
+              "SHA": "aedd4467f",
+              "Subject": "Add Neo4jDatabase info (#1885)"
+            },
+            {
+              "SHA": "d828306bf",
+              "Subject": "Add Neo4jBind wrapper for generic binding support (#1893)"
+            },
+            {
+              "SHA": "65202d6ba",
+              "Subject": "move OracleBackupWalletCreatedCondition const to apimachinery (#1859)"
+            },
+            {
+              "SHA": "7642a350b",
+              "Subject": "add OsbwsPFilePath in const (#1895)"
+            },
+            {
+              "SHA": "a5952a02b",
+              "Subject": "Add Support for Multiple S3/GCS backupstorage (#1875)"
+            },
+            {
+              "SHA": "46e4b8223",
+              "Subject": "apis/ui/v1alpha1: restore DatabaseSummary's +genclient without ObjectMeta (#1889)"
+            },
+            {
+              "SHA": "0fbe10cb4",
+              "Subject": "apis/ui/v1alpha1: drop DatabaseSummary's metav1.ObjectMeta and +genclient (#1886)"
+            },
+            {
+              "SHA": "ea09431bf",
+              "Subject": "Migrate code generation to kube_codegen.sh (#1883)"
+            },
+            {
+              "SHA": "16705ae9e",
+              "Subject": "Feat/mssql database specific table selection (#1881)"
+            },
+            {
+              "SHA": "f8e344437",
+              "Subject": "Add PostgresCustomHBAFile constant for user-supplied pg_hba rules (#1869)"
+            },
+            {
+              "SHA": "294da61f9",
+              "Subject": "Add Postgres license support for the AppsCode Enterprise distribution (#1880)"
+            },
+            {
+              "SHA": "2f8c548f0",
+              "Subject": "Update ClickHouse Webhook (#1872)"
+            },
+            {
+              "SHA": "c8efdca29",
+              "Subject": "Add Neo4jRemoteAliasKeystore Api (#1876)"
+            },
+            {
+              "SHA": "c8162e962",
+              "Subject": "Add Qdrant JWT Granular Access Control (#1878)"
+            },
+            {
+              "SHA": "4d265c347",
+              "Subject": "Let every MySQL topology reach its upgrade-version list (#1877)"
+            },
+            {
+              "SHA": "b3365d4a5",
+              "Subject": "fixed fields for mssqlserver migration (#1874)"
+            },
+            {
+              "SHA": "ee494fb14",
+              "Subject": "Add etcd database support (#1870)"
+            },
+            {
+              "SHA": "016c41eb7",
+              "Subject": "Support management AppBinding metadata (#1868)"
+            },
+            {
+              "SHA": "66f5172fb",
+              "Subject": "Use gomodules.xyz/password-generator for generated auth secret passwords (#1867)"
+            },
+            {
+              "SHA": "4d379034d",
+              "Subject": "Add RabbitMQ connection helpers (#1861)"
+            },
+            {
+              "SHA": "12679dc1c",
+              "Subject": "Update virtual secrets to v0.2.0 (#1865)"
+            },
+            {
+              "SHA": "c781d8f04",
+              "Subject": "Harden generated auth-secret passwords: crypto/rand + optional per-DB generator (#1863)"
+            },
+            {
+              "SHA": "521b206a0",
+              "Subject": "Fix Neo4j ServiceMonitor Scheme (#1864)"
+            },
+            {
+              "SHA": "fbf651ae4",
+              "Subject": "Skip kubedb db webhook defaulting/validation when deletionTimestamp is set (#1862)"
+            },
+            {
+              "SHA": "24131c2c1",
+              "Subject": "Update for release KubeStash@v2026.8.12-rc.0 (#1860)"
+            },
+            {
+              "SHA": "93c137821",
+              "Subject": "documentdb mututaltls-ops (#1857)"
+            },
+            {
+              "SHA": "58cafb3ba",
+              "Subject": "Patch spec.authSecret without clobbering the caller's DB object (#1853)"
+            },
+            {
+              "SHA": "697642824",
+              "Subject": "Documentdb tls & reconfiguretls (#1851)"
+            },
+            {
+              "SHA": "b9e9a7629",
+              "Subject": "Bump grpc and related dependencies (#1856)"
+            },
+            {
+              "SHA": "58ee30148",
+              "Subject": "Add ClickHouse Keeper Ops-Req (#1835)"
+            },
+            {
+              "SHA": "afd2eb590",
+              "Subject": "Extend Solr Reconfigure Ops for Backup (#1841)"
+            },
+            {
+              "SHA": "02fbd4e5f",
+              "Subject": "Add HanaDB horizontal scaling and update version ops api (#1803)"
+            },
+            {
+              "SHA": "87057a239",
+              "Subject": "prevent Neo4j cross-scheme version upgrades (#1852)"
+            },
+            {
+              "SHA": "69a6f2135",
+              "Subject": "Improve Branch status information and create generic branch annotations (#1840)"
+            },
+            {
+              "SHA": "e7db69325",
+              "Subject": "Make ui.kubedb.com DatabaseConfiguration namespaced and get/list-able (#1849)"
+            },
+            {
+              "SHA": "450194532",
+              "Subject": "Add Milvus Minio Port Constants (#1845)"
+            },
+            {
+              "SHA": "4aac2b8c4",
+              "Subject": "add reconfigureSpec.WalletConfigSecret check in webhook (#1848)"
+            },
+            {
+              "SHA": "99e5f4bb5",
+              "Subject": "[MySQL] Topology Mode Change (#1844)"
+            },
+            {
+              "SHA": "c1c4d4268",
+              "Subject": "Fix druid svcNames & ports for gateway (#1843)"
+            },
+            {
+              "SHA": "9bfcfcf94",
+              "Subject": "Add Postgres Transparent Data Encryption (pg_tde) API (#1831)"
+            },
+            {
+              "SHA": "1a21cba4a",
+              "Subject": "Make MongoDB probes tolerate mongosh stdout warnings (#1846)"
+            },
+            {
+              "SHA": "fd1d8ae01",
+              "Subject": "Remove postgres-dependent validations from pgpool webhook"
+            },
+            {
+              "SHA": "104ef5739",
+              "Subject": "Remove pg-validation from pgpool"
+            },
+            {
+              "SHA": "4a5dafc75",
+              "Subject": "Added SkipBackupPauseAnnotation constant (#1842)"
+            },
+            {
+              "SHA": "b0a89cbd0",
+              "Subject": "Add shared pkg/controller/secret auth-secret orchestrator (#1839)"
+            },
+            {
+              "SHA": "7cbfa8c75",
+              "Subject": "Add weaviate update version ops api (#1837)"
+            },
+            {
+              "SHA": "62501c6a8",
+              "Subject": "Elasticsearch Virtual Secret Fix (#1815)"
+            },
+            {
+              "SHA": "da69e33e3",
+              "Subject": "Add shared monitor & appbinding packages (#1834)"
+            },
+            {
+              "SHA": "861df6898",
+              "Subject": "deletion: preserve-on-halt annotation, DoNotTerminate safety net, finalizer NotFound handling (#1833)"
+            },
+            {
+              "SHA": "21556766c",
+              "Subject": "Add default RunAsGroup to container security context (#1829)"
+            },
+            {
+              "SHA": "90d0d0c4f",
+              "Subject": "Add Virtual Secret Schema (#1828)"
+            },
+            {
+              "SHA": "e5417274b",
+              "Subject": "Add shared pkg/controllers/deletion and normalize DB accessors (#1830)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

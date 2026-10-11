@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:41:07.88147196Z",
+  "release_date": "2026-10-11T09:41:21.781954133Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -2016,6 +2016,80 @@
             {
               "SHA": "34a99ba",
               "Subject": "Merge pull request #7 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/rabbitmq",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "27282444",
+              "Subject": "Prepare for release v0.23.0 (#159)"
+            },
+            {
+              "SHA": "21e71364",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#158)"
+            },
+            {
+              "SHA": "85bec1d8",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "5eee7c97",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#157)"
+            },
+            {
+              "SHA": "1874c2f9",
+              "Subject": "Prepare for release v0.22.0-rc.2 (#156)"
+            },
+            {
+              "SHA": "86a6bb4b",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#155)"
+            },
+            {
+              "SHA": "69b2974c",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#154)"
+            },
+            {
+              "SHA": "8d7aa943",
+              "Subject": "Add Management AppBinding (#152)"
+            },
+            {
+              "SHA": "68f62a51",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#153)"
+            },
+            {
+              "SHA": "e4fe45ba",
+              "Subject": "log fixed (#151)"
+            },
+            {
+              "SHA": "39ce0108",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#150)"
+            },
+            {
+              "SHA": "f83d3abd",
+              "Subject": "Use shared monitor and appbinding packages (#149)"
+            },
+            {
+              "SHA": "ed7a49d4",
+              "Subject": "Add virtual secret support (#134)"
+            },
+            {
+              "SHA": "7a7d559a",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "91a1006f",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#135)"
+            },
+            {
+              "SHA": "a9bc44a5",
+              "Subject": "Move deletion logic to apimachinery (#148)"
             }
           ]
         }

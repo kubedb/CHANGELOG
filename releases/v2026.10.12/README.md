@@ -649,6 +649,29 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.23.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.23.0)
+
+- [27282444](https://github.com/kubedb/rabbitmq/commit/27282444) Prepare for release v0.23.0 (#159)
+- [21e71364](https://github.com/kubedb/rabbitmq/commit/21e71364) Use Go 1.27, k8s 1.37 & debian:13 (#158)
+- [85bec1d8](https://github.com/kubedb/rabbitmq/commit/85bec1d8) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [5eee7c97](https://github.com/kubedb/rabbitmq/commit/5eee7c97) Sync Services with spec.serviceTemplates via shared helper (#157)
+- [1874c2f9](https://github.com/kubedb/rabbitmq/commit/1874c2f9) Prepare for release v0.22.0-rc.2 (#156)
+- [86a6bb4b](https://github.com/kubedb/rabbitmq/commit/86a6bb4b) Prepare for release v0.22.0-rc.1 (#155)
+- [69b2974c](https://github.com/kubedb/rabbitmq/commit/69b2974c) Prepare for release v0.22.0-rc.0 (#154)
+- [8d7aa943](https://github.com/kubedb/rabbitmq/commit/8d7aa943) Add Management AppBinding (#152)
+- [68f62a51](https://github.com/kubedb/rabbitmq/commit/68f62a51) Prepare for release v0.21.0-rc.0 (#153)
+- [e4fe45ba](https://github.com/kubedb/rabbitmq/commit/e4fe45ba) log fixed (#151)
+- [39ce0108](https://github.com/kubedb/rabbitmq/commit/39ce0108) Use shared pkg/controller/secret for auth secret (#150)
+- [f83d3abd](https://github.com/kubedb/rabbitmq/commit/f83d3abd) Use shared monitor and appbinding packages (#149)
+- [ed7a49d4](https://github.com/kubedb/rabbitmq/commit/ed7a49d4) Add virtual secret support (#134)
+- [7a7d559a](https://github.com/kubedb/rabbitmq/commit/7a7d559a) Set default resource limits before patching petset in vertical scaling
+- [91a1006f](https://github.com/kubedb/rabbitmq/commit/91a1006f) Honor user-provided renewBefore in TLS certificate ops (#135)
+- [a9bc44a5](https://github.com/kubedb/rabbitmq/commit/a9bc44a5) Move deletion logic to apimachinery (#148)
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.47.0)

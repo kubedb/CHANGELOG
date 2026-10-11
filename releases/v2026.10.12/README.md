@@ -878,6 +878,30 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.9.0](https://github.com/kubedb/neo4j/releases/tag/v0.9.0)
+
+- [33fe8718](https://github.com/kubedb/neo4j/commit/33fe8718) Prepare for release v0.9.0 (#70)
+- [595de0af](https://github.com/kubedb/neo4j/commit/595de0af) Use Go 1.27, k8s 1.37 & debian:13 (#69)
+- [887b977a](https://github.com/kubedb/neo4j/commit/887b977a) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [cbec668a](https://github.com/kubedb/neo4j/commit/cbec668a) Sync Services with spec.serviceTemplates via shared helper (#68)
+- [9797e4d6](https://github.com/kubedb/neo4j/commit/9797e4d6) Update deps to master (#66)
+- [3882ceef](https://github.com/kubedb/neo4j/commit/3882ceef) Support Neo4j config files beyond neo4j.conf (#65)
+- [9dc9cbab](https://github.com/kubedb/neo4j/commit/9dc9cbab) Add Neo4j Archiver (#48)
+- [f4928a76](https://github.com/kubedb/neo4j/commit/f4928a76) Prepare for release v0.8.0-rc.2 (#64)
+- [6a325a04](https://github.com/kubedb/neo4j/commit/6a325a04) Add remoteAliasKeystore Support (#62)
+- [0ee9889c](https://github.com/kubedb/neo4j/commit/0ee9889c) Prepare for release v0.8.0-rc.0 (#61)
+- [372d285b](https://github.com/kubedb/neo4j/commit/372d285b) Prepare for release v0.7.0-rc.0 (#60)
+- [b77228b2](https://github.com/kubedb/neo4j/commit/b77228b2) Add Neo4j SemVer Support (#58)
+- [68bf9055](https://github.com/kubedb/neo4j/commit/68bf9055) Use shared pkg/controller/secret for auth secret (#57)
+- [d7e6539c](https://github.com/kubedb/neo4j/commit/d7e6539c) Use shared monitor and appbinding packages (#56)
+- [ad9c2b06](https://github.com/kubedb/neo4j/commit/ad9c2b06) Add virtual secret support (#35)
+- [3c7142e1](https://github.com/kubedb/neo4j/commit/3c7142e1) Set default resource limits before patching petset in vertical scaling (#54)
+- [d670768b](https://github.com/kubedb/neo4j/commit/d670768b) Move deletion logic to apimachinery (#55)
+
+
+
 ## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.4.0)

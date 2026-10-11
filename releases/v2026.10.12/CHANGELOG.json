@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T10:03:57.390862725Z",
+  "release_date": "2026-10-11T10:04:37.591225573Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -2662,6 +2662,84 @@
             {
               "SHA": "3d63a45",
               "Subject": "Prepare for release v0.44.0-rc.0 (#68)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "33fe8718",
+              "Subject": "Prepare for release v0.9.0 (#70)"
+            },
+            {
+              "SHA": "595de0af",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#69)"
+            },
+            {
+              "SHA": "887b977a",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "cbec668a",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#68)"
+            },
+            {
+              "SHA": "9797e4d6",
+              "Subject": "Update deps to master (#66)"
+            },
+            {
+              "SHA": "3882ceef",
+              "Subject": "Support Neo4j config files beyond neo4j.conf (#65)"
+            },
+            {
+              "SHA": "9dc9cbab",
+              "Subject": "Add Neo4j Archiver (#48)"
+            },
+            {
+              "SHA": "f4928a76",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#64)"
+            },
+            {
+              "SHA": "6a325a04",
+              "Subject": "Add remoteAliasKeystore Support (#62)"
+            },
+            {
+              "SHA": "0ee9889c",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#61)"
+            },
+            {
+              "SHA": "372d285b",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#60)"
+            },
+            {
+              "SHA": "b77228b2",
+              "Subject": "Add Neo4j SemVer Support (#58)"
+            },
+            {
+              "SHA": "68bf9055",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#57)"
+            },
+            {
+              "SHA": "d7e6539c",
+              "Subject": "Use shared monitor and appbinding packages (#56)"
+            },
+            {
+              "SHA": "ad9c2b06",
+              "Subject": "Add virtual secret support (#35)"
+            },
+            {
+              "SHA": "3c7142e1",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#54)"
+            },
+            {
+              "SHA": "d670768b",
+              "Subject": "Move deletion logic to apimachinery (#55)"
             }
           ]
         }

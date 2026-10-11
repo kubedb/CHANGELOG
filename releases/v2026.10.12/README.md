@@ -427,6 +427,26 @@
 
 
 
+## [kubedb/migrator](https://github.com/kubedb/migrator)
+
+### [v0.8.0](https://github.com/kubedb/migrator/releases/tag/v0.8.0)
+
+- [6404af2c](https://github.com/kubedb/migrator/commit/6404af2c) Prepare for release v0.8.0 (#56)
+- [9c8f6b23](https://github.com/kubedb/migrator/commit/9c8f6b23) Use Go 1.27, k8s 1.37 & debian:13 (#55)
+- [59559de1](https://github.com/kubedb/migrator/commit/59559de1) Feat/mssql database specific table selection & precheck (#52)
+- [c6feaa68](https://github.com/kubedb/migrator/commit/c6feaa68) Prepare for release v0.7.0-rc.2 (#54)
+- [5d3b4cca](https://github.com/kubedb/migrator/commit/5d3b4cca) Prepare for release v0.7.0-rc.1 (#53)
+- [90f812e8](https://github.com/kubedb/migrator/commit/90f812e8) fixed patch issue
+- [20d0ec20](https://github.com/kubedb/migrator/commit/20d0ec20) Fix MSSQL snapshot FK disable retries and CDC start LSN validation (#50)
+- [72b69108](https://github.com/kubedb/migrator/commit/72b69108) Prepare for release v0.7.0-rc.0 (#49)
+- [e9d330c6](https://github.com/kubedb/migrator/commit/e9d330c6) Prepare for release v0.6.0-rc.0 (#48)
+- [9ccfbe83](https://github.com/kubedb/migrator/commit/9ccfbe83) Fix mssql snapshot tds eof retry (#47)
+- [a5b1a307](https://github.com/kubedb/migrator/commit/a5b1a307) Update postgres sequence value when migration stops (#46)
+- [91bfb3ac](https://github.com/kubedb/migrator/commit/91bfb3ac) Fixed release issue,waited for inital lsn for cdc
+- [d9bf2272](https://github.com/kubedb/migrator/commit/d9bf2272) Add non root user in every docker file (#44)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.9.0](https://github.com/kubedb/milvus/releases/tag/v0.9.0)

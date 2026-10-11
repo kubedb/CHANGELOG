@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:43:39.6207098Z",
+  "release_date": "2026-10-11T09:43:50.144312842Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1344,6 +1344,68 @@
             {
               "SHA": "69621d76",
               "Subject": "Prepare for release v0.24.0-rc.0 (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/migrator",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "6404af2c",
+              "Subject": "Prepare for release v0.8.0 (#56)"
+            },
+            {
+              "SHA": "9c8f6b23",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#55)"
+            },
+            {
+              "SHA": "59559de1",
+              "Subject": "Feat/mssql database specific table selection & precheck (#52)"
+            },
+            {
+              "SHA": "c6feaa68",
+              "Subject": "Prepare for release v0.7.0-rc.2 (#54)"
+            },
+            {
+              "SHA": "5d3b4cca",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#53)"
+            },
+            {
+              "SHA": "90f812e8",
+              "Subject": "fixed patch issue"
+            },
+            {
+              "SHA": "20d0ec20",
+              "Subject": "Fix MSSQL snapshot FK disable retries and CDC start LSN validation (#50)"
+            },
+            {
+              "SHA": "72b69108",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#49)"
+            },
+            {
+              "SHA": "e9d330c6",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#48)"
+            },
+            {
+              "SHA": "9ccfbe83",
+              "Subject": "Fix mssql snapshot tds eof retry (#47)"
+            },
+            {
+              "SHA": "a5b1a307",
+              "Subject": "Update postgres sequence value when migration stops (#46)"
+            },
+            {
+              "SHA": "91bfb3ac",
+              "Subject": "Fixed release issue,waited for inital lsn for cdc"
+            },
+            {
+              "SHA": "d9bf2272",
+              "Subject": "Add non root user in every docker file (#44)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T05:06:14.478029792Z",
+  "release_date": "2026-10-11T05:38:57.452427096Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -357,6 +357,15 @@
               "Subject": "Add shared pkg/controllers/deletion and normalize DB accessors (#1830)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": null
         }
       ]
     }

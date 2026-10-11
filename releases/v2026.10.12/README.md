@@ -94,3 +94,10 @@
 
 
 
+## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
+
+### [v0.23.0](https://github.com/kubedb/crd-manager/releases/tag/v0.23.0)
+
+
+
+

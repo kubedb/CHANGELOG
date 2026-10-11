@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:42:44.939093501Z",
+  "release_date": "2026-10-11T09:42:54.294144482Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1890,6 +1890,96 @@
             {
               "SHA": "b6daf30",
               "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "b1b924bc",
+              "Subject": "Prepare for release v0.14.0 (#90)"
+            },
+            {
+              "SHA": "0d5d2b5f",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#89)"
+            },
+            {
+              "SHA": "218e4892",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "e27ca150",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#88)"
+            },
+            {
+              "SHA": "d59bb265",
+              "Subject": "Add SkipBackupPauseAnnotation (#86)"
+            },
+            {
+              "SHA": "8fade5e6",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#85)"
+            },
+            {
+              "SHA": "43336e9a",
+              "Subject": "Only watch virtual-secrets Secret when the CRD is installed (#83)"
+            },
+            {
+              "SHA": "aa0ac08b",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#82)"
+            },
+            {
+              "SHA": "c99cd856",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#81)"
+            },
+            {
+              "SHA": "3a9a9961",
+              "Subject": "remove extra Error logs (#80)"
+            },
+            {
+              "SHA": "42b512c6",
+              "Subject": "Observer-image-pull-error-fix (#77)"
+            },
+            {
+              "SHA": "84e43918",
+              "Subject": "Fix reconfigure wallet (#63)"
+            },
+            {
+              "SHA": "b8b77661",
+              "Subject": "solve multiple image pull secret, handle remove tls (#72)"
+            },
+            {
+              "SHA": "f6bb8508",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#76)"
+            },
+            {
+              "SHA": "5ec9da67",
+              "Subject": "Add virtual secret support (#53)"
+            },
+            {
+              "SHA": "5199a198",
+              "Subject": "Use shared monitor and appbinding packages (#75)"
+            },
+            {
+              "SHA": "1b447602",
+              "Subject": "feat: implement git-sync init container for Oracle (#55)"
+            },
+            {
+              "SHA": "ed013630",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#73)"
+            },
+            {
+              "SHA": "b1819c65",
+              "Subject": "Move deletion logic to apimachinery (#74)"
+            },
+            {
+              "SHA": "d7753f7e",
+              "Subject": "Merge pull request #70 from kubedb/v2026.7.10-master"
             }
           ]
         }

@@ -604,6 +604,33 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.14.0](https://github.com/kubedb/oracle/releases/tag/v0.14.0)
+
+- [b1b924bc](https://github.com/kubedb/oracle/commit/b1b924bc) Prepare for release v0.14.0 (#90)
+- [0d5d2b5f](https://github.com/kubedb/oracle/commit/0d5d2b5f) Use Go 1.27, k8s 1.37 & debian:13 (#89)
+- [218e4892](https://github.com/kubedb/oracle/commit/218e4892) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [e27ca150](https://github.com/kubedb/oracle/commit/e27ca150) Sync Services with spec.serviceTemplates via shared helper (#88)
+- [d59bb265](https://github.com/kubedb/oracle/commit/d59bb265) Add SkipBackupPauseAnnotation (#86)
+- [8fade5e6](https://github.com/kubedb/oracle/commit/8fade5e6) Prepare for release v0.13.0-rc.2 (#85)
+- [43336e9a](https://github.com/kubedb/oracle/commit/43336e9a) Only watch virtual-secrets Secret when the CRD is installed (#83)
+- [aa0ac08b](https://github.com/kubedb/oracle/commit/aa0ac08b) Prepare for release v0.13.0-rc.0 (#82)
+- [c99cd856](https://github.com/kubedb/oracle/commit/c99cd856) Prepare for release v0.12.0-rc.0 (#81)
+- [3a9a9961](https://github.com/kubedb/oracle/commit/3a9a9961) remove extra Error logs (#80)
+- [42b512c6](https://github.com/kubedb/oracle/commit/42b512c6) Observer-image-pull-error-fix (#77)
+- [84e43918](https://github.com/kubedb/oracle/commit/84e43918) Fix reconfigure wallet (#63)
+- [b8b77661](https://github.com/kubedb/oracle/commit/b8b77661) solve multiple image pull secret, handle remove tls (#72)
+- [f6bb8508](https://github.com/kubedb/oracle/commit/f6bb8508) Use shared pkg/controller/secret for auth secret (#76)
+- [5ec9da67](https://github.com/kubedb/oracle/commit/5ec9da67) Add virtual secret support (#53)
+- [5199a198](https://github.com/kubedb/oracle/commit/5199a198) Use shared monitor and appbinding packages (#75)
+- [1b447602](https://github.com/kubedb/oracle/commit/1b447602) feat: implement git-sync init container for Oracle (#55)
+- [ed013630](https://github.com/kubedb/oracle/commit/ed013630) Set default resource limits before patching petset in vertical scaling (#73)
+- [b1819c65](https://github.com/kubedb/oracle/commit/b1819c65) Move deletion logic to apimachinery (#74)
+- [d7753f7e](https://github.com/kubedb/oracle/commit/d7753f7e) Merge pull request #70 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.14.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.14.0)

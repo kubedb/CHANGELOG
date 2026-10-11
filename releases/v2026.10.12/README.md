@@ -636,6 +636,38 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.68.0](https://github.com/kubedb/postgres/releases/tag/v0.68.0)
+
+- [7e1d77cf](https://github.com/kubedb/postgres/commit/7e1d77cf0) Prepare for release v0.68.0 (#945)
+- [abc16435](https://github.com/kubedb/postgres/commit/abc16435c) Use Go 1.27, k8s 1.37 & debian:13 (#944)
+- [43a09ae4](https://github.com/kubedb/postgres/commit/43a09ae41) Dc dr review (#916)
+- [51aba9b2](https://github.com/kubedb/postgres/commit/51aba9b20) Sync status.observedGeneration with metadata.generation on spec-only changes (#941)
+- [4659127e](https://github.com/kubedb/postgres/commit/4659127ee) Sync Services with spec.serviceTemplates via shared helper (#940)
+- [bed2056e](https://github.com/kubedb/postgres/commit/bed2056e6) Give the archiver sidekicks the DB's custom config, license and pull secrets (#937)
+- [03fb17fb](https://github.com/kubedb/postgres/commit/03fb17fbe) Guard against nil ResticStats.Summary and nil LogStats in snapshot status (#936)
+- [fd3e3898](https://github.com/kubedb/postgres/commit/fd3e38987) Give the postgres container GOVERNING_SERVICE_DNS for remote replicas (#934)
+- [69849fb1](https://github.com/kubedb/postgres/commit/69849fb1e) Generate rotated auth passwords with the same generator as provisioning (#933)
+- [2ccb9242](https://github.com/kubedb/postgres/commit/2ccb92429) Prepare for release v0.67.0-rc.2 (#932)
+- [7f83ef35](https://github.com/kubedb/postgres/commit/7f83ef35f) Prepare for release v0.67.0-rc.1 (#931)
+- [52fab24a](https://github.com/kubedb/postgres/commit/52fab24ae) Project configSecret key user_hba.conf into the config volume (#929)
+- [4dde82f7](https://github.com/kubedb/postgres/commit/4dde82f7d) Add Postgres license support for the AppsCode Enterprise distribution (#930)
+- [42d19328](https://github.com/kubedb/postgres/commit/42d193289) Prepare for release v0.67.0-rc.0 (#927)
+- [32b03ab1](https://github.com/kubedb/postgres/commit/32b03ab18) Generate auth-secret passwords with a symbol class (#925)
+- [5da0b6b8](https://github.com/kubedb/postgres/commit/5da0b6b89) Prepare for release v0.66.0-rc.0 (#924)
+- [0558f966](https://github.com/kubedb/postgres/commit/0558f966d) Wire pg_tde Transparent Data Encryption into Postgres (#917)
+- [e777c0a3](https://github.com/kubedb/postgres/commit/e777c0a3a) Add branched mode for KubeDB Courier Branch (kubedb.com/branched-from) (#912)
+- [cfa2def6](https://github.com/kubedb/postgres/commit/cfa2def6a) Add pg-coordinator support for remote replica pg_rewind and reinitialization (#908)
+- [4ee8265d](https://github.com/kubedb/postgres/commit/4ee8265df) Adopt shared monitor/appbinding packages from apimachinery (#920)
+- [fb27a495](https://github.com/kubedb/postgres/commit/fb27a4957) Migrate auth secret management to shared apimachinery secret package (#921)
+- [0e5a1ff5](https://github.com/kubedb/postgres/commit/0e5a1ff5e) Virtual Secret Ops Support (#918)
+- [6fc4c37a](https://github.com/kubedb/postgres/commit/6fc4c37ac) feat: implement git-sync init container for Postgres (#892)
+- [2d465d86](https://github.com/kubedb/postgres/commit/2d465d864) Move deletion logic to apimachinery (#919)
+- [eda65ceb](https://github.com/kubedb/postgres/commit/eda65ceb5) Merge pull request #915 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.29.0)

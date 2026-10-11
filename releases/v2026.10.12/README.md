@@ -239,6 +239,14 @@
 
 
 
+## [kubedb/documentdb-csi-snapshotter-plugin](https://github.com/kubedb/documentdb-csi-snapshotter-plugin)
+
+### [v0.2.0](https://github.com/kubedb/documentdb-csi-snapshotter-plugin/releases/tag/v0.2.0)
+
+- [a8400c0](https://github.com/kubedb/documentdb-csi-snapshotter-plugin/commit/a8400c0) Update README.md
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.23.0](https://github.com/kubedb/druid/releases/tag/v0.23.0)

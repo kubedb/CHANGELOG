@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:46:21.058103327Z",
+  "release_date": "2026-10-11T09:46:26.21718376Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -790,6 +790,20 @@
             {
               "SHA": "ac3486b",
               "Subject": "Prepare for release v0.7.0-rc.0 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "a8400c0",
+              "Subject": "Update README.md"
             }
           ]
         }

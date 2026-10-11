@@ -144,6 +144,27 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.14.0](https://github.com/kubedb/hazelcast/releases/tag/v0.14.0)
+
+- [19fd9477](https://github.com/kubedb/hazelcast/commit/19fd9477) Prepare for release v0.14.0 (#71)
+- [4531ca4d](https://github.com/kubedb/hazelcast/commit/4531ca4d) Use Go 1.27, k8s 1.37 & debian:13 (#70)
+- [70423d10](https://github.com/kubedb/hazelcast/commit/70423d10) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [a247d878](https://github.com/kubedb/hazelcast/commit/a247d878) Sync Services with spec.serviceTemplates via shared helper (#69)
+- [a70a49bc](https://github.com/kubedb/hazelcast/commit/a70a49bc) Prepare for release v0.13.0-rc.2 (#68)
+- [76480d46](https://github.com/kubedb/hazelcast/commit/76480d46) Prepare for release v0.13.0-rc.1 (#67)
+- [654af89f](https://github.com/kubedb/hazelcast/commit/654af89f) Prepare for release v0.13.0-rc.0 (#66)
+- [35ebce41](https://github.com/kubedb/hazelcast/commit/35ebce41) Prepare for release v0.12.0-rc.0 (#65)
+- [ad3bf0c5](https://github.com/kubedb/hazelcast/commit/ad3bf0c5) Migrate auth-secret management to shared apimachinery secret package (#64)
+- [e36af849](https://github.com/kubedb/hazelcast/commit/e36af849) Add virtual secret support (#47)
+- [5b1409ef](https://github.com/kubedb/hazelcast/commit/5b1409ef) Add StorageMigration OpsRequest support for Hazelcast (#45)
+- [a9a6cd5b](https://github.com/kubedb/hazelcast/commit/a9a6cd5b) Use shared monitor and appbinding packages (#63)
+- [85d20938](https://github.com/kubedb/hazelcast/commit/85d20938) Set default resource limits before patching petset in vertical scaling
+- [136b30e8](https://github.com/kubedb/hazelcast/commit/136b30e8) Move deletion logic to apimachinery (#62)
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.48.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.48.0)

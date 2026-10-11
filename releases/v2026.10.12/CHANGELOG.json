@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:35:03.420935765Z",
+  "release_date": "2026-10-11T09:35:13.974684578Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -500,6 +500,72 @@
             {
               "SHA": "50d3e6b3e",
               "Subject": "Merge pull request #828 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hazelcast",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "19fd9477",
+              "Subject": "Prepare for release v0.14.0 (#71)"
+            },
+            {
+              "SHA": "4531ca4d",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#70)"
+            },
+            {
+              "SHA": "70423d10",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "a247d878",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#69)"
+            },
+            {
+              "SHA": "a70a49bc",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#68)"
+            },
+            {
+              "SHA": "76480d46",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#67)"
+            },
+            {
+              "SHA": "654af89f",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#66)"
+            },
+            {
+              "SHA": "35ebce41",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#65)"
+            },
+            {
+              "SHA": "ad3bf0c5",
+              "Subject": "Migrate auth-secret management to shared apimachinery secret package (#64)"
+            },
+            {
+              "SHA": "e36af849",
+              "Subject": "Add virtual secret support (#47)"
+            },
+            {
+              "SHA": "5b1409ef",
+              "Subject": "Add StorageMigration OpsRequest support for Hazelcast (#45)"
+            },
+            {
+              "SHA": "a9a6cd5b",
+              "Subject": "Use shared monitor and appbinding packages (#63)"
+            },
+            {
+              "SHA": "85d20938",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "136b30e8",
+              "Subject": "Move deletion logic to apimachinery (#62)"
             }
           ]
         }

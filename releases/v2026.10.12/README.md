@@ -216,6 +216,28 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.9.0](https://github.com/kubedb/hanadb/releases/tag/v0.9.0)
+
+- [dfbf2a81](https://github.com/kubedb/hanadb/commit/dfbf2a81) Prepare for release v0.9.0 (#67)
+- [3ebde9b8](https://github.com/kubedb/hanadb/commit/3ebde9b8) Use Go 1.27, k8s 1.37 & debian:13 (#66)
+- [72bb1373](https://github.com/kubedb/hanadb/commit/72bb1373) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [036cd436](https://github.com/kubedb/hanadb/commit/036cd436) Sync Services with spec.serviceTemplates via shared helper (#65)
+- [878f2041](https://github.com/kubedb/hanadb/commit/878f2041) Prepare for release v0.8.0-rc.2 (#62)
+- [eea6e348](https://github.com/kubedb/hanadb/commit/eea6e348) Prepare for release v0.8.0-rc.1 (#61)
+- [7cb78e06](https://github.com/kubedb/hanadb/commit/7cb78e06) Only watch virtual-secrets Secret when the CRD is installed (#60)
+- [b678cf7a](https://github.com/kubedb/hanadb/commit/b678cf7a) Prepare for release v0.8.0-rc.0 (#59)
+- [2791d997](https://github.com/kubedb/hanadb/commit/2791d997) Prepare for release v0.7.0-rc.0 (#58)
+- [d3fdd8a8](https://github.com/kubedb/hanadb/commit/d3fdd8a8) Implement horizontal scaling, update version ops (#47)
+- [e5bbe114](https://github.com/kubedb/hanadb/commit/e5bbe114) Fix HanaDB ops and volume permission handling (#49)
+- [dba6048b](https://github.com/kubedb/hanadb/commit/dba6048b) Add virtual secret support (#40)
+- [4b038da8](https://github.com/kubedb/hanadb/commit/4b038da8) Adopt shared apimachinery secret package for auth secret handling (#56)
+- [25b8aa29](https://github.com/kubedb/hanadb/commit/25b8aa29) Adopt shared monitor/appbinding packages from apimachinery (#55)
+- [916a4696](https://github.com/kubedb/hanadb/commit/916a4696) Move deletion logic to apimachinery (#54)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.14.0](https://github.com/kubedb/hazelcast/releases/tag/v0.14.0)

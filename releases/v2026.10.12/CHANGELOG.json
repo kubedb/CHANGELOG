@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:40:29.677382427Z",
+  "release_date": "2026-10-11T09:40:39.67489465Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -716,6 +716,76 @@
             {
               "SHA": "2aee9ab8",
               "Subject": "Add Virtual Secret Support (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "dfbf2a81",
+              "Subject": "Prepare for release v0.9.0 (#67)"
+            },
+            {
+              "SHA": "3ebde9b8",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#66)"
+            },
+            {
+              "SHA": "72bb1373",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "036cd436",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#65)"
+            },
+            {
+              "SHA": "878f2041",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#62)"
+            },
+            {
+              "SHA": "eea6e348",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#61)"
+            },
+            {
+              "SHA": "7cb78e06",
+              "Subject": "Only watch virtual-secrets Secret when the CRD is installed (#60)"
+            },
+            {
+              "SHA": "b678cf7a",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#59)"
+            },
+            {
+              "SHA": "2791d997",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#58)"
+            },
+            {
+              "SHA": "d3fdd8a8",
+              "Subject": "Implement horizontal scaling, update version ops (#47)"
+            },
+            {
+              "SHA": "e5bbe114",
+              "Subject": "Fix HanaDB ops and volume permission handling (#49)"
+            },
+            {
+              "SHA": "dba6048b",
+              "Subject": "Add virtual secret support (#40)"
+            },
+            {
+              "SHA": "4b038da8",
+              "Subject": "Adopt shared apimachinery secret package for auth secret handling (#56)"
+            },
+            {
+              "SHA": "25b8aa29",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#55)"
+            },
+            {
+              "SHA": "916a4696",
+              "Subject": "Move deletion logic to apimachinery (#54)"
             }
           ]
         }

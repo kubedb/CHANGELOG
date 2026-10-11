@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:53:41.001006206Z",
+  "release_date": "2026-10-11T09:54:40.458384519Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -2940,6 +2940,72 @@
             {
               "SHA": "1cdbe950",
               "Subject": "Prepare for release v0.12.0-rc.0 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb",
+      "releases": [
+        {
+          "tag": "v0.55.0",
+          "commits": [
+            {
+              "SHA": "4b4b8db84",
+              "Subject": "Prepare for release v0.55.0 (#479)"
+            },
+            {
+              "SHA": "75f389d4b",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#478)"
+            },
+            {
+              "SHA": "3b4a12abd",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "5dbc560c6",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#477)"
+            },
+            {
+              "SHA": "7c2529a74",
+              "Subject": "Add network policy flavor support (#476)"
+            },
+            {
+              "SHA": "4053fd3b4",
+              "Subject": "Prepare for release v0.54.0-rc.2 (#475)"
+            },
+            {
+              "SHA": "3713865bd",
+              "Subject": "Prepare for release v0.54.0-rc.1 (#474)"
+            },
+            {
+              "SHA": "be7d39743",
+              "Subject": "Prepare for release v0.54.0-rc.0 (#473)"
+            },
+            {
+              "SHA": "c9b14d9d7",
+              "Subject": "Prepare for release v0.53.0-rc.0 (#472)"
+            },
+            {
+              "SHA": "421e4a5c9",
+              "Subject": "Migrate auth-secret management to shared kubedb.dev/apimachinery secret package (#471)"
+            },
+            {
+              "SHA": "454eeb0b2",
+              "Subject": "Use shared monitor and appbinding packages (#470)"
+            },
+            {
+              "SHA": "ee1884631",
+              "Subject": "Add virtual secret support (#455)"
+            },
+            {
+              "SHA": "bb4bf36de",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#468)"
+            },
+            {
+              "SHA": "f42d4b388",
+              "Subject": "Move deletion logic to apimachinery (#469)"
             }
           ]
         }

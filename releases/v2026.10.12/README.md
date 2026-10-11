@@ -952,6 +952,27 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.55.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.55.0)
+
+- [4b4b8db8](https://github.com/kubedb/percona-xtradb/commit/4b4b8db84) Prepare for release v0.55.0 (#479)
+- [75f389d4](https://github.com/kubedb/percona-xtradb/commit/75f389d4b) Use Go 1.27, k8s 1.37 & debian:13 (#478)
+- [3b4a12ab](https://github.com/kubedb/percona-xtradb/commit/3b4a12abd) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [5dbc560c](https://github.com/kubedb/percona-xtradb/commit/5dbc560c6) Sync Services with spec.serviceTemplates via shared helper (#477)
+- [7c2529a7](https://github.com/kubedb/percona-xtradb/commit/7c2529a74) Add network policy flavor support (#476)
+- [4053fd3b](https://github.com/kubedb/percona-xtradb/commit/4053fd3b4) Prepare for release v0.54.0-rc.2 (#475)
+- [3713865b](https://github.com/kubedb/percona-xtradb/commit/3713865bd) Prepare for release v0.54.0-rc.1 (#474)
+- [be7d3974](https://github.com/kubedb/percona-xtradb/commit/be7d39743) Prepare for release v0.54.0-rc.0 (#473)
+- [c9b14d9d](https://github.com/kubedb/percona-xtradb/commit/c9b14d9d7) Prepare for release v0.53.0-rc.0 (#472)
+- [421e4a5c](https://github.com/kubedb/percona-xtradb/commit/421e4a5c9) Migrate auth-secret management to shared kubedb.dev/apimachinery secret package (#471)
+- [454eeb0b](https://github.com/kubedb/percona-xtradb/commit/454eeb0b2) Use shared monitor and appbinding packages (#470)
+- [ee188463](https://github.com/kubedb/percona-xtradb/commit/ee1884631) Add virtual secret support (#455)
+- [bb4bf36d](https://github.com/kubedb/percona-xtradb/commit/bb4bf36de) Set default resource limits before patching petset in vertical scaling (#468)
+- [f42d4b38](https://github.com/kubedb/percona-xtradb/commit/f42d4b388) Move deletion logic to apimachinery (#469)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.41.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.41.0)

@@ -769,6 +769,31 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.23.0](https://github.com/kubedb/solr/releases/tag/v0.23.0)
+
+- [fc4f6445](https://github.com/kubedb/solr/commit/fc4f6445) Prepare for release v0.23.0 (#162)
+- [1517ce28](https://github.com/kubedb/solr/commit/1517ce28) Use Go 1.27, k8s 1.37 & debian:13 (#161)
+- [db614a64](https://github.com/kubedb/solr/commit/db614a64) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [193876ae](https://github.com/kubedb/solr/commit/193876ae) Apply primary serviceTemplate labels to Solr Service
+- [61f14f92](https://github.com/kubedb/solr/commit/61f14f92) Sync Services with spec.serviceTemplates via shared helper (#160)
+- [e5fc736d](https://github.com/kubedb/solr/commit/e5fc736d) Add Backup Support for Multiple S3/GCS Backend (#157)
+- [e416a480](https://github.com/kubedb/solr/commit/e416a480) Prepare for release v0.22.0-rc.2 (#159)
+- [f6b10d41](https://github.com/kubedb/solr/commit/f6b10d41) Prepare for release v0.22.0-rc.1 (#158)
+- [a49c4523](https://github.com/kubedb/solr/commit/a49c4523) Extend Reconfigure Ops for Backup Creds (#151)
+- [df17e445](https://github.com/kubedb/solr/commit/df17e445) Prepare for release v0.22.0-rc.0 (#156)
+- [25754c5f](https://github.com/kubedb/solr/commit/25754c5f) Prepare for release v0.21.0-rc.0 (#155)
+- [0afd2d73](https://github.com/kubedb/solr/commit/0afd2d73) API fix [Unblock RC] (#154)
+- [32dfb2d9](https://github.com/kubedb/solr/commit/32dfb2d9) Adopt shared secret package from apimachinery (#152)
+- [22d3d42e](https://github.com/kubedb/solr/commit/22d3d42e) Adopt shared monitor/appbinding packages from apimachinery (#150)
+- [dbaaa4f9](https://github.com/kubedb/solr/commit/dbaaa4f9) Add virtual secret support (#131)
+- [5f23c1f2](https://github.com/kubedb/solr/commit/5f23c1f2) Set default resource limits before patching petset in vertical scaling (#147)
+- [a0c4213c](https://github.com/kubedb/solr/commit/a0c4213c) Honor user-provided renewBefore in TLS certificate ops (#146)
+- [cd576f42](https://github.com/kubedb/solr/commit/cd576f42) Move deletion logic to apimachinery (#148)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.53.0](https://github.com/kubedb/tests/releases/tag/v0.53.0)

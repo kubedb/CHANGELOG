@@ -1,6 +1,28 @@
 # KubeDB v2026.10.12 (2026-10-11)
 
 
+## [kubedb/aerospike](https://github.com/kubedb/aerospike)
+
+### [v0.4.0](https://github.com/kubedb/aerospike/releases/tag/v0.4.0)
+
+- [ffc3ab0d](https://github.com/kubedb/aerospike/commit/ffc3ab0d) Prepare for release v0.4.0 (#19)
+- [9e951762](https://github.com/kubedb/aerospike/commit/9e951762) Use Go 1.27, k8s 1.37 & debian:13 (#18)
+- [e9297592](https://github.com/kubedb/aerospike/commit/e9297592) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [29c6f649](https://github.com/kubedb/aerospike/commit/29c6f649) Update apimachinery (#17)
+- [c834559b](https://github.com/kubedb/aerospike/commit/c834559b) Add network policy support with flavor selection (#16)
+- [442d7867](https://github.com/kubedb/aerospike/commit/442d7867) Prepare for release v0.3.0-rc.2 (#15)
+- [580212ae](https://github.com/kubedb/aerospike/commit/580212ae) Prepare for release v0.3.0-rc.1 (#14)
+- [bd299458](https://github.com/kubedb/aerospike/commit/bd299458) Prepare for release v0.3.0-rc.0 (#13)
+- [45481d49](https://github.com/kubedb/aerospike/commit/45481d49) Prepare for release v0.2.0-rc.0 (#12)
+- [81fe47b5](https://github.com/kubedb/aerospike/commit/81fe47b5) Config merging (#11)
+- [1c54e254](https://github.com/kubedb/aerospike/commit/1c54e254) Use shared appbinding helper and record event (#10)
+- [22a19d44](https://github.com/kubedb/aerospike/commit/22a19d44) Add appbinding (#9)
+- [408f2a83](https://github.com/kubedb/aerospike/commit/408f2a83) Fix Health check (#4)
+- [1c47f5b1](https://github.com/kubedb/aerospike/commit/1c47f5b1) Move deletion logic to apimachinery (#8)
+- [615dd307](https://github.com/kubedb/aerospike/commit/615dd307) Upgrade aerospike-client-go v6 -> v8 (#7)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.68.0](https://github.com/kubedb/apimachinery/releases/tag/v0.68.0)

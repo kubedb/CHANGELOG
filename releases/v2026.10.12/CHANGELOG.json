@@ -1,11 +1,81 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:35:23.938086883Z",
+  "release_date": "2026-10-11T09:35:32.137269331Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
   "projects": [
+    {
+      "url": "github.com/kubedb/aerospike",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "ffc3ab0d",
+              "Subject": "Prepare for release v0.4.0 (#19)"
+            },
+            {
+              "SHA": "9e951762",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#18)"
+            },
+            {
+              "SHA": "e9297592",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "29c6f649",
+              "Subject": "Update apimachinery (#17)"
+            },
+            {
+              "SHA": "c834559b",
+              "Subject": "Add network policy support with flavor selection (#16)"
+            },
+            {
+              "SHA": "442d7867",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#15)"
+            },
+            {
+              "SHA": "580212ae",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#14)"
+            },
+            {
+              "SHA": "bd299458",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "45481d49",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#12)"
+            },
+            {
+              "SHA": "81fe47b5",
+              "Subject": "Config merging (#11)"
+            },
+            {
+              "SHA": "1c54e254",
+              "Subject": "Use shared appbinding helper and record event (#10)"
+            },
+            {
+              "SHA": "22a19d44",
+              "Subject": "Add appbinding (#9)"
+            },
+            {
+              "SHA": "408f2a83",
+              "Subject": "Fix Health check (#4)"
+            },
+            {
+              "SHA": "1c47f5b1",
+              "Subject": "Move deletion logic to apimachinery (#8)"
+            },
+            {
+              "SHA": "615dd307",
+              "Subject": "Upgrade aerospike-client-go v6 -> v8 (#7)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/kubedb/apimachinery",
       "releases": [

@@ -213,6 +213,21 @@
 
 
 
+## [kubedb/etcd-restic-plugin](https://github.com/kubedb/etcd-restic-plugin)
+
+### [v0.2.0](https://github.com/kubedb/etcd-restic-plugin/releases/tag/v0.2.0)
+
+- [679a2c0](https://github.com/kubedb/etcd-restic-plugin/commit/679a2c0) Prepare for release v0.2.0 (#4)
+- [ff6dfe4](https://github.com/kubedb/etcd-restic-plugin/commit/ff6dfe4) Use Go 1.27, k8s 1.37 & debian:13 (#3)
+- [00faabb](https://github.com/kubedb/etcd-restic-plugin/commit/00faabb) Prepare for release v0.1.0-rc.2 (#2)
+- [ff35eda](https://github.com/kubedb/etcd-restic-plugin/commit/ff35eda) Update deps
+- [f574749](https://github.com/kubedb/etcd-restic-plugin/commit/f574749) Fix snapshot integrity, restore idempotency and space accounting
+- [54c8420](https://github.com/kubedb/etcd-restic-plugin/commit/54c8420) backup: check f.Close() error in sha256File
+- [ecf9140](https://github.com/kubedb/etcd-restic-plugin/commit/ecf9140) Add missing .github CI workflow folder
+- [974b15b](https://github.com/kubedb/etcd-restic-plugin/commit/974b15b) Add README
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.16.0](https://github.com/kubedb/gitops/releases/tag/v0.16.0)

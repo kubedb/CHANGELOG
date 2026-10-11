@@ -389,6 +389,35 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.23.0](https://github.com/kubedb/pgpool/releases/tag/v0.23.0)
+
+- [01736d7c](https://github.com/kubedb/pgpool/commit/01736d7c) Prepare for release v0.23.0 (#154)
+- [dc861cc9](https://github.com/kubedb/pgpool/commit/dc861cc9) Use Go 1.27, k8s 1.37 & debian:13 (#153)
+- [48ef577e](https://github.com/kubedb/pgpool/commit/48ef577e) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [53c1c526](https://github.com/kubedb/pgpool/commit/53c1c526) Apply primary serviceTemplate labels to Pgpool Service
+- [ba649601](https://github.com/kubedb/pgpool/commit/ba649601) Sync Services with spec.serviceTemplates via shared helper (#152)
+- [6924214d](https://github.com/kubedb/pgpool/commit/6924214d) Drop pgpool config validation (#150)
+- [fd562a9b](https://github.com/kubedb/pgpool/commit/fd562a9b) fix sync-user auth (#149)
+- [c3b78c01](https://github.com/kubedb/pgpool/commit/c3b78c01) sync users: pass credentials as arguments instead of shell text (#148)
+- [31123988](https://github.com/kubedb/pgpool/commit/31123988) Fix backend connection budget: drop 2x cancel multiplier, make max_pool default per-child (#147)
+- [ca61fed3](https://github.com/kubedb/pgpool/commit/ca61fed3) Prepare for release v0.22.0-rc.2 (#146)
+- [8e775fe2](https://github.com/kubedb/pgpool/commit/8e775fe2) Prepare for release v0.22.0-rc.1 (#145)
+- [6bf78777](https://github.com/kubedb/pgpool/commit/6bf78777) Prepare for release v0.22.0-rc.0 (#144)
+- [9f165e26](https://github.com/kubedb/pgpool/commit/9f165e26) Prepare for release v0.21.0-rc.0 (#143)
+- [ea823306](https://github.com/kubedb/pgpool/commit/ea823306) Dont validate pool config until the pg appbinding found (#142)
+- [c5071c52](https://github.com/kubedb/pgpool/commit/c5071c52) Fix max_pool validation to check absolute minimum, not per-replica (#141)
+- [70094e98](https://github.com/kubedb/pgpool/commit/70094e98) Reduce default max_pool from 15 to 4 (#140)
+- [4aff494d](https://github.com/kubedb/pgpool/commit/4aff494d) Requeue if underlying postgres appbinding not found (#139)
+- [955ad569](https://github.com/kubedb/pgpool/commit/955ad569) Use shared pkg/controller/secret for auth secret (#138)
+- [009328ff](https://github.com/kubedb/pgpool/commit/009328ff) Use shared monitor and appbinding packages (#137)
+- [a601d9d6](https://github.com/kubedb/pgpool/commit/a601d9d6) Virtual Secret Ops Support (#136)
+- [0b8ea40b](https://github.com/kubedb/pgpool/commit/0b8ea40b) Honor user-provided renewBefore in TLS certificate ops (#121)
+- [f9c951b8](https://github.com/kubedb/pgpool/commit/f9c951b8) Move deletion logic to apimachinery (#135)
+
+
+
 ## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.29.0)

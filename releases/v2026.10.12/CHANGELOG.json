@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:38:55.410877959Z",
+  "release_date": "2026-10-11T09:39:07.866435743Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1228,6 +1228,104 @@
             {
               "SHA": "9e889075",
               "Subject": "Use pg_tde_rewind and pg_tde_basebackup when TDE is enabled (#264)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "01736d7c",
+              "Subject": "Prepare for release v0.23.0 (#154)"
+            },
+            {
+              "SHA": "dc861cc9",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#153)"
+            },
+            {
+              "SHA": "48ef577e",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "53c1c526",
+              "Subject": "Apply primary serviceTemplate labels to Pgpool Service"
+            },
+            {
+              "SHA": "ba649601",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#152)"
+            },
+            {
+              "SHA": "6924214d",
+              "Subject": "Drop pgpool config validation (#150)"
+            },
+            {
+              "SHA": "fd562a9b",
+              "Subject": "fix sync-user auth (#149)"
+            },
+            {
+              "SHA": "c3b78c01",
+              "Subject": "sync users: pass credentials as arguments instead of shell text (#148)"
+            },
+            {
+              "SHA": "31123988",
+              "Subject": "Fix backend connection budget: drop 2x cancel multiplier, make max_pool default per-child (#147)"
+            },
+            {
+              "SHA": "ca61fed3",
+              "Subject": "Prepare for release v0.22.0-rc.2 (#146)"
+            },
+            {
+              "SHA": "8e775fe2",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#145)"
+            },
+            {
+              "SHA": "6bf78777",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#144)"
+            },
+            {
+              "SHA": "9f165e26",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#143)"
+            },
+            {
+              "SHA": "ea823306",
+              "Subject": "Dont validate pool config until the pg appbinding found (#142)"
+            },
+            {
+              "SHA": "c5071c52",
+              "Subject": "Fix max_pool validation to check absolute minimum, not per-replica (#141)"
+            },
+            {
+              "SHA": "70094e98",
+              "Subject": "Reduce default max_pool from 15 to 4 (#140)"
+            },
+            {
+              "SHA": "4aff494d",
+              "Subject": "Requeue if underlying postgres appbinding not found (#139)"
+            },
+            {
+              "SHA": "955ad569",
+              "Subject": "Use shared pkg/controller/secret for auth secret (#138)"
+            },
+            {
+              "SHA": "009328ff",
+              "Subject": "Use shared monitor and appbinding packages (#137)"
+            },
+            {
+              "SHA": "a601d9d6",
+              "Subject": "Virtual Secret Ops Support (#136)"
+            },
+            {
+              "SHA": "0b8ea40b",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#121)"
+            },
+            {
+              "SHA": "f9c951b8",
+              "Subject": "Move deletion logic to apimachinery (#135)"
             }
           ]
         }

@@ -587,6 +587,19 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.46.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.46.0)
+
+- [4097a3d](https://github.com/kubedb/mysql-router-init/commit/4097a3d) Prepare for release v0.46.0 (#73)
+- [9d83b4e](https://github.com/kubedb/mysql-router-init/commit/9d83b4e) Use Go 1.27, k8s 1.37 & debian:13 (#72)
+- [2a6cad1](https://github.com/kubedb/mysql-router-init/commit/2a6cad1) Prepare for release v0.45.0-rc.2 (#71)
+- [b195b0d](https://github.com/kubedb/mysql-router-init/commit/b195b0d) Prepare for release v0.45.0-rc.1 (#70)
+- [f335f57](https://github.com/kubedb/mysql-router-init/commit/f335f57) Prepare for release v0.45.0-rc.0 (#69)
+- [3d63a45](https://github.com/kubedb/mysql-router-init/commit/3d63a45) Prepare for release v0.44.0-rc.0 (#68)
+
+
+
 ## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
 
 ### [v0.4.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.4.0)

@@ -644,6 +644,19 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.22.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.22.0)
+
+- [7bf656a](https://github.com/kubedb/mssqlserver-archiver/commit/7bf656a) Prepare for release v0.22.0 (#39)
+- [2c0420c](https://github.com/kubedb/mssqlserver-archiver/commit/2c0420c) Use Go 1.27, k8s 1.37 & debian:13 (#38)
+- [e86bac3](https://github.com/kubedb/mssqlserver-archiver/commit/e86bac3) Prepare for release v0.21.0-rc.2 (#37)
+- [c014e1f](https://github.com/kubedb/mssqlserver-archiver/commit/c014e1f) Prepare for release v0.21.0-rc.1 (#36)
+- [d48e439](https://github.com/kubedb/mssqlserver-archiver/commit/d48e439) Prepare for release v0.21.0-rc.0 (#35)
+- [5fc9453](https://github.com/kubedb/mssqlserver-archiver/commit/5fc9453) Prepare for release v0.20.0-rc.0 (#34)
+
+
+
 ## [kubedb/mssqlserver-walg-plugin](https://github.com/kubedb/mssqlserver-walg-plugin)
 
 ### [v0.22.0](https://github.com/kubedb/mssqlserver-walg-plugin/releases/tag/v0.22.0)

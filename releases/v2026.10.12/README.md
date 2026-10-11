@@ -101,3 +101,23 @@
 
 
 
+## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
+
+### [v0.23.0](https://github.com/kubedb/db-client-go/releases/tag/v0.23.0)
+
+- [1fed96bf](https://github.com/kubedb/db-client-go/commit/1fed96bf) Prepare for release v0.23.0 (#271)
+- [f53ad7e8](https://github.com/kubedb/db-client-go/commit/f53ad7e8) Use Go 1.27, k8s 1.37 & debian:13 (#270)
+- [6e793845](https://github.com/kubedb/db-client-go/commit/6e793845) Add New Function for Composite Database (#266)
+- [cfe9ea0b](https://github.com/kubedb/db-client-go/commit/cfe9ea0b) Prepare for release v0.22.0-rc.2 (#265)
+- [0efc93cc](https://github.com/kubedb/db-client-go/commit/0efc93cc) Prepare for release v0.22.0-rc.1 (#264)
+- [9793d3da](https://github.com/kubedb/db-client-go/commit/9793d3da) Fix ClickHouse Connection String (#262)
+- [6769cb1c](https://github.com/kubedb/db-client-go/commit/6769cb1c) Neo4j Connectivity Check Against Systemdatabase (#263)
+- [e048889a](https://github.com/kubedb/db-client-go/commit/e048889a) Add etcd client package (#261)
+- [784f6a68](https://github.com/kubedb/db-client-go/commit/784f6a68) Prepare for release v0.22.0-rc.0 (#260)
+- [7c17ffc1](https://github.com/kubedb/db-client-go/commit/7c17ffc1) Prepare for release v0.21.0-rc.0 (#259)
+- [592d1ff9](https://github.com/kubedb/db-client-go/commit/592d1ff9) Update Solr Client (#256)
+- [a5525a6e](https://github.com/kubedb/db-client-go/commit/a5525a6e) lower connect log visibility by changing klog V(3) to V(4) (#258)
+- [55c58b66](https://github.com/kubedb/db-client-go/commit/55c58b66) Fix DNS issue for down scaling (#257)
+
+
+

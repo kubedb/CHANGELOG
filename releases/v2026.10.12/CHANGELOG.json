@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T12:03:59.901622768Z",
+  "release_date": "2026-10-11T13:33:27.360752238Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -3190,6 +3190,15 @@
               "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.55.0",
+          "commits": null
         }
       ]
     },

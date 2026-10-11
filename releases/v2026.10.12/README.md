@@ -361,3 +361,19 @@
 
 
 
+## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
+
+### [v0.26.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.26.0)
+
+- [58f32237](https://github.com/kubedb/singlestore-restic-plugin/commit/58f32237) Prepare for release v0.26.0 (#99)
+- [4f62faae](https://github.com/kubedb/singlestore-restic-plugin/commit/4f62faae) Use Go 1.27, k8s 1.37 & debian:13 (#98)
+- [f5db3d86](https://github.com/kubedb/singlestore-restic-plugin/commit/f5db3d86) Prepare for release v0.25.0-rc.2 (#97)
+- [aca72da8](https://github.com/kubedb/singlestore-restic-plugin/commit/aca72da8) Prepare for release v0.25.0-rc.1 (#96)
+- [914e097c](https://github.com/kubedb/singlestore-restic-plugin/commit/914e097c) Prepare for release v0.25.0-rc.0 (#95)
+- [0e259058](https://github.com/kubedb/singlestore-restic-plugin/commit/0e259058) Prepare for release v0.24.0-rc.0 (#94)
+- [67f1a95e](https://github.com/kubedb/singlestore-restic-plugin/commit/67f1a95e) Fix --ssl-ca being silently dropped from the client command (#93)
+- [f50bc94f](https://github.com/kubedb/singlestore-restic-plugin/commit/f50bc94f) Add Virtual Secret Support (#90)
+- [1fe1b17d](https://github.com/kubedb/singlestore-restic-plugin/commit/1fe1b17d) Merge pull request #92 from kubedb/v2026.7.10-master
+
+
+

@@ -948,6 +948,14 @@
 
 
 
+## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
+
+### [v0.29.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.29.0)
+
+- [952f8a1](https://github.com/kubedb/provider-gcp/commit/952f8a1) Use Go 1.27, k8s 1.37 & debian:13 (#30)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.9.0](https://github.com/kubedb/qdrant/releases/tag/v0.9.0)

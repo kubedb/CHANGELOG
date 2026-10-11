@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:46:10.397025126Z",
+  "release_date": "2026-10-11T09:46:15.822965095Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -2924,6 +2924,20 @@
             {
               "SHA": "c0ae4e7a",
               "Subject": "Add Virtual Secret Support (#116)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-gcp",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "952f8a1",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#30)"
             }
           ]
         }

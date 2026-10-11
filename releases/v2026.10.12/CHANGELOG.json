@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:52:42.32310966Z",
+  "release_date": "2026-10-11T09:53:31.820827721Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -4206,6 +4206,48 @@
             {
               "SHA": "47f19de7",
               "Subject": "Move deletion logic to apimachinery (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/xtrabackup-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "2e0cb1b8",
+              "Subject": "Prepare for release v0.16.0 (#68)"
+            },
+            {
+              "SHA": "390f82fa",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#67)"
+            },
+            {
+              "SHA": "d68946ba",
+              "Subject": "Prepare for release v0.15.0-rc.2 (#66)"
+            },
+            {
+              "SHA": "2f7ff61c",
+              "Subject": "Prepare for release v0.15.0-rc.1 (#65)"
+            },
+            {
+              "SHA": "0959f5cf",
+              "Subject": "Add 9.7.1 version (#64)"
+            },
+            {
+              "SHA": "c8d5e992",
+              "Subject": "Prepare for release v0.15.0-rc.0 (#63)"
+            },
+            {
+              "SHA": "0ea98fb8",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#62)"
+            },
+            {
+              "SHA": "f0b1e934",
+              "Subject": "Add Virtual Secret Support (#59)"
             }
           ]
         }

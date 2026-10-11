@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:44:16.360609359Z",
+  "release_date": "2026-10-11T09:44:24.752679687Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -632,6 +632,60 @@
             {
               "SHA": "55c58b66",
               "Subject": "Fix DNS issue for down scaling (#257)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "4b49dded",
+              "Subject": "Prepare for release v0.9.0 (#46)"
+            },
+            {
+              "SHA": "4765d202",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#45)"
+            },
+            {
+              "SHA": "ac9db734",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "e947a027",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#44)"
+            },
+            {
+              "SHA": "9bfbc770",
+              "Subject": "exclude semiclone from password (#42)"
+            },
+            {
+              "SHA": "c81c1cbd",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#41)"
+            },
+            {
+              "SHA": "b58a8323",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#39)"
+            },
+            {
+              "SHA": "be3f3b37",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#38)"
+            },
+            {
+              "SHA": "ccf20e02",
+              "Subject": "Migrate auth secret management to shared apimachinery secret package (#37)"
+            },
+            {
+              "SHA": "4f924680",
+              "Subject": "Add virtual secret support (#26)"
+            },
+            {
+              "SHA": "87f6518b",
+              "Subject": "Move deletion logic to apimachinery (#36)"
             }
           ]
         }

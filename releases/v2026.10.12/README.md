@@ -186,6 +186,24 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.9.0](https://github.com/kubedb/db2/releases/tag/v0.9.0)
+
+- [4b49dded](https://github.com/kubedb/db2/commit/4b49dded) Prepare for release v0.9.0 (#46)
+- [4765d202](https://github.com/kubedb/db2/commit/4765d202) Use Go 1.27, k8s 1.37 & debian:13 (#45)
+- [ac9db734](https://github.com/kubedb/db2/commit/ac9db734) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [e947a027](https://github.com/kubedb/db2/commit/e947a027) Sync Services with spec.serviceTemplates via shared helper (#44)
+- [9bfbc770](https://github.com/kubedb/db2/commit/9bfbc770) exclude semiclone from password (#42)
+- [c81c1cbd](https://github.com/kubedb/db2/commit/c81c1cbd) Prepare for release v0.8.0-rc.2 (#41)
+- [b58a8323](https://github.com/kubedb/db2/commit/b58a8323) Prepare for release v0.8.0-rc.0 (#39)
+- [be3f3b37](https://github.com/kubedb/db2/commit/be3f3b37) Prepare for release v0.7.0-rc.0 (#38)
+- [ccf20e02](https://github.com/kubedb/db2/commit/ccf20e02) Migrate auth secret management to shared apimachinery secret package (#37)
+- [4f924680](https://github.com/kubedb/db2/commit/4f924680) Add virtual secret support (#26)
+- [87f6518b](https://github.com/kubedb/db2/commit/87f6518b) Move deletion logic to apimachinery (#36)
+
+
+
 ## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
 
 ### [v0.9.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.9.0)

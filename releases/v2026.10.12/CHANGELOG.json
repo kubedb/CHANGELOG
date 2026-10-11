@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T10:47:54.936381478Z",
+  "release_date": "2026-10-11T10:48:22.638549367Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -5058,6 +5058,15 @@
               "Subject": "Move deletion logic to apimachinery (#55)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/webhook-server",
+      "releases": [
+        {
+          "tag": "v0.44.0",
+          "commits": null
         }
       ]
     },

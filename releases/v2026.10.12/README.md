@@ -956,6 +956,14 @@
 
 
 
+## [kubedb/provider-aws](https://github.com/kubedb/provider-aws)
+
+### [v0.29.0](https://github.com/kubedb/provider-aws/releases/tag/v0.29.0)
+
+- [186bd1e](https://github.com/kubedb/provider-aws/commit/186bd1e) Use Go 1.27, k8s 1.37 & debian:13 (#46)
+
+
+
 ## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
 
 ### [v0.29.0](https://github.com/kubedb/provider-azure/releases/tag/v0.29.0)

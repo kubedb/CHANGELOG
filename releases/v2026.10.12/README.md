@@ -434,6 +434,19 @@
 
 
 
+## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
+
+### [v0.55.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.55.0)
+
+- [fcad4c5e](https://github.com/kubedb/replication-mode-detector/commit/fcad4c5e) Prepare for release v0.55.0 (#334)
+- [1e73fe3f](https://github.com/kubedb/replication-mode-detector/commit/1e73fe3f) Use Go 1.27, k8s 1.37 & debian:13 (#333)
+- [a4317b50](https://github.com/kubedb/replication-mode-detector/commit/a4317b50) Prepare for release v0.54.0-rc.2 (#332)
+- [ec8486cf](https://github.com/kubedb/replication-mode-detector/commit/ec8486cf) Prepare for release v0.54.0-rc.1 (#331)
+- [637dd051](https://github.com/kubedb/replication-mode-detector/commit/637dd051) Prepare for release v0.54.0-rc.0 (#330)
+- [2835220a](https://github.com/kubedb/replication-mode-detector/commit/2835220a) Prepare for release v0.53.0-rc.0 (#329)
+
+
+
 ## [kubedb/singlestore-restic-plugin](https://github.com/kubedb/singlestore-restic-plugin)
 
 ### [v0.26.0](https://github.com/kubedb/singlestore-restic-plugin/releases/tag/v0.26.0)

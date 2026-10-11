@@ -296,3 +296,16 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.47.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.47.0)
+
+- [3c23b356](https://github.com/kubedb/redis-coordinator/commit/3c23b356) Prepare for release v0.47.0 (#172)
+- [39eb22c5](https://github.com/kubedb/redis-coordinator/commit/39eb22c5) Use Go 1.27, k8s 1.37 & debian:13 (#171)
+- [ff09aab0](https://github.com/kubedb/redis-coordinator/commit/ff09aab0) Prepare for release v0.46.0-rc.2 (#170)
+- [1492448b](https://github.com/kubedb/redis-coordinator/commit/1492448b) Prepare for release v0.46.0-rc.1 (#169)
+- [c175fe00](https://github.com/kubedb/redis-coordinator/commit/c175fe00) Prepare for release v0.46.0-rc.0 (#168)
+- [c88db39d](https://github.com/kubedb/redis-coordinator/commit/c88db39d) Prepare for release v0.45.0-rc.0 (#167)
+
+
+

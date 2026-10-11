@@ -181,6 +181,28 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.23.0](https://github.com/kubedb/clickhouse/releases/tag/v0.23.0)
+
+- [af21eec3](https://github.com/kubedb/clickhouse/commit/af21eec3) Prepare for release v0.23.0 (#141)
+- [0ad01173](https://github.com/kubedb/clickhouse/commit/0ad01173) Use Go 1.27, k8s 1.37 & debian:13 (#140)
+- [9ce753c8](https://github.com/kubedb/clickhouse/commit/9ce753c8) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [075ddc81](https://github.com/kubedb/clickhouse/commit/075ddc81) Apply primary serviceTemplate to ClickHouse Service (#139)
+- [044be1f7](https://github.com/kubedb/clickhouse/commit/044be1f7) Prepare for release v0.22.0-rc.2 (#137)
+- [51b3c5f7](https://github.com/kubedb/clickhouse/commit/51b3c5f7) Prepare for release v0.22.0-rc.1 (#136)
+- [ef2a8ceb](https://github.com/kubedb/clickhouse/commit/ef2a8ceb) Fix Shard Scale Fail  for equal no of Shard (#135)
+- [c75721ce](https://github.com/kubedb/clickhouse/commit/c75721ce) Prepare for release v0.22.0-rc.0 (#134)
+- [40fc5e4e](https://github.com/kubedb/clickhouse/commit/40fc5e4e) Add ClickHouseKeeper Ops Support (#128)
+- [cf0be0bd](https://github.com/kubedb/clickhouse/commit/cf0be0bd) Prepare for release v0.21.0-rc.0 (#133)
+- [1d1d2efc](https://github.com/kubedb/clickhouse/commit/1d1d2efc) Migrate auth-secret and internal-token management to shared secret package (#130)
+- [361d2755](https://github.com/kubedb/clickhouse/commit/361d2755) Adopt shared monitor/appbinding packages from apimachinery (#129)
+- [51d6f1c3](https://github.com/kubedb/clickhouse/commit/51d6f1c3) Add virtual secret support (#108)
+- [68fd5fea](https://github.com/kubedb/clickhouse/commit/68fd5fea) Set default resource limits before patching petset in vertical scaling (#126)
+- [b845cd26](https://github.com/kubedb/clickhouse/commit/b845cd26) Move deletion logic to apimachinery (#127)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.23.0](https://github.com/kubedb/crd-manager/releases/tag/v0.23.0)

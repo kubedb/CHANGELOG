@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:52:31.304810928Z",
+  "release_date": "2026-10-11T09:52:42.32310966Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -631,6 +631,76 @@
             {
               "SHA": "f0e4a30cd",
               "Subject": "dc-dr: kubectl-dba command group for cross data center DR day-2 operations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "af21eec3",
+              "Subject": "Prepare for release v0.23.0 (#141)"
+            },
+            {
+              "SHA": "0ad01173",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#140)"
+            },
+            {
+              "SHA": "9ce753c8",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "075ddc81",
+              "Subject": "Apply primary serviceTemplate to ClickHouse Service (#139)"
+            },
+            {
+              "SHA": "044be1f7",
+              "Subject": "Prepare for release v0.22.0-rc.2 (#137)"
+            },
+            {
+              "SHA": "51b3c5f7",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#136)"
+            },
+            {
+              "SHA": "ef2a8ceb",
+              "Subject": "Fix Shard Scale Fail  for equal no of Shard (#135)"
+            },
+            {
+              "SHA": "c75721ce",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#134)"
+            },
+            {
+              "SHA": "40fc5e4e",
+              "Subject": "Add ClickHouseKeeper Ops Support (#128)"
+            },
+            {
+              "SHA": "cf0be0bd",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#133)"
+            },
+            {
+              "SHA": "1d1d2efc",
+              "Subject": "Migrate auth-secret and internal-token management to shared secret package (#130)"
+            },
+            {
+              "SHA": "361d2755",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#129)"
+            },
+            {
+              "SHA": "51d6f1c3",
+              "Subject": "Add virtual secret support (#108)"
+            },
+            {
+              "SHA": "68fd5fea",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#126)"
+            },
+            {
+              "SHA": "b845cd26",
+              "Subject": "Move deletion logic to apimachinery (#127)"
             }
           ]
         }

@@ -1133,6 +1133,29 @@
 
 
 
+## [kubedb/solr-backup-plugin](https://github.com/kubedb/solr-backup-plugin)
+
+### [v0.2.0](https://github.com/kubedb/solr-backup-plugin/releases/tag/v0.2.0)
+
+- [edfe0772](https://github.com/kubedb/solr-backup-plugin/commit/edfe0772) Prepare for release v0.2.0 (#24)
+- [7e3078eb](https://github.com/kubedb/solr-backup-plugin/commit/7e3078eb) Use Go 1.27, k8s 1.37 & debian:13 (#23)
+- [eafd7285](https://github.com/kubedb/solr-backup-plugin/commit/eafd7285) Renaming plugin to `solr-backup-plugin` (#22)
+- [cac0c90e](https://github.com/kubedb/solr-backup-plugin/commit/cac0c90e) Solr gcs s3 support without proxy (#10)
+- [ae953dcc](https://github.com/kubedb/solr-backup-plugin/commit/ae953dcc) Configure dependabot refresh schedule (#21)
+- [a0b9b977](https://github.com/kubedb/solr-backup-plugin/commit/a0b9b977) Configure dependabot refresh schedule (#20)
+- [2f2347ef](https://github.com/kubedb/solr-backup-plugin/commit/2f2347ef) fix (#14)
+- [593a099a](https://github.com/kubedb/solr-backup-plugin/commit/593a099a) Update Go version and linter
+- [ccfc4a73](https://github.com/kubedb/solr-backup-plugin/commit/ccfc4a73) Use Go 1.25 (#12)
+- [fd845f9b](https://github.com/kubedb/solr-backup-plugin/commit/fd845f9b) Use Go 1.24 (#9)
+- [7c7389b0](https://github.com/kubedb/solr-backup-plugin/commit/7c7389b0) Disable image caching in setup-qemu action (#8)
+- [8d240703](https://github.com/kubedb/solr-backup-plugin/commit/8d240703) Update github action modules (#6)
+- [8334513d](https://github.com/kubedb/solr-backup-plugin/commit/8334513d) Use debian:12 base image (#5)
+- [1b22c5c8](https://github.com/kubedb/solr-backup-plugin/commit/1b22c5c8) Use debian:12 base image (#4)
+- [e3a2d26c](https://github.com/kubedb/solr-backup-plugin/commit/e3a2d26c) Use debian:12 base image (#3)
+- [0c65de97](https://github.com/kubedb/solr-backup-plugin/commit/0c65de97) Use Go 1.23 (#2)
+
+
+
 ## [kubedb/tests](https://github.com/kubedb/tests)
 
 ### [v0.53.0](https://github.com/kubedb/tests/releases/tag/v0.53.0)

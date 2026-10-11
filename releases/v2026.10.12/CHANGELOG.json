@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:45:24.564980198Z",
+  "release_date": "2026-10-11T09:46:10.397025126Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -3484,6 +3484,80 @@
             {
               "SHA": "cd576f42",
               "Subject": "Move deletion logic to apimachinery (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "edfe0772",
+              "Subject": "Prepare for release v0.2.0 (#24)"
+            },
+            {
+              "SHA": "7e3078eb",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#23)"
+            },
+            {
+              "SHA": "eafd7285",
+              "Subject": "Renaming plugin to `solr-backup-plugin` (#22)"
+            },
+            {
+              "SHA": "cac0c90e",
+              "Subject": "Solr gcs s3 support without proxy (#10)"
+            },
+            {
+              "SHA": "ae953dcc",
+              "Subject": "Configure dependabot refresh schedule (#21)"
+            },
+            {
+              "SHA": "a0b9b977",
+              "Subject": "Configure dependabot refresh schedule (#20)"
+            },
+            {
+              "SHA": "2f2347ef",
+              "Subject": "fix (#14)"
+            },
+            {
+              "SHA": "593a099a",
+              "Subject": "Update Go version and linter"
+            },
+            {
+              "SHA": "ccfc4a73",
+              "Subject": "Use Go 1.25 (#12)"
+            },
+            {
+              "SHA": "fd845f9b",
+              "Subject": "Use Go 1.24 (#9)"
+            },
+            {
+              "SHA": "7c7389b0",
+              "Subject": "Disable image caching in setup-qemu action (#8)"
+            },
+            {
+              "SHA": "8d240703",
+              "Subject": "Update github action modules (#6)"
+            },
+            {
+              "SHA": "8334513d",
+              "Subject": "Use debian:12 base image (#5)"
+            },
+            {
+              "SHA": "1b22c5c8",
+              "Subject": "Use debian:12 base image (#4)"
+            },
+            {
+              "SHA": "e3a2d26c",
+              "Subject": "Use debian:12 base image (#3)"
+            },
+            {
+              "SHA": "0c65de97",
+              "Subject": "Use Go 1.23 (#2)"
             }
           ]
         }

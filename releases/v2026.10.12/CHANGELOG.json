@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:41:21.781954133Z",
+  "release_date": "2026-10-11T09:41:28.781215746Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1676,6 +1676,40 @@
             {
               "SHA": "b6daf30",
               "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "0b425099",
+              "Subject": "Prepare for release v0.14.0 (#49)"
+            },
+            {
+              "SHA": "e497cad3",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#48)"
+            },
+            {
+              "SHA": "4a8e34fe",
+              "Subject": "Prepare for release v0.13.0-rc.2 (#47)"
+            },
+            {
+              "SHA": "bc1a81aa",
+              "Subject": "Prepare for release v0.13.0-rc.1 (#46)"
+            },
+            {
+              "SHA": "6121bc9f",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "1cdbe950",
+              "Subject": "Prepare for release v0.12.0-rc.0 (#44)"
             }
           ]
         }

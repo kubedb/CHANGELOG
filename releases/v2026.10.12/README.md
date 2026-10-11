@@ -537,6 +537,19 @@
 
 
 
+## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
+
+### [v0.14.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.14.0)
+
+- [0b425099](https://github.com/kubedb/oracle-coordinator/commit/0b425099) Prepare for release v0.14.0 (#49)
+- [e497cad3](https://github.com/kubedb/oracle-coordinator/commit/e497cad3) Use Go 1.27, k8s 1.37 & debian:13 (#48)
+- [4a8e34fe](https://github.com/kubedb/oracle-coordinator/commit/4a8e34fe) Prepare for release v0.13.0-rc.2 (#47)
+- [bc1a81aa](https://github.com/kubedb/oracle-coordinator/commit/bc1a81aa) Prepare for release v0.13.0-rc.1 (#46)
+- [6121bc9f](https://github.com/kubedb/oracle-coordinator/commit/6121bc9f) Prepare for release v0.13.0-rc.0 (#45)
+- [1cdbe950](https://github.com/kubedb/oracle-coordinator/commit/1cdbe950) Prepare for release v0.12.0-rc.0 (#44)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.41.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.41.0)

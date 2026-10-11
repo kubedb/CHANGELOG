@@ -387,6 +387,19 @@
 
 
 
+## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
+
+### [v0.19.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.19.0)
+
+- [8cc919c9](https://github.com/kubedb/kubedb-verifier/commit/8cc919c9) Prepare for release v0.19.0 (#63)
+- [6c4f6891](https://github.com/kubedb/kubedb-verifier/commit/6c4f6891) Use Go 1.27, k8s 1.37 & debian:13 (#62)
+- [8dd10355](https://github.com/kubedb/kubedb-verifier/commit/8dd10355) Prepare for release v0.18.0-rc.2 (#61)
+- [2f4d0681](https://github.com/kubedb/kubedb-verifier/commit/2f4d0681) Prepare for release v0.18.0-rc.1 (#60)
+- [0ee34ed3](https://github.com/kubedb/kubedb-verifier/commit/0ee34ed3) Prepare for release v0.18.0-rc.0 (#59)
+- [76948c76](https://github.com/kubedb/kubedb-verifier/commit/76948c76) Prepare for release v0.17.0-rc.0 (#58)
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.28.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.28.0)

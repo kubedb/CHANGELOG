@@ -200,6 +200,31 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.9.0](https://github.com/kubedb/milvus/releases/tag/v0.9.0)
+
+- [b98bb3bf](https://github.com/kubedb/milvus/commit/b98bb3bf) Prepare for release v0.9.0 (#74)
+- [664160ec](https://github.com/kubedb/milvus/commit/664160ec) Use Go 1.27, k8s 1.37 & debian:13 (#73)
+- [dd2f9900](https://github.com/kubedb/milvus/commit/dd2f9900) Add Milvus archiver: base backup, VolumeSnapshot backup and PITR (#71)
+- [cea19ec9](https://github.com/kubedb/milvus/commit/cea19ec9) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [4bcef62e](https://github.com/kubedb/milvus/commit/4bcef62e) Sync Services with spec.serviceTemplates via shared helper (#72)
+- [0da0d6ae](https://github.com/kubedb/milvus/commit/0da0d6ae) Replace official etcd-operator with KubeDB's own etcd operator for meta storage (#68)
+- [c6a56b4e](https://github.com/kubedb/milvus/commit/c6a56b4e) Fail ops requests when pod/petset wait retries are exhausted (#67)
+- [0e4f45cf](https://github.com/kubedb/milvus/commit/0e4f45cf) Add TLS Secret to AppBinding (#66)
+- [c838b4d9](https://github.com/kubedb/milvus/commit/c838b4d9) Prepare for release v0.8.0-rc.2 (#65)
+- [514250e6](https://github.com/kubedb/milvus/commit/514250e6) Prepare for release v0.8.0-rc.1 (#64)
+- [4edc3864](https://github.com/kubedb/milvus/commit/4edc3864) Prepare for release v0.8.0-rc.0 (#63)
+- [1b216221](https://github.com/kubedb/milvus/commit/1b216221) Prepare for release v0.7.0-rc.0 (#62)
+- [4fe1caf8](https://github.com/kubedb/milvus/commit/4fe1caf8) Fix Milvus Minio Secret Bug (#61)
+- [fb200646](https://github.com/kubedb/milvus/commit/fb200646) Migrate to shared apimachinery secret package (#60)
+- [f57a329e](https://github.com/kubedb/milvus/commit/f57a329e) Use shared monitor and appbinding packages (#59)
+- [c0190f3e](https://github.com/kubedb/milvus/commit/c0190f3e) Add virtual secret support (#38)
+- [c7794778](https://github.com/kubedb/milvus/commit/c7794778) Set default resource limits before patching petset in vertical scaling
+- [db076099](https://github.com/kubedb/milvus/commit/db076099) Move deletion logic to apimachinery (#57)
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.29.0)

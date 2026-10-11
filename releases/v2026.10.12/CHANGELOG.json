@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:36:31.993997197Z",
+  "release_date": "2026-10-11T09:36:43.360318265Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -670,6 +670,88 @@
             {
               "SHA": "4772461d",
               "Subject": "Prepare for release v0.46.0-rc.0 (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "b98bb3bf",
+              "Subject": "Prepare for release v0.9.0 (#74)"
+            },
+            {
+              "SHA": "664160ec",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#73)"
+            },
+            {
+              "SHA": "dd2f9900",
+              "Subject": "Add Milvus archiver: base backup, VolumeSnapshot backup and PITR (#71)"
+            },
+            {
+              "SHA": "cea19ec9",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "4bcef62e",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#72)"
+            },
+            {
+              "SHA": "0da0d6ae",
+              "Subject": "Replace official etcd-operator with KubeDB's own etcd operator for meta storage (#68)"
+            },
+            {
+              "SHA": "c6a56b4e",
+              "Subject": "Fail ops requests when pod/petset wait retries are exhausted (#67)"
+            },
+            {
+              "SHA": "0e4f45cf",
+              "Subject": "Add TLS Secret to AppBinding (#66)"
+            },
+            {
+              "SHA": "c838b4d9",
+              "Subject": "Prepare for release v0.8.0-rc.2 (#65)"
+            },
+            {
+              "SHA": "514250e6",
+              "Subject": "Prepare for release v0.8.0-rc.1 (#64)"
+            },
+            {
+              "SHA": "4edc3864",
+              "Subject": "Prepare for release v0.8.0-rc.0 (#63)"
+            },
+            {
+              "SHA": "1b216221",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#62)"
+            },
+            {
+              "SHA": "4fe1caf8",
+              "Subject": "Fix Milvus Minio Secret Bug (#61)"
+            },
+            {
+              "SHA": "fb200646",
+              "Subject": "Migrate to shared apimachinery secret package (#60)"
+            },
+            {
+              "SHA": "f57a329e",
+              "Subject": "Use shared monitor and appbinding packages (#59)"
+            },
+            {
+              "SHA": "c0190f3e",
+              "Subject": "Add virtual secret support (#38)"
+            },
+            {
+              "SHA": "c7794778",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "db076099",
+              "Subject": "Move deletion logic to apimachinery (#57)"
             }
           ]
         }

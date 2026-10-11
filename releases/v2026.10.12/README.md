@@ -238,6 +238,19 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.8.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.8.0)
+
+- [c2d0ee94](https://github.com/kubedb/hanadb-coordinator/commit/c2d0ee94) Prepare for release v0.8.0 (#26)
+- [ee198316](https://github.com/kubedb/hanadb-coordinator/commit/ee198316) Use Go 1.27, k8s 1.37 & debian:13 (#25)
+- [83e3f954](https://github.com/kubedb/hanadb-coordinator/commit/83e3f954) Prepare for release v0.7.0-rc.2 (#24)
+- [4946cd74](https://github.com/kubedb/hanadb-coordinator/commit/4946cd74) Prepare for release v0.7.0-rc.1 (#23)
+- [008bb749](https://github.com/kubedb/hanadb-coordinator/commit/008bb749) Prepare for release v0.7.0-rc.0 (#22)
+- [8185142d](https://github.com/kubedb/hanadb-coordinator/commit/8185142d) Prepare for release v0.6.0-rc.0 (#21)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.14.0](https://github.com/kubedb/hazelcast/releases/tag/v0.14.0)

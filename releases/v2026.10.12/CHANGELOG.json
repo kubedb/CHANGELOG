@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:40:49.809555717Z",
+  "release_date": "2026-10-11T09:41:01.308311451Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -786,6 +786,40 @@
             {
               "SHA": "916a4696",
               "Subject": "Move deletion logic to apimachinery (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/hanadb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "c2d0ee94",
+              "Subject": "Prepare for release v0.8.0 (#26)"
+            },
+            {
+              "SHA": "ee198316",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#25)"
+            },
+            {
+              "SHA": "83e3f954",
+              "Subject": "Prepare for release v0.7.0-rc.2 (#24)"
+            },
+            {
+              "SHA": "4946cd74",
+              "Subject": "Prepare for release v0.7.0-rc.1 (#23)"
+            },
+            {
+              "SHA": "008bb749",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#22)"
+            },
+            {
+              "SHA": "8185142d",
+              "Subject": "Prepare for release v0.6.0-rc.0 (#21)"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:40:09.322336022Z",
+  "release_date": "2026-10-11T09:40:18.304547166Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1262,6 +1262,40 @@
             {
               "SHA": "54b35ec1",
               "Subject": "Fix Join Cluster (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "aefc5ec6",
+              "Subject": "Prepare for release v0.29.0 (#91)"
+            },
+            {
+              "SHA": "5d949fef",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#90)"
+            },
+            {
+              "SHA": "7f1d1457",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#89)"
+            },
+            {
+              "SHA": "a51d7fa0",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#88)"
+            },
+            {
+              "SHA": "4f2b4470",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#87)"
+            },
+            {
+              "SHA": "72e86946",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#85)"
             }
           ]
         }

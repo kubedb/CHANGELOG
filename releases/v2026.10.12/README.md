@@ -143,6 +143,19 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.9.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.9.0)
+
+- [da1ae0b](https://github.com/kubedb/db2-coordinator/commit/da1ae0b) Prepare for release v0.9.0 (#24)
+- [5d9c739](https://github.com/kubedb/db2-coordinator/commit/5d9c739) Use Go 1.27, k8s 1.37 & debian:13 (#23)
+- [5a5f946](https://github.com/kubedb/db2-coordinator/commit/5a5f946) Prepare for release v0.8.0-rc.2 (#20)
+- [6f26b16](https://github.com/kubedb/db2-coordinator/commit/6f26b16) Prepare for release v0.8.0-rc.1 (#19)
+- [938389f](https://github.com/kubedb/db2-coordinator/commit/938389f) Prepare for release v0.8.0-rc.0 (#18)
+- [ac3486b](https://github.com/kubedb/db2-coordinator/commit/ac3486b) Prepare for release v0.7.0-rc.0 (#17)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.23.0](https://github.com/kubedb/druid/releases/tag/v0.23.0)

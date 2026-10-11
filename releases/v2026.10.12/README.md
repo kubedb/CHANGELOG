@@ -166,6 +166,22 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.16.0](https://github.com/kubedb/gitops/releases/tag/v0.16.0)
+
+- [bdcbacd2](https://github.com/kubedb/gitops/commit/bdcbacd2) Prepare for release v0.16.0 (#96)
+- [a52129f3](https://github.com/kubedb/gitops/commit/a52129f3) Use Go 1.27, k8s 1.37 & debian:13 (#95)
+- [0e39fe7e](https://github.com/kubedb/gitops/commit/0e39fe7e) Prepare for release v0.15.0-rc.2 (#93)
+- [01a03f3e](https://github.com/kubedb/gitops/commit/01a03f3e) Prepare for release v0.15.0-rc.1 (#92)
+- [6da96309](https://github.com/kubedb/gitops/commit/6da96309) Add Etcd GitOps support (#91)
+- [a77ddade](https://github.com/kubedb/gitops/commit/a77ddade) Prepare for release v0.15.0-rc.0 (#90)
+- [c0f20f15](https://github.com/kubedb/gitops/commit/c0f20f15) Prepare for release v0.14.0-rc.0 (#89)
+- [492a5dda](https://github.com/kubedb/gitops/commit/492a5dda) [Solr] Fix Solr API (#88)
+- [2aee9ab8](https://github.com/kubedb/gitops/commit/2aee9ab8) Add Virtual Secret Support (#86)
+
+
+
 ## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
 
 ### [v0.14.0](https://github.com/kubedb/hazelcast/releases/tag/v0.14.0)

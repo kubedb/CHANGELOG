@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:44:34.031220324Z",
+  "release_date": "2026-10-11T09:44:44.873772333Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -425,6 +425,76 @@
             {
               "SHA": "e5417274b",
               "Subject": "Add shared pkg/controllers/deletion and normalize DB accessors (#1830)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "b480e473",
+              "Subject": "Prepare for release v0.21.0 (#110)"
+            },
+            {
+              "SHA": "b51261e2",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#109)"
+            },
+            {
+              "SHA": "acbf46fe",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "25c0bf97",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#108)"
+            },
+            {
+              "SHA": "ed7f7fb9",
+              "Subject": "Prepare for release v0.20.0-rc.2 (#107)"
+            },
+            {
+              "SHA": "8103cfbf",
+              "Subject": "Prepare for release v0.20.0-rc.1 (#106)"
+            },
+            {
+              "SHA": "1f1cb82d",
+              "Subject": "Only watch virtual-secrets Secret when the CRD is installed (#105)"
+            },
+            {
+              "SHA": "7638b232",
+              "Subject": "Prepare for release v0.20.0-rc.0 (#104)"
+            },
+            {
+              "SHA": "75d76a66",
+              "Subject": "Prepare for release v0.19.0-rc.0 (#103)"
+            },
+            {
+              "SHA": "2c731155",
+              "Subject": "Use shared pkg/controller/secret for auth & keystore-cred secrets (#102)"
+            },
+            {
+              "SHA": "f57d0a7e",
+              "Subject": "Add virtual secret support (#83)"
+            },
+            {
+              "SHA": "cf4a2ef4",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#101)"
+            },
+            {
+              "SHA": "5b321447",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#99)"
+            },
+            {
+              "SHA": "ecb67ef2",
+              "Subject": "Move deletion logic to apimachinery (#100)"
+            },
+            {
+              "SHA": "cd89e8bf",
+              "Subject": "Merge pull request #98 from kubedb/v2026.7.10-master"
             }
           ]
         }

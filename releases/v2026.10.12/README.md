@@ -116,6 +116,28 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.21.0](https://github.com/kubedb/cassandra/releases/tag/v0.21.0)
+
+- [b480e473](https://github.com/kubedb/cassandra/commit/b480e473) Prepare for release v0.21.0 (#110)
+- [b51261e2](https://github.com/kubedb/cassandra/commit/b51261e2) Use Go 1.27, k8s 1.37 & debian:13 (#109)
+- [acbf46fe](https://github.com/kubedb/cassandra/commit/acbf46fe) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [25c0bf97](https://github.com/kubedb/cassandra/commit/25c0bf97) Sync Services with spec.serviceTemplates via shared helper (#108)
+- [ed7f7fb9](https://github.com/kubedb/cassandra/commit/ed7f7fb9) Prepare for release v0.20.0-rc.2 (#107)
+- [8103cfbf](https://github.com/kubedb/cassandra/commit/8103cfbf) Prepare for release v0.20.0-rc.1 (#106)
+- [1f1cb82d](https://github.com/kubedb/cassandra/commit/1f1cb82d) Only watch virtual-secrets Secret when the CRD is installed (#105)
+- [7638b232](https://github.com/kubedb/cassandra/commit/7638b232) Prepare for release v0.20.0-rc.0 (#104)
+- [75d76a66](https://github.com/kubedb/cassandra/commit/75d76a66) Prepare for release v0.19.0-rc.0 (#103)
+- [2c731155](https://github.com/kubedb/cassandra/commit/2c731155) Use shared pkg/controller/secret for auth & keystore-cred secrets (#102)
+- [f57d0a7e](https://github.com/kubedb/cassandra/commit/f57d0a7e) Add virtual secret support (#83)
+- [cf4a2ef4](https://github.com/kubedb/cassandra/commit/cf4a2ef4) Adopt shared monitor/appbinding packages from apimachinery (#101)
+- [5b321447](https://github.com/kubedb/cassandra/commit/5b321447) Set default resource limits before patching petset in vertical scaling (#99)
+- [ecb67ef2](https://github.com/kubedb/cassandra/commit/ecb67ef2) Move deletion logic to apimachinery (#100)
+- [cd89e8bf](https://github.com/kubedb/cassandra/commit/cd89e8bf) Merge pull request #98 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.15.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.15.0)

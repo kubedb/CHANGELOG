@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:36:43.360318265Z",
+  "release_date": "2026-10-11T09:36:53.394820324Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -866,6 +866,44 @@
             {
               "SHA": "872322d9",
               "Subject": "Add Virtual Secret (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.46.0",
+          "commits": [
+            {
+              "SHA": "6ad63b60",
+              "Subject": "Prepare for release v0.46.0 (#195)"
+            },
+            {
+              "SHA": "4d97a0b2",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#194)"
+            },
+            {
+              "SHA": "fc1b0d2c",
+              "Subject": "Prepare for release v0.45.0-rc.2 (#193)"
+            },
+            {
+              "SHA": "9819d7b6",
+              "Subject": "Prepare for release v0.45.0-rc.1 (#192)"
+            },
+            {
+              "SHA": "cdf83626",
+              "Subject": "Prepare for release v0.45.0-rc.0 (#191)"
+            },
+            {
+              "SHA": "c1cd7cf5",
+              "Subject": "Prepare for release v0.44.0-rc.0 (#190)"
+            },
+            {
+              "SHA": "54b35ec1",
+              "Subject": "Fix Join Cluster (#189)"
             }
           ]
         }

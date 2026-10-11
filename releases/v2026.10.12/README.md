@@ -267,6 +267,20 @@
 
 
 
+## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
+
+### [v0.46.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.46.0)
+
+- [6ad63b60](https://github.com/kubedb/mysql-coordinator/commit/6ad63b60) Prepare for release v0.46.0 (#195)
+- [4d97a0b2](https://github.com/kubedb/mysql-coordinator/commit/4d97a0b2) Use Go 1.27, k8s 1.37 & debian:13 (#194)
+- [fc1b0d2c](https://github.com/kubedb/mysql-coordinator/commit/fc1b0d2c) Prepare for release v0.45.0-rc.2 (#193)
+- [9819d7b6](https://github.com/kubedb/mysql-coordinator/commit/9819d7b6) Prepare for release v0.45.0-rc.1 (#192)
+- [cdf83626](https://github.com/kubedb/mysql-coordinator/commit/cdf83626) Prepare for release v0.45.0-rc.0 (#191)
+- [c1cd7cf5](https://github.com/kubedb/mysql-coordinator/commit/c1cd7cf5) Prepare for release v0.44.0-rc.0 (#190)
+- [54b35ec1](https://github.com/kubedb/mysql-coordinator/commit/54b35ec1) Fix Join Cluster (#189)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.41.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.41.0)

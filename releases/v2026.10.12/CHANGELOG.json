@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:34:54.252555224Z",
+  "release_date": "2026-10-11T09:35:03.420935765Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -534,6 +534,44 @@
             {
               "SHA": "4772461d",
               "Subject": "Prepare for release v0.46.0-rc.0 (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/percona-xtradb-coordinator",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "072770e4",
+              "Subject": "Prepare for release v0.41.0 (#140)"
+            },
+            {
+              "SHA": "335ed551",
+              "Subject": "Prepare for release v0.41.0 (#139)"
+            },
+            {
+              "SHA": "be5ec576",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#138)"
+            },
+            {
+              "SHA": "aec6c642",
+              "Subject": "Prepare for release v0.40.0-rc.2 (#137)"
+            },
+            {
+              "SHA": "4fe082df",
+              "Subject": "Prepare for release v0.40.0-rc.1 (#136)"
+            },
+            {
+              "SHA": "1fbe6adf",
+              "Subject": "Prepare for release v0.40.0-rc.0 (#135)"
+            },
+            {
+              "SHA": "62a3b59d",
+              "Subject": "Prepare for release v0.39.0-rc.0 (#134)"
             }
           ]
         }

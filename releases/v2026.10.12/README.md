@@ -157,6 +157,20 @@
 
 
 
+## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
+
+### [v0.41.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.41.0)
+
+- [072770e4](https://github.com/kubedb/percona-xtradb-coordinator/commit/072770e4) Prepare for release v0.41.0 (#140)
+- [335ed551](https://github.com/kubedb/percona-xtradb-coordinator/commit/335ed551) Prepare for release v0.41.0 (#139)
+- [be5ec576](https://github.com/kubedb/percona-xtradb-coordinator/commit/be5ec576) Use Go 1.27, k8s 1.37 & debian:13 (#138)
+- [aec6c642](https://github.com/kubedb/percona-xtradb-coordinator/commit/aec6c642) Prepare for release v0.40.0-rc.2 (#137)
+- [4fe082df](https://github.com/kubedb/percona-xtradb-coordinator/commit/4fe082df) Prepare for release v0.40.0-rc.1 (#136)
+- [1fbe6adf](https://github.com/kubedb/percona-xtradb-coordinator/commit/1fbe6adf) Prepare for release v0.40.0-rc.0 (#135)
+- [62a3b59d](https://github.com/kubedb/percona-xtradb-coordinator/commit/62a3b59d) Prepare for release v0.39.0-rc.0 (#134)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.31.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.31.0)

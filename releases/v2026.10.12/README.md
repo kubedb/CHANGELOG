@@ -703,6 +703,21 @@
 
 
 
+## [kubedb/mysql-restic-plugin](https://github.com/kubedb/mysql-restic-plugin)
+
+### [v0.31.0](https://github.com/kubedb/mysql-restic-plugin/releases/tag/v0.31.0)
+
+- [daf85b7d](https://github.com/kubedb/mysql-restic-plugin/commit/daf85b7d) Prepare for release v0.31.0 (#127)
+- [cce19813](https://github.com/kubedb/mysql-restic-plugin/commit/cce19813) Use Go 1.27, k8s 1.37 & debian:13 (#126)
+- [b5b9f288](https://github.com/kubedb/mysql-restic-plugin/commit/b5b9f288) Prepare for release v0.30.0-rc.2 (#125)
+- [37e44fe1](https://github.com/kubedb/mysql-restic-plugin/commit/37e44fe1) Prepare for release v0.30.0-rc.1 (#124)
+- [72b83af2](https://github.com/kubedb/mysql-restic-plugin/commit/72b83af2) Prepare for release v0.30.0-rc.0 (#123)
+- [78d689a8](https://github.com/kubedb/mysql-restic-plugin/commit/78d689a8) Prepare for release v0.29.0-rc.0 (#122)
+- [c863d090](https://github.com/kubedb/mysql-restic-plugin/commit/c863d090) Fix --ssl-ca being silently dropped from the client command (#121)
+- [78790d48](https://github.com/kubedb/mysql-restic-plugin/commit/78790d48) Add Virtual Secret Support (#118)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.46.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.46.0)

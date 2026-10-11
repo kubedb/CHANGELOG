@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:44:53.209728499Z",
+  "release_date": "2026-10-11T09:45:03.350066634Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -2160,6 +2160,48 @@
             {
               "SHA": "72e86946",
               "Subject": "Prepare for release v0.27.0-rc.0 (#85)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "daf85b7d",
+              "Subject": "Prepare for release v0.31.0 (#127)"
+            },
+            {
+              "SHA": "cce19813",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#126)"
+            },
+            {
+              "SHA": "b5b9f288",
+              "Subject": "Prepare for release v0.30.0-rc.2 (#125)"
+            },
+            {
+              "SHA": "37e44fe1",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#124)"
+            },
+            {
+              "SHA": "72b83af2",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "78d689a8",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#122)"
+            },
+            {
+              "SHA": "c863d090",
+              "Subject": "Fix --ssl-ca being silently dropped from the client command (#121)"
+            },
+            {
+              "SHA": "78790d48",
+              "Subject": "Add Virtual Secret Support (#118)"
             }
           ]
         }

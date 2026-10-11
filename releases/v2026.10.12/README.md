@@ -552,6 +552,18 @@
 
 
 
+## [kubedb/kibana](https://github.com/kubedb/kibana)
+
+### [v0.44.0](https://github.com/kubedb/kibana/releases/tag/v0.44.0)
+
+- [862ab272](https://github.com/kubedb/kibana/commit/862ab272) Prepare for release v0.44.0 (#193)
+- [723ec239](https://github.com/kubedb/kibana/commit/723ec239) Use Go 1.27, k8s 1.37 & debian:13 (#192)
+- [a686144f](https://github.com/kubedb/kibana/commit/a686144f) Prepare for release v0.43.0-rc.2 (#191)
+- [8f0ed22c](https://github.com/kubedb/kibana/commit/8f0ed22c) Prepare for release v0.43.0-rc.0 (#190)
+- [79f4dbb6](https://github.com/kubedb/kibana/commit/79f4dbb6) Lint fix (#189)
+
+
+
 ## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
 
 ### [v0.31.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.31.0)

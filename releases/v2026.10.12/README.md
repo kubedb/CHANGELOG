@@ -374,6 +374,20 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.28.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.28.0)
+
+- [ba53fe01](https://github.com/kubedb/mariadb-archiver/commit/ba53fe01) Prepare for release v0.28.0 (#106)
+- [f58dd4e7](https://github.com/kubedb/mariadb-archiver/commit/f58dd4e7) Use Go 1.27, k8s 1.37 & debian:13 (#105)
+- [e8899069](https://github.com/kubedb/mariadb-archiver/commit/e8899069) Prepare for release v0.27.0-rc.2 (#104)
+- [0a816c0e](https://github.com/kubedb/mariadb-archiver/commit/0a816c0e) Prepare for release v0.27.0-rc.1 (#103)
+- [2065feca](https://github.com/kubedb/mariadb-archiver/commit/2065feca) Prepare for release v0.27.0-rc.0 (#101)
+- [97664701](https://github.com/kubedb/mariadb-archiver/commit/97664701) Prepare for release v0.26.0-rc.0 (#100)
+- [e94155d5](https://github.com/kubedb/mariadb-archiver/commit/e94155d5) Merge pull request #99 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.48.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.48.0)

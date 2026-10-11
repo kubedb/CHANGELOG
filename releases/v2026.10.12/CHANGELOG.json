@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:42:54.294144482Z",
+  "release_date": "2026-10-11T09:43:04.630322629Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1204,6 +1204,44 @@
             {
               "SHA": "86fa0034",
               "Subject": "Merge pull request #212 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "ba53fe01",
+              "Subject": "Prepare for release v0.28.0 (#106)"
+            },
+            {
+              "SHA": "f58dd4e7",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#105)"
+            },
+            {
+              "SHA": "e8899069",
+              "Subject": "Prepare for release v0.27.0-rc.2 (#104)"
+            },
+            {
+              "SHA": "0a816c0e",
+              "Subject": "Prepare for release v0.27.0-rc.1 (#103)"
+            },
+            {
+              "SHA": "2065feca",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#101)"
+            },
+            {
+              "SHA": "97664701",
+              "Subject": "Prepare for release v0.26.0-rc.0 (#100)"
+            },
+            {
+              "SHA": "e94155d5",
+              "Subject": "Merge pull request #99 from kubedb/v2026.7.10-master"
             }
           ]
         }

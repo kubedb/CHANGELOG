@@ -275,6 +275,28 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.5.0](https://github.com/kubedb/documentdb/releases/tag/v0.5.0)
+
+- [fc86ce54](https://github.com/kubedb/documentdb/commit/fc86ce54) Prepare for release v0.5.0 (#54)
+- [15a0dd56](https://github.com/kubedb/documentdb/commit/15a0dd56) Use Go 1.27, k8s 1.37 & debian:13 (#53)
+- [5dc52ee7](https://github.com/kubedb/documentdb/commit/5dc52ee7) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [20780e71](https://github.com/kubedb/documentdb/commit/20780e71) Sync Services with spec.serviceTemplates via shared helper (#52)
+- [0301b1c4](https://github.com/kubedb/documentdb/commit/0301b1c4) documentdb base-backup (#50)
+- [dd152ae6](https://github.com/kubedb/documentdb/commit/dd152ae6) Prepare for release v0.4.0-rc.2 (#49)
+- [c67ebaf4](https://github.com/kubedb/documentdb/commit/c67ebaf4) Prepare for release v0.4.0-rc.1 (#48)
+- [79b3cee7](https://github.com/kubedb/documentdb/commit/79b3cee7) Prepare for release v0.4.0-rc.0 (#47)
+- [59ecdd3d](https://github.com/kubedb/documentdb/commit/59ecdd3d) Prepare for release v0.3.0-rc.0 (#46)
+- [fa5afd65](https://github.com/kubedb/documentdb/commit/fa5afd65) Dcdb tls & reconfiguretls (#45)
+- [0ed43723](https://github.com/kubedb/documentdb/commit/0ed43723) Add tuning config support to Reconfigure and VerticalScaling ops requests (#26)
+- [efab7987](https://github.com/kubedb/documentdb/commit/efab7987) standalone-rotateauth (#43)
+- [0d8d872b](https://github.com/kubedb/documentdb/commit/0d8d872b) Adopt shared apimachinery secret package for auth secret (#44)
+- [7253e091](https://github.com/kubedb/documentdb/commit/7253e091) Adopt shared appbinding package from apimachinery (#42)
+- [9876d3cc](https://github.com/kubedb/documentdb/commit/9876d3cc) Move deletion logic to apimachinery (#41)
+
+
+
 ## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
 
 ### [v0.4.0](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.4.0)

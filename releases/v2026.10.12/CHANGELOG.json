@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:55:11.662105031Z",
+  "release_date": "2026-10-11T10:03:57.390862725Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -898,6 +898,76 @@
             {
               "SHA": "ac3486b",
               "Subject": "Prepare for release v0.7.0-rc.0 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "fc86ce54",
+              "Subject": "Prepare for release v0.5.0 (#54)"
+            },
+            {
+              "SHA": "15a0dd56",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#53)"
+            },
+            {
+              "SHA": "5dc52ee7",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "20780e71",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#52)"
+            },
+            {
+              "SHA": "0301b1c4",
+              "Subject": "documentdb base-backup (#50)"
+            },
+            {
+              "SHA": "dd152ae6",
+              "Subject": "Prepare for release v0.4.0-rc.2 (#49)"
+            },
+            {
+              "SHA": "c67ebaf4",
+              "Subject": "Prepare for release v0.4.0-rc.1 (#48)"
+            },
+            {
+              "SHA": "79b3cee7",
+              "Subject": "Prepare for release v0.4.0-rc.0 (#47)"
+            },
+            {
+              "SHA": "59ecdd3d",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#46)"
+            },
+            {
+              "SHA": "fa5afd65",
+              "Subject": "Dcdb tls & reconfiguretls (#45)"
+            },
+            {
+              "SHA": "0ed43723",
+              "Subject": "Add tuning config support to Reconfigure and VerticalScaling ops requests (#26)"
+            },
+            {
+              "SHA": "efab7987",
+              "Subject": "standalone-rotateauth (#43)"
+            },
+            {
+              "SHA": "0d8d872b",
+              "Subject": "Adopt shared apimachinery secret package for auth secret (#44)"
+            },
+            {
+              "SHA": "7253e091",
+              "Subject": "Adopt shared appbinding package from apimachinery (#42)"
+            },
+            {
+              "SHA": "9876d3cc",
+              "Subject": "Move deletion logic to apimachinery (#41)"
             }
           ]
         }

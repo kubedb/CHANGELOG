@@ -421,6 +421,22 @@
 
 
 
+## [kubedb/qdrant-restic-plugin](https://github.com/kubedb/qdrant-restic-plugin)
+
+### [v0.4.0](https://github.com/kubedb/qdrant-restic-plugin/releases/tag/v0.4.0)
+
+- [19db20c](https://github.com/kubedb/qdrant-restic-plugin/commit/19db20c) Prepare for release v0.4.0 (#14)
+- [b548cb1](https://github.com/kubedb/qdrant-restic-plugin/commit/b548cb1) Use Go 1.27, k8s 1.37 & debian:13 (#13)
+- [099f838](https://github.com/kubedb/qdrant-restic-plugin/commit/099f838) fix restore stats (#9)
+- [0bc1f5b](https://github.com/kubedb/qdrant-restic-plugin/commit/0bc1f5b) Prepare for release v0.3.0-rc.2 (#12)
+- [0b2e713](https://github.com/kubedb/qdrant-restic-plugin/commit/0b2e713) Prepare for release v0.3.0-rc.1 (#11)
+- [815a4cd](https://github.com/kubedb/qdrant-restic-plugin/commit/815a4cd) Replace hub command with gh command in script
+- [7a4c0de](https://github.com/kubedb/qdrant-restic-plugin/commit/7a4c0de) Prepare for release v0.3.0-rc.0 (#10)
+- [fb288cc](https://github.com/kubedb/qdrant-restic-plugin/commit/fb288cc) Prepare for release v0.2.0-rc.0 (#8)
+- [34a99ba](https://github.com/kubedb/qdrant-restic-plugin/commit/34a99ba) Merge pull request #7 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.47.0)

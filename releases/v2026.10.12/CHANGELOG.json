@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:41:28.781215746Z",
+  "release_date": "2026-10-11T09:41:42.211082654Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1210,6 +1210,76 @@
             {
               "SHA": "db076099",
               "Subject": "Move deletion logic to apimachinery (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb",
+      "releases": [
+        {
+          "tag": "v0.61.0",
+          "commits": [
+            {
+              "SHA": "8831d659d",
+              "Subject": "Prepare for release v0.61.0 (#790)"
+            },
+            {
+              "SHA": "50371c68c",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#789)"
+            },
+            {
+              "SHA": "988213d80",
+              "Subject": "Classify reconfigure parameters and apply the dynamic ones live (#787)"
+            },
+            {
+              "SHA": "f1d3422e2",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "00e24642a",
+              "Subject": "Add branched mode for KubeDB Courier Branch (#774)"
+            },
+            {
+              "SHA": "96d78e8df",
+              "Subject": "Sync primary Service with serviceTemplate via shared helper (#788)"
+            },
+            {
+              "SHA": "46539ef20",
+              "Subject": "Prepare for release v0.60.0-rc.2 (#785)"
+            },
+            {
+              "SHA": "2c3af67f2",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#784)"
+            },
+            {
+              "SHA": "1a23d8c2a",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#783)"
+            },
+            {
+              "SHA": "2af7c3d87",
+              "Subject": "Prepare for release v0.59.0-rc.0 (#782)"
+            },
+            {
+              "SHA": "a3753bece",
+              "Subject": "Use shared pkg/controller/secret for auth & keyfile secrets (#781)"
+            },
+            {
+              "SHA": "620d27631",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#780)"
+            },
+            {
+              "SHA": "59977bef8",
+              "Subject": "Virtual Secret Ops Support (#779)"
+            },
+            {
+              "SHA": "91595b9ad",
+              "Subject": "Use shared pkg/controller/deletion for termination and halt (#778)"
+            },
+            {
+              "SHA": "149979774",
+              "Subject": "Merge pull request #777 from kubedb/v2026.7.10-master"
             }
           ]
         }

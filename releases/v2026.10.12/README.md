@@ -380,6 +380,28 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.61.0](https://github.com/kubedb/mongodb/releases/tag/v0.61.0)
+
+- [8831d659](https://github.com/kubedb/mongodb/commit/8831d659d) Prepare for release v0.61.0 (#790)
+- [50371c68](https://github.com/kubedb/mongodb/commit/50371c68c) Use Go 1.27, k8s 1.37 & debian:13 (#789)
+- [988213d8](https://github.com/kubedb/mongodb/commit/988213d80) Classify reconfigure parameters and apply the dynamic ones live (#787)
+- [f1d3422e](https://github.com/kubedb/mongodb/commit/f1d3422e2) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [00e24642](https://github.com/kubedb/mongodb/commit/00e24642a) Add branched mode for KubeDB Courier Branch (#774)
+- [96d78e8d](https://github.com/kubedb/mongodb/commit/96d78e8df) Sync primary Service with serviceTemplate via shared helper (#788)
+- [46539ef2](https://github.com/kubedb/mongodb/commit/46539ef20) Prepare for release v0.60.0-rc.2 (#785)
+- [2c3af67f](https://github.com/kubedb/mongodb/commit/2c3af67f2) Prepare for release v0.60.0-rc.1 (#784)
+- [1a23d8c2](https://github.com/kubedb/mongodb/commit/1a23d8c2a) Prepare for release v0.60.0-rc.0 (#783)
+- [2af7c3d8](https://github.com/kubedb/mongodb/commit/2af7c3d87) Prepare for release v0.59.0-rc.0 (#782)
+- [a3753bec](https://github.com/kubedb/mongodb/commit/a3753bece) Use shared pkg/controller/secret for auth & keyfile secrets (#781)
+- [620d2763](https://github.com/kubedb/mongodb/commit/620d27631) Adopt shared monitor/appbinding packages from apimachinery (#780)
+- [59977bef](https://github.com/kubedb/mongodb/commit/59977bef8) Virtual Secret Ops Support (#779)
+- [91595b9a](https://github.com/kubedb/mongodb/commit/91595b9ad) Use shared pkg/controller/deletion for termination and halt (#778)
+- [14997977](https://github.com/kubedb/mongodb/commit/149979774) Merge pull request #777 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/mongodb-csi-snapshotter-plugin](https://github.com/kubedb/mongodb-csi-snapshotter-plugin)
 
 ### [v0.29.0](https://github.com/kubedb/mongodb-csi-snapshotter-plugin/releases/tag/v0.29.0)

@@ -354,6 +354,37 @@
 
 
 
+## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
+
+### [v0.4.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.4.0)
+
+- [8034ffd](https://github.com/kubedb/neo4j-backup-plugin/commit/8034ffd) Prepare for release v0.4.0 (#17)
+- [86ebbf5](https://github.com/kubedb/neo4j-backup-plugin/commit/86ebbf5) Use Go 1.27, k8s 1.37 & debian:13 (#16)
+- [aadfc86](https://github.com/kubedb/neo4j-backup-plugin/commit/aadfc86) Add Differential Backup Command #5
+- [648128c](https://github.com/kubedb/neo4j-backup-plugin/commit/648128c) Prepare for release v0.3.0-rc.2 (#15)
+- [4a6ab67](https://github.com/kubedb/neo4j-backup-plugin/commit/4a6ab67) Prepare for release v0.3.0-rc.1 (#14)
+- [bdc2c01](https://github.com/kubedb/neo4j-backup-plugin/commit/bdc2c01) Merge pull request #11 from kubedb/restore-composite-database
+- [fcbba98](https://github.com/kubedb/neo4j-backup-plugin/commit/fcbba98) fix lint: drop always-constant param from containsNormalized
+- [8052e8a](https://github.com/kubedb/neo4j-backup-plugin/commit/8052e8a) add support for standalone alias
+- [2d5168d](https://github.com/kubedb/neo4j-backup-plugin/commit/2d5168d) move composite api into plugin
+- [abe9dba](https://github.com/kubedb/neo4j-backup-plugin/commit/abe9dba) update deps
+- [b08c7fb](https://github.com/kubedb/neo4j-backup-plugin/commit/b08c7fb) add semanticversion support
+- [7d22077](https://github.com/kubedb/neo4j-backup-plugin/commit/7d22077) remove unused func
+- [d5cfc76](https://github.com/kubedb/neo4j-backup-plugin/commit/d5cfc76) update deps
+- [3cf87a3](https://github.com/kubedb/neo4j-backup-plugin/commit/3cf87a3) cleanup codebase
+- [37536fd](https://github.com/kubedb/neo4j-backup-plugin/commit/37536fd) working phase
+- [ff238b3](https://github.com/kubedb/neo4j-backup-plugin/commit/ff238b3) upload metadata to cloud
+- [334ac63](https://github.com/kubedb/neo4j-backup-plugin/commit/334ac63) Prepare for release v0.3.0-rc.0 (#13)
+- [2c124c5](https://github.com/kubedb/neo4j-backup-plugin/commit/2c124c5) working stage
+- [c6a9b6a](https://github.com/kubedb/neo4j-backup-plugin/commit/c6a9b6a) Merge pull request #12 from kubedb/fix-restore-script-path
+- [85fee4d](https://github.com/kubedb/neo4j-backup-plugin/commit/85fee4d) Fix restore script path file permission issue.
+- [9791d29](https://github.com/kubedb/neo4j-backup-plugin/commit/9791d29) fix file permission issue
+- [305803b](https://github.com/kubedb/neo4j-backup-plugin/commit/305803b) fix error strings should not be capitalized
+- [ec3f548](https://github.com/kubedb/neo4j-backup-plugin/commit/ec3f548) Add Composite Database Support
+- [b6daf30](https://github.com/kubedb/neo4j-backup-plugin/commit/b6daf30) Prepare for release v0.2.0-rc.0 (#10)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.41.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.41.0)

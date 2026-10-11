@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:39:07.866435743Z",
+  "release_date": "2026-10-11T09:39:16.808557991Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1124,6 +1124,112 @@
             {
               "SHA": "54b35ec1",
               "Subject": "Fix Join Cluster (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "8034ffd",
+              "Subject": "Prepare for release v0.4.0 (#17)"
+            },
+            {
+              "SHA": "86ebbf5",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#16)"
+            },
+            {
+              "SHA": "aadfc86",
+              "Subject": "Add Differential Backup Command #5"
+            },
+            {
+              "SHA": "648128c",
+              "Subject": "Prepare for release v0.3.0-rc.2 (#15)"
+            },
+            {
+              "SHA": "4a6ab67",
+              "Subject": "Prepare for release v0.3.0-rc.1 (#14)"
+            },
+            {
+              "SHA": "bdc2c01",
+              "Subject": "Merge pull request #11 from kubedb/restore-composite-database"
+            },
+            {
+              "SHA": "fcbba98",
+              "Subject": "fix lint: drop always-constant param from containsNormalized"
+            },
+            {
+              "SHA": "8052e8a",
+              "Subject": "add support for standalone alias"
+            },
+            {
+              "SHA": "2d5168d",
+              "Subject": "move composite api into plugin"
+            },
+            {
+              "SHA": "abe9dba",
+              "Subject": "update deps"
+            },
+            {
+              "SHA": "b08c7fb",
+              "Subject": "add semanticversion support"
+            },
+            {
+              "SHA": "7d22077",
+              "Subject": "remove unused func"
+            },
+            {
+              "SHA": "d5cfc76",
+              "Subject": "update deps"
+            },
+            {
+              "SHA": "3cf87a3",
+              "Subject": "cleanup codebase"
+            },
+            {
+              "SHA": "37536fd",
+              "Subject": "working phase"
+            },
+            {
+              "SHA": "ff238b3",
+              "Subject": "upload metadata to cloud"
+            },
+            {
+              "SHA": "334ac63",
+              "Subject": "Prepare for release v0.3.0-rc.0 (#13)"
+            },
+            {
+              "SHA": "2c124c5",
+              "Subject": "working stage"
+            },
+            {
+              "SHA": "c6a9b6a",
+              "Subject": "Merge pull request #12 from kubedb/fix-restore-script-path"
+            },
+            {
+              "SHA": "85fee4d",
+              "Subject": "Fix restore script path file permission issue."
+            },
+            {
+              "SHA": "9791d29",
+              "Subject": "fix file permission issue"
+            },
+            {
+              "SHA": "305803b",
+              "Subject": "fix error strings should not be capitalized"
+            },
+            {
+              "SHA": "ec3f548",
+              "Subject": "Add Composite Database Support"
+            },
+            {
+              "SHA": "b6daf30",
+              "Subject": "Prepare for release v0.2.0-rc.0 (#10)"
             }
           ]
         }

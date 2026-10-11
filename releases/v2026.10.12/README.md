@@ -200,6 +200,20 @@
 
 
 
+## [kubedb/mongodb-restic-plugin](https://github.com/kubedb/mongodb-restic-plugin)
+
+### [v0.31.0](https://github.com/kubedb/mongodb-restic-plugin/releases/tag/v0.31.0)
+
+- [38e6b47d](https://github.com/kubedb/mongodb-restic-plugin/commit/38e6b47d) Prepare for release v0.31.0 (#141)
+- [8e9c22aa](https://github.com/kubedb/mongodb-restic-plugin/commit/8e9c22aa) Use Go 1.27, k8s 1.37 & debian:13 (#140)
+- [4966212d](https://github.com/kubedb/mongodb-restic-plugin/commit/4966212d) Prepare for release v0.30.0-rc.2 (#139)
+- [aa7a7eb6](https://github.com/kubedb/mongodb-restic-plugin/commit/aa7a7eb6) Prepare for release v0.30.0-rc.1 (#138)
+- [0a863335](https://github.com/kubedb/mongodb-restic-plugin/commit/0a863335) Prepare for release v0.30.0-rc.0 (#137)
+- [ba50bd65](https://github.com/kubedb/mongodb-restic-plugin/commit/ba50bd65) Prepare for release v0.29.0-rc.0 (#136)
+- [802a7051](https://github.com/kubedb/mongodb-restic-plugin/commit/802a7051) Add Virtual Secret Support (#133)
+
+
+
 ## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
 
 ### [v0.23.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.23.0)

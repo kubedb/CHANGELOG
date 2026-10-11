@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:35:32.137269331Z",
+  "release_date": "2026-10-11T09:35:41.4259629Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -670,6 +670,44 @@
             {
               "SHA": "4772461d",
               "Subject": "Prepare for release v0.46.0-rc.0 (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "38e6b47d",
+              "Subject": "Prepare for release v0.31.0 (#141)"
+            },
+            {
+              "SHA": "8e9c22aa",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#140)"
+            },
+            {
+              "SHA": "4966212d",
+              "Subject": "Prepare for release v0.30.0-rc.2 (#139)"
+            },
+            {
+              "SHA": "aa7a7eb6",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#138)"
+            },
+            {
+              "SHA": "0a863335",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#137)"
+            },
+            {
+              "SHA": "ba50bd65",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#136)"
+            },
+            {
+              "SHA": "802a7051",
+              "Subject": "Add Virtual Secret Support (#133)"
             }
           ]
         }

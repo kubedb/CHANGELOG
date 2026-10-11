@@ -116,6 +116,19 @@
 
 
 
+## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
+
+### [v0.15.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.15.0)
+
+- [52ba8091](https://github.com/kubedb/cassandra-medusa-plugin/commit/52ba8091) Prepare for release v0.15.0 (#49)
+- [59147c9b](https://github.com/kubedb/cassandra-medusa-plugin/commit/59147c9b) Use Go 1.27, k8s 1.37 & debian:13 (#48)
+- [b3e1040f](https://github.com/kubedb/cassandra-medusa-plugin/commit/b3e1040f) Prepare for release v0.14.0-rc.2 (#47)
+- [29d930ac](https://github.com/kubedb/cassandra-medusa-plugin/commit/29d930ac) Prepare for release v0.14.0-rc.1 (#46)
+- [3caac86c](https://github.com/kubedb/cassandra-medusa-plugin/commit/3caac86c) Prepare for release v0.14.0-rc.0 (#45)
+- [56fdcb76](https://github.com/kubedb/cassandra-medusa-plugin/commit/56fdcb76) Prepare for release v0.13.0-rc.0 (#44)
+
+
+
 ## [kubedb/cli](https://github.com/kubedb/cli)
 
 ### [v0.68.0](https://github.com/kubedb/cli/releases/tag/v0.68.0)

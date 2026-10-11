@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:43:11.217184548Z",
+  "release_date": "2026-10-11T09:43:20.668873843Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -425,6 +425,40 @@
             {
               "SHA": "e5417274b",
               "Subject": "Add shared pkg/controllers/deletion and normalize DB accessors (#1830)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cassandra-medusa-plugin",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "52ba8091",
+              "Subject": "Prepare for release v0.15.0 (#49)"
+            },
+            {
+              "SHA": "59147c9b",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#48)"
+            },
+            {
+              "SHA": "b3e1040f",
+              "Subject": "Prepare for release v0.14.0-rc.2 (#47)"
+            },
+            {
+              "SHA": "29d930ac",
+              "Subject": "Prepare for release v0.14.0-rc.1 (#46)"
+            },
+            {
+              "SHA": "3caac86c",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#45)"
+            },
+            {
+              "SHA": "56fdcb76",
+              "Subject": "Prepare for release v0.13.0-rc.0 (#44)"
             }
           ]
         }

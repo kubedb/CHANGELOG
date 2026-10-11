@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:39:59.787574231Z",
+  "release_date": "2026-10-11T09:40:09.322336022Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -820,6 +820,40 @@
             {
               "SHA": "4772461d",
               "Subject": "Prepare for release v0.46.0-rc.0 (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "18527210",
+              "Subject": "Prepare for release v0.26.0 (#106)"
+            },
+            {
+              "SHA": "1645bb03",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#105)"
+            },
+            {
+              "SHA": "356bcc77",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#104)"
+            },
+            {
+              "SHA": "014243fd",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#103)"
+            },
+            {
+              "SHA": "de4e7af5",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#102)"
+            },
+            {
+              "SHA": "69621d76",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#101)"
             }
           ]
         }

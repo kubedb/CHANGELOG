@@ -251,6 +251,19 @@
 
 
 
+## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
+
+### [v0.26.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.26.0)
+
+- [18527210](https://github.com/kubedb/mariadb-restic-plugin/commit/18527210) Prepare for release v0.26.0 (#106)
+- [1645bb03](https://github.com/kubedb/mariadb-restic-plugin/commit/1645bb03) Use Go 1.27, k8s 1.37 & debian:13 (#105)
+- [356bcc77](https://github.com/kubedb/mariadb-restic-plugin/commit/356bcc77) Prepare for release v0.25.0-rc.2 (#104)
+- [014243fd](https://github.com/kubedb/mariadb-restic-plugin/commit/014243fd) Prepare for release v0.25.0-rc.1 (#103)
+- [de4e7af5](https://github.com/kubedb/mariadb-restic-plugin/commit/de4e7af5) Prepare for release v0.25.0-rc.0 (#102)
+- [69621d76](https://github.com/kubedb/mariadb-restic-plugin/commit/69621d76) Prepare for release v0.24.0-rc.0 (#101)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.9.0](https://github.com/kubedb/milvus/releases/tag/v0.9.0)

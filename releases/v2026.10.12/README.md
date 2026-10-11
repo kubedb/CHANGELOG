@@ -948,6 +948,14 @@
 
 
 
+## [kubedb/provider-azure](https://github.com/kubedb/provider-azure)
+
+### [v0.29.0](https://github.com/kubedb/provider-azure/releases/tag/v0.29.0)
+
+- [cd1c8ef](https://github.com/kubedb/provider-azure/commit/cd1c8ef) Use Go 1.27, k8s 1.37 & debian:13 (#32)
+
+
+
 ## [kubedb/provider-gcp](https://github.com/kubedb/provider-gcp)
 
 ### [v0.29.0](https://github.com/kubedb/provider-gcp/releases/tag/v0.29.0)

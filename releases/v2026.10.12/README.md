@@ -898,6 +898,31 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.61.0](https://github.com/kubedb/redis/releases/tag/v0.61.0)
+
+- [7f992dcd](https://github.com/kubedb/redis/commit/7f992dcd0) Prepare for release v0.61.0 (#682)
+- [2d6793d3](https://github.com/kubedb/redis/commit/2d6793d31) Use Go 1.27, k8s 1.37 & debian:13 (#681)
+- [a5d29444](https://github.com/kubedb/redis/commit/a5d294444) Switch master before restart (#680)
+- [6f06f734](https://github.com/kubedb/redis/commit/6f06f7346) Add branched mode for KubeDB Courier Branch (#662)
+- [6bff789e](https://github.com/kubedb/redis/commit/6bff789e0) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [b5e34eba](https://github.com/kubedb/redis/commit/b5e34eba8) Sync Services with spec.serviceTemplates via shared helper (#679)
+- [03973ae7](https://github.com/kubedb/redis/commit/03973ae75) Support ip to ip conversion in announce ops request (#673)
+- [8b388b37](https://github.com/kubedb/redis/commit/8b388b377) Prepare for release v0.60.0-rc.2 (#678)
+- [282f64f7](https://github.com/kubedb/redis/commit/282f64f70) Prepare for release v0.60.0-rc.1 (#677)
+- [b505761f](https://github.com/kubedb/redis/commit/b505761f9) Prepare for release v0.60.0-rc.0 (#676)
+- [568642d9](https://github.com/kubedb/redis/commit/568642d99) Prepare for release v0.59.0-rc.0 (#675)
+- [4479fd1b](https://github.com/kubedb/redis/commit/4479fd1b3) ACL Custom secret add (#668)
+- [628b529d](https://github.com/kubedb/redis/commit/628b529db) Adopt shared secret package from apimachinery (#674)
+- [cdf520da](https://github.com/kubedb/redis/commit/cdf520da5) Adopt shared monitor/appbinding packages from apimachinery (#672)
+- [92957c09](https://github.com/kubedb/redis/commit/92957c097) Virtual Secret Ops Support (#670)
+- [ce19a258](https://github.com/kubedb/redis/commit/ce19a2589) Set default resource limits before patching petset in vertical scaling
+- [11ca8d63](https://github.com/kubedb/redis/commit/11ca8d636) Move deletion logic to apimachinery (#671)
+- [bbf192dd](https://github.com/kubedb/redis/commit/bbf192ddb) Merge pull request #667 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.47.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:35:41.4259629Z",
+  "release_date": "2026-10-11T09:36:04.184624566Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -788,6 +788,72 @@
             {
               "SHA": "62a3b59d",
               "Subject": "Prepare for release v0.39.0-rc.0 (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pg-coordinator",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "ab62b7c1",
+              "Subject": "Prepare for release v0.52.0 (#284)"
+            },
+            {
+              "SHA": "2c443f87",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#283)"
+            },
+            {
+              "SHA": "8a75c46e",
+              "Subject": "DC-DR: no false re-seeds, and write-lock a primary the fence refuses (#282)"
+            },
+            {
+              "SHA": "72c38fbc",
+              "Subject": "grpc: consume the CoordinatorManager API from apimachinery (#275)"
+            },
+            {
+              "SHA": "8374a3e7",
+              "Subject": "Dc dr review (#261)"
+            },
+            {
+              "SHA": "95d49f96",
+              "Subject": "Point a cascaded remote replica's coordinator at ordinal 0 (#278)"
+            },
+            {
+              "SHA": "c4078ad7",
+              "Subject": "Prepare for release v0.51.0-rc.2 (#277)"
+            },
+            {
+              "SHA": "afd510df",
+              "Subject": "Prepare for release v0.51.0-rc.1 (#276)"
+            },
+            {
+              "SHA": "2fc1edae",
+              "Subject": "fix: keep pg_rewind's backup_label; re-seed when its checkpoint is un… (#274)"
+            },
+            {
+              "SHA": "4943ae65",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#272)"
+            },
+            {
+              "SHA": "dae2e9a7",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#269)"
+            },
+            {
+              "SHA": "a83e4182",
+              "Subject": "Serve remote replica DR metrics on the raft-metrics port (#268)"
+            },
+            {
+              "SHA": "409a0f41",
+              "Subject": "Add remote replica mode with pg_rewind and reinitialization support (#257)"
+            },
+            {
+              "SHA": "9e889075",
+              "Subject": "Use pg_tde_rewind and pg_tde_basebackup when TDE is enabled (#264)"
             }
           ]
         }

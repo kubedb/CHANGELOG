@@ -243,6 +243,27 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.52.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.52.0)
+
+- [ab62b7c1](https://github.com/kubedb/pg-coordinator/commit/ab62b7c1) Prepare for release v0.52.0 (#284)
+- [2c443f87](https://github.com/kubedb/pg-coordinator/commit/2c443f87) Use Go 1.27, k8s 1.37 & debian:13 (#283)
+- [8a75c46e](https://github.com/kubedb/pg-coordinator/commit/8a75c46e) DC-DR: no false re-seeds, and write-lock a primary the fence refuses (#282)
+- [72c38fbc](https://github.com/kubedb/pg-coordinator/commit/72c38fbc) grpc: consume the CoordinatorManager API from apimachinery (#275)
+- [8374a3e7](https://github.com/kubedb/pg-coordinator/commit/8374a3e7) Dc dr review (#261)
+- [95d49f96](https://github.com/kubedb/pg-coordinator/commit/95d49f96) Point a cascaded remote replica's coordinator at ordinal 0 (#278)
+- [c4078ad7](https://github.com/kubedb/pg-coordinator/commit/c4078ad7) Prepare for release v0.51.0-rc.2 (#277)
+- [afd510df](https://github.com/kubedb/pg-coordinator/commit/afd510df) Prepare for release v0.51.0-rc.1 (#276)
+- [2fc1edae](https://github.com/kubedb/pg-coordinator/commit/2fc1edae) fix: keep pg_rewind's backup_label; re-seed when its checkpoint is un… (#274)
+- [4943ae65](https://github.com/kubedb/pg-coordinator/commit/4943ae65) Prepare for release v0.51.0-rc.0 (#272)
+- [dae2e9a7](https://github.com/kubedb/pg-coordinator/commit/dae2e9a7) Prepare for release v0.50.0-rc.0 (#269)
+- [a83e4182](https://github.com/kubedb/pg-coordinator/commit/a83e4182) Serve remote replica DR metrics on the raft-metrics port (#268)
+- [409a0f41](https://github.com/kubedb/pg-coordinator/commit/409a0f41) Add remote replica mode with pg_rewind and reinitialization support (#257)
+- [9e889075](https://github.com/kubedb/pg-coordinator/commit/9e889075) Use pg_tde_rewind and pg_tde_basebackup when TDE is enabled (#264)
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.31.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.31.0)

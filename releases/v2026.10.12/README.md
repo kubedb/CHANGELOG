@@ -178,6 +178,21 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.23.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.23.0)
+
+- [b8c0b00e](https://github.com/kubedb/mssql-coordinator/commit/b8c0b00e) Prepare for release v0.23.0 (#86)
+- [21f6a7a1](https://github.com/kubedb/mssql-coordinator/commit/21f6a7a1) Use Go 1.27, k8s 1.37 & debian:13 (#85)
+- [5450a7f6](https://github.com/kubedb/mssql-coordinator/commit/5450a7f6) Fix Health Check for empty AG- #84 #84
+- [e5df95bf](https://github.com/kubedb/mssql-coordinator/commit/e5df95bf) Prepare for release v0.22.0-rc.2 (#83)
+- [7d190db9](https://github.com/kubedb/mssql-coordinator/commit/7d190db9) Prepare for release v0.22.0-rc.1 (#82)
+- [11832898](https://github.com/kubedb/mssql-coordinator/commit/11832898) Prepare for release v0.22.0-rc.0 (#81)
+- [ccd2c520](https://github.com/kubedb/mssql-coordinator/commit/ccd2c520) Prepare for release v0.21.0-rc.0 (#80)
+- [872322d9](https://github.com/kubedb/mssql-coordinator/commit/872322d9) Add Virtual Secret (#77)
+
+
+
 ## [kubedb/percona-xtradb-coordinator](https://github.com/kubedb/percona-xtradb-coordinator)
 
 ### [v0.41.0](https://github.com/kubedb/percona-xtradb-coordinator/releases/tag/v0.41.0)

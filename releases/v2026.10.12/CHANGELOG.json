@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:54:57.338291335Z",
+  "release_date": "2026-10-11T09:55:11.662105031Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1602,6 +1602,84 @@
             {
               "SHA": "76948c76",
               "Subject": "Prepare for release v0.17.0-rc.0 (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.52.0",
+          "commits": [
+            {
+              "SHA": "24f44dd54",
+              "Subject": "Prepare for release v0.52.0 (#435)"
+            },
+            {
+              "SHA": "55259721f",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#434)"
+            },
+            {
+              "SHA": "d76c22301",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "959fdc15d",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#433)"
+            },
+            {
+              "SHA": "180cbba59",
+              "Subject": "Add branched mode for KubeDB Courier Branch (#416)"
+            },
+            {
+              "SHA": "f0ae67f62",
+              "Subject": "Add network policy flavor support (#431)"
+            },
+            {
+              "SHA": "b73865f24",
+              "Subject": "Prepare for release v0.51.0-rc.2 (#430)"
+            },
+            {
+              "SHA": "060d33103",
+              "Subject": "Prepare for release v0.51.0-rc.1 (#429)"
+            },
+            {
+              "SHA": "4b7cbf3dc",
+              "Subject": "Prepare for release v0.51.0-rc.0 (#427)"
+            },
+            {
+              "SHA": "9e28da965",
+              "Subject": "Prepare for release v0.50.0-rc.0 (#426)"
+            },
+            {
+              "SHA": "b2d3e8c51",
+              "Subject": "Fail the OpsRequest when a step exceeds its timeout (#425)"
+            },
+            {
+              "SHA": "e5a2ea1ea",
+              "Subject": "Migrate auth-secret handling to shared apimachinery secret package (#424)"
+            },
+            {
+              "SHA": "9f0384d04",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#423)"
+            },
+            {
+              "SHA": "b50b19c8a",
+              "Subject": "Add virtual secret support (#403)"
+            },
+            {
+              "SHA": "ae727436b",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#421)"
+            },
+            {
+              "SHA": "43aaf0a21",
+              "Subject": "Move deletion logic to apimachinery (#422)"
+            },
+            {
+              "SHA": "d47908bb4",
+              "Subject": "Merge pull request #420 from kubedb/v2026.7.10-master"
             }
           ]
         }

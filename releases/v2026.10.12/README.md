@@ -514,6 +514,30 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.52.0](https://github.com/kubedb/mariadb/releases/tag/v0.52.0)
+
+- [24f44dd5](https://github.com/kubedb/mariadb/commit/24f44dd54) Prepare for release v0.52.0 (#435)
+- [55259721](https://github.com/kubedb/mariadb/commit/55259721f) Use Go 1.27, k8s 1.37 & debian:13 (#434)
+- [d76c2230](https://github.com/kubedb/mariadb/commit/d76c22301) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [959fdc15](https://github.com/kubedb/mariadb/commit/959fdc15d) Sync Services with spec.serviceTemplates via shared helper (#433)
+- [180cbba5](https://github.com/kubedb/mariadb/commit/180cbba59) Add branched mode for KubeDB Courier Branch (#416)
+- [f0ae67f6](https://github.com/kubedb/mariadb/commit/f0ae67f62) Add network policy flavor support (#431)
+- [b73865f2](https://github.com/kubedb/mariadb/commit/b73865f24) Prepare for release v0.51.0-rc.2 (#430)
+- [060d3310](https://github.com/kubedb/mariadb/commit/060d33103) Prepare for release v0.51.0-rc.1 (#429)
+- [4b7cbf3d](https://github.com/kubedb/mariadb/commit/4b7cbf3dc) Prepare for release v0.51.0-rc.0 (#427)
+- [9e28da96](https://github.com/kubedb/mariadb/commit/9e28da965) Prepare for release v0.50.0-rc.0 (#426)
+- [b2d3e8c5](https://github.com/kubedb/mariadb/commit/b2d3e8c51) Fail the OpsRequest when a step exceeds its timeout (#425)
+- [e5a2ea1e](https://github.com/kubedb/mariadb/commit/e5a2ea1ea) Migrate auth-secret handling to shared apimachinery secret package (#424)
+- [9f0384d0](https://github.com/kubedb/mariadb/commit/9f0384d04) Adopt shared monitor/appbinding packages from apimachinery (#423)
+- [b50b19c8](https://github.com/kubedb/mariadb/commit/b50b19c8a) Add virtual secret support (#403)
+- [ae727436](https://github.com/kubedb/mariadb/commit/ae727436b) Set default resource limits before patching petset in vertical scaling (#421)
+- [43aaf0a2](https://github.com/kubedb/mariadb/commit/43aaf0a21) Move deletion logic to apimachinery (#422)
+- [d47908bb](https://github.com/kubedb/mariadb/commit/d47908bb4) Merge pull request #420 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
 
 ### [v0.28.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.28.0)

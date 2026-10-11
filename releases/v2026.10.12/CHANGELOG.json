@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:37:11.327431725Z",
+  "release_date": "2026-10-11T09:37:25.612301558Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -912,6 +912,80 @@
             {
               "SHA": "872322d9",
               "Subject": "Add Virtual Secret (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.61.0",
+          "commits": [
+            {
+              "SHA": "e276628f0",
+              "Subject": "Prepare for release v0.61.0 (#784)"
+            },
+            {
+              "SHA": "56250eba1",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#783)"
+            },
+            {
+              "SHA": "d42a93853",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "6029a9771",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#782)"
+            },
+            {
+              "SHA": "25ce8f92d",
+              "Subject": "Add branched mode for KubeDB Courier Branch (#765)"
+            },
+            {
+              "SHA": "90cc7defb",
+              "Subject": "Prepare for release v0.60.0-rc.2 (#780)"
+            },
+            {
+              "SHA": "270d79ab7",
+              "Subject": "Prepare for release v0.60.0-rc.1 (#779)"
+            },
+            {
+              "SHA": "db4449279",
+              "Subject": "Prepare for release v0.60.0-rc.0 (#778)"
+            },
+            {
+              "SHA": "ffef91463",
+              "Subject": "Prepare for release v0.59.0-rc.0 (#777)"
+            },
+            {
+              "SHA": "b5175dc75",
+              "Subject": "Promote MySQL Standalone To Cluster (#774)"
+            },
+            {
+              "SHA": "5ffb7469d",
+              "Subject": "My ops timeout (#775)"
+            },
+            {
+              "SHA": "ef85ecc0d",
+              "Subject": "Migrate auth secret management to shared apimachinery secret package (#773)"
+            },
+            {
+              "SHA": "6c022f700",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#772)"
+            },
+            {
+              "SHA": "38e268f51",
+              "Subject": "Set default resource limits before patching petset in vertical scaling (#769)"
+            },
+            {
+              "SHA": "134d10092",
+              "Subject": "cross rotate auth (#770)"
+            },
+            {
+              "SHA": "b4564765a",
+              "Subject": "Move deletion logic to apimachinery (#771)"
             }
           ]
         }

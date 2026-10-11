@@ -283,6 +283,29 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.61.0](https://github.com/kubedb/mysql/releases/tag/v0.61.0)
+
+- [e276628f](https://github.com/kubedb/mysql/commit/e276628f0) Prepare for release v0.61.0 (#784)
+- [56250eba](https://github.com/kubedb/mysql/commit/56250eba1) Use Go 1.27, k8s 1.37 & debian:13 (#783)
+- [d42a9385](https://github.com/kubedb/mysql/commit/d42a93853) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [6029a977](https://github.com/kubedb/mysql/commit/6029a9771) Sync Services with spec.serviceTemplates via shared helper (#782)
+- [25ce8f92](https://github.com/kubedb/mysql/commit/25ce8f92d) Add branched mode for KubeDB Courier Branch (#765)
+- [90cc7def](https://github.com/kubedb/mysql/commit/90cc7defb) Prepare for release v0.60.0-rc.2 (#780)
+- [270d79ab](https://github.com/kubedb/mysql/commit/270d79ab7) Prepare for release v0.60.0-rc.1 (#779)
+- [db444927](https://github.com/kubedb/mysql/commit/db4449279) Prepare for release v0.60.0-rc.0 (#778)
+- [ffef9146](https://github.com/kubedb/mysql/commit/ffef91463) Prepare for release v0.59.0-rc.0 (#777)
+- [b5175dc7](https://github.com/kubedb/mysql/commit/b5175dc75) Promote MySQL Standalone To Cluster (#774)
+- [5ffb7469](https://github.com/kubedb/mysql/commit/5ffb7469d) My ops timeout (#775)
+- [ef85ecc0](https://github.com/kubedb/mysql/commit/ef85ecc0d) Migrate auth secret management to shared apimachinery secret package (#773)
+- [6c022f70](https://github.com/kubedb/mysql/commit/6c022f700) Adopt shared monitor/appbinding packages from apimachinery (#772)
+- [38e268f5](https://github.com/kubedb/mysql/commit/38e268f51) Set default resource limits before patching petset in vertical scaling (#769)
+- [134d1009](https://github.com/kubedb/mysql/commit/134d10092) cross rotate auth (#770)
+- [b4564765](https://github.com/kubedb/mysql/commit/b4564765a) Move deletion logic to apimachinery (#771)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.46.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.46.0)

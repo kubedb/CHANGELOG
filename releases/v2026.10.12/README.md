@@ -121,6 +121,29 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.68.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.68.0)
+
+- [ad2159a5](https://github.com/kubedb/elasticsearch/commit/ad2159a5b) Prepare for release v0.68.0 (#840)
+- [24d22c87](https://github.com/kubedb/elasticsearch/commit/24d22c877) Use Go 1.27, k8s 1.37 & debian:13 (#839)
+- [bc23a2c7](https://github.com/kubedb/elasticsearch/commit/bc23a2c79) Add Elasticsearch subscription license activation and sync (#837)
+- [b1dab85b](https://github.com/kubedb/elasticsearch/commit/b1dab85b7) Add branched mode for KubeDB Courier Branch (#824)
+- [b5b8ff16](https://github.com/kubedb/elasticsearch/commit/b5b8ff16f) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [4ae812e9](https://github.com/kubedb/elasticsearch/commit/4ae812e9e) Sync Services with spec.serviceTemplates via shared helper (#838)
+- [8c06afa7](https://github.com/kubedb/elasticsearch/commit/8c06afa72) Add network policy flavor support (#836)
+- [071452f9](https://github.com/kubedb/elasticsearch/commit/071452f95) Prepare for release v0.67.0-rc.2 (#835)
+- [16244d23](https://github.com/kubedb/elasticsearch/commit/16244d23b) Prepare for release v0.67.0-rc.1 (#834)
+- [566ae07c](https://github.com/kubedb/elasticsearch/commit/566ae07c7) Prepare for release v0.67.0-rc.0 (#833)
+- [20095d87](https://github.com/kubedb/elasticsearch/commit/20095d87a) Prepare for release v0.66.0-rc.0 (#832)
+- [32668c8f](https://github.com/kubedb/elasticsearch/commit/32668c8f3) Migrate auth secret handling to shared apimachinery secret package (#831)
+- [ca2f2988](https://github.com/kubedb/elasticsearch/commit/ca2f2988d) Adopt shared monitor/appbinding packages from apimachinery (#830)
+- [62ec1892](https://github.com/kubedb/elasticsearch/commit/62ec18929) Add virtual secret support (#813)
+- [14fab5c7](https://github.com/kubedb/elasticsearch/commit/14fab5c77) Move deletion logic to apimachinery (#829)
+- [50d3e6b3](https://github.com/kubedb/elasticsearch/commit/50d3e6b3e) Merge pull request #828 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.48.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.48.0)

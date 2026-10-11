@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:34:28.195963616Z",
+  "release_date": "2026-10-11T09:34:45.823205342Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -426,6 +426,80 @@
             {
               "SHA": "55c58b66",
               "Subject": "Fix DNS issue for down scaling (#257)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch",
+      "releases": [
+        {
+          "tag": "v0.68.0",
+          "commits": [
+            {
+              "SHA": "ad2159a5b",
+              "Subject": "Prepare for release v0.68.0 (#840)"
+            },
+            {
+              "SHA": "24d22c877",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#839)"
+            },
+            {
+              "SHA": "bc23a2c79",
+              "Subject": "Add Elasticsearch subscription license activation and sync (#837)"
+            },
+            {
+              "SHA": "b1dab85b7",
+              "Subject": "Add branched mode for KubeDB Courier Branch (#824)"
+            },
+            {
+              "SHA": "b5b8ff16f",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "4ae812e9e",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#838)"
+            },
+            {
+              "SHA": "8c06afa72",
+              "Subject": "Add network policy flavor support (#836)"
+            },
+            {
+              "SHA": "071452f95",
+              "Subject": "Prepare for release v0.67.0-rc.2 (#835)"
+            },
+            {
+              "SHA": "16244d23b",
+              "Subject": "Prepare for release v0.67.0-rc.1 (#834)"
+            },
+            {
+              "SHA": "566ae07c7",
+              "Subject": "Prepare for release v0.67.0-rc.0 (#833)"
+            },
+            {
+              "SHA": "20095d87a",
+              "Subject": "Prepare for release v0.66.0-rc.0 (#832)"
+            },
+            {
+              "SHA": "32668c8f3",
+              "Subject": "Migrate auth secret handling to shared apimachinery secret package (#831)"
+            },
+            {
+              "SHA": "ca2f2988d",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#830)"
+            },
+            {
+              "SHA": "62ec18929",
+              "Subject": "Add virtual secret support (#813)"
+            },
+            {
+              "SHA": "14fab5c77",
+              "Subject": "Move deletion logic to apimachinery (#829)"
+            },
+            {
+              "SHA": "50d3e6b3e",
+              "Subject": "Merge pull request #828 from kubedb/v2026.7.10-master"
             }
           ]
         }

@@ -1045,6 +1045,20 @@
 
 
 
+## [kubedb/redis-restic-plugin](https://github.com/kubedb/redis-restic-plugin)
+
+### [v0.31.0](https://github.com/kubedb/redis-restic-plugin/releases/tag/v0.31.0)
+
+- [8cedc875](https://github.com/kubedb/redis-restic-plugin/commit/8cedc875) Prepare for release v0.31.0 (#119)
+- [f80bb1fc](https://github.com/kubedb/redis-restic-plugin/commit/f80bb1fc) Use Go 1.27, k8s 1.37 & debian:13 (#118)
+- [64b9daf6](https://github.com/kubedb/redis-restic-plugin/commit/64b9daf6) Prepare for release v0.30.0-rc.2 (#117)
+- [16b1a7d9](https://github.com/kubedb/redis-restic-plugin/commit/16b1a7d9) Prepare for release v0.30.0-rc.1 (#116)
+- [1c069125](https://github.com/kubedb/redis-restic-plugin/commit/1c069125) Prepare for release v0.30.0-rc.0 (#115)
+- [ab2ff427](https://github.com/kubedb/redis-restic-plugin/commit/ab2ff427) Prepare for release v0.29.0-rc.0 (#114)
+- [9490bd22](https://github.com/kubedb/redis-restic-plugin/commit/9490bd22) Add Virtual Secret Support (#111)
+
+
+
 ## [kubedb/replication-mode-detector](https://github.com/kubedb/replication-mode-detector)
 
 ### [v0.55.0](https://github.com/kubedb/replication-mode-detector/releases/tag/v0.55.0)

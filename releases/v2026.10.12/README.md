@@ -597,6 +597,26 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.9.0](https://github.com/kubedb/weaviate/releases/tag/v0.9.0)
+
+- [91024bd2](https://github.com/kubedb/weaviate/commit/91024bd2) Prepare for release v0.9.0 (#65)
+- [70769f06](https://github.com/kubedb/weaviate/commit/70769f06) Use Go 1.27, k8s 1.37 & debian:13 (#64)
+- [7a9ade04](https://github.com/kubedb/weaviate/commit/7a9ade04) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [74aa21be](https://github.com/kubedb/weaviate/commit/74aa21be) Sync Services with spec.serviceTemplates via shared helper (#63)
+- [bdd46c25](https://github.com/kubedb/weaviate/commit/bdd46c25) Prepare for release v0.8.0-rc.2 (#62)
+- [876f7a88](https://github.com/kubedb/weaviate/commit/876f7a88) Prepare for release v0.8.0-rc.1 (#61)
+- [d3cf3289](https://github.com/kubedb/weaviate/commit/d3cf3289) Prepare for release v0.8.0-rc.0 (#60)
+- [d445e431](https://github.com/kubedb/weaviate/commit/d445e431) Prepare for release v0.7.0-rc.0 (#59)
+- [c87d4ab5](https://github.com/kubedb/weaviate/commit/c87d4ab5) Add update-version ops (#56)
+- [73297e3d](https://github.com/kubedb/weaviate/commit/73297e3d) Use shared monitor and appbinding packages (#57)
+- [c0de6cde](https://github.com/kubedb/weaviate/commit/c0de6cde) Add virtual secret support (#36)
+- [52ae615f](https://github.com/kubedb/weaviate/commit/52ae615f) Set default resource limits before patching petset in vertical scaling (#54)
+- [47f19de7](https://github.com/kubedb/weaviate/commit/47f19de7) Move deletion logic to apimachinery (#55)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.23.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.23.0)

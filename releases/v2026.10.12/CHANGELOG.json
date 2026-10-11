@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:36:23.279572898Z",
+  "release_date": "2026-10-11T09:36:31.993997197Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -670,6 +670,40 @@
             {
               "SHA": "4772461d",
               "Subject": "Prepare for release v0.46.0-rc.0 (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "235ac48a",
+              "Subject": "Prepare for release v0.29.0 (#94)"
+            },
+            {
+              "SHA": "7486f19d",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#93)"
+            },
+            {
+              "SHA": "23358801",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#92)"
+            },
+            {
+              "SHA": "926b7b03",
+              "Subject": "Prepare for release v0.28.0-rc.1 (#91)"
+            },
+            {
+              "SHA": "1560789a",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#90)"
+            },
+            {
+              "SHA": "b2684818",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#89)"
             }
           ]
         }

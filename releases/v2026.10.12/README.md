@@ -157,3 +157,22 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.31.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.31.0)
+
+- [a0b9aa65](https://github.com/kubedb/postgres-restic-plugin/commit/a0b9aa65) Prepare for release v0.31.0 (#132)
+- [e1a46609](https://github.com/kubedb/postgres-restic-plugin/commit/e1a46609) Use Go 1.27, k8s 1.37 & debian:13 (#131)
+- [314d9e84](https://github.com/kubedb/postgres-restic-plugin/commit/314d9e84) docuomentdb base-backup (#128)
+- [30634501](https://github.com/kubedb/postgres-restic-plugin/commit/30634501) Guard against nil ResticStats.Summary in GetResticSnapshotID (#129)
+- [36c1a6bb](https://github.com/kubedb/postgres-restic-plugin/commit/36c1a6bb) Allow backup when Postgres is in Critical phase (#127)
+- [8a796277](https://github.com/kubedb/postgres-restic-plugin/commit/8a796277) Fix UBI image build failure for 17.9-percona (#126)
+- [1685bd96](https://github.com/kubedb/postgres-restic-plugin/commit/1685bd96) Prepare for release v0.30.0-rc.2 (#125)
+- [0837cdad](https://github.com/kubedb/postgres-restic-plugin/commit/0837cdad) Prepare for release v0.30.0-rc.1 (#124)
+- [b546216f](https://github.com/kubedb/postgres-restic-plugin/commit/b546216f) Prepare for release v0.30.0-rc.0 (#123)
+- [fb1c5cd1](https://github.com/kubedb/postgres-restic-plugin/commit/fb1c5cd1) Prepare for release v0.29.0-rc.0 (#122)
+- [5620d3a1](https://github.com/kubedb/postgres-restic-plugin/commit/5620d3a1) Add Percona pg_tde physical backup support (17.9-percona) (#119)
+- [c0ae4e7a](https://github.com/kubedb/postgres-restic-plugin/commit/c0ae4e7a) Add Virtual Secret Support (#116)
+
+
+

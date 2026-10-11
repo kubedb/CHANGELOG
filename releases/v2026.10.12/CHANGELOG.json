@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:34:45.823205342Z",
+  "release_date": "2026-10-11T09:34:54.252555224Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -534,6 +534,64 @@
             {
               "SHA": "4772461d",
               "Subject": "Prepare for release v0.46.0-rc.0 (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "a0b9aa65",
+              "Subject": "Prepare for release v0.31.0 (#132)"
+            },
+            {
+              "SHA": "e1a46609",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#131)"
+            },
+            {
+              "SHA": "314d9e84",
+              "Subject": "docuomentdb base-backup (#128)"
+            },
+            {
+              "SHA": "30634501",
+              "Subject": "Guard against nil ResticStats.Summary in GetResticSnapshotID (#129)"
+            },
+            {
+              "SHA": "36c1a6bb",
+              "Subject": "Allow backup when Postgres is in Critical phase (#127)"
+            },
+            {
+              "SHA": "8a796277",
+              "Subject": "Fix UBI image build failure for 17.9-percona (#126)"
+            },
+            {
+              "SHA": "1685bd96",
+              "Subject": "Prepare for release v0.30.0-rc.2 (#125)"
+            },
+            {
+              "SHA": "0837cdad",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#124)"
+            },
+            {
+              "SHA": "b546216f",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#123)"
+            },
+            {
+              "SHA": "fb1c5cd1",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#122)"
+            },
+            {
+              "SHA": "5620d3a1",
+              "Subject": "Add Percona pg_tde physical backup support (17.9-percona) (#119)"
+            },
+            {
+              "SHA": "c0ae4e7a",
+              "Subject": "Add Virtual Secret Support (#116)"
             }
           ]
         }

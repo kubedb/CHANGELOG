@@ -405,6 +405,22 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.31.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.31.0)
+
+- [1f555ce5](https://github.com/kubedb/kubedb-manifest-plugin/commit/1f555ce5) Prepare for release v0.31.0 (#148)
+- [24a060da](https://github.com/kubedb/kubedb-manifest-plugin/commit/24a060da) Use Go 1.27, k8s 1.37 & debian:13 (#147)
+- [453a17d9](https://github.com/kubedb/kubedb-manifest-plugin/commit/453a17d9) Support Milvus manifest backup and restore (#146)
+- [5a757e23](https://github.com/kubedb/kubedb-manifest-plugin/commit/5a757e23) Add Neo4j Manifest Plugin (#138)
+- [44572547](https://github.com/kubedb/kubedb-manifest-plugin/commit/44572547) Prepare for release v0.30.0-rc.2 (#144)
+- [3d3ad890](https://github.com/kubedb/kubedb-manifest-plugin/commit/3d3ad890) Prepare for release v0.30.0-rc.1 (#143)
+- [130ac489](https://github.com/kubedb/kubedb-manifest-plugin/commit/130ac489) Prepare for release v0.30.0-rc.0 (#142)
+- [cd4c5601](https://github.com/kubedb/kubedb-manifest-plugin/commit/cd4c5601) Prepare for release v0.29.0-rc.0 (#141)
+- [3fd5160f](https://github.com/kubedb/kubedb-manifest-plugin/commit/3fd5160f) Add Virtual Secret Support (#137)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.19.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.19.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:44:24.752679687Z",
+  "release_date": "2026-10-11T09:44:34.031220324Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1292,6 +1292,52 @@
             {
               "SHA": "86fa0034",
               "Subject": "Merge pull request #212 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "1f555ce5",
+              "Subject": "Prepare for release v0.31.0 (#148)"
+            },
+            {
+              "SHA": "24a060da",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#147)"
+            },
+            {
+              "SHA": "453a17d9",
+              "Subject": "Support Milvus manifest backup and restore (#146)"
+            },
+            {
+              "SHA": "5a757e23",
+              "Subject": "Add Neo4j Manifest Plugin (#138)"
+            },
+            {
+              "SHA": "44572547",
+              "Subject": "Prepare for release v0.30.0-rc.2 (#144)"
+            },
+            {
+              "SHA": "3d3ad890",
+              "Subject": "Prepare for release v0.30.0-rc.1 (#143)"
+            },
+            {
+              "SHA": "130ac489",
+              "Subject": "Prepare for release v0.30.0-rc.0 (#142)"
+            },
+            {
+              "SHA": "cd4c5601",
+              "Subject": "Prepare for release v0.29.0-rc.0 (#141)"
+            },
+            {
+              "SHA": "3fd5160f",
+              "Subject": "Add Virtual Secret Support (#137)"
             }
           ]
         }

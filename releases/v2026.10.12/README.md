@@ -1202,6 +1202,25 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.55.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.55.0)
+
+- [f62116df](https://github.com/kubedb/pgbouncer/commit/f62116dfa) Prepare for release v0.55.0 (#434)
+- [bae4c3d7](https://github.com/kubedb/pgbouncer/commit/bae4c3d7c) Use Go 1.27, k8s 1.37 & debian:13 (#433)
+- [3031d69f](https://github.com/kubedb/pgbouncer/commit/3031d69f9) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [0ab2a2fc](https://github.com/kubedb/pgbouncer/commit/0ab2a2fc5) Sync Services with spec.serviceTemplates via shared helper (#432)
+- [1e630e73](https://github.com/kubedb/pgbouncer/commit/1e630e738) Prepare for release v0.54.0-rc.2 (#431)
+- [e08ff26b](https://github.com/kubedb/pgbouncer/commit/e08ff26b0) Prepare for release v0.54.0-rc.0 (#430)
+- [2e658fc4](https://github.com/kubedb/pgbouncer/commit/2e658fc47) Init Script volume override problem fix (#421)
+- [7c17e108](https://github.com/kubedb/pgbouncer/commit/7c17e1088) Migrate auth-secret handling to shared apimachinery secret package (#429)
+- [eead948c](https://github.com/kubedb/pgbouncer/commit/eead948cf) Use shared monitor and appbinding packages (#428)
+- [61fc4725](https://github.com/kubedb/pgbouncer/commit/61fc47254) Virtual Secret Ops Support (#426)
+- [68a2f276](https://github.com/kubedb/pgbouncer/commit/68a2f2767) Honor user-provided renewBefore in TLS certificate ops (#414)
+- [adf24115](https://github.com/kubedb/pgbouncer/commit/adf241151) Move deletion logic to apimachinery (#427)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.23.0](https://github.com/kubedb/pgpool/releases/tag/v0.23.0)

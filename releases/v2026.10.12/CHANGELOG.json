@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T10:35:17.446427932Z",
+  "release_date": "2026-10-11T10:35:34.276330672Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -3706,6 +3706,64 @@
             {
               "SHA": "9e889075",
               "Subject": "Use pg_tde_rewind and pg_tde_basebackup when TDE is enabled (#264)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.55.0",
+          "commits": [
+            {
+              "SHA": "f62116dfa",
+              "Subject": "Prepare for release v0.55.0 (#434)"
+            },
+            {
+              "SHA": "bae4c3d7c",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#433)"
+            },
+            {
+              "SHA": "3031d69f9",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "0ab2a2fc5",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#432)"
+            },
+            {
+              "SHA": "1e630e738",
+              "Subject": "Prepare for release v0.54.0-rc.2 (#431)"
+            },
+            {
+              "SHA": "e08ff26b0",
+              "Subject": "Prepare for release v0.54.0-rc.0 (#430)"
+            },
+            {
+              "SHA": "2e658fc47",
+              "Subject": "Init Script volume override problem fix (#421)"
+            },
+            {
+              "SHA": "7c17e1088",
+              "Subject": "Migrate auth-secret handling to shared apimachinery secret package (#429)"
+            },
+            {
+              "SHA": "eead948cf",
+              "Subject": "Use shared monitor and appbinding packages (#428)"
+            },
+            {
+              "SHA": "61fc47254",
+              "Subject": "Virtual Secret Ops Support (#426)"
+            },
+            {
+              "SHA": "68a2f2767",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#414)"
+            },
+            {
+              "SHA": "adf241151",
+              "Subject": "Move deletion logic to apimachinery (#427)"
             }
           ]
         }

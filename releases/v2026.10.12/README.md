@@ -807,6 +807,75 @@
 
 
 
+## [kubedb/oracle-backup-plugin](https://github.com/kubedb/oracle-backup-plugin)
+
+### [v0.2.0](https://github.com/kubedb/oracle-backup-plugin/releases/tag/v0.2.0)
+
+- [2ad1508](https://github.com/kubedb/oracle-backup-plugin/commit/2ad1508) Prepare for release v0.2.0 (#9)
+- [b5bcb07](https://github.com/kubedb/oracle-backup-plugin/commit/b5bcb07) Remove local replace for kubestash.dev/apimachinery (#8)
+- [b36de8d](https://github.com/kubedb/oracle-backup-plugin/commit/b36de8d) Use Go 1.27, k8s 1.37 & debian:13 (#7)
+- [0c4db99](https://github.com/kubedb/oracle-backup-plugin/commit/0c4db99) Merge pull request #3 from kubedb/change-pefrom-backup-func-name
+- [8c58f46](https://github.com/kubedb/oracle-backup-plugin/commit/8c58f46) fix make lint
+- [694377b](https://github.com/kubedb/oracle-backup-plugin/commit/694377b) change case from uppercase to lower case
+- [5ca8d3a](https://github.com/kubedb/oracle-backup-plugin/commit/5ca8d3a) change PerformBackup to Backup
+- [d1a46b2](https://github.com/kubedb/oracle-backup-plugin/commit/d1a46b2) Add oracle backup restore plugin
+- [4bf6132](https://github.com/kubedb/oracle-backup-plugin/commit/4bf6132) change file name
+- [d6f8622](https://github.com/kubedb/oracle-backup-plugin/commit/d6f8622) go mod tidy, vendor, make fmt
+- [13390a4](https://github.com/kubedb/oracle-backup-plugin/commit/13390a4) add kubedb.OracleDefaultOSBWSPFilePath
+- [910e64f](https://github.com/kubedb/oracle-backup-plugin/commit/910e64f) move scripts and statements to respective files
+- [e351f1d](https://github.com/kubedb/oracle-backup-plugin/commit/e351f1d) make fmt
+- [d3eedfa](https://github.com/kubedb/oracle-backup-plugin/commit/d3eedfa) use opsapi.OracleOpsRequest instead unstructured.Unstructured
+- [5a69d18](https://github.com/kubedb/oracle-backup-plugin/commit/5a69d18) used ops.OracleOpsRequest{}
+- [b593b9a](https://github.com/kubedb/oracle-backup-plugin/commit/b593b9a) add SkipBackupPauseAnnotation while creating ops request
+- [baf9ba1](https://github.com/kubedb/oracle-backup-plugin/commit/baf9ba1) delete Publish to Red Hat Ecosystem Catalog
+- [81950d8](https://github.com/kubedb/oracle-backup-plugin/commit/81950d8) Using shutdownSQL as command
+- [aa72277](https://github.com/kubedb/oracle-backup-plugin/commit/aa72277) moved cleanup implementation functions inside /oracle directory
+- [f75d1f4](https://github.com/kubedb/oracle-backup-plugin/commit/f75d1f4) change ValidateDecimal func name
+- [27474fd](https://github.com/kubedb/oracle-backup-plugin/commit/27474fd) remove unnecessary getter function
+- [dd73a53](https://github.com/kubedb/oracle-backup-plugin/commit/dd73a53) Remove unnecessary getter function for RMANRuntime
+- [34ce0f1](https://github.com/kubedb/oracle-backup-plugin/commit/34ce0f1) remove extra variables
+- [16cb7a1](https://github.com/kubedb/oracle-backup-plugin/commit/16cb7a1) make reviewed changes
+- [ea8009d](https://github.com/kubedb/oracle-backup-plugin/commit/ea8009d) add OracleStats at apimacinary
+- [9b4e6b1](https://github.com/kubedb/oracle-backup-plugin/commit/9b4e6b1) make fmt
+- [6bec38e](https://github.com/kubedb/oracle-backup-plugin/commit/6bec38e) Hard fail if no UntilSCN
+- [ba7e4c0](https://github.com/kubedb/oracle-backup-plugin/commit/ba7e4c0) make cross-instance restore possible
+- [3fd1fd6](https://github.com/kubedb/oracle-backup-plugin/commit/3fd1fd6) changes to make build pass
+- [0c2d069](https://github.com/kubedb/oracle-backup-plugin/commit/0c2d069) Removed unnecessary comments
+- [420eec9](https://github.com/kubedb/oracle-backup-plugin/commit/420eec9) move codes from backup.go to oracle specific files
+- [50d421c](https://github.com/kubedb/oracle-backup-plugin/commit/50d421c) restore validation
+- [3c96a40](https://github.com/kubedb/oracle-backup-plugin/commit/3c96a40) Jul 30
+- [b719841](https://github.com/kubedb/oracle-backup-plugin/commit/b719841) cleanup backdated backup using rman
+- [4714a64](https://github.com/kubedb/oracle-backup-plugin/commit/4714a64) use rmanFlashbackMarker
+- [b085b4e](https://github.com/kubedb/oracle-backup-plugin/commit/b085b4e) added multi-repository not supported
+- [80fc5ef](https://github.com/kubedb/oracle-backup-plugin/commit/80fc5ef) restructure the backup.go, restore.go and add support to recover data till a specific snapshot.
+- [42096b6](https://github.com/kubedb/oracle-backup-plugin/commit/42096b6) restructure the files
+- [5de6ab5](https://github.com/kubedb/oracle-backup-plugin/commit/5de6ab5) change cleanup with reference to clickhouse, remove version specific implementations.
+- [ff08ad4](https://github.com/kubedb/oracle-backup-plugin/commit/ff08ad4) to pass CI/build
+- [a2ad242](https://github.com/kubedb/oracle-backup-plugin/commit/a2ad242) review changes
+- [f9592c4](https://github.com/kubedb/oracle-backup-plugin/commit/f9592c4) make common getOracleTarget
+- [18a7f98](https://github.com/kubedb/oracle-backup-plugin/commit/18a7f98) move common functions to pkg/common.go
+- [ba2974c](https://github.com/kubedb/oracle-backup-plugin/commit/ba2974c) implement isOracleDatabaseOpen func
+- [c6a7d58](https://github.com/kubedb/oracle-backup-plugin/commit/c6a7d58) use BuildUrl func to build the image, use default service as constant, major version harcode remove
+- [49b4aa3](https://github.com/kubedb/oracle-backup-plugin/commit/49b4aa3) replace WaitForDBReady func with WaitForDBConnection, remove unnecesary codes
+- [185fe6e](https://github.com/kubedb/oracle-backup-plugin/commit/185fe6e) Handle hardcoded service in pfile name and empty opt.BackupConfiguration.Spec.Target.Namespace
+- [50a0374](https://github.com/kubedb/oracle-backup-plugin/commit/50a0374) handle rman kill precess incase of timeout
+- [bb78d13](https://github.com/kubedb/oracle-backup-plugin/commit/bb78d13) create a common function for oracleWalletConfigSecretName
+- [6f228dc](https://github.com/kubedb/oracle-backup-plugin/commit/6f228dc) make the wallet creation flow same for restore and backup
+- [05caaf8](https://github.com/kubedb/oracle-backup-plugin/commit/05caaf8) add few comments
+- [0e5cbec](https://github.com/kubedb/oracle-backup-plugin/commit/0e5cbec) made changes
+- [254a72b](https://github.com/kubedb/oracle-backup-plugin/commit/254a72b) add restore function code
+- [d86271d](https://github.com/kubedb/oracle-backup-plugin/commit/d86271d) add oracleOpsRequest creation
+- [5475378](https://github.com/kubedb/oracle-backup-plugin/commit/5475378) split the commads into piceses
+- [90343ff](https://github.com/kubedb/oracle-backup-plugin/commit/90343ff) add WaitForDBConnection logic
+- [c6f55bf](https://github.com/kubedb/oracle-backup-plugin/commit/c6f55bf) physical backup working
+- [0796d91](https://github.com/kubedb/oracle-backup-plugin/commit/0796d91) gtv
+- [c3b64f8](https://github.com/kubedb/oracle-backup-plugin/commit/c3b64f8) remove job creation
+- [ced1823](https://github.com/kubedb/oracle-backup-plugin/commit/ced1823) remove creation of job from performPhysicalBackup
+- [ec1291d](https://github.com/kubedb/oracle-backup-plugin/commit/ec1291d) add wallet
+- [32505c6](https://github.com/kubedb/oracle-backup-plugin/commit/32505c6) Update directories
+
+
+
 ## [kubedb/oracle-coordinator](https://github.com/kubedb/oracle-coordinator)
 
 ### [v0.14.0](https://github.com/kubedb/oracle-coordinator/releases/tag/v0.14.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:51:38.373013687Z",
+  "release_date": "2026-10-11T09:51:56.262911823Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -2468,6 +2468,264 @@
             {
               "SHA": "d7753f7e",
               "Subject": "Merge pull request #70 from kubedb/v2026.7.10-master"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "2ad1508",
+              "Subject": "Prepare for release v0.2.0 (#9)"
+            },
+            {
+              "SHA": "b5bcb07",
+              "Subject": "Remove local replace for kubestash.dev/apimachinery (#8)"
+            },
+            {
+              "SHA": "b36de8d",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#7)"
+            },
+            {
+              "SHA": "0c4db99",
+              "Subject": "Merge pull request #3 from kubedb/change-pefrom-backup-func-name"
+            },
+            {
+              "SHA": "8c58f46",
+              "Subject": "fix make lint"
+            },
+            {
+              "SHA": "694377b",
+              "Subject": "change case from uppercase to lower case"
+            },
+            {
+              "SHA": "5ca8d3a",
+              "Subject": "change PerformBackup to Backup"
+            },
+            {
+              "SHA": "d1a46b2",
+              "Subject": "Add oracle backup restore plugin"
+            },
+            {
+              "SHA": "4bf6132",
+              "Subject": "change file name"
+            },
+            {
+              "SHA": "d6f8622",
+              "Subject": "go mod tidy, vendor, make fmt"
+            },
+            {
+              "SHA": "13390a4",
+              "Subject": "add kubedb.OracleDefaultOSBWSPFilePath"
+            },
+            {
+              "SHA": "910e64f",
+              "Subject": "move scripts and statements to respective files"
+            },
+            {
+              "SHA": "e351f1d",
+              "Subject": "make fmt"
+            },
+            {
+              "SHA": "d3eedfa",
+              "Subject": "use opsapi.OracleOpsRequest instead unstructured.Unstructured"
+            },
+            {
+              "SHA": "5a69d18",
+              "Subject": "used ops.OracleOpsRequest{}"
+            },
+            {
+              "SHA": "b593b9a",
+              "Subject": "add SkipBackupPauseAnnotation while creating ops request"
+            },
+            {
+              "SHA": "baf9ba1",
+              "Subject": "delete Publish to Red Hat Ecosystem Catalog"
+            },
+            {
+              "SHA": "81950d8",
+              "Subject": "Using shutdownSQL as command"
+            },
+            {
+              "SHA": "aa72277",
+              "Subject": "moved cleanup implementation functions inside /oracle directory"
+            },
+            {
+              "SHA": "f75d1f4",
+              "Subject": "change ValidateDecimal func name"
+            },
+            {
+              "SHA": "27474fd",
+              "Subject": "remove unnecessary getter function"
+            },
+            {
+              "SHA": "dd73a53",
+              "Subject": "Remove unnecessary getter function for RMANRuntime"
+            },
+            {
+              "SHA": "34ce0f1",
+              "Subject": "remove extra variables"
+            },
+            {
+              "SHA": "16cb7a1",
+              "Subject": "make reviewed changes"
+            },
+            {
+              "SHA": "ea8009d",
+              "Subject": "add OracleStats at apimacinary"
+            },
+            {
+              "SHA": "9b4e6b1",
+              "Subject": "make fmt"
+            },
+            {
+              "SHA": "6bec38e",
+              "Subject": "Hard fail if no UntilSCN"
+            },
+            {
+              "SHA": "ba7e4c0",
+              "Subject": "make cross-instance restore possible"
+            },
+            {
+              "SHA": "3fd1fd6",
+              "Subject": "changes to make build pass"
+            },
+            {
+              "SHA": "0c2d069",
+              "Subject": "Removed unnecessary comments"
+            },
+            {
+              "SHA": "420eec9",
+              "Subject": "move codes from backup.go to oracle specific files"
+            },
+            {
+              "SHA": "50d421c",
+              "Subject": "restore validation"
+            },
+            {
+              "SHA": "3c96a40",
+              "Subject": "Jul 30"
+            },
+            {
+              "SHA": "b719841",
+              "Subject": "cleanup backdated backup using rman"
+            },
+            {
+              "SHA": "4714a64",
+              "Subject": "use rmanFlashbackMarker"
+            },
+            {
+              "SHA": "b085b4e",
+              "Subject": "added multi-repository not supported"
+            },
+            {
+              "SHA": "80fc5ef",
+              "Subject": "restructure the backup.go, restore.go and add support to recover data till a specific snapshot."
+            },
+            {
+              "SHA": "42096b6",
+              "Subject": "restructure the files"
+            },
+            {
+              "SHA": "5de6ab5",
+              "Subject": "change cleanup with reference to clickhouse, remove version specific implementations."
+            },
+            {
+              "SHA": "ff08ad4",
+              "Subject": "to pass CI/build"
+            },
+            {
+              "SHA": "a2ad242",
+              "Subject": "review changes"
+            },
+            {
+              "SHA": "f9592c4",
+              "Subject": "make common getOracleTarget"
+            },
+            {
+              "SHA": "18a7f98",
+              "Subject": "move common functions to pkg/common.go"
+            },
+            {
+              "SHA": "ba2974c",
+              "Subject": "implement isOracleDatabaseOpen func"
+            },
+            {
+              "SHA": "c6a7d58",
+              "Subject": "use BuildUrl func to build the image, use default service as constant, major version harcode remove"
+            },
+            {
+              "SHA": "49b4aa3",
+              "Subject": "replace WaitForDBReady func with WaitForDBConnection, remove unnecesary codes"
+            },
+            {
+              "SHA": "185fe6e",
+              "Subject": "Handle hardcoded service in pfile name and empty opt.BackupConfiguration.Spec.Target.Namespace"
+            },
+            {
+              "SHA": "50a0374",
+              "Subject": "handle rman kill precess incase of timeout"
+            },
+            {
+              "SHA": "bb78d13",
+              "Subject": "create a common function for oracleWalletConfigSecretName"
+            },
+            {
+              "SHA": "6f228dc",
+              "Subject": "make the wallet creation flow same for restore and backup"
+            },
+            {
+              "SHA": "05caaf8",
+              "Subject": "add few comments"
+            },
+            {
+              "SHA": "0e5cbec",
+              "Subject": "made changes"
+            },
+            {
+              "SHA": "254a72b",
+              "Subject": "add restore function code"
+            },
+            {
+              "SHA": "d86271d",
+              "Subject": "add oracleOpsRequest creation"
+            },
+            {
+              "SHA": "5475378",
+              "Subject": "split the commads into piceses"
+            },
+            {
+              "SHA": "90343ff",
+              "Subject": "add WaitForDBConnection logic"
+            },
+            {
+              "SHA": "c6f55bf",
+              "Subject": "physical backup working"
+            },
+            {
+              "SHA": "0796d91",
+              "Subject": "gtv"
+            },
+            {
+              "SHA": "c3b64f8",
+              "Subject": "remove job creation"
+            },
+            {
+              "SHA": "ced1823",
+              "Subject": "remove creation of job from performPhysicalBackup"
+            },
+            {
+              "SHA": "ec1291d",
+              "Subject": "add wallet"
+            },
+            {
+              "SHA": "32505c6",
+              "Subject": "Update directories"
             }
           ]
         }

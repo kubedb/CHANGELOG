@@ -166,6 +166,20 @@
 
 
 
+## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
+
+### [v0.31.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.31.0)
+
+- [05cf3e27](https://github.com/kubedb/elasticsearch-restic-plugin/commit/05cf3e27) Prepare for release v0.31.0 (#112)
+- [74174804](https://github.com/kubedb/elasticsearch-restic-plugin/commit/74174804) Use Go 1.27, k8s 1.37 & debian:13 (#111)
+- [e46b0c60](https://github.com/kubedb/elasticsearch-restic-plugin/commit/e46b0c60) Prepare for release v0.30.0-rc.2 (#110)
+- [8b2a3fe9](https://github.com/kubedb/elasticsearch-restic-plugin/commit/8b2a3fe9) Prepare for release v0.30.0-rc.1 (#109)
+- [a7ea7a14](https://github.com/kubedb/elasticsearch-restic-plugin/commit/a7ea7a14) Prepare for release v0.30.0-rc.0 (#108)
+- [d3eaaafd](https://github.com/kubedb/elasticsearch-restic-plugin/commit/d3eaaafd) Prepare for release v0.29.0-rc.0 (#107)
+- [542bd21b](https://github.com/kubedb/elasticsearch-restic-plugin/commit/542bd21b) Add Virtual Secret Support (#104)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.16.0](https://github.com/kubedb/gitops/releases/tag/v0.16.0)

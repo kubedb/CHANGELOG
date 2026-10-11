@@ -203,6 +203,27 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.39.0](https://github.com/kubedb/kafka/releases/tag/v0.39.0)
+
+- [cba96e5e](https://github.com/kubedb/kafka/commit/cba96e5e) Prepare for release v0.39.0 (#224)
+- [fc468a4a](https://github.com/kubedb/kafka/commit/fc468a4a) Use Go 1.27, k8s 1.37 & debian:13 (#223)
+- [d92f14ba](https://github.com/kubedb/kafka/commit/d92f14ba) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [5624933b](https://github.com/kubedb/kafka/commit/5624933b) Sync Services with spec.serviceTemplates via shared helper (#222)
+- [877b1bd2](https://github.com/kubedb/kafka/commit/877b1bd2) Prepare for release v0.38.0-rc.2 (#220)
+- [ea87de4e](https://github.com/kubedb/kafka/commit/ea87de4e) Prepare for release v0.38.0-rc.1 (#219)
+- [84c08626](https://github.com/kubedb/kafka/commit/84c08626) Prepare for release v0.38.0-rc.0 (#218)
+- [28856e2e](https://github.com/kubedb/kafka/commit/28856e2e) Prepare for release v0.37.0-rc.0 (#217)
+- [189fe261](https://github.com/kubedb/kafka/commit/189fe261) Migrate kafka-cluster and connect-cluster auth secrets to shared secret package (#216)
+- [c5ad9ccc](https://github.com/kubedb/kafka/commit/c5ad9ccc) Use shared monitor and appbinding packages (#215)
+- [c435a470](https://github.com/kubedb/kafka/commit/c435a470) Add virtual secret support (#197)
+- [61481399](https://github.com/kubedb/kafka/commit/61481399) Set default resource limits before patching petset in vertical scaling
+- [899e74ab](https://github.com/kubedb/kafka/commit/899e74ab) Move deletion logic to apimachinery (#214)
+- [86fa0034](https://github.com/kubedb/kafka/commit/86fa0034) Merge pull request #212 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
 
 ### [v0.48.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.48.0)

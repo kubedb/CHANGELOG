@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:52:13.233928248Z",
+  "release_date": "2026-10-11T09:52:31.304810928Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -642,6 +642,44 @@
         {
           "tag": "v0.23.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/dashboard-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "1ebd1253",
+              "Subject": "Prepare for release v0.26.0 (#89)"
+            },
+            {
+              "SHA": "2d00928c",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#88)"
+            },
+            {
+              "SHA": "b5a775db",
+              "Subject": "Prepare for release v0.25.0-rc.2 (#87)"
+            },
+            {
+              "SHA": "17cbb91d",
+              "Subject": "Prepare for release v0.25.0-rc.1 (#86)"
+            },
+            {
+              "SHA": "b8448033",
+              "Subject": "Prepare for release v0.25.0-rc.0 (#85)"
+            },
+            {
+              "SHA": "c20ab2b9",
+              "Subject": "Prepare for release v0.24.0-rc.0 (#84)"
+            },
+            {
+              "SHA": "e0e49517",
+              "Subject": "Add Virtual Secret Support (#81)"
+            }
+          ]
         }
       ]
     },

@@ -188,6 +188,20 @@
 
 
 
+## [kubedb/dashboard-restic-plugin](https://github.com/kubedb/dashboard-restic-plugin)
+
+### [v0.26.0](https://github.com/kubedb/dashboard-restic-plugin/releases/tag/v0.26.0)
+
+- [1ebd1253](https://github.com/kubedb/dashboard-restic-plugin/commit/1ebd1253) Prepare for release v0.26.0 (#89)
+- [2d00928c](https://github.com/kubedb/dashboard-restic-plugin/commit/2d00928c) Use Go 1.27, k8s 1.37 & debian:13 (#88)
+- [b5a775db](https://github.com/kubedb/dashboard-restic-plugin/commit/b5a775db) Prepare for release v0.25.0-rc.2 (#87)
+- [17cbb91d](https://github.com/kubedb/dashboard-restic-plugin/commit/17cbb91d) Prepare for release v0.25.0-rc.1 (#86)
+- [b8448033](https://github.com/kubedb/dashboard-restic-plugin/commit/b8448033) Prepare for release v0.25.0-rc.0 (#85)
+- [c20ab2b9](https://github.com/kubedb/dashboard-restic-plugin/commit/c20ab2b9) Prepare for release v0.24.0-rc.0 (#84)
+- [e0e49517](https://github.com/kubedb/dashboard-restic-plugin/commit/e0e49517) Add Virtual Secret Support (#81)
+
+
+
 ## [kubedb/db-client-go](https://github.com/kubedb/db-client-go)
 
 ### [v0.23.0](https://github.com/kubedb/db-client-go/releases/tag/v0.23.0)

@@ -549,6 +549,16 @@
 
 
 
+## [kubedb/milvus-archiver](https://github.com/kubedb/milvus-archiver)
+
+### [v0.2.0](https://github.com/kubedb/milvus-archiver/releases/tag/v0.2.0)
+
+- [be1eae2](https://github.com/kubedb/milvus-archiver/commit/be1eae2) Prepare for release v0.2.0 (#3)
+- [f3c6b94](https://github.com/kubedb/milvus-archiver/commit/f3c6b94) Use Go 1.27, k8s 1.37 & debian:13 (#2)
+- [eec3fa2](https://github.com/kubedb/milvus-archiver/commit/eec3fa2) Add milvus archiver for pitr (#1)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.61.0](https://github.com/kubedb/mongodb/releases/tag/v0.61.0)

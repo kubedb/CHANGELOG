@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:46:31.569763171Z",
+  "release_date": "2026-10-11T09:51:38.373013687Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -1706,6 +1706,28 @@
             {
               "SHA": "db076099",
               "Subject": "Move deletion logic to apimachinery (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus-archiver",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "be1eae2",
+              "Subject": "Prepare for release v0.2.0 (#3)"
+            },
+            {
+              "SHA": "f3c6b94",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#2)"
+            },
+            {
+              "SHA": "eec3fa2",
+              "Subject": "Add milvus archiver for pitr (#1)"
             }
           ]
         }

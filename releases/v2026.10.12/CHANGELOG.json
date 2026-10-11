@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:36:04.184624566Z",
+  "release_date": "2026-10-11T09:36:13.238516537Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -854,6 +854,40 @@
             {
               "SHA": "9e889075",
               "Subject": "Use pg_tde_rewind and pg_tde_basebackup when TDE is enabled (#264)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "fcd6fb7a",
+              "Subject": "Prepare for release v0.29.0 (#101)"
+            },
+            {
+              "SHA": "4ca3c448",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#100)"
+            },
+            {
+              "SHA": "96c9afa4",
+              "Subject": "Prepare for release v0.28.0-rc.2 (#98)"
+            },
+            {
+              "SHA": "a1b4e158",
+              "Subject": "Prepare for release v0.28.0-rc.0 (#96)"
+            },
+            {
+              "SHA": "9c132102",
+              "Subject": "Prepare for release v0.27.0-rc.0 (#95)"
+            },
+            {
+              "SHA": "683eca1a",
+              "Subject": "Merge pull request #94 from kubedb/v2026.7.10-master"
             }
           ]
         }

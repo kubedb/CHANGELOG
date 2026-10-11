@@ -264,6 +264,19 @@
 
 
 
+## [kubedb/postgres-csi-snapshotter-plugin](https://github.com/kubedb/postgres-csi-snapshotter-plugin)
+
+### [v0.29.0](https://github.com/kubedb/postgres-csi-snapshotter-plugin/releases/tag/v0.29.0)
+
+- [fcd6fb7a](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/fcd6fb7a) Prepare for release v0.29.0 (#101)
+- [4ca3c448](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/4ca3c448) Use Go 1.27, k8s 1.37 & debian:13 (#100)
+- [96c9afa4](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/96c9afa4) Prepare for release v0.28.0-rc.2 (#98)
+- [a1b4e158](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/a1b4e158) Prepare for release v0.28.0-rc.0 (#96)
+- [9c132102](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/9c132102) Prepare for release v0.27.0-rc.0 (#95)
+- [683eca1a](https://github.com/kubedb/postgres-csi-snapshotter-plugin/commit/683eca1a) Merge pull request #94 from kubedb/v2026.7.10-master
+
+
+
 ## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
 
 ### [v0.31.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.31.0)

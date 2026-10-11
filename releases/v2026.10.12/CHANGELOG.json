@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:43:28.880310052Z",
+  "release_date": "2026-10-11T09:43:39.6207098Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -3076,6 +3076,68 @@
             {
               "SHA": "47f19de7",
               "Subject": "Move deletion logic to apimachinery (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/zookeeper",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "04550f83",
+              "Subject": "Prepare for release v0.23.0 (#145)"
+            },
+            {
+              "SHA": "aaeeb941",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#144)"
+            },
+            {
+              "SHA": "d0e5cb33",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "c7045da6",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#143)"
+            },
+            {
+              "SHA": "4ef9e89a",
+              "Subject": "Prepare for release v0.22.0-rc.2 (#142)"
+            },
+            {
+              "SHA": "c588db00",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#141)"
+            },
+            {
+              "SHA": "b6b631e9",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#140)"
+            },
+            {
+              "SHA": "1b6e46fa",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#139)"
+            },
+            {
+              "SHA": "fee971ca",
+              "Subject": "Adopt shared secret package from apimachinery (#138)"
+            },
+            {
+              "SHA": "6594c59e",
+              "Subject": "Adopt shared monitor/appbinding packages from apimachinery (#137)"
+            },
+            {
+              "SHA": "ef611f33",
+              "Subject": "Add virtual secret support (#123)"
+            },
+            {
+              "SHA": "76c37064",
+              "Subject": "Set default resource limits before patching petset in vertical scaling"
+            },
+            {
+              "SHA": "d39eb3cd",
+              "Subject": "Move deletion logic to apimachinery (#136)"
             }
           ]
         }

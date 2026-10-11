@@ -995,6 +995,26 @@
 
 
 
+## [kubedb/zookeeper](https://github.com/kubedb/zookeeper)
+
+### [v0.23.0](https://github.com/kubedb/zookeeper/releases/tag/v0.23.0)
+
+- [04550f83](https://github.com/kubedb/zookeeper/commit/04550f83) Prepare for release v0.23.0 (#145)
+- [aaeeb941](https://github.com/kubedb/zookeeper/commit/aaeeb941) Use Go 1.27, k8s 1.37 & debian:13 (#144)
+- [d0e5cb33](https://github.com/kubedb/zookeeper/commit/d0e5cb33) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [c7045da6](https://github.com/kubedb/zookeeper/commit/c7045da6) Sync Services with spec.serviceTemplates via shared helper (#143)
+- [4ef9e89a](https://github.com/kubedb/zookeeper/commit/4ef9e89a) Prepare for release v0.22.0-rc.2 (#142)
+- [c588db00](https://github.com/kubedb/zookeeper/commit/c588db00) Prepare for release v0.22.0-rc.1 (#141)
+- [b6b631e9](https://github.com/kubedb/zookeeper/commit/b6b631e9) Prepare for release v0.22.0-rc.0 (#140)
+- [1b6e46fa](https://github.com/kubedb/zookeeper/commit/1b6e46fa) Prepare for release v0.21.0-rc.0 (#139)
+- [fee971ca](https://github.com/kubedb/zookeeper/commit/fee971ca) Adopt shared secret package from apimachinery (#138)
+- [6594c59e](https://github.com/kubedb/zookeeper/commit/6594c59e) Adopt shared monitor/appbinding packages from apimachinery (#137)
+- [ef611f33](https://github.com/kubedb/zookeeper/commit/ef611f33) Add virtual secret support (#123)
+- [76c37064](https://github.com/kubedb/zookeeper/commit/76c37064) Set default resource limits before patching petset in vertical scaling
+- [d39eb3cd](https://github.com/kubedb/zookeeper/commit/d39eb3cd) Move deletion logic to apimachinery (#136)
+
+
+
 ## [kubedb/zookeeper-restic-plugin](https://github.com/kubedb/zookeeper-restic-plugin)
 
 ### [v0.23.0](https://github.com/kubedb/zookeeper-restic-plugin/releases/tag/v0.23.0)

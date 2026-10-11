@@ -283,6 +283,27 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.23.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.23.0)
+
+- [136c77cf](https://github.com/kubedb/mssqlserver/commit/136c77cf) Prepare for release v0.23.0 (#163)
+- [d524f4a9](https://github.com/kubedb/mssqlserver/commit/d524f4a9) Use Go 1.27, k8s 1.37 & debian:13 (#162)
+- [fa288a35](https://github.com/kubedb/mssqlserver/commit/fa288a35) Sync status.observedGeneration with metadata.generation on spec-only changes
+- [cc1cb284](https://github.com/kubedb/mssqlserver/commit/cc1cb284) Sync Services with spec.serviceTemplates via shared helper (#161)
+- [63ce4105](https://github.com/kubedb/mssqlserver/commit/63ce4105) Prepare for release v0.22.0-rc.2 (#159)
+- [03752a06](https://github.com/kubedb/mssqlserver/commit/03752a06) Prepare for release v0.22.0-rc.1 (#158)
+- [31242bf9](https://github.com/kubedb/mssqlserver/commit/31242bf9) Prepare for release v0.22.0-rc.0 (#157)
+- [67038153](https://github.com/kubedb/mssqlserver/commit/67038153) Prepare for release v0.21.0-rc.0 (#156)
+- [9ed3f569](https://github.com/kubedb/mssqlserver/commit/9ed3f569) feat: implement git-sync init container for MSSQLServer (#135)
+- [d1ce9121](https://github.com/kubedb/mssqlserver/commit/d1ce9121) Add virtual secret support (#134)
+- [d6073fd8](https://github.com/kubedb/mssqlserver/commit/d6073fd8) Migrate auth-secret and extra-secret handling to shared apimachinery pkg (#155)
+- [f0233fe7](https://github.com/kubedb/mssqlserver/commit/f0233fe7) Use shared monitor and appbinding packages (#154)
+- [ea93f18b](https://github.com/kubedb/mssqlserver/commit/ea93f18b) Honor user-provided renewBefore in TLS certificate ops (#136)
+- [ddc48b66](https://github.com/kubedb/mssqlserver/commit/ddc48b66) Move deletion logic to apimachinery (#153)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.61.0](https://github.com/kubedb/mysql/releases/tag/v0.61.0)

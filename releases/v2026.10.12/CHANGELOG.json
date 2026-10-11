@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:38:14.893761155Z",
+  "release_date": "2026-10-11T09:38:24.539431202Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -912,6 +912,72 @@
             {
               "SHA": "872322d9",
               "Subject": "Add Virtual Secret (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "136c77cf",
+              "Subject": "Prepare for release v0.23.0 (#163)"
+            },
+            {
+              "SHA": "d524f4a9",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#162)"
+            },
+            {
+              "SHA": "fa288a35",
+              "Subject": "Sync status.observedGeneration with metadata.generation on spec-only changes"
+            },
+            {
+              "SHA": "cc1cb284",
+              "Subject": "Sync Services with spec.serviceTemplates via shared helper (#161)"
+            },
+            {
+              "SHA": "63ce4105",
+              "Subject": "Prepare for release v0.22.0-rc.2 (#159)"
+            },
+            {
+              "SHA": "03752a06",
+              "Subject": "Prepare for release v0.22.0-rc.1 (#158)"
+            },
+            {
+              "SHA": "31242bf9",
+              "Subject": "Prepare for release v0.22.0-rc.0 (#157)"
+            },
+            {
+              "SHA": "67038153",
+              "Subject": "Prepare for release v0.21.0-rc.0 (#156)"
+            },
+            {
+              "SHA": "9ed3f569",
+              "Subject": "feat: implement git-sync init container for MSSQLServer (#135)"
+            },
+            {
+              "SHA": "d1ce9121",
+              "Subject": "Add virtual secret support (#134)"
+            },
+            {
+              "SHA": "d6073fd8",
+              "Subject": "Migrate auth-secret and extra-secret handling to shared apimachinery pkg (#155)"
+            },
+            {
+              "SHA": "f0233fe7",
+              "Subject": "Use shared monitor and appbinding packages (#154)"
+            },
+            {
+              "SHA": "ea93f18b",
+              "Subject": "Honor user-provided renewBefore in TLS certificate ops (#136)"
+            },
+            {
+              "SHA": "ddc48b66",
+              "Subject": "Move deletion logic to apimachinery (#153)"
             }
           ]
         }

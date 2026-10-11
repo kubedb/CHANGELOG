@@ -121,3 +121,16 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.48.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.48.0)
+
+- [16f1a252](https://github.com/kubedb/mariadb-coordinator/commit/16f1a252) Prepare for release v0.48.0 (#192)
+- [c9e0fcc5](https://github.com/kubedb/mariadb-coordinator/commit/c9e0fcc5) Use Go 1.27, k8s 1.37 & debian:13 (#191)
+- [5e21bff3](https://github.com/kubedb/mariadb-coordinator/commit/5e21bff3) Prepare for release v0.47.0-rc.2 (#190)
+- [989706c7](https://github.com/kubedb/mariadb-coordinator/commit/989706c7) Prepare for release v0.47.0-rc.1 (#189)
+- [4cb4c9cc](https://github.com/kubedb/mariadb-coordinator/commit/4cb4c9cc) Prepare for release v0.47.0-rc.0 (#188)
+- [4772461d](https://github.com/kubedb/mariadb-coordinator/commit/4772461d) Prepare for release v0.46.0-rc.0 (#187)
+
+
+

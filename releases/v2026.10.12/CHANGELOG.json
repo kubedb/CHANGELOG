@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T10:26:52.049955039Z",
+  "release_date": "2026-10-11T10:35:17.446427932Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -735,6 +735,92 @@
             {
               "SHA": "3d30c64a",
               "Subject": "Update Cleanup for Snapshot Manifest (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/courier",
+      "releases": [
+        {
+          "tag": "v0.8.0",
+          "commits": [
+            {
+              "SHA": "6fbbffc",
+              "Subject": "Prepare for release v0.8.0 (#64)"
+            },
+            {
+              "SHA": "2650585",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#63)"
+            },
+            {
+              "SHA": "b4b5c04",
+              "Subject": "Branch refresh: pause via DatabasePaused condition instead of spec.halted (#62)"
+            },
+            {
+              "SHA": "cf42afa",
+              "Subject": "courier: add Redis Branch engine (#34)"
+            },
+            {
+              "SHA": "1bacc8f",
+              "Subject": "courier: add Elasticsearch Branch engine (distributed) (#38)"
+            },
+            {
+              "SHA": "0203420",
+              "Subject": "courier: add MongoDB Branch engine (#33)"
+            },
+            {
+              "SHA": "56340b0",
+              "Subject": "courier: deliver cross-cluster branch objects CreateOnly (#61)"
+            },
+            {
+              "SHA": "e266193",
+              "Subject": "Remove previous auth data from auth secret (#60)"
+            },
+            {
+              "SHA": "5b139c1",
+              "Subject": "courier: add MySQL Branch engine (#31)"
+            },
+            {
+              "SHA": "8be6b4d",
+              "Subject": "courier: let each engine own resetRootPassword (#57)"
+            },
+            {
+              "SHA": "5809bae",
+              "Subject": "added precheck (#59)"
+            },
+            {
+              "SHA": "85daa1a",
+              "Subject": "Prepare for release v0.7.0-rc.2 (#58)"
+            },
+            {
+              "SHA": "19d7d3c",
+              "Subject": "Clear the VGS group label off source PVCs on teardown (#56)"
+            },
+            {
+              "SHA": "e92270d",
+              "Subject": "Cross-cluster Branch (Initiator/Creator) and the hub manager (#29)"
+            },
+            {
+              "SHA": "2e310a9",
+              "Subject": "Prepare for release v0.7.0-rc.0 (#55)"
+            },
+            {
+              "SHA": "1d8873e",
+              "Subject": "Wait for migrator CLI container to start before reporting status (#54)"
+            },
+            {
+              "SHA": "755a573",
+              "Subject": "Bug fix: Start the migration operator (#53)"
+            },
+            {
+              "SHA": "efefd41",
+              "Subject": "Fix CI: repin kubedb.dev/apimachinery to merged commit 69a6f2135183 (#52)"
+            },
+            {
+              "SHA": "435d804",
+              "Subject": "Implement Courier Branch (cp) same-cluster core with Postgres engine (#28)"
             }
           ]
         }

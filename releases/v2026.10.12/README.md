@@ -216,6 +216,32 @@
 
 
 
+## [kubedb/courier](https://github.com/kubedb/courier)
+
+### [v0.8.0](https://github.com/kubedb/courier/releases/tag/v0.8.0)
+
+- [6fbbffc](https://github.com/kubedb/courier/commit/6fbbffc) Prepare for release v0.8.0 (#64)
+- [2650585](https://github.com/kubedb/courier/commit/2650585) Use Go 1.27, k8s 1.37 & debian:13 (#63)
+- [b4b5c04](https://github.com/kubedb/courier/commit/b4b5c04) Branch refresh: pause via DatabasePaused condition instead of spec.halted (#62)
+- [cf42afa](https://github.com/kubedb/courier/commit/cf42afa) courier: add Redis Branch engine (#34)
+- [1bacc8f](https://github.com/kubedb/courier/commit/1bacc8f) courier: add Elasticsearch Branch engine (distributed) (#38)
+- [0203420](https://github.com/kubedb/courier/commit/0203420) courier: add MongoDB Branch engine (#33)
+- [56340b0](https://github.com/kubedb/courier/commit/56340b0) courier: deliver cross-cluster branch objects CreateOnly (#61)
+- [e266193](https://github.com/kubedb/courier/commit/e266193) Remove previous auth data from auth secret (#60)
+- [5b139c1](https://github.com/kubedb/courier/commit/5b139c1) courier: add MySQL Branch engine (#31)
+- [8be6b4d](https://github.com/kubedb/courier/commit/8be6b4d) courier: let each engine own resetRootPassword (#57)
+- [5809bae](https://github.com/kubedb/courier/commit/5809bae) added precheck (#59)
+- [85daa1a](https://github.com/kubedb/courier/commit/85daa1a) Prepare for release v0.7.0-rc.2 (#58)
+- [19d7d3c](https://github.com/kubedb/courier/commit/19d7d3c) Clear the VGS group label off source PVCs on teardown (#56)
+- [e92270d](https://github.com/kubedb/courier/commit/e92270d) Cross-cluster Branch (Initiator/Creator) and the hub manager (#29)
+- [2e310a9](https://github.com/kubedb/courier/commit/2e310a9) Prepare for release v0.7.0-rc.0 (#55)
+- [1d8873e](https://github.com/kubedb/courier/commit/1d8873e) Wait for migrator CLI container to start before reporting status (#54)
+- [755a573](https://github.com/kubedb/courier/commit/755a573) Bug fix: Start the migration operator (#53)
+- [efefd41](https://github.com/kubedb/courier/commit/efefd41) Fix CI: repin kubedb.dev/apimachinery to merged commit 69a6f2135183 (#52)
+- [435d804](https://github.com/kubedb/courier/commit/435d804) Implement Courier Branch (cp) same-cluster core with Postgres engine (#28)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.23.0](https://github.com/kubedb/crd-manager/releases/tag/v0.23.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.10.12",
-  "release_date": "2026-10-11T09:42:30.895818164Z",
+  "release_date": "2026-10-11T09:42:44.939093501Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.10.12",
   "kubernetes_version": "1.28+",
@@ -425,6 +425,108 @@
             {
               "SHA": "e5417274b",
               "Subject": "Add shared pkg/controllers/deletion and normalize DB accessors (#1830)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/cli",
+      "releases": [
+        {
+          "tag": "v0.68.0",
+          "commits": [
+            {
+              "SHA": "de11fae6c",
+              "Subject": "Prepare for release v0.68.0 (#846)"
+            },
+            {
+              "SHA": "861102e41",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#845)"
+            },
+            {
+              "SHA": "a738b4993",
+              "Subject": "Prepare for release v0.67.0-rc.2 (#842)"
+            },
+            {
+              "SHA": "8deab9356",
+              "Subject": "Prepare for release v0.67.0-rc.1 (#841)"
+            },
+            {
+              "SHA": "ef5de5ad6",
+              "Subject": "Prepare for release v0.67.0-rc.0 (#840)"
+            },
+            {
+              "SHA": "70addbc5f",
+              "Subject": "Prepare for release v0.66.0-rc.0 (#838)"
+            },
+            {
+              "SHA": "0787f6025",
+              "Subject": "Merge pull request #837 from kubedb/dcdr-cli"
+            },
+            {
+              "SHA": "698c8c12f",
+              "Subject": "Merge pull request #832 from kubedb/fix/remote-config-strip-server-managed-fields"
+            },
+            {
+              "SHA": "975c688a0",
+              "Subject": "remote-config: issue client cert locally from a user-supplied CA"
+            },
+            {
+              "SHA": "c8dc58389",
+              "Subject": "add fix"
+            },
+            {
+              "SHA": "da0a142b2",
+              "Subject": "dc-dr: satisfy errcheck and staticcheck"
+            },
+            {
+              "SHA": "66e209690",
+              "Subject": "remote-config: add --port / -d host:port and --replica-name"
+            },
+            {
+              "SHA": "7fe9ed640",
+              "Subject": "Fix build: drop redeclared buffer in generateAuthSecret"
+            },
+            {
+              "SHA": "755769742",
+              "Subject": "fix(remote-config): drop -s shorthand from --auth-secret flag"
+            },
+            {
+              "SHA": "ddcf1e0e2",
+              "Subject": "feat(remote-config): add -s/--auth-secret flag to override auth secret name"
+            },
+            {
+              "SHA": "74f2e3c9c",
+              "Subject": "remove mysql changes"
+            },
+            {
+              "SHA": "97976dbfc",
+              "Subject": "fix(remote-config): guard against nil Service and Secret pointers before dereference"
+            },
+            {
+              "SHA": "8d4ff96cc",
+              "Subject": "refactor(remote-config): use DeepCopy instead of building AppBinding from scratch"
+            },
+            {
+              "SHA": "4e401e5ce",
+              "Subject": "fix(remote-config): build AppBinding from scratch to avoid 3-way merge corruption"
+            },
+            {
+              "SHA": "09e3e396d",
+              "Subject": "fix(remote-config): strip server-managed metadata fields from generated YAML"
+            },
+            {
+              "SHA": "36168ea09",
+              "Subject": "dc-dr: pin-standby timing caveat, hold refuses the post-failback rewind"
+            },
+            {
+              "SHA": "fc6ee552d",
+              "Subject": "dc-dr: pin-primary --remove --force clears a dead DC's stuck override-hold"
+            },
+            {
+              "SHA": "f0e4a30cd",
+              "Subject": "dc-dr: kubectl-dba command group for cross data center DR day-2 operations"
             }
           ]
         }

@@ -116,6 +116,36 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.68.0](https://github.com/kubedb/cli/releases/tag/v0.68.0)
+
+- [de11fae6](https://github.com/kubedb/cli/commit/de11fae6c) Prepare for release v0.68.0 (#846)
+- [861102e4](https://github.com/kubedb/cli/commit/861102e41) Use Go 1.27, k8s 1.37 & debian:13 (#845)
+- [a738b499](https://github.com/kubedb/cli/commit/a738b4993) Prepare for release v0.67.0-rc.2 (#842)
+- [8deab935](https://github.com/kubedb/cli/commit/8deab9356) Prepare for release v0.67.0-rc.1 (#841)
+- [ef5de5ad](https://github.com/kubedb/cli/commit/ef5de5ad6) Prepare for release v0.67.0-rc.0 (#840)
+- [70addbc5](https://github.com/kubedb/cli/commit/70addbc5f) Prepare for release v0.66.0-rc.0 (#838)
+- [0787f602](https://github.com/kubedb/cli/commit/0787f6025) Merge pull request #837 from kubedb/dcdr-cli
+- [698c8c12](https://github.com/kubedb/cli/commit/698c8c12f) Merge pull request #832 from kubedb/fix/remote-config-strip-server-managed-fields
+- [975c688a](https://github.com/kubedb/cli/commit/975c688a0) remote-config: issue client cert locally from a user-supplied CA
+- [c8dc5838](https://github.com/kubedb/cli/commit/c8dc58389) add fix
+- [da0a142b](https://github.com/kubedb/cli/commit/da0a142b2) dc-dr: satisfy errcheck and staticcheck
+- [66e20969](https://github.com/kubedb/cli/commit/66e209690) remote-config: add --port / -d host:port and --replica-name
+- [7fe9ed64](https://github.com/kubedb/cli/commit/7fe9ed640) Fix build: drop redeclared buffer in generateAuthSecret
+- [75576974](https://github.com/kubedb/cli/commit/755769742) fix(remote-config): drop -s shorthand from --auth-secret flag
+- [ddcf1e0e](https://github.com/kubedb/cli/commit/ddcf1e0e2) feat(remote-config): add -s/--auth-secret flag to override auth secret name
+- [74f2e3c9](https://github.com/kubedb/cli/commit/74f2e3c9c) remove mysql changes
+- [97976dbf](https://github.com/kubedb/cli/commit/97976dbfc) fix(remote-config): guard against nil Service and Secret pointers before dereference
+- [8d4ff96c](https://github.com/kubedb/cli/commit/8d4ff96cc) refactor(remote-config): use DeepCopy instead of building AppBinding from scratch
+- [4e401e5c](https://github.com/kubedb/cli/commit/4e401e5ce) fix(remote-config): build AppBinding from scratch to avoid 3-way merge corruption
+- [09e3e396](https://github.com/kubedb/cli/commit/09e3e396d) fix(remote-config): strip server-managed metadata fields from generated YAML
+- [36168ea0](https://github.com/kubedb/cli/commit/36168ea09) dc-dr: pin-standby timing caveat, hold refuses the post-failback rewind
+- [fc6ee552](https://github.com/kubedb/cli/commit/fc6ee552d) dc-dr: pin-primary --remove --force clears a dead DC's stuck override-hold
+- [f0e4a30c](https://github.com/kubedb/cli/commit/f0e4a30cd) dc-dr: kubectl-dba command group for cross data center DR day-2 operations
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.23.0](https://github.com/kubedb/crd-manager/releases/tag/v0.23.0)

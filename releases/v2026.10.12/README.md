@@ -1,4 +1,4 @@
-# KubeDB v2026.10.12 (2026-10-11)
+# KubeDB v2026.10.12 (2026-10-12)
 
 
 ## [kubedb/aerospike](https://github.com/kubedb/aerospike)
@@ -567,6 +567,13 @@
 - [140b6332](https://github.com/kubedb/ignite/commit/140b6332) Set default resource limits before patching petset in vertical scaling
 - [d8aee1f0](https://github.com/kubedb/ignite/commit/d8aee1f0) Honor user-provided renewBefore in TLS certificate ops (#56)
 - [8d071a7a](https://github.com/kubedb/ignite/commit/8d071a7a) Move deletion logic to apimachinery (#68)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2026.10.12](https://github.com/kubedb/installer/releases/tag/v2026.10.12)
+
 
 
 

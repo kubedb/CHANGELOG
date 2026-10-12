@@ -327,6 +327,13 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.10.12](https://github.com/kubedb/docs/releases/tag/v2026.10.12)
+
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.5.0](https://github.com/kubedb/documentdb/releases/tag/v0.5.0)

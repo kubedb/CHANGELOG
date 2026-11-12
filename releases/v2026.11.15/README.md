@@ -390,6 +390,14 @@
 
 
 
+## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
+
+### [v0.5.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.5.0)
+
+- [a4b1071](https://github.com/kubedb/neo4j-backup-plugin/commit/a4b1071) Prepare for release v0.5.0 (#18)
+
+
+
 ## [kubedb/oracle-backup-plugin](https://github.com/kubedb/oracle-backup-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/oracle-backup-plugin/releases/tag/v0.3.0)

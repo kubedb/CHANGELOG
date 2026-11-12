@@ -149,6 +149,15 @@
 
 
 
+## [kubedb/kubedb-manifest-plugin](https://github.com/kubedb/kubedb-manifest-plugin)
+
+### [v0.32.0](https://github.com/kubedb/kubedb-manifest-plugin/releases/tag/v0.32.0)
+
+- [171d67a7](https://github.com/kubedb/kubedb-manifest-plugin/commit/171d67a7) Prepare for release v0.32.0 (#149)
+- [862244f5](https://github.com/kubedb/kubedb-manifest-plugin/commit/862244f5) Add documentdb manifest backup&restore (#145)
+
+
+
 ## [kubedb/kubedb-verifier](https://github.com/kubedb/kubedb-verifier)
 
 ### [v0.20.0](https://github.com/kubedb/kubedb-verifier/releases/tag/v0.20.0)

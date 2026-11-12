@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:35:07.076421809Z",
+  "release_date": "2026-11-12T20:35:16.553108006Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -323,6 +323,24 @@
             {
               "SHA": "65ebad4a",
               "Subject": "Add external access for Kafka brokers via per-broker LoadBalancer Services (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-manifest-plugin",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "171d67a7",
+              "Subject": "Prepare for release v0.32.0 (#149)"
+            },
+            {
+              "SHA": "862244f5",
+              "Subject": "Add documentdb manifest backup&restore (#145)"
             }
           ]
         }

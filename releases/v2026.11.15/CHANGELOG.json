@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:34:33.795078807Z",
+  "release_date": "2026-11-12T20:34:40.067526112Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -161,6 +161,20 @@
             {
               "SHA": "a39d2ab9",
               "Subject": "etcd: dial learners anonymously, bound per-member Status probes (#267)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db2-coordinator",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "4487d38",
+              "Subject": "Prepare for release v0.10.0 (#25)"
             }
           ]
         }

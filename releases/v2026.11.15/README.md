@@ -68,6 +68,14 @@
 
 
 
+## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
+
+### [v0.10.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.10.0)
+
+- [4487d38](https://github.com/kubedb/db2-coordinator/commit/4487d38) Prepare for release v0.10.0 (#25)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.24.0](https://github.com/kubedb/druid/releases/tag/v0.24.0)

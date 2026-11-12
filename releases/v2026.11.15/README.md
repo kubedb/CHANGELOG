@@ -750,6 +750,14 @@
 
 
 
+## [kubedb/tests](https://github.com/kubedb/tests)
+
+### [v0.54.0](https://github.com/kubedb/tests/releases/tag/v0.54.0)
+
+- [baa84ccb](https://github.com/kubedb/tests/commit/baa84ccbc) Prepare for release v0.54.0 (#561)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.10.0](https://github.com/kubedb/weaviate/releases/tag/v0.10.0)

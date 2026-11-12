@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:31:05.546683666Z",
+  "release_date": "2026-11-12T20:31:12.311579949Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -321,6 +321,20 @@
             {
               "SHA": "c847dd9b",
               "Subject": "Add branched mode for KubeDB Courier Branch (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssqlserver-archiver",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "770a6a3",
+              "Subject": "Prepare for release v0.23.0 (#40)"
             }
           ]
         }

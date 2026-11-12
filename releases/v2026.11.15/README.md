@@ -135,6 +135,14 @@
 
 
 
+## [kubedb/mssqlserver-archiver](https://github.com/kubedb/mssqlserver-archiver)
+
+### [v0.23.0](https://github.com/kubedb/mssqlserver-archiver/releases/tag/v0.23.0)
+
+- [770a6a3](https://github.com/kubedb/mssqlserver-archiver/commit/770a6a3) Prepare for release v0.23.0 (#40)
+
+
+
 ## [kubedb/mysql](https://github.com/kubedb/mysql)
 
 ### [v0.62.0](https://github.com/kubedb/mysql/releases/tag/v0.62.0)

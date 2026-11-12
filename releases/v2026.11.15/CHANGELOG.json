@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T17:38:27.734938615Z",
+  "release_date": "2026-11-12T17:50:27.685417065Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -79,6 +79,20 @@
             {
               "SHA": "5af9abb56",
               "Subject": "Fix lint issues"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/crd-manager",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "c39f6de1",
+              "Subject": "Prepare for release v0.24.0 (#162)"
             }
           ]
         }

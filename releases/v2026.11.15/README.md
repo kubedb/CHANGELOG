@@ -189,6 +189,14 @@
 
 
 
+## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
+
+### [v0.47.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.47.0)
+
+- [9f4eae9](https://github.com/kubedb/mysql-router-init/commit/9f4eae9) Prepare for release v0.47.0 (#74)
+
+
+
 ## [kubedb/oracle-backup-plugin](https://github.com/kubedb/oracle-backup-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/oracle-backup-plugin/releases/tag/v0.3.0)

@@ -189,6 +189,14 @@
 
 
 
+## [kubedb/mysql-csi-snapshotter-plugin](https://github.com/kubedb/mysql-csi-snapshotter-plugin)
+
+### [v0.30.0](https://github.com/kubedb/mysql-csi-snapshotter-plugin/releases/tag/v0.30.0)
+
+- [189d70ba](https://github.com/kubedb/mysql-csi-snapshotter-plugin/commit/189d70ba) Prepare for release v0.30.0 (#92)
+
+
+
 ## [kubedb/mysql-router-init](https://github.com/kubedb/mysql-router-init)
 
 ### [v0.47.0](https://github.com/kubedb/mysql-router-init/releases/tag/v0.47.0)

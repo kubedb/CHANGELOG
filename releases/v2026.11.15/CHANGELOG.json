@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:28:11.662247011Z",
+  "release_date": "2026-11-12T20:28:27.463127515Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -153,6 +153,24 @@
             {
               "SHA": "09048e77b",
               "Subject": "Add the ArchiverRestore ops request and in-place restore path (#428)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/memcached",
+      "releases": [
+        {
+          "tag": "v0.63.0",
+          "commits": [
+            {
+              "SHA": "2a4bfd1cc",
+              "Subject": "Prepare for release v0.63.0 (#562)"
+            },
+            {
+              "SHA": "59c850d77",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#561)"
             }
           ]
         }

@@ -57,6 +57,15 @@
 
 
 
+## [kubedb/memcached](https://github.com/kubedb/memcached)
+
+### [v0.63.0](https://github.com/kubedb/memcached/releases/tag/v0.63.0)
+
+- [2a4bfd1c](https://github.com/kubedb/memcached/commit/2a4bfd1cc) Prepare for release v0.63.0 (#562)
+- [59c850d7](https://github.com/kubedb/memcached/commit/59c850d77) Default security IDs from the OpenShift namespace in the operator (#561)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.24.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.24.0)

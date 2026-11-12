@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:29:15.725209584Z",
+  "release_date": "2026-11-12T20:29:27.569666026Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -203,6 +203,48 @@
             {
               "SHA": "59c850d77",
               "Subject": "Default security IDs from the OpenShift namespace in the operator (#561)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "6b48c2ae",
+              "Subject": "Prepare for release v0.10.0 (#90)"
+            },
+            {
+              "SHA": "55162b5d",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#89)"
+            },
+            {
+              "SHA": "da38092c",
+              "Subject": "Fix RotateAuth lockout, false InPlace successes, and Halt/WipeOut of the meta etcd (#82)"
+            },
+            {
+              "SHA": "1b21b402",
+              "Subject": "Mark the Milvus incremental snapshot Succeeded when the archiver is removed (#83)"
+            },
+            {
+              "SHA": "f0dbd153",
+              "Subject": "Add spec.objectStorage.tls for an object storage with a private CA (#87)"
+            },
+            {
+              "SHA": "00955f64",
+              "Subject": "Stop a new Milvus on a used object storage path (#86)"
+            },
+            {
+              "SHA": "64c0b3ff",
+              "Subject": "Propagate podTemplate securityContext to existing PetSets (#88)"
+            },
+            {
+              "SHA": "42c05e0f",
+              "Subject": "Start meta etcd clients on round_robin (#81)"
             }
           ]
         }

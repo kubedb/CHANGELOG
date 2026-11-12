@@ -83,6 +83,21 @@
 
 
 
+## [kubedb/milvus](https://github.com/kubedb/milvus)
+
+### [v0.10.0](https://github.com/kubedb/milvus/releases/tag/v0.10.0)
+
+- [6b48c2ae](https://github.com/kubedb/milvus/commit/6b48c2ae) Prepare for release v0.10.0 (#90)
+- [55162b5d](https://github.com/kubedb/milvus/commit/55162b5d) Default security IDs from the OpenShift namespace in the operator (#89)
+- [da38092c](https://github.com/kubedb/milvus/commit/da38092c) Fix RotateAuth lockout, false InPlace successes, and Halt/WipeOut of the meta etcd (#82)
+- [1b21b402](https://github.com/kubedb/milvus/commit/1b21b402) Mark the Milvus incremental snapshot Succeeded when the archiver is removed (#83)
+- [f0dbd153](https://github.com/kubedb/milvus/commit/f0dbd153) Add spec.objectStorage.tls for an object storage with a private CA (#87)
+- [00955f64](https://github.com/kubedb/milvus/commit/00955f64) Stop a new Milvus on a used object storage path (#86)
+- [64c0b3ff](https://github.com/kubedb/milvus/commit/64c0b3ff) Propagate podTemplate securityContext to existing PetSets (#88)
+- [42c05e0f](https://github.com/kubedb/milvus/commit/42c05e0f) Start meta etcd clients on round_robin (#81)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.62.0](https://github.com/kubedb/mongodb/releases/tag/v0.62.0)

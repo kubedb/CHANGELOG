@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T21:07:46.457153079Z",
+  "release_date": "2026-11-12T21:08:30.728037693Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -179,6 +179,32 @@
             {
               "SHA": "a0042e48",
               "Subject": "Prepare for release v0.6.0 (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/courier",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "b1182a9",
+              "Subject": "Prepare for release v0.9.0 (#65)"
+            },
+            {
+              "SHA": "93b716f",
+              "Subject": "courier: add Microsoft SQL Server Branch engine (#35)"
+            },
+            {
+              "SHA": "466a5c0",
+              "Subject": "courier: add Kafka Branch engine (distributed) (#41)"
+            },
+            {
+              "SHA": "6da045b",
+              "Subject": "courier: add Neo4j Branch engine (#42)"
             }
           ]
         }

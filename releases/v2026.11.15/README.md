@@ -77,6 +77,17 @@
 
 
 
+## [kubedb/courier](https://github.com/kubedb/courier)
+
+### [v0.9.0](https://github.com/kubedb/courier/releases/tag/v0.9.0)
+
+- [b1182a9](https://github.com/kubedb/courier/commit/b1182a9) Prepare for release v0.9.0 (#65)
+- [93b716f](https://github.com/kubedb/courier/commit/93b716f) courier: add Microsoft SQL Server Branch engine (#35)
+- [466a5c0](https://github.com/kubedb/courier/commit/466a5c0) courier: add Kafka Branch engine (distributed) (#41)
+- [6da045b](https://github.com/kubedb/courier/commit/6da045b) courier: add Neo4j Branch engine (#42)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.24.0](https://github.com/kubedb/crd-manager/releases/tag/v0.24.0)

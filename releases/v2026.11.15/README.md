@@ -61,6 +61,15 @@
 
 
 
+## [kubedb/hanadb](https://github.com/kubedb/hanadb)
+
+### [v0.10.0](https://github.com/kubedb/hanadb/releases/tag/v0.10.0)
+
+- [c3db55db](https://github.com/kubedb/hanadb/commit/c3db55db) Prepare for release v0.10.0 (#69)
+- [9a1e05cf](https://github.com/kubedb/hanadb/commit/9a1e05cf) Default security IDs from the OpenShift namespace in the operator (#68)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.53.0](https://github.com/kubedb/mariadb/releases/tag/v0.53.0)

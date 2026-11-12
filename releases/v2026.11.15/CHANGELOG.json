@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:32:18.913406191Z",
+  "release_date": "2026-11-12T20:32:26.290477236Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -538,6 +538,20 @@
             {
               "SHA": "fdc22f84d",
               "Subject": "Default security IDs from the OpenShift namespace in the operator (#685)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/singlestore-coordinator",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "eeefe830",
+              "Subject": "Prepare for release v0.24.0 (#85)"
             }
           ]
         }

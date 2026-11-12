@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:33:37.232290585Z",
+  "release_date": "2026-11-12T20:33:47.173232631Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -285,6 +285,20 @@
             {
               "SHA": "09048e77b",
               "Subject": "Add the ArchiverRestore ops request and in-place restore path (#428)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "21c5284c",
+              "Subject": "Prepare for release v0.27.0 (#107)"
             }
           ]
         }

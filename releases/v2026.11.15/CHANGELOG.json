@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:38:56.965563293Z",
+  "release_date": "2026-11-12T20:39:06.270500101Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -1159,6 +1159,20 @@
             {
               "SHA": "b6a0132d",
               "Subject": "Prepare for release v0.24.0 (#163)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/solr-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "a8bdafff",
+              "Subject": "Prepare for release v0.3.0 (#26)"
             }
           ]
         }

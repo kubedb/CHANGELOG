@@ -570,6 +570,14 @@
 
 
 
+## [kubedb/solr-backup-plugin](https://github.com/kubedb/solr-backup-plugin)
+
+### [v0.3.0](https://github.com/kubedb/solr-backup-plugin/releases/tag/v0.3.0)
+
+- [a8bdafff](https://github.com/kubedb/solr-backup-plugin/commit/a8bdafff) Prepare for release v0.3.0 (#26)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.10.0](https://github.com/kubedb/weaviate/releases/tag/v0.10.0)

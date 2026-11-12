@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:37:20.776970359Z",
+  "release_date": "2026-11-12T20:37:31.133162126Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -607,6 +607,24 @@
             {
               "SHA": "555bceeb",
               "Subject": "Prepare for release v0.32.0 (#142)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mssql-coordinator",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "02010040",
+              "Subject": "Prepare for release v0.24.0 (#88)"
+            },
+            {
+              "SHA": "62b8f436",
+              "Subject": "Reset the cloned Availability Group on a Courier branch (#87)"
             }
           ]
         }

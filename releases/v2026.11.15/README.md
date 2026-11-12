@@ -283,6 +283,15 @@
 
 
 
+## [kubedb/mssql-coordinator](https://github.com/kubedb/mssql-coordinator)
+
+### [v0.24.0](https://github.com/kubedb/mssql-coordinator/releases/tag/v0.24.0)
+
+- [02010040](https://github.com/kubedb/mssql-coordinator/commit/02010040) Prepare for release v0.24.0 (#88)
+- [62b8f436](https://github.com/kubedb/mssql-coordinator/commit/62b8f436) Reset the cloned Availability Group on a Courier branch (#87)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.24.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.24.0)

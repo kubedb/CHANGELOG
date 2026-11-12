@@ -76,6 +76,14 @@
 
 
 
+## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
+
+### [v0.5.0](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.5.0)
+
+- [3ed03d8](https://github.com/kubedb/documentdb-coordinator/commit/3ed03d8) Prepare for release v0.5.0 (#17)
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.24.0](https://github.com/kubedb/druid/releases/tag/v0.24.0)

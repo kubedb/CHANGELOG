@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:36:23.592129736Z",
+  "release_date": "2026-11-12T20:36:30.346191537Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -769,6 +769,20 @@
             {
               "SHA": "8452de4",
               "Subject": "add minio support (#6)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/oracle-coordinator",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "7ca76cad",
+              "Subject": "Prepare for release v0.15.0 (#50)"
             }
           ]
         }

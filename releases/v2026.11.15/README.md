@@ -126,6 +126,16 @@
 
 
 
+## [kubedb/oracle-backup-plugin](https://github.com/kubedb/oracle-backup-plugin)
+
+### [v0.3.0](https://github.com/kubedb/oracle-backup-plugin/releases/tag/v0.3.0)
+
+- [8c66b47](https://github.com/kubedb/oracle-backup-plugin/commit/8c66b47) Prepare for release v0.3.0 (#12)
+- [04745c2](https://github.com/kubedb/oracle-backup-plugin/commit/04745c2) Remove oracle restore flags (#4)
+- [8452de4](https://github.com/kubedb/oracle-backup-plugin/commit/8452de4) add minio support (#6)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.56.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.56.0)

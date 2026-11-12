@@ -137,6 +137,16 @@
 
 
 
+## [kubedb/mariadb-archiver](https://github.com/kubedb/mariadb-archiver)
+
+### [v0.29.0](https://github.com/kubedb/mariadb-archiver/releases/tag/v0.29.0)
+
+- [ef202691](https://github.com/kubedb/mariadb-archiver/commit/ef202691) Prepare for release v0.29.0 (#108)
+- [e3330cdd](https://github.com/kubedb/mariadb-archiver/commit/e3330cdd) Use Go 1.27, k8s 1.37 & debian:13 (#107)
+- [10e8e9b7](https://github.com/kubedb/mariadb-archiver/commit/10e8e9b7) Stop the replay reporting success over binlogs it never applied (#102)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.27.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:34:03.25032608Z",
+  "release_date": "2026-11-12T20:34:12.989308044Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -311,6 +311,28 @@
             {
               "SHA": "09048e77b",
               "Subject": "Add the ArchiverRestore ops request and in-place restore path (#428)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb-archiver",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "ef202691",
+              "Subject": "Prepare for release v0.29.0 (#108)"
+            },
+            {
+              "SHA": "e3330cdd",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#107)"
+            },
+            {
+              "SHA": "10e8e9b7",
+              "Subject": "Stop the replay reporting success over binlogs it never applied (#102)"
             }
           ]
         }

@@ -166,6 +166,13 @@
 
 
 
+## [kubedb/pg-coordinator](https://github.com/kubedb/pg-coordinator)
+
+### [v0.53.0](https://github.com/kubedb/pg-coordinator/releases/tag/v0.53.0)
+
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.10.0](https://github.com/kubedb/qdrant/releases/tag/v0.10.0)

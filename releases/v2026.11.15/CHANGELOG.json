@@ -1,0 +1,88 @@
+{
+  "product_line": "KubeDB",
+  "release": "v2026.11.15",
+  "release_date": "2026-11-12T17:38:27.734938615Z",
+  "release_project_url": "https://github.com/kubedb/CHANGELOG",
+  "docs_url": "https://kubedb.com/docs/v2026.11.15",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/kubedb/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.69.0",
+          "commits": [
+            {
+              "SHA": "cb8b0c69e",
+              "Subject": "Cleanup deps"
+            },
+            {
+              "SHA": "f42a5fadb",
+              "Subject": "Add Postgres MajorUpgradeInProgress raft key and conditions (#1954)"
+            },
+            {
+              "SHA": "dbfac26f5",
+              "Subject": "Cache the OpenShift check per RESTMapper (#1956)"
+            },
+            {
+              "SHA": "b89bffca5",
+              "Subject": "OracleOSBWS Constants (#1953)"
+            },
+            {
+              "SHA": "d24add471",
+              "Subject": "Default database UID/GID/fsGroup from OpenShift namespace SCC ranges (#1952)"
+            },
+            {
+              "SHA": "30b10799b",
+              "Subject": "Add spec.objectStorage.tls to Milvus for a custom object storage CA (#1949)"
+            },
+            {
+              "SHA": "0e4a9a412",
+              "Subject": "Milvus: add spec.autoOps, GPU guard for UpdateVersion, StreamingNode storage default (#1947)"
+            },
+            {
+              "SHA": "6cd3915e3",
+              "Subject": "Milvus webhook: allow the archiver on Milvus 3.x (#1945)"
+            },
+            {
+              "SHA": "f07dcf5a4",
+              "Subject": "Add Qdrant PITR Support (#1671)"
+            },
+            {
+              "SHA": "bf4b2936a",
+              "Subject": "add mysql auto reconfigure feature (#1951)"
+            },
+            {
+              "SHA": "c6b3e4178",
+              "Subject": "Restrict shared service aliases; add per-DB alias types and Kafka broker alias (#1931)"
+            },
+            {
+              "SHA": "b537910ba",
+              "Subject": "[MySQL] Add Archiver Restore Ops (#1854)"
+            },
+            {
+              "SHA": "b62975e85",
+              "Subject": "Add Neo4j archiver CRD helper (#1927)"
+            },
+            {
+              "SHA": "4606c7f88",
+              "Subject": "Add RecoverMember ops request type for Etcd (#1930)"
+            },
+            {
+              "SHA": "9e71e6a1a",
+              "Subject": "Accept a Milvus VerticalScaling that only targets node groups (#1929)"
+            },
+            {
+              "SHA": "c5629ed38",
+              "Subject": "Milvus: external-etcd client auth/TLS, etcd root path, restricted SCC knob (#1928)"
+            },
+            {
+              "SHA": "5af9abb56",
+              "Subject": "Fix lint issues"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

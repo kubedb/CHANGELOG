@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T22:35:47.666032572Z",
+  "release_date": "2026-11-12T22:36:13.12001963Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -811,6 +811,24 @@
             {
               "SHA": "6934abf",
               "Subject": "Add storage-check to report a used object storage path (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus-backup-plugin",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "3b42051",
+              "Subject": "Prepare for release v0.2.0 (#8)"
+            },
+            {
+              "SHA": "4e884ae",
+              "Subject": "Support independent object-storage TLS in Milvus backup and restore (#7)"
             }
           ]
         }

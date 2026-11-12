@@ -379,6 +379,15 @@
 
 
 
+## [kubedb/milvus-backup-plugin](https://github.com/kubedb/milvus-backup-plugin)
+
+### [v0.2.0](https://github.com/kubedb/milvus-backup-plugin/releases/tag/v0.2.0)
+
+- [3b42051](https://github.com/kubedb/milvus-backup-plugin/commit/3b42051) Prepare for release v0.2.0 (#8)
+- [4e884ae](https://github.com/kubedb/milvus-backup-plugin/commit/4e884ae) Support independent object-storage TLS in Milvus backup and restore (#7)
+
+
+
 ## [kubedb/milvus-csi-snapshotter-plugin](https://github.com/kubedb/milvus-csi-snapshotter-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/milvus-csi-snapshotter-plugin/releases/tag/v0.3.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T23:20:00.775766871Z",
+  "release_date": "2026-11-12T23:20:12.352475398Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -1639,6 +1639,20 @@
             {
               "SHA": "baa84ccbc",
               "Subject": "Prepare for release v0.54.0 (#561)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ui-server",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "877952b55",
+              "Subject": "Prepare for release v0.45.0 (#233)"
             }
           ]
         }

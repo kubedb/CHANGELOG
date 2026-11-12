@@ -1,6 +1,14 @@
 # KubeDB v2026.11.15 (2026-11-12)
 
 
+## [kubedb/aerospike](https://github.com/kubedb/aerospike)
+
+### [v0.5.0](https://github.com/kubedb/aerospike/releases/tag/v0.5.0)
+
+- [1dc8cfc7](https://github.com/kubedb/aerospike/commit/1dc8cfc7) Prepare for release v0.5.0 (#20)
+
+
+
 ## [kubedb/apimachinery](https://github.com/kubedb/apimachinery)
 
 ### [v0.69.0](https://github.com/kubedb/apimachinery/releases/tag/v0.69.0)

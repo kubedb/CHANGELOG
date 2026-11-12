@@ -104,6 +104,15 @@
 
 
 
+## [kubedb/hazelcast](https://github.com/kubedb/hazelcast)
+
+### [v0.15.0](https://github.com/kubedb/hazelcast/releases/tag/v0.15.0)
+
+- [22c72bfd](https://github.com/kubedb/hazelcast/commit/22c72bfd) Prepare for release v0.15.0 (#73)
+- [a6faaaef](https://github.com/kubedb/hazelcast/commit/a6faaaef) Default security IDs from the OpenShift namespace in the operator (#72)
+
+
+
 ## [kubedb/ignite](https://github.com/kubedb/ignite)
 
 ### [v0.16.0](https://github.com/kubedb/ignite/releases/tag/v0.16.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T23:18:31.082964065Z",
+  "release_date": "2026-11-12T23:18:52.286091082Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -1109,6 +1109,36 @@
             {
               "SHA": "a4b1071",
               "Subject": "Prepare for release v0.5.0 (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ops-manager",
+      "releases": [
+        {
+          "tag": "v0.56.0",
+          "commits": [
+            {
+              "SHA": "086ebd0a2",
+              "Subject": "Prepare for release v0.56.0 (#913)"
+            },
+            {
+              "SHA": "0012efcc5",
+              "Subject": "Register the Milvus recommendation engine and keep its version updates on the same GPU/CPU flavor (#907)"
+            },
+            {
+              "SHA": "85f2b4da7",
+              "Subject": "Bump apimachinery and milvus to commits reachable from master (#912)"
+            },
+            {
+              "SHA": "d1a942db0",
+              "Subject": "add SetupOracleOpsRequestWebhookWithManager (#892)"
+            },
+            {
+              "SHA": "416e7f604",
+              "Subject": "Update milvus: stop a new Milvus on a used object storage path (#909)"
             }
           ]
         }

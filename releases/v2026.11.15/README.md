@@ -530,6 +530,18 @@
 
 
 
+## [kubedb/ops-manager](https://github.com/kubedb/ops-manager)
+
+### [v0.56.0](https://github.com/kubedb/ops-manager/releases/tag/v0.56.0)
+
+- [086ebd0a](https://github.com/kubedb/ops-manager/commit/086ebd0a2) Prepare for release v0.56.0 (#913)
+- [0012efcc](https://github.com/kubedb/ops-manager/commit/0012efcc5) Register the Milvus recommendation engine and keep its version updates on the same GPU/CPU flavor (#907)
+- [85f2b4da](https://github.com/kubedb/ops-manager/commit/85f2b4da7) Bump apimachinery and milvus to commits reachable from master (#912)
+- [d1a942db](https://github.com/kubedb/ops-manager/commit/d1a942db0) add SetupOracleOpsRequestWebhookWithManager (#892)
+- [416e7f60](https://github.com/kubedb/ops-manager/commit/416e7f604) Update milvus: stop a new Milvus on a used object storage path (#909)
+
+
+
 ## [kubedb/oracle](https://github.com/kubedb/oracle)
 
 ### [v0.15.0](https://github.com/kubedb/oracle/releases/tag/v0.15.0)

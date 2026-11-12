@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T23:17:51.372934855Z",
+  "release_date": "2026-11-12T23:18:31.082964065Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -1497,6 +1497,20 @@
             {
               "SHA": "47b217d3",
               "Subject": "Prepare for release v0.56.0 (#335)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/schema-manager",
+      "releases": [
+        {
+          "tag": "v0.45.0",
+          "commits": [
+            {
+              "SHA": "45955851",
+              "Subject": "Prepare for release v0.45.0 (#181)"
             }
           ]
         }

@@ -70,6 +70,14 @@
 
 
 
+## [kubedb/hanadb-coordinator](https://github.com/kubedb/hanadb-coordinator)
+
+### [v0.9.0](https://github.com/kubedb/hanadb-coordinator/releases/tag/v0.9.0)
+
+- [6697127d](https://github.com/kubedb/hanadb-coordinator/commit/6697127d) Prepare for release v0.9.0 (#27)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.53.0](https://github.com/kubedb/mariadb/releases/tag/v0.53.0)

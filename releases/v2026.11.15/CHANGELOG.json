@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:57:07.532724334Z",
+  "release_date": "2026-11-12T20:57:20.533638282Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -965,6 +965,32 @@
             {
               "SHA": "9f4eae9",
               "Subject": "Prepare for release v0.47.0 (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/neo4j",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "6496f635",
+              "Subject": "Prepare for release v0.10.0 (#73)"
+            },
+            {
+              "SHA": "8d8dc4a7",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#72)"
+            },
+            {
+              "SHA": "1f93acbb",
+              "Subject": "Fix issuer-change restart ordering; apply Reconfigure without restart when possible (#71)"
+            },
+            {
+              "SHA": "af15f502",
+              "Subject": "Add branched mode for KubeDB Courier Branch (#49)"
             }
           ]
         }

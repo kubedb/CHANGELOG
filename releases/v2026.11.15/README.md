@@ -458,6 +458,17 @@
 
 
 
+## [kubedb/neo4j](https://github.com/kubedb/neo4j)
+
+### [v0.10.0](https://github.com/kubedb/neo4j/releases/tag/v0.10.0)
+
+- [6496f635](https://github.com/kubedb/neo4j/commit/6496f635) Prepare for release v0.10.0 (#73)
+- [8d8dc4a7](https://github.com/kubedb/neo4j/commit/8d8dc4a7) Default security IDs from the OpenShift namespace in the operator (#72)
+- [1f93acbb](https://github.com/kubedb/neo4j/commit/1f93acbb) Fix issuer-change restart ordering; apply Reconfigure without restart when possible (#71)
+- [af15f502](https://github.com/kubedb/neo4j/commit/af15f502) Add branched mode for KubeDB Courier Branch (#49)
+
+
+
 ## [kubedb/neo4j-backup-plugin](https://github.com/kubedb/neo4j-backup-plugin)
 
 ### [v0.5.0](https://github.com/kubedb/neo4j-backup-plugin/releases/tag/v0.5.0)

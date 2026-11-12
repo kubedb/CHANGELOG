@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:40:31.884467334Z",
+  "release_date": "2026-11-12T20:57:07.532724334Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -367,6 +367,32 @@
             {
               "SHA": "77a200ff",
               "Subject": "Prepare for release v0.32.0 (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/etcd",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "ebbcfede",
+              "Subject": "Prepare for release v0.3.0 (#13)"
+            },
+            {
+              "SHA": "c04a28ec",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#12)"
+            },
+            {
+              "SHA": "85bbc15a",
+              "Subject": "Run restore jobs as the etcd container's uid/gid (#11)"
+            },
+            {
+              "SHA": "b938e665",
+              "Subject": "Enable etcd authentication once the cluster is Ready (#10)"
             }
           ]
         }

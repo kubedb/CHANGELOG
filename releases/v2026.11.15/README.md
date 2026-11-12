@@ -169,6 +169,17 @@
 
 
 
+## [kubedb/etcd](https://github.com/kubedb/etcd)
+
+### [v0.3.0](https://github.com/kubedb/etcd/releases/tag/v0.3.0)
+
+- [ebbcfede](https://github.com/kubedb/etcd/commit/ebbcfede) Prepare for release v0.3.0 (#13)
+- [c04a28ec](https://github.com/kubedb/etcd/commit/c04a28ec) Default security IDs from the OpenShift namespace in the operator (#12)
+- [85bbc15a](https://github.com/kubedb/etcd/commit/85bbc15a) Run restore jobs as the etcd container's uid/gid (#11)
+- [b938e665](https://github.com/kubedb/etcd/commit/b938e665) Enable etcd authentication once the cluster is Ready (#10)
+
+
+
 ## [kubedb/etcd-restic-plugin](https://github.com/kubedb/etcd-restic-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/etcd-restic-plugin/releases/tag/v0.3.0)

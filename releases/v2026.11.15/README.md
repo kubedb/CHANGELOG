@@ -113,6 +113,17 @@
 
 
 
+## [kubedb/kafka](https://github.com/kubedb/kafka)
+
+### [v0.40.0](https://github.com/kubedb/kafka/releases/tag/v0.40.0)
+
+- [2e8e2700](https://github.com/kubedb/kafka/commit/2e8e2700) Prepare for release v0.40.0 (#227)
+- [ec01de7f](https://github.com/kubedb/kafka/commit/ec01de7f) Default security IDs from the OpenShift namespace in the operator (#226)
+- [b0cd83e8](https://github.com/kubedb/kafka/commit/b0cd83e8) Add branched mode for KubeDB Courier Branch (#207)
+- [65ebad4a](https://github.com/kubedb/kafka/commit/65ebad4a) Add external access for Kafka brokers via per-broker LoadBalancer Services (#225)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.53.0](https://github.com/kubedb/mariadb/releases/tag/v0.53.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:33:47.173232631Z",
+  "release_date": "2026-11-12T20:34:03.25032608Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -251,6 +251,32 @@
             {
               "SHA": "6f153323",
               "Subject": "Default security IDs from the OpenShift namespace in the operator (#80)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kafka",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "2e8e2700",
+              "Subject": "Prepare for release v0.40.0 (#227)"
+            },
+            {
+              "SHA": "ec01de7f",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#226)"
+            },
+            {
+              "SHA": "b0cd83e8",
+              "Subject": "Add branched mode for KubeDB Courier Branch (#207)"
+            },
+            {
+              "SHA": "65ebad4a",
+              "Subject": "Add external access for Kafka brokers via per-broker LoadBalancer Services (#225)"
             }
           ]
         }

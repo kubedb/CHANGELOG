@@ -341,6 +341,15 @@
 
 
 
+## [kubedb/postgres-archiver](https://github.com/kubedb/postgres-archiver)
+
+### [v0.30.0](https://github.com/kubedb/postgres-archiver/releases/tag/v0.30.0)
+
+- [b81900f8](https://github.com/kubedb/postgres-archiver/commit/b81900f8) Prepare for release v0.30.0 (#128)
+- [d163d666](https://github.com/kubedb/postgres-archiver/commit/d163d666) Add documentdb PITR (#124)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.10.0](https://github.com/kubedb/qdrant/releases/tag/v0.10.0)

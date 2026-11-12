@@ -435,6 +435,14 @@
 
 
 
+## [kubedb/singlestore](https://github.com/kubedb/singlestore)
+
+### [v0.24.0](https://github.com/kubedb/singlestore/releases/tag/v0.24.0)
+
+- [94ff056d](https://github.com/kubedb/singlestore/commit/94ff056d) Prepare for release v0.24.0 (#151)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.24.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.24.0)

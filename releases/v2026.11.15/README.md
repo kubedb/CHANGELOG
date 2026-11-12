@@ -379,6 +379,15 @@
 
 
 
+## [kubedb/milvus-csi-snapshotter-plugin](https://github.com/kubedb/milvus-csi-snapshotter-plugin)
+
+### [v0.3.0](https://github.com/kubedb/milvus-csi-snapshotter-plugin/releases/tag/v0.3.0)
+
+- [52d8da3](https://github.com/kubedb/milvus-csi-snapshotter-plugin/commit/52d8da3) Prepare for release v0.3.0 (#5)
+- [29d792e](https://github.com/kubedb/milvus-csi-snapshotter-plugin/commit/29d792e) Use independent object-storage trust in Milvus CSI backups (#4)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.62.0](https://github.com/kubedb/mongodb/releases/tag/v0.62.0)

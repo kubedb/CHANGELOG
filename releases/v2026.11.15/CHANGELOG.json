@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T21:15:24.401720546Z",
+  "release_date": "2026-11-12T22:35:47.666032572Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -811,6 +811,24 @@
             {
               "SHA": "6934abf",
               "Subject": "Add storage-check to report a used object storage path (#7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/milvus-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "52d8da3",
+              "Subject": "Prepare for release v0.3.0 (#5)"
+            },
+            {
+              "SHA": "29d792e",
+              "Subject": "Use independent object-storage trust in Milvus CSI backups (#4)"
             }
           ]
         }

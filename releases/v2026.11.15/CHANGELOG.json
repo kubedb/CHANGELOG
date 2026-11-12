@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:32:07.091092499Z",
+  "release_date": "2026-11-12T20:32:18.913406191Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -397,6 +397,24 @@
             {
               "SHA": "f12272b95",
               "Subject": "Add Archiver Restore Ops (#776)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql-archiver",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "28e3e4fe",
+              "Subject": "Prepare for release v0.30.0 (#120)"
+            },
+            {
+              "SHA": "507e6e59",
+              "Subject": "Rotate the binlog on an interval so there is something to archive (#114)"
             }
           ]
         }

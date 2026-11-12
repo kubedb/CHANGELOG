@@ -172,6 +172,15 @@
 
 
 
+## [kubedb/mysql-archiver](https://github.com/kubedb/mysql-archiver)
+
+### [v0.30.0](https://github.com/kubedb/mysql-archiver/releases/tag/v0.30.0)
+
+- [28e3e4fe](https://github.com/kubedb/mysql-archiver/commit/28e3e4fe) Prepare for release v0.30.0 (#120)
+- [507e6e59](https://github.com/kubedb/mysql-archiver/commit/507e6e59) Rotate the binlog on an interval so there is something to archive (#114)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.47.0)

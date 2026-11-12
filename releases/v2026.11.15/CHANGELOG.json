@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:34:58.629139185Z",
+  "release_date": "2026-11-12T20:35:07.076421809Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -323,6 +323,20 @@
             {
               "SHA": "65ebad4a",
               "Subject": "Add external access for Kafka brokers via per-broker LoadBalancer Services (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/kubedb-verifier",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "62fb2d4b",
+              "Subject": "Prepare for release v0.20.0 (#64)"
             }
           ]
         }

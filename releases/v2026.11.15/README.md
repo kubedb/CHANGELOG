@@ -255,6 +255,20 @@
 
 
 
+## [kubedb/postgres](https://github.com/kubedb/postgres)
+
+### [v0.69.0](https://github.com/kubedb/postgres/releases/tag/v0.69.0)
+
+- [d0e732d0](https://github.com/kubedb/postgres/commit/d0e732d01) Prepare for release v0.69.0 (#968)
+- [d73b5f62](https://github.com/kubedb/postgres/commit/d73b5f62d) Find run.sh pid via /proc on RHEL-family images (#935)
+- [f5f92e6c](https://github.com/kubedb/postgres/commit/f5f92e6cd) Ignore Issuer events that arrive before the Postgres watchers are initialised (#963)
+- [23dc1723](https://github.com/kubedb/postgres/commit/23dc1723f) Default Postgres UID/GID/fsGroup from OpenShift namespace SCC ranges (#961)
+- [15f12a76](https://github.com/kubedb/postgres/commit/15f12a760) Set a MajorUpgradeInProgress raft key for the length of a major upgrade (#964)
+- [af89100a](https://github.com/kubedb/postgres/commit/af89100a4) Reconfigure: make restart: auto decide, verify reloads through PostgreSQL (#901)
+- [f22cdc67](https://github.com/kubedb/postgres/commit/f22cdc67c) Opt-in service account token hardening and coordinator API token/TLS (#955)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.10.0](https://github.com/kubedb/qdrant/releases/tag/v0.10.0)

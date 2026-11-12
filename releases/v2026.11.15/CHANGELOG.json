@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:32:58.087984679Z",
+  "release_date": "2026-11-12T20:33:11.17401652Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -550,6 +550,44 @@
         {
           "tag": "v0.53.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres",
+      "releases": [
+        {
+          "tag": "v0.69.0",
+          "commits": [
+            {
+              "SHA": "d0e732d01",
+              "Subject": "Prepare for release v0.69.0 (#968)"
+            },
+            {
+              "SHA": "d73b5f62d",
+              "Subject": "Find run.sh pid via /proc on RHEL-family images (#935)"
+            },
+            {
+              "SHA": "f5f92e6cd",
+              "Subject": "Ignore Issuer events that arrive before the Postgres watchers are initialised (#963)"
+            },
+            {
+              "SHA": "23dc1723f",
+              "Subject": "Default Postgres UID/GID/fsGroup from OpenShift namespace SCC ranges (#961)"
+            },
+            {
+              "SHA": "15f12a760",
+              "Subject": "Set a MajorUpgradeInProgress raft key for the length of a major upgrade (#964)"
+            },
+            {
+              "SHA": "af89100a4",
+              "Subject": "Reconfigure: make restart: auto decide, verify reloads through PostgreSQL (#901)"
+            },
+            {
+              "SHA": "f22cdc67c",
+              "Subject": "Opt-in service account token hardening and coordinator API token/TLS (#955)"
+            }
+          ]
         }
       ]
     },

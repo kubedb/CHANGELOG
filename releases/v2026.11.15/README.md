@@ -247,6 +247,14 @@
 
 
 
+## [kubedb/solr](https://github.com/kubedb/solr)
+
+### [v0.24.0](https://github.com/kubedb/solr/releases/tag/v0.24.0)
+
+- [b6a0132d](https://github.com/kubedb/solr/commit/b6a0132d) Prepare for release v0.24.0 (#163)
+
+
+
 ## [kubedb/weaviate](https://github.com/kubedb/weaviate)
 
 ### [v0.10.0](https://github.com/kubedb/weaviate/releases/tag/v0.10.0)

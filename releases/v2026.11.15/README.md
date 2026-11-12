@@ -52,6 +52,15 @@
 
 
 
+## [kubedb/druid](https://github.com/kubedb/druid)
+
+### [v0.24.0](https://github.com/kubedb/druid/releases/tag/v0.24.0)
+
+- [376b2284](https://github.com/kubedb/druid/commit/376b2284) Prepare for release v0.24.0 (#161)
+- [414c272b](https://github.com/kubedb/druid/commit/414c272b) Default security IDs from the OpenShift namespace in the operator (#160)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.53.0](https://github.com/kubedb/mariadb/releases/tag/v0.53.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:28:40.048490548Z",
+  "release_date": "2026-11-12T20:28:50.095307092Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -133,6 +133,24 @@
             {
               "SHA": "a39d2ab9",
               "Subject": "etcd: dial learners anonymously, bound per-member Status probes (#267)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/druid",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "376b2284",
+              "Subject": "Prepare for release v0.24.0 (#161)"
+            },
+            {
+              "SHA": "414c272b",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#160)"
             }
           ]
         }

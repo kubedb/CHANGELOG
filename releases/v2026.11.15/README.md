@@ -169,6 +169,14 @@
 
 
 
+## [kubedb/etcd-restic-plugin](https://github.com/kubedb/etcd-restic-plugin)
+
+### [v0.3.0](https://github.com/kubedb/etcd-restic-plugin/releases/tag/v0.3.0)
+
+- [8f96766](https://github.com/kubedb/etcd-restic-plugin/commit/8f96766) Prepare for release v0.3.0 (#5)
+
+
+
 ## [kubedb/gitops](https://github.com/kubedb/gitops)
 
 ### [v0.17.0](https://github.com/kubedb/gitops/releases/tag/v0.17.0)

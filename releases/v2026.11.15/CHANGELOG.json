@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:40:20.571454304Z",
+  "release_date": "2026-11-12T20:40:26.180507901Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -367,6 +367,20 @@
             {
               "SHA": "77a200ff",
               "Subject": "Prepare for release v0.32.0 (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/etcd-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "8f96766",
+              "Subject": "Prepare for release v0.3.0 (#5)"
             }
           ]
         }

@@ -41,6 +41,15 @@
 
 
 
+## [kubedb/cli](https://github.com/kubedb/cli)
+
+### [v0.69.0](https://github.com/kubedb/cli/releases/tag/v0.69.0)
+
+- [efba2f31](https://github.com/kubedb/cli/commit/efba2f311) Prepare for release v0.69.0 (#848)
+- [2fea7014](https://github.com/kubedb/cli/commit/2fea7014f) Merge pull request #844 from kubedb/dc-dr-failover-group
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.24.0](https://github.com/kubedb/crd-manager/releases/tag/v0.24.0)

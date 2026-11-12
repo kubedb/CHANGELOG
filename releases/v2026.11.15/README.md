@@ -77,6 +77,16 @@
 
 
 
+## [kubedb/gitops](https://github.com/kubedb/gitops)
+
+### [v0.17.0](https://github.com/kubedb/gitops/releases/tag/v0.17.0)
+
+- [56d39d66](https://github.com/kubedb/gitops/commit/56d39d66) Prepare for release v0.17.0 (#100)
+- [c952cdfd](https://github.com/kubedb/gitops/commit/c952cdfd) Add HanaDB horizontal scaling, update version GitOps support (#87)
+- [fddb0df6](https://github.com/kubedb/gitops/commit/fddb0df6) Add GitOps support for DocumentDB (#94)
+
+
+
 ## [kubedb/hanadb](https://github.com/kubedb/hanadb)
 
 ### [v0.10.0](https://github.com/kubedb/hanadb/releases/tag/v0.10.0)

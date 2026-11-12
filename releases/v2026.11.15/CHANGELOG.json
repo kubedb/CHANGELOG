@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:33:28.497178362Z",
+  "release_date": "2026-11-12T20:33:37.232290585Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -179,6 +179,28 @@
             {
               "SHA": "414c272b",
               "Subject": "Default security IDs from the OpenShift namespace in the operator (#160)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/gitops",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "56d39d66",
+              "Subject": "Prepare for release v0.17.0 (#100)"
+            },
+            {
+              "SHA": "c952cdfd",
+              "Subject": "Add HanaDB horizontal scaling, update version GitOps support (#87)"
+            },
+            {
+              "SHA": "fddb0df6",
+              "Subject": "Add GitOps support for DocumentDB (#94)"
             }
           ]
         }

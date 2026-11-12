@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:39:41.176012755Z",
+  "release_date": "2026-11-12T20:39:47.042644082Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -269,6 +269,32 @@
             {
               "SHA": "3ed03d8",
               "Subject": "Prepare for release v0.5.0 (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/documentdb-csi-snapshotter-plugin",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "84daceb",
+              "Subject": "Prepare for release v0.3.0 (#3)"
+            },
+            {
+              "SHA": "178d225",
+              "Subject": "Use Go 1.27, k8s 1.37 & debian:13 (#2)"
+            },
+            {
+              "SHA": "7a1ce6e",
+              "Subject": "Add documentdb csi snapshotter plugin (#1)"
+            },
+            {
+              "SHA": "458b87f",
+              "Subject": "Add ci files and gitignore"
             }
           ]
         }

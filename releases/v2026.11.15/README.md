@@ -122,6 +122,17 @@
 
 
 
+## [kubedb/documentdb-csi-snapshotter-plugin](https://github.com/kubedb/documentdb-csi-snapshotter-plugin)
+
+### [v0.3.0](https://github.com/kubedb/documentdb-csi-snapshotter-plugin/releases/tag/v0.3.0)
+
+- [84daceb](https://github.com/kubedb/documentdb-csi-snapshotter-plugin/commit/84daceb) Prepare for release v0.3.0 (#3)
+- [178d225](https://github.com/kubedb/documentdb-csi-snapshotter-plugin/commit/178d225) Use Go 1.27, k8s 1.37 & debian:13 (#2)
+- [7a1ce6e](https://github.com/kubedb/documentdb-csi-snapshotter-plugin/commit/7a1ce6e) Add documentdb csi snapshotter plugin (#1)
+- [458b87f](https://github.com/kubedb/documentdb-csi-snapshotter-plugin/commit/458b87f) Add ci files and gitignore
+
+
+
 ## [kubedb/druid](https://github.com/kubedb/druid)
 
 ### [v0.24.0](https://github.com/kubedb/druid/releases/tag/v0.24.0)

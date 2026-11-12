@@ -112,6 +112,16 @@
 
 
 
+## [kubedb/elasticsearch](https://github.com/kubedb/elasticsearch)
+
+### [v0.69.0](https://github.com/kubedb/elasticsearch/releases/tag/v0.69.0)
+
+- [69737852](https://github.com/kubedb/elasticsearch/commit/697378523) Prepare for release v0.69.0 (#844)
+- [f690eb03](https://github.com/kubedb/elasticsearch/commit/f690eb039) Default security IDs from the OpenShift namespace in the operator (#843)
+- [fbfd719e](https://github.com/kubedb/elasticsearch/commit/fbfd719ea) Apply Elasticsearch reconfiguration without restart when possible (#841)
+
+
+
 ## [kubedb/elasticsearch-restic-plugin](https://github.com/kubedb/elasticsearch-restic-plugin)
 
 ### [v0.32.0](https://github.com/kubedb/elasticsearch-restic-plugin/releases/tag/v0.32.0)

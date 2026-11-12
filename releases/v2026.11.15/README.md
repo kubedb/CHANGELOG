@@ -83,6 +83,16 @@
 
 
 
+## [kubedb/mongodb](https://github.com/kubedb/mongodb)
+
+### [v0.62.0](https://github.com/kubedb/mongodb/releases/tag/v0.62.0)
+
+- [e0cfa3f0](https://github.com/kubedb/mongodb/commit/e0cfa3f04) Prepare for release v0.62.0 (#793)
+- [65aea857](https://github.com/kubedb/mongodb/commit/65aea8572) Default security IDs from the OpenShift namespace in the operator (#792)
+- [8dd3669c](https://github.com/kubedb/mongodb/commit/8dd3669cc) Apply document-valued setParameter entries as one parameter on Reconfigure (#791)
+
+
+
 ## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
 
 ### [v0.24.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.24.0)

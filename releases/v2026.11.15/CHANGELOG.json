@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:39:47.042644082Z",
+  "release_date": "2026-11-12T20:39:51.814047127Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -1084,6 +1084,15 @@
               "Subject": "Add documentdb baseBackup (#130)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/provider-aws",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": null
         }
       ]
     },

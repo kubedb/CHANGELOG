@@ -44,3 +44,12 @@
 
 
 
+## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
+
+### [v0.56.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.56.0)
+
+- [7657afe3](https://github.com/kubedb/percona-xtradb/commit/7657afe33) Prepare for release v0.56.0 (#481)
+- [2a83b5fc](https://github.com/kubedb/percona-xtradb/commit/2a83b5fc9) Default security IDs from the OpenShift namespace in the operator (#480)
+
+
+

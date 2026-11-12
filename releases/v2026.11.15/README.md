@@ -206,6 +206,15 @@
 
 
 
+## [kubedb/migrator](https://github.com/kubedb/migrator)
+
+### [v0.9.0](https://github.com/kubedb/migrator/releases/tag/v0.9.0)
+
+- [70540922](https://github.com/kubedb/migrator/commit/70540922) Prepare for release v0.9.0 (#58)
+- [2fbbdb62](https://github.com/kubedb/migrator/commit/2fbbdb62) Use Go 1.27, k8s 1.37 & debian:13 (#57)
+
+
+
 ## [kubedb/milvus](https://github.com/kubedb/milvus)
 
 ### [v0.10.0](https://github.com/kubedb/milvus/releases/tag/v0.10.0)

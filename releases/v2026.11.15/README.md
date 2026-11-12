@@ -349,6 +349,14 @@
 
 
 
+## [kubedb/redis-coordinator](https://github.com/kubedb/redis-coordinator)
+
+### [v0.48.0](https://github.com/kubedb/redis-coordinator/releases/tag/v0.48.0)
+
+- [bb9bfa60](https://github.com/kubedb/redis-coordinator/commit/bb9bfa60) Prepare for release v0.48.0 (#173)
+
+
+
 ## [kubedb/singlestore-coordinator](https://github.com/kubedb/singlestore-coordinator)
 
 ### [v0.24.0](https://github.com/kubedb/singlestore-coordinator/releases/tag/v0.24.0)

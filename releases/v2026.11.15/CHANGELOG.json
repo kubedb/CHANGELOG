@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:34:12.989308044Z",
+  "release_date": "2026-11-12T20:34:22.705367865Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -744,6 +744,20 @@
             {
               "SHA": "fdc22f84d",
               "Subject": "Default security IDs from the OpenShift namespace in the operator (#685)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis-coordinator",
+      "releases": [
+        {
+          "tag": "v0.48.0",
+          "commits": [
+            {
+              "SHA": "bb9bfa60",
+              "Subject": "Prepare for release v0.48.0 (#173)"
             }
           ]
         }

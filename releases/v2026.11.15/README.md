@@ -110,3 +110,11 @@
 
 
 
+## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
+
+### [v0.24.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.24.0)
+
+- [3b13c743](https://github.com/kubedb/rabbitmq/commit/3b13c743) Prepare for release v0.24.0 (#160)
+
+
+

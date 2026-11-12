@@ -404,6 +404,16 @@
 
 
 
+## [kubedb/pgpool](https://github.com/kubedb/pgpool)
+
+### [v0.24.0](https://github.com/kubedb/pgpool/releases/tag/v0.24.0)
+
+- [87428010](https://github.com/kubedb/pgpool/commit/87428010) Prepare for release v0.24.0 (#157)
+- [b5d8aab4](https://github.com/kubedb/pgpool/commit/b5d8aab4) Default security IDs from the OpenShift namespace in the operator (#156)
+- [d01086ed](https://github.com/kubedb/pgpool/commit/d01086ed) Mirror cross-namespace backend auth secret into Pgpool namespace (#155)
+
+
+
 ## [kubedb/postgres](https://github.com/kubedb/postgres)
 
 ### [v0.69.0](https://github.com/kubedb/postgres/releases/tag/v0.69.0)

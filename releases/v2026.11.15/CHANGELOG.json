@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:36:56.957976712Z",
+  "release_date": "2026-11-12T20:37:11.00745862Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -840,6 +840,28 @@
         {
           "tag": "v0.53.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgpool",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "87428010",
+              "Subject": "Prepare for release v0.24.0 (#157)"
+            },
+            {
+              "SHA": "b5d8aab4",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#156)"
+            },
+            {
+              "SHA": "d01086ed",
+              "Subject": "Mirror cross-namespace backend auth secret into Pgpool namespace (#155)"
+            }
+          ]
         }
       ]
     },

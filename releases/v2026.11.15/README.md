@@ -78,6 +78,15 @@
 
 
 
+## [kubedb/ignite](https://github.com/kubedb/ignite)
+
+### [v0.16.0](https://github.com/kubedb/ignite/releases/tag/v0.16.0)
+
+- [1f1b5b19](https://github.com/kubedb/ignite/commit/1f1b5b19) Prepare for release v0.16.0 (#81)
+- [6f153323](https://github.com/kubedb/ignite/commit/6f153323) Default security IDs from the OpenShift namespace in the operator (#80)
+
+
+
 ## [kubedb/mariadb](https://github.com/kubedb/mariadb)
 
 ### [v0.53.0](https://github.com/kubedb/mariadb/releases/tag/v0.53.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:31:12.311579949Z",
+  "release_date": "2026-11-12T20:31:22.216363556Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -183,6 +183,24 @@
             {
               "SHA": "6697127d",
               "Subject": "Prepare for release v0.9.0 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/ignite",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "1f1b5b19",
+              "Subject": "Prepare for release v0.16.0 (#81)"
+            },
+            {
+              "SHA": "6f153323",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#80)"
             }
           ]
         }

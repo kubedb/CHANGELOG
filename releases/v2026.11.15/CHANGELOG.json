@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:29:27.569666026Z",
+  "release_date": "2026-11-12T20:29:41.862826688Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -335,6 +335,24 @@
             {
               "SHA": "3b13c743",
               "Subject": "Prepare for release v0.24.0 (#160)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/redis",
+      "releases": [
+        {
+          "tag": "v0.62.0",
+          "commits": [
+            {
+              "SHA": "a8b092f4a",
+              "Subject": "Prepare for release v0.62.0 (#686)"
+            },
+            {
+              "SHA": "fdc22f84d",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#685)"
             }
           ]
         }

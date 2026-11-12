@@ -143,3 +143,12 @@
 
 
 
+## [kubedb/redis](https://github.com/kubedb/redis)
+
+### [v0.62.0](https://github.com/kubedb/redis/releases/tag/v0.62.0)
+
+- [a8b092f4](https://github.com/kubedb/redis/commit/a8b092f4a) Prepare for release v0.62.0 (#686)
+- [fdc22f84](https://github.com/kubedb/redis/commit/fdc22f84d) Default security IDs from the OpenShift namespace in the operator (#685)
+
+
+

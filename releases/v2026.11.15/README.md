@@ -322,6 +322,17 @@
 
 
 
+## [kubedb/milvus-archiver](https://github.com/kubedb/milvus-archiver)
+
+### [v0.3.0](https://github.com/kubedb/milvus-archiver/releases/tag/v0.3.0)
+
+- [ab07a1b](https://github.com/kubedb/milvus-archiver/commit/ab07a1b) Prepare for release v0.3.0 (#9)
+- [1229059](https://github.com/kubedb/milvus-archiver/commit/1229059) Trust customer object-storage CAs independently in Milvus backup workers (#8)
+- [d04e29b](https://github.com/kubedb/milvus-archiver/commit/d04e29b) archive: keep the WAL component Running while archiving (#5)
+- [6934abf](https://github.com/kubedb/milvus-archiver/commit/6934abf) Add storage-check to report a used object storage path (#7)
+
+
+
 ## [kubedb/mongodb](https://github.com/kubedb/mongodb)
 
 ### [v0.62.0](https://github.com/kubedb/mongodb/releases/tag/v0.62.0)

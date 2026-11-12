@@ -118,6 +118,18 @@
 
 
 
+## [kubedb/mysql](https://github.com/kubedb/mysql)
+
+### [v0.62.0](https://github.com/kubedb/mysql/releases/tag/v0.62.0)
+
+- [63743fc3](https://github.com/kubedb/mysql/commit/63743fc33) Prepare for release v0.62.0 (#789)
+- [2746998f](https://github.com/kubedb/mysql/commit/2746998fc) Default security IDs from the OpenShift namespace in the operator (#788)
+- [465cc44a](https://github.com/kubedb/mysql/commit/465cc44a5) add mysql auto reconfigure feature (#787)
+- [3ba4b7b6](https://github.com/kubedb/mysql/commit/3ba4b7b6a) Fix Enterprise Reconfig (#785)
+- [f12272b9](https://github.com/kubedb/mysql/commit/f12272b95) Add Archiver Restore Ops (#776)
+
+
+
 ## [kubedb/mysql-coordinator](https://github.com/kubedb/mysql-coordinator)
 
 ### [v0.47.0](https://github.com/kubedb/mysql-coordinator/releases/tag/v0.47.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:29:50.374536024Z",
+  "release_date": "2026-11-12T20:30:01.613197441Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -289,6 +289,36 @@
             {
               "SHA": "c847dd9b",
               "Subject": "Add branched mode for KubeDB Courier Branch (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mysql",
+      "releases": [
+        {
+          "tag": "v0.62.0",
+          "commits": [
+            {
+              "SHA": "63743fc33",
+              "Subject": "Prepare for release v0.62.0 (#789)"
+            },
+            {
+              "SHA": "2746998fc",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#788)"
+            },
+            {
+              "SHA": "465cc44a5",
+              "Subject": "add mysql auto reconfigure feature (#787)"
+            },
+            {
+              "SHA": "3ba4b7b6a",
+              "Subject": "Fix Enterprise Reconfig (#785)"
+            },
+            {
+              "SHA": "f12272b95",
+              "Subject": "Add Archiver Restore Ops (#776)"
             }
           ]
         }

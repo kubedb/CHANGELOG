@@ -247,3 +247,11 @@
 
 
 
+## [kubedb/weaviate](https://github.com/kubedb/weaviate)
+
+### [v0.10.0](https://github.com/kubedb/weaviate/releases/tag/v0.10.0)
+
+- [d7b47bad](https://github.com/kubedb/weaviate/commit/d7b47bad) Prepare for release v0.10.0 (#66)
+
+
+

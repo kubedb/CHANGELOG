@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:31:42.083419025Z",
+  "release_date": "2026-11-12T20:31:52.485984622Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -534,6 +534,20 @@
             {
               "SHA": "8937fd4a",
               "Subject": "Prepare for release v0.27.0 (#100)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/weaviate",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "d7b47bad",
+              "Subject": "Prepare for release v0.10.0 (#66)"
             }
           ]
         }

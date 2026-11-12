@@ -33,6 +33,15 @@
 
 
 
+## [kubedb/cassandra](https://github.com/kubedb/cassandra)
+
+### [v0.22.0](https://github.com/kubedb/cassandra/releases/tag/v0.22.0)
+
+- [acf93ea7](https://github.com/kubedb/cassandra/commit/acf93ea7) Prepare for release v0.22.0 (#112)
+- [112d65ce](https://github.com/kubedb/cassandra/commit/112d65ce) Default security IDs from the OpenShift namespace in the operator (#111)
+
+
+
 ## [kubedb/cassandra-medusa-plugin](https://github.com/kubedb/cassandra-medusa-plugin)
 
 ### [v0.16.0](https://github.com/kubedb/cassandra-medusa-plugin/releases/tag/v0.16.0)

@@ -820,6 +820,15 @@
 
 
 
+## [kubedb/webhook-server](https://github.com/kubedb/webhook-server)
+
+### [v0.45.0](https://github.com/kubedb/webhook-server/releases/tag/v0.45.0)
+
+- [98434ca4](https://github.com/kubedb/webhook-server/commit/98434ca48) Prepare for release v0.45.0 (#250)
+- [c77a27f0](https://github.com/kubedb/webhook-server/commit/c77a27f03) Register the Etcd webhook (#249)
+
+
+
 ## [kubedb/xtrabackup-restic-plugin](https://github.com/kubedb/xtrabackup-restic-plugin)
 
 ### [v0.17.0](https://github.com/kubedb/xtrabackup-restic-plugin/releases/tag/v0.17.0)

@@ -59,6 +59,16 @@
 
 
 
+## [kubedb/clickhouse](https://github.com/kubedb/clickhouse)
+
+### [v0.24.0](https://github.com/kubedb/clickhouse/releases/tag/v0.24.0)
+
+- [2a903f01](https://github.com/kubedb/clickhouse/commit/2a903f01) Prepare for release v0.24.0 (#144)
+- [c45846db](https://github.com/kubedb/clickhouse/commit/c45846db) Disaster Recovery For Shard Replica (#138)
+- [c36c65c8](https://github.com/kubedb/clickhouse/commit/c36c65c8) Stop leaking primary Service nodePorts into governing Service (#142)
+
+
+
 ## [kubedb/crd-manager](https://github.com/kubedb/crd-manager)
 
 ### [v0.24.0](https://github.com/kubedb/crd-manager/releases/tag/v0.24.0)

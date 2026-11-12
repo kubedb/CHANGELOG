@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:39:15.032778366Z",
+  "release_date": "2026-11-12T20:39:27.247229154Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -143,6 +143,28 @@
             {
               "SHA": "2fea7014f",
               "Subject": "Merge pull request #844 from kubedb/dc-dr-failover-group"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/clickhouse",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "2a903f01",
+              "Subject": "Prepare for release v0.24.0 (#144)"
+            },
+            {
+              "SHA": "c45846db",
+              "Subject": "Disaster Recovery For Shard Replica (#138)"
+            },
+            {
+              "SHA": "c36c65c8",
+              "Subject": "Stop leaking primary Service nodePorts into governing Service (#142)"
             }
           ]
         }

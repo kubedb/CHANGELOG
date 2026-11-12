@@ -427,6 +427,15 @@
 
 
 
+## [kubedb/postgres-restic-plugin](https://github.com/kubedb/postgres-restic-plugin)
+
+### [v0.32.0](https://github.com/kubedb/postgres-restic-plugin/releases/tag/v0.32.0)
+
+- [9d84047a](https://github.com/kubedb/postgres-restic-plugin/commit/9d84047a) Prepare for release v0.32.0 (#136)
+- [5e485b7b](https://github.com/kubedb/postgres-restic-plugin/commit/5e485b7b) Add documentdb baseBackup (#130)
+
+
+
 ## [kubedb/qdrant](https://github.com/kubedb/qdrant)
 
 ### [v0.10.0](https://github.com/kubedb/qdrant/releases/tag/v0.10.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:36:49.443413371Z",
+  "release_date": "2026-11-12T20:36:56.957976712Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -894,6 +894,24 @@
             {
               "SHA": "d163d666",
               "Subject": "Add documentdb PITR (#124)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/postgres-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "9d84047a",
+              "Subject": "Prepare for release v0.32.0 (#136)"
+            },
+            {
+              "SHA": "5e485b7b",
+              "Subject": "Add documentdb baseBackup (#130)"
             }
           ]
         }

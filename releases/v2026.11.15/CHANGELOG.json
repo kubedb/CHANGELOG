@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T17:50:27.685417065Z",
+  "release_date": "2026-11-12T17:51:29.26386184Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -93,6 +93,32 @@
             {
               "SHA": "c39f6de1",
               "Subject": "Prepare for release v0.24.0 (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/db-client-go",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "dc07eaf4",
+              "Subject": "Prepare for release v0.24.0 (#275)"
+            },
+            {
+              "SHA": "ef134e34",
+              "Subject": "postgres: bound GetPostgresXormClient's SELECT 1 by the caller context; close engine on failure (#269)"
+            },
+            {
+              "SHA": "af39558a",
+              "Subject": "etcd: start clients on round_robin to stop canceled-dial warnings (#272)"
+            },
+            {
+              "SHA": "a39d2ab9",
+              "Subject": "etcd: dial learners anonymously, bound per-member Status probes (#267)"
             }
           ]
         }

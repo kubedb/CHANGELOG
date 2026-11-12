@@ -427,6 +427,16 @@
 
 
 
+## [kubedb/oracle](https://github.com/kubedb/oracle)
+
+### [v0.15.0](https://github.com/kubedb/oracle/releases/tag/v0.15.0)
+
+- [654503e5](https://github.com/kubedb/oracle/commit/654503e5) Prepare for release v0.15.0 (#93)
+- [80a72951](https://github.com/kubedb/oracle/commit/80a72951) Default security IDs from the OpenShift namespace in the operator (#91)
+- [b11e2250](https://github.com/kubedb/oracle/commit/b11e2250) Add minio (#87)
+
+
+
 ## [kubedb/oracle-backup-plugin](https://github.com/kubedb/oracle-backup-plugin)
 
 ### [v0.3.0](https://github.com/kubedb/oracle-backup-plugin/releases/tag/v0.3.0)

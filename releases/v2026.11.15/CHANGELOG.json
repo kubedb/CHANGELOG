@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:35:35.357402901Z",
+  "release_date": "2026-11-12T20:35:45.802577817Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -229,6 +229,20 @@
             {
               "SHA": "414c272b",
               "Subject": "Default security IDs from the OpenShift namespace in the operator (#160)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/elasticsearch-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "77a200ff",
+              "Subject": "Prepare for release v0.32.0 (#113)"
             }
           ]
         }

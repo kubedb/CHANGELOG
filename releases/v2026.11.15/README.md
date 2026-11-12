@@ -567,6 +567,15 @@
 
 
 
+## [kubedb/qdrant-restic-plugin](https://github.com/kubedb/qdrant-restic-plugin)
+
+### [v0.5.0](https://github.com/kubedb/qdrant-restic-plugin/releases/tag/v0.5.0)
+
+- [8d1ccbf](https://github.com/kubedb/qdrant-restic-plugin/commit/8d1ccbf) Prepare for release v0.5.0 (#16)
+- [a392d41](https://github.com/kubedb/qdrant-restic-plugin/commit/a392d41) Fix Total Size Issue in Backup Stats (#15)
+
+
+
 ## [kubedb/rabbitmq](https://github.com/kubedb/rabbitmq)
 
 ### [v0.24.0](https://github.com/kubedb/rabbitmq/releases/tag/v0.24.0)

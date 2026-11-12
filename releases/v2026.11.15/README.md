@@ -556,6 +556,15 @@
 
 
 
+## [kubedb/pgbouncer](https://github.com/kubedb/pgbouncer)
+
+### [v0.56.0](https://github.com/kubedb/pgbouncer/releases/tag/v0.56.0)
+
+- [21d5f4db](https://github.com/kubedb/pgbouncer/commit/21d5f4dbd) Prepare for release v0.56.0 (#436)
+- [5c619eb0](https://github.com/kubedb/pgbouncer/commit/5c619eb0b) Default security IDs from the OpenShift namespace in the operator (#435)
+
+
+
 ## [kubedb/pgpool](https://github.com/kubedb/pgpool)
 
 ### [v0.24.0](https://github.com/kubedb/pgpool/releases/tag/v0.24.0)

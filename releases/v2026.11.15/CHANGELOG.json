@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T21:08:30.728037693Z",
+  "release_date": "2026-11-12T21:09:17.85656447Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -1160,6 +1160,24 @@
         {
           "tag": "v0.53.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/pgbouncer",
+      "releases": [
+        {
+          "tag": "v0.56.0",
+          "commits": [
+            {
+              "SHA": "21d5f4dbd",
+              "Subject": "Prepare for release v0.56.0 (#436)"
+            },
+            {
+              "SHA": "5c619eb0b",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#435)"
+            }
+          ]
         }
       ]
     },

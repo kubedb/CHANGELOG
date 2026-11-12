@@ -96,6 +96,15 @@
 
 
 
+## [kubedb/db2](https://github.com/kubedb/db2)
+
+### [v0.10.0](https://github.com/kubedb/db2/releases/tag/v0.10.0)
+
+- [1a0c7022](https://github.com/kubedb/db2/commit/1a0c7022) Prepare for release v0.10.0 (#48)
+- [1f64e540](https://github.com/kubedb/db2/commit/1f64e540) Default security IDs from the OpenShift namespace in the operator (#47)
+
+
+
 ## [kubedb/db2-coordinator](https://github.com/kubedb/db2-coordinator)
 
 ### [v0.10.0](https://github.com/kubedb/db2-coordinator/releases/tag/v0.10.0)

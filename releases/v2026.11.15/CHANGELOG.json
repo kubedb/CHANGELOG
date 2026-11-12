@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:33:11.17401652Z",
+  "release_date": "2026-11-12T20:33:19.931500744Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -331,6 +331,20 @@
             {
               "SHA": "8dd3669cc",
               "Subject": "Apply document-valued setParameter entries as one parameter on Reconfigure (#791)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mongodb-restic-plugin",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "555bceeb",
+              "Subject": "Prepare for release v0.32.0 (#142)"
             }
           ]
         }

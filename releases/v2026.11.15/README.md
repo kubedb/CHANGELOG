@@ -216,6 +216,14 @@
 
 
 
+## [kubedb/mariadb-coordinator](https://github.com/kubedb/mariadb-coordinator)
+
+### [v0.49.0](https://github.com/kubedb/mariadb-coordinator/releases/tag/v0.49.0)
+
+- [a815cddf](https://github.com/kubedb/mariadb-coordinator/commit/a815cddf) Prepare for release v0.49.0 (#193)
+
+
+
 ## [kubedb/mariadb-restic-plugin](https://github.com/kubedb/mariadb-restic-plugin)
 
 ### [v0.27.0](https://github.com/kubedb/mariadb-restic-plugin/releases/tag/v0.27.0)

@@ -57,6 +57,16 @@
 
 
 
+## [kubedb/mssqlserver](https://github.com/kubedb/mssqlserver)
+
+### [v0.24.0](https://github.com/kubedb/mssqlserver/releases/tag/v0.24.0)
+
+- [2f8b8345](https://github.com/kubedb/mssqlserver/commit/2f8b8345) Prepare for release v0.24.0 (#166)
+- [1bc17f10](https://github.com/kubedb/mssqlserver/commit/1bc17f10) Default security IDs from the OpenShift namespace in the operator (#164)
+- [c847dd9b](https://github.com/kubedb/mssqlserver/commit/c847dd9b) Add branched mode for KubeDB Courier Branch (#148)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.56.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.56.0)

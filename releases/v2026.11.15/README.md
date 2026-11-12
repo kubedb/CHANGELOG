@@ -76,6 +76,16 @@
 
 
 
+## [kubedb/documentdb](https://github.com/kubedb/documentdb)
+
+### [v0.6.0](https://github.com/kubedb/documentdb/releases/tag/v0.6.0)
+
+- [574a85ed](https://github.com/kubedb/documentdb/commit/574a85ed) Prepare for release v0.6.0 (#56)
+- [fef315fc](https://github.com/kubedb/documentdb/commit/fef315fc) Add documentdb basebackup restore & PITR (#51)
+- [7878763d](https://github.com/kubedb/documentdb/commit/7878763d) Default security IDs from the OpenShift namespace in the operator (#55)
+
+
+
 ## [kubedb/documentdb-coordinator](https://github.com/kubedb/documentdb-coordinator)
 
 ### [v0.5.0](https://github.com/kubedb/documentdb-coordinator/releases/tag/v0.5.0)

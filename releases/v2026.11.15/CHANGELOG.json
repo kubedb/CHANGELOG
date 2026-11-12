@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-12T20:27:41.316292988Z",
+  "release_date": "2026-11-12T20:27:52.412253859Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -119,6 +119,40 @@
             {
               "SHA": "a39d2ab9",
               "Subject": "etcd: dial learners anonymously, bound per-member Status probes (#267)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/mariadb",
+      "releases": [
+        {
+          "tag": "v0.53.0",
+          "commits": [
+            {
+              "SHA": "144cdc9c5",
+              "Subject": "Prepare for release v0.53.0 (#439)"
+            },
+            {
+              "SHA": "9c9a6613b",
+              "Subject": "Default security IDs from the OpenShift namespace in the operator (#437)"
+            },
+            {
+              "SHA": "782d43848",
+              "Subject": "Allow skipping the primary service template for MaxScale or MariaDB (#438)"
+            },
+            {
+              "SHA": "d07615c7f",
+              "Subject": "add mariadb auto reconfigure feature (#436)"
+            },
+            {
+              "SHA": "b79ab6adf",
+              "Subject": "Default exporter resources in vertical scaling (#432)"
+            },
+            {
+              "SHA": "09048e77b",
+              "Subject": "Add the ArchiverRestore ops request and in-place restore path (#428)"
             }
           ]
         }

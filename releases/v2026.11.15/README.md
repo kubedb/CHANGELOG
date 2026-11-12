@@ -44,6 +44,19 @@
 
 
 
+## [kubedb/mariadb](https://github.com/kubedb/mariadb)
+
+### [v0.53.0](https://github.com/kubedb/mariadb/releases/tag/v0.53.0)
+
+- [144cdc9c](https://github.com/kubedb/mariadb/commit/144cdc9c5) Prepare for release v0.53.0 (#439)
+- [9c9a6613](https://github.com/kubedb/mariadb/commit/9c9a6613b) Default security IDs from the OpenShift namespace in the operator (#437)
+- [782d4384](https://github.com/kubedb/mariadb/commit/782d43848) Allow skipping the primary service template for MaxScale or MariaDB (#438)
+- [d07615c7](https://github.com/kubedb/mariadb/commit/d07615c7f) add mariadb auto reconfigure feature (#436)
+- [b79ab6ad](https://github.com/kubedb/mariadb/commit/b79ab6adf) Default exporter resources in vertical scaling (#432)
+- [09048e77](https://github.com/kubedb/mariadb/commit/09048e77b) Add the ArchiverRestore ops request and in-place restore path (#428)
+
+
+
 ## [kubedb/percona-xtradb](https://github.com/kubedb/percona-xtradb)
 
 ### [v0.56.0](https://github.com/kubedb/percona-xtradb/releases/tag/v0.56.0)

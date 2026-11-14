@@ -1,4 +1,4 @@
-# KubeDB v2026.11.15 (2026-11-12)
+# KubeDB v2026.11.15 (2026-11-14)
 
 
 ## [kubedb/aerospike](https://github.com/kubedb/aerospike)
@@ -257,6 +257,20 @@
 
 - [1f1b5b19](https://github.com/kubedb/ignite/commit/1f1b5b19) Prepare for release v0.16.0 (#81)
 - [6f153323](https://github.com/kubedb/ignite/commit/6f153323) Default security IDs from the OpenShift namespace in the operator (#80)
+
+
+
+## [kubedb/installer](https://github.com/kubedb/installer)
+
+### [v2026.11.15](https://github.com/kubedb/installer/releases/tag/v2026.11.15)
+
+- [c2c45cbc](https://github.com/kubedb/installer/commit/c2c45cbcc) Prepare for release v2026.11.15 (#2488)
+- [8fec90a9](https://github.com/kubedb/installer/commit/8fec90a9a) Coordinate Milvus object-storage TLS backup worker rollout (#2482)
+- [9d13743c](https://github.com/kubedb/installer/commit/9d13743c9) Etcd: set runAsAnyNonRoot to true in EtcdVersion catalog (#2487)
+- [96d57e4a](https://github.com/kubedb/installer/commit/96d57e4ac) Milvus: archiver addon and walg image for 2.6.15 and 3.0.0 (#2477)
+- [af59a6d5](https://github.com/kubedb/installer/commit/af59a6d51) Enable open-source databases in DBaaS licenses (#2485)
+- [ce31cc78](https://github.com/kubedb/installer/commit/ce31cc783) remove recoverToLatest flag (#2444)
+- [c5d472e7](https://github.com/kubedb/installer/commit/c5d472e7b) Update MySQL Init Docker (#2475)
 
 
 

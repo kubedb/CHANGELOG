@@ -1,7 +1,7 @@
 {
   "product_line": "KubeDB",
   "release": "v2026.11.15",
-  "release_date": "2026-11-14T04:45:56.501444475Z",
+  "release_date": "2026-11-14T05:30:37.899791169Z",
   "release_project_url": "https://github.com/kubedb/CHANGELOG",
   "docs_url": "https://kubedb.com/docs/v2026.11.15",
   "kubernetes_version": "1.28+",
@@ -305,6 +305,56 @@
             {
               "SHA": "4487d38",
               "Subject": "Prepare for release v0.10.0 (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/kubedb/docs",
+      "releases": [
+        {
+          "tag": "v2026.11.15",
+          "commits": [
+            {
+              "SHA": "15588b0e",
+              "Subject": "Prepare for release v2026.11.15 (#1094)"
+            },
+            {
+              "SHA": "a07cecd2",
+              "Subject": "Improve MySQL and MariaDB reconfiguration guides (#1090)"
+            },
+            {
+              "SHA": "28078dd9",
+              "Subject": "Add Branching Documentation (#1042)"
+            },
+            {
+              "SHA": "56416225",
+              "Subject": "Fix the Milvus guides after an end-to-end test (#1085)"
+            },
+            {
+              "SHA": "564494a6",
+              "Subject": "Add milvus full backup and archiver guides (#1068)"
+            },
+            {
+              "SHA": "bf492de1",
+              "Subject": "Document spec.objectStorage.tls for a Milvus object storage with a private CA (#1089)"
+            },
+            {
+              "SHA": "14797af6",
+              "Subject": "Document the Milvus object storage check (#1088)"
+            },
+            {
+              "SHA": "ccd981dc",
+              "Subject": "Document the in-place archiver restore, for both drivers (#1047)"
+            },
+            {
+              "SHA": "7a3410ad",
+              "Subject": "MySQL Topology Mode Change (#1036)"
+            },
+            {
+              "SHA": "2ae1ae2e",
+              "Subject": "Neo4j Docs Update (#1055)"
             }
           ]
         }

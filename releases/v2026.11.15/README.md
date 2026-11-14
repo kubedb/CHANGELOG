@@ -140,6 +140,23 @@
 
 
 
+## [kubedb/docs](https://github.com/kubedb/docs)
+
+### [v2026.11.15](https://github.com/kubedb/docs/releases/tag/v2026.11.15)
+
+- [15588b0e](https://github.com/kubedb/docs/commit/15588b0e) Prepare for release v2026.11.15 (#1094)
+- [a07cecd2](https://github.com/kubedb/docs/commit/a07cecd2) Improve MySQL and MariaDB reconfiguration guides (#1090)
+- [28078dd9](https://github.com/kubedb/docs/commit/28078dd9) Add Branching Documentation (#1042)
+- [56416225](https://github.com/kubedb/docs/commit/56416225) Fix the Milvus guides after an end-to-end test (#1085)
+- [564494a6](https://github.com/kubedb/docs/commit/564494a6) Add milvus full backup and archiver guides (#1068)
+- [bf492de1](https://github.com/kubedb/docs/commit/bf492de1) Document spec.objectStorage.tls for a Milvus object storage with a private CA (#1089)
+- [14797af6](https://github.com/kubedb/docs/commit/14797af6) Document the Milvus object storage check (#1088)
+- [ccd981dc](https://github.com/kubedb/docs/commit/ccd981dc) Document the in-place archiver restore, for both drivers (#1047)
+- [7a3410ad](https://github.com/kubedb/docs/commit/7a3410ad) MySQL Topology Mode Change (#1036)
+- [2ae1ae2e](https://github.com/kubedb/docs/commit/2ae1ae2e) Neo4j Docs Update (#1055)
+
+
+
 ## [kubedb/documentdb](https://github.com/kubedb/documentdb)
 
 ### [v0.6.0](https://github.com/kubedb/documentdb/releases/tag/v0.6.0)
